@@ -8,32 +8,60 @@ declare global {
   }
 }
 
+type MonetagZoneKind = 'data-zone' | 'query-zone';
+
 type MonetagZone = {
   id: string;
-  zone: string;
+  zone?: string;
   src: string;
+  kind: MonetagZoneKind;
 };
 
-const MONETAG_ZONES: MonetagZone[] = [
+/**
+ * Active Monetag formats:
+ * - In-Page Push
+ * - Push Notifications
+ *
+ * Disabled intentionally:
+ * - Multitag
+ * - Golden tag
+ *
+ * Reason:
+ * Multitag and Golden tag can trigger click/popunder behavior that is harder
+ * to control from the website code.
+ */
+const MONETAG_ZONES = [
   {
-    id: 'monetag-in-page-push-banner',
-    zone: process.env.NEXT_PUBLIC_MONETAG_IN_PAGE_ZONE || '',
-    src: process.env.NEXT_PUBLIC_MONETAG_IN_PAGE_SRC || '',
+    id: 'monetag-in-page-push',
+    zone: '10982926',
+    src: 'https://nap5k.com/tag.min.js',
+    kind: 'data-zone',
   },
   {
-    id: 'monetag-good-tag-onclick-popunder',
-    zone: process.env.NEXT_PUBLIC_MONETAG_POPUNDER_ZONE || '',
-    src: process.env.NEXT_PUBLIC_MONETAG_POPUNDER_SRC || '',
+    id: 'monetag-push-notifications',
+    src: 'https://5gvci.com/act/files/tag.min.js?z=10982931',
+    kind: 'query-zone',
   },
-  {
-    id: 'monetag-pungent-vignette',
-    zone: process.env.NEXT_PUBLIC_MONETAG_VIGNETTE_ZONE || '',
-    src: process.env.NEXT_PUBLIC_MONETAG_VIGNETTE_SRC || '',
-  },
-].filter((item) => item.zone && item.src);
+] satisfies MonetagZone[];
+
+function canAppendScript(item: MonetagZone): boolean {
+  if (!item.src) {
+    return false;
+  }
+
+  if (item.kind === 'data-zone' && !item.zone) {
+    return false;
+  }
+
+  if (document.getElementById(item.id)) {
+    return false;
+  }
+
+  return true;
+}
 
 function appendMonetagScript(item: MonetagZone): void {
-  if (document.getElementById(item.id)) {
+  if (!canAppendScript(item)) {
     return;
   }
 
@@ -41,9 +69,13 @@ function appendMonetagScript(item: MonetagZone): void {
 
   script.id = item.id;
   script.async = true;
-  script.dataset.zone = item.zone;
+  script.type = 'text/javascript';
   script.dataset.cfasync = 'false';
   script.src = item.src;
+
+  if (item.kind === 'data-zone' && item.zone) {
+    script.dataset.zone = item.zone;
+  }
 
   document.body.appendChild(script);
 }
@@ -51,10 +83,6 @@ function appendMonetagScript(item: MonetagZone): void {
 export function MonetagScripts() {
   useEffect(() => {
     if (typeof window === 'undefined') {
-      return;
-    }
-
-    if (MONETAG_ZONES.length === 0) {
       return;
     }
 

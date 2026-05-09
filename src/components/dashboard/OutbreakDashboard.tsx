@@ -23,6 +23,7 @@ import type {
   OutbreakPoint,
   OutbreakSource,
 } from '@/types/outbreak';
+import { OutbreakLiveCounter } from './OutbreakLiveCounter';
 
 const DarkOutbreakMap = dynamic<{ points: OutbreakPoint[] }>(
   () =>
@@ -167,7 +168,7 @@ export function OutbreakDashboard() {
           }}
         />
 
-        <section className="grid min-h-0 bg-[#000] lg:grid-rows-[auto_minmax(0,1fr)_320px]">
+        <section className="grid min-h-0 bg-[#000] lg:grid-rows-[auto_auto_minmax(0,1fr)_320px]">
           <header className="grid min-w-0 gap-3 border-b border-[#222] bg-[#0a0a0a] px-4 py-3 lg:grid-cols-[minmax(0,1fr)_auto] lg:items-center">
             <div className="min-w-0" dir={isRtl ? 'rtl' : 'ltr'}>
               <div className="flex items-center gap-2 text-[10px] font-bold uppercase tracking-widest text-gray-500">
@@ -205,9 +206,16 @@ export function OutbreakDashboard() {
             </div>
           </header>
 
-          <div className="h-[420px] min-h-0 border-b border-[#222] sm:h-[500px] lg:h-auto bg-[#000]">
-            <DarkOutbreakMap points={data.points} />
-          </div>
+        <OutbreakLiveCounter
+          global={data.global}
+          timeline={data.timeline}
+          dir={isRtl ? 'rtl' : 'ltr'}
+          isArabic={isRtl}
+        />
+
+        <div className="h-[420px] min-h-0 border-b border-[#222] sm:h-[500px] lg:h-auto bg-[#000]">
+          <DarkOutbreakMap points={data.points} />
+        </div>
 
           <div className="grid min-h-0 min-w-0 gap-px border-t border-[#222] bg-[#222] lg:grid-cols-[minmax(0,1fr)_300px]">
             <TimelineChart

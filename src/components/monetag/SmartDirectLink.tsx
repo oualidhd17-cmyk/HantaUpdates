@@ -2,46 +2,42 @@
 
 import { useEffect } from 'react';
 
-const DIRECT_LINK_URL = process.env.NEXT_PUBLIC_DIRECT_LINK_URL || '';
-const STORAGE_KEY = 'HantaUpdates_direct_link_last_clicked';
-const COOLDOWN_HOURS = Number(
-  process.env.NEXT_PUBLIC_DIRECT_LINK_COOLDOWN_HOURS || 24,
-);
+const DIRECT_LINK_URL = 'https://omg10.com/4/10982932';
+const SESSION_KEY = 'HantaUpdates_direct_link_opened_this_session';
 
-function getCooldownMilliseconds(): number {
-  const safeHours = Number.isFinite(COOLDOWN_HOURS) && COOLDOWN_HOURS > 0
-    ? COOLDOWN_HOURS
-    : 24;
-
-  return safeHours * 60 * 60 * 1000;
-}
-
-function shouldOpenDirectLink(): boolean {
+function wasDirectLinkOpenedThisSession(): boolean {
   try {
-    const lastClickedValue = window.localStorage.getItem(STORAGE_KEY);
-
-    if (!lastClickedValue) {
-      return true;
-    }
-
-    const lastClickedAt = Number(lastClickedValue);
-
-    if (!Number.isFinite(lastClickedAt)) {
-      return true;
-    }
-
-    return Date.now() - lastClickedAt >= getCooldownMilliseconds();
+    return window.sessionStorage.getItem(SESSION_KEY) === '1';
   } catch {
-    return false;
+    return true;
   }
 }
 
-function saveDirectLinkClick(): void {
+function markDirectLinkOpenedThisSession(): void {
   try {
-    window.localStorage.setItem(STORAGE_KEY, Date.now().toString());
+    window.sessionStorage.setItem(SESSION_KEY, '1');
   } catch {
     // Ignore storage errors.
   }
+}
+
+function isBlockedClickTarget(target: EventTarget | null): boolean {
+  if (!(target instanceof HTMLElement)) {
+    return false;
+  }
+
+  return Boolean(
+    target.closest(
+      [
+        'input',
+        'select',
+        'textarea',
+        'label',
+        'summary',
+        '[data-no-direct-link]',
+      ].join(','),
+    ),
+  );
 }
 
 export function SmartDirectLink() {
@@ -54,23 +50,38 @@ export function SmartDirectLink() {
       return;
     }
 
-    const handleClick = () => {
-      if (!shouldOpenDirectLink()) {
+    if (wasDirectLinkOpenedThisSession()) {
+      return;
+    }
+
+    const handleFirstUserClick = (event: MouseEvent | TouchEvent) => {
+      if (wasDirectLinkOpenedThisSession()) {
         return;
       }
 
-      const popup = window.open(DIRECT_LINK_URL, '_blank', 'noopener,noreferrer');
-
-      if (popup) {
-        saveDirectLinkClick();
-        document.removeEventListener('click', handleClick);
+      if (isBlockedClickTarget(event.target)) {
+        return;
       }
+
+      markDirectLinkOpenedThisSession();
+
+      window.open(DIRECT_LINK_URL, '_blank', 'noopener,noreferrer');
+
+      document.removeEventListener('click', handleFirstUserClick);
+      document.removeEventListener('touchstart', handleFirstUserClick);
     };
 
-    document.addEventListener('click', handleClick, { passive: true });
+    document.addEventListener('click', handleFirstUserClick, {
+      passive: true,
+    });
+
+    document.addEventListener('touchstart', handleFirstUserClick, {
+      passive: true,
+    });
 
     return () => {
-      document.removeEventListener('click', handleClick);
+      document.removeEventListener('click', handleFirstUserClick);
+      document.removeEventListener('touchstart', handleFirstUserClick);
     };
   }, []);
 

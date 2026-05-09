@@ -1,20 +1,14 @@
-import fs from 'node:fs';
-import path from 'node:path';
+import { notFound } from 'next/navigation';
 
-import type { Metadata } from 'next';
-
-import type { OutbreakCountry } from '@/types/outbreak';
 import { CountryPageClient } from './CountryPageClient';
-
-type CountryRouteParams = {
-  country: string;
-};
+import countries from '../../../../public/data/countries.json';
+import type { OutbreakCountry } from '@/types/outbreak';
 
 type CountryPageProps = {
-  params: Promise<CountryRouteParams>;
+  params: Promise<{
+    country: string;
+  }>;
 };
-
-export const dynamicParams = false;
 
 function slugifyCountry(value: string): string {
   return value
@@ -26,63 +20,43 @@ function slugifyCountry(value: string): string {
     .replace(/^-+|-+$/g, '');
 }
 
-function getCountriesFromPublicData(): OutbreakCountry[] {
-  try {
-    const filePath = path.join(
-      process.cwd(),
-      'public',
-      'data',
-      'countries.json',
-    );
-
-    const fileContent = fs.readFileSync(filePath, 'utf8');
-    const parsed = JSON.parse(fileContent);
-
-    if (!Array.isArray(parsed)) {
-      return [];
-    }
-
-    return parsed as OutbreakCountry[];
-  } catch {
-    return [];
-  }
+export function generateStaticParams() {
+  return (countries as OutbreakCountry[]).map((country) => ({
+    country: slugifyCountry(country.country),
+  }));
 }
 
-export function generateStaticParams(): CountryRouteParams[] {
-  const countries = getCountriesFromPublicData();
-
-  return countries
-    .filter((country) => country.country)
-    .map((country) => ({
-      country: slugifyCountry(country.country),
-    }));
-}
-
-export async function generateMetadata({
-  params,
-}: CountryPageProps): Promise<Metadata> {
+export async function generateMetadata({ params }: CountryPageProps) {
   const resolvedParams = await params;
-  const countries = getCountriesFromPublicData();
+  const countrySlug = resolvedParams.country;
 
-  const country = countries.find(
-    (item) => slugifyCountry(item.country) === resolvedParams.country,
+  const country = (countries as OutbreakCountry[]).find(
+    (item) => slugifyCountry(item.country) === countrySlug,
   );
 
-  const countryName = country?.country ?? 'Country';
+  if (!country) {
+    return {
+      title: 'Country not found | HantaUpdates',
+    };
+  }
 
   return {
-    title: `${countryName} Hantavirus Updates`,
-    description: `Country-level hantavirus outbreak summary for ${countryName}, based on public-health dashboard data.`,
-    alternates: {
-      canonical: `/hantavirus/${resolvedParams.country}`,
-    },
+    title: `${country.country} Hantavirus Updates | HantaUpdates`,
+    description: `Track public hantavirus outbreak data for ${country.country}, including confirmed cases, deaths, and risk level from official-source data.`,
   };
 }
 
-export default async function HantavirusCountryPage({
-  params,
-}: CountryPageProps) {
+export default async function CountryPage({ params }: CountryPageProps) {
   const resolvedParams = await params;
+  const countrySlug = resolvedParams.country;
 
-  return <CountryPageClient countrySlug={resolvedParams.country} />;
+  const country = (countries as OutbreakCountry[]).find(
+    (item) => slugifyCountry(item.country) === countrySlug,
+  );
+
+  if (!country) {
+    notFound();
+  }
+
+  return <CountryPageClient country={country} />;
 }

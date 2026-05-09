@@ -3,7 +3,7 @@ ROOT: C:\Users\Oualid Dahdi\Documents\HantaUpdates
 SOURCE: C:\Users\Oualid Dahdi\Documents\HantaUpdates\src
 EXTENSIONS: *.ts, *.html, *.scss, *.css, *.json, *.md, *
 EXCLUDE_SPECS: True
-FILES: 30
+FILES: 31
 ============================================================
 
 
@@ -173,8 +173,14 @@ FILE: C:\Users\Oualid Dahdi\Documents\HantaUpdates\src\app\globals.css
 @import "tailwindcss";
 
 :root {
-  --background: #000000;
-  --foreground: #ffffff;
+  --background: #f8fafc;
+  --foreground: #0f172a;
+  --surface: #ffffff;
+  --surface-soft: #f1f5f9;
+  --border: #e2e8f0;
+  --muted: #64748b;
+  --danger: #dc2626;
+  --success: #059669;
 }
 
 * {
@@ -185,9 +191,18 @@ html,
 body {
   min-height: 100%;
   margin: 0;
-  background: #000000;
-  color: #ffffff;
-  font-family: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  background: var(--background);
+  color: var(--foreground);
+  font-family:
+    ui-sans-serif,
+    system-ui,
+    -apple-system,
+    BlinkMacSystemFont,
+    "Segoe UI",
+    Roboto,
+    "Helvetica Neue",
+    Arial,
+    sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
@@ -217,33 +232,33 @@ a {
 .leaflet-container {
   width: 100%;
   height: 100%;
-  background: #000000 !important;
+  background: #0f172a !important;
   font-family: inherit;
   outline: none;
 }
 
 .leaflet-control-zoom {
   overflow: hidden;
-  border: 1px solid #333 !important;
-  border-radius: 6px !important;
-  background: #111 !important;
-  box-shadow: 0 4px 12px rgba(0,0,0,0.5) !important;
+  border: 1px solid rgba(15, 23, 42, 0.18) !important;
+  border-radius: 10px !important;
+  background: #ffffff !important;
+  box-shadow: 0 16px 40px rgba(15, 23, 42, 0.16) !important;
 }
 
 .leaflet-control-zoom a {
-  width: 32px !important;
-  height: 32px !important;
+  width: 34px !important;
+  height: 34px !important;
   border: 0 !important;
-  border-bottom: 1px solid #333 !important;
-  background: #111 !important;
-  color: #ccc !important;
+  border-bottom: 1px solid rgba(15, 23, 42, 0.1) !important;
+  background: #ffffff !important;
+  color: #0f172a !important;
   font-size: 18px !important;
-  line-height: 32px !important;
+  line-height: 34px !important;
 }
 
 .leaflet-control-zoom a:hover {
-  background: #222 !important;
-  color: #fff !important;
+  background: #f1f5f9 !important;
+  color: #dc2626 !important;
 }
 
 .leaflet-control-zoom a:last-child {
@@ -251,28 +266,28 @@ a {
 }
 
 .leaflet-control-attribution {
-  border: 1px solid #222 !important;
-  background: rgba(0, 0, 0, 0.8) !important;
-  color: #666 !important;
+  border: 1px solid rgba(15, 23, 42, 0.1) !important;
+  background: rgba(255, 255, 255, 0.92) !important;
+  color: #64748b !important;
   font-size: 10px !important;
-  border-radius: 4px 0 0 0 !important;
+  border-radius: 8px 0 0 0 !important;
 }
 
 .leaflet-control-attribution a {
-  color: #999 !important;
+  color: #334155 !important;
 }
 
 .leaflet-popup-content-wrapper {
-  background: #111 !important;
-  color: #fff !important;
-  border: 1px solid #333 !important;
-  border-radius: 8px !important;
-  box-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.7) !important;
+  background: #ffffff !important;
+  color: #0f172a !important;
+  border: 1px solid rgba(15, 23, 42, 0.12) !important;
+  border-radius: 14px !important;
+  box-shadow: 0 24px 70px rgba(15, 23, 42, 0.22) !important;
   padding: 0 !important;
 }
 
 .leaflet-popup-tip-container {
-  display: none !important; /* إخفاء السهم لمظهر أكثر نظافة */
+  display: none !important;
 }
 
 .leaflet-popup-content {
@@ -281,53 +296,40 @@ a {
 }
 
 select {
-  color-scheme: dark;
+  color-scheme: light;
 }
 
 option {
-  background: #111111;
-  color: #ffffff;
+  background: #ffffff;
+  color: #0f172a;
 }
 
 ::-webkit-scrollbar {
-  width: 6px;
-  height: 6px;
+  width: 8px;
+  height: 8px;
 }
 
 ::-webkit-scrollbar-track {
-  background: #000000;
+  background: #f8fafc;
 }
 
 ::-webkit-scrollbar-thumb {
-  background: #333333;
-  border-radius: 3px;
+  background: #cbd5e1;
+  border-radius: 999px;
 }
 
 ::-webkit-scrollbar-thumb:hover {
-  background: #555555;
+  background: #94a3b8;
 }
 
 * {
   scrollbar-width: thin;
-  scrollbar-color: #333333 #000000;
+  scrollbar-color: #cbd5e1 #f8fafc;
 }
 
 ::selection {
-  background: rgba(239, 68, 68, 0.35);
-  color: #ffffff;
-}
-
-@media (min-width: 1024px) {
-  body {
-    overflow-x: hidden;
-    overflow-y: auto;
-  }
-}
-
-@media (max-width: 1023px) {
-  .leaflet-control-attribution {
-    display: none !important;
-  }
+  background: rgba(220, 38, 38, 0.18);
+  color: #0f172a;
 }
 
 details summary::-webkit-details-marker {
@@ -336,6 +338,12 @@ details summary::-webkit-details-marker {
 
 details summary::marker {
   display: none;
+}
+
+@media (max-width: 1023px) {
+  .leaflet-control-attribution {
+    display: none !important;
+  }
 }
 
 @media (max-width: 640px) {
@@ -351,8 +359,14 @@ FILE: C:\Users\Oualid Dahdi\Documents\HantaUpdates\src\app\globals.css
 @import "tailwindcss";
 
 :root {
-  --background: #000000;
-  --foreground: #ffffff;
+  --background: #f8fafc;
+  --foreground: #0f172a;
+  --surface: #ffffff;
+  --surface-soft: #f1f5f9;
+  --border: #e2e8f0;
+  --muted: #64748b;
+  --danger: #dc2626;
+  --success: #059669;
 }
 
 * {
@@ -363,9 +377,18 @@ html,
 body {
   min-height: 100%;
   margin: 0;
-  background: #000000;
-  color: #ffffff;
-  font-family: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  background: var(--background);
+  color: var(--foreground);
+  font-family:
+    ui-sans-serif,
+    system-ui,
+    -apple-system,
+    BlinkMacSystemFont,
+    "Segoe UI",
+    Roboto,
+    "Helvetica Neue",
+    Arial,
+    sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
@@ -395,33 +418,33 @@ a {
 .leaflet-container {
   width: 100%;
   height: 100%;
-  background: #000000 !important;
+  background: #0f172a !important;
   font-family: inherit;
   outline: none;
 }
 
 .leaflet-control-zoom {
   overflow: hidden;
-  border: 1px solid #333 !important;
-  border-radius: 6px !important;
-  background: #111 !important;
-  box-shadow: 0 4px 12px rgba(0,0,0,0.5) !important;
+  border: 1px solid rgba(15, 23, 42, 0.18) !important;
+  border-radius: 10px !important;
+  background: #ffffff !important;
+  box-shadow: 0 16px 40px rgba(15, 23, 42, 0.16) !important;
 }
 
 .leaflet-control-zoom a {
-  width: 32px !important;
-  height: 32px !important;
+  width: 34px !important;
+  height: 34px !important;
   border: 0 !important;
-  border-bottom: 1px solid #333 !important;
-  background: #111 !important;
-  color: #ccc !important;
+  border-bottom: 1px solid rgba(15, 23, 42, 0.1) !important;
+  background: #ffffff !important;
+  color: #0f172a !important;
   font-size: 18px !important;
-  line-height: 32px !important;
+  line-height: 34px !important;
 }
 
 .leaflet-control-zoom a:hover {
-  background: #222 !important;
-  color: #fff !important;
+  background: #f1f5f9 !important;
+  color: #dc2626 !important;
 }
 
 .leaflet-control-zoom a:last-child {
@@ -429,28 +452,28 @@ a {
 }
 
 .leaflet-control-attribution {
-  border: 1px solid #222 !important;
-  background: rgba(0, 0, 0, 0.8) !important;
-  color: #666 !important;
+  border: 1px solid rgba(15, 23, 42, 0.1) !important;
+  background: rgba(255, 255, 255, 0.92) !important;
+  color: #64748b !important;
   font-size: 10px !important;
-  border-radius: 4px 0 0 0 !important;
+  border-radius: 8px 0 0 0 !important;
 }
 
 .leaflet-control-attribution a {
-  color: #999 !important;
+  color: #334155 !important;
 }
 
 .leaflet-popup-content-wrapper {
-  background: #111 !important;
-  color: #fff !important;
-  border: 1px solid #333 !important;
-  border-radius: 8px !important;
-  box-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.7) !important;
+  background: #ffffff !important;
+  color: #0f172a !important;
+  border: 1px solid rgba(15, 23, 42, 0.12) !important;
+  border-radius: 14px !important;
+  box-shadow: 0 24px 70px rgba(15, 23, 42, 0.22) !important;
   padding: 0 !important;
 }
 
 .leaflet-popup-tip-container {
-  display: none !important; /* إخفاء السهم لمظهر أكثر نظافة */
+  display: none !important;
 }
 
 .leaflet-popup-content {
@@ -459,53 +482,40 @@ a {
 }
 
 select {
-  color-scheme: dark;
+  color-scheme: light;
 }
 
 option {
-  background: #111111;
-  color: #ffffff;
+  background: #ffffff;
+  color: #0f172a;
 }
 
 ::-webkit-scrollbar {
-  width: 6px;
-  height: 6px;
+  width: 8px;
+  height: 8px;
 }
 
 ::-webkit-scrollbar-track {
-  background: #000000;
+  background: #f8fafc;
 }
 
 ::-webkit-scrollbar-thumb {
-  background: #333333;
-  border-radius: 3px;
+  background: #cbd5e1;
+  border-radius: 999px;
 }
 
 ::-webkit-scrollbar-thumb:hover {
-  background: #555555;
+  background: #94a3b8;
 }
 
 * {
   scrollbar-width: thin;
-  scrollbar-color: #333333 #000000;
+  scrollbar-color: #cbd5e1 #f8fafc;
 }
 
 ::selection {
-  background: rgba(239, 68, 68, 0.35);
-  color: #ffffff;
-}
-
-@media (min-width: 1024px) {
-  body {
-    overflow-x: hidden;
-    overflow-y: auto;
-  }
-}
-
-@media (max-width: 1023px) {
-  .leaflet-control-attribution {
-    display: none !important;
-  }
+  background: rgba(220, 38, 38, 0.18);
+  color: #0f172a;
 }
 
 details summary::-webkit-details-marker {
@@ -514,6 +524,198 @@ details summary::-webkit-details-marker {
 
 details summary::marker {
   display: none;
+}
+
+@media (max-width: 1023px) {
+  .leaflet-control-attribution {
+    display: none !important;
+  }
+}
+
+@media (max-width: 640px) {
+  details summary {
+    min-height: 48px;
+  }
+}
+
+============================================================
+FILE: C:\Users\Oualid Dahdi\Documents\HantaUpdates\src\app\hantavirus\[country]\CountryPageClient.tsx
+============================================================
+
+@import "tailwindcss";
+
+:root {
+  --background: #f8fafc;
+  --foreground: #0f172a;
+  --surface: #ffffff;
+  --surface-soft: #f1f5f9;
+  --border: #e2e8f0;
+  --muted: #64748b;
+  --danger: #dc2626;
+  --success: #059669;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  min-height: 100%;
+  margin: 0;
+  background: var(--background);
+  color: var(--foreground);
+  font-family:
+    ui-sans-serif,
+    system-ui,
+    -apple-system,
+    BlinkMacSystemFont,
+    "Segoe UI",
+    Roboto,
+    "Helvetica Neue",
+    Arial,
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+body {
+  overflow-x: hidden;
+  overflow-y: auto;
+}
+
+button,
+input,
+select,
+textarea {
+  font: inherit;
+}
+
+button,
+select {
+  cursor: pointer;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+.leaflet-container {
+  width: 100%;
+  height: 100%;
+  background: #0f172a !important;
+  font-family: inherit;
+  outline: none;
+}
+
+.leaflet-control-zoom {
+  overflow: hidden;
+  border: 1px solid rgba(15, 23, 42, 0.18) !important;
+  border-radius: 10px !important;
+  background: #ffffff !important;
+  box-shadow: 0 16px 40px rgba(15, 23, 42, 0.16) !important;
+}
+
+.leaflet-control-zoom a {
+  width: 34px !important;
+  height: 34px !important;
+  border: 0 !important;
+  border-bottom: 1px solid rgba(15, 23, 42, 0.1) !important;
+  background: #ffffff !important;
+  color: #0f172a !important;
+  font-size: 18px !important;
+  line-height: 34px !important;
+}
+
+.leaflet-control-zoom a:hover {
+  background: #f1f5f9 !important;
+  color: #dc2626 !important;
+}
+
+.leaflet-control-zoom a:last-child {
+  border-bottom: 0 !important;
+}
+
+.leaflet-control-attribution {
+  border: 1px solid rgba(15, 23, 42, 0.1) !important;
+  background: rgba(255, 255, 255, 0.92) !important;
+  color: #64748b !important;
+  font-size: 10px !important;
+  border-radius: 8px 0 0 0 !important;
+}
+
+.leaflet-control-attribution a {
+  color: #334155 !important;
+}
+
+.leaflet-popup-content-wrapper {
+  background: #ffffff !important;
+  color: #0f172a !important;
+  border: 1px solid rgba(15, 23, 42, 0.12) !important;
+  border-radius: 14px !important;
+  box-shadow: 0 24px 70px rgba(15, 23, 42, 0.22) !important;
+  padding: 0 !important;
+}
+
+.leaflet-popup-tip-container {
+  display: none !important;
+}
+
+.leaflet-popup-content {
+  margin: 16px !important;
+  font-family: inherit !important;
+}
+
+select {
+  color-scheme: light;
+}
+
+option {
+  background: #ffffff;
+  color: #0f172a;
+}
+
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: #f8fafc;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #cbd5e1;
+  border-radius: 999px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #94a3b8;
+}
+
+* {
+  scrollbar-width: thin;
+  scrollbar-color: #cbd5e1 #f8fafc;
+}
+
+::selection {
+  background: rgba(220, 38, 38, 0.18);
+  color: #0f172a;
+}
+
+details summary::-webkit-details-marker {
+  display: none;
+}
+
+details summary::marker {
+  display: none;
+}
+
+@media (max-width: 1023px) {
+  .leaflet-control-attribution {
+    display: none !important;
+  }
 }
 
 @media (max-width: 640px) {
@@ -529,8 +731,14 @@ FILE: C:\Users\Oualid Dahdi\Documents\HantaUpdates\src\app\hantavirus\[country]\
 @import "tailwindcss";
 
 :root {
-  --background: #000000;
-  --foreground: #ffffff;
+  --background: #f8fafc;
+  --foreground: #0f172a;
+  --surface: #ffffff;
+  --surface-soft: #f1f5f9;
+  --border: #e2e8f0;
+  --muted: #64748b;
+  --danger: #dc2626;
+  --success: #059669;
 }
 
 * {
@@ -541,9 +749,18 @@ html,
 body {
   min-height: 100%;
   margin: 0;
-  background: #000000;
-  color: #ffffff;
-  font-family: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  background: var(--background);
+  color: var(--foreground);
+  font-family:
+    ui-sans-serif,
+    system-ui,
+    -apple-system,
+    BlinkMacSystemFont,
+    "Segoe UI",
+    Roboto,
+    "Helvetica Neue",
+    Arial,
+    sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
@@ -573,33 +790,33 @@ a {
 .leaflet-container {
   width: 100%;
   height: 100%;
-  background: #000000 !important;
+  background: #0f172a !important;
   font-family: inherit;
   outline: none;
 }
 
 .leaflet-control-zoom {
   overflow: hidden;
-  border: 1px solid #333 !important;
-  border-radius: 6px !important;
-  background: #111 !important;
-  box-shadow: 0 4px 12px rgba(0,0,0,0.5) !important;
+  border: 1px solid rgba(15, 23, 42, 0.18) !important;
+  border-radius: 10px !important;
+  background: #ffffff !important;
+  box-shadow: 0 16px 40px rgba(15, 23, 42, 0.16) !important;
 }
 
 .leaflet-control-zoom a {
-  width: 32px !important;
-  height: 32px !important;
+  width: 34px !important;
+  height: 34px !important;
   border: 0 !important;
-  border-bottom: 1px solid #333 !important;
-  background: #111 !important;
-  color: #ccc !important;
+  border-bottom: 1px solid rgba(15, 23, 42, 0.1) !important;
+  background: #ffffff !important;
+  color: #0f172a !important;
   font-size: 18px !important;
-  line-height: 32px !important;
+  line-height: 34px !important;
 }
 
 .leaflet-control-zoom a:hover {
-  background: #222 !important;
-  color: #fff !important;
+  background: #f1f5f9 !important;
+  color: #dc2626 !important;
 }
 
 .leaflet-control-zoom a:last-child {
@@ -607,28 +824,28 @@ a {
 }
 
 .leaflet-control-attribution {
-  border: 1px solid #222 !important;
-  background: rgba(0, 0, 0, 0.8) !important;
-  color: #666 !important;
+  border: 1px solid rgba(15, 23, 42, 0.1) !important;
+  background: rgba(255, 255, 255, 0.92) !important;
+  color: #64748b !important;
   font-size: 10px !important;
-  border-radius: 4px 0 0 0 !important;
+  border-radius: 8px 0 0 0 !important;
 }
 
 .leaflet-control-attribution a {
-  color: #999 !important;
+  color: #334155 !important;
 }
 
 .leaflet-popup-content-wrapper {
-  background: #111 !important;
-  color: #fff !important;
-  border: 1px solid #333 !important;
-  border-radius: 8px !important;
-  box-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.7) !important;
+  background: #ffffff !important;
+  color: #0f172a !important;
+  border: 1px solid rgba(15, 23, 42, 0.12) !important;
+  border-radius: 14px !important;
+  box-shadow: 0 24px 70px rgba(15, 23, 42, 0.22) !important;
   padding: 0 !important;
 }
 
 .leaflet-popup-tip-container {
-  display: none !important; /* إخفاء السهم لمظهر أكثر نظافة */
+  display: none !important;
 }
 
 .leaflet-popup-content {
@@ -637,53 +854,40 @@ a {
 }
 
 select {
-  color-scheme: dark;
+  color-scheme: light;
 }
 
 option {
-  background: #111111;
-  color: #ffffff;
+  background: #ffffff;
+  color: #0f172a;
 }
 
 ::-webkit-scrollbar {
-  width: 6px;
-  height: 6px;
+  width: 8px;
+  height: 8px;
 }
 
 ::-webkit-scrollbar-track {
-  background: #000000;
+  background: #f8fafc;
 }
 
 ::-webkit-scrollbar-thumb {
-  background: #333333;
-  border-radius: 3px;
+  background: #cbd5e1;
+  border-radius: 999px;
 }
 
 ::-webkit-scrollbar-thumb:hover {
-  background: #555555;
+  background: #94a3b8;
 }
 
 * {
   scrollbar-width: thin;
-  scrollbar-color: #333333 #000000;
+  scrollbar-color: #cbd5e1 #f8fafc;
 }
 
 ::selection {
-  background: rgba(239, 68, 68, 0.35);
-  color: #ffffff;
-}
-
-@media (min-width: 1024px) {
-  body {
-    overflow-x: hidden;
-    overflow-y: auto;
-  }
-}
-
-@media (max-width: 1023px) {
-  .leaflet-control-attribution {
-    display: none !important;
-  }
+  background: rgba(220, 38, 38, 0.18);
+  color: #0f172a;
 }
 
 details summary::-webkit-details-marker {
@@ -692,6 +896,12 @@ details summary::-webkit-details-marker {
 
 details summary::marker {
   display: none;
+}
+
+@media (max-width: 1023px) {
+  .leaflet-control-attribution {
+    display: none !important;
+  }
 }
 
 @media (max-width: 640px) {
@@ -1920,32 +2130,98 @@ declare global {
   }
 }
 
+type MonetagZoneKind = 'data-zone' | 'query-zone';
+
 type MonetagZone = {
   id: string;
-  zone: string;
+  zone?: string;
   src: string;
+  kind: MonetagZoneKind;
+  loadOncePerSession: boolean;
 };
 
-const MONETAG_ZONES: MonetagZone[] = [
+const SESSION_PREFIX = 'HantaUpdates_monetag_loaded_';
+
+const MONETAG_ZONES = [
   {
-    id: 'monetag-in-page-push-banner',
-    zone: process.env.NEXT_PUBLIC_MONETAG_IN_PAGE_ZONE || '',
-    src: process.env.NEXT_PUBLIC_MONETAG_IN_PAGE_SRC || '',
+    id: 'monetag-multitag',
+    zone: process.env.NEXT_PUBLIC_MONETAG_MULTITAG_ZONE || '237589',
+    src:
+      process.env.NEXT_PUBLIC_MONETAG_MULTITAG_SRC ||
+      'https://quge5.com/88/tag.min.js',
+    kind: 'data-zone',
+    loadOncePerSession: true,
   },
   {
-    id: 'monetag-good-tag-onclick-popunder',
-    zone: process.env.NEXT_PUBLIC_MONETAG_POPUNDER_ZONE || '',
-    src: process.env.NEXT_PUBLIC_MONETAG_POPUNDER_SRC || '',
+    id: 'monetag-golden-tag',
+    zone: process.env.NEXT_PUBLIC_MONETAG_GOLDEN_ZONE || '10982925',
+    src:
+      process.env.NEXT_PUBLIC_MONETAG_GOLDEN_SRC ||
+      'https://al5sm.com/tag.min.js',
+    kind: 'data-zone',
+    loadOncePerSession: true,
   },
   {
-    id: 'monetag-pungent-vignette',
-    zone: process.env.NEXT_PUBLIC_MONETAG_VIGNETTE_ZONE || '',
-    src: process.env.NEXT_PUBLIC_MONETAG_VIGNETTE_SRC || '',
+    id: 'monetag-in-page-push',
+    zone: process.env.NEXT_PUBLIC_MONETAG_IN_PAGE_ZONE || '10982926',
+    src:
+      process.env.NEXT_PUBLIC_MONETAG_IN_PAGE_SRC ||
+      'https://nap5k.com/tag.min.js',
+    kind: 'data-zone',
+    loadOncePerSession: false,
   },
-].filter((item) => item.zone && item.src);
+  {
+    id: 'monetag-push-notifications',
+    src:
+      process.env.NEXT_PUBLIC_MONETAG_PUSH_NOTIFICATIONS_SRC ||
+      'https://5gvci.com/act/files/tag.min.js?z=10982931',
+    kind: 'query-zone',
+    loadOncePerSession: false,
+  },
+] satisfies MonetagZone[];
+
+function getSessionKey(id: string): string {
+  return `${SESSION_PREFIX}${id}`;
+}
+
+function wasLoadedThisSession(id: string): boolean {
+  try {
+    return window.sessionStorage.getItem(getSessionKey(id)) === '1';
+  } catch {
+    return false;
+  }
+}
+
+function markLoadedThisSession(id: string): void {
+  try {
+    window.sessionStorage.setItem(getSessionKey(id), '1');
+  } catch {
+    // Ignore storage errors.
+  }
+}
+
+function canAppendScript(item: MonetagZone): boolean {
+  if (!item.src) {
+    return false;
+  }
+
+  if (item.kind === 'data-zone' && !item.zone) {
+    return false;
+  }
+
+  if (document.getElementById(item.id)) {
+    return false;
+  }
+
+  if (item.loadOncePerSession && wasLoadedThisSession(item.id)) {
+    return false;
+  }
+
+  return true;
+}
 
 function appendMonetagScript(item: MonetagZone): void {
-  if (document.getElementById(item.id)) {
+  if (!canAppendScript(item)) {
     return;
   }
 
@@ -1953,20 +2229,24 @@ function appendMonetagScript(item: MonetagZone): void {
 
   script.id = item.id;
   script.async = true;
-  script.dataset.zone = item.zone;
+  script.type = 'text/javascript';
   script.dataset.cfasync = 'false';
   script.src = item.src;
 
+  if (item.kind === 'data-zone' && item.zone) {
+    script.dataset.zone = item.zone;
+  }
+
   document.body.appendChild(script);
+
+  if (item.loadOncePerSession) {
+    markLoadedThisSession(item.id);
+  }
 }
 
 export function MonetagScripts() {
   useEffect(() => {
     if (typeof window === 'undefined') {
-      return;
-    }
-
-    if (MONETAG_ZONES.length === 0) {
       return;
     }
 
@@ -1992,43 +2272,22 @@ FILE: C:\Users\Oualid Dahdi\Documents\HantaUpdates\src\components\monetag\SmartD
 
 import { useEffect } from 'react';
 
-const DIRECT_LINK_URL = process.env.NEXT_PUBLIC_DIRECT_LINK_URL || '';
-const STORAGE_KEY = 'HantaUpdates_direct_link_last_clicked';
-const COOLDOWN_HOURS = Number(
-  process.env.NEXT_PUBLIC_DIRECT_LINK_COOLDOWN_HOURS || 24,
-);
+const DIRECT_LINK_URL =
+  process.env.NEXT_PUBLIC_DIRECT_LINK_URL || 'https://omg10.com/4/10982932';
 
-function getCooldownMilliseconds(): number {
-  const safeHours = Number.isFinite(COOLDOWN_HOURS) && COOLDOWN_HOURS > 0
-    ? COOLDOWN_HOURS
-    : 24;
+const SESSION_KEY = 'HantaUpdates_direct_link_opened_this_session';
 
-  return safeHours * 60 * 60 * 1000;
-}
-
-function shouldOpenDirectLink(): boolean {
+function wasDirectLinkOpenedThisSession(): boolean {
   try {
-    const lastClickedValue = window.localStorage.getItem(STORAGE_KEY);
-
-    if (!lastClickedValue) {
-      return true;
-    }
-
-    const lastClickedAt = Number(lastClickedValue);
-
-    if (!Number.isFinite(lastClickedAt)) {
-      return true;
-    }
-
-    return Date.now() - lastClickedAt >= getCooldownMilliseconds();
+    return window.sessionStorage.getItem(SESSION_KEY) === '1';
   } catch {
-    return false;
+    return true;
   }
 }
 
-function saveDirectLinkClick(): void {
+function markDirectLinkOpenedThisSession(): void {
   try {
-    window.localStorage.setItem(STORAGE_KEY, Date.now().toString());
+    window.sessionStorage.setItem(SESSION_KEY, '1');
   } catch {
     // Ignore storage errors.
   }
@@ -2044,23 +2303,36 @@ export function SmartDirectLink() {
       return;
     }
 
-    const handleClick = () => {
-      if (!shouldOpenDirectLink()) {
+    if (wasDirectLinkOpenedThisSession()) {
+      return;
+    }
+
+    const handleFirstUserClick = () => {
+      if (wasDirectLinkOpenedThisSession()) {
         return;
       }
 
-      const popup = window.open(DIRECT_LINK_URL, '_blank', 'noopener,noreferrer');
+      markDirectLinkOpenedThisSession();
 
-      if (popup) {
-        saveDirectLinkClick();
-        document.removeEventListener('click', handleClick);
-      }
+      window.open(DIRECT_LINK_URL, '_blank', 'noopener,noreferrer');
+
+      document.removeEventListener('click', handleFirstUserClick);
+      document.removeEventListener('touchstart', handleFirstUserClick);
     };
 
-    document.addEventListener('click', handleClick, { passive: true });
+    document.addEventListener('click', handleFirstUserClick, {
+      passive: true,
+      once: true,
+    });
+
+    document.addEventListener('touchstart', handleFirstUserClick, {
+      passive: true,
+      once: true,
+    });
 
     return () => {
-      document.removeEventListener('click', handleClick);
+      document.removeEventListener('click', handleFirstUserClick);
+      document.removeEventListener('touchstart', handleFirstUserClick);
     };
   }, []);
 

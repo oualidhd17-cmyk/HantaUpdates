@@ -8,8 +8,8 @@ import { ScrollControls } from '@/components/ui/ScrollControls';
 import 'leaflet/dist/leaflet.css';
 import './globals.css';
 
-const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL || 'https://hantaupdates.live';
-const GOOGLE_TAG_ID = process.env.NEXT_PUBLIC_GOOGLE_TAG_ID || '';
+const SITE_URL = 'https://hantaupdates.live';
+const GOOGLE_TAG_ID = 'G-LTLZ50X2S2';
 
 export const metadata: Metadata = {
   metadataBase: new URL(SITE_URL),
@@ -114,23 +114,19 @@ export default function RootLayout({
   return (
     <html lang="en" dir="ltr" suppressHydrationWarning>
       <body>
-        {GOOGLE_TAG_ID ? (
-          <>
-            <Script
-              src={`https://www.googletagmanager.com/gtag/js?id=${GOOGLE_TAG_ID}`}
-              strategy="afterInteractive"
-            />
+        <Script
+          src={`https://www.googletagmanager.com/gtag/js?id=${GOOGLE_TAG_ID}`}
+          strategy="afterInteractive"
+        />
 
-            <Script id="google-analytics-tag" strategy="afterInteractive">
-              {`
-                window.dataLayer = window.dataLayer || [];
-                function gtag(){window.dataLayer.push(arguments);}
-                gtag('js', new Date());
-                gtag('config', '${GOOGLE_TAG_ID}');
-              `}
-            </Script>
-          </>
-        ) : null}
+        <Script id="google-analytics-tag" strategy="afterInteractive">
+          {`
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){window.dataLayer.push(arguments);}
+            gtag('js', new Date());
+            gtag('config', '${GOOGLE_TAG_ID}');
+          `}
+        </Script>
 
         <MonetagScripts />
         <SmartDirectLink />
