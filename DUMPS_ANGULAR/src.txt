@@ -715,7 +715,7 @@ import 'leaflet/dist/leaflet.css';
 import './globals.css';
 
 const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL || 'https://hantaupdates.live';
-const GOOGLE_TAG_ID = 'G-LTLZ50X2S2';
+const GOOGLE_TAG_ID = process.env.NEXT_PUBLIC_GOOGLE_TAG_ID || '';
 
 export const metadata: Metadata = {
   metadataBase: new URL(SITE_URL),
@@ -778,11 +778,8 @@ export const metadata: Metadata = {
     description:
       'Track official hantavirus outbreak updates from public-health sources.',
   },
-  // ----- تم التحديث هنا لاستخدام PNG -----
   icons: {
-    icon: [
-      { url: '/favicon.png', type: 'image/png' }
-    ],
+    icon: [{ url: '/favicon.png', type: 'image/png' }],
     shortcut: '/favicon.png',
     apple: '/apple-touch-icon.png',
   },
@@ -823,19 +820,23 @@ export default function RootLayout({
   return (
     <html lang="en" dir="ltr" suppressHydrationWarning>
       <body>
-        <Script
-          src={`https://www.googletagmanager.com/gtag/js?id=${GOOGLE_TAG_ID}`}
-          strategy="afterInteractive"
-        />
+        {GOOGLE_TAG_ID ? (
+          <>
+            <Script
+              src={`https://www.googletagmanager.com/gtag/js?id=${GOOGLE_TAG_ID}`}
+              strategy="afterInteractive"
+            />
 
-        <Script id="google-analytics-tag" strategy="afterInteractive">
-          {`
-            window.dataLayer = window.dataLayer || [];
-            function gtag(){window.dataLayer.push(arguments);}
-            gtag('js', new Date());
-            gtag('config', '${GOOGLE_TAG_ID}');
-          `}
-        </Script>
+            <Script id="google-analytics-tag" strategy="afterInteractive">
+              {`
+                window.dataLayer = window.dataLayer || [];
+                function gtag(){window.dataLayer.push(arguments);}
+                gtag('js', new Date());
+                gtag('config', '${GOOGLE_TAG_ID}');
+              `}
+            </Script>
+          </>
+        ) : null}
 
         <MonetagScripts />
         <SmartDirectLink />
@@ -1040,10 +1041,11 @@ type AdSlotProps = {
   variant?: 'top' | 'sidebar' | 'side' | 'mobile' | 'inline';
 };
 
-const ADSENSE_CLIENT_ID = 'ca-pub-7200463371794521';
-
-const ADSENSE_DISPLAY_SLOT_ID = '6282664948';
-const ADSENSE_MULTIPLEX_SLOT_ID = '6995061524';
+const ADSENSE_CLIENT_ID = process.env.NEXT_PUBLIC_ADSENSE_CLIENT_ID || '';
+const ADSENSE_DISPLAY_SLOT_ID =
+  process.env.NEXT_PUBLIC_ADSENSE_DISPLAY_SLOT_ID || '';
+const ADSENSE_MULTIPLEX_SLOT_ID =
+  process.env.NEXT_PUBLIC_ADSENSE_MULTIPLEX_SLOT_ID || '';
 
 const MIN_AD_WIDTH = 120;
 
@@ -1091,11 +1093,7 @@ function getMinHeight(variant: AdSlotProps['variant']): number {
   return 90;
 }
 
-export function AdSlot({
-  id,
-  className,
-  variant = 'top',
-}: AdSlotProps) {
+export function AdSlot({ id, className, variant = 'top' }: AdSlotProps) {
   const wrapperRef = useRef<HTMLDivElement | null>(null);
   const adRef = useRef<HTMLModElement | null>(null);
   const pushedRef = useRef(false);
@@ -1110,6 +1108,10 @@ export function AdSlot({
 
   useEffect(() => {
     if (typeof window === 'undefined') {
+      return;
+    }
+
+    if (!ADSENSE_CLIENT_ID || !adSlot) {
       return;
     }
 
@@ -1182,6 +1184,10 @@ export function AdSlot({
     };
   }, [adSlot]);
 
+  if (!ADSENSE_CLIENT_ID || !adSlot) {
+    return null;
+  }
+
   return (
     <div
       ref={wrapperRef}
@@ -1193,8 +1199,7 @@ export function AdSlot({
         variant === 'sidebar' && 'w-full',
         variant === 'side' && 'w-full',
         variant === 'inline' && 'w-full',
-        variant === 'mobile' &&
-          'fixed inset-x-3 bottom-3 z-[9999] md:hidden',
+        variant === 'mobile' && 'fixed inset-x-3 bottom-3 z-[9999] md:hidden',
         className,
       )}
       style={{
@@ -1924,20 +1929,20 @@ type MonetagZone = {
 const MONETAG_ZONES: MonetagZone[] = [
   {
     id: 'monetag-in-page-push-banner',
-    zone: '10978397',
-    src: 'https://nap5k.com/tag.min.js',
+    zone: process.env.NEXT_PUBLIC_MONETAG_IN_PAGE_ZONE || '',
+    src: process.env.NEXT_PUBLIC_MONETAG_IN_PAGE_SRC || '',
   },
   {
     id: 'monetag-good-tag-onclick-popunder',
-    zone: '10978399',
-    src: 'https://al5sm.com/tag.min.js',
+    zone: process.env.NEXT_PUBLIC_MONETAG_POPUNDER_ZONE || '',
+    src: process.env.NEXT_PUBLIC_MONETAG_POPUNDER_SRC || '',
   },
   {
     id: 'monetag-pungent-vignette',
-    zone: '10978400',
-    src: 'https://n6wxm.com/vignette.min.js',
+    zone: process.env.NEXT_PUBLIC_MONETAG_VIGNETTE_ZONE || '',
+    src: process.env.NEXT_PUBLIC_MONETAG_VIGNETTE_SRC || '',
   },
-];
+].filter((item) => item.zone && item.src);
 
 function appendMonetagScript(item: MonetagZone): void {
   if (document.getElementById(item.id)) {
@@ -1957,6 +1962,14 @@ function appendMonetagScript(item: MonetagZone): void {
 
 export function MonetagScripts() {
   useEffect(() => {
+    if (typeof window === 'undefined') {
+      return;
+    }
+
+    if (MONETAG_ZONES.length === 0) {
+      return;
+    }
+
     if (window.__HantaUpdatesMonetagLoaded) {
       return;
     }
@@ -1975,60 +1988,82 @@ export function MonetagScripts() {
 FILE: C:\Users\Oualid Dahdi\Documents\HantaUpdates\src\components\monetag\SmartDirectLink.tsx
 ============================================================
 
-// FILE: src/components/monetag/SmartDirectLink.tsx
-
 'use client';
 
 import { useEffect } from 'react';
 
-const DIRECT_LINK_URL = 'https://omg10.com/4/10980928';
+const DIRECT_LINK_URL = process.env.NEXT_PUBLIC_DIRECT_LINK_URL || '';
 const STORAGE_KEY = 'HantaUpdates_direct_link_last_clicked';
-const COOLDOWN_HOURS = 24; // سيتم تفعيل الرابط مرة واحدة كل 24 ساعة لكل مستخدم
+const COOLDOWN_HOURS = Number(
+  process.env.NEXT_PUBLIC_DIRECT_LINK_COOLDOWN_HOURS || 24,
+);
+
+function getCooldownMilliseconds(): number {
+  const safeHours = Number.isFinite(COOLDOWN_HOURS) && COOLDOWN_HOURS > 0
+    ? COOLDOWN_HOURS
+    : 24;
+
+  return safeHours * 60 * 60 * 1000;
+}
+
+function shouldOpenDirectLink(): boolean {
+  try {
+    const lastClickedValue = window.localStorage.getItem(STORAGE_KEY);
+
+    if (!lastClickedValue) {
+      return true;
+    }
+
+    const lastClickedAt = Number(lastClickedValue);
+
+    if (!Number.isFinite(lastClickedAt)) {
+      return true;
+    }
+
+    return Date.now() - lastClickedAt >= getCooldownMilliseconds();
+  } catch {
+    return false;
+  }
+}
+
+function saveDirectLinkClick(): void {
+  try {
+    window.localStorage.setItem(STORAGE_KEY, Date.now().toString());
+  } catch {
+    // Ignore storage errors.
+  }
+}
 
 export function SmartDirectLink() {
   useEffect(() => {
-    // التأكد من أن الكود يعمل فقط في المتصفح (Client-side)
-    if (typeof window === 'undefined') return;
+    if (typeof window === 'undefined') {
+      return;
+    }
 
-    const handleClick = (e: MouseEvent) => {
-      try {
-        // التحقق من متى تم النقر آخر مرة
-        const lastClickedStr = localStorage.getItem(STORAGE_KEY);
+    if (!DIRECT_LINK_URL) {
+      return;
+    }
 
-        if (lastClickedStr) {
-          const lastClickedTime = parseInt(lastClickedStr, 10);
-          const now = Date.now();
-          const hoursSinceLastClick = (now - lastClickedTime) / (1000 * 60 * 60);
+    const handleClick = () => {
+      if (!shouldOpenDirectLink()) {
+        return;
+      }
 
-          // إذا لم تمر 24 ساعة، لا تفعل شيئاً وأوقف الحدث
-          if (hoursSinceLastClick < COOLDOWN_HOURS) {
-            return;
-          }
-        }
+      const popup = window.open(DIRECT_LINK_URL, '_blank', 'noopener,noreferrer');
 
-        // إذا وصل الكود إلى هنا، يعني أن المستخدم يضغط لأول مرة، أو مرت 24 ساعة
-        window.open(DIRECT_LINK_URL, '_blank');
-
-        // تسجيل وقت النقرة الحالية
-        localStorage.setItem(STORAGE_KEY, Date.now().toString());
-
-        // إزالة مستمع النقرات حتى لا يتم تنفيذ الكود مرة أخرى في نفس الجلسة
+      if (popup) {
+        saveDirectLinkClick();
         document.removeEventListener('click', handleClick);
-      } catch (error) {
-        console.error('Error handling direct link:', error);
       }
     };
 
-    // إضافة مستمع للنقرات على مستوى الصفحة بالكامل
-    document.addEventListener('click', handleClick);
+    document.addEventListener('click', handleClick, { passive: true });
 
-    // تنظيف المستمع عند الخروج من الصفحة
     return () => {
       document.removeEventListener('click', handleClick);
     };
   }, []);
 
-  // المكون لا يعرض أي واجهة رسومية
   return null;
 }
 
