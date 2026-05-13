@@ -1,23 +1,41 @@
 'use client';
 
-import Link from 'next/link';
 import { useEffect, useState } from 'react';
-import { useI18n } from '@/i18n/useI18n';
+
+import { SiteFooter } from '@/components/site/SiteFooter';
+import { SiteHeader } from '@/components/site/SiteHeader';
 import { loadSources } from '@/lib/data';
+import { formatDateTime } from '@/lib/format';
 import type { OutbreakSource } from '@/types/outbreak';
 
-const fallbackSources = [
-  'World Health Organization',
-  'Centers for Disease Control and Prevention',
-  'European Centre for Disease Prevention and Control',
-  'Africa Centres for Disease Control and Prevention',
-  'ReliefWeb',
+const fallbackSources: OutbreakSource[] = [
+  {
+    id: 'who',
+    name: 'World Health Organization',
+    url: 'https://www.who.int/',
+    type: 'official',
+    confidence: 'high',
+    last_checked_at: '',
+  },
+  {
+    id: 'cdc',
+    name: 'Centers for Disease Control and Prevention',
+    url: 'https://www.cdc.gov/',
+    type: 'official',
+    confidence: 'high',
+    last_checked_at: '',
+  },
+  {
+    id: 'ecdc',
+    name: 'European Centre for Disease Prevention and Control',
+    url: 'https://www.ecdc.europa.eu/',
+    type: 'health-agency',
+    confidence: 'high',
+    last_checked_at: '',
+  },
 ];
 
 export default function SourcesPage() {
-  const { t, locale } = useI18n();
-  const isArabic = locale === 'ar';
-
   const [sources, setSources] = useState<OutbreakSource[]>([]);
 
   useEffect(() => {
@@ -26,68 +44,66 @@ export default function SourcesPage() {
       .catch(() => setSources([]));
   }, []);
 
-  const visibleSources =
-    sources.length > 0
-      ? sources
-      : fallbackSources.map((name, index) => ({
-          id: String(index),
-          name,
-          url: '',
-          type: 'official' as const,
-          confidence: 'high' as const,
-          last_checked_at: '',
-        }));
+  const visibleSources = sources.length > 0 ? sources : fallbackSources;
 
   return (
-    <main dir={isArabic ? 'rtl' : 'ltr'} className="min-h-dvh bg-black px-4 py-8 text-white">
-      <div className="mx-auto max-w-5xl">
-        <Link href="/" className="text-sm text-white/45 hover:text-white">
-          ← {isArabic ? 'العودة إلى اللوحة' : 'Back to dashboard'}
-        </Link>
+    <>
+      <SiteHeader />
 
-        <section className="mt-8 border border-white/10 bg-[#050505] p-5 sm:p-7">
-          <p className="text-[11px] font-semibold uppercase tracking-[0.24em] text-emerald-300/75">
-            {t('trust.badge')}
-          </p>
+      <main className="min-h-dvh bg-slate-50 px-4 py-10 text-slate-950 sm:px-6 lg:px-8">
+        <div className="mx-auto max-w-4xl">
+          <section className="border border-slate-200 bg-white p-8">
+            <p className="text-xs font-bold uppercase tracking-[0.14em] text-blue-700">
+              Sources
+            </p>
 
-          <h1 className="mt-3 text-3xl font-semibold tracking-[-0.05em] sm:text-5xl">
-            {t('trust.sourcesTitle')}
-          </h1>
+            <h1 className="mt-4 text-4xl font-extrabold tracking-[-0.055em] sm:text-5xl">
+              Sources and references.
+            </h1>
 
-          <p className="mt-3 max-w-3xl text-sm leading-7 text-white/55">
-            {t('trust.sourcesDescription')}
-          </p>
-        </section>
+            <p className="mt-5 text-base leading-8 text-slate-600">
+              HantaUpdates prioritizes official health agencies, reputable
+              medical sources, and high-confidence public-health feeds.
+            </p>
+          </section>
 
-        <section className="mt-4 grid gap-3">
-          {visibleSources.map((source) => {
-            const content = (
-              <div className="grid gap-3 border border-white/10 bg-[#050505] p-4 transition hover:border-white/20 hover:bg-white/[0.035] sm:grid-cols-[minmax(0,1fr)_auto] sm:items-center">
-                <div>
-                  <h2 className="text-base font-semibold text-white">{source.name}</h2>
-                  <p className="mt-1 text-[11px] font-semibold uppercase tracking-[0.18em] text-white/35">
-                    {String(source.type).replace(/-/g, ' ')}
-                  </p>
+          <section className="mt-5 grid gap-3">
+            {visibleSources.map((source) => (
+              <a
+                key={source.id}
+                href={source.url || '#'}
+                target="_blank"
+                rel="noreferrer"
+                className="card card-hover block p-5"
+              >
+                <div className="flex flex-col gap-3 sm:flex-row sm:items-center sm:justify-between">
+                  <div>
+                    <h2 className="text-lg font-extrabold text-slate-950">
+                      {source.name}
+                    </h2>
+
+                    <p className="mt-1 text-xs font-bold uppercase tracking-[0.14em] text-slate-500">
+                      {source.type.replace(/-/g, ' ')} · {source.confidence} confidence
+                    </p>
+
+                    {source.last_checked_at ? (
+                      <p className="mt-2 text-xs text-slate-500">
+                        Last checked: {formatDateTime(source.last_checked_at)}
+                      </p>
+                    ) : null}
+                  </div>
+
+                  <span className="w-fit border border-teal-100 bg-teal-50 px-3 py-1 text-[10px] font-bold uppercase tracking-[0.14em] text-teal-700">
+                    {source.confidence}
+                  </span>
                 </div>
+              </a>
+            ))}
+          </section>
+        </div>
+      </main>
 
-                <span className="w-fit border border-emerald-400/25 bg-emerald-400/10 px-3 py-1 text-[10px] font-semibold uppercase tracking-[0.16em] text-emerald-200">
-                  {source.confidence}
-                </span>
-              </div>
-            );
-
-            if (source.url) {
-              return (
-                <a key={source.id} href={source.url} target="_blank" rel="noreferrer">
-                  {content}
-                </a>
-              );
-            }
-
-            return <div key={source.id}>{content}</div>;
-          })}
-        </section>
-      </div>
-    </main>
+      <SiteFooter />
+    </>
   );
 }

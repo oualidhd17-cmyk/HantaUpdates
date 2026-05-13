@@ -1,60 +1,45 @@
-'use client';
+import type { Metadata } from 'next';
 
-import Link from 'next/link';
-import { useI18n } from '@/i18n/useI18n';
+import { SiteFooter } from '@/components/site/SiteFooter';
+import { SiteHeader } from '@/components/site/SiteHeader';
+
+export const metadata: Metadata = {
+  title: 'About HantaUpdates',
+  description:
+    'Learn about HantaUpdates, a global health news and medical trends website.',
+};
 
 export default function AboutPage() {
-  const { t, locale } = useI18n();
-  const isArabic = locale === 'ar';
-
   return (
-    <main dir={isArabic ? 'rtl' : 'ltr'} className="min-h-dvh bg-black px-4 py-8 text-white">
-      <div className="mx-auto max-w-5xl">
-        <Link href="/" className="text-sm text-white/45 hover:text-white">
-          ← {isArabic ? 'العودة إلى اللوحة' : 'Back to dashboard'}
-        </Link>
+    <>
+      <SiteHeader />
 
-        <section className="mt-8 border border-white/10 bg-[#050505] p-5 sm:p-7">
-          <p className="text-[11px] font-semibold uppercase tracking-[0.24em] text-emerald-300/75">
-            HantaUpdates
+      <main className="min-h-dvh bg-slate-50 px-4 py-10 text-slate-950 sm:px-6 lg:px-8">
+        <article className="mx-auto max-w-3xl border border-slate-200 bg-white p-8">
+          <p className="text-xs font-bold uppercase tracking-[0.14em] text-blue-700">
+            About
           </p>
 
-          <h1 className="mt-3 max-w-3xl text-3xl font-semibold tracking-[-0.05em] sm:text-5xl">
-            {t('trust.title')}
+          <h1 className="mt-4 text-4xl font-extrabold tracking-[-0.055em] sm:text-5xl">
+            Global health updates without panic.
           </h1>
 
-          <p className="mt-5 max-w-4xl text-base leading-8 text-white/62">
-            {t('trust.description')}
+          <p className="mt-6 text-base leading-8 text-slate-600">
+            HantaUpdates is a global health news and trend-monitoring website.
+            It follows medical stories, public-health alerts, outbreaks,
+            wellness topics, and healthcare technology trends from different
+            regions around the world.
           </p>
-        </section>
 
-        <section className="mt-4 grid gap-4 md:grid-cols-2">
-          <div className="border border-white/10 bg-[#050505] p-5">
-            <h2 className="text-lg font-semibold text-white">
-              {isArabic ? 'ما الذي تعرضه المنصة؟' : 'What does it show?'}
-            </h2>
+          <p className="mt-4 text-base leading-8 text-slate-600">
+            The goal is to present health information in a calm, useful, and
+            source-aware style. We avoid panic-driven headlines and always link
+            readers back to original sources when available.
+          </p>
+        </article>
+      </main>
 
-            <ul className="mt-4 space-y-3 text-sm leading-7 text-white/58">
-              <li>{isArabic ? 'خريطة تفاعلية للحالات.' : 'Interactive outbreak map.'}</li>
-              <li>{isArabic ? 'الخط الزمني للتحديثات.' : 'Timeline of updates.'}</li>
-              <li>{isArabic ? 'مصادر صحية رسمية وموثوقة.' : 'Official and trusted health sources.'}</li>
-              <li>{isArabic ? 'حالات مؤكدة وغير مؤكدة عند توفرها.' : 'Confirmed and unconfirmed signals when available.'}</li>
-            </ul>
-          </div>
-
-          <div className="border border-white/10 bg-[#050505] p-5">
-            <h2 className="text-lg font-semibold text-white">
-              {isArabic ? 'ما الهدف؟' : 'What is the goal?'}
-            </h2>
-
-            <p className="mt-4 text-sm leading-7 text-white/58">
-              {isArabic
-                ? 'الهدف هو عرض المعلومات العامة من المصادر الصحية الرسمية بطريقة واضحة وهادئة، بدون تهويل أو ادعاءات طبية.'
-                : 'The goal is to present public information from official health sources in a clear, calm way, without panic-driven language or medical claims.'}
-            </p>
-          </div>
-        </section>
-      </div>
-    </main>
+      <SiteFooter />
+    </>
   );
 }

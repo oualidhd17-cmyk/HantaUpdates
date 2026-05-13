@@ -52,10 +52,6 @@ export async function loadOfficialEvents(): Promise<OutbreakOfficialEvent[]> {
   return fetchOptionalJson<OutbreakOfficialEvent[]>('/data/official_events.json', []);
 }
 
-export async function loadHistoricalContext(): Promise<unknown> {
-  return fetchOptionalJson<unknown>('/data/historical_context.json', {});
-}
-
 export async function loadFetchLog(): Promise<OutbreakFetchLogItem[]> {
   return fetchOptionalJson<OutbreakFetchLogItem[]>('/data/fetch_log.json', []);
 }

@@ -1,53 +1,31 @@
 import type { Metadata, Viewport } from 'next';
 import Script from 'next/script';
 
-import { MonetagScripts } from '@/components/monetag/MonetagScripts';
-import { SmartDirectLink } from '@/components/monetag/SmartDirectLink';
-import { ScrollControls } from '@/components/ui/ScrollControls';
+import { siteConfig, SITE_URL } from '@/lib/site';
 
-import 'leaflet/dist/leaflet.css';
 import './globals.css';
 
-const SITE_URL = 'https://hantaupdates.live';
-const GOOGLE_TAG_ID = 'G-LTLZ50X2S2';
+const GOOGLE_TAG_ID = process.env.NEXT_PUBLIC_GOOGLE_TAG_ID || 'G-KMFDS36ZPT';
 
 export const metadata: Metadata = {
   metadataBase: new URL(SITE_URL),
   title: {
-    default: 'Live Hantavirus Outbreak Tracker | Official Data Dashboard',
-    template: '%s | Live Hantavirus Outbreak Tracker',
+    default: siteConfig.title,
+    template: '%s | HantaUpdates',
   },
-  description:
-    'Track confirmed, suspected, and official hantavirus outbreak updates using public-health sources such as WHO, CDC, ECDC, Africa CDC, and ReliefWeb.',
-  keywords: [
-    'hantavirus tracker',
-    'hantavirus outbreak map',
-    'hantavirus cases',
-    'hantavirus dashboard',
-    'Andes virus',
-    'outbreak dashboard',
-    'WHO outbreak news',
-    'CDC hantavirus',
-    'ECDC hantavirus',
-    'public health dashboard',
-  ],
-  applicationName: 'HantaUpdates',
-  authors: [
-    {
-      name: 'HantaUpdates',
-      url: SITE_URL,
-    },
-  ],
-  creator: 'HantaUpdates',
-  publisher: 'HantaUpdates',
-  category: 'public health',
+  description: siteConfig.description,
+  keywords: siteConfig.keywords,
+  applicationName: siteConfig.name,
+  authors: [{ name: siteConfig.name, url: SITE_URL }],
+  creator: siteConfig.name,
+  publisher: siteConfig.name,
+  category: 'health news',
   alternates: {
     canonical: '/',
   },
   robots: {
     index: true,
     follow: true,
-    nocache: false,
     googleBot: {
       index: true,
       follow: true,
@@ -60,17 +38,15 @@ export const metadata: Metadata = {
   openGraph: {
     type: 'website',
     url: SITE_URL,
-    siteName: 'HantaUpdates',
-    title: 'Live Hantavirus Outbreak Tracker',
-    description:
-      'Official-source dashboard tracking confirmed and unconfirmed hantavirus outbreak signals.',
+    siteName: siteConfig.name,
+    title: siteConfig.title,
+    description: siteConfig.description,
     locale: 'en_US',
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Live Hantavirus Outbreak Tracker',
-    description:
-      'Track official hantavirus outbreak updates from public-health sources.',
+    title: siteConfig.title,
+    description: siteConfig.description,
   },
   icons: {
     icon: [{ url: '/favicon.png', type: 'image/png' }],
@@ -83,8 +59,8 @@ export const viewport: Viewport = {
   width: 'device-width',
   initialScale: 1,
   maximumScale: 5,
-  themeColor: '#000000',
-  colorScheme: 'dark',
+  themeColor: '#f8fafc',
+  colorScheme: 'light',
 };
 
 export default function RootLayout({
@@ -92,53 +68,47 @@ export default function RootLayout({
 }: Readonly<{
   children: React.ReactNode;
 }>) {
-  const jsonLd = {
+  const websiteJsonLd = {
     '@context': 'https://schema.org',
     '@type': 'WebSite',
-    name: 'HantaUpdates',
+    name: siteConfig.name,
     url: SITE_URL,
-    description:
-      'Official-source dashboard tracking confirmed and unconfirmed hantavirus outbreak signals.',
-    inLanguage: ['en', 'ar', 'fr', 'es'],
+    description: siteConfig.description,
+    inLanguage: ['en', 'ar', 'fr', 'es', 'de', 'ja', 'zh'],
     publisher: {
       '@type': 'Organization',
-      name: 'HantaUpdates',
+      name: siteConfig.name,
       url: SITE_URL,
-    },
-    about: {
-      '@type': 'Thing',
-      name: 'Hantavirus outbreak tracking',
     },
   };
 
   return (
-    <html lang="en" dir="ltr" suppressHydrationWarning>
+    <html lang="en" dir="ltr">
       <body>
-        <Script
-          src={`https://www.googletagmanager.com/gtag/js?id=${GOOGLE_TAG_ID}`}
-          strategy="afterInteractive"
-        />
+        {GOOGLE_TAG_ID ? (
+          <>
+            <Script
+              src={`https://www.googletagmanager.com/gtag/js?id=${GOOGLE_TAG_ID}`}
+              strategy="afterInteractive"
+            />
 
-        <Script id="google-analytics-tag" strategy="afterInteractive">
-          {`
-            window.dataLayer = window.dataLayer || [];
-            function gtag(){window.dataLayer.push(arguments);}
-            gtag('js', new Date());
-            gtag('config', '${GOOGLE_TAG_ID}');
-          `}
-        </Script>
-
-        <MonetagScripts />
-        <SmartDirectLink />
+            <Script id="google-analytics" strategy="afterInteractive">
+              {`
+                window.dataLayer = window.dataLayer || [];
+                function gtag(){window.dataLayer.push(arguments);}
+                gtag('js', new Date());
+                gtag('config', '${GOOGLE_TAG_ID}');
+              `}
+            </Script>
+          </>
+        ) : null}
 
         {children}
-
-        <ScrollControls />
 
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{
-            __html: JSON.stringify(jsonLd),
+            __html: JSON.stringify(websiteJsonLd),
           }}
         />
       </body>

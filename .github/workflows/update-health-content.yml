@@ -1,0 +1,74 @@
+name: Update health content
+
+on:
+  schedule:
+    # كل 6 ساعات
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-health-content
+  cancel-in-progress: false
+
+jobs:
+  update-content:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+          fetch-depth: 0
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install Python dependencies
+        run: |
+          python -m pip install --upgrade pip
+          if [ -f requirements.txt ]; then
+            pip install -r requirements.txt
+          else
+            pip install httpx
+          fi
+
+      - name: Ensure content directories exist
+        run: |
+          mkdir -p public/data
+          mkdir -p content/posts
+
+      - name: Update outbreak JSON data
+        run: |
+          if [ -f scripts/update_data.py ]; then
+            python scripts/update_data.py
+          else
+            echo "scripts/update_data.py not found, skipping outbreak data update."
+          fi
+
+      - name: Generate global health articles
+        run: |
+          if [ -f scripts/generate_health_articles.py ]; then
+            python scripts/generate_health_articles.py
+          else
+            echo "scripts/generate_health_articles.py not found, skipping article generation."
+          fi
+
+      - name: Commit updated content
+        run: |
+          git config user.name "health-content-bot"
+          git config user.email "health-content-bot@users.noreply.github.com"
+
+          git add public/data content/posts
+
+          if git diff --cached --quiet; then
+            echo "No health content changes to commit."
+          else
+            git commit -m "Update health content and articles"
+            git push
+          fi
