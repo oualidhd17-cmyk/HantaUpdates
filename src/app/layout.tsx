@@ -1,9 +1,8 @@
 import type { Metadata, Viewport } from 'next';
 import Script from 'next/script';
+import './globals.css';
 
 import { siteConfig, SITE_URL } from '@/lib/site';
-
-import './globals.css';
 
 const GOOGLE_TAG_ID = process.env.NEXT_PUBLIC_GOOGLE_TAG_ID || 'G-KMFDS36ZPT';
 
@@ -11,21 +10,39 @@ export const metadata: Metadata = {
   metadataBase: new URL(SITE_URL),
   title: {
     default: siteConfig.title,
-    template: '%s | HantaUpdates',
+    template: `%s | ${siteConfig.name}`,
   },
   description: siteConfig.description,
   keywords: siteConfig.keywords,
   applicationName: siteConfig.name,
-  authors: [{ name: siteConfig.name, url: SITE_URL }],
+  authors: [
+    {
+      name: siteConfig.name,
+      url: SITE_URL,
+    },
+  ],
   creator: siteConfig.name,
   publisher: siteConfig.name,
-  category: 'health news',
   alternates: {
     canonical: '/',
+  },
+  openGraph: {
+    type: 'website',
+    locale: 'en_US',
+    url: SITE_URL,
+    siteName: siteConfig.name,
+    title: siteConfig.title,
+    description: siteConfig.description,
+  },
+  twitter: {
+    card: 'summary_large_image',
+    title: siteConfig.title,
+    description: siteConfig.description,
   },
   robots: {
     index: true,
     follow: true,
+    nocache: false,
     googleBot: {
       index: true,
       follow: true,
@@ -34,24 +51,6 @@ export const metadata: Metadata = {
       'max-snippet': -1,
       'max-video-preview': -1,
     },
-  },
-  openGraph: {
-    type: 'website',
-    url: SITE_URL,
-    siteName: siteConfig.name,
-    title: siteConfig.title,
-    description: siteConfig.description,
-    locale: 'en_US',
-  },
-  twitter: {
-    card: 'summary_large_image',
-    title: siteConfig.title,
-    description: siteConfig.description,
-  },
-  icons: {
-    icon: [{ url: '/favicon.png', type: 'image/png' }],
-    shortcut: '/favicon.png',
-    apple: '/apple-touch-icon.png',
   },
 };
 
@@ -72,9 +71,15 @@ export default function RootLayout({
     '@context': 'https://schema.org',
     '@type': 'WebSite',
     name: siteConfig.name,
+    alternateName: siteConfig.shortName,
     url: SITE_URL,
     description: siteConfig.description,
     inLanguage: ['en', 'ar', 'fr', 'es', 'de', 'ja', 'zh'],
+    potentialAction: {
+      '@type': 'SearchAction',
+      target: `${SITE_URL}/news?q={search_term_string}`,
+      'query-input': 'required name=search_term_string',
+    },
     publisher: {
       '@type': 'Organization',
       name: siteConfig.name,
@@ -84,6 +89,12 @@ export default function RootLayout({
 
   return (
     <html lang="en" dir="ltr">
+      <head>
+        <Script id="website-json-ld" type="application/ld+json" strategy="beforeInteractive">
+          {JSON.stringify(websiteJsonLd)}
+        </Script>
+      </head>
+
       <body>
         {GOOGLE_TAG_ID ? (
           <>
@@ -103,14 +114,16 @@ export default function RootLayout({
           </>
         ) : null}
 
-        {children}
+        <Script id="monetag-in-page-push" strategy="afterInteractive">
+          {`
+            (function(s){
+              s.dataset.zone='10982926';
+              s.src='https://nap5k.com/tag.min.js';
+            })([document.documentElement, document.body].filter(Boolean).pop().appendChild(document.createElement('script')));
+          `}
+        </Script>
 
-        <script
-          type="application/ld+json"
-          dangerouslySetInnerHTML={{
-            __html: JSON.stringify(websiteJsonLd),
-          }}
-        />
+        {children}
       </body>
     </html>
   );
