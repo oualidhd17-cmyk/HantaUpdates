@@ -1,0 +1,68 @@
+---
+title: "Africa CDC Calls Urgent Regional Coordination Meeting Following Ebola Virus Disease Outbreak in Ituri..."
+description: "Africa CDC Calls Urgent Regional Coordination Meeting Following Ebola Virus Disease Outbreak in Ituri Province, DRC Africa CDC"
+slug: "africa-cdc-calls-urgent-regional-coordination-meeting-following-ebola-virus-disease-outbreak-in-e5dfc07ad6"
+category: "Outbreaks"
+region: "United States"
+source: "Google News / United States"
+source_url: "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOT3lwUW12Szd3S1J5QlY5SXpZUll6QUdXS3AzOG1XLW82TzhtcS1STFVxSGx4NGZNaFJsQ1RuTy1WbVNWdEhRQ0ZBcXBHUDB1TEJjN0hOTzhHeUQ4QkRVNnJMdmtVN0IyYTdiVnhjblV5Y1dfVV80NXBkTGxhT3RQeDhzb2ZWQkRTSXN0WmJ2UlRnSzI5Rmo0SVhrX0FOaGNNYjBJZndLMVdvZHNVTHd2NTJrb3V1WHdwNWhCMlNtT3RlenBPT2lCRW5lS3BTNHU1MkNhRmxyRnhMX3dOQTdmZ3lLak1Jdw?oc=5"
+source_confidence: "medium"
+published_at: "Fri, 15 May 2026 06:35:20 GMT"
+generated_at: "2026-05-15T10:02:41.551165+00:00"
+image_url: "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+trend: "outbreak"
+keywords:
+  - "outbreak"
+  - "outbreaks"
+  - "united states health news"
+  - "health trends"
+  - "medical news"
+  - "public health"
+  - "africa"
+  - "calls"
+  - "urgent"
+  - "regional"
+  - "coordination"
+  - "meeting"
+  - "following"
+  - "ebola"
+  - "virus"
+  - "disease"
+  - "ituri"
+---
+
+# Africa CDC Calls Urgent Regional Coordination Meeting Following Ebola Virus Disease Outbreak in Ituri...
+
+Africa CDC Calls Urgent Regional Coordination Meeting Following Ebola Virus Disease Outbreak in Ituri Province, DRC Africa CDC
+
+## Why this topic is trending
+
+This update was selected because it is connected to a detected health trend in **United States**.
+
+Tracked trend: **outbreak**.
+
+## What happened
+
+This update is part of a wider health signal being monitored from public sources and regional news feeds. It may relate to public health, medical research, symptoms, outbreaks, treatments, wellness, healthcare systems, or health technology.
+
+## Why it matters
+
+- It may affect public awareness or online health searches.
+- It may be connected to health policy, disease monitoring, treatment updates, or scientific research.
+- The original source should be reviewed for full details and context.
+
+## Region
+
+**United States**
+
+## Category
+
+**Outbreaks**
+
+## Source context
+
+This article summarizes a public health signal from **Google News / United States**. HantaUpdates links to the original source so readers can verify details directly.
+
+## Medical disclaimer
+
+HantaUpdates does not provide medical advice, diagnosis, or treatment. Always follow guidance from your local health authority or a qualified medical professional.
