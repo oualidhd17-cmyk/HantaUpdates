@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-13T13:17:37.962620+00:00",
+  "updated_at": "2026-06-13T19:03:39.376420+00:00",
   "total_trends": 252,
   "markets": {
     "United States": [
@@ -7,43 +7,43 @@
         "trend": "health",
         "market_code": "US",
         "category": "US Health",
-        "score": 69,
+        "score": 77,
         "examples": [
           "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF",
           "Cycling is a Disaster for Bone Health – Here’s How to Stop your Skeleton Turning to Chalk - Outside Magazine",
-          "Tracy, California Medline Warehouse Fire: Here are the public safety, health and employment impacts - ABC7 Bay Area"
+          "Novant Health Scotts Hill Medical Center hosts community day ahead of opening - WECT"
         ]
       },
       {
         "trend": "medical",
         "market_code": "US",
         "category": "US Health",
-        "score": 18,
+        "score": 21,
         "examples": [
-          "Medical Cure or Designer Baby? A New Approach to Editing Embryos Ignites Debate. - The New York Times",
-          "Hospitals prepare for medical supply shortages following Medline warehouse fire in Tracy - ABC30 Fresno",
-          "False active shooter report prompts major police response at Blackwell Medical Tower - WAFF"
+          "Novant Health Scotts Hill Medical Center hosts community day ahead of opening - WECT",
+          "Broward Health Names Cornelius Powell, M.D. New Chief Medical Officer of Broward Health North - Florida Hospital News and Healthcare Report",
+          "Novant Health Scotts Hill Medical Center hosts community day ahead of opening - WECT"
         ]
       },
       {
         "trend": "healthcare",
         "market_code": "US",
         "category": "US Health",
-        "score": 16,
+        "score": 17,
         "examples": [
-          "CMS creates office dedicated to health technology - Healthcare Dive",
-          "CMS creates office dedicated to health technology - Healthcare Dive",
-          "Exclusive | Nvidia Is Developing an AI Healthcare Model With Startup Abridge - WSJ"
+          "Broward Health Names Cornelius Powell, M.D. New Chief Medical Officer of Broward Health North - Florida Hospital News and Healthcare Report",
+          "Broward Health Names Cornelius Powell, M.D. New Chief Medical Officer of Broward Health North - Florida Hospital News and Healthcare Report",
+          "SAMHSA Announces $40 Million in Funding Opportunities to Prevent Addiction, and Address Child Trauma, Suicide, Mental Illness - Florida Hospital News and Healthcare Report"
         ]
       },
       {
         "trend": "mental",
         "market_code": "US",
         "category": "Mental Health",
-        "score": 13,
+        "score": 15,
         "examples": [
           "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF",
-          "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF",
+          "News4’s Tony Perkins joins Joe Clair for men’s mental health event - NBC4 Washington",
           "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF"
         ]
       },
@@ -51,10 +51,10 @@
         "trend": "mental health",
         "market_code": "US",
         "category": "Mental Health",
-        "score": 13,
+        "score": 14,
         "examples": [
           "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF",
-          "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF",
+          "News4’s Tony Perkins joins Joe Clair for men’s mental health event - NBC4 Washington",
           "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF"
         ]
       },
@@ -64,9 +64,20 @@
         "category": "Outbreaks",
         "score": 13,
         "examples": [
-          "Ebola Outbreak: What You Need to Know - Project HOPE",
-          "Israel Joins Kenya, Uganda, Rwanda, South Sudan and Democratic Republic of the Congo in a High-Stakes Ebola Travel Security Alert as Confirmed DRC and Uganda Outbreak Triggers New Airline Boarding Checks, Border Screening and Regional Health - Travel And Tour World",
-          "Hantavirus Outbreak On MV Hondius Cruise Exposes Hidden Agricultural Threat - Eurasia Review"
+          "Outbreak 2.0 brings public health careers to life - Homenewshere.com",
+          "Scientists Race to Test Treatments as Ebola Outbreak Widens - The New York Times",
+          "WHO director-general is profoundly concerned after visit to Ebola outbreak area - statnews.com"
+        ]
+      },
+      {
+        "trend": "hospital",
+        "market_code": "US",
+        "category": "US Health",
+        "score": 10,
+        "examples": [
+          "Broward Health Names Cornelius Powell, M.D. New Chief Medical Officer of Broward Health North - Florida Hospital News and Healthcare Report",
+          "Broward Health Names Cornelius Powell, M.D. New Chief Medical Officer of Broward Health North - Florida Hospital News and Healthcare Report",
+          "Brushing Your Teeth Could Help Prevent a Deadly Hospital Infection - ScienceAlert"
         ]
       },
       {
@@ -86,9 +97,31 @@
         "category": "Chronic Disease",
         "score": 10,
         "examples": [
+          "GLP-1 Drugs May Protect Against Cancer— Here’s What That Means For Public Health - Forbes",
           "Valley man shares warning during Men's Health & National Cancer Survivors Month - ABC15 Arizona",
-          "How Clinical Trials Help to Increase Cancer Survivorship in Quantity and Quality - CU Anschutz newsroom",
-          "Pancreatic cancer experts, patients applaud new KRAS inhibitor therapy - Fred Hutchinson Cancer Center"
+          "How Clinical Trials Help to Increase Cancer Survivorship in Quantity and Quality - CU Anschutz newsroom"
+        ]
+      },
+      {
+        "trend": "public health",
+        "market_code": "US",
+        "category": "US Health",
+        "score": 9,
+        "examples": [
+          "Five Laredo public health projects selected for national conference - Laredo Morning Times",
+          "Outbreak 2.0 brings public health careers to life - Homenewshere.com",
+          "Public Health Class of 2026 is Making an Impact - UC San Diego Today"
+        ]
+      },
+      {
+        "trend": "infection",
+        "market_code": "US",
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "Brushing Your Teeth Could Help Prevent a Deadly Hospital Infection - ScienceAlert",
+          "β-catenin-driven innate and metabolic reprograming in macrophages fuel T-cell-dependent inflammation in Toxoplasma gondii infection: implications for therapeutic intervention - Nature",
+          "CDC sleuthing helps decipher drug-resistant infection rise - Phys.org"
         ]
       },
       {
@@ -97,42 +130,9 @@
         "category": "Children Health",
         "score": 8,
         "examples": [
-          "Ebola Outbreak in DRC – Protect Families & Children in Crisis - Save the Children",
-          "Ebola Outbreak in DRC – Protect Families & Children in Crisis - Save the Children",
-          "Why grandparents matter more than ever for children's mental health - ScienceDaily"
-        ]
-      },
-      {
-        "trend": "public health",
-        "market_code": "US",
-        "category": "US Health",
-        "score": 7,
-        "examples": [
-          "Public Health Class of 2026 is Making an Impact - UC San Diego Today",
-          "Disaggregating Public Health Data by Race and Ethnicity to Improve Public Health - Race, Racism and the Law",
-          "Disaggregating Public Health Data by Race and Ethnicity to Improve Public Health - Race, Racism and the Law"
-        ]
-      },
-      {
-        "trend": "disease",
-        "market_code": "US",
-        "category": "US Health",
-        "score": 7,
-        "examples": [
-          "Ebola disease caused by Bundibugyo virus, Democratic Republic of the Congo & Uganda - World Health Organization (WHO)",
-          "Infectious disease threats test public health as World Cup kicks off - Axios",
-          "Health officials warn of bad tick and Lyme disease season - News and Sentinel"
-        ]
-      },
-      {
-        "trend": "ebola outbreak",
-        "market_code": "US",
-        "category": "Outbreaks",
-        "score": 7,
-        "examples": [
-          "Ebola Outbreak: What You Need to Know - Project HOPE",
-          "Ebola Outbreak: What You Need to Know - Project HOPE",
-          "Ebola outbreak in DR Congo expands into large displacement camp - CIDRAP"
+          "Advocates warn law could risk health of ill undocumented children - WBIR",
+          "Why grandparents matter more than ever for children's mental health - ScienceDaily",
+          "Newsweek names UC Davis Children’s Hospital among America’s best - University of California - Davis Health"
         ]
       }
     ],
@@ -141,33 +141,11 @@
         "trend": "health",
         "market_code": "GB",
         "category": "Europe Health",
-        "score": 54,
+        "score": 62,
         "examples": [
           "Why the penis is a barometer of men's health - and we need to wake up to its warnings - BBC",
-          "Travel insurance: don’t let a health condition derail your holiday plans - The Guardian",
-          "Inside Tramp Health, a Luxe New Wellness Sanctuary From One of the City’s Most Infamous Nightclubs - Robb Report"
-        ]
-      },
-      {
-        "trend": "medical",
-        "market_code": "GB",
-        "category": "Europe Health",
-        "score": 13,
-        "examples": [
-          "Medical Reports & Withdrawals Tour Auvergne-Rhône-Alpes 2026 stage 6 - van Aert abandons as Oscar Onley and Josh Tarling crash in eventful day - CyclingUpToDate.com",
-          "CMF calls for prayer and support after medical staff targeted in Northern Ireland riots - www.christiandaily.com",
-          "MHRA expands its AI sandbox model across medicines and medical devices - Fieldfisher"
-        ]
-      },
-      {
-        "trend": "healthcare",
-        "market_code": "GB",
-        "category": "Europe Health",
-        "score": 13,
-        "examples": [
-          "Industry calls for substantial reform to UK’s AI regulation in healthcare - Medical Device Network",
-          "The AI frenzy in healthcare - Karolinska Institutet",
-          "The Friday Debrief: Redefining Healthcare Horizons - | Asian Legal Business"
+          "Labour hands out £770m in benefits for ‘unknown’ health conditions - The Telegraph",
+          "Rod Stewart cancels third concert in weeks as health concerns grow - Metro.co.uk"
         ]
       },
       {
@@ -176,42 +154,31 @@
         "category": "Outbreaks",
         "score": 12,
         "examples": [
-          "Ebola Outbreak: What You Need to Know - Project HOPE",
           "Israel Joins Kenya, Uganda, Rwanda, South Sudan and Democratic Republic of the Congo in a High-Stakes Ebola Travel Security Alert as Confirmed DRC and Uganda Outbreak Triggers New Airline Boarding Checks, Border Screening and Regional Health - Travel And Tour World",
-          "Hantavirus Outbreak On MV Hondius Cruise Exposes Hidden Agricultural Threat - Eurasia Review"
+          "Hantavirus Outbreak On MV Hondius Cruise Exposes Hidden Agricultural Threat - Eurasia Review",
+          "What to Know About the Ebola Outbreak - The New York Times"
         ]
       },
       {
-        "trend": "virus",
-        "market_code": "GB",
-        "category": "Outbreaks",
-        "score": 10,
-        "examples": [
-          "Why women with HIV are still dying early, even when virus is not main cause - Medical Xpress",
-          "Ebola disease caused by Bundibugyo virus, Democratic Republic of the Congo & Uganda - World Health Organization (WHO)",
-          "Ebola disease caused by Bundibugyo virus, Democratic Republic of the Congo & Uganda - World Health Organization (WHO)"
-        ]
-      },
-      {
-        "trend": "mental",
-        "market_code": "GB",
-        "category": "Mental Health",
-        "score": 10,
-        "examples": [
-          "Parkrun founder shares how the events help his mental health - BBC",
-          "Rural mental health focus for pioneering police partnership - BASC",
-          "Hollyoaks star Malique Thompson-Dwyer shares candid post about his mental health - Digital Spy"
-        ]
-      },
-      {
-        "trend": "warning",
+        "trend": "medical",
         "market_code": "GB",
         "category": "Europe Health",
-        "score": 9,
+        "score": 10,
         "examples": [
-          "Why Ebola came back — and a warning for the next pandemic - Financial Times",
-          "'Do not eat' warning as chocolate bar recalled due to possible 'health risk' - Reading Chronicle",
-          "Flying with cannabis? TSA's new guidance comes with a major health warning - AOL.com"
+          "Academy president knighted in King’s Birthday Honours - The Academy of Medical Sciences",
+          "Medical Reports & Withdrawals Tour Auvergne-Rhône-Alpes 2026 stage 7 - Seixas crashes; Onley injured; Almeida, Nordhagen, Healy and Martínez leave the race; Visma block ill - CyclingUpToDate.com",
+          "CMF calls for prayer and support after medical staff targeted in Northern Ireland riots - www.christiandaily.com"
+        ]
+      },
+      {
+        "trend": "healthcare",
+        "market_code": "GB",
+        "category": "Europe Health",
+        "score": 10,
+        "examples": [
+          "Industry calls for substantial reform to UK’s AI regulation in healthcare - Medical Device Network",
+          "The AI frenzy in healthcare - Karolinska Institutet",
+          "The Friday Debrief: Redefining Healthcare Horizons - | Asian Legal Business"
         ]
       },
       {
@@ -226,32 +193,10 @@
         ]
       },
       {
-        "trend": "mental health",
-        "market_code": "GB",
-        "category": "Mental Health",
-        "score": 9,
-        "examples": [
-          "Parkrun founder shares how the events help his mental health - BBC",
-          "Rural mental health focus for pioneering police partnership - BASC",
-          "Hollyoaks star Malique Thompson-Dwyer shares candid post about his mental health - Digital Spy"
-        ]
-      },
-      {
-        "trend": "ebola outbreak",
-        "market_code": "GB",
-        "category": "Outbreaks",
-        "score": 8,
-        "examples": [
-          "Ebola Outbreak: What You Need to Know - Project HOPE",
-          "Ebola Outbreak in DRC – Protect Families & Children in Crisis - Save the Children",
-          "Ebola Outbreak: What You Need to Know - Project HOPE"
-        ]
-      },
-      {
         "trend": "disease",
         "market_code": "GB",
         "category": "Europe Health",
-        "score": 7,
+        "score": 8,
         "examples": [
           "Ebola disease caused by Bundibugyo virus, Democratic Republic of the Congo & Uganda - World Health Organization (WHO)",
           "Health officials warn of bad tick and Lyme disease season - News and Sentinel",
@@ -259,14 +204,69 @@
         ]
       },
       {
-        "trend": "wellness",
+        "trend": "warning",
         "market_code": "GB",
-        "category": "Diet & Wellness",
+        "category": "Europe Health",
+        "score": 8,
+        "examples": [
+          "Valley man shares warning during Men's Health & National Cancer Survivors Month - ABC15 Arizona",
+          "Valley man shares warning during Men's Health & National Cancer Survivors Month - Yahoo News Canada",
+          "Mixing alcohol with energy drinks: Are young adults at risk? The warning signs that you shouldn't ignore - theweek.in"
+        ]
+      },
+      {
+        "trend": "ebola outbreak",
+        "market_code": "GB",
+        "category": "Outbreaks",
+        "score": 7,
+        "examples": [
+          "What to Know About the Ebola Outbreak - The New York Times",
+          "Ebola Outbreak in DRC – Protect Families & Children in Crisis - Save the Children",
+          "WHO director-general is profoundly concerned after visit to Ebola outbreak area - statnews.com"
+        ]
+      },
+      {
+        "trend": "hospital",
+        "market_code": "GB",
+        "category": "Europe Health",
+        "score": 7,
+        "examples": [
+          "Brushing Your Teeth Could Help Prevent a Deadly Hospital Infection - ScienceAlert",
+          "Newsweek names UC Davis Children’s Hospital among America’s best - University of California - Davis Health",
+          "Nationwide Children’s Hospital incorporates reading literacy into routine visits - American Hospital Association"
+        ]
+      },
+      {
+        "trend": "virus",
+        "market_code": "GB",
+        "category": "Outbreaks",
         "score": 6,
         "examples": [
-          "Inside Tramp Health, a Luxe New Wellness Sanctuary From One of the City’s Most Infamous Nightclubs - Robb Report",
-          "From man boobs to baldness: everything you wanted to know about midlife wellness … but were too male to ask - The Guardian",
-          "Influencers and AI now guide more wellness choices than doctors - eMarketer"
+          "Ebola disease caused by Bundibugyo virus, Democratic Republic of the Congo & Uganda - World Health Organization (WHO)",
+          "Ebola disease caused by Bundibugyo virus, Democratic Republic of the Congo & Uganda - World Health Organization (WHO)",
+          "Ebola disease caused by Bundibugyo virus, Democratic Republic of the Congo & Uganda - World Health Organization (WHO)"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "GB",
+        "category": "Mental Health",
+        "score": 6,
+        "examples": [
+          "Mother of killer Valdo Calocane slams ‘broken’ mental health system - Warrington Guardian",
+          "Plans for new mental health therapy centre in Grade II listed church - Blackpool Gazette",
+          "Ariana Grande Launches Brighter Days Ahead Foundation to Fund LGBTQ+, Mental Health, and Crisis Support Groups - Yahoo News UK"
+        ]
+      },
+      {
+        "trend": "world health",
+        "market_code": "GB",
+        "category": "Europe Health",
+        "score": 5,
+        "examples": [
+          "Blood safety and availability - World Health Organization (WHO)",
+          "Ebola disease caused by Bundibugyo virus, Democratic Republic of the Congo & Uganda - World Health Organization (WHO)",
+          "Ebola disease caused by Bundibugyo virus, Democratic Republic of the Congo & Uganda - World Health Organization (WHO)"
         ]
       }
     ],
@@ -275,54 +275,43 @@
         "trend": "health",
         "market_code": "DE",
         "category": "Europe Health",
-        "score": 68,
+        "score": 75,
         "examples": [
           "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF",
           "Cycling is a Disaster for Bone Health – Here’s How to Stop your Skeleton Turning to Chalk - Outside Magazine",
-          "Tracy, California Medline Warehouse Fire: Here are the public safety, health and employment impacts - ABC7 Bay Area"
+          "Novant Health Scotts Hill Medical Center hosts community day ahead of opening - WECT"
         ]
       },
       {
         "trend": "medical",
         "market_code": "DE",
         "category": "Europe Health",
-        "score": 17,
+        "score": 23,
         "examples": [
-          "Medical Cure or Designer Baby? A New Approach to Editing Embryos Ignites Debate. - The New York Times",
-          "Hospitals prepare for medical supply shortages following Medline warehouse fire in Tracy - ABC30 Fresno",
-          "False active shooter report prompts major police response at Blackwell Medical Tower - WAFF"
+          "Novant Health Scotts Hill Medical Center hosts community day ahead of opening - WECT",
+          "Broward Health Names Cornelius Powell, M.D. New Chief Medical Officer of Broward Health North - Florida Hospital News and Healthcare Report",
+          "Novant Health Scotts Hill Medical Center hosts community day ahead of opening - WECT"
         ]
       },
       {
         "trend": "healthcare",
         "market_code": "DE",
         "category": "Europe Health",
-        "score": 16,
+        "score": 17,
         "examples": [
-          "CMS creates office dedicated to health technology - Healthcare Dive",
-          "CMS creates office dedicated to health technology - Healthcare Dive",
-          "Exclusive | Nvidia Is Developing an AI Healthcare Model With Startup Abridge - WSJ"
-        ]
-      },
-      {
-        "trend": "outbreak",
-        "market_code": "DE",
-        "category": "Outbreaks",
-        "score": 14,
-        "examples": [
-          "Ebola Outbreak: What You Need to Know - Project HOPE",
-          "Israel Joins Kenya, Uganda, Rwanda, South Sudan and Democratic Republic of the Congo in a High-Stakes Ebola Travel Security Alert as Confirmed DRC and Uganda Outbreak Triggers New Airline Boarding Checks, Border Screening and Regional Health - Travel And Tour World",
-          "Hantavirus Outbreak On MV Hondius Cruise Exposes Hidden Agricultural Threat - Eurasia Review"
+          "Broward Health Names Cornelius Powell, M.D. New Chief Medical Officer of Broward Health North - Florida Hospital News and Healthcare Report",
+          "Broward Health Names Cornelius Powell, M.D. New Chief Medical Officer of Broward Health North - Florida Hospital News and Healthcare Report",
+          "SAMHSA Announces $40 Million in Funding Opportunities to Prevent Addiction, and Address Child Trauma, Suicide, Mental Illness - Florida Hospital News and Healthcare Report"
         ]
       },
       {
         "trend": "mental",
         "market_code": "DE",
         "category": "Mental Health",
-        "score": 13,
+        "score": 15,
         "examples": [
           "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF",
-          "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF",
+          "News4’s Tony Perkins joins Joe Clair for men’s mental health event - NBC4 Washington",
           "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF"
         ]
       },
@@ -330,11 +319,33 @@
         "trend": "mental health",
         "market_code": "DE",
         "category": "Mental Health",
-        "score": 13,
+        "score": 14,
         "examples": [
           "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF",
-          "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF",
+          "News4’s Tony Perkins joins Joe Clair for men’s mental health event - NBC4 Washington",
           "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF"
+        ]
+      },
+      {
+        "trend": "outbreak",
+        "market_code": "DE",
+        "category": "Outbreaks",
+        "score": 13,
+        "examples": [
+          "Outbreak 2.0 brings public health careers to life - Homenewshere.com",
+          "Scientists Race to Test Treatments as Ebola Outbreak Widens - The New York Times",
+          "WHO director-general is profoundly concerned after visit to Ebola outbreak area - statnews.com"
+        ]
+      },
+      {
+        "trend": "hospital",
+        "market_code": "DE",
+        "category": "Europe Health",
+        "score": 10,
+        "examples": [
+          "Broward Health Names Cornelius Powell, M.D. New Chief Medical Officer of Broward Health North - Florida Hospital News and Healthcare Report",
+          "Broward Health Names Cornelius Powell, M.D. New Chief Medical Officer of Broward Health North - Florida Hospital News and Healthcare Report",
+          "Brushing Your Teeth Could Help Prevent a Deadly Hospital Infection - ScienceAlert"
         ]
       },
       {
@@ -343,9 +354,20 @@
         "category": "Chronic Disease",
         "score": 10,
         "examples": [
+          "GLP-1 Drugs May Protect Against Cancer— Here’s What That Means For Public Health - Forbes",
           "Valley man shares warning during Men's Health & National Cancer Survivors Month - ABC15 Arizona",
-          "How Clinical Trials Help to Increase Cancer Survivorship in Quantity and Quality - CU Anschutz newsroom",
-          "Pancreatic cancer experts, patients applaud new KRAS inhibitor therapy - Fred Hutchinson Cancer Center"
+          "How Clinical Trials Help to Increase Cancer Survivorship in Quantity and Quality - CU Anschutz newsroom"
+        ]
+      },
+      {
+        "trend": "public health",
+        "market_code": "DE",
+        "category": "Europe Health",
+        "score": 9,
+        "examples": [
+          "Five Laredo public health projects selected for national conference - Laredo Morning Times",
+          "Outbreak 2.0 brings public health careers to life - Homenewshere.com",
+          "Public Health Class of 2026 is Making an Impact - UC San Diego Today"
         ]
       },
       {
@@ -360,47 +382,25 @@
         ]
       },
       {
+        "trend": "infection",
+        "market_code": "DE",
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "Brushing Your Teeth Could Help Prevent a Deadly Hospital Infection - ScienceAlert",
+          "β-catenin-driven innate and metabolic reprograming in macrophages fuel T-cell-dependent inflammation in Toxoplasma gondii infection: implications for therapeutic intervention - Nature",
+          "CDC sleuthing helps decipher drug-resistant infection rise - Phys.org"
+        ]
+      },
+      {
         "trend": "children",
         "market_code": "DE",
         "category": "Children Health",
         "score": 8,
         "examples": [
-          "Ebola Outbreak in DRC – Protect Families & Children in Crisis - Save the Children",
-          "Ebola Outbreak in DRC – Protect Families & Children in Crisis - Save the Children",
-          "Why grandparents matter more than ever for children's mental health - ScienceDaily"
-        ]
-      },
-      {
-        "trend": "ebola outbreak",
-        "market_code": "DE",
-        "category": "Outbreaks",
-        "score": 7,
-        "examples": [
-          "Ebola Outbreak: What You Need to Know - Project HOPE",
-          "Ebola Outbreak: What You Need to Know - Project HOPE",
-          "Ebola outbreak in DR Congo expands into large displacement camp - CIDRAP"
-        ]
-      },
-      {
-        "trend": "warnings",
-        "market_code": "DE",
-        "category": "Europe Health",
-        "score": 6,
-        "examples": [
-          "Why the penis is a barometer of men's health - and we need to wake up to its warnings - BBC",
-          "Why the penis is a barometer of men's health - and we need to wake up to its warnings - BBC",
-          "San Joaquin Valley sees smoke spread from Tracy fire, air warnings issued - ABC10"
-        ]
-      },
-      {
-        "trend": "public health",
-        "market_code": "DE",
-        "category": "Europe Health",
-        "score": 6,
-        "examples": [
-          "Public Health Class of 2026 is Making an Impact - UC San Diego Today",
-          "Disaggregating Public Health Data by Race and Ethnicity to Improve Public Health - Race, Racism and the Law",
-          "Disaggregating Public Health Data by Race and Ethnicity to Improve Public Health - Race, Racism and the Law"
+          "Advocates warn law could risk health of ill undocumented children - WBIR",
+          "Why grandparents matter more than ever for children's mental health - ScienceDaily",
+          "Newsweek names UC Davis Children’s Hospital among America’s best - University of California - Davis Health"
         ]
       }
     ],
@@ -409,54 +409,43 @@
         "trend": "health",
         "market_code": "FR",
         "category": "Europe Health",
-        "score": 68,
+        "score": 75,
         "examples": [
           "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF",
           "Cycling is a Disaster for Bone Health – Here’s How to Stop your Skeleton Turning to Chalk - Outside Magazine",
-          "Tracy, California Medline Warehouse Fire: Here are the public safety, health and employment impacts - ABC7 Bay Area"
+          "Novant Health Scotts Hill Medical Center hosts community day ahead of opening - WECT"
         ]
       },
       {
         "trend": "medical",
         "market_code": "FR",
         "category": "Europe Health",
-        "score": 17,
+        "score": 23,
         "examples": [
-          "Medical Cure or Designer Baby? A New Approach to Editing Embryos Ignites Debate. - The New York Times",
-          "Hospitals prepare for medical supply shortages following Medline warehouse fire in Tracy - ABC30 Fresno",
-          "False active shooter report prompts major police response at Blackwell Medical Tower - WAFF"
+          "Novant Health Scotts Hill Medical Center hosts community day ahead of opening - WECT",
+          "Broward Health Names Cornelius Powell, M.D. New Chief Medical Officer of Broward Health North - Florida Hospital News and Healthcare Report",
+          "Novant Health Scotts Hill Medical Center hosts community day ahead of opening - WECT"
         ]
       },
       {
         "trend": "healthcare",
         "market_code": "FR",
         "category": "Europe Health",
-        "score": 16,
+        "score": 17,
         "examples": [
-          "CMS creates office dedicated to health technology - Healthcare Dive",
-          "CMS creates office dedicated to health technology - Healthcare Dive",
-          "Exclusive | Nvidia Is Developing an AI Healthcare Model With Startup Abridge - WSJ"
-        ]
-      },
-      {
-        "trend": "outbreak",
-        "market_code": "FR",
-        "category": "Outbreaks",
-        "score": 14,
-        "examples": [
-          "Ebola Outbreak: What You Need to Know - Project HOPE",
-          "Israel Joins Kenya, Uganda, Rwanda, South Sudan and Democratic Republic of the Congo in a High-Stakes Ebola Travel Security Alert as Confirmed DRC and Uganda Outbreak Triggers New Airline Boarding Checks, Border Screening and Regional Health - Travel And Tour World",
-          "Hantavirus Outbreak On MV Hondius Cruise Exposes Hidden Agricultural Threat - Eurasia Review"
+          "Broward Health Names Cornelius Powell, M.D. New Chief Medical Officer of Broward Health North - Florida Hospital News and Healthcare Report",
+          "Broward Health Names Cornelius Powell, M.D. New Chief Medical Officer of Broward Health North - Florida Hospital News and Healthcare Report",
+          "SAMHSA Announces $40 Million in Funding Opportunities to Prevent Addiction, and Address Child Trauma, Suicide, Mental Illness - Florida Hospital News and Healthcare Report"
         ]
       },
       {
         "trend": "mental",
         "market_code": "FR",
         "category": "Mental Health",
-        "score": 13,
+        "score": 15,
         "examples": [
           "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF",
-          "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF",
+          "News4’s Tony Perkins joins Joe Clair for men’s mental health event - NBC4 Washington",
           "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF"
         ]
       },
@@ -464,11 +453,33 @@
         "trend": "mental health",
         "market_code": "FR",
         "category": "Mental Health",
-        "score": 13,
+        "score": 14,
         "examples": [
           "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF",
-          "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF",
+          "News4’s Tony Perkins joins Joe Clair for men’s mental health event - NBC4 Washington",
           "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF"
+        ]
+      },
+      {
+        "trend": "outbreak",
+        "market_code": "FR",
+        "category": "Outbreaks",
+        "score": 13,
+        "examples": [
+          "Outbreak 2.0 brings public health careers to life - Homenewshere.com",
+          "Scientists Race to Test Treatments as Ebola Outbreak Widens - The New York Times",
+          "WHO director-general is profoundly concerned after visit to Ebola outbreak area - statnews.com"
+        ]
+      },
+      {
+        "trend": "hospital",
+        "market_code": "FR",
+        "category": "Europe Health",
+        "score": 10,
+        "examples": [
+          "Broward Health Names Cornelius Powell, M.D. New Chief Medical Officer of Broward Health North - Florida Hospital News and Healthcare Report",
+          "Broward Health Names Cornelius Powell, M.D. New Chief Medical Officer of Broward Health North - Florida Hospital News and Healthcare Report",
+          "Brushing Your Teeth Could Help Prevent a Deadly Hospital Infection - ScienceAlert"
         ]
       },
       {
@@ -477,9 +488,20 @@
         "category": "Chronic Disease",
         "score": 10,
         "examples": [
+          "GLP-1 Drugs May Protect Against Cancer— Here’s What That Means For Public Health - Forbes",
           "Valley man shares warning during Men's Health & National Cancer Survivors Month - ABC15 Arizona",
-          "How Clinical Trials Help to Increase Cancer Survivorship in Quantity and Quality - CU Anschutz newsroom",
-          "Pancreatic cancer experts, patients applaud new KRAS inhibitor therapy - Fred Hutchinson Cancer Center"
+          "How Clinical Trials Help to Increase Cancer Survivorship in Quantity and Quality - CU Anschutz newsroom"
+        ]
+      },
+      {
+        "trend": "public health",
+        "market_code": "FR",
+        "category": "Europe Health",
+        "score": 9,
+        "examples": [
+          "Five Laredo public health projects selected for national conference - Laredo Morning Times",
+          "Outbreak 2.0 brings public health careers to life - Homenewshere.com",
+          "Public Health Class of 2026 is Making an Impact - UC San Diego Today"
         ]
       },
       {
@@ -494,47 +516,25 @@
         ]
       },
       {
+        "trend": "infection",
+        "market_code": "FR",
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "Brushing Your Teeth Could Help Prevent a Deadly Hospital Infection - ScienceAlert",
+          "β-catenin-driven innate and metabolic reprograming in macrophages fuel T-cell-dependent inflammation in Toxoplasma gondii infection: implications for therapeutic intervention - Nature",
+          "CDC sleuthing helps decipher drug-resistant infection rise - Phys.org"
+        ]
+      },
+      {
         "trend": "children",
         "market_code": "FR",
         "category": "Children Health",
         "score": 8,
         "examples": [
-          "Ebola Outbreak in DRC – Protect Families & Children in Crisis - Save the Children",
-          "Ebola Outbreak in DRC – Protect Families & Children in Crisis - Save the Children",
-          "Why grandparents matter more than ever for children's mental health - ScienceDaily"
-        ]
-      },
-      {
-        "trend": "ebola outbreak",
-        "market_code": "FR",
-        "category": "Outbreaks",
-        "score": 7,
-        "examples": [
-          "Ebola Outbreak: What You Need to Know - Project HOPE",
-          "Ebola Outbreak: What You Need to Know - Project HOPE",
-          "Ebola outbreak in DR Congo expands into large displacement camp - CIDRAP"
-        ]
-      },
-      {
-        "trend": "warnings",
-        "market_code": "FR",
-        "category": "Europe Health",
-        "score": 6,
-        "examples": [
-          "Why the penis is a barometer of men's health - and we need to wake up to its warnings - BBC",
-          "Why the penis is a barometer of men's health - and we need to wake up to its warnings - BBC",
-          "San Joaquin Valley sees smoke spread from Tracy fire, air warnings issued - ABC10"
-        ]
-      },
-      {
-        "trend": "public health",
-        "market_code": "FR",
-        "category": "Europe Health",
-        "score": 6,
-        "examples": [
-          "Public Health Class of 2026 is Making an Impact - UC San Diego Today",
-          "Disaggregating Public Health Data by Race and Ethnicity to Improve Public Health - Race, Racism and the Law",
-          "Disaggregating Public Health Data by Race and Ethnicity to Improve Public Health - Race, Racism and the Law"
+          "Advocates warn law could risk health of ill undocumented children - WBIR",
+          "Why grandparents matter more than ever for children's mental health - ScienceDaily",
+          "Newsweek names UC Davis Children’s Hospital among America’s best - University of California - Davis Health"
         ]
       }
     ],
@@ -543,54 +543,43 @@
         "trend": "health",
         "market_code": "IT",
         "category": "Europe Health",
-        "score": 68,
+        "score": 75,
         "examples": [
           "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF",
           "Cycling is a Disaster for Bone Health – Here’s How to Stop your Skeleton Turning to Chalk - Outside Magazine",
-          "Tracy, California Medline Warehouse Fire: Here are the public safety, health and employment impacts - ABC7 Bay Area"
+          "Novant Health Scotts Hill Medical Center hosts community day ahead of opening - WECT"
         ]
       },
       {
         "trend": "medical",
         "market_code": "IT",
         "category": "Europe Health",
-        "score": 17,
+        "score": 23,
         "examples": [
-          "Medical Cure or Designer Baby? A New Approach to Editing Embryos Ignites Debate. - The New York Times",
-          "Hospitals prepare for medical supply shortages following Medline warehouse fire in Tracy - ABC30 Fresno",
-          "False active shooter report prompts major police response at Blackwell Medical Tower - WAFF"
+          "Novant Health Scotts Hill Medical Center hosts community day ahead of opening - WECT",
+          "Broward Health Names Cornelius Powell, M.D. New Chief Medical Officer of Broward Health North - Florida Hospital News and Healthcare Report",
+          "Novant Health Scotts Hill Medical Center hosts community day ahead of opening - WECT"
         ]
       },
       {
         "trend": "healthcare",
         "market_code": "IT",
         "category": "Europe Health",
-        "score": 16,
+        "score": 17,
         "examples": [
-          "CMS creates office dedicated to health technology - Healthcare Dive",
-          "CMS creates office dedicated to health technology - Healthcare Dive",
-          "Exclusive | Nvidia Is Developing an AI Healthcare Model With Startup Abridge - WSJ"
-        ]
-      },
-      {
-        "trend": "outbreak",
-        "market_code": "IT",
-        "category": "Outbreaks",
-        "score": 14,
-        "examples": [
-          "Ebola Outbreak: What You Need to Know - Project HOPE",
-          "Israel Joins Kenya, Uganda, Rwanda, South Sudan and Democratic Republic of the Congo in a High-Stakes Ebola Travel Security Alert as Confirmed DRC and Uganda Outbreak Triggers New Airline Boarding Checks, Border Screening and Regional Health - Travel And Tour World",
-          "Hantavirus Outbreak On MV Hondius Cruise Exposes Hidden Agricultural Threat - Eurasia Review"
+          "Broward Health Names Cornelius Powell, M.D. New Chief Medical Officer of Broward Health North - Florida Hospital News and Healthcare Report",
+          "Broward Health Names Cornelius Powell, M.D. New Chief Medical Officer of Broward Health North - Florida Hospital News and Healthcare Report",
+          "SAMHSA Announces $40 Million in Funding Opportunities to Prevent Addiction, and Address Child Trauma, Suicide, Mental Illness - Florida Hospital News and Healthcare Report"
         ]
       },
       {
         "trend": "mental",
         "market_code": "IT",
         "category": "Mental Health",
-        "score": 13,
+        "score": 15,
         "examples": [
           "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF",
-          "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF",
+          "News4’s Tony Perkins joins Joe Clair for men’s mental health event - NBC4 Washington",
           "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF"
         ]
       },
@@ -598,11 +587,33 @@
         "trend": "mental health",
         "market_code": "IT",
         "category": "Mental Health",
-        "score": 13,
+        "score": 14,
         "examples": [
           "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF",
-          "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF",
+          "News4’s Tony Perkins joins Joe Clair for men’s mental health event - NBC4 Washington",
           "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF"
+        ]
+      },
+      {
+        "trend": "outbreak",
+        "market_code": "IT",
+        "category": "Outbreaks",
+        "score": 13,
+        "examples": [
+          "Outbreak 2.0 brings public health careers to life - Homenewshere.com",
+          "Scientists Race to Test Treatments as Ebola Outbreak Widens - The New York Times",
+          "WHO director-general is profoundly concerned after visit to Ebola outbreak area - statnews.com"
+        ]
+      },
+      {
+        "trend": "hospital",
+        "market_code": "IT",
+        "category": "Europe Health",
+        "score": 10,
+        "examples": [
+          "Broward Health Names Cornelius Powell, M.D. New Chief Medical Officer of Broward Health North - Florida Hospital News and Healthcare Report",
+          "Broward Health Names Cornelius Powell, M.D. New Chief Medical Officer of Broward Health North - Florida Hospital News and Healthcare Report",
+          "Brushing Your Teeth Could Help Prevent a Deadly Hospital Infection - ScienceAlert"
         ]
       },
       {
@@ -611,9 +622,20 @@
         "category": "Chronic Disease",
         "score": 10,
         "examples": [
+          "GLP-1 Drugs May Protect Against Cancer— Here’s What That Means For Public Health - Forbes",
           "Valley man shares warning during Men's Health & National Cancer Survivors Month - ABC15 Arizona",
-          "How Clinical Trials Help to Increase Cancer Survivorship in Quantity and Quality - CU Anschutz newsroom",
-          "Pancreatic cancer experts, patients applaud new KRAS inhibitor therapy - Fred Hutchinson Cancer Center"
+          "How Clinical Trials Help to Increase Cancer Survivorship in Quantity and Quality - CU Anschutz newsroom"
+        ]
+      },
+      {
+        "trend": "public health",
+        "market_code": "IT",
+        "category": "Europe Health",
+        "score": 9,
+        "examples": [
+          "Five Laredo public health projects selected for national conference - Laredo Morning Times",
+          "Outbreak 2.0 brings public health careers to life - Homenewshere.com",
+          "Public Health Class of 2026 is Making an Impact - UC San Diego Today"
         ]
       },
       {
@@ -628,47 +650,25 @@
         ]
       },
       {
+        "trend": "infection",
+        "market_code": "IT",
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "Brushing Your Teeth Could Help Prevent a Deadly Hospital Infection - ScienceAlert",
+          "β-catenin-driven innate and metabolic reprograming in macrophages fuel T-cell-dependent inflammation in Toxoplasma gondii infection: implications for therapeutic intervention - Nature",
+          "CDC sleuthing helps decipher drug-resistant infection rise - Phys.org"
+        ]
+      },
+      {
         "trend": "children",
         "market_code": "IT",
         "category": "Children Health",
         "score": 8,
         "examples": [
-          "Ebola Outbreak in DRC – Protect Families & Children in Crisis - Save the Children",
-          "Ebola Outbreak in DRC – Protect Families & Children in Crisis - Save the Children",
-          "Why grandparents matter more than ever for children's mental health - ScienceDaily"
-        ]
-      },
-      {
-        "trend": "ebola outbreak",
-        "market_code": "IT",
-        "category": "Outbreaks",
-        "score": 7,
-        "examples": [
-          "Ebola Outbreak: What You Need to Know - Project HOPE",
-          "Ebola Outbreak: What You Need to Know - Project HOPE",
-          "Ebola outbreak in DR Congo expands into large displacement camp - CIDRAP"
-        ]
-      },
-      {
-        "trend": "warnings",
-        "market_code": "IT",
-        "category": "Europe Health",
-        "score": 6,
-        "examples": [
-          "Why the penis is a barometer of men's health - and we need to wake up to its warnings - BBC",
-          "Why the penis is a barometer of men's health - and we need to wake up to its warnings - BBC",
-          "San Joaquin Valley sees smoke spread from Tracy fire, air warnings issued - ABC10"
-        ]
-      },
-      {
-        "trend": "public health",
-        "market_code": "IT",
-        "category": "Europe Health",
-        "score": 6,
-        "examples": [
-          "Public Health Class of 2026 is Making an Impact - UC San Diego Today",
-          "Disaggregating Public Health Data by Race and Ethnicity to Improve Public Health - Race, Racism and the Law",
-          "Disaggregating Public Health Data by Race and Ethnicity to Improve Public Health - Race, Racism and the Law"
+          "Advocates warn law could risk health of ill undocumented children - WBIR",
+          "Why grandparents matter more than ever for children's mental health - ScienceDaily",
+          "Newsweek names UC Davis Children’s Hospital among America’s best - University of California - Davis Health"
         ]
       }
     ],
@@ -677,54 +677,43 @@
         "trend": "health",
         "market_code": "ES",
         "category": "Europe Health",
-        "score": 68,
+        "score": 75,
         "examples": [
           "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF",
           "Cycling is a Disaster for Bone Health – Here’s How to Stop your Skeleton Turning to Chalk - Outside Magazine",
-          "Tracy, California Medline Warehouse Fire: Here are the public safety, health and employment impacts - ABC7 Bay Area"
+          "Novant Health Scotts Hill Medical Center hosts community day ahead of opening - WECT"
         ]
       },
       {
         "trend": "medical",
         "market_code": "ES",
         "category": "Europe Health",
-        "score": 17,
+        "score": 23,
         "examples": [
-          "Medical Cure or Designer Baby? A New Approach to Editing Embryos Ignites Debate. - The New York Times",
-          "Hospitals prepare for medical supply shortages following Medline warehouse fire in Tracy - ABC30 Fresno",
-          "False active shooter report prompts major police response at Blackwell Medical Tower - WAFF"
+          "Novant Health Scotts Hill Medical Center hosts community day ahead of opening - WECT",
+          "Broward Health Names Cornelius Powell, M.D. New Chief Medical Officer of Broward Health North - Florida Hospital News and Healthcare Report",
+          "Novant Health Scotts Hill Medical Center hosts community day ahead of opening - WECT"
         ]
       },
       {
         "trend": "healthcare",
         "market_code": "ES",
         "category": "Europe Health",
-        "score": 16,
+        "score": 17,
         "examples": [
-          "CMS creates office dedicated to health technology - Healthcare Dive",
-          "CMS creates office dedicated to health technology - Healthcare Dive",
-          "Exclusive | Nvidia Is Developing an AI Healthcare Model With Startup Abridge - WSJ"
-        ]
-      },
-      {
-        "trend": "outbreak",
-        "market_code": "ES",
-        "category": "Outbreaks",
-        "score": 14,
-        "examples": [
-          "Ebola Outbreak: What You Need to Know - Project HOPE",
-          "Israel Joins Kenya, Uganda, Rwanda, South Sudan and Democratic Republic of the Congo in a High-Stakes Ebola Travel Security Alert as Confirmed DRC and Uganda Outbreak Triggers New Airline Boarding Checks, Border Screening and Regional Health - Travel And Tour World",
-          "Hantavirus Outbreak On MV Hondius Cruise Exposes Hidden Agricultural Threat - Eurasia Review"
+          "Broward Health Names Cornelius Powell, M.D. New Chief Medical Officer of Broward Health North - Florida Hospital News and Healthcare Report",
+          "Broward Health Names Cornelius Powell, M.D. New Chief Medical Officer of Broward Health North - Florida Hospital News and Healthcare Report",
+          "SAMHSA Announces $40 Million in Funding Opportunities to Prevent Addiction, and Address Child Trauma, Suicide, Mental Illness - Florida Hospital News and Healthcare Report"
         ]
       },
       {
         "trend": "mental",
         "market_code": "ES",
         "category": "Mental Health",
-        "score": 13,
+        "score": 15,
         "examples": [
           "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF",
-          "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF",
+          "News4’s Tony Perkins joins Joe Clair for men’s mental health event - NBC4 Washington",
           "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF"
         ]
       },
@@ -732,11 +721,33 @@
         "trend": "mental health",
         "market_code": "ES",
         "category": "Mental Health",
-        "score": 13,
+        "score": 14,
         "examples": [
           "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF",
-          "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF",
+          "News4’s Tony Perkins joins Joe Clair for men’s mental health event - NBC4 Washington",
           "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF"
+        ]
+      },
+      {
+        "trend": "outbreak",
+        "market_code": "ES",
+        "category": "Outbreaks",
+        "score": 13,
+        "examples": [
+          "Outbreak 2.0 brings public health careers to life - Homenewshere.com",
+          "Scientists Race to Test Treatments as Ebola Outbreak Widens - The New York Times",
+          "WHO director-general is profoundly concerned after visit to Ebola outbreak area - statnews.com"
+        ]
+      },
+      {
+        "trend": "hospital",
+        "market_code": "ES",
+        "category": "Europe Health",
+        "score": 10,
+        "examples": [
+          "Broward Health Names Cornelius Powell, M.D. New Chief Medical Officer of Broward Health North - Florida Hospital News and Healthcare Report",
+          "Broward Health Names Cornelius Powell, M.D. New Chief Medical Officer of Broward Health North - Florida Hospital News and Healthcare Report",
+          "Brushing Your Teeth Could Help Prevent a Deadly Hospital Infection - ScienceAlert"
         ]
       },
       {
@@ -745,9 +756,20 @@
         "category": "Chronic Disease",
         "score": 10,
         "examples": [
+          "GLP-1 Drugs May Protect Against Cancer— Here’s What That Means For Public Health - Forbes",
           "Valley man shares warning during Men's Health & National Cancer Survivors Month - ABC15 Arizona",
-          "How Clinical Trials Help to Increase Cancer Survivorship in Quantity and Quality - CU Anschutz newsroom",
-          "Pancreatic cancer experts, patients applaud new KRAS inhibitor therapy - Fred Hutchinson Cancer Center"
+          "How Clinical Trials Help to Increase Cancer Survivorship in Quantity and Quality - CU Anschutz newsroom"
+        ]
+      },
+      {
+        "trend": "public health",
+        "market_code": "ES",
+        "category": "Europe Health",
+        "score": 9,
+        "examples": [
+          "Five Laredo public health projects selected for national conference - Laredo Morning Times",
+          "Outbreak 2.0 brings public health careers to life - Homenewshere.com",
+          "Public Health Class of 2026 is Making an Impact - UC San Diego Today"
         ]
       },
       {
@@ -762,47 +784,25 @@
         ]
       },
       {
+        "trend": "infection",
+        "market_code": "ES",
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "Brushing Your Teeth Could Help Prevent a Deadly Hospital Infection - ScienceAlert",
+          "β-catenin-driven innate and metabolic reprograming in macrophages fuel T-cell-dependent inflammation in Toxoplasma gondii infection: implications for therapeutic intervention - Nature",
+          "CDC sleuthing helps decipher drug-resistant infection rise - Phys.org"
+        ]
+      },
+      {
         "trend": "children",
         "market_code": "ES",
         "category": "Children Health",
         "score": 8,
         "examples": [
-          "Ebola Outbreak in DRC – Protect Families & Children in Crisis - Save the Children",
-          "Ebola Outbreak in DRC – Protect Families & Children in Crisis - Save the Children",
-          "Why grandparents matter more than ever for children's mental health - ScienceDaily"
-        ]
-      },
-      {
-        "trend": "ebola outbreak",
-        "market_code": "ES",
-        "category": "Outbreaks",
-        "score": 7,
-        "examples": [
-          "Ebola Outbreak: What You Need to Know - Project HOPE",
-          "Ebola Outbreak: What You Need to Know - Project HOPE",
-          "Ebola outbreak in DR Congo expands into large displacement camp - CIDRAP"
-        ]
-      },
-      {
-        "trend": "warnings",
-        "market_code": "ES",
-        "category": "Europe Health",
-        "score": 6,
-        "examples": [
-          "Why the penis is a barometer of men's health - and we need to wake up to its warnings - BBC",
-          "Why the penis is a barometer of men's health - and we need to wake up to its warnings - BBC",
-          "San Joaquin Valley sees smoke spread from Tracy fire, air warnings issued - ABC10"
-        ]
-      },
-      {
-        "trend": "public health",
-        "market_code": "ES",
-        "category": "Europe Health",
-        "score": 6,
-        "examples": [
-          "Public Health Class of 2026 is Making an Impact - UC San Diego Today",
-          "Disaggregating Public Health Data by Race and Ethnicity to Improve Public Health - Race, Racism and the Law",
-          "Disaggregating Public Health Data by Race and Ethnicity to Improve Public Health - Race, Racism and the Law"
+          "Advocates warn law could risk health of ill undocumented children - WBIR",
+          "Why grandparents matter more than ever for children's mental health - ScienceDaily",
+          "Newsweek names UC Davis Children’s Hospital among America’s best - University of California - Davis Health"
         ]
       }
     ],
@@ -811,54 +811,43 @@
         "trend": "health",
         "market_code": "SE",
         "category": "Europe Health",
-        "score": 68,
+        "score": 75,
         "examples": [
           "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF",
           "Cycling is a Disaster for Bone Health – Here’s How to Stop your Skeleton Turning to Chalk - Outside Magazine",
-          "Tracy, California Medline Warehouse Fire: Here are the public safety, health and employment impacts - ABC7 Bay Area"
+          "Novant Health Scotts Hill Medical Center hosts community day ahead of opening - WECT"
         ]
       },
       {
         "trend": "medical",
         "market_code": "SE",
         "category": "Europe Health",
-        "score": 17,
+        "score": 23,
         "examples": [
-          "Medical Cure or Designer Baby? A New Approach to Editing Embryos Ignites Debate. - The New York Times",
-          "Hospitals prepare for medical supply shortages following Medline warehouse fire in Tracy - ABC30 Fresno",
-          "False active shooter report prompts major police response at Blackwell Medical Tower - WAFF"
+          "Novant Health Scotts Hill Medical Center hosts community day ahead of opening - WECT",
+          "Broward Health Names Cornelius Powell, M.D. New Chief Medical Officer of Broward Health North - Florida Hospital News and Healthcare Report",
+          "Novant Health Scotts Hill Medical Center hosts community day ahead of opening - WECT"
         ]
       },
       {
         "trend": "healthcare",
         "market_code": "SE",
         "category": "Europe Health",
-        "score": 16,
+        "score": 17,
         "examples": [
-          "CMS creates office dedicated to health technology - Healthcare Dive",
-          "CMS creates office dedicated to health technology - Healthcare Dive",
-          "Exclusive | Nvidia Is Developing an AI Healthcare Model With Startup Abridge - WSJ"
-        ]
-      },
-      {
-        "trend": "outbreak",
-        "market_code": "SE",
-        "category": "Outbreaks",
-        "score": 14,
-        "examples": [
-          "Ebola Outbreak: What You Need to Know - Project HOPE",
-          "Israel Joins Kenya, Uganda, Rwanda, South Sudan and Democratic Republic of the Congo in a High-Stakes Ebola Travel Security Alert as Confirmed DRC and Uganda Outbreak Triggers New Airline Boarding Checks, Border Screening and Regional Health - Travel And Tour World",
-          "Hantavirus Outbreak On MV Hondius Cruise Exposes Hidden Agricultural Threat - Eurasia Review"
+          "Broward Health Names Cornelius Powell, M.D. New Chief Medical Officer of Broward Health North - Florida Hospital News and Healthcare Report",
+          "Broward Health Names Cornelius Powell, M.D. New Chief Medical Officer of Broward Health North - Florida Hospital News and Healthcare Report",
+          "SAMHSA Announces $40 Million in Funding Opportunities to Prevent Addiction, and Address Child Trauma, Suicide, Mental Illness - Florida Hospital News and Healthcare Report"
         ]
       },
       {
         "trend": "mental",
         "market_code": "SE",
         "category": "Mental Health",
-        "score": 13,
+        "score": 15,
         "examples": [
           "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF",
-          "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF",
+          "News4’s Tony Perkins joins Joe Clair for men’s mental health event - NBC4 Washington",
           "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF"
         ]
       },
@@ -866,11 +855,33 @@
         "trend": "mental health",
         "market_code": "SE",
         "category": "Mental Health",
-        "score": 13,
+        "score": 14,
         "examples": [
           "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF",
-          "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF",
+          "News4’s Tony Perkins joins Joe Clair for men’s mental health event - NBC4 Washington",
           "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF"
+        ]
+      },
+      {
+        "trend": "outbreak",
+        "market_code": "SE",
+        "category": "Outbreaks",
+        "score": 13,
+        "examples": [
+          "Outbreak 2.0 brings public health careers to life - Homenewshere.com",
+          "Scientists Race to Test Treatments as Ebola Outbreak Widens - The New York Times",
+          "WHO director-general is profoundly concerned after visit to Ebola outbreak area - statnews.com"
+        ]
+      },
+      {
+        "trend": "hospital",
+        "market_code": "SE",
+        "category": "Europe Health",
+        "score": 10,
+        "examples": [
+          "Broward Health Names Cornelius Powell, M.D. New Chief Medical Officer of Broward Health North - Florida Hospital News and Healthcare Report",
+          "Broward Health Names Cornelius Powell, M.D. New Chief Medical Officer of Broward Health North - Florida Hospital News and Healthcare Report",
+          "Brushing Your Teeth Could Help Prevent a Deadly Hospital Infection - ScienceAlert"
         ]
       },
       {
@@ -879,9 +890,20 @@
         "category": "Chronic Disease",
         "score": 10,
         "examples": [
+          "GLP-1 Drugs May Protect Against Cancer— Here’s What That Means For Public Health - Forbes",
           "Valley man shares warning during Men's Health & National Cancer Survivors Month - ABC15 Arizona",
-          "How Clinical Trials Help to Increase Cancer Survivorship in Quantity and Quality - CU Anschutz newsroom",
-          "Pancreatic cancer experts, patients applaud new KRAS inhibitor therapy - Fred Hutchinson Cancer Center"
+          "How Clinical Trials Help to Increase Cancer Survivorship in Quantity and Quality - CU Anschutz newsroom"
+        ]
+      },
+      {
+        "trend": "public health",
+        "market_code": "SE",
+        "category": "Europe Health",
+        "score": 9,
+        "examples": [
+          "Five Laredo public health projects selected for national conference - Laredo Morning Times",
+          "Outbreak 2.0 brings public health careers to life - Homenewshere.com",
+          "Public Health Class of 2026 is Making an Impact - UC San Diego Today"
         ]
       },
       {
@@ -896,47 +918,25 @@
         ]
       },
       {
+        "trend": "infection",
+        "market_code": "SE",
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "Brushing Your Teeth Could Help Prevent a Deadly Hospital Infection - ScienceAlert",
+          "β-catenin-driven innate and metabolic reprograming in macrophages fuel T-cell-dependent inflammation in Toxoplasma gondii infection: implications for therapeutic intervention - Nature",
+          "CDC sleuthing helps decipher drug-resistant infection rise - Phys.org"
+        ]
+      },
+      {
         "trend": "children",
         "market_code": "SE",
         "category": "Children Health",
         "score": 8,
         "examples": [
-          "Ebola Outbreak in DRC – Protect Families & Children in Crisis - Save the Children",
-          "Ebola Outbreak in DRC – Protect Families & Children in Crisis - Save the Children",
-          "Why grandparents matter more than ever for children's mental health - ScienceDaily"
-        ]
-      },
-      {
-        "trend": "ebola outbreak",
-        "market_code": "SE",
-        "category": "Outbreaks",
-        "score": 7,
-        "examples": [
-          "Ebola Outbreak: What You Need to Know - Project HOPE",
-          "Ebola Outbreak: What You Need to Know - Project HOPE",
-          "Ebola outbreak in DR Congo expands into large displacement camp - CIDRAP"
-        ]
-      },
-      {
-        "trend": "warnings",
-        "market_code": "SE",
-        "category": "Europe Health",
-        "score": 6,
-        "examples": [
-          "Why the penis is a barometer of men's health - and we need to wake up to its warnings - BBC",
-          "Why the penis is a barometer of men's health - and we need to wake up to its warnings - BBC",
-          "San Joaquin Valley sees smoke spread from Tracy fire, air warnings issued - ABC10"
-        ]
-      },
-      {
-        "trend": "public health",
-        "market_code": "SE",
-        "category": "Europe Health",
-        "score": 6,
-        "examples": [
-          "Public Health Class of 2026 is Making an Impact - UC San Diego Today",
-          "Disaggregating Public Health Data by Race and Ethnicity to Improve Public Health - Race, Racism and the Law",
-          "Disaggregating Public Health Data by Race and Ethnicity to Improve Public Health - Race, Racism and the Law"
+          "Advocates warn law could risk health of ill undocumented children - WBIR",
+          "Why grandparents matter more than ever for children's mental health - ScienceDaily",
+          "Newsweek names UC Davis Children’s Hospital among America’s best - University of California - Davis Health"
         ]
       }
     ],
@@ -945,54 +945,43 @@
         "trend": "health",
         "market_code": "NL",
         "category": "Europe Health",
-        "score": 68,
+        "score": 75,
         "examples": [
           "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF",
           "Cycling is a Disaster for Bone Health – Here’s How to Stop your Skeleton Turning to Chalk - Outside Magazine",
-          "Tracy, California Medline Warehouse Fire: Here are the public safety, health and employment impacts - ABC7 Bay Area"
+          "Novant Health Scotts Hill Medical Center hosts community day ahead of opening - WECT"
         ]
       },
       {
         "trend": "medical",
         "market_code": "NL",
         "category": "Europe Health",
-        "score": 17,
+        "score": 23,
         "examples": [
-          "Medical Cure or Designer Baby? A New Approach to Editing Embryos Ignites Debate. - The New York Times",
-          "Hospitals prepare for medical supply shortages following Medline warehouse fire in Tracy - ABC30 Fresno",
-          "False active shooter report prompts major police response at Blackwell Medical Tower - WAFF"
+          "Novant Health Scotts Hill Medical Center hosts community day ahead of opening - WECT",
+          "Broward Health Names Cornelius Powell, M.D. New Chief Medical Officer of Broward Health North - Florida Hospital News and Healthcare Report",
+          "Novant Health Scotts Hill Medical Center hosts community day ahead of opening - WECT"
         ]
       },
       {
         "trend": "healthcare",
         "market_code": "NL",
         "category": "Europe Health",
-        "score": 16,
+        "score": 17,
         "examples": [
-          "CMS creates office dedicated to health technology - Healthcare Dive",
-          "CMS creates office dedicated to health technology - Healthcare Dive",
-          "Exclusive | Nvidia Is Developing an AI Healthcare Model With Startup Abridge - WSJ"
-        ]
-      },
-      {
-        "trend": "outbreak",
-        "market_code": "NL",
-        "category": "Outbreaks",
-        "score": 14,
-        "examples": [
-          "Ebola Outbreak: What You Need to Know - Project HOPE",
-          "Israel Joins Kenya, Uganda, Rwanda, South Sudan and Democratic Republic of the Congo in a High-Stakes Ebola Travel Security Alert as Confirmed DRC and Uganda Outbreak Triggers New Airline Boarding Checks, Border Screening and Regional Health - Travel And Tour World",
-          "Hantavirus Outbreak On MV Hondius Cruise Exposes Hidden Agricultural Threat - Eurasia Review"
+          "Broward Health Names Cornelius Powell, M.D. New Chief Medical Officer of Broward Health North - Florida Hospital News and Healthcare Report",
+          "Broward Health Names Cornelius Powell, M.D. New Chief Medical Officer of Broward Health North - Florida Hospital News and Healthcare Report",
+          "SAMHSA Announces $40 Million in Funding Opportunities to Prevent Addiction, and Address Child Trauma, Suicide, Mental Illness - Florida Hospital News and Healthcare Report"
         ]
       },
       {
         "trend": "mental",
         "market_code": "NL",
         "category": "Mental Health",
-        "score": 13,
+        "score": 15,
         "examples": [
           "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF",
-          "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF",
+          "News4’s Tony Perkins joins Joe Clair for men’s mental health event - NBC4 Washington",
           "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF"
         ]
       },
@@ -1000,11 +989,33 @@
         "trend": "mental health",
         "market_code": "NL",
         "category": "Mental Health",
-        "score": 13,
+        "score": 14,
         "examples": [
           "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF",
-          "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF",
+          "News4’s Tony Perkins joins Joe Clair for men’s mental health event - NBC4 Washington",
           "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF"
+        ]
+      },
+      {
+        "trend": "outbreak",
+        "market_code": "NL",
+        "category": "Outbreaks",
+        "score": 13,
+        "examples": [
+          "Outbreak 2.0 brings public health careers to life - Homenewshere.com",
+          "Scientists Race to Test Treatments as Ebola Outbreak Widens - The New York Times",
+          "WHO director-general is profoundly concerned after visit to Ebola outbreak area - statnews.com"
+        ]
+      },
+      {
+        "trend": "hospital",
+        "market_code": "NL",
+        "category": "Europe Health",
+        "score": 10,
+        "examples": [
+          "Broward Health Names Cornelius Powell, M.D. New Chief Medical Officer of Broward Health North - Florida Hospital News and Healthcare Report",
+          "Broward Health Names Cornelius Powell, M.D. New Chief Medical Officer of Broward Health North - Florida Hospital News and Healthcare Report",
+          "Brushing Your Teeth Could Help Prevent a Deadly Hospital Infection - ScienceAlert"
         ]
       },
       {
@@ -1013,9 +1024,20 @@
         "category": "Chronic Disease",
         "score": 10,
         "examples": [
+          "GLP-1 Drugs May Protect Against Cancer— Here’s What That Means For Public Health - Forbes",
           "Valley man shares warning during Men's Health & National Cancer Survivors Month - ABC15 Arizona",
-          "How Clinical Trials Help to Increase Cancer Survivorship in Quantity and Quality - CU Anschutz newsroom",
-          "Pancreatic cancer experts, patients applaud new KRAS inhibitor therapy - Fred Hutchinson Cancer Center"
+          "How Clinical Trials Help to Increase Cancer Survivorship in Quantity and Quality - CU Anschutz newsroom"
+        ]
+      },
+      {
+        "trend": "public health",
+        "market_code": "NL",
+        "category": "Europe Health",
+        "score": 9,
+        "examples": [
+          "Five Laredo public health projects selected for national conference - Laredo Morning Times",
+          "Outbreak 2.0 brings public health careers to life - Homenewshere.com",
+          "Public Health Class of 2026 is Making an Impact - UC San Diego Today"
         ]
       },
       {
@@ -1030,47 +1052,25 @@
         ]
       },
       {
+        "trend": "infection",
+        "market_code": "NL",
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "Brushing Your Teeth Could Help Prevent a Deadly Hospital Infection - ScienceAlert",
+          "β-catenin-driven innate and metabolic reprograming in macrophages fuel T-cell-dependent inflammation in Toxoplasma gondii infection: implications for therapeutic intervention - Nature",
+          "CDC sleuthing helps decipher drug-resistant infection rise - Phys.org"
+        ]
+      },
+      {
         "trend": "children",
         "market_code": "NL",
         "category": "Children Health",
         "score": 8,
         "examples": [
-          "Ebola Outbreak in DRC – Protect Families & Children in Crisis - Save the Children",
-          "Ebola Outbreak in DRC – Protect Families & Children in Crisis - Save the Children",
-          "Why grandparents matter more than ever for children's mental health - ScienceDaily"
-        ]
-      },
-      {
-        "trend": "ebola outbreak",
-        "market_code": "NL",
-        "category": "Outbreaks",
-        "score": 7,
-        "examples": [
-          "Ebola Outbreak: What You Need to Know - Project HOPE",
-          "Ebola Outbreak: What You Need to Know - Project HOPE",
-          "Ebola outbreak in DR Congo expands into large displacement camp - CIDRAP"
-        ]
-      },
-      {
-        "trend": "warnings",
-        "market_code": "NL",
-        "category": "Europe Health",
-        "score": 6,
-        "examples": [
-          "Why the penis is a barometer of men's health - and we need to wake up to its warnings - BBC",
-          "Why the penis is a barometer of men's health - and we need to wake up to its warnings - BBC",
-          "San Joaquin Valley sees smoke spread from Tracy fire, air warnings issued - ABC10"
-        ]
-      },
-      {
-        "trend": "public health",
-        "market_code": "NL",
-        "category": "Europe Health",
-        "score": 6,
-        "examples": [
-          "Public Health Class of 2026 is Making an Impact - UC San Diego Today",
-          "Disaggregating Public Health Data by Race and Ethnicity to Improve Public Health - Race, Racism and the Law",
-          "Disaggregating Public Health Data by Race and Ethnicity to Improve Public Health - Race, Racism and the Law"
+          "Advocates warn law could risk health of ill undocumented children - WBIR",
+          "Why grandparents matter more than ever for children's mental health - ScienceDaily",
+          "Newsweek names UC Davis Children’s Hospital among America’s best - University of California - Davis Health"
         ]
       }
     ],
@@ -1079,54 +1079,43 @@
         "trend": "health",
         "market_code": "FI",
         "category": "Europe Health",
-        "score": 68,
+        "score": 75,
         "examples": [
           "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF",
           "Cycling is a Disaster for Bone Health – Here’s How to Stop your Skeleton Turning to Chalk - Outside Magazine",
-          "Tracy, California Medline Warehouse Fire: Here are the public safety, health and employment impacts - ABC7 Bay Area"
+          "Novant Health Scotts Hill Medical Center hosts community day ahead of opening - WECT"
         ]
       },
       {
         "trend": "medical",
         "market_code": "FI",
         "category": "Europe Health",
-        "score": 17,
+        "score": 23,
         "examples": [
-          "Medical Cure or Designer Baby? A New Approach to Editing Embryos Ignites Debate. - The New York Times",
-          "Hospitals prepare for medical supply shortages following Medline warehouse fire in Tracy - ABC30 Fresno",
-          "False active shooter report prompts major police response at Blackwell Medical Tower - WAFF"
+          "Novant Health Scotts Hill Medical Center hosts community day ahead of opening - WECT",
+          "Broward Health Names Cornelius Powell, M.D. New Chief Medical Officer of Broward Health North - Florida Hospital News and Healthcare Report",
+          "Novant Health Scotts Hill Medical Center hosts community day ahead of opening - WECT"
         ]
       },
       {
         "trend": "healthcare",
         "market_code": "FI",
         "category": "Europe Health",
-        "score": 16,
+        "score": 17,
         "examples": [
-          "CMS creates office dedicated to health technology - Healthcare Dive",
-          "CMS creates office dedicated to health technology - Healthcare Dive",
-          "Exclusive | Nvidia Is Developing an AI Healthcare Model With Startup Abridge - WSJ"
-        ]
-      },
-      {
-        "trend": "outbreak",
-        "market_code": "FI",
-        "category": "Outbreaks",
-        "score": 14,
-        "examples": [
-          "Ebola Outbreak: What You Need to Know - Project HOPE",
-          "Israel Joins Kenya, Uganda, Rwanda, South Sudan and Democratic Republic of the Congo in a High-Stakes Ebola Travel Security Alert as Confirmed DRC and Uganda Outbreak Triggers New Airline Boarding Checks, Border Screening and Regional Health - Travel And Tour World",
-          "Hantavirus Outbreak On MV Hondius Cruise Exposes Hidden Agricultural Threat - Eurasia Review"
+          "Broward Health Names Cornelius Powell, M.D. New Chief Medical Officer of Broward Health North - Florida Hospital News and Healthcare Report",
+          "Broward Health Names Cornelius Powell, M.D. New Chief Medical Officer of Broward Health North - Florida Hospital News and Healthcare Report",
+          "SAMHSA Announces $40 Million in Funding Opportunities to Prevent Addiction, and Address Child Trauma, Suicide, Mental Illness - Florida Hospital News and Healthcare Report"
         ]
       },
       {
         "trend": "mental",
         "market_code": "FI",
         "category": "Mental Health",
-        "score": 13,
+        "score": 15,
         "examples": [
           "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF",
-          "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF",
+          "News4’s Tony Perkins joins Joe Clair for men’s mental health event - NBC4 Washington",
           "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF"
         ]
       },
@@ -1134,11 +1123,33 @@
         "trend": "mental health",
         "market_code": "FI",
         "category": "Mental Health",
-        "score": 13,
+        "score": 14,
         "examples": [
           "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF",
-          "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF",
+          "News4’s Tony Perkins joins Joe Clair for men’s mental health event - NBC4 Washington",
           "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF"
+        ]
+      },
+      {
+        "trend": "outbreak",
+        "market_code": "FI",
+        "category": "Outbreaks",
+        "score": 13,
+        "examples": [
+          "Outbreak 2.0 brings public health careers to life - Homenewshere.com",
+          "Scientists Race to Test Treatments as Ebola Outbreak Widens - The New York Times",
+          "WHO director-general is profoundly concerned after visit to Ebola outbreak area - statnews.com"
+        ]
+      },
+      {
+        "trend": "hospital",
+        "market_code": "FI",
+        "category": "Europe Health",
+        "score": 10,
+        "examples": [
+          "Broward Health Names Cornelius Powell, M.D. New Chief Medical Officer of Broward Health North - Florida Hospital News and Healthcare Report",
+          "Broward Health Names Cornelius Powell, M.D. New Chief Medical Officer of Broward Health North - Florida Hospital News and Healthcare Report",
+          "Brushing Your Teeth Could Help Prevent a Deadly Hospital Infection - ScienceAlert"
         ]
       },
       {
@@ -1147,9 +1158,20 @@
         "category": "Chronic Disease",
         "score": 10,
         "examples": [
+          "GLP-1 Drugs May Protect Against Cancer— Here’s What That Means For Public Health - Forbes",
           "Valley man shares warning during Men's Health & National Cancer Survivors Month - ABC15 Arizona",
-          "How Clinical Trials Help to Increase Cancer Survivorship in Quantity and Quality - CU Anschutz newsroom",
-          "Pancreatic cancer experts, patients applaud new KRAS inhibitor therapy - Fred Hutchinson Cancer Center"
+          "How Clinical Trials Help to Increase Cancer Survivorship in Quantity and Quality - CU Anschutz newsroom"
+        ]
+      },
+      {
+        "trend": "public health",
+        "market_code": "FI",
+        "category": "Europe Health",
+        "score": 9,
+        "examples": [
+          "Five Laredo public health projects selected for national conference - Laredo Morning Times",
+          "Outbreak 2.0 brings public health careers to life - Homenewshere.com",
+          "Public Health Class of 2026 is Making an Impact - UC San Diego Today"
         ]
       },
       {
@@ -1164,47 +1186,25 @@
         ]
       },
       {
+        "trend": "infection",
+        "market_code": "FI",
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "Brushing Your Teeth Could Help Prevent a Deadly Hospital Infection - ScienceAlert",
+          "β-catenin-driven innate and metabolic reprograming in macrophages fuel T-cell-dependent inflammation in Toxoplasma gondii infection: implications for therapeutic intervention - Nature",
+          "CDC sleuthing helps decipher drug-resistant infection rise - Phys.org"
+        ]
+      },
+      {
         "trend": "children",
         "market_code": "FI",
         "category": "Children Health",
         "score": 8,
         "examples": [
-          "Ebola Outbreak in DRC – Protect Families & Children in Crisis - Save the Children",
-          "Ebola Outbreak in DRC – Protect Families & Children in Crisis - Save the Children",
-          "Why grandparents matter more than ever for children's mental health - ScienceDaily"
-        ]
-      },
-      {
-        "trend": "ebola outbreak",
-        "market_code": "FI",
-        "category": "Outbreaks",
-        "score": 7,
-        "examples": [
-          "Ebola Outbreak: What You Need to Know - Project HOPE",
-          "Ebola Outbreak: What You Need to Know - Project HOPE",
-          "Ebola outbreak in DR Congo expands into large displacement camp - CIDRAP"
-        ]
-      },
-      {
-        "trend": "warnings",
-        "market_code": "FI",
-        "category": "Europe Health",
-        "score": 6,
-        "examples": [
-          "Why the penis is a barometer of men's health - and we need to wake up to its warnings - BBC",
-          "Why the penis is a barometer of men's health - and we need to wake up to its warnings - BBC",
-          "San Joaquin Valley sees smoke spread from Tracy fire, air warnings issued - ABC10"
-        ]
-      },
-      {
-        "trend": "public health",
-        "market_code": "FI",
-        "category": "Europe Health",
-        "score": 6,
-        "examples": [
-          "Public Health Class of 2026 is Making an Impact - UC San Diego Today",
-          "Disaggregating Public Health Data by Race and Ethnicity to Improve Public Health - Race, Racism and the Law",
-          "Disaggregating Public Health Data by Race and Ethnicity to Improve Public Health - Race, Racism and the Law"
+          "Advocates warn law could risk health of ill undocumented children - WBIR",
+          "Why grandparents matter more than ever for children's mental health - ScienceDaily",
+          "Newsweek names UC Davis Children’s Hospital among America’s best - University of California - Davis Health"
         ]
       }
     ],
@@ -1213,54 +1213,43 @@
         "trend": "health",
         "market_code": "NO",
         "category": "Europe Health",
-        "score": 68,
+        "score": 75,
         "examples": [
           "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF",
           "Cycling is a Disaster for Bone Health – Here’s How to Stop your Skeleton Turning to Chalk - Outside Magazine",
-          "Tracy, California Medline Warehouse Fire: Here are the public safety, health and employment impacts - ABC7 Bay Area"
+          "Novant Health Scotts Hill Medical Center hosts community day ahead of opening - WECT"
         ]
       },
       {
         "trend": "medical",
         "market_code": "NO",
         "category": "Europe Health",
-        "score": 17,
+        "score": 23,
         "examples": [
-          "Medical Cure or Designer Baby? A New Approach to Editing Embryos Ignites Debate. - The New York Times",
-          "Hospitals prepare for medical supply shortages following Medline warehouse fire in Tracy - ABC30 Fresno",
-          "False active shooter report prompts major police response at Blackwell Medical Tower - WAFF"
+          "Novant Health Scotts Hill Medical Center hosts community day ahead of opening - WECT",
+          "Broward Health Names Cornelius Powell, M.D. New Chief Medical Officer of Broward Health North - Florida Hospital News and Healthcare Report",
+          "Novant Health Scotts Hill Medical Center hosts community day ahead of opening - WECT"
         ]
       },
       {
         "trend": "healthcare",
         "market_code": "NO",
         "category": "Europe Health",
-        "score": 16,
+        "score": 17,
         "examples": [
-          "CMS creates office dedicated to health technology - Healthcare Dive",
-          "CMS creates office dedicated to health technology - Healthcare Dive",
-          "Exclusive | Nvidia Is Developing an AI Healthcare Model With Startup Abridge - WSJ"
-        ]
-      },
-      {
-        "trend": "outbreak",
-        "market_code": "NO",
-        "category": "Outbreaks",
-        "score": 14,
-        "examples": [
-          "Ebola Outbreak: What You Need to Know - Project HOPE",
-          "Israel Joins Kenya, Uganda, Rwanda, South Sudan and Democratic Republic of the Congo in a High-Stakes Ebola Travel Security Alert as Confirmed DRC and Uganda Outbreak Triggers New Airline Boarding Checks, Border Screening and Regional Health - Travel And Tour World",
-          "Hantavirus Outbreak On MV Hondius Cruise Exposes Hidden Agricultural Threat - Eurasia Review"
+          "Broward Health Names Cornelius Powell, M.D. New Chief Medical Officer of Broward Health North - Florida Hospital News and Healthcare Report",
+          "Broward Health Names Cornelius Powell, M.D. New Chief Medical Officer of Broward Health North - Florida Hospital News and Healthcare Report",
+          "SAMHSA Announces $40 Million in Funding Opportunities to Prevent Addiction, and Address Child Trauma, Suicide, Mental Illness - Florida Hospital News and Healthcare Report"
         ]
       },
       {
         "trend": "mental",
         "market_code": "NO",
         "category": "Mental Health",
-        "score": 13,
+        "score": 15,
         "examples": [
           "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF",
-          "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF",
+          "News4’s Tony Perkins joins Joe Clair for men’s mental health event - NBC4 Washington",
           "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF"
         ]
       },
@@ -1268,11 +1257,33 @@
         "trend": "mental health",
         "market_code": "NO",
         "category": "Mental Health",
-        "score": 13,
+        "score": 14,
         "examples": [
           "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF",
-          "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF",
+          "News4’s Tony Perkins joins Joe Clair for men’s mental health event - NBC4 Washington",
           "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF"
+        ]
+      },
+      {
+        "trend": "outbreak",
+        "market_code": "NO",
+        "category": "Outbreaks",
+        "score": 13,
+        "examples": [
+          "Outbreak 2.0 brings public health careers to life - Homenewshere.com",
+          "Scientists Race to Test Treatments as Ebola Outbreak Widens - The New York Times",
+          "WHO director-general is profoundly concerned after visit to Ebola outbreak area - statnews.com"
+        ]
+      },
+      {
+        "trend": "hospital",
+        "market_code": "NO",
+        "category": "Europe Health",
+        "score": 10,
+        "examples": [
+          "Broward Health Names Cornelius Powell, M.D. New Chief Medical Officer of Broward Health North - Florida Hospital News and Healthcare Report",
+          "Broward Health Names Cornelius Powell, M.D. New Chief Medical Officer of Broward Health North - Florida Hospital News and Healthcare Report",
+          "Brushing Your Teeth Could Help Prevent a Deadly Hospital Infection - ScienceAlert"
         ]
       },
       {
@@ -1281,9 +1292,20 @@
         "category": "Chronic Disease",
         "score": 10,
         "examples": [
+          "GLP-1 Drugs May Protect Against Cancer— Here’s What That Means For Public Health - Forbes",
           "Valley man shares warning during Men's Health & National Cancer Survivors Month - ABC15 Arizona",
-          "How Clinical Trials Help to Increase Cancer Survivorship in Quantity and Quality - CU Anschutz newsroom",
-          "Pancreatic cancer experts, patients applaud new KRAS inhibitor therapy - Fred Hutchinson Cancer Center"
+          "How Clinical Trials Help to Increase Cancer Survivorship in Quantity and Quality - CU Anschutz newsroom"
+        ]
+      },
+      {
+        "trend": "public health",
+        "market_code": "NO",
+        "category": "Europe Health",
+        "score": 9,
+        "examples": [
+          "Five Laredo public health projects selected for national conference - Laredo Morning Times",
+          "Outbreak 2.0 brings public health careers to life - Homenewshere.com",
+          "Public Health Class of 2026 is Making an Impact - UC San Diego Today"
         ]
       },
       {
@@ -1298,47 +1320,25 @@
         ]
       },
       {
+        "trend": "infection",
+        "market_code": "NO",
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "Brushing Your Teeth Could Help Prevent a Deadly Hospital Infection - ScienceAlert",
+          "β-catenin-driven innate and metabolic reprograming in macrophages fuel T-cell-dependent inflammation in Toxoplasma gondii infection: implications for therapeutic intervention - Nature",
+          "CDC sleuthing helps decipher drug-resistant infection rise - Phys.org"
+        ]
+      },
+      {
         "trend": "children",
         "market_code": "NO",
         "category": "Children Health",
         "score": 8,
         "examples": [
-          "Ebola Outbreak in DRC – Protect Families & Children in Crisis - Save the Children",
-          "Ebola Outbreak in DRC – Protect Families & Children in Crisis - Save the Children",
-          "Why grandparents matter more than ever for children's mental health - ScienceDaily"
-        ]
-      },
-      {
-        "trend": "ebola outbreak",
-        "market_code": "NO",
-        "category": "Outbreaks",
-        "score": 7,
-        "examples": [
-          "Ebola Outbreak: What You Need to Know - Project HOPE",
-          "Ebola Outbreak: What You Need to Know - Project HOPE",
-          "Ebola outbreak in DR Congo expands into large displacement camp - CIDRAP"
-        ]
-      },
-      {
-        "trend": "warnings",
-        "market_code": "NO",
-        "category": "Europe Health",
-        "score": 6,
-        "examples": [
-          "Why the penis is a barometer of men's health - and we need to wake up to its warnings - BBC",
-          "Why the penis is a barometer of men's health - and we need to wake up to its warnings - BBC",
-          "San Joaquin Valley sees smoke spread from Tracy fire, air warnings issued - ABC10"
-        ]
-      },
-      {
-        "trend": "public health",
-        "market_code": "NO",
-        "category": "Europe Health",
-        "score": 6,
-        "examples": [
-          "Public Health Class of 2026 is Making an Impact - UC San Diego Today",
-          "Disaggregating Public Health Data by Race and Ethnicity to Improve Public Health - Race, Racism and the Law",
-          "Disaggregating Public Health Data by Race and Ethnicity to Improve Public Health - Race, Racism and the Law"
+          "Advocates warn law could risk health of ill undocumented children - WBIR",
+          "Why grandparents matter more than ever for children's mental health - ScienceDaily",
+          "Newsweek names UC Davis Children’s Hospital among America’s best - University of California - Davis Health"
         ]
       }
     ],
@@ -1347,54 +1347,43 @@
         "trend": "health",
         "market_code": "JP",
         "category": "Asia Health",
-        "score": 68,
+        "score": 75,
         "examples": [
           "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF",
           "Cycling is a Disaster for Bone Health – Here’s How to Stop your Skeleton Turning to Chalk - Outside Magazine",
-          "Tracy, California Medline Warehouse Fire: Here are the public safety, health and employment impacts - ABC7 Bay Area"
+          "Novant Health Scotts Hill Medical Center hosts community day ahead of opening - WECT"
         ]
       },
       {
         "trend": "medical",
         "market_code": "JP",
         "category": "Asia Health",
-        "score": 17,
+        "score": 23,
         "examples": [
-          "Medical Cure or Designer Baby? A New Approach to Editing Embryos Ignites Debate. - The New York Times",
-          "Hospitals prepare for medical supply shortages following Medline warehouse fire in Tracy - ABC30 Fresno",
-          "False active shooter report prompts major police response at Blackwell Medical Tower - WAFF"
+          "Novant Health Scotts Hill Medical Center hosts community day ahead of opening - WECT",
+          "Broward Health Names Cornelius Powell, M.D. New Chief Medical Officer of Broward Health North - Florida Hospital News and Healthcare Report",
+          "Novant Health Scotts Hill Medical Center hosts community day ahead of opening - WECT"
         ]
       },
       {
         "trend": "healthcare",
         "market_code": "JP",
         "category": "Asia Health",
-        "score": 16,
+        "score": 17,
         "examples": [
-          "CMS creates office dedicated to health technology - Healthcare Dive",
-          "CMS creates office dedicated to health technology - Healthcare Dive",
-          "Exclusive | Nvidia Is Developing an AI Healthcare Model With Startup Abridge - WSJ"
-        ]
-      },
-      {
-        "trend": "outbreak",
-        "market_code": "JP",
-        "category": "Outbreaks",
-        "score": 14,
-        "examples": [
-          "Ebola Outbreak: What You Need to Know - Project HOPE",
-          "Israel Joins Kenya, Uganda, Rwanda, South Sudan and Democratic Republic of the Congo in a High-Stakes Ebola Travel Security Alert as Confirmed DRC and Uganda Outbreak Triggers New Airline Boarding Checks, Border Screening and Regional Health - Travel And Tour World",
-          "Hantavirus Outbreak On MV Hondius Cruise Exposes Hidden Agricultural Threat - Eurasia Review"
+          "Broward Health Names Cornelius Powell, M.D. New Chief Medical Officer of Broward Health North - Florida Hospital News and Healthcare Report",
+          "Broward Health Names Cornelius Powell, M.D. New Chief Medical Officer of Broward Health North - Florida Hospital News and Healthcare Report",
+          "SAMHSA Announces $40 Million in Funding Opportunities to Prevent Addiction, and Address Child Trauma, Suicide, Mental Illness - Florida Hospital News and Healthcare Report"
         ]
       },
       {
         "trend": "mental",
         "market_code": "JP",
         "category": "Mental Health",
-        "score": 13,
+        "score": 15,
         "examples": [
           "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF",
-          "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF",
+          "News4’s Tony Perkins joins Joe Clair for men’s mental health event - NBC4 Washington",
           "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF"
         ]
       },
@@ -1402,11 +1391,33 @@
         "trend": "mental health",
         "market_code": "JP",
         "category": "Mental Health",
-        "score": 13,
+        "score": 14,
         "examples": [
           "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF",
-          "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF",
+          "News4’s Tony Perkins joins Joe Clair for men’s mental health event - NBC4 Washington",
           "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF"
+        ]
+      },
+      {
+        "trend": "outbreak",
+        "market_code": "JP",
+        "category": "Outbreaks",
+        "score": 13,
+        "examples": [
+          "Outbreak 2.0 brings public health careers to life - Homenewshere.com",
+          "Scientists Race to Test Treatments as Ebola Outbreak Widens - The New York Times",
+          "WHO director-general is profoundly concerned after visit to Ebola outbreak area - statnews.com"
+        ]
+      },
+      {
+        "trend": "hospital",
+        "market_code": "JP",
+        "category": "Asia Health",
+        "score": 10,
+        "examples": [
+          "Broward Health Names Cornelius Powell, M.D. New Chief Medical Officer of Broward Health North - Florida Hospital News and Healthcare Report",
+          "Broward Health Names Cornelius Powell, M.D. New Chief Medical Officer of Broward Health North - Florida Hospital News and Healthcare Report",
+          "Brushing Your Teeth Could Help Prevent a Deadly Hospital Infection - ScienceAlert"
         ]
       },
       {
@@ -1415,9 +1426,20 @@
         "category": "Chronic Disease",
         "score": 10,
         "examples": [
+          "GLP-1 Drugs May Protect Against Cancer— Here’s What That Means For Public Health - Forbes",
           "Valley man shares warning during Men's Health & National Cancer Survivors Month - ABC15 Arizona",
-          "How Clinical Trials Help to Increase Cancer Survivorship in Quantity and Quality - CU Anschutz newsroom",
-          "Pancreatic cancer experts, patients applaud new KRAS inhibitor therapy - Fred Hutchinson Cancer Center"
+          "How Clinical Trials Help to Increase Cancer Survivorship in Quantity and Quality - CU Anschutz newsroom"
+        ]
+      },
+      {
+        "trend": "public health",
+        "market_code": "JP",
+        "category": "Asia Health",
+        "score": 9,
+        "examples": [
+          "Five Laredo public health projects selected for national conference - Laredo Morning Times",
+          "Outbreak 2.0 brings public health careers to life - Homenewshere.com",
+          "Public Health Class of 2026 is Making an Impact - UC San Diego Today"
         ]
       },
       {
@@ -1432,47 +1454,25 @@
         ]
       },
       {
+        "trend": "infection",
+        "market_code": "JP",
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "Brushing Your Teeth Could Help Prevent a Deadly Hospital Infection - ScienceAlert",
+          "β-catenin-driven innate and metabolic reprograming in macrophages fuel T-cell-dependent inflammation in Toxoplasma gondii infection: implications for therapeutic intervention - Nature",
+          "CDC sleuthing helps decipher drug-resistant infection rise - Phys.org"
+        ]
+      },
+      {
         "trend": "children",
         "market_code": "JP",
         "category": "Children Health",
         "score": 8,
         "examples": [
-          "Ebola Outbreak in DRC – Protect Families & Children in Crisis - Save the Children",
-          "Ebola Outbreak in DRC – Protect Families & Children in Crisis - Save the Children",
-          "Why grandparents matter more than ever for children's mental health - ScienceDaily"
-        ]
-      },
-      {
-        "trend": "ebola outbreak",
-        "market_code": "JP",
-        "category": "Outbreaks",
-        "score": 7,
-        "examples": [
-          "Ebola Outbreak: What You Need to Know - Project HOPE",
-          "Ebola Outbreak: What You Need to Know - Project HOPE",
-          "Ebola outbreak in DR Congo expands into large displacement camp - CIDRAP"
-        ]
-      },
-      {
-        "trend": "warnings",
-        "market_code": "JP",
-        "category": "Asia Health",
-        "score": 6,
-        "examples": [
-          "Why the penis is a barometer of men's health - and we need to wake up to its warnings - BBC",
-          "Why the penis is a barometer of men's health - and we need to wake up to its warnings - BBC",
-          "San Joaquin Valley sees smoke spread from Tracy fire, air warnings issued - ABC10"
-        ]
-      },
-      {
-        "trend": "public health",
-        "market_code": "JP",
-        "category": "Asia Health",
-        "score": 6,
-        "examples": [
-          "Public Health Class of 2026 is Making an Impact - UC San Diego Today",
-          "Disaggregating Public Health Data by Race and Ethnicity to Improve Public Health - Race, Racism and the Law",
-          "Disaggregating Public Health Data by Race and Ethnicity to Improve Public Health - Race, Racism and the Law"
+          "Advocates warn law could risk health of ill undocumented children - WBIR",
+          "Why grandparents matter more than ever for children's mental health - ScienceDaily",
+          "Newsweek names UC Davis Children’s Hospital among America’s best - University of California - Davis Health"
         ]
       }
     ],
@@ -1481,54 +1481,43 @@
         "trend": "health",
         "market_code": "CN",
         "category": "Asia Health",
-        "score": 68,
+        "score": 75,
         "examples": [
           "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF",
           "Cycling is a Disaster for Bone Health – Here’s How to Stop your Skeleton Turning to Chalk - Outside Magazine",
-          "Tracy, California Medline Warehouse Fire: Here are the public safety, health and employment impacts - ABC7 Bay Area"
+          "Novant Health Scotts Hill Medical Center hosts community day ahead of opening - WECT"
         ]
       },
       {
         "trend": "medical",
         "market_code": "CN",
         "category": "Asia Health",
-        "score": 17,
+        "score": 23,
         "examples": [
-          "Medical Cure or Designer Baby? A New Approach to Editing Embryos Ignites Debate. - The New York Times",
-          "Hospitals prepare for medical supply shortages following Medline warehouse fire in Tracy - ABC30 Fresno",
-          "False active shooter report prompts major police response at Blackwell Medical Tower - WAFF"
+          "Novant Health Scotts Hill Medical Center hosts community day ahead of opening - WECT",
+          "Broward Health Names Cornelius Powell, M.D. New Chief Medical Officer of Broward Health North - Florida Hospital News and Healthcare Report",
+          "Novant Health Scotts Hill Medical Center hosts community day ahead of opening - WECT"
         ]
       },
       {
         "trend": "healthcare",
         "market_code": "CN",
         "category": "Asia Health",
-        "score": 16,
+        "score": 17,
         "examples": [
-          "CMS creates office dedicated to health technology - Healthcare Dive",
-          "CMS creates office dedicated to health technology - Healthcare Dive",
-          "Exclusive | Nvidia Is Developing an AI Healthcare Model With Startup Abridge - WSJ"
-        ]
-      },
-      {
-        "trend": "outbreak",
-        "market_code": "CN",
-        "category": "Outbreaks",
-        "score": 14,
-        "examples": [
-          "Ebola Outbreak: What You Need to Know - Project HOPE",
-          "Israel Joins Kenya, Uganda, Rwanda, South Sudan and Democratic Republic of the Congo in a High-Stakes Ebola Travel Security Alert as Confirmed DRC and Uganda Outbreak Triggers New Airline Boarding Checks, Border Screening and Regional Health - Travel And Tour World",
-          "Hantavirus Outbreak On MV Hondius Cruise Exposes Hidden Agricultural Threat - Eurasia Review"
+          "Broward Health Names Cornelius Powell, M.D. New Chief Medical Officer of Broward Health North - Florida Hospital News and Healthcare Report",
+          "Broward Health Names Cornelius Powell, M.D. New Chief Medical Officer of Broward Health North - Florida Hospital News and Healthcare Report",
+          "SAMHSA Announces $40 Million in Funding Opportunities to Prevent Addiction, and Address Child Trauma, Suicide, Mental Illness - Florida Hospital News and Healthcare Report"
         ]
       },
       {
         "trend": "mental",
         "market_code": "CN",
         "category": "Mental Health",
-        "score": 13,
+        "score": 15,
         "examples": [
           "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF",
-          "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF",
+          "News4’s Tony Perkins joins Joe Clair for men’s mental health event - NBC4 Washington",
           "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF"
         ]
       },
@@ -1536,11 +1525,33 @@
         "trend": "mental health",
         "market_code": "CN",
         "category": "Mental Health",
-        "score": 13,
+        "score": 14,
         "examples": [
           "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF",
-          "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF",
+          "News4’s Tony Perkins joins Joe Clair for men’s mental health event - NBC4 Washington",
           "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF"
+        ]
+      },
+      {
+        "trend": "outbreak",
+        "market_code": "CN",
+        "category": "Outbreaks",
+        "score": 13,
+        "examples": [
+          "Outbreak 2.0 brings public health careers to life - Homenewshere.com",
+          "Scientists Race to Test Treatments as Ebola Outbreak Widens - The New York Times",
+          "WHO director-general is profoundly concerned after visit to Ebola outbreak area - statnews.com"
+        ]
+      },
+      {
+        "trend": "hospital",
+        "market_code": "CN",
+        "category": "Asia Health",
+        "score": 10,
+        "examples": [
+          "Broward Health Names Cornelius Powell, M.D. New Chief Medical Officer of Broward Health North - Florida Hospital News and Healthcare Report",
+          "Broward Health Names Cornelius Powell, M.D. New Chief Medical Officer of Broward Health North - Florida Hospital News and Healthcare Report",
+          "Brushing Your Teeth Could Help Prevent a Deadly Hospital Infection - ScienceAlert"
         ]
       },
       {
@@ -1549,9 +1560,20 @@
         "category": "Chronic Disease",
         "score": 10,
         "examples": [
+          "GLP-1 Drugs May Protect Against Cancer— Here’s What That Means For Public Health - Forbes",
           "Valley man shares warning during Men's Health & National Cancer Survivors Month - ABC15 Arizona",
-          "How Clinical Trials Help to Increase Cancer Survivorship in Quantity and Quality - CU Anschutz newsroom",
-          "Pancreatic cancer experts, patients applaud new KRAS inhibitor therapy - Fred Hutchinson Cancer Center"
+          "How Clinical Trials Help to Increase Cancer Survivorship in Quantity and Quality - CU Anschutz newsroom"
+        ]
+      },
+      {
+        "trend": "public health",
+        "market_code": "CN",
+        "category": "Asia Health",
+        "score": 9,
+        "examples": [
+          "Five Laredo public health projects selected for national conference - Laredo Morning Times",
+          "Outbreak 2.0 brings public health careers to life - Homenewshere.com",
+          "Public Health Class of 2026 is Making an Impact - UC San Diego Today"
         ]
       },
       {
@@ -1566,47 +1588,25 @@
         ]
       },
       {
+        "trend": "infection",
+        "market_code": "CN",
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "Brushing Your Teeth Could Help Prevent a Deadly Hospital Infection - ScienceAlert",
+          "β-catenin-driven innate and metabolic reprograming in macrophages fuel T-cell-dependent inflammation in Toxoplasma gondii infection: implications for therapeutic intervention - Nature",
+          "CDC sleuthing helps decipher drug-resistant infection rise - Phys.org"
+        ]
+      },
+      {
         "trend": "children",
         "market_code": "CN",
         "category": "Children Health",
         "score": 8,
         "examples": [
-          "Ebola Outbreak in DRC – Protect Families & Children in Crisis - Save the Children",
-          "Ebola Outbreak in DRC – Protect Families & Children in Crisis - Save the Children",
-          "Why grandparents matter more than ever for children's mental health - ScienceDaily"
-        ]
-      },
-      {
-        "trend": "ebola outbreak",
-        "market_code": "CN",
-        "category": "Outbreaks",
-        "score": 7,
-        "examples": [
-          "Ebola Outbreak: What You Need to Know - Project HOPE",
-          "Ebola Outbreak: What You Need to Know - Project HOPE",
-          "Ebola outbreak in DR Congo expands into large displacement camp - CIDRAP"
-        ]
-      },
-      {
-        "trend": "warnings",
-        "market_code": "CN",
-        "category": "Asia Health",
-        "score": 6,
-        "examples": [
-          "Why the penis is a barometer of men's health - and we need to wake up to its warnings - BBC",
-          "Why the penis is a barometer of men's health - and we need to wake up to its warnings - BBC",
-          "San Joaquin Valley sees smoke spread from Tracy fire, air warnings issued - ABC10"
-        ]
-      },
-      {
-        "trend": "public health",
-        "market_code": "CN",
-        "category": "Asia Health",
-        "score": 6,
-        "examples": [
-          "Public Health Class of 2026 is Making an Impact - UC San Diego Today",
-          "Disaggregating Public Health Data by Race and Ethnicity to Improve Public Health - Race, Racism and the Law",
-          "Disaggregating Public Health Data by Race and Ethnicity to Improve Public Health - Race, Racism and the Law"
+          "Advocates warn law could risk health of ill undocumented children - WBIR",
+          "Why grandparents matter more than ever for children's mental health - ScienceDaily",
+          "Newsweek names UC Davis Children’s Hospital among America’s best - University of California - Davis Health"
         ]
       }
     ],
@@ -1615,54 +1615,43 @@
         "trend": "health",
         "market_code": "KR",
         "category": "Asia Health",
-        "score": 68,
+        "score": 75,
         "examples": [
           "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF",
           "Cycling is a Disaster for Bone Health – Here’s How to Stop your Skeleton Turning to Chalk - Outside Magazine",
-          "Tracy, California Medline Warehouse Fire: Here are the public safety, health and employment impacts - ABC7 Bay Area"
+          "Novant Health Scotts Hill Medical Center hosts community day ahead of opening - WECT"
         ]
       },
       {
         "trend": "medical",
         "market_code": "KR",
         "category": "Asia Health",
-        "score": 17,
+        "score": 23,
         "examples": [
-          "Medical Cure or Designer Baby? A New Approach to Editing Embryos Ignites Debate. - The New York Times",
-          "Hospitals prepare for medical supply shortages following Medline warehouse fire in Tracy - ABC30 Fresno",
-          "False active shooter report prompts major police response at Blackwell Medical Tower - WAFF"
+          "Novant Health Scotts Hill Medical Center hosts community day ahead of opening - WECT",
+          "Broward Health Names Cornelius Powell, M.D. New Chief Medical Officer of Broward Health North - Florida Hospital News and Healthcare Report",
+          "Novant Health Scotts Hill Medical Center hosts community day ahead of opening - WECT"
         ]
       },
       {
         "trend": "healthcare",
         "market_code": "KR",
         "category": "Asia Health",
-        "score": 16,
+        "score": 17,
         "examples": [
-          "CMS creates office dedicated to health technology - Healthcare Dive",
-          "CMS creates office dedicated to health technology - Healthcare Dive",
-          "Exclusive | Nvidia Is Developing an AI Healthcare Model With Startup Abridge - WSJ"
-        ]
-      },
-      {
-        "trend": "outbreak",
-        "market_code": "KR",
-        "category": "Outbreaks",
-        "score": 14,
-        "examples": [
-          "Ebola Outbreak: What You Need to Know - Project HOPE",
-          "Israel Joins Kenya, Uganda, Rwanda, South Sudan and Democratic Republic of the Congo in a High-Stakes Ebola Travel Security Alert as Confirmed DRC and Uganda Outbreak Triggers New Airline Boarding Checks, Border Screening and Regional Health - Travel And Tour World",
-          "Hantavirus Outbreak On MV Hondius Cruise Exposes Hidden Agricultural Threat - Eurasia Review"
+          "Broward Health Names Cornelius Powell, M.D. New Chief Medical Officer of Broward Health North - Florida Hospital News and Healthcare Report",
+          "Broward Health Names Cornelius Powell, M.D. New Chief Medical Officer of Broward Health North - Florida Hospital News and Healthcare Report",
+          "SAMHSA Announces $40 Million in Funding Opportunities to Prevent Addiction, and Address Child Trauma, Suicide, Mental Illness - Florida Hospital News and Healthcare Report"
         ]
       },
       {
         "trend": "mental",
         "market_code": "KR",
         "category": "Mental Health",
-        "score": 13,
+        "score": 15,
         "examples": [
           "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF",
-          "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF",
+          "News4’s Tony Perkins joins Joe Clair for men’s mental health event - NBC4 Washington",
           "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF"
         ]
       },
@@ -1670,11 +1659,33 @@
         "trend": "mental health",
         "market_code": "KR",
         "category": "Mental Health",
-        "score": 13,
+        "score": 14,
         "examples": [
           "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF",
-          "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF",
+          "News4’s Tony Perkins joins Joe Clair for men’s mental health event - NBC4 Washington",
           "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF"
+        ]
+      },
+      {
+        "trend": "outbreak",
+        "market_code": "KR",
+        "category": "Outbreaks",
+        "score": 13,
+        "examples": [
+          "Outbreak 2.0 brings public health careers to life - Homenewshere.com",
+          "Scientists Race to Test Treatments as Ebola Outbreak Widens - The New York Times",
+          "WHO director-general is profoundly concerned after visit to Ebola outbreak area - statnews.com"
+        ]
+      },
+      {
+        "trend": "hospital",
+        "market_code": "KR",
+        "category": "Asia Health",
+        "score": 10,
+        "examples": [
+          "Broward Health Names Cornelius Powell, M.D. New Chief Medical Officer of Broward Health North - Florida Hospital News and Healthcare Report",
+          "Broward Health Names Cornelius Powell, M.D. New Chief Medical Officer of Broward Health North - Florida Hospital News and Healthcare Report",
+          "Brushing Your Teeth Could Help Prevent a Deadly Hospital Infection - ScienceAlert"
         ]
       },
       {
@@ -1683,9 +1694,20 @@
         "category": "Chronic Disease",
         "score": 10,
         "examples": [
+          "GLP-1 Drugs May Protect Against Cancer— Here’s What That Means For Public Health - Forbes",
           "Valley man shares warning during Men's Health & National Cancer Survivors Month - ABC15 Arizona",
-          "How Clinical Trials Help to Increase Cancer Survivorship in Quantity and Quality - CU Anschutz newsroom",
-          "Pancreatic cancer experts, patients applaud new KRAS inhibitor therapy - Fred Hutchinson Cancer Center"
+          "How Clinical Trials Help to Increase Cancer Survivorship in Quantity and Quality - CU Anschutz newsroom"
+        ]
+      },
+      {
+        "trend": "public health",
+        "market_code": "KR",
+        "category": "Asia Health",
+        "score": 9,
+        "examples": [
+          "Five Laredo public health projects selected for national conference - Laredo Morning Times",
+          "Outbreak 2.0 brings public health careers to life - Homenewshere.com",
+          "Public Health Class of 2026 is Making an Impact - UC San Diego Today"
         ]
       },
       {
@@ -1700,47 +1722,25 @@
         ]
       },
       {
+        "trend": "infection",
+        "market_code": "KR",
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "Brushing Your Teeth Could Help Prevent a Deadly Hospital Infection - ScienceAlert",
+          "β-catenin-driven innate and metabolic reprograming in macrophages fuel T-cell-dependent inflammation in Toxoplasma gondii infection: implications for therapeutic intervention - Nature",
+          "CDC sleuthing helps decipher drug-resistant infection rise - Phys.org"
+        ]
+      },
+      {
         "trend": "children",
         "market_code": "KR",
         "category": "Children Health",
         "score": 8,
         "examples": [
-          "Ebola Outbreak in DRC – Protect Families & Children in Crisis - Save the Children",
-          "Ebola Outbreak in DRC – Protect Families & Children in Crisis - Save the Children",
-          "Why grandparents matter more than ever for children's mental health - ScienceDaily"
-        ]
-      },
-      {
-        "trend": "ebola outbreak",
-        "market_code": "KR",
-        "category": "Outbreaks",
-        "score": 7,
-        "examples": [
-          "Ebola Outbreak: What You Need to Know - Project HOPE",
-          "Ebola Outbreak: What You Need to Know - Project HOPE",
-          "Ebola outbreak in DR Congo expands into large displacement camp - CIDRAP"
-        ]
-      },
-      {
-        "trend": "warnings",
-        "market_code": "KR",
-        "category": "Asia Health",
-        "score": 6,
-        "examples": [
-          "Why the penis is a barometer of men's health - and we need to wake up to its warnings - BBC",
-          "Why the penis is a barometer of men's health - and we need to wake up to its warnings - BBC",
-          "San Joaquin Valley sees smoke spread from Tracy fire, air warnings issued - ABC10"
-        ]
-      },
-      {
-        "trend": "public health",
-        "market_code": "KR",
-        "category": "Asia Health",
-        "score": 6,
-        "examples": [
-          "Public Health Class of 2026 is Making an Impact - UC San Diego Today",
-          "Disaggregating Public Health Data by Race and Ethnicity to Improve Public Health - Race, Racism and the Law",
-          "Disaggregating Public Health Data by Race and Ethnicity to Improve Public Health - Race, Racism and the Law"
+          "Advocates warn law could risk health of ill undocumented children - WBIR",
+          "Why grandparents matter more than ever for children's mental health - ScienceDaily",
+          "Newsweek names UC Davis Children’s Hospital among America’s best - University of California - Davis Health"
         ]
       }
     ],
@@ -1749,40 +1749,29 @@
         "trend": "health",
         "market_code": "IN",
         "category": "Asia Health",
-        "score": 65,
+        "score": 76,
         "examples": [
           "Transfer of Kerala's Director of Health Services kicks up a row - The Hindu",
           "Why the penis is a barometer of men's health - and we need to wake up to its warnings - BBC",
-          "WHO SEARO and George Institute for Global Health lay focus on digital health and AI for NCDs - BioSpectrum India"
+          "Ebola disease caused by Bundibugyo virus, Democratic Republic of the Congo & Uganda - World Health Organization (WHO)"
         ]
       },
       {
         "trend": "healthcare",
         "market_code": "IN",
         "category": "Asia Health",
-        "score": 18,
+        "score": 15,
         "examples": [
           "Intensified Efforts Needed To End Leprosy Transmission In High-burden Districts: Health Ministry Official - BW Healthcare",
-          "AI in Healthcare 2.0 conference inaugurated at Yashoda Hospitals in Hyderabad - Telangana Today",
-          "Intensified Efforts Needed To End Leprosy Transmission In High-burden Districts: Health Ministry Official - BW Healthcare"
-        ]
-      },
-      {
-        "trend": "medical",
-        "market_code": "IN",
-        "category": "Asia Health",
-        "score": 14,
-        "examples": [
-          "Bihar Health Department decides to offer MBBS course to medical students in Hindi - News On AIR",
-          "Etihad and DCT Abu Dhabi introduce complimentary medical travel insurance for international visitors - ET TravelWorld",
-          "College Sends Medical Student On 15-Day Forced Leave After Cadaver Remark Row - NDTV"
+          "Seven-day agitation begins in Longkhim over healthcare crisis - MorungExpress",
+          "FSSAI Advises Against Using Newspapers For Wrapping Or Serving Food Due To Health Risks - BW Healthcare"
         ]
       },
       {
         "trend": "virus",
         "market_code": "IN",
         "category": "Outbreaks",
-        "score": 13,
+        "score": 14,
         "examples": [
           "Ebola disease caused by Bundibugyo virus, Democratic Republic of the Congo & Uganda - World Health Organization (WHO)",
           "Ebola disease caused by Bundibugyo virus, Democratic Republic of the Congo & Uganda - World Health Organization (WHO)",
@@ -1796,85 +1785,96 @@
         "score": 13,
         "examples": [
           "Israel Joins Kenya, Uganda, Rwanda, South Sudan and Democratic Republic of the Congo in a High-Stakes Ebola Travel Security Alert as Confirmed DRC and Uganda Outbreak Triggers New Airline Boarding Checks, Border Screening and Regional Health - Travel And Tour World",
-          "Bangladesh: Measles outbreak claimed 9 more deaths during 24 hrs - News On AIR",
-          "Ebola Outbreak: What You Need to Know - Project HOPE"
+          "Hantavirus Outbreak On MV Hondius Cruise Exposes Hidden Agricultural Threat - Eurasia Review",
+          "Bangladesh: Measles outbreak claimed 9 more deaths during 24 hrs - News On AIR"
+        ]
+      },
+      {
+        "trend": "medical",
+        "market_code": "IN",
+        "category": "Asia Health",
+        "score": 12,
+        "examples": [
+          "Bihar Health Department decides to offer MBBS course to medical students in Hindi - News On AIR",
+          "College Sends Medical Student On 15-Day Forced Leave After Cadaver Remark Row - NDTV",
+          "In a medical emergency, humanity must come before procedure, says Punjab & Haryana HC - ThePrint"
         ]
       },
       {
         "trend": "mental",
         "market_code": "IN",
         "category": "Mental Health",
-        "score": 10,
-        "examples": [
-          "The Supreme Court-Appointed National Task Force (NTF) on Student Mental Health and Suicides - INSIGHTS IAS",
-          "World Mental Health Day 2024: Focus on ‘Mental Health at Work’ - News On AIR",
-          "World Mental Health Day 2024: Focus on ‘Mental Health at Work’ - News On AIR"
-        ]
-      },
-      {
-        "trend": "children",
-        "market_code": "IN",
-        "category": "Children Health",
         "score": 9,
         "examples": [
-          "Ebola Outbreak in DRC – Protect Families & Children in Crisis - Save the Children",
-          "Ebola Outbreak in DRC – Protect Families & Children in Crisis - Save the Children",
-          "Ebola Outbreak in DRC – Protect Families & Children in Crisis - Save the Children"
-        ]
-      },
-      {
-        "trend": "mental health",
-        "market_code": "IN",
-        "category": "Mental Health",
-        "score": 9,
-        "examples": [
+          "Why grandparents matter more than ever for children's mental health - ScienceDaily",
           "The Supreme Court-Appointed National Task Force (NTF) on Student Mental Health and Suicides - INSIGHTS IAS",
-          "World Mental Health Day 2024: Focus on ‘Mental Health at Work’ - News On AIR",
-          "World Mental Health Day 2024: Focus on ‘Mental Health at Work’ - News On AIR"
+          "As AI Begins Building AI, Mental Health Experts Face New Questions - Forbes"
         ]
       },
       {
         "trend": "hospitals",
         "market_code": "IN",
         "category": "Asia Health",
-        "score": 7,
+        "score": 8,
         "examples": [
-          "More strikes impact Lebanon hospitals as humanitarian situation deteriorates - UN News",
-          "More strikes impact Lebanon hospitals as humanitarian situation deteriorates - UN News",
-          "Nashik civic body issues notices to 21 private hospitals over regulatory violations - Medical Dialogues"
+          "Govt Hospitals Witness Higher Footfall, Improved Services: Satya Kumar - Deccan Chronicle",
+          "Maharashtra FDA bars hospitals from forcing patients to buy medicines in-house - The Economic Times",
+          "Government hospitals record sharp rise in surgeries, diagnostic tests: Health Minister - The Hindu"
         ]
       },
       {
-        "trend": "health ministry",
+        "trend": "mental health",
         "market_code": "IN",
-        "category": "Asia Health",
-        "score": 6,
+        "category": "Mental Health",
+        "score": 8,
         "examples": [
-          "Health Ministry Pushes Intensified Action Plan to Eliminate Leprosy in India - The Indian Practitioner",
-          "Health Ministry deputes high-level team to Pune to monitor Guillain Barre Syndrome cases - News On AIR",
-          "Intensified Efforts Needed To End Leprosy Transmission In High-burden Districts: Health Ministry Official - BW Healthcare"
+          "Why grandparents matter more than ever for children's mental health - ScienceDaily",
+          "The Supreme Court-Appointed National Task Force (NTF) on Student Mental Health and Suicides - INSIGHTS IAS",
+          "As AI Begins Building AI, Mental Health Experts Face New Questions - Forbes"
         ]
       },
       {
         "trend": "disease",
         "market_code": "IN",
         "category": "Asia Health",
-        "score": 6,
+        "score": 7,
         "examples": [
           "Ebola disease caused by Bundibugyo virus, Democratic Republic of the Congo & Uganda - World Health Organization (WHO)",
           "Ebola disease caused by Bundibugyo virus, Democratic Republic of the Congo & Uganda - World Health Organization (WHO)",
-          "Ebola disease caused by Bundibugyo virus, Democratic Republic of the Congo & Uganda - World Health Organization (WHO)"
+          "Health sleuths are watching for disease threats during the World Cup - JC Post"
         ]
       },
       {
-        "trend": "heart",
+        "trend": "hospital",
         "market_code": "IN",
-        "category": "Chronic Disease",
-        "score": 6,
+        "category": "Asia Health",
+        "score": 7,
         "examples": [
-          "Teen with aggressive blood cancer, sepsis and heart infection achieves remission against the odds - The Times of India",
-          "Early menopause before 40 raises heart attack, stroke risk by up to 40%, says study - The Indian Express",
-          "New clinical guidelines target interconnected heart, kidney and metabolic risks - News-Medical"
+          "Honble Minister for Health & Medical Education, Social Welfare and Education, Miss Sakina Itoo-NC Noorabad visited SMHS Hospital, Srinagar - AIMA Media",
+          "Brushing Your Teeth Could Help Prevent a Deadly Hospital Infection - ScienceAlert",
+          "The Women’s Hospital Appoints Dr Anjila Aneja - Passionate In Marketing"
+        ]
+      },
+      {
+        "trend": "children",
+        "market_code": "IN",
+        "category": "Children Health",
+        "score": 7,
+        "examples": [
+          "Advocates warn law could risk health of ill undocumented children - WBIR",
+          "Ebola Outbreak in DRC – Protect Families & Children in Crisis - Save the Children",
+          "Ebola Outbreak in DRC – Protect Families & Children in Crisis - Save the Children"
+        ]
+      },
+      {
+        "trend": "infection",
+        "market_code": "IN",
+        "category": "Outbreaks",
+        "score": 7,
+        "examples": [
+          "As Kerala handles first Nipah virus case of 2026, a debate over source of infection - India Today",
+          "Brushing Your Teeth Could Help Prevent a Deadly Hospital Infection - ScienceAlert",
+          "Teen with aggressive blood cancer, sepsis and heart infection achieves remission against the odds - The Times of India"
         ]
       }
     ],
@@ -1883,21 +1883,21 @@
         "trend": "health",
         "market_code": "AU",
         "category": "Global Health",
-        "score": 60,
+        "score": 66,
         "examples": [
           "Ebola disease caused by Bundibugyo virus, Democratic Republic of the Congo & Uganda - World Health Organization (WHO)",
-          "Cycling is a Disaster for Bone Health – Here’s How to Stop your Skeleton Turning to Chalk - Outside Magazine",
-          "Why the penis is a barometer of men's health - and we need to wake up to its warnings - BBC"
+          "Minns promises $10b health boom - News.com.au",
+          "Cycling is a Disaster for Bone Health – Here’s How to Stop your Skeleton Turning to Chalk - Outside Magazine"
         ]
       },
       {
         "trend": "medical",
         "market_code": "AU",
         "category": "Global Health",
-        "score": 21,
+        "score": 18,
         "examples": [
-          "Black Smoke From Medical Supply Warehouse Fire Shrouds Sky - News.com.au",
-          "Medical Cure or Designer Baby? A New Approach to Editing Embryos Ignites Debate. - The New York Times",
+          "Opinion | In Our Dog-Eat-Dog Medical Culture, Physicians Lose - MedPage Today",
+          "Medical Reports & Withdrawals Tour Auvergne-Rhône-Alpes 2026 stage 7 - Seixas crashes; Onley injured; Almeida, Nordhagen, Healy and Martínez leave the race; Visma block ill - CyclingUpToDate.com",
           "CMF calls for prayer and support after medical staff targeted in Northern Ireland riots - www.christiandaily.com"
         ]
       },
@@ -1907,31 +1907,20 @@
         "category": "Outbreaks",
         "score": 15,
         "examples": [
+          "Public health agency concerned latest Ebola outbreak could become largest on record - SBS Australia",
           "Ebola Outbreak: What You Need to Know - Project HOPE",
-          "Israel Joins Kenya, Uganda, Rwanda, South Sudan and Democratic Republic of the Congo in a High-Stakes Ebola Travel Security Alert as Confirmed DRC and Uganda Outbreak Triggers New Airline Boarding Checks, Border Screening and Regional Health - Travel And Tour World",
-          "Hantavirus Outbreak On MV Hondius Cruise Exposes Hidden Agricultural Threat - Eurasia Review"
+          "Israel Joins Kenya, Uganda, Rwanda, South Sudan and Democratic Republic of the Congo in a High-Stakes Ebola Travel Security Alert as Confirmed DRC and Uganda Outbreak Triggers New Airline Boarding Checks, Border Screening and Regional Health - Travel And Tour World"
         ]
       },
       {
         "trend": "healthcare",
         "market_code": "AU",
         "category": "Global Health",
-        "score": 14,
+        "score": 13,
         "examples": [
+          "Peptide Fad Gripping America Reflects Outsize Role Of Influencers In Healthcare - Forbes",
           "FSSAI Advises Against Using Newspapers For Wrapping Or Serving Food Due To Health Risks - BW Healthcare",
-          "Industry calls for substantial reform to UK’s AI regulation in healthcare - Medical Device Network",
-          "The AI frenzy in healthcare - Karolinska Institutet"
-        ]
-      },
-      {
-        "trend": "virus",
-        "market_code": "AU",
-        "category": "Outbreaks",
-        "score": 12,
-        "examples": [
-          "Ebola disease caused by Bundibugyo virus, Democratic Republic of the Congo & Uganda - World Health Organization (WHO)",
-          "Why women with HIV are still dying early, even when virus is not main cause - Medical Xpress",
-          "Ebola disease caused by Bundibugyo virus, Democratic Republic of the Congo & Uganda - World Health Organization (WHO)"
+          "Industry calls for substantial reform to UK’s AI regulation in healthcare - Medical Device Network"
         ]
       },
       {
@@ -1940,9 +1929,20 @@
         "category": "Mental Health",
         "score": 11,
         "examples": [
-          "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF",
-          "Social media linked to mental health issues for teens - Nine.com.au",
-          "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF"
+          "Online racism is significantly affecting mental health, First Nations people say: ‘It’s like carrying a bully in your pocket’ - The Guardian",
+          "Why grandparents matter more than ever for children's mental health - ScienceDaily",
+          "Online racism is significantly affecting mental health, First Nations people say: ‘It’s like carrying a bully in your pocket’ - The Guardian"
+        ]
+      },
+      {
+        "trend": "children",
+        "market_code": "AU",
+        "category": "Children Health",
+        "score": 11,
+        "examples": [
+          "Why grandparents matter more than ever for children's mental health - ScienceDaily",
+          "Ebola Outbreak in DRC – Protect Families & Children in Crisis - Save the Children",
+          "Ebola Outbreak in DRC – Protect Families & Children in Crisis - Save the Children"
         ]
       },
       {
@@ -1951,9 +1951,9 @@
         "category": "Mental Health",
         "score": 10,
         "examples": [
-          "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF",
-          "Social media linked to mental health issues for teens - Nine.com.au",
-          "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF"
+          "Online racism is significantly affecting mental health, First Nations people say: ‘It’s like carrying a bully in your pocket’ - The Guardian",
+          "Why grandparents matter more than ever for children's mental health - ScienceDaily",
+          "Online racism is significantly affecting mental health, First Nations people say: ‘It’s like carrying a bully in your pocket’ - The Guardian"
         ]
       },
       {
@@ -1962,20 +1962,9 @@
         "category": "Outbreaks",
         "score": 10,
         "examples": [
+          "Public health agency concerned latest Ebola outbreak could become largest on record - SBS Australia",
           "Ebola Outbreak: What You Need to Know - Project HOPE",
-          "Ebola Outbreak in DRC – Protect Families & Children in Crisis - Save the Children",
-          "Ebola Outbreak: What You Need to Know - Project HOPE"
-        ]
-      },
-      {
-        "trend": "children",
-        "market_code": "AU",
-        "category": "Children Health",
-        "score": 9,
-        "examples": [
-          "Ebola Outbreak in DRC – Protect Families & Children in Crisis - Save the Children",
-          "Ebola Outbreak in DRC – Protect Families & Children in Crisis - Save the Children",
-          "Ebola Outbreak in DRC – Protect Families & Children in Crisis - Save the Children"
+          "Public health agency concerned latest Ebola outbreak could become largest on record - SBS Australia"
         ]
       },
       {
@@ -1985,8 +1974,30 @@
         "score": 8,
         "examples": [
           "Ebola disease caused by Bundibugyo virus, Democratic Republic of the Congo & Uganda - World Health Organization (WHO)",
+          "Long-read DNA test lifts rare disease diagnoses and could replace 15 other tests - Medical Xpress",
+          "Ebola disease caused by Bundibugyo virus, Democratic Republic of the Congo & Uganda - World Health Organization (WHO)"
+        ]
+      },
+      {
+        "trend": "virus",
+        "market_code": "AU",
+        "category": "Outbreaks",
+        "score": 8,
+        "examples": [
           "Ebola disease caused by Bundibugyo virus, Democratic Republic of the Congo & Uganda - World Health Organization (WHO)",
-          "Trio of cases in central Newfoundland prompts advisory on meningococcal disease - CBC"
+          "Ebola disease caused by Bundibugyo virus, Democratic Republic of the Congo & Uganda - World Health Organization (WHO)",
+          "Ebola disease caused by Bundibugyo virus, Democratic Republic of the Congo & Uganda - World Health Organization (WHO)"
+        ]
+      },
+      {
+        "trend": "hospital",
+        "market_code": "AU",
+        "category": "Global Health",
+        "score": 7,
+        "examples": [
+          "Brushing Your Teeth Could Help Prevent a Deadly Hospital Infection - ScienceAlert",
+          "Newsweek names UC Davis Children’s Hospital among America’s best - University of California - Davis Health",
+          "Nationwide Children’s Hospital incorporates reading literacy into routine visits - American Hospital Association"
         ]
       },
       {
@@ -1999,17 +2010,6 @@
           "Ebola disease caused by Bundibugyo virus, Democratic Republic of the Congo & Uganda - World Health Organization (WHO)",
           "Safeguarding the Beautiful Game: DisasterAWARE Powers World Cup Health Security - Pacific Disaster Center | (PDC Global)"
         ]
-      },
-      {
-        "trend": "heart",
-        "market_code": "AU",
-        "category": "Chronic Disease",
-        "score": 6,
-        "examples": [
-          "Teen with aggressive blood cancer, sepsis and heart infection achieves remission against the odds - The Times of India",
-          "New clinical guidelines target interconnected heart, kidney and metabolic risks - News-Medical",
-          "GLP-1 drugs linked to major heart and kidney benefits - MSN"
-        ]
       }
     ],
     "Canada": [
@@ -2017,66 +2017,66 @@
         "trend": "health",
         "market_code": "CA",
         "category": "Global Health",
-        "score": 65,
+        "score": 70,
         "examples": [
           "'They're not alone': Summit addresses Indigenous organ health barriers - Northwest Ontario News",
-          "Out-of-this-world medical tech could boost health care on Earth, researchers say - CBC",
-          "Cycling is a Disaster for Bone Health – Here’s How to Stop your Skeleton Turning to Chalk - Outside Magazine"
+          "Northern author releases memoir on addiction and men's mental health - TimminsToday.com",
+          "Out-of-this-world medical tech could boost health care on Earth, researchers say - CBC"
         ]
       },
       {
         "trend": "medical",
         "market_code": "CA",
         "category": "Global Health",
-        "score": 20,
+        "score": 18,
         "examples": [
           "Out-of-this-world medical tech could boost health care on Earth, researchers say - CBC",
-          "Out-of-this-world medical tech could boost health care on Earth, researchers say - CBC",
-          "Feds announce first Defence Industrial Strategy-related medical countermeasures project with $75-million for Canadian Blood Services - The Hill Times"
-        ]
-      },
-      {
-        "trend": "healthcare",
-        "market_code": "CA",
-        "category": "Global Health",
-        "score": 13,
-        "examples": [
-          "Industry calls for substantial reform to UK’s AI regulation in healthcare - Medical Device Network",
-          "QingSong Health Corp (2661.HK) and Basel Medical Sign Strategic Cooperation Memorandum to Explore AI Healthcare Services in Southeast Asia - Yahoo Finance",
-          "The AI frenzy in healthcare - Karolinska Institutet"
+          "Keenan: Six medical tests men should not ignore - Calgary Herald",
+          "Out-of-this-world medical tech could boost health care on Earth, researchers say - CBC"
         ]
       },
       {
         "trend": "outbreak",
         "market_code": "CA",
         "category": "Outbreaks",
+        "score": 18,
+        "examples": [
+          "NL Health Services declares outbreak of invasive Meningococcal Disease in central Newfoundland - ntv.ca",
+          "NL Health Services declares outbreak of invasive Meningococcal Disease in central Newfoundland - ntv.ca",
+          "Outbreak 2.0 brings public health careers to life - Homenewshere.com"
+        ]
+      },
+      {
+        "trend": "disease",
+        "market_code": "CA",
+        "category": "Global Health",
         "score": 12,
         "examples": [
-          "Israel Joins Kenya, Uganda, Rwanda, South Sudan and Democratic Republic of the Congo in a High-Stakes Ebola Travel Security Alert as Confirmed DRC and Uganda Outbreak Triggers New Airline Boarding Checks, Border Screening and Regional Health - Travel And Tour World",
-          "Hantavirus Outbreak On MV Hondius Cruise Exposes Hidden Agricultural Threat - Eurasia Review",
-          "Ebola Outbreak in DRC – Protect Families & Children in Crisis - Save the Children"
+          "NL Health Services declares outbreak of invasive Meningococcal Disease in central Newfoundland - ntv.ca",
+          "NL Health Services declares outbreak of invasive Meningococcal Disease in central Newfoundland - ntv.ca",
+          "Ebola disease caused by Bundibugyo virus, Democratic Republic of the Congo & Uganda - World Health Organization (WHO)"
+        ]
+      },
+      {
+        "trend": "cancer",
+        "market_code": "CA",
+        "category": "Chronic Disease",
+        "score": 11,
+        "examples": [
+          "GLP-1 Drugs May Protect Against Cancer— Here’s What That Means For Public Health - Forbes",
+          "Valley man shares warning during Men's Health & National Cancer Survivors Month - Yahoo News Canada",
+          "Valley man shares warning during Men's Health & National Cancer Survivors Month - ABC15 Arizona"
         ]
       },
       {
         "trend": "mental",
         "market_code": "CA",
         "category": "Mental Health",
-        "score": 11,
+        "score": 10,
         "examples": [
-          "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF",
-          "Black women in Canada are facing a mental health crisis. This clinic is trying to help - CBC",
-          "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF"
-        ]
-      },
-      {
-        "trend": "virus",
-        "market_code": "CA",
-        "category": "Outbreaks",
-        "score": 11,
-        "examples": [
-          "Ebola disease caused by Bundibugyo virus, Democratic Republic of the Congo & Uganda - World Health Organization (WHO)",
-          "Ebola disease caused by Bundibugyo virus, Democratic Republic of the Congo & Uganda - World Health Organization (WHO)",
-          "Ebola disease caused by Bundibugyo virus, Democratic Republic of the Congo & Uganda - World Health Organization (WHO)"
+          "Northern author releases memoir on addiction and men's mental health - TimminsToday.com",
+          "Northern author releases memoir on addiction and men's mental health - TimminsToday.com",
+          "Black women in Canada are facing a mental health crisis. This clinic is trying to help - CBC"
         ]
       },
       {
@@ -2085,27 +2085,16 @@
         "category": "Mental Health",
         "score": 10,
         "examples": [
-          "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF",
-          "Black women in Canada are facing a mental health crisis. This clinic is trying to help - CBC",
-          "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF"
-        ]
-      },
-      {
-        "trend": "disease",
-        "market_code": "CA",
-        "category": "Global Health",
-        "score": 9,
-        "examples": [
-          "Ebola disease caused by Bundibugyo virus, Democratic Republic of the Congo & Uganda - World Health Organization (WHO)",
-          "Trio of cases in central Newfoundland prompts advisory on meningococcal disease - CBC",
-          "Trio of cases in central Newfoundland prompts advisory on meningococcal disease - CBC"
+          "Northern author releases memoir on addiction and men's mental health - TimminsToday.com",
+          "Northern author releases memoir on addiction and men's mental health - TimminsToday.com",
+          "Black women in Canada are facing a mental health crisis. This clinic is trying to help - CBC"
         ]
       },
       {
         "trend": "children",
         "market_code": "CA",
         "category": "Children Health",
-        "score": 9,
+        "score": 10,
         "examples": [
           "Ebola Outbreak in DRC – Protect Families & Children in Crisis - Save the Children",
           "Ebola Outbreak in DRC – Protect Families & Children in Crisis - Save the Children",
@@ -2113,14 +2102,36 @@
         ]
       },
       {
-        "trend": "cancer",
+        "trend": "healthcare",
         "market_code": "CA",
-        "category": "Chronic Disease",
+        "category": "Global Health",
+        "score": 10,
+        "examples": [
+          "Industry calls for substantial reform to UK’s AI regulation in healthcare - Medical Device Network",
+          "QingSong Health Corp (2661.HK) and Basel Medical Sign Strategic Cooperation Memorandum to Explore AI Healthcare Services in Southeast Asia - Yahoo Finance",
+          "The AI frenzy in healthcare - Karolinska Institutet"
+        ]
+      },
+      {
+        "trend": "virus",
+        "market_code": "CA",
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "Ebola disease caused by Bundibugyo virus, Democratic Republic of the Congo & Uganda - World Health Organization (WHO)",
+          "Ebola disease caused by Bundibugyo virus, Democratic Republic of the Congo & Uganda - World Health Organization (WHO)",
+          "Ebola disease caused by Bundibugyo virus, Democratic Republic of the Congo & Uganda - World Health Organization (WHO)"
+        ]
+      },
+      {
+        "trend": "ebola outbreak",
+        "market_code": "CA",
+        "category": "Outbreaks",
         "score": 7,
         "examples": [
-          "Pancreatic cancer experts, patients applaud new KRAS inhibitor therapy - Fred Hutchinson Cancer Center",
-          "Pancreatic cancer experts, patients applaud new KRAS inhibitor therapy - Fred Hutchinson Cancer Center",
-          "How Clinical Trials Help to Increase Cancer Survivorship in Quantity and Quality - CU Anschutz newsroom"
+          "What to Know About the Ebola Outbreak - The New York Times",
+          "WHO director-general is profoundly concerned after visit to Ebola outbreak area - statnews.com",
+          "Ebola Outbreak in DRC – Protect Families & Children in Crisis - Save the Children"
         ]
       },
       {
@@ -2133,17 +2144,6 @@
           "Out-of-this-world medical tech could boost health care on Earth, researchers say - CBC",
           "Why is health care spending increasing, and what is changing inside the system? - Statistique Canada"
         ]
-      },
-      {
-        "trend": "doctors",
-        "market_code": "CA",
-        "category": "Global Health",
-        "score": 6,
-        "examples": [
-          "Prime Minister Carney: Listen to your doctors’ warning on Alberta’s Bill 11! - Canadian Health Coalition",
-          "Doctors Inject Human Subjects With First Vaccine Designed by AI - Futurism",
-          "Hong Kong CHP: Locally Acquired Case of H9 Infection - Notification Letter For Doctors - Avian Flu Diary"
-        ]
       }
     ],
     "United Arab Emirates": [
@@ -2151,54 +2151,43 @@
         "trend": "health",
         "market_code": "AE",
         "category": "Arab Health",
-        "score": 68,
+        "score": 75,
         "examples": [
           "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF",
           "Cycling is a Disaster for Bone Health – Here’s How to Stop your Skeleton Turning to Chalk - Outside Magazine",
-          "Tracy, California Medline Warehouse Fire: Here are the public safety, health and employment impacts - ABC7 Bay Area"
+          "Novant Health Scotts Hill Medical Center hosts community day ahead of opening - WECT"
         ]
       },
       {
         "trend": "medical",
         "market_code": "AE",
         "category": "Arab Health",
-        "score": 17,
+        "score": 23,
         "examples": [
-          "Medical Cure or Designer Baby? A New Approach to Editing Embryos Ignites Debate. - The New York Times",
-          "Hospitals prepare for medical supply shortages following Medline warehouse fire in Tracy - ABC30 Fresno",
-          "False active shooter report prompts major police response at Blackwell Medical Tower - WAFF"
+          "Novant Health Scotts Hill Medical Center hosts community day ahead of opening - WECT",
+          "Broward Health Names Cornelius Powell, M.D. New Chief Medical Officer of Broward Health North - Florida Hospital News and Healthcare Report",
+          "Novant Health Scotts Hill Medical Center hosts community day ahead of opening - WECT"
         ]
       },
       {
         "trend": "healthcare",
         "market_code": "AE",
         "category": "Arab Health",
-        "score": 16,
+        "score": 17,
         "examples": [
-          "CMS creates office dedicated to health technology - Healthcare Dive",
-          "CMS creates office dedicated to health technology - Healthcare Dive",
-          "Exclusive | Nvidia Is Developing an AI Healthcare Model With Startup Abridge - WSJ"
-        ]
-      },
-      {
-        "trend": "outbreak",
-        "market_code": "AE",
-        "category": "Outbreaks",
-        "score": 14,
-        "examples": [
-          "Ebola Outbreak: What You Need to Know - Project HOPE",
-          "Israel Joins Kenya, Uganda, Rwanda, South Sudan and Democratic Republic of the Congo in a High-Stakes Ebola Travel Security Alert as Confirmed DRC and Uganda Outbreak Triggers New Airline Boarding Checks, Border Screening and Regional Health - Travel And Tour World",
-          "Hantavirus Outbreak On MV Hondius Cruise Exposes Hidden Agricultural Threat - Eurasia Review"
+          "Broward Health Names Cornelius Powell, M.D. New Chief Medical Officer of Broward Health North - Florida Hospital News and Healthcare Report",
+          "Broward Health Names Cornelius Powell, M.D. New Chief Medical Officer of Broward Health North - Florida Hospital News and Healthcare Report",
+          "SAMHSA Announces $40 Million in Funding Opportunities to Prevent Addiction, and Address Child Trauma, Suicide, Mental Illness - Florida Hospital News and Healthcare Report"
         ]
       },
       {
         "trend": "mental",
         "market_code": "AE",
         "category": "Mental Health",
-        "score": 13,
+        "score": 15,
         "examples": [
           "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF",
-          "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF",
+          "News4’s Tony Perkins joins Joe Clair for men’s mental health event - NBC4 Washington",
           "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF"
         ]
       },
@@ -2206,11 +2195,33 @@
         "trend": "mental health",
         "market_code": "AE",
         "category": "Mental Health",
-        "score": 13,
+        "score": 14,
         "examples": [
           "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF",
-          "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF",
+          "News4’s Tony Perkins joins Joe Clair for men’s mental health event - NBC4 Washington",
           "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF"
+        ]
+      },
+      {
+        "trend": "outbreak",
+        "market_code": "AE",
+        "category": "Outbreaks",
+        "score": 13,
+        "examples": [
+          "Outbreak 2.0 brings public health careers to life - Homenewshere.com",
+          "Scientists Race to Test Treatments as Ebola Outbreak Widens - The New York Times",
+          "WHO director-general is profoundly concerned after visit to Ebola outbreak area - statnews.com"
+        ]
+      },
+      {
+        "trend": "hospital",
+        "market_code": "AE",
+        "category": "Arab Health",
+        "score": 10,
+        "examples": [
+          "Broward Health Names Cornelius Powell, M.D. New Chief Medical Officer of Broward Health North - Florida Hospital News and Healthcare Report",
+          "Broward Health Names Cornelius Powell, M.D. New Chief Medical Officer of Broward Health North - Florida Hospital News and Healthcare Report",
+          "Brushing Your Teeth Could Help Prevent a Deadly Hospital Infection - ScienceAlert"
         ]
       },
       {
@@ -2219,9 +2230,20 @@
         "category": "Chronic Disease",
         "score": 10,
         "examples": [
+          "GLP-1 Drugs May Protect Against Cancer— Here’s What That Means For Public Health - Forbes",
           "Valley man shares warning during Men's Health & National Cancer Survivors Month - ABC15 Arizona",
-          "How Clinical Trials Help to Increase Cancer Survivorship in Quantity and Quality - CU Anschutz newsroom",
-          "Pancreatic cancer experts, patients applaud new KRAS inhibitor therapy - Fred Hutchinson Cancer Center"
+          "How Clinical Trials Help to Increase Cancer Survivorship in Quantity and Quality - CU Anschutz newsroom"
+        ]
+      },
+      {
+        "trend": "public health",
+        "market_code": "AE",
+        "category": "Arab Health",
+        "score": 9,
+        "examples": [
+          "Five Laredo public health projects selected for national conference - Laredo Morning Times",
+          "Outbreak 2.0 brings public health careers to life - Homenewshere.com",
+          "Public Health Class of 2026 is Making an Impact - UC San Diego Today"
         ]
       },
       {
@@ -2236,47 +2258,25 @@
         ]
       },
       {
+        "trend": "infection",
+        "market_code": "AE",
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "Brushing Your Teeth Could Help Prevent a Deadly Hospital Infection - ScienceAlert",
+          "β-catenin-driven innate and metabolic reprograming in macrophages fuel T-cell-dependent inflammation in Toxoplasma gondii infection: implications for therapeutic intervention - Nature",
+          "CDC sleuthing helps decipher drug-resistant infection rise - Phys.org"
+        ]
+      },
+      {
         "trend": "children",
         "market_code": "AE",
         "category": "Children Health",
         "score": 8,
         "examples": [
-          "Ebola Outbreak in DRC – Protect Families & Children in Crisis - Save the Children",
-          "Ebola Outbreak in DRC – Protect Families & Children in Crisis - Save the Children",
-          "Why grandparents matter more than ever for children's mental health - ScienceDaily"
-        ]
-      },
-      {
-        "trend": "ebola outbreak",
-        "market_code": "AE",
-        "category": "Outbreaks",
-        "score": 7,
-        "examples": [
-          "Ebola Outbreak: What You Need to Know - Project HOPE",
-          "Ebola Outbreak: What You Need to Know - Project HOPE",
-          "Ebola outbreak in DR Congo expands into large displacement camp - CIDRAP"
-        ]
-      },
-      {
-        "trend": "warnings",
-        "market_code": "AE",
-        "category": "Arab Health",
-        "score": 6,
-        "examples": [
-          "Why the penis is a barometer of men's health - and we need to wake up to its warnings - BBC",
-          "Why the penis is a barometer of men's health - and we need to wake up to its warnings - BBC",
-          "San Joaquin Valley sees smoke spread from Tracy fire, air warnings issued - ABC10"
-        ]
-      },
-      {
-        "trend": "public health",
-        "market_code": "AE",
-        "category": "Arab Health",
-        "score": 6,
-        "examples": [
-          "Public Health Class of 2026 is Making an Impact - UC San Diego Today",
-          "Disaggregating Public Health Data by Race and Ethnicity to Improve Public Health - Race, Racism and the Law",
-          "Disaggregating Public Health Data by Race and Ethnicity to Improve Public Health - Race, Racism and the Law"
+          "Advocates warn law could risk health of ill undocumented children - WBIR",
+          "Why grandparents matter more than ever for children's mental health - ScienceDaily",
+          "Newsweek names UC Davis Children’s Hospital among America’s best - University of California - Davis Health"
         ]
       }
     ],
@@ -2285,54 +2285,43 @@
         "trend": "health",
         "market_code": "SA",
         "category": "Arab Health",
-        "score": 68,
+        "score": 75,
         "examples": [
           "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF",
           "Cycling is a Disaster for Bone Health – Here’s How to Stop your Skeleton Turning to Chalk - Outside Magazine",
-          "Tracy, California Medline Warehouse Fire: Here are the public safety, health and employment impacts - ABC7 Bay Area"
+          "Novant Health Scotts Hill Medical Center hosts community day ahead of opening - WECT"
         ]
       },
       {
         "trend": "medical",
         "market_code": "SA",
         "category": "Arab Health",
-        "score": 17,
+        "score": 23,
         "examples": [
-          "Medical Cure or Designer Baby? A New Approach to Editing Embryos Ignites Debate. - The New York Times",
-          "Hospitals prepare for medical supply shortages following Medline warehouse fire in Tracy - ABC30 Fresno",
-          "False active shooter report prompts major police response at Blackwell Medical Tower - WAFF"
+          "Novant Health Scotts Hill Medical Center hosts community day ahead of opening - WECT",
+          "Broward Health Names Cornelius Powell, M.D. New Chief Medical Officer of Broward Health North - Florida Hospital News and Healthcare Report",
+          "Novant Health Scotts Hill Medical Center hosts community day ahead of opening - WECT"
         ]
       },
       {
         "trend": "healthcare",
         "market_code": "SA",
         "category": "Arab Health",
-        "score": 16,
+        "score": 17,
         "examples": [
-          "CMS creates office dedicated to health technology - Healthcare Dive",
-          "CMS creates office dedicated to health technology - Healthcare Dive",
-          "Exclusive | Nvidia Is Developing an AI Healthcare Model With Startup Abridge - WSJ"
-        ]
-      },
-      {
-        "trend": "outbreak",
-        "market_code": "SA",
-        "category": "Outbreaks",
-        "score": 14,
-        "examples": [
-          "Ebola Outbreak: What You Need to Know - Project HOPE",
-          "Israel Joins Kenya, Uganda, Rwanda, South Sudan and Democratic Republic of the Congo in a High-Stakes Ebola Travel Security Alert as Confirmed DRC and Uganda Outbreak Triggers New Airline Boarding Checks, Border Screening and Regional Health - Travel And Tour World",
-          "Hantavirus Outbreak On MV Hondius Cruise Exposes Hidden Agricultural Threat - Eurasia Review"
+          "Broward Health Names Cornelius Powell, M.D. New Chief Medical Officer of Broward Health North - Florida Hospital News and Healthcare Report",
+          "Broward Health Names Cornelius Powell, M.D. New Chief Medical Officer of Broward Health North - Florida Hospital News and Healthcare Report",
+          "SAMHSA Announces $40 Million in Funding Opportunities to Prevent Addiction, and Address Child Trauma, Suicide, Mental Illness - Florida Hospital News and Healthcare Report"
         ]
       },
       {
         "trend": "mental",
         "market_code": "SA",
         "category": "Mental Health",
-        "score": 13,
+        "score": 15,
         "examples": [
           "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF",
-          "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF",
+          "News4’s Tony Perkins joins Joe Clair for men’s mental health event - NBC4 Washington",
           "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF"
         ]
       },
@@ -2340,11 +2329,33 @@
         "trend": "mental health",
         "market_code": "SA",
         "category": "Mental Health",
-        "score": 13,
+        "score": 14,
         "examples": [
           "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF",
-          "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF",
+          "News4’s Tony Perkins joins Joe Clair for men’s mental health event - NBC4 Washington",
           "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF"
+        ]
+      },
+      {
+        "trend": "outbreak",
+        "market_code": "SA",
+        "category": "Outbreaks",
+        "score": 13,
+        "examples": [
+          "Outbreak 2.0 brings public health careers to life - Homenewshere.com",
+          "Scientists Race to Test Treatments as Ebola Outbreak Widens - The New York Times",
+          "WHO director-general is profoundly concerned after visit to Ebola outbreak area - statnews.com"
+        ]
+      },
+      {
+        "trend": "hospital",
+        "market_code": "SA",
+        "category": "Arab Health",
+        "score": 10,
+        "examples": [
+          "Broward Health Names Cornelius Powell, M.D. New Chief Medical Officer of Broward Health North - Florida Hospital News and Healthcare Report",
+          "Broward Health Names Cornelius Powell, M.D. New Chief Medical Officer of Broward Health North - Florida Hospital News and Healthcare Report",
+          "Brushing Your Teeth Could Help Prevent a Deadly Hospital Infection - ScienceAlert"
         ]
       },
       {
@@ -2353,9 +2364,20 @@
         "category": "Chronic Disease",
         "score": 10,
         "examples": [
+          "GLP-1 Drugs May Protect Against Cancer— Here’s What That Means For Public Health - Forbes",
           "Valley man shares warning during Men's Health & National Cancer Survivors Month - ABC15 Arizona",
-          "How Clinical Trials Help to Increase Cancer Survivorship in Quantity and Quality - CU Anschutz newsroom",
-          "Pancreatic cancer experts, patients applaud new KRAS inhibitor therapy - Fred Hutchinson Cancer Center"
+          "How Clinical Trials Help to Increase Cancer Survivorship in Quantity and Quality - CU Anschutz newsroom"
+        ]
+      },
+      {
+        "trend": "public health",
+        "market_code": "SA",
+        "category": "Arab Health",
+        "score": 9,
+        "examples": [
+          "Five Laredo public health projects selected for national conference - Laredo Morning Times",
+          "Outbreak 2.0 brings public health careers to life - Homenewshere.com",
+          "Public Health Class of 2026 is Making an Impact - UC San Diego Today"
         ]
       },
       {
@@ -2370,47 +2392,25 @@
         ]
       },
       {
+        "trend": "infection",
+        "market_code": "SA",
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "Brushing Your Teeth Could Help Prevent a Deadly Hospital Infection - ScienceAlert",
+          "β-catenin-driven innate and metabolic reprograming in macrophages fuel T-cell-dependent inflammation in Toxoplasma gondii infection: implications for therapeutic intervention - Nature",
+          "CDC sleuthing helps decipher drug-resistant infection rise - Phys.org"
+        ]
+      },
+      {
         "trend": "children",
         "market_code": "SA",
         "category": "Children Health",
         "score": 8,
         "examples": [
-          "Ebola Outbreak in DRC – Protect Families & Children in Crisis - Save the Children",
-          "Ebola Outbreak in DRC – Protect Families & Children in Crisis - Save the Children",
-          "Why grandparents matter more than ever for children's mental health - ScienceDaily"
-        ]
-      },
-      {
-        "trend": "ebola outbreak",
-        "market_code": "SA",
-        "category": "Outbreaks",
-        "score": 7,
-        "examples": [
-          "Ebola Outbreak: What You Need to Know - Project HOPE",
-          "Ebola Outbreak: What You Need to Know - Project HOPE",
-          "Ebola outbreak in DR Congo expands into large displacement camp - CIDRAP"
-        ]
-      },
-      {
-        "trend": "warnings",
-        "market_code": "SA",
-        "category": "Arab Health",
-        "score": 6,
-        "examples": [
-          "Why the penis is a barometer of men's health - and we need to wake up to its warnings - BBC",
-          "Why the penis is a barometer of men's health - and we need to wake up to its warnings - BBC",
-          "San Joaquin Valley sees smoke spread from Tracy fire, air warnings issued - ABC10"
-        ]
-      },
-      {
-        "trend": "public health",
-        "market_code": "SA",
-        "category": "Arab Health",
-        "score": 6,
-        "examples": [
-          "Public Health Class of 2026 is Making an Impact - UC San Diego Today",
-          "Disaggregating Public Health Data by Race and Ethnicity to Improve Public Health - Race, Racism and the Law",
-          "Disaggregating Public Health Data by Race and Ethnicity to Improve Public Health - Race, Racism and the Law"
+          "Advocates warn law could risk health of ill undocumented children - WBIR",
+          "Why grandparents matter more than ever for children's mental health - ScienceDaily",
+          "Newsweek names UC Davis Children’s Hospital among America’s best - University of California - Davis Health"
         ]
       }
     ],
@@ -2419,54 +2419,43 @@
         "trend": "health",
         "market_code": "QA",
         "category": "Arab Health",
-        "score": 68,
+        "score": 75,
         "examples": [
           "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF",
           "Cycling is a Disaster for Bone Health – Here’s How to Stop your Skeleton Turning to Chalk - Outside Magazine",
-          "Tracy, California Medline Warehouse Fire: Here are the public safety, health and employment impacts - ABC7 Bay Area"
+          "Novant Health Scotts Hill Medical Center hosts community day ahead of opening - WECT"
         ]
       },
       {
         "trend": "medical",
         "market_code": "QA",
         "category": "Arab Health",
-        "score": 17,
+        "score": 23,
         "examples": [
-          "Medical Cure or Designer Baby? A New Approach to Editing Embryos Ignites Debate. - The New York Times",
-          "Hospitals prepare for medical supply shortages following Medline warehouse fire in Tracy - ABC30 Fresno",
-          "False active shooter report prompts major police response at Blackwell Medical Tower - WAFF"
+          "Novant Health Scotts Hill Medical Center hosts community day ahead of opening - WECT",
+          "Broward Health Names Cornelius Powell, M.D. New Chief Medical Officer of Broward Health North - Florida Hospital News and Healthcare Report",
+          "Novant Health Scotts Hill Medical Center hosts community day ahead of opening - WECT"
         ]
       },
       {
         "trend": "healthcare",
         "market_code": "QA",
         "category": "Arab Health",
-        "score": 16,
+        "score": 17,
         "examples": [
-          "CMS creates office dedicated to health technology - Healthcare Dive",
-          "CMS creates office dedicated to health technology - Healthcare Dive",
-          "Exclusive | Nvidia Is Developing an AI Healthcare Model With Startup Abridge - WSJ"
-        ]
-      },
-      {
-        "trend": "outbreak",
-        "market_code": "QA",
-        "category": "Outbreaks",
-        "score": 14,
-        "examples": [
-          "Ebola Outbreak: What You Need to Know - Project HOPE",
-          "Israel Joins Kenya, Uganda, Rwanda, South Sudan and Democratic Republic of the Congo in a High-Stakes Ebola Travel Security Alert as Confirmed DRC and Uganda Outbreak Triggers New Airline Boarding Checks, Border Screening and Regional Health - Travel And Tour World",
-          "Hantavirus Outbreak On MV Hondius Cruise Exposes Hidden Agricultural Threat - Eurasia Review"
+          "Broward Health Names Cornelius Powell, M.D. New Chief Medical Officer of Broward Health North - Florida Hospital News and Healthcare Report",
+          "Broward Health Names Cornelius Powell, M.D. New Chief Medical Officer of Broward Health North - Florida Hospital News and Healthcare Report",
+          "SAMHSA Announces $40 Million in Funding Opportunities to Prevent Addiction, and Address Child Trauma, Suicide, Mental Illness - Florida Hospital News and Healthcare Report"
         ]
       },
       {
         "trend": "mental",
         "market_code": "QA",
         "category": "Mental Health",
-        "score": 13,
+        "score": 15,
         "examples": [
           "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF",
-          "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF",
+          "News4’s Tony Perkins joins Joe Clair for men’s mental health event - NBC4 Washington",
           "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF"
         ]
       },
@@ -2474,11 +2463,33 @@
         "trend": "mental health",
         "market_code": "QA",
         "category": "Mental Health",
-        "score": 13,
+        "score": 14,
         "examples": [
           "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF",
-          "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF",
+          "News4’s Tony Perkins joins Joe Clair for men’s mental health event - NBC4 Washington",
           "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF"
+        ]
+      },
+      {
+        "trend": "outbreak",
+        "market_code": "QA",
+        "category": "Outbreaks",
+        "score": 13,
+        "examples": [
+          "Outbreak 2.0 brings public health careers to life - Homenewshere.com",
+          "Scientists Race to Test Treatments as Ebola Outbreak Widens - The New York Times",
+          "WHO director-general is profoundly concerned after visit to Ebola outbreak area - statnews.com"
+        ]
+      },
+      {
+        "trend": "hospital",
+        "market_code": "QA",
+        "category": "Arab Health",
+        "score": 10,
+        "examples": [
+          "Broward Health Names Cornelius Powell, M.D. New Chief Medical Officer of Broward Health North - Florida Hospital News and Healthcare Report",
+          "Broward Health Names Cornelius Powell, M.D. New Chief Medical Officer of Broward Health North - Florida Hospital News and Healthcare Report",
+          "Brushing Your Teeth Could Help Prevent a Deadly Hospital Infection - ScienceAlert"
         ]
       },
       {
@@ -2487,9 +2498,20 @@
         "category": "Chronic Disease",
         "score": 10,
         "examples": [
+          "GLP-1 Drugs May Protect Against Cancer— Here’s What That Means For Public Health - Forbes",
           "Valley man shares warning during Men's Health & National Cancer Survivors Month - ABC15 Arizona",
-          "How Clinical Trials Help to Increase Cancer Survivorship in Quantity and Quality - CU Anschutz newsroom",
-          "Pancreatic cancer experts, patients applaud new KRAS inhibitor therapy - Fred Hutchinson Cancer Center"
+          "How Clinical Trials Help to Increase Cancer Survivorship in Quantity and Quality - CU Anschutz newsroom"
+        ]
+      },
+      {
+        "trend": "public health",
+        "market_code": "QA",
+        "category": "Arab Health",
+        "score": 9,
+        "examples": [
+          "Five Laredo public health projects selected for national conference - Laredo Morning Times",
+          "Outbreak 2.0 brings public health careers to life - Homenewshere.com",
+          "Public Health Class of 2026 is Making an Impact - UC San Diego Today"
         ]
       },
       {
@@ -2504,47 +2526,25 @@
         ]
       },
       {
+        "trend": "infection",
+        "market_code": "QA",
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "Brushing Your Teeth Could Help Prevent a Deadly Hospital Infection - ScienceAlert",
+          "β-catenin-driven innate and metabolic reprograming in macrophages fuel T-cell-dependent inflammation in Toxoplasma gondii infection: implications for therapeutic intervention - Nature",
+          "CDC sleuthing helps decipher drug-resistant infection rise - Phys.org"
+        ]
+      },
+      {
         "trend": "children",
         "market_code": "QA",
         "category": "Children Health",
         "score": 8,
         "examples": [
-          "Ebola Outbreak in DRC – Protect Families & Children in Crisis - Save the Children",
-          "Ebola Outbreak in DRC – Protect Families & Children in Crisis - Save the Children",
-          "Why grandparents matter more than ever for children's mental health - ScienceDaily"
-        ]
-      },
-      {
-        "trend": "ebola outbreak",
-        "market_code": "QA",
-        "category": "Outbreaks",
-        "score": 7,
-        "examples": [
-          "Ebola Outbreak: What You Need to Know - Project HOPE",
-          "Ebola Outbreak: What You Need to Know - Project HOPE",
-          "Ebola outbreak in DR Congo expands into large displacement camp - CIDRAP"
-        ]
-      },
-      {
-        "trend": "warnings",
-        "market_code": "QA",
-        "category": "Arab Health",
-        "score": 6,
-        "examples": [
-          "Why the penis is a barometer of men's health - and we need to wake up to its warnings - BBC",
-          "Why the penis is a barometer of men's health - and we need to wake up to its warnings - BBC",
-          "San Joaquin Valley sees smoke spread from Tracy fire, air warnings issued - ABC10"
-        ]
-      },
-      {
-        "trend": "public health",
-        "market_code": "QA",
-        "category": "Arab Health",
-        "score": 6,
-        "examples": [
-          "Public Health Class of 2026 is Making an Impact - UC San Diego Today",
-          "Disaggregating Public Health Data by Race and Ethnicity to Improve Public Health - Race, Racism and the Law",
-          "Disaggregating Public Health Data by Race and Ethnicity to Improve Public Health - Race, Racism and the Law"
+          "Advocates warn law could risk health of ill undocumented children - WBIR",
+          "Why grandparents matter more than ever for children's mental health - ScienceDaily",
+          "Newsweek names UC Davis Children’s Hospital among America’s best - University of California - Davis Health"
         ]
       }
     ],
@@ -2553,54 +2553,43 @@
         "trend": "health",
         "market_code": "JO",
         "category": "Arab Health",
-        "score": 68,
+        "score": 75,
         "examples": [
           "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF",
           "Cycling is a Disaster for Bone Health – Here’s How to Stop your Skeleton Turning to Chalk - Outside Magazine",
-          "Tracy, California Medline Warehouse Fire: Here are the public safety, health and employment impacts - ABC7 Bay Area"
+          "Novant Health Scotts Hill Medical Center hosts community day ahead of opening - WECT"
         ]
       },
       {
         "trend": "medical",
         "market_code": "JO",
         "category": "Arab Health",
-        "score": 17,
+        "score": 23,
         "examples": [
-          "Medical Cure or Designer Baby? A New Approach to Editing Embryos Ignites Debate. - The New York Times",
-          "Hospitals prepare for medical supply shortages following Medline warehouse fire in Tracy - ABC30 Fresno",
-          "False active shooter report prompts major police response at Blackwell Medical Tower - WAFF"
+          "Novant Health Scotts Hill Medical Center hosts community day ahead of opening - WECT",
+          "Broward Health Names Cornelius Powell, M.D. New Chief Medical Officer of Broward Health North - Florida Hospital News and Healthcare Report",
+          "Novant Health Scotts Hill Medical Center hosts community day ahead of opening - WECT"
         ]
       },
       {
         "trend": "healthcare",
         "market_code": "JO",
         "category": "Arab Health",
-        "score": 16,
+        "score": 17,
         "examples": [
-          "CMS creates office dedicated to health technology - Healthcare Dive",
-          "CMS creates office dedicated to health technology - Healthcare Dive",
-          "Exclusive | Nvidia Is Developing an AI Healthcare Model With Startup Abridge - WSJ"
-        ]
-      },
-      {
-        "trend": "outbreak",
-        "market_code": "JO",
-        "category": "Outbreaks",
-        "score": 14,
-        "examples": [
-          "Ebola Outbreak: What You Need to Know - Project HOPE",
-          "Israel Joins Kenya, Uganda, Rwanda, South Sudan and Democratic Republic of the Congo in a High-Stakes Ebola Travel Security Alert as Confirmed DRC and Uganda Outbreak Triggers New Airline Boarding Checks, Border Screening and Regional Health - Travel And Tour World",
-          "Hantavirus Outbreak On MV Hondius Cruise Exposes Hidden Agricultural Threat - Eurasia Review"
+          "Broward Health Names Cornelius Powell, M.D. New Chief Medical Officer of Broward Health North - Florida Hospital News and Healthcare Report",
+          "Broward Health Names Cornelius Powell, M.D. New Chief Medical Officer of Broward Health North - Florida Hospital News and Healthcare Report",
+          "SAMHSA Announces $40 Million in Funding Opportunities to Prevent Addiction, and Address Child Trauma, Suicide, Mental Illness - Florida Hospital News and Healthcare Report"
         ]
       },
       {
         "trend": "mental",
         "market_code": "JO",
         "category": "Mental Health",
-        "score": 13,
+        "score": 15,
         "examples": [
           "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF",
-          "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF",
+          "News4’s Tony Perkins joins Joe Clair for men’s mental health event - NBC4 Washington",
           "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF"
         ]
       },
@@ -2608,11 +2597,33 @@
         "trend": "mental health",
         "market_code": "JO",
         "category": "Mental Health",
-        "score": 13,
+        "score": 14,
         "examples": [
           "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF",
-          "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF",
+          "News4’s Tony Perkins joins Joe Clair for men’s mental health event - NBC4 Washington",
           "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF"
+        ]
+      },
+      {
+        "trend": "outbreak",
+        "market_code": "JO",
+        "category": "Outbreaks",
+        "score": 13,
+        "examples": [
+          "Outbreak 2.0 brings public health careers to life - Homenewshere.com",
+          "Scientists Race to Test Treatments as Ebola Outbreak Widens - The New York Times",
+          "WHO director-general is profoundly concerned after visit to Ebola outbreak area - statnews.com"
+        ]
+      },
+      {
+        "trend": "hospital",
+        "market_code": "JO",
+        "category": "Arab Health",
+        "score": 10,
+        "examples": [
+          "Broward Health Names Cornelius Powell, M.D. New Chief Medical Officer of Broward Health North - Florida Hospital News and Healthcare Report",
+          "Broward Health Names Cornelius Powell, M.D. New Chief Medical Officer of Broward Health North - Florida Hospital News and Healthcare Report",
+          "Brushing Your Teeth Could Help Prevent a Deadly Hospital Infection - ScienceAlert"
         ]
       },
       {
@@ -2621,9 +2632,20 @@
         "category": "Chronic Disease",
         "score": 10,
         "examples": [
+          "GLP-1 Drugs May Protect Against Cancer— Here’s What That Means For Public Health - Forbes",
           "Valley man shares warning during Men's Health & National Cancer Survivors Month - ABC15 Arizona",
-          "How Clinical Trials Help to Increase Cancer Survivorship in Quantity and Quality - CU Anschutz newsroom",
-          "Pancreatic cancer experts, patients applaud new KRAS inhibitor therapy - Fred Hutchinson Cancer Center"
+          "How Clinical Trials Help to Increase Cancer Survivorship in Quantity and Quality - CU Anschutz newsroom"
+        ]
+      },
+      {
+        "trend": "public health",
+        "market_code": "JO",
+        "category": "Arab Health",
+        "score": 9,
+        "examples": [
+          "Five Laredo public health projects selected for national conference - Laredo Morning Times",
+          "Outbreak 2.0 brings public health careers to life - Homenewshere.com",
+          "Public Health Class of 2026 is Making an Impact - UC San Diego Today"
         ]
       },
       {
@@ -2638,47 +2660,25 @@
         ]
       },
       {
+        "trend": "infection",
+        "market_code": "JO",
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "Brushing Your Teeth Could Help Prevent a Deadly Hospital Infection - ScienceAlert",
+          "β-catenin-driven innate and metabolic reprograming in macrophages fuel T-cell-dependent inflammation in Toxoplasma gondii infection: implications for therapeutic intervention - Nature",
+          "CDC sleuthing helps decipher drug-resistant infection rise - Phys.org"
+        ]
+      },
+      {
         "trend": "children",
         "market_code": "JO",
         "category": "Children Health",
         "score": 8,
         "examples": [
-          "Ebola Outbreak in DRC – Protect Families & Children in Crisis - Save the Children",
-          "Ebola Outbreak in DRC – Protect Families & Children in Crisis - Save the Children",
-          "Why grandparents matter more than ever for children's mental health - ScienceDaily"
-        ]
-      },
-      {
-        "trend": "ebola outbreak",
-        "market_code": "JO",
-        "category": "Outbreaks",
-        "score": 7,
-        "examples": [
-          "Ebola Outbreak: What You Need to Know - Project HOPE",
-          "Ebola Outbreak: What You Need to Know - Project HOPE",
-          "Ebola outbreak in DR Congo expands into large displacement camp - CIDRAP"
-        ]
-      },
-      {
-        "trend": "warnings",
-        "market_code": "JO",
-        "category": "Arab Health",
-        "score": 6,
-        "examples": [
-          "Why the penis is a barometer of men's health - and we need to wake up to its warnings - BBC",
-          "Why the penis is a barometer of men's health - and we need to wake up to its warnings - BBC",
-          "San Joaquin Valley sees smoke spread from Tracy fire, air warnings issued - ABC10"
-        ]
-      },
-      {
-        "trend": "public health",
-        "market_code": "JO",
-        "category": "Arab Health",
-        "score": 6,
-        "examples": [
-          "Public Health Class of 2026 is Making an Impact - UC San Diego Today",
-          "Disaggregating Public Health Data by Race and Ethnicity to Improve Public Health - Race, Racism and the Law",
-          "Disaggregating Public Health Data by Race and Ethnicity to Improve Public Health - Race, Racism and the Law"
+          "Advocates warn law could risk health of ill undocumented children - WBIR",
+          "Why grandparents matter more than ever for children's mental health - ScienceDaily",
+          "Newsweek names UC Davis Children’s Hospital among America’s best - University of California - Davis Health"
         ]
       }
     ],
@@ -2687,54 +2687,43 @@
         "trend": "health",
         "market_code": "LB",
         "category": "Arab Health",
-        "score": 68,
+        "score": 75,
         "examples": [
           "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF",
           "Cycling is a Disaster for Bone Health – Here’s How to Stop your Skeleton Turning to Chalk - Outside Magazine",
-          "Tracy, California Medline Warehouse Fire: Here are the public safety, health and employment impacts - ABC7 Bay Area"
+          "Novant Health Scotts Hill Medical Center hosts community day ahead of opening - WECT"
         ]
       },
       {
         "trend": "medical",
         "market_code": "LB",
         "category": "Arab Health",
-        "score": 17,
+        "score": 23,
         "examples": [
-          "Medical Cure or Designer Baby? A New Approach to Editing Embryos Ignites Debate. - The New York Times",
-          "Hospitals prepare for medical supply shortages following Medline warehouse fire in Tracy - ABC30 Fresno",
-          "False active shooter report prompts major police response at Blackwell Medical Tower - WAFF"
+          "Novant Health Scotts Hill Medical Center hosts community day ahead of opening - WECT",
+          "Broward Health Names Cornelius Powell, M.D. New Chief Medical Officer of Broward Health North - Florida Hospital News and Healthcare Report",
+          "Novant Health Scotts Hill Medical Center hosts community day ahead of opening - WECT"
         ]
       },
       {
         "trend": "healthcare",
         "market_code": "LB",
         "category": "Arab Health",
-        "score": 16,
+        "score": 17,
         "examples": [
-          "CMS creates office dedicated to health technology - Healthcare Dive",
-          "CMS creates office dedicated to health technology - Healthcare Dive",
-          "Exclusive | Nvidia Is Developing an AI Healthcare Model With Startup Abridge - WSJ"
-        ]
-      },
-      {
-        "trend": "outbreak",
-        "market_code": "LB",
-        "category": "Outbreaks",
-        "score": 14,
-        "examples": [
-          "Ebola Outbreak: What You Need to Know - Project HOPE",
-          "Israel Joins Kenya, Uganda, Rwanda, South Sudan and Democratic Republic of the Congo in a High-Stakes Ebola Travel Security Alert as Confirmed DRC and Uganda Outbreak Triggers New Airline Boarding Checks, Border Screening and Regional Health - Travel And Tour World",
-          "Hantavirus Outbreak On MV Hondius Cruise Exposes Hidden Agricultural Threat - Eurasia Review"
+          "Broward Health Names Cornelius Powell, M.D. New Chief Medical Officer of Broward Health North - Florida Hospital News and Healthcare Report",
+          "Broward Health Names Cornelius Powell, M.D. New Chief Medical Officer of Broward Health North - Florida Hospital News and Healthcare Report",
+          "SAMHSA Announces $40 Million in Funding Opportunities to Prevent Addiction, and Address Child Trauma, Suicide, Mental Illness - Florida Hospital News and Healthcare Report"
         ]
       },
       {
         "trend": "mental",
         "market_code": "LB",
         "category": "Mental Health",
-        "score": 13,
+        "score": 15,
         "examples": [
           "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF",
-          "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF",
+          "News4’s Tony Perkins joins Joe Clair for men’s mental health event - NBC4 Washington",
           "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF"
         ]
       },
@@ -2742,11 +2731,33 @@
         "trend": "mental health",
         "market_code": "LB",
         "category": "Mental Health",
-        "score": 13,
+        "score": 14,
         "examples": [
           "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF",
-          "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF",
+          "News4’s Tony Perkins joins Joe Clair for men’s mental health event - NBC4 Washington",
           "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF"
+        ]
+      },
+      {
+        "trend": "outbreak",
+        "market_code": "LB",
+        "category": "Outbreaks",
+        "score": 13,
+        "examples": [
+          "Outbreak 2.0 brings public health careers to life - Homenewshere.com",
+          "Scientists Race to Test Treatments as Ebola Outbreak Widens - The New York Times",
+          "WHO director-general is profoundly concerned after visit to Ebola outbreak area - statnews.com"
+        ]
+      },
+      {
+        "trend": "hospital",
+        "market_code": "LB",
+        "category": "Arab Health",
+        "score": 10,
+        "examples": [
+          "Broward Health Names Cornelius Powell, M.D. New Chief Medical Officer of Broward Health North - Florida Hospital News and Healthcare Report",
+          "Broward Health Names Cornelius Powell, M.D. New Chief Medical Officer of Broward Health North - Florida Hospital News and Healthcare Report",
+          "Brushing Your Teeth Could Help Prevent a Deadly Hospital Infection - ScienceAlert"
         ]
       },
       {
@@ -2755,9 +2766,20 @@
         "category": "Chronic Disease",
         "score": 10,
         "examples": [
+          "GLP-1 Drugs May Protect Against Cancer— Here’s What That Means For Public Health - Forbes",
           "Valley man shares warning during Men's Health & National Cancer Survivors Month - ABC15 Arizona",
-          "How Clinical Trials Help to Increase Cancer Survivorship in Quantity and Quality - CU Anschutz newsroom",
-          "Pancreatic cancer experts, patients applaud new KRAS inhibitor therapy - Fred Hutchinson Cancer Center"
+          "How Clinical Trials Help to Increase Cancer Survivorship in Quantity and Quality - CU Anschutz newsroom"
+        ]
+      },
+      {
+        "trend": "public health",
+        "market_code": "LB",
+        "category": "Arab Health",
+        "score": 9,
+        "examples": [
+          "Five Laredo public health projects selected for national conference - Laredo Morning Times",
+          "Outbreak 2.0 brings public health careers to life - Homenewshere.com",
+          "Public Health Class of 2026 is Making an Impact - UC San Diego Today"
         ]
       },
       {
@@ -2772,47 +2794,25 @@
         ]
       },
       {
+        "trend": "infection",
+        "market_code": "LB",
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "Brushing Your Teeth Could Help Prevent a Deadly Hospital Infection - ScienceAlert",
+          "β-catenin-driven innate and metabolic reprograming in macrophages fuel T-cell-dependent inflammation in Toxoplasma gondii infection: implications for therapeutic intervention - Nature",
+          "CDC sleuthing helps decipher drug-resistant infection rise - Phys.org"
+        ]
+      },
+      {
         "trend": "children",
         "market_code": "LB",
         "category": "Children Health",
         "score": 8,
         "examples": [
-          "Ebola Outbreak in DRC – Protect Families & Children in Crisis - Save the Children",
-          "Ebola Outbreak in DRC – Protect Families & Children in Crisis - Save the Children",
-          "Why grandparents matter more than ever for children's mental health - ScienceDaily"
-        ]
-      },
-      {
-        "trend": "ebola outbreak",
-        "market_code": "LB",
-        "category": "Outbreaks",
-        "score": 7,
-        "examples": [
-          "Ebola Outbreak: What You Need to Know - Project HOPE",
-          "Ebola Outbreak: What You Need to Know - Project HOPE",
-          "Ebola outbreak in DR Congo expands into large displacement camp - CIDRAP"
-        ]
-      },
-      {
-        "trend": "warnings",
-        "market_code": "LB",
-        "category": "Arab Health",
-        "score": 6,
-        "examples": [
-          "Why the penis is a barometer of men's health - and we need to wake up to its warnings - BBC",
-          "Why the penis is a barometer of men's health - and we need to wake up to its warnings - BBC",
-          "San Joaquin Valley sees smoke spread from Tracy fire, air warnings issued - ABC10"
-        ]
-      },
-      {
-        "trend": "public health",
-        "market_code": "LB",
-        "category": "Arab Health",
-        "score": 6,
-        "examples": [
-          "Public Health Class of 2026 is Making an Impact - UC San Diego Today",
-          "Disaggregating Public Health Data by Race and Ethnicity to Improve Public Health - Race, Racism and the Law",
-          "Disaggregating Public Health Data by Race and Ethnicity to Improve Public Health - Race, Racism and the Law"
+          "Advocates warn law could risk health of ill undocumented children - WBIR",
+          "Why grandparents matter more than ever for children's mental health - ScienceDaily",
+          "Newsweek names UC Davis Children’s Hospital among America’s best - University of California - Davis Health"
         ]
       }
     ]
