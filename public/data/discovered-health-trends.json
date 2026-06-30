@@ -1,929 +1,2819 @@
 {
-  "updated_at": "2026-06-29T20:13:59.007908+00:00",
-  "total_trends": 126,
+  "updated_at": "2026-06-30T01:58:15.072408+00:00",
+  "total_trends": 252,
   "markets": {
     "United States": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "US",
         "category": "US Health",
-        "score": 1,
-        "examples": []
+        "score": 84,
+        "examples": [
+          "Mayor Mamdani Opens City’s First Public Health Vending Machines on Staten Island - NYC.gov",
+          "Governor Newsom signs bipartisan measure giving judges stronger tools to protect public safety, preserve access to mental health treatment - California State Portal | CA.gov",
+          "Gavin Newsom signs law limiting mental health diversion for people accused of crimes - CalMatters"
+        ]
       },
       {
-        "trend": "outbreak",
+        "trend": "public health",
         "market_code": "US",
-        "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "category": "US Health",
+        "score": 18,
+        "examples": [
+          "Mayor Mamdani Opens City’s First Public Health Vending Machines on Staten Island - NYC.gov",
+          "Medicaid work requirements—and ‘medical frailty’ exemption—put health coverage in jeopardy - Harvard T.H. Chan School of Public Health",
+          "Mayor Mamdani Opens City’s First Public Health Vending Machines on Staten Island - NYC.gov"
+        ]
+      },
+      {
+        "trend": "medical",
+        "market_code": "US",
+        "category": "US Health",
+        "score": 17,
+        "examples": [
+          "Responding to Earthquakes in Venezuela - International Medical Corps",
+          "Army medical logistics overhaul cuts supply wait times in half - army.mil",
+          "Medical All Star Spotlight: Ernie Gervino - Beth Israel Deaconess Medical Center"
+        ]
+      },
+      {
+        "trend": "healthcare",
+        "market_code": "US",
+        "category": "US Health",
+        "score": 16,
+        "examples": [
+          "Fierce Healthcare Fundraising Tracker '26: Trase secures $107M to scale AI agents; xCures lands $46M - Fierce Healthcare",
+          "Fierce Healthcare Fundraising Tracker '26: Trase secures $107M to scale AI agents; xCures lands $46M - Fierce Healthcare",
+          "Hantavirus Town Hall: What Frontline Healthcare Staff Need to Know About Andes Hantavirus Preparedness - National Emerging Special Pathogens Training & Education Center"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "US",
+        "category": "Mental Health",
+        "score": 15,
+        "examples": [
+          "Governor Newsom signs bipartisan measure giving judges stronger tools to protect public safety, preserve access to mental health treatment - California State Portal | CA.gov",
+          "Gavin Newsom signs law limiting mental health diversion for people accused of crimes - CalMatters",
+          "Cost and utilization of inpatient mental health and substance use treatment - healthsystemtracker.org"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "US",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
+        "score": 15,
+        "examples": [
+          "Governor Newsom signs bipartisan measure giving judges stronger tools to protect public safety, preserve access to mental health treatment - California State Portal | CA.gov",
+          "Gavin Newsom signs law limiting mental health diversion for people accused of crimes - CalMatters",
+          "Cost and utilization of inpatient mental health and substance use treatment - healthsystemtracker.org"
+        ]
       },
       {
-        "trend": "medical research",
+        "trend": "disease",
         "market_code": "US",
         "category": "US Health",
-        "score": 1,
-        "examples": []
+        "score": 15,
+        "examples": [
+          "Faith-Based Sector Empowers Youth to Resist Substance Use - Centers for Disease Control and Prevention | CDC (.gov)",
+          "Lyme Disease in Ohio Map - Ohio Department of Health (.gov)",
+          "PACC identifies likely cause of deadly disease outbreak - KOLD"
+        ]
       },
       {
-        "trend": "drug approval",
+        "trend": "outbreak",
+        "market_code": "US",
+        "category": "Outbreaks",
+        "score": 14,
+        "examples": [
+          "Ebola outbreak spreads to 4th province in DR Congo - CIDRAP",
+          "PACC identifies likely cause of deadly disease outbreak - KOLD",
+          "Companion Animal Alliance says it’s nearing end of distemper outbreak - WAFB"
+        ]
+      },
+      {
+        "trend": "health alert",
+        "market_code": "US",
+        "category": "US Health",
+        "score": 11,
+        "examples": [
+          "Chicken sold at Fred Meyer stores subject of USDA health alert - East Idaho News",
+          "Public Health Alert Issued for Chicken Product Sold in 9 States Due to Misbranding: What to Know - People.com",
+          "Health Alert: Health Alert: U.S. Embassy Kampala (June 29, 2026) - U.S. Embassy in Uganda (.gov)"
+        ]
+      },
+      {
+        "trend": "treatment",
         "market_code": "US",
         "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
+        "score": 10,
+        "examples": [
+          "Governor Newsom signs bipartisan measure giving judges stronger tools to protect public safety, preserve access to mental health treatment - California State Portal | CA.gov",
+          "Cost and utilization of inpatient mental health and substance use treatment - healthsystemtracker.org",
+          "Governor Newsom signs bipartisan measure giving judges stronger tools to protect public safety, preserve access to mental health treatment - California State Portal | CA.gov"
+        ]
       },
       {
-        "trend": "diet wellness",
+        "trend": "heart",
         "market_code": "US",
-        "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "category": "Chronic Disease",
+        "score": 10,
+        "examples": [
+          "Growing scientific evidence links e-cigarette chemicals to heart health risks - www.heart.org",
+          "Growing scientific evidence links e-cigarette chemicals to heart health risks - www.heart.org",
+          "Daily Dose - Men’s Heart Health: The Warning Signs, Screenings and Habits That Could Save Your Life - Atrium Health"
+        ]
+      },
+      {
+        "trend": "hospital",
+        "market_code": "US",
+        "category": "US Health",
+        "score": 8,
+        "examples": [
+          "Houston Methodist West Hospital Experts Warn of Mosquito Risks After Fort Bend Declares Health Emergency - Covering Katy News",
+          "Clariyon’s AI tool boosts sepsis care compliance in hospital study - Medical Device Network",
+          "Intermountain Primary Children’s Hospital expands Behavioral Health Services to support Utah families, with tips for summer break and back-to-school - ABC4 Utah"
+        ]
       }
     ],
     "United Kingdom": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "GB",
         "category": "Europe Health",
-        "score": 1,
-        "examples": []
+        "score": 80,
+        "examples": [
+          "Framework for maintaining the oral health of our ageing population - NHS England",
+          "Health Minister announces first phase of NI’s first Obesity Management Service | Department of Health - health-ni.gov.uk",
+          "Health Minister announces first phase of NI’s first Obesity Management Service | Department of Health - health-ni.gov.uk"
+        ]
       },
       {
-        "trend": "outbreak",
+        "trend": "children",
         "market_code": "GB",
-        "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "category": "Children Health",
+        "score": 15,
+        "examples": [
+          "Response to Children's Commissioner report on Children and Young People's Mental Health Services - Centre for Mental Health",
+          "Response to Children's Commissioner report on Children and Young People's Mental Health Services - Centre for Mental Health",
+          "New PM must tackle long waits for children’s mental health help - Schools Week"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "GB",
+        "category": "Mental Health",
+        "score": 14,
+        "examples": [
+          "Response to Children's Commissioner report on Children and Young People's Mental Health Services - Centre for Mental Health",
+          "Response to Children's Commissioner report on Children and Young People's Mental Health Services - Centre for Mental Health",
+          "New PM must tackle long waits for children’s mental health help - Schools Week"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "GB",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
+        "score": 14,
+        "examples": [
+          "Response to Children's Commissioner report on Children and Young People's Mental Health Services - Centre for Mental Health",
+          "Response to Children's Commissioner report on Children and Young People's Mental Health Services - Centre for Mental Health",
+          "New PM must tackle long waits for children’s mental health help - Schools Week"
+        ]
       },
       {
-        "trend": "medical research",
+        "trend": "medical",
         "market_code": "GB",
         "category": "Europe Health",
-        "score": 1,
-        "examples": []
+        "score": 13,
+        "examples": [
+          "Leominster gets new medical centre after 15-year wait - BBC",
+          "Medical distributor launches new pharmacy ordering platform - The Pharmacist News",
+          "Earthquake Venezuela: Mobile Medical Units for Crisis Region - Malteser International"
+        ]
       },
       {
-        "trend": "drug approval",
+        "trend": "outbreak",
         "market_code": "GB",
-        "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
+        "category": "Outbreaks",
+        "score": 12,
+        "examples": [
+          "Ebola outbreak spreads to 4th province in DR Congo - CIDRAP",
+          "LIVE REPORT: Outbreak 2026 - Friday & Knocked Loose at the Albert Hall - Boolin Tunes",
+          "Measles outbreak in Bangladesh tops 100,000 cases since mid-March - Outbreak News Today"
+        ]
       },
       {
-        "trend": "diet wellness",
+        "trend": "healthcare",
         "market_code": "GB",
-        "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "category": "Europe Health",
+        "score": 11,
+        "examples": [
+          "Mayor encourages public to help shape future of healthcare at Foyle Maritime Festival - Derry City & Strabane District Council",
+          "Capital raising in healthtech: Laverock Therapeutics, University of Liverpool, Cardiovolt.ai - Healthcare Today",
+          "WEF: China's AI Healthcare Could Shape Sustainable Care - Healthcare Digital"
+        ]
+      },
+      {
+        "trend": "disease",
+        "market_code": "GB",
+        "category": "Europe Health",
+        "score": 11,
+        "examples": [
+          "Africa Centres for Disease Control and Prevention (Africa CDC) calls for solidarity and increased collaboration following imported Ebola virus disease case in France and strengthens cross-border surveillance - Africa24 TV",
+          "Africa Centres for Disease Control and Prevention (Africa CDC) calls for solidarity and increased collaboration following imported Ebola virus disease case in France and strengthens cross-border surveillance - Africa24 TV",
+          "Researchers affirm long-held belief that viruses can trigger Parkinson’s disease - Texas A&M Stories"
+        ]
+      },
+      {
+        "trend": "infection",
+        "market_code": "GB",
+        "category": "Outbreaks",
+        "score": 10,
+        "examples": [
+          "Infection Control Today's June's Infection Prevention and Control Crossword Puzzle - Infection Control Today",
+          "Infection Control Today's June's Infection Prevention and Control Crossword Puzzle - Infection Control Today",
+          "Infection Control Today's June's Infection Prevention and Control Crossword Puzzle - Infection Control Today"
+        ]
+      },
+      {
+        "trend": "heart",
+        "market_code": "GB",
+        "category": "Chronic Disease",
+        "score": 8,
+        "examples": [
+          "A Shared Heart: The Story Of Fleetwood’s Community Health Hub - The King's Fund",
+          "A Shared Heart: The Story Of Fleetwood’s Community Health Hub - The King's Fund",
+          "Daily Dose - Men’s Heart Health: The Warning Signs, Screenings and Habits That Could Save Your Life - Atrium Health"
+        ]
+      },
+      {
+        "trend": "public health",
+        "market_code": "GB",
+        "category": "Europe Health",
+        "score": 8,
+        "examples": [
+          "What “Mystery Outbreaks” Teach Us About Public Health - The New York Academy of Sciences",
+          "A century of public health intelligence: the Weekly Epidemiological Record turns 100 - World Health Organization (WHO)",
+          "Health chiefs issue Monday morning alert as UK faces 'serious public health threat' - Liverpool Echo"
+        ]
+      },
+      {
+        "trend": "warning",
+        "market_code": "GB",
+        "category": "Europe Health",
+        "score": 8,
+        "examples": [
+          "Decline in plankton across Northeast Atlantic sends stark warning for ocean health - Phys.org",
+          "Decline in plankton sends a warning for ocean health - Open Access Government",
+          "Daily Dose - Men’s Heart Health: The Warning Signs, Screenings and Habits That Could Save Your Life - Atrium Health"
+        ]
       }
     ],
     "Germany": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "DE",
         "category": "Europe Health",
-        "score": 1,
-        "examples": []
+        "score": 84,
+        "examples": [
+          "Mayor Mamdani Opens City’s First Public Health Vending Machines on Staten Island - NYC.gov",
+          "Governor Newsom signs bipartisan measure giving judges stronger tools to protect public safety, preserve access to mental health treatment - California State Portal | CA.gov",
+          "Gavin Newsom signs law limiting mental health diversion for people accused of crimes - CalMatters"
+        ]
       },
       {
-        "trend": "outbreak",
+        "trend": "public health",
         "market_code": "DE",
-        "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "category": "Europe Health",
+        "score": 18,
+        "examples": [
+          "Mayor Mamdani Opens City’s First Public Health Vending Machines on Staten Island - NYC.gov",
+          "Medicaid work requirements—and ‘medical frailty’ exemption—put health coverage in jeopardy - Harvard T.H. Chan School of Public Health",
+          "Mayor Mamdani Opens City’s First Public Health Vending Machines on Staten Island - NYC.gov"
+        ]
+      },
+      {
+        "trend": "medical",
+        "market_code": "DE",
+        "category": "Europe Health",
+        "score": 17,
+        "examples": [
+          "Responding to Earthquakes in Venezuela - International Medical Corps",
+          "Army medical logistics overhaul cuts supply wait times in half - army.mil",
+          "Medical All Star Spotlight: Ernie Gervino - Beth Israel Deaconess Medical Center"
+        ]
+      },
+      {
+        "trend": "healthcare",
+        "market_code": "DE",
+        "category": "Europe Health",
+        "score": 16,
+        "examples": [
+          "Fierce Healthcare Fundraising Tracker '26: Trase secures $107M to scale AI agents; xCures lands $46M - Fierce Healthcare",
+          "Fierce Healthcare Fundraising Tracker '26: Trase secures $107M to scale AI agents; xCures lands $46M - Fierce Healthcare",
+          "Hantavirus Town Hall: What Frontline Healthcare Staff Need to Know About Andes Hantavirus Preparedness - National Emerging Special Pathogens Training & Education Center"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "DE",
+        "category": "Mental Health",
+        "score": 15,
+        "examples": [
+          "Governor Newsom signs bipartisan measure giving judges stronger tools to protect public safety, preserve access to mental health treatment - California State Portal | CA.gov",
+          "Gavin Newsom signs law limiting mental health diversion for people accused of crimes - CalMatters",
+          "Cost and utilization of inpatient mental health and substance use treatment - healthsystemtracker.org"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "DE",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
+        "score": 15,
+        "examples": [
+          "Governor Newsom signs bipartisan measure giving judges stronger tools to protect public safety, preserve access to mental health treatment - California State Portal | CA.gov",
+          "Gavin Newsom signs law limiting mental health diversion for people accused of crimes - CalMatters",
+          "Cost and utilization of inpatient mental health and substance use treatment - healthsystemtracker.org"
+        ]
       },
       {
-        "trend": "medical research",
+        "trend": "disease",
         "market_code": "DE",
         "category": "Europe Health",
-        "score": 1,
-        "examples": []
+        "score": 15,
+        "examples": [
+          "Faith-Based Sector Empowers Youth to Resist Substance Use - Centers for Disease Control and Prevention | CDC (.gov)",
+          "Lyme Disease in Ohio Map - Ohio Department of Health (.gov)",
+          "PACC identifies likely cause of deadly disease outbreak - KOLD"
+        ]
       },
       {
-        "trend": "drug approval",
+        "trend": "outbreak",
+        "market_code": "DE",
+        "category": "Outbreaks",
+        "score": 14,
+        "examples": [
+          "Ebola outbreak spreads to 4th province in DR Congo - CIDRAP",
+          "PACC identifies likely cause of deadly disease outbreak - KOLD",
+          "Companion Animal Alliance says it’s nearing end of distemper outbreak - WAFB"
+        ]
+      },
+      {
+        "trend": "health alert",
+        "market_code": "DE",
+        "category": "Europe Health",
+        "score": 11,
+        "examples": [
+          "Chicken sold at Fred Meyer stores subject of USDA health alert - East Idaho News",
+          "Public Health Alert Issued for Chicken Product Sold in 9 States Due to Misbranding: What to Know - People.com",
+          "Health Alert: Health Alert: U.S. Embassy Kampala (June 29, 2026) - U.S. Embassy in Uganda (.gov)"
+        ]
+      },
+      {
+        "trend": "treatment",
         "market_code": "DE",
         "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
+        "score": 10,
+        "examples": [
+          "Governor Newsom signs bipartisan measure giving judges stronger tools to protect public safety, preserve access to mental health treatment - California State Portal | CA.gov",
+          "Cost and utilization of inpatient mental health and substance use treatment - healthsystemtracker.org",
+          "Governor Newsom signs bipartisan measure giving judges stronger tools to protect public safety, preserve access to mental health treatment - California State Portal | CA.gov"
+        ]
       },
       {
-        "trend": "diet wellness",
+        "trend": "heart",
         "market_code": "DE",
-        "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "category": "Chronic Disease",
+        "score": 10,
+        "examples": [
+          "Growing scientific evidence links e-cigarette chemicals to heart health risks - www.heart.org",
+          "Growing scientific evidence links e-cigarette chemicals to heart health risks - www.heart.org",
+          "Daily Dose - Men’s Heart Health: The Warning Signs, Screenings and Habits That Could Save Your Life - Atrium Health"
+        ]
+      },
+      {
+        "trend": "hospital",
+        "market_code": "DE",
+        "category": "Europe Health",
+        "score": 8,
+        "examples": [
+          "Houston Methodist West Hospital Experts Warn of Mosquito Risks After Fort Bend Declares Health Emergency - Covering Katy News",
+          "Clariyon’s AI tool boosts sepsis care compliance in hospital study - Medical Device Network",
+          "Intermountain Primary Children’s Hospital expands Behavioral Health Services to support Utah families, with tips for summer break and back-to-school - ABC4 Utah"
+        ]
       }
     ],
     "France": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "FR",
         "category": "Europe Health",
-        "score": 1,
-        "examples": []
+        "score": 84,
+        "examples": [
+          "Mayor Mamdani Opens City’s First Public Health Vending Machines on Staten Island - NYC.gov",
+          "Governor Newsom signs bipartisan measure giving judges stronger tools to protect public safety, preserve access to mental health treatment - California State Portal | CA.gov",
+          "Gavin Newsom signs law limiting mental health diversion for people accused of crimes - CalMatters"
+        ]
       },
       {
-        "trend": "outbreak",
+        "trend": "public health",
         "market_code": "FR",
-        "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "category": "Europe Health",
+        "score": 18,
+        "examples": [
+          "Mayor Mamdani Opens City’s First Public Health Vending Machines on Staten Island - NYC.gov",
+          "Medicaid work requirements—and ‘medical frailty’ exemption—put health coverage in jeopardy - Harvard T.H. Chan School of Public Health",
+          "Mayor Mamdani Opens City’s First Public Health Vending Machines on Staten Island - NYC.gov"
+        ]
+      },
+      {
+        "trend": "medical",
+        "market_code": "FR",
+        "category": "Europe Health",
+        "score": 17,
+        "examples": [
+          "Responding to Earthquakes in Venezuela - International Medical Corps",
+          "Army medical logistics overhaul cuts supply wait times in half - army.mil",
+          "Medical All Star Spotlight: Ernie Gervino - Beth Israel Deaconess Medical Center"
+        ]
+      },
+      {
+        "trend": "healthcare",
+        "market_code": "FR",
+        "category": "Europe Health",
+        "score": 16,
+        "examples": [
+          "Fierce Healthcare Fundraising Tracker '26: Trase secures $107M to scale AI agents; xCures lands $46M - Fierce Healthcare",
+          "Fierce Healthcare Fundraising Tracker '26: Trase secures $107M to scale AI agents; xCures lands $46M - Fierce Healthcare",
+          "Hantavirus Town Hall: What Frontline Healthcare Staff Need to Know About Andes Hantavirus Preparedness - National Emerging Special Pathogens Training & Education Center"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "FR",
+        "category": "Mental Health",
+        "score": 15,
+        "examples": [
+          "Governor Newsom signs bipartisan measure giving judges stronger tools to protect public safety, preserve access to mental health treatment - California State Portal | CA.gov",
+          "Gavin Newsom signs law limiting mental health diversion for people accused of crimes - CalMatters",
+          "Cost and utilization of inpatient mental health and substance use treatment - healthsystemtracker.org"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "FR",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
+        "score": 15,
+        "examples": [
+          "Governor Newsom signs bipartisan measure giving judges stronger tools to protect public safety, preserve access to mental health treatment - California State Portal | CA.gov",
+          "Gavin Newsom signs law limiting mental health diversion for people accused of crimes - CalMatters",
+          "Cost and utilization of inpatient mental health and substance use treatment - healthsystemtracker.org"
+        ]
       },
       {
-        "trend": "medical research",
+        "trend": "disease",
         "market_code": "FR",
         "category": "Europe Health",
-        "score": 1,
-        "examples": []
+        "score": 15,
+        "examples": [
+          "Faith-Based Sector Empowers Youth to Resist Substance Use - Centers for Disease Control and Prevention | CDC (.gov)",
+          "Lyme Disease in Ohio Map - Ohio Department of Health (.gov)",
+          "PACC identifies likely cause of deadly disease outbreak - KOLD"
+        ]
       },
       {
-        "trend": "drug approval",
+        "trend": "outbreak",
+        "market_code": "FR",
+        "category": "Outbreaks",
+        "score": 14,
+        "examples": [
+          "Ebola outbreak spreads to 4th province in DR Congo - CIDRAP",
+          "PACC identifies likely cause of deadly disease outbreak - KOLD",
+          "Companion Animal Alliance says it’s nearing end of distemper outbreak - WAFB"
+        ]
+      },
+      {
+        "trend": "health alert",
+        "market_code": "FR",
+        "category": "Europe Health",
+        "score": 11,
+        "examples": [
+          "Chicken sold at Fred Meyer stores subject of USDA health alert - East Idaho News",
+          "Public Health Alert Issued for Chicken Product Sold in 9 States Due to Misbranding: What to Know - People.com",
+          "Health Alert: Health Alert: U.S. Embassy Kampala (June 29, 2026) - U.S. Embassy in Uganda (.gov)"
+        ]
+      },
+      {
+        "trend": "treatment",
         "market_code": "FR",
         "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
+        "score": 10,
+        "examples": [
+          "Governor Newsom signs bipartisan measure giving judges stronger tools to protect public safety, preserve access to mental health treatment - California State Portal | CA.gov",
+          "Cost and utilization of inpatient mental health and substance use treatment - healthsystemtracker.org",
+          "Governor Newsom signs bipartisan measure giving judges stronger tools to protect public safety, preserve access to mental health treatment - California State Portal | CA.gov"
+        ]
       },
       {
-        "trend": "diet wellness",
+        "trend": "heart",
         "market_code": "FR",
-        "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "category": "Chronic Disease",
+        "score": 10,
+        "examples": [
+          "Growing scientific evidence links e-cigarette chemicals to heart health risks - www.heart.org",
+          "Growing scientific evidence links e-cigarette chemicals to heart health risks - www.heart.org",
+          "Daily Dose - Men’s Heart Health: The Warning Signs, Screenings and Habits That Could Save Your Life - Atrium Health"
+        ]
+      },
+      {
+        "trend": "hospital",
+        "market_code": "FR",
+        "category": "Europe Health",
+        "score": 8,
+        "examples": [
+          "Houston Methodist West Hospital Experts Warn of Mosquito Risks After Fort Bend Declares Health Emergency - Covering Katy News",
+          "Clariyon’s AI tool boosts sepsis care compliance in hospital study - Medical Device Network",
+          "Intermountain Primary Children’s Hospital expands Behavioral Health Services to support Utah families, with tips for summer break and back-to-school - ABC4 Utah"
+        ]
       }
     ],
     "Italy": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "IT",
         "category": "Europe Health",
-        "score": 1,
-        "examples": []
+        "score": 84,
+        "examples": [
+          "Mayor Mamdani Opens City’s First Public Health Vending Machines on Staten Island - NYC.gov",
+          "Governor Newsom signs bipartisan measure giving judges stronger tools to protect public safety, preserve access to mental health treatment - California State Portal | CA.gov",
+          "Gavin Newsom signs law limiting mental health diversion for people accused of crimes - CalMatters"
+        ]
       },
       {
-        "trend": "outbreak",
+        "trend": "public health",
         "market_code": "IT",
-        "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "category": "Europe Health",
+        "score": 18,
+        "examples": [
+          "Mayor Mamdani Opens City’s First Public Health Vending Machines on Staten Island - NYC.gov",
+          "Medicaid work requirements—and ‘medical frailty’ exemption—put health coverage in jeopardy - Harvard T.H. Chan School of Public Health",
+          "Mayor Mamdani Opens City’s First Public Health Vending Machines on Staten Island - NYC.gov"
+        ]
+      },
+      {
+        "trend": "medical",
+        "market_code": "IT",
+        "category": "Europe Health",
+        "score": 17,
+        "examples": [
+          "Responding to Earthquakes in Venezuela - International Medical Corps",
+          "Army medical logistics overhaul cuts supply wait times in half - army.mil",
+          "Medical All Star Spotlight: Ernie Gervino - Beth Israel Deaconess Medical Center"
+        ]
+      },
+      {
+        "trend": "healthcare",
+        "market_code": "IT",
+        "category": "Europe Health",
+        "score": 16,
+        "examples": [
+          "Fierce Healthcare Fundraising Tracker '26: Trase secures $107M to scale AI agents; xCures lands $46M - Fierce Healthcare",
+          "Fierce Healthcare Fundraising Tracker '26: Trase secures $107M to scale AI agents; xCures lands $46M - Fierce Healthcare",
+          "Hantavirus Town Hall: What Frontline Healthcare Staff Need to Know About Andes Hantavirus Preparedness - National Emerging Special Pathogens Training & Education Center"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "IT",
+        "category": "Mental Health",
+        "score": 15,
+        "examples": [
+          "Governor Newsom signs bipartisan measure giving judges stronger tools to protect public safety, preserve access to mental health treatment - California State Portal | CA.gov",
+          "Gavin Newsom signs law limiting mental health diversion for people accused of crimes - CalMatters",
+          "Cost and utilization of inpatient mental health and substance use treatment - healthsystemtracker.org"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "IT",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
+        "score": 15,
+        "examples": [
+          "Governor Newsom signs bipartisan measure giving judges stronger tools to protect public safety, preserve access to mental health treatment - California State Portal | CA.gov",
+          "Gavin Newsom signs law limiting mental health diversion for people accused of crimes - CalMatters",
+          "Cost and utilization of inpatient mental health and substance use treatment - healthsystemtracker.org"
+        ]
       },
       {
-        "trend": "medical research",
+        "trend": "disease",
         "market_code": "IT",
         "category": "Europe Health",
-        "score": 1,
-        "examples": []
+        "score": 15,
+        "examples": [
+          "Faith-Based Sector Empowers Youth to Resist Substance Use - Centers for Disease Control and Prevention | CDC (.gov)",
+          "Lyme Disease in Ohio Map - Ohio Department of Health (.gov)",
+          "PACC identifies likely cause of deadly disease outbreak - KOLD"
+        ]
       },
       {
-        "trend": "drug approval",
+        "trend": "outbreak",
+        "market_code": "IT",
+        "category": "Outbreaks",
+        "score": 14,
+        "examples": [
+          "Ebola outbreak spreads to 4th province in DR Congo - CIDRAP",
+          "PACC identifies likely cause of deadly disease outbreak - KOLD",
+          "Companion Animal Alliance says it’s nearing end of distemper outbreak - WAFB"
+        ]
+      },
+      {
+        "trend": "health alert",
+        "market_code": "IT",
+        "category": "Europe Health",
+        "score": 11,
+        "examples": [
+          "Chicken sold at Fred Meyer stores subject of USDA health alert - East Idaho News",
+          "Public Health Alert Issued for Chicken Product Sold in 9 States Due to Misbranding: What to Know - People.com",
+          "Health Alert: Health Alert: U.S. Embassy Kampala (June 29, 2026) - U.S. Embassy in Uganda (.gov)"
+        ]
+      },
+      {
+        "trend": "treatment",
         "market_code": "IT",
         "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
+        "score": 10,
+        "examples": [
+          "Governor Newsom signs bipartisan measure giving judges stronger tools to protect public safety, preserve access to mental health treatment - California State Portal | CA.gov",
+          "Cost and utilization of inpatient mental health and substance use treatment - healthsystemtracker.org",
+          "Governor Newsom signs bipartisan measure giving judges stronger tools to protect public safety, preserve access to mental health treatment - California State Portal | CA.gov"
+        ]
       },
       {
-        "trend": "diet wellness",
+        "trend": "heart",
         "market_code": "IT",
-        "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "category": "Chronic Disease",
+        "score": 10,
+        "examples": [
+          "Growing scientific evidence links e-cigarette chemicals to heart health risks - www.heart.org",
+          "Growing scientific evidence links e-cigarette chemicals to heart health risks - www.heart.org",
+          "Daily Dose - Men’s Heart Health: The Warning Signs, Screenings and Habits That Could Save Your Life - Atrium Health"
+        ]
+      },
+      {
+        "trend": "hospital",
+        "market_code": "IT",
+        "category": "Europe Health",
+        "score": 8,
+        "examples": [
+          "Houston Methodist West Hospital Experts Warn of Mosquito Risks After Fort Bend Declares Health Emergency - Covering Katy News",
+          "Clariyon’s AI tool boosts sepsis care compliance in hospital study - Medical Device Network",
+          "Intermountain Primary Children’s Hospital expands Behavioral Health Services to support Utah families, with tips for summer break and back-to-school - ABC4 Utah"
+        ]
       }
     ],
     "Spain": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "ES",
         "category": "Europe Health",
-        "score": 1,
-        "examples": []
+        "score": 84,
+        "examples": [
+          "Mayor Mamdani Opens City’s First Public Health Vending Machines on Staten Island - NYC.gov",
+          "Governor Newsom signs bipartisan measure giving judges stronger tools to protect public safety, preserve access to mental health treatment - California State Portal | CA.gov",
+          "Gavin Newsom signs law limiting mental health diversion for people accused of crimes - CalMatters"
+        ]
       },
       {
-        "trend": "outbreak",
+        "trend": "public health",
         "market_code": "ES",
-        "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "category": "Europe Health",
+        "score": 18,
+        "examples": [
+          "Mayor Mamdani Opens City’s First Public Health Vending Machines on Staten Island - NYC.gov",
+          "Medicaid work requirements—and ‘medical frailty’ exemption—put health coverage in jeopardy - Harvard T.H. Chan School of Public Health",
+          "Mayor Mamdani Opens City’s First Public Health Vending Machines on Staten Island - NYC.gov"
+        ]
+      },
+      {
+        "trend": "medical",
+        "market_code": "ES",
+        "category": "Europe Health",
+        "score": 17,
+        "examples": [
+          "Responding to Earthquakes in Venezuela - International Medical Corps",
+          "Army medical logistics overhaul cuts supply wait times in half - army.mil",
+          "Medical All Star Spotlight: Ernie Gervino - Beth Israel Deaconess Medical Center"
+        ]
+      },
+      {
+        "trend": "healthcare",
+        "market_code": "ES",
+        "category": "Europe Health",
+        "score": 16,
+        "examples": [
+          "Fierce Healthcare Fundraising Tracker '26: Trase secures $107M to scale AI agents; xCures lands $46M - Fierce Healthcare",
+          "Fierce Healthcare Fundraising Tracker '26: Trase secures $107M to scale AI agents; xCures lands $46M - Fierce Healthcare",
+          "Hantavirus Town Hall: What Frontline Healthcare Staff Need to Know About Andes Hantavirus Preparedness - National Emerging Special Pathogens Training & Education Center"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "ES",
+        "category": "Mental Health",
+        "score": 15,
+        "examples": [
+          "Governor Newsom signs bipartisan measure giving judges stronger tools to protect public safety, preserve access to mental health treatment - California State Portal | CA.gov",
+          "Gavin Newsom signs law limiting mental health diversion for people accused of crimes - CalMatters",
+          "Cost and utilization of inpatient mental health and substance use treatment - healthsystemtracker.org"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "ES",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
+        "score": 15,
+        "examples": [
+          "Governor Newsom signs bipartisan measure giving judges stronger tools to protect public safety, preserve access to mental health treatment - California State Portal | CA.gov",
+          "Gavin Newsom signs law limiting mental health diversion for people accused of crimes - CalMatters",
+          "Cost and utilization of inpatient mental health and substance use treatment - healthsystemtracker.org"
+        ]
       },
       {
-        "trend": "medical research",
+        "trend": "disease",
         "market_code": "ES",
         "category": "Europe Health",
-        "score": 1,
-        "examples": []
+        "score": 15,
+        "examples": [
+          "Faith-Based Sector Empowers Youth to Resist Substance Use - Centers for Disease Control and Prevention | CDC (.gov)",
+          "Lyme Disease in Ohio Map - Ohio Department of Health (.gov)",
+          "PACC identifies likely cause of deadly disease outbreak - KOLD"
+        ]
       },
       {
-        "trend": "drug approval",
+        "trend": "outbreak",
+        "market_code": "ES",
+        "category": "Outbreaks",
+        "score": 14,
+        "examples": [
+          "Ebola outbreak spreads to 4th province in DR Congo - CIDRAP",
+          "PACC identifies likely cause of deadly disease outbreak - KOLD",
+          "Companion Animal Alliance says it’s nearing end of distemper outbreak - WAFB"
+        ]
+      },
+      {
+        "trend": "health alert",
+        "market_code": "ES",
+        "category": "Europe Health",
+        "score": 11,
+        "examples": [
+          "Chicken sold at Fred Meyer stores subject of USDA health alert - East Idaho News",
+          "Public Health Alert Issued for Chicken Product Sold in 9 States Due to Misbranding: What to Know - People.com",
+          "Health Alert: Health Alert: U.S. Embassy Kampala (June 29, 2026) - U.S. Embassy in Uganda (.gov)"
+        ]
+      },
+      {
+        "trend": "treatment",
         "market_code": "ES",
         "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
+        "score": 10,
+        "examples": [
+          "Governor Newsom signs bipartisan measure giving judges stronger tools to protect public safety, preserve access to mental health treatment - California State Portal | CA.gov",
+          "Cost and utilization of inpatient mental health and substance use treatment - healthsystemtracker.org",
+          "Governor Newsom signs bipartisan measure giving judges stronger tools to protect public safety, preserve access to mental health treatment - California State Portal | CA.gov"
+        ]
       },
       {
-        "trend": "diet wellness",
+        "trend": "heart",
         "market_code": "ES",
-        "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "category": "Chronic Disease",
+        "score": 10,
+        "examples": [
+          "Growing scientific evidence links e-cigarette chemicals to heart health risks - www.heart.org",
+          "Growing scientific evidence links e-cigarette chemicals to heart health risks - www.heart.org",
+          "Daily Dose - Men’s Heart Health: The Warning Signs, Screenings and Habits That Could Save Your Life - Atrium Health"
+        ]
+      },
+      {
+        "trend": "hospital",
+        "market_code": "ES",
+        "category": "Europe Health",
+        "score": 8,
+        "examples": [
+          "Houston Methodist West Hospital Experts Warn of Mosquito Risks After Fort Bend Declares Health Emergency - Covering Katy News",
+          "Clariyon’s AI tool boosts sepsis care compliance in hospital study - Medical Device Network",
+          "Intermountain Primary Children’s Hospital expands Behavioral Health Services to support Utah families, with tips for summer break and back-to-school - ABC4 Utah"
+        ]
       }
     ],
     "Sweden": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "SE",
         "category": "Europe Health",
-        "score": 1,
-        "examples": []
+        "score": 84,
+        "examples": [
+          "Mayor Mamdani Opens City’s First Public Health Vending Machines on Staten Island - NYC.gov",
+          "Governor Newsom signs bipartisan measure giving judges stronger tools to protect public safety, preserve access to mental health treatment - California State Portal | CA.gov",
+          "Gavin Newsom signs law limiting mental health diversion for people accused of crimes - CalMatters"
+        ]
       },
       {
-        "trend": "outbreak",
+        "trend": "public health",
         "market_code": "SE",
-        "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "category": "Europe Health",
+        "score": 18,
+        "examples": [
+          "Mayor Mamdani Opens City’s First Public Health Vending Machines on Staten Island - NYC.gov",
+          "Medicaid work requirements—and ‘medical frailty’ exemption—put health coverage in jeopardy - Harvard T.H. Chan School of Public Health",
+          "Mayor Mamdani Opens City’s First Public Health Vending Machines on Staten Island - NYC.gov"
+        ]
+      },
+      {
+        "trend": "medical",
+        "market_code": "SE",
+        "category": "Europe Health",
+        "score": 17,
+        "examples": [
+          "Responding to Earthquakes in Venezuela - International Medical Corps",
+          "Army medical logistics overhaul cuts supply wait times in half - army.mil",
+          "Medical All Star Spotlight: Ernie Gervino - Beth Israel Deaconess Medical Center"
+        ]
+      },
+      {
+        "trend": "healthcare",
+        "market_code": "SE",
+        "category": "Europe Health",
+        "score": 16,
+        "examples": [
+          "Fierce Healthcare Fundraising Tracker '26: Trase secures $107M to scale AI agents; xCures lands $46M - Fierce Healthcare",
+          "Fierce Healthcare Fundraising Tracker '26: Trase secures $107M to scale AI agents; xCures lands $46M - Fierce Healthcare",
+          "Hantavirus Town Hall: What Frontline Healthcare Staff Need to Know About Andes Hantavirus Preparedness - National Emerging Special Pathogens Training & Education Center"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "SE",
+        "category": "Mental Health",
+        "score": 15,
+        "examples": [
+          "Governor Newsom signs bipartisan measure giving judges stronger tools to protect public safety, preserve access to mental health treatment - California State Portal | CA.gov",
+          "Gavin Newsom signs law limiting mental health diversion for people accused of crimes - CalMatters",
+          "Cost and utilization of inpatient mental health and substance use treatment - healthsystemtracker.org"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "SE",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
+        "score": 15,
+        "examples": [
+          "Governor Newsom signs bipartisan measure giving judges stronger tools to protect public safety, preserve access to mental health treatment - California State Portal | CA.gov",
+          "Gavin Newsom signs law limiting mental health diversion for people accused of crimes - CalMatters",
+          "Cost and utilization of inpatient mental health and substance use treatment - healthsystemtracker.org"
+        ]
       },
       {
-        "trend": "medical research",
+        "trend": "disease",
         "market_code": "SE",
         "category": "Europe Health",
-        "score": 1,
-        "examples": []
+        "score": 15,
+        "examples": [
+          "Faith-Based Sector Empowers Youth to Resist Substance Use - Centers for Disease Control and Prevention | CDC (.gov)",
+          "Lyme Disease in Ohio Map - Ohio Department of Health (.gov)",
+          "PACC identifies likely cause of deadly disease outbreak - KOLD"
+        ]
       },
       {
-        "trend": "drug approval",
+        "trend": "outbreak",
+        "market_code": "SE",
+        "category": "Outbreaks",
+        "score": 14,
+        "examples": [
+          "Ebola outbreak spreads to 4th province in DR Congo - CIDRAP",
+          "PACC identifies likely cause of deadly disease outbreak - KOLD",
+          "Companion Animal Alliance says it’s nearing end of distemper outbreak - WAFB"
+        ]
+      },
+      {
+        "trend": "health alert",
+        "market_code": "SE",
+        "category": "Europe Health",
+        "score": 11,
+        "examples": [
+          "Chicken sold at Fred Meyer stores subject of USDA health alert - East Idaho News",
+          "Public Health Alert Issued for Chicken Product Sold in 9 States Due to Misbranding: What to Know - People.com",
+          "Health Alert: Health Alert: U.S. Embassy Kampala (June 29, 2026) - U.S. Embassy in Uganda (.gov)"
+        ]
+      },
+      {
+        "trend": "treatment",
         "market_code": "SE",
         "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
+        "score": 10,
+        "examples": [
+          "Governor Newsom signs bipartisan measure giving judges stronger tools to protect public safety, preserve access to mental health treatment - California State Portal | CA.gov",
+          "Cost and utilization of inpatient mental health and substance use treatment - healthsystemtracker.org",
+          "Governor Newsom signs bipartisan measure giving judges stronger tools to protect public safety, preserve access to mental health treatment - California State Portal | CA.gov"
+        ]
       },
       {
-        "trend": "diet wellness",
+        "trend": "heart",
         "market_code": "SE",
-        "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "category": "Chronic Disease",
+        "score": 10,
+        "examples": [
+          "Growing scientific evidence links e-cigarette chemicals to heart health risks - www.heart.org",
+          "Growing scientific evidence links e-cigarette chemicals to heart health risks - www.heart.org",
+          "Daily Dose - Men’s Heart Health: The Warning Signs, Screenings and Habits That Could Save Your Life - Atrium Health"
+        ]
+      },
+      {
+        "trend": "hospital",
+        "market_code": "SE",
+        "category": "Europe Health",
+        "score": 8,
+        "examples": [
+          "Houston Methodist West Hospital Experts Warn of Mosquito Risks After Fort Bend Declares Health Emergency - Covering Katy News",
+          "Clariyon’s AI tool boosts sepsis care compliance in hospital study - Medical Device Network",
+          "Intermountain Primary Children’s Hospital expands Behavioral Health Services to support Utah families, with tips for summer break and back-to-school - ABC4 Utah"
+        ]
       }
     ],
     "Netherlands": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "NL",
         "category": "Europe Health",
-        "score": 1,
-        "examples": []
+        "score": 84,
+        "examples": [
+          "Mayor Mamdani Opens City’s First Public Health Vending Machines on Staten Island - NYC.gov",
+          "Governor Newsom signs bipartisan measure giving judges stronger tools to protect public safety, preserve access to mental health treatment - California State Portal | CA.gov",
+          "Gavin Newsom signs law limiting mental health diversion for people accused of crimes - CalMatters"
+        ]
       },
       {
-        "trend": "outbreak",
+        "trend": "public health",
         "market_code": "NL",
-        "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "category": "Europe Health",
+        "score": 18,
+        "examples": [
+          "Mayor Mamdani Opens City’s First Public Health Vending Machines on Staten Island - NYC.gov",
+          "Medicaid work requirements—and ‘medical frailty’ exemption—put health coverage in jeopardy - Harvard T.H. Chan School of Public Health",
+          "Mayor Mamdani Opens City’s First Public Health Vending Machines on Staten Island - NYC.gov"
+        ]
+      },
+      {
+        "trend": "medical",
+        "market_code": "NL",
+        "category": "Europe Health",
+        "score": 17,
+        "examples": [
+          "Responding to Earthquakes in Venezuela - International Medical Corps",
+          "Army medical logistics overhaul cuts supply wait times in half - army.mil",
+          "Medical All Star Spotlight: Ernie Gervino - Beth Israel Deaconess Medical Center"
+        ]
+      },
+      {
+        "trend": "healthcare",
+        "market_code": "NL",
+        "category": "Europe Health",
+        "score": 16,
+        "examples": [
+          "Fierce Healthcare Fundraising Tracker '26: Trase secures $107M to scale AI agents; xCures lands $46M - Fierce Healthcare",
+          "Fierce Healthcare Fundraising Tracker '26: Trase secures $107M to scale AI agents; xCures lands $46M - Fierce Healthcare",
+          "Hantavirus Town Hall: What Frontline Healthcare Staff Need to Know About Andes Hantavirus Preparedness - National Emerging Special Pathogens Training & Education Center"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "NL",
+        "category": "Mental Health",
+        "score": 15,
+        "examples": [
+          "Governor Newsom signs bipartisan measure giving judges stronger tools to protect public safety, preserve access to mental health treatment - California State Portal | CA.gov",
+          "Gavin Newsom signs law limiting mental health diversion for people accused of crimes - CalMatters",
+          "Cost and utilization of inpatient mental health and substance use treatment - healthsystemtracker.org"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "NL",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
+        "score": 15,
+        "examples": [
+          "Governor Newsom signs bipartisan measure giving judges stronger tools to protect public safety, preserve access to mental health treatment - California State Portal | CA.gov",
+          "Gavin Newsom signs law limiting mental health diversion for people accused of crimes - CalMatters",
+          "Cost and utilization of inpatient mental health and substance use treatment - healthsystemtracker.org"
+        ]
       },
       {
-        "trend": "medical research",
+        "trend": "disease",
         "market_code": "NL",
         "category": "Europe Health",
-        "score": 1,
-        "examples": []
+        "score": 15,
+        "examples": [
+          "Faith-Based Sector Empowers Youth to Resist Substance Use - Centers for Disease Control and Prevention | CDC (.gov)",
+          "Lyme Disease in Ohio Map - Ohio Department of Health (.gov)",
+          "PACC identifies likely cause of deadly disease outbreak - KOLD"
+        ]
       },
       {
-        "trend": "drug approval",
+        "trend": "outbreak",
+        "market_code": "NL",
+        "category": "Outbreaks",
+        "score": 14,
+        "examples": [
+          "Ebola outbreak spreads to 4th province in DR Congo - CIDRAP",
+          "PACC identifies likely cause of deadly disease outbreak - KOLD",
+          "Companion Animal Alliance says it’s nearing end of distemper outbreak - WAFB"
+        ]
+      },
+      {
+        "trend": "health alert",
+        "market_code": "NL",
+        "category": "Europe Health",
+        "score": 11,
+        "examples": [
+          "Chicken sold at Fred Meyer stores subject of USDA health alert - East Idaho News",
+          "Public Health Alert Issued for Chicken Product Sold in 9 States Due to Misbranding: What to Know - People.com",
+          "Health Alert: Health Alert: U.S. Embassy Kampala (June 29, 2026) - U.S. Embassy in Uganda (.gov)"
+        ]
+      },
+      {
+        "trend": "treatment",
         "market_code": "NL",
         "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
+        "score": 10,
+        "examples": [
+          "Governor Newsom signs bipartisan measure giving judges stronger tools to protect public safety, preserve access to mental health treatment - California State Portal | CA.gov",
+          "Cost and utilization of inpatient mental health and substance use treatment - healthsystemtracker.org",
+          "Governor Newsom signs bipartisan measure giving judges stronger tools to protect public safety, preserve access to mental health treatment - California State Portal | CA.gov"
+        ]
       },
       {
-        "trend": "diet wellness",
+        "trend": "heart",
         "market_code": "NL",
-        "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "category": "Chronic Disease",
+        "score": 10,
+        "examples": [
+          "Growing scientific evidence links e-cigarette chemicals to heart health risks - www.heart.org",
+          "Growing scientific evidence links e-cigarette chemicals to heart health risks - www.heart.org",
+          "Daily Dose - Men’s Heart Health: The Warning Signs, Screenings and Habits That Could Save Your Life - Atrium Health"
+        ]
+      },
+      {
+        "trend": "hospital",
+        "market_code": "NL",
+        "category": "Europe Health",
+        "score": 8,
+        "examples": [
+          "Houston Methodist West Hospital Experts Warn of Mosquito Risks After Fort Bend Declares Health Emergency - Covering Katy News",
+          "Clariyon’s AI tool boosts sepsis care compliance in hospital study - Medical Device Network",
+          "Intermountain Primary Children’s Hospital expands Behavioral Health Services to support Utah families, with tips for summer break and back-to-school - ABC4 Utah"
+        ]
       }
     ],
     "Finland": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "FI",
         "category": "Europe Health",
-        "score": 1,
-        "examples": []
+        "score": 84,
+        "examples": [
+          "Mayor Mamdani Opens City’s First Public Health Vending Machines on Staten Island - NYC.gov",
+          "Governor Newsom signs bipartisan measure giving judges stronger tools to protect public safety, preserve access to mental health treatment - California State Portal | CA.gov",
+          "Gavin Newsom signs law limiting mental health diversion for people accused of crimes - CalMatters"
+        ]
       },
       {
-        "trend": "outbreak",
+        "trend": "public health",
         "market_code": "FI",
-        "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "category": "Europe Health",
+        "score": 18,
+        "examples": [
+          "Mayor Mamdani Opens City’s First Public Health Vending Machines on Staten Island - NYC.gov",
+          "Medicaid work requirements—and ‘medical frailty’ exemption—put health coverage in jeopardy - Harvard T.H. Chan School of Public Health",
+          "Mayor Mamdani Opens City’s First Public Health Vending Machines on Staten Island - NYC.gov"
+        ]
+      },
+      {
+        "trend": "medical",
+        "market_code": "FI",
+        "category": "Europe Health",
+        "score": 17,
+        "examples": [
+          "Responding to Earthquakes in Venezuela - International Medical Corps",
+          "Army medical logistics overhaul cuts supply wait times in half - army.mil",
+          "Medical All Star Spotlight: Ernie Gervino - Beth Israel Deaconess Medical Center"
+        ]
+      },
+      {
+        "trend": "healthcare",
+        "market_code": "FI",
+        "category": "Europe Health",
+        "score": 16,
+        "examples": [
+          "Fierce Healthcare Fundraising Tracker '26: Trase secures $107M to scale AI agents; xCures lands $46M - Fierce Healthcare",
+          "Fierce Healthcare Fundraising Tracker '26: Trase secures $107M to scale AI agents; xCures lands $46M - Fierce Healthcare",
+          "Hantavirus Town Hall: What Frontline Healthcare Staff Need to Know About Andes Hantavirus Preparedness - National Emerging Special Pathogens Training & Education Center"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "FI",
+        "category": "Mental Health",
+        "score": 15,
+        "examples": [
+          "Governor Newsom signs bipartisan measure giving judges stronger tools to protect public safety, preserve access to mental health treatment - California State Portal | CA.gov",
+          "Gavin Newsom signs law limiting mental health diversion for people accused of crimes - CalMatters",
+          "Cost and utilization of inpatient mental health and substance use treatment - healthsystemtracker.org"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "FI",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
+        "score": 15,
+        "examples": [
+          "Governor Newsom signs bipartisan measure giving judges stronger tools to protect public safety, preserve access to mental health treatment - California State Portal | CA.gov",
+          "Gavin Newsom signs law limiting mental health diversion for people accused of crimes - CalMatters",
+          "Cost and utilization of inpatient mental health and substance use treatment - healthsystemtracker.org"
+        ]
       },
       {
-        "trend": "medical research",
+        "trend": "disease",
         "market_code": "FI",
         "category": "Europe Health",
-        "score": 1,
-        "examples": []
+        "score": 15,
+        "examples": [
+          "Faith-Based Sector Empowers Youth to Resist Substance Use - Centers for Disease Control and Prevention | CDC (.gov)",
+          "Lyme Disease in Ohio Map - Ohio Department of Health (.gov)",
+          "PACC identifies likely cause of deadly disease outbreak - KOLD"
+        ]
       },
       {
-        "trend": "drug approval",
+        "trend": "outbreak",
+        "market_code": "FI",
+        "category": "Outbreaks",
+        "score": 14,
+        "examples": [
+          "Ebola outbreak spreads to 4th province in DR Congo - CIDRAP",
+          "PACC identifies likely cause of deadly disease outbreak - KOLD",
+          "Companion Animal Alliance says it’s nearing end of distemper outbreak - WAFB"
+        ]
+      },
+      {
+        "trend": "health alert",
+        "market_code": "FI",
+        "category": "Europe Health",
+        "score": 11,
+        "examples": [
+          "Chicken sold at Fred Meyer stores subject of USDA health alert - East Idaho News",
+          "Public Health Alert Issued for Chicken Product Sold in 9 States Due to Misbranding: What to Know - People.com",
+          "Health Alert: Health Alert: U.S. Embassy Kampala (June 29, 2026) - U.S. Embassy in Uganda (.gov)"
+        ]
+      },
+      {
+        "trend": "treatment",
         "market_code": "FI",
         "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
+        "score": 10,
+        "examples": [
+          "Governor Newsom signs bipartisan measure giving judges stronger tools to protect public safety, preserve access to mental health treatment - California State Portal | CA.gov",
+          "Cost and utilization of inpatient mental health and substance use treatment - healthsystemtracker.org",
+          "Governor Newsom signs bipartisan measure giving judges stronger tools to protect public safety, preserve access to mental health treatment - California State Portal | CA.gov"
+        ]
       },
       {
-        "trend": "diet wellness",
+        "trend": "heart",
         "market_code": "FI",
-        "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "category": "Chronic Disease",
+        "score": 10,
+        "examples": [
+          "Growing scientific evidence links e-cigarette chemicals to heart health risks - www.heart.org",
+          "Growing scientific evidence links e-cigarette chemicals to heart health risks - www.heart.org",
+          "Daily Dose - Men’s Heart Health: The Warning Signs, Screenings and Habits That Could Save Your Life - Atrium Health"
+        ]
+      },
+      {
+        "trend": "hospital",
+        "market_code": "FI",
+        "category": "Europe Health",
+        "score": 8,
+        "examples": [
+          "Houston Methodist West Hospital Experts Warn of Mosquito Risks After Fort Bend Declares Health Emergency - Covering Katy News",
+          "Clariyon’s AI tool boosts sepsis care compliance in hospital study - Medical Device Network",
+          "Intermountain Primary Children’s Hospital expands Behavioral Health Services to support Utah families, with tips for summer break and back-to-school - ABC4 Utah"
+        ]
       }
     ],
     "Norway": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "NO",
         "category": "Europe Health",
-        "score": 1,
-        "examples": []
+        "score": 84,
+        "examples": [
+          "Mayor Mamdani Opens City’s First Public Health Vending Machines on Staten Island - NYC.gov",
+          "Governor Newsom signs bipartisan measure giving judges stronger tools to protect public safety, preserve access to mental health treatment - California State Portal | CA.gov",
+          "Gavin Newsom signs law limiting mental health diversion for people accused of crimes - CalMatters"
+        ]
       },
       {
-        "trend": "outbreak",
+        "trend": "public health",
         "market_code": "NO",
-        "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "category": "Europe Health",
+        "score": 18,
+        "examples": [
+          "Mayor Mamdani Opens City’s First Public Health Vending Machines on Staten Island - NYC.gov",
+          "Medicaid work requirements—and ‘medical frailty’ exemption—put health coverage in jeopardy - Harvard T.H. Chan School of Public Health",
+          "Mayor Mamdani Opens City’s First Public Health Vending Machines on Staten Island - NYC.gov"
+        ]
+      },
+      {
+        "trend": "medical",
+        "market_code": "NO",
+        "category": "Europe Health",
+        "score": 17,
+        "examples": [
+          "Responding to Earthquakes in Venezuela - International Medical Corps",
+          "Army medical logistics overhaul cuts supply wait times in half - army.mil",
+          "Medical All Star Spotlight: Ernie Gervino - Beth Israel Deaconess Medical Center"
+        ]
+      },
+      {
+        "trend": "healthcare",
+        "market_code": "NO",
+        "category": "Europe Health",
+        "score": 16,
+        "examples": [
+          "Fierce Healthcare Fundraising Tracker '26: Trase secures $107M to scale AI agents; xCures lands $46M - Fierce Healthcare",
+          "Fierce Healthcare Fundraising Tracker '26: Trase secures $107M to scale AI agents; xCures lands $46M - Fierce Healthcare",
+          "Hantavirus Town Hall: What Frontline Healthcare Staff Need to Know About Andes Hantavirus Preparedness - National Emerging Special Pathogens Training & Education Center"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "NO",
+        "category": "Mental Health",
+        "score": 15,
+        "examples": [
+          "Governor Newsom signs bipartisan measure giving judges stronger tools to protect public safety, preserve access to mental health treatment - California State Portal | CA.gov",
+          "Gavin Newsom signs law limiting mental health diversion for people accused of crimes - CalMatters",
+          "Cost and utilization of inpatient mental health and substance use treatment - healthsystemtracker.org"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "NO",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
+        "score": 15,
+        "examples": [
+          "Governor Newsom signs bipartisan measure giving judges stronger tools to protect public safety, preserve access to mental health treatment - California State Portal | CA.gov",
+          "Gavin Newsom signs law limiting mental health diversion for people accused of crimes - CalMatters",
+          "Cost and utilization of inpatient mental health and substance use treatment - healthsystemtracker.org"
+        ]
       },
       {
-        "trend": "medical research",
+        "trend": "disease",
         "market_code": "NO",
         "category": "Europe Health",
-        "score": 1,
-        "examples": []
+        "score": 15,
+        "examples": [
+          "Faith-Based Sector Empowers Youth to Resist Substance Use - Centers for Disease Control and Prevention | CDC (.gov)",
+          "Lyme Disease in Ohio Map - Ohio Department of Health (.gov)",
+          "PACC identifies likely cause of deadly disease outbreak - KOLD"
+        ]
       },
       {
-        "trend": "drug approval",
+        "trend": "outbreak",
+        "market_code": "NO",
+        "category": "Outbreaks",
+        "score": 14,
+        "examples": [
+          "Ebola outbreak spreads to 4th province in DR Congo - CIDRAP",
+          "PACC identifies likely cause of deadly disease outbreak - KOLD",
+          "Companion Animal Alliance says it’s nearing end of distemper outbreak - WAFB"
+        ]
+      },
+      {
+        "trend": "health alert",
+        "market_code": "NO",
+        "category": "Europe Health",
+        "score": 11,
+        "examples": [
+          "Chicken sold at Fred Meyer stores subject of USDA health alert - East Idaho News",
+          "Public Health Alert Issued for Chicken Product Sold in 9 States Due to Misbranding: What to Know - People.com",
+          "Health Alert: Health Alert: U.S. Embassy Kampala (June 29, 2026) - U.S. Embassy in Uganda (.gov)"
+        ]
+      },
+      {
+        "trend": "treatment",
         "market_code": "NO",
         "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
+        "score": 10,
+        "examples": [
+          "Governor Newsom signs bipartisan measure giving judges stronger tools to protect public safety, preserve access to mental health treatment - California State Portal | CA.gov",
+          "Cost and utilization of inpatient mental health and substance use treatment - healthsystemtracker.org",
+          "Governor Newsom signs bipartisan measure giving judges stronger tools to protect public safety, preserve access to mental health treatment - California State Portal | CA.gov"
+        ]
       },
       {
-        "trend": "diet wellness",
+        "trend": "heart",
         "market_code": "NO",
-        "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "category": "Chronic Disease",
+        "score": 10,
+        "examples": [
+          "Growing scientific evidence links e-cigarette chemicals to heart health risks - www.heart.org",
+          "Growing scientific evidence links e-cigarette chemicals to heart health risks - www.heart.org",
+          "Daily Dose - Men’s Heart Health: The Warning Signs, Screenings and Habits That Could Save Your Life - Atrium Health"
+        ]
+      },
+      {
+        "trend": "hospital",
+        "market_code": "NO",
+        "category": "Europe Health",
+        "score": 8,
+        "examples": [
+          "Houston Methodist West Hospital Experts Warn of Mosquito Risks After Fort Bend Declares Health Emergency - Covering Katy News",
+          "Clariyon’s AI tool boosts sepsis care compliance in hospital study - Medical Device Network",
+          "Intermountain Primary Children’s Hospital expands Behavioral Health Services to support Utah families, with tips for summer break and back-to-school - ABC4 Utah"
+        ]
       }
     ],
     "Japan": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "JP",
         "category": "Asia Health",
-        "score": 1,
-        "examples": []
+        "score": 84,
+        "examples": [
+          "Mayor Mamdani Opens City’s First Public Health Vending Machines on Staten Island - NYC.gov",
+          "Governor Newsom signs bipartisan measure giving judges stronger tools to protect public safety, preserve access to mental health treatment - California State Portal | CA.gov",
+          "Gavin Newsom signs law limiting mental health diversion for people accused of crimes - CalMatters"
+        ]
       },
       {
-        "trend": "outbreak",
+        "trend": "public health",
         "market_code": "JP",
-        "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "category": "Asia Health",
+        "score": 18,
+        "examples": [
+          "Mayor Mamdani Opens City’s First Public Health Vending Machines on Staten Island - NYC.gov",
+          "Medicaid work requirements—and ‘medical frailty’ exemption—put health coverage in jeopardy - Harvard T.H. Chan School of Public Health",
+          "Mayor Mamdani Opens City’s First Public Health Vending Machines on Staten Island - NYC.gov"
+        ]
+      },
+      {
+        "trend": "medical",
+        "market_code": "JP",
+        "category": "Asia Health",
+        "score": 17,
+        "examples": [
+          "Responding to Earthquakes in Venezuela - International Medical Corps",
+          "Army medical logistics overhaul cuts supply wait times in half - army.mil",
+          "Medical All Star Spotlight: Ernie Gervino - Beth Israel Deaconess Medical Center"
+        ]
+      },
+      {
+        "trend": "healthcare",
+        "market_code": "JP",
+        "category": "Asia Health",
+        "score": 16,
+        "examples": [
+          "Fierce Healthcare Fundraising Tracker '26: Trase secures $107M to scale AI agents; xCures lands $46M - Fierce Healthcare",
+          "Fierce Healthcare Fundraising Tracker '26: Trase secures $107M to scale AI agents; xCures lands $46M - Fierce Healthcare",
+          "Hantavirus Town Hall: What Frontline Healthcare Staff Need to Know About Andes Hantavirus Preparedness - National Emerging Special Pathogens Training & Education Center"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "JP",
+        "category": "Mental Health",
+        "score": 15,
+        "examples": [
+          "Governor Newsom signs bipartisan measure giving judges stronger tools to protect public safety, preserve access to mental health treatment - California State Portal | CA.gov",
+          "Gavin Newsom signs law limiting mental health diversion for people accused of crimes - CalMatters",
+          "Cost and utilization of inpatient mental health and substance use treatment - healthsystemtracker.org"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "JP",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
+        "score": 15,
+        "examples": [
+          "Governor Newsom signs bipartisan measure giving judges stronger tools to protect public safety, preserve access to mental health treatment - California State Portal | CA.gov",
+          "Gavin Newsom signs law limiting mental health diversion for people accused of crimes - CalMatters",
+          "Cost and utilization of inpatient mental health and substance use treatment - healthsystemtracker.org"
+        ]
       },
       {
-        "trend": "medical research",
+        "trend": "disease",
         "market_code": "JP",
         "category": "Asia Health",
-        "score": 1,
-        "examples": []
+        "score": 15,
+        "examples": [
+          "Faith-Based Sector Empowers Youth to Resist Substance Use - Centers for Disease Control and Prevention | CDC (.gov)",
+          "Lyme Disease in Ohio Map - Ohio Department of Health (.gov)",
+          "PACC identifies likely cause of deadly disease outbreak - KOLD"
+        ]
       },
       {
-        "trend": "drug approval",
+        "trend": "outbreak",
+        "market_code": "JP",
+        "category": "Outbreaks",
+        "score": 14,
+        "examples": [
+          "Ebola outbreak spreads to 4th province in DR Congo - CIDRAP",
+          "PACC identifies likely cause of deadly disease outbreak - KOLD",
+          "Companion Animal Alliance says it’s nearing end of distemper outbreak - WAFB"
+        ]
+      },
+      {
+        "trend": "health alert",
+        "market_code": "JP",
+        "category": "Asia Health",
+        "score": 11,
+        "examples": [
+          "Chicken sold at Fred Meyer stores subject of USDA health alert - East Idaho News",
+          "Public Health Alert Issued for Chicken Product Sold in 9 States Due to Misbranding: What to Know - People.com",
+          "Health Alert: Health Alert: U.S. Embassy Kampala (June 29, 2026) - U.S. Embassy in Uganda (.gov)"
+        ]
+      },
+      {
+        "trend": "treatment",
         "market_code": "JP",
         "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
+        "score": 10,
+        "examples": [
+          "Governor Newsom signs bipartisan measure giving judges stronger tools to protect public safety, preserve access to mental health treatment - California State Portal | CA.gov",
+          "Cost and utilization of inpatient mental health and substance use treatment - healthsystemtracker.org",
+          "Governor Newsom signs bipartisan measure giving judges stronger tools to protect public safety, preserve access to mental health treatment - California State Portal | CA.gov"
+        ]
       },
       {
-        "trend": "diet wellness",
+        "trend": "heart",
         "market_code": "JP",
-        "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "category": "Chronic Disease",
+        "score": 10,
+        "examples": [
+          "Growing scientific evidence links e-cigarette chemicals to heart health risks - www.heart.org",
+          "Growing scientific evidence links e-cigarette chemicals to heart health risks - www.heart.org",
+          "Daily Dose - Men’s Heart Health: The Warning Signs, Screenings and Habits That Could Save Your Life - Atrium Health"
+        ]
+      },
+      {
+        "trend": "hospital",
+        "market_code": "JP",
+        "category": "Asia Health",
+        "score": 8,
+        "examples": [
+          "Houston Methodist West Hospital Experts Warn of Mosquito Risks After Fort Bend Declares Health Emergency - Covering Katy News",
+          "Clariyon’s AI tool boosts sepsis care compliance in hospital study - Medical Device Network",
+          "Intermountain Primary Children’s Hospital expands Behavioral Health Services to support Utah families, with tips for summer break and back-to-school - ABC4 Utah"
+        ]
       }
     ],
     "China": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "CN",
         "category": "Asia Health",
-        "score": 1,
-        "examples": []
+        "score": 84,
+        "examples": [
+          "Mayor Mamdani Opens City’s First Public Health Vending Machines on Staten Island - NYC.gov",
+          "Governor Newsom signs bipartisan measure giving judges stronger tools to protect public safety, preserve access to mental health treatment - California State Portal | CA.gov",
+          "Gavin Newsom signs law limiting mental health diversion for people accused of crimes - CalMatters"
+        ]
       },
       {
-        "trend": "outbreak",
+        "trend": "public health",
         "market_code": "CN",
-        "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "category": "Asia Health",
+        "score": 18,
+        "examples": [
+          "Mayor Mamdani Opens City’s First Public Health Vending Machines on Staten Island - NYC.gov",
+          "Medicaid work requirements—and ‘medical frailty’ exemption—put health coverage in jeopardy - Harvard T.H. Chan School of Public Health",
+          "Mayor Mamdani Opens City’s First Public Health Vending Machines on Staten Island - NYC.gov"
+        ]
+      },
+      {
+        "trend": "medical",
+        "market_code": "CN",
+        "category": "Asia Health",
+        "score": 17,
+        "examples": [
+          "Responding to Earthquakes in Venezuela - International Medical Corps",
+          "Army medical logistics overhaul cuts supply wait times in half - army.mil",
+          "Medical All Star Spotlight: Ernie Gervino - Beth Israel Deaconess Medical Center"
+        ]
+      },
+      {
+        "trend": "healthcare",
+        "market_code": "CN",
+        "category": "Asia Health",
+        "score": 16,
+        "examples": [
+          "Fierce Healthcare Fundraising Tracker '26: Trase secures $107M to scale AI agents; xCures lands $46M - Fierce Healthcare",
+          "Fierce Healthcare Fundraising Tracker '26: Trase secures $107M to scale AI agents; xCures lands $46M - Fierce Healthcare",
+          "Hantavirus Town Hall: What Frontline Healthcare Staff Need to Know About Andes Hantavirus Preparedness - National Emerging Special Pathogens Training & Education Center"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "CN",
+        "category": "Mental Health",
+        "score": 15,
+        "examples": [
+          "Governor Newsom signs bipartisan measure giving judges stronger tools to protect public safety, preserve access to mental health treatment - California State Portal | CA.gov",
+          "Gavin Newsom signs law limiting mental health diversion for people accused of crimes - CalMatters",
+          "Cost and utilization of inpatient mental health and substance use treatment - healthsystemtracker.org"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "CN",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
+        "score": 15,
+        "examples": [
+          "Governor Newsom signs bipartisan measure giving judges stronger tools to protect public safety, preserve access to mental health treatment - California State Portal | CA.gov",
+          "Gavin Newsom signs law limiting mental health diversion for people accused of crimes - CalMatters",
+          "Cost and utilization of inpatient mental health and substance use treatment - healthsystemtracker.org"
+        ]
       },
       {
-        "trend": "medical research",
+        "trend": "disease",
         "market_code": "CN",
         "category": "Asia Health",
-        "score": 1,
-        "examples": []
+        "score": 15,
+        "examples": [
+          "Faith-Based Sector Empowers Youth to Resist Substance Use - Centers for Disease Control and Prevention | CDC (.gov)",
+          "Lyme Disease in Ohio Map - Ohio Department of Health (.gov)",
+          "PACC identifies likely cause of deadly disease outbreak - KOLD"
+        ]
       },
       {
-        "trend": "drug approval",
+        "trend": "outbreak",
+        "market_code": "CN",
+        "category": "Outbreaks",
+        "score": 14,
+        "examples": [
+          "Ebola outbreak spreads to 4th province in DR Congo - CIDRAP",
+          "PACC identifies likely cause of deadly disease outbreak - KOLD",
+          "Companion Animal Alliance says it’s nearing end of distemper outbreak - WAFB"
+        ]
+      },
+      {
+        "trend": "health alert",
+        "market_code": "CN",
+        "category": "Asia Health",
+        "score": 11,
+        "examples": [
+          "Chicken sold at Fred Meyer stores subject of USDA health alert - East Idaho News",
+          "Public Health Alert Issued for Chicken Product Sold in 9 States Due to Misbranding: What to Know - People.com",
+          "Health Alert: Health Alert: U.S. Embassy Kampala (June 29, 2026) - U.S. Embassy in Uganda (.gov)"
+        ]
+      },
+      {
+        "trend": "treatment",
         "market_code": "CN",
         "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
+        "score": 10,
+        "examples": [
+          "Governor Newsom signs bipartisan measure giving judges stronger tools to protect public safety, preserve access to mental health treatment - California State Portal | CA.gov",
+          "Cost and utilization of inpatient mental health and substance use treatment - healthsystemtracker.org",
+          "Governor Newsom signs bipartisan measure giving judges stronger tools to protect public safety, preserve access to mental health treatment - California State Portal | CA.gov"
+        ]
       },
       {
-        "trend": "diet wellness",
+        "trend": "heart",
         "market_code": "CN",
-        "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "category": "Chronic Disease",
+        "score": 10,
+        "examples": [
+          "Growing scientific evidence links e-cigarette chemicals to heart health risks - www.heart.org",
+          "Growing scientific evidence links e-cigarette chemicals to heart health risks - www.heart.org",
+          "Daily Dose - Men’s Heart Health: The Warning Signs, Screenings and Habits That Could Save Your Life - Atrium Health"
+        ]
+      },
+      {
+        "trend": "hospital",
+        "market_code": "CN",
+        "category": "Asia Health",
+        "score": 8,
+        "examples": [
+          "Houston Methodist West Hospital Experts Warn of Mosquito Risks After Fort Bend Declares Health Emergency - Covering Katy News",
+          "Clariyon’s AI tool boosts sepsis care compliance in hospital study - Medical Device Network",
+          "Intermountain Primary Children’s Hospital expands Behavioral Health Services to support Utah families, with tips for summer break and back-to-school - ABC4 Utah"
+        ]
       }
     ],
     "South Korea": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "KR",
         "category": "Asia Health",
-        "score": 1,
-        "examples": []
+        "score": 84,
+        "examples": [
+          "Mayor Mamdani Opens City’s First Public Health Vending Machines on Staten Island - NYC.gov",
+          "Governor Newsom signs bipartisan measure giving judges stronger tools to protect public safety, preserve access to mental health treatment - California State Portal | CA.gov",
+          "Gavin Newsom signs law limiting mental health diversion for people accused of crimes - CalMatters"
+        ]
       },
       {
-        "trend": "outbreak",
+        "trend": "public health",
         "market_code": "KR",
-        "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "category": "Asia Health",
+        "score": 18,
+        "examples": [
+          "Mayor Mamdani Opens City’s First Public Health Vending Machines on Staten Island - NYC.gov",
+          "Medicaid work requirements—and ‘medical frailty’ exemption—put health coverage in jeopardy - Harvard T.H. Chan School of Public Health",
+          "Mayor Mamdani Opens City’s First Public Health Vending Machines on Staten Island - NYC.gov"
+        ]
+      },
+      {
+        "trend": "medical",
+        "market_code": "KR",
+        "category": "Asia Health",
+        "score": 17,
+        "examples": [
+          "Responding to Earthquakes in Venezuela - International Medical Corps",
+          "Army medical logistics overhaul cuts supply wait times in half - army.mil",
+          "Medical All Star Spotlight: Ernie Gervino - Beth Israel Deaconess Medical Center"
+        ]
+      },
+      {
+        "trend": "healthcare",
+        "market_code": "KR",
+        "category": "Asia Health",
+        "score": 16,
+        "examples": [
+          "Fierce Healthcare Fundraising Tracker '26: Trase secures $107M to scale AI agents; xCures lands $46M - Fierce Healthcare",
+          "Fierce Healthcare Fundraising Tracker '26: Trase secures $107M to scale AI agents; xCures lands $46M - Fierce Healthcare",
+          "Hantavirus Town Hall: What Frontline Healthcare Staff Need to Know About Andes Hantavirus Preparedness - National Emerging Special Pathogens Training & Education Center"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "KR",
+        "category": "Mental Health",
+        "score": 15,
+        "examples": [
+          "Governor Newsom signs bipartisan measure giving judges stronger tools to protect public safety, preserve access to mental health treatment - California State Portal | CA.gov",
+          "Gavin Newsom signs law limiting mental health diversion for people accused of crimes - CalMatters",
+          "Cost and utilization of inpatient mental health and substance use treatment - healthsystemtracker.org"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "KR",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
+        "score": 15,
+        "examples": [
+          "Governor Newsom signs bipartisan measure giving judges stronger tools to protect public safety, preserve access to mental health treatment - California State Portal | CA.gov",
+          "Gavin Newsom signs law limiting mental health diversion for people accused of crimes - CalMatters",
+          "Cost and utilization of inpatient mental health and substance use treatment - healthsystemtracker.org"
+        ]
       },
       {
-        "trend": "medical research",
+        "trend": "disease",
         "market_code": "KR",
         "category": "Asia Health",
-        "score": 1,
-        "examples": []
+        "score": 15,
+        "examples": [
+          "Faith-Based Sector Empowers Youth to Resist Substance Use - Centers for Disease Control and Prevention | CDC (.gov)",
+          "Lyme Disease in Ohio Map - Ohio Department of Health (.gov)",
+          "PACC identifies likely cause of deadly disease outbreak - KOLD"
+        ]
       },
       {
-        "trend": "drug approval",
+        "trend": "outbreak",
+        "market_code": "KR",
+        "category": "Outbreaks",
+        "score": 14,
+        "examples": [
+          "Ebola outbreak spreads to 4th province in DR Congo - CIDRAP",
+          "PACC identifies likely cause of deadly disease outbreak - KOLD",
+          "Companion Animal Alliance says it’s nearing end of distemper outbreak - WAFB"
+        ]
+      },
+      {
+        "trend": "health alert",
+        "market_code": "KR",
+        "category": "Asia Health",
+        "score": 11,
+        "examples": [
+          "Chicken sold at Fred Meyer stores subject of USDA health alert - East Idaho News",
+          "Public Health Alert Issued for Chicken Product Sold in 9 States Due to Misbranding: What to Know - People.com",
+          "Health Alert: Health Alert: U.S. Embassy Kampala (June 29, 2026) - U.S. Embassy in Uganda (.gov)"
+        ]
+      },
+      {
+        "trend": "treatment",
         "market_code": "KR",
         "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
+        "score": 10,
+        "examples": [
+          "Governor Newsom signs bipartisan measure giving judges stronger tools to protect public safety, preserve access to mental health treatment - California State Portal | CA.gov",
+          "Cost and utilization of inpatient mental health and substance use treatment - healthsystemtracker.org",
+          "Governor Newsom signs bipartisan measure giving judges stronger tools to protect public safety, preserve access to mental health treatment - California State Portal | CA.gov"
+        ]
       },
       {
-        "trend": "diet wellness",
+        "trend": "heart",
         "market_code": "KR",
-        "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "category": "Chronic Disease",
+        "score": 10,
+        "examples": [
+          "Growing scientific evidence links e-cigarette chemicals to heart health risks - www.heart.org",
+          "Growing scientific evidence links e-cigarette chemicals to heart health risks - www.heart.org",
+          "Daily Dose - Men’s Heart Health: The Warning Signs, Screenings and Habits That Could Save Your Life - Atrium Health"
+        ]
+      },
+      {
+        "trend": "hospital",
+        "market_code": "KR",
+        "category": "Asia Health",
+        "score": 8,
+        "examples": [
+          "Houston Methodist West Hospital Experts Warn of Mosquito Risks After Fort Bend Declares Health Emergency - Covering Katy News",
+          "Clariyon’s AI tool boosts sepsis care compliance in hospital study - Medical Device Network",
+          "Intermountain Primary Children’s Hospital expands Behavioral Health Services to support Utah families, with tips for summer break and back-to-school - ABC4 Utah"
+        ]
       }
     ],
     "India": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "IN",
         "category": "Asia Health",
-        "score": 1,
-        "examples": []
+        "score": 84,
+        "examples": [
+          "Union Health Secretary Smt. Punya Salila Srivastava Addresses 12th Convocation of Nursing and Allied Health Sciences at Jawaharlal Institute of Postgraduate Medical Education and Research (JIPMER) - PIB",
+          "Union Health Secretary Smt. Punya Salila Srivastava Addresses 12th Convocation of Nursing and Allied Health Sciences at Jawaharlal Institute of Postgraduate Medical Education and Research (JIPMER) - PIB",
+          "New SDG data shows stalled progress on air pollution and health - World Health Organization (WHO)"
+        ]
+      },
+      {
+        "trend": "medical",
+        "market_code": "IN",
+        "category": "Asia Health",
+        "score": 18,
+        "examples": [
+          "Union Health Secretary Smt. Punya Salila Srivastava Addresses 12th Convocation of Nursing and Allied Health Sciences at Jawaharlal Institute of Postgraduate Medical Education and Research (JIPMER) - PIB",
+          "Prepared on Paper, Unprepared in Practice: The Transition From Medical Student to Resident Doctor - Cureus",
+          "Name board row erupts at Manjeri medical college - The Hindu"
+        ]
+      },
+      {
+        "trend": "public health",
+        "market_code": "IN",
+        "category": "Asia Health",
+        "score": 17,
+        "examples": [
+          "What “Mystery Outbreaks” Teach Us About Public Health - The New York Academy of Sciences",
+          "A century of public health intelligence: the Weekly Epidemiological Record turns 100 - World Health Organization (WHO)",
+          "What “Mystery Outbreaks” Teach Us About Public Health - The New York Academy of Sciences"
+        ]
+      },
+      {
+        "trend": "healthcare",
+        "market_code": "IN",
+        "category": "Asia Health",
+        "score": 15,
+        "examples": [
+          "Fierce Healthcare Fundraising Tracker '26: Trase secures $107M to scale AI agents; xCures lands $46M - Fierce Healthcare",
+          "Fierce Healthcare Fundraising Tracker '26: Trase secures $107M to scale AI agents; xCures lands $46M - Fierce Healthcare",
+          "Korea covers AI, IoT devices in new senior-friendly products designation and more briefs - Healthcare IT News"
+        ]
       },
       {
         "trend": "outbreak",
         "market_code": "IN",
         "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "score": 12,
+        "examples": [
+          "Bangladesh: Measles outbreak claimed 9 more deaths during 24 hrs - News On AIR",
+          "Ebola outbreak spreads to 4th province in DR Congo - CIDRAP",
+          "U.S. starts vaccine effort for Ebola Bundibugyo as outbreak spreads - The Hindu"
+        ]
+      },
+      {
+        "trend": "heart",
+        "market_code": "IN",
+        "category": "Chronic Disease",
+        "score": 11,
+        "examples": [
+          "Growing scientific evidence links e-cigarette chemicals to heart health risks - www.heart.org",
+          "Growing scientific evidence links e-cigarette chemicals to heart health risks - www.heart.org",
+          "Heatwaves and heart health: How extreme temperatures can silently strain your heart - Healthshots"
+        ]
+      },
+      {
+        "trend": "disease",
+        "market_code": "IN",
+        "category": "Asia Health",
+        "score": 11,
+        "examples": [
+          "WHO advisory on immunomodulators for Bundibugyo virus disease - The Indian Practitioner",
+          "Managing Infection Risk and Safety Monitoring with Anti-CD20 MS Disease Modifying Therapy - NeurologyLive",
+          "Newly built royal centre inaugurated to strengthen infectious disease control in Bhutan - Asia News Network"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "IN",
+        "category": "Mental Health",
+        "score": 10,
+        "examples": [
+          "Prevalence and severity of mental health problems in early-career researchers: a systematic review and meta-analysis - Nature",
+          "Prevalence and severity of mental health problems in early-career researchers: a systematic review and meta-analysis - Nature",
+          "Mental Health Toll Of Heatwaves: How Extreme Heat Affects People Psychologically - Health and Me"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "IN",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
+        "score": 10,
+        "examples": [
+          "Prevalence and severity of mental health problems in early-career researchers: a systematic review and meta-analysis - Nature",
+          "Prevalence and severity of mental health problems in early-career researchers: a systematic review and meta-analysis - Nature",
+          "Mental Health Toll Of Heatwaves: How Extreme Heat Affects People Psychologically - Health and Me"
+        ]
       },
       {
-        "trend": "medical research",
+        "trend": "health alert",
         "market_code": "IN",
         "category": "Asia Health",
-        "score": 1,
-        "examples": []
+        "score": 8,
+        "examples": [
+          "France keeps health alert at highest level amid heat concerns By Investing.com - Investing.com India",
+          "Public Health Alert Issued for Chicken Breasts Sold in 9 States Over Undeclared Allergen - marthastewart.com",
+          "Health Alert: Health Alert: U.S. Embassy Kampala (June 29, 2026) - U.S. Embassy in Uganda (.gov)"
+        ]
       },
       {
-        "trend": "drug approval",
+        "trend": "infection",
         "market_code": "IN",
-        "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
+        "category": "Outbreaks",
+        "score": 8,
+        "examples": [
+          "Ear Infection Treatment Market Size To Exceed $21.86 Billion By 2035 - SNS Insider",
+          "Infection Control Today's June's Infection Prevention and Control Crossword Puzzle - Infection Control Today",
+          "Infection Control Today's June's Infection Prevention and Control Crossword Puzzle - Infection Control Today"
+        ]
       },
       {
-        "trend": "diet wellness",
+        "trend": "virus",
         "market_code": "IN",
-        "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "category": "Outbreaks",
+        "score": 7,
+        "examples": [
+          "Bird flu outbreak in Australia: The deadly H5N1 virus has reached the remote shore of ‘the last continent - The Times of India",
+          "WHO advisory on immunomodulators for Bundibugyo virus disease - The Indian Practitioner",
+          "Lacunar Infarction as a Neurological Manifestation of Human Immunodeficiency Virus (HIV): A Case Report - Cureus"
+        ]
       }
     ],
     "Australia": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "AU",
         "category": "Global Health",
-        "score": 1,
-        "examples": []
+        "score": 86,
+        "examples": [
+          "New Kids Hub set to open as mental health services reach thousands in ACT - Australian Government Department of Health, Disability and Ageing",
+          "New Kids Hub set to open as mental health services reach thousands in ACT - Australian Government Department of Health, Disability and Ageing",
+          "Concern as private health giant wins access to public emergency patients - Australian Broadcasting Corporation"
+        ]
+      },
+      {
+        "trend": "medical",
+        "market_code": "AU",
+        "category": "Global Health",
+        "score": 15,
+        "examples": [
+          "Under-qualified prescribing of controlled medicines poses risk to public health - Australian Medical Association",
+          "Under-qualified prescribing of controlled medicines poses risk to public health - Australian Medical Association",
+          "Earthquake Venezuela: Mobile Medical Units for Crisis Region - Malteser International"
+        ]
+      },
+      {
+        "trend": "public health",
+        "market_code": "AU",
+        "category": "Global Health",
+        "score": 15,
+        "examples": [
+          "Under-qualified prescribing of controlled medicines poses risk to public health - Australian Medical Association",
+          "Under-qualified prescribing of controlled medicines poses risk to public health - Australian Medical Association",
+          "Under-qualified prescribing of controlled medicines poses risk to public health - Australian Medical Association"
+        ]
       },
       {
         "trend": "outbreak",
         "market_code": "AU",
         "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "score": 12,
+        "examples": [
+          "Ebola outbreak spreads to 4th province in DR Congo - CIDRAP",
+          "Hantavirus outbreak nearing its end, WHO chief says - The New Daily",
+          "Congo bans mass gatherings in capital, 3 provinces to curb Ebola outbreak - Anadolu Ajansı"
+        ]
+      },
+      {
+        "trend": "disease",
+        "market_code": "AU",
+        "category": "Global Health",
+        "score": 11,
+        "examples": [
+          "Revolutionising treatment of lung disease - Australian Government Department of Health, Disability and Ageing",
+          "Faith-Based Sector Empowers Youth to Resist Substance Use - Centers for Disease Control and Prevention | CDC (.gov)",
+          "Managing Infection Risk and Safety Monitoring with Anti-CD20 MS Disease Modifying Therapy - NeurologyLive"
+        ]
+      },
+      {
+        "trend": "healthcare",
+        "market_code": "AU",
+        "category": "Global Health",
+        "score": 11,
+        "examples": [
+          "Patriarchs bless new healthcare clinic in Gaza - CathNews",
+          "Artrya (ASX: AYA) in AI Healthcare Spotlight as Medical Software Becomes Hot ASX Theme - Kalkine",
+          "Capital raising in healthtech: Laverock Therapeutics, University of Liverpool, Cardiovolt.ai - Healthcare Today"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "AU",
+        "category": "Mental Health",
+        "score": 10,
+        "examples": [
+          "New Kids Hub set to open as mental health services reach thousands in ACT - Australian Government Department of Health, Disability and Ageing",
+          "Weather Fluctuations Boost Mental Health Support Demand - Mirage News",
+          "New Kids Hub set to open as mental health services reach thousands in ACT - Australian Government Department of Health, Disability and Ageing"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "AU",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
+        "score": 10,
+        "examples": [
+          "New Kids Hub set to open as mental health services reach thousands in ACT - Australian Government Department of Health, Disability and Ageing",
+          "Weather Fluctuations Boost Mental Health Support Demand - Mirage News",
+          "New Kids Hub set to open as mental health services reach thousands in ACT - Australian Government Department of Health, Disability and Ageing"
+        ]
       },
       {
-        "trend": "medical research",
+        "trend": "health alert",
         "market_code": "AU",
         "category": "Global Health",
-        "score": 1,
-        "examples": []
+        "score": 9,
+        "examples": [
+          "Public Health Alert Issued for Chicken Breasts Sold in 9 States Over Undeclared Allergen - marthastewart.com",
+          "Health Alert: Health Alert: U.S. Embassy Kampala (June 29, 2026) - U.S. Embassy in Uganda (.gov)",
+          "Health Alert: Health Alert: U.S. Embassy Kampala (June 29, 2026) - U.S. Embassy in Uganda (.gov)"
+        ]
       },
       {
-        "trend": "drug approval",
+        "trend": "heart",
         "market_code": "AU",
-        "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
+        "category": "Chronic Disease",
+        "score": 8,
+        "examples": [
+          "Growing scientific evidence links e-cigarette chemicals to heart health risks - www.heart.org",
+          "Growing scientific evidence links e-cigarette chemicals to heart health risks - www.heart.org",
+          "Daily Dose - Men’s Heart Health: The Warning Signs, Screenings and Habits That Could Save Your Life - Atrium Health"
+        ]
       },
       {
-        "trend": "diet wellness",
+        "trend": "infection",
         "market_code": "AU",
-        "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "category": "Outbreaks",
+        "score": 8,
+        "examples": [
+          "Viral Infection Found to Trigger Parkinson’s Brain Damage - Neuroscience News",
+          "'Big deal': lives saved with antibiotic breakthrough for horrendous infection - Newcastle Herald",
+          "Intestinal cells starve Salmonella of essential nutrients, revealing new tactic in infection defense - Medical Xpress"
+        ]
+      },
+      {
+        "trend": "patients",
+        "market_code": "AU",
+        "category": "Global Health",
+        "score": 7,
+        "examples": [
+          "Concern as private health giant wins access to public emergency patients - Australian Broadcasting Corporation",
+          "Patients are bringing AI to therapy - American Psychological Association (APA)",
+          "Concern as private health giant wins access to public emergency patients - Australian Broadcasting Corporation"
+        ]
       }
     ],
     "Canada": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "CA",
         "category": "Global Health",
-        "score": 1,
-        "examples": []
+        "score": 75,
+        "examples": [
+          "Health Canada is urging people to ‘immediately stop using’ these kitchen products - CTV News",
+          "Heart to heart – June 29, 2026 - Fraser Health",
+          "Thank you from outgoing Vice-President and Dean, Health Sciences - Faculty of Health Sciences - McMaster University"
+        ]
+      },
+      {
+        "trend": "public health",
+        "market_code": "CA",
+        "category": "Global Health",
+        "score": 17,
+        "examples": [
+          "Public health: take precautions during hot weather - Wellington Advertiser",
+          "Public health: take precautions during hot weather - Wellington Advertiser",
+          "Public Health Says Take Precautions In Heat Wave - Bayshore Broadcasting News Centre"
+        ]
+      },
+      {
+        "trend": "medical",
+        "market_code": "CA",
+        "category": "Global Health",
+        "score": 16,
+        "examples": [
+          "AHS operated medical scan reimbursement policy for over a decade, but few knew about it - CBC",
+          "Scar Tissue: The legacy of medical experimentation on Inuit in the Arctic - APTN News",
+          "Israel Reopens Dumping Investigation into Canadian Medical Cannabis - StratCann"
+        ]
       },
       {
         "trend": "outbreak",
         "market_code": "CA",
         "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "score": 15,
+        "examples": [
+          "Hamilton legionellosis outbreak over, public health officials say - Toronto Star",
+          "Sudan declares new cholera outbreak months after official end to one that lasted nearly 2 years - CBC",
+          "Ebola outbreak spreads to 4th province in DR Congo - CIDRAP"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "CA",
+        "category": "Mental Health",
+        "score": 14,
+        "examples": [
+          "Connection key to men’s mental health - Shared Health",
+          "Connection key to men’s mental health - Shared Health",
+          "From Germany to Steinbach: Firefighters share a mission to support mental health - SteinbachOnline"
+        ]
+      },
+      {
+        "trend": "healthcare",
+        "market_code": "CA",
+        "category": "Global Health",
+        "score": 14,
+        "examples": [
+          "AI Healthcare Stocks With Real Clinical Use Cases Investors May Want To Watch - simplywall.st",
+          "Capital raising in healthtech: Laverock Therapeutics, University of Liverpool, Cardiovolt.ai - Healthcare Today",
+          "WEF: China's AI Healthcare Could Shape Sustainable Care - Healthcare Digital"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "CA",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
+        "score": 12,
+        "examples": [
+          "Connection key to men’s mental health - Shared Health",
+          "Connection key to men’s mental health - Shared Health",
+          "From Germany to Steinbach: Firefighters share a mission to support mental health - SteinbachOnline"
+        ]
       },
       {
-        "trend": "medical research",
+        "trend": "disease",
         "market_code": "CA",
         "category": "Global Health",
-        "score": 1,
-        "examples": []
+        "score": 11,
+        "examples": [
+          "Dogs could provide advance warning for this rare fungal disease - SNNewsWatch.com",
+          "Africa Centres for Disease Control and Prevention (Africa CDC) calls for solidarity and increased collaboration following imported Ebola virus disease case in France and strengthens cross-border surveillance - Africa24 TV",
+          "Africa Centres for Disease Control and Prevention (Africa CDC) calls for solidarity and increased collaboration following imported Ebola virus disease case in France and strengthens cross-border surveillance - Africa24 TV"
+        ]
       },
       {
-        "trend": "drug approval",
+        "trend": "heart",
+        "market_code": "CA",
+        "category": "Chronic Disease",
+        "score": 9,
+        "examples": [
+          "Heart to heart – June 29, 2026 - Fraser Health",
+          "Heart to heart – June 29, 2026 - Fraser Health",
+          "Growing scientific evidence links e-cigarette chemicals to heart health risks - www.heart.org"
+        ]
+      },
+      {
+        "trend": "health alert",
+        "market_code": "CA",
+        "category": "Global Health",
+        "score": 8,
+        "examples": [
+          "France keeps health alert at highest level amid heat concerns By Investing.com - Investing.com Canada",
+          "Public Health Alert Issued for Chicken Breasts Sold in 9 States Over Undeclared Allergen - marthastewart.com",
+          "Listeria Concerns Prompt Public Health Alert for RTE Chicken Wraps - Meatingplace"
+        ]
+      },
+      {
+        "trend": "drug",
         "market_code": "CA",
         "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
+        "score": 8,
+        "examples": [
+          "Grand Erie Public Health extends drug alert after seven suspected overdose deaths in two weeks - NorfolkToday.ca",
+          "A pancreatic cancer drug provides new hope: Five things to know about daraxonrasib - Stanford Medicine",
+          "US releases experimental Ebola drug for DR Congo outbreak trials - RFI"
+        ]
       },
       {
-        "trend": "diet wellness",
+        "trend": "warning",
         "market_code": "CA",
-        "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "category": "Global Health",
+        "score": 6,
+        "examples": [
+          "Windsor-Essex County Health Unit Issues an Extended Heat Warning - Town of LaSalle",
+          "Heat warning in effect for Mississauga - City of Mississauga",
+          "Wildfire smoke leads to air quality warning for the Okotoks area - Western Wheel"
+        ]
       }
     ],
     "United Arab Emirates": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "AE",
         "category": "Arab Health",
-        "score": 1,
-        "examples": []
+        "score": 84,
+        "examples": [
+          "Mayor Mamdani Opens City’s First Public Health Vending Machines on Staten Island - NYC.gov",
+          "Governor Newsom signs bipartisan measure giving judges stronger tools to protect public safety, preserve access to mental health treatment - California State Portal | CA.gov",
+          "Gavin Newsom signs law limiting mental health diversion for people accused of crimes - CalMatters"
+        ]
       },
       {
-        "trend": "outbreak",
+        "trend": "public health",
         "market_code": "AE",
-        "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "category": "Arab Health",
+        "score": 18,
+        "examples": [
+          "Mayor Mamdani Opens City’s First Public Health Vending Machines on Staten Island - NYC.gov",
+          "Medicaid work requirements—and ‘medical frailty’ exemption—put health coverage in jeopardy - Harvard T.H. Chan School of Public Health",
+          "Mayor Mamdani Opens City’s First Public Health Vending Machines on Staten Island - NYC.gov"
+        ]
+      },
+      {
+        "trend": "medical",
+        "market_code": "AE",
+        "category": "Arab Health",
+        "score": 17,
+        "examples": [
+          "Responding to Earthquakes in Venezuela - International Medical Corps",
+          "Army medical logistics overhaul cuts supply wait times in half - army.mil",
+          "Medical All Star Spotlight: Ernie Gervino - Beth Israel Deaconess Medical Center"
+        ]
+      },
+      {
+        "trend": "healthcare",
+        "market_code": "AE",
+        "category": "Arab Health",
+        "score": 16,
+        "examples": [
+          "Fierce Healthcare Fundraising Tracker '26: Trase secures $107M to scale AI agents; xCures lands $46M - Fierce Healthcare",
+          "Fierce Healthcare Fundraising Tracker '26: Trase secures $107M to scale AI agents; xCures lands $46M - Fierce Healthcare",
+          "Hantavirus Town Hall: What Frontline Healthcare Staff Need to Know About Andes Hantavirus Preparedness - National Emerging Special Pathogens Training & Education Center"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "AE",
+        "category": "Mental Health",
+        "score": 15,
+        "examples": [
+          "Governor Newsom signs bipartisan measure giving judges stronger tools to protect public safety, preserve access to mental health treatment - California State Portal | CA.gov",
+          "Gavin Newsom signs law limiting mental health diversion for people accused of crimes - CalMatters",
+          "Cost and utilization of inpatient mental health and substance use treatment - healthsystemtracker.org"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "AE",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
+        "score": 15,
+        "examples": [
+          "Governor Newsom signs bipartisan measure giving judges stronger tools to protect public safety, preserve access to mental health treatment - California State Portal | CA.gov",
+          "Gavin Newsom signs law limiting mental health diversion for people accused of crimes - CalMatters",
+          "Cost and utilization of inpatient mental health and substance use treatment - healthsystemtracker.org"
+        ]
       },
       {
-        "trend": "medical research",
+        "trend": "disease",
         "market_code": "AE",
         "category": "Arab Health",
-        "score": 1,
-        "examples": []
+        "score": 15,
+        "examples": [
+          "Faith-Based Sector Empowers Youth to Resist Substance Use - Centers for Disease Control and Prevention | CDC (.gov)",
+          "Lyme Disease in Ohio Map - Ohio Department of Health (.gov)",
+          "PACC identifies likely cause of deadly disease outbreak - KOLD"
+        ]
       },
       {
-        "trend": "drug approval",
+        "trend": "outbreak",
+        "market_code": "AE",
+        "category": "Outbreaks",
+        "score": 14,
+        "examples": [
+          "Ebola outbreak spreads to 4th province in DR Congo - CIDRAP",
+          "PACC identifies likely cause of deadly disease outbreak - KOLD",
+          "Companion Animal Alliance says it’s nearing end of distemper outbreak - WAFB"
+        ]
+      },
+      {
+        "trend": "health alert",
+        "market_code": "AE",
+        "category": "Arab Health",
+        "score": 11,
+        "examples": [
+          "Chicken sold at Fred Meyer stores subject of USDA health alert - East Idaho News",
+          "Public Health Alert Issued for Chicken Product Sold in 9 States Due to Misbranding: What to Know - People.com",
+          "Health Alert: Health Alert: U.S. Embassy Kampala (June 29, 2026) - U.S. Embassy in Uganda (.gov)"
+        ]
+      },
+      {
+        "trend": "treatment",
         "market_code": "AE",
         "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
+        "score": 10,
+        "examples": [
+          "Governor Newsom signs bipartisan measure giving judges stronger tools to protect public safety, preserve access to mental health treatment - California State Portal | CA.gov",
+          "Cost and utilization of inpatient mental health and substance use treatment - healthsystemtracker.org",
+          "Governor Newsom signs bipartisan measure giving judges stronger tools to protect public safety, preserve access to mental health treatment - California State Portal | CA.gov"
+        ]
       },
       {
-        "trend": "diet wellness",
+        "trend": "heart",
         "market_code": "AE",
-        "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "category": "Chronic Disease",
+        "score": 10,
+        "examples": [
+          "Growing scientific evidence links e-cigarette chemicals to heart health risks - www.heart.org",
+          "Growing scientific evidence links e-cigarette chemicals to heart health risks - www.heart.org",
+          "Daily Dose - Men’s Heart Health: The Warning Signs, Screenings and Habits That Could Save Your Life - Atrium Health"
+        ]
+      },
+      {
+        "trend": "hospital",
+        "market_code": "AE",
+        "category": "Arab Health",
+        "score": 8,
+        "examples": [
+          "Houston Methodist West Hospital Experts Warn of Mosquito Risks After Fort Bend Declares Health Emergency - Covering Katy News",
+          "Clariyon’s AI tool boosts sepsis care compliance in hospital study - Medical Device Network",
+          "Intermountain Primary Children’s Hospital expands Behavioral Health Services to support Utah families, with tips for summer break and back-to-school - ABC4 Utah"
+        ]
       }
     ],
     "Saudi Arabia": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "SA",
         "category": "Arab Health",
-        "score": 1,
-        "examples": []
+        "score": 84,
+        "examples": [
+          "Mayor Mamdani Opens City’s First Public Health Vending Machines on Staten Island - NYC.gov",
+          "Governor Newsom signs bipartisan measure giving judges stronger tools to protect public safety, preserve access to mental health treatment - California State Portal | CA.gov",
+          "Gavin Newsom signs law limiting mental health diversion for people accused of crimes - CalMatters"
+        ]
       },
       {
-        "trend": "outbreak",
+        "trend": "public health",
         "market_code": "SA",
-        "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "category": "Arab Health",
+        "score": 18,
+        "examples": [
+          "Mayor Mamdani Opens City’s First Public Health Vending Machines on Staten Island - NYC.gov",
+          "Medicaid work requirements—and ‘medical frailty’ exemption—put health coverage in jeopardy - Harvard T.H. Chan School of Public Health",
+          "Mayor Mamdani Opens City’s First Public Health Vending Machines on Staten Island - NYC.gov"
+        ]
+      },
+      {
+        "trend": "medical",
+        "market_code": "SA",
+        "category": "Arab Health",
+        "score": 17,
+        "examples": [
+          "Responding to Earthquakes in Venezuela - International Medical Corps",
+          "Army medical logistics overhaul cuts supply wait times in half - army.mil",
+          "Medical All Star Spotlight: Ernie Gervino - Beth Israel Deaconess Medical Center"
+        ]
+      },
+      {
+        "trend": "healthcare",
+        "market_code": "SA",
+        "category": "Arab Health",
+        "score": 16,
+        "examples": [
+          "Fierce Healthcare Fundraising Tracker '26: Trase secures $107M to scale AI agents; xCures lands $46M - Fierce Healthcare",
+          "Fierce Healthcare Fundraising Tracker '26: Trase secures $107M to scale AI agents; xCures lands $46M - Fierce Healthcare",
+          "Hantavirus Town Hall: What Frontline Healthcare Staff Need to Know About Andes Hantavirus Preparedness - National Emerging Special Pathogens Training & Education Center"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "SA",
+        "category": "Mental Health",
+        "score": 15,
+        "examples": [
+          "Governor Newsom signs bipartisan measure giving judges stronger tools to protect public safety, preserve access to mental health treatment - California State Portal | CA.gov",
+          "Gavin Newsom signs law limiting mental health diversion for people accused of crimes - CalMatters",
+          "Cost and utilization of inpatient mental health and substance use treatment - healthsystemtracker.org"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "SA",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
+        "score": 15,
+        "examples": [
+          "Governor Newsom signs bipartisan measure giving judges stronger tools to protect public safety, preserve access to mental health treatment - California State Portal | CA.gov",
+          "Gavin Newsom signs law limiting mental health diversion for people accused of crimes - CalMatters",
+          "Cost and utilization of inpatient mental health and substance use treatment - healthsystemtracker.org"
+        ]
       },
       {
-        "trend": "medical research",
+        "trend": "disease",
         "market_code": "SA",
         "category": "Arab Health",
-        "score": 1,
-        "examples": []
+        "score": 15,
+        "examples": [
+          "Faith-Based Sector Empowers Youth to Resist Substance Use - Centers for Disease Control and Prevention | CDC (.gov)",
+          "Lyme Disease in Ohio Map - Ohio Department of Health (.gov)",
+          "PACC identifies likely cause of deadly disease outbreak - KOLD"
+        ]
       },
       {
-        "trend": "drug approval",
+        "trend": "outbreak",
+        "market_code": "SA",
+        "category": "Outbreaks",
+        "score": 14,
+        "examples": [
+          "Ebola outbreak spreads to 4th province in DR Congo - CIDRAP",
+          "PACC identifies likely cause of deadly disease outbreak - KOLD",
+          "Companion Animal Alliance says it’s nearing end of distemper outbreak - WAFB"
+        ]
+      },
+      {
+        "trend": "health alert",
+        "market_code": "SA",
+        "category": "Arab Health",
+        "score": 11,
+        "examples": [
+          "Chicken sold at Fred Meyer stores subject of USDA health alert - East Idaho News",
+          "Public Health Alert Issued for Chicken Product Sold in 9 States Due to Misbranding: What to Know - People.com",
+          "Health Alert: Health Alert: U.S. Embassy Kampala (June 29, 2026) - U.S. Embassy in Uganda (.gov)"
+        ]
+      },
+      {
+        "trend": "treatment",
         "market_code": "SA",
         "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
+        "score": 10,
+        "examples": [
+          "Governor Newsom signs bipartisan measure giving judges stronger tools to protect public safety, preserve access to mental health treatment - California State Portal | CA.gov",
+          "Cost and utilization of inpatient mental health and substance use treatment - healthsystemtracker.org",
+          "Governor Newsom signs bipartisan measure giving judges stronger tools to protect public safety, preserve access to mental health treatment - California State Portal | CA.gov"
+        ]
       },
       {
-        "trend": "diet wellness",
+        "trend": "heart",
         "market_code": "SA",
-        "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "category": "Chronic Disease",
+        "score": 10,
+        "examples": [
+          "Growing scientific evidence links e-cigarette chemicals to heart health risks - www.heart.org",
+          "Growing scientific evidence links e-cigarette chemicals to heart health risks - www.heart.org",
+          "Daily Dose - Men’s Heart Health: The Warning Signs, Screenings and Habits That Could Save Your Life - Atrium Health"
+        ]
+      },
+      {
+        "trend": "hospital",
+        "market_code": "SA",
+        "category": "Arab Health",
+        "score": 8,
+        "examples": [
+          "Houston Methodist West Hospital Experts Warn of Mosquito Risks After Fort Bend Declares Health Emergency - Covering Katy News",
+          "Clariyon’s AI tool boosts sepsis care compliance in hospital study - Medical Device Network",
+          "Intermountain Primary Children’s Hospital expands Behavioral Health Services to support Utah families, with tips for summer break and back-to-school - ABC4 Utah"
+        ]
       }
     ],
     "Qatar": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "QA",
         "category": "Arab Health",
-        "score": 1,
-        "examples": []
+        "score": 84,
+        "examples": [
+          "Mayor Mamdani Opens City’s First Public Health Vending Machines on Staten Island - NYC.gov",
+          "Governor Newsom signs bipartisan measure giving judges stronger tools to protect public safety, preserve access to mental health treatment - California State Portal | CA.gov",
+          "Gavin Newsom signs law limiting mental health diversion for people accused of crimes - CalMatters"
+        ]
       },
       {
-        "trend": "outbreak",
+        "trend": "public health",
         "market_code": "QA",
-        "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "category": "Arab Health",
+        "score": 18,
+        "examples": [
+          "Mayor Mamdani Opens City’s First Public Health Vending Machines on Staten Island - NYC.gov",
+          "Medicaid work requirements—and ‘medical frailty’ exemption—put health coverage in jeopardy - Harvard T.H. Chan School of Public Health",
+          "Mayor Mamdani Opens City’s First Public Health Vending Machines on Staten Island - NYC.gov"
+        ]
+      },
+      {
+        "trend": "medical",
+        "market_code": "QA",
+        "category": "Arab Health",
+        "score": 17,
+        "examples": [
+          "Responding to Earthquakes in Venezuela - International Medical Corps",
+          "Army medical logistics overhaul cuts supply wait times in half - army.mil",
+          "Medical All Star Spotlight: Ernie Gervino - Beth Israel Deaconess Medical Center"
+        ]
+      },
+      {
+        "trend": "healthcare",
+        "market_code": "QA",
+        "category": "Arab Health",
+        "score": 16,
+        "examples": [
+          "Fierce Healthcare Fundraising Tracker '26: Trase secures $107M to scale AI agents; xCures lands $46M - Fierce Healthcare",
+          "Fierce Healthcare Fundraising Tracker '26: Trase secures $107M to scale AI agents; xCures lands $46M - Fierce Healthcare",
+          "Hantavirus Town Hall: What Frontline Healthcare Staff Need to Know About Andes Hantavirus Preparedness - National Emerging Special Pathogens Training & Education Center"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "QA",
+        "category": "Mental Health",
+        "score": 15,
+        "examples": [
+          "Governor Newsom signs bipartisan measure giving judges stronger tools to protect public safety, preserve access to mental health treatment - California State Portal | CA.gov",
+          "Gavin Newsom signs law limiting mental health diversion for people accused of crimes - CalMatters",
+          "Cost and utilization of inpatient mental health and substance use treatment - healthsystemtracker.org"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "QA",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
+        "score": 15,
+        "examples": [
+          "Governor Newsom signs bipartisan measure giving judges stronger tools to protect public safety, preserve access to mental health treatment - California State Portal | CA.gov",
+          "Gavin Newsom signs law limiting mental health diversion for people accused of crimes - CalMatters",
+          "Cost and utilization of inpatient mental health and substance use treatment - healthsystemtracker.org"
+        ]
       },
       {
-        "trend": "medical research",
+        "trend": "disease",
         "market_code": "QA",
         "category": "Arab Health",
-        "score": 1,
-        "examples": []
+        "score": 15,
+        "examples": [
+          "Faith-Based Sector Empowers Youth to Resist Substance Use - Centers for Disease Control and Prevention | CDC (.gov)",
+          "Lyme Disease in Ohio Map - Ohio Department of Health (.gov)",
+          "PACC identifies likely cause of deadly disease outbreak - KOLD"
+        ]
       },
       {
-        "trend": "drug approval",
+        "trend": "outbreak",
+        "market_code": "QA",
+        "category": "Outbreaks",
+        "score": 14,
+        "examples": [
+          "Ebola outbreak spreads to 4th province in DR Congo - CIDRAP",
+          "PACC identifies likely cause of deadly disease outbreak - KOLD",
+          "Companion Animal Alliance says it’s nearing end of distemper outbreak - WAFB"
+        ]
+      },
+      {
+        "trend": "health alert",
+        "market_code": "QA",
+        "category": "Arab Health",
+        "score": 11,
+        "examples": [
+          "Chicken sold at Fred Meyer stores subject of USDA health alert - East Idaho News",
+          "Public Health Alert Issued for Chicken Product Sold in 9 States Due to Misbranding: What to Know - People.com",
+          "Health Alert: Health Alert: U.S. Embassy Kampala (June 29, 2026) - U.S. Embassy in Uganda (.gov)"
+        ]
+      },
+      {
+        "trend": "treatment",
         "market_code": "QA",
         "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
+        "score": 10,
+        "examples": [
+          "Governor Newsom signs bipartisan measure giving judges stronger tools to protect public safety, preserve access to mental health treatment - California State Portal | CA.gov",
+          "Cost and utilization of inpatient mental health and substance use treatment - healthsystemtracker.org",
+          "Governor Newsom signs bipartisan measure giving judges stronger tools to protect public safety, preserve access to mental health treatment - California State Portal | CA.gov"
+        ]
       },
       {
-        "trend": "diet wellness",
+        "trend": "heart",
         "market_code": "QA",
-        "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "category": "Chronic Disease",
+        "score": 10,
+        "examples": [
+          "Growing scientific evidence links e-cigarette chemicals to heart health risks - www.heart.org",
+          "Growing scientific evidence links e-cigarette chemicals to heart health risks - www.heart.org",
+          "Daily Dose - Men’s Heart Health: The Warning Signs, Screenings and Habits That Could Save Your Life - Atrium Health"
+        ]
+      },
+      {
+        "trend": "hospital",
+        "market_code": "QA",
+        "category": "Arab Health",
+        "score": 8,
+        "examples": [
+          "Houston Methodist West Hospital Experts Warn of Mosquito Risks After Fort Bend Declares Health Emergency - Covering Katy News",
+          "Clariyon’s AI tool boosts sepsis care compliance in hospital study - Medical Device Network",
+          "Intermountain Primary Children’s Hospital expands Behavioral Health Services to support Utah families, with tips for summer break and back-to-school - ABC4 Utah"
+        ]
       }
     ],
     "Jordan": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "JO",
         "category": "Arab Health",
-        "score": 1,
-        "examples": []
+        "score": 84,
+        "examples": [
+          "Mayor Mamdani Opens City’s First Public Health Vending Machines on Staten Island - NYC.gov",
+          "Governor Newsom signs bipartisan measure giving judges stronger tools to protect public safety, preserve access to mental health treatment - California State Portal | CA.gov",
+          "Gavin Newsom signs law limiting mental health diversion for people accused of crimes - CalMatters"
+        ]
       },
       {
-        "trend": "outbreak",
+        "trend": "public health",
         "market_code": "JO",
-        "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "category": "Arab Health",
+        "score": 18,
+        "examples": [
+          "Mayor Mamdani Opens City’s First Public Health Vending Machines on Staten Island - NYC.gov",
+          "Medicaid work requirements—and ‘medical frailty’ exemption—put health coverage in jeopardy - Harvard T.H. Chan School of Public Health",
+          "Mayor Mamdani Opens City’s First Public Health Vending Machines on Staten Island - NYC.gov"
+        ]
+      },
+      {
+        "trend": "medical",
+        "market_code": "JO",
+        "category": "Arab Health",
+        "score": 17,
+        "examples": [
+          "Responding to Earthquakes in Venezuela - International Medical Corps",
+          "Army medical logistics overhaul cuts supply wait times in half - army.mil",
+          "Medical All Star Spotlight: Ernie Gervino - Beth Israel Deaconess Medical Center"
+        ]
+      },
+      {
+        "trend": "healthcare",
+        "market_code": "JO",
+        "category": "Arab Health",
+        "score": 16,
+        "examples": [
+          "Fierce Healthcare Fundraising Tracker '26: Trase secures $107M to scale AI agents; xCures lands $46M - Fierce Healthcare",
+          "Fierce Healthcare Fundraising Tracker '26: Trase secures $107M to scale AI agents; xCures lands $46M - Fierce Healthcare",
+          "Hantavirus Town Hall: What Frontline Healthcare Staff Need to Know About Andes Hantavirus Preparedness - National Emerging Special Pathogens Training & Education Center"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "JO",
+        "category": "Mental Health",
+        "score": 15,
+        "examples": [
+          "Governor Newsom signs bipartisan measure giving judges stronger tools to protect public safety, preserve access to mental health treatment - California State Portal | CA.gov",
+          "Gavin Newsom signs law limiting mental health diversion for people accused of crimes - CalMatters",
+          "Cost and utilization of inpatient mental health and substance use treatment - healthsystemtracker.org"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "JO",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
+        "score": 15,
+        "examples": [
+          "Governor Newsom signs bipartisan measure giving judges stronger tools to protect public safety, preserve access to mental health treatment - California State Portal | CA.gov",
+          "Gavin Newsom signs law limiting mental health diversion for people accused of crimes - CalMatters",
+          "Cost and utilization of inpatient mental health and substance use treatment - healthsystemtracker.org"
+        ]
       },
       {
-        "trend": "medical research",
+        "trend": "disease",
         "market_code": "JO",
         "category": "Arab Health",
-        "score": 1,
-        "examples": []
+        "score": 15,
+        "examples": [
+          "Faith-Based Sector Empowers Youth to Resist Substance Use - Centers for Disease Control and Prevention | CDC (.gov)",
+          "Lyme Disease in Ohio Map - Ohio Department of Health (.gov)",
+          "PACC identifies likely cause of deadly disease outbreak - KOLD"
+        ]
       },
       {
-        "trend": "drug approval",
+        "trend": "outbreak",
+        "market_code": "JO",
+        "category": "Outbreaks",
+        "score": 14,
+        "examples": [
+          "Ebola outbreak spreads to 4th province in DR Congo - CIDRAP",
+          "PACC identifies likely cause of deadly disease outbreak - KOLD",
+          "Companion Animal Alliance says it’s nearing end of distemper outbreak - WAFB"
+        ]
+      },
+      {
+        "trend": "health alert",
+        "market_code": "JO",
+        "category": "Arab Health",
+        "score": 11,
+        "examples": [
+          "Chicken sold at Fred Meyer stores subject of USDA health alert - East Idaho News",
+          "Public Health Alert Issued for Chicken Product Sold in 9 States Due to Misbranding: What to Know - People.com",
+          "Health Alert: Health Alert: U.S. Embassy Kampala (June 29, 2026) - U.S. Embassy in Uganda (.gov)"
+        ]
+      },
+      {
+        "trend": "treatment",
         "market_code": "JO",
         "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
+        "score": 10,
+        "examples": [
+          "Governor Newsom signs bipartisan measure giving judges stronger tools to protect public safety, preserve access to mental health treatment - California State Portal | CA.gov",
+          "Cost and utilization of inpatient mental health and substance use treatment - healthsystemtracker.org",
+          "Governor Newsom signs bipartisan measure giving judges stronger tools to protect public safety, preserve access to mental health treatment - California State Portal | CA.gov"
+        ]
       },
       {
-        "trend": "diet wellness",
+        "trend": "heart",
         "market_code": "JO",
-        "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "category": "Chronic Disease",
+        "score": 10,
+        "examples": [
+          "Growing scientific evidence links e-cigarette chemicals to heart health risks - www.heart.org",
+          "Growing scientific evidence links e-cigarette chemicals to heart health risks - www.heart.org",
+          "Daily Dose - Men’s Heart Health: The Warning Signs, Screenings and Habits That Could Save Your Life - Atrium Health"
+        ]
+      },
+      {
+        "trend": "hospital",
+        "market_code": "JO",
+        "category": "Arab Health",
+        "score": 8,
+        "examples": [
+          "Houston Methodist West Hospital Experts Warn of Mosquito Risks After Fort Bend Declares Health Emergency - Covering Katy News",
+          "Clariyon’s AI tool boosts sepsis care compliance in hospital study - Medical Device Network",
+          "Intermountain Primary Children’s Hospital expands Behavioral Health Services to support Utah families, with tips for summer break and back-to-school - ABC4 Utah"
+        ]
       }
     ],
     "Lebanon": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "LB",
         "category": "Arab Health",
-        "score": 1,
-        "examples": []
+        "score": 84,
+        "examples": [
+          "Mayor Mamdani Opens City’s First Public Health Vending Machines on Staten Island - NYC.gov",
+          "Governor Newsom signs bipartisan measure giving judges stronger tools to protect public safety, preserve access to mental health treatment - California State Portal | CA.gov",
+          "Gavin Newsom signs law limiting mental health diversion for people accused of crimes - CalMatters"
+        ]
       },
       {
-        "trend": "outbreak",
+        "trend": "public health",
         "market_code": "LB",
-        "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "category": "Arab Health",
+        "score": 18,
+        "examples": [
+          "Mayor Mamdani Opens City’s First Public Health Vending Machines on Staten Island - NYC.gov",
+          "Medicaid work requirements—and ‘medical frailty’ exemption—put health coverage in jeopardy - Harvard T.H. Chan School of Public Health",
+          "Mayor Mamdani Opens City’s First Public Health Vending Machines on Staten Island - NYC.gov"
+        ]
+      },
+      {
+        "trend": "medical",
+        "market_code": "LB",
+        "category": "Arab Health",
+        "score": 17,
+        "examples": [
+          "Responding to Earthquakes in Venezuela - International Medical Corps",
+          "Army medical logistics overhaul cuts supply wait times in half - army.mil",
+          "Medical All Star Spotlight: Ernie Gervino - Beth Israel Deaconess Medical Center"
+        ]
+      },
+      {
+        "trend": "healthcare",
+        "market_code": "LB",
+        "category": "Arab Health",
+        "score": 16,
+        "examples": [
+          "Fierce Healthcare Fundraising Tracker '26: Trase secures $107M to scale AI agents; xCures lands $46M - Fierce Healthcare",
+          "Fierce Healthcare Fundraising Tracker '26: Trase secures $107M to scale AI agents; xCures lands $46M - Fierce Healthcare",
+          "Hantavirus Town Hall: What Frontline Healthcare Staff Need to Know About Andes Hantavirus Preparedness - National Emerging Special Pathogens Training & Education Center"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "LB",
+        "category": "Mental Health",
+        "score": 15,
+        "examples": [
+          "Governor Newsom signs bipartisan measure giving judges stronger tools to protect public safety, preserve access to mental health treatment - California State Portal | CA.gov",
+          "Gavin Newsom signs law limiting mental health diversion for people accused of crimes - CalMatters",
+          "Cost and utilization of inpatient mental health and substance use treatment - healthsystemtracker.org"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "LB",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
+        "score": 15,
+        "examples": [
+          "Governor Newsom signs bipartisan measure giving judges stronger tools to protect public safety, preserve access to mental health treatment - California State Portal | CA.gov",
+          "Gavin Newsom signs law limiting mental health diversion for people accused of crimes - CalMatters",
+          "Cost and utilization of inpatient mental health and substance use treatment - healthsystemtracker.org"
+        ]
       },
       {
-        "trend": "medical research",
+        "trend": "disease",
         "market_code": "LB",
         "category": "Arab Health",
-        "score": 1,
-        "examples": []
+        "score": 15,
+        "examples": [
+          "Faith-Based Sector Empowers Youth to Resist Substance Use - Centers for Disease Control and Prevention | CDC (.gov)",
+          "Lyme Disease in Ohio Map - Ohio Department of Health (.gov)",
+          "PACC identifies likely cause of deadly disease outbreak - KOLD"
+        ]
       },
       {
-        "trend": "drug approval",
+        "trend": "outbreak",
+        "market_code": "LB",
+        "category": "Outbreaks",
+        "score": 14,
+        "examples": [
+          "Ebola outbreak spreads to 4th province in DR Congo - CIDRAP",
+          "PACC identifies likely cause of deadly disease outbreak - KOLD",
+          "Companion Animal Alliance says it’s nearing end of distemper outbreak - WAFB"
+        ]
+      },
+      {
+        "trend": "health alert",
+        "market_code": "LB",
+        "category": "Arab Health",
+        "score": 11,
+        "examples": [
+          "Chicken sold at Fred Meyer stores subject of USDA health alert - East Idaho News",
+          "Public Health Alert Issued for Chicken Product Sold in 9 States Due to Misbranding: What to Know - People.com",
+          "Health Alert: Health Alert: U.S. Embassy Kampala (June 29, 2026) - U.S. Embassy in Uganda (.gov)"
+        ]
+      },
+      {
+        "trend": "treatment",
         "market_code": "LB",
         "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
+        "score": 10,
+        "examples": [
+          "Governor Newsom signs bipartisan measure giving judges stronger tools to protect public safety, preserve access to mental health treatment - California State Portal | CA.gov",
+          "Cost and utilization of inpatient mental health and substance use treatment - healthsystemtracker.org",
+          "Governor Newsom signs bipartisan measure giving judges stronger tools to protect public safety, preserve access to mental health treatment - California State Portal | CA.gov"
+        ]
       },
       {
-        "trend": "diet wellness",
+        "trend": "heart",
         "market_code": "LB",
-        "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "category": "Chronic Disease",
+        "score": 10,
+        "examples": [
+          "Growing scientific evidence links e-cigarette chemicals to heart health risks - www.heart.org",
+          "Growing scientific evidence links e-cigarette chemicals to heart health risks - www.heart.org",
+          "Daily Dose - Men’s Heart Health: The Warning Signs, Screenings and Habits That Could Save Your Life - Atrium Health"
+        ]
+      },
+      {
+        "trend": "hospital",
+        "market_code": "LB",
+        "category": "Arab Health",
+        "score": 8,
+        "examples": [
+          "Houston Methodist West Hospital Experts Warn of Mosquito Risks After Fort Bend Declares Health Emergency - Covering Katy News",
+          "Clariyon’s AI tool boosts sepsis care compliance in hospital study - Medical Device Network",
+          "Intermountain Primary Children’s Hospital expands Behavioral Health Services to support Utah families, with tips for summer break and back-to-school - ABC4 Utah"
+        ]
       }
     ]
   }
