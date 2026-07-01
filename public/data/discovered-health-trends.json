@@ -1,929 +1,2819 @@
 {
-  "updated_at": "2026-07-01T14:43:41.403717+00:00",
-  "total_trends": 126,
+  "updated_at": "2026-07-01T19:27:07.657492+00:00",
+  "total_trends": 252,
   "markets": {
     "United States": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "US",
         "category": "US Health",
-        "score": 1,
-        "examples": []
+        "score": 70,
+        "examples": [
+          "Mayor Mamdani, NYC Health Agencies Intensify Enrollment in Low- and No-Cost Healthcare as Federal Cuts to Essential Plan Coverage Take Effect - NYC.gov",
+          "UC Davis to Set Standard for Measuring Airborne Nanoplastic Health Risks - UC Davis",
+          "See why Shaggy's, Zea Rotisserie, 5 others failed June health inspections - The Clarion-Ledger"
+        ]
       },
       {
-        "trend": "outbreak",
+        "trend": "healthcare",
         "market_code": "US",
-        "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "category": "US Health",
+        "score": 17,
+        "examples": [
+          "Mayor Mamdani, NYC Health Agencies Intensify Enrollment in Low- and No-Cost Healthcare as Federal Cuts to Essential Plan Coverage Take Effect - NYC.gov",
+          "VA’s top healthcare official is stepping down - Federal News Network",
+          "Shaping the Future of Healthcare Through Nutrition - Old Dominion University"
+        ]
+      },
+      {
+        "trend": "medical",
+        "market_code": "US",
+        "category": "US Health",
+        "score": 17,
+        "examples": [
+          "MUSC and CCSD Partnership - The Medical University of South Carolina",
+          "Responding to Earthquakes in Venezuela - International Medical Corps",
+          "Ottumwa physician agrees to surrender his medical license - Iowa Capital Dispatch"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "US",
+        "category": "Mental Health",
+        "score": 12,
+        "examples": [
+          "Davenport University launches accelerated pathway to mental health counseling - Davenport University",
+          "New Minnesota law forces social media apps to include mental health warning - KTTC | Rochester, MN",
+          "Richmond mental health agency operator charged in $49.6M Medicaid fraud scheme - WTVR.com"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "US",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
+        "score": 12,
+        "examples": [
+          "Davenport University launches accelerated pathway to mental health counseling - Davenport University",
+          "New Minnesota law forces social media apps to include mental health warning - KTTC | Rochester, MN",
+          "Richmond mental health agency operator charged in $49.6M Medicaid fraud scheme - WTVR.com"
+        ]
       },
       {
-        "trend": "medical research",
+        "trend": "outbreak",
+        "market_code": "US",
+        "category": "Outbreaks",
+        "score": 11,
+        "examples": [
+          "Behind the Ebola outbreak: An expert backgrounder for journalists - Association of Health Care Journalists",
+          "Michigan health officials warn of ‘large and growing outbreak’ of cyclosporiasis - ClickOnDetroit | WDIV Local 4",
+          "Ebola Outbreak, DRC and Region, Situation Report #9, July 1, 2026 - ReliefWeb"
+        ]
+      },
+      {
+        "trend": "health alert",
         "market_code": "US",
         "category": "US Health",
-        "score": 1,
-        "examples": []
+        "score": 10,
+        "examples": [
+          "PHMDC issues public health alert due to overdose spike - Channel 3000",
+          "Dane County health alert: extreme heat linked to spike in drug overdoses - WKOW",
+          "Dane County health alert: extreme heat linked to spike in drug overdoses - WKOW"
+        ]
       },
       {
-        "trend": "drug approval",
+        "trend": "virus",
+        "market_code": "US",
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "Jamestown Canyon virus detected in Lincoln mosquitoes - Nebraska Public Media",
+          "Jamestown Canyon virus detected in mosquitoes collected in Lincoln - KOLN | Nebraska Local News, Weather, Sports | Lincoln, NE",
+          "Global Respiratory Virus Activity: Weekly Update N° 584 - World Health Organization (WHO)"
+        ]
+      },
+      {
+        "trend": "disease",
+        "market_code": "US",
+        "category": "US Health",
+        "score": 9,
+        "examples": [
+          "Innate immune responsiveness predicts enhanced cellular immunity and symptomatic disease after controlled human influenza infection - Nature",
+          "Treating Flu with Antiviral Drugs | Influenza (Flu) - Centers for Disease Control and Prevention | CDC (.gov)",
+          "Infectious Disease Regulatory Watch: June Highlights - Contagion Live"
+        ]
+      },
+      {
+        "trend": "drug",
         "market_code": "US",
         "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
+        "score": 8,
+        "examples": [
+          "Dane County health alert: extreme heat linked to spike in drug overdoses - WKOW",
+          "Dane County health alert: extreme heat linked to spike in drug overdoses - WKOW",
+          "Anthropic launches AI drug discovery program, joining tech giants in betting on healthcare - CNBC"
+        ]
       },
       {
-        "trend": "diet wellness",
+        "trend": "children",
         "market_code": "US",
-        "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "category": "Children Health",
+        "score": 8,
+        "examples": [
+          "Children’s National Boeing School Wellness Symposium brings together health and education leaders - Children's National",
+          "Children’s National Boeing School Wellness Symposium brings together health and education leaders - Children's National",
+          "Dell Children’s Medical Center Celebrates 19 Years of Innovative & Compassionate Pediatric Care - Healthcare | Ascension"
+        ]
+      },
+      {
+        "trend": "warning",
+        "market_code": "US",
+        "category": "US Health",
+        "score": 7,
+        "examples": [
+          "New Minnesota law forces social media apps to include mental health warning - KTTC | Rochester, MN",
+          "Opinion | Garden Grove’s chemical emergency is a warning for other communities near plastics factories - CalMatters",
+          "More than 170 people sickened as mystery parasite sparks health warning - Cleveland.com"
+        ]
       }
     ],
     "United Kingdom": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "GB",
         "category": "Europe Health",
-        "score": 1,
-        "examples": []
+        "score": 67,
+        "examples": [
+          "Annual Public Health Report - Bracknell Forest Council |",
+          "At the Health Services Research UK Conference 2026 - King's College London",
+          "NHS to take over troubled mental health hospital - BBC"
+        ]
       },
       {
         "trend": "outbreak",
         "market_code": "GB",
         "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "score": 14,
+        "examples": [
+          "Government pressed on Ebola outbreak preparedness - Nursing in Practice",
+          "What is Ebola, how does it spread and why is DR Congo outbreak an 'emergency'? - BBC",
+          "Ebola Outbreak, DRC and Region, Situation Report #9, July 1, 2026 - ReliefWeb"
+        ]
+      },
+      {
+        "trend": "healthcare",
+        "market_code": "GB",
+        "category": "Europe Health",
+        "score": 14,
+        "examples": [
+          "WEF: China's AI Healthcare Could Shape Sustainable Care - Healthcare Digital",
+          "WEF: China's AI Healthcare Could Shape Sustainable Care - Healthcare Digital",
+          "AI In Healthcare Is A Powerful Tool, Not A Replacement For Doctors - BW Healthcare"
+        ]
+      },
+      {
+        "trend": "medical",
+        "market_code": "GB",
+        "category": "Europe Health",
+        "score": 13,
+        "examples": [
+          "HCPC response to the consultation on reforming the General Medical Council legislative framework - The Health and Care Professions Council",
+          "King's medical student's surgical AI places third globally in Harvard's health venture programme - King's College London",
+          "Harmonizing standards and resources for the medical genome - Nature"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "GB",
+        "category": "Mental Health",
+        "score": 12,
+        "examples": [
+          "NHS to take over troubled mental health hospital - BBC",
+          "European researchers join forces to address mental health challenges - Durham University",
+          "NHS to take over troubled mental health hospital - BBC"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "GB",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
+        "score": 12,
+        "examples": [
+          "NHS to take over troubled mental health hospital - BBC",
+          "European researchers join forces to address mental health challenges - Durham University",
+          "NHS to take over troubled mental health hospital - BBC"
+        ]
       },
       {
-        "trend": "medical research",
+        "trend": "health alert",
         "market_code": "GB",
         "category": "Europe Health",
-        "score": 1,
-        "examples": []
+        "score": 12,
+        "examples": [
+          "Yellow health alert issued - as England records hottest June on record - Sky News",
+          "Yellow health alert issued - as England records hottest June on record - Sky News",
+          "Another heat health alert issued on the Island as temperatures set to climb - Isle of Wight County Press"
+        ]
       },
       {
-        "trend": "drug approval",
+        "trend": "children",
         "market_code": "GB",
-        "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
+        "category": "Children Health",
+        "score": 12,
+        "examples": [
+          "LHGP calls on the government to expand scope of food advertising rules to better protect children - University of Bath",
+          "French President, WHO chief warn digital world reshaping children’s health - Anadolu Ajansı",
+          "BPS responds to research into children’s mental health from Children's Commissioner for England - British Psychological Society"
+        ]
       },
       {
-        "trend": "diet wellness",
+        "trend": "health alert issued",
         "market_code": "GB",
-        "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "category": "Europe Health",
+        "score": 11,
+        "examples": [
+          "Yellow health alert issued - as England records hottest June on record - Sky News",
+          "Yellow health alert issued - as England records hottest June on record - Sky News",
+          "Another heat health alert issued on the Island as temperatures set to climb - Isle of Wight County Press"
+        ]
+      },
+      {
+        "trend": "disease",
+        "market_code": "GB",
+        "category": "Europe Health",
+        "score": 10,
+        "examples": [
+          "Building a paediatric workforce to deliver the NHS prevention agenda: time for paediatric public health medicine? - Archives of Disease in Childhood",
+          "A disease outbreak nearly cost this US poultry farmer everything. One more could wipe him out - The Guardian",
+          "Innate immune responsiveness predicts enhanced cellular immunity and symptomatic disease after controlled human influenza infection - Nature"
+        ]
+      },
+      {
+        "trend": "hospital",
+        "market_code": "GB",
+        "category": "Europe Health",
+        "score": 9,
+        "examples": [
+          "NHS to take over troubled mental health hospital - BBC",
+          "Worcester hospital medical supplies fraudsters guilty of £279,000 con - BBC",
+          "Patient being tested for Ebola virus at Glasgow hospital - The Guardian"
+        ]
+      },
+      {
+        "trend": "heat health",
+        "market_code": "GB",
+        "category": "Europe Health",
+        "score": 9,
+        "examples": [
+          "Another heat health alert issued on the Island as temperatures set to climb - Isle of Wight County Press",
+          "New heat health alert issued as another UK heatwave approaches - The Independent",
+          "New heat health alert issued as another UK heatwave approaches - The Independent"
+        ]
       }
     ],
     "Germany": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "DE",
         "category": "Europe Health",
-        "score": 1,
-        "examples": []
+        "score": 74,
+        "examples": [
+          "Mayor Mamdani, NYC Health Agencies Intensify Enrollment in Low- and No-Cost Healthcare as Federal Cuts to Essential Plan Coverage Take Effect - NYC.gov",
+          "ECU establishes new College of Health and Human Sciences - East Carolina University",
+          "WHO Health Emergencies EPI-WIN webinar: Strengthening the governance of national public health agencies for emergency preparedness and response - World Health Organization (WHO)"
+        ]
+      },
+      {
+        "trend": "healthcare",
+        "market_code": "DE",
+        "category": "Europe Health",
+        "score": 17,
+        "examples": [
+          "Mayor Mamdani, NYC Health Agencies Intensify Enrollment in Low- and No-Cost Healthcare as Federal Cuts to Essential Plan Coverage Take Effect - NYC.gov",
+          "VA’s top healthcare official is stepping down - Federal News Network",
+          "Shaping the Future of Healthcare Through Nutrition - Old Dominion University"
+        ]
+      },
+      {
+        "trend": "medical",
+        "market_code": "DE",
+        "category": "Europe Health",
+        "score": 17,
+        "examples": [
+          "MUSC and CCSD Partnership - The Medical University of South Carolina",
+          "Responding to Earthquakes in Venezuela - International Medical Corps",
+          "Ottumwa physician agrees to surrender his medical license - Iowa Capital Dispatch"
+        ]
       },
       {
         "trend": "outbreak",
         "market_code": "DE",
         "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "score": 11,
+        "examples": [
+          "Behind the Ebola outbreak: An expert backgrounder for journalists - Association of Health Care Journalists",
+          "Michigan health officials warn of ‘large and growing outbreak’ of cyclosporiasis - ClickOnDetroit | WDIV Local 4",
+          "Ebola Outbreak, DRC and Region, Situation Report #9, July 1, 2026 - ReliefWeb"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "DE",
+        "category": "Mental Health",
+        "score": 11,
+        "examples": [
+          "New Minnesota law forces social media apps to include mental health warning - KTTC | Rochester, MN",
+          "Richmond mental health agency operator charged in $49.6M Medicaid fraud scheme - WTVR.com",
+          "Davenport University launches accelerated pathway to mental health counseling - Davenport University"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "DE",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
+        "score": 11,
+        "examples": [
+          "New Minnesota law forces social media apps to include mental health warning - KTTC | Rochester, MN",
+          "Richmond mental health agency operator charged in $49.6M Medicaid fraud scheme - WTVR.com",
+          "Davenport University launches accelerated pathway to mental health counseling - Davenport University"
+        ]
       },
       {
-        "trend": "medical research",
+        "trend": "health alert",
         "market_code": "DE",
         "category": "Europe Health",
-        "score": 1,
-        "examples": []
+        "score": 10,
+        "examples": [
+          "PHMDC issues public health alert due to overdose spike - Channel 3000",
+          "Dane County health alert: extreme heat linked to spike in drug overdoses - WKOW",
+          "Dane County health alert: extreme heat linked to spike in drug overdoses - WKOW"
+        ]
       },
       {
-        "trend": "drug approval",
+        "trend": "virus",
+        "market_code": "DE",
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "Jamestown Canyon virus detected in Lincoln mosquitoes - Nebraska Public Media",
+          "Jamestown Canyon virus detected in mosquitoes collected in Lincoln - KOLN | Nebraska Local News, Weather, Sports | Lincoln, NE",
+          "Global Respiratory Virus Activity: Weekly Update N° 584 - World Health Organization (WHO)"
+        ]
+      },
+      {
+        "trend": "disease",
+        "market_code": "DE",
+        "category": "Europe Health",
+        "score": 9,
+        "examples": [
+          "Innate immune responsiveness predicts enhanced cellular immunity and symptomatic disease after controlled human influenza infection - Nature",
+          "Treating Flu with Antiviral Drugs | Influenza (Flu) - Centers for Disease Control and Prevention | CDC (.gov)",
+          "Infectious Disease Regulatory Watch: June Highlights - Contagion Live"
+        ]
+      },
+      {
+        "trend": "public health",
+        "market_code": "DE",
+        "category": "Europe Health",
+        "score": 8,
+        "examples": [
+          "WHO Health Emergencies EPI-WIN webinar: Strengthening the governance of national public health agencies for emergency preparedness and response - World Health Organization (WHO)",
+          "WHO Health Emergencies EPI-WIN webinar: Strengthening the governance of national public health agencies for emergency preparedness and response - World Health Organization (WHO)",
+          "I Am Public Health: Taylor Bryant - University of South Carolina"
+        ]
+      },
+      {
+        "trend": "drug",
         "market_code": "DE",
         "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
+        "score": 8,
+        "examples": [
+          "Dane County health alert: extreme heat linked to spike in drug overdoses - WKOW",
+          "Dane County health alert: extreme heat linked to spike in drug overdoses - WKOW",
+          "Anthropic launches AI drug discovery program, joining tech giants in betting on healthcare - CNBC"
+        ]
       },
       {
-        "trend": "diet wellness",
+        "trend": "children",
         "market_code": "DE",
-        "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "category": "Children Health",
+        "score": 8,
+        "examples": [
+          "Children’s National Boeing School Wellness Symposium brings together health and education leaders - Children's National",
+          "Children’s National Boeing School Wellness Symposium brings together health and education leaders - Children's National",
+          "Dell Children’s Medical Center Celebrates 19 Years of Innovative & Compassionate Pediatric Care - Healthcare | Ascension"
+        ]
       }
     ],
     "France": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "FR",
         "category": "Europe Health",
-        "score": 1,
-        "examples": []
+        "score": 74,
+        "examples": [
+          "Mayor Mamdani, NYC Health Agencies Intensify Enrollment in Low- and No-Cost Healthcare as Federal Cuts to Essential Plan Coverage Take Effect - NYC.gov",
+          "ECU establishes new College of Health and Human Sciences - East Carolina University",
+          "WHO Health Emergencies EPI-WIN webinar: Strengthening the governance of national public health agencies for emergency preparedness and response - World Health Organization (WHO)"
+        ]
+      },
+      {
+        "trend": "healthcare",
+        "market_code": "FR",
+        "category": "Europe Health",
+        "score": 17,
+        "examples": [
+          "Mayor Mamdani, NYC Health Agencies Intensify Enrollment in Low- and No-Cost Healthcare as Federal Cuts to Essential Plan Coverage Take Effect - NYC.gov",
+          "VA’s top healthcare official is stepping down - Federal News Network",
+          "Shaping the Future of Healthcare Through Nutrition - Old Dominion University"
+        ]
+      },
+      {
+        "trend": "medical",
+        "market_code": "FR",
+        "category": "Europe Health",
+        "score": 17,
+        "examples": [
+          "MUSC and CCSD Partnership - The Medical University of South Carolina",
+          "Responding to Earthquakes in Venezuela - International Medical Corps",
+          "Ottumwa physician agrees to surrender his medical license - Iowa Capital Dispatch"
+        ]
       },
       {
         "trend": "outbreak",
         "market_code": "FR",
         "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "score": 11,
+        "examples": [
+          "Behind the Ebola outbreak: An expert backgrounder for journalists - Association of Health Care Journalists",
+          "Michigan health officials warn of ‘large and growing outbreak’ of cyclosporiasis - ClickOnDetroit | WDIV Local 4",
+          "Ebola Outbreak, DRC and Region, Situation Report #9, July 1, 2026 - ReliefWeb"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "FR",
+        "category": "Mental Health",
+        "score": 11,
+        "examples": [
+          "New Minnesota law forces social media apps to include mental health warning - KTTC | Rochester, MN",
+          "Richmond mental health agency operator charged in $49.6M Medicaid fraud scheme - WTVR.com",
+          "Davenport University launches accelerated pathway to mental health counseling - Davenport University"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "FR",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
+        "score": 11,
+        "examples": [
+          "New Minnesota law forces social media apps to include mental health warning - KTTC | Rochester, MN",
+          "Richmond mental health agency operator charged in $49.6M Medicaid fraud scheme - WTVR.com",
+          "Davenport University launches accelerated pathway to mental health counseling - Davenport University"
+        ]
       },
       {
-        "trend": "medical research",
+        "trend": "health alert",
         "market_code": "FR",
         "category": "Europe Health",
-        "score": 1,
-        "examples": []
+        "score": 10,
+        "examples": [
+          "PHMDC issues public health alert due to overdose spike - Channel 3000",
+          "Dane County health alert: extreme heat linked to spike in drug overdoses - WKOW",
+          "Dane County health alert: extreme heat linked to spike in drug overdoses - WKOW"
+        ]
       },
       {
-        "trend": "drug approval",
+        "trend": "virus",
+        "market_code": "FR",
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "Jamestown Canyon virus detected in Lincoln mosquitoes - Nebraska Public Media",
+          "Jamestown Canyon virus detected in mosquitoes collected in Lincoln - KOLN | Nebraska Local News, Weather, Sports | Lincoln, NE",
+          "Global Respiratory Virus Activity: Weekly Update N° 584 - World Health Organization (WHO)"
+        ]
+      },
+      {
+        "trend": "disease",
+        "market_code": "FR",
+        "category": "Europe Health",
+        "score": 9,
+        "examples": [
+          "Innate immune responsiveness predicts enhanced cellular immunity and symptomatic disease after controlled human influenza infection - Nature",
+          "Treating Flu with Antiviral Drugs | Influenza (Flu) - Centers for Disease Control and Prevention | CDC (.gov)",
+          "Infectious Disease Regulatory Watch: June Highlights - Contagion Live"
+        ]
+      },
+      {
+        "trend": "public health",
+        "market_code": "FR",
+        "category": "Europe Health",
+        "score": 8,
+        "examples": [
+          "WHO Health Emergencies EPI-WIN webinar: Strengthening the governance of national public health agencies for emergency preparedness and response - World Health Organization (WHO)",
+          "WHO Health Emergencies EPI-WIN webinar: Strengthening the governance of national public health agencies for emergency preparedness and response - World Health Organization (WHO)",
+          "I Am Public Health: Taylor Bryant - University of South Carolina"
+        ]
+      },
+      {
+        "trend": "drug",
         "market_code": "FR",
         "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
+        "score": 8,
+        "examples": [
+          "Dane County health alert: extreme heat linked to spike in drug overdoses - WKOW",
+          "Dane County health alert: extreme heat linked to spike in drug overdoses - WKOW",
+          "Anthropic launches AI drug discovery program, joining tech giants in betting on healthcare - CNBC"
+        ]
       },
       {
-        "trend": "diet wellness",
+        "trend": "children",
         "market_code": "FR",
-        "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "category": "Children Health",
+        "score": 8,
+        "examples": [
+          "Children’s National Boeing School Wellness Symposium brings together health and education leaders - Children's National",
+          "Children’s National Boeing School Wellness Symposium brings together health and education leaders - Children's National",
+          "Dell Children’s Medical Center Celebrates 19 Years of Innovative & Compassionate Pediatric Care - Healthcare | Ascension"
+        ]
       }
     ],
     "Italy": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "IT",
         "category": "Europe Health",
-        "score": 1,
-        "examples": []
+        "score": 74,
+        "examples": [
+          "Mayor Mamdani, NYC Health Agencies Intensify Enrollment in Low- and No-Cost Healthcare as Federal Cuts to Essential Plan Coverage Take Effect - NYC.gov",
+          "ECU establishes new College of Health and Human Sciences - East Carolina University",
+          "WHO Health Emergencies EPI-WIN webinar: Strengthening the governance of national public health agencies for emergency preparedness and response - World Health Organization (WHO)"
+        ]
+      },
+      {
+        "trend": "healthcare",
+        "market_code": "IT",
+        "category": "Europe Health",
+        "score": 17,
+        "examples": [
+          "Mayor Mamdani, NYC Health Agencies Intensify Enrollment in Low- and No-Cost Healthcare as Federal Cuts to Essential Plan Coverage Take Effect - NYC.gov",
+          "VA’s top healthcare official is stepping down - Federal News Network",
+          "Shaping the Future of Healthcare Through Nutrition - Old Dominion University"
+        ]
+      },
+      {
+        "trend": "medical",
+        "market_code": "IT",
+        "category": "Europe Health",
+        "score": 17,
+        "examples": [
+          "MUSC and CCSD Partnership - The Medical University of South Carolina",
+          "Responding to Earthquakes in Venezuela - International Medical Corps",
+          "Ottumwa physician agrees to surrender his medical license - Iowa Capital Dispatch"
+        ]
       },
       {
         "trend": "outbreak",
         "market_code": "IT",
         "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "score": 11,
+        "examples": [
+          "Behind the Ebola outbreak: An expert backgrounder for journalists - Association of Health Care Journalists",
+          "Michigan health officials warn of ‘large and growing outbreak’ of cyclosporiasis - ClickOnDetroit | WDIV Local 4",
+          "Ebola Outbreak, DRC and Region, Situation Report #9, July 1, 2026 - ReliefWeb"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "IT",
+        "category": "Mental Health",
+        "score": 11,
+        "examples": [
+          "New Minnesota law forces social media apps to include mental health warning - KTTC | Rochester, MN",
+          "Richmond mental health agency operator charged in $49.6M Medicaid fraud scheme - WTVR.com",
+          "Davenport University launches accelerated pathway to mental health counseling - Davenport University"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "IT",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
+        "score": 11,
+        "examples": [
+          "New Minnesota law forces social media apps to include mental health warning - KTTC | Rochester, MN",
+          "Richmond mental health agency operator charged in $49.6M Medicaid fraud scheme - WTVR.com",
+          "Davenport University launches accelerated pathway to mental health counseling - Davenport University"
+        ]
       },
       {
-        "trend": "medical research",
+        "trend": "health alert",
         "market_code": "IT",
         "category": "Europe Health",
-        "score": 1,
-        "examples": []
+        "score": 10,
+        "examples": [
+          "PHMDC issues public health alert due to overdose spike - Channel 3000",
+          "Dane County health alert: extreme heat linked to spike in drug overdoses - WKOW",
+          "Dane County health alert: extreme heat linked to spike in drug overdoses - WKOW"
+        ]
       },
       {
-        "trend": "drug approval",
+        "trend": "virus",
+        "market_code": "IT",
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "Jamestown Canyon virus detected in Lincoln mosquitoes - Nebraska Public Media",
+          "Jamestown Canyon virus detected in mosquitoes collected in Lincoln - KOLN | Nebraska Local News, Weather, Sports | Lincoln, NE",
+          "Global Respiratory Virus Activity: Weekly Update N° 584 - World Health Organization (WHO)"
+        ]
+      },
+      {
+        "trend": "disease",
+        "market_code": "IT",
+        "category": "Europe Health",
+        "score": 9,
+        "examples": [
+          "Innate immune responsiveness predicts enhanced cellular immunity and symptomatic disease after controlled human influenza infection - Nature",
+          "Treating Flu with Antiviral Drugs | Influenza (Flu) - Centers for Disease Control and Prevention | CDC (.gov)",
+          "Infectious Disease Regulatory Watch: June Highlights - Contagion Live"
+        ]
+      },
+      {
+        "trend": "public health",
+        "market_code": "IT",
+        "category": "Europe Health",
+        "score": 8,
+        "examples": [
+          "WHO Health Emergencies EPI-WIN webinar: Strengthening the governance of national public health agencies for emergency preparedness and response - World Health Organization (WHO)",
+          "WHO Health Emergencies EPI-WIN webinar: Strengthening the governance of national public health agencies for emergency preparedness and response - World Health Organization (WHO)",
+          "I Am Public Health: Taylor Bryant - University of South Carolina"
+        ]
+      },
+      {
+        "trend": "drug",
         "market_code": "IT",
         "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
+        "score": 8,
+        "examples": [
+          "Dane County health alert: extreme heat linked to spike in drug overdoses - WKOW",
+          "Dane County health alert: extreme heat linked to spike in drug overdoses - WKOW",
+          "Anthropic launches AI drug discovery program, joining tech giants in betting on healthcare - CNBC"
+        ]
       },
       {
-        "trend": "diet wellness",
+        "trend": "children",
         "market_code": "IT",
-        "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "category": "Children Health",
+        "score": 8,
+        "examples": [
+          "Children’s National Boeing School Wellness Symposium brings together health and education leaders - Children's National",
+          "Children’s National Boeing School Wellness Symposium brings together health and education leaders - Children's National",
+          "Dell Children’s Medical Center Celebrates 19 Years of Innovative & Compassionate Pediatric Care - Healthcare | Ascension"
+        ]
       }
     ],
     "Spain": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "ES",
         "category": "Europe Health",
-        "score": 1,
-        "examples": []
+        "score": 74,
+        "examples": [
+          "Mayor Mamdani, NYC Health Agencies Intensify Enrollment in Low- and No-Cost Healthcare as Federal Cuts to Essential Plan Coverage Take Effect - NYC.gov",
+          "ECU establishes new College of Health and Human Sciences - East Carolina University",
+          "WHO Health Emergencies EPI-WIN webinar: Strengthening the governance of national public health agencies for emergency preparedness and response - World Health Organization (WHO)"
+        ]
+      },
+      {
+        "trend": "healthcare",
+        "market_code": "ES",
+        "category": "Europe Health",
+        "score": 17,
+        "examples": [
+          "Mayor Mamdani, NYC Health Agencies Intensify Enrollment in Low- and No-Cost Healthcare as Federal Cuts to Essential Plan Coverage Take Effect - NYC.gov",
+          "VA’s top healthcare official is stepping down - Federal News Network",
+          "Shaping the Future of Healthcare Through Nutrition - Old Dominion University"
+        ]
+      },
+      {
+        "trend": "medical",
+        "market_code": "ES",
+        "category": "Europe Health",
+        "score": 17,
+        "examples": [
+          "MUSC and CCSD Partnership - The Medical University of South Carolina",
+          "Responding to Earthquakes in Venezuela - International Medical Corps",
+          "Ottumwa physician agrees to surrender his medical license - Iowa Capital Dispatch"
+        ]
       },
       {
         "trend": "outbreak",
         "market_code": "ES",
         "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "score": 11,
+        "examples": [
+          "Behind the Ebola outbreak: An expert backgrounder for journalists - Association of Health Care Journalists",
+          "Michigan health officials warn of ‘large and growing outbreak’ of cyclosporiasis - ClickOnDetroit | WDIV Local 4",
+          "Ebola Outbreak, DRC and Region, Situation Report #9, July 1, 2026 - ReliefWeb"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "ES",
+        "category": "Mental Health",
+        "score": 11,
+        "examples": [
+          "New Minnesota law forces social media apps to include mental health warning - KTTC | Rochester, MN",
+          "Richmond mental health agency operator charged in $49.6M Medicaid fraud scheme - WTVR.com",
+          "Davenport University launches accelerated pathway to mental health counseling - Davenport University"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "ES",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
+        "score": 11,
+        "examples": [
+          "New Minnesota law forces social media apps to include mental health warning - KTTC | Rochester, MN",
+          "Richmond mental health agency operator charged in $49.6M Medicaid fraud scheme - WTVR.com",
+          "Davenport University launches accelerated pathway to mental health counseling - Davenport University"
+        ]
       },
       {
-        "trend": "medical research",
+        "trend": "health alert",
         "market_code": "ES",
         "category": "Europe Health",
-        "score": 1,
-        "examples": []
+        "score": 10,
+        "examples": [
+          "PHMDC issues public health alert due to overdose spike - Channel 3000",
+          "Dane County health alert: extreme heat linked to spike in drug overdoses - WKOW",
+          "Dane County health alert: extreme heat linked to spike in drug overdoses - WKOW"
+        ]
       },
       {
-        "trend": "drug approval",
+        "trend": "virus",
+        "market_code": "ES",
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "Jamestown Canyon virus detected in Lincoln mosquitoes - Nebraska Public Media",
+          "Jamestown Canyon virus detected in mosquitoes collected in Lincoln - KOLN | Nebraska Local News, Weather, Sports | Lincoln, NE",
+          "Global Respiratory Virus Activity: Weekly Update N° 584 - World Health Organization (WHO)"
+        ]
+      },
+      {
+        "trend": "disease",
+        "market_code": "ES",
+        "category": "Europe Health",
+        "score": 9,
+        "examples": [
+          "Innate immune responsiveness predicts enhanced cellular immunity and symptomatic disease after controlled human influenza infection - Nature",
+          "Treating Flu with Antiviral Drugs | Influenza (Flu) - Centers for Disease Control and Prevention | CDC (.gov)",
+          "Infectious Disease Regulatory Watch: June Highlights - Contagion Live"
+        ]
+      },
+      {
+        "trend": "public health",
+        "market_code": "ES",
+        "category": "Europe Health",
+        "score": 8,
+        "examples": [
+          "WHO Health Emergencies EPI-WIN webinar: Strengthening the governance of national public health agencies for emergency preparedness and response - World Health Organization (WHO)",
+          "WHO Health Emergencies EPI-WIN webinar: Strengthening the governance of national public health agencies for emergency preparedness and response - World Health Organization (WHO)",
+          "I Am Public Health: Taylor Bryant - University of South Carolina"
+        ]
+      },
+      {
+        "trend": "drug",
         "market_code": "ES",
         "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
+        "score": 8,
+        "examples": [
+          "Dane County health alert: extreme heat linked to spike in drug overdoses - WKOW",
+          "Dane County health alert: extreme heat linked to spike in drug overdoses - WKOW",
+          "Anthropic launches AI drug discovery program, joining tech giants in betting on healthcare - CNBC"
+        ]
       },
       {
-        "trend": "diet wellness",
+        "trend": "children",
         "market_code": "ES",
-        "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "category": "Children Health",
+        "score": 8,
+        "examples": [
+          "Children’s National Boeing School Wellness Symposium brings together health and education leaders - Children's National",
+          "Children’s National Boeing School Wellness Symposium brings together health and education leaders - Children's National",
+          "Dell Children’s Medical Center Celebrates 19 Years of Innovative & Compassionate Pediatric Care - Healthcare | Ascension"
+        ]
       }
     ],
     "Sweden": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "SE",
         "category": "Europe Health",
-        "score": 1,
-        "examples": []
+        "score": 74,
+        "examples": [
+          "Mayor Mamdani, NYC Health Agencies Intensify Enrollment in Low- and No-Cost Healthcare as Federal Cuts to Essential Plan Coverage Take Effect - NYC.gov",
+          "ECU establishes new College of Health and Human Sciences - East Carolina University",
+          "WHO Health Emergencies EPI-WIN webinar: Strengthening the governance of national public health agencies for emergency preparedness and response - World Health Organization (WHO)"
+        ]
+      },
+      {
+        "trend": "healthcare",
+        "market_code": "SE",
+        "category": "Europe Health",
+        "score": 17,
+        "examples": [
+          "Mayor Mamdani, NYC Health Agencies Intensify Enrollment in Low- and No-Cost Healthcare as Federal Cuts to Essential Plan Coverage Take Effect - NYC.gov",
+          "VA’s top healthcare official is stepping down - Federal News Network",
+          "Shaping the Future of Healthcare Through Nutrition - Old Dominion University"
+        ]
+      },
+      {
+        "trend": "medical",
+        "market_code": "SE",
+        "category": "Europe Health",
+        "score": 17,
+        "examples": [
+          "MUSC and CCSD Partnership - The Medical University of South Carolina",
+          "Responding to Earthquakes in Venezuela - International Medical Corps",
+          "Ottumwa physician agrees to surrender his medical license - Iowa Capital Dispatch"
+        ]
       },
       {
         "trend": "outbreak",
         "market_code": "SE",
         "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "score": 11,
+        "examples": [
+          "Behind the Ebola outbreak: An expert backgrounder for journalists - Association of Health Care Journalists",
+          "Michigan health officials warn of ‘large and growing outbreak’ of cyclosporiasis - ClickOnDetroit | WDIV Local 4",
+          "Ebola Outbreak, DRC and Region, Situation Report #9, July 1, 2026 - ReliefWeb"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "SE",
+        "category": "Mental Health",
+        "score": 11,
+        "examples": [
+          "New Minnesota law forces social media apps to include mental health warning - KTTC | Rochester, MN",
+          "Richmond mental health agency operator charged in $49.6M Medicaid fraud scheme - WTVR.com",
+          "Davenport University launches accelerated pathway to mental health counseling - Davenport University"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "SE",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
+        "score": 11,
+        "examples": [
+          "New Minnesota law forces social media apps to include mental health warning - KTTC | Rochester, MN",
+          "Richmond mental health agency operator charged in $49.6M Medicaid fraud scheme - WTVR.com",
+          "Davenport University launches accelerated pathway to mental health counseling - Davenport University"
+        ]
       },
       {
-        "trend": "medical research",
+        "trend": "health alert",
         "market_code": "SE",
         "category": "Europe Health",
-        "score": 1,
-        "examples": []
+        "score": 10,
+        "examples": [
+          "PHMDC issues public health alert due to overdose spike - Channel 3000",
+          "Dane County health alert: extreme heat linked to spike in drug overdoses - WKOW",
+          "Dane County health alert: extreme heat linked to spike in drug overdoses - WKOW"
+        ]
       },
       {
-        "trend": "drug approval",
+        "trend": "virus",
+        "market_code": "SE",
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "Jamestown Canyon virus detected in Lincoln mosquitoes - Nebraska Public Media",
+          "Jamestown Canyon virus detected in mosquitoes collected in Lincoln - KOLN | Nebraska Local News, Weather, Sports | Lincoln, NE",
+          "Global Respiratory Virus Activity: Weekly Update N° 584 - World Health Organization (WHO)"
+        ]
+      },
+      {
+        "trend": "disease",
+        "market_code": "SE",
+        "category": "Europe Health",
+        "score": 9,
+        "examples": [
+          "Innate immune responsiveness predicts enhanced cellular immunity and symptomatic disease after controlled human influenza infection - Nature",
+          "Treating Flu with Antiviral Drugs | Influenza (Flu) - Centers for Disease Control and Prevention | CDC (.gov)",
+          "Infectious Disease Regulatory Watch: June Highlights - Contagion Live"
+        ]
+      },
+      {
+        "trend": "public health",
+        "market_code": "SE",
+        "category": "Europe Health",
+        "score": 8,
+        "examples": [
+          "WHO Health Emergencies EPI-WIN webinar: Strengthening the governance of national public health agencies for emergency preparedness and response - World Health Organization (WHO)",
+          "WHO Health Emergencies EPI-WIN webinar: Strengthening the governance of national public health agencies for emergency preparedness and response - World Health Organization (WHO)",
+          "I Am Public Health: Taylor Bryant - University of South Carolina"
+        ]
+      },
+      {
+        "trend": "drug",
         "market_code": "SE",
         "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
+        "score": 8,
+        "examples": [
+          "Dane County health alert: extreme heat linked to spike in drug overdoses - WKOW",
+          "Dane County health alert: extreme heat linked to spike in drug overdoses - WKOW",
+          "Anthropic launches AI drug discovery program, joining tech giants in betting on healthcare - CNBC"
+        ]
       },
       {
-        "trend": "diet wellness",
+        "trend": "children",
         "market_code": "SE",
-        "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "category": "Children Health",
+        "score": 8,
+        "examples": [
+          "Children’s National Boeing School Wellness Symposium brings together health and education leaders - Children's National",
+          "Children’s National Boeing School Wellness Symposium brings together health and education leaders - Children's National",
+          "Dell Children’s Medical Center Celebrates 19 Years of Innovative & Compassionate Pediatric Care - Healthcare | Ascension"
+        ]
       }
     ],
     "Netherlands": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "NL",
         "category": "Europe Health",
-        "score": 1,
-        "examples": []
+        "score": 74,
+        "examples": [
+          "Mayor Mamdani, NYC Health Agencies Intensify Enrollment in Low- and No-Cost Healthcare as Federal Cuts to Essential Plan Coverage Take Effect - NYC.gov",
+          "ECU establishes new College of Health and Human Sciences - East Carolina University",
+          "WHO Health Emergencies EPI-WIN webinar: Strengthening the governance of national public health agencies for emergency preparedness and response - World Health Organization (WHO)"
+        ]
+      },
+      {
+        "trend": "healthcare",
+        "market_code": "NL",
+        "category": "Europe Health",
+        "score": 17,
+        "examples": [
+          "Mayor Mamdani, NYC Health Agencies Intensify Enrollment in Low- and No-Cost Healthcare as Federal Cuts to Essential Plan Coverage Take Effect - NYC.gov",
+          "VA’s top healthcare official is stepping down - Federal News Network",
+          "Shaping the Future of Healthcare Through Nutrition - Old Dominion University"
+        ]
+      },
+      {
+        "trend": "medical",
+        "market_code": "NL",
+        "category": "Europe Health",
+        "score": 17,
+        "examples": [
+          "MUSC and CCSD Partnership - The Medical University of South Carolina",
+          "Responding to Earthquakes in Venezuela - International Medical Corps",
+          "Ottumwa physician agrees to surrender his medical license - Iowa Capital Dispatch"
+        ]
       },
       {
         "trend": "outbreak",
         "market_code": "NL",
         "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "score": 11,
+        "examples": [
+          "Behind the Ebola outbreak: An expert backgrounder for journalists - Association of Health Care Journalists",
+          "Michigan health officials warn of ‘large and growing outbreak’ of cyclosporiasis - ClickOnDetroit | WDIV Local 4",
+          "Ebola Outbreak, DRC and Region, Situation Report #9, July 1, 2026 - ReliefWeb"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "NL",
+        "category": "Mental Health",
+        "score": 11,
+        "examples": [
+          "New Minnesota law forces social media apps to include mental health warning - KTTC | Rochester, MN",
+          "Richmond mental health agency operator charged in $49.6M Medicaid fraud scheme - WTVR.com",
+          "Davenport University launches accelerated pathway to mental health counseling - Davenport University"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "NL",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
+        "score": 11,
+        "examples": [
+          "New Minnesota law forces social media apps to include mental health warning - KTTC | Rochester, MN",
+          "Richmond mental health agency operator charged in $49.6M Medicaid fraud scheme - WTVR.com",
+          "Davenport University launches accelerated pathway to mental health counseling - Davenport University"
+        ]
       },
       {
-        "trend": "medical research",
+        "trend": "health alert",
         "market_code": "NL",
         "category": "Europe Health",
-        "score": 1,
-        "examples": []
+        "score": 10,
+        "examples": [
+          "PHMDC issues public health alert due to overdose spike - Channel 3000",
+          "Dane County health alert: extreme heat linked to spike in drug overdoses - WKOW",
+          "Dane County health alert: extreme heat linked to spike in drug overdoses - WKOW"
+        ]
       },
       {
-        "trend": "drug approval",
+        "trend": "virus",
+        "market_code": "NL",
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "Jamestown Canyon virus detected in Lincoln mosquitoes - Nebraska Public Media",
+          "Jamestown Canyon virus detected in mosquitoes collected in Lincoln - KOLN | Nebraska Local News, Weather, Sports | Lincoln, NE",
+          "Global Respiratory Virus Activity: Weekly Update N° 584 - World Health Organization (WHO)"
+        ]
+      },
+      {
+        "trend": "disease",
+        "market_code": "NL",
+        "category": "Europe Health",
+        "score": 9,
+        "examples": [
+          "Innate immune responsiveness predicts enhanced cellular immunity and symptomatic disease after controlled human influenza infection - Nature",
+          "Treating Flu with Antiviral Drugs | Influenza (Flu) - Centers for Disease Control and Prevention | CDC (.gov)",
+          "Infectious Disease Regulatory Watch: June Highlights - Contagion Live"
+        ]
+      },
+      {
+        "trend": "public health",
+        "market_code": "NL",
+        "category": "Europe Health",
+        "score": 8,
+        "examples": [
+          "WHO Health Emergencies EPI-WIN webinar: Strengthening the governance of national public health agencies for emergency preparedness and response - World Health Organization (WHO)",
+          "WHO Health Emergencies EPI-WIN webinar: Strengthening the governance of national public health agencies for emergency preparedness and response - World Health Organization (WHO)",
+          "I Am Public Health: Taylor Bryant - University of South Carolina"
+        ]
+      },
+      {
+        "trend": "drug",
         "market_code": "NL",
         "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
+        "score": 8,
+        "examples": [
+          "Dane County health alert: extreme heat linked to spike in drug overdoses - WKOW",
+          "Dane County health alert: extreme heat linked to spike in drug overdoses - WKOW",
+          "Anthropic launches AI drug discovery program, joining tech giants in betting on healthcare - CNBC"
+        ]
       },
       {
-        "trend": "diet wellness",
+        "trend": "children",
         "market_code": "NL",
-        "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "category": "Children Health",
+        "score": 8,
+        "examples": [
+          "Children’s National Boeing School Wellness Symposium brings together health and education leaders - Children's National",
+          "Children’s National Boeing School Wellness Symposium brings together health and education leaders - Children's National",
+          "Dell Children’s Medical Center Celebrates 19 Years of Innovative & Compassionate Pediatric Care - Healthcare | Ascension"
+        ]
       }
     ],
     "Finland": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "FI",
         "category": "Europe Health",
-        "score": 1,
-        "examples": []
+        "score": 74,
+        "examples": [
+          "Mayor Mamdani, NYC Health Agencies Intensify Enrollment in Low- and No-Cost Healthcare as Federal Cuts to Essential Plan Coverage Take Effect - NYC.gov",
+          "ECU establishes new College of Health and Human Sciences - East Carolina University",
+          "WHO Health Emergencies EPI-WIN webinar: Strengthening the governance of national public health agencies for emergency preparedness and response - World Health Organization (WHO)"
+        ]
+      },
+      {
+        "trend": "healthcare",
+        "market_code": "FI",
+        "category": "Europe Health",
+        "score": 17,
+        "examples": [
+          "Mayor Mamdani, NYC Health Agencies Intensify Enrollment in Low- and No-Cost Healthcare as Federal Cuts to Essential Plan Coverage Take Effect - NYC.gov",
+          "VA’s top healthcare official is stepping down - Federal News Network",
+          "Shaping the Future of Healthcare Through Nutrition - Old Dominion University"
+        ]
+      },
+      {
+        "trend": "medical",
+        "market_code": "FI",
+        "category": "Europe Health",
+        "score": 17,
+        "examples": [
+          "MUSC and CCSD Partnership - The Medical University of South Carolina",
+          "Responding to Earthquakes in Venezuela - International Medical Corps",
+          "Ottumwa physician agrees to surrender his medical license - Iowa Capital Dispatch"
+        ]
       },
       {
         "trend": "outbreak",
         "market_code": "FI",
         "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "score": 11,
+        "examples": [
+          "Behind the Ebola outbreak: An expert backgrounder for journalists - Association of Health Care Journalists",
+          "Michigan health officials warn of ‘large and growing outbreak’ of cyclosporiasis - ClickOnDetroit | WDIV Local 4",
+          "Ebola Outbreak, DRC and Region, Situation Report #9, July 1, 2026 - ReliefWeb"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "FI",
+        "category": "Mental Health",
+        "score": 11,
+        "examples": [
+          "New Minnesota law forces social media apps to include mental health warning - KTTC | Rochester, MN",
+          "Richmond mental health agency operator charged in $49.6M Medicaid fraud scheme - WTVR.com",
+          "Davenport University launches accelerated pathway to mental health counseling - Davenport University"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "FI",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
+        "score": 11,
+        "examples": [
+          "New Minnesota law forces social media apps to include mental health warning - KTTC | Rochester, MN",
+          "Richmond mental health agency operator charged in $49.6M Medicaid fraud scheme - WTVR.com",
+          "Davenport University launches accelerated pathway to mental health counseling - Davenport University"
+        ]
       },
       {
-        "trend": "medical research",
+        "trend": "health alert",
         "market_code": "FI",
         "category": "Europe Health",
-        "score": 1,
-        "examples": []
+        "score": 10,
+        "examples": [
+          "PHMDC issues public health alert due to overdose spike - Channel 3000",
+          "Dane County health alert: extreme heat linked to spike in drug overdoses - WKOW",
+          "Dane County health alert: extreme heat linked to spike in drug overdoses - WKOW"
+        ]
       },
       {
-        "trend": "drug approval",
+        "trend": "virus",
+        "market_code": "FI",
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "Jamestown Canyon virus detected in Lincoln mosquitoes - Nebraska Public Media",
+          "Jamestown Canyon virus detected in mosquitoes collected in Lincoln - KOLN | Nebraska Local News, Weather, Sports | Lincoln, NE",
+          "Global Respiratory Virus Activity: Weekly Update N° 584 - World Health Organization (WHO)"
+        ]
+      },
+      {
+        "trend": "disease",
+        "market_code": "FI",
+        "category": "Europe Health",
+        "score": 9,
+        "examples": [
+          "Innate immune responsiveness predicts enhanced cellular immunity and symptomatic disease after controlled human influenza infection - Nature",
+          "Treating Flu with Antiviral Drugs | Influenza (Flu) - Centers for Disease Control and Prevention | CDC (.gov)",
+          "Infectious Disease Regulatory Watch: June Highlights - Contagion Live"
+        ]
+      },
+      {
+        "trend": "public health",
+        "market_code": "FI",
+        "category": "Europe Health",
+        "score": 8,
+        "examples": [
+          "WHO Health Emergencies EPI-WIN webinar: Strengthening the governance of national public health agencies for emergency preparedness and response - World Health Organization (WHO)",
+          "WHO Health Emergencies EPI-WIN webinar: Strengthening the governance of national public health agencies for emergency preparedness and response - World Health Organization (WHO)",
+          "I Am Public Health: Taylor Bryant - University of South Carolina"
+        ]
+      },
+      {
+        "trend": "drug",
         "market_code": "FI",
         "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
+        "score": 8,
+        "examples": [
+          "Dane County health alert: extreme heat linked to spike in drug overdoses - WKOW",
+          "Dane County health alert: extreme heat linked to spike in drug overdoses - WKOW",
+          "Anthropic launches AI drug discovery program, joining tech giants in betting on healthcare - CNBC"
+        ]
       },
       {
-        "trend": "diet wellness",
+        "trend": "children",
         "market_code": "FI",
-        "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "category": "Children Health",
+        "score": 8,
+        "examples": [
+          "Children’s National Boeing School Wellness Symposium brings together health and education leaders - Children's National",
+          "Children’s National Boeing School Wellness Symposium brings together health and education leaders - Children's National",
+          "Dell Children’s Medical Center Celebrates 19 Years of Innovative & Compassionate Pediatric Care - Healthcare | Ascension"
+        ]
       }
     ],
     "Norway": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "NO",
         "category": "Europe Health",
-        "score": 1,
-        "examples": []
+        "score": 74,
+        "examples": [
+          "Mayor Mamdani, NYC Health Agencies Intensify Enrollment in Low- and No-Cost Healthcare as Federal Cuts to Essential Plan Coverage Take Effect - NYC.gov",
+          "ECU establishes new College of Health and Human Sciences - East Carolina University",
+          "WHO Health Emergencies EPI-WIN webinar: Strengthening the governance of national public health agencies for emergency preparedness and response - World Health Organization (WHO)"
+        ]
+      },
+      {
+        "trend": "healthcare",
+        "market_code": "NO",
+        "category": "Europe Health",
+        "score": 17,
+        "examples": [
+          "Mayor Mamdani, NYC Health Agencies Intensify Enrollment in Low- and No-Cost Healthcare as Federal Cuts to Essential Plan Coverage Take Effect - NYC.gov",
+          "VA’s top healthcare official is stepping down - Federal News Network",
+          "Shaping the Future of Healthcare Through Nutrition - Old Dominion University"
+        ]
+      },
+      {
+        "trend": "medical",
+        "market_code": "NO",
+        "category": "Europe Health",
+        "score": 17,
+        "examples": [
+          "MUSC and CCSD Partnership - The Medical University of South Carolina",
+          "Responding to Earthquakes in Venezuela - International Medical Corps",
+          "Ottumwa physician agrees to surrender his medical license - Iowa Capital Dispatch"
+        ]
       },
       {
         "trend": "outbreak",
         "market_code": "NO",
         "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "score": 11,
+        "examples": [
+          "Behind the Ebola outbreak: An expert backgrounder for journalists - Association of Health Care Journalists",
+          "Michigan health officials warn of ‘large and growing outbreak’ of cyclosporiasis - ClickOnDetroit | WDIV Local 4",
+          "Ebola Outbreak, DRC and Region, Situation Report #9, July 1, 2026 - ReliefWeb"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "NO",
+        "category": "Mental Health",
+        "score": 11,
+        "examples": [
+          "New Minnesota law forces social media apps to include mental health warning - KTTC | Rochester, MN",
+          "Richmond mental health agency operator charged in $49.6M Medicaid fraud scheme - WTVR.com",
+          "Davenport University launches accelerated pathway to mental health counseling - Davenport University"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "NO",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
+        "score": 11,
+        "examples": [
+          "New Minnesota law forces social media apps to include mental health warning - KTTC | Rochester, MN",
+          "Richmond mental health agency operator charged in $49.6M Medicaid fraud scheme - WTVR.com",
+          "Davenport University launches accelerated pathway to mental health counseling - Davenport University"
+        ]
       },
       {
-        "trend": "medical research",
+        "trend": "health alert",
         "market_code": "NO",
         "category": "Europe Health",
-        "score": 1,
-        "examples": []
+        "score": 10,
+        "examples": [
+          "PHMDC issues public health alert due to overdose spike - Channel 3000",
+          "Dane County health alert: extreme heat linked to spike in drug overdoses - WKOW",
+          "Dane County health alert: extreme heat linked to spike in drug overdoses - WKOW"
+        ]
       },
       {
-        "trend": "drug approval",
+        "trend": "virus",
+        "market_code": "NO",
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "Jamestown Canyon virus detected in Lincoln mosquitoes - Nebraska Public Media",
+          "Jamestown Canyon virus detected in mosquitoes collected in Lincoln - KOLN | Nebraska Local News, Weather, Sports | Lincoln, NE",
+          "Global Respiratory Virus Activity: Weekly Update N° 584 - World Health Organization (WHO)"
+        ]
+      },
+      {
+        "trend": "disease",
+        "market_code": "NO",
+        "category": "Europe Health",
+        "score": 9,
+        "examples": [
+          "Innate immune responsiveness predicts enhanced cellular immunity and symptomatic disease after controlled human influenza infection - Nature",
+          "Treating Flu with Antiviral Drugs | Influenza (Flu) - Centers for Disease Control and Prevention | CDC (.gov)",
+          "Infectious Disease Regulatory Watch: June Highlights - Contagion Live"
+        ]
+      },
+      {
+        "trend": "public health",
+        "market_code": "NO",
+        "category": "Europe Health",
+        "score": 8,
+        "examples": [
+          "WHO Health Emergencies EPI-WIN webinar: Strengthening the governance of national public health agencies for emergency preparedness and response - World Health Organization (WHO)",
+          "WHO Health Emergencies EPI-WIN webinar: Strengthening the governance of national public health agencies for emergency preparedness and response - World Health Organization (WHO)",
+          "I Am Public Health: Taylor Bryant - University of South Carolina"
+        ]
+      },
+      {
+        "trend": "drug",
         "market_code": "NO",
         "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
+        "score": 8,
+        "examples": [
+          "Dane County health alert: extreme heat linked to spike in drug overdoses - WKOW",
+          "Dane County health alert: extreme heat linked to spike in drug overdoses - WKOW",
+          "Anthropic launches AI drug discovery program, joining tech giants in betting on healthcare - CNBC"
+        ]
       },
       {
-        "trend": "diet wellness",
+        "trend": "children",
         "market_code": "NO",
-        "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "category": "Children Health",
+        "score": 8,
+        "examples": [
+          "Children’s National Boeing School Wellness Symposium brings together health and education leaders - Children's National",
+          "Children’s National Boeing School Wellness Symposium brings together health and education leaders - Children's National",
+          "Dell Children’s Medical Center Celebrates 19 Years of Innovative & Compassionate Pediatric Care - Healthcare | Ascension"
+        ]
       }
     ],
     "Japan": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "JP",
         "category": "Asia Health",
-        "score": 1,
-        "examples": []
+        "score": 74,
+        "examples": [
+          "Mayor Mamdani, NYC Health Agencies Intensify Enrollment in Low- and No-Cost Healthcare as Federal Cuts to Essential Plan Coverage Take Effect - NYC.gov",
+          "ECU establishes new College of Health and Human Sciences - East Carolina University",
+          "WHO Health Emergencies EPI-WIN webinar: Strengthening the governance of national public health agencies for emergency preparedness and response - World Health Organization (WHO)"
+        ]
+      },
+      {
+        "trend": "healthcare",
+        "market_code": "JP",
+        "category": "Asia Health",
+        "score": 17,
+        "examples": [
+          "Mayor Mamdani, NYC Health Agencies Intensify Enrollment in Low- and No-Cost Healthcare as Federal Cuts to Essential Plan Coverage Take Effect - NYC.gov",
+          "VA’s top healthcare official is stepping down - Federal News Network",
+          "Shaping the Future of Healthcare Through Nutrition - Old Dominion University"
+        ]
+      },
+      {
+        "trend": "medical",
+        "market_code": "JP",
+        "category": "Asia Health",
+        "score": 17,
+        "examples": [
+          "MUSC and CCSD Partnership - The Medical University of South Carolina",
+          "Responding to Earthquakes in Venezuela - International Medical Corps",
+          "Ottumwa physician agrees to surrender his medical license - Iowa Capital Dispatch"
+        ]
       },
       {
         "trend": "outbreak",
         "market_code": "JP",
         "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "score": 11,
+        "examples": [
+          "Behind the Ebola outbreak: An expert backgrounder for journalists - Association of Health Care Journalists",
+          "Michigan health officials warn of ‘large and growing outbreak’ of cyclosporiasis - ClickOnDetroit | WDIV Local 4",
+          "Ebola Outbreak, DRC and Region, Situation Report #9, July 1, 2026 - ReliefWeb"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "JP",
+        "category": "Mental Health",
+        "score": 11,
+        "examples": [
+          "New Minnesota law forces social media apps to include mental health warning - KTTC | Rochester, MN",
+          "Richmond mental health agency operator charged in $49.6M Medicaid fraud scheme - WTVR.com",
+          "Davenport University launches accelerated pathway to mental health counseling - Davenport University"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "JP",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
+        "score": 11,
+        "examples": [
+          "New Minnesota law forces social media apps to include mental health warning - KTTC | Rochester, MN",
+          "Richmond mental health agency operator charged in $49.6M Medicaid fraud scheme - WTVR.com",
+          "Davenport University launches accelerated pathway to mental health counseling - Davenport University"
+        ]
       },
       {
-        "trend": "medical research",
+        "trend": "health alert",
         "market_code": "JP",
         "category": "Asia Health",
-        "score": 1,
-        "examples": []
+        "score": 10,
+        "examples": [
+          "PHMDC issues public health alert due to overdose spike - Channel 3000",
+          "Dane County health alert: extreme heat linked to spike in drug overdoses - WKOW",
+          "Dane County health alert: extreme heat linked to spike in drug overdoses - WKOW"
+        ]
       },
       {
-        "trend": "drug approval",
+        "trend": "virus",
+        "market_code": "JP",
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "Jamestown Canyon virus detected in Lincoln mosquitoes - Nebraska Public Media",
+          "Jamestown Canyon virus detected in mosquitoes collected in Lincoln - KOLN | Nebraska Local News, Weather, Sports | Lincoln, NE",
+          "Global Respiratory Virus Activity: Weekly Update N° 584 - World Health Organization (WHO)"
+        ]
+      },
+      {
+        "trend": "disease",
+        "market_code": "JP",
+        "category": "Asia Health",
+        "score": 9,
+        "examples": [
+          "Innate immune responsiveness predicts enhanced cellular immunity and symptomatic disease after controlled human influenza infection - Nature",
+          "Treating Flu with Antiviral Drugs | Influenza (Flu) - Centers for Disease Control and Prevention | CDC (.gov)",
+          "Infectious Disease Regulatory Watch: June Highlights - Contagion Live"
+        ]
+      },
+      {
+        "trend": "public health",
+        "market_code": "JP",
+        "category": "Asia Health",
+        "score": 8,
+        "examples": [
+          "WHO Health Emergencies EPI-WIN webinar: Strengthening the governance of national public health agencies for emergency preparedness and response - World Health Organization (WHO)",
+          "WHO Health Emergencies EPI-WIN webinar: Strengthening the governance of national public health agencies for emergency preparedness and response - World Health Organization (WHO)",
+          "I Am Public Health: Taylor Bryant - University of South Carolina"
+        ]
+      },
+      {
+        "trend": "drug",
         "market_code": "JP",
         "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
+        "score": 8,
+        "examples": [
+          "Dane County health alert: extreme heat linked to spike in drug overdoses - WKOW",
+          "Dane County health alert: extreme heat linked to spike in drug overdoses - WKOW",
+          "Anthropic launches AI drug discovery program, joining tech giants in betting on healthcare - CNBC"
+        ]
       },
       {
-        "trend": "diet wellness",
+        "trend": "children",
         "market_code": "JP",
-        "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "category": "Children Health",
+        "score": 8,
+        "examples": [
+          "Children’s National Boeing School Wellness Symposium brings together health and education leaders - Children's National",
+          "Children’s National Boeing School Wellness Symposium brings together health and education leaders - Children's National",
+          "Dell Children’s Medical Center Celebrates 19 Years of Innovative & Compassionate Pediatric Care - Healthcare | Ascension"
+        ]
       }
     ],
     "China": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "CN",
         "category": "Asia Health",
-        "score": 1,
-        "examples": []
+        "score": 74,
+        "examples": [
+          "Mayor Mamdani, NYC Health Agencies Intensify Enrollment in Low- and No-Cost Healthcare as Federal Cuts to Essential Plan Coverage Take Effect - NYC.gov",
+          "ECU establishes new College of Health and Human Sciences - East Carolina University",
+          "WHO Health Emergencies EPI-WIN webinar: Strengthening the governance of national public health agencies for emergency preparedness and response - World Health Organization (WHO)"
+        ]
+      },
+      {
+        "trend": "healthcare",
+        "market_code": "CN",
+        "category": "Asia Health",
+        "score": 17,
+        "examples": [
+          "Mayor Mamdani, NYC Health Agencies Intensify Enrollment in Low- and No-Cost Healthcare as Federal Cuts to Essential Plan Coverage Take Effect - NYC.gov",
+          "VA’s top healthcare official is stepping down - Federal News Network",
+          "Shaping the Future of Healthcare Through Nutrition - Old Dominion University"
+        ]
+      },
+      {
+        "trend": "medical",
+        "market_code": "CN",
+        "category": "Asia Health",
+        "score": 17,
+        "examples": [
+          "MUSC and CCSD Partnership - The Medical University of South Carolina",
+          "Responding to Earthquakes in Venezuela - International Medical Corps",
+          "Ottumwa physician agrees to surrender his medical license - Iowa Capital Dispatch"
+        ]
       },
       {
         "trend": "outbreak",
         "market_code": "CN",
         "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "score": 11,
+        "examples": [
+          "Behind the Ebola outbreak: An expert backgrounder for journalists - Association of Health Care Journalists",
+          "Michigan health officials warn of ‘large and growing outbreak’ of cyclosporiasis - ClickOnDetroit | WDIV Local 4",
+          "Ebola Outbreak, DRC and Region, Situation Report #9, July 1, 2026 - ReliefWeb"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "CN",
+        "category": "Mental Health",
+        "score": 11,
+        "examples": [
+          "New Minnesota law forces social media apps to include mental health warning - KTTC | Rochester, MN",
+          "Richmond mental health agency operator charged in $49.6M Medicaid fraud scheme - WTVR.com",
+          "Davenport University launches accelerated pathway to mental health counseling - Davenport University"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "CN",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
+        "score": 11,
+        "examples": [
+          "New Minnesota law forces social media apps to include mental health warning - KTTC | Rochester, MN",
+          "Richmond mental health agency operator charged in $49.6M Medicaid fraud scheme - WTVR.com",
+          "Davenport University launches accelerated pathway to mental health counseling - Davenport University"
+        ]
       },
       {
-        "trend": "medical research",
+        "trend": "health alert",
         "market_code": "CN",
         "category": "Asia Health",
-        "score": 1,
-        "examples": []
+        "score": 10,
+        "examples": [
+          "PHMDC issues public health alert due to overdose spike - Channel 3000",
+          "Dane County health alert: extreme heat linked to spike in drug overdoses - WKOW",
+          "Dane County health alert: extreme heat linked to spike in drug overdoses - WKOW"
+        ]
       },
       {
-        "trend": "drug approval",
+        "trend": "virus",
+        "market_code": "CN",
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "Jamestown Canyon virus detected in Lincoln mosquitoes - Nebraska Public Media",
+          "Jamestown Canyon virus detected in mosquitoes collected in Lincoln - KOLN | Nebraska Local News, Weather, Sports | Lincoln, NE",
+          "Global Respiratory Virus Activity: Weekly Update N° 584 - World Health Organization (WHO)"
+        ]
+      },
+      {
+        "trend": "disease",
+        "market_code": "CN",
+        "category": "Asia Health",
+        "score": 9,
+        "examples": [
+          "Innate immune responsiveness predicts enhanced cellular immunity and symptomatic disease after controlled human influenza infection - Nature",
+          "Treating Flu with Antiviral Drugs | Influenza (Flu) - Centers for Disease Control and Prevention | CDC (.gov)",
+          "Infectious Disease Regulatory Watch: June Highlights - Contagion Live"
+        ]
+      },
+      {
+        "trend": "public health",
+        "market_code": "CN",
+        "category": "Asia Health",
+        "score": 8,
+        "examples": [
+          "WHO Health Emergencies EPI-WIN webinar: Strengthening the governance of national public health agencies for emergency preparedness and response - World Health Organization (WHO)",
+          "WHO Health Emergencies EPI-WIN webinar: Strengthening the governance of national public health agencies for emergency preparedness and response - World Health Organization (WHO)",
+          "I Am Public Health: Taylor Bryant - University of South Carolina"
+        ]
+      },
+      {
+        "trend": "drug",
         "market_code": "CN",
         "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
+        "score": 8,
+        "examples": [
+          "Dane County health alert: extreme heat linked to spike in drug overdoses - WKOW",
+          "Dane County health alert: extreme heat linked to spike in drug overdoses - WKOW",
+          "Anthropic launches AI drug discovery program, joining tech giants in betting on healthcare - CNBC"
+        ]
       },
       {
-        "trend": "diet wellness",
+        "trend": "children",
         "market_code": "CN",
-        "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "category": "Children Health",
+        "score": 8,
+        "examples": [
+          "Children’s National Boeing School Wellness Symposium brings together health and education leaders - Children's National",
+          "Children’s National Boeing School Wellness Symposium brings together health and education leaders - Children's National",
+          "Dell Children’s Medical Center Celebrates 19 Years of Innovative & Compassionate Pediatric Care - Healthcare | Ascension"
+        ]
       }
     ],
     "South Korea": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "KR",
         "category": "Asia Health",
-        "score": 1,
-        "examples": []
+        "score": 74,
+        "examples": [
+          "Mayor Mamdani, NYC Health Agencies Intensify Enrollment in Low- and No-Cost Healthcare as Federal Cuts to Essential Plan Coverage Take Effect - NYC.gov",
+          "ECU establishes new College of Health and Human Sciences - East Carolina University",
+          "WHO Health Emergencies EPI-WIN webinar: Strengthening the governance of national public health agencies for emergency preparedness and response - World Health Organization (WHO)"
+        ]
+      },
+      {
+        "trend": "healthcare",
+        "market_code": "KR",
+        "category": "Asia Health",
+        "score": 17,
+        "examples": [
+          "Mayor Mamdani, NYC Health Agencies Intensify Enrollment in Low- and No-Cost Healthcare as Federal Cuts to Essential Plan Coverage Take Effect - NYC.gov",
+          "VA’s top healthcare official is stepping down - Federal News Network",
+          "Shaping the Future of Healthcare Through Nutrition - Old Dominion University"
+        ]
+      },
+      {
+        "trend": "medical",
+        "market_code": "KR",
+        "category": "Asia Health",
+        "score": 17,
+        "examples": [
+          "MUSC and CCSD Partnership - The Medical University of South Carolina",
+          "Responding to Earthquakes in Venezuela - International Medical Corps",
+          "Ottumwa physician agrees to surrender his medical license - Iowa Capital Dispatch"
+        ]
       },
       {
         "trend": "outbreak",
         "market_code": "KR",
         "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "score": 11,
+        "examples": [
+          "Behind the Ebola outbreak: An expert backgrounder for journalists - Association of Health Care Journalists",
+          "Michigan health officials warn of ‘large and growing outbreak’ of cyclosporiasis - ClickOnDetroit | WDIV Local 4",
+          "Ebola Outbreak, DRC and Region, Situation Report #9, July 1, 2026 - ReliefWeb"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "KR",
+        "category": "Mental Health",
+        "score": 11,
+        "examples": [
+          "New Minnesota law forces social media apps to include mental health warning - KTTC | Rochester, MN",
+          "Richmond mental health agency operator charged in $49.6M Medicaid fraud scheme - WTVR.com",
+          "Davenport University launches accelerated pathway to mental health counseling - Davenport University"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "KR",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
+        "score": 11,
+        "examples": [
+          "New Minnesota law forces social media apps to include mental health warning - KTTC | Rochester, MN",
+          "Richmond mental health agency operator charged in $49.6M Medicaid fraud scheme - WTVR.com",
+          "Davenport University launches accelerated pathway to mental health counseling - Davenport University"
+        ]
       },
       {
-        "trend": "medical research",
+        "trend": "health alert",
         "market_code": "KR",
         "category": "Asia Health",
-        "score": 1,
-        "examples": []
+        "score": 10,
+        "examples": [
+          "PHMDC issues public health alert due to overdose spike - Channel 3000",
+          "Dane County health alert: extreme heat linked to spike in drug overdoses - WKOW",
+          "Dane County health alert: extreme heat linked to spike in drug overdoses - WKOW"
+        ]
       },
       {
-        "trend": "drug approval",
+        "trend": "virus",
+        "market_code": "KR",
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "Jamestown Canyon virus detected in Lincoln mosquitoes - Nebraska Public Media",
+          "Jamestown Canyon virus detected in mosquitoes collected in Lincoln - KOLN | Nebraska Local News, Weather, Sports | Lincoln, NE",
+          "Global Respiratory Virus Activity: Weekly Update N° 584 - World Health Organization (WHO)"
+        ]
+      },
+      {
+        "trend": "disease",
+        "market_code": "KR",
+        "category": "Asia Health",
+        "score": 9,
+        "examples": [
+          "Innate immune responsiveness predicts enhanced cellular immunity and symptomatic disease after controlled human influenza infection - Nature",
+          "Treating Flu with Antiviral Drugs | Influenza (Flu) - Centers for Disease Control and Prevention | CDC (.gov)",
+          "Infectious Disease Regulatory Watch: June Highlights - Contagion Live"
+        ]
+      },
+      {
+        "trend": "public health",
+        "market_code": "KR",
+        "category": "Asia Health",
+        "score": 8,
+        "examples": [
+          "WHO Health Emergencies EPI-WIN webinar: Strengthening the governance of national public health agencies for emergency preparedness and response - World Health Organization (WHO)",
+          "WHO Health Emergencies EPI-WIN webinar: Strengthening the governance of national public health agencies for emergency preparedness and response - World Health Organization (WHO)",
+          "I Am Public Health: Taylor Bryant - University of South Carolina"
+        ]
+      },
+      {
+        "trend": "drug",
         "market_code": "KR",
         "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
+        "score": 8,
+        "examples": [
+          "Dane County health alert: extreme heat linked to spike in drug overdoses - WKOW",
+          "Dane County health alert: extreme heat linked to spike in drug overdoses - WKOW",
+          "Anthropic launches AI drug discovery program, joining tech giants in betting on healthcare - CNBC"
+        ]
       },
       {
-        "trend": "diet wellness",
+        "trend": "children",
         "market_code": "KR",
-        "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "category": "Children Health",
+        "score": 8,
+        "examples": [
+          "Children’s National Boeing School Wellness Symposium brings together health and education leaders - Children's National",
+          "Children’s National Boeing School Wellness Symposium brings together health and education leaders - Children's National",
+          "Dell Children’s Medical Center Celebrates 19 Years of Innovative & Compassionate Pediatric Care - Healthcare | Ascension"
+        ]
       }
     ],
     "India": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "IN",
         "category": "Asia Health",
-        "score": 1,
-        "examples": []
+        "score": 74,
+        "examples": [
+          "The Community Health Centre (CHC), Khaltse, organized a medical camp at Hanu Village in collaboration with the Indian Army. | The Administration of Union Territory of Ladakh | India - Administration of Union Territory of Ladakh",
+          "Countries pave the way for stronger local production and health sovereignty - World Health Organization (WHO)",
+          "Countries pave the way for stronger local production and health sovereignty - World Health Organization (WHO)"
+        ]
+      },
+      {
+        "trend": "healthcare",
+        "market_code": "IN",
+        "category": "Asia Health",
+        "score": 20,
+        "examples": [
+          "The future of predictive maternal healthcare: trustworthy data, robust public health teams can help save lives - The Hindu",
+          "Dr Google Vs Your Doctor: Why Reliable Medical Advice Matters - BW Healthcare",
+          "The future of predictive maternal healthcare: trustworthy data, robust public health teams can help save lives - The Hindu"
+        ]
+      },
+      {
+        "trend": "medical",
+        "market_code": "IN",
+        "category": "Asia Health",
+        "score": 19,
+        "examples": [
+          "The Community Health Centre (CHC), Khaltse, organized a medical camp at Hanu Village in collaboration with the Indian Army. | The Administration of Union Territory of Ladakh | India - Administration of Union Territory of Ladakh",
+          "The Community Health Centre (CHC), Khaltse, organized a medical camp at Hanu Village in collaboration with the Indian Army. | The Administration of Union Territory of Ladakh | India - Administration of Union Territory of Ladakh",
+          "Lumibird Medical Completes Biz Medic Acquisition, Launches Southeast Asia Regional Hub - Eyewire+"
+        ]
       },
       {
         "trend": "outbreak",
         "market_code": "IN",
         "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "score": 15,
+        "examples": [
+          "Uganda On Alert Over Suspected Marburg Virus Outbreak - Health and Me",
+          "Uganda On Alert Over Suspected Marburg Virus Outbreak - Health and Me",
+          "Ebola Outbreak, DRC and Region, Situation Report #9, July 1, 2026 - ReliefWeb"
+        ]
+      },
+      {
+        "trend": "children",
+        "market_code": "IN",
+        "category": "Children Health",
+        "score": 11,
+        "examples": [
+          "Nearly 10,000 children and mothers in Chabahar to benefit from equipped health centres - Unicef",
+          "Gujarat Launches 'Health Passport' Scheme For Children Aged Up To 18 - NDTV",
+          "French President, WHO Chief Warn Digital World Reshaping Children’s Health - Bernama"
+        ]
+      },
+      {
+        "trend": "public health",
+        "market_code": "IN",
+        "category": "Asia Health",
+        "score": 10,
+        "examples": [
+          "The future of predictive maternal healthcare: trustworthy data, robust public health teams can help save lives - The Hindu",
+          "National Doctors’ Day: Experts say preventive care, awareness key for public health - ThePrint",
+          "WHO Health Emergencies EPI-WIN webinar: Strengthening the governance of national public health agencies for emergency preparedness and response - World Health Organization (WHO)"
+        ]
+      },
+      {
+        "trend": "drug",
+        "market_code": "IN",
+        "category": "Drug & Treatment News",
+        "score": 10,
+        "examples": [
+          "Dane County health alert: extreme heat linked to spike in drug overdoses - WKOW",
+          "Dane County health alert: extreme heat linked to spike in drug overdoses - WKOW",
+          "Ipsen to scoop up Memo Therapeutics and its kidney infection drug - Endpoints News"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "IN",
+        "category": "Mental Health",
+        "score": 10,
+        "examples": [
+          "Nearly three in four US scam victims report mental health harm, poll finds - Al Jazeera",
+          "If Punjab wants to reduce mental illness-related suicides, it must treat the person not just the disease: Zimi Angad Singh - Down To Earth",
+          "Psychiatric Social Counselors To Assist Patients At Institute Of Mental Health (IMH). - TRIPURA STAR NEWS"
+        ]
+      },
+      {
+        "trend": "virus",
+        "market_code": "IN",
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "Uganda On Alert Over Suspected Marburg Virus Outbreak - Health and Me",
+          "Uganda On Alert Over Suspected Marburg Virus Outbreak - Health and Me",
+          "Uganda On Alert Over Suspected Marburg Virus Outbreak - Health and Me"
+        ]
+      },
+      {
+        "trend": "health alert",
+        "market_code": "IN",
+        "category": "Asia Health",
+        "score": 9,
+        "examples": [
+          "Yellow health alert issued - as England records hottest June on record - Sky News",
+          "Dane County health alert: extreme heat linked to spike in drug overdoses - WKOW",
+          "Yellow heat health alert issued ahead of UK heatwave return - MSN"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "IN",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
+        "score": 9,
+        "examples": [
+          "Nearly three in four US scam victims report mental health harm, poll finds - Al Jazeera",
+          "Psychiatric Social Counselors To Assist Patients At Institute Of Mental Health (IMH). - TRIPURA STAR NEWS",
+          "How vision loss can affect memory, mobility and mental health as we age - The Indian Express"
+        ]
       },
       {
-        "trend": "medical research",
+        "trend": "disease",
         "market_code": "IN",
         "category": "Asia Health",
-        "score": 1,
-        "examples": []
-      },
-      {
-        "trend": "drug approval",
-        "market_code": "IN",
-        "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
-      },
-      {
-        "trend": "diet wellness",
-        "market_code": "IN",
-        "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "score": 8,
+        "examples": [
+          "A disease outbreak nearly cost this US poultry farmer everything. One more could wipe him out - The Guardian",
+          "If Punjab wants to reduce mental illness-related suicides, it must treat the person not just the disease: Zimi Angad Singh - Down To Earth",
+          "Treating Flu with Antiviral Drugs | Influenza (Flu) - Centers for Disease Control and Prevention | CDC (.gov)"
+        ]
       }
     ],
     "Australia": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "AU",
         "category": "Global Health",
-        "score": 1,
-        "examples": []
+        "score": 76,
+        "examples": [
+          "Countries pave the way for stronger local production and health sovereignty - World Health Organization (WHO)",
+          "Countries pave the way for stronger local production and health sovereignty - World Health Organization (WHO)",
+          "Goldfields Step Up Step Down transitions to WA Country Health Service - WA Country Health Service"
+        ]
+      },
+      {
+        "trend": "medical",
+        "market_code": "AU",
+        "category": "Global Health",
+        "score": 15,
+        "examples": [
+          "Sciver-Brunt and England medical team throw everything at recovery - ESPN",
+          "Harmonizing standards and resources for the medical genome - Nature",
+          "Statement from Broncos' Chief Medical Officer, Dr Matt Hislop regarding Corey Jensen - Brisbane Broncos"
+        ]
+      },
+      {
+        "trend": "healthcare",
+        "market_code": "AU",
+        "category": "Global Health",
+        "score": 14,
+        "examples": [
+          "Carly couldn’t get the healthcare she needed. She almost didn’t make it home - SMH.com.au",
+          "Artificial intelligence in healthcare - Lander & Rogers",
+          "Healthcare AI grows up: CSIRO - Medical Republic"
+        ]
       },
       {
         "trend": "outbreak",
         "market_code": "AU",
         "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "score": 13,
+        "examples": [
+          "Explosive diarrhoea parasite spreads across US as alarming outbreak sparks health warning - The Australian",
+          "Explosive diarrhoea parasite spreads across US as alarming outbreak sparks health warning - The Australian",
+          "Ebola Outbreak, DRC and Region, Situation Report #9, July 1, 2026 - ReliefWeb"
+        ]
+      },
+      {
+        "trend": "drug",
+        "market_code": "AU",
+        "category": "Drug & Treatment News",
+        "score": 11,
+        "examples": [
+          "Heroin overdose warning after multiple Victorians unknowingly take drug - Australian Broadcasting Corporation",
+          "Heroin overdose warning after multiple Victorians unknowingly take drug - Australian Broadcasting Corporation",
+          "Heroin overdose warning after multiple Victorians unknowingly take drug - Australian Broadcasting Corporation"
+        ]
+      },
+      {
+        "trend": "health alert",
+        "market_code": "AU",
+        "category": "Global Health",
+        "score": 10,
+        "examples": [
+          "New heat health alert issued as another UK heatwave approaches - Yahoo News Australia",
+          "Yellow health alert issued - as England records hottest June on record - Sky News",
+          "Yellow heat health alert issued ahead of UK heatwave return - MSN"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "AU",
+        "category": "Mental Health",
+        "score": 10,
+        "examples": [
+          "New Minnesota law forces social media apps to include mental health warning - KTTC | Rochester, MN",
+          "Nearly three in four US scam victims report mental health harm, poll finds - Al Jazeera",
+          "Study participants wanted: Help shape the future of perinatal mental health care - ANMJ"
+        ]
+      },
+      {
+        "trend": "disease",
+        "market_code": "AU",
+        "category": "Global Health",
+        "score": 9,
+        "examples": [
+          "Building a paediatric workforce to deliver the NHS prevention agenda: time for paediatric public health medicine? - Archives of Disease in Childhood",
+          "A disease outbreak nearly cost this US poultry farmer everything. One more could wipe him out - The Guardian",
+          "Innate immune responsiveness predicts enhanced cellular immunity and symptomatic disease after controlled human influenza infection - Nature"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "AU",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
+        "score": 9,
+        "examples": [
+          "New Minnesota law forces social media apps to include mental health warning - KTTC | Rochester, MN",
+          "Nearly three in four US scam victims report mental health harm, poll finds - Al Jazeera",
+          "Study participants wanted: Help shape the future of perinatal mental health care - ANMJ"
+        ]
       },
       {
-        "trend": "medical research",
+        "trend": "warning",
         "market_code": "AU",
         "category": "Global Health",
-        "score": 1,
-        "examples": []
+        "score": 8,
+        "examples": [
+          "Heroin overdose warning after multiple Victorians unknowingly take drug - Australian Broadcasting Corporation",
+          "Heroin overdose warning after multiple Victorians unknowingly take drug - Australian Broadcasting Corporation",
+          "Explosive diarrhoea parasite spreads across US as alarming outbreak sparks health warning - The Australian"
+        ]
       },
       {
-        "trend": "drug approval",
+        "trend": "research",
         "market_code": "AU",
-        "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
+        "category": "Global Health",
+        "score": 7,
+        "examples": [
+          "Australian health research to become more regionally focused - Research Professional News",
+          "Australian health research to become more regionally focused - Research Professional News",
+          "Australian health research to become more regionally focused - Research Professional News"
+        ]
       },
       {
-        "trend": "diet wellness",
+        "trend": "health alert issued",
         "market_code": "AU",
-        "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "category": "Global Health",
+        "score": 7,
+        "examples": [
+          "New heat health alert issued as another UK heatwave approaches - Yahoo News Australia",
+          "Yellow health alert issued - as England records hottest June on record - Sky News",
+          "Yellow heat health alert issued ahead of UK heatwave return - MSN"
+        ]
       }
     ],
     "Canada": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "CA",
         "category": "Global Health",
-        "score": 1,
-        "examples": []
+        "score": 66,
+        "examples": [
+          "Countries pave the way for stronger local production and health sovereignty - World Health Organization (WHO)",
+          "Countries pave the way for stronger local production and health sovereignty - World Health Organization (WHO)",
+          "N.L. Health Services apologizes for 'unclear' letter to parents - CBC"
+        ]
       },
       {
-        "trend": "outbreak",
+        "trend": "medical",
         "market_code": "CA",
-        "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "category": "Global Health",
+        "score": 16,
+        "examples": [
+          "Bredehorst Clinic Medical Management, Germany's Leading Healthcare Procurement Specialist, partners with Sigla - Yahoo! Finance Canada",
+          "Harmonizing standards and resources for the medical genome - Nature",
+          "Surgeons, Medical Oncologists, and Radiation Oncologists Debate Current Thresholds for Systemic Therapy in EGFR-Mutated NSCLC - OncLive"
+        ]
+      },
+      {
+        "trend": "healthcare",
+        "market_code": "CA",
+        "category": "Global Health",
+        "score": 14,
+        "examples": [
+          "Bredehorst Clinic Medical Management, Germany's Leading Healthcare Procurement Specialist, partners with Sigla - Yahoo! Finance Canada",
+          "3 AI Healthcare Stocks Retail Investors Are Watching For Smarter Cancer Care - simplywall.st",
+          "WEF: China's AI Healthcare Could Shape Sustainable Care - Healthcare Digital"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "CA",
+        "category": "Mental Health",
+        "score": 12,
+        "examples": [
+          "Anxiety is normal after Montreal shooting, mental health experts say. Here's how to move forward - Montreal Gazette",
+          "Breaking the stigma of silence around men’s mental health - CBC",
+          "Nearly three in four US scam victims report mental health harm, poll finds - Al Jazeera"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "CA",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
+        "score": 11,
+        "examples": [
+          "Anxiety is normal after Montreal shooting, mental health experts say. Here's how to move forward - Montreal Gazette",
+          "Breaking the stigma of silence around men’s mental health - CBC",
+          "Nearly three in four US scam victims report mental health harm, poll finds - Al Jazeera"
+        ]
       },
       {
-        "trend": "medical research",
+        "trend": "outbreak",
+        "market_code": "CA",
+        "category": "Outbreaks",
+        "score": 11,
+        "examples": [
+          "What is Ebola, how does it spread and why is DR Congo outbreak an 'emergency'? - BBC",
+          "Ebola Outbreak, DRC and Region, Situation Report #9, July 1, 2026 - ReliefWeb",
+          "American doctor tests positive for Ebola in Democratic Republic of Congo outbreak - ABC News - Breaking News, Latest News and Videos"
+        ]
+      },
+      {
+        "trend": "health alert",
         "market_code": "CA",
         "category": "Global Health",
-        "score": 1,
-        "examples": []
+        "score": 10,
+        "examples": [
+          "New heat health alert issued as another UK heatwave approaches - Yahoo News Canada",
+          "Yellow health alert issued - as England records hottest June on record - Sky News",
+          "New heat health alert issued as another UK heatwave approaches - Yahoo News Canada"
+        ]
       },
       {
-        "trend": "drug approval",
+        "trend": "public health",
+        "market_code": "CA",
+        "category": "Global Health",
+        "score": 9,
+        "examples": [
+          "Public health officials in Sudbury remind people to stay cool as heat wave grips northeastern Ontario - CBC",
+          "Dr. Bradley Stoner appointed Interim Head, Department of Public Health Sciences - Queen's University",
+          "Province ends its attempt to control public health inspectors - AUPE"
+        ]
+      },
+      {
+        "trend": "infection",
+        "market_code": "CA",
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "Tips to prevent cyclospora infection and explosive diarrhea - Detroit Free Press",
+          "Lowering your risk of West Nile virus infection this summer - CHAT News Today",
+          "Noma Beyond Childhood: Dual-Flap Reconstruction of Orofacial Necrotising Infection in an Immunocompromised Elderly Male Patient - Cureus"
+        ]
+      },
+      {
+        "trend": "drug",
         "market_code": "CA",
         "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
+        "score": 8,
+        "examples": [
+          "Dane County health alert: extreme heat linked to spike in drug overdoses - WKOW",
+          "Heroin overdose warning after multiple Victorians unknowingly take drug - Australian Broadcasting Corporation",
+          "Ipsen to scoop up Memo Therapeutics and its kidney infection drug - Endpoints News"
+        ]
       },
       {
-        "trend": "diet wellness",
+        "trend": "disease",
         "market_code": "CA",
-        "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "category": "Global Health",
+        "score": 8,
+        "examples": [
+          "A disease outbreak nearly cost this US poultry farmer everything. One more could wipe him out - The Guardian",
+          "Innate immune responsiveness predicts enhanced cellular immunity and symptomatic disease after controlled human influenza infection - Nature",
+          "Treating Flu with Antiviral Drugs | Influenza (Flu) - Centers for Disease Control and Prevention | CDC (.gov)"
+        ]
+      },
+      {
+        "trend": "virus",
+        "market_code": "CA",
+        "category": "Outbreaks",
+        "score": 8,
+        "examples": [
+          "Global Respiratory Virus Activity: Weekly Update N° 584 - World Health Organization (WHO)",
+          "Major Alberta rain prompts warning about mosquito-borne West Nile virus - Edmonton Journal",
+          "Maine CDC reports first Powassan virus case of 2026 - newscentermaine.com"
+        ]
       }
     ],
     "United Arab Emirates": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "AE",
         "category": "Arab Health",
-        "score": 1,
-        "examples": []
+        "score": 74,
+        "examples": [
+          "Mayor Mamdani, NYC Health Agencies Intensify Enrollment in Low- and No-Cost Healthcare as Federal Cuts to Essential Plan Coverage Take Effect - NYC.gov",
+          "ECU establishes new College of Health and Human Sciences - East Carolina University",
+          "WHO Health Emergencies EPI-WIN webinar: Strengthening the governance of national public health agencies for emergency preparedness and response - World Health Organization (WHO)"
+        ]
+      },
+      {
+        "trend": "healthcare",
+        "market_code": "AE",
+        "category": "Arab Health",
+        "score": 17,
+        "examples": [
+          "Mayor Mamdani, NYC Health Agencies Intensify Enrollment in Low- and No-Cost Healthcare as Federal Cuts to Essential Plan Coverage Take Effect - NYC.gov",
+          "VA’s top healthcare official is stepping down - Federal News Network",
+          "Shaping the Future of Healthcare Through Nutrition - Old Dominion University"
+        ]
+      },
+      {
+        "trend": "medical",
+        "market_code": "AE",
+        "category": "Arab Health",
+        "score": 17,
+        "examples": [
+          "MUSC and CCSD Partnership - The Medical University of South Carolina",
+          "Responding to Earthquakes in Venezuela - International Medical Corps",
+          "Ottumwa physician agrees to surrender his medical license - Iowa Capital Dispatch"
+        ]
       },
       {
         "trend": "outbreak",
         "market_code": "AE",
         "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "score": 11,
+        "examples": [
+          "Behind the Ebola outbreak: An expert backgrounder for journalists - Association of Health Care Journalists",
+          "Michigan health officials warn of ‘large and growing outbreak’ of cyclosporiasis - ClickOnDetroit | WDIV Local 4",
+          "Ebola Outbreak, DRC and Region, Situation Report #9, July 1, 2026 - ReliefWeb"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "AE",
+        "category": "Mental Health",
+        "score": 11,
+        "examples": [
+          "New Minnesota law forces social media apps to include mental health warning - KTTC | Rochester, MN",
+          "Richmond mental health agency operator charged in $49.6M Medicaid fraud scheme - WTVR.com",
+          "Davenport University launches accelerated pathway to mental health counseling - Davenport University"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "AE",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
+        "score": 11,
+        "examples": [
+          "New Minnesota law forces social media apps to include mental health warning - KTTC | Rochester, MN",
+          "Richmond mental health agency operator charged in $49.6M Medicaid fraud scheme - WTVR.com",
+          "Davenport University launches accelerated pathway to mental health counseling - Davenport University"
+        ]
       },
       {
-        "trend": "medical research",
+        "trend": "health alert",
         "market_code": "AE",
         "category": "Arab Health",
-        "score": 1,
-        "examples": []
+        "score": 10,
+        "examples": [
+          "PHMDC issues public health alert due to overdose spike - Channel 3000",
+          "Dane County health alert: extreme heat linked to spike in drug overdoses - WKOW",
+          "Dane County health alert: extreme heat linked to spike in drug overdoses - WKOW"
+        ]
       },
       {
-        "trend": "drug approval",
+        "trend": "virus",
+        "market_code": "AE",
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "Jamestown Canyon virus detected in Lincoln mosquitoes - Nebraska Public Media",
+          "Jamestown Canyon virus detected in mosquitoes collected in Lincoln - KOLN | Nebraska Local News, Weather, Sports | Lincoln, NE",
+          "Global Respiratory Virus Activity: Weekly Update N° 584 - World Health Organization (WHO)"
+        ]
+      },
+      {
+        "trend": "disease",
+        "market_code": "AE",
+        "category": "Arab Health",
+        "score": 9,
+        "examples": [
+          "Innate immune responsiveness predicts enhanced cellular immunity and symptomatic disease after controlled human influenza infection - Nature",
+          "Treating Flu with Antiviral Drugs | Influenza (Flu) - Centers for Disease Control and Prevention | CDC (.gov)",
+          "Infectious Disease Regulatory Watch: June Highlights - Contagion Live"
+        ]
+      },
+      {
+        "trend": "public health",
+        "market_code": "AE",
+        "category": "Arab Health",
+        "score": 8,
+        "examples": [
+          "WHO Health Emergencies EPI-WIN webinar: Strengthening the governance of national public health agencies for emergency preparedness and response - World Health Organization (WHO)",
+          "WHO Health Emergencies EPI-WIN webinar: Strengthening the governance of national public health agencies for emergency preparedness and response - World Health Organization (WHO)",
+          "I Am Public Health: Taylor Bryant - University of South Carolina"
+        ]
+      },
+      {
+        "trend": "drug",
         "market_code": "AE",
         "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
+        "score": 8,
+        "examples": [
+          "Dane County health alert: extreme heat linked to spike in drug overdoses - WKOW",
+          "Dane County health alert: extreme heat linked to spike in drug overdoses - WKOW",
+          "Anthropic launches AI drug discovery program, joining tech giants in betting on healthcare - CNBC"
+        ]
       },
       {
-        "trend": "diet wellness",
+        "trend": "children",
         "market_code": "AE",
-        "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "category": "Children Health",
+        "score": 8,
+        "examples": [
+          "Children’s National Boeing School Wellness Symposium brings together health and education leaders - Children's National",
+          "Children’s National Boeing School Wellness Symposium brings together health and education leaders - Children's National",
+          "Dell Children’s Medical Center Celebrates 19 Years of Innovative & Compassionate Pediatric Care - Healthcare | Ascension"
+        ]
       }
     ],
     "Saudi Arabia": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "SA",
         "category": "Arab Health",
-        "score": 1,
-        "examples": []
+        "score": 74,
+        "examples": [
+          "Mayor Mamdani, NYC Health Agencies Intensify Enrollment in Low- and No-Cost Healthcare as Federal Cuts to Essential Plan Coverage Take Effect - NYC.gov",
+          "ECU establishes new College of Health and Human Sciences - East Carolina University",
+          "WHO Health Emergencies EPI-WIN webinar: Strengthening the governance of national public health agencies for emergency preparedness and response - World Health Organization (WHO)"
+        ]
+      },
+      {
+        "trend": "healthcare",
+        "market_code": "SA",
+        "category": "Arab Health",
+        "score": 17,
+        "examples": [
+          "Mayor Mamdani, NYC Health Agencies Intensify Enrollment in Low- and No-Cost Healthcare as Federal Cuts to Essential Plan Coverage Take Effect - NYC.gov",
+          "VA’s top healthcare official is stepping down - Federal News Network",
+          "Shaping the Future of Healthcare Through Nutrition - Old Dominion University"
+        ]
+      },
+      {
+        "trend": "medical",
+        "market_code": "SA",
+        "category": "Arab Health",
+        "score": 17,
+        "examples": [
+          "MUSC and CCSD Partnership - The Medical University of South Carolina",
+          "Responding to Earthquakes in Venezuela - International Medical Corps",
+          "Ottumwa physician agrees to surrender his medical license - Iowa Capital Dispatch"
+        ]
       },
       {
         "trend": "outbreak",
         "market_code": "SA",
         "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "score": 11,
+        "examples": [
+          "Behind the Ebola outbreak: An expert backgrounder for journalists - Association of Health Care Journalists",
+          "Michigan health officials warn of ‘large and growing outbreak’ of cyclosporiasis - ClickOnDetroit | WDIV Local 4",
+          "Ebola Outbreak, DRC and Region, Situation Report #9, July 1, 2026 - ReliefWeb"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "SA",
+        "category": "Mental Health",
+        "score": 11,
+        "examples": [
+          "New Minnesota law forces social media apps to include mental health warning - KTTC | Rochester, MN",
+          "Richmond mental health agency operator charged in $49.6M Medicaid fraud scheme - WTVR.com",
+          "Davenport University launches accelerated pathway to mental health counseling - Davenport University"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "SA",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
+        "score": 11,
+        "examples": [
+          "New Minnesota law forces social media apps to include mental health warning - KTTC | Rochester, MN",
+          "Richmond mental health agency operator charged in $49.6M Medicaid fraud scheme - WTVR.com",
+          "Davenport University launches accelerated pathway to mental health counseling - Davenport University"
+        ]
       },
       {
-        "trend": "medical research",
+        "trend": "health alert",
         "market_code": "SA",
         "category": "Arab Health",
-        "score": 1,
-        "examples": []
+        "score": 10,
+        "examples": [
+          "PHMDC issues public health alert due to overdose spike - Channel 3000",
+          "Dane County health alert: extreme heat linked to spike in drug overdoses - WKOW",
+          "Dane County health alert: extreme heat linked to spike in drug overdoses - WKOW"
+        ]
       },
       {
-        "trend": "drug approval",
+        "trend": "virus",
+        "market_code": "SA",
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "Jamestown Canyon virus detected in Lincoln mosquitoes - Nebraska Public Media",
+          "Jamestown Canyon virus detected in mosquitoes collected in Lincoln - KOLN | Nebraska Local News, Weather, Sports | Lincoln, NE",
+          "Global Respiratory Virus Activity: Weekly Update N° 584 - World Health Organization (WHO)"
+        ]
+      },
+      {
+        "trend": "disease",
+        "market_code": "SA",
+        "category": "Arab Health",
+        "score": 9,
+        "examples": [
+          "Innate immune responsiveness predicts enhanced cellular immunity and symptomatic disease after controlled human influenza infection - Nature",
+          "Treating Flu with Antiviral Drugs | Influenza (Flu) - Centers for Disease Control and Prevention | CDC (.gov)",
+          "Infectious Disease Regulatory Watch: June Highlights - Contagion Live"
+        ]
+      },
+      {
+        "trend": "public health",
+        "market_code": "SA",
+        "category": "Arab Health",
+        "score": 8,
+        "examples": [
+          "WHO Health Emergencies EPI-WIN webinar: Strengthening the governance of national public health agencies for emergency preparedness and response - World Health Organization (WHO)",
+          "WHO Health Emergencies EPI-WIN webinar: Strengthening the governance of national public health agencies for emergency preparedness and response - World Health Organization (WHO)",
+          "I Am Public Health: Taylor Bryant - University of South Carolina"
+        ]
+      },
+      {
+        "trend": "drug",
         "market_code": "SA",
         "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
+        "score": 8,
+        "examples": [
+          "Dane County health alert: extreme heat linked to spike in drug overdoses - WKOW",
+          "Dane County health alert: extreme heat linked to spike in drug overdoses - WKOW",
+          "Anthropic launches AI drug discovery program, joining tech giants in betting on healthcare - CNBC"
+        ]
       },
       {
-        "trend": "diet wellness",
+        "trend": "children",
         "market_code": "SA",
-        "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "category": "Children Health",
+        "score": 8,
+        "examples": [
+          "Children’s National Boeing School Wellness Symposium brings together health and education leaders - Children's National",
+          "Children’s National Boeing School Wellness Symposium brings together health and education leaders - Children's National",
+          "Dell Children’s Medical Center Celebrates 19 Years of Innovative & Compassionate Pediatric Care - Healthcare | Ascension"
+        ]
       }
     ],
     "Qatar": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "QA",
         "category": "Arab Health",
-        "score": 1,
-        "examples": []
+        "score": 74,
+        "examples": [
+          "Mayor Mamdani, NYC Health Agencies Intensify Enrollment in Low- and No-Cost Healthcare as Federal Cuts to Essential Plan Coverage Take Effect - NYC.gov",
+          "ECU establishes new College of Health and Human Sciences - East Carolina University",
+          "WHO Health Emergencies EPI-WIN webinar: Strengthening the governance of national public health agencies for emergency preparedness and response - World Health Organization (WHO)"
+        ]
+      },
+      {
+        "trend": "healthcare",
+        "market_code": "QA",
+        "category": "Arab Health",
+        "score": 17,
+        "examples": [
+          "Mayor Mamdani, NYC Health Agencies Intensify Enrollment in Low- and No-Cost Healthcare as Federal Cuts to Essential Plan Coverage Take Effect - NYC.gov",
+          "VA’s top healthcare official is stepping down - Federal News Network",
+          "Shaping the Future of Healthcare Through Nutrition - Old Dominion University"
+        ]
+      },
+      {
+        "trend": "medical",
+        "market_code": "QA",
+        "category": "Arab Health",
+        "score": 17,
+        "examples": [
+          "MUSC and CCSD Partnership - The Medical University of South Carolina",
+          "Responding to Earthquakes in Venezuela - International Medical Corps",
+          "Ottumwa physician agrees to surrender his medical license - Iowa Capital Dispatch"
+        ]
       },
       {
         "trend": "outbreak",
         "market_code": "QA",
         "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "score": 11,
+        "examples": [
+          "Behind the Ebola outbreak: An expert backgrounder for journalists - Association of Health Care Journalists",
+          "Michigan health officials warn of ‘large and growing outbreak’ of cyclosporiasis - ClickOnDetroit | WDIV Local 4",
+          "Ebola Outbreak, DRC and Region, Situation Report #9, July 1, 2026 - ReliefWeb"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "QA",
+        "category": "Mental Health",
+        "score": 11,
+        "examples": [
+          "New Minnesota law forces social media apps to include mental health warning - KTTC | Rochester, MN",
+          "Richmond mental health agency operator charged in $49.6M Medicaid fraud scheme - WTVR.com",
+          "Davenport University launches accelerated pathway to mental health counseling - Davenport University"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "QA",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
+        "score": 11,
+        "examples": [
+          "New Minnesota law forces social media apps to include mental health warning - KTTC | Rochester, MN",
+          "Richmond mental health agency operator charged in $49.6M Medicaid fraud scheme - WTVR.com",
+          "Davenport University launches accelerated pathway to mental health counseling - Davenport University"
+        ]
       },
       {
-        "trend": "medical research",
+        "trend": "health alert",
         "market_code": "QA",
         "category": "Arab Health",
-        "score": 1,
-        "examples": []
+        "score": 10,
+        "examples": [
+          "PHMDC issues public health alert due to overdose spike - Channel 3000",
+          "Dane County health alert: extreme heat linked to spike in drug overdoses - WKOW",
+          "Dane County health alert: extreme heat linked to spike in drug overdoses - WKOW"
+        ]
       },
       {
-        "trend": "drug approval",
+        "trend": "virus",
+        "market_code": "QA",
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "Jamestown Canyon virus detected in Lincoln mosquitoes - Nebraska Public Media",
+          "Jamestown Canyon virus detected in mosquitoes collected in Lincoln - KOLN | Nebraska Local News, Weather, Sports | Lincoln, NE",
+          "Global Respiratory Virus Activity: Weekly Update N° 584 - World Health Organization (WHO)"
+        ]
+      },
+      {
+        "trend": "disease",
+        "market_code": "QA",
+        "category": "Arab Health",
+        "score": 9,
+        "examples": [
+          "Innate immune responsiveness predicts enhanced cellular immunity and symptomatic disease after controlled human influenza infection - Nature",
+          "Treating Flu with Antiviral Drugs | Influenza (Flu) - Centers for Disease Control and Prevention | CDC (.gov)",
+          "Infectious Disease Regulatory Watch: June Highlights - Contagion Live"
+        ]
+      },
+      {
+        "trend": "public health",
+        "market_code": "QA",
+        "category": "Arab Health",
+        "score": 8,
+        "examples": [
+          "WHO Health Emergencies EPI-WIN webinar: Strengthening the governance of national public health agencies for emergency preparedness and response - World Health Organization (WHO)",
+          "WHO Health Emergencies EPI-WIN webinar: Strengthening the governance of national public health agencies for emergency preparedness and response - World Health Organization (WHO)",
+          "I Am Public Health: Taylor Bryant - University of South Carolina"
+        ]
+      },
+      {
+        "trend": "drug",
         "market_code": "QA",
         "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
+        "score": 8,
+        "examples": [
+          "Dane County health alert: extreme heat linked to spike in drug overdoses - WKOW",
+          "Dane County health alert: extreme heat linked to spike in drug overdoses - WKOW",
+          "Anthropic launches AI drug discovery program, joining tech giants in betting on healthcare - CNBC"
+        ]
       },
       {
-        "trend": "diet wellness",
+        "trend": "children",
         "market_code": "QA",
-        "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "category": "Children Health",
+        "score": 8,
+        "examples": [
+          "Children’s National Boeing School Wellness Symposium brings together health and education leaders - Children's National",
+          "Children’s National Boeing School Wellness Symposium brings together health and education leaders - Children's National",
+          "Dell Children’s Medical Center Celebrates 19 Years of Innovative & Compassionate Pediatric Care - Healthcare | Ascension"
+        ]
       }
     ],
     "Jordan": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "JO",
         "category": "Arab Health",
-        "score": 1,
-        "examples": []
+        "score": 74,
+        "examples": [
+          "Mayor Mamdani, NYC Health Agencies Intensify Enrollment in Low- and No-Cost Healthcare as Federal Cuts to Essential Plan Coverage Take Effect - NYC.gov",
+          "ECU establishes new College of Health and Human Sciences - East Carolina University",
+          "WHO Health Emergencies EPI-WIN webinar: Strengthening the governance of national public health agencies for emergency preparedness and response - World Health Organization (WHO)"
+        ]
+      },
+      {
+        "trend": "healthcare",
+        "market_code": "JO",
+        "category": "Arab Health",
+        "score": 17,
+        "examples": [
+          "Mayor Mamdani, NYC Health Agencies Intensify Enrollment in Low- and No-Cost Healthcare as Federal Cuts to Essential Plan Coverage Take Effect - NYC.gov",
+          "VA’s top healthcare official is stepping down - Federal News Network",
+          "Shaping the Future of Healthcare Through Nutrition - Old Dominion University"
+        ]
+      },
+      {
+        "trend": "medical",
+        "market_code": "JO",
+        "category": "Arab Health",
+        "score": 17,
+        "examples": [
+          "MUSC and CCSD Partnership - The Medical University of South Carolina",
+          "Responding to Earthquakes in Venezuela - International Medical Corps",
+          "Ottumwa physician agrees to surrender his medical license - Iowa Capital Dispatch"
+        ]
       },
       {
         "trend": "outbreak",
         "market_code": "JO",
         "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "score": 11,
+        "examples": [
+          "Behind the Ebola outbreak: An expert backgrounder for journalists - Association of Health Care Journalists",
+          "Michigan health officials warn of ‘large and growing outbreak’ of cyclosporiasis - ClickOnDetroit | WDIV Local 4",
+          "Ebola Outbreak, DRC and Region, Situation Report #9, July 1, 2026 - ReliefWeb"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "JO",
+        "category": "Mental Health",
+        "score": 11,
+        "examples": [
+          "New Minnesota law forces social media apps to include mental health warning - KTTC | Rochester, MN",
+          "Richmond mental health agency operator charged in $49.6M Medicaid fraud scheme - WTVR.com",
+          "Davenport University launches accelerated pathway to mental health counseling - Davenport University"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "JO",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
+        "score": 11,
+        "examples": [
+          "New Minnesota law forces social media apps to include mental health warning - KTTC | Rochester, MN",
+          "Richmond mental health agency operator charged in $49.6M Medicaid fraud scheme - WTVR.com",
+          "Davenport University launches accelerated pathway to mental health counseling - Davenport University"
+        ]
       },
       {
-        "trend": "medical research",
+        "trend": "health alert",
         "market_code": "JO",
         "category": "Arab Health",
-        "score": 1,
-        "examples": []
+        "score": 10,
+        "examples": [
+          "PHMDC issues public health alert due to overdose spike - Channel 3000",
+          "Dane County health alert: extreme heat linked to spike in drug overdoses - WKOW",
+          "Dane County health alert: extreme heat linked to spike in drug overdoses - WKOW"
+        ]
       },
       {
-        "trend": "drug approval",
+        "trend": "virus",
+        "market_code": "JO",
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "Jamestown Canyon virus detected in Lincoln mosquitoes - Nebraska Public Media",
+          "Jamestown Canyon virus detected in mosquitoes collected in Lincoln - KOLN | Nebraska Local News, Weather, Sports | Lincoln, NE",
+          "Global Respiratory Virus Activity: Weekly Update N° 584 - World Health Organization (WHO)"
+        ]
+      },
+      {
+        "trend": "disease",
+        "market_code": "JO",
+        "category": "Arab Health",
+        "score": 9,
+        "examples": [
+          "Innate immune responsiveness predicts enhanced cellular immunity and symptomatic disease after controlled human influenza infection - Nature",
+          "Treating Flu with Antiviral Drugs | Influenza (Flu) - Centers for Disease Control and Prevention | CDC (.gov)",
+          "Infectious Disease Regulatory Watch: June Highlights - Contagion Live"
+        ]
+      },
+      {
+        "trend": "public health",
+        "market_code": "JO",
+        "category": "Arab Health",
+        "score": 8,
+        "examples": [
+          "WHO Health Emergencies EPI-WIN webinar: Strengthening the governance of national public health agencies for emergency preparedness and response - World Health Organization (WHO)",
+          "WHO Health Emergencies EPI-WIN webinar: Strengthening the governance of national public health agencies for emergency preparedness and response - World Health Organization (WHO)",
+          "I Am Public Health: Taylor Bryant - University of South Carolina"
+        ]
+      },
+      {
+        "trend": "drug",
         "market_code": "JO",
         "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
+        "score": 8,
+        "examples": [
+          "Dane County health alert: extreme heat linked to spike in drug overdoses - WKOW",
+          "Dane County health alert: extreme heat linked to spike in drug overdoses - WKOW",
+          "Anthropic launches AI drug discovery program, joining tech giants in betting on healthcare - CNBC"
+        ]
       },
       {
-        "trend": "diet wellness",
+        "trend": "children",
         "market_code": "JO",
-        "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "category": "Children Health",
+        "score": 8,
+        "examples": [
+          "Children’s National Boeing School Wellness Symposium brings together health and education leaders - Children's National",
+          "Children’s National Boeing School Wellness Symposium brings together health and education leaders - Children's National",
+          "Dell Children’s Medical Center Celebrates 19 Years of Innovative & Compassionate Pediatric Care - Healthcare | Ascension"
+        ]
       }
     ],
     "Lebanon": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "LB",
         "category": "Arab Health",
-        "score": 1,
-        "examples": []
+        "score": 74,
+        "examples": [
+          "Mayor Mamdani, NYC Health Agencies Intensify Enrollment in Low- and No-Cost Healthcare as Federal Cuts to Essential Plan Coverage Take Effect - NYC.gov",
+          "ECU establishes new College of Health and Human Sciences - East Carolina University",
+          "WHO Health Emergencies EPI-WIN webinar: Strengthening the governance of national public health agencies for emergency preparedness and response - World Health Organization (WHO)"
+        ]
+      },
+      {
+        "trend": "healthcare",
+        "market_code": "LB",
+        "category": "Arab Health",
+        "score": 17,
+        "examples": [
+          "Mayor Mamdani, NYC Health Agencies Intensify Enrollment in Low- and No-Cost Healthcare as Federal Cuts to Essential Plan Coverage Take Effect - NYC.gov",
+          "VA’s top healthcare official is stepping down - Federal News Network",
+          "Shaping the Future of Healthcare Through Nutrition - Old Dominion University"
+        ]
+      },
+      {
+        "trend": "medical",
+        "market_code": "LB",
+        "category": "Arab Health",
+        "score": 17,
+        "examples": [
+          "MUSC and CCSD Partnership - The Medical University of South Carolina",
+          "Responding to Earthquakes in Venezuela - International Medical Corps",
+          "Ottumwa physician agrees to surrender his medical license - Iowa Capital Dispatch"
+        ]
       },
       {
         "trend": "outbreak",
         "market_code": "LB",
         "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "score": 11,
+        "examples": [
+          "Behind the Ebola outbreak: An expert backgrounder for journalists - Association of Health Care Journalists",
+          "Michigan health officials warn of ‘large and growing outbreak’ of cyclosporiasis - ClickOnDetroit | WDIV Local 4",
+          "Ebola Outbreak, DRC and Region, Situation Report #9, July 1, 2026 - ReliefWeb"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "LB",
+        "category": "Mental Health",
+        "score": 11,
+        "examples": [
+          "New Minnesota law forces social media apps to include mental health warning - KTTC | Rochester, MN",
+          "Richmond mental health agency operator charged in $49.6M Medicaid fraud scheme - WTVR.com",
+          "Davenport University launches accelerated pathway to mental health counseling - Davenport University"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "LB",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
+        "score": 11,
+        "examples": [
+          "New Minnesota law forces social media apps to include mental health warning - KTTC | Rochester, MN",
+          "Richmond mental health agency operator charged in $49.6M Medicaid fraud scheme - WTVR.com",
+          "Davenport University launches accelerated pathway to mental health counseling - Davenport University"
+        ]
       },
       {
-        "trend": "medical research",
+        "trend": "health alert",
         "market_code": "LB",
         "category": "Arab Health",
-        "score": 1,
-        "examples": []
+        "score": 10,
+        "examples": [
+          "PHMDC issues public health alert due to overdose spike - Channel 3000",
+          "Dane County health alert: extreme heat linked to spike in drug overdoses - WKOW",
+          "Dane County health alert: extreme heat linked to spike in drug overdoses - WKOW"
+        ]
       },
       {
-        "trend": "drug approval",
+        "trend": "virus",
+        "market_code": "LB",
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "Jamestown Canyon virus detected in Lincoln mosquitoes - Nebraska Public Media",
+          "Jamestown Canyon virus detected in mosquitoes collected in Lincoln - KOLN | Nebraska Local News, Weather, Sports | Lincoln, NE",
+          "Global Respiratory Virus Activity: Weekly Update N° 584 - World Health Organization (WHO)"
+        ]
+      },
+      {
+        "trend": "disease",
+        "market_code": "LB",
+        "category": "Arab Health",
+        "score": 9,
+        "examples": [
+          "Innate immune responsiveness predicts enhanced cellular immunity and symptomatic disease after controlled human influenza infection - Nature",
+          "Treating Flu with Antiviral Drugs | Influenza (Flu) - Centers for Disease Control and Prevention | CDC (.gov)",
+          "Infectious Disease Regulatory Watch: June Highlights - Contagion Live"
+        ]
+      },
+      {
+        "trend": "public health",
+        "market_code": "LB",
+        "category": "Arab Health",
+        "score": 8,
+        "examples": [
+          "WHO Health Emergencies EPI-WIN webinar: Strengthening the governance of national public health agencies for emergency preparedness and response - World Health Organization (WHO)",
+          "WHO Health Emergencies EPI-WIN webinar: Strengthening the governance of national public health agencies for emergency preparedness and response - World Health Organization (WHO)",
+          "I Am Public Health: Taylor Bryant - University of South Carolina"
+        ]
+      },
+      {
+        "trend": "drug",
         "market_code": "LB",
         "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
+        "score": 8,
+        "examples": [
+          "Dane County health alert: extreme heat linked to spike in drug overdoses - WKOW",
+          "Dane County health alert: extreme heat linked to spike in drug overdoses - WKOW",
+          "Anthropic launches AI drug discovery program, joining tech giants in betting on healthcare - CNBC"
+        ]
       },
       {
-        "trend": "diet wellness",
+        "trend": "children",
         "market_code": "LB",
-        "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "category": "Children Health",
+        "score": 8,
+        "examples": [
+          "Children’s National Boeing School Wellness Symposium brings together health and education leaders - Children's National",
+          "Children’s National Boeing School Wellness Symposium brings together health and education leaders - Children's National",
+          "Dell Children’s Medical Center Celebrates 19 Years of Innovative & Compassionate Pediatric Care - Healthcare | Ascension"
+        ]
       }
     ]
   }
