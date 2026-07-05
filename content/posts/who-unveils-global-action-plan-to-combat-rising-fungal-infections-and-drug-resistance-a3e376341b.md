@@ -1,0 +1,68 @@
+---
+title: "WHO Unveils Global Action Plan To Combat Rising Fungal Infections And Drug Resistance"
+description: "WHO Unveils Global Action Plan To Combat Rising Fungal Infections And Drug Resistance Health and Me"
+slug: "who-unveils-global-action-plan-to-combat-rising-fungal-infections-and-drug-resistance-a3e376341b"
+category: "Outbreaks"
+region: "India"
+source: "Google News / India"
+source_url: "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQd0NNSlV1bkJsem9TWWxkY1BsVVB3Z3JoeDhwT2FYZG1ZMmYxZ0hUQW8zeVN4NmF3WVRUZ1AzaG5QYnV4bGhzNFNVeXg1VlppOU96SHRWZk5BMFZGM09HRGwxQnRZZ0ZmSGZRWEs3UnFYXzdGVmtNRm5yT2RIdnF1Q2l4Vnd1dE9tNDlKVU1WSVB2SXZyX1ZOaWdGbkM3QTYwaGRwa3UyYnlaTEFxUUE4YzlzNkxycVBhdy1nYjJFZ0k4U0xadW9ZRXF5b21NSmFpR3RHSHdnck45NVE?oc=5"
+source_confidence: "medium"
+published_at: "Sun, 05 Jul 2026 03:30:00 GMT"
+generated_at: "2026-07-05T08:36:15.595689+00:00"
+image_url: "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+trend: "infection"
+keywords:
+  - "infection"
+  - "outbreaks"
+  - "india health news"
+  - "health trends"
+  - "medical news"
+  - "public health"
+  - "unveils"
+  - "global"
+  - "action"
+  - "plan"
+  - "combat"
+  - "rising"
+  - "fungal"
+  - "infections"
+  - "drug"
+  - "resistance"
+  - "health"
+---
+
+# WHO Unveils Global Action Plan To Combat Rising Fungal Infections And Drug Resistance
+
+WHO Unveils Global Action Plan To Combat Rising Fungal Infections And Drug Resistance Health and Me
+
+## Why this topic is trending
+
+This update was selected because it is connected to a detected health trend in **India**.
+
+Tracked trend: **infection**.
+
+## What happened
+
+This update is part of a wider health signal being monitored from public sources and regional news feeds. It may relate to public health, medical research, symptoms, outbreaks, treatments, wellness, healthcare systems, or health technology.
+
+## Why it matters
+
+- It may affect public awareness or online health searches.
+- It may be connected to health policy, disease monitoring, treatment updates, or scientific research.
+- The original source should be reviewed for full details and context.
+
+## Region
+
+**India**
+
+## Category
+
+**Outbreaks**
+
+## Source context
+
+This article summarizes a public health signal from **Google News / India**. HantaUpdates links to the original source so readers can verify details directly.
+
+## Medical disclaimer
+
+HantaUpdates does not provide medical advice, diagnosis, or treatment. Always follow guidance from your local health authority or a qualified medical professional.
