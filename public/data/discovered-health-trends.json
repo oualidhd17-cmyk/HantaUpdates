@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-11T07:28:51.380120+00:00",
+  "updated_at": "2026-07-11T12:45:28.374324+00:00",
   "total_trends": 252,
   "markets": {
     "United States": [
@@ -9,9 +9,53 @@
         "category": "US Health",
         "score": 86,
         "examples": [
+          "Mitch McConnell mystery deepens as health questions remain unanswered - The Guardian",
           "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF",
-          "What’s coming for state employees’ insurance in the coming year? Here are the details. - North Carolina Health News",
-          "Polk State celebrates 100% licensure pass rates for all Health Sciences and Nursing programs - Polk State College"
+          "The 7 Healthy Habits That Can Improve Your Health in 30 Days - Hartford HealthCare"
+        ]
+      },
+      {
+        "trend": "health alert",
+        "market_code": "US",
+        "category": "US Health",
+        "score": 16,
+        "examples": [
+          "Wisconsin DATCP issues public health alert due undeclared allergens in sausage - KPTV",
+          "Wisconsin DATCP issues public health alert due undeclared allergens in sausage - WCTV",
+          "Wisconsin DATCP issues public health alert due undeclared allergens in sausage - WMTV 15 NEWS"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "US",
+        "category": "Mental Health",
+        "score": 15,
+        "examples": [
+          "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF",
+          "Road closures from Moore Equity in Mental Health 5K hits DC Saturday - WTOP",
+          "Shinedown’s Eric Bass temporarily steps away from touring, cites ‘mental health crash’ - WBRC"
+        ]
+      },
+      {
+        "trend": "outbreak",
+        "market_code": "US",
+        "category": "Outbreaks",
+        "score": 15,
+        "examples": [
+          "EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 08, Data as of 05 July 2026 - WHO | Regional Office for Africa",
+          "Parasite Outbreak Sparks Health Warning - KITV",
+          "Cyclospora outbreak sickens 50 people in Florida, health officials say - WESH"
+        ]
+      },
+      {
+        "trend": "mental health",
+        "market_code": "US",
+        "category": "Mental Health",
+        "score": 14,
+        "examples": [
+          "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF",
+          "Road closures from Moore Equity in Mental Health 5K hits DC Saturday - WTOP",
+          "Shinedown’s Eric Bass temporarily steps away from touring, cites ‘mental health crash’ - WBRC"
         ]
       },
       {
@@ -20,53 +64,9 @@
         "category": "US Health",
         "score": 14,
         "examples": [
-          "Soldiers test key medical technologies, forge 'constellation of care' in the Philippines, beyond - army.mil",
-          "Class of 2030 begins medical journey at Wayne State School of Medicine White Coat Ceremony - Today@Wayne",
-          "Brookland fire department converts second squad truck for medical calls - K8 News | Jonesboro, Arkansas"
-        ]
-      },
-      {
-        "trend": "mental",
-        "market_code": "US",
-        "category": "Mental Health",
-        "score": 13,
-        "examples": [
-          "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF",
-          "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF",
-          "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF"
-        ]
-      },
-      {
-        "trend": "health alert",
-        "market_code": "US",
-        "category": "US Health",
-        "score": 13,
-        "examples": [
-          "Reservoir in Stanton County among those on Nebraska health alert - KTIV",
-          "Wisconsin health alert: Rackow Family Sausage bratwurst contains undeclared allergens - WKOW",
-          "Florida DOH issues toxic algae health alert for Lake Okeechobee - Treasure Coast News"
-        ]
-      },
-      {
-        "trend": "mental health",
-        "market_code": "US",
-        "category": "Mental Health",
-        "score": 12,
-        "examples": [
-          "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF",
-          "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF",
-          "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF"
-        ]
-      },
-      {
-        "trend": "outbreak",
-        "market_code": "US",
-        "category": "Outbreaks",
-        "score": 12,
-        "examples": [
-          "EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 08, Data as of 05 July 2026 - WHO | Regional Office for Africa",
-          "Parasite Outbreak Sparks Health Warning - KITV",
-          "Explosive Diarrhea Outbreak Continues to Grow as Authorities Race to Find Source - WSJ"
+          "These church members disagree on politics. Together they’re wiping out medical debt. - North Carolina Health News",
+          "Miam lawmakers target Cuban regime’s 'medical missions' with new sanctions push - WLRN",
+          "Soldiers test key medical technologies, forge 'constellation of care' in the Philippines, beyond - army.mil"
         ]
       },
       {
@@ -75,20 +75,9 @@
         "category": "US Health",
         "score": 10,
         "examples": [
+          "The 7 Healthy Habits That Can Improve Your Health in 30 Days - Hartford HealthCare",
           "Chutes & Ladders—Trump taps Klomp as HHS Deputy Secretary - Fierce Healthcare",
-          "German lawmakers approve healthcare shake-up aimed at taming costs - Reuters",
           "Health systems embrace technology firms' AI development lessons - Healthcare Finance News"
-        ]
-      },
-      {
-        "trend": "disease",
-        "market_code": "US",
-        "category": "US Health",
-        "score": 10,
-        "examples": [
-          "CDC’s Global Health Efforts Halt Rift Valley Fever - Centers for Disease Control and Prevention | CDC (.gov)",
-          "CDC’s Global Health Efforts Halt Rift Valley Fever - Centers for Disease Control and Prevention | CDC (.gov)",
-          "EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 08, Data as of 05 July 2026 - WHO | Regional Office for Africa"
         ]
       },
       {
@@ -103,32 +92,43 @@
         ]
       },
       {
+        "trend": "disease",
+        "market_code": "US",
+        "category": "US Health",
+        "score": 8,
+        "examples": [
+          "CDC’s Global Health Efforts Halt Rift Valley Fever - Centers for Disease Control and Prevention | CDC (.gov)",
+          "EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 08, Data as of 05 July 2026 - WHO | Regional Office for Africa",
+          "EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 08, Data as of 05 July 2026 - WHO | Regional Office for Africa"
+        ]
+      },
+      {
+        "trend": "health care",
+        "market_code": "US",
+        "category": "US Health",
+        "score": 8,
+        "examples": [
+          "Community-based mental health care strengthens Tri-Cities economy | Opinion - Tri-City Herald",
+          "Does Health Tech Actually Work? This Group Wants to Find Out. | Health Care | U.S. News - US News Health",
+          "UC San Diego establishes hub to accelerate the delivery of data-driven, equitable health care - News-Medical"
+        ]
+      },
+      {
+        "trend": "public health",
+        "market_code": "US",
+        "category": "US Health",
+        "score": 7,
+        "examples": [
+          "Wisconsin DATCP issues public health alert due undeclared allergens in sausage - KPTV",
+          "Wisconsin DATCP issues public health alert due undeclared allergens in sausage - WCTV",
+          "Wisconsin DATCP issues public health alert due undeclared allergens in sausage - WMTV 15 NEWS"
+        ]
+      },
+      {
         "trend": "nebraska health",
         "market_code": "US",
         "category": "US Health",
-        "score": 10,
-        "examples": [
-          "Reservoir in Stanton County among those on Nebraska health alert - KTIV",
-          "Reservoir in Stanton County among those on Nebraska health alert - AZ Family",
-          "Reservoir in Stanton County among those on Nebraska health alert - KTIV"
-        ]
-      },
-      {
-        "trend": "those nebraska health",
-        "market_code": "US",
-        "category": "US Health",
-        "score": 10,
-        "examples": [
-          "Reservoir in Stanton County among those on Nebraska health alert - KTIV",
-          "Reservoir in Stanton County among those on Nebraska health alert - AZ Family",
-          "Reservoir in Stanton County among those on Nebraska health alert - KTIV"
-        ]
-      },
-      {
-        "trend": "nebraska health alert",
-        "market_code": "US",
-        "category": "US Health",
-        "score": 10,
+        "score": 7,
         "examples": [
           "Reservoir in Stanton County among those on Nebraska health alert - KTIV",
           "Reservoir in Stanton County among those on Nebraska health alert - AZ Family",
@@ -141,66 +141,66 @@
         "trend": "health",
         "market_code": "GB",
         "category": "Europe Health",
-        "score": 69,
+        "score": 70,
         "examples": [
           "What’s really going on with mental health? - Financial Times",
-          "Haverigg Prison's weekend mental health care criticised - BBC",
-          "The benefits of physical activity at all stages of life for health - GOV.UK"
-        ]
-      },
-      {
-        "trend": "outbreak",
-        "market_code": "GB",
-        "category": "Outbreaks",
-        "score": 16,
-        "examples": [
-          "What to know about 'explosive diarrhoea' parasite outbreak in US - BBC",
-          "Legionnaires' outbreak hits New York as officials rush to test water towers - BBC",
-          "What to know about 'explosive diarrhoea' parasite outbreak in US - BBC"
-        ]
-      },
-      {
-        "trend": "healthcare",
-        "market_code": "GB",
-        "category": "Europe Health",
-        "score": 15,
-        "examples": [
-          "DW News. . The German parliament has agreed to a shake-up of Germany’s healthcare system aimed at saving billions of euros. But the opposition and many health professionals say patients will suffer. #dwgermanpolitics - facebook.com",
-          "Health tech round-up: June 2026 - Building Better Healthcare",
-          "Visiba Strengthens Position in Trusted AI Healthcare Infrastructure, as NHS Confirms National Rollout of AI Triage - Mynewsdesk"
+          "Brackley dance event has 'massive effect' on mental health - BBC",
+          "Haverigg Prison's weekend mental health care criticised - BBC"
         ]
       },
       {
         "trend": "mental",
         "market_code": "GB",
         "category": "Mental Health",
-        "score": 13,
+        "score": 14,
         "examples": [
           "What’s really going on with mental health? - Financial Times",
-          "Haverigg Prison's weekend mental health care criticised - BBC",
-          "What’s really going on with mental health? - Financial Times"
-        ]
-      },
-      {
-        "trend": "mental health",
-        "market_code": "GB",
-        "category": "Mental Health",
-        "score": 12,
-        "examples": [
-          "What’s really going on with mental health? - Financial Times",
-          "Haverigg Prison's weekend mental health care criticised - BBC",
-          "What’s really going on with mental health? - Financial Times"
+          "Brackley dance event has 'massive effect' on mental health - BBC",
+          "Haverigg Prison's weekend mental health care criticised - BBC"
         ]
       },
       {
         "trend": "medical",
         "market_code": "GB",
         "category": "Europe Health",
-        "score": 10,
+        "score": 14,
         "examples": [
+          "Futura Medical: US Eroxon deal and WSD4000 breakthrough - ICYMI - Proactive Investors",
           "Assisted suicide is not a medical treatment, says BMA - The Catholic Herald",
-          "Imperial’s Medical Biosciences BSc claims top ten place in six domains against Russell Group competitors, NSS 2026 results show - Imperial College London",
-          "US court sends medical glove dispute to arbitration - Global Arbitration Review"
+          "Imperial’s Medical Biosciences BSc claims top ten place in six domains against Russell Group competitors, NSS 2026 results show - Imperial College London"
+        ]
+      },
+      {
+        "trend": "outbreak",
+        "market_code": "GB",
+        "category": "Outbreaks",
+        "score": 14,
+        "examples": [
+          "What to know about 'explosive diarrhoea' parasite outbreak in US - BBC",
+          "Legionnaires' outbreak hits New York as officials rush to test water towers - BBC",
+          "Rare Crusted Scabies Outbreak Closes Hospital Ward in Wales - Pharmacy Business"
+        ]
+      },
+      {
+        "trend": "mental health",
+        "market_code": "GB",
+        "category": "Mental Health",
+        "score": 13,
+        "examples": [
+          "What’s really going on with mental health? - Financial Times",
+          "Brackley dance event has 'massive effect' on mental health - BBC",
+          "Haverigg Prison's weekend mental health care criticised - BBC"
+        ]
+      },
+      {
+        "trend": "healthcare",
+        "market_code": "GB",
+        "category": "Europe Health",
+        "score": 13,
+        "examples": [
+          "Health tech round-up: June 2026 - Building Better Healthcare",
+          "Visiba Strengthens Position in Trusted AI Healthcare Infrastructure, as NHS Confirms National Rollout of AI Triage - Mynewsdesk",
+          "Opinion | Private Equity's New AI Push Raises Old Questions for Healthcare - MedPage Today"
         ]
       },
       {
@@ -209,20 +209,9 @@
         "category": "Europe Health",
         "score": 9,
         "examples": [
-          "Health warning issued as London heatwave hits peak - London Evening Standard",
+          "Important open water warning issued as heatwave grips Wales - find out more - Penarth Times",
           "Pettit Reservoir in Silverton under health warning due to algae bloom - Statesman Journal",
           "Saudi Arabia issues summer travel health warning over Ebola, Hantavirus, Yellow Fever and flu - Arabian Business"
-        ]
-      },
-      {
-        "trend": "health care",
-        "market_code": "GB",
-        "category": "Europe Health",
-        "score": 8,
-        "examples": [
-          "Haverigg Prison's weekend mental health care criticised - BBC",
-          "Haverigg Prison's weekend mental health care criticised - BBC",
-          "Inquest jury finds failures in mental health care of 17 year old Lucy Curtis - inquest.org.uk"
         ]
       },
       {
@@ -232,8 +221,8 @@
         "score": 8,
         "examples": [
           "EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 08, Data as of 05 July 2026 - WHO | Regional Office for Africa",
-          "EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 08, Data as of 05 July 2026 - WHO | Regional Office for Africa",
-          "Multi-Country Bundibugyo Ebola Virus Disease Outbreak Situation Report No. 8 (29 June - 5 July 2026) - ReliefWeb"
+          "Investigating the social determinants of disease risk | EPIDEMIC Project | Results in Brief | H2020 - CORDIS",
+          "New heart disease and strokes plan to saves thousands of lives | NHS England - Wired-Gov"
         ]
       },
       {
@@ -242,31 +231,42 @@
         "category": "Europe Health",
         "score": 7,
         "examples": [
+          "Health alert: some Pedigree canned dog food could contain metal or plastic pieces - 607 News Now",
           "New heatwave likely to peak at 34C with week-long health alert issued - AOL.com",
-          "Reservoir in Stanton County among those on Nebraska health alert - FOX Carolina News",
-          "Reservoir in Stanton County among those on Nebraska health alert - WCTV"
+          "Reservoir in Stanton County among those on Nebraska health alert - FOX Carolina News"
         ]
       },
       {
-        "trend": "virus",
-        "market_code": "GB",
-        "category": "Outbreaks",
-        "score": 7,
-        "examples": [
-          "EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 08, Data as of 05 July 2026 - WHO | Regional Office for Africa",
-          "EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 08, Data as of 05 July 2026 - WHO | Regional Office for Africa",
-          "This common virus could trigger Alzheimer’s — here’s what experts are saying - Futura, le média qui explore le monde"
-        ]
-      },
-      {
-        "trend": "health warning",
+        "trend": "health care",
         "market_code": "GB",
         "category": "Europe Health",
         "score": 6,
         "examples": [
-          "Health warning issued as London heatwave hits peak - London Evening Standard",
-          "Pettit Reservoir in Silverton under health warning due to algae bloom - Statesman Journal",
-          "Saudi Arabia issues summer travel health warning over Ebola, Hantavirus, Yellow Fever and flu - Arabian Business"
+          "Haverigg Prison's weekend mental health care criticised - BBC",
+          "Haverigg Prison's weekend mental health care criticised - BBC",
+          "UC San Diego establishes hub to accelerate the delivery of data-driven, equitable health care - News-Medical"
+        ]
+      },
+      {
+        "trend": "treatment",
+        "market_code": "GB",
+        "category": "Drug & Treatment News",
+        "score": 6,
+        "examples": [
+          "AVAC: The new model for US global health partnerships - European AIDS Treatment Group",
+          "Assisted suicide is not a medical treatment, says BMA - The Catholic Herald",
+          "Health Ministry confirms availability of snakebite treatment protocols - Egypt Today"
+        ]
+      },
+      {
+        "trend": "public health",
+        "market_code": "GB",
+        "category": "Europe Health",
+        "score": 6,
+        "examples": [
+          "Unlocking school sports facilities could transform public health - Kilburn Times",
+          "Minister of Public Health chairs meeting on health and environmental situation - وكالة الأنباء الصحراوية",
+          "Nursing Times Awards 2025: Public Health Nursing winner and shortlist - Nursing Times"
         ]
       }
     ],
@@ -277,64 +277,64 @@
         "category": "Europe Health",
         "score": 86,
         "examples": [
+          "Mitch McConnell mystery deepens as health questions remain unanswered - The Guardian",
           "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF",
-          "What’s coming for state employees’ insurance in the coming year? Here are the details. - North Carolina Health News",
-          "Polk State celebrates 100% licensure pass rates for all Health Sciences and Nursing programs - Polk State College"
-        ]
-      },
-      {
-        "trend": "medical",
-        "market_code": "DE",
-        "category": "Europe Health",
-        "score": 14,
-        "examples": [
-          "Soldiers test key medical technologies, forge 'constellation of care' in the Philippines, beyond - army.mil",
-          "Class of 2030 begins medical journey at Wayne State School of Medicine White Coat Ceremony - Today@Wayne",
-          "Brookland fire department converts second squad truck for medical calls - K8 News | Jonesboro, Arkansas"
-        ]
-      },
-      {
-        "trend": "mental",
-        "market_code": "DE",
-        "category": "Mental Health",
-        "score": 13,
-        "examples": [
-          "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF",
-          "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF",
-          "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF"
+          "The 7 Healthy Habits That Can Improve Your Health in 30 Days - Hartford HealthCare"
         ]
       },
       {
         "trend": "health alert",
         "market_code": "DE",
         "category": "Europe Health",
-        "score": 13,
+        "score": 16,
         "examples": [
-          "Reservoir in Stanton County among those on Nebraska health alert - KTIV",
-          "Wisconsin health alert: Rackow Family Sausage bratwurst contains undeclared allergens - WKOW",
-          "Florida DOH issues toxic algae health alert for Lake Okeechobee - Treasure Coast News"
+          "Wisconsin DATCP issues public health alert due undeclared allergens in sausage - KPTV",
+          "Wisconsin DATCP issues public health alert due undeclared allergens in sausage - WCTV",
+          "Wisconsin DATCP issues public health alert due undeclared allergens in sausage - WMTV 15 NEWS"
         ]
       },
       {
-        "trend": "mental health",
+        "trend": "mental",
         "market_code": "DE",
         "category": "Mental Health",
-        "score": 12,
+        "score": 15,
         "examples": [
           "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF",
-          "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF",
-          "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF"
+          "Road closures from Moore Equity in Mental Health 5K hits DC Saturday - WTOP",
+          "Shinedown’s Eric Bass temporarily steps away from touring, cites ‘mental health crash’ - WBRC"
         ]
       },
       {
         "trend": "outbreak",
         "market_code": "DE",
         "category": "Outbreaks",
-        "score": 12,
+        "score": 15,
         "examples": [
           "EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 08, Data as of 05 July 2026 - WHO | Regional Office for Africa",
           "Parasite Outbreak Sparks Health Warning - KITV",
-          "Explosive Diarrhea Outbreak Continues to Grow as Authorities Race to Find Source - WSJ"
+          "Cyclospora outbreak sickens 50 people in Florida, health officials say - WESH"
+        ]
+      },
+      {
+        "trend": "mental health",
+        "market_code": "DE",
+        "category": "Mental Health",
+        "score": 14,
+        "examples": [
+          "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF",
+          "Road closures from Moore Equity in Mental Health 5K hits DC Saturday - WTOP",
+          "Shinedown’s Eric Bass temporarily steps away from touring, cites ‘mental health crash’ - WBRC"
+        ]
+      },
+      {
+        "trend": "medical",
+        "market_code": "DE",
+        "category": "Europe Health",
+        "score": 13,
+        "examples": [
+          "These church members disagree on politics. Together they’re wiping out medical debt. - North Carolina Health News",
+          "Miam lawmakers target Cuban regime’s 'medical missions' with new sanctions push - WLRN",
+          "Soldiers test key medical technologies, forge 'constellation of care' in the Philippines, beyond - army.mil"
         ]
       },
       {
@@ -343,20 +343,9 @@
         "category": "Europe Health",
         "score": 10,
         "examples": [
-          "German lawmakers approve healthcare shake-up aimed at taming costs - Reuters",
+          "The 7 Healthy Habits That Can Improve Your Health in 30 Days - Hartford HealthCare",
           "Chutes & Ladders—Trump taps Klomp as HHS Deputy Secretary - Fierce Healthcare",
           "Health systems embrace technology firms' AI development lessons - Healthcare Finance News"
-        ]
-      },
-      {
-        "trend": "disease",
-        "market_code": "DE",
-        "category": "Europe Health",
-        "score": 10,
-        "examples": [
-          "CDC’s Global Health Efforts Halt Rift Valley Fever - Centers for Disease Control and Prevention | CDC (.gov)",
-          "CDC’s Global Health Efforts Halt Rift Valley Fever - Centers for Disease Control and Prevention | CDC (.gov)",
-          "EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 08, Data as of 05 July 2026 - WHO | Regional Office for Africa"
         ]
       },
       {
@@ -371,10 +360,32 @@
         ]
       },
       {
+        "trend": "health care",
+        "market_code": "DE",
+        "category": "Europe Health",
+        "score": 8,
+        "examples": [
+          "Community-based mental health care strengthens Tri-Cities economy | Opinion - Tri-City Herald",
+          "Does Health Tech Actually Work? This Group Wants to Find Out. | Health Care | U.S. News - US News Health",
+          "UC San Diego establishes hub to accelerate the delivery of data-driven, equitable health care - News-Medical"
+        ]
+      },
+      {
+        "trend": "public health",
+        "market_code": "DE",
+        "category": "Europe Health",
+        "score": 7,
+        "examples": [
+          "Wisconsin DATCP issues public health alert due undeclared allergens in sausage - KPTV",
+          "Wisconsin DATCP issues public health alert due undeclared allergens in sausage - WCTV",
+          "Wisconsin DATCP issues public health alert due undeclared allergens in sausage - WMTV 15 NEWS"
+        ]
+      },
+      {
         "trend": "nebraska health",
         "market_code": "DE",
         "category": "Europe Health",
-        "score": 10,
+        "score": 7,
         "examples": [
           "Reservoir in Stanton County among those on Nebraska health alert - KTIV",
           "Reservoir in Stanton County among those on Nebraska health alert - AZ Family",
@@ -385,18 +396,7 @@
         "trend": "those nebraska health",
         "market_code": "DE",
         "category": "Europe Health",
-        "score": 10,
-        "examples": [
-          "Reservoir in Stanton County among those on Nebraska health alert - KTIV",
-          "Reservoir in Stanton County among those on Nebraska health alert - AZ Family",
-          "Reservoir in Stanton County among those on Nebraska health alert - KTIV"
-        ]
-      },
-      {
-        "trend": "nebraska health alert",
-        "market_code": "DE",
-        "category": "Europe Health",
-        "score": 10,
+        "score": 7,
         "examples": [
           "Reservoir in Stanton County among those on Nebraska health alert - KTIV",
           "Reservoir in Stanton County among those on Nebraska health alert - AZ Family",
@@ -411,64 +411,64 @@
         "category": "Europe Health",
         "score": 86,
         "examples": [
+          "Mitch McConnell mystery deepens as health questions remain unanswered - The Guardian",
           "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF",
-          "What’s coming for state employees’ insurance in the coming year? Here are the details. - North Carolina Health News",
-          "Polk State celebrates 100% licensure pass rates for all Health Sciences and Nursing programs - Polk State College"
-        ]
-      },
-      {
-        "trend": "medical",
-        "market_code": "FR",
-        "category": "Europe Health",
-        "score": 14,
-        "examples": [
-          "Soldiers test key medical technologies, forge 'constellation of care' in the Philippines, beyond - army.mil",
-          "Class of 2030 begins medical journey at Wayne State School of Medicine White Coat Ceremony - Today@Wayne",
-          "Brookland fire department converts second squad truck for medical calls - K8 News | Jonesboro, Arkansas"
-        ]
-      },
-      {
-        "trend": "mental",
-        "market_code": "FR",
-        "category": "Mental Health",
-        "score": 13,
-        "examples": [
-          "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF",
-          "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF",
-          "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF"
+          "The 7 Healthy Habits That Can Improve Your Health in 30 Days - Hartford HealthCare"
         ]
       },
       {
         "trend": "health alert",
         "market_code": "FR",
         "category": "Europe Health",
-        "score": 13,
+        "score": 16,
         "examples": [
-          "Reservoir in Stanton County among those on Nebraska health alert - KTIV",
-          "Wisconsin health alert: Rackow Family Sausage bratwurst contains undeclared allergens - WKOW",
-          "Florida DOH issues toxic algae health alert for Lake Okeechobee - Treasure Coast News"
+          "Wisconsin DATCP issues public health alert due undeclared allergens in sausage - KPTV",
+          "Wisconsin DATCP issues public health alert due undeclared allergens in sausage - WCTV",
+          "Wisconsin DATCP issues public health alert due undeclared allergens in sausage - WMTV 15 NEWS"
         ]
       },
       {
-        "trend": "mental health",
+        "trend": "mental",
         "market_code": "FR",
         "category": "Mental Health",
-        "score": 12,
+        "score": 15,
         "examples": [
           "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF",
-          "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF",
-          "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF"
+          "Road closures from Moore Equity in Mental Health 5K hits DC Saturday - WTOP",
+          "Shinedown’s Eric Bass temporarily steps away from touring, cites ‘mental health crash’ - WBRC"
         ]
       },
       {
         "trend": "outbreak",
         "market_code": "FR",
         "category": "Outbreaks",
-        "score": 12,
+        "score": 15,
         "examples": [
           "EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 08, Data as of 05 July 2026 - WHO | Regional Office for Africa",
           "Parasite Outbreak Sparks Health Warning - KITV",
-          "Explosive Diarrhea Outbreak Continues to Grow as Authorities Race to Find Source - WSJ"
+          "Cyclospora outbreak sickens 50 people in Florida, health officials say - WESH"
+        ]
+      },
+      {
+        "trend": "mental health",
+        "market_code": "FR",
+        "category": "Mental Health",
+        "score": 14,
+        "examples": [
+          "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF",
+          "Road closures from Moore Equity in Mental Health 5K hits DC Saturday - WTOP",
+          "Shinedown’s Eric Bass temporarily steps away from touring, cites ‘mental health crash’ - WBRC"
+        ]
+      },
+      {
+        "trend": "medical",
+        "market_code": "FR",
+        "category": "Europe Health",
+        "score": 13,
+        "examples": [
+          "These church members disagree on politics. Together they’re wiping out medical debt. - North Carolina Health News",
+          "Miam lawmakers target Cuban regime’s 'medical missions' with new sanctions push - WLRN",
+          "Soldiers test key medical technologies, forge 'constellation of care' in the Philippines, beyond - army.mil"
         ]
       },
       {
@@ -477,20 +477,9 @@
         "category": "Europe Health",
         "score": 10,
         "examples": [
-          "German lawmakers approve healthcare shake-up aimed at taming costs - Reuters",
+          "The 7 Healthy Habits That Can Improve Your Health in 30 Days - Hartford HealthCare",
           "Chutes & Ladders—Trump taps Klomp as HHS Deputy Secretary - Fierce Healthcare",
           "Health systems embrace technology firms' AI development lessons - Healthcare Finance News"
-        ]
-      },
-      {
-        "trend": "disease",
-        "market_code": "FR",
-        "category": "Europe Health",
-        "score": 10,
-        "examples": [
-          "CDC’s Global Health Efforts Halt Rift Valley Fever - Centers for Disease Control and Prevention | CDC (.gov)",
-          "CDC’s Global Health Efforts Halt Rift Valley Fever - Centers for Disease Control and Prevention | CDC (.gov)",
-          "EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 08, Data as of 05 July 2026 - WHO | Regional Office for Africa"
         ]
       },
       {
@@ -505,10 +494,32 @@
         ]
       },
       {
+        "trend": "health care",
+        "market_code": "FR",
+        "category": "Europe Health",
+        "score": 8,
+        "examples": [
+          "Community-based mental health care strengthens Tri-Cities economy | Opinion - Tri-City Herald",
+          "Does Health Tech Actually Work? This Group Wants to Find Out. | Health Care | U.S. News - US News Health",
+          "UC San Diego establishes hub to accelerate the delivery of data-driven, equitable health care - News-Medical"
+        ]
+      },
+      {
+        "trend": "public health",
+        "market_code": "FR",
+        "category": "Europe Health",
+        "score": 7,
+        "examples": [
+          "Wisconsin DATCP issues public health alert due undeclared allergens in sausage - KPTV",
+          "Wisconsin DATCP issues public health alert due undeclared allergens in sausage - WCTV",
+          "Wisconsin DATCP issues public health alert due undeclared allergens in sausage - WMTV 15 NEWS"
+        ]
+      },
+      {
         "trend": "nebraska health",
         "market_code": "FR",
         "category": "Europe Health",
-        "score": 10,
+        "score": 7,
         "examples": [
           "Reservoir in Stanton County among those on Nebraska health alert - KTIV",
           "Reservoir in Stanton County among those on Nebraska health alert - AZ Family",
@@ -519,18 +530,7 @@
         "trend": "those nebraska health",
         "market_code": "FR",
         "category": "Europe Health",
-        "score": 10,
-        "examples": [
-          "Reservoir in Stanton County among those on Nebraska health alert - KTIV",
-          "Reservoir in Stanton County among those on Nebraska health alert - AZ Family",
-          "Reservoir in Stanton County among those on Nebraska health alert - KTIV"
-        ]
-      },
-      {
-        "trend": "nebraska health alert",
-        "market_code": "FR",
-        "category": "Europe Health",
-        "score": 10,
+        "score": 7,
         "examples": [
           "Reservoir in Stanton County among those on Nebraska health alert - KTIV",
           "Reservoir in Stanton County among those on Nebraska health alert - AZ Family",
@@ -545,64 +545,64 @@
         "category": "Europe Health",
         "score": 86,
         "examples": [
+          "Mitch McConnell mystery deepens as health questions remain unanswered - The Guardian",
           "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF",
-          "What’s coming for state employees’ insurance in the coming year? Here are the details. - North Carolina Health News",
-          "Polk State celebrates 100% licensure pass rates for all Health Sciences and Nursing programs - Polk State College"
-        ]
-      },
-      {
-        "trend": "medical",
-        "market_code": "IT",
-        "category": "Europe Health",
-        "score": 14,
-        "examples": [
-          "Soldiers test key medical technologies, forge 'constellation of care' in the Philippines, beyond - army.mil",
-          "Class of 2030 begins medical journey at Wayne State School of Medicine White Coat Ceremony - Today@Wayne",
-          "Brookland fire department converts second squad truck for medical calls - K8 News | Jonesboro, Arkansas"
-        ]
-      },
-      {
-        "trend": "mental",
-        "market_code": "IT",
-        "category": "Mental Health",
-        "score": 13,
-        "examples": [
-          "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF",
-          "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF",
-          "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF"
+          "The 7 Healthy Habits That Can Improve Your Health in 30 Days - Hartford HealthCare"
         ]
       },
       {
         "trend": "health alert",
         "market_code": "IT",
         "category": "Europe Health",
-        "score": 13,
+        "score": 16,
         "examples": [
-          "Reservoir in Stanton County among those on Nebraska health alert - KTIV",
-          "Wisconsin health alert: Rackow Family Sausage bratwurst contains undeclared allergens - WKOW",
-          "Florida DOH issues toxic algae health alert for Lake Okeechobee - Treasure Coast News"
+          "Wisconsin DATCP issues public health alert due undeclared allergens in sausage - KPTV",
+          "Wisconsin DATCP issues public health alert due undeclared allergens in sausage - WCTV",
+          "Wisconsin DATCP issues public health alert due undeclared allergens in sausage - WMTV 15 NEWS"
         ]
       },
       {
-        "trend": "mental health",
+        "trend": "mental",
         "market_code": "IT",
         "category": "Mental Health",
-        "score": 12,
+        "score": 15,
         "examples": [
           "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF",
-          "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF",
-          "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF"
+          "Road closures from Moore Equity in Mental Health 5K hits DC Saturday - WTOP",
+          "Shinedown’s Eric Bass temporarily steps away from touring, cites ‘mental health crash’ - WBRC"
         ]
       },
       {
         "trend": "outbreak",
         "market_code": "IT",
         "category": "Outbreaks",
-        "score": 12,
+        "score": 15,
         "examples": [
           "EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 08, Data as of 05 July 2026 - WHO | Regional Office for Africa",
           "Parasite Outbreak Sparks Health Warning - KITV",
-          "Explosive Diarrhea Outbreak Continues to Grow as Authorities Race to Find Source - WSJ"
+          "Cyclospora outbreak sickens 50 people in Florida, health officials say - WESH"
+        ]
+      },
+      {
+        "trend": "mental health",
+        "market_code": "IT",
+        "category": "Mental Health",
+        "score": 14,
+        "examples": [
+          "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF",
+          "Road closures from Moore Equity in Mental Health 5K hits DC Saturday - WTOP",
+          "Shinedown’s Eric Bass temporarily steps away from touring, cites ‘mental health crash’ - WBRC"
+        ]
+      },
+      {
+        "trend": "medical",
+        "market_code": "IT",
+        "category": "Europe Health",
+        "score": 13,
+        "examples": [
+          "These church members disagree on politics. Together they’re wiping out medical debt. - North Carolina Health News",
+          "Miam lawmakers target Cuban regime’s 'medical missions' with new sanctions push - WLRN",
+          "Soldiers test key medical technologies, forge 'constellation of care' in the Philippines, beyond - army.mil"
         ]
       },
       {
@@ -611,20 +611,9 @@
         "category": "Europe Health",
         "score": 10,
         "examples": [
-          "German lawmakers approve healthcare shake-up aimed at taming costs - Reuters",
+          "The 7 Healthy Habits That Can Improve Your Health in 30 Days - Hartford HealthCare",
           "Chutes & Ladders—Trump taps Klomp as HHS Deputy Secretary - Fierce Healthcare",
           "Health systems embrace technology firms' AI development lessons - Healthcare Finance News"
-        ]
-      },
-      {
-        "trend": "disease",
-        "market_code": "IT",
-        "category": "Europe Health",
-        "score": 10,
-        "examples": [
-          "CDC’s Global Health Efforts Halt Rift Valley Fever - Centers for Disease Control and Prevention | CDC (.gov)",
-          "CDC’s Global Health Efforts Halt Rift Valley Fever - Centers for Disease Control and Prevention | CDC (.gov)",
-          "EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 08, Data as of 05 July 2026 - WHO | Regional Office for Africa"
         ]
       },
       {
@@ -639,10 +628,32 @@
         ]
       },
       {
+        "trend": "health care",
+        "market_code": "IT",
+        "category": "Europe Health",
+        "score": 8,
+        "examples": [
+          "Community-based mental health care strengthens Tri-Cities economy | Opinion - Tri-City Herald",
+          "Does Health Tech Actually Work? This Group Wants to Find Out. | Health Care | U.S. News - US News Health",
+          "UC San Diego establishes hub to accelerate the delivery of data-driven, equitable health care - News-Medical"
+        ]
+      },
+      {
+        "trend": "public health",
+        "market_code": "IT",
+        "category": "Europe Health",
+        "score": 7,
+        "examples": [
+          "Wisconsin DATCP issues public health alert due undeclared allergens in sausage - KPTV",
+          "Wisconsin DATCP issues public health alert due undeclared allergens in sausage - WCTV",
+          "Wisconsin DATCP issues public health alert due undeclared allergens in sausage - WMTV 15 NEWS"
+        ]
+      },
+      {
         "trend": "nebraska health",
         "market_code": "IT",
         "category": "Europe Health",
-        "score": 10,
+        "score": 7,
         "examples": [
           "Reservoir in Stanton County among those on Nebraska health alert - KTIV",
           "Reservoir in Stanton County among those on Nebraska health alert - AZ Family",
@@ -653,18 +664,7 @@
         "trend": "those nebraska health",
         "market_code": "IT",
         "category": "Europe Health",
-        "score": 10,
-        "examples": [
-          "Reservoir in Stanton County among those on Nebraska health alert - KTIV",
-          "Reservoir in Stanton County among those on Nebraska health alert - AZ Family",
-          "Reservoir in Stanton County among those on Nebraska health alert - KTIV"
-        ]
-      },
-      {
-        "trend": "nebraska health alert",
-        "market_code": "IT",
-        "category": "Europe Health",
-        "score": 10,
+        "score": 7,
         "examples": [
           "Reservoir in Stanton County among those on Nebraska health alert - KTIV",
           "Reservoir in Stanton County among those on Nebraska health alert - AZ Family",
@@ -679,64 +679,64 @@
         "category": "Europe Health",
         "score": 86,
         "examples": [
+          "Mitch McConnell mystery deepens as health questions remain unanswered - The Guardian",
           "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF",
-          "What’s coming for state employees’ insurance in the coming year? Here are the details. - North Carolina Health News",
-          "Polk State celebrates 100% licensure pass rates for all Health Sciences and Nursing programs - Polk State College"
-        ]
-      },
-      {
-        "trend": "medical",
-        "market_code": "ES",
-        "category": "Europe Health",
-        "score": 14,
-        "examples": [
-          "Soldiers test key medical technologies, forge 'constellation of care' in the Philippines, beyond - army.mil",
-          "Class of 2030 begins medical journey at Wayne State School of Medicine White Coat Ceremony - Today@Wayne",
-          "Brookland fire department converts second squad truck for medical calls - K8 News | Jonesboro, Arkansas"
-        ]
-      },
-      {
-        "trend": "mental",
-        "market_code": "ES",
-        "category": "Mental Health",
-        "score": 13,
-        "examples": [
-          "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF",
-          "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF",
-          "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF"
+          "The 7 Healthy Habits That Can Improve Your Health in 30 Days - Hartford HealthCare"
         ]
       },
       {
         "trend": "health alert",
         "market_code": "ES",
         "category": "Europe Health",
-        "score": 13,
+        "score": 16,
         "examples": [
-          "Reservoir in Stanton County among those on Nebraska health alert - KTIV",
-          "Wisconsin health alert: Rackow Family Sausage bratwurst contains undeclared allergens - WKOW",
-          "Florida DOH issues toxic algae health alert for Lake Okeechobee - Treasure Coast News"
+          "Wisconsin DATCP issues public health alert due undeclared allergens in sausage - KPTV",
+          "Wisconsin DATCP issues public health alert due undeclared allergens in sausage - WCTV",
+          "Wisconsin DATCP issues public health alert due undeclared allergens in sausage - WMTV 15 NEWS"
         ]
       },
       {
-        "trend": "mental health",
+        "trend": "mental",
         "market_code": "ES",
         "category": "Mental Health",
-        "score": 12,
+        "score": 15,
         "examples": [
           "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF",
-          "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF",
-          "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF"
+          "Road closures from Moore Equity in Mental Health 5K hits DC Saturday - WTOP",
+          "Shinedown’s Eric Bass temporarily steps away from touring, cites ‘mental health crash’ - WBRC"
         ]
       },
       {
         "trend": "outbreak",
         "market_code": "ES",
         "category": "Outbreaks",
-        "score": 12,
+        "score": 15,
         "examples": [
           "EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 08, Data as of 05 July 2026 - WHO | Regional Office for Africa",
           "Parasite Outbreak Sparks Health Warning - KITV",
-          "Explosive Diarrhea Outbreak Continues to Grow as Authorities Race to Find Source - WSJ"
+          "Cyclospora outbreak sickens 50 people in Florida, health officials say - WESH"
+        ]
+      },
+      {
+        "trend": "mental health",
+        "market_code": "ES",
+        "category": "Mental Health",
+        "score": 14,
+        "examples": [
+          "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF",
+          "Road closures from Moore Equity in Mental Health 5K hits DC Saturday - WTOP",
+          "Shinedown’s Eric Bass temporarily steps away from touring, cites ‘mental health crash’ - WBRC"
+        ]
+      },
+      {
+        "trend": "medical",
+        "market_code": "ES",
+        "category": "Europe Health",
+        "score": 13,
+        "examples": [
+          "These church members disagree on politics. Together they’re wiping out medical debt. - North Carolina Health News",
+          "Miam lawmakers target Cuban regime’s 'medical missions' with new sanctions push - WLRN",
+          "Soldiers test key medical technologies, forge 'constellation of care' in the Philippines, beyond - army.mil"
         ]
       },
       {
@@ -745,20 +745,9 @@
         "category": "Europe Health",
         "score": 10,
         "examples": [
-          "German lawmakers approve healthcare shake-up aimed at taming costs - Reuters",
+          "The 7 Healthy Habits That Can Improve Your Health in 30 Days - Hartford HealthCare",
           "Chutes & Ladders—Trump taps Klomp as HHS Deputy Secretary - Fierce Healthcare",
           "Health systems embrace technology firms' AI development lessons - Healthcare Finance News"
-        ]
-      },
-      {
-        "trend": "disease",
-        "market_code": "ES",
-        "category": "Europe Health",
-        "score": 10,
-        "examples": [
-          "CDC’s Global Health Efforts Halt Rift Valley Fever - Centers for Disease Control and Prevention | CDC (.gov)",
-          "CDC’s Global Health Efforts Halt Rift Valley Fever - Centers for Disease Control and Prevention | CDC (.gov)",
-          "EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 08, Data as of 05 July 2026 - WHO | Regional Office for Africa"
         ]
       },
       {
@@ -773,10 +762,32 @@
         ]
       },
       {
+        "trend": "health care",
+        "market_code": "ES",
+        "category": "Europe Health",
+        "score": 8,
+        "examples": [
+          "Community-based mental health care strengthens Tri-Cities economy | Opinion - Tri-City Herald",
+          "Does Health Tech Actually Work? This Group Wants to Find Out. | Health Care | U.S. News - US News Health",
+          "UC San Diego establishes hub to accelerate the delivery of data-driven, equitable health care - News-Medical"
+        ]
+      },
+      {
+        "trend": "public health",
+        "market_code": "ES",
+        "category": "Europe Health",
+        "score": 7,
+        "examples": [
+          "Wisconsin DATCP issues public health alert due undeclared allergens in sausage - KPTV",
+          "Wisconsin DATCP issues public health alert due undeclared allergens in sausage - WCTV",
+          "Wisconsin DATCP issues public health alert due undeclared allergens in sausage - WMTV 15 NEWS"
+        ]
+      },
+      {
         "trend": "nebraska health",
         "market_code": "ES",
         "category": "Europe Health",
-        "score": 10,
+        "score": 7,
         "examples": [
           "Reservoir in Stanton County among those on Nebraska health alert - KTIV",
           "Reservoir in Stanton County among those on Nebraska health alert - AZ Family",
@@ -787,18 +798,7 @@
         "trend": "those nebraska health",
         "market_code": "ES",
         "category": "Europe Health",
-        "score": 10,
-        "examples": [
-          "Reservoir in Stanton County among those on Nebraska health alert - KTIV",
-          "Reservoir in Stanton County among those on Nebraska health alert - AZ Family",
-          "Reservoir in Stanton County among those on Nebraska health alert - KTIV"
-        ]
-      },
-      {
-        "trend": "nebraska health alert",
-        "market_code": "ES",
-        "category": "Europe Health",
-        "score": 10,
+        "score": 7,
         "examples": [
           "Reservoir in Stanton County among those on Nebraska health alert - KTIV",
           "Reservoir in Stanton County among those on Nebraska health alert - AZ Family",
@@ -813,64 +813,64 @@
         "category": "Europe Health",
         "score": 86,
         "examples": [
+          "Mitch McConnell mystery deepens as health questions remain unanswered - The Guardian",
           "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF",
-          "What’s coming for state employees’ insurance in the coming year? Here are the details. - North Carolina Health News",
-          "Polk State celebrates 100% licensure pass rates for all Health Sciences and Nursing programs - Polk State College"
-        ]
-      },
-      {
-        "trend": "medical",
-        "market_code": "SE",
-        "category": "Europe Health",
-        "score": 14,
-        "examples": [
-          "Soldiers test key medical technologies, forge 'constellation of care' in the Philippines, beyond - army.mil",
-          "Class of 2030 begins medical journey at Wayne State School of Medicine White Coat Ceremony - Today@Wayne",
-          "Brookland fire department converts second squad truck for medical calls - K8 News | Jonesboro, Arkansas"
-        ]
-      },
-      {
-        "trend": "mental",
-        "market_code": "SE",
-        "category": "Mental Health",
-        "score": 13,
-        "examples": [
-          "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF",
-          "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF",
-          "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF"
+          "The 7 Healthy Habits That Can Improve Your Health in 30 Days - Hartford HealthCare"
         ]
       },
       {
         "trend": "health alert",
         "market_code": "SE",
         "category": "Europe Health",
-        "score": 13,
+        "score": 16,
         "examples": [
-          "Reservoir in Stanton County among those on Nebraska health alert - KTIV",
-          "Wisconsin health alert: Rackow Family Sausage bratwurst contains undeclared allergens - WKOW",
-          "Florida DOH issues toxic algae health alert for Lake Okeechobee - Treasure Coast News"
+          "Wisconsin DATCP issues public health alert due undeclared allergens in sausage - KPTV",
+          "Wisconsin DATCP issues public health alert due undeclared allergens in sausage - WCTV",
+          "Wisconsin DATCP issues public health alert due undeclared allergens in sausage - WMTV 15 NEWS"
         ]
       },
       {
-        "trend": "mental health",
+        "trend": "mental",
         "market_code": "SE",
         "category": "Mental Health",
-        "score": 12,
+        "score": 15,
         "examples": [
           "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF",
-          "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF",
-          "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF"
+          "Road closures from Moore Equity in Mental Health 5K hits DC Saturday - WTOP",
+          "Shinedown’s Eric Bass temporarily steps away from touring, cites ‘mental health crash’ - WBRC"
         ]
       },
       {
         "trend": "outbreak",
         "market_code": "SE",
         "category": "Outbreaks",
-        "score": 12,
+        "score": 15,
         "examples": [
           "EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 08, Data as of 05 July 2026 - WHO | Regional Office for Africa",
           "Parasite Outbreak Sparks Health Warning - KITV",
-          "Explosive Diarrhea Outbreak Continues to Grow as Authorities Race to Find Source - WSJ"
+          "Cyclospora outbreak sickens 50 people in Florida, health officials say - WESH"
+        ]
+      },
+      {
+        "trend": "mental health",
+        "market_code": "SE",
+        "category": "Mental Health",
+        "score": 14,
+        "examples": [
+          "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF",
+          "Road closures from Moore Equity in Mental Health 5K hits DC Saturday - WTOP",
+          "Shinedown’s Eric Bass temporarily steps away from touring, cites ‘mental health crash’ - WBRC"
+        ]
+      },
+      {
+        "trend": "medical",
+        "market_code": "SE",
+        "category": "Europe Health",
+        "score": 13,
+        "examples": [
+          "These church members disagree on politics. Together they’re wiping out medical debt. - North Carolina Health News",
+          "Miam lawmakers target Cuban regime’s 'medical missions' with new sanctions push - WLRN",
+          "Soldiers test key medical technologies, forge 'constellation of care' in the Philippines, beyond - army.mil"
         ]
       },
       {
@@ -879,20 +879,9 @@
         "category": "Europe Health",
         "score": 10,
         "examples": [
-          "German lawmakers approve healthcare shake-up aimed at taming costs - Reuters",
+          "The 7 Healthy Habits That Can Improve Your Health in 30 Days - Hartford HealthCare",
           "Chutes & Ladders—Trump taps Klomp as HHS Deputy Secretary - Fierce Healthcare",
           "Health systems embrace technology firms' AI development lessons - Healthcare Finance News"
-        ]
-      },
-      {
-        "trend": "disease",
-        "market_code": "SE",
-        "category": "Europe Health",
-        "score": 10,
-        "examples": [
-          "CDC’s Global Health Efforts Halt Rift Valley Fever - Centers for Disease Control and Prevention | CDC (.gov)",
-          "CDC’s Global Health Efforts Halt Rift Valley Fever - Centers for Disease Control and Prevention | CDC (.gov)",
-          "EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 08, Data as of 05 July 2026 - WHO | Regional Office for Africa"
         ]
       },
       {
@@ -907,10 +896,32 @@
         ]
       },
       {
+        "trend": "health care",
+        "market_code": "SE",
+        "category": "Europe Health",
+        "score": 8,
+        "examples": [
+          "Community-based mental health care strengthens Tri-Cities economy | Opinion - Tri-City Herald",
+          "Does Health Tech Actually Work? This Group Wants to Find Out. | Health Care | U.S. News - US News Health",
+          "UC San Diego establishes hub to accelerate the delivery of data-driven, equitable health care - News-Medical"
+        ]
+      },
+      {
+        "trend": "public health",
+        "market_code": "SE",
+        "category": "Europe Health",
+        "score": 7,
+        "examples": [
+          "Wisconsin DATCP issues public health alert due undeclared allergens in sausage - KPTV",
+          "Wisconsin DATCP issues public health alert due undeclared allergens in sausage - WCTV",
+          "Wisconsin DATCP issues public health alert due undeclared allergens in sausage - WMTV 15 NEWS"
+        ]
+      },
+      {
         "trend": "nebraska health",
         "market_code": "SE",
         "category": "Europe Health",
-        "score": 10,
+        "score": 7,
         "examples": [
           "Reservoir in Stanton County among those on Nebraska health alert - KTIV",
           "Reservoir in Stanton County among those on Nebraska health alert - AZ Family",
@@ -921,18 +932,7 @@
         "trend": "those nebraska health",
         "market_code": "SE",
         "category": "Europe Health",
-        "score": 10,
-        "examples": [
-          "Reservoir in Stanton County among those on Nebraska health alert - KTIV",
-          "Reservoir in Stanton County among those on Nebraska health alert - AZ Family",
-          "Reservoir in Stanton County among those on Nebraska health alert - KTIV"
-        ]
-      },
-      {
-        "trend": "nebraska health alert",
-        "market_code": "SE",
-        "category": "Europe Health",
-        "score": 10,
+        "score": 7,
         "examples": [
           "Reservoir in Stanton County among those on Nebraska health alert - KTIV",
           "Reservoir in Stanton County among those on Nebraska health alert - AZ Family",
@@ -947,64 +947,64 @@
         "category": "Europe Health",
         "score": 86,
         "examples": [
+          "Mitch McConnell mystery deepens as health questions remain unanswered - The Guardian",
           "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF",
-          "What’s coming for state employees’ insurance in the coming year? Here are the details. - North Carolina Health News",
-          "Polk State celebrates 100% licensure pass rates for all Health Sciences and Nursing programs - Polk State College"
-        ]
-      },
-      {
-        "trend": "medical",
-        "market_code": "NL",
-        "category": "Europe Health",
-        "score": 14,
-        "examples": [
-          "Soldiers test key medical technologies, forge 'constellation of care' in the Philippines, beyond - army.mil",
-          "Class of 2030 begins medical journey at Wayne State School of Medicine White Coat Ceremony - Today@Wayne",
-          "Brookland fire department converts second squad truck for medical calls - K8 News | Jonesboro, Arkansas"
-        ]
-      },
-      {
-        "trend": "mental",
-        "market_code": "NL",
-        "category": "Mental Health",
-        "score": 13,
-        "examples": [
-          "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF",
-          "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF",
-          "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF"
+          "The 7 Healthy Habits That Can Improve Your Health in 30 Days - Hartford HealthCare"
         ]
       },
       {
         "trend": "health alert",
         "market_code": "NL",
         "category": "Europe Health",
-        "score": 13,
+        "score": 16,
         "examples": [
-          "Reservoir in Stanton County among those on Nebraska health alert - KTIV",
-          "Wisconsin health alert: Rackow Family Sausage bratwurst contains undeclared allergens - WKOW",
-          "Florida DOH issues toxic algae health alert for Lake Okeechobee - Treasure Coast News"
+          "Wisconsin DATCP issues public health alert due undeclared allergens in sausage - KPTV",
+          "Wisconsin DATCP issues public health alert due undeclared allergens in sausage - WCTV",
+          "Wisconsin DATCP issues public health alert due undeclared allergens in sausage - WMTV 15 NEWS"
         ]
       },
       {
-        "trend": "mental health",
+        "trend": "mental",
         "market_code": "NL",
         "category": "Mental Health",
-        "score": 12,
+        "score": 15,
         "examples": [
           "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF",
-          "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF",
-          "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF"
+          "Road closures from Moore Equity in Mental Health 5K hits DC Saturday - WTOP",
+          "Shinedown’s Eric Bass temporarily steps away from touring, cites ‘mental health crash’ - WBRC"
         ]
       },
       {
         "trend": "outbreak",
         "market_code": "NL",
         "category": "Outbreaks",
-        "score": 12,
+        "score": 15,
         "examples": [
           "EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 08, Data as of 05 July 2026 - WHO | Regional Office for Africa",
           "Parasite Outbreak Sparks Health Warning - KITV",
-          "Explosive Diarrhea Outbreak Continues to Grow as Authorities Race to Find Source - WSJ"
+          "Cyclospora outbreak sickens 50 people in Florida, health officials say - WESH"
+        ]
+      },
+      {
+        "trend": "mental health",
+        "market_code": "NL",
+        "category": "Mental Health",
+        "score": 14,
+        "examples": [
+          "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF",
+          "Road closures from Moore Equity in Mental Health 5K hits DC Saturday - WTOP",
+          "Shinedown’s Eric Bass temporarily steps away from touring, cites ‘mental health crash’ - WBRC"
+        ]
+      },
+      {
+        "trend": "medical",
+        "market_code": "NL",
+        "category": "Europe Health",
+        "score": 13,
+        "examples": [
+          "These church members disagree on politics. Together they’re wiping out medical debt. - North Carolina Health News",
+          "Miam lawmakers target Cuban regime’s 'medical missions' with new sanctions push - WLRN",
+          "Soldiers test key medical technologies, forge 'constellation of care' in the Philippines, beyond - army.mil"
         ]
       },
       {
@@ -1013,20 +1013,9 @@
         "category": "Europe Health",
         "score": 10,
         "examples": [
-          "German lawmakers approve healthcare shake-up aimed at taming costs - Reuters",
+          "The 7 Healthy Habits That Can Improve Your Health in 30 Days - Hartford HealthCare",
           "Chutes & Ladders—Trump taps Klomp as HHS Deputy Secretary - Fierce Healthcare",
           "Health systems embrace technology firms' AI development lessons - Healthcare Finance News"
-        ]
-      },
-      {
-        "trend": "disease",
-        "market_code": "NL",
-        "category": "Europe Health",
-        "score": 10,
-        "examples": [
-          "CDC’s Global Health Efforts Halt Rift Valley Fever - Centers for Disease Control and Prevention | CDC (.gov)",
-          "CDC’s Global Health Efforts Halt Rift Valley Fever - Centers for Disease Control and Prevention | CDC (.gov)",
-          "EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 08, Data as of 05 July 2026 - WHO | Regional Office for Africa"
         ]
       },
       {
@@ -1041,10 +1030,32 @@
         ]
       },
       {
+        "trend": "health care",
+        "market_code": "NL",
+        "category": "Europe Health",
+        "score": 8,
+        "examples": [
+          "Community-based mental health care strengthens Tri-Cities economy | Opinion - Tri-City Herald",
+          "Does Health Tech Actually Work? This Group Wants to Find Out. | Health Care | U.S. News - US News Health",
+          "UC San Diego establishes hub to accelerate the delivery of data-driven, equitable health care - News-Medical"
+        ]
+      },
+      {
+        "trend": "public health",
+        "market_code": "NL",
+        "category": "Europe Health",
+        "score": 7,
+        "examples": [
+          "Wisconsin DATCP issues public health alert due undeclared allergens in sausage - KPTV",
+          "Wisconsin DATCP issues public health alert due undeclared allergens in sausage - WCTV",
+          "Wisconsin DATCP issues public health alert due undeclared allergens in sausage - WMTV 15 NEWS"
+        ]
+      },
+      {
         "trend": "nebraska health",
         "market_code": "NL",
         "category": "Europe Health",
-        "score": 10,
+        "score": 7,
         "examples": [
           "Reservoir in Stanton County among those on Nebraska health alert - KTIV",
           "Reservoir in Stanton County among those on Nebraska health alert - AZ Family",
@@ -1055,18 +1066,7 @@
         "trend": "those nebraska health",
         "market_code": "NL",
         "category": "Europe Health",
-        "score": 10,
-        "examples": [
-          "Reservoir in Stanton County among those on Nebraska health alert - KTIV",
-          "Reservoir in Stanton County among those on Nebraska health alert - AZ Family",
-          "Reservoir in Stanton County among those on Nebraska health alert - KTIV"
-        ]
-      },
-      {
-        "trend": "nebraska health alert",
-        "market_code": "NL",
-        "category": "Europe Health",
-        "score": 10,
+        "score": 7,
         "examples": [
           "Reservoir in Stanton County among those on Nebraska health alert - KTIV",
           "Reservoir in Stanton County among those on Nebraska health alert - AZ Family",
@@ -1081,64 +1081,64 @@
         "category": "Europe Health",
         "score": 86,
         "examples": [
+          "Mitch McConnell mystery deepens as health questions remain unanswered - The Guardian",
           "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF",
-          "What’s coming for state employees’ insurance in the coming year? Here are the details. - North Carolina Health News",
-          "Polk State celebrates 100% licensure pass rates for all Health Sciences and Nursing programs - Polk State College"
-        ]
-      },
-      {
-        "trend": "medical",
-        "market_code": "FI",
-        "category": "Europe Health",
-        "score": 14,
-        "examples": [
-          "Soldiers test key medical technologies, forge 'constellation of care' in the Philippines, beyond - army.mil",
-          "Class of 2030 begins medical journey at Wayne State School of Medicine White Coat Ceremony - Today@Wayne",
-          "Brookland fire department converts second squad truck for medical calls - K8 News | Jonesboro, Arkansas"
-        ]
-      },
-      {
-        "trend": "mental",
-        "market_code": "FI",
-        "category": "Mental Health",
-        "score": 13,
-        "examples": [
-          "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF",
-          "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF",
-          "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF"
+          "The 7 Healthy Habits That Can Improve Your Health in 30 Days - Hartford HealthCare"
         ]
       },
       {
         "trend": "health alert",
         "market_code": "FI",
         "category": "Europe Health",
-        "score": 13,
+        "score": 16,
         "examples": [
-          "Reservoir in Stanton County among those on Nebraska health alert - KTIV",
-          "Wisconsin health alert: Rackow Family Sausage bratwurst contains undeclared allergens - WKOW",
-          "Florida DOH issues toxic algae health alert for Lake Okeechobee - Treasure Coast News"
+          "Wisconsin DATCP issues public health alert due undeclared allergens in sausage - KPTV",
+          "Wisconsin DATCP issues public health alert due undeclared allergens in sausage - WCTV",
+          "Wisconsin DATCP issues public health alert due undeclared allergens in sausage - WMTV 15 NEWS"
         ]
       },
       {
-        "trend": "mental health",
+        "trend": "mental",
         "market_code": "FI",
         "category": "Mental Health",
-        "score": 12,
+        "score": 15,
         "examples": [
           "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF",
-          "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF",
-          "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF"
+          "Road closures from Moore Equity in Mental Health 5K hits DC Saturday - WTOP",
+          "Shinedown’s Eric Bass temporarily steps away from touring, cites ‘mental health crash’ - WBRC"
         ]
       },
       {
         "trend": "outbreak",
         "market_code": "FI",
         "category": "Outbreaks",
-        "score": 12,
+        "score": 15,
         "examples": [
           "EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 08, Data as of 05 July 2026 - WHO | Regional Office for Africa",
           "Parasite Outbreak Sparks Health Warning - KITV",
-          "Explosive Diarrhea Outbreak Continues to Grow as Authorities Race to Find Source - WSJ"
+          "Cyclospora outbreak sickens 50 people in Florida, health officials say - WESH"
+        ]
+      },
+      {
+        "trend": "mental health",
+        "market_code": "FI",
+        "category": "Mental Health",
+        "score": 14,
+        "examples": [
+          "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF",
+          "Road closures from Moore Equity in Mental Health 5K hits DC Saturday - WTOP",
+          "Shinedown’s Eric Bass temporarily steps away from touring, cites ‘mental health crash’ - WBRC"
+        ]
+      },
+      {
+        "trend": "medical",
+        "market_code": "FI",
+        "category": "Europe Health",
+        "score": 13,
+        "examples": [
+          "These church members disagree on politics. Together they’re wiping out medical debt. - North Carolina Health News",
+          "Miam lawmakers target Cuban regime’s 'medical missions' with new sanctions push - WLRN",
+          "Soldiers test key medical technologies, forge 'constellation of care' in the Philippines, beyond - army.mil"
         ]
       },
       {
@@ -1147,20 +1147,9 @@
         "category": "Europe Health",
         "score": 10,
         "examples": [
-          "German lawmakers approve healthcare shake-up aimed at taming costs - Reuters",
+          "The 7 Healthy Habits That Can Improve Your Health in 30 Days - Hartford HealthCare",
           "Chutes & Ladders—Trump taps Klomp as HHS Deputy Secretary - Fierce Healthcare",
           "Health systems embrace technology firms' AI development lessons - Healthcare Finance News"
-        ]
-      },
-      {
-        "trend": "disease",
-        "market_code": "FI",
-        "category": "Europe Health",
-        "score": 10,
-        "examples": [
-          "CDC’s Global Health Efforts Halt Rift Valley Fever - Centers for Disease Control and Prevention | CDC (.gov)",
-          "CDC’s Global Health Efforts Halt Rift Valley Fever - Centers for Disease Control and Prevention | CDC (.gov)",
-          "EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 08, Data as of 05 July 2026 - WHO | Regional Office for Africa"
         ]
       },
       {
@@ -1175,10 +1164,32 @@
         ]
       },
       {
+        "trend": "health care",
+        "market_code": "FI",
+        "category": "Europe Health",
+        "score": 8,
+        "examples": [
+          "Community-based mental health care strengthens Tri-Cities economy | Opinion - Tri-City Herald",
+          "Does Health Tech Actually Work? This Group Wants to Find Out. | Health Care | U.S. News - US News Health",
+          "UC San Diego establishes hub to accelerate the delivery of data-driven, equitable health care - News-Medical"
+        ]
+      },
+      {
+        "trend": "public health",
+        "market_code": "FI",
+        "category": "Europe Health",
+        "score": 7,
+        "examples": [
+          "Wisconsin DATCP issues public health alert due undeclared allergens in sausage - KPTV",
+          "Wisconsin DATCP issues public health alert due undeclared allergens in sausage - WCTV",
+          "Wisconsin DATCP issues public health alert due undeclared allergens in sausage - WMTV 15 NEWS"
+        ]
+      },
+      {
         "trend": "nebraska health",
         "market_code": "FI",
         "category": "Europe Health",
-        "score": 10,
+        "score": 7,
         "examples": [
           "Reservoir in Stanton County among those on Nebraska health alert - KTIV",
           "Reservoir in Stanton County among those on Nebraska health alert - AZ Family",
@@ -1189,18 +1200,7 @@
         "trend": "those nebraska health",
         "market_code": "FI",
         "category": "Europe Health",
-        "score": 10,
-        "examples": [
-          "Reservoir in Stanton County among those on Nebraska health alert - KTIV",
-          "Reservoir in Stanton County among those on Nebraska health alert - AZ Family",
-          "Reservoir in Stanton County among those on Nebraska health alert - KTIV"
-        ]
-      },
-      {
-        "trend": "nebraska health alert",
-        "market_code": "FI",
-        "category": "Europe Health",
-        "score": 10,
+        "score": 7,
         "examples": [
           "Reservoir in Stanton County among those on Nebraska health alert - KTIV",
           "Reservoir in Stanton County among those on Nebraska health alert - AZ Family",
@@ -1215,64 +1215,64 @@
         "category": "Europe Health",
         "score": 86,
         "examples": [
+          "Mitch McConnell mystery deepens as health questions remain unanswered - The Guardian",
           "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF",
-          "What’s coming for state employees’ insurance in the coming year? Here are the details. - North Carolina Health News",
-          "Polk State celebrates 100% licensure pass rates for all Health Sciences and Nursing programs - Polk State College"
-        ]
-      },
-      {
-        "trend": "medical",
-        "market_code": "NO",
-        "category": "Europe Health",
-        "score": 14,
-        "examples": [
-          "Soldiers test key medical technologies, forge 'constellation of care' in the Philippines, beyond - army.mil",
-          "Class of 2030 begins medical journey at Wayne State School of Medicine White Coat Ceremony - Today@Wayne",
-          "Brookland fire department converts second squad truck for medical calls - K8 News | Jonesboro, Arkansas"
-        ]
-      },
-      {
-        "trend": "mental",
-        "market_code": "NO",
-        "category": "Mental Health",
-        "score": 13,
-        "examples": [
-          "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF",
-          "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF",
-          "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF"
+          "The 7 Healthy Habits That Can Improve Your Health in 30 Days - Hartford HealthCare"
         ]
       },
       {
         "trend": "health alert",
         "market_code": "NO",
         "category": "Europe Health",
-        "score": 13,
+        "score": 16,
         "examples": [
-          "Reservoir in Stanton County among those on Nebraska health alert - KTIV",
-          "Wisconsin health alert: Rackow Family Sausage bratwurst contains undeclared allergens - WKOW",
-          "Florida DOH issues toxic algae health alert for Lake Okeechobee - Treasure Coast News"
+          "Wisconsin DATCP issues public health alert due undeclared allergens in sausage - KPTV",
+          "Wisconsin DATCP issues public health alert due undeclared allergens in sausage - WCTV",
+          "Wisconsin DATCP issues public health alert due undeclared allergens in sausage - WMTV 15 NEWS"
         ]
       },
       {
-        "trend": "mental health",
+        "trend": "mental",
         "market_code": "NO",
         "category": "Mental Health",
-        "score": 12,
+        "score": 15,
         "examples": [
           "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF",
-          "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF",
-          "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF"
+          "Road closures from Moore Equity in Mental Health 5K hits DC Saturday - WTOP",
+          "Shinedown’s Eric Bass temporarily steps away from touring, cites ‘mental health crash’ - WBRC"
         ]
       },
       {
         "trend": "outbreak",
         "market_code": "NO",
         "category": "Outbreaks",
-        "score": 12,
+        "score": 15,
         "examples": [
           "EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 08, Data as of 05 July 2026 - WHO | Regional Office for Africa",
           "Parasite Outbreak Sparks Health Warning - KITV",
-          "Explosive Diarrhea Outbreak Continues to Grow as Authorities Race to Find Source - WSJ"
+          "Cyclospora outbreak sickens 50 people in Florida, health officials say - WESH"
+        ]
+      },
+      {
+        "trend": "mental health",
+        "market_code": "NO",
+        "category": "Mental Health",
+        "score": 14,
+        "examples": [
+          "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF",
+          "Road closures from Moore Equity in Mental Health 5K hits DC Saturday - WTOP",
+          "Shinedown’s Eric Bass temporarily steps away from touring, cites ‘mental health crash’ - WBRC"
+        ]
+      },
+      {
+        "trend": "medical",
+        "market_code": "NO",
+        "category": "Europe Health",
+        "score": 13,
+        "examples": [
+          "These church members disagree on politics. Together they’re wiping out medical debt. - North Carolina Health News",
+          "Miam lawmakers target Cuban regime’s 'medical missions' with new sanctions push - WLRN",
+          "Soldiers test key medical technologies, forge 'constellation of care' in the Philippines, beyond - army.mil"
         ]
       },
       {
@@ -1281,20 +1281,9 @@
         "category": "Europe Health",
         "score": 10,
         "examples": [
-          "German lawmakers approve healthcare shake-up aimed at taming costs - Reuters",
+          "The 7 Healthy Habits That Can Improve Your Health in 30 Days - Hartford HealthCare",
           "Chutes & Ladders—Trump taps Klomp as HHS Deputy Secretary - Fierce Healthcare",
           "Health systems embrace technology firms' AI development lessons - Healthcare Finance News"
-        ]
-      },
-      {
-        "trend": "disease",
-        "market_code": "NO",
-        "category": "Europe Health",
-        "score": 10,
-        "examples": [
-          "CDC’s Global Health Efforts Halt Rift Valley Fever - Centers for Disease Control and Prevention | CDC (.gov)",
-          "CDC’s Global Health Efforts Halt Rift Valley Fever - Centers for Disease Control and Prevention | CDC (.gov)",
-          "EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 08, Data as of 05 July 2026 - WHO | Regional Office for Africa"
         ]
       },
       {
@@ -1309,10 +1298,32 @@
         ]
       },
       {
+        "trend": "health care",
+        "market_code": "NO",
+        "category": "Europe Health",
+        "score": 8,
+        "examples": [
+          "Community-based mental health care strengthens Tri-Cities economy | Opinion - Tri-City Herald",
+          "Does Health Tech Actually Work? This Group Wants to Find Out. | Health Care | U.S. News - US News Health",
+          "UC San Diego establishes hub to accelerate the delivery of data-driven, equitable health care - News-Medical"
+        ]
+      },
+      {
+        "trend": "public health",
+        "market_code": "NO",
+        "category": "Europe Health",
+        "score": 7,
+        "examples": [
+          "Wisconsin DATCP issues public health alert due undeclared allergens in sausage - KPTV",
+          "Wisconsin DATCP issues public health alert due undeclared allergens in sausage - WCTV",
+          "Wisconsin DATCP issues public health alert due undeclared allergens in sausage - WMTV 15 NEWS"
+        ]
+      },
+      {
         "trend": "nebraska health",
         "market_code": "NO",
         "category": "Europe Health",
-        "score": 10,
+        "score": 7,
         "examples": [
           "Reservoir in Stanton County among those on Nebraska health alert - KTIV",
           "Reservoir in Stanton County among those on Nebraska health alert - AZ Family",
@@ -1323,18 +1334,7 @@
         "trend": "those nebraska health",
         "market_code": "NO",
         "category": "Europe Health",
-        "score": 10,
-        "examples": [
-          "Reservoir in Stanton County among those on Nebraska health alert - KTIV",
-          "Reservoir in Stanton County among those on Nebraska health alert - AZ Family",
-          "Reservoir in Stanton County among those on Nebraska health alert - KTIV"
-        ]
-      },
-      {
-        "trend": "nebraska health alert",
-        "market_code": "NO",
-        "category": "Europe Health",
-        "score": 10,
+        "score": 7,
         "examples": [
           "Reservoir in Stanton County among those on Nebraska health alert - KTIV",
           "Reservoir in Stanton County among those on Nebraska health alert - AZ Family",
@@ -1349,64 +1349,64 @@
         "category": "Asia Health",
         "score": 86,
         "examples": [
+          "Mitch McConnell mystery deepens as health questions remain unanswered - The Guardian",
           "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF",
-          "What’s coming for state employees’ insurance in the coming year? Here are the details. - North Carolina Health News",
-          "Polk State celebrates 100% licensure pass rates for all Health Sciences and Nursing programs - Polk State College"
-        ]
-      },
-      {
-        "trend": "medical",
-        "market_code": "JP",
-        "category": "Asia Health",
-        "score": 14,
-        "examples": [
-          "Soldiers test key medical technologies, forge 'constellation of care' in the Philippines, beyond - army.mil",
-          "Class of 2030 begins medical journey at Wayne State School of Medicine White Coat Ceremony - Today@Wayne",
-          "Brookland fire department converts second squad truck for medical calls - K8 News | Jonesboro, Arkansas"
-        ]
-      },
-      {
-        "trend": "mental",
-        "market_code": "JP",
-        "category": "Mental Health",
-        "score": 13,
-        "examples": [
-          "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF",
-          "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF",
-          "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF"
+          "The 7 Healthy Habits That Can Improve Your Health in 30 Days - Hartford HealthCare"
         ]
       },
       {
         "trend": "health alert",
         "market_code": "JP",
         "category": "Asia Health",
-        "score": 13,
+        "score": 16,
         "examples": [
-          "Reservoir in Stanton County among those on Nebraska health alert - KTIV",
-          "Wisconsin health alert: Rackow Family Sausage bratwurst contains undeclared allergens - WKOW",
-          "Florida DOH issues toxic algae health alert for Lake Okeechobee - Treasure Coast News"
+          "Wisconsin DATCP issues public health alert due undeclared allergens in sausage - KPTV",
+          "Wisconsin DATCP issues public health alert due undeclared allergens in sausage - WCTV",
+          "Wisconsin DATCP issues public health alert due undeclared allergens in sausage - WMTV 15 NEWS"
         ]
       },
       {
-        "trend": "mental health",
+        "trend": "mental",
         "market_code": "JP",
         "category": "Mental Health",
-        "score": 12,
+        "score": 15,
         "examples": [
           "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF",
-          "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF",
-          "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF"
+          "Road closures from Moore Equity in Mental Health 5K hits DC Saturday - WTOP",
+          "Shinedown’s Eric Bass temporarily steps away from touring, cites ‘mental health crash’ - WBRC"
         ]
       },
       {
         "trend": "outbreak",
         "market_code": "JP",
         "category": "Outbreaks",
-        "score": 12,
+        "score": 15,
         "examples": [
           "EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 08, Data as of 05 July 2026 - WHO | Regional Office for Africa",
           "Parasite Outbreak Sparks Health Warning - KITV",
-          "Explosive Diarrhea Outbreak Continues to Grow as Authorities Race to Find Source - WSJ"
+          "Cyclospora outbreak sickens 50 people in Florida, health officials say - WESH"
+        ]
+      },
+      {
+        "trend": "mental health",
+        "market_code": "JP",
+        "category": "Mental Health",
+        "score": 14,
+        "examples": [
+          "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF",
+          "Road closures from Moore Equity in Mental Health 5K hits DC Saturday - WTOP",
+          "Shinedown’s Eric Bass temporarily steps away from touring, cites ‘mental health crash’ - WBRC"
+        ]
+      },
+      {
+        "trend": "medical",
+        "market_code": "JP",
+        "category": "Asia Health",
+        "score": 13,
+        "examples": [
+          "These church members disagree on politics. Together they’re wiping out medical debt. - North Carolina Health News",
+          "Miam lawmakers target Cuban regime’s 'medical missions' with new sanctions push - WLRN",
+          "Soldiers test key medical technologies, forge 'constellation of care' in the Philippines, beyond - army.mil"
         ]
       },
       {
@@ -1415,20 +1415,9 @@
         "category": "Asia Health",
         "score": 10,
         "examples": [
-          "German lawmakers approve healthcare shake-up aimed at taming costs - Reuters",
+          "The 7 Healthy Habits That Can Improve Your Health in 30 Days - Hartford HealthCare",
           "Chutes & Ladders—Trump taps Klomp as HHS Deputy Secretary - Fierce Healthcare",
           "Health systems embrace technology firms' AI development lessons - Healthcare Finance News"
-        ]
-      },
-      {
-        "trend": "disease",
-        "market_code": "JP",
-        "category": "Asia Health",
-        "score": 10,
-        "examples": [
-          "CDC’s Global Health Efforts Halt Rift Valley Fever - Centers for Disease Control and Prevention | CDC (.gov)",
-          "CDC’s Global Health Efforts Halt Rift Valley Fever - Centers for Disease Control and Prevention | CDC (.gov)",
-          "EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 08, Data as of 05 July 2026 - WHO | Regional Office for Africa"
         ]
       },
       {
@@ -1443,10 +1432,32 @@
         ]
       },
       {
+        "trend": "health care",
+        "market_code": "JP",
+        "category": "Asia Health",
+        "score": 8,
+        "examples": [
+          "Community-based mental health care strengthens Tri-Cities economy | Opinion - Tri-City Herald",
+          "Does Health Tech Actually Work? This Group Wants to Find Out. | Health Care | U.S. News - US News Health",
+          "UC San Diego establishes hub to accelerate the delivery of data-driven, equitable health care - News-Medical"
+        ]
+      },
+      {
+        "trend": "public health",
+        "market_code": "JP",
+        "category": "Asia Health",
+        "score": 7,
+        "examples": [
+          "Wisconsin DATCP issues public health alert due undeclared allergens in sausage - KPTV",
+          "Wisconsin DATCP issues public health alert due undeclared allergens in sausage - WCTV",
+          "Wisconsin DATCP issues public health alert due undeclared allergens in sausage - WMTV 15 NEWS"
+        ]
+      },
+      {
         "trend": "nebraska health",
         "market_code": "JP",
         "category": "Asia Health",
-        "score": 10,
+        "score": 7,
         "examples": [
           "Reservoir in Stanton County among those on Nebraska health alert - KTIV",
           "Reservoir in Stanton County among those on Nebraska health alert - AZ Family",
@@ -1457,18 +1468,7 @@
         "trend": "those nebraska health",
         "market_code": "JP",
         "category": "Asia Health",
-        "score": 10,
-        "examples": [
-          "Reservoir in Stanton County among those on Nebraska health alert - KTIV",
-          "Reservoir in Stanton County among those on Nebraska health alert - AZ Family",
-          "Reservoir in Stanton County among those on Nebraska health alert - KTIV"
-        ]
-      },
-      {
-        "trend": "nebraska health alert",
-        "market_code": "JP",
-        "category": "Asia Health",
-        "score": 10,
+        "score": 7,
         "examples": [
           "Reservoir in Stanton County among those on Nebraska health alert - KTIV",
           "Reservoir in Stanton County among those on Nebraska health alert - AZ Family",
@@ -1483,64 +1483,64 @@
         "category": "Asia Health",
         "score": 86,
         "examples": [
+          "Mitch McConnell mystery deepens as health questions remain unanswered - The Guardian",
           "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF",
-          "What’s coming for state employees’ insurance in the coming year? Here are the details. - North Carolina Health News",
-          "Polk State celebrates 100% licensure pass rates for all Health Sciences and Nursing programs - Polk State College"
-        ]
-      },
-      {
-        "trend": "medical",
-        "market_code": "CN",
-        "category": "Asia Health",
-        "score": 14,
-        "examples": [
-          "Soldiers test key medical technologies, forge 'constellation of care' in the Philippines, beyond - army.mil",
-          "Class of 2030 begins medical journey at Wayne State School of Medicine White Coat Ceremony - Today@Wayne",
-          "Brookland fire department converts second squad truck for medical calls - K8 News | Jonesboro, Arkansas"
-        ]
-      },
-      {
-        "trend": "mental",
-        "market_code": "CN",
-        "category": "Mental Health",
-        "score": 13,
-        "examples": [
-          "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF",
-          "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF",
-          "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF"
+          "The 7 Healthy Habits That Can Improve Your Health in 30 Days - Hartford HealthCare"
         ]
       },
       {
         "trend": "health alert",
         "market_code": "CN",
         "category": "Asia Health",
-        "score": 13,
+        "score": 16,
         "examples": [
-          "Reservoir in Stanton County among those on Nebraska health alert - KTIV",
-          "Wisconsin health alert: Rackow Family Sausage bratwurst contains undeclared allergens - WKOW",
-          "Florida DOH issues toxic algae health alert for Lake Okeechobee - Treasure Coast News"
+          "Wisconsin DATCP issues public health alert due undeclared allergens in sausage - KPTV",
+          "Wisconsin DATCP issues public health alert due undeclared allergens in sausage - WCTV",
+          "Wisconsin DATCP issues public health alert due undeclared allergens in sausage - WMTV 15 NEWS"
         ]
       },
       {
-        "trend": "mental health",
+        "trend": "mental",
         "market_code": "CN",
         "category": "Mental Health",
-        "score": 12,
+        "score": 15,
         "examples": [
           "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF",
-          "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF",
-          "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF"
+          "Road closures from Moore Equity in Mental Health 5K hits DC Saturday - WTOP",
+          "Shinedown’s Eric Bass temporarily steps away from touring, cites ‘mental health crash’ - WBRC"
         ]
       },
       {
         "trend": "outbreak",
         "market_code": "CN",
         "category": "Outbreaks",
-        "score": 12,
+        "score": 15,
         "examples": [
           "EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 08, Data as of 05 July 2026 - WHO | Regional Office for Africa",
           "Parasite Outbreak Sparks Health Warning - KITV",
-          "Explosive Diarrhea Outbreak Continues to Grow as Authorities Race to Find Source - WSJ"
+          "Cyclospora outbreak sickens 50 people in Florida, health officials say - WESH"
+        ]
+      },
+      {
+        "trend": "mental health",
+        "market_code": "CN",
+        "category": "Mental Health",
+        "score": 14,
+        "examples": [
+          "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF",
+          "Road closures from Moore Equity in Mental Health 5K hits DC Saturday - WTOP",
+          "Shinedown’s Eric Bass temporarily steps away from touring, cites ‘mental health crash’ - WBRC"
+        ]
+      },
+      {
+        "trend": "medical",
+        "market_code": "CN",
+        "category": "Asia Health",
+        "score": 13,
+        "examples": [
+          "These church members disagree on politics. Together they’re wiping out medical debt. - North Carolina Health News",
+          "Miam lawmakers target Cuban regime’s 'medical missions' with new sanctions push - WLRN",
+          "Soldiers test key medical technologies, forge 'constellation of care' in the Philippines, beyond - army.mil"
         ]
       },
       {
@@ -1549,20 +1549,9 @@
         "category": "Asia Health",
         "score": 10,
         "examples": [
-          "German lawmakers approve healthcare shake-up aimed at taming costs - Reuters",
+          "The 7 Healthy Habits That Can Improve Your Health in 30 Days - Hartford HealthCare",
           "Chutes & Ladders—Trump taps Klomp as HHS Deputy Secretary - Fierce Healthcare",
           "Health systems embrace technology firms' AI development lessons - Healthcare Finance News"
-        ]
-      },
-      {
-        "trend": "disease",
-        "market_code": "CN",
-        "category": "Asia Health",
-        "score": 10,
-        "examples": [
-          "CDC’s Global Health Efforts Halt Rift Valley Fever - Centers for Disease Control and Prevention | CDC (.gov)",
-          "CDC’s Global Health Efforts Halt Rift Valley Fever - Centers for Disease Control and Prevention | CDC (.gov)",
-          "EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 08, Data as of 05 July 2026 - WHO | Regional Office for Africa"
         ]
       },
       {
@@ -1577,10 +1566,32 @@
         ]
       },
       {
+        "trend": "health care",
+        "market_code": "CN",
+        "category": "Asia Health",
+        "score": 8,
+        "examples": [
+          "Community-based mental health care strengthens Tri-Cities economy | Opinion - Tri-City Herald",
+          "Does Health Tech Actually Work? This Group Wants to Find Out. | Health Care | U.S. News - US News Health",
+          "UC San Diego establishes hub to accelerate the delivery of data-driven, equitable health care - News-Medical"
+        ]
+      },
+      {
+        "trend": "public health",
+        "market_code": "CN",
+        "category": "Asia Health",
+        "score": 7,
+        "examples": [
+          "Wisconsin DATCP issues public health alert due undeclared allergens in sausage - KPTV",
+          "Wisconsin DATCP issues public health alert due undeclared allergens in sausage - WCTV",
+          "Wisconsin DATCP issues public health alert due undeclared allergens in sausage - WMTV 15 NEWS"
+        ]
+      },
+      {
         "trend": "nebraska health",
         "market_code": "CN",
         "category": "Asia Health",
-        "score": 10,
+        "score": 7,
         "examples": [
           "Reservoir in Stanton County among those on Nebraska health alert - KTIV",
           "Reservoir in Stanton County among those on Nebraska health alert - AZ Family",
@@ -1591,18 +1602,7 @@
         "trend": "those nebraska health",
         "market_code": "CN",
         "category": "Asia Health",
-        "score": 10,
-        "examples": [
-          "Reservoir in Stanton County among those on Nebraska health alert - KTIV",
-          "Reservoir in Stanton County among those on Nebraska health alert - AZ Family",
-          "Reservoir in Stanton County among those on Nebraska health alert - KTIV"
-        ]
-      },
-      {
-        "trend": "nebraska health alert",
-        "market_code": "CN",
-        "category": "Asia Health",
-        "score": 10,
+        "score": 7,
         "examples": [
           "Reservoir in Stanton County among those on Nebraska health alert - KTIV",
           "Reservoir in Stanton County among those on Nebraska health alert - AZ Family",
@@ -1617,64 +1617,64 @@
         "category": "Asia Health",
         "score": 86,
         "examples": [
+          "Mitch McConnell mystery deepens as health questions remain unanswered - The Guardian",
           "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF",
-          "What’s coming for state employees’ insurance in the coming year? Here are the details. - North Carolina Health News",
-          "Polk State celebrates 100% licensure pass rates for all Health Sciences and Nursing programs - Polk State College"
-        ]
-      },
-      {
-        "trend": "medical",
-        "market_code": "KR",
-        "category": "Asia Health",
-        "score": 14,
-        "examples": [
-          "Soldiers test key medical technologies, forge 'constellation of care' in the Philippines, beyond - army.mil",
-          "Class of 2030 begins medical journey at Wayne State School of Medicine White Coat Ceremony - Today@Wayne",
-          "Brookland fire department converts second squad truck for medical calls - K8 News | Jonesboro, Arkansas"
-        ]
-      },
-      {
-        "trend": "mental",
-        "market_code": "KR",
-        "category": "Mental Health",
-        "score": 13,
-        "examples": [
-          "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF",
-          "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF",
-          "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF"
+          "The 7 Healthy Habits That Can Improve Your Health in 30 Days - Hartford HealthCare"
         ]
       },
       {
         "trend": "health alert",
         "market_code": "KR",
         "category": "Asia Health",
-        "score": 13,
+        "score": 16,
         "examples": [
-          "Reservoir in Stanton County among those on Nebraska health alert - KTIV",
-          "Wisconsin health alert: Rackow Family Sausage bratwurst contains undeclared allergens - WKOW",
-          "Florida DOH issues toxic algae health alert for Lake Okeechobee - Treasure Coast News"
+          "Wisconsin DATCP issues public health alert due undeclared allergens in sausage - KPTV",
+          "Wisconsin DATCP issues public health alert due undeclared allergens in sausage - WCTV",
+          "Wisconsin DATCP issues public health alert due undeclared allergens in sausage - WMTV 15 NEWS"
         ]
       },
       {
-        "trend": "mental health",
+        "trend": "mental",
         "market_code": "KR",
         "category": "Mental Health",
-        "score": 12,
+        "score": 15,
         "examples": [
           "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF",
-          "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF",
-          "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF"
+          "Road closures from Moore Equity in Mental Health 5K hits DC Saturday - WTOP",
+          "Shinedown’s Eric Bass temporarily steps away from touring, cites ‘mental health crash’ - WBRC"
         ]
       },
       {
         "trend": "outbreak",
         "market_code": "KR",
         "category": "Outbreaks",
-        "score": 12,
+        "score": 15,
         "examples": [
           "EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 08, Data as of 05 July 2026 - WHO | Regional Office for Africa",
           "Parasite Outbreak Sparks Health Warning - KITV",
-          "Explosive Diarrhea Outbreak Continues to Grow as Authorities Race to Find Source - WSJ"
+          "Cyclospora outbreak sickens 50 people in Florida, health officials say - WESH"
+        ]
+      },
+      {
+        "trend": "mental health",
+        "market_code": "KR",
+        "category": "Mental Health",
+        "score": 14,
+        "examples": [
+          "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF",
+          "Road closures from Moore Equity in Mental Health 5K hits DC Saturday - WTOP",
+          "Shinedown’s Eric Bass temporarily steps away from touring, cites ‘mental health crash’ - WBRC"
+        ]
+      },
+      {
+        "trend": "medical",
+        "market_code": "KR",
+        "category": "Asia Health",
+        "score": 13,
+        "examples": [
+          "These church members disagree on politics. Together they’re wiping out medical debt. - North Carolina Health News",
+          "Miam lawmakers target Cuban regime’s 'medical missions' with new sanctions push - WLRN",
+          "Soldiers test key medical technologies, forge 'constellation of care' in the Philippines, beyond - army.mil"
         ]
       },
       {
@@ -1683,20 +1683,9 @@
         "category": "Asia Health",
         "score": 10,
         "examples": [
-          "German lawmakers approve healthcare shake-up aimed at taming costs - Reuters",
+          "The 7 Healthy Habits That Can Improve Your Health in 30 Days - Hartford HealthCare",
           "Chutes & Ladders—Trump taps Klomp as HHS Deputy Secretary - Fierce Healthcare",
           "Health systems embrace technology firms' AI development lessons - Healthcare Finance News"
-        ]
-      },
-      {
-        "trend": "disease",
-        "market_code": "KR",
-        "category": "Asia Health",
-        "score": 10,
-        "examples": [
-          "CDC’s Global Health Efforts Halt Rift Valley Fever - Centers for Disease Control and Prevention | CDC (.gov)",
-          "CDC’s Global Health Efforts Halt Rift Valley Fever - Centers for Disease Control and Prevention | CDC (.gov)",
-          "EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 08, Data as of 05 July 2026 - WHO | Regional Office for Africa"
         ]
       },
       {
@@ -1711,10 +1700,32 @@
         ]
       },
       {
+        "trend": "health care",
+        "market_code": "KR",
+        "category": "Asia Health",
+        "score": 8,
+        "examples": [
+          "Community-based mental health care strengthens Tri-Cities economy | Opinion - Tri-City Herald",
+          "Does Health Tech Actually Work? This Group Wants to Find Out. | Health Care | U.S. News - US News Health",
+          "UC San Diego establishes hub to accelerate the delivery of data-driven, equitable health care - News-Medical"
+        ]
+      },
+      {
+        "trend": "public health",
+        "market_code": "KR",
+        "category": "Asia Health",
+        "score": 7,
+        "examples": [
+          "Wisconsin DATCP issues public health alert due undeclared allergens in sausage - KPTV",
+          "Wisconsin DATCP issues public health alert due undeclared allergens in sausage - WCTV",
+          "Wisconsin DATCP issues public health alert due undeclared allergens in sausage - WMTV 15 NEWS"
+        ]
+      },
+      {
         "trend": "nebraska health",
         "market_code": "KR",
         "category": "Asia Health",
-        "score": 10,
+        "score": 7,
         "examples": [
           "Reservoir in Stanton County among those on Nebraska health alert - KTIV",
           "Reservoir in Stanton County among those on Nebraska health alert - AZ Family",
@@ -1725,18 +1736,7 @@
         "trend": "those nebraska health",
         "market_code": "KR",
         "category": "Asia Health",
-        "score": 10,
-        "examples": [
-          "Reservoir in Stanton County among those on Nebraska health alert - KTIV",
-          "Reservoir in Stanton County among those on Nebraska health alert - AZ Family",
-          "Reservoir in Stanton County among those on Nebraska health alert - KTIV"
-        ]
-      },
-      {
-        "trend": "nebraska health alert",
-        "market_code": "KR",
-        "category": "Asia Health",
-        "score": 10,
+        "score": 7,
         "examples": [
           "Reservoir in Stanton County among those on Nebraska health alert - KTIV",
           "Reservoir in Stanton County among those on Nebraska health alert - AZ Family",
@@ -1749,44 +1749,44 @@
         "trend": "health",
         "market_code": "IN",
         "category": "Asia Health",
-        "score": 72,
+        "score": 76,
         "examples": [
-          "A future of financial health for every Indian - The Hindu",
-          "ICMR to set up High Altitude Medicine and Public Health Research Centre at Keylong - Medical Dialogues",
-          "Assam Govt proposes over 33K new health posts, 1 doc at every sub-centre - ET HealthWorld"
-        ]
-      },
-      {
-        "trend": "healthcare",
-        "market_code": "IN",
-        "category": "Asia Health",
-        "score": 17,
-        "examples": [
-          "German lawmakers approve healthcare shake-up aimed at taming costs - Reuters",
-          "DW News. . The German parliament has agreed to a shake-up of Germany’s healthcare system aimed at saving billions of euros. But the opposition and many health professionals say patients will suffer. #dwgermanpolitics - facebook.com",
-          "Rajasthan Healthcare Crisis: 8 Mothers Die Post-C-Section - The Avenue Mail"
-        ]
-      },
-      {
-        "trend": "medical",
-        "market_code": "IN",
-        "category": "Asia Health",
-        "score": 16,
-        "examples": [
-          "ICMR to set up High Altitude Medicine and Public Health Research Centre at Keylong - Medical Dialogues",
-          "Mysuru neurologist provides 130 hours of monthly tele-neurology care to hospitals in US - Medical Dialogues",
-          "Humanoid Robots Perform Live Surgery in Major Medical First - The Indian Practitioner"
+          "World Population Day underscores the importance of voluntary family planning: Union Health Minister Jagat Prakash Nadda | Akashvani News - News On AIR",
+          "Happiest Health Launches Speciality Clinics in Bengaluru - The Indian Practitioner",
+          "The 7 Healthy Habits That Can Improve Your Health in 30 Days - Hartford HealthCare"
         ]
       },
       {
         "trend": "outbreak",
         "market_code": "IN",
         "category": "Outbreaks",
+        "score": 16,
+        "examples": [
+          "Brazil is releasing millions of genetically modified mosquitoes to fight one of its worst dengue outbreak - The Times of India",
+          "EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 08, Data as of 05 July 2026 - WHO | Regional Office for Africa",
+          "Parasite Outbreak Sparks Health Warning - KITV"
+        ]
+      },
+      {
+        "trend": "medical",
+        "market_code": "IN",
+        "category": "Asia Health",
+        "score": 15,
+        "examples": [
+          "ICMR to set up High Altitude Medicine and Public Health Research Centre at Keylong - Medical Dialogues",
+          "Dependence on Generative Artificial Intelligence Among Medical Students and Its Association With Critical Thinking: A Cross-Sectional Study - Cureus",
+          "Intl medical tourism fair, children's arts festival, EPES 2026 - chinadailyasia.com"
+        ]
+      },
+      {
+        "trend": "healthcare",
+        "market_code": "IN",
+        "category": "Asia Health",
         "score": 14,
         "examples": [
-          "EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 08, Data as of 05 July 2026 - WHO | Regional Office for Africa",
-          "What to know about 'explosive diarrhoea' parasite outbreak in US - BBC",
-          "EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 08, Data as of 05 July 2026 - WHO | Regional Office for Africa"
+          "The 7 Healthy Habits That Can Improve Your Health in 30 Days - Hartford HealthCare",
+          "German lawmakers approve healthcare shake-up aimed at taming costs - Reuters",
+          "MoHFW conducts national training of trainers for all 3 cadres delivering primary healthcare services at Ayushman Arogya Mandirs - DD India"
         ]
       },
       {
@@ -1795,16 +1795,71 @@
         "category": "Mental Health",
         "score": 11,
         "examples": [
-          "Children's mental health paramount: Sikkim HC finds man guilty of driving girl to suicide by sexually assaulting her - Bar and Bench",
           "What’s really going on with mental health? - Financial Times",
-          "Typology Of AI-Based Therapy Micro-Bursts Reveals How People Lean Into Chatbots For Mental Health Advice - Forbes"
+          "What’s really going on with mental health? - Financial Times",
+          "Children's mental health paramount: Sikkim HC finds man guilty of driving girl to suicide by sexually assaulting her - Bar and Bench"
+        ]
+      },
+      {
+        "trend": "mental health",
+        "market_code": "IN",
+        "category": "Mental Health",
+        "score": 11,
+        "examples": [
+          "What’s really going on with mental health? - Financial Times",
+          "What’s really going on with mental health? - Financial Times",
+          "Children's mental health paramount: Sikkim HC finds man guilty of driving girl to suicide by sexually assaulting her - Bar and Bench"
+        ]
+      },
+      {
+        "trend": "health alert",
+        "market_code": "IN",
+        "category": "Asia Health",
+        "score": 10,
+        "examples": [
+          "Reservoir in Stanton County among those on Nebraska health alert - KTIV",
+          "Health alert: some Pedigree canned dog food could contain metal or plastic pieces - 607 News Now",
+          "Monsoon Health Alert: 10 Vegetables You Should Skip Or Eat With Caution - News18"
+        ]
+      },
+      {
+        "trend": "children",
+        "market_code": "IN",
+        "category": "Children Health",
+        "score": 8,
+        "examples": [
+          "Intl medical tourism fair, children's arts festival, EPES 2026 - chinadailyasia.com",
+          "Chandipura Virus In Gujarat Kills Three Children: All About The Rare Brain Infection, Symptoms And Preventi - News18",
+          "Research progress and trends of Mycoplasma pneumoniae pneumonia in children: a bibliometric and visualization analysis (1990s to post-COVID-19 era) - Nature"
+        ]
+      },
+      {
+        "trend": "hospitals",
+        "market_code": "IN",
+        "category": "Asia Health",
+        "score": 7,
+        "examples": [
+          "Nine in ten: Why Jammu and Kashmir’s private hospitals have India’s highest C-Section rate - The Hindu",
+          "Mother and child hospitals in every district soon, says health minister Ansari - The Times of India",
+          "Nine in ten: Why Jammu and Kashmir’s private hospitals have India’s highest C-Section rate - The Hindu"
+        ]
+      },
+      {
+        "trend": "public health",
+        "market_code": "IN",
+        "category": "Asia Health",
+        "score": 7,
+        "examples": [
+          "ICMR to set up High Altitude Medicine and Public Health Research Centre at Keylong - Medical Dialogues",
+          "ICMR to set up High Altitude Medicine and Public Health Research Centre at Keylong - Medical Dialogues",
+          "Minister of Public Health chairs meeting on health and environmental situation - وكالة الأنباء الصحراوية"
         ]
       },
       {
         "trend": "virus",
         "market_code": "IN",
         "category": "Outbreaks",
-        "score": 10,
+        "score": 7,
         "examples": [
           "EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 08, Data as of 05 July 2026 - WHO | Regional Office for Africa",
           "EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 08, Data as of 05 July 2026 - WHO | Regional Office for Africa",
@@ -1815,66 +1870,11 @@
         "trend": "disease",
         "market_code": "IN",
         "category": "Asia Health",
-        "score": 10,
+        "score": 7,
         "examples": [
           "EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 08, Data as of 05 July 2026 - WHO | Regional Office for Africa",
-          "Structural Inequities and Chronic Disease in Fresno County: A Narrative Review and Multi-sectoral Framework - Cureus",
-          "EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 08, Data as of 05 July 2026 - WHO | Regional Office for Africa"
-        ]
-      },
-      {
-        "trend": "mental health",
-        "market_code": "IN",
-        "category": "Mental Health",
-        "score": 9,
-        "examples": [
-          "Children's mental health paramount: Sikkim HC finds man guilty of driving girl to suicide by sexually assaulting her - Bar and Bench",
-          "What’s really going on with mental health? - Financial Times",
-          "Typology Of AI-Based Therapy Micro-Bursts Reveals How People Lean Into Chatbots For Mental Health Advice - Forbes"
-        ]
-      },
-      {
-        "trend": "public health",
-        "market_code": "IN",
-        "category": "Asia Health",
-        "score": 6,
-        "examples": [
-          "ICMR to set up High Altitude Medicine and Public Health Research Centre at Keylong - Medical Dialogues",
-          "ICMR to set up High Altitude Medicine and Public Health Research Centre at Keylong - Medical Dialogues",
-          "Minister of Public Health chairs meeting on health and environmental situation - وكالة الأنباء الصحراوية"
-        ]
-      },
-      {
-        "trend": "treatment",
-        "market_code": "IN",
-        "category": "Drug & Treatment News",
-        "score": 6,
-        "examples": [
-          "How to help patients believe in a treatment - healthcare-in-europe.com",
-          "No medicine for dengue yet, Serum Institute’s new treatment is headed for global trials - ThePrint",
-          "As the Ebola Epidemic Spreads, NanoViricides Advances Towards a Phase II Clinical Trial of NV-387 Oral Gummies as a Treatment for Ebola in DR Congo - ACCESS Newswire"
-        ]
-      },
-      {
-        "trend": "warning",
-        "market_code": "IN",
-        "category": "Asia Health",
-        "score": 6,
-        "examples": [
-          "New Mexico health officials issue warning ahead of hot weekend - Source New Mexico",
-          "Pettit Reservoir in Silverton under health warning due to algae bloom - Statesman Journal",
-          "Saudi Arabia issues summer travel health warning over Ebola, Hantavirus, Yellow Fever and flu - Arabian Business"
-        ]
-      },
-      {
-        "trend": "health alert",
-        "market_code": "IN",
-        "category": "Asia Health",
-        "score": 6,
-        "examples": [
-          "Monsoon Health Alert: 10 Vegetables You Should Skip Or Eat With Caution - News18",
-          "Reservoir in Stanton County among those on Nebraska health alert - WIS News 10",
-          "Reservoir in Stanton County among those on Nebraska health alert - Hawaii News Now"
+          "EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 08, Data as of 05 July 2026 - WHO | Regional Office for Africa",
+          "Ebola Bundibugyo Outbreak Among Largest on Record - Infectious Disease Special Edition"
         ]
       }
     ],
@@ -1883,22 +1883,11 @@
         "trend": "health",
         "market_code": "AU",
         "category": "Global Health",
-        "score": 65,
+        "score": 63,
         "examples": [
           "New blowout in city health hub asbestos discovery - The Canberra Times",
           "5 key findings from Australia’s 2026 health report - bodyandsoul.com.au",
-          "Tasmania Devils Highlight Mental Health Awareness - Mirage News"
-        ]
-      },
-      {
-        "trend": "outbreak",
-        "market_code": "AU",
-        "category": "Outbreaks",
-        "score": 16,
-        "examples": [
-          "EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 08, Data as of 05 July 2026 - WHO | Regional Office for Africa",
-          "What to know about 'explosive diarrhoea' parasite outbreak in US - BBC",
-          "What to know about 'explosive diarrhoea' parasite outbreak in US - BBC"
+          "What’s really going on with mental health? - Financial Times"
         ]
       },
       {
@@ -1907,108 +1896,119 @@
         "category": "Global Health",
         "score": 15,
         "examples": [
-          "DW News. . The German parliament has agreed to a shake-up of Germany’s healthcare system aimed at saving billions of euros. But the opposition and many health professionals say patients will suffer. #dwgermanpolitics - facebook.com",
+          "World Population Day is a reminder that Australia must rethink healthcare before demand outpaces supply - Region Canberra",
           "The changing medicolegal landscape: AI in healthcare and its implications for professional indemnity insurance - Lander & Rogers",
           "Human jobs are safe - but AI influence on healthcare growing - ChannelLife Australia"
-        ]
-      },
-      {
-        "trend": "mental",
-        "market_code": "AU",
-        "category": "Mental Health",
-        "score": 12,
-        "examples": [
-          "Tasmania Devils Highlight Mental Health Awareness - Mirage News",
-          "What’s really going on with mental health? - Financial Times",
-          "Tasmania Devils Highlight Mental Health Awareness - Mirage News"
         ]
       },
       {
         "trend": "medical",
         "market_code": "AU",
         "category": "Global Health",
-        "score": 12,
+        "score": 15,
         "examples": [
-          "Lions boost medical fleet - The Warragul & Drouin Gazette",
-          "Grounded in culture: growing First Nations medical leaders - Croakey Health Media",
-          "Assisted suicide is not a medical treatment, says BMA - The Catholic Herald"
+          "Dependence on Generative Artificial Intelligence Among Medical Students and Its Association With Critical Thinking: A Cross-Sectional Study - Cureus",
+          "Intl medical tourism fair, children's arts festival, EPES 2026 - chinadailyasia.com",
+          "Drugged and assaulted: I risked my medical career by speaking up - The Courier Mail"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "AU",
+        "category": "Mental Health",
+        "score": 11,
+        "examples": [
+          "What’s really going on with mental health? - Financial Times",
+          "Tasmania Devils Highlight Mental Health Awareness - Mirage News",
+          "What’s really going on with mental health? - Financial Times"
+        ]
+      },
+      {
+        "trend": "outbreak",
+        "market_code": "AU",
+        "category": "Outbreaks",
+        "score": 11,
+        "examples": [
+          "Ebola toll continues to rise, outbreak the third worst - The Canberra Times",
+          "What to know about 'explosive diarrhoea' parasite outbreak in US - BBC",
+          "Ebola outbreak in DR Congo still outpacing response - CIDRAP"
         ]
       },
       {
         "trend": "mental health",
         "market_code": "AU",
         "category": "Mental Health",
-        "score": 11,
+        "score": 10,
         "examples": [
-          "Tasmania Devils Highlight Mental Health Awareness - Mirage News",
           "What’s really going on with mental health? - Financial Times",
-          "Tasmania Devils Highlight Mental Health Awareness - Mirage News"
+          "Tasmania Devils Highlight Mental Health Awareness - Mirage News",
+          "What’s really going on with mental health? - Financial Times"
         ]
       },
       {
         "trend": "health alert",
         "market_code": "AU",
         "category": "Global Health",
-        "score": 11,
+        "score": 10,
         "examples": [
-          "Reservoir in Stanton County among those on Nebraska health alert - KTIV",
-          "Reservoir in Stanton County among those on Nebraska health alert - Hawaii News Now",
-          "Health alert issued for bratwurst made by Wisconsin sausage company - WISN"
+          "Health alert: some Pedigree canned dog food could contain metal or plastic pieces - 607 News Now",
+          "Wisconsin DATCP issues public health alert due undeclared allergens in sausage - WMTV 15 NEWS",
+          "Reservoir in Stanton County among those on Nebraska health alert - Hawaii News Now"
         ]
       },
       {
         "trend": "virus",
         "market_code": "AU",
         "category": "Outbreaks",
-        "score": 10,
+        "score": 8,
         "examples": [
-          "EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 08, Data as of 05 July 2026 - WHO | Regional Office for Africa",
-          "EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 08, Data as of 05 July 2026 - WHO | Regional Office for Africa",
-          "EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 08, Data as of 05 July 2026 - WHO | Regional Office for Africa"
+          "Ebola cases climb to over 1,800 in DR Congo as virus spreads to 4th province - Anadolu Ajansı",
+          "West Nile virus cases in Europe spark travel health warnings - MSN",
+          "Ebola cases climb to over 1,800 in DR Congo as virus spreads to 4th province - Anadolu Ajansı"
+        ]
+      },
+      {
+        "trend": "children",
+        "market_code": "AU",
+        "category": "Children Health",
+        "score": 7,
+        "examples": [
+          "Intl medical tourism fair, children's arts festival, EPES 2026 - chinadailyasia.com",
+          "Research progress and trends of Mycoplasma pneumoniae pneumonia in children: a bibliometric and visualization analysis (1990s to post-COVID-19 era) - Nature",
+          "Childcare, education and children’s health are inseparable - The Washington Post"
+        ]
+      },
+      {
+        "trend": "warning",
+        "market_code": "AU",
+        "category": "Global Health",
+        "score": 7,
+        "examples": [
+          "Pettit Reservoir in Silverton under health warning due to algae bloom - Statesman Journal",
+          "Qui-Si-Sana health warning lifted after sewage contamination - Newsbook",
+          "Biotoxin warning issued for Marlborough Sounds shellfish - 1News"
         ]
       },
       {
         "trend": "disease",
         "market_code": "AU",
         "category": "Global Health",
-        "score": 10,
+        "score": 7,
         "examples": [
           "EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 08, Data as of 05 July 2026 - WHO | Regional Office for Africa",
           "Ebola disease outbreak 2026: How MSF is responding - Doctors Without Borders",
-          "EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 08, Data as of 05 July 2026 - WHO | Regional Office for Africa"
+          "Cushing’s syndrome greatly raises risk of hospitalization for infections - Cushing's Disease News"
         ]
       },
       {
-        "trend": "nebraska health",
+        "trend": "treatment",
         "market_code": "AU",
-        "category": "Global Health",
-        "score": 9,
+        "category": "Drug & Treatment News",
+        "score": 5,
         "examples": [
-          "Reservoir in Stanton County among those on Nebraska health alert - KTIV",
-          "Reservoir in Stanton County among those on Nebraska health alert - Hawaii News Now",
-          "Reservoir in Stanton County among those on Nebraska health alert - KOLD"
-        ]
-      },
-      {
-        "trend": "those nebraska health",
-        "market_code": "AU",
-        "category": "Global Health",
-        "score": 9,
-        "examples": [
-          "Reservoir in Stanton County among those on Nebraska health alert - KTIV",
-          "Reservoir in Stanton County among those on Nebraska health alert - Hawaii News Now",
-          "Reservoir in Stanton County among those on Nebraska health alert - KOLD"
-        ]
-      },
-      {
-        "trend": "nebraska health alert",
-        "market_code": "AU",
-        "category": "Global Health",
-        "score": 9,
-        "examples": [
-          "Reservoir in Stanton County among those on Nebraska health alert - KTIV",
-          "Reservoir in Stanton County among those on Nebraska health alert - Hawaii News Now",
-          "Reservoir in Stanton County among those on Nebraska health alert - KOLD"
+          "Assisted suicide is not a medical treatment, says BMA - The Catholic Herald",
+          "Health Ministry confirms availability of snakebite treatment protocols - Egypt Today",
+          "As the Ebola Epidemic Spreads, NanoViricides Advances Towards a Phase II Clinical Trial of NV-387 Oral Gummies as a Treatment for Ebola in DR Congo - ACCESS Newswire"
         ]
       }
     ],
@@ -2017,66 +2017,44 @@
         "trend": "health",
         "market_code": "CA",
         "category": "Global Health",
-        "score": 73,
+        "score": 71,
         "examples": [
+          "Hamilton public health grapples with erosion of public trust and AI misinformation - The Spec",
           "B.C. announces new involuntary care facilities in Surrey and Prince George for severe mental health disorders - CBC",
-          "B.C. Adding More Mental Health Care Facilities – July 10, 2026 - CPAC",
-          "Public Health Nurse - Anishinabek News"
-        ]
-      },
-      {
-        "trend": "mental",
-        "market_code": "CA",
-        "category": "Mental Health",
-        "score": 16,
-        "examples": [
-          "B.C. announces new involuntary care facilities in Surrey and Prince George for severe mental health disorders - CBC",
-          "B.C. Adding More Mental Health Care Facilities – July 10, 2026 - CPAC",
-          "Dance event has 'massive effect' on mental health - Yahoo News Canada"
-        ]
-      },
-      {
-        "trend": "mental health",
-        "market_code": "CA",
-        "category": "Mental Health",
-        "score": 14,
-        "examples": [
-          "B.C. announces new involuntary care facilities in Surrey and Prince George for severe mental health disorders - CBC",
-          "B.C. Adding More Mental Health Care Facilities – July 10, 2026 - CPAC",
-          "Dance event has 'massive effect' on mental health - Yahoo News Canada"
-        ]
-      },
-      {
-        "trend": "healthcare",
-        "market_code": "CA",
-        "category": "Global Health",
-        "score": 14,
-        "examples": [
-          "Health Matters: Hometown Heroes Lottery supports healthcare - Global News",
-          "3 AI Healthcare Stocks With Real FDA And Hospital Use Cases - simplywall.st",
-          "LataMed AI Chief Executive Officer Dr. Kevin Rodan to Be Recognized by Ministry of Health for Healthcare Innovation - Yahoo! Finance Canada"
+          "Health officials in Peel warn of potential measles exposure at Pearson airport, 2 flights - CityNews Toronto"
         ]
       },
       {
         "trend": "medical",
         "market_code": "CA",
         "category": "Global Health",
-        "score": 14,
+        "score": 15,
         "examples": [
           "Medical Matters: a national lens on regulation - College of Physicians & Surgeons of Alberta | CPSA",
-          "Barcelona set medical and presentation date for new signing Karim Adeyemi – report - Yahoo Sports Canada",
+          "Dependence on Generative Artificial Intelligence Among Medical Students and Its Association With Critical Thinking: A Cross-Sectional Study - Cureus",
           "Sentencing hearing adjourned after medical emergency in jail cell - OrilliaMatters.com"
         ]
       },
       {
-        "trend": "health care",
+        "trend": "public health",
         "market_code": "CA",
         "category": "Global Health",
-        "score": 12,
+        "score": 14,
         "examples": [
+          "Hamilton public health grapples with erosion of public trust and AI misinformation - The Spec",
+          "Billy Bishop airport expansion is a threat to public health - Toronto Star",
+          "Hamilton public health grapples with erosion of public trust and AI misinformation - The Spec"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "CA",
+        "category": "Mental Health",
+        "score": 13,
+        "examples": [
+          "B.C. announces new involuntary care facilities in Surrey and Prince George for severe mental health disorders - CBC",
           "B.C. Adding More Mental Health Care Facilities – July 10, 2026 - CPAC",
-          "Ford cuts health care roles amid ongoing health care crisis - Ontario NDP",
-          "Ford cuts health care roles amid ongoing health care crisis - Ontario NDP"
+          "B.C. announces new involuntary care facilities in Surrey and Prince George for severe mental health disorders - CBC"
         ]
       },
       {
@@ -2091,14 +2069,36 @@
         ]
       },
       {
-        "trend": "public health",
+        "trend": "healthcare",
         "market_code": "CA",
         "category": "Global Health",
-        "score": 9,
+        "score": 12,
         "examples": [
-          "Public Health Nurse - Anishinabek News",
-          "Possible measles exposure on at Pearson airport and on 2 flights this week: public health agency - CBC",
-          "Public Health Nurse - Anishinabek News"
+          "3 AI Healthcare Stocks With Real FDA And Hospital Use Cases - simplywall.st",
+          "LataMed AI Chief Executive Officer Dr. Kevin Rodan to Be Recognized by Ministry of Health for Healthcare Innovation - Yahoo! Finance Canada",
+          "Opinion | Private Equity's New AI Push Raises Old Questions for Healthcare - MedPage Today"
+        ]
+      },
+      {
+        "trend": "mental health",
+        "market_code": "CA",
+        "category": "Mental Health",
+        "score": 11,
+        "examples": [
+          "B.C. announces new involuntary care facilities in Surrey and Prince George for severe mental health disorders - CBC",
+          "B.C. Adding More Mental Health Care Facilities – July 10, 2026 - CPAC",
+          "B.C. announces new involuntary care facilities in Surrey and Prince George for severe mental health disorders - CBC"
+        ]
+      },
+      {
+        "trend": "health care",
+        "market_code": "CA",
+        "category": "Global Health",
+        "score": 10,
+        "examples": [
+          "B.C. Adding More Mental Health Care Facilities – July 10, 2026 - CPAC",
+          "Ford cuts health care roles amid ongoing health care crisis - Ontario NDP",
+          "Ford cuts health care roles amid ongoing health care crisis - Ontario NDP"
         ]
       },
       {
@@ -2107,42 +2107,42 @@
         "category": "Global Health",
         "score": 8,
         "examples": [
-          "Reservoir in Stanton County among those on Nebraska health alert - FOX Carolina News",
-          "Reservoir in Stanton County among those on Nebraska health alert - KOLD",
-          "Reservoir in Stanton County among those on Nebraska health alert - WIS News 10"
+          "Health alert: some Pedigree canned dog food could contain metal or plastic pieces - 607 News Now",
+          "Wisconsin DATCP issues public health alert due undeclared allergens in sausage - WCTV",
+          "Wisconsin DATCP issues public health alert due undeclared allergens in sausage - WMTV 15 NEWS"
         ]
       },
       {
         "trend": "disease",
         "market_code": "CA",
         "category": "Global Health",
-        "score": 7,
+        "score": 8,
         "examples": [
           "EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 08, Data as of 05 July 2026 - WHO | Regional Office for Africa",
-          "Ebola disease outbreak 2026: How MSF is responding - Doctors Without Borders",
-          "Brain-body connection: Expert shares tips to reduce risk of cognitive decline, Alzheimer's disease - Mayo Clinic News Network"
+          "Hematologic Cancer Survivors Face Higher Risk of Developing Cardiovascular Disease - Infectious Disease Advisor",
+          "Hematologic Cancer Survivors Face Higher Risk of Developing Cardiovascular Disease - Infectious Disease Advisor"
         ]
       },
       {
-        "trend": "treatment",
+        "trend": "measles",
         "market_code": "CA",
-        "category": "Drug & Treatment News",
-        "score": 6,
+        "category": "Outbreaks",
+        "score": 7,
         "examples": [
-          "Assisted suicide is not a medical treatment, says BMA - The Catholic Herald",
-          "Ottawa gives Quebec special treatment in this area of health-care funding - Fraser Institute",
-          "There's no treatment designed for the Ebola strain ravaging DRC. But now there's hope - NPR"
+          "Health officials in Peel warn of potential measles exposure at Pearson airport, 2 flights - CityNews Toronto",
+          "Possible measles exposure on at Pearson airport and on 2 flights this week: public health agency - CBC",
+          "Health officials in Peel warn of potential measles exposure at Pearson airport, 2 flights - CityNews Toronto"
         ]
       },
       {
-        "trend": "warning",
+        "trend": "measles exposure",
         "market_code": "CA",
-        "category": "Global Health",
+        "category": "Outbreaks",
         "score": 6,
         "examples": [
-          "Extreme heat expected this weekend prompts health warning across Manitoba - PortageOnline",
-          "Pettit Reservoir in Silverton under health warning due to algae bloom - Statesman Journal",
-          "Heavy wildfire smoke prompts health warning and safety tips - Vernon Morning Star"
+          "Health officials in Peel warn of potential measles exposure at Pearson airport, 2 flights - CityNews Toronto",
+          "Possible measles exposure on at Pearson airport and on 2 flights this week: public health agency - CBC",
+          "Health officials in Peel warn of potential measles exposure at Pearson airport, 2 flights - CityNews Toronto"
         ]
       }
     ],
@@ -2153,64 +2153,64 @@
         "category": "Arab Health",
         "score": 86,
         "examples": [
+          "Mitch McConnell mystery deepens as health questions remain unanswered - The Guardian",
           "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF",
-          "What’s coming for state employees’ insurance in the coming year? Here are the details. - North Carolina Health News",
-          "Polk State celebrates 100% licensure pass rates for all Health Sciences and Nursing programs - Polk State College"
-        ]
-      },
-      {
-        "trend": "medical",
-        "market_code": "AE",
-        "category": "Arab Health",
-        "score": 14,
-        "examples": [
-          "Soldiers test key medical technologies, forge 'constellation of care' in the Philippines, beyond - army.mil",
-          "Class of 2030 begins medical journey at Wayne State School of Medicine White Coat Ceremony - Today@Wayne",
-          "Brookland fire department converts second squad truck for medical calls - K8 News | Jonesboro, Arkansas"
-        ]
-      },
-      {
-        "trend": "mental",
-        "market_code": "AE",
-        "category": "Mental Health",
-        "score": 13,
-        "examples": [
-          "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF",
-          "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF",
-          "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF"
+          "The 7 Healthy Habits That Can Improve Your Health in 30 Days - Hartford HealthCare"
         ]
       },
       {
         "trend": "health alert",
         "market_code": "AE",
         "category": "Arab Health",
-        "score": 13,
+        "score": 16,
         "examples": [
-          "Reservoir in Stanton County among those on Nebraska health alert - KTIV",
-          "Wisconsin health alert: Rackow Family Sausage bratwurst contains undeclared allergens - WKOW",
-          "Florida DOH issues toxic algae health alert for Lake Okeechobee - Treasure Coast News"
+          "Wisconsin DATCP issues public health alert due undeclared allergens in sausage - KPTV",
+          "Wisconsin DATCP issues public health alert due undeclared allergens in sausage - WCTV",
+          "Wisconsin DATCP issues public health alert due undeclared allergens in sausage - WMTV 15 NEWS"
         ]
       },
       {
-        "trend": "mental health",
+        "trend": "mental",
         "market_code": "AE",
         "category": "Mental Health",
-        "score": 12,
+        "score": 15,
         "examples": [
           "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF",
-          "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF",
-          "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF"
+          "Road closures from Moore Equity in Mental Health 5K hits DC Saturday - WTOP",
+          "Shinedown’s Eric Bass temporarily steps away from touring, cites ‘mental health crash’ - WBRC"
         ]
       },
       {
         "trend": "outbreak",
         "market_code": "AE",
         "category": "Outbreaks",
-        "score": 12,
+        "score": 15,
         "examples": [
           "EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 08, Data as of 05 July 2026 - WHO | Regional Office for Africa",
           "Parasite Outbreak Sparks Health Warning - KITV",
-          "Explosive Diarrhea Outbreak Continues to Grow as Authorities Race to Find Source - WSJ"
+          "Cyclospora outbreak sickens 50 people in Florida, health officials say - WESH"
+        ]
+      },
+      {
+        "trend": "mental health",
+        "market_code": "AE",
+        "category": "Mental Health",
+        "score": 14,
+        "examples": [
+          "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF",
+          "Road closures from Moore Equity in Mental Health 5K hits DC Saturday - WTOP",
+          "Shinedown’s Eric Bass temporarily steps away from touring, cites ‘mental health crash’ - WBRC"
+        ]
+      },
+      {
+        "trend": "medical",
+        "market_code": "AE",
+        "category": "Arab Health",
+        "score": 13,
+        "examples": [
+          "These church members disagree on politics. Together they’re wiping out medical debt. - North Carolina Health News",
+          "Miam lawmakers target Cuban regime’s 'medical missions' with new sanctions push - WLRN",
+          "Soldiers test key medical technologies, forge 'constellation of care' in the Philippines, beyond - army.mil"
         ]
       },
       {
@@ -2219,20 +2219,9 @@
         "category": "Arab Health",
         "score": 10,
         "examples": [
-          "German lawmakers approve healthcare shake-up aimed at taming costs - Reuters",
+          "The 7 Healthy Habits That Can Improve Your Health in 30 Days - Hartford HealthCare",
           "Chutes & Ladders—Trump taps Klomp as HHS Deputy Secretary - Fierce Healthcare",
           "Health systems embrace technology firms' AI development lessons - Healthcare Finance News"
-        ]
-      },
-      {
-        "trend": "disease",
-        "market_code": "AE",
-        "category": "Arab Health",
-        "score": 10,
-        "examples": [
-          "CDC’s Global Health Efforts Halt Rift Valley Fever - Centers for Disease Control and Prevention | CDC (.gov)",
-          "CDC’s Global Health Efforts Halt Rift Valley Fever - Centers for Disease Control and Prevention | CDC (.gov)",
-          "EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 08, Data as of 05 July 2026 - WHO | Regional Office for Africa"
         ]
       },
       {
@@ -2247,10 +2236,32 @@
         ]
       },
       {
+        "trend": "health care",
+        "market_code": "AE",
+        "category": "Arab Health",
+        "score": 8,
+        "examples": [
+          "Community-based mental health care strengthens Tri-Cities economy | Opinion - Tri-City Herald",
+          "Does Health Tech Actually Work? This Group Wants to Find Out. | Health Care | U.S. News - US News Health",
+          "UC San Diego establishes hub to accelerate the delivery of data-driven, equitable health care - News-Medical"
+        ]
+      },
+      {
+        "trend": "public health",
+        "market_code": "AE",
+        "category": "Arab Health",
+        "score": 7,
+        "examples": [
+          "Wisconsin DATCP issues public health alert due undeclared allergens in sausage - KPTV",
+          "Wisconsin DATCP issues public health alert due undeclared allergens in sausage - WCTV",
+          "Wisconsin DATCP issues public health alert due undeclared allergens in sausage - WMTV 15 NEWS"
+        ]
+      },
+      {
         "trend": "nebraska health",
         "market_code": "AE",
         "category": "Arab Health",
-        "score": 10,
+        "score": 7,
         "examples": [
           "Reservoir in Stanton County among those on Nebraska health alert - KTIV",
           "Reservoir in Stanton County among those on Nebraska health alert - AZ Family",
@@ -2261,18 +2272,7 @@
         "trend": "those nebraska health",
         "market_code": "AE",
         "category": "Arab Health",
-        "score": 10,
-        "examples": [
-          "Reservoir in Stanton County among those on Nebraska health alert - KTIV",
-          "Reservoir in Stanton County among those on Nebraska health alert - AZ Family",
-          "Reservoir in Stanton County among those on Nebraska health alert - KTIV"
-        ]
-      },
-      {
-        "trend": "nebraska health alert",
-        "market_code": "AE",
-        "category": "Arab Health",
-        "score": 10,
+        "score": 7,
         "examples": [
           "Reservoir in Stanton County among those on Nebraska health alert - KTIV",
           "Reservoir in Stanton County among those on Nebraska health alert - AZ Family",
@@ -2287,64 +2287,64 @@
         "category": "Arab Health",
         "score": 86,
         "examples": [
+          "Mitch McConnell mystery deepens as health questions remain unanswered - The Guardian",
           "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF",
-          "What’s coming for state employees’ insurance in the coming year? Here are the details. - North Carolina Health News",
-          "Polk State celebrates 100% licensure pass rates for all Health Sciences and Nursing programs - Polk State College"
-        ]
-      },
-      {
-        "trend": "medical",
-        "market_code": "SA",
-        "category": "Arab Health",
-        "score": 14,
-        "examples": [
-          "Soldiers test key medical technologies, forge 'constellation of care' in the Philippines, beyond - army.mil",
-          "Class of 2030 begins medical journey at Wayne State School of Medicine White Coat Ceremony - Today@Wayne",
-          "Brookland fire department converts second squad truck for medical calls - K8 News | Jonesboro, Arkansas"
-        ]
-      },
-      {
-        "trend": "mental",
-        "market_code": "SA",
-        "category": "Mental Health",
-        "score": 13,
-        "examples": [
-          "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF",
-          "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF",
-          "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF"
+          "The 7 Healthy Habits That Can Improve Your Health in 30 Days - Hartford HealthCare"
         ]
       },
       {
         "trend": "health alert",
         "market_code": "SA",
         "category": "Arab Health",
-        "score": 13,
+        "score": 16,
         "examples": [
-          "Reservoir in Stanton County among those on Nebraska health alert - KTIV",
-          "Wisconsin health alert: Rackow Family Sausage bratwurst contains undeclared allergens - WKOW",
-          "Florida DOH issues toxic algae health alert for Lake Okeechobee - Treasure Coast News"
+          "Wisconsin DATCP issues public health alert due undeclared allergens in sausage - KPTV",
+          "Wisconsin DATCP issues public health alert due undeclared allergens in sausage - WCTV",
+          "Wisconsin DATCP issues public health alert due undeclared allergens in sausage - WMTV 15 NEWS"
         ]
       },
       {
-        "trend": "mental health",
+        "trend": "mental",
         "market_code": "SA",
         "category": "Mental Health",
-        "score": 12,
+        "score": 15,
         "examples": [
           "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF",
-          "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF",
-          "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF"
+          "Road closures from Moore Equity in Mental Health 5K hits DC Saturday - WTOP",
+          "Shinedown’s Eric Bass temporarily steps away from touring, cites ‘mental health crash’ - WBRC"
         ]
       },
       {
         "trend": "outbreak",
         "market_code": "SA",
         "category": "Outbreaks",
-        "score": 12,
+        "score": 15,
         "examples": [
           "EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 08, Data as of 05 July 2026 - WHO | Regional Office for Africa",
           "Parasite Outbreak Sparks Health Warning - KITV",
-          "Explosive Diarrhea Outbreak Continues to Grow as Authorities Race to Find Source - WSJ"
+          "Cyclospora outbreak sickens 50 people in Florida, health officials say - WESH"
+        ]
+      },
+      {
+        "trend": "mental health",
+        "market_code": "SA",
+        "category": "Mental Health",
+        "score": 14,
+        "examples": [
+          "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF",
+          "Road closures from Moore Equity in Mental Health 5K hits DC Saturday - WTOP",
+          "Shinedown’s Eric Bass temporarily steps away from touring, cites ‘mental health crash’ - WBRC"
+        ]
+      },
+      {
+        "trend": "medical",
+        "market_code": "SA",
+        "category": "Arab Health",
+        "score": 13,
+        "examples": [
+          "These church members disagree on politics. Together they’re wiping out medical debt. - North Carolina Health News",
+          "Miam lawmakers target Cuban regime’s 'medical missions' with new sanctions push - WLRN",
+          "Soldiers test key medical technologies, forge 'constellation of care' in the Philippines, beyond - army.mil"
         ]
       },
       {
@@ -2353,20 +2353,9 @@
         "category": "Arab Health",
         "score": 10,
         "examples": [
-          "German lawmakers approve healthcare shake-up aimed at taming costs - Reuters",
+          "The 7 Healthy Habits That Can Improve Your Health in 30 Days - Hartford HealthCare",
           "Chutes & Ladders—Trump taps Klomp as HHS Deputy Secretary - Fierce Healthcare",
           "Health systems embrace technology firms' AI development lessons - Healthcare Finance News"
-        ]
-      },
-      {
-        "trend": "disease",
-        "market_code": "SA",
-        "category": "Arab Health",
-        "score": 10,
-        "examples": [
-          "CDC’s Global Health Efforts Halt Rift Valley Fever - Centers for Disease Control and Prevention | CDC (.gov)",
-          "CDC’s Global Health Efforts Halt Rift Valley Fever - Centers for Disease Control and Prevention | CDC (.gov)",
-          "EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 08, Data as of 05 July 2026 - WHO | Regional Office for Africa"
         ]
       },
       {
@@ -2381,10 +2370,32 @@
         ]
       },
       {
+        "trend": "health care",
+        "market_code": "SA",
+        "category": "Arab Health",
+        "score": 8,
+        "examples": [
+          "Community-based mental health care strengthens Tri-Cities economy | Opinion - Tri-City Herald",
+          "Does Health Tech Actually Work? This Group Wants to Find Out. | Health Care | U.S. News - US News Health",
+          "UC San Diego establishes hub to accelerate the delivery of data-driven, equitable health care - News-Medical"
+        ]
+      },
+      {
+        "trend": "public health",
+        "market_code": "SA",
+        "category": "Arab Health",
+        "score": 7,
+        "examples": [
+          "Wisconsin DATCP issues public health alert due undeclared allergens in sausage - KPTV",
+          "Wisconsin DATCP issues public health alert due undeclared allergens in sausage - WCTV",
+          "Wisconsin DATCP issues public health alert due undeclared allergens in sausage - WMTV 15 NEWS"
+        ]
+      },
+      {
         "trend": "nebraska health",
         "market_code": "SA",
         "category": "Arab Health",
-        "score": 10,
+        "score": 7,
         "examples": [
           "Reservoir in Stanton County among those on Nebraska health alert - KTIV",
           "Reservoir in Stanton County among those on Nebraska health alert - AZ Family",
@@ -2395,18 +2406,7 @@
         "trend": "those nebraska health",
         "market_code": "SA",
         "category": "Arab Health",
-        "score": 10,
-        "examples": [
-          "Reservoir in Stanton County among those on Nebraska health alert - KTIV",
-          "Reservoir in Stanton County among those on Nebraska health alert - AZ Family",
-          "Reservoir in Stanton County among those on Nebraska health alert - KTIV"
-        ]
-      },
-      {
-        "trend": "nebraska health alert",
-        "market_code": "SA",
-        "category": "Arab Health",
-        "score": 10,
+        "score": 7,
         "examples": [
           "Reservoir in Stanton County among those on Nebraska health alert - KTIV",
           "Reservoir in Stanton County among those on Nebraska health alert - AZ Family",
@@ -2421,64 +2421,64 @@
         "category": "Arab Health",
         "score": 86,
         "examples": [
+          "Mitch McConnell mystery deepens as health questions remain unanswered - The Guardian",
           "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF",
-          "What’s coming for state employees’ insurance in the coming year? Here are the details. - North Carolina Health News",
-          "Polk State celebrates 100% licensure pass rates for all Health Sciences and Nursing programs - Polk State College"
-        ]
-      },
-      {
-        "trend": "medical",
-        "market_code": "QA",
-        "category": "Arab Health",
-        "score": 14,
-        "examples": [
-          "Soldiers test key medical technologies, forge 'constellation of care' in the Philippines, beyond - army.mil",
-          "Class of 2030 begins medical journey at Wayne State School of Medicine White Coat Ceremony - Today@Wayne",
-          "Brookland fire department converts second squad truck for medical calls - K8 News | Jonesboro, Arkansas"
-        ]
-      },
-      {
-        "trend": "mental",
-        "market_code": "QA",
-        "category": "Mental Health",
-        "score": 13,
-        "examples": [
-          "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF",
-          "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF",
-          "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF"
+          "The 7 Healthy Habits That Can Improve Your Health in 30 Days - Hartford HealthCare"
         ]
       },
       {
         "trend": "health alert",
         "market_code": "QA",
         "category": "Arab Health",
-        "score": 13,
+        "score": 16,
         "examples": [
-          "Reservoir in Stanton County among those on Nebraska health alert - KTIV",
-          "Wisconsin health alert: Rackow Family Sausage bratwurst contains undeclared allergens - WKOW",
-          "Florida DOH issues toxic algae health alert for Lake Okeechobee - Treasure Coast News"
+          "Wisconsin DATCP issues public health alert due undeclared allergens in sausage - KPTV",
+          "Wisconsin DATCP issues public health alert due undeclared allergens in sausage - WCTV",
+          "Wisconsin DATCP issues public health alert due undeclared allergens in sausage - WMTV 15 NEWS"
         ]
       },
       {
-        "trend": "mental health",
+        "trend": "mental",
         "market_code": "QA",
         "category": "Mental Health",
-        "score": 12,
+        "score": 15,
         "examples": [
           "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF",
-          "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF",
-          "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF"
+          "Road closures from Moore Equity in Mental Health 5K hits DC Saturday - WTOP",
+          "Shinedown’s Eric Bass temporarily steps away from touring, cites ‘mental health crash’ - WBRC"
         ]
       },
       {
         "trend": "outbreak",
         "market_code": "QA",
         "category": "Outbreaks",
-        "score": 12,
+        "score": 15,
         "examples": [
           "EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 08, Data as of 05 July 2026 - WHO | Regional Office for Africa",
           "Parasite Outbreak Sparks Health Warning - KITV",
-          "Explosive Diarrhea Outbreak Continues to Grow as Authorities Race to Find Source - WSJ"
+          "Cyclospora outbreak sickens 50 people in Florida, health officials say - WESH"
+        ]
+      },
+      {
+        "trend": "mental health",
+        "market_code": "QA",
+        "category": "Mental Health",
+        "score": 14,
+        "examples": [
+          "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF",
+          "Road closures from Moore Equity in Mental Health 5K hits DC Saturday - WTOP",
+          "Shinedown’s Eric Bass temporarily steps away from touring, cites ‘mental health crash’ - WBRC"
+        ]
+      },
+      {
+        "trend": "medical",
+        "market_code": "QA",
+        "category": "Arab Health",
+        "score": 13,
+        "examples": [
+          "These church members disagree on politics. Together they’re wiping out medical debt. - North Carolina Health News",
+          "Miam lawmakers target Cuban regime’s 'medical missions' with new sanctions push - WLRN",
+          "Soldiers test key medical technologies, forge 'constellation of care' in the Philippines, beyond - army.mil"
         ]
       },
       {
@@ -2487,20 +2487,9 @@
         "category": "Arab Health",
         "score": 10,
         "examples": [
-          "German lawmakers approve healthcare shake-up aimed at taming costs - Reuters",
+          "The 7 Healthy Habits That Can Improve Your Health in 30 Days - Hartford HealthCare",
           "Chutes & Ladders—Trump taps Klomp as HHS Deputy Secretary - Fierce Healthcare",
           "Health systems embrace technology firms' AI development lessons - Healthcare Finance News"
-        ]
-      },
-      {
-        "trend": "disease",
-        "market_code": "QA",
-        "category": "Arab Health",
-        "score": 10,
-        "examples": [
-          "CDC’s Global Health Efforts Halt Rift Valley Fever - Centers for Disease Control and Prevention | CDC (.gov)",
-          "CDC’s Global Health Efforts Halt Rift Valley Fever - Centers for Disease Control and Prevention | CDC (.gov)",
-          "EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 08, Data as of 05 July 2026 - WHO | Regional Office for Africa"
         ]
       },
       {
@@ -2515,10 +2504,32 @@
         ]
       },
       {
+        "trend": "health care",
+        "market_code": "QA",
+        "category": "Arab Health",
+        "score": 8,
+        "examples": [
+          "Community-based mental health care strengthens Tri-Cities economy | Opinion - Tri-City Herald",
+          "Does Health Tech Actually Work? This Group Wants to Find Out. | Health Care | U.S. News - US News Health",
+          "UC San Diego establishes hub to accelerate the delivery of data-driven, equitable health care - News-Medical"
+        ]
+      },
+      {
+        "trend": "public health",
+        "market_code": "QA",
+        "category": "Arab Health",
+        "score": 7,
+        "examples": [
+          "Wisconsin DATCP issues public health alert due undeclared allergens in sausage - KPTV",
+          "Wisconsin DATCP issues public health alert due undeclared allergens in sausage - WCTV",
+          "Wisconsin DATCP issues public health alert due undeclared allergens in sausage - WMTV 15 NEWS"
+        ]
+      },
+      {
         "trend": "nebraska health",
         "market_code": "QA",
         "category": "Arab Health",
-        "score": 10,
+        "score": 7,
         "examples": [
           "Reservoir in Stanton County among those on Nebraska health alert - KTIV",
           "Reservoir in Stanton County among those on Nebraska health alert - AZ Family",
@@ -2529,18 +2540,7 @@
         "trend": "those nebraska health",
         "market_code": "QA",
         "category": "Arab Health",
-        "score": 10,
-        "examples": [
-          "Reservoir in Stanton County among those on Nebraska health alert - KTIV",
-          "Reservoir in Stanton County among those on Nebraska health alert - AZ Family",
-          "Reservoir in Stanton County among those on Nebraska health alert - KTIV"
-        ]
-      },
-      {
-        "trend": "nebraska health alert",
-        "market_code": "QA",
-        "category": "Arab Health",
-        "score": 10,
+        "score": 7,
         "examples": [
           "Reservoir in Stanton County among those on Nebraska health alert - KTIV",
           "Reservoir in Stanton County among those on Nebraska health alert - AZ Family",
@@ -2555,64 +2555,64 @@
         "category": "Arab Health",
         "score": 86,
         "examples": [
+          "Mitch McConnell mystery deepens as health questions remain unanswered - The Guardian",
           "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF",
-          "What’s coming for state employees’ insurance in the coming year? Here are the details. - North Carolina Health News",
-          "Polk State celebrates 100% licensure pass rates for all Health Sciences and Nursing programs - Polk State College"
-        ]
-      },
-      {
-        "trend": "medical",
-        "market_code": "JO",
-        "category": "Arab Health",
-        "score": 14,
-        "examples": [
-          "Soldiers test key medical technologies, forge 'constellation of care' in the Philippines, beyond - army.mil",
-          "Class of 2030 begins medical journey at Wayne State School of Medicine White Coat Ceremony - Today@Wayne",
-          "Brookland fire department converts second squad truck for medical calls - K8 News | Jonesboro, Arkansas"
-        ]
-      },
-      {
-        "trend": "mental",
-        "market_code": "JO",
-        "category": "Mental Health",
-        "score": 13,
-        "examples": [
-          "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF",
-          "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF",
-          "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF"
+          "The 7 Healthy Habits That Can Improve Your Health in 30 Days - Hartford HealthCare"
         ]
       },
       {
         "trend": "health alert",
         "market_code": "JO",
         "category": "Arab Health",
-        "score": 13,
+        "score": 16,
         "examples": [
-          "Reservoir in Stanton County among those on Nebraska health alert - KTIV",
-          "Wisconsin health alert: Rackow Family Sausage bratwurst contains undeclared allergens - WKOW",
-          "Florida DOH issues toxic algae health alert for Lake Okeechobee - Treasure Coast News"
+          "Wisconsin DATCP issues public health alert due undeclared allergens in sausage - KPTV",
+          "Wisconsin DATCP issues public health alert due undeclared allergens in sausage - WCTV",
+          "Wisconsin DATCP issues public health alert due undeclared allergens in sausage - WMTV 15 NEWS"
         ]
       },
       {
-        "trend": "mental health",
+        "trend": "mental",
         "market_code": "JO",
         "category": "Mental Health",
-        "score": 12,
+        "score": 15,
         "examples": [
           "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF",
-          "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF",
-          "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF"
+          "Road closures from Moore Equity in Mental Health 5K hits DC Saturday - WTOP",
+          "Shinedown’s Eric Bass temporarily steps away from touring, cites ‘mental health crash’ - WBRC"
         ]
       },
       {
         "trend": "outbreak",
         "market_code": "JO",
         "category": "Outbreaks",
-        "score": 12,
+        "score": 15,
         "examples": [
           "EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 08, Data as of 05 July 2026 - WHO | Regional Office for Africa",
           "Parasite Outbreak Sparks Health Warning - KITV",
-          "Explosive Diarrhea Outbreak Continues to Grow as Authorities Race to Find Source - WSJ"
+          "Cyclospora outbreak sickens 50 people in Florida, health officials say - WESH"
+        ]
+      },
+      {
+        "trend": "mental health",
+        "market_code": "JO",
+        "category": "Mental Health",
+        "score": 14,
+        "examples": [
+          "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF",
+          "Road closures from Moore Equity in Mental Health 5K hits DC Saturday - WTOP",
+          "Shinedown’s Eric Bass temporarily steps away from touring, cites ‘mental health crash’ - WBRC"
+        ]
+      },
+      {
+        "trend": "medical",
+        "market_code": "JO",
+        "category": "Arab Health",
+        "score": 13,
+        "examples": [
+          "These church members disagree on politics. Together they’re wiping out medical debt. - North Carolina Health News",
+          "Miam lawmakers target Cuban regime’s 'medical missions' with new sanctions push - WLRN",
+          "Soldiers test key medical technologies, forge 'constellation of care' in the Philippines, beyond - army.mil"
         ]
       },
       {
@@ -2621,20 +2621,9 @@
         "category": "Arab Health",
         "score": 10,
         "examples": [
-          "German lawmakers approve healthcare shake-up aimed at taming costs - Reuters",
+          "The 7 Healthy Habits That Can Improve Your Health in 30 Days - Hartford HealthCare",
           "Chutes & Ladders—Trump taps Klomp as HHS Deputy Secretary - Fierce Healthcare",
           "Health systems embrace technology firms' AI development lessons - Healthcare Finance News"
-        ]
-      },
-      {
-        "trend": "disease",
-        "market_code": "JO",
-        "category": "Arab Health",
-        "score": 10,
-        "examples": [
-          "CDC’s Global Health Efforts Halt Rift Valley Fever - Centers for Disease Control and Prevention | CDC (.gov)",
-          "CDC’s Global Health Efforts Halt Rift Valley Fever - Centers for Disease Control and Prevention | CDC (.gov)",
-          "EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 08, Data as of 05 July 2026 - WHO | Regional Office for Africa"
         ]
       },
       {
@@ -2649,10 +2638,32 @@
         ]
       },
       {
+        "trend": "health care",
+        "market_code": "JO",
+        "category": "Arab Health",
+        "score": 8,
+        "examples": [
+          "Community-based mental health care strengthens Tri-Cities economy | Opinion - Tri-City Herald",
+          "Does Health Tech Actually Work? This Group Wants to Find Out. | Health Care | U.S. News - US News Health",
+          "UC San Diego establishes hub to accelerate the delivery of data-driven, equitable health care - News-Medical"
+        ]
+      },
+      {
+        "trend": "public health",
+        "market_code": "JO",
+        "category": "Arab Health",
+        "score": 7,
+        "examples": [
+          "Wisconsin DATCP issues public health alert due undeclared allergens in sausage - KPTV",
+          "Wisconsin DATCP issues public health alert due undeclared allergens in sausage - WCTV",
+          "Wisconsin DATCP issues public health alert due undeclared allergens in sausage - WMTV 15 NEWS"
+        ]
+      },
+      {
         "trend": "nebraska health",
         "market_code": "JO",
         "category": "Arab Health",
-        "score": 10,
+        "score": 7,
         "examples": [
           "Reservoir in Stanton County among those on Nebraska health alert - KTIV",
           "Reservoir in Stanton County among those on Nebraska health alert - AZ Family",
@@ -2663,18 +2674,7 @@
         "trend": "those nebraska health",
         "market_code": "JO",
         "category": "Arab Health",
-        "score": 10,
-        "examples": [
-          "Reservoir in Stanton County among those on Nebraska health alert - KTIV",
-          "Reservoir in Stanton County among those on Nebraska health alert - AZ Family",
-          "Reservoir in Stanton County among those on Nebraska health alert - KTIV"
-        ]
-      },
-      {
-        "trend": "nebraska health alert",
-        "market_code": "JO",
-        "category": "Arab Health",
-        "score": 10,
+        "score": 7,
         "examples": [
           "Reservoir in Stanton County among those on Nebraska health alert - KTIV",
           "Reservoir in Stanton County among those on Nebraska health alert - AZ Family",
@@ -2689,64 +2689,64 @@
         "category": "Arab Health",
         "score": 86,
         "examples": [
+          "Mitch McConnell mystery deepens as health questions remain unanswered - The Guardian",
           "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF",
-          "What’s coming for state employees’ insurance in the coming year? Here are the details. - North Carolina Health News",
-          "Polk State celebrates 100% licensure pass rates for all Health Sciences and Nursing programs - Polk State College"
-        ]
-      },
-      {
-        "trend": "medical",
-        "market_code": "LB",
-        "category": "Arab Health",
-        "score": 14,
-        "examples": [
-          "Soldiers test key medical technologies, forge 'constellation of care' in the Philippines, beyond - army.mil",
-          "Class of 2030 begins medical journey at Wayne State School of Medicine White Coat Ceremony - Today@Wayne",
-          "Brookland fire department converts second squad truck for medical calls - K8 News | Jonesboro, Arkansas"
-        ]
-      },
-      {
-        "trend": "mental",
-        "market_code": "LB",
-        "category": "Mental Health",
-        "score": 13,
-        "examples": [
-          "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF",
-          "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF",
-          "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF"
+          "The 7 Healthy Habits That Can Improve Your Health in 30 Days - Hartford HealthCare"
         ]
       },
       {
         "trend": "health alert",
         "market_code": "LB",
         "category": "Arab Health",
-        "score": 13,
+        "score": 16,
         "examples": [
-          "Reservoir in Stanton County among those on Nebraska health alert - KTIV",
-          "Wisconsin health alert: Rackow Family Sausage bratwurst contains undeclared allergens - WKOW",
-          "Florida DOH issues toxic algae health alert for Lake Okeechobee - Treasure Coast News"
+          "Wisconsin DATCP issues public health alert due undeclared allergens in sausage - KPTV",
+          "Wisconsin DATCP issues public health alert due undeclared allergens in sausage - WCTV",
+          "Wisconsin DATCP issues public health alert due undeclared allergens in sausage - WMTV 15 NEWS"
         ]
       },
       {
-        "trend": "mental health",
+        "trend": "mental",
         "market_code": "LB",
         "category": "Mental Health",
-        "score": 12,
+        "score": 15,
         "examples": [
           "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF",
-          "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF",
-          "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF"
+          "Road closures from Moore Equity in Mental Health 5K hits DC Saturday - WTOP",
+          "Shinedown’s Eric Bass temporarily steps away from touring, cites ‘mental health crash’ - WBRC"
         ]
       },
       {
         "trend": "outbreak",
         "market_code": "LB",
         "category": "Outbreaks",
-        "score": 12,
+        "score": 15,
         "examples": [
           "EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 08, Data as of 05 July 2026 - WHO | Regional Office for Africa",
           "Parasite Outbreak Sparks Health Warning - KITV",
-          "Explosive Diarrhea Outbreak Continues to Grow as Authorities Race to Find Source - WSJ"
+          "Cyclospora outbreak sickens 50 people in Florida, health officials say - WESH"
+        ]
+      },
+      {
+        "trend": "mental health",
+        "market_code": "LB",
+        "category": "Mental Health",
+        "score": 14,
+        "examples": [
+          "Tracking Key Mental Health and Substance Use Policy Actions Under the Trump Administration - KFF",
+          "Road closures from Moore Equity in Mental Health 5K hits DC Saturday - WTOP",
+          "Shinedown’s Eric Bass temporarily steps away from touring, cites ‘mental health crash’ - WBRC"
+        ]
+      },
+      {
+        "trend": "medical",
+        "market_code": "LB",
+        "category": "Arab Health",
+        "score": 13,
+        "examples": [
+          "These church members disagree on politics. Together they’re wiping out medical debt. - North Carolina Health News",
+          "Miam lawmakers target Cuban regime’s 'medical missions' with new sanctions push - WLRN",
+          "Soldiers test key medical technologies, forge 'constellation of care' in the Philippines, beyond - army.mil"
         ]
       },
       {
@@ -2755,20 +2755,9 @@
         "category": "Arab Health",
         "score": 10,
         "examples": [
-          "German lawmakers approve healthcare shake-up aimed at taming costs - Reuters",
+          "The 7 Healthy Habits That Can Improve Your Health in 30 Days - Hartford HealthCare",
           "Chutes & Ladders—Trump taps Klomp as HHS Deputy Secretary - Fierce Healthcare",
           "Health systems embrace technology firms' AI development lessons - Healthcare Finance News"
-        ]
-      },
-      {
-        "trend": "disease",
-        "market_code": "LB",
-        "category": "Arab Health",
-        "score": 10,
-        "examples": [
-          "CDC’s Global Health Efforts Halt Rift Valley Fever - Centers for Disease Control and Prevention | CDC (.gov)",
-          "CDC’s Global Health Efforts Halt Rift Valley Fever - Centers for Disease Control and Prevention | CDC (.gov)",
-          "EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 08, Data as of 05 July 2026 - WHO | Regional Office for Africa"
         ]
       },
       {
@@ -2783,10 +2772,32 @@
         ]
       },
       {
+        "trend": "health care",
+        "market_code": "LB",
+        "category": "Arab Health",
+        "score": 8,
+        "examples": [
+          "Community-based mental health care strengthens Tri-Cities economy | Opinion - Tri-City Herald",
+          "Does Health Tech Actually Work? This Group Wants to Find Out. | Health Care | U.S. News - US News Health",
+          "UC San Diego establishes hub to accelerate the delivery of data-driven, equitable health care - News-Medical"
+        ]
+      },
+      {
+        "trend": "public health",
+        "market_code": "LB",
+        "category": "Arab Health",
+        "score": 7,
+        "examples": [
+          "Wisconsin DATCP issues public health alert due undeclared allergens in sausage - KPTV",
+          "Wisconsin DATCP issues public health alert due undeclared allergens in sausage - WCTV",
+          "Wisconsin DATCP issues public health alert due undeclared allergens in sausage - WMTV 15 NEWS"
+        ]
+      },
+      {
         "trend": "nebraska health",
         "market_code": "LB",
         "category": "Arab Health",
-        "score": 10,
+        "score": 7,
         "examples": [
           "Reservoir in Stanton County among those on Nebraska health alert - KTIV",
           "Reservoir in Stanton County among those on Nebraska health alert - AZ Family",
@@ -2797,18 +2808,7 @@
         "trend": "those nebraska health",
         "market_code": "LB",
         "category": "Arab Health",
-        "score": 10,
-        "examples": [
-          "Reservoir in Stanton County among those on Nebraska health alert - KTIV",
-          "Reservoir in Stanton County among those on Nebraska health alert - AZ Family",
-          "Reservoir in Stanton County among those on Nebraska health alert - KTIV"
-        ]
-      },
-      {
-        "trend": "nebraska health alert",
-        "market_code": "LB",
-        "category": "Arab Health",
-        "score": 10,
+        "score": 7,
         "examples": [
           "Reservoir in Stanton County among those on Nebraska health alert - KTIV",
           "Reservoir in Stanton County among those on Nebraska health alert - AZ Family",
