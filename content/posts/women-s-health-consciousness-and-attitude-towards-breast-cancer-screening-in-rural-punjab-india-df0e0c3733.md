@@ -1,0 +1,68 @@
+---
+title: "Women’s Health Consciousness and Attitude Towards Breast Cancer Screening in Rural Punjab, India: A Cr..."
+description: "Women’s Health Consciousness and Attitude Towards Breast Cancer Screening in Rural Punjab, India: A Cross-Sectional Study in Ludhiana District Cureus"
+slug: "women-s-health-consciousness-and-attitude-towards-breast-cancer-screening-in-rural-punjab-india-df0e0c3733"
+category: "Chronic Disease"
+region: "India"
+source: "Google News / India"
+source_url: "https://news.google.com/rss/articles/CBMiigJBVV95cUxNNDI3ay00Y3p0N3Q5VTU0ZVN3aFFYUXoxSVZiNjBDSGNfQXpReTQ1VjRfRHRfRnJKWkJZcVhvQWRDU2lIc1RDTXBwSFBNeXpRb3FrdjZlTlUwcUZyZUhYYl9aM1hXMUZMV3BaWlRvTG85Slo4d2ZBVjFwNW5OWEhqclZnRXFrVmRsUW5udzdQd1lEZ0JrOGRGOHVDSDI2T2VJTDlucm84ZTFrbHFuUkJCSkZqd3loQ3FtcDdPZ3ZPNHFYOW8wRVlyS242NEJJNkZwX0RPcjIwTXhjMG5HdDNTUG80MWFab3pwSzZUTVZ0bXVrb3hfb2pTZTJiUHpTM29WVzhkd1BkZFIwdw?oc=5"
+source_confidence: "medium"
+published_at: "Mon, 13 Jul 2026 11:32:15 GMT"
+generated_at: "2026-07-13T13:55:48.996229+00:00"
+image_url: "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+trend: "health"
+keywords:
+  - "health"
+  - "chronic disease"
+  - "india health news"
+  - "health trends"
+  - "medical news"
+  - "public health"
+  - "women"
+  - "consciousness"
+  - "attitude"
+  - "towards"
+  - "breast"
+  - "cancer"
+  - "screening"
+  - "rural"
+  - "punjab"
+  - "india"
+  - "cross-sectional"
+---
+
+# Women’s Health Consciousness and Attitude Towards Breast Cancer Screening in Rural Punjab, India: A Cr...
+
+Women’s Health Consciousness and Attitude Towards Breast Cancer Screening in Rural Punjab, India: A Cross-Sectional Study in Ludhiana District Cureus
+
+## Why this topic is trending
+
+This update was selected because it is connected to a detected health trend in **India**.
+
+Tracked trend: **health**.
+
+## What happened
+
+This update is part of a wider health signal being monitored from public sources and regional news feeds. It may relate to public health, medical research, symptoms, outbreaks, treatments, wellness, healthcare systems, or health technology.
+
+## Why it matters
+
+- It may affect public awareness or online health searches.
+- It may be connected to health policy, disease monitoring, treatment updates, or scientific research.
+- The original source should be reviewed for full details and context.
+
+## Region
+
+**India**
+
+## Category
+
+**Chronic Disease**
+
+## Source context
+
+This article summarizes a public health signal from **Google News / India**. HantaUpdates links to the original source so readers can verify details directly.
+
+## Medical disclaimer
+
+HantaUpdates does not provide medical advice, diagnosis, or treatment. Always follow guidance from your local health authority or a qualified medical professional.
