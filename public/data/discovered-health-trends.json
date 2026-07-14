@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-14T07:42:22.927320+00:00",
+  "updated_at": "2026-07-14T12:59:29.929588+00:00",
   "total_trends": 252,
   "markets": {
     "United States": [
@@ -7,54 +7,65 @@
         "trend": "health",
         "market_code": "US",
         "category": "US Health",
-        "score": 82,
+        "score": 77,
         "examples": [
           "Heat and health - World Health Organization (WHO)",
           "Heat and health - World Health Organization (WHO)",
-          "Conspiracy theories about Sen. McConnell’s health spread after his office posts hospital photo - NBC News"
+          "GPEI leadership in endemic countries: polio eradication and strengthening health systems go hand in hand - Global Polio Eradication"
         ]
       },
       {
         "trend": "medical",
         "market_code": "US",
         "category": "US Health",
-        "score": 20,
+        "score": 24,
         "examples": [
-          "MUSC works to prevent treat type of health problem linked to Lindsay Grahams death - The Medical University of South Carolina",
-          "What is aortic dissection, the medical emergency linked to Graham’s death? - The Hill",
-          "Agitation in Dementia Can Be Helped by Medical Cannabis, Study Suggests - The New York Times"
-        ]
-      },
-      {
-        "trend": "healthcare",
-        "market_code": "US",
-        "category": "US Health",
-        "score": 13,
-        "examples": [
-          "Chutes & Ladders—SSM Health CEO elected chair of AHA; Northwell Health names first chief biotechnology officer - Fierce Healthcare",
-          "New Medical Diagnostic Equipment Accessibility Requirements: What Healthcare Systems Should Know - Husch Blackwell",
-          "$6M funding for mental health telehealth in NZ and more briefs - Healthcare IT News"
+          "Nashville Fire investigating incident involving member of medical staff and patient - WSMV",
+          "The Intelligent Medical Record: Reimagining the Future of Oncology Care - Targeted Oncology",
+          "Prominent Urogynecologist Peter Rosenblatt, MD Joins Holy Cross Medical Group - Florida Hospital News and Healthcare Report"
         ]
       },
       {
         "trend": "mental",
         "market_code": "US",
         "category": "Mental Health",
-        "score": 13,
+        "score": 11,
         "examples": [
-          "HHS & VA Announce Bold, Comprehensive Partnership to Advance Rapid-Acting Mental Health Treatments for Veterans - HHS.gov",
           "Two teen counselors warn of mental health effects of too much screen time - Spectrum News 13",
+          "Weight-loss drugs didn't improve mental health or job prospects - Axios",
           "HHS & VA Announce Bold, Comprehensive Partnership to Advance Rapid-Acting Mental Health Treatments for Veterans - HHS.gov"
+        ]
+      },
+      {
+        "trend": "disease",
+        "market_code": "US",
+        "category": "US Health",
+        "score": 10,
+        "examples": [
+          "Information for Travelers Returning from Ebola-Affected Areas - Centers for Disease Control and Prevention | CDC (.gov)",
+          "Frontiers in Science: Simple test could help track metabolic health in cancer and chronic disease - Frontiers",
+          "Information for Travelers Returning from Ebola-Affected Areas - Centers for Disease Control and Prevention | CDC (.gov)"
+        ]
+      },
+      {
+        "trend": "healthcare",
+        "market_code": "US",
+        "category": "US Health",
+        "score": 10,
+        "examples": [
+          "Funding Tracker '26: Evidenced closes Fund I with $24M - Fierce Healthcare",
+          "Prominent Urogynecologist Peter Rosenblatt, MD Joins Holy Cross Medical Group - Florida Hospital News and Healthcare Report",
+          "Student presents AI research at international healthcare technology conference - The Pennsylvania State University"
         ]
       },
       {
         "trend": "mental health",
         "market_code": "US",
         "category": "Mental Health",
-        "score": 12,
+        "score": 10,
         "examples": [
-          "HHS & VA Announce Bold, Comprehensive Partnership to Advance Rapid-Acting Mental Health Treatments for Veterans - HHS.gov",
           "Two teen counselors warn of mental health effects of too much screen time - Spectrum News 13",
+          "Weight-loss drugs didn't improve mental health or job prospects - Axios",
           "HHS & VA Announce Bold, Comprehensive Partnership to Advance Rapid-Acting Mental Health Treatments for Veterans - HHS.gov"
         ]
       },
@@ -62,11 +73,11 @@
         "trend": "outbreak",
         "market_code": "US",
         "category": "Outbreaks",
-        "score": 11,
+        "score": 9,
         "examples": [
-          "Stomach parasite outbreak prompts health warning in Mecklenburg County - WSOC TV",
-          "What we know about the cyclosporiasis outbreak linked to produce - PBS",
-          "U.S. cyclospora outbreak sickens thousands, but California cases remain within normal range - CBS News"
+          "What is the CDC doing to stop the cyclosporiasis outbreak? - USA Today",
+          "Intestinal parasite outbreak prompts health warning in Mecklenburg County - WSOC TV",
+          "Authorities investigate Taco Bell and lettuce in multistate cyclosporiasis outbreak - The Washington Post"
         ]
       },
       {
@@ -75,31 +86,9 @@
         "category": "Outbreaks",
         "score": 9,
         "examples": [
-          "Measles virus detected in Lawrence wastewater - FOX4KC.com",
-          "Structures of the Crimean-Congo hemorrhagic fever virus RNA-dependent RNA polymerase - Nature",
-          "Intestinal Virus Hits W.Va. - West Virginia Public Broadcasting"
-        ]
-      },
-      {
-        "trend": "disease",
-        "market_code": "US",
-        "category": "US Health",
-        "score": 8,
-        "examples": [
-          "Information for Travelers Returning from Ebola-Affected Areas - Centers for Disease Control and Prevention | CDC (.gov)",
-          "Information for Travelers Returning from Ebola-Affected Areas - Centers for Disease Control and Prevention | CDC (.gov)",
-          "Information for Travelers Returning from Ebola-Affected Areas - Centers for Disease Control and Prevention | CDC (.gov)"
-        ]
-      },
-      {
-        "trend": "infection",
-        "market_code": "US",
-        "category": "Outbreaks",
-        "score": 8,
-        "examples": [
-          "Latest Texas cyclospora infection numbers, the intestinal parasite infection that causes explosive diarrhea - WFAA",
-          "Latest Texas cyclospora infection numbers, the intestinal parasite infection that causes explosive diarrhea - WFAA",
-          "\"Fungal Storms\" Are Increasing Across The USA, Bringing A Potentially Fatal Infection - IFLScience"
+          "\"Explosive\" diarrhea virus reaches Tampa Bay: What to know - Axios",
+          "Lewisville to spray after second trap tests positive for West Nile Virus - Cross Timbers Gazette",
+          "Measles virus detected in Lawrence wastewater - FOX4KC.com"
         ]
       },
       {
@@ -114,25 +103,36 @@
         ]
       },
       {
+        "trend": "heat health",
+        "market_code": "US",
+        "category": "US Health",
+        "score": 7,
+        "examples": [
+          "Heat and health - World Health Organization (WHO)",
+          "Heat and health - World Health Organization (WHO)",
+          "Heat and health - World Health Organization (WHO)"
+        ]
+      },
+      {
         "trend": "hospital",
         "market_code": "US",
         "category": "US Health",
-        "score": 6,
+        "score": 7,
         "examples": [
-          "Conspiracy theories about Sen. McConnell’s health spread after his office posts hospital photo - NBC News",
-          "Study Medication Proves Promising for Hypothalamic Obesity - Seattle Children’s Hospital",
-          "WVU Medicine J.W. Ruby Memorial Hospital nationally recognized for commitment to excellence in heart disease, stroke, and diabetes care - WV News"
+          "Why Health Systems Are Increasingly Investing in Smart Rooms - American Hospital Association",
+          "Prominent Urogynecologist Peter Rosenblatt, MD Joins Holy Cross Medical Group - Florida Hospital News and Healthcare Report",
+          "Study Medication Proves Promising for Hypothalamic Obesity - Seattle Children’s Hospital"
         ]
       },
       {
         "trend": "public health",
         "market_code": "US",
         "category": "US Health",
-        "score": 6,
+        "score": 7,
         "examples": [
-          "San Antonio: American Public Health Association - Food Politics by Marion Nestle -",
-          "Pesticide makers stack wins against US environmental, public health groups - Reuters",
-          "From nursing to public health leadership: ASU alum reflects on a career of service - ASU News"
+          "Vaccine skeptic Dr. Ryan Cole to stay on board of Idaho’s largest public health district - Idaho Capital Sun",
+          "College of Public Health inducts new Delta Omega members - University of Nebraska Medical Center",
+          "Vaccine skeptic Dr. Ryan Cole to stay on board of Idaho’s largest public health district - Idaho Capital Sun"
         ]
       }
     ],
@@ -141,22 +141,22 @@
         "trend": "health",
         "market_code": "GB",
         "category": "Europe Health",
-        "score": 72,
+        "score": 79,
         "examples": [
           "Heat and health - World Health Organization (WHO)",
           "Heat and health - World Health Organization (WHO)",
-          "BMA responds to RCPCH's State of Child Health 2026 report - BMA"
+          "New map shows how pharmaceuticals support jobs, health and growth across every UK nation - The Association of the British Pharmaceutical Industry|ABPI"
         ]
       },
       {
         "trend": "medical",
         "market_code": "GB",
         "category": "Europe Health",
-        "score": 19,
+        "score": 18,
         "examples": [
           "Tielemans medical date set as Man Utd move to seal second summer deal - London Evening Standard",
-          "World-class UK medical research not delivering enough benefits for British people - Sky News",
-          "Visa applicants’ medical data wrongly sent to lawyers hired by employers - Financial Times"
+          "Funding cuts risk UK’s position as a medical research leader, BMA warns - Doctors.net.uk",
+          "Germany: Inflexion acquires Primed, a specialist German provider of medical consumables, from Paragon Partners - Investors in Healthcare"
         ]
       },
       {
@@ -166,19 +166,30 @@
         "score": 14,
         "examples": [
           "Heat and health - World Health Organization (WHO)",
-          "Yellow heat health warning in South West as heatwave continues - BBC",
-          "Heat and health - World Health Organization (WHO)"
+          "Heat and health - World Health Organization (WHO)",
+          "Yellow heat health warning in South West as heatwave continues - BBC"
         ]
       },
       {
-        "trend": "outbreak",
+        "trend": "children",
         "market_code": "GB",
-        "category": "Outbreaks",
+        "category": "Children Health",
+        "score": 12,
+        "examples": [
+          "Putting children first in Oxfordshire’s drive to reduce health inequalities - Oxfordshire County Council",
+          "UK children will be one of unhealthiest generations in decades, doctors say - The Guardian",
+          "Putting children first in Oxfordshire’s drive to reduce health inequalities - Oxfordshire County Council"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "GB",
+        "category": "Mental Health",
         "score": 11,
         "examples": [
-          "Stomach parasite outbreak prompts health warning in Mecklenburg County - WSOC TV",
-          "Michigan health officials identify ‘potential source’ of parasite outbreak - The Guardian",
-          "31 states are reporting cases of ‘explosive diarrhea’ parasite as outbreak continues to grow - The Independent"
+          "Better Together Cup: Non-league clubs shine light on mental health - Football Supporters' Association",
+          "Two teen counselors warn of mental health effects of too much screen time - Spectrum News 13",
+          "Better Together Cup: Non-league clubs shine light on mental health - Football Supporters' Association"
         ]
       },
       {
@@ -187,38 +198,38 @@
         "category": "Europe Health",
         "score": 11,
         "examples": [
-          "Opinion | Private Equity's New AI Push Raises Old Questions for Healthcare - MedPage Today",
-          "Russia to develop AI for telemedicine under healthcare strategy through 2030 - Новости GxP",
-          "Astana Hub Unveils Infrastructure to Support AI Innovation in Healthcare - The Astana Times"
-        ]
-      },
-      {
-        "trend": "mental",
-        "market_code": "GB",
-        "category": "Mental Health",
-        "score": 10,
-        "examples": [
-          "3 things affecting teenagers’ mental health - Tes",
-          "Two teen counselors warn of mental health effects of too much screen time - Spectrum News 13",
-          "3 things affecting teenagers’ mental health - Tes"
+          "Germany: Inflexion acquires Primed, a specialist German provider of medical consumables, from Paragon Partners - Investors in Healthcare",
+          "Technological innovation in healthcare: challenges, opportunities and impact on sustainability - Frontiers",
+          "Russia to develop AI for telemedicine under healthcare strategy through 2030 - Новости GxP"
         ]
       },
       {
         "trend": "mental health",
         "market_code": "GB",
         "category": "Mental Health",
+        "score": 10,
+        "examples": [
+          "Better Together Cup: Non-league clubs shine light on mental health - Football Supporters' Association",
+          "Two teen counselors warn of mental health effects of too much screen time - Spectrum News 13",
+          "Better Together Cup: Non-league clubs shine light on mental health - Football Supporters' Association"
+        ]
+      },
+      {
+        "trend": "outbreak",
+        "market_code": "GB",
+        "category": "Outbreaks",
         "score": 9,
         "examples": [
-          "3 things affecting teenagers’ mental health - Tes",
-          "Two teen counselors warn of mental health effects of too much screen time - Spectrum News 13",
-          "3 things affecting teenagers’ mental health - Tes"
+          "Intestinal parasite outbreak prompts health warning in Mecklenburg County - WSOC TV",
+          "31 states are reporting cases of ‘explosive diarrhea’ parasite as outbreak continues to grow - The Independent",
+          "Michigan health officials identify ‘potential source’ of parasite outbreak - The Guardian"
         ]
       },
       {
         "trend": "disease",
         "market_code": "GB",
         "category": "Europe Health",
-        "score": 9,
+        "score": 8,
         "examples": [
           "Information for Travelers Returning from Ebola-Affected Areas - Centers for Disease Control and Prevention | CDC (.gov)",
           "Information for Travelers Returning from Ebola-Affected Areas - Centers for Disease Control and Prevention | CDC (.gov)",
@@ -226,47 +237,36 @@
         ]
       },
       {
-        "trend": "warning",
-        "market_code": "GB",
-        "category": "Europe Health",
-        "score": 8,
-        "examples": [
-          "Yellow heat health warning in South West as heatwave continues - BBC",
-          "Yellow heat health warning in South West as heatwave continues - BBC",
-          "Wildfire warning as moors and forests at risk - BBC"
-        ]
-      },
-      {
         "trend": "yellow heat health",
         "market_code": "GB",
         "category": "Europe Health",
-        "score": 8,
-        "examples": [
-          "Yellow heat health warning in South West as heatwave continues - BBC",
-          "Yellow heat health warning in South West as heatwave continues - BBC",
-          "Yellow heat health alert issued for Portsmouth and surrounding area as heatwave continues - portsmouth.co.uk"
-        ]
-      },
-      {
-        "trend": "children",
-        "market_code": "GB",
-        "category": "Children Health",
         "score": 7,
         "examples": [
-          "UK children will be one of unhealthiest generations in decades, doctors say - The Guardian",
-          "Study Medication Proves Promising for Hypothalamic Obesity - Seattle Children’s Hospital",
-          "Telepresence avatar use for children with cancer in schools: a study on barriers and facilitators - Frontiers"
+          "Yellow heat health warning in South West as heatwave continues - BBC",
+          "Yellow heat health alert issued for Portsmouth and surrounding area as heatwave continues - portsmouth.co.uk",
+          "Yellow heat health alert issued for Dorset as hot weather continues - Bournemouth Echo"
         ]
       },
       {
-        "trend": "health warning",
+        "trend": "health alert",
         "market_code": "GB",
         "category": "Europe Health",
-        "score": 6,
+        "score": 7,
         "examples": [
-          "Yellow heat health warning in South West as heatwave continues - BBC",
-          "Yellow heat health warning in South West as heatwave continues - BBC",
-          "Stomach parasite outbreak prompts health warning in Mecklenburg County - WSOC TV"
+          "UK issues heat health alert as wildfires and deaths rise - MSN",
+          "Yellow heat health alert issued for Portsmouth and surrounding area as heatwave continues - portsmouth.co.uk",
+          "Yellow heat health alert issued for Dorset as hot weather continues - Bournemouth Echo"
+        ]
+      },
+      {
+        "trend": "heat health alert",
+        "market_code": "GB",
+        "category": "Europe Health",
+        "score": 7,
+        "examples": [
+          "UK issues heat health alert as wildfires and deaths rise - MSN",
+          "Yellow heat health alert issued for Portsmouth and surrounding area as heatwave continues - portsmouth.co.uk",
+          "Yellow heat health alert issued for Dorset as hot weather continues - Bournemouth Echo"
         ]
       }
     ],
@@ -275,55 +275,22 @@
         "trend": "health",
         "market_code": "DE",
         "category": "Europe Health",
-        "score": 85,
+        "score": 75,
         "examples": [
           "Heat and health - World Health Organization (WHO)",
           "Heat and health - World Health Organization (WHO)",
-          "Conspiracy theories about Sen. McConnell’s health spread after his office posts hospital photo - NBC News"
+          "GPEI leadership in endemic countries: polio eradication and strengthening health systems go hand in hand - Global Polio Eradication"
         ]
       },
       {
         "trend": "medical",
         "market_code": "DE",
         "category": "Europe Health",
-        "score": 19,
+        "score": 24,
         "examples": [
-          "MUSC works to prevent treat type of health problem linked to Lindsay Grahams death - The Medical University of South Carolina",
-          "What is aortic dissection, the medical emergency linked to Graham’s death? - The Hill",
-          "Agitation in Dementia Can Be Helped by Medical Cannabis, Study Suggests - The New York Times"
-        ]
-      },
-      {
-        "trend": "mental",
-        "market_code": "DE",
-        "category": "Mental Health",
-        "score": 13,
-        "examples": [
-          "HHS & VA Announce Bold, Comprehensive Partnership to Advance Rapid-Acting Mental Health Treatments for Veterans - HHS.gov",
-          "Two teen counselors warn of mental health effects of too much screen time - Spectrum News 13",
-          "HHS & VA Announce Bold, Comprehensive Partnership to Advance Rapid-Acting Mental Health Treatments for Veterans - HHS.gov"
-        ]
-      },
-      {
-        "trend": "mental health",
-        "market_code": "DE",
-        "category": "Mental Health",
-        "score": 12,
-        "examples": [
-          "HHS & VA Announce Bold, Comprehensive Partnership to Advance Rapid-Acting Mental Health Treatments for Veterans - HHS.gov",
-          "Two teen counselors warn of mental health effects of too much screen time - Spectrum News 13",
-          "HHS & VA Announce Bold, Comprehensive Partnership to Advance Rapid-Acting Mental Health Treatments for Veterans - HHS.gov"
-        ]
-      },
-      {
-        "trend": "outbreak",
-        "market_code": "DE",
-        "category": "Outbreaks",
-        "score": 12,
-        "examples": [
-          "Stomach parasite outbreak prompts health warning in Mecklenburg County - WSOC TV",
-          "What we know about the cyclosporiasis outbreak linked to produce - PBS",
-          "U.S. cyclospora outbreak sickens thousands, but California cases remain within normal range - CBS News"
+          "Nashville Fire investigating incident involving member of medical staff and patient - WSMV",
+          "The Intelligent Medical Record: Reimagining the Future of Oncology Care - Targeted Oncology",
+          "Prominent Urogynecologist Peter Rosenblatt, MD Joins Holy Cross Medical Group - Florida Hospital News and Healthcare Report"
         ]
       },
       {
@@ -332,20 +299,53 @@
         "category": "Europe Health",
         "score": 11,
         "examples": [
-          "Chutes & Ladders—SSM Health CEO elected chair of AHA; Northwell Health names first chief biotechnology officer - Fierce Healthcare",
-          "New Medical Diagnostic Equipment Accessibility Requirements: What Healthcare Systems Should Know - Husch Blackwell",
+          "Funding Tracker '26: Evidenced closes Fund I with $24M - Fierce Healthcare",
+          "Prominent Urogynecologist Peter Rosenblatt, MD Joins Holy Cross Medical Group - Florida Hospital News and Healthcare Report",
           "Student presents AI research at international healthcare technology conference - The Pennsylvania State University"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "DE",
+        "category": "Mental Health",
+        "score": 11,
+        "examples": [
+          "Two teen counselors warn of mental health effects of too much screen time - Spectrum News 13",
+          "Weight-loss drugs didn't improve mental health or job prospects - Axios",
+          "HHS & VA Announce Bold, Comprehensive Partnership to Advance Rapid-Acting Mental Health Treatments for Veterans - HHS.gov"
         ]
       },
       {
         "trend": "disease",
         "market_code": "DE",
         "category": "Europe Health",
-        "score": 9,
+        "score": 10,
         "examples": [
           "Information for Travelers Returning from Ebola-Affected Areas - Centers for Disease Control and Prevention | CDC (.gov)",
-          "Information for Travelers Returning from Ebola-Affected Areas - Centers for Disease Control and Prevention | CDC (.gov)",
+          "Frontiers in Science: Simple test could help track metabolic health in cancer and chronic disease - Frontiers",
           "Information for Travelers Returning from Ebola-Affected Areas - Centers for Disease Control and Prevention | CDC (.gov)"
+        ]
+      },
+      {
+        "trend": "mental health",
+        "market_code": "DE",
+        "category": "Mental Health",
+        "score": 10,
+        "examples": [
+          "Two teen counselors warn of mental health effects of too much screen time - Spectrum News 13",
+          "Weight-loss drugs didn't improve mental health or job prospects - Axios",
+          "HHS & VA Announce Bold, Comprehensive Partnership to Advance Rapid-Acting Mental Health Treatments for Veterans - HHS.gov"
+        ]
+      },
+      {
+        "trend": "outbreak",
+        "market_code": "DE",
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "What is the CDC doing to stop the cyclosporiasis outbreak? - USA Today",
+          "Intestinal parasite outbreak prompts health warning in Mecklenburg County - WSOC TV",
+          "Authorities investigate Taco Bell and lettuce in multistate cyclosporiasis outbreak - The Washington Post"
         ]
       },
       {
@@ -354,9 +354,9 @@
         "category": "Outbreaks",
         "score": 9,
         "examples": [
-          "Measles virus detected in Lawrence wastewater - FOX4KC.com",
-          "Structures of the Crimean-Congo hemorrhagic fever virus RNA-dependent RNA polymerase - Nature",
-          "Intestinal Virus Hits W.Va. - West Virginia Public Broadcasting"
+          "\"Explosive\" diarrhea virus reaches Tampa Bay: What to know - Axios",
+          "Lewisville to spray after second trap tests positive for West Nile Virus - Cross Timbers Gazette",
+          "Measles virus detected in Lawrence wastewater - FOX4KC.com"
         ]
       },
       {
@@ -371,36 +371,36 @@
         ]
       },
       {
-        "trend": "infection",
+        "trend": "heat health",
         "market_code": "DE",
-        "category": "Outbreaks",
+        "category": "Europe Health",
         "score": 7,
         "examples": [
-          "Latest Texas cyclospora infection numbers, the intestinal parasite infection that causes explosive diarrhea - WFAA",
-          "Latest Texas cyclospora infection numbers, the intestinal parasite infection that causes explosive diarrhea - WFAA",
-          "Metabolites Produced by Gut Bacteria May Protect Against Fungal Infection | Newswise - Newswise"
+          "Heat and health - World Health Organization (WHO)",
+          "Heat and health - World Health Organization (WHO)",
+          "Heat and health - World Health Organization (WHO)"
         ]
       },
       {
         "trend": "hospital",
         "market_code": "DE",
         "category": "Europe Health",
-        "score": 6,
+        "score": 7,
         "examples": [
-          "Conspiracy theories about Sen. McConnell’s health spread after his office posts hospital photo - NBC News",
-          "Study Medication Proves Promising for Hypothalamic Obesity - Seattle Children’s Hospital",
-          "WVU Medicine J.W. Ruby Memorial Hospital nationally recognized for commitment to excellence in heart disease, stroke, and diabetes care - WV News"
+          "Why Health Systems Are Increasingly Investing in Smart Rooms - American Hospital Association",
+          "Prominent Urogynecologist Peter Rosenblatt, MD Joins Holy Cross Medical Group - Florida Hospital News and Healthcare Report",
+          "Study Medication Proves Promising for Hypothalamic Obesity - Seattle Children’s Hospital"
         ]
       },
       {
         "trend": "public health",
         "market_code": "DE",
         "category": "Europe Health",
-        "score": 6,
+        "score": 7,
         "examples": [
-          "San Antonio: American Public Health Association - Food Politics by Marion Nestle -",
-          "Pesticide makers stack wins against US environmental, public health groups - Reuters",
-          "From nursing to public health leadership: ASU alum reflects on a career of service - ASU News"
+          "Vaccine skeptic Dr. Ryan Cole to stay on board of Idaho’s largest public health district - Idaho Capital Sun",
+          "College of Public Health inducts new Delta Omega members - University of Nebraska Medical Center",
+          "Vaccine skeptic Dr. Ryan Cole to stay on board of Idaho’s largest public health district - Idaho Capital Sun"
         ]
       }
     ],
@@ -409,55 +409,22 @@
         "trend": "health",
         "market_code": "FR",
         "category": "Europe Health",
-        "score": 85,
+        "score": 75,
         "examples": [
           "Heat and health - World Health Organization (WHO)",
           "Heat and health - World Health Organization (WHO)",
-          "Conspiracy theories about Sen. McConnell’s health spread after his office posts hospital photo - NBC News"
+          "GPEI leadership in endemic countries: polio eradication and strengthening health systems go hand in hand - Global Polio Eradication"
         ]
       },
       {
         "trend": "medical",
         "market_code": "FR",
         "category": "Europe Health",
-        "score": 19,
+        "score": 24,
         "examples": [
-          "MUSC works to prevent treat type of health problem linked to Lindsay Grahams death - The Medical University of South Carolina",
-          "What is aortic dissection, the medical emergency linked to Graham’s death? - The Hill",
-          "Agitation in Dementia Can Be Helped by Medical Cannabis, Study Suggests - The New York Times"
-        ]
-      },
-      {
-        "trend": "mental",
-        "market_code": "FR",
-        "category": "Mental Health",
-        "score": 13,
-        "examples": [
-          "HHS & VA Announce Bold, Comprehensive Partnership to Advance Rapid-Acting Mental Health Treatments for Veterans - HHS.gov",
-          "Two teen counselors warn of mental health effects of too much screen time - Spectrum News 13",
-          "HHS & VA Announce Bold, Comprehensive Partnership to Advance Rapid-Acting Mental Health Treatments for Veterans - HHS.gov"
-        ]
-      },
-      {
-        "trend": "mental health",
-        "market_code": "FR",
-        "category": "Mental Health",
-        "score": 12,
-        "examples": [
-          "HHS & VA Announce Bold, Comprehensive Partnership to Advance Rapid-Acting Mental Health Treatments for Veterans - HHS.gov",
-          "Two teen counselors warn of mental health effects of too much screen time - Spectrum News 13",
-          "HHS & VA Announce Bold, Comprehensive Partnership to Advance Rapid-Acting Mental Health Treatments for Veterans - HHS.gov"
-        ]
-      },
-      {
-        "trend": "outbreak",
-        "market_code": "FR",
-        "category": "Outbreaks",
-        "score": 12,
-        "examples": [
-          "Stomach parasite outbreak prompts health warning in Mecklenburg County - WSOC TV",
-          "What we know about the cyclosporiasis outbreak linked to produce - PBS",
-          "U.S. cyclospora outbreak sickens thousands, but California cases remain within normal range - CBS News"
+          "Nashville Fire investigating incident involving member of medical staff and patient - WSMV",
+          "The Intelligent Medical Record: Reimagining the Future of Oncology Care - Targeted Oncology",
+          "Prominent Urogynecologist Peter Rosenblatt, MD Joins Holy Cross Medical Group - Florida Hospital News and Healthcare Report"
         ]
       },
       {
@@ -466,20 +433,53 @@
         "category": "Europe Health",
         "score": 11,
         "examples": [
-          "Chutes & Ladders—SSM Health CEO elected chair of AHA; Northwell Health names first chief biotechnology officer - Fierce Healthcare",
-          "New Medical Diagnostic Equipment Accessibility Requirements: What Healthcare Systems Should Know - Husch Blackwell",
+          "Funding Tracker '26: Evidenced closes Fund I with $24M - Fierce Healthcare",
+          "Prominent Urogynecologist Peter Rosenblatt, MD Joins Holy Cross Medical Group - Florida Hospital News and Healthcare Report",
           "Student presents AI research at international healthcare technology conference - The Pennsylvania State University"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "FR",
+        "category": "Mental Health",
+        "score": 11,
+        "examples": [
+          "Two teen counselors warn of mental health effects of too much screen time - Spectrum News 13",
+          "Weight-loss drugs didn't improve mental health or job prospects - Axios",
+          "HHS & VA Announce Bold, Comprehensive Partnership to Advance Rapid-Acting Mental Health Treatments for Veterans - HHS.gov"
         ]
       },
       {
         "trend": "disease",
         "market_code": "FR",
         "category": "Europe Health",
-        "score": 9,
+        "score": 10,
         "examples": [
           "Information for Travelers Returning from Ebola-Affected Areas - Centers for Disease Control and Prevention | CDC (.gov)",
-          "Information for Travelers Returning from Ebola-Affected Areas - Centers for Disease Control and Prevention | CDC (.gov)",
+          "Frontiers in Science: Simple test could help track metabolic health in cancer and chronic disease - Frontiers",
           "Information for Travelers Returning from Ebola-Affected Areas - Centers for Disease Control and Prevention | CDC (.gov)"
+        ]
+      },
+      {
+        "trend": "mental health",
+        "market_code": "FR",
+        "category": "Mental Health",
+        "score": 10,
+        "examples": [
+          "Two teen counselors warn of mental health effects of too much screen time - Spectrum News 13",
+          "Weight-loss drugs didn't improve mental health or job prospects - Axios",
+          "HHS & VA Announce Bold, Comprehensive Partnership to Advance Rapid-Acting Mental Health Treatments for Veterans - HHS.gov"
+        ]
+      },
+      {
+        "trend": "outbreak",
+        "market_code": "FR",
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "What is the CDC doing to stop the cyclosporiasis outbreak? - USA Today",
+          "Intestinal parasite outbreak prompts health warning in Mecklenburg County - WSOC TV",
+          "Authorities investigate Taco Bell and lettuce in multistate cyclosporiasis outbreak - The Washington Post"
         ]
       },
       {
@@ -488,9 +488,9 @@
         "category": "Outbreaks",
         "score": 9,
         "examples": [
-          "Measles virus detected in Lawrence wastewater - FOX4KC.com",
-          "Structures of the Crimean-Congo hemorrhagic fever virus RNA-dependent RNA polymerase - Nature",
-          "Intestinal Virus Hits W.Va. - West Virginia Public Broadcasting"
+          "\"Explosive\" diarrhea virus reaches Tampa Bay: What to know - Axios",
+          "Lewisville to spray after second trap tests positive for West Nile Virus - Cross Timbers Gazette",
+          "Measles virus detected in Lawrence wastewater - FOX4KC.com"
         ]
       },
       {
@@ -505,36 +505,36 @@
         ]
       },
       {
-        "trend": "infection",
+        "trend": "heat health",
         "market_code": "FR",
-        "category": "Outbreaks",
+        "category": "Europe Health",
         "score": 7,
         "examples": [
-          "Latest Texas cyclospora infection numbers, the intestinal parasite infection that causes explosive diarrhea - WFAA",
-          "Latest Texas cyclospora infection numbers, the intestinal parasite infection that causes explosive diarrhea - WFAA",
-          "Metabolites Produced by Gut Bacteria May Protect Against Fungal Infection | Newswise - Newswise"
+          "Heat and health - World Health Organization (WHO)",
+          "Heat and health - World Health Organization (WHO)",
+          "Heat and health - World Health Organization (WHO)"
         ]
       },
       {
         "trend": "hospital",
         "market_code": "FR",
         "category": "Europe Health",
-        "score": 6,
+        "score": 7,
         "examples": [
-          "Conspiracy theories about Sen. McConnell’s health spread after his office posts hospital photo - NBC News",
-          "Study Medication Proves Promising for Hypothalamic Obesity - Seattle Children’s Hospital",
-          "WVU Medicine J.W. Ruby Memorial Hospital nationally recognized for commitment to excellence in heart disease, stroke, and diabetes care - WV News"
+          "Why Health Systems Are Increasingly Investing in Smart Rooms - American Hospital Association",
+          "Prominent Urogynecologist Peter Rosenblatt, MD Joins Holy Cross Medical Group - Florida Hospital News and Healthcare Report",
+          "Study Medication Proves Promising for Hypothalamic Obesity - Seattle Children’s Hospital"
         ]
       },
       {
         "trend": "public health",
         "market_code": "FR",
         "category": "Europe Health",
-        "score": 6,
+        "score": 7,
         "examples": [
-          "San Antonio: American Public Health Association - Food Politics by Marion Nestle -",
-          "Pesticide makers stack wins against US environmental, public health groups - Reuters",
-          "From nursing to public health leadership: ASU alum reflects on a career of service - ASU News"
+          "Vaccine skeptic Dr. Ryan Cole to stay on board of Idaho’s largest public health district - Idaho Capital Sun",
+          "College of Public Health inducts new Delta Omega members - University of Nebraska Medical Center",
+          "Vaccine skeptic Dr. Ryan Cole to stay on board of Idaho’s largest public health district - Idaho Capital Sun"
         ]
       }
     ],
@@ -543,55 +543,22 @@
         "trend": "health",
         "market_code": "IT",
         "category": "Europe Health",
-        "score": 85,
+        "score": 75,
         "examples": [
           "Heat and health - World Health Organization (WHO)",
           "Heat and health - World Health Organization (WHO)",
-          "Conspiracy theories about Sen. McConnell’s health spread after his office posts hospital photo - NBC News"
+          "GPEI leadership in endemic countries: polio eradication and strengthening health systems go hand in hand - Global Polio Eradication"
         ]
       },
       {
         "trend": "medical",
         "market_code": "IT",
         "category": "Europe Health",
-        "score": 19,
+        "score": 24,
         "examples": [
-          "MUSC works to prevent treat type of health problem linked to Lindsay Grahams death - The Medical University of South Carolina",
-          "What is aortic dissection, the medical emergency linked to Graham’s death? - The Hill",
-          "Agitation in Dementia Can Be Helped by Medical Cannabis, Study Suggests - The New York Times"
-        ]
-      },
-      {
-        "trend": "mental",
-        "market_code": "IT",
-        "category": "Mental Health",
-        "score": 13,
-        "examples": [
-          "HHS & VA Announce Bold, Comprehensive Partnership to Advance Rapid-Acting Mental Health Treatments for Veterans - HHS.gov",
-          "Two teen counselors warn of mental health effects of too much screen time - Spectrum News 13",
-          "HHS & VA Announce Bold, Comprehensive Partnership to Advance Rapid-Acting Mental Health Treatments for Veterans - HHS.gov"
-        ]
-      },
-      {
-        "trend": "mental health",
-        "market_code": "IT",
-        "category": "Mental Health",
-        "score": 12,
-        "examples": [
-          "HHS & VA Announce Bold, Comprehensive Partnership to Advance Rapid-Acting Mental Health Treatments for Veterans - HHS.gov",
-          "Two teen counselors warn of mental health effects of too much screen time - Spectrum News 13",
-          "HHS & VA Announce Bold, Comprehensive Partnership to Advance Rapid-Acting Mental Health Treatments for Veterans - HHS.gov"
-        ]
-      },
-      {
-        "trend": "outbreak",
-        "market_code": "IT",
-        "category": "Outbreaks",
-        "score": 12,
-        "examples": [
-          "Stomach parasite outbreak prompts health warning in Mecklenburg County - WSOC TV",
-          "What we know about the cyclosporiasis outbreak linked to produce - PBS",
-          "U.S. cyclospora outbreak sickens thousands, but California cases remain within normal range - CBS News"
+          "Nashville Fire investigating incident involving member of medical staff and patient - WSMV",
+          "The Intelligent Medical Record: Reimagining the Future of Oncology Care - Targeted Oncology",
+          "Prominent Urogynecologist Peter Rosenblatt, MD Joins Holy Cross Medical Group - Florida Hospital News and Healthcare Report"
         ]
       },
       {
@@ -600,20 +567,53 @@
         "category": "Europe Health",
         "score": 11,
         "examples": [
-          "Chutes & Ladders—SSM Health CEO elected chair of AHA; Northwell Health names first chief biotechnology officer - Fierce Healthcare",
-          "New Medical Diagnostic Equipment Accessibility Requirements: What Healthcare Systems Should Know - Husch Blackwell",
+          "Funding Tracker '26: Evidenced closes Fund I with $24M - Fierce Healthcare",
+          "Prominent Urogynecologist Peter Rosenblatt, MD Joins Holy Cross Medical Group - Florida Hospital News and Healthcare Report",
           "Student presents AI research at international healthcare technology conference - The Pennsylvania State University"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "IT",
+        "category": "Mental Health",
+        "score": 11,
+        "examples": [
+          "Two teen counselors warn of mental health effects of too much screen time - Spectrum News 13",
+          "Weight-loss drugs didn't improve mental health or job prospects - Axios",
+          "HHS & VA Announce Bold, Comprehensive Partnership to Advance Rapid-Acting Mental Health Treatments for Veterans - HHS.gov"
         ]
       },
       {
         "trend": "disease",
         "market_code": "IT",
         "category": "Europe Health",
-        "score": 9,
+        "score": 10,
         "examples": [
           "Information for Travelers Returning from Ebola-Affected Areas - Centers for Disease Control and Prevention | CDC (.gov)",
-          "Information for Travelers Returning from Ebola-Affected Areas - Centers for Disease Control and Prevention | CDC (.gov)",
+          "Frontiers in Science: Simple test could help track metabolic health in cancer and chronic disease - Frontiers",
           "Information for Travelers Returning from Ebola-Affected Areas - Centers for Disease Control and Prevention | CDC (.gov)"
+        ]
+      },
+      {
+        "trend": "mental health",
+        "market_code": "IT",
+        "category": "Mental Health",
+        "score": 10,
+        "examples": [
+          "Two teen counselors warn of mental health effects of too much screen time - Spectrum News 13",
+          "Weight-loss drugs didn't improve mental health or job prospects - Axios",
+          "HHS & VA Announce Bold, Comprehensive Partnership to Advance Rapid-Acting Mental Health Treatments for Veterans - HHS.gov"
+        ]
+      },
+      {
+        "trend": "outbreak",
+        "market_code": "IT",
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "What is the CDC doing to stop the cyclosporiasis outbreak? - USA Today",
+          "Intestinal parasite outbreak prompts health warning in Mecklenburg County - WSOC TV",
+          "Authorities investigate Taco Bell and lettuce in multistate cyclosporiasis outbreak - The Washington Post"
         ]
       },
       {
@@ -622,9 +622,9 @@
         "category": "Outbreaks",
         "score": 9,
         "examples": [
-          "Measles virus detected in Lawrence wastewater - FOX4KC.com",
-          "Structures of the Crimean-Congo hemorrhagic fever virus RNA-dependent RNA polymerase - Nature",
-          "Intestinal Virus Hits W.Va. - West Virginia Public Broadcasting"
+          "\"Explosive\" diarrhea virus reaches Tampa Bay: What to know - Axios",
+          "Lewisville to spray after second trap tests positive for West Nile Virus - Cross Timbers Gazette",
+          "Measles virus detected in Lawrence wastewater - FOX4KC.com"
         ]
       },
       {
@@ -639,36 +639,36 @@
         ]
       },
       {
-        "trend": "infection",
+        "trend": "heat health",
         "market_code": "IT",
-        "category": "Outbreaks",
+        "category": "Europe Health",
         "score": 7,
         "examples": [
-          "Latest Texas cyclospora infection numbers, the intestinal parasite infection that causes explosive diarrhea - WFAA",
-          "Latest Texas cyclospora infection numbers, the intestinal parasite infection that causes explosive diarrhea - WFAA",
-          "Metabolites Produced by Gut Bacteria May Protect Against Fungal Infection | Newswise - Newswise"
+          "Heat and health - World Health Organization (WHO)",
+          "Heat and health - World Health Organization (WHO)",
+          "Heat and health - World Health Organization (WHO)"
         ]
       },
       {
         "trend": "hospital",
         "market_code": "IT",
         "category": "Europe Health",
-        "score": 6,
+        "score": 7,
         "examples": [
-          "Conspiracy theories about Sen. McConnell’s health spread after his office posts hospital photo - NBC News",
-          "Study Medication Proves Promising for Hypothalamic Obesity - Seattle Children’s Hospital",
-          "WVU Medicine J.W. Ruby Memorial Hospital nationally recognized for commitment to excellence in heart disease, stroke, and diabetes care - WV News"
+          "Why Health Systems Are Increasingly Investing in Smart Rooms - American Hospital Association",
+          "Prominent Urogynecologist Peter Rosenblatt, MD Joins Holy Cross Medical Group - Florida Hospital News and Healthcare Report",
+          "Study Medication Proves Promising for Hypothalamic Obesity - Seattle Children’s Hospital"
         ]
       },
       {
         "trend": "public health",
         "market_code": "IT",
         "category": "Europe Health",
-        "score": 6,
+        "score": 7,
         "examples": [
-          "San Antonio: American Public Health Association - Food Politics by Marion Nestle -",
-          "Pesticide makers stack wins against US environmental, public health groups - Reuters",
-          "From nursing to public health leadership: ASU alum reflects on a career of service - ASU News"
+          "Vaccine skeptic Dr. Ryan Cole to stay on board of Idaho’s largest public health district - Idaho Capital Sun",
+          "College of Public Health inducts new Delta Omega members - University of Nebraska Medical Center",
+          "Vaccine skeptic Dr. Ryan Cole to stay on board of Idaho’s largest public health district - Idaho Capital Sun"
         ]
       }
     ],
@@ -677,55 +677,22 @@
         "trend": "health",
         "market_code": "ES",
         "category": "Europe Health",
-        "score": 85,
+        "score": 75,
         "examples": [
           "Heat and health - World Health Organization (WHO)",
           "Heat and health - World Health Organization (WHO)",
-          "Conspiracy theories about Sen. McConnell’s health spread after his office posts hospital photo - NBC News"
+          "GPEI leadership in endemic countries: polio eradication and strengthening health systems go hand in hand - Global Polio Eradication"
         ]
       },
       {
         "trend": "medical",
         "market_code": "ES",
         "category": "Europe Health",
-        "score": 19,
+        "score": 24,
         "examples": [
-          "MUSC works to prevent treat type of health problem linked to Lindsay Grahams death - The Medical University of South Carolina",
-          "What is aortic dissection, the medical emergency linked to Graham’s death? - The Hill",
-          "Agitation in Dementia Can Be Helped by Medical Cannabis, Study Suggests - The New York Times"
-        ]
-      },
-      {
-        "trend": "mental",
-        "market_code": "ES",
-        "category": "Mental Health",
-        "score": 13,
-        "examples": [
-          "HHS & VA Announce Bold, Comprehensive Partnership to Advance Rapid-Acting Mental Health Treatments for Veterans - HHS.gov",
-          "Two teen counselors warn of mental health effects of too much screen time - Spectrum News 13",
-          "HHS & VA Announce Bold, Comprehensive Partnership to Advance Rapid-Acting Mental Health Treatments for Veterans - HHS.gov"
-        ]
-      },
-      {
-        "trend": "mental health",
-        "market_code": "ES",
-        "category": "Mental Health",
-        "score": 12,
-        "examples": [
-          "HHS & VA Announce Bold, Comprehensive Partnership to Advance Rapid-Acting Mental Health Treatments for Veterans - HHS.gov",
-          "Two teen counselors warn of mental health effects of too much screen time - Spectrum News 13",
-          "HHS & VA Announce Bold, Comprehensive Partnership to Advance Rapid-Acting Mental Health Treatments for Veterans - HHS.gov"
-        ]
-      },
-      {
-        "trend": "outbreak",
-        "market_code": "ES",
-        "category": "Outbreaks",
-        "score": 12,
-        "examples": [
-          "Stomach parasite outbreak prompts health warning in Mecklenburg County - WSOC TV",
-          "What we know about the cyclosporiasis outbreak linked to produce - PBS",
-          "U.S. cyclospora outbreak sickens thousands, but California cases remain within normal range - CBS News"
+          "Nashville Fire investigating incident involving member of medical staff and patient - WSMV",
+          "The Intelligent Medical Record: Reimagining the Future of Oncology Care - Targeted Oncology",
+          "Prominent Urogynecologist Peter Rosenblatt, MD Joins Holy Cross Medical Group - Florida Hospital News and Healthcare Report"
         ]
       },
       {
@@ -734,20 +701,53 @@
         "category": "Europe Health",
         "score": 11,
         "examples": [
-          "Chutes & Ladders—SSM Health CEO elected chair of AHA; Northwell Health names first chief biotechnology officer - Fierce Healthcare",
-          "New Medical Diagnostic Equipment Accessibility Requirements: What Healthcare Systems Should Know - Husch Blackwell",
+          "Funding Tracker '26: Evidenced closes Fund I with $24M - Fierce Healthcare",
+          "Prominent Urogynecologist Peter Rosenblatt, MD Joins Holy Cross Medical Group - Florida Hospital News and Healthcare Report",
           "Student presents AI research at international healthcare technology conference - The Pennsylvania State University"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "ES",
+        "category": "Mental Health",
+        "score": 11,
+        "examples": [
+          "Two teen counselors warn of mental health effects of too much screen time - Spectrum News 13",
+          "Weight-loss drugs didn't improve mental health or job prospects - Axios",
+          "HHS & VA Announce Bold, Comprehensive Partnership to Advance Rapid-Acting Mental Health Treatments for Veterans - HHS.gov"
         ]
       },
       {
         "trend": "disease",
         "market_code": "ES",
         "category": "Europe Health",
-        "score": 9,
+        "score": 10,
         "examples": [
           "Information for Travelers Returning from Ebola-Affected Areas - Centers for Disease Control and Prevention | CDC (.gov)",
-          "Information for Travelers Returning from Ebola-Affected Areas - Centers for Disease Control and Prevention | CDC (.gov)",
+          "Frontiers in Science: Simple test could help track metabolic health in cancer and chronic disease - Frontiers",
           "Information for Travelers Returning from Ebola-Affected Areas - Centers for Disease Control and Prevention | CDC (.gov)"
+        ]
+      },
+      {
+        "trend": "mental health",
+        "market_code": "ES",
+        "category": "Mental Health",
+        "score": 10,
+        "examples": [
+          "Two teen counselors warn of mental health effects of too much screen time - Spectrum News 13",
+          "Weight-loss drugs didn't improve mental health or job prospects - Axios",
+          "HHS & VA Announce Bold, Comprehensive Partnership to Advance Rapid-Acting Mental Health Treatments for Veterans - HHS.gov"
+        ]
+      },
+      {
+        "trend": "outbreak",
+        "market_code": "ES",
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "What is the CDC doing to stop the cyclosporiasis outbreak? - USA Today",
+          "Intestinal parasite outbreak prompts health warning in Mecklenburg County - WSOC TV",
+          "Authorities investigate Taco Bell and lettuce in multistate cyclosporiasis outbreak - The Washington Post"
         ]
       },
       {
@@ -756,9 +756,9 @@
         "category": "Outbreaks",
         "score": 9,
         "examples": [
-          "Measles virus detected in Lawrence wastewater - FOX4KC.com",
-          "Structures of the Crimean-Congo hemorrhagic fever virus RNA-dependent RNA polymerase - Nature",
-          "Intestinal Virus Hits W.Va. - West Virginia Public Broadcasting"
+          "\"Explosive\" diarrhea virus reaches Tampa Bay: What to know - Axios",
+          "Lewisville to spray after second trap tests positive for West Nile Virus - Cross Timbers Gazette",
+          "Measles virus detected in Lawrence wastewater - FOX4KC.com"
         ]
       },
       {
@@ -773,36 +773,36 @@
         ]
       },
       {
-        "trend": "infection",
+        "trend": "heat health",
         "market_code": "ES",
-        "category": "Outbreaks",
+        "category": "Europe Health",
         "score": 7,
         "examples": [
-          "Latest Texas cyclospora infection numbers, the intestinal parasite infection that causes explosive diarrhea - WFAA",
-          "Latest Texas cyclospora infection numbers, the intestinal parasite infection that causes explosive diarrhea - WFAA",
-          "Metabolites Produced by Gut Bacteria May Protect Against Fungal Infection | Newswise - Newswise"
+          "Heat and health - World Health Organization (WHO)",
+          "Heat and health - World Health Organization (WHO)",
+          "Heat and health - World Health Organization (WHO)"
         ]
       },
       {
         "trend": "hospital",
         "market_code": "ES",
         "category": "Europe Health",
-        "score": 6,
+        "score": 7,
         "examples": [
-          "Conspiracy theories about Sen. McConnell’s health spread after his office posts hospital photo - NBC News",
-          "Study Medication Proves Promising for Hypothalamic Obesity - Seattle Children’s Hospital",
-          "WVU Medicine J.W. Ruby Memorial Hospital nationally recognized for commitment to excellence in heart disease, stroke, and diabetes care - WV News"
+          "Why Health Systems Are Increasingly Investing in Smart Rooms - American Hospital Association",
+          "Prominent Urogynecologist Peter Rosenblatt, MD Joins Holy Cross Medical Group - Florida Hospital News and Healthcare Report",
+          "Study Medication Proves Promising for Hypothalamic Obesity - Seattle Children’s Hospital"
         ]
       },
       {
         "trend": "public health",
         "market_code": "ES",
         "category": "Europe Health",
-        "score": 6,
+        "score": 7,
         "examples": [
-          "San Antonio: American Public Health Association - Food Politics by Marion Nestle -",
-          "Pesticide makers stack wins against US environmental, public health groups - Reuters",
-          "From nursing to public health leadership: ASU alum reflects on a career of service - ASU News"
+          "Vaccine skeptic Dr. Ryan Cole to stay on board of Idaho’s largest public health district - Idaho Capital Sun",
+          "College of Public Health inducts new Delta Omega members - University of Nebraska Medical Center",
+          "Vaccine skeptic Dr. Ryan Cole to stay on board of Idaho’s largest public health district - Idaho Capital Sun"
         ]
       }
     ],
@@ -811,55 +811,22 @@
         "trend": "health",
         "market_code": "SE",
         "category": "Europe Health",
-        "score": 85,
+        "score": 75,
         "examples": [
           "Heat and health - World Health Organization (WHO)",
           "Heat and health - World Health Organization (WHO)",
-          "Conspiracy theories about Sen. McConnell’s health spread after his office posts hospital photo - NBC News"
+          "GPEI leadership in endemic countries: polio eradication and strengthening health systems go hand in hand - Global Polio Eradication"
         ]
       },
       {
         "trend": "medical",
         "market_code": "SE",
         "category": "Europe Health",
-        "score": 19,
+        "score": 24,
         "examples": [
-          "MUSC works to prevent treat type of health problem linked to Lindsay Grahams death - The Medical University of South Carolina",
-          "What is aortic dissection, the medical emergency linked to Graham’s death? - The Hill",
-          "Agitation in Dementia Can Be Helped by Medical Cannabis, Study Suggests - The New York Times"
-        ]
-      },
-      {
-        "trend": "mental",
-        "market_code": "SE",
-        "category": "Mental Health",
-        "score": 13,
-        "examples": [
-          "HHS & VA Announce Bold, Comprehensive Partnership to Advance Rapid-Acting Mental Health Treatments for Veterans - HHS.gov",
-          "Two teen counselors warn of mental health effects of too much screen time - Spectrum News 13",
-          "HHS & VA Announce Bold, Comprehensive Partnership to Advance Rapid-Acting Mental Health Treatments for Veterans - HHS.gov"
-        ]
-      },
-      {
-        "trend": "mental health",
-        "market_code": "SE",
-        "category": "Mental Health",
-        "score": 12,
-        "examples": [
-          "HHS & VA Announce Bold, Comprehensive Partnership to Advance Rapid-Acting Mental Health Treatments for Veterans - HHS.gov",
-          "Two teen counselors warn of mental health effects of too much screen time - Spectrum News 13",
-          "HHS & VA Announce Bold, Comprehensive Partnership to Advance Rapid-Acting Mental Health Treatments for Veterans - HHS.gov"
-        ]
-      },
-      {
-        "trend": "outbreak",
-        "market_code": "SE",
-        "category": "Outbreaks",
-        "score": 12,
-        "examples": [
-          "Stomach parasite outbreak prompts health warning in Mecklenburg County - WSOC TV",
-          "What we know about the cyclosporiasis outbreak linked to produce - PBS",
-          "U.S. cyclospora outbreak sickens thousands, but California cases remain within normal range - CBS News"
+          "Nashville Fire investigating incident involving member of medical staff and patient - WSMV",
+          "The Intelligent Medical Record: Reimagining the Future of Oncology Care - Targeted Oncology",
+          "Prominent Urogynecologist Peter Rosenblatt, MD Joins Holy Cross Medical Group - Florida Hospital News and Healthcare Report"
         ]
       },
       {
@@ -868,20 +835,53 @@
         "category": "Europe Health",
         "score": 11,
         "examples": [
-          "Chutes & Ladders—SSM Health CEO elected chair of AHA; Northwell Health names first chief biotechnology officer - Fierce Healthcare",
-          "New Medical Diagnostic Equipment Accessibility Requirements: What Healthcare Systems Should Know - Husch Blackwell",
+          "Funding Tracker '26: Evidenced closes Fund I with $24M - Fierce Healthcare",
+          "Prominent Urogynecologist Peter Rosenblatt, MD Joins Holy Cross Medical Group - Florida Hospital News and Healthcare Report",
           "Student presents AI research at international healthcare technology conference - The Pennsylvania State University"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "SE",
+        "category": "Mental Health",
+        "score": 11,
+        "examples": [
+          "Two teen counselors warn of mental health effects of too much screen time - Spectrum News 13",
+          "Weight-loss drugs didn't improve mental health or job prospects - Axios",
+          "HHS & VA Announce Bold, Comprehensive Partnership to Advance Rapid-Acting Mental Health Treatments for Veterans - HHS.gov"
         ]
       },
       {
         "trend": "disease",
         "market_code": "SE",
         "category": "Europe Health",
-        "score": 9,
+        "score": 10,
         "examples": [
           "Information for Travelers Returning from Ebola-Affected Areas - Centers for Disease Control and Prevention | CDC (.gov)",
-          "Information for Travelers Returning from Ebola-Affected Areas - Centers for Disease Control and Prevention | CDC (.gov)",
+          "Frontiers in Science: Simple test could help track metabolic health in cancer and chronic disease - Frontiers",
           "Information for Travelers Returning from Ebola-Affected Areas - Centers for Disease Control and Prevention | CDC (.gov)"
+        ]
+      },
+      {
+        "trend": "mental health",
+        "market_code": "SE",
+        "category": "Mental Health",
+        "score": 10,
+        "examples": [
+          "Two teen counselors warn of mental health effects of too much screen time - Spectrum News 13",
+          "Weight-loss drugs didn't improve mental health or job prospects - Axios",
+          "HHS & VA Announce Bold, Comprehensive Partnership to Advance Rapid-Acting Mental Health Treatments for Veterans - HHS.gov"
+        ]
+      },
+      {
+        "trend": "outbreak",
+        "market_code": "SE",
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "What is the CDC doing to stop the cyclosporiasis outbreak? - USA Today",
+          "Intestinal parasite outbreak prompts health warning in Mecklenburg County - WSOC TV",
+          "Authorities investigate Taco Bell and lettuce in multistate cyclosporiasis outbreak - The Washington Post"
         ]
       },
       {
@@ -890,9 +890,9 @@
         "category": "Outbreaks",
         "score": 9,
         "examples": [
-          "Measles virus detected in Lawrence wastewater - FOX4KC.com",
-          "Structures of the Crimean-Congo hemorrhagic fever virus RNA-dependent RNA polymerase - Nature",
-          "Intestinal Virus Hits W.Va. - West Virginia Public Broadcasting"
+          "\"Explosive\" diarrhea virus reaches Tampa Bay: What to know - Axios",
+          "Lewisville to spray after second trap tests positive for West Nile Virus - Cross Timbers Gazette",
+          "Measles virus detected in Lawrence wastewater - FOX4KC.com"
         ]
       },
       {
@@ -907,36 +907,36 @@
         ]
       },
       {
-        "trend": "infection",
+        "trend": "heat health",
         "market_code": "SE",
-        "category": "Outbreaks",
+        "category": "Europe Health",
         "score": 7,
         "examples": [
-          "Latest Texas cyclospora infection numbers, the intestinal parasite infection that causes explosive diarrhea - WFAA",
-          "Latest Texas cyclospora infection numbers, the intestinal parasite infection that causes explosive diarrhea - WFAA",
-          "Metabolites Produced by Gut Bacteria May Protect Against Fungal Infection | Newswise - Newswise"
+          "Heat and health - World Health Organization (WHO)",
+          "Heat and health - World Health Organization (WHO)",
+          "Heat and health - World Health Organization (WHO)"
         ]
       },
       {
         "trend": "hospital",
         "market_code": "SE",
         "category": "Europe Health",
-        "score": 6,
+        "score": 7,
         "examples": [
-          "Conspiracy theories about Sen. McConnell’s health spread after his office posts hospital photo - NBC News",
-          "Study Medication Proves Promising for Hypothalamic Obesity - Seattle Children’s Hospital",
-          "WVU Medicine J.W. Ruby Memorial Hospital nationally recognized for commitment to excellence in heart disease, stroke, and diabetes care - WV News"
+          "Why Health Systems Are Increasingly Investing in Smart Rooms - American Hospital Association",
+          "Prominent Urogynecologist Peter Rosenblatt, MD Joins Holy Cross Medical Group - Florida Hospital News and Healthcare Report",
+          "Study Medication Proves Promising for Hypothalamic Obesity - Seattle Children’s Hospital"
         ]
       },
       {
         "trend": "public health",
         "market_code": "SE",
         "category": "Europe Health",
-        "score": 6,
+        "score": 7,
         "examples": [
-          "San Antonio: American Public Health Association - Food Politics by Marion Nestle -",
-          "Pesticide makers stack wins against US environmental, public health groups - Reuters",
-          "From nursing to public health leadership: ASU alum reflects on a career of service - ASU News"
+          "Vaccine skeptic Dr. Ryan Cole to stay on board of Idaho’s largest public health district - Idaho Capital Sun",
+          "College of Public Health inducts new Delta Omega members - University of Nebraska Medical Center",
+          "Vaccine skeptic Dr. Ryan Cole to stay on board of Idaho’s largest public health district - Idaho Capital Sun"
         ]
       }
     ],
@@ -945,55 +945,22 @@
         "trend": "health",
         "market_code": "NL",
         "category": "Europe Health",
-        "score": 85,
+        "score": 75,
         "examples": [
           "Heat and health - World Health Organization (WHO)",
           "Heat and health - World Health Organization (WHO)",
-          "Conspiracy theories about Sen. McConnell’s health spread after his office posts hospital photo - NBC News"
+          "GPEI leadership in endemic countries: polio eradication and strengthening health systems go hand in hand - Global Polio Eradication"
         ]
       },
       {
         "trend": "medical",
         "market_code": "NL",
         "category": "Europe Health",
-        "score": 19,
+        "score": 24,
         "examples": [
-          "MUSC works to prevent treat type of health problem linked to Lindsay Grahams death - The Medical University of South Carolina",
-          "What is aortic dissection, the medical emergency linked to Graham’s death? - The Hill",
-          "Agitation in Dementia Can Be Helped by Medical Cannabis, Study Suggests - The New York Times"
-        ]
-      },
-      {
-        "trend": "mental",
-        "market_code": "NL",
-        "category": "Mental Health",
-        "score": 13,
-        "examples": [
-          "HHS & VA Announce Bold, Comprehensive Partnership to Advance Rapid-Acting Mental Health Treatments for Veterans - HHS.gov",
-          "Two teen counselors warn of mental health effects of too much screen time - Spectrum News 13",
-          "HHS & VA Announce Bold, Comprehensive Partnership to Advance Rapid-Acting Mental Health Treatments for Veterans - HHS.gov"
-        ]
-      },
-      {
-        "trend": "mental health",
-        "market_code": "NL",
-        "category": "Mental Health",
-        "score": 12,
-        "examples": [
-          "HHS & VA Announce Bold, Comprehensive Partnership to Advance Rapid-Acting Mental Health Treatments for Veterans - HHS.gov",
-          "Two teen counselors warn of mental health effects of too much screen time - Spectrum News 13",
-          "HHS & VA Announce Bold, Comprehensive Partnership to Advance Rapid-Acting Mental Health Treatments for Veterans - HHS.gov"
-        ]
-      },
-      {
-        "trend": "outbreak",
-        "market_code": "NL",
-        "category": "Outbreaks",
-        "score": 12,
-        "examples": [
-          "Stomach parasite outbreak prompts health warning in Mecklenburg County - WSOC TV",
-          "What we know about the cyclosporiasis outbreak linked to produce - PBS",
-          "U.S. cyclospora outbreak sickens thousands, but California cases remain within normal range - CBS News"
+          "Nashville Fire investigating incident involving member of medical staff and patient - WSMV",
+          "The Intelligent Medical Record: Reimagining the Future of Oncology Care - Targeted Oncology",
+          "Prominent Urogynecologist Peter Rosenblatt, MD Joins Holy Cross Medical Group - Florida Hospital News and Healthcare Report"
         ]
       },
       {
@@ -1002,20 +969,53 @@
         "category": "Europe Health",
         "score": 11,
         "examples": [
-          "Chutes & Ladders—SSM Health CEO elected chair of AHA; Northwell Health names first chief biotechnology officer - Fierce Healthcare",
-          "New Medical Diagnostic Equipment Accessibility Requirements: What Healthcare Systems Should Know - Husch Blackwell",
+          "Funding Tracker '26: Evidenced closes Fund I with $24M - Fierce Healthcare",
+          "Prominent Urogynecologist Peter Rosenblatt, MD Joins Holy Cross Medical Group - Florida Hospital News and Healthcare Report",
           "Student presents AI research at international healthcare technology conference - The Pennsylvania State University"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "NL",
+        "category": "Mental Health",
+        "score": 11,
+        "examples": [
+          "Two teen counselors warn of mental health effects of too much screen time - Spectrum News 13",
+          "Weight-loss drugs didn't improve mental health or job prospects - Axios",
+          "HHS & VA Announce Bold, Comprehensive Partnership to Advance Rapid-Acting Mental Health Treatments for Veterans - HHS.gov"
         ]
       },
       {
         "trend": "disease",
         "market_code": "NL",
         "category": "Europe Health",
-        "score": 9,
+        "score": 10,
         "examples": [
           "Information for Travelers Returning from Ebola-Affected Areas - Centers for Disease Control and Prevention | CDC (.gov)",
-          "Information for Travelers Returning from Ebola-Affected Areas - Centers for Disease Control and Prevention | CDC (.gov)",
+          "Frontiers in Science: Simple test could help track metabolic health in cancer and chronic disease - Frontiers",
           "Information for Travelers Returning from Ebola-Affected Areas - Centers for Disease Control and Prevention | CDC (.gov)"
+        ]
+      },
+      {
+        "trend": "mental health",
+        "market_code": "NL",
+        "category": "Mental Health",
+        "score": 10,
+        "examples": [
+          "Two teen counselors warn of mental health effects of too much screen time - Spectrum News 13",
+          "Weight-loss drugs didn't improve mental health or job prospects - Axios",
+          "HHS & VA Announce Bold, Comprehensive Partnership to Advance Rapid-Acting Mental Health Treatments for Veterans - HHS.gov"
+        ]
+      },
+      {
+        "trend": "outbreak",
+        "market_code": "NL",
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "What is the CDC doing to stop the cyclosporiasis outbreak? - USA Today",
+          "Intestinal parasite outbreak prompts health warning in Mecklenburg County - WSOC TV",
+          "Authorities investigate Taco Bell and lettuce in multistate cyclosporiasis outbreak - The Washington Post"
         ]
       },
       {
@@ -1024,9 +1024,9 @@
         "category": "Outbreaks",
         "score": 9,
         "examples": [
-          "Measles virus detected in Lawrence wastewater - FOX4KC.com",
-          "Structures of the Crimean-Congo hemorrhagic fever virus RNA-dependent RNA polymerase - Nature",
-          "Intestinal Virus Hits W.Va. - West Virginia Public Broadcasting"
+          "\"Explosive\" diarrhea virus reaches Tampa Bay: What to know - Axios",
+          "Lewisville to spray after second trap tests positive for West Nile Virus - Cross Timbers Gazette",
+          "Measles virus detected in Lawrence wastewater - FOX4KC.com"
         ]
       },
       {
@@ -1041,36 +1041,36 @@
         ]
       },
       {
-        "trend": "infection",
+        "trend": "heat health",
         "market_code": "NL",
-        "category": "Outbreaks",
+        "category": "Europe Health",
         "score": 7,
         "examples": [
-          "Latest Texas cyclospora infection numbers, the intestinal parasite infection that causes explosive diarrhea - WFAA",
-          "Latest Texas cyclospora infection numbers, the intestinal parasite infection that causes explosive diarrhea - WFAA",
-          "Metabolites Produced by Gut Bacteria May Protect Against Fungal Infection | Newswise - Newswise"
+          "Heat and health - World Health Organization (WHO)",
+          "Heat and health - World Health Organization (WHO)",
+          "Heat and health - World Health Organization (WHO)"
         ]
       },
       {
         "trend": "hospital",
         "market_code": "NL",
         "category": "Europe Health",
-        "score": 6,
+        "score": 7,
         "examples": [
-          "Conspiracy theories about Sen. McConnell’s health spread after his office posts hospital photo - NBC News",
-          "Study Medication Proves Promising for Hypothalamic Obesity - Seattle Children’s Hospital",
-          "WVU Medicine J.W. Ruby Memorial Hospital nationally recognized for commitment to excellence in heart disease, stroke, and diabetes care - WV News"
+          "Why Health Systems Are Increasingly Investing in Smart Rooms - American Hospital Association",
+          "Prominent Urogynecologist Peter Rosenblatt, MD Joins Holy Cross Medical Group - Florida Hospital News and Healthcare Report",
+          "Study Medication Proves Promising for Hypothalamic Obesity - Seattle Children’s Hospital"
         ]
       },
       {
         "trend": "public health",
         "market_code": "NL",
         "category": "Europe Health",
-        "score": 6,
+        "score": 7,
         "examples": [
-          "San Antonio: American Public Health Association - Food Politics by Marion Nestle -",
-          "Pesticide makers stack wins against US environmental, public health groups - Reuters",
-          "From nursing to public health leadership: ASU alum reflects on a career of service - ASU News"
+          "Vaccine skeptic Dr. Ryan Cole to stay on board of Idaho’s largest public health district - Idaho Capital Sun",
+          "College of Public Health inducts new Delta Omega members - University of Nebraska Medical Center",
+          "Vaccine skeptic Dr. Ryan Cole to stay on board of Idaho’s largest public health district - Idaho Capital Sun"
         ]
       }
     ],
@@ -1079,55 +1079,22 @@
         "trend": "health",
         "market_code": "FI",
         "category": "Europe Health",
-        "score": 85,
+        "score": 75,
         "examples": [
           "Heat and health - World Health Organization (WHO)",
           "Heat and health - World Health Organization (WHO)",
-          "Conspiracy theories about Sen. McConnell’s health spread after his office posts hospital photo - NBC News"
+          "GPEI leadership in endemic countries: polio eradication and strengthening health systems go hand in hand - Global Polio Eradication"
         ]
       },
       {
         "trend": "medical",
         "market_code": "FI",
         "category": "Europe Health",
-        "score": 19,
+        "score": 24,
         "examples": [
-          "MUSC works to prevent treat type of health problem linked to Lindsay Grahams death - The Medical University of South Carolina",
-          "What is aortic dissection, the medical emergency linked to Graham’s death? - The Hill",
-          "Agitation in Dementia Can Be Helped by Medical Cannabis, Study Suggests - The New York Times"
-        ]
-      },
-      {
-        "trend": "mental",
-        "market_code": "FI",
-        "category": "Mental Health",
-        "score": 13,
-        "examples": [
-          "HHS & VA Announce Bold, Comprehensive Partnership to Advance Rapid-Acting Mental Health Treatments for Veterans - HHS.gov",
-          "Two teen counselors warn of mental health effects of too much screen time - Spectrum News 13",
-          "HHS & VA Announce Bold, Comprehensive Partnership to Advance Rapid-Acting Mental Health Treatments for Veterans - HHS.gov"
-        ]
-      },
-      {
-        "trend": "mental health",
-        "market_code": "FI",
-        "category": "Mental Health",
-        "score": 12,
-        "examples": [
-          "HHS & VA Announce Bold, Comprehensive Partnership to Advance Rapid-Acting Mental Health Treatments for Veterans - HHS.gov",
-          "Two teen counselors warn of mental health effects of too much screen time - Spectrum News 13",
-          "HHS & VA Announce Bold, Comprehensive Partnership to Advance Rapid-Acting Mental Health Treatments for Veterans - HHS.gov"
-        ]
-      },
-      {
-        "trend": "outbreak",
-        "market_code": "FI",
-        "category": "Outbreaks",
-        "score": 12,
-        "examples": [
-          "Stomach parasite outbreak prompts health warning in Mecklenburg County - WSOC TV",
-          "What we know about the cyclosporiasis outbreak linked to produce - PBS",
-          "U.S. cyclospora outbreak sickens thousands, but California cases remain within normal range - CBS News"
+          "Nashville Fire investigating incident involving member of medical staff and patient - WSMV",
+          "The Intelligent Medical Record: Reimagining the Future of Oncology Care - Targeted Oncology",
+          "Prominent Urogynecologist Peter Rosenblatt, MD Joins Holy Cross Medical Group - Florida Hospital News and Healthcare Report"
         ]
       },
       {
@@ -1136,20 +1103,53 @@
         "category": "Europe Health",
         "score": 11,
         "examples": [
-          "Chutes & Ladders—SSM Health CEO elected chair of AHA; Northwell Health names first chief biotechnology officer - Fierce Healthcare",
-          "New Medical Diagnostic Equipment Accessibility Requirements: What Healthcare Systems Should Know - Husch Blackwell",
+          "Funding Tracker '26: Evidenced closes Fund I with $24M - Fierce Healthcare",
+          "Prominent Urogynecologist Peter Rosenblatt, MD Joins Holy Cross Medical Group - Florida Hospital News and Healthcare Report",
           "Student presents AI research at international healthcare technology conference - The Pennsylvania State University"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "FI",
+        "category": "Mental Health",
+        "score": 11,
+        "examples": [
+          "Two teen counselors warn of mental health effects of too much screen time - Spectrum News 13",
+          "Weight-loss drugs didn't improve mental health or job prospects - Axios",
+          "HHS & VA Announce Bold, Comprehensive Partnership to Advance Rapid-Acting Mental Health Treatments for Veterans - HHS.gov"
         ]
       },
       {
         "trend": "disease",
         "market_code": "FI",
         "category": "Europe Health",
-        "score": 9,
+        "score": 10,
         "examples": [
           "Information for Travelers Returning from Ebola-Affected Areas - Centers for Disease Control and Prevention | CDC (.gov)",
-          "Information for Travelers Returning from Ebola-Affected Areas - Centers for Disease Control and Prevention | CDC (.gov)",
+          "Frontiers in Science: Simple test could help track metabolic health in cancer and chronic disease - Frontiers",
           "Information for Travelers Returning from Ebola-Affected Areas - Centers for Disease Control and Prevention | CDC (.gov)"
+        ]
+      },
+      {
+        "trend": "mental health",
+        "market_code": "FI",
+        "category": "Mental Health",
+        "score": 10,
+        "examples": [
+          "Two teen counselors warn of mental health effects of too much screen time - Spectrum News 13",
+          "Weight-loss drugs didn't improve mental health or job prospects - Axios",
+          "HHS & VA Announce Bold, Comprehensive Partnership to Advance Rapid-Acting Mental Health Treatments for Veterans - HHS.gov"
+        ]
+      },
+      {
+        "trend": "outbreak",
+        "market_code": "FI",
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "What is the CDC doing to stop the cyclosporiasis outbreak? - USA Today",
+          "Intestinal parasite outbreak prompts health warning in Mecklenburg County - WSOC TV",
+          "Authorities investigate Taco Bell and lettuce in multistate cyclosporiasis outbreak - The Washington Post"
         ]
       },
       {
@@ -1158,9 +1158,9 @@
         "category": "Outbreaks",
         "score": 9,
         "examples": [
-          "Measles virus detected in Lawrence wastewater - FOX4KC.com",
-          "Structures of the Crimean-Congo hemorrhagic fever virus RNA-dependent RNA polymerase - Nature",
-          "Intestinal Virus Hits W.Va. - West Virginia Public Broadcasting"
+          "\"Explosive\" diarrhea virus reaches Tampa Bay: What to know - Axios",
+          "Lewisville to spray after second trap tests positive for West Nile Virus - Cross Timbers Gazette",
+          "Measles virus detected in Lawrence wastewater - FOX4KC.com"
         ]
       },
       {
@@ -1175,36 +1175,36 @@
         ]
       },
       {
-        "trend": "infection",
+        "trend": "heat health",
         "market_code": "FI",
-        "category": "Outbreaks",
+        "category": "Europe Health",
         "score": 7,
         "examples": [
-          "Latest Texas cyclospora infection numbers, the intestinal parasite infection that causes explosive diarrhea - WFAA",
-          "Latest Texas cyclospora infection numbers, the intestinal parasite infection that causes explosive diarrhea - WFAA",
-          "Metabolites Produced by Gut Bacteria May Protect Against Fungal Infection | Newswise - Newswise"
+          "Heat and health - World Health Organization (WHO)",
+          "Heat and health - World Health Organization (WHO)",
+          "Heat and health - World Health Organization (WHO)"
         ]
       },
       {
         "trend": "hospital",
         "market_code": "FI",
         "category": "Europe Health",
-        "score": 6,
+        "score": 7,
         "examples": [
-          "Conspiracy theories about Sen. McConnell’s health spread after his office posts hospital photo - NBC News",
-          "Study Medication Proves Promising for Hypothalamic Obesity - Seattle Children’s Hospital",
-          "WVU Medicine J.W. Ruby Memorial Hospital nationally recognized for commitment to excellence in heart disease, stroke, and diabetes care - WV News"
+          "Why Health Systems Are Increasingly Investing in Smart Rooms - American Hospital Association",
+          "Prominent Urogynecologist Peter Rosenblatt, MD Joins Holy Cross Medical Group - Florida Hospital News and Healthcare Report",
+          "Study Medication Proves Promising for Hypothalamic Obesity - Seattle Children’s Hospital"
         ]
       },
       {
         "trend": "public health",
         "market_code": "FI",
         "category": "Europe Health",
-        "score": 6,
+        "score": 7,
         "examples": [
-          "San Antonio: American Public Health Association - Food Politics by Marion Nestle -",
-          "Pesticide makers stack wins against US environmental, public health groups - Reuters",
-          "From nursing to public health leadership: ASU alum reflects on a career of service - ASU News"
+          "Vaccine skeptic Dr. Ryan Cole to stay on board of Idaho’s largest public health district - Idaho Capital Sun",
+          "College of Public Health inducts new Delta Omega members - University of Nebraska Medical Center",
+          "Vaccine skeptic Dr. Ryan Cole to stay on board of Idaho’s largest public health district - Idaho Capital Sun"
         ]
       }
     ],
@@ -1213,55 +1213,22 @@
         "trend": "health",
         "market_code": "NO",
         "category": "Europe Health",
-        "score": 85,
+        "score": 75,
         "examples": [
           "Heat and health - World Health Organization (WHO)",
           "Heat and health - World Health Organization (WHO)",
-          "Conspiracy theories about Sen. McConnell’s health spread after his office posts hospital photo - NBC News"
+          "GPEI leadership in endemic countries: polio eradication and strengthening health systems go hand in hand - Global Polio Eradication"
         ]
       },
       {
         "trend": "medical",
         "market_code": "NO",
         "category": "Europe Health",
-        "score": 19,
+        "score": 24,
         "examples": [
-          "MUSC works to prevent treat type of health problem linked to Lindsay Grahams death - The Medical University of South Carolina",
-          "What is aortic dissection, the medical emergency linked to Graham’s death? - The Hill",
-          "Agitation in Dementia Can Be Helped by Medical Cannabis, Study Suggests - The New York Times"
-        ]
-      },
-      {
-        "trend": "mental",
-        "market_code": "NO",
-        "category": "Mental Health",
-        "score": 13,
-        "examples": [
-          "HHS & VA Announce Bold, Comprehensive Partnership to Advance Rapid-Acting Mental Health Treatments for Veterans - HHS.gov",
-          "Two teen counselors warn of mental health effects of too much screen time - Spectrum News 13",
-          "HHS & VA Announce Bold, Comprehensive Partnership to Advance Rapid-Acting Mental Health Treatments for Veterans - HHS.gov"
-        ]
-      },
-      {
-        "trend": "mental health",
-        "market_code": "NO",
-        "category": "Mental Health",
-        "score": 12,
-        "examples": [
-          "HHS & VA Announce Bold, Comprehensive Partnership to Advance Rapid-Acting Mental Health Treatments for Veterans - HHS.gov",
-          "Two teen counselors warn of mental health effects of too much screen time - Spectrum News 13",
-          "HHS & VA Announce Bold, Comprehensive Partnership to Advance Rapid-Acting Mental Health Treatments for Veterans - HHS.gov"
-        ]
-      },
-      {
-        "trend": "outbreak",
-        "market_code": "NO",
-        "category": "Outbreaks",
-        "score": 12,
-        "examples": [
-          "Stomach parasite outbreak prompts health warning in Mecklenburg County - WSOC TV",
-          "What we know about the cyclosporiasis outbreak linked to produce - PBS",
-          "U.S. cyclospora outbreak sickens thousands, but California cases remain within normal range - CBS News"
+          "Nashville Fire investigating incident involving member of medical staff and patient - WSMV",
+          "The Intelligent Medical Record: Reimagining the Future of Oncology Care - Targeted Oncology",
+          "Prominent Urogynecologist Peter Rosenblatt, MD Joins Holy Cross Medical Group - Florida Hospital News and Healthcare Report"
         ]
       },
       {
@@ -1270,20 +1237,53 @@
         "category": "Europe Health",
         "score": 11,
         "examples": [
-          "Chutes & Ladders—SSM Health CEO elected chair of AHA; Northwell Health names first chief biotechnology officer - Fierce Healthcare",
-          "New Medical Diagnostic Equipment Accessibility Requirements: What Healthcare Systems Should Know - Husch Blackwell",
+          "Funding Tracker '26: Evidenced closes Fund I with $24M - Fierce Healthcare",
+          "Prominent Urogynecologist Peter Rosenblatt, MD Joins Holy Cross Medical Group - Florida Hospital News and Healthcare Report",
           "Student presents AI research at international healthcare technology conference - The Pennsylvania State University"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "NO",
+        "category": "Mental Health",
+        "score": 11,
+        "examples": [
+          "Two teen counselors warn of mental health effects of too much screen time - Spectrum News 13",
+          "Weight-loss drugs didn't improve mental health or job prospects - Axios",
+          "HHS & VA Announce Bold, Comprehensive Partnership to Advance Rapid-Acting Mental Health Treatments for Veterans - HHS.gov"
         ]
       },
       {
         "trend": "disease",
         "market_code": "NO",
         "category": "Europe Health",
-        "score": 9,
+        "score": 10,
         "examples": [
           "Information for Travelers Returning from Ebola-Affected Areas - Centers for Disease Control and Prevention | CDC (.gov)",
-          "Information for Travelers Returning from Ebola-Affected Areas - Centers for Disease Control and Prevention | CDC (.gov)",
+          "Frontiers in Science: Simple test could help track metabolic health in cancer and chronic disease - Frontiers",
           "Information for Travelers Returning from Ebola-Affected Areas - Centers for Disease Control and Prevention | CDC (.gov)"
+        ]
+      },
+      {
+        "trend": "mental health",
+        "market_code": "NO",
+        "category": "Mental Health",
+        "score": 10,
+        "examples": [
+          "Two teen counselors warn of mental health effects of too much screen time - Spectrum News 13",
+          "Weight-loss drugs didn't improve mental health or job prospects - Axios",
+          "HHS & VA Announce Bold, Comprehensive Partnership to Advance Rapid-Acting Mental Health Treatments for Veterans - HHS.gov"
+        ]
+      },
+      {
+        "trend": "outbreak",
+        "market_code": "NO",
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "What is the CDC doing to stop the cyclosporiasis outbreak? - USA Today",
+          "Intestinal parasite outbreak prompts health warning in Mecklenburg County - WSOC TV",
+          "Authorities investigate Taco Bell and lettuce in multistate cyclosporiasis outbreak - The Washington Post"
         ]
       },
       {
@@ -1292,9 +1292,9 @@
         "category": "Outbreaks",
         "score": 9,
         "examples": [
-          "Measles virus detected in Lawrence wastewater - FOX4KC.com",
-          "Structures of the Crimean-Congo hemorrhagic fever virus RNA-dependent RNA polymerase - Nature",
-          "Intestinal Virus Hits W.Va. - West Virginia Public Broadcasting"
+          "\"Explosive\" diarrhea virus reaches Tampa Bay: What to know - Axios",
+          "Lewisville to spray after second trap tests positive for West Nile Virus - Cross Timbers Gazette",
+          "Measles virus detected in Lawrence wastewater - FOX4KC.com"
         ]
       },
       {
@@ -1309,36 +1309,36 @@
         ]
       },
       {
-        "trend": "infection",
+        "trend": "heat health",
         "market_code": "NO",
-        "category": "Outbreaks",
+        "category": "Europe Health",
         "score": 7,
         "examples": [
-          "Latest Texas cyclospora infection numbers, the intestinal parasite infection that causes explosive diarrhea - WFAA",
-          "Latest Texas cyclospora infection numbers, the intestinal parasite infection that causes explosive diarrhea - WFAA",
-          "Metabolites Produced by Gut Bacteria May Protect Against Fungal Infection | Newswise - Newswise"
+          "Heat and health - World Health Organization (WHO)",
+          "Heat and health - World Health Organization (WHO)",
+          "Heat and health - World Health Organization (WHO)"
         ]
       },
       {
         "trend": "hospital",
         "market_code": "NO",
         "category": "Europe Health",
-        "score": 6,
+        "score": 7,
         "examples": [
-          "Conspiracy theories about Sen. McConnell’s health spread after his office posts hospital photo - NBC News",
-          "Study Medication Proves Promising for Hypothalamic Obesity - Seattle Children’s Hospital",
-          "WVU Medicine J.W. Ruby Memorial Hospital nationally recognized for commitment to excellence in heart disease, stroke, and diabetes care - WV News"
+          "Why Health Systems Are Increasingly Investing in Smart Rooms - American Hospital Association",
+          "Prominent Urogynecologist Peter Rosenblatt, MD Joins Holy Cross Medical Group - Florida Hospital News and Healthcare Report",
+          "Study Medication Proves Promising for Hypothalamic Obesity - Seattle Children’s Hospital"
         ]
       },
       {
         "trend": "public health",
         "market_code": "NO",
         "category": "Europe Health",
-        "score": 6,
+        "score": 7,
         "examples": [
-          "San Antonio: American Public Health Association - Food Politics by Marion Nestle -",
-          "Pesticide makers stack wins against US environmental, public health groups - Reuters",
-          "From nursing to public health leadership: ASU alum reflects on a career of service - ASU News"
+          "Vaccine skeptic Dr. Ryan Cole to stay on board of Idaho’s largest public health district - Idaho Capital Sun",
+          "College of Public Health inducts new Delta Omega members - University of Nebraska Medical Center",
+          "Vaccine skeptic Dr. Ryan Cole to stay on board of Idaho’s largest public health district - Idaho Capital Sun"
         ]
       }
     ],
@@ -1347,55 +1347,22 @@
         "trend": "health",
         "market_code": "JP",
         "category": "Asia Health",
-        "score": 85,
+        "score": 75,
         "examples": [
           "Heat and health - World Health Organization (WHO)",
           "Heat and health - World Health Organization (WHO)",
-          "Conspiracy theories about Sen. McConnell’s health spread after his office posts hospital photo - NBC News"
+          "GPEI leadership in endemic countries: polio eradication and strengthening health systems go hand in hand - Global Polio Eradication"
         ]
       },
       {
         "trend": "medical",
         "market_code": "JP",
         "category": "Asia Health",
-        "score": 19,
+        "score": 24,
         "examples": [
-          "MUSC works to prevent treat type of health problem linked to Lindsay Grahams death - The Medical University of South Carolina",
-          "What is aortic dissection, the medical emergency linked to Graham’s death? - The Hill",
-          "Agitation in Dementia Can Be Helped by Medical Cannabis, Study Suggests - The New York Times"
-        ]
-      },
-      {
-        "trend": "mental",
-        "market_code": "JP",
-        "category": "Mental Health",
-        "score": 13,
-        "examples": [
-          "HHS & VA Announce Bold, Comprehensive Partnership to Advance Rapid-Acting Mental Health Treatments for Veterans - HHS.gov",
-          "Two teen counselors warn of mental health effects of too much screen time - Spectrum News 13",
-          "HHS & VA Announce Bold, Comprehensive Partnership to Advance Rapid-Acting Mental Health Treatments for Veterans - HHS.gov"
-        ]
-      },
-      {
-        "trend": "mental health",
-        "market_code": "JP",
-        "category": "Mental Health",
-        "score": 12,
-        "examples": [
-          "HHS & VA Announce Bold, Comprehensive Partnership to Advance Rapid-Acting Mental Health Treatments for Veterans - HHS.gov",
-          "Two teen counselors warn of mental health effects of too much screen time - Spectrum News 13",
-          "HHS & VA Announce Bold, Comprehensive Partnership to Advance Rapid-Acting Mental Health Treatments for Veterans - HHS.gov"
-        ]
-      },
-      {
-        "trend": "outbreak",
-        "market_code": "JP",
-        "category": "Outbreaks",
-        "score": 12,
-        "examples": [
-          "Stomach parasite outbreak prompts health warning in Mecklenburg County - WSOC TV",
-          "What we know about the cyclosporiasis outbreak linked to produce - PBS",
-          "U.S. cyclospora outbreak sickens thousands, but California cases remain within normal range - CBS News"
+          "Nashville Fire investigating incident involving member of medical staff and patient - WSMV",
+          "The Intelligent Medical Record: Reimagining the Future of Oncology Care - Targeted Oncology",
+          "Prominent Urogynecologist Peter Rosenblatt, MD Joins Holy Cross Medical Group - Florida Hospital News and Healthcare Report"
         ]
       },
       {
@@ -1404,20 +1371,53 @@
         "category": "Asia Health",
         "score": 11,
         "examples": [
-          "Chutes & Ladders—SSM Health CEO elected chair of AHA; Northwell Health names first chief biotechnology officer - Fierce Healthcare",
-          "New Medical Diagnostic Equipment Accessibility Requirements: What Healthcare Systems Should Know - Husch Blackwell",
+          "Funding Tracker '26: Evidenced closes Fund I with $24M - Fierce Healthcare",
+          "Prominent Urogynecologist Peter Rosenblatt, MD Joins Holy Cross Medical Group - Florida Hospital News and Healthcare Report",
           "Student presents AI research at international healthcare technology conference - The Pennsylvania State University"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "JP",
+        "category": "Mental Health",
+        "score": 11,
+        "examples": [
+          "Two teen counselors warn of mental health effects of too much screen time - Spectrum News 13",
+          "Weight-loss drugs didn't improve mental health or job prospects - Axios",
+          "HHS & VA Announce Bold, Comprehensive Partnership to Advance Rapid-Acting Mental Health Treatments for Veterans - HHS.gov"
         ]
       },
       {
         "trend": "disease",
         "market_code": "JP",
         "category": "Asia Health",
-        "score": 9,
+        "score": 10,
         "examples": [
           "Information for Travelers Returning from Ebola-Affected Areas - Centers for Disease Control and Prevention | CDC (.gov)",
-          "Information for Travelers Returning from Ebola-Affected Areas - Centers for Disease Control and Prevention | CDC (.gov)",
+          "Frontiers in Science: Simple test could help track metabolic health in cancer and chronic disease - Frontiers",
           "Information for Travelers Returning from Ebola-Affected Areas - Centers for Disease Control and Prevention | CDC (.gov)"
+        ]
+      },
+      {
+        "trend": "mental health",
+        "market_code": "JP",
+        "category": "Mental Health",
+        "score": 10,
+        "examples": [
+          "Two teen counselors warn of mental health effects of too much screen time - Spectrum News 13",
+          "Weight-loss drugs didn't improve mental health or job prospects - Axios",
+          "HHS & VA Announce Bold, Comprehensive Partnership to Advance Rapid-Acting Mental Health Treatments for Veterans - HHS.gov"
+        ]
+      },
+      {
+        "trend": "outbreak",
+        "market_code": "JP",
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "What is the CDC doing to stop the cyclosporiasis outbreak? - USA Today",
+          "Intestinal parasite outbreak prompts health warning in Mecklenburg County - WSOC TV",
+          "Authorities investigate Taco Bell and lettuce in multistate cyclosporiasis outbreak - The Washington Post"
         ]
       },
       {
@@ -1426,9 +1426,9 @@
         "category": "Outbreaks",
         "score": 9,
         "examples": [
-          "Measles virus detected in Lawrence wastewater - FOX4KC.com",
-          "Structures of the Crimean-Congo hemorrhagic fever virus RNA-dependent RNA polymerase - Nature",
-          "Intestinal Virus Hits W.Va. - West Virginia Public Broadcasting"
+          "\"Explosive\" diarrhea virus reaches Tampa Bay: What to know - Axios",
+          "Lewisville to spray after second trap tests positive for West Nile Virus - Cross Timbers Gazette",
+          "Measles virus detected in Lawrence wastewater - FOX4KC.com"
         ]
       },
       {
@@ -1443,36 +1443,36 @@
         ]
       },
       {
-        "trend": "infection",
+        "trend": "heat health",
         "market_code": "JP",
-        "category": "Outbreaks",
+        "category": "Asia Health",
         "score": 7,
         "examples": [
-          "Latest Texas cyclospora infection numbers, the intestinal parasite infection that causes explosive diarrhea - WFAA",
-          "Latest Texas cyclospora infection numbers, the intestinal parasite infection that causes explosive diarrhea - WFAA",
-          "Metabolites Produced by Gut Bacteria May Protect Against Fungal Infection | Newswise - Newswise"
+          "Heat and health - World Health Organization (WHO)",
+          "Heat and health - World Health Organization (WHO)",
+          "Heat and health - World Health Organization (WHO)"
         ]
       },
       {
         "trend": "hospital",
         "market_code": "JP",
         "category": "Asia Health",
-        "score": 6,
+        "score": 7,
         "examples": [
-          "Conspiracy theories about Sen. McConnell’s health spread after his office posts hospital photo - NBC News",
-          "Study Medication Proves Promising for Hypothalamic Obesity - Seattle Children’s Hospital",
-          "WVU Medicine J.W. Ruby Memorial Hospital nationally recognized for commitment to excellence in heart disease, stroke, and diabetes care - WV News"
+          "Why Health Systems Are Increasingly Investing in Smart Rooms - American Hospital Association",
+          "Prominent Urogynecologist Peter Rosenblatt, MD Joins Holy Cross Medical Group - Florida Hospital News and Healthcare Report",
+          "Study Medication Proves Promising for Hypothalamic Obesity - Seattle Children’s Hospital"
         ]
       },
       {
         "trend": "public health",
         "market_code": "JP",
         "category": "Asia Health",
-        "score": 6,
+        "score": 7,
         "examples": [
-          "San Antonio: American Public Health Association - Food Politics by Marion Nestle -",
-          "Pesticide makers stack wins against US environmental, public health groups - Reuters",
-          "From nursing to public health leadership: ASU alum reflects on a career of service - ASU News"
+          "Vaccine skeptic Dr. Ryan Cole to stay on board of Idaho’s largest public health district - Idaho Capital Sun",
+          "College of Public Health inducts new Delta Omega members - University of Nebraska Medical Center",
+          "Vaccine skeptic Dr. Ryan Cole to stay on board of Idaho’s largest public health district - Idaho Capital Sun"
         ]
       }
     ],
@@ -1481,55 +1481,22 @@
         "trend": "health",
         "market_code": "CN",
         "category": "Asia Health",
-        "score": 85,
+        "score": 75,
         "examples": [
           "Heat and health - World Health Organization (WHO)",
           "Heat and health - World Health Organization (WHO)",
-          "Conspiracy theories about Sen. McConnell’s health spread after his office posts hospital photo - NBC News"
+          "GPEI leadership in endemic countries: polio eradication and strengthening health systems go hand in hand - Global Polio Eradication"
         ]
       },
       {
         "trend": "medical",
         "market_code": "CN",
         "category": "Asia Health",
-        "score": 19,
+        "score": 24,
         "examples": [
-          "MUSC works to prevent treat type of health problem linked to Lindsay Grahams death - The Medical University of South Carolina",
-          "What is aortic dissection, the medical emergency linked to Graham’s death? - The Hill",
-          "Agitation in Dementia Can Be Helped by Medical Cannabis, Study Suggests - The New York Times"
-        ]
-      },
-      {
-        "trend": "mental",
-        "market_code": "CN",
-        "category": "Mental Health",
-        "score": 13,
-        "examples": [
-          "HHS & VA Announce Bold, Comprehensive Partnership to Advance Rapid-Acting Mental Health Treatments for Veterans - HHS.gov",
-          "Two teen counselors warn of mental health effects of too much screen time - Spectrum News 13",
-          "HHS & VA Announce Bold, Comprehensive Partnership to Advance Rapid-Acting Mental Health Treatments for Veterans - HHS.gov"
-        ]
-      },
-      {
-        "trend": "mental health",
-        "market_code": "CN",
-        "category": "Mental Health",
-        "score": 12,
-        "examples": [
-          "HHS & VA Announce Bold, Comprehensive Partnership to Advance Rapid-Acting Mental Health Treatments for Veterans - HHS.gov",
-          "Two teen counselors warn of mental health effects of too much screen time - Spectrum News 13",
-          "HHS & VA Announce Bold, Comprehensive Partnership to Advance Rapid-Acting Mental Health Treatments for Veterans - HHS.gov"
-        ]
-      },
-      {
-        "trend": "outbreak",
-        "market_code": "CN",
-        "category": "Outbreaks",
-        "score": 12,
-        "examples": [
-          "Stomach parasite outbreak prompts health warning in Mecklenburg County - WSOC TV",
-          "What we know about the cyclosporiasis outbreak linked to produce - PBS",
-          "U.S. cyclospora outbreak sickens thousands, but California cases remain within normal range - CBS News"
+          "Nashville Fire investigating incident involving member of medical staff and patient - WSMV",
+          "The Intelligent Medical Record: Reimagining the Future of Oncology Care - Targeted Oncology",
+          "Prominent Urogynecologist Peter Rosenblatt, MD Joins Holy Cross Medical Group - Florida Hospital News and Healthcare Report"
         ]
       },
       {
@@ -1538,20 +1505,53 @@
         "category": "Asia Health",
         "score": 11,
         "examples": [
-          "Chutes & Ladders—SSM Health CEO elected chair of AHA; Northwell Health names first chief biotechnology officer - Fierce Healthcare",
-          "New Medical Diagnostic Equipment Accessibility Requirements: What Healthcare Systems Should Know - Husch Blackwell",
+          "Funding Tracker '26: Evidenced closes Fund I with $24M - Fierce Healthcare",
+          "Prominent Urogynecologist Peter Rosenblatt, MD Joins Holy Cross Medical Group - Florida Hospital News and Healthcare Report",
           "Student presents AI research at international healthcare technology conference - The Pennsylvania State University"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "CN",
+        "category": "Mental Health",
+        "score": 11,
+        "examples": [
+          "Two teen counselors warn of mental health effects of too much screen time - Spectrum News 13",
+          "Weight-loss drugs didn't improve mental health or job prospects - Axios",
+          "HHS & VA Announce Bold, Comprehensive Partnership to Advance Rapid-Acting Mental Health Treatments for Veterans - HHS.gov"
         ]
       },
       {
         "trend": "disease",
         "market_code": "CN",
         "category": "Asia Health",
-        "score": 9,
+        "score": 10,
         "examples": [
           "Information for Travelers Returning from Ebola-Affected Areas - Centers for Disease Control and Prevention | CDC (.gov)",
-          "Information for Travelers Returning from Ebola-Affected Areas - Centers for Disease Control and Prevention | CDC (.gov)",
+          "Frontiers in Science: Simple test could help track metabolic health in cancer and chronic disease - Frontiers",
           "Information for Travelers Returning from Ebola-Affected Areas - Centers for Disease Control and Prevention | CDC (.gov)"
+        ]
+      },
+      {
+        "trend": "mental health",
+        "market_code": "CN",
+        "category": "Mental Health",
+        "score": 10,
+        "examples": [
+          "Two teen counselors warn of mental health effects of too much screen time - Spectrum News 13",
+          "Weight-loss drugs didn't improve mental health or job prospects - Axios",
+          "HHS & VA Announce Bold, Comprehensive Partnership to Advance Rapid-Acting Mental Health Treatments for Veterans - HHS.gov"
+        ]
+      },
+      {
+        "trend": "outbreak",
+        "market_code": "CN",
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "What is the CDC doing to stop the cyclosporiasis outbreak? - USA Today",
+          "Intestinal parasite outbreak prompts health warning in Mecklenburg County - WSOC TV",
+          "Authorities investigate Taco Bell and lettuce in multistate cyclosporiasis outbreak - The Washington Post"
         ]
       },
       {
@@ -1560,9 +1560,9 @@
         "category": "Outbreaks",
         "score": 9,
         "examples": [
-          "Measles virus detected in Lawrence wastewater - FOX4KC.com",
-          "Structures of the Crimean-Congo hemorrhagic fever virus RNA-dependent RNA polymerase - Nature",
-          "Intestinal Virus Hits W.Va. - West Virginia Public Broadcasting"
+          "\"Explosive\" diarrhea virus reaches Tampa Bay: What to know - Axios",
+          "Lewisville to spray after second trap tests positive for West Nile Virus - Cross Timbers Gazette",
+          "Measles virus detected in Lawrence wastewater - FOX4KC.com"
         ]
       },
       {
@@ -1577,36 +1577,36 @@
         ]
       },
       {
-        "trend": "infection",
+        "trend": "heat health",
         "market_code": "CN",
-        "category": "Outbreaks",
+        "category": "Asia Health",
         "score": 7,
         "examples": [
-          "Latest Texas cyclospora infection numbers, the intestinal parasite infection that causes explosive diarrhea - WFAA",
-          "Latest Texas cyclospora infection numbers, the intestinal parasite infection that causes explosive diarrhea - WFAA",
-          "Metabolites Produced by Gut Bacteria May Protect Against Fungal Infection | Newswise - Newswise"
+          "Heat and health - World Health Organization (WHO)",
+          "Heat and health - World Health Organization (WHO)",
+          "Heat and health - World Health Organization (WHO)"
         ]
       },
       {
         "trend": "hospital",
         "market_code": "CN",
         "category": "Asia Health",
-        "score": 6,
+        "score": 7,
         "examples": [
-          "Conspiracy theories about Sen. McConnell’s health spread after his office posts hospital photo - NBC News",
-          "Study Medication Proves Promising for Hypothalamic Obesity - Seattle Children’s Hospital",
-          "WVU Medicine J.W. Ruby Memorial Hospital nationally recognized for commitment to excellence in heart disease, stroke, and diabetes care - WV News"
+          "Why Health Systems Are Increasingly Investing in Smart Rooms - American Hospital Association",
+          "Prominent Urogynecologist Peter Rosenblatt, MD Joins Holy Cross Medical Group - Florida Hospital News and Healthcare Report",
+          "Study Medication Proves Promising for Hypothalamic Obesity - Seattle Children’s Hospital"
         ]
       },
       {
         "trend": "public health",
         "market_code": "CN",
         "category": "Asia Health",
-        "score": 6,
+        "score": 7,
         "examples": [
-          "San Antonio: American Public Health Association - Food Politics by Marion Nestle -",
-          "Pesticide makers stack wins against US environmental, public health groups - Reuters",
-          "From nursing to public health leadership: ASU alum reflects on a career of service - ASU News"
+          "Vaccine skeptic Dr. Ryan Cole to stay on board of Idaho’s largest public health district - Idaho Capital Sun",
+          "College of Public Health inducts new Delta Omega members - University of Nebraska Medical Center",
+          "Vaccine skeptic Dr. Ryan Cole to stay on board of Idaho’s largest public health district - Idaho Capital Sun"
         ]
       }
     ],
@@ -1615,55 +1615,22 @@
         "trend": "health",
         "market_code": "KR",
         "category": "Asia Health",
-        "score": 85,
+        "score": 75,
         "examples": [
           "Heat and health - World Health Organization (WHO)",
           "Heat and health - World Health Organization (WHO)",
-          "Conspiracy theories about Sen. McConnell’s health spread after his office posts hospital photo - NBC News"
+          "GPEI leadership in endemic countries: polio eradication and strengthening health systems go hand in hand - Global Polio Eradication"
         ]
       },
       {
         "trend": "medical",
         "market_code": "KR",
         "category": "Asia Health",
-        "score": 19,
+        "score": 24,
         "examples": [
-          "MUSC works to prevent treat type of health problem linked to Lindsay Grahams death - The Medical University of South Carolina",
-          "What is aortic dissection, the medical emergency linked to Graham’s death? - The Hill",
-          "Agitation in Dementia Can Be Helped by Medical Cannabis, Study Suggests - The New York Times"
-        ]
-      },
-      {
-        "trend": "mental",
-        "market_code": "KR",
-        "category": "Mental Health",
-        "score": 13,
-        "examples": [
-          "HHS & VA Announce Bold, Comprehensive Partnership to Advance Rapid-Acting Mental Health Treatments for Veterans - HHS.gov",
-          "Two teen counselors warn of mental health effects of too much screen time - Spectrum News 13",
-          "HHS & VA Announce Bold, Comprehensive Partnership to Advance Rapid-Acting Mental Health Treatments for Veterans - HHS.gov"
-        ]
-      },
-      {
-        "trend": "mental health",
-        "market_code": "KR",
-        "category": "Mental Health",
-        "score": 12,
-        "examples": [
-          "HHS & VA Announce Bold, Comprehensive Partnership to Advance Rapid-Acting Mental Health Treatments for Veterans - HHS.gov",
-          "Two teen counselors warn of mental health effects of too much screen time - Spectrum News 13",
-          "HHS & VA Announce Bold, Comprehensive Partnership to Advance Rapid-Acting Mental Health Treatments for Veterans - HHS.gov"
-        ]
-      },
-      {
-        "trend": "outbreak",
-        "market_code": "KR",
-        "category": "Outbreaks",
-        "score": 12,
-        "examples": [
-          "Stomach parasite outbreak prompts health warning in Mecklenburg County - WSOC TV",
-          "What we know about the cyclosporiasis outbreak linked to produce - PBS",
-          "U.S. cyclospora outbreak sickens thousands, but California cases remain within normal range - CBS News"
+          "Nashville Fire investigating incident involving member of medical staff and patient - WSMV",
+          "The Intelligent Medical Record: Reimagining the Future of Oncology Care - Targeted Oncology",
+          "Prominent Urogynecologist Peter Rosenblatt, MD Joins Holy Cross Medical Group - Florida Hospital News and Healthcare Report"
         ]
       },
       {
@@ -1672,20 +1639,53 @@
         "category": "Asia Health",
         "score": 11,
         "examples": [
-          "Chutes & Ladders—SSM Health CEO elected chair of AHA; Northwell Health names first chief biotechnology officer - Fierce Healthcare",
-          "New Medical Diagnostic Equipment Accessibility Requirements: What Healthcare Systems Should Know - Husch Blackwell",
+          "Funding Tracker '26: Evidenced closes Fund I with $24M - Fierce Healthcare",
+          "Prominent Urogynecologist Peter Rosenblatt, MD Joins Holy Cross Medical Group - Florida Hospital News and Healthcare Report",
           "Student presents AI research at international healthcare technology conference - The Pennsylvania State University"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "KR",
+        "category": "Mental Health",
+        "score": 11,
+        "examples": [
+          "Two teen counselors warn of mental health effects of too much screen time - Spectrum News 13",
+          "Weight-loss drugs didn't improve mental health or job prospects - Axios",
+          "HHS & VA Announce Bold, Comprehensive Partnership to Advance Rapid-Acting Mental Health Treatments for Veterans - HHS.gov"
         ]
       },
       {
         "trend": "disease",
         "market_code": "KR",
         "category": "Asia Health",
-        "score": 9,
+        "score": 10,
         "examples": [
           "Information for Travelers Returning from Ebola-Affected Areas - Centers for Disease Control and Prevention | CDC (.gov)",
-          "Information for Travelers Returning from Ebola-Affected Areas - Centers for Disease Control and Prevention | CDC (.gov)",
+          "Frontiers in Science: Simple test could help track metabolic health in cancer and chronic disease - Frontiers",
           "Information for Travelers Returning from Ebola-Affected Areas - Centers for Disease Control and Prevention | CDC (.gov)"
+        ]
+      },
+      {
+        "trend": "mental health",
+        "market_code": "KR",
+        "category": "Mental Health",
+        "score": 10,
+        "examples": [
+          "Two teen counselors warn of mental health effects of too much screen time - Spectrum News 13",
+          "Weight-loss drugs didn't improve mental health or job prospects - Axios",
+          "HHS & VA Announce Bold, Comprehensive Partnership to Advance Rapid-Acting Mental Health Treatments for Veterans - HHS.gov"
+        ]
+      },
+      {
+        "trend": "outbreak",
+        "market_code": "KR",
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "What is the CDC doing to stop the cyclosporiasis outbreak? - USA Today",
+          "Intestinal parasite outbreak prompts health warning in Mecklenburg County - WSOC TV",
+          "Authorities investigate Taco Bell and lettuce in multistate cyclosporiasis outbreak - The Washington Post"
         ]
       },
       {
@@ -1694,9 +1694,9 @@
         "category": "Outbreaks",
         "score": 9,
         "examples": [
-          "Measles virus detected in Lawrence wastewater - FOX4KC.com",
-          "Structures of the Crimean-Congo hemorrhagic fever virus RNA-dependent RNA polymerase - Nature",
-          "Intestinal Virus Hits W.Va. - West Virginia Public Broadcasting"
+          "\"Explosive\" diarrhea virus reaches Tampa Bay: What to know - Axios",
+          "Lewisville to spray after second trap tests positive for West Nile Virus - Cross Timbers Gazette",
+          "Measles virus detected in Lawrence wastewater - FOX4KC.com"
         ]
       },
       {
@@ -1711,36 +1711,36 @@
         ]
       },
       {
-        "trend": "infection",
+        "trend": "heat health",
         "market_code": "KR",
-        "category": "Outbreaks",
+        "category": "Asia Health",
         "score": 7,
         "examples": [
-          "Latest Texas cyclospora infection numbers, the intestinal parasite infection that causes explosive diarrhea - WFAA",
-          "Latest Texas cyclospora infection numbers, the intestinal parasite infection that causes explosive diarrhea - WFAA",
-          "Metabolites Produced by Gut Bacteria May Protect Against Fungal Infection | Newswise - Newswise"
+          "Heat and health - World Health Organization (WHO)",
+          "Heat and health - World Health Organization (WHO)",
+          "Heat and health - World Health Organization (WHO)"
         ]
       },
       {
         "trend": "hospital",
         "market_code": "KR",
         "category": "Asia Health",
-        "score": 6,
+        "score": 7,
         "examples": [
-          "Conspiracy theories about Sen. McConnell’s health spread after his office posts hospital photo - NBC News",
-          "Study Medication Proves Promising for Hypothalamic Obesity - Seattle Children’s Hospital",
-          "WVU Medicine J.W. Ruby Memorial Hospital nationally recognized for commitment to excellence in heart disease, stroke, and diabetes care - WV News"
+          "Why Health Systems Are Increasingly Investing in Smart Rooms - American Hospital Association",
+          "Prominent Urogynecologist Peter Rosenblatt, MD Joins Holy Cross Medical Group - Florida Hospital News and Healthcare Report",
+          "Study Medication Proves Promising for Hypothalamic Obesity - Seattle Children’s Hospital"
         ]
       },
       {
         "trend": "public health",
         "market_code": "KR",
         "category": "Asia Health",
-        "score": 6,
+        "score": 7,
         "examples": [
-          "San Antonio: American Public Health Association - Food Politics by Marion Nestle -",
-          "Pesticide makers stack wins against US environmental, public health groups - Reuters",
-          "From nursing to public health leadership: ASU alum reflects on a career of service - ASU News"
+          "Vaccine skeptic Dr. Ryan Cole to stay on board of Idaho’s largest public health district - Idaho Capital Sun",
+          "College of Public Health inducts new Delta Omega members - University of Nebraska Medical Center",
+          "Vaccine skeptic Dr. Ryan Cole to stay on board of Idaho’s largest public health district - Idaho Capital Sun"
         ]
       }
     ],
@@ -1749,132 +1749,132 @@
         "trend": "health",
         "market_code": "IN",
         "category": "Asia Health",
-        "score": 77,
+        "score": 72,
         "examples": [
           "Heat and health - World Health Organization (WHO)",
           "Heat and health - World Health Organization (WHO)",
-          "Health Ministry invites suggestions on draft National Health Research Policy - News On AIR"
+          "GPEI leadership in endemic countries: polio eradication and strengthening health systems go hand in hand - Global Polio Eradication"
         ]
       },
       {
         "trend": "medical",
         "market_code": "IN",
         "category": "Asia Health",
-        "score": 20,
+        "score": 19,
         "examples": [
-          "Draft National Health Research Policy 2026: A Progressive Vision That Needs Sharper Implementation - Dr... - Medical Dialogues",
-          "Asaram Bapu Moves Supreme Court Citing Medical Emergency; Hearing Fixed For July 17 - LawBeat",
-          "How Q’Apel Medical Transformed the Promotional Review Process for Global Growth - Veeva"
+          "The Intelligent Medical Record: Reimagining the Future of Oncology Care - Targeted Oncology",
+          "AGU awards contracts for King Abdullah bin Abdulaziz Medical City - World Construction Network",
+          "NMC draft amendment bars approval for new medical colleges, courses, seat hike without complete... - Medical Dialogues"
         ]
       },
       {
         "trend": "healthcare",
         "market_code": "IN",
         "category": "Asia Health",
-        "score": 16,
+        "score": 18,
         "examples": [
           "Beyond Low Cost: Why Foreigners Choose India's Healthcare Over The West - NDTV",
-          "Govt on highest alert to ensure healthcare in 11 flood-hit districts: Health Minister - United News of Bangladesh",
-          "$6M funding for mental health telehealth in NZ and more briefs - Healthcare IT News"
-        ]
-      },
-      {
-        "trend": "disease",
-        "market_code": "IN",
-        "category": "Asia Health",
-        "score": 14,
-        "examples": [
-          "Information for Travelers Returning from Ebola-Affected Areas - Centers for Disease Control and Prevention | CDC (.gov)",
-          "Information for Travelers Returning from Ebola-Affected Areas - Centers for Disease Control and Prevention | CDC (.gov)",
-          "Information for Travelers Returning from Ebola-Affected Areas - Centers for Disease Control and Prevention | CDC (.gov)"
+          "Why Household Healthcare Spending Remains High Despite Rising Public Expenditure - The Policy Edge",
+          "Dozens of healthcare workers in DRC strike amid Ebola outbreak - Al Jazeera"
         ]
       },
       {
         "trend": "mental",
         "market_code": "IN",
         "category": "Mental Health",
-        "score": 10,
+        "score": 12,
         "examples": [
-          "Menopause on the brain: Your questions about mental health and cognition answered - World Health Organization (WHO)",
-          "Inner Wheel Club, SNEHA take up mental health project - The Hindu",
-          "$6M funding for mental health telehealth in NZ and more briefs - Healthcare IT News"
+          "Two teen counselors warn of mental health effects of too much screen time - Spectrum News 13",
+          "WHO launches an ECHO-funded project to expand lifesaving health and mental health services for Sudanese refugees in southern Libya - emro.who.int",
+          "Mental Health Must Be Treated Like Any Other Illness: Awareness, Early Intervention Key to Preventing Tragedies - HimbuMail"
         ]
       },
       {
-        "trend": "outbreak",
+        "trend": "disease",
         "market_code": "IN",
-        "category": "Outbreaks",
-        "score": 9,
+        "category": "Asia Health",
+        "score": 11,
         "examples": [
-          "Cyclospora Parasite Outbreak: Affected Regions, Symptoms, Treatment And Precautions | Explained - NDTV Profit",
-          "After three deaths, TN allays Covid outbreak fears - The New Indian Express",
-          "Unresolved Cyclospora Parasite Outbreak Raises Questions About CDC Cuts - Forbes"
+          "Frontiers in Science: Simple test could help track metabolic health in cancer and chronic disease - Frontiers",
+          "Information for Travelers Returning from Ebola-Affected Areas - Centers for Disease Control and Prevention | CDC (.gov)",
+          "Information for Travelers Returning from Ebola-Affected Areas - Centers for Disease Control and Prevention | CDC (.gov)"
         ]
       },
       {
         "trend": "mental health",
         "market_code": "IN",
         "category": "Mental Health",
-        "score": 9,
+        "score": 11,
         "examples": [
-          "Menopause on the brain: Your questions about mental health and cognition answered - World Health Organization (WHO)",
-          "Inner Wheel Club, SNEHA take up mental health project - The Hindu",
-          "$6M funding for mental health telehealth in NZ and more briefs - Healthcare IT News"
+          "Two teen counselors warn of mental health effects of too much screen time - Spectrum News 13",
+          "WHO launches an ECHO-funded project to expand lifesaving health and mental health services for Sudanese refugees in southern Libya - emro.who.int",
+          "Mental Health Must Be Treated Like Any Other Illness: Awareness, Early Intervention Key to Preventing Tragedies - HimbuMail"
         ]
       },
       {
-        "trend": "treatment",
-        "market_code": "IN",
-        "category": "Drug & Treatment News",
-        "score": 8,
-        "examples": [
-          "Cyclospora Parasite Outbreak: Affected Regions, Symptoms, Treatment And Precautions | Explained - NDTV Profit",
-          "Three children die of Chandipura virus in Gujarat in latest outbreak; 4 under treatment - ThePrint",
-          "No medicine for dengue yet, Serum Institute’s new treatment is headed for global trials - ThePrint"
-        ]
-      },
-      {
-        "trend": "virus",
+        "trend": "outbreak",
         "market_code": "IN",
         "category": "Outbreaks",
-        "score": 8,
+        "score": 10,
         "examples": [
-          "Staff at DR Congo Ebola centre strike as virus continues spreading - Al Jazeera",
-          "Structures of the Crimean-Congo hemorrhagic fever virus RNA-dependent RNA polymerase - Nature",
-          "Staff at DR Congo Ebola centre strike as virus continues spreading - Al Jazeera"
+          "Ebola Outbreak Alert: Nations Strengthen Travel Restrictions - NDTV",
+          "Intestinal parasite outbreak prompts health warning in Mecklenburg County - WSOC TV",
+          "Ebola Outbreak Alert: Nations Strengthen Travel Restrictions - NDTV"
         ]
       },
       {
         "trend": "heat health",
         "market_code": "IN",
         "category": "Asia Health",
-        "score": 6,
+        "score": 7,
         "examples": [
           "Heat and health - World Health Organization (WHO)",
           "Heat and health - World Health Organization (WHO)",
-          "Heat and health - World Health Organization (WHO)"
+          "Yellow heat health warning in South West as heatwave continues - BBC"
         ]
       },
       {
         "trend": "cancer",
         "market_code": "IN",
         "category": "Chronic Disease",
-        "score": 6,
+        "score": 7,
         "examples": [
-          "Union Health Minister JP Nadda Reaffirms India’s Commitment to Eliminate Cervical Cancer | Akashvani News - News On AIR",
+          "Frontiers in Science: Simple test could help track metabolic health in cancer and chronic disease - Frontiers",
           "Advances in Pancreatic Cancer Research - National Cancer Institute (.gov)",
           "Advances in Pancreatic Cancer Research - National Cancer Institute (.gov)"
         ]
       },
       {
-        "trend": "drug",
+        "trend": "nutrition",
         "market_code": "IN",
-        "category": "Drug & Treatment News",
+        "category": "Diet & Wellness",
         "score": 6,
         "examples": [
-          "Andhra delegation reviews Odisha’s public drug procurement model - The New Indian Express",
-          "FDA Drug Approval Decisions Expected in August 2026 - Neurology Advisor",
-          "AstraZeneca stock drops 9% after heart drug trial miss deals rare blow to pharma powerhouse - CNBC"
+          "ACP urges stronger US supplement regulation to protect public health - Nutrition Insight",
+          "Entrepreneur Ashley Kirk Rewrites Script On Black Nutrition - The Sacramento Observer",
+          "Personalization shifts active nutrition industry from performance to health and longevity - Nutrition Insight"
+        ]
+      },
+      {
+        "trend": "warning",
+        "market_code": "IN",
+        "category": "Asia Health",
+        "score": 6,
+        "examples": [
+          "A dark patch on your neck could be your body's warning about kidney health, study suggests - Firstpost",
+          "Yellow heat health warning in South West as heatwave continues - BBC",
+          "Warning! Samsung Will Delete Your Health Data If You Don’t Do This… - News18"
+        ]
+      },
+      {
+        "trend": "virus",
+        "market_code": "IN",
+        "category": "Outbreaks",
+        "score": 6,
+        "examples": [
+          "RFAs: Developing a Validation Approach for Virus Removal through Ultrafiltration in Reuse (US) - fundsforNGOs",
+          "Chandipura Virus Alert In Gujarat: Sayaji Hospital Sets Up 70 Ventilator Beds Amid Rising Cases - ETV Bharat",
+          "Structures of the Crimean-Congo hemorrhagic fever virus RNA-dependent RNA polymerase - Nature"
         ]
       }
     ],
@@ -1883,33 +1883,33 @@
         "trend": "health",
         "market_code": "AU",
         "category": "Global Health",
-        "score": 77,
+        "score": 72,
         "examples": [
           "Heat and health - World Health Organization (WHO)",
           "Heat and health - World Health Organization (WHO)",
-          "Press conference with Minister Butler, Bendigo – 14 July 2026 - Australian Government Department of Health, Disability and Ageing"
+          "Bringing healthcare to community during NAIDOC Week - Metro South Health"
         ]
       },
       {
         "trend": "medical",
         "market_code": "AU",
         "category": "Global Health",
-        "score": 16,
+        "score": 18,
         "examples": [
-          "HealthLink integrates national mental health tool - Medical Republic",
+          "Medical room: The full AFL injury list, R19 - afl.com.au",
           "Media release: 'Where to Get Care' campaign - Australian Medical Association",
-          "OncoSil Medical establishes scalable Australian production after successful manufacturing validation - BiotechDispatch"
+          "Royal Australian Navy medics train Pacific Partnership 2026 medical personnel on extrication device aboard HMAS Choules (L100) - DVIDS"
         ]
       },
       {
         "trend": "healthcare",
         "market_code": "AU",
         "category": "Global Health",
-        "score": 14,
+        "score": 16,
         "examples": [
-          "Corporatisation of healthcare is on the rise in NZ – with likely impacts on access and quality of services - The Conversation",
-          "$6M funding for mental health telehealth in NZ and more briefs - Healthcare IT News",
-          "The changing medicolegal landscape: AI in healthcare and its implications for professional indemnity insurance - Lander & Rogers"
+          "Bringing healthcare to community during NAIDOC Week - Metro South Health",
+          "Bringing healthcare to community during NAIDOC Week - Metro South Health",
+          "Dozens of healthcare workers in DRC strike amid Ebola outbreak - Al Jazeera"
         ]
       },
       {
@@ -1918,9 +1918,9 @@
         "category": "Mental Health",
         "score": 13,
         "examples": [
-          "newsGP - GP integration ‘critical’ to $700m youth mental health overhaul, says RACGP - Royal Australian College of General Practitioners (RACGP)",
-          "HealthLink integrates national mental health tool - Medical Republic",
-          "Two teen counselors warn of mental health effects of too much screen time - Spectrum News 13"
+          "A human touch to improve rural and regional mental health systems - UQ News",
+          "Two teen counselors warn of mental health effects of too much screen time - Spectrum News 13",
+          "Heatwave havoc: How does hot weather affect mental health? - Healthshots"
         ]
       },
       {
@@ -1929,31 +1929,42 @@
         "category": "Mental Health",
         "score": 12,
         "examples": [
-          "newsGP - GP integration ‘critical’ to $700m youth mental health overhaul, says RACGP - Royal Australian College of General Practitioners (RACGP)",
-          "HealthLink integrates national mental health tool - Medical Republic",
-          "Two teen counselors warn of mental health effects of too much screen time - Spectrum News 13"
+          "A human touch to improve rural and regional mental health systems - UQ News",
+          "Two teen counselors warn of mental health effects of too much screen time - Spectrum News 13",
+          "Heatwave havoc: How does hot weather affect mental health? - Healthshots"
         ]
       },
       {
-        "trend": "outbreak",
+        "trend": "heat health",
         "market_code": "AU",
-        "category": "Outbreaks",
+        "category": "Global Health",
         "score": 10,
         "examples": [
-          "Governor briefed on diphtheria outbreak - Government House Western Australia",
-          "Michigan health officials identify ‘potential source’ of parasite outbreak - The Guardian",
-          "Unresolved Cyclospora Parasite Outbreak Raises Questions About CDC Cuts - Forbes"
+          "Heat and health - World Health Organization (WHO)",
+          "Heat and health - World Health Organization (WHO)",
+          "Heat and health - World Health Organization (WHO)"
         ]
       },
       {
         "trend": "children",
         "market_code": "AU",
         "category": "Children Health",
-        "score": 8,
+        "score": 9,
         "examples": [
           "Study Medication Proves Promising for Hypothalamic Obesity - Seattle Children’s Hospital",
           "Telepresence avatar use for children with cancer in schools: a study on barriers and facilitators - Frontiers",
           "Childcare, education and children’s health are inseparable - West Virginia Watch"
+        ]
+      },
+      {
+        "trend": "outbreak",
+        "market_code": "AU",
+        "category": "Outbreaks",
+        "score": 8,
+        "examples": [
+          "‘This is a fire’: DRC Ebola outbreak is fastest-growing ever, warns WHO - UN News",
+          "Governor briefed on diphtheria outbreak - Government House Western Australia",
+          "DRC Ebola Outbreak: Fastest Growing, Warns WHO - Mirage News"
         ]
       },
       {
@@ -1968,47 +1979,36 @@
         ]
       },
       {
-        "trend": "treatment",
+        "trend": "virus",
         "market_code": "AU",
-        "category": "Drug & Treatment News",
+        "category": "Outbreaks",
         "score": 7,
         "examples": [
-          "Workers at an Ebola treatment center in Congo strike over unpaid salaries and bonuses - ABC News - Breaking News, Latest News and Videos",
-          "Second American infected with Ebola is responding well to treatment in Germany - The Washington Post",
-          "First patients enrolled in record-breaking Ebola treatment trial in DRC | Global health - The Guardian"
+          "Rising virus threat spurs winter vaccine plea for WA - The Age",
+          "Rising virus threat spurs winter vaccine plea for WA - WAtoday",
+          "Wild carnivores reveal wider West Nile and Usutu virus exposure in the Netherlands - News-Medical"
         ]
       },
       {
-        "trend": "heat health",
+        "trend": "vaccine",
         "market_code": "AU",
-        "category": "Global Health",
+        "category": "Drug & Treatment News",
         "score": 6,
         "examples": [
-          "Heat and health - World Health Organization (WHO)",
-          "Heat and health - World Health Organization (WHO)",
-          "Heat and health - World Health Organization (WHO)"
+          "Rising virus threat spurs winter vaccine plea for WA - The Age",
+          "Rising virus threat spurs winter vaccine plea for WA - WAtoday",
+          "Who needs another COVID vaccine – and who might be able to skip it? - The Conversation"
         ]
       },
       {
-        "trend": "world health",
+        "trend": "health systems",
         "market_code": "AU",
         "category": "Global Health",
         "score": 5,
         "examples": [
-          "Heat and health - World Health Organization (WHO)",
-          "Heat and health - World Health Organization (WHO)",
-          "Heat and health - World Health Organization (WHO)"
-        ]
-      },
-      {
-        "trend": "health organization",
-        "market_code": "AU",
-        "category": "Global Health",
-        "score": 5,
-        "examples": [
-          "Heat and health - World Health Organization (WHO)",
-          "Heat and health - World Health Organization (WHO)",
-          "Heat and health - World Health Organization (WHO)"
+          "A human touch to improve rural and regional mental health systems - UQ News",
+          "GPEI leadership in endemic countries: polio eradication and strengthening health systems go hand in hand - Global Polio Eradication",
+          "GPEI leadership in endemic countries: polio eradication and strengthening health systems go hand in hand - Global Polio Eradication"
         ]
       }
     ],
@@ -2017,132 +2017,132 @@
         "trend": "health",
         "market_code": "CA",
         "category": "Global Health",
-        "score": 75,
+        "score": 76,
         "examples": [
           "Heat and health - World Health Organization (WHO)",
           "Heat and health - World Health Organization (WHO)",
-          "Private clinic Grifols green-lit plasma donors with disease risk, Health Canada finds - CBC"
+          "Her Voice: Airdrie Health Foundation co-founder turns personal tragedy into healthcare advocacy - DiscoverAirdrie"
         ]
       },
       {
         "trend": "medical",
         "market_code": "CA",
         "category": "Global Health",
-        "score": 19,
+        "score": 21,
         "examples": [
-          "Medical officials warn of potential health impacts of Billy Bishop airport expansion - CityNews Toronto",
-          "Medical officials warn of potential health impacts of Billy Bishop airport expansion - CityNews Toronto",
-          "Queer and trans Canadians have been neglected in conversations around Medical Assistance in Dying, researcher says - CBC"
-        ]
-      },
-      {
-        "trend": "disease",
-        "market_code": "CA",
-        "category": "Global Health",
-        "score": 18,
-        "examples": [
-          "Private clinic Grifols green-lit plasma donors with disease risk, Health Canada finds - CBC",
-          "Information for Travelers Returning from Ebola-Affected Areas - Centers for Disease Control and Prevention | CDC (.gov)",
-          "Information for Travelers Returning from Ebola-Affected Areas - Centers for Disease Control and Prevention | CDC (.gov)"
+          "Kingston Humane Society issues plea for donations amid rising veterinary medical expenses - The Kingston Whig Standard",
+          "Ironwood Appoints Dr. Jeffrey Silber Chief Medical Officer and Head of Research and Drug Development; STARS-2 Trial Initiated in June and Is Now Actively Recruiting Patients - Yahoo! Finance Canada",
+          "Medical officials warn of potential health impacts of Billy Bishop airport expansion - CityNews Toronto"
         ]
       },
       {
         "trend": "mental",
         "market_code": "CA",
         "category": "Mental Health",
-        "score": 14,
+        "score": 16,
         "examples": [
-          "Ottawa provides $71 million for youth mental health services in Quebec - Global News",
-          "From big box retail to mental health: HR leader Tammy Sergie - Canadian HR Reporter",
-          "Ottawa provides $71 million for youth mental health services in Quebec - Global News"
+          "Extreme heat increases mental health risks for the young: research - Canada's National Observer",
+          "Ottawa to transfer $70 million to Quebec for youth mental health - CTV News",
+          "Two teen counselors warn of mental health effects of too much screen time - Spectrum News 13"
         ]
       },
       {
         "trend": "mental health",
         "market_code": "CA",
         "category": "Mental Health",
-        "score": 13,
+        "score": 15,
         "examples": [
-          "Ottawa provides $71 million for youth mental health services in Quebec - Global News",
-          "From big box retail to mental health: HR leader Tammy Sergie - Canadian HR Reporter",
-          "Ottawa provides $71 million for youth mental health services in Quebec - Global News"
+          "Extreme heat increases mental health risks for the young: research - Canada's National Observer",
+          "Ottawa to transfer $70 million to Quebec for youth mental health - CTV News",
+          "Two teen counselors warn of mental health effects of too much screen time - Spectrum News 13"
         ]
       },
       {
         "trend": "healthcare",
         "market_code": "CA",
         "category": "Global Health",
-        "score": 11,
+        "score": 14,
         "examples": [
-          "3 AI Healthcare Stocks With Real FDA And Hospital Use Cases - simplywall.st",
-          "Opinion | Private Equity's New AI Push Raises Old Questions for Healthcare - MedPage Today",
-          "What Is Machine Learning in Healthcare? Applications and Opportunities - Coursera"
+          "Her Voice: Airdrie Health Foundation co-founder turns personal tragedy into healthcare advocacy - DiscoverAirdrie",
+          "2026 Healthcare Assistance Index™ Identifies Navigation as Canada's Next Healthcare Opportunity - Newswire Canada",
+          "2026 Healthcare Assistance Index™ Identifies Navigation as Canada's Next Healthcare Opportunity - Newswire Canada"
         ]
       },
       {
-        "trend": "warning",
+        "trend": "disease",
         "market_code": "CA",
         "category": "Global Health",
-        "score": 10,
+        "score": 13,
         "examples": [
-          "Southwestern Public Health issues extreme heat warning - GRANT HAVEN MEDIA",
-          "Huron Perth Public Health urges precautions as heat warning conditions arrive - StratfordToday.ca",
-          "Hamilton, Brantford, Niagara and Burlington under heat warning, offer 'cool places' to escape the heat - CBC"
+          "Information for Travelers Returning from Ebola-Affected Areas - Centers for Disease Control and Prevention | CDC (.gov)",
+          "Frontiers in Science: Simple test could help track metabolic health in cancer and chronic disease - Frontiers",
+          "Information for Travelers Returning from Ebola-Affected Areas - Centers for Disease Control and Prevention | CDC (.gov)"
         ]
       },
       {
         "trend": "outbreak",
         "market_code": "CA",
         "category": "Outbreaks",
-        "score": 10,
-        "examples": [
-          "Experts: Cyclosporiasis outbreak - McGill University",
-          "Outbreak of diarrhea caused by parasite jumps to 3,000 cases. Here’s why it’s so hard to identify the source - CTV News",
-          "What we know about the cyclosporiasis outbreak linked to produce - PBS"
-        ]
-      },
-      {
-        "trend": "public health",
-        "market_code": "CA",
-        "category": "Global Health",
         "score": 9,
         "examples": [
-          "Public Health Agency updates vaccine injury support program - WestCentralOnline",
-          "CK Public Health urges beachgoers to check conditions before swimming, not just test results - The Sydenham Current",
-          "Southwestern Public Health issues extreme heat warning - GRANT HAVEN MEDIA"
-        ]
-      },
-      {
-        "trend": "heat warning",
-        "market_code": "CA",
-        "category": "Global Health",
-        "score": 8,
-        "examples": [
-          "Southwestern Public Health issues extreme heat warning - GRANT HAVEN MEDIA",
-          "Huron Perth Public Health urges precautions as heat warning conditions arrive - StratfordToday.ca",
-          "Hamilton, Brantford, Niagara and Burlington under heat warning, offer 'cool places' to escape the heat - CBC"
+          "‘This is a fire’: DRC Ebola outbreak is fastest-growing ever, warns WHO - UN News",
+          "Outbreak of diarrhea caused by parasite jumps to 3,000 cases. Here’s why it’s so hard to identify the source - CTV News",
+          "What we know about the cyclosporiasis outbreak linked to produce - PBS"
         ]
       },
       {
         "trend": "virus",
         "market_code": "CA",
         "category": "Outbreaks",
-        "score": 7,
+        "score": 8,
         "examples": [
-          "Roche introduces cobas Hepatitis D Virus (HDV) test, the first fully automated diagnostic solution to identify the most severe form of viral hepatitis - Yahoo! Finance Canada",
+          "Atea Pharmaceuticals Initiates First-in-Human Phase 1 Clinical Trial of AT-587 for the Treatment of Hepatitis E Virus - Yahoo! Finance Canada",
           "Structures of the Crimean-Congo hemorrhagic fever virus RNA-dependent RNA polymerase - Nature",
           "Wild carnivores reveal wider West Nile and Usutu virus exposure in the Netherlands - News-Medical"
         ]
       },
       {
-        "trend": "treatment",
+        "trend": "heat health",
         "market_code": "CA",
-        "category": "Drug & Treatment News",
+        "category": "Global Health",
         "score": 7,
         "examples": [
-          "Second American infected with Ebola is responding well to treatment in Germany - The Washington Post",
-          "First patients enrolled in record-breaking Ebola treatment trial in DRC | Global health - The Guardian",
-          "There's no treatment designed for the Ebola strain ravaging DRC. But now there's hope - NPR"
+          "Heat and health - World Health Organization (WHO)",
+          "Heat and health - World Health Organization (WHO)",
+          "Heat health alerts issued nationwide - China Daily"
+        ]
+      },
+      {
+        "trend": "warning",
+        "market_code": "CA",
+        "category": "Global Health",
+        "score": 7,
+        "examples": [
+          "Yellow Heat Warning: Southern Durham may swelter at 37°C - Durham Post",
+          "Hamilton, Brantford, Niagara and Burlington under heat warning, offer 'cool places' to escape the heat - CBC",
+          "Southwestern Public Health issues extreme heat warning - GRANT HAVEN MEDIA"
+        ]
+      },
+      {
+        "trend": "research",
+        "market_code": "CA",
+        "category": "Global Health",
+        "score": 6,
+        "examples": [
+          "Extreme heat increases mental health risks for the young: research - Canada's National Observer",
+          "Ironwood Appoints Dr. Jeffrey Silber Chief Medical Officer and Head of Research and Drug Development; STARS-2 Trial Initiated in June and Is Now Actively Recruiting Patients - Yahoo! Finance Canada",
+          "New Research Finds Medical Device Sales Reps Using AI are 3x More Likely to Meet or Exceed Quota - Business Wire"
+        ]
+      },
+      {
+        "trend": "youth mental",
+        "market_code": "CA",
+        "category": "Mental Health",
+        "score": 6,
+        "examples": [
+          "Ottawa to transfer $70 million to Quebec for youth mental health - CTV News",
+          "Ottawa to transfer $70 million to Quebec for youth mental health - CTV News",
+          "Ottawa provides $71 million for youth mental health services in Quebec - Global News"
         ]
       }
     ],
@@ -2151,55 +2151,22 @@
         "trend": "health",
         "market_code": "AE",
         "category": "Arab Health",
-        "score": 85,
+        "score": 75,
         "examples": [
           "Heat and health - World Health Organization (WHO)",
           "Heat and health - World Health Organization (WHO)",
-          "Conspiracy theories about Sen. McConnell’s health spread after his office posts hospital photo - NBC News"
+          "GPEI leadership in endemic countries: polio eradication and strengthening health systems go hand in hand - Global Polio Eradication"
         ]
       },
       {
         "trend": "medical",
         "market_code": "AE",
         "category": "Arab Health",
-        "score": 19,
+        "score": 24,
         "examples": [
-          "MUSC works to prevent treat type of health problem linked to Lindsay Grahams death - The Medical University of South Carolina",
-          "What is aortic dissection, the medical emergency linked to Graham’s death? - The Hill",
-          "Agitation in Dementia Can Be Helped by Medical Cannabis, Study Suggests - The New York Times"
-        ]
-      },
-      {
-        "trend": "mental",
-        "market_code": "AE",
-        "category": "Mental Health",
-        "score": 13,
-        "examples": [
-          "HHS & VA Announce Bold, Comprehensive Partnership to Advance Rapid-Acting Mental Health Treatments for Veterans - HHS.gov",
-          "Two teen counselors warn of mental health effects of too much screen time - Spectrum News 13",
-          "HHS & VA Announce Bold, Comprehensive Partnership to Advance Rapid-Acting Mental Health Treatments for Veterans - HHS.gov"
-        ]
-      },
-      {
-        "trend": "mental health",
-        "market_code": "AE",
-        "category": "Mental Health",
-        "score": 12,
-        "examples": [
-          "HHS & VA Announce Bold, Comprehensive Partnership to Advance Rapid-Acting Mental Health Treatments for Veterans - HHS.gov",
-          "Two teen counselors warn of mental health effects of too much screen time - Spectrum News 13",
-          "HHS & VA Announce Bold, Comprehensive Partnership to Advance Rapid-Acting Mental Health Treatments for Veterans - HHS.gov"
-        ]
-      },
-      {
-        "trend": "outbreak",
-        "market_code": "AE",
-        "category": "Outbreaks",
-        "score": 12,
-        "examples": [
-          "Stomach parasite outbreak prompts health warning in Mecklenburg County - WSOC TV",
-          "What we know about the cyclosporiasis outbreak linked to produce - PBS",
-          "U.S. cyclospora outbreak sickens thousands, but California cases remain within normal range - CBS News"
+          "Nashville Fire investigating incident involving member of medical staff and patient - WSMV",
+          "The Intelligent Medical Record: Reimagining the Future of Oncology Care - Targeted Oncology",
+          "Prominent Urogynecologist Peter Rosenblatt, MD Joins Holy Cross Medical Group - Florida Hospital News and Healthcare Report"
         ]
       },
       {
@@ -2208,20 +2175,53 @@
         "category": "Arab Health",
         "score": 11,
         "examples": [
-          "Chutes & Ladders—SSM Health CEO elected chair of AHA; Northwell Health names first chief biotechnology officer - Fierce Healthcare",
-          "New Medical Diagnostic Equipment Accessibility Requirements: What Healthcare Systems Should Know - Husch Blackwell",
+          "Funding Tracker '26: Evidenced closes Fund I with $24M - Fierce Healthcare",
+          "Prominent Urogynecologist Peter Rosenblatt, MD Joins Holy Cross Medical Group - Florida Hospital News and Healthcare Report",
           "Student presents AI research at international healthcare technology conference - The Pennsylvania State University"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "AE",
+        "category": "Mental Health",
+        "score": 11,
+        "examples": [
+          "Two teen counselors warn of mental health effects of too much screen time - Spectrum News 13",
+          "Weight-loss drugs didn't improve mental health or job prospects - Axios",
+          "HHS & VA Announce Bold, Comprehensive Partnership to Advance Rapid-Acting Mental Health Treatments for Veterans - HHS.gov"
         ]
       },
       {
         "trend": "disease",
         "market_code": "AE",
         "category": "Arab Health",
-        "score": 9,
+        "score": 10,
         "examples": [
           "Information for Travelers Returning from Ebola-Affected Areas - Centers for Disease Control and Prevention | CDC (.gov)",
-          "Information for Travelers Returning from Ebola-Affected Areas - Centers for Disease Control and Prevention | CDC (.gov)",
+          "Frontiers in Science: Simple test could help track metabolic health in cancer and chronic disease - Frontiers",
           "Information for Travelers Returning from Ebola-Affected Areas - Centers for Disease Control and Prevention | CDC (.gov)"
+        ]
+      },
+      {
+        "trend": "mental health",
+        "market_code": "AE",
+        "category": "Mental Health",
+        "score": 10,
+        "examples": [
+          "Two teen counselors warn of mental health effects of too much screen time - Spectrum News 13",
+          "Weight-loss drugs didn't improve mental health or job prospects - Axios",
+          "HHS & VA Announce Bold, Comprehensive Partnership to Advance Rapid-Acting Mental Health Treatments for Veterans - HHS.gov"
+        ]
+      },
+      {
+        "trend": "outbreak",
+        "market_code": "AE",
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "What is the CDC doing to stop the cyclosporiasis outbreak? - USA Today",
+          "Intestinal parasite outbreak prompts health warning in Mecklenburg County - WSOC TV",
+          "Authorities investigate Taco Bell and lettuce in multistate cyclosporiasis outbreak - The Washington Post"
         ]
       },
       {
@@ -2230,9 +2230,9 @@
         "category": "Outbreaks",
         "score": 9,
         "examples": [
-          "Measles virus detected in Lawrence wastewater - FOX4KC.com",
-          "Structures of the Crimean-Congo hemorrhagic fever virus RNA-dependent RNA polymerase - Nature",
-          "Intestinal Virus Hits W.Va. - West Virginia Public Broadcasting"
+          "\"Explosive\" diarrhea virus reaches Tampa Bay: What to know - Axios",
+          "Lewisville to spray after second trap tests positive for West Nile Virus - Cross Timbers Gazette",
+          "Measles virus detected in Lawrence wastewater - FOX4KC.com"
         ]
       },
       {
@@ -2247,36 +2247,36 @@
         ]
       },
       {
-        "trend": "infection",
+        "trend": "heat health",
         "market_code": "AE",
-        "category": "Outbreaks",
+        "category": "Arab Health",
         "score": 7,
         "examples": [
-          "Latest Texas cyclospora infection numbers, the intestinal parasite infection that causes explosive diarrhea - WFAA",
-          "Latest Texas cyclospora infection numbers, the intestinal parasite infection that causes explosive diarrhea - WFAA",
-          "Metabolites Produced by Gut Bacteria May Protect Against Fungal Infection | Newswise - Newswise"
+          "Heat and health - World Health Organization (WHO)",
+          "Heat and health - World Health Organization (WHO)",
+          "Heat and health - World Health Organization (WHO)"
         ]
       },
       {
         "trend": "hospital",
         "market_code": "AE",
         "category": "Arab Health",
-        "score": 6,
+        "score": 7,
         "examples": [
-          "Conspiracy theories about Sen. McConnell’s health spread after his office posts hospital photo - NBC News",
-          "Study Medication Proves Promising for Hypothalamic Obesity - Seattle Children’s Hospital",
-          "WVU Medicine J.W. Ruby Memorial Hospital nationally recognized for commitment to excellence in heart disease, stroke, and diabetes care - WV News"
+          "Why Health Systems Are Increasingly Investing in Smart Rooms - American Hospital Association",
+          "Prominent Urogynecologist Peter Rosenblatt, MD Joins Holy Cross Medical Group - Florida Hospital News and Healthcare Report",
+          "Study Medication Proves Promising for Hypothalamic Obesity - Seattle Children’s Hospital"
         ]
       },
       {
         "trend": "public health",
         "market_code": "AE",
         "category": "Arab Health",
-        "score": 6,
+        "score": 7,
         "examples": [
-          "San Antonio: American Public Health Association - Food Politics by Marion Nestle -",
-          "Pesticide makers stack wins against US environmental, public health groups - Reuters",
-          "From nursing to public health leadership: ASU alum reflects on a career of service - ASU News"
+          "Vaccine skeptic Dr. Ryan Cole to stay on board of Idaho’s largest public health district - Idaho Capital Sun",
+          "College of Public Health inducts new Delta Omega members - University of Nebraska Medical Center",
+          "Vaccine skeptic Dr. Ryan Cole to stay on board of Idaho’s largest public health district - Idaho Capital Sun"
         ]
       }
     ],
@@ -2285,55 +2285,22 @@
         "trend": "health",
         "market_code": "SA",
         "category": "Arab Health",
-        "score": 85,
+        "score": 75,
         "examples": [
           "Heat and health - World Health Organization (WHO)",
           "Heat and health - World Health Organization (WHO)",
-          "Conspiracy theories about Sen. McConnell’s health spread after his office posts hospital photo - NBC News"
+          "GPEI leadership in endemic countries: polio eradication and strengthening health systems go hand in hand - Global Polio Eradication"
         ]
       },
       {
         "trend": "medical",
         "market_code": "SA",
         "category": "Arab Health",
-        "score": 19,
+        "score": 24,
         "examples": [
-          "MUSC works to prevent treat type of health problem linked to Lindsay Grahams death - The Medical University of South Carolina",
-          "What is aortic dissection, the medical emergency linked to Graham’s death? - The Hill",
-          "Agitation in Dementia Can Be Helped by Medical Cannabis, Study Suggests - The New York Times"
-        ]
-      },
-      {
-        "trend": "mental",
-        "market_code": "SA",
-        "category": "Mental Health",
-        "score": 13,
-        "examples": [
-          "HHS & VA Announce Bold, Comprehensive Partnership to Advance Rapid-Acting Mental Health Treatments for Veterans - HHS.gov",
-          "Two teen counselors warn of mental health effects of too much screen time - Spectrum News 13",
-          "HHS & VA Announce Bold, Comprehensive Partnership to Advance Rapid-Acting Mental Health Treatments for Veterans - HHS.gov"
-        ]
-      },
-      {
-        "trend": "mental health",
-        "market_code": "SA",
-        "category": "Mental Health",
-        "score": 12,
-        "examples": [
-          "HHS & VA Announce Bold, Comprehensive Partnership to Advance Rapid-Acting Mental Health Treatments for Veterans - HHS.gov",
-          "Two teen counselors warn of mental health effects of too much screen time - Spectrum News 13",
-          "HHS & VA Announce Bold, Comprehensive Partnership to Advance Rapid-Acting Mental Health Treatments for Veterans - HHS.gov"
-        ]
-      },
-      {
-        "trend": "outbreak",
-        "market_code": "SA",
-        "category": "Outbreaks",
-        "score": 12,
-        "examples": [
-          "Stomach parasite outbreak prompts health warning in Mecklenburg County - WSOC TV",
-          "What we know about the cyclosporiasis outbreak linked to produce - PBS",
-          "U.S. cyclospora outbreak sickens thousands, but California cases remain within normal range - CBS News"
+          "Nashville Fire investigating incident involving member of medical staff and patient - WSMV",
+          "The Intelligent Medical Record: Reimagining the Future of Oncology Care - Targeted Oncology",
+          "Prominent Urogynecologist Peter Rosenblatt, MD Joins Holy Cross Medical Group - Florida Hospital News and Healthcare Report"
         ]
       },
       {
@@ -2342,20 +2309,53 @@
         "category": "Arab Health",
         "score": 11,
         "examples": [
-          "Chutes & Ladders—SSM Health CEO elected chair of AHA; Northwell Health names first chief biotechnology officer - Fierce Healthcare",
-          "New Medical Diagnostic Equipment Accessibility Requirements: What Healthcare Systems Should Know - Husch Blackwell",
+          "Funding Tracker '26: Evidenced closes Fund I with $24M - Fierce Healthcare",
+          "Prominent Urogynecologist Peter Rosenblatt, MD Joins Holy Cross Medical Group - Florida Hospital News and Healthcare Report",
           "Student presents AI research at international healthcare technology conference - The Pennsylvania State University"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "SA",
+        "category": "Mental Health",
+        "score": 11,
+        "examples": [
+          "Two teen counselors warn of mental health effects of too much screen time - Spectrum News 13",
+          "Weight-loss drugs didn't improve mental health or job prospects - Axios",
+          "HHS & VA Announce Bold, Comprehensive Partnership to Advance Rapid-Acting Mental Health Treatments for Veterans - HHS.gov"
         ]
       },
       {
         "trend": "disease",
         "market_code": "SA",
         "category": "Arab Health",
-        "score": 9,
+        "score": 10,
         "examples": [
           "Information for Travelers Returning from Ebola-Affected Areas - Centers for Disease Control and Prevention | CDC (.gov)",
-          "Information for Travelers Returning from Ebola-Affected Areas - Centers for Disease Control and Prevention | CDC (.gov)",
+          "Frontiers in Science: Simple test could help track metabolic health in cancer and chronic disease - Frontiers",
           "Information for Travelers Returning from Ebola-Affected Areas - Centers for Disease Control and Prevention | CDC (.gov)"
+        ]
+      },
+      {
+        "trend": "mental health",
+        "market_code": "SA",
+        "category": "Mental Health",
+        "score": 10,
+        "examples": [
+          "Two teen counselors warn of mental health effects of too much screen time - Spectrum News 13",
+          "Weight-loss drugs didn't improve mental health or job prospects - Axios",
+          "HHS & VA Announce Bold, Comprehensive Partnership to Advance Rapid-Acting Mental Health Treatments for Veterans - HHS.gov"
+        ]
+      },
+      {
+        "trend": "outbreak",
+        "market_code": "SA",
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "What is the CDC doing to stop the cyclosporiasis outbreak? - USA Today",
+          "Intestinal parasite outbreak prompts health warning in Mecklenburg County - WSOC TV",
+          "Authorities investigate Taco Bell and lettuce in multistate cyclosporiasis outbreak - The Washington Post"
         ]
       },
       {
@@ -2364,9 +2364,9 @@
         "category": "Outbreaks",
         "score": 9,
         "examples": [
-          "Measles virus detected in Lawrence wastewater - FOX4KC.com",
-          "Structures of the Crimean-Congo hemorrhagic fever virus RNA-dependent RNA polymerase - Nature",
-          "Intestinal Virus Hits W.Va. - West Virginia Public Broadcasting"
+          "\"Explosive\" diarrhea virus reaches Tampa Bay: What to know - Axios",
+          "Lewisville to spray after second trap tests positive for West Nile Virus - Cross Timbers Gazette",
+          "Measles virus detected in Lawrence wastewater - FOX4KC.com"
         ]
       },
       {
@@ -2381,36 +2381,36 @@
         ]
       },
       {
-        "trend": "infection",
+        "trend": "heat health",
         "market_code": "SA",
-        "category": "Outbreaks",
+        "category": "Arab Health",
         "score": 7,
         "examples": [
-          "Latest Texas cyclospora infection numbers, the intestinal parasite infection that causes explosive diarrhea - WFAA",
-          "Latest Texas cyclospora infection numbers, the intestinal parasite infection that causes explosive diarrhea - WFAA",
-          "Metabolites Produced by Gut Bacteria May Protect Against Fungal Infection | Newswise - Newswise"
+          "Heat and health - World Health Organization (WHO)",
+          "Heat and health - World Health Organization (WHO)",
+          "Heat and health - World Health Organization (WHO)"
         ]
       },
       {
         "trend": "hospital",
         "market_code": "SA",
         "category": "Arab Health",
-        "score": 6,
+        "score": 7,
         "examples": [
-          "Conspiracy theories about Sen. McConnell’s health spread after his office posts hospital photo - NBC News",
-          "Study Medication Proves Promising for Hypothalamic Obesity - Seattle Children’s Hospital",
-          "WVU Medicine J.W. Ruby Memorial Hospital nationally recognized for commitment to excellence in heart disease, stroke, and diabetes care - WV News"
+          "Why Health Systems Are Increasingly Investing in Smart Rooms - American Hospital Association",
+          "Prominent Urogynecologist Peter Rosenblatt, MD Joins Holy Cross Medical Group - Florida Hospital News and Healthcare Report",
+          "Study Medication Proves Promising for Hypothalamic Obesity - Seattle Children’s Hospital"
         ]
       },
       {
         "trend": "public health",
         "market_code": "SA",
         "category": "Arab Health",
-        "score": 6,
+        "score": 7,
         "examples": [
-          "San Antonio: American Public Health Association - Food Politics by Marion Nestle -",
-          "Pesticide makers stack wins against US environmental, public health groups - Reuters",
-          "From nursing to public health leadership: ASU alum reflects on a career of service - ASU News"
+          "Vaccine skeptic Dr. Ryan Cole to stay on board of Idaho’s largest public health district - Idaho Capital Sun",
+          "College of Public Health inducts new Delta Omega members - University of Nebraska Medical Center",
+          "Vaccine skeptic Dr. Ryan Cole to stay on board of Idaho’s largest public health district - Idaho Capital Sun"
         ]
       }
     ],
@@ -2419,55 +2419,22 @@
         "trend": "health",
         "market_code": "QA",
         "category": "Arab Health",
-        "score": 85,
+        "score": 75,
         "examples": [
           "Heat and health - World Health Organization (WHO)",
           "Heat and health - World Health Organization (WHO)",
-          "Conspiracy theories about Sen. McConnell’s health spread after his office posts hospital photo - NBC News"
+          "GPEI leadership in endemic countries: polio eradication and strengthening health systems go hand in hand - Global Polio Eradication"
         ]
       },
       {
         "trend": "medical",
         "market_code": "QA",
         "category": "Arab Health",
-        "score": 19,
+        "score": 24,
         "examples": [
-          "MUSC works to prevent treat type of health problem linked to Lindsay Grahams death - The Medical University of South Carolina",
-          "What is aortic dissection, the medical emergency linked to Graham’s death? - The Hill",
-          "Agitation in Dementia Can Be Helped by Medical Cannabis, Study Suggests - The New York Times"
-        ]
-      },
-      {
-        "trend": "mental",
-        "market_code": "QA",
-        "category": "Mental Health",
-        "score": 13,
-        "examples": [
-          "HHS & VA Announce Bold, Comprehensive Partnership to Advance Rapid-Acting Mental Health Treatments for Veterans - HHS.gov",
-          "Two teen counselors warn of mental health effects of too much screen time - Spectrum News 13",
-          "HHS & VA Announce Bold, Comprehensive Partnership to Advance Rapid-Acting Mental Health Treatments for Veterans - HHS.gov"
-        ]
-      },
-      {
-        "trend": "mental health",
-        "market_code": "QA",
-        "category": "Mental Health",
-        "score": 12,
-        "examples": [
-          "HHS & VA Announce Bold, Comprehensive Partnership to Advance Rapid-Acting Mental Health Treatments for Veterans - HHS.gov",
-          "Two teen counselors warn of mental health effects of too much screen time - Spectrum News 13",
-          "HHS & VA Announce Bold, Comprehensive Partnership to Advance Rapid-Acting Mental Health Treatments for Veterans - HHS.gov"
-        ]
-      },
-      {
-        "trend": "outbreak",
-        "market_code": "QA",
-        "category": "Outbreaks",
-        "score": 12,
-        "examples": [
-          "Stomach parasite outbreak prompts health warning in Mecklenburg County - WSOC TV",
-          "What we know about the cyclosporiasis outbreak linked to produce - PBS",
-          "U.S. cyclospora outbreak sickens thousands, but California cases remain within normal range - CBS News"
+          "Nashville Fire investigating incident involving member of medical staff and patient - WSMV",
+          "The Intelligent Medical Record: Reimagining the Future of Oncology Care - Targeted Oncology",
+          "Prominent Urogynecologist Peter Rosenblatt, MD Joins Holy Cross Medical Group - Florida Hospital News and Healthcare Report"
         ]
       },
       {
@@ -2476,20 +2443,53 @@
         "category": "Arab Health",
         "score": 11,
         "examples": [
-          "Chutes & Ladders—SSM Health CEO elected chair of AHA; Northwell Health names first chief biotechnology officer - Fierce Healthcare",
-          "New Medical Diagnostic Equipment Accessibility Requirements: What Healthcare Systems Should Know - Husch Blackwell",
+          "Funding Tracker '26: Evidenced closes Fund I with $24M - Fierce Healthcare",
+          "Prominent Urogynecologist Peter Rosenblatt, MD Joins Holy Cross Medical Group - Florida Hospital News and Healthcare Report",
           "Student presents AI research at international healthcare technology conference - The Pennsylvania State University"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "QA",
+        "category": "Mental Health",
+        "score": 11,
+        "examples": [
+          "Two teen counselors warn of mental health effects of too much screen time - Spectrum News 13",
+          "Weight-loss drugs didn't improve mental health or job prospects - Axios",
+          "HHS & VA Announce Bold, Comprehensive Partnership to Advance Rapid-Acting Mental Health Treatments for Veterans - HHS.gov"
         ]
       },
       {
         "trend": "disease",
         "market_code": "QA",
         "category": "Arab Health",
-        "score": 9,
+        "score": 10,
         "examples": [
           "Information for Travelers Returning from Ebola-Affected Areas - Centers for Disease Control and Prevention | CDC (.gov)",
-          "Information for Travelers Returning from Ebola-Affected Areas - Centers for Disease Control and Prevention | CDC (.gov)",
+          "Frontiers in Science: Simple test could help track metabolic health in cancer and chronic disease - Frontiers",
           "Information for Travelers Returning from Ebola-Affected Areas - Centers for Disease Control and Prevention | CDC (.gov)"
+        ]
+      },
+      {
+        "trend": "mental health",
+        "market_code": "QA",
+        "category": "Mental Health",
+        "score": 10,
+        "examples": [
+          "Two teen counselors warn of mental health effects of too much screen time - Spectrum News 13",
+          "Weight-loss drugs didn't improve mental health or job prospects - Axios",
+          "HHS & VA Announce Bold, Comprehensive Partnership to Advance Rapid-Acting Mental Health Treatments for Veterans - HHS.gov"
+        ]
+      },
+      {
+        "trend": "outbreak",
+        "market_code": "QA",
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "What is the CDC doing to stop the cyclosporiasis outbreak? - USA Today",
+          "Intestinal parasite outbreak prompts health warning in Mecklenburg County - WSOC TV",
+          "Authorities investigate Taco Bell and lettuce in multistate cyclosporiasis outbreak - The Washington Post"
         ]
       },
       {
@@ -2498,9 +2498,9 @@
         "category": "Outbreaks",
         "score": 9,
         "examples": [
-          "Measles virus detected in Lawrence wastewater - FOX4KC.com",
-          "Structures of the Crimean-Congo hemorrhagic fever virus RNA-dependent RNA polymerase - Nature",
-          "Intestinal Virus Hits W.Va. - West Virginia Public Broadcasting"
+          "\"Explosive\" diarrhea virus reaches Tampa Bay: What to know - Axios",
+          "Lewisville to spray after second trap tests positive for West Nile Virus - Cross Timbers Gazette",
+          "Measles virus detected in Lawrence wastewater - FOX4KC.com"
         ]
       },
       {
@@ -2515,36 +2515,36 @@
         ]
       },
       {
-        "trend": "infection",
+        "trend": "heat health",
         "market_code": "QA",
-        "category": "Outbreaks",
+        "category": "Arab Health",
         "score": 7,
         "examples": [
-          "Latest Texas cyclospora infection numbers, the intestinal parasite infection that causes explosive diarrhea - WFAA",
-          "Latest Texas cyclospora infection numbers, the intestinal parasite infection that causes explosive diarrhea - WFAA",
-          "Metabolites Produced by Gut Bacteria May Protect Against Fungal Infection | Newswise - Newswise"
+          "Heat and health - World Health Organization (WHO)",
+          "Heat and health - World Health Organization (WHO)",
+          "Heat and health - World Health Organization (WHO)"
         ]
       },
       {
         "trend": "hospital",
         "market_code": "QA",
         "category": "Arab Health",
-        "score": 6,
+        "score": 7,
         "examples": [
-          "Conspiracy theories about Sen. McConnell’s health spread after his office posts hospital photo - NBC News",
-          "Study Medication Proves Promising for Hypothalamic Obesity - Seattle Children’s Hospital",
-          "WVU Medicine J.W. Ruby Memorial Hospital nationally recognized for commitment to excellence in heart disease, stroke, and diabetes care - WV News"
+          "Why Health Systems Are Increasingly Investing in Smart Rooms - American Hospital Association",
+          "Prominent Urogynecologist Peter Rosenblatt, MD Joins Holy Cross Medical Group - Florida Hospital News and Healthcare Report",
+          "Study Medication Proves Promising for Hypothalamic Obesity - Seattle Children’s Hospital"
         ]
       },
       {
         "trend": "public health",
         "market_code": "QA",
         "category": "Arab Health",
-        "score": 6,
+        "score": 7,
         "examples": [
-          "San Antonio: American Public Health Association - Food Politics by Marion Nestle -",
-          "Pesticide makers stack wins against US environmental, public health groups - Reuters",
-          "From nursing to public health leadership: ASU alum reflects on a career of service - ASU News"
+          "Vaccine skeptic Dr. Ryan Cole to stay on board of Idaho’s largest public health district - Idaho Capital Sun",
+          "College of Public Health inducts new Delta Omega members - University of Nebraska Medical Center",
+          "Vaccine skeptic Dr. Ryan Cole to stay on board of Idaho’s largest public health district - Idaho Capital Sun"
         ]
       }
     ],
@@ -2553,55 +2553,22 @@
         "trend": "health",
         "market_code": "JO",
         "category": "Arab Health",
-        "score": 85,
+        "score": 75,
         "examples": [
           "Heat and health - World Health Organization (WHO)",
           "Heat and health - World Health Organization (WHO)",
-          "Conspiracy theories about Sen. McConnell’s health spread after his office posts hospital photo - NBC News"
+          "GPEI leadership in endemic countries: polio eradication and strengthening health systems go hand in hand - Global Polio Eradication"
         ]
       },
       {
         "trend": "medical",
         "market_code": "JO",
         "category": "Arab Health",
-        "score": 19,
+        "score": 24,
         "examples": [
-          "MUSC works to prevent treat type of health problem linked to Lindsay Grahams death - The Medical University of South Carolina",
-          "What is aortic dissection, the medical emergency linked to Graham’s death? - The Hill",
-          "Agitation in Dementia Can Be Helped by Medical Cannabis, Study Suggests - The New York Times"
-        ]
-      },
-      {
-        "trend": "mental",
-        "market_code": "JO",
-        "category": "Mental Health",
-        "score": 13,
-        "examples": [
-          "HHS & VA Announce Bold, Comprehensive Partnership to Advance Rapid-Acting Mental Health Treatments for Veterans - HHS.gov",
-          "Two teen counselors warn of mental health effects of too much screen time - Spectrum News 13",
-          "HHS & VA Announce Bold, Comprehensive Partnership to Advance Rapid-Acting Mental Health Treatments for Veterans - HHS.gov"
-        ]
-      },
-      {
-        "trend": "mental health",
-        "market_code": "JO",
-        "category": "Mental Health",
-        "score": 12,
-        "examples": [
-          "HHS & VA Announce Bold, Comprehensive Partnership to Advance Rapid-Acting Mental Health Treatments for Veterans - HHS.gov",
-          "Two teen counselors warn of mental health effects of too much screen time - Spectrum News 13",
-          "HHS & VA Announce Bold, Comprehensive Partnership to Advance Rapid-Acting Mental Health Treatments for Veterans - HHS.gov"
-        ]
-      },
-      {
-        "trend": "outbreak",
-        "market_code": "JO",
-        "category": "Outbreaks",
-        "score": 12,
-        "examples": [
-          "Stomach parasite outbreak prompts health warning in Mecklenburg County - WSOC TV",
-          "What we know about the cyclosporiasis outbreak linked to produce - PBS",
-          "U.S. cyclospora outbreak sickens thousands, but California cases remain within normal range - CBS News"
+          "Nashville Fire investigating incident involving member of medical staff and patient - WSMV",
+          "The Intelligent Medical Record: Reimagining the Future of Oncology Care - Targeted Oncology",
+          "Prominent Urogynecologist Peter Rosenblatt, MD Joins Holy Cross Medical Group - Florida Hospital News and Healthcare Report"
         ]
       },
       {
@@ -2610,20 +2577,53 @@
         "category": "Arab Health",
         "score": 11,
         "examples": [
-          "Chutes & Ladders—SSM Health CEO elected chair of AHA; Northwell Health names first chief biotechnology officer - Fierce Healthcare",
-          "New Medical Diagnostic Equipment Accessibility Requirements: What Healthcare Systems Should Know - Husch Blackwell",
+          "Funding Tracker '26: Evidenced closes Fund I with $24M - Fierce Healthcare",
+          "Prominent Urogynecologist Peter Rosenblatt, MD Joins Holy Cross Medical Group - Florida Hospital News and Healthcare Report",
           "Student presents AI research at international healthcare technology conference - The Pennsylvania State University"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "JO",
+        "category": "Mental Health",
+        "score": 11,
+        "examples": [
+          "Two teen counselors warn of mental health effects of too much screen time - Spectrum News 13",
+          "Weight-loss drugs didn't improve mental health or job prospects - Axios",
+          "HHS & VA Announce Bold, Comprehensive Partnership to Advance Rapid-Acting Mental Health Treatments for Veterans - HHS.gov"
         ]
       },
       {
         "trend": "disease",
         "market_code": "JO",
         "category": "Arab Health",
-        "score": 9,
+        "score": 10,
         "examples": [
           "Information for Travelers Returning from Ebola-Affected Areas - Centers for Disease Control and Prevention | CDC (.gov)",
-          "Information for Travelers Returning from Ebola-Affected Areas - Centers for Disease Control and Prevention | CDC (.gov)",
+          "Frontiers in Science: Simple test could help track metabolic health in cancer and chronic disease - Frontiers",
           "Information for Travelers Returning from Ebola-Affected Areas - Centers for Disease Control and Prevention | CDC (.gov)"
+        ]
+      },
+      {
+        "trend": "mental health",
+        "market_code": "JO",
+        "category": "Mental Health",
+        "score": 10,
+        "examples": [
+          "Two teen counselors warn of mental health effects of too much screen time - Spectrum News 13",
+          "Weight-loss drugs didn't improve mental health or job prospects - Axios",
+          "HHS & VA Announce Bold, Comprehensive Partnership to Advance Rapid-Acting Mental Health Treatments for Veterans - HHS.gov"
+        ]
+      },
+      {
+        "trend": "outbreak",
+        "market_code": "JO",
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "What is the CDC doing to stop the cyclosporiasis outbreak? - USA Today",
+          "Intestinal parasite outbreak prompts health warning in Mecklenburg County - WSOC TV",
+          "Authorities investigate Taco Bell and lettuce in multistate cyclosporiasis outbreak - The Washington Post"
         ]
       },
       {
@@ -2632,9 +2632,9 @@
         "category": "Outbreaks",
         "score": 9,
         "examples": [
-          "Measles virus detected in Lawrence wastewater - FOX4KC.com",
-          "Structures of the Crimean-Congo hemorrhagic fever virus RNA-dependent RNA polymerase - Nature",
-          "Intestinal Virus Hits W.Va. - West Virginia Public Broadcasting"
+          "\"Explosive\" diarrhea virus reaches Tampa Bay: What to know - Axios",
+          "Lewisville to spray after second trap tests positive for West Nile Virus - Cross Timbers Gazette",
+          "Measles virus detected in Lawrence wastewater - FOX4KC.com"
         ]
       },
       {
@@ -2649,36 +2649,36 @@
         ]
       },
       {
-        "trend": "infection",
+        "trend": "heat health",
         "market_code": "JO",
-        "category": "Outbreaks",
+        "category": "Arab Health",
         "score": 7,
         "examples": [
-          "Latest Texas cyclospora infection numbers, the intestinal parasite infection that causes explosive diarrhea - WFAA",
-          "Latest Texas cyclospora infection numbers, the intestinal parasite infection that causes explosive diarrhea - WFAA",
-          "Metabolites Produced by Gut Bacteria May Protect Against Fungal Infection | Newswise - Newswise"
+          "Heat and health - World Health Organization (WHO)",
+          "Heat and health - World Health Organization (WHO)",
+          "Heat and health - World Health Organization (WHO)"
         ]
       },
       {
         "trend": "hospital",
         "market_code": "JO",
         "category": "Arab Health",
-        "score": 6,
+        "score": 7,
         "examples": [
-          "Conspiracy theories about Sen. McConnell’s health spread after his office posts hospital photo - NBC News",
-          "Study Medication Proves Promising for Hypothalamic Obesity - Seattle Children’s Hospital",
-          "WVU Medicine J.W. Ruby Memorial Hospital nationally recognized for commitment to excellence in heart disease, stroke, and diabetes care - WV News"
+          "Why Health Systems Are Increasingly Investing in Smart Rooms - American Hospital Association",
+          "Prominent Urogynecologist Peter Rosenblatt, MD Joins Holy Cross Medical Group - Florida Hospital News and Healthcare Report",
+          "Study Medication Proves Promising for Hypothalamic Obesity - Seattle Children’s Hospital"
         ]
       },
       {
         "trend": "public health",
         "market_code": "JO",
         "category": "Arab Health",
-        "score": 6,
+        "score": 7,
         "examples": [
-          "San Antonio: American Public Health Association - Food Politics by Marion Nestle -",
-          "Pesticide makers stack wins against US environmental, public health groups - Reuters",
-          "From nursing to public health leadership: ASU alum reflects on a career of service - ASU News"
+          "Vaccine skeptic Dr. Ryan Cole to stay on board of Idaho’s largest public health district - Idaho Capital Sun",
+          "College of Public Health inducts new Delta Omega members - University of Nebraska Medical Center",
+          "Vaccine skeptic Dr. Ryan Cole to stay on board of Idaho’s largest public health district - Idaho Capital Sun"
         ]
       }
     ],
@@ -2687,55 +2687,22 @@
         "trend": "health",
         "market_code": "LB",
         "category": "Arab Health",
-        "score": 85,
+        "score": 75,
         "examples": [
           "Heat and health - World Health Organization (WHO)",
           "Heat and health - World Health Organization (WHO)",
-          "Conspiracy theories about Sen. McConnell’s health spread after his office posts hospital photo - NBC News"
+          "GPEI leadership in endemic countries: polio eradication and strengthening health systems go hand in hand - Global Polio Eradication"
         ]
       },
       {
         "trend": "medical",
         "market_code": "LB",
         "category": "Arab Health",
-        "score": 19,
+        "score": 24,
         "examples": [
-          "MUSC works to prevent treat type of health problem linked to Lindsay Grahams death - The Medical University of South Carolina",
-          "What is aortic dissection, the medical emergency linked to Graham’s death? - The Hill",
-          "Agitation in Dementia Can Be Helped by Medical Cannabis, Study Suggests - The New York Times"
-        ]
-      },
-      {
-        "trend": "mental",
-        "market_code": "LB",
-        "category": "Mental Health",
-        "score": 13,
-        "examples": [
-          "HHS & VA Announce Bold, Comprehensive Partnership to Advance Rapid-Acting Mental Health Treatments for Veterans - HHS.gov",
-          "Two teen counselors warn of mental health effects of too much screen time - Spectrum News 13",
-          "HHS & VA Announce Bold, Comprehensive Partnership to Advance Rapid-Acting Mental Health Treatments for Veterans - HHS.gov"
-        ]
-      },
-      {
-        "trend": "mental health",
-        "market_code": "LB",
-        "category": "Mental Health",
-        "score": 12,
-        "examples": [
-          "HHS & VA Announce Bold, Comprehensive Partnership to Advance Rapid-Acting Mental Health Treatments for Veterans - HHS.gov",
-          "Two teen counselors warn of mental health effects of too much screen time - Spectrum News 13",
-          "HHS & VA Announce Bold, Comprehensive Partnership to Advance Rapid-Acting Mental Health Treatments for Veterans - HHS.gov"
-        ]
-      },
-      {
-        "trend": "outbreak",
-        "market_code": "LB",
-        "category": "Outbreaks",
-        "score": 12,
-        "examples": [
-          "Stomach parasite outbreak prompts health warning in Mecklenburg County - WSOC TV",
-          "What we know about the cyclosporiasis outbreak linked to produce - PBS",
-          "U.S. cyclospora outbreak sickens thousands, but California cases remain within normal range - CBS News"
+          "Nashville Fire investigating incident involving member of medical staff and patient - WSMV",
+          "The Intelligent Medical Record: Reimagining the Future of Oncology Care - Targeted Oncology",
+          "Prominent Urogynecologist Peter Rosenblatt, MD Joins Holy Cross Medical Group - Florida Hospital News and Healthcare Report"
         ]
       },
       {
@@ -2744,20 +2711,53 @@
         "category": "Arab Health",
         "score": 11,
         "examples": [
-          "Chutes & Ladders—SSM Health CEO elected chair of AHA; Northwell Health names first chief biotechnology officer - Fierce Healthcare",
-          "New Medical Diagnostic Equipment Accessibility Requirements: What Healthcare Systems Should Know - Husch Blackwell",
+          "Funding Tracker '26: Evidenced closes Fund I with $24M - Fierce Healthcare",
+          "Prominent Urogynecologist Peter Rosenblatt, MD Joins Holy Cross Medical Group - Florida Hospital News and Healthcare Report",
           "Student presents AI research at international healthcare technology conference - The Pennsylvania State University"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "LB",
+        "category": "Mental Health",
+        "score": 11,
+        "examples": [
+          "Two teen counselors warn of mental health effects of too much screen time - Spectrum News 13",
+          "Weight-loss drugs didn't improve mental health or job prospects - Axios",
+          "HHS & VA Announce Bold, Comprehensive Partnership to Advance Rapid-Acting Mental Health Treatments for Veterans - HHS.gov"
         ]
       },
       {
         "trend": "disease",
         "market_code": "LB",
         "category": "Arab Health",
-        "score": 9,
+        "score": 10,
         "examples": [
           "Information for Travelers Returning from Ebola-Affected Areas - Centers for Disease Control and Prevention | CDC (.gov)",
-          "Information for Travelers Returning from Ebola-Affected Areas - Centers for Disease Control and Prevention | CDC (.gov)",
+          "Frontiers in Science: Simple test could help track metabolic health in cancer and chronic disease - Frontiers",
           "Information for Travelers Returning from Ebola-Affected Areas - Centers for Disease Control and Prevention | CDC (.gov)"
+        ]
+      },
+      {
+        "trend": "mental health",
+        "market_code": "LB",
+        "category": "Mental Health",
+        "score": 10,
+        "examples": [
+          "Two teen counselors warn of mental health effects of too much screen time - Spectrum News 13",
+          "Weight-loss drugs didn't improve mental health or job prospects - Axios",
+          "HHS & VA Announce Bold, Comprehensive Partnership to Advance Rapid-Acting Mental Health Treatments for Veterans - HHS.gov"
+        ]
+      },
+      {
+        "trend": "outbreak",
+        "market_code": "LB",
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "What is the CDC doing to stop the cyclosporiasis outbreak? - USA Today",
+          "Intestinal parasite outbreak prompts health warning in Mecklenburg County - WSOC TV",
+          "Authorities investigate Taco Bell and lettuce in multistate cyclosporiasis outbreak - The Washington Post"
         ]
       },
       {
@@ -2766,9 +2766,9 @@
         "category": "Outbreaks",
         "score": 9,
         "examples": [
-          "Measles virus detected in Lawrence wastewater - FOX4KC.com",
-          "Structures of the Crimean-Congo hemorrhagic fever virus RNA-dependent RNA polymerase - Nature",
-          "Intestinal Virus Hits W.Va. - West Virginia Public Broadcasting"
+          "\"Explosive\" diarrhea virus reaches Tampa Bay: What to know - Axios",
+          "Lewisville to spray after second trap tests positive for West Nile Virus - Cross Timbers Gazette",
+          "Measles virus detected in Lawrence wastewater - FOX4KC.com"
         ]
       },
       {
@@ -2783,36 +2783,36 @@
         ]
       },
       {
-        "trend": "infection",
+        "trend": "heat health",
         "market_code": "LB",
-        "category": "Outbreaks",
+        "category": "Arab Health",
         "score": 7,
         "examples": [
-          "Latest Texas cyclospora infection numbers, the intestinal parasite infection that causes explosive diarrhea - WFAA",
-          "Latest Texas cyclospora infection numbers, the intestinal parasite infection that causes explosive diarrhea - WFAA",
-          "Metabolites Produced by Gut Bacteria May Protect Against Fungal Infection | Newswise - Newswise"
+          "Heat and health - World Health Organization (WHO)",
+          "Heat and health - World Health Organization (WHO)",
+          "Heat and health - World Health Organization (WHO)"
         ]
       },
       {
         "trend": "hospital",
         "market_code": "LB",
         "category": "Arab Health",
-        "score": 6,
+        "score": 7,
         "examples": [
-          "Conspiracy theories about Sen. McConnell’s health spread after his office posts hospital photo - NBC News",
-          "Study Medication Proves Promising for Hypothalamic Obesity - Seattle Children’s Hospital",
-          "WVU Medicine J.W. Ruby Memorial Hospital nationally recognized for commitment to excellence in heart disease, stroke, and diabetes care - WV News"
+          "Why Health Systems Are Increasingly Investing in Smart Rooms - American Hospital Association",
+          "Prominent Urogynecologist Peter Rosenblatt, MD Joins Holy Cross Medical Group - Florida Hospital News and Healthcare Report",
+          "Study Medication Proves Promising for Hypothalamic Obesity - Seattle Children’s Hospital"
         ]
       },
       {
         "trend": "public health",
         "market_code": "LB",
         "category": "Arab Health",
-        "score": 6,
+        "score": 7,
         "examples": [
-          "San Antonio: American Public Health Association - Food Politics by Marion Nestle -",
-          "Pesticide makers stack wins against US environmental, public health groups - Reuters",
-          "From nursing to public health leadership: ASU alum reflects on a career of service - ASU News"
+          "Vaccine skeptic Dr. Ryan Cole to stay on board of Idaho’s largest public health district - Idaho Capital Sun",
+          "College of Public Health inducts new Delta Omega members - University of Nebraska Medical Center",
+          "Vaccine skeptic Dr. Ryan Cole to stay on board of Idaho’s largest public health district - Idaho Capital Sun"
         ]
       }
     ]
