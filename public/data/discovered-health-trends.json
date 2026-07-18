@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-18T07:22:58.516929+00:00",
+  "updated_at": "2026-07-18T12:43:07.540843+00:00",
   "total_trends": 252,
   "markets": {
     "United States": [
@@ -7,7 +7,7 @@
         "trend": "health",
         "market_code": "US",
         "category": "US Health",
-        "score": 81,
+        "score": 85,
         "examples": [
           "Health Report pres. by Vanderbilt Health: Nashville SC vs Atlanta United - Nashville SC",
           "Health Report pres. by Vanderbilt Health: Nashville SC vs Atlanta United - Nashville SC",
@@ -18,40 +18,18 @@
         "trend": "medical",
         "market_code": "US",
         "category": "US Health",
-        "score": 15,
+        "score": 16,
         "examples": [
+          "What does medical science say about testosterone deficiency? - NBC News",
           "Thomas F. Frist Medical School faces accreditation delay - Nashville Banner",
-          "Are medical expenses tax deductible? - H&R Block",
-          "AvenueM: The path from community college to medical school - UC Davis Health"
-        ]
-      },
-      {
-        "trend": "public health",
-        "market_code": "US",
-        "category": "US Health",
-        "score": 12,
-        "examples": [
-          "JHU + WVU Rural Health Convos: From Pregnancy to Practice—Infrastructure for Rural Health Research - Johns Hopkins Bloomberg School of Public Health",
-          "JHU + WVU Rural Health Convos: From Pregnancy to Practice—Infrastructure for Rural Health Research - Johns Hopkins Bloomberg School of Public Health",
-          "Rabid bat found in Seattle near the University of Washington - Public Health Insider"
-        ]
-      },
-      {
-        "trend": "outbreak",
-        "market_code": "US",
-        "category": "Outbreaks",
-        "score": 11,
-        "examples": [
-          "King County on alert as CDC links parasite outbreak to Taco Bell lettuce - MyNorthwest.com",
-          "Cyclosporiasis Outbreak 2026 - Johns Hopkins Medicine",
-          "Salmonella Outbreak Linked to Moringa Capsules - Centers for Disease Control and Prevention | CDC (.gov)"
+          "Medical Impact Reaches Patients in Venezuela, Post-Earthquake - Direct Relief"
         ]
       },
       {
         "trend": "disease",
         "market_code": "US",
         "category": "US Health",
-        "score": 10,
+        "score": 11,
         "examples": [
           "Information for Travelers Returning from Ebola-Affected Areas - Centers for Disease Control and Prevention | CDC (.gov)",
           "Information for Travelers Returning from Ebola-Affected Areas - Centers for Disease Control and Prevention | CDC (.gov)",
@@ -59,21 +37,10 @@
         ]
       },
       {
-        "trend": "mental",
-        "market_code": "US",
-        "category": "Mental Health",
-        "score": 10,
-        "examples": [
-          "Oklahoma approves mental health consent decree plan after delay - The Journal Record",
-          "Montgomery Update: Grieving More Victims of ICE Violence, Setting the Record Straight on Property Taxes, and Teen Mental Health Ambassadors - Montgomery County, MD (.gov)",
-          "Mental health, environment shape pregnancy sleep - WashU"
-        ]
-      },
-      {
         "trend": "healthcare",
         "market_code": "US",
         "category": "US Health",
-        "score": 9,
+        "score": 11,
         "examples": [
           "Deals tracker: Cross Country Healthcare deal moves forward - Modern Healthcare",
           "Deals tracker: Cross Country Healthcare deal moves forward - Modern Healthcare",
@@ -86,9 +53,20 @@
         "category": "Outbreaks",
         "score": 9,
         "examples": [
+          "West Nile virus detected in Ogle County mosquito pool; no human cases reported - MyStateline",
           "West Nile virus found in Oregon for the first time this year - KGW",
-          "Local Doctor responds to first human West Nile Virus case in Ouachita Parish - KNOE",
-          "Local Doctor responds to first human West Nile Virus case in Ouachita Parish - WOWT"
+          "Local Doctor responds to first human West Nile Virus case in Ouachita Parish - KNOE"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "US",
+        "category": "Mental Health",
+        "score": 9,
+        "examples": [
+          "Montgomery Co. program provides teens a way to lead on mental health issues - WTOP",
+          "Opinion: Wyoming doesn't need lectures on mental health. It needs solutions - WyomingNews.com",
+          "Oklahoma approves mental health consent decree plan after delay - The Journal Record"
         ]
       },
       {
@@ -97,9 +75,42 @@
         "category": "Mental Health",
         "score": 9,
         "examples": [
-          "Oklahoma approves mental health consent decree plan after delay - The Journal Record",
-          "Montgomery Update: Grieving More Victims of ICE Violence, Setting the Record Straight on Property Taxes, and Teen Mental Health Ambassadors - Montgomery County, MD (.gov)",
-          "Mental health, environment shape pregnancy sleep - WashU"
+          "Montgomery Co. program provides teens a way to lead on mental health issues - WTOP",
+          "Opinion: Wyoming doesn't need lectures on mental health. It needs solutions - WyomingNews.com",
+          "Oklahoma approves mental health consent decree plan after delay - The Journal Record"
+        ]
+      },
+      {
+        "trend": "health officials",
+        "market_code": "US",
+        "category": "US Health",
+        "score": 8,
+        "examples": [
+          "Cases of cyclosporiasis in Michigan surpass 5,000, health officials say - ABC News - Breaking News, Latest News and Videos",
+          "Colorado health officials are tracking toxic algae blooms with warnings of health impacts - The Colorado Sun",
+          "Colorado health officials are tracking toxic algae blooms with warnings of health impacts - The Colorado Sun"
+        ]
+      },
+      {
+        "trend": "public health",
+        "market_code": "US",
+        "category": "US Health",
+        "score": 8,
+        "examples": [
+          "JHU + WVU Rural Health Convos: From Pregnancy to Practice—Infrastructure for Rural Health Research - Johns Hopkins Bloomberg School of Public Health",
+          "JHU + WVU Rural Health Convos: From Pregnancy to Practice—Infrastructure for Rural Health Research - Johns Hopkins Bloomberg School of Public Health",
+          "Public Health Groups Urge Court to Protect Access to Evidence-Based, Lifesaving Vaccines - Cancer Health"
+        ]
+      },
+      {
+        "trend": "outbreak",
+        "market_code": "US",
+        "category": "Outbreaks",
+        "score": 8,
+        "examples": [
+          "NYC health alert: Legionnaires outbreak grows as cyclospora concerns spread - FOX 5 New York",
+          "Cyclosporiasis Outbreak 2026 - Johns Hopkins Medicine",
+          "Map: ‘Explosive diarrhea’ parasite outbreak by state - NewsNation"
         ]
       },
       {
@@ -108,9 +119,9 @@
         "category": "Outbreaks",
         "score": 8,
         "examples": [
+          "West Nile virus detected in Ogle County mosquito pool; no human cases reported - MyStateline",
           "West Nile virus found in Oregon for the first time this year - KGW",
-          "Local Doctor responds to first human West Nile Virus case in Ouachita Parish - KNOE",
-          "Local Doctor responds to first human West Nile Virus case in Ouachita Parish - WOWT"
+          "Local Doctor responds to first human West Nile Virus case in Ouachita Parish - KNOE"
         ]
       },
       {
@@ -119,20 +130,9 @@
         "category": "Outbreaks",
         "score": 8,
         "examples": [
+          "West Nile virus detected in Ogle County mosquito pool; no human cases reported - MyStateline",
           "West Nile virus found in Oregon for the first time this year - KGW",
-          "Local Doctor responds to first human West Nile Virus case in Ouachita Parish - KNOE",
-          "Local Doctor responds to first human West Nile Virus case in Ouachita Parish - WOWT"
-        ]
-      },
-      {
-        "trend": "health officials",
-        "market_code": "US",
-        "category": "US Health",
-        "score": 7,
-        "examples": [
-          "Cases of cyclosporiasis in Michigan surpass 5,000, health officials say - ABC News - Breaking News, Latest News and Videos",
-          "NJ Health Officials Report Typical Seasonal Uptick of Cyclosporiasis Cases - Hopewell Township, NJ",
-          "Cases of cyclosporiasis in Michigan surpass 5,000, health officials say - ABC News - Breaking News, Latest News and Videos"
+          "Local Doctor responds to first human West Nile Virus case in Ouachita Parish - KNOE"
         ]
       }
     ],
@@ -141,9 +141,9 @@
         "trend": "health",
         "market_code": "GB",
         "category": "Europe Health",
-        "score": 75,
+        "score": 66,
         "examples": [
-          "Women’s health hubs improve care in south London - NHS England",
+          "New clinical model transforms children’s mental health care - NHS England",
           "How does wildfire smoke affect your health? - BBC",
           "Rayner lined up as Burnham’s health secretary - The Telegraph"
         ]
@@ -152,40 +152,40 @@
         "trend": "medical",
         "market_code": "GB",
         "category": "Europe Health",
-        "score": 17,
+        "score": 19,
         "examples": [
           "Behind the Mission: RAF Medical Support Officers at Exercise RIMPAC 2026 - Royal Air Force",
-          "Exclusive: Reporting about British Medical Association critique of Cass Review was 'factually wrong' - QueerAF",
-          "Queen Mary celebrates five years of medical graduates at Malta Campus - Queen Mary University of London"
+          "Man stabbed in face as blood and medical kit inside cordon - Liverpool Echo",
+          "Exclusive: Reporting about British Medical Association critique of Cass Review was 'factually wrong' - QueerAF"
         ]
       },
       {
         "trend": "mental",
         "market_code": "GB",
         "category": "Mental Health",
-        "score": 13,
+        "score": 12,
         "examples": [
-          "Rapid mental health support helps staff stay in work - NHS England",
           "New clinical model transforms children’s mental health care - NHS England",
-          "Warwickshire schools benefit from growing mental health support network! - Warwickshire County Council"
+          "Rapid mental health support helps staff stay in work - NHS England",
+          "New clinical model transforms children’s mental health care - NHS England"
         ]
       },
       {
         "trend": "mental health",
         "market_code": "GB",
         "category": "Mental Health",
-        "score": 13,
+        "score": 12,
         "examples": [
-          "Rapid mental health support helps staff stay in work - NHS England",
           "New clinical model transforms children’s mental health care - NHS England",
-          "Warwickshire schools benefit from growing mental health support network! - Warwickshire County Council"
+          "Rapid mental health support helps staff stay in work - NHS England",
+          "New clinical model transforms children’s mental health care - NHS England"
         ]
       },
       {
         "trend": "disease",
         "market_code": "GB",
         "category": "Europe Health",
-        "score": 12,
+        "score": 11,
         "examples": [
           "Information for Travelers Returning from Ebola-Affected Areas - Centers for Disease Control and Prevention | CDC (.gov)",
           "Information for Travelers Returning from Ebola-Affected Areas - Centers for Disease Control and Prevention | CDC (.gov)",
@@ -196,44 +196,55 @@
         "trend": "outbreak",
         "market_code": "GB",
         "category": "Outbreaks",
-        "score": 10,
-        "examples": [
-          "Health alert in Kayah State refugee camps after chickenpox outbreak - AsiaNews",
-          "'Ebola outbreak is brutal, painful and very distressing' - BBC",
-          "Cyclosporiasis Outbreak 2026 - Johns Hopkins Medicine"
-        ]
-      },
-      {
-        "trend": "public health",
-        "market_code": "GB",
-        "category": "Europe Health",
         "score": 9,
         "examples": [
-          "Launching Public Health Areas of Research Interest at Newcastle City Council - Newcastle City Council",
-          "Reappointment of a Non-Executive Director to the Public Health Agency - health-ni.gov.uk",
-          "Launching Public Health Areas of Research Interest at Newcastle City Council - Newcastle City Council"
+          "'Ebola outbreak is brutal, painful and very distressing' - BBC",
+          "One person dies amid legionnaires’ disease outbreak in New York City - The Guardian",
+          "The parasite behind an ‘explosive diarrhoea’ outbreak in the US - The Telegraph"
         ]
       },
       {
-        "trend": "hospital",
+        "trend": "children",
         "market_code": "GB",
-        "category": "Europe Health",
-        "score": 6,
+        "category": "Children Health",
+        "score": 7,
         "examples": [
-          "Sonam Wangchuk: Indian activist on hunger strike for 20 days forcibly taken to hospital - BBC",
-          "Health experts issue warning as people with these symptoms told to go to hospital 'straight away' - Irish Mirror",
-          "How Family Advocacy Day Inspired a Medical Student to Pursue Pediatrics - Children's Hospital Association"
+          "New clinical model transforms children’s mental health care - NHS England",
+          "Cyclosporiasis in Children: Symptoms, Treatment & Prevention - HealthyChildren.org",
+          "Impetigo spreads in Split as children among those most affected - Croatia Week"
         ]
       },
       {
         "trend": "healthcare",
         "market_code": "GB",
         "category": "Europe Health",
+        "score": 7,
+        "examples": [
+          "Faced with inadequate US healthcare, Black women fly to South Korea: ‘It could save your life’ - The Guardian",
+          "Denmark unveils first national health plan in 2027 healthcare reform - euractiv.com",
+          "Technological innovation in healthcare: challenges, opportunities and impact on sustainability - Frontiers"
+        ]
+      },
+      {
+        "trend": "health care",
+        "market_code": "GB",
+        "category": "Europe Health",
         "score": 6,
         "examples": [
-          "Denmark unveils first national health plan in 2027 healthcare reform - euractiv.com",
-          "Technological innovation in healthcare: challenges, opportunities and impact on sustainability - Frontiers",
-          "Flexzo Ai Partners with Maiden Lane Medical to Accelerate AI-Driven Healthcare Workforce Transformation and Telemedicine Growth - Yahoo Finance UK"
+          "New clinical model transforms children’s mental health care - NHS England",
+          "New clinical model transforms children’s mental health care - NHS England",
+          "What went wrong with Shildon teenager's mental health care? - BBC"
+        ]
+      },
+      {
+        "trend": "public health",
+        "market_code": "GB",
+        "category": "Europe Health",
+        "score": 6,
+        "examples": [
+          "Launching Public Health Areas of Research Interest at Newcastle City Council - Newcastle City Council",
+          "Public health officers voice concerns over vast number of takeaways across Bradford - Yahoo News UK",
+          "Genomic sequencing strengthens public health in Eritrea - WHO | Regional Office for Africa"
         ]
       },
       {
@@ -248,25 +259,14 @@
         ]
       },
       {
-        "trend": "warning",
+        "trend": "clinical",
         "market_code": "GB",
         "category": "Europe Health",
-        "score": 6,
+        "score": 5,
         "examples": [
-          "Health experts issue warning as people with these symptoms told to go to hospital 'straight away' - Irish Mirror",
-          "Harrogate firm's warning over impact of funding problems on eye health care and patients - Harrogate Advertiser",
-          "Wildfire smoke prompts rare health warning to Mackinac sailboat racers - The Detroit News"
-        ]
-      },
-      {
-        "trend": "health care",
-        "market_code": "GB",
-        "category": "Europe Health",
-        "score": 6,
-        "examples": [
-          "Harrogate firm's warning over impact of funding problems on eye health care and patients - Harrogate Advertiser",
           "New clinical model transforms children’s mental health care - NHS England",
-          "What went wrong with Shildon teenager's mental health care? - BBC"
+          "New clinical model transforms children’s mental health care - NHS England",
+          "CMS signals intent to revamp how it pays for clinical software and AI - STAT"
         ]
       }
     ],
@@ -275,44 +275,33 @@
         "trend": "health",
         "market_code": "DE",
         "category": "Europe Health",
-        "score": 81,
+        "score": 84,
         "examples": [
           "Health Report pres. by Vanderbilt Health: Nashville SC vs Atlanta United - Nashville SC",
           "Health Report pres. by Vanderbilt Health: Nashville SC vs Atlanta United - Nashville SC",
-          "Cases of cyclosporiasis in Michigan surpass 5,000, health officials say - ABC News - Breaking News, Latest News and Videos"
+          "Colorado health officials are tracking toxic algae blooms with warnings of health impacts - The Colorado Sun"
         ]
       },
       {
         "trend": "medical",
         "market_code": "DE",
         "category": "Europe Health",
-        "score": 15,
+        "score": 16,
         "examples": [
+          "What does medical science say about testosterone deficiency? - NBC News",
           "Thomas F. Frist Medical School faces accreditation delay - Nashville Banner",
-          "Are medical expenses tax deductible? - H&R Block",
-          "AvenueM: The path from community college to medical school - UC Davis Health"
+          "Medical Impact Reaches Patients in Venezuela, Post-Earthquake - Direct Relief"
         ]
       },
       {
-        "trend": "public health",
+        "trend": "healthcare",
         "market_code": "DE",
         "category": "Europe Health",
-        "score": 12,
-        "examples": [
-          "JHU + WVU Rural Health Convos: From Pregnancy to Practice—Infrastructure for Rural Health Research - Johns Hopkins Bloomberg School of Public Health",
-          "JHU + WVU Rural Health Convos: From Pregnancy to Practice—Infrastructure for Rural Health Research - Johns Hopkins Bloomberg School of Public Health",
-          "Rabid bat found in Seattle near the University of Washington - Public Health Insider"
-        ]
-      },
-      {
-        "trend": "outbreak",
-        "market_code": "DE",
-        "category": "Outbreaks",
         "score": 11,
         "examples": [
-          "King County on alert as CDC links parasite outbreak to Taco Bell lettuce - MyNorthwest.com",
-          "Cyclosporiasis Outbreak 2026 - Johns Hopkins Medicine",
-          "Salmonella Outbreak Linked to Moringa Capsules - Centers for Disease Control and Prevention | CDC (.gov)"
+          "Deals tracker: Cross Country Healthcare deal moves forward - Modern Healthcare",
+          "Deals tracker: Cross Country Healthcare deal moves forward - Modern Healthcare",
+          "Deals tracker: Cross Country Healthcare deal moves forward - Modern Healthcare"
         ]
       },
       {
@@ -332,20 +321,31 @@
         "category": "Mental Health",
         "score": 10,
         "examples": [
-          "Oklahoma approves mental health consent decree plan after delay - The Journal Record",
-          "Montgomery Update: Grieving More Victims of ICE Violence, Setting the Record Straight on Property Taxes, and Teen Mental Health Ambassadors - Montgomery County, MD (.gov)",
-          "Mental health, environment shape pregnancy sleep - WashU"
+          "Montgomery Co. program provides teens a way to lead on mental health issues - WTOP",
+          "Montgomery Co. program provides teens a way to lead on mental health issues - WTOP",
+          "Opinion: Wyoming doesn't need lectures on mental health. It needs solutions - WyomingNews.com"
         ]
       },
       {
-        "trend": "healthcare",
+        "trend": "mental health",
         "market_code": "DE",
-        "category": "Europe Health",
+        "category": "Mental Health",
+        "score": 10,
+        "examples": [
+          "Montgomery Co. program provides teens a way to lead on mental health issues - WTOP",
+          "Montgomery Co. program provides teens a way to lead on mental health issues - WTOP",
+          "Opinion: Wyoming doesn't need lectures on mental health. It needs solutions - WyomingNews.com"
+        ]
+      },
+      {
+        "trend": "outbreak",
+        "market_code": "DE",
+        "category": "Outbreaks",
         "score": 9,
         "examples": [
-          "Deals tracker: Cross Country Healthcare deal moves forward - Modern Healthcare",
-          "Deals tracker: Cross Country Healthcare deal moves forward - Modern Healthcare",
-          "Deals tracker: Cross Country Healthcare deal moves forward - Modern Healthcare"
+          "NYC health alert: Legionnaires outbreak grows as cyclospora concerns spread - FOX 5 New York",
+          "Cyclosporiasis Outbreak 2026 - Johns Hopkins Medicine",
+          "Map: ‘Explosive diarrhea’ parasite outbreak by state - NewsNation"
         ]
       },
       {
@@ -354,20 +354,20 @@
         "category": "Outbreaks",
         "score": 9,
         "examples": [
+          "West Nile virus detected in Ogle County mosquito pool; no human cases reported - MyStateline",
           "West Nile virus found in Oregon for the first time this year - KGW",
-          "Local Doctor responds to first human West Nile Virus case in Ouachita Parish - KNOE",
-          "Local Doctor responds to first human West Nile Virus case in Ouachita Parish - WOWT"
+          "Local Doctor responds to first human West Nile Virus case in Ouachita Parish - KNOE"
         ]
       },
       {
-        "trend": "mental health",
+        "trend": "public health",
         "market_code": "DE",
-        "category": "Mental Health",
-        "score": 9,
+        "category": "Europe Health",
+        "score": 8,
         "examples": [
-          "Oklahoma approves mental health consent decree plan after delay - The Journal Record",
-          "Montgomery Update: Grieving More Victims of ICE Violence, Setting the Record Straight on Property Taxes, and Teen Mental Health Ambassadors - Montgomery County, MD (.gov)",
-          "Mental health, environment shape pregnancy sleep - WashU"
+          "JHU + WVU Rural Health Convos: From Pregnancy to Practice—Infrastructure for Rural Health Research - Johns Hopkins Bloomberg School of Public Health",
+          "JHU + WVU Rural Health Convos: From Pregnancy to Practice—Infrastructure for Rural Health Research - Johns Hopkins Bloomberg School of Public Health",
+          "Public Health Groups Urge Court to Protect Access to Evidence-Based, Lifesaving Vaccines - Cancer Health"
         ]
       },
       {
@@ -376,9 +376,9 @@
         "category": "Outbreaks",
         "score": 8,
         "examples": [
+          "West Nile virus detected in Ogle County mosquito pool; no human cases reported - MyStateline",
           "West Nile virus found in Oregon for the first time this year - KGW",
-          "Local Doctor responds to first human West Nile Virus case in Ouachita Parish - KNOE",
-          "Local Doctor responds to first human West Nile Virus case in Ouachita Parish - WOWT"
+          "Local Doctor responds to first human West Nile Virus case in Ouachita Parish - KNOE"
         ]
       },
       {
@@ -387,20 +387,20 @@
         "category": "Outbreaks",
         "score": 8,
         "examples": [
+          "West Nile virus detected in Ogle County mosquito pool; no human cases reported - MyStateline",
           "West Nile virus found in Oregon for the first time this year - KGW",
-          "Local Doctor responds to first human West Nile Virus case in Ouachita Parish - KNOE",
-          "Local Doctor responds to first human West Nile Virus case in Ouachita Parish - WOWT"
+          "Local Doctor responds to first human West Nile Virus case in Ouachita Parish - KNOE"
         ]
       },
       {
-        "trend": "health officials",
+        "trend": "hospital",
         "market_code": "DE",
         "category": "Europe Health",
-        "score": 7,
+        "score": 6,
         "examples": [
-          "Cases of cyclosporiasis in Michigan surpass 5,000, health officials say - ABC News - Breaking News, Latest News and Videos",
-          "NJ Health Officials Report Typical Seasonal Uptick of Cyclosporiasis Cases - Hopewell Township, NJ",
-          "Cases of cyclosporiasis in Michigan surpass 5,000, health officials say - ABC News - Breaking News, Latest News and Videos"
+          "CDC finds decline in healthcare-associated infections in hospitals - American Hospital Association",
+          "RFK Jr. comes to Tampa to roll out ‘Make Hospital Food Healthier’ pledge - The Miami Times",
+          "How Family Advocacy Day Inspired a Medical Student to Pursue Pediatrics - Children's Hospital Association"
         ]
       }
     ],
@@ -409,44 +409,33 @@
         "trend": "health",
         "market_code": "FR",
         "category": "Europe Health",
-        "score": 81,
+        "score": 84,
         "examples": [
           "Health Report pres. by Vanderbilt Health: Nashville SC vs Atlanta United - Nashville SC",
           "Health Report pres. by Vanderbilt Health: Nashville SC vs Atlanta United - Nashville SC",
-          "Cases of cyclosporiasis in Michigan surpass 5,000, health officials say - ABC News - Breaking News, Latest News and Videos"
+          "Colorado health officials are tracking toxic algae blooms with warnings of health impacts - The Colorado Sun"
         ]
       },
       {
         "trend": "medical",
         "market_code": "FR",
         "category": "Europe Health",
-        "score": 15,
+        "score": 16,
         "examples": [
+          "What does medical science say about testosterone deficiency? - NBC News",
           "Thomas F. Frist Medical School faces accreditation delay - Nashville Banner",
-          "Are medical expenses tax deductible? - H&R Block",
-          "AvenueM: The path from community college to medical school - UC Davis Health"
+          "Medical Impact Reaches Patients in Venezuela, Post-Earthquake - Direct Relief"
         ]
       },
       {
-        "trend": "public health",
+        "trend": "healthcare",
         "market_code": "FR",
         "category": "Europe Health",
-        "score": 12,
-        "examples": [
-          "JHU + WVU Rural Health Convos: From Pregnancy to Practice—Infrastructure for Rural Health Research - Johns Hopkins Bloomberg School of Public Health",
-          "JHU + WVU Rural Health Convos: From Pregnancy to Practice—Infrastructure for Rural Health Research - Johns Hopkins Bloomberg School of Public Health",
-          "Rabid bat found in Seattle near the University of Washington - Public Health Insider"
-        ]
-      },
-      {
-        "trend": "outbreak",
-        "market_code": "FR",
-        "category": "Outbreaks",
         "score": 11,
         "examples": [
-          "King County on alert as CDC links parasite outbreak to Taco Bell lettuce - MyNorthwest.com",
-          "Cyclosporiasis Outbreak 2026 - Johns Hopkins Medicine",
-          "Salmonella Outbreak Linked to Moringa Capsules - Centers for Disease Control and Prevention | CDC (.gov)"
+          "Deals tracker: Cross Country Healthcare deal moves forward - Modern Healthcare",
+          "Deals tracker: Cross Country Healthcare deal moves forward - Modern Healthcare",
+          "Deals tracker: Cross Country Healthcare deal moves forward - Modern Healthcare"
         ]
       },
       {
@@ -466,20 +455,31 @@
         "category": "Mental Health",
         "score": 10,
         "examples": [
-          "Oklahoma approves mental health consent decree plan after delay - The Journal Record",
-          "Montgomery Update: Grieving More Victims of ICE Violence, Setting the Record Straight on Property Taxes, and Teen Mental Health Ambassadors - Montgomery County, MD (.gov)",
-          "Mental health, environment shape pregnancy sleep - WashU"
+          "Montgomery Co. program provides teens a way to lead on mental health issues - WTOP",
+          "Montgomery Co. program provides teens a way to lead on mental health issues - WTOP",
+          "Opinion: Wyoming doesn't need lectures on mental health. It needs solutions - WyomingNews.com"
         ]
       },
       {
-        "trend": "healthcare",
+        "trend": "mental health",
         "market_code": "FR",
-        "category": "Europe Health",
+        "category": "Mental Health",
+        "score": 10,
+        "examples": [
+          "Montgomery Co. program provides teens a way to lead on mental health issues - WTOP",
+          "Montgomery Co. program provides teens a way to lead on mental health issues - WTOP",
+          "Opinion: Wyoming doesn't need lectures on mental health. It needs solutions - WyomingNews.com"
+        ]
+      },
+      {
+        "trend": "outbreak",
+        "market_code": "FR",
+        "category": "Outbreaks",
         "score": 9,
         "examples": [
-          "Deals tracker: Cross Country Healthcare deal moves forward - Modern Healthcare",
-          "Deals tracker: Cross Country Healthcare deal moves forward - Modern Healthcare",
-          "Deals tracker: Cross Country Healthcare deal moves forward - Modern Healthcare"
+          "NYC health alert: Legionnaires outbreak grows as cyclospora concerns spread - FOX 5 New York",
+          "Cyclosporiasis Outbreak 2026 - Johns Hopkins Medicine",
+          "Map: ‘Explosive diarrhea’ parasite outbreak by state - NewsNation"
         ]
       },
       {
@@ -488,20 +488,20 @@
         "category": "Outbreaks",
         "score": 9,
         "examples": [
+          "West Nile virus detected in Ogle County mosquito pool; no human cases reported - MyStateline",
           "West Nile virus found in Oregon for the first time this year - KGW",
-          "Local Doctor responds to first human West Nile Virus case in Ouachita Parish - KNOE",
-          "Local Doctor responds to first human West Nile Virus case in Ouachita Parish - WOWT"
+          "Local Doctor responds to first human West Nile Virus case in Ouachita Parish - KNOE"
         ]
       },
       {
-        "trend": "mental health",
+        "trend": "public health",
         "market_code": "FR",
-        "category": "Mental Health",
-        "score": 9,
+        "category": "Europe Health",
+        "score": 8,
         "examples": [
-          "Oklahoma approves mental health consent decree plan after delay - The Journal Record",
-          "Montgomery Update: Grieving More Victims of ICE Violence, Setting the Record Straight on Property Taxes, and Teen Mental Health Ambassadors - Montgomery County, MD (.gov)",
-          "Mental health, environment shape pregnancy sleep - WashU"
+          "JHU + WVU Rural Health Convos: From Pregnancy to Practice—Infrastructure for Rural Health Research - Johns Hopkins Bloomberg School of Public Health",
+          "JHU + WVU Rural Health Convos: From Pregnancy to Practice—Infrastructure for Rural Health Research - Johns Hopkins Bloomberg School of Public Health",
+          "Public Health Groups Urge Court to Protect Access to Evidence-Based, Lifesaving Vaccines - Cancer Health"
         ]
       },
       {
@@ -510,9 +510,9 @@
         "category": "Outbreaks",
         "score": 8,
         "examples": [
+          "West Nile virus detected in Ogle County mosquito pool; no human cases reported - MyStateline",
           "West Nile virus found in Oregon for the first time this year - KGW",
-          "Local Doctor responds to first human West Nile Virus case in Ouachita Parish - KNOE",
-          "Local Doctor responds to first human West Nile Virus case in Ouachita Parish - WOWT"
+          "Local Doctor responds to first human West Nile Virus case in Ouachita Parish - KNOE"
         ]
       },
       {
@@ -521,20 +521,20 @@
         "category": "Outbreaks",
         "score": 8,
         "examples": [
+          "West Nile virus detected in Ogle County mosquito pool; no human cases reported - MyStateline",
           "West Nile virus found in Oregon for the first time this year - KGW",
-          "Local Doctor responds to first human West Nile Virus case in Ouachita Parish - KNOE",
-          "Local Doctor responds to first human West Nile Virus case in Ouachita Parish - WOWT"
+          "Local Doctor responds to first human West Nile Virus case in Ouachita Parish - KNOE"
         ]
       },
       {
-        "trend": "health officials",
+        "trend": "hospital",
         "market_code": "FR",
         "category": "Europe Health",
-        "score": 7,
+        "score": 6,
         "examples": [
-          "Cases of cyclosporiasis in Michigan surpass 5,000, health officials say - ABC News - Breaking News, Latest News and Videos",
-          "NJ Health Officials Report Typical Seasonal Uptick of Cyclosporiasis Cases - Hopewell Township, NJ",
-          "Cases of cyclosporiasis in Michigan surpass 5,000, health officials say - ABC News - Breaking News, Latest News and Videos"
+          "CDC finds decline in healthcare-associated infections in hospitals - American Hospital Association",
+          "RFK Jr. comes to Tampa to roll out ‘Make Hospital Food Healthier’ pledge - The Miami Times",
+          "How Family Advocacy Day Inspired a Medical Student to Pursue Pediatrics - Children's Hospital Association"
         ]
       }
     ],
@@ -543,44 +543,33 @@
         "trend": "health",
         "market_code": "IT",
         "category": "Europe Health",
-        "score": 81,
+        "score": 84,
         "examples": [
           "Health Report pres. by Vanderbilt Health: Nashville SC vs Atlanta United - Nashville SC",
           "Health Report pres. by Vanderbilt Health: Nashville SC vs Atlanta United - Nashville SC",
-          "Cases of cyclosporiasis in Michigan surpass 5,000, health officials say - ABC News - Breaking News, Latest News and Videos"
+          "Colorado health officials are tracking toxic algae blooms with warnings of health impacts - The Colorado Sun"
         ]
       },
       {
         "trend": "medical",
         "market_code": "IT",
         "category": "Europe Health",
-        "score": 15,
+        "score": 16,
         "examples": [
+          "What does medical science say about testosterone deficiency? - NBC News",
           "Thomas F. Frist Medical School faces accreditation delay - Nashville Banner",
-          "Are medical expenses tax deductible? - H&R Block",
-          "AvenueM: The path from community college to medical school - UC Davis Health"
+          "Medical Impact Reaches Patients in Venezuela, Post-Earthquake - Direct Relief"
         ]
       },
       {
-        "trend": "public health",
+        "trend": "healthcare",
         "market_code": "IT",
         "category": "Europe Health",
-        "score": 12,
-        "examples": [
-          "JHU + WVU Rural Health Convos: From Pregnancy to Practice—Infrastructure for Rural Health Research - Johns Hopkins Bloomberg School of Public Health",
-          "JHU + WVU Rural Health Convos: From Pregnancy to Practice—Infrastructure for Rural Health Research - Johns Hopkins Bloomberg School of Public Health",
-          "Rabid bat found in Seattle near the University of Washington - Public Health Insider"
-        ]
-      },
-      {
-        "trend": "outbreak",
-        "market_code": "IT",
-        "category": "Outbreaks",
         "score": 11,
         "examples": [
-          "King County on alert as CDC links parasite outbreak to Taco Bell lettuce - MyNorthwest.com",
-          "Cyclosporiasis Outbreak 2026 - Johns Hopkins Medicine",
-          "Salmonella Outbreak Linked to Moringa Capsules - Centers for Disease Control and Prevention | CDC (.gov)"
+          "Deals tracker: Cross Country Healthcare deal moves forward - Modern Healthcare",
+          "Deals tracker: Cross Country Healthcare deal moves forward - Modern Healthcare",
+          "Deals tracker: Cross Country Healthcare deal moves forward - Modern Healthcare"
         ]
       },
       {
@@ -600,20 +589,31 @@
         "category": "Mental Health",
         "score": 10,
         "examples": [
-          "Oklahoma approves mental health consent decree plan after delay - The Journal Record",
-          "Montgomery Update: Grieving More Victims of ICE Violence, Setting the Record Straight on Property Taxes, and Teen Mental Health Ambassadors - Montgomery County, MD (.gov)",
-          "Mental health, environment shape pregnancy sleep - WashU"
+          "Montgomery Co. program provides teens a way to lead on mental health issues - WTOP",
+          "Montgomery Co. program provides teens a way to lead on mental health issues - WTOP",
+          "Opinion: Wyoming doesn't need lectures on mental health. It needs solutions - WyomingNews.com"
         ]
       },
       {
-        "trend": "healthcare",
+        "trend": "mental health",
         "market_code": "IT",
-        "category": "Europe Health",
+        "category": "Mental Health",
+        "score": 10,
+        "examples": [
+          "Montgomery Co. program provides teens a way to lead on mental health issues - WTOP",
+          "Montgomery Co. program provides teens a way to lead on mental health issues - WTOP",
+          "Opinion: Wyoming doesn't need lectures on mental health. It needs solutions - WyomingNews.com"
+        ]
+      },
+      {
+        "trend": "outbreak",
+        "market_code": "IT",
+        "category": "Outbreaks",
         "score": 9,
         "examples": [
-          "Deals tracker: Cross Country Healthcare deal moves forward - Modern Healthcare",
-          "Deals tracker: Cross Country Healthcare deal moves forward - Modern Healthcare",
-          "Deals tracker: Cross Country Healthcare deal moves forward - Modern Healthcare"
+          "NYC health alert: Legionnaires outbreak grows as cyclospora concerns spread - FOX 5 New York",
+          "Cyclosporiasis Outbreak 2026 - Johns Hopkins Medicine",
+          "Map: ‘Explosive diarrhea’ parasite outbreak by state - NewsNation"
         ]
       },
       {
@@ -622,20 +622,20 @@
         "category": "Outbreaks",
         "score": 9,
         "examples": [
+          "West Nile virus detected in Ogle County mosquito pool; no human cases reported - MyStateline",
           "West Nile virus found in Oregon for the first time this year - KGW",
-          "Local Doctor responds to first human West Nile Virus case in Ouachita Parish - KNOE",
-          "Local Doctor responds to first human West Nile Virus case in Ouachita Parish - WOWT"
+          "Local Doctor responds to first human West Nile Virus case in Ouachita Parish - KNOE"
         ]
       },
       {
-        "trend": "mental health",
+        "trend": "public health",
         "market_code": "IT",
-        "category": "Mental Health",
-        "score": 9,
+        "category": "Europe Health",
+        "score": 8,
         "examples": [
-          "Oklahoma approves mental health consent decree plan after delay - The Journal Record",
-          "Montgomery Update: Grieving More Victims of ICE Violence, Setting the Record Straight on Property Taxes, and Teen Mental Health Ambassadors - Montgomery County, MD (.gov)",
-          "Mental health, environment shape pregnancy sleep - WashU"
+          "JHU + WVU Rural Health Convos: From Pregnancy to Practice—Infrastructure for Rural Health Research - Johns Hopkins Bloomberg School of Public Health",
+          "JHU + WVU Rural Health Convos: From Pregnancy to Practice—Infrastructure for Rural Health Research - Johns Hopkins Bloomberg School of Public Health",
+          "Public Health Groups Urge Court to Protect Access to Evidence-Based, Lifesaving Vaccines - Cancer Health"
         ]
       },
       {
@@ -644,9 +644,9 @@
         "category": "Outbreaks",
         "score": 8,
         "examples": [
+          "West Nile virus detected in Ogle County mosquito pool; no human cases reported - MyStateline",
           "West Nile virus found in Oregon for the first time this year - KGW",
-          "Local Doctor responds to first human West Nile Virus case in Ouachita Parish - KNOE",
-          "Local Doctor responds to first human West Nile Virus case in Ouachita Parish - WOWT"
+          "Local Doctor responds to first human West Nile Virus case in Ouachita Parish - KNOE"
         ]
       },
       {
@@ -655,20 +655,20 @@
         "category": "Outbreaks",
         "score": 8,
         "examples": [
+          "West Nile virus detected in Ogle County mosquito pool; no human cases reported - MyStateline",
           "West Nile virus found in Oregon for the first time this year - KGW",
-          "Local Doctor responds to first human West Nile Virus case in Ouachita Parish - KNOE",
-          "Local Doctor responds to first human West Nile Virus case in Ouachita Parish - WOWT"
+          "Local Doctor responds to first human West Nile Virus case in Ouachita Parish - KNOE"
         ]
       },
       {
-        "trend": "health officials",
+        "trend": "hospital",
         "market_code": "IT",
         "category": "Europe Health",
-        "score": 7,
+        "score": 6,
         "examples": [
-          "Cases of cyclosporiasis in Michigan surpass 5,000, health officials say - ABC News - Breaking News, Latest News and Videos",
-          "NJ Health Officials Report Typical Seasonal Uptick of Cyclosporiasis Cases - Hopewell Township, NJ",
-          "Cases of cyclosporiasis in Michigan surpass 5,000, health officials say - ABC News - Breaking News, Latest News and Videos"
+          "CDC finds decline in healthcare-associated infections in hospitals - American Hospital Association",
+          "RFK Jr. comes to Tampa to roll out ‘Make Hospital Food Healthier’ pledge - The Miami Times",
+          "How Family Advocacy Day Inspired a Medical Student to Pursue Pediatrics - Children's Hospital Association"
         ]
       }
     ],
@@ -677,44 +677,33 @@
         "trend": "health",
         "market_code": "ES",
         "category": "Europe Health",
-        "score": 81,
+        "score": 84,
         "examples": [
           "Health Report pres. by Vanderbilt Health: Nashville SC vs Atlanta United - Nashville SC",
           "Health Report pres. by Vanderbilt Health: Nashville SC vs Atlanta United - Nashville SC",
-          "Cases of cyclosporiasis in Michigan surpass 5,000, health officials say - ABC News - Breaking News, Latest News and Videos"
+          "Colorado health officials are tracking toxic algae blooms with warnings of health impacts - The Colorado Sun"
         ]
       },
       {
         "trend": "medical",
         "market_code": "ES",
         "category": "Europe Health",
-        "score": 15,
+        "score": 16,
         "examples": [
+          "What does medical science say about testosterone deficiency? - NBC News",
           "Thomas F. Frist Medical School faces accreditation delay - Nashville Banner",
-          "Are medical expenses tax deductible? - H&R Block",
-          "AvenueM: The path from community college to medical school - UC Davis Health"
+          "Medical Impact Reaches Patients in Venezuela, Post-Earthquake - Direct Relief"
         ]
       },
       {
-        "trend": "public health",
+        "trend": "healthcare",
         "market_code": "ES",
         "category": "Europe Health",
-        "score": 12,
-        "examples": [
-          "JHU + WVU Rural Health Convos: From Pregnancy to Practice—Infrastructure for Rural Health Research - Johns Hopkins Bloomberg School of Public Health",
-          "JHU + WVU Rural Health Convos: From Pregnancy to Practice—Infrastructure for Rural Health Research - Johns Hopkins Bloomberg School of Public Health",
-          "Rabid bat found in Seattle near the University of Washington - Public Health Insider"
-        ]
-      },
-      {
-        "trend": "outbreak",
-        "market_code": "ES",
-        "category": "Outbreaks",
         "score": 11,
         "examples": [
-          "King County on alert as CDC links parasite outbreak to Taco Bell lettuce - MyNorthwest.com",
-          "Cyclosporiasis Outbreak 2026 - Johns Hopkins Medicine",
-          "Salmonella Outbreak Linked to Moringa Capsules - Centers for Disease Control and Prevention | CDC (.gov)"
+          "Deals tracker: Cross Country Healthcare deal moves forward - Modern Healthcare",
+          "Deals tracker: Cross Country Healthcare deal moves forward - Modern Healthcare",
+          "Deals tracker: Cross Country Healthcare deal moves forward - Modern Healthcare"
         ]
       },
       {
@@ -734,20 +723,31 @@
         "category": "Mental Health",
         "score": 10,
         "examples": [
-          "Oklahoma approves mental health consent decree plan after delay - The Journal Record",
-          "Montgomery Update: Grieving More Victims of ICE Violence, Setting the Record Straight on Property Taxes, and Teen Mental Health Ambassadors - Montgomery County, MD (.gov)",
-          "Mental health, environment shape pregnancy sleep - WashU"
+          "Montgomery Co. program provides teens a way to lead on mental health issues - WTOP",
+          "Montgomery Co. program provides teens a way to lead on mental health issues - WTOP",
+          "Opinion: Wyoming doesn't need lectures on mental health. It needs solutions - WyomingNews.com"
         ]
       },
       {
-        "trend": "healthcare",
+        "trend": "mental health",
         "market_code": "ES",
-        "category": "Europe Health",
+        "category": "Mental Health",
+        "score": 10,
+        "examples": [
+          "Montgomery Co. program provides teens a way to lead on mental health issues - WTOP",
+          "Montgomery Co. program provides teens a way to lead on mental health issues - WTOP",
+          "Opinion: Wyoming doesn't need lectures on mental health. It needs solutions - WyomingNews.com"
+        ]
+      },
+      {
+        "trend": "outbreak",
+        "market_code": "ES",
+        "category": "Outbreaks",
         "score": 9,
         "examples": [
-          "Deals tracker: Cross Country Healthcare deal moves forward - Modern Healthcare",
-          "Deals tracker: Cross Country Healthcare deal moves forward - Modern Healthcare",
-          "Deals tracker: Cross Country Healthcare deal moves forward - Modern Healthcare"
+          "NYC health alert: Legionnaires outbreak grows as cyclospora concerns spread - FOX 5 New York",
+          "Cyclosporiasis Outbreak 2026 - Johns Hopkins Medicine",
+          "Map: ‘Explosive diarrhea’ parasite outbreak by state - NewsNation"
         ]
       },
       {
@@ -756,20 +756,20 @@
         "category": "Outbreaks",
         "score": 9,
         "examples": [
+          "West Nile virus detected in Ogle County mosquito pool; no human cases reported - MyStateline",
           "West Nile virus found in Oregon for the first time this year - KGW",
-          "Local Doctor responds to first human West Nile Virus case in Ouachita Parish - KNOE",
-          "Local Doctor responds to first human West Nile Virus case in Ouachita Parish - WOWT"
+          "Local Doctor responds to first human West Nile Virus case in Ouachita Parish - KNOE"
         ]
       },
       {
-        "trend": "mental health",
+        "trend": "public health",
         "market_code": "ES",
-        "category": "Mental Health",
-        "score": 9,
+        "category": "Europe Health",
+        "score": 8,
         "examples": [
-          "Oklahoma approves mental health consent decree plan after delay - The Journal Record",
-          "Montgomery Update: Grieving More Victims of ICE Violence, Setting the Record Straight on Property Taxes, and Teen Mental Health Ambassadors - Montgomery County, MD (.gov)",
-          "Mental health, environment shape pregnancy sleep - WashU"
+          "JHU + WVU Rural Health Convos: From Pregnancy to Practice—Infrastructure for Rural Health Research - Johns Hopkins Bloomberg School of Public Health",
+          "JHU + WVU Rural Health Convos: From Pregnancy to Practice—Infrastructure for Rural Health Research - Johns Hopkins Bloomberg School of Public Health",
+          "Public Health Groups Urge Court to Protect Access to Evidence-Based, Lifesaving Vaccines - Cancer Health"
         ]
       },
       {
@@ -778,9 +778,9 @@
         "category": "Outbreaks",
         "score": 8,
         "examples": [
+          "West Nile virus detected in Ogle County mosquito pool; no human cases reported - MyStateline",
           "West Nile virus found in Oregon for the first time this year - KGW",
-          "Local Doctor responds to first human West Nile Virus case in Ouachita Parish - KNOE",
-          "Local Doctor responds to first human West Nile Virus case in Ouachita Parish - WOWT"
+          "Local Doctor responds to first human West Nile Virus case in Ouachita Parish - KNOE"
         ]
       },
       {
@@ -789,20 +789,20 @@
         "category": "Outbreaks",
         "score": 8,
         "examples": [
+          "West Nile virus detected in Ogle County mosquito pool; no human cases reported - MyStateline",
           "West Nile virus found in Oregon for the first time this year - KGW",
-          "Local Doctor responds to first human West Nile Virus case in Ouachita Parish - KNOE",
-          "Local Doctor responds to first human West Nile Virus case in Ouachita Parish - WOWT"
+          "Local Doctor responds to first human West Nile Virus case in Ouachita Parish - KNOE"
         ]
       },
       {
-        "trend": "health officials",
+        "trend": "hospital",
         "market_code": "ES",
         "category": "Europe Health",
-        "score": 7,
+        "score": 6,
         "examples": [
-          "Cases of cyclosporiasis in Michigan surpass 5,000, health officials say - ABC News - Breaking News, Latest News and Videos",
-          "NJ Health Officials Report Typical Seasonal Uptick of Cyclosporiasis Cases - Hopewell Township, NJ",
-          "Cases of cyclosporiasis in Michigan surpass 5,000, health officials say - ABC News - Breaking News, Latest News and Videos"
+          "CDC finds decline in healthcare-associated infections in hospitals - American Hospital Association",
+          "RFK Jr. comes to Tampa to roll out ‘Make Hospital Food Healthier’ pledge - The Miami Times",
+          "How Family Advocacy Day Inspired a Medical Student to Pursue Pediatrics - Children's Hospital Association"
         ]
       }
     ],
@@ -811,44 +811,33 @@
         "trend": "health",
         "market_code": "SE",
         "category": "Europe Health",
-        "score": 81,
+        "score": 84,
         "examples": [
           "Health Report pres. by Vanderbilt Health: Nashville SC vs Atlanta United - Nashville SC",
           "Health Report pres. by Vanderbilt Health: Nashville SC vs Atlanta United - Nashville SC",
-          "Cases of cyclosporiasis in Michigan surpass 5,000, health officials say - ABC News - Breaking News, Latest News and Videos"
+          "Colorado health officials are tracking toxic algae blooms with warnings of health impacts - The Colorado Sun"
         ]
       },
       {
         "trend": "medical",
         "market_code": "SE",
         "category": "Europe Health",
-        "score": 15,
+        "score": 16,
         "examples": [
+          "What does medical science say about testosterone deficiency? - NBC News",
           "Thomas F. Frist Medical School faces accreditation delay - Nashville Banner",
-          "Are medical expenses tax deductible? - H&R Block",
-          "AvenueM: The path from community college to medical school - UC Davis Health"
+          "Medical Impact Reaches Patients in Venezuela, Post-Earthquake - Direct Relief"
         ]
       },
       {
-        "trend": "public health",
+        "trend": "healthcare",
         "market_code": "SE",
         "category": "Europe Health",
-        "score": 12,
-        "examples": [
-          "JHU + WVU Rural Health Convos: From Pregnancy to Practice—Infrastructure for Rural Health Research - Johns Hopkins Bloomberg School of Public Health",
-          "JHU + WVU Rural Health Convos: From Pregnancy to Practice—Infrastructure for Rural Health Research - Johns Hopkins Bloomberg School of Public Health",
-          "Rabid bat found in Seattle near the University of Washington - Public Health Insider"
-        ]
-      },
-      {
-        "trend": "outbreak",
-        "market_code": "SE",
-        "category": "Outbreaks",
         "score": 11,
         "examples": [
-          "King County on alert as CDC links parasite outbreak to Taco Bell lettuce - MyNorthwest.com",
-          "Cyclosporiasis Outbreak 2026 - Johns Hopkins Medicine",
-          "Salmonella Outbreak Linked to Moringa Capsules - Centers for Disease Control and Prevention | CDC (.gov)"
+          "Deals tracker: Cross Country Healthcare deal moves forward - Modern Healthcare",
+          "Deals tracker: Cross Country Healthcare deal moves forward - Modern Healthcare",
+          "Deals tracker: Cross Country Healthcare deal moves forward - Modern Healthcare"
         ]
       },
       {
@@ -868,20 +857,31 @@
         "category": "Mental Health",
         "score": 10,
         "examples": [
-          "Oklahoma approves mental health consent decree plan after delay - The Journal Record",
-          "Montgomery Update: Grieving More Victims of ICE Violence, Setting the Record Straight on Property Taxes, and Teen Mental Health Ambassadors - Montgomery County, MD (.gov)",
-          "Mental health, environment shape pregnancy sleep - WashU"
+          "Montgomery Co. program provides teens a way to lead on mental health issues - WTOP",
+          "Montgomery Co. program provides teens a way to lead on mental health issues - WTOP",
+          "Opinion: Wyoming doesn't need lectures on mental health. It needs solutions - WyomingNews.com"
         ]
       },
       {
-        "trend": "healthcare",
+        "trend": "mental health",
         "market_code": "SE",
-        "category": "Europe Health",
+        "category": "Mental Health",
+        "score": 10,
+        "examples": [
+          "Montgomery Co. program provides teens a way to lead on mental health issues - WTOP",
+          "Montgomery Co. program provides teens a way to lead on mental health issues - WTOP",
+          "Opinion: Wyoming doesn't need lectures on mental health. It needs solutions - WyomingNews.com"
+        ]
+      },
+      {
+        "trend": "outbreak",
+        "market_code": "SE",
+        "category": "Outbreaks",
         "score": 9,
         "examples": [
-          "Deals tracker: Cross Country Healthcare deal moves forward - Modern Healthcare",
-          "Deals tracker: Cross Country Healthcare deal moves forward - Modern Healthcare",
-          "Deals tracker: Cross Country Healthcare deal moves forward - Modern Healthcare"
+          "NYC health alert: Legionnaires outbreak grows as cyclospora concerns spread - FOX 5 New York",
+          "Cyclosporiasis Outbreak 2026 - Johns Hopkins Medicine",
+          "Map: ‘Explosive diarrhea’ parasite outbreak by state - NewsNation"
         ]
       },
       {
@@ -890,20 +890,20 @@
         "category": "Outbreaks",
         "score": 9,
         "examples": [
+          "West Nile virus detected in Ogle County mosquito pool; no human cases reported - MyStateline",
           "West Nile virus found in Oregon for the first time this year - KGW",
-          "Local Doctor responds to first human West Nile Virus case in Ouachita Parish - KNOE",
-          "Local Doctor responds to first human West Nile Virus case in Ouachita Parish - WOWT"
+          "Local Doctor responds to first human West Nile Virus case in Ouachita Parish - KNOE"
         ]
       },
       {
-        "trend": "mental health",
+        "trend": "public health",
         "market_code": "SE",
-        "category": "Mental Health",
-        "score": 9,
+        "category": "Europe Health",
+        "score": 8,
         "examples": [
-          "Oklahoma approves mental health consent decree plan after delay - The Journal Record",
-          "Montgomery Update: Grieving More Victims of ICE Violence, Setting the Record Straight on Property Taxes, and Teen Mental Health Ambassadors - Montgomery County, MD (.gov)",
-          "Mental health, environment shape pregnancy sleep - WashU"
+          "JHU + WVU Rural Health Convos: From Pregnancy to Practice—Infrastructure for Rural Health Research - Johns Hopkins Bloomberg School of Public Health",
+          "JHU + WVU Rural Health Convos: From Pregnancy to Practice—Infrastructure for Rural Health Research - Johns Hopkins Bloomberg School of Public Health",
+          "Public Health Groups Urge Court to Protect Access to Evidence-Based, Lifesaving Vaccines - Cancer Health"
         ]
       },
       {
@@ -912,9 +912,9 @@
         "category": "Outbreaks",
         "score": 8,
         "examples": [
+          "West Nile virus detected in Ogle County mosquito pool; no human cases reported - MyStateline",
           "West Nile virus found in Oregon for the first time this year - KGW",
-          "Local Doctor responds to first human West Nile Virus case in Ouachita Parish - KNOE",
-          "Local Doctor responds to first human West Nile Virus case in Ouachita Parish - WOWT"
+          "Local Doctor responds to first human West Nile Virus case in Ouachita Parish - KNOE"
         ]
       },
       {
@@ -923,20 +923,20 @@
         "category": "Outbreaks",
         "score": 8,
         "examples": [
+          "West Nile virus detected in Ogle County mosquito pool; no human cases reported - MyStateline",
           "West Nile virus found in Oregon for the first time this year - KGW",
-          "Local Doctor responds to first human West Nile Virus case in Ouachita Parish - KNOE",
-          "Local Doctor responds to first human West Nile Virus case in Ouachita Parish - WOWT"
+          "Local Doctor responds to first human West Nile Virus case in Ouachita Parish - KNOE"
         ]
       },
       {
-        "trend": "health officials",
+        "trend": "hospital",
         "market_code": "SE",
         "category": "Europe Health",
-        "score": 7,
+        "score": 6,
         "examples": [
-          "Cases of cyclosporiasis in Michigan surpass 5,000, health officials say - ABC News - Breaking News, Latest News and Videos",
-          "NJ Health Officials Report Typical Seasonal Uptick of Cyclosporiasis Cases - Hopewell Township, NJ",
-          "Cases of cyclosporiasis in Michigan surpass 5,000, health officials say - ABC News - Breaking News, Latest News and Videos"
+          "CDC finds decline in healthcare-associated infections in hospitals - American Hospital Association",
+          "RFK Jr. comes to Tampa to roll out ‘Make Hospital Food Healthier’ pledge - The Miami Times",
+          "How Family Advocacy Day Inspired a Medical Student to Pursue Pediatrics - Children's Hospital Association"
         ]
       }
     ],
@@ -945,44 +945,33 @@
         "trend": "health",
         "market_code": "NL",
         "category": "Europe Health",
-        "score": 81,
+        "score": 84,
         "examples": [
           "Health Report pres. by Vanderbilt Health: Nashville SC vs Atlanta United - Nashville SC",
           "Health Report pres. by Vanderbilt Health: Nashville SC vs Atlanta United - Nashville SC",
-          "Cases of cyclosporiasis in Michigan surpass 5,000, health officials say - ABC News - Breaking News, Latest News and Videos"
+          "Colorado health officials are tracking toxic algae blooms with warnings of health impacts - The Colorado Sun"
         ]
       },
       {
         "trend": "medical",
         "market_code": "NL",
         "category": "Europe Health",
-        "score": 15,
+        "score": 16,
         "examples": [
+          "What does medical science say about testosterone deficiency? - NBC News",
           "Thomas F. Frist Medical School faces accreditation delay - Nashville Banner",
-          "Are medical expenses tax deductible? - H&R Block",
-          "AvenueM: The path from community college to medical school - UC Davis Health"
+          "Medical Impact Reaches Patients in Venezuela, Post-Earthquake - Direct Relief"
         ]
       },
       {
-        "trend": "public health",
+        "trend": "healthcare",
         "market_code": "NL",
         "category": "Europe Health",
-        "score": 12,
-        "examples": [
-          "JHU + WVU Rural Health Convos: From Pregnancy to Practice—Infrastructure for Rural Health Research - Johns Hopkins Bloomberg School of Public Health",
-          "JHU + WVU Rural Health Convos: From Pregnancy to Practice—Infrastructure for Rural Health Research - Johns Hopkins Bloomberg School of Public Health",
-          "Rabid bat found in Seattle near the University of Washington - Public Health Insider"
-        ]
-      },
-      {
-        "trend": "outbreak",
-        "market_code": "NL",
-        "category": "Outbreaks",
         "score": 11,
         "examples": [
-          "King County on alert as CDC links parasite outbreak to Taco Bell lettuce - MyNorthwest.com",
-          "Cyclosporiasis Outbreak 2026 - Johns Hopkins Medicine",
-          "Salmonella Outbreak Linked to Moringa Capsules - Centers for Disease Control and Prevention | CDC (.gov)"
+          "Deals tracker: Cross Country Healthcare deal moves forward - Modern Healthcare",
+          "Deals tracker: Cross Country Healthcare deal moves forward - Modern Healthcare",
+          "Deals tracker: Cross Country Healthcare deal moves forward - Modern Healthcare"
         ]
       },
       {
@@ -1002,20 +991,31 @@
         "category": "Mental Health",
         "score": 10,
         "examples": [
-          "Oklahoma approves mental health consent decree plan after delay - The Journal Record",
-          "Montgomery Update: Grieving More Victims of ICE Violence, Setting the Record Straight on Property Taxes, and Teen Mental Health Ambassadors - Montgomery County, MD (.gov)",
-          "Mental health, environment shape pregnancy sleep - WashU"
+          "Montgomery Co. program provides teens a way to lead on mental health issues - WTOP",
+          "Montgomery Co. program provides teens a way to lead on mental health issues - WTOP",
+          "Opinion: Wyoming doesn't need lectures on mental health. It needs solutions - WyomingNews.com"
         ]
       },
       {
-        "trend": "healthcare",
+        "trend": "mental health",
         "market_code": "NL",
-        "category": "Europe Health",
+        "category": "Mental Health",
+        "score": 10,
+        "examples": [
+          "Montgomery Co. program provides teens a way to lead on mental health issues - WTOP",
+          "Montgomery Co. program provides teens a way to lead on mental health issues - WTOP",
+          "Opinion: Wyoming doesn't need lectures on mental health. It needs solutions - WyomingNews.com"
+        ]
+      },
+      {
+        "trend": "outbreak",
+        "market_code": "NL",
+        "category": "Outbreaks",
         "score": 9,
         "examples": [
-          "Deals tracker: Cross Country Healthcare deal moves forward - Modern Healthcare",
-          "Deals tracker: Cross Country Healthcare deal moves forward - Modern Healthcare",
-          "Deals tracker: Cross Country Healthcare deal moves forward - Modern Healthcare"
+          "NYC health alert: Legionnaires outbreak grows as cyclospora concerns spread - FOX 5 New York",
+          "Cyclosporiasis Outbreak 2026 - Johns Hopkins Medicine",
+          "Map: ‘Explosive diarrhea’ parasite outbreak by state - NewsNation"
         ]
       },
       {
@@ -1024,20 +1024,20 @@
         "category": "Outbreaks",
         "score": 9,
         "examples": [
+          "West Nile virus detected in Ogle County mosquito pool; no human cases reported - MyStateline",
           "West Nile virus found in Oregon for the first time this year - KGW",
-          "Local Doctor responds to first human West Nile Virus case in Ouachita Parish - KNOE",
-          "Local Doctor responds to first human West Nile Virus case in Ouachita Parish - WOWT"
+          "Local Doctor responds to first human West Nile Virus case in Ouachita Parish - KNOE"
         ]
       },
       {
-        "trend": "mental health",
+        "trend": "public health",
         "market_code": "NL",
-        "category": "Mental Health",
-        "score": 9,
+        "category": "Europe Health",
+        "score": 8,
         "examples": [
-          "Oklahoma approves mental health consent decree plan after delay - The Journal Record",
-          "Montgomery Update: Grieving More Victims of ICE Violence, Setting the Record Straight on Property Taxes, and Teen Mental Health Ambassadors - Montgomery County, MD (.gov)",
-          "Mental health, environment shape pregnancy sleep - WashU"
+          "JHU + WVU Rural Health Convos: From Pregnancy to Practice—Infrastructure for Rural Health Research - Johns Hopkins Bloomberg School of Public Health",
+          "JHU + WVU Rural Health Convos: From Pregnancy to Practice—Infrastructure for Rural Health Research - Johns Hopkins Bloomberg School of Public Health",
+          "Public Health Groups Urge Court to Protect Access to Evidence-Based, Lifesaving Vaccines - Cancer Health"
         ]
       },
       {
@@ -1046,9 +1046,9 @@
         "category": "Outbreaks",
         "score": 8,
         "examples": [
+          "West Nile virus detected in Ogle County mosquito pool; no human cases reported - MyStateline",
           "West Nile virus found in Oregon for the first time this year - KGW",
-          "Local Doctor responds to first human West Nile Virus case in Ouachita Parish - KNOE",
-          "Local Doctor responds to first human West Nile Virus case in Ouachita Parish - WOWT"
+          "Local Doctor responds to first human West Nile Virus case in Ouachita Parish - KNOE"
         ]
       },
       {
@@ -1057,20 +1057,20 @@
         "category": "Outbreaks",
         "score": 8,
         "examples": [
+          "West Nile virus detected in Ogle County mosquito pool; no human cases reported - MyStateline",
           "West Nile virus found in Oregon for the first time this year - KGW",
-          "Local Doctor responds to first human West Nile Virus case in Ouachita Parish - KNOE",
-          "Local Doctor responds to first human West Nile Virus case in Ouachita Parish - WOWT"
+          "Local Doctor responds to first human West Nile Virus case in Ouachita Parish - KNOE"
         ]
       },
       {
-        "trend": "health officials",
+        "trend": "hospital",
         "market_code": "NL",
         "category": "Europe Health",
-        "score": 7,
+        "score": 6,
         "examples": [
-          "Cases of cyclosporiasis in Michigan surpass 5,000, health officials say - ABC News - Breaking News, Latest News and Videos",
-          "NJ Health Officials Report Typical Seasonal Uptick of Cyclosporiasis Cases - Hopewell Township, NJ",
-          "Cases of cyclosporiasis in Michigan surpass 5,000, health officials say - ABC News - Breaking News, Latest News and Videos"
+          "CDC finds decline in healthcare-associated infections in hospitals - American Hospital Association",
+          "RFK Jr. comes to Tampa to roll out ‘Make Hospital Food Healthier’ pledge - The Miami Times",
+          "How Family Advocacy Day Inspired a Medical Student to Pursue Pediatrics - Children's Hospital Association"
         ]
       }
     ],
@@ -1079,44 +1079,33 @@
         "trend": "health",
         "market_code": "FI",
         "category": "Europe Health",
-        "score": 81,
+        "score": 84,
         "examples": [
           "Health Report pres. by Vanderbilt Health: Nashville SC vs Atlanta United - Nashville SC",
           "Health Report pres. by Vanderbilt Health: Nashville SC vs Atlanta United - Nashville SC",
-          "Cases of cyclosporiasis in Michigan surpass 5,000, health officials say - ABC News - Breaking News, Latest News and Videos"
+          "Colorado health officials are tracking toxic algae blooms with warnings of health impacts - The Colorado Sun"
         ]
       },
       {
         "trend": "medical",
         "market_code": "FI",
         "category": "Europe Health",
-        "score": 15,
+        "score": 16,
         "examples": [
+          "What does medical science say about testosterone deficiency? - NBC News",
           "Thomas F. Frist Medical School faces accreditation delay - Nashville Banner",
-          "Are medical expenses tax deductible? - H&R Block",
-          "AvenueM: The path from community college to medical school - UC Davis Health"
+          "Medical Impact Reaches Patients in Venezuela, Post-Earthquake - Direct Relief"
         ]
       },
       {
-        "trend": "public health",
+        "trend": "healthcare",
         "market_code": "FI",
         "category": "Europe Health",
-        "score": 12,
-        "examples": [
-          "JHU + WVU Rural Health Convos: From Pregnancy to Practice—Infrastructure for Rural Health Research - Johns Hopkins Bloomberg School of Public Health",
-          "JHU + WVU Rural Health Convos: From Pregnancy to Practice—Infrastructure for Rural Health Research - Johns Hopkins Bloomberg School of Public Health",
-          "Rabid bat found in Seattle near the University of Washington - Public Health Insider"
-        ]
-      },
-      {
-        "trend": "outbreak",
-        "market_code": "FI",
-        "category": "Outbreaks",
         "score": 11,
         "examples": [
-          "King County on alert as CDC links parasite outbreak to Taco Bell lettuce - MyNorthwest.com",
-          "Cyclosporiasis Outbreak 2026 - Johns Hopkins Medicine",
-          "Salmonella Outbreak Linked to Moringa Capsules - Centers for Disease Control and Prevention | CDC (.gov)"
+          "Deals tracker: Cross Country Healthcare deal moves forward - Modern Healthcare",
+          "Deals tracker: Cross Country Healthcare deal moves forward - Modern Healthcare",
+          "Deals tracker: Cross Country Healthcare deal moves forward - Modern Healthcare"
         ]
       },
       {
@@ -1136,20 +1125,31 @@
         "category": "Mental Health",
         "score": 10,
         "examples": [
-          "Oklahoma approves mental health consent decree plan after delay - The Journal Record",
-          "Montgomery Update: Grieving More Victims of ICE Violence, Setting the Record Straight on Property Taxes, and Teen Mental Health Ambassadors - Montgomery County, MD (.gov)",
-          "Mental health, environment shape pregnancy sleep - WashU"
+          "Montgomery Co. program provides teens a way to lead on mental health issues - WTOP",
+          "Montgomery Co. program provides teens a way to lead on mental health issues - WTOP",
+          "Opinion: Wyoming doesn't need lectures on mental health. It needs solutions - WyomingNews.com"
         ]
       },
       {
-        "trend": "healthcare",
+        "trend": "mental health",
         "market_code": "FI",
-        "category": "Europe Health",
+        "category": "Mental Health",
+        "score": 10,
+        "examples": [
+          "Montgomery Co. program provides teens a way to lead on mental health issues - WTOP",
+          "Montgomery Co. program provides teens a way to lead on mental health issues - WTOP",
+          "Opinion: Wyoming doesn't need lectures on mental health. It needs solutions - WyomingNews.com"
+        ]
+      },
+      {
+        "trend": "outbreak",
+        "market_code": "FI",
+        "category": "Outbreaks",
         "score": 9,
         "examples": [
-          "Deals tracker: Cross Country Healthcare deal moves forward - Modern Healthcare",
-          "Deals tracker: Cross Country Healthcare deal moves forward - Modern Healthcare",
-          "Deals tracker: Cross Country Healthcare deal moves forward - Modern Healthcare"
+          "NYC health alert: Legionnaires outbreak grows as cyclospora concerns spread - FOX 5 New York",
+          "Cyclosporiasis Outbreak 2026 - Johns Hopkins Medicine",
+          "Map: ‘Explosive diarrhea’ parasite outbreak by state - NewsNation"
         ]
       },
       {
@@ -1158,20 +1158,20 @@
         "category": "Outbreaks",
         "score": 9,
         "examples": [
+          "West Nile virus detected in Ogle County mosquito pool; no human cases reported - MyStateline",
           "West Nile virus found in Oregon for the first time this year - KGW",
-          "Local Doctor responds to first human West Nile Virus case in Ouachita Parish - KNOE",
-          "Local Doctor responds to first human West Nile Virus case in Ouachita Parish - WOWT"
+          "Local Doctor responds to first human West Nile Virus case in Ouachita Parish - KNOE"
         ]
       },
       {
-        "trend": "mental health",
+        "trend": "public health",
         "market_code": "FI",
-        "category": "Mental Health",
-        "score": 9,
+        "category": "Europe Health",
+        "score": 8,
         "examples": [
-          "Oklahoma approves mental health consent decree plan after delay - The Journal Record",
-          "Montgomery Update: Grieving More Victims of ICE Violence, Setting the Record Straight on Property Taxes, and Teen Mental Health Ambassadors - Montgomery County, MD (.gov)",
-          "Mental health, environment shape pregnancy sleep - WashU"
+          "JHU + WVU Rural Health Convos: From Pregnancy to Practice—Infrastructure for Rural Health Research - Johns Hopkins Bloomberg School of Public Health",
+          "JHU + WVU Rural Health Convos: From Pregnancy to Practice—Infrastructure for Rural Health Research - Johns Hopkins Bloomberg School of Public Health",
+          "Public Health Groups Urge Court to Protect Access to Evidence-Based, Lifesaving Vaccines - Cancer Health"
         ]
       },
       {
@@ -1180,9 +1180,9 @@
         "category": "Outbreaks",
         "score": 8,
         "examples": [
+          "West Nile virus detected in Ogle County mosquito pool; no human cases reported - MyStateline",
           "West Nile virus found in Oregon for the first time this year - KGW",
-          "Local Doctor responds to first human West Nile Virus case in Ouachita Parish - KNOE",
-          "Local Doctor responds to first human West Nile Virus case in Ouachita Parish - WOWT"
+          "Local Doctor responds to first human West Nile Virus case in Ouachita Parish - KNOE"
         ]
       },
       {
@@ -1191,20 +1191,20 @@
         "category": "Outbreaks",
         "score": 8,
         "examples": [
+          "West Nile virus detected in Ogle County mosquito pool; no human cases reported - MyStateline",
           "West Nile virus found in Oregon for the first time this year - KGW",
-          "Local Doctor responds to first human West Nile Virus case in Ouachita Parish - KNOE",
-          "Local Doctor responds to first human West Nile Virus case in Ouachita Parish - WOWT"
+          "Local Doctor responds to first human West Nile Virus case in Ouachita Parish - KNOE"
         ]
       },
       {
-        "trend": "health officials",
+        "trend": "hospital",
         "market_code": "FI",
         "category": "Europe Health",
-        "score": 7,
+        "score": 6,
         "examples": [
-          "Cases of cyclosporiasis in Michigan surpass 5,000, health officials say - ABC News - Breaking News, Latest News and Videos",
-          "NJ Health Officials Report Typical Seasonal Uptick of Cyclosporiasis Cases - Hopewell Township, NJ",
-          "Cases of cyclosporiasis in Michigan surpass 5,000, health officials say - ABC News - Breaking News, Latest News and Videos"
+          "CDC finds decline in healthcare-associated infections in hospitals - American Hospital Association",
+          "RFK Jr. comes to Tampa to roll out ‘Make Hospital Food Healthier’ pledge - The Miami Times",
+          "How Family Advocacy Day Inspired a Medical Student to Pursue Pediatrics - Children's Hospital Association"
         ]
       }
     ],
@@ -1213,44 +1213,33 @@
         "trend": "health",
         "market_code": "NO",
         "category": "Europe Health",
-        "score": 81,
+        "score": 84,
         "examples": [
           "Health Report pres. by Vanderbilt Health: Nashville SC vs Atlanta United - Nashville SC",
           "Health Report pres. by Vanderbilt Health: Nashville SC vs Atlanta United - Nashville SC",
-          "Cases of cyclosporiasis in Michigan surpass 5,000, health officials say - ABC News - Breaking News, Latest News and Videos"
+          "Colorado health officials are tracking toxic algae blooms with warnings of health impacts - The Colorado Sun"
         ]
       },
       {
         "trend": "medical",
         "market_code": "NO",
         "category": "Europe Health",
-        "score": 15,
+        "score": 16,
         "examples": [
+          "What does medical science say about testosterone deficiency? - NBC News",
           "Thomas F. Frist Medical School faces accreditation delay - Nashville Banner",
-          "Are medical expenses tax deductible? - H&R Block",
-          "AvenueM: The path from community college to medical school - UC Davis Health"
+          "Medical Impact Reaches Patients in Venezuela, Post-Earthquake - Direct Relief"
         ]
       },
       {
-        "trend": "public health",
+        "trend": "healthcare",
         "market_code": "NO",
         "category": "Europe Health",
-        "score": 12,
-        "examples": [
-          "JHU + WVU Rural Health Convos: From Pregnancy to Practice—Infrastructure for Rural Health Research - Johns Hopkins Bloomberg School of Public Health",
-          "JHU + WVU Rural Health Convos: From Pregnancy to Practice—Infrastructure for Rural Health Research - Johns Hopkins Bloomberg School of Public Health",
-          "Rabid bat found in Seattle near the University of Washington - Public Health Insider"
-        ]
-      },
-      {
-        "trend": "outbreak",
-        "market_code": "NO",
-        "category": "Outbreaks",
         "score": 11,
         "examples": [
-          "King County on alert as CDC links parasite outbreak to Taco Bell lettuce - MyNorthwest.com",
-          "Cyclosporiasis Outbreak 2026 - Johns Hopkins Medicine",
-          "Salmonella Outbreak Linked to Moringa Capsules - Centers for Disease Control and Prevention | CDC (.gov)"
+          "Deals tracker: Cross Country Healthcare deal moves forward - Modern Healthcare",
+          "Deals tracker: Cross Country Healthcare deal moves forward - Modern Healthcare",
+          "Deals tracker: Cross Country Healthcare deal moves forward - Modern Healthcare"
         ]
       },
       {
@@ -1270,20 +1259,31 @@
         "category": "Mental Health",
         "score": 10,
         "examples": [
-          "Oklahoma approves mental health consent decree plan after delay - The Journal Record",
-          "Montgomery Update: Grieving More Victims of ICE Violence, Setting the Record Straight on Property Taxes, and Teen Mental Health Ambassadors - Montgomery County, MD (.gov)",
-          "Mental health, environment shape pregnancy sleep - WashU"
+          "Montgomery Co. program provides teens a way to lead on mental health issues - WTOP",
+          "Montgomery Co. program provides teens a way to lead on mental health issues - WTOP",
+          "Opinion: Wyoming doesn't need lectures on mental health. It needs solutions - WyomingNews.com"
         ]
       },
       {
-        "trend": "healthcare",
+        "trend": "mental health",
         "market_code": "NO",
-        "category": "Europe Health",
+        "category": "Mental Health",
+        "score": 10,
+        "examples": [
+          "Montgomery Co. program provides teens a way to lead on mental health issues - WTOP",
+          "Montgomery Co. program provides teens a way to lead on mental health issues - WTOP",
+          "Opinion: Wyoming doesn't need lectures on mental health. It needs solutions - WyomingNews.com"
+        ]
+      },
+      {
+        "trend": "outbreak",
+        "market_code": "NO",
+        "category": "Outbreaks",
         "score": 9,
         "examples": [
-          "Deals tracker: Cross Country Healthcare deal moves forward - Modern Healthcare",
-          "Deals tracker: Cross Country Healthcare deal moves forward - Modern Healthcare",
-          "Deals tracker: Cross Country Healthcare deal moves forward - Modern Healthcare"
+          "NYC health alert: Legionnaires outbreak grows as cyclospora concerns spread - FOX 5 New York",
+          "Cyclosporiasis Outbreak 2026 - Johns Hopkins Medicine",
+          "Map: ‘Explosive diarrhea’ parasite outbreak by state - NewsNation"
         ]
       },
       {
@@ -1292,20 +1292,20 @@
         "category": "Outbreaks",
         "score": 9,
         "examples": [
+          "West Nile virus detected in Ogle County mosquito pool; no human cases reported - MyStateline",
           "West Nile virus found in Oregon for the first time this year - KGW",
-          "Local Doctor responds to first human West Nile Virus case in Ouachita Parish - KNOE",
-          "Local Doctor responds to first human West Nile Virus case in Ouachita Parish - WOWT"
+          "Local Doctor responds to first human West Nile Virus case in Ouachita Parish - KNOE"
         ]
       },
       {
-        "trend": "mental health",
+        "trend": "public health",
         "market_code": "NO",
-        "category": "Mental Health",
-        "score": 9,
+        "category": "Europe Health",
+        "score": 8,
         "examples": [
-          "Oklahoma approves mental health consent decree plan after delay - The Journal Record",
-          "Montgomery Update: Grieving More Victims of ICE Violence, Setting the Record Straight on Property Taxes, and Teen Mental Health Ambassadors - Montgomery County, MD (.gov)",
-          "Mental health, environment shape pregnancy sleep - WashU"
+          "JHU + WVU Rural Health Convos: From Pregnancy to Practice—Infrastructure for Rural Health Research - Johns Hopkins Bloomberg School of Public Health",
+          "JHU + WVU Rural Health Convos: From Pregnancy to Practice—Infrastructure for Rural Health Research - Johns Hopkins Bloomberg School of Public Health",
+          "Public Health Groups Urge Court to Protect Access to Evidence-Based, Lifesaving Vaccines - Cancer Health"
         ]
       },
       {
@@ -1314,9 +1314,9 @@
         "category": "Outbreaks",
         "score": 8,
         "examples": [
+          "West Nile virus detected in Ogle County mosquito pool; no human cases reported - MyStateline",
           "West Nile virus found in Oregon for the first time this year - KGW",
-          "Local Doctor responds to first human West Nile Virus case in Ouachita Parish - KNOE",
-          "Local Doctor responds to first human West Nile Virus case in Ouachita Parish - WOWT"
+          "Local Doctor responds to first human West Nile Virus case in Ouachita Parish - KNOE"
         ]
       },
       {
@@ -1325,20 +1325,20 @@
         "category": "Outbreaks",
         "score": 8,
         "examples": [
+          "West Nile virus detected in Ogle County mosquito pool; no human cases reported - MyStateline",
           "West Nile virus found in Oregon for the first time this year - KGW",
-          "Local Doctor responds to first human West Nile Virus case in Ouachita Parish - KNOE",
-          "Local Doctor responds to first human West Nile Virus case in Ouachita Parish - WOWT"
+          "Local Doctor responds to first human West Nile Virus case in Ouachita Parish - KNOE"
         ]
       },
       {
-        "trend": "health officials",
+        "trend": "hospital",
         "market_code": "NO",
         "category": "Europe Health",
-        "score": 7,
+        "score": 6,
         "examples": [
-          "Cases of cyclosporiasis in Michigan surpass 5,000, health officials say - ABC News - Breaking News, Latest News and Videos",
-          "NJ Health Officials Report Typical Seasonal Uptick of Cyclosporiasis Cases - Hopewell Township, NJ",
-          "Cases of cyclosporiasis in Michigan surpass 5,000, health officials say - ABC News - Breaking News, Latest News and Videos"
+          "CDC finds decline in healthcare-associated infections in hospitals - American Hospital Association",
+          "RFK Jr. comes to Tampa to roll out ‘Make Hospital Food Healthier’ pledge - The Miami Times",
+          "How Family Advocacy Day Inspired a Medical Student to Pursue Pediatrics - Children's Hospital Association"
         ]
       }
     ],
@@ -1347,44 +1347,33 @@
         "trend": "health",
         "market_code": "JP",
         "category": "Asia Health",
-        "score": 81,
+        "score": 84,
         "examples": [
           "Health Report pres. by Vanderbilt Health: Nashville SC vs Atlanta United - Nashville SC",
           "Health Report pres. by Vanderbilt Health: Nashville SC vs Atlanta United - Nashville SC",
-          "Cases of cyclosporiasis in Michigan surpass 5,000, health officials say - ABC News - Breaking News, Latest News and Videos"
+          "Colorado health officials are tracking toxic algae blooms with warnings of health impacts - The Colorado Sun"
         ]
       },
       {
         "trend": "medical",
         "market_code": "JP",
         "category": "Asia Health",
-        "score": 15,
+        "score": 16,
         "examples": [
+          "What does medical science say about testosterone deficiency? - NBC News",
           "Thomas F. Frist Medical School faces accreditation delay - Nashville Banner",
-          "Are medical expenses tax deductible? - H&R Block",
-          "AvenueM: The path from community college to medical school - UC Davis Health"
+          "Medical Impact Reaches Patients in Venezuela, Post-Earthquake - Direct Relief"
         ]
       },
       {
-        "trend": "public health",
+        "trend": "healthcare",
         "market_code": "JP",
         "category": "Asia Health",
-        "score": 12,
-        "examples": [
-          "JHU + WVU Rural Health Convos: From Pregnancy to Practice—Infrastructure for Rural Health Research - Johns Hopkins Bloomberg School of Public Health",
-          "JHU + WVU Rural Health Convos: From Pregnancy to Practice—Infrastructure for Rural Health Research - Johns Hopkins Bloomberg School of Public Health",
-          "Rabid bat found in Seattle near the University of Washington - Public Health Insider"
-        ]
-      },
-      {
-        "trend": "outbreak",
-        "market_code": "JP",
-        "category": "Outbreaks",
         "score": 11,
         "examples": [
-          "King County on alert as CDC links parasite outbreak to Taco Bell lettuce - MyNorthwest.com",
-          "Cyclosporiasis Outbreak 2026 - Johns Hopkins Medicine",
-          "Salmonella Outbreak Linked to Moringa Capsules - Centers for Disease Control and Prevention | CDC (.gov)"
+          "Deals tracker: Cross Country Healthcare deal moves forward - Modern Healthcare",
+          "Deals tracker: Cross Country Healthcare deal moves forward - Modern Healthcare",
+          "Deals tracker: Cross Country Healthcare deal moves forward - Modern Healthcare"
         ]
       },
       {
@@ -1404,20 +1393,31 @@
         "category": "Mental Health",
         "score": 10,
         "examples": [
-          "Oklahoma approves mental health consent decree plan after delay - The Journal Record",
-          "Montgomery Update: Grieving More Victims of ICE Violence, Setting the Record Straight on Property Taxes, and Teen Mental Health Ambassadors - Montgomery County, MD (.gov)",
-          "Mental health, environment shape pregnancy sleep - WashU"
+          "Montgomery Co. program provides teens a way to lead on mental health issues - WTOP",
+          "Montgomery Co. program provides teens a way to lead on mental health issues - WTOP",
+          "Opinion: Wyoming doesn't need lectures on mental health. It needs solutions - WyomingNews.com"
         ]
       },
       {
-        "trend": "healthcare",
+        "trend": "mental health",
         "market_code": "JP",
-        "category": "Asia Health",
+        "category": "Mental Health",
+        "score": 10,
+        "examples": [
+          "Montgomery Co. program provides teens a way to lead on mental health issues - WTOP",
+          "Montgomery Co. program provides teens a way to lead on mental health issues - WTOP",
+          "Opinion: Wyoming doesn't need lectures on mental health. It needs solutions - WyomingNews.com"
+        ]
+      },
+      {
+        "trend": "outbreak",
+        "market_code": "JP",
+        "category": "Outbreaks",
         "score": 9,
         "examples": [
-          "Deals tracker: Cross Country Healthcare deal moves forward - Modern Healthcare",
-          "Deals tracker: Cross Country Healthcare deal moves forward - Modern Healthcare",
-          "Deals tracker: Cross Country Healthcare deal moves forward - Modern Healthcare"
+          "NYC health alert: Legionnaires outbreak grows as cyclospora concerns spread - FOX 5 New York",
+          "Cyclosporiasis Outbreak 2026 - Johns Hopkins Medicine",
+          "Map: ‘Explosive diarrhea’ parasite outbreak by state - NewsNation"
         ]
       },
       {
@@ -1426,20 +1426,20 @@
         "category": "Outbreaks",
         "score": 9,
         "examples": [
+          "West Nile virus detected in Ogle County mosquito pool; no human cases reported - MyStateline",
           "West Nile virus found in Oregon for the first time this year - KGW",
-          "Local Doctor responds to first human West Nile Virus case in Ouachita Parish - KNOE",
-          "Local Doctor responds to first human West Nile Virus case in Ouachita Parish - WOWT"
+          "Local Doctor responds to first human West Nile Virus case in Ouachita Parish - KNOE"
         ]
       },
       {
-        "trend": "mental health",
+        "trend": "public health",
         "market_code": "JP",
-        "category": "Mental Health",
-        "score": 9,
+        "category": "Asia Health",
+        "score": 8,
         "examples": [
-          "Oklahoma approves mental health consent decree plan after delay - The Journal Record",
-          "Montgomery Update: Grieving More Victims of ICE Violence, Setting the Record Straight on Property Taxes, and Teen Mental Health Ambassadors - Montgomery County, MD (.gov)",
-          "Mental health, environment shape pregnancy sleep - WashU"
+          "JHU + WVU Rural Health Convos: From Pregnancy to Practice—Infrastructure for Rural Health Research - Johns Hopkins Bloomberg School of Public Health",
+          "JHU + WVU Rural Health Convos: From Pregnancy to Practice—Infrastructure for Rural Health Research - Johns Hopkins Bloomberg School of Public Health",
+          "Public Health Groups Urge Court to Protect Access to Evidence-Based, Lifesaving Vaccines - Cancer Health"
         ]
       },
       {
@@ -1448,9 +1448,9 @@
         "category": "Outbreaks",
         "score": 8,
         "examples": [
+          "West Nile virus detected in Ogle County mosquito pool; no human cases reported - MyStateline",
           "West Nile virus found in Oregon for the first time this year - KGW",
-          "Local Doctor responds to first human West Nile Virus case in Ouachita Parish - KNOE",
-          "Local Doctor responds to first human West Nile Virus case in Ouachita Parish - WOWT"
+          "Local Doctor responds to first human West Nile Virus case in Ouachita Parish - KNOE"
         ]
       },
       {
@@ -1459,20 +1459,20 @@
         "category": "Outbreaks",
         "score": 8,
         "examples": [
+          "West Nile virus detected in Ogle County mosquito pool; no human cases reported - MyStateline",
           "West Nile virus found in Oregon for the first time this year - KGW",
-          "Local Doctor responds to first human West Nile Virus case in Ouachita Parish - KNOE",
-          "Local Doctor responds to first human West Nile Virus case in Ouachita Parish - WOWT"
+          "Local Doctor responds to first human West Nile Virus case in Ouachita Parish - KNOE"
         ]
       },
       {
-        "trend": "health officials",
+        "trend": "hospital",
         "market_code": "JP",
         "category": "Asia Health",
-        "score": 7,
+        "score": 6,
         "examples": [
-          "Cases of cyclosporiasis in Michigan surpass 5,000, health officials say - ABC News - Breaking News, Latest News and Videos",
-          "NJ Health Officials Report Typical Seasonal Uptick of Cyclosporiasis Cases - Hopewell Township, NJ",
-          "Cases of cyclosporiasis in Michigan surpass 5,000, health officials say - ABC News - Breaking News, Latest News and Videos"
+          "CDC finds decline in healthcare-associated infections in hospitals - American Hospital Association",
+          "RFK Jr. comes to Tampa to roll out ‘Make Hospital Food Healthier’ pledge - The Miami Times",
+          "How Family Advocacy Day Inspired a Medical Student to Pursue Pediatrics - Children's Hospital Association"
         ]
       }
     ],
@@ -1481,44 +1481,33 @@
         "trend": "health",
         "market_code": "CN",
         "category": "Asia Health",
-        "score": 81,
+        "score": 84,
         "examples": [
           "Health Report pres. by Vanderbilt Health: Nashville SC vs Atlanta United - Nashville SC",
           "Health Report pres. by Vanderbilt Health: Nashville SC vs Atlanta United - Nashville SC",
-          "Cases of cyclosporiasis in Michigan surpass 5,000, health officials say - ABC News - Breaking News, Latest News and Videos"
+          "Colorado health officials are tracking toxic algae blooms with warnings of health impacts - The Colorado Sun"
         ]
       },
       {
         "trend": "medical",
         "market_code": "CN",
         "category": "Asia Health",
-        "score": 15,
+        "score": 16,
         "examples": [
+          "What does medical science say about testosterone deficiency? - NBC News",
           "Thomas F. Frist Medical School faces accreditation delay - Nashville Banner",
-          "Are medical expenses tax deductible? - H&R Block",
-          "AvenueM: The path from community college to medical school - UC Davis Health"
+          "Medical Impact Reaches Patients in Venezuela, Post-Earthquake - Direct Relief"
         ]
       },
       {
-        "trend": "public health",
+        "trend": "healthcare",
         "market_code": "CN",
         "category": "Asia Health",
-        "score": 12,
-        "examples": [
-          "JHU + WVU Rural Health Convos: From Pregnancy to Practice—Infrastructure for Rural Health Research - Johns Hopkins Bloomberg School of Public Health",
-          "JHU + WVU Rural Health Convos: From Pregnancy to Practice—Infrastructure for Rural Health Research - Johns Hopkins Bloomberg School of Public Health",
-          "Rabid bat found in Seattle near the University of Washington - Public Health Insider"
-        ]
-      },
-      {
-        "trend": "outbreak",
-        "market_code": "CN",
-        "category": "Outbreaks",
         "score": 11,
         "examples": [
-          "King County on alert as CDC links parasite outbreak to Taco Bell lettuce - MyNorthwest.com",
-          "Cyclosporiasis Outbreak 2026 - Johns Hopkins Medicine",
-          "Salmonella Outbreak Linked to Moringa Capsules - Centers for Disease Control and Prevention | CDC (.gov)"
+          "Deals tracker: Cross Country Healthcare deal moves forward - Modern Healthcare",
+          "Deals tracker: Cross Country Healthcare deal moves forward - Modern Healthcare",
+          "Deals tracker: Cross Country Healthcare deal moves forward - Modern Healthcare"
         ]
       },
       {
@@ -1538,20 +1527,31 @@
         "category": "Mental Health",
         "score": 10,
         "examples": [
-          "Oklahoma approves mental health consent decree plan after delay - The Journal Record",
-          "Montgomery Update: Grieving More Victims of ICE Violence, Setting the Record Straight on Property Taxes, and Teen Mental Health Ambassadors - Montgomery County, MD (.gov)",
-          "Mental health, environment shape pregnancy sleep - WashU"
+          "Montgomery Co. program provides teens a way to lead on mental health issues - WTOP",
+          "Montgomery Co. program provides teens a way to lead on mental health issues - WTOP",
+          "Opinion: Wyoming doesn't need lectures on mental health. It needs solutions - WyomingNews.com"
         ]
       },
       {
-        "trend": "healthcare",
+        "trend": "mental health",
         "market_code": "CN",
-        "category": "Asia Health",
+        "category": "Mental Health",
+        "score": 10,
+        "examples": [
+          "Montgomery Co. program provides teens a way to lead on mental health issues - WTOP",
+          "Montgomery Co. program provides teens a way to lead on mental health issues - WTOP",
+          "Opinion: Wyoming doesn't need lectures on mental health. It needs solutions - WyomingNews.com"
+        ]
+      },
+      {
+        "trend": "outbreak",
+        "market_code": "CN",
+        "category": "Outbreaks",
         "score": 9,
         "examples": [
-          "Deals tracker: Cross Country Healthcare deal moves forward - Modern Healthcare",
-          "Deals tracker: Cross Country Healthcare deal moves forward - Modern Healthcare",
-          "Deals tracker: Cross Country Healthcare deal moves forward - Modern Healthcare"
+          "NYC health alert: Legionnaires outbreak grows as cyclospora concerns spread - FOX 5 New York",
+          "Cyclosporiasis Outbreak 2026 - Johns Hopkins Medicine",
+          "Map: ‘Explosive diarrhea’ parasite outbreak by state - NewsNation"
         ]
       },
       {
@@ -1560,20 +1560,20 @@
         "category": "Outbreaks",
         "score": 9,
         "examples": [
+          "West Nile virus detected in Ogle County mosquito pool; no human cases reported - MyStateline",
           "West Nile virus found in Oregon for the first time this year - KGW",
-          "Local Doctor responds to first human West Nile Virus case in Ouachita Parish - KNOE",
-          "Local Doctor responds to first human West Nile Virus case in Ouachita Parish - WOWT"
+          "Local Doctor responds to first human West Nile Virus case in Ouachita Parish - KNOE"
         ]
       },
       {
-        "trend": "mental health",
+        "trend": "public health",
         "market_code": "CN",
-        "category": "Mental Health",
-        "score": 9,
+        "category": "Asia Health",
+        "score": 8,
         "examples": [
-          "Oklahoma approves mental health consent decree plan after delay - The Journal Record",
-          "Montgomery Update: Grieving More Victims of ICE Violence, Setting the Record Straight on Property Taxes, and Teen Mental Health Ambassadors - Montgomery County, MD (.gov)",
-          "Mental health, environment shape pregnancy sleep - WashU"
+          "JHU + WVU Rural Health Convos: From Pregnancy to Practice—Infrastructure for Rural Health Research - Johns Hopkins Bloomberg School of Public Health",
+          "JHU + WVU Rural Health Convos: From Pregnancy to Practice—Infrastructure for Rural Health Research - Johns Hopkins Bloomberg School of Public Health",
+          "Public Health Groups Urge Court to Protect Access to Evidence-Based, Lifesaving Vaccines - Cancer Health"
         ]
       },
       {
@@ -1582,9 +1582,9 @@
         "category": "Outbreaks",
         "score": 8,
         "examples": [
+          "West Nile virus detected in Ogle County mosquito pool; no human cases reported - MyStateline",
           "West Nile virus found in Oregon for the first time this year - KGW",
-          "Local Doctor responds to first human West Nile Virus case in Ouachita Parish - KNOE",
-          "Local Doctor responds to first human West Nile Virus case in Ouachita Parish - WOWT"
+          "Local Doctor responds to first human West Nile Virus case in Ouachita Parish - KNOE"
         ]
       },
       {
@@ -1593,20 +1593,20 @@
         "category": "Outbreaks",
         "score": 8,
         "examples": [
+          "West Nile virus detected in Ogle County mosquito pool; no human cases reported - MyStateline",
           "West Nile virus found in Oregon for the first time this year - KGW",
-          "Local Doctor responds to first human West Nile Virus case in Ouachita Parish - KNOE",
-          "Local Doctor responds to first human West Nile Virus case in Ouachita Parish - WOWT"
+          "Local Doctor responds to first human West Nile Virus case in Ouachita Parish - KNOE"
         ]
       },
       {
-        "trend": "health officials",
+        "trend": "hospital",
         "market_code": "CN",
         "category": "Asia Health",
-        "score": 7,
+        "score": 6,
         "examples": [
-          "Cases of cyclosporiasis in Michigan surpass 5,000, health officials say - ABC News - Breaking News, Latest News and Videos",
-          "NJ Health Officials Report Typical Seasonal Uptick of Cyclosporiasis Cases - Hopewell Township, NJ",
-          "Cases of cyclosporiasis in Michigan surpass 5,000, health officials say - ABC News - Breaking News, Latest News and Videos"
+          "CDC finds decline in healthcare-associated infections in hospitals - American Hospital Association",
+          "RFK Jr. comes to Tampa to roll out ‘Make Hospital Food Healthier’ pledge - The Miami Times",
+          "How Family Advocacy Day Inspired a Medical Student to Pursue Pediatrics - Children's Hospital Association"
         ]
       }
     ],
@@ -1615,44 +1615,33 @@
         "trend": "health",
         "market_code": "KR",
         "category": "Asia Health",
-        "score": 81,
+        "score": 84,
         "examples": [
           "Health Report pres. by Vanderbilt Health: Nashville SC vs Atlanta United - Nashville SC",
           "Health Report pres. by Vanderbilt Health: Nashville SC vs Atlanta United - Nashville SC",
-          "Cases of cyclosporiasis in Michigan surpass 5,000, health officials say - ABC News - Breaking News, Latest News and Videos"
+          "Colorado health officials are tracking toxic algae blooms with warnings of health impacts - The Colorado Sun"
         ]
       },
       {
         "trend": "medical",
         "market_code": "KR",
         "category": "Asia Health",
-        "score": 15,
+        "score": 16,
         "examples": [
+          "What does medical science say about testosterone deficiency? - NBC News",
           "Thomas F. Frist Medical School faces accreditation delay - Nashville Banner",
-          "Are medical expenses tax deductible? - H&R Block",
-          "AvenueM: The path from community college to medical school - UC Davis Health"
+          "Medical Impact Reaches Patients in Venezuela, Post-Earthquake - Direct Relief"
         ]
       },
       {
-        "trend": "public health",
+        "trend": "healthcare",
         "market_code": "KR",
         "category": "Asia Health",
-        "score": 12,
-        "examples": [
-          "JHU + WVU Rural Health Convos: From Pregnancy to Practice—Infrastructure for Rural Health Research - Johns Hopkins Bloomberg School of Public Health",
-          "JHU + WVU Rural Health Convos: From Pregnancy to Practice—Infrastructure for Rural Health Research - Johns Hopkins Bloomberg School of Public Health",
-          "Rabid bat found in Seattle near the University of Washington - Public Health Insider"
-        ]
-      },
-      {
-        "trend": "outbreak",
-        "market_code": "KR",
-        "category": "Outbreaks",
         "score": 11,
         "examples": [
-          "King County on alert as CDC links parasite outbreak to Taco Bell lettuce - MyNorthwest.com",
-          "Cyclosporiasis Outbreak 2026 - Johns Hopkins Medicine",
-          "Salmonella Outbreak Linked to Moringa Capsules - Centers for Disease Control and Prevention | CDC (.gov)"
+          "Deals tracker: Cross Country Healthcare deal moves forward - Modern Healthcare",
+          "Deals tracker: Cross Country Healthcare deal moves forward - Modern Healthcare",
+          "Deals tracker: Cross Country Healthcare deal moves forward - Modern Healthcare"
         ]
       },
       {
@@ -1672,20 +1661,31 @@
         "category": "Mental Health",
         "score": 10,
         "examples": [
-          "Oklahoma approves mental health consent decree plan after delay - The Journal Record",
-          "Montgomery Update: Grieving More Victims of ICE Violence, Setting the Record Straight on Property Taxes, and Teen Mental Health Ambassadors - Montgomery County, MD (.gov)",
-          "Mental health, environment shape pregnancy sleep - WashU"
+          "Montgomery Co. program provides teens a way to lead on mental health issues - WTOP",
+          "Montgomery Co. program provides teens a way to lead on mental health issues - WTOP",
+          "Opinion: Wyoming doesn't need lectures on mental health. It needs solutions - WyomingNews.com"
         ]
       },
       {
-        "trend": "healthcare",
+        "trend": "mental health",
         "market_code": "KR",
-        "category": "Asia Health",
+        "category": "Mental Health",
+        "score": 10,
+        "examples": [
+          "Montgomery Co. program provides teens a way to lead on mental health issues - WTOP",
+          "Montgomery Co. program provides teens a way to lead on mental health issues - WTOP",
+          "Opinion: Wyoming doesn't need lectures on mental health. It needs solutions - WyomingNews.com"
+        ]
+      },
+      {
+        "trend": "outbreak",
+        "market_code": "KR",
+        "category": "Outbreaks",
         "score": 9,
         "examples": [
-          "Deals tracker: Cross Country Healthcare deal moves forward - Modern Healthcare",
-          "Deals tracker: Cross Country Healthcare deal moves forward - Modern Healthcare",
-          "Deals tracker: Cross Country Healthcare deal moves forward - Modern Healthcare"
+          "NYC health alert: Legionnaires outbreak grows as cyclospora concerns spread - FOX 5 New York",
+          "Cyclosporiasis Outbreak 2026 - Johns Hopkins Medicine",
+          "Map: ‘Explosive diarrhea’ parasite outbreak by state - NewsNation"
         ]
       },
       {
@@ -1694,20 +1694,20 @@
         "category": "Outbreaks",
         "score": 9,
         "examples": [
+          "West Nile virus detected in Ogle County mosquito pool; no human cases reported - MyStateline",
           "West Nile virus found in Oregon for the first time this year - KGW",
-          "Local Doctor responds to first human West Nile Virus case in Ouachita Parish - KNOE",
-          "Local Doctor responds to first human West Nile Virus case in Ouachita Parish - WOWT"
+          "Local Doctor responds to first human West Nile Virus case in Ouachita Parish - KNOE"
         ]
       },
       {
-        "trend": "mental health",
+        "trend": "public health",
         "market_code": "KR",
-        "category": "Mental Health",
-        "score": 9,
+        "category": "Asia Health",
+        "score": 8,
         "examples": [
-          "Oklahoma approves mental health consent decree plan after delay - The Journal Record",
-          "Montgomery Update: Grieving More Victims of ICE Violence, Setting the Record Straight on Property Taxes, and Teen Mental Health Ambassadors - Montgomery County, MD (.gov)",
-          "Mental health, environment shape pregnancy sleep - WashU"
+          "JHU + WVU Rural Health Convos: From Pregnancy to Practice—Infrastructure for Rural Health Research - Johns Hopkins Bloomberg School of Public Health",
+          "JHU + WVU Rural Health Convos: From Pregnancy to Practice—Infrastructure for Rural Health Research - Johns Hopkins Bloomberg School of Public Health",
+          "Public Health Groups Urge Court to Protect Access to Evidence-Based, Lifesaving Vaccines - Cancer Health"
         ]
       },
       {
@@ -1716,9 +1716,9 @@
         "category": "Outbreaks",
         "score": 8,
         "examples": [
+          "West Nile virus detected in Ogle County mosquito pool; no human cases reported - MyStateline",
           "West Nile virus found in Oregon for the first time this year - KGW",
-          "Local Doctor responds to first human West Nile Virus case in Ouachita Parish - KNOE",
-          "Local Doctor responds to first human West Nile Virus case in Ouachita Parish - WOWT"
+          "Local Doctor responds to first human West Nile Virus case in Ouachita Parish - KNOE"
         ]
       },
       {
@@ -1727,20 +1727,20 @@
         "category": "Outbreaks",
         "score": 8,
         "examples": [
+          "West Nile virus detected in Ogle County mosquito pool; no human cases reported - MyStateline",
           "West Nile virus found in Oregon for the first time this year - KGW",
-          "Local Doctor responds to first human West Nile Virus case in Ouachita Parish - KNOE",
-          "Local Doctor responds to first human West Nile Virus case in Ouachita Parish - WOWT"
+          "Local Doctor responds to first human West Nile Virus case in Ouachita Parish - KNOE"
         ]
       },
       {
-        "trend": "health officials",
+        "trend": "hospital",
         "market_code": "KR",
         "category": "Asia Health",
-        "score": 7,
+        "score": 6,
         "examples": [
-          "Cases of cyclosporiasis in Michigan surpass 5,000, health officials say - ABC News - Breaking News, Latest News and Videos",
-          "NJ Health Officials Report Typical Seasonal Uptick of Cyclosporiasis Cases - Hopewell Township, NJ",
-          "Cases of cyclosporiasis in Michigan surpass 5,000, health officials say - ABC News - Breaking News, Latest News and Videos"
+          "CDC finds decline in healthcare-associated infections in hospitals - American Hospital Association",
+          "RFK Jr. comes to Tampa to roll out ‘Make Hospital Food Healthier’ pledge - The Miami Times",
+          "How Family Advocacy Day Inspired a Medical Student to Pursue Pediatrics - Children's Hospital Association"
         ]
       }
     ],
@@ -1749,44 +1749,44 @@
         "trend": "health",
         "market_code": "IN",
         "category": "Asia Health",
-        "score": 64,
+        "score": 68,
         "examples": [
-          "Health Ministry Holds National Review Meeting On Disease Surveillance And Public Health - BW Healthcare",
-          "Health Ministry Holds National Review Meeting On Disease Surveillance And Public Health - BW Healthcare",
-          "Gut Health Popcorn Market : Global Industry Analysis and Opportunity Assessment, 2036 - Future Market Insights"
+          "National Health Authority Concludes Two-Day National Review Meeting on AB PM-JAY and ABDM - News On AIR",
+          "Kerala High Court judicial team inspects Mental Health Centre in Thiruvananthapuram - The Hindu",
+          "NHA charts next phase of Ayushman Bharat reforms, stresses digital health adoption and financial sustainability - DD News"
         ]
       },
       {
         "trend": "healthcare",
         "market_code": "IN",
         "category": "Asia Health",
-        "score": 23,
+        "score": 18,
         "examples": [
           "Health Ministry Holds National Review Meeting On Disease Surveillance And Public Health - BW Healthcare",
-          "Nadda reviews newly inaugurated healthcare facilities at PGIMER, lauds SARATHI volunteers for patient-centri.. - ET HealthWorld",
-          "Deals tracker: Cross Country Healthcare deal moves forward - Modern Healthcare"
-        ]
-      },
-      {
-        "trend": "disease",
-        "market_code": "IN",
-        "category": "Asia Health",
-        "score": 17,
-        "examples": [
-          "Information for Travelers Returning from Ebola-Affected Areas - Centers for Disease Control and Prevention | CDC (.gov)",
           "Health Ministry Holds National Review Meeting On Disease Surveillance And Public Health - BW Healthcare",
-          "Health Ministry Holds National Review Meeting On Disease Surveillance And Public Health - BW Healthcare"
+          "CHAI seeks to support public health agency uptake of genAI - Healthcare IT News"
         ]
       },
       {
         "trend": "medical",
         "market_code": "IN",
         "category": "Asia Health",
-        "score": 15,
+        "score": 18,
         "examples": [
+          "DC Kargil Flags Off Mobile Medical Care Unit for District Hospital Donated by HDFC Bank. - Administration of Union Territory of Ladakh",
           "Sonam Wangchuk taken to govt hospital for essential medical care - News On AIR",
-          "Sonam Wangchuk Shifted to Safdarjung Hospital Amid Hunger Strike: Here Is What Delhi High Court Directed in Its Medical Monitoring Order - SCC Online",
-          "AP High Court Directs Release Of PwD Medical Student's Certificate, Orders Inquiry Into Alleged... - Live Law"
+          "Sonam Wangchuk Shifted to Safdarjung Hospital Amid Hunger Strike: Here Is What Delhi High Court Directed in Its Medical Monitoring Order - SCC Online"
+        ]
+      },
+      {
+        "trend": "disease",
+        "market_code": "IN",
+        "category": "Asia Health",
+        "score": 16,
+        "examples": [
+          "Information for Travelers Returning from Ebola-Affected Areas - Centers for Disease Control and Prevention | CDC (.gov)",
+          "Health Ministry Holds National Review Meeting On Disease Surveillance And Public Health - BW Healthcare",
+          "Information for Travelers Returning from Ebola-Affected Areas - Centers for Disease Control and Prevention | CDC (.gov)"
         ]
       },
       {
@@ -1795,75 +1795,64 @@
         "category": "Mental Health",
         "score": 12,
         "examples": [
-          "Real People, Real Talk: Youth Mental Health Matters - Welcome to the United Nations",
-          "Do humans possess a ‘sixth sense’? Scientists say it could be the ‘missing key’ to the puzzle of mental h - The Times of India",
-          "Heralding The Minimal Clinically Important Difference When AI Is Used For Human Mental Health - Forbes"
-        ]
-      },
-      {
-        "trend": "hospital",
-        "market_code": "IN",
-        "category": "Asia Health",
-        "score": 11,
-        "examples": [
-          "Sonam Wangchuk: Indian activist on hunger strike for 20 days forcibly taken to hospital - BBC",
-          "Safdarjung Hospital gives update on Wangchuk's health - Rediff",
-          "Sonam Wangchuk taken to govt hospital for essential medical care - News On AIR"
-        ]
-      },
-      {
-        "trend": "outbreak",
-        "market_code": "IN",
-        "category": "Outbreaks",
-        "score": 11,
-        "examples": [
-          "Health alert in Kayah State refugee camps after chickenpox outbreak - AsiaNews",
-          "Cyclosporiasis Outbreak 2026 - Johns Hopkins Medicine",
-          "Salmonella Outbreak Linked to Moringa Capsules - Centers for Disease Control and Prevention | CDC (.gov)"
-        ]
-      },
-      {
-        "trend": "mental health",
-        "market_code": "IN",
-        "category": "Mental Health",
-        "score": 11,
-        "examples": [
-          "Real People, Real Talk: Youth Mental Health Matters - Welcome to the United Nations",
-          "Heralding The Minimal Clinically Important Difference When AI Is Used For Human Mental Health - Forbes",
-          "Why India's Under-35s Are Facing A Mental Health Bottleneck A Decade Early - BW Healthcare"
+          "Kerala High Court judicial team inspects Mental Health Centre in Thiruvananthapuram - The Hindu",
+          "Kerala High Court judicial team inspects Mental Health Centre in Thiruvananthapuram - The Hindu",
+          "Kerala HC judges inspect govt mental health centre at Peroorkada - ThePrint"
         ]
       },
       {
         "trend": "public health",
         "market_code": "IN",
         "category": "Asia Health",
+        "score": 12,
+        "examples": [
+          "PHFI-IPHS steps up to meet growing demand for public health workforce - BusinessLine",
+          "Health Ministry Holds National Review Meeting On Disease Surveillance And Public Health - BW Healthcare",
+          "PHFI-IPHS steps up to meet growing demand for public health workforce - BusinessLine"
+        ]
+      },
+      {
+        "trend": "hospital",
+        "market_code": "IN",
+        "category": "Asia Health",
+        "score": 12,
+        "examples": [
+          "DC Kargil Flags Off Mobile Medical Care Unit for District Hospital Donated by HDFC Bank. - Administration of Union Territory of Ladakh",
+          "Sonam Wangchuk taken to govt hospital for essential medical care - News On AIR",
+          "Sonam Wangchuk Shifted to Safdarjung Hospital Amid Hunger Strike: Here Is What Delhi High Court Directed in Its Medical Monitoring Order - SCC Online"
+        ]
+      },
+      {
+        "trend": "mental health",
+        "market_code": "IN",
+        "category": "Mental Health",
         "score": 10,
         "examples": [
-          "Health Ministry Holds National Review Meeting On Disease Surveillance And Public Health - BW Healthcare",
-          "Health Ministry Holds National Review Meeting On Disease Surveillance And Public Health - BW Healthcare",
-          "Union Ministry of Health concludes two-day National Review Meeting on Disease Surveillance and Public Health Programmes - PIB"
+          "Kerala High Court judicial team inspects Mental Health Centre in Thiruvananthapuram - The Hindu",
+          "Kerala High Court judicial team inspects Mental Health Centre in Thiruvananthapuram - The Hindu",
+          "Kerala HC judges inspect govt mental health centre at Peroorkada - ThePrint"
         ]
       },
       {
-        "trend": "hospitals",
+        "trend": "infection",
         "market_code": "IN",
-        "category": "Asia Health",
-        "score": 6,
+        "category": "Outbreaks",
+        "score": 7,
         "examples": [
-          "Chhatrapati Sambhajinagar to get 3 AYUSH Hospitals, 37 dispensaries under expansion plan - Medical Dialogues",
-          "Medtronic and Apollo Hospitals Announce Strategic Partnership to Establish State-of-the-Art Advanced ICU in Hyderabad - Medtronic",
-          "Mandatory training for staff to make hospitals patient-friendly - The Hindu"
+          "Explosive stomach infection hits US, how the parasite Cyclospora makes people unwell and what researchers - The Times of India",
+          "Infection: Severe pneumonia and acute respiratory distress syndrome caused by avian influenza A (H10N3) in a young female: a case report - Avian Flu Diary",
+          "Explosive stomach infection hits US, how the parasite Cyclospora makes people unwell and what researchers - The Times of India"
         ]
       },
       {
-        "trend": "health alert",
+        "trend": "outbreak",
         "market_code": "IN",
-        "category": "Asia Health",
-        "score": 6,
+        "category": "Outbreaks",
+        "score": 7,
         "examples": [
-          "Mumbai monsoon health alert: Dengue malaria and leptospirosis cases surge BMC issues urgent travel advisory and safety precautions - TheHealthSite",
-          "Health alert in Kayah State refugee camps after chickenpox outbreak - AsiaNews",
-          "State agency issues public health alert for raw beef patties - Channel 3000"
+          "Source Identified in Growing Cyclosporiasis Outbreak: How to Avoid the Severe Stomach Illness - NewYork-Presbyterian",
+          "What to Know About the Cyclosporiasis Outbreak and How to Stay Safe - WSJ",
+          "Taylor Farms to launch recall after iceberg lettuce is tied to outbreak - The Washington Post"
         ]
       },
       {
@@ -1876,6 +1865,17 @@
           "WHO launches first trial of antiviral to prevent Bundibugyo strain of Ebola - France 24",
           "As Ebola Spreads in Two More Provinces, NanoViricides Has Received National Ethics Committee Approval for a Phase II Clinical Trial of NV-387 Oral Gummies as a Treatment for Ebola in Congo - ACCESS Newswire"
         ]
+      },
+      {
+        "trend": "children",
+        "market_code": "IN",
+        "category": "Children Health",
+        "score": 6,
+        "examples": [
+          "Cyclosporiasis in Children: Symptoms, Treatment & Prevention - HealthyChildren.org",
+          "HIV outbreak in Pakistan: Dozens of children infected after safety lapses at Sindh hospital - Daily Pioneer",
+          "Rain = No Playground; How Reduced Outdoor Activity During Monsoon Affects Children's Immunity, Weight & Mental Health - Health and Me"
+        ]
       }
     ],
     "Australia": [
@@ -1883,88 +1883,77 @@
         "trend": "health",
         "market_code": "AU",
         "category": "Global Health",
-        "score": 66,
+        "score": 64,
         "examples": [
-          "NT Health defends ‘manageable’ mould risk at Darwin clinic - NT News",
-          "Health service appoints new First Nations director - Times News Group",
-          "Women's Health Strategy overlooks 13 million menopausal women's dental health - Nature"
+          "WA Health probe director’s social media product endorsements - The West Australian",
+          "In praise of urgent care health service - The Age",
+          "NT Health defends ‘manageable’ mould risk at Darwin clinic - NT News"
         ]
       },
       {
         "trend": "medical",
         "market_code": "AU",
         "category": "Global Health",
-        "score": 19,
+        "score": 21,
         "examples": [
           "Pacific Partnership 2026 medical team responds alongside Royal Australian Navy HMAS Choules (L100) during damage control drill - DVIDS",
-          "Perth medical researchers working on artificial placentas for premature babies - ABC News & Headlines – Australian Broadcasting Corporation",
-          "‘Race to the bottom’: Investigation reveals toll of weak medical device laws - The Age"
+          "Driver dies after suffering suspected medical episode on Sydney Harbour Bridge - 7NEWS",
+          "Perth medical researchers working on artificial placentas for premature babies - ABC News & Headlines – Australian Broadcasting Corporation"
         ]
       },
       {
         "trend": "disease",
         "market_code": "AU",
         "category": "Global Health",
-        "score": 12,
+        "score": 14,
         "examples": [
           "Information for Travelers Returning from Ebola-Affected Areas - Centers for Disease Control and Prevention | CDC (.gov)",
           "Information for Travelers Returning from Ebola-Affected Areas - Centers for Disease Control and Prevention | CDC (.gov)",
-          "Ebola disease caused by Bundibugyo virus, Democratic Republic of the Congo & Uganda - World Health Organization (WHO)"
-        ]
-      },
-      {
-        "trend": "outbreak",
-        "market_code": "AU",
-        "category": "Outbreaks",
-        "score": 12,
-        "examples": [
-          "Health alert in Kayah State refugee camps after chickenpox outbreak - AsiaNews",
-          "Taco Bell lettuce identified as a source of US 'explosive' diarrhoea outbreak - ABC News & Headlines – Australian Broadcasting Corporation",
-          "Cyclosporiasis Outbreak 2026 - Johns Hopkins Medicine"
+          "The iron lung is gone, polio isn’t: Why we must not forget the disease we’ve spent centuries trying to erase - 7NEWS"
         ]
       },
       {
         "trend": "healthcare",
         "market_code": "AU",
         "category": "Global Health",
-        "score": 10,
+        "score": 11,
         "examples": [
           "Canberra clinics and patient data caught up in nationwide healthcare network hack - Region Canberra",
           "Denmark unveils first national health plan in 2027 healthcare reform - euractiv.com",
-          "CHAI seeks to support public health agency uptake of genAI - Healthcare IT News"
+          "ASX MedTech Stock CurveBeam AI Ltd (ASX: CVB) Climbs as AI Adoption Accelerates in Healthcare - Kalkine"
         ]
       },
       {
         "trend": "mental",
         "market_code": "AU",
         "category": "Mental Health",
-        "score": 10,
+        "score": 9,
         "examples": [
-          "Breaking the silence: Zimbabwean youth leader calls for urgent investment in mental health - Welcome to the United Nations",
-          "Beau Lamarre-Condon Will Not Claim Mental Health Defence A Trial - Star Observer",
-          "Real People, Real Talk: Youth Mental Health Matters - Welcome to the United Nations"
+          "Heralding The Minimal Clinically Important Difference When AI Is Used For Human Mental Health - Forbes",
+          "Heralding The Minimal Clinically Important Difference When AI Is Used For Human Mental Health - Forbes",
+          "Breaking the silence: Zimbabwean youth leader calls for urgent investment in mental health - Welcome to the United Nations"
         ]
       },
       {
         "trend": "mental health",
         "market_code": "AU",
         "category": "Mental Health",
-        "score": 10,
+        "score": 9,
         "examples": [
-          "Breaking the silence: Zimbabwean youth leader calls for urgent investment in mental health - Welcome to the United Nations",
-          "Beau Lamarre-Condon Will Not Claim Mental Health Defence A Trial - Star Observer",
-          "Real People, Real Talk: Youth Mental Health Matters - Welcome to the United Nations"
+          "Heralding The Minimal Clinically Important Difference When AI Is Used For Human Mental Health - Forbes",
+          "Heralding The Minimal Clinically Important Difference When AI Is Used For Human Mental Health - Forbes",
+          "Breaking the silence: Zimbabwean youth leader calls for urgent investment in mental health - Welcome to the United Nations"
         ]
       },
       {
-        "trend": "trial",
+        "trend": "outbreak",
         "market_code": "AU",
-        "category": "Global Health",
-        "score": 6,
+        "category": "Outbreaks",
+        "score": 8,
         "examples": [
-          "Beau Lamarre-Condon Will Not Claim Mental Health Defence A Trial - Star Observer",
-          "Beau Lamarre-Condon won’t claim a mental health defence at trial - Q News Pty Ltd",
-          "Beau Lamarre-Condon Will Not Claim Mental Health Defence A Trial - Star Observer"
+          "Taco Bell lettuce identified as a source of US 'explosive' diarrhoea outbreak - ABC News & Headlines – Australian Broadcasting Corporation",
+          "Cause of ‘explosive’ diarrhoea outbreak revealed - The Nightly",
+          "Map: ‘Explosive diarrhea’ parasite outbreak by state - NewsNation"
         ]
       },
       {
@@ -1979,14 +1968,25 @@
         ]
       },
       {
-        "trend": "health alert",
+        "trend": "virus",
         "market_code": "AU",
-        "category": "Global Health",
+        "category": "Outbreaks",
         "score": 6,
         "examples": [
-          "Health alert in Kayah State refugee camps after chickenpox outbreak - AsiaNews",
-          "Wisconsin DATCP issues health alert for Gunderson Food Service Beef Grillers - WMTV 15 NEWS",
-          "Public health alert for local beef patties due to misbranding and undeclared allergen - wiproud.com"
+          "Ebola disease caused by Bundibugyo virus, Democratic Republic of the Congo & Uganda - World Health Organization (WHO)",
+          "Ebola disease caused by Bundibugyo virus, Democratic Republic of the Congo & Uganda - World Health Organization (WHO)",
+          "Ebola disease caused by Bundibugyo virus, Democratic Republic of the Congo & Uganda - World Health Organization (WHO)"
+        ]
+      },
+      {
+        "trend": "infection",
+        "market_code": "AU",
+        "category": "Outbreaks",
+        "score": 6,
+        "examples": [
+          "The Victorians watching coastal birds closely for looming H5N1 infection - ABC News & Headlines – Australian Broadcasting Corporation",
+          "Infection: Severe pneumonia and acute respiratory distress syndrome caused by avian influenza A (H10N3) in a young female: a case report - Avian Flu Diary",
+          "Infection: Severe pneumonia and acute respiratory distress syndrome caused by avian influenza A (H10N3) in a young female: a case report - Avian Flu Diary"
         ]
       },
       {
@@ -2017,22 +2017,22 @@
         "trend": "health",
         "market_code": "CA",
         "category": "Global Health",
-        "score": 63,
+        "score": 58,
         "examples": [
-          "South Niagara Hospital marks three years of construction progress - Niagara Health",
-          "Health Canada’s New Draft Guidance on Foreign Regulatory Reliance for Certain Drugs - Fasken",
-          "Canada wildfire smoke triggers US health alerts, affects millions ahead of World Cup final - Le Monde.fr"
+          "Local input sought on health, economic well-being in rural Ontario - SooToday.com",
+          "Eastern Ontario medical officer of health warns of rising tick-borne illness - CTV News",
+          "Southwest History: Saskatchewan Health Region No. 1, 80 years as epicenter of healthcare - SwiftCurrentOnline"
         ]
       },
       {
         "trend": "medical",
         "market_code": "CA",
         "category": "Global Health",
-        "score": 16,
+        "score": 19,
         "examples": [
-          "The Supreme Court clarifies Canada’s methods of medical treatment doctrine - Borden Ladner Gervais LLP (BLG)",
+          "Eastern Ontario medical officer of health warns of rising tick-borne illness - CTV News",
           "More than 60 N.S. emergency medical dispatchers on strike - CBC",
-          "SCC affirms 7-2 that methods of medical treatment cannot be patented in Canada - Canadian Lawyer"
+          "The Supreme Court clarifies Canada’s methods of medical treatment doctrine - Borden Ladner Gervais LLP (BLG)"
         ]
       },
       {
@@ -2042,19 +2042,8 @@
         "score": 12,
         "examples": [
           "Running across Canada for mental health - PortageOnline",
-          "Young people’s mental health - insurance-portal.ca",
-          "N.B. government spending $1.3M on Moncton mental health-care initiative - CTV News"
-        ]
-      },
-      {
-        "trend": "virus",
-        "market_code": "CA",
-        "category": "Outbreaks",
-        "score": 11,
-        "examples": [
-          "Mosquitoes in Toronto test positive for West Nile virus, public health officials confirm - CityNews Toronto",
-          "Mosquitoes in Toronto, York and Halton test positive for West Nile virus - CBC",
-          "Small batch of Ontario mosquitos test positive for West Nile virus - CP24"
+          "Young people’s mental health - Young people’s mental health: Claims are changing - insurance-portal.ca",
+          "Young people’s mental health - Young people’s mental health: Claims are changing - insurance-portal.ca"
         ]
       },
       {
@@ -2064,41 +2053,19 @@
         "score": 11,
         "examples": [
           "Running across Canada for mental health - PortageOnline",
-          "Young people’s mental health - insurance-portal.ca",
-          "Hamilton's homelessness, mental health, addiction crises in the spotlight at Dundas campaign event - FlamboroughToday.com"
+          "Young people’s mental health - Young people’s mental health: Claims are changing - insurance-portal.ca",
+          "Young people’s mental health - Young people’s mental health: Claims are changing - insurance-portal.ca"
         ]
       },
       {
-        "trend": "disease",
-        "market_code": "CA",
-        "category": "Global Health",
-        "score": 10,
-        "examples": [
-          "Information for Travelers Returning from Ebola-Affected Areas - Centers for Disease Control and Prevention | CDC (.gov)",
-          "Information for Travelers Returning from Ebola-Affected Areas - Centers for Disease Control and Prevention | CDC (.gov)",
-          "Information for Travelers Returning from Ebola-Affected Areas - Centers for Disease Control and Prevention | CDC (.gov)"
-        ]
-      },
-      {
-        "trend": "outbreak",
+        "trend": "virus",
         "market_code": "CA",
         "category": "Outbreaks",
         "score": 10,
         "examples": [
-          "The source of a diarrhea-causing outbreak in the U.S. has been found. Now what? - CBC",
-          "The source of a diarrhea-causing outbreak in the U.S. has been found. Now what? - CBC",
-          "Cyclosporiasis Outbreak 2026 - Johns Hopkins Medicine"
-        ]
-      },
-      {
-        "trend": "public health",
-        "market_code": "CA",
-        "category": "Global Health",
-        "score": 10,
-        "examples": [
-          "Public Health holds measles vaccine clinics after case confirmed in Moncton - CBC",
           "Mosquitoes in Toronto test positive for West Nile virus, public health officials confirm - CityNews Toronto",
-          "Huron Perth Public Health seeks feedback on sexual health clinics - Exeter Lakeshore Times Advance"
+          "Mosquitoes in Toronto, York and Halton test positive for West Nile virus - CBC",
+          "Small batch of Ontario mosquitos test positive for West Nile virus - CP24"
         ]
       },
       {
@@ -2124,25 +2091,58 @@
         ]
       },
       {
-        "trend": "healthcare",
+        "trend": "disease",
         "market_code": "CA",
         "category": "Global Health",
-        "score": 7,
+        "score": 9,
         "examples": [
-          "3 AI Healthcare Stocks Backed By Real Clinical Use And Fast Revenue Growth - simplywall.st",
-          "Technological innovation in healthcare: challenges, opportunities and impact on sustainability - Frontiers",
-          "Unisound AI Unveils U2-Med Tri-Medical LLM to Power Healthcare, Insurance and Pharma - The Globe and Mail"
+          "Information for Travelers Returning from Ebola-Affected Areas - Centers for Disease Control and Prevention | CDC (.gov)",
+          "Information for Travelers Returning from Ebola-Affected Areas - Centers for Disease Control and Prevention | CDC (.gov)",
+          "Information for Travelers Returning from Ebola-Affected Areas - Centers for Disease Control and Prevention | CDC (.gov)"
         ]
       },
       {
-        "trend": "hospital",
+        "trend": "healthcare",
         "market_code": "CA",
         "category": "Global Health",
+        "score": 8,
+        "examples": [
+          "Southwest History: Saskatchewan Health Region No. 1, 80 years as epicenter of healthcare - SwiftCurrentOnline",
+          "3 AI Healthcare Stocks Backed By Real Clinical Use And Fast Revenue Growth - simplywall.st",
+          "Technological innovation in healthcare: challenges, opportunities and impact on sustainability - Frontiers"
+        ]
+      },
+      {
+        "trend": "public health",
+        "market_code": "CA",
+        "category": "Global Health",
+        "score": 8,
+        "examples": [
+          "Public Health holds measles vaccine clinics after case confirmed in Moncton - CBC",
+          "Mosquitoes in Toronto test positive for West Nile virus, public health officials confirm - CityNews Toronto",
+          "Public Health Groups Urge Court to Protect Access to Evidence-Based, Lifesaving Vaccines - Cancer Health"
+        ]
+      },
+      {
+        "trend": "outbreak",
+        "market_code": "CA",
+        "category": "Outbreaks",
+        "score": 7,
+        "examples": [
+          "The source of a diarrhea-causing outbreak in the U.S. has been found. Now what? - CBC",
+          "Cyclosporiasis outbreak linked to lettuce at Taco Bell, Mexico supplier - Global News",
+          "Map: ‘Explosive diarrhea’ parasite outbreak by state - NewsNation"
+        ]
+      },
+      {
+        "trend": "cancer",
+        "market_code": "CA",
+        "category": "Chronic Disease",
         "score": 6,
         "examples": [
-          "South Niagara Hospital marks three years of construction progress - Niagara Health",
-          "Unisound Secures Major Hospital Deals for New Medical AI Models - The Globe and Mail",
-          "One person sent to hospital after evening crash on Alaska Highway - Energeticcity"
+          "Public Health Groups Urge Court to Protect Access to Evidence-Based, Lifesaving Vaccines - Cancer Health",
+          "FDA approves new breast cancer drug based on VIKTORIA-1 study results - Fred Hutchinson Cancer Center",
+          "FDA approves new breast cancer drug based on VIKTORIA-1 study results - Fred Hutchinson Cancer Center"
         ]
       }
     ],
@@ -2151,44 +2151,33 @@
         "trend": "health",
         "market_code": "AE",
         "category": "Arab Health",
-        "score": 81,
+        "score": 84,
         "examples": [
           "Health Report pres. by Vanderbilt Health: Nashville SC vs Atlanta United - Nashville SC",
           "Health Report pres. by Vanderbilt Health: Nashville SC vs Atlanta United - Nashville SC",
-          "Cases of cyclosporiasis in Michigan surpass 5,000, health officials say - ABC News - Breaking News, Latest News and Videos"
+          "Colorado health officials are tracking toxic algae blooms with warnings of health impacts - The Colorado Sun"
         ]
       },
       {
         "trend": "medical",
         "market_code": "AE",
         "category": "Arab Health",
-        "score": 15,
+        "score": 16,
         "examples": [
+          "What does medical science say about testosterone deficiency? - NBC News",
           "Thomas F. Frist Medical School faces accreditation delay - Nashville Banner",
-          "Are medical expenses tax deductible? - H&R Block",
-          "AvenueM: The path from community college to medical school - UC Davis Health"
+          "Medical Impact Reaches Patients in Venezuela, Post-Earthquake - Direct Relief"
         ]
       },
       {
-        "trend": "public health",
+        "trend": "healthcare",
         "market_code": "AE",
         "category": "Arab Health",
-        "score": 12,
-        "examples": [
-          "JHU + WVU Rural Health Convos: From Pregnancy to Practice—Infrastructure for Rural Health Research - Johns Hopkins Bloomberg School of Public Health",
-          "JHU + WVU Rural Health Convos: From Pregnancy to Practice—Infrastructure for Rural Health Research - Johns Hopkins Bloomberg School of Public Health",
-          "Rabid bat found in Seattle near the University of Washington - Public Health Insider"
-        ]
-      },
-      {
-        "trend": "outbreak",
-        "market_code": "AE",
-        "category": "Outbreaks",
         "score": 11,
         "examples": [
-          "King County on alert as CDC links parasite outbreak to Taco Bell lettuce - MyNorthwest.com",
-          "Cyclosporiasis Outbreak 2026 - Johns Hopkins Medicine",
-          "Salmonella Outbreak Linked to Moringa Capsules - Centers for Disease Control and Prevention | CDC (.gov)"
+          "Deals tracker: Cross Country Healthcare deal moves forward - Modern Healthcare",
+          "Deals tracker: Cross Country Healthcare deal moves forward - Modern Healthcare",
+          "Deals tracker: Cross Country Healthcare deal moves forward - Modern Healthcare"
         ]
       },
       {
@@ -2208,20 +2197,31 @@
         "category": "Mental Health",
         "score": 10,
         "examples": [
-          "Oklahoma approves mental health consent decree plan after delay - The Journal Record",
-          "Montgomery Update: Grieving More Victims of ICE Violence, Setting the Record Straight on Property Taxes, and Teen Mental Health Ambassadors - Montgomery County, MD (.gov)",
-          "Mental health, environment shape pregnancy sleep - WashU"
+          "Montgomery Co. program provides teens a way to lead on mental health issues - WTOP",
+          "Montgomery Co. program provides teens a way to lead on mental health issues - WTOP",
+          "Opinion: Wyoming doesn't need lectures on mental health. It needs solutions - WyomingNews.com"
         ]
       },
       {
-        "trend": "healthcare",
+        "trend": "mental health",
         "market_code": "AE",
-        "category": "Arab Health",
+        "category": "Mental Health",
+        "score": 10,
+        "examples": [
+          "Montgomery Co. program provides teens a way to lead on mental health issues - WTOP",
+          "Montgomery Co. program provides teens a way to lead on mental health issues - WTOP",
+          "Opinion: Wyoming doesn't need lectures on mental health. It needs solutions - WyomingNews.com"
+        ]
+      },
+      {
+        "trend": "outbreak",
+        "market_code": "AE",
+        "category": "Outbreaks",
         "score": 9,
         "examples": [
-          "Deals tracker: Cross Country Healthcare deal moves forward - Modern Healthcare",
-          "Deals tracker: Cross Country Healthcare deal moves forward - Modern Healthcare",
-          "Deals tracker: Cross Country Healthcare deal moves forward - Modern Healthcare"
+          "NYC health alert: Legionnaires outbreak grows as cyclospora concerns spread - FOX 5 New York",
+          "Cyclosporiasis Outbreak 2026 - Johns Hopkins Medicine",
+          "Map: ‘Explosive diarrhea’ parasite outbreak by state - NewsNation"
         ]
       },
       {
@@ -2230,20 +2230,20 @@
         "category": "Outbreaks",
         "score": 9,
         "examples": [
+          "West Nile virus detected in Ogle County mosquito pool; no human cases reported - MyStateline",
           "West Nile virus found in Oregon for the first time this year - KGW",
-          "Local Doctor responds to first human West Nile Virus case in Ouachita Parish - KNOE",
-          "Local Doctor responds to first human West Nile Virus case in Ouachita Parish - WOWT"
+          "Local Doctor responds to first human West Nile Virus case in Ouachita Parish - KNOE"
         ]
       },
       {
-        "trend": "mental health",
+        "trend": "public health",
         "market_code": "AE",
-        "category": "Mental Health",
-        "score": 9,
+        "category": "Arab Health",
+        "score": 8,
         "examples": [
-          "Oklahoma approves mental health consent decree plan after delay - The Journal Record",
-          "Montgomery Update: Grieving More Victims of ICE Violence, Setting the Record Straight on Property Taxes, and Teen Mental Health Ambassadors - Montgomery County, MD (.gov)",
-          "Mental health, environment shape pregnancy sleep - WashU"
+          "JHU + WVU Rural Health Convos: From Pregnancy to Practice—Infrastructure for Rural Health Research - Johns Hopkins Bloomberg School of Public Health",
+          "JHU + WVU Rural Health Convos: From Pregnancy to Practice—Infrastructure for Rural Health Research - Johns Hopkins Bloomberg School of Public Health",
+          "Public Health Groups Urge Court to Protect Access to Evidence-Based, Lifesaving Vaccines - Cancer Health"
         ]
       },
       {
@@ -2252,9 +2252,9 @@
         "category": "Outbreaks",
         "score": 8,
         "examples": [
+          "West Nile virus detected in Ogle County mosquito pool; no human cases reported - MyStateline",
           "West Nile virus found in Oregon for the first time this year - KGW",
-          "Local Doctor responds to first human West Nile Virus case in Ouachita Parish - KNOE",
-          "Local Doctor responds to first human West Nile Virus case in Ouachita Parish - WOWT"
+          "Local Doctor responds to first human West Nile Virus case in Ouachita Parish - KNOE"
         ]
       },
       {
@@ -2263,20 +2263,20 @@
         "category": "Outbreaks",
         "score": 8,
         "examples": [
+          "West Nile virus detected in Ogle County mosquito pool; no human cases reported - MyStateline",
           "West Nile virus found in Oregon for the first time this year - KGW",
-          "Local Doctor responds to first human West Nile Virus case in Ouachita Parish - KNOE",
-          "Local Doctor responds to first human West Nile Virus case in Ouachita Parish - WOWT"
+          "Local Doctor responds to first human West Nile Virus case in Ouachita Parish - KNOE"
         ]
       },
       {
-        "trend": "health officials",
+        "trend": "hospital",
         "market_code": "AE",
         "category": "Arab Health",
-        "score": 7,
+        "score": 6,
         "examples": [
-          "Cases of cyclosporiasis in Michigan surpass 5,000, health officials say - ABC News - Breaking News, Latest News and Videos",
-          "NJ Health Officials Report Typical Seasonal Uptick of Cyclosporiasis Cases - Hopewell Township, NJ",
-          "Cases of cyclosporiasis in Michigan surpass 5,000, health officials say - ABC News - Breaking News, Latest News and Videos"
+          "CDC finds decline in healthcare-associated infections in hospitals - American Hospital Association",
+          "RFK Jr. comes to Tampa to roll out ‘Make Hospital Food Healthier’ pledge - The Miami Times",
+          "How Family Advocacy Day Inspired a Medical Student to Pursue Pediatrics - Children's Hospital Association"
         ]
       }
     ],
@@ -2285,44 +2285,33 @@
         "trend": "health",
         "market_code": "SA",
         "category": "Arab Health",
-        "score": 81,
+        "score": 84,
         "examples": [
           "Health Report pres. by Vanderbilt Health: Nashville SC vs Atlanta United - Nashville SC",
           "Health Report pres. by Vanderbilt Health: Nashville SC vs Atlanta United - Nashville SC",
-          "Cases of cyclosporiasis in Michigan surpass 5,000, health officials say - ABC News - Breaking News, Latest News and Videos"
+          "Colorado health officials are tracking toxic algae blooms with warnings of health impacts - The Colorado Sun"
         ]
       },
       {
         "trend": "medical",
         "market_code": "SA",
         "category": "Arab Health",
-        "score": 15,
+        "score": 16,
         "examples": [
+          "What does medical science say about testosterone deficiency? - NBC News",
           "Thomas F. Frist Medical School faces accreditation delay - Nashville Banner",
-          "Are medical expenses tax deductible? - H&R Block",
-          "AvenueM: The path from community college to medical school - UC Davis Health"
+          "Medical Impact Reaches Patients in Venezuela, Post-Earthquake - Direct Relief"
         ]
       },
       {
-        "trend": "public health",
+        "trend": "healthcare",
         "market_code": "SA",
         "category": "Arab Health",
-        "score": 12,
-        "examples": [
-          "JHU + WVU Rural Health Convos: From Pregnancy to Practice—Infrastructure for Rural Health Research - Johns Hopkins Bloomberg School of Public Health",
-          "JHU + WVU Rural Health Convos: From Pregnancy to Practice—Infrastructure for Rural Health Research - Johns Hopkins Bloomberg School of Public Health",
-          "Rabid bat found in Seattle near the University of Washington - Public Health Insider"
-        ]
-      },
-      {
-        "trend": "outbreak",
-        "market_code": "SA",
-        "category": "Outbreaks",
         "score": 11,
         "examples": [
-          "King County on alert as CDC links parasite outbreak to Taco Bell lettuce - MyNorthwest.com",
-          "Cyclosporiasis Outbreak 2026 - Johns Hopkins Medicine",
-          "Salmonella Outbreak Linked to Moringa Capsules - Centers for Disease Control and Prevention | CDC (.gov)"
+          "Deals tracker: Cross Country Healthcare deal moves forward - Modern Healthcare",
+          "Deals tracker: Cross Country Healthcare deal moves forward - Modern Healthcare",
+          "Deals tracker: Cross Country Healthcare deal moves forward - Modern Healthcare"
         ]
       },
       {
@@ -2342,20 +2331,31 @@
         "category": "Mental Health",
         "score": 10,
         "examples": [
-          "Oklahoma approves mental health consent decree plan after delay - The Journal Record",
-          "Montgomery Update: Grieving More Victims of ICE Violence, Setting the Record Straight on Property Taxes, and Teen Mental Health Ambassadors - Montgomery County, MD (.gov)",
-          "Mental health, environment shape pregnancy sleep - WashU"
+          "Montgomery Co. program provides teens a way to lead on mental health issues - WTOP",
+          "Montgomery Co. program provides teens a way to lead on mental health issues - WTOP",
+          "Opinion: Wyoming doesn't need lectures on mental health. It needs solutions - WyomingNews.com"
         ]
       },
       {
-        "trend": "healthcare",
+        "trend": "mental health",
         "market_code": "SA",
-        "category": "Arab Health",
+        "category": "Mental Health",
+        "score": 10,
+        "examples": [
+          "Montgomery Co. program provides teens a way to lead on mental health issues - WTOP",
+          "Montgomery Co. program provides teens a way to lead on mental health issues - WTOP",
+          "Opinion: Wyoming doesn't need lectures on mental health. It needs solutions - WyomingNews.com"
+        ]
+      },
+      {
+        "trend": "outbreak",
+        "market_code": "SA",
+        "category": "Outbreaks",
         "score": 9,
         "examples": [
-          "Deals tracker: Cross Country Healthcare deal moves forward - Modern Healthcare",
-          "Deals tracker: Cross Country Healthcare deal moves forward - Modern Healthcare",
-          "Deals tracker: Cross Country Healthcare deal moves forward - Modern Healthcare"
+          "NYC health alert: Legionnaires outbreak grows as cyclospora concerns spread - FOX 5 New York",
+          "Cyclosporiasis Outbreak 2026 - Johns Hopkins Medicine",
+          "Map: ‘Explosive diarrhea’ parasite outbreak by state - NewsNation"
         ]
       },
       {
@@ -2364,20 +2364,20 @@
         "category": "Outbreaks",
         "score": 9,
         "examples": [
+          "West Nile virus detected in Ogle County mosquito pool; no human cases reported - MyStateline",
           "West Nile virus found in Oregon for the first time this year - KGW",
-          "Local Doctor responds to first human West Nile Virus case in Ouachita Parish - KNOE",
-          "Local Doctor responds to first human West Nile Virus case in Ouachita Parish - WOWT"
+          "Local Doctor responds to first human West Nile Virus case in Ouachita Parish - KNOE"
         ]
       },
       {
-        "trend": "mental health",
+        "trend": "public health",
         "market_code": "SA",
-        "category": "Mental Health",
-        "score": 9,
+        "category": "Arab Health",
+        "score": 8,
         "examples": [
-          "Oklahoma approves mental health consent decree plan after delay - The Journal Record",
-          "Montgomery Update: Grieving More Victims of ICE Violence, Setting the Record Straight on Property Taxes, and Teen Mental Health Ambassadors - Montgomery County, MD (.gov)",
-          "Mental health, environment shape pregnancy sleep - WashU"
+          "JHU + WVU Rural Health Convos: From Pregnancy to Practice—Infrastructure for Rural Health Research - Johns Hopkins Bloomberg School of Public Health",
+          "JHU + WVU Rural Health Convos: From Pregnancy to Practice—Infrastructure for Rural Health Research - Johns Hopkins Bloomberg School of Public Health",
+          "Public Health Groups Urge Court to Protect Access to Evidence-Based, Lifesaving Vaccines - Cancer Health"
         ]
       },
       {
@@ -2386,9 +2386,9 @@
         "category": "Outbreaks",
         "score": 8,
         "examples": [
+          "West Nile virus detected in Ogle County mosquito pool; no human cases reported - MyStateline",
           "West Nile virus found in Oregon for the first time this year - KGW",
-          "Local Doctor responds to first human West Nile Virus case in Ouachita Parish - KNOE",
-          "Local Doctor responds to first human West Nile Virus case in Ouachita Parish - WOWT"
+          "Local Doctor responds to first human West Nile Virus case in Ouachita Parish - KNOE"
         ]
       },
       {
@@ -2397,20 +2397,20 @@
         "category": "Outbreaks",
         "score": 8,
         "examples": [
+          "West Nile virus detected in Ogle County mosquito pool; no human cases reported - MyStateline",
           "West Nile virus found in Oregon for the first time this year - KGW",
-          "Local Doctor responds to first human West Nile Virus case in Ouachita Parish - KNOE",
-          "Local Doctor responds to first human West Nile Virus case in Ouachita Parish - WOWT"
+          "Local Doctor responds to first human West Nile Virus case in Ouachita Parish - KNOE"
         ]
       },
       {
-        "trend": "health officials",
+        "trend": "hospital",
         "market_code": "SA",
         "category": "Arab Health",
-        "score": 7,
+        "score": 6,
         "examples": [
-          "Cases of cyclosporiasis in Michigan surpass 5,000, health officials say - ABC News - Breaking News, Latest News and Videos",
-          "NJ Health Officials Report Typical Seasonal Uptick of Cyclosporiasis Cases - Hopewell Township, NJ",
-          "Cases of cyclosporiasis in Michigan surpass 5,000, health officials say - ABC News - Breaking News, Latest News and Videos"
+          "CDC finds decline in healthcare-associated infections in hospitals - American Hospital Association",
+          "RFK Jr. comes to Tampa to roll out ‘Make Hospital Food Healthier’ pledge - The Miami Times",
+          "How Family Advocacy Day Inspired a Medical Student to Pursue Pediatrics - Children's Hospital Association"
         ]
       }
     ],
@@ -2419,44 +2419,33 @@
         "trend": "health",
         "market_code": "QA",
         "category": "Arab Health",
-        "score": 81,
+        "score": 84,
         "examples": [
           "Health Report pres. by Vanderbilt Health: Nashville SC vs Atlanta United - Nashville SC",
           "Health Report pres. by Vanderbilt Health: Nashville SC vs Atlanta United - Nashville SC",
-          "Cases of cyclosporiasis in Michigan surpass 5,000, health officials say - ABC News - Breaking News, Latest News and Videos"
+          "Colorado health officials are tracking toxic algae blooms with warnings of health impacts - The Colorado Sun"
         ]
       },
       {
         "trend": "medical",
         "market_code": "QA",
         "category": "Arab Health",
-        "score": 15,
+        "score": 16,
         "examples": [
+          "What does medical science say about testosterone deficiency? - NBC News",
           "Thomas F. Frist Medical School faces accreditation delay - Nashville Banner",
-          "Are medical expenses tax deductible? - H&R Block",
-          "AvenueM: The path from community college to medical school - UC Davis Health"
+          "Medical Impact Reaches Patients in Venezuela, Post-Earthquake - Direct Relief"
         ]
       },
       {
-        "trend": "public health",
+        "trend": "healthcare",
         "market_code": "QA",
         "category": "Arab Health",
-        "score": 12,
-        "examples": [
-          "JHU + WVU Rural Health Convos: From Pregnancy to Practice—Infrastructure for Rural Health Research - Johns Hopkins Bloomberg School of Public Health",
-          "JHU + WVU Rural Health Convos: From Pregnancy to Practice—Infrastructure for Rural Health Research - Johns Hopkins Bloomberg School of Public Health",
-          "Rabid bat found in Seattle near the University of Washington - Public Health Insider"
-        ]
-      },
-      {
-        "trend": "outbreak",
-        "market_code": "QA",
-        "category": "Outbreaks",
         "score": 11,
         "examples": [
-          "King County on alert as CDC links parasite outbreak to Taco Bell lettuce - MyNorthwest.com",
-          "Cyclosporiasis Outbreak 2026 - Johns Hopkins Medicine",
-          "Salmonella Outbreak Linked to Moringa Capsules - Centers for Disease Control and Prevention | CDC (.gov)"
+          "Deals tracker: Cross Country Healthcare deal moves forward - Modern Healthcare",
+          "Deals tracker: Cross Country Healthcare deal moves forward - Modern Healthcare",
+          "Deals tracker: Cross Country Healthcare deal moves forward - Modern Healthcare"
         ]
       },
       {
@@ -2476,20 +2465,31 @@
         "category": "Mental Health",
         "score": 10,
         "examples": [
-          "Oklahoma approves mental health consent decree plan after delay - The Journal Record",
-          "Montgomery Update: Grieving More Victims of ICE Violence, Setting the Record Straight on Property Taxes, and Teen Mental Health Ambassadors - Montgomery County, MD (.gov)",
-          "Mental health, environment shape pregnancy sleep - WashU"
+          "Montgomery Co. program provides teens a way to lead on mental health issues - WTOP",
+          "Montgomery Co. program provides teens a way to lead on mental health issues - WTOP",
+          "Opinion: Wyoming doesn't need lectures on mental health. It needs solutions - WyomingNews.com"
         ]
       },
       {
-        "trend": "healthcare",
+        "trend": "mental health",
         "market_code": "QA",
-        "category": "Arab Health",
+        "category": "Mental Health",
+        "score": 10,
+        "examples": [
+          "Montgomery Co. program provides teens a way to lead on mental health issues - WTOP",
+          "Montgomery Co. program provides teens a way to lead on mental health issues - WTOP",
+          "Opinion: Wyoming doesn't need lectures on mental health. It needs solutions - WyomingNews.com"
+        ]
+      },
+      {
+        "trend": "outbreak",
+        "market_code": "QA",
+        "category": "Outbreaks",
         "score": 9,
         "examples": [
-          "Deals tracker: Cross Country Healthcare deal moves forward - Modern Healthcare",
-          "Deals tracker: Cross Country Healthcare deal moves forward - Modern Healthcare",
-          "Deals tracker: Cross Country Healthcare deal moves forward - Modern Healthcare"
+          "NYC health alert: Legionnaires outbreak grows as cyclospora concerns spread - FOX 5 New York",
+          "Cyclosporiasis Outbreak 2026 - Johns Hopkins Medicine",
+          "Map: ‘Explosive diarrhea’ parasite outbreak by state - NewsNation"
         ]
       },
       {
@@ -2498,20 +2498,20 @@
         "category": "Outbreaks",
         "score": 9,
         "examples": [
+          "West Nile virus detected in Ogle County mosquito pool; no human cases reported - MyStateline",
           "West Nile virus found in Oregon for the first time this year - KGW",
-          "Local Doctor responds to first human West Nile Virus case in Ouachita Parish - KNOE",
-          "Local Doctor responds to first human West Nile Virus case in Ouachita Parish - WOWT"
+          "Local Doctor responds to first human West Nile Virus case in Ouachita Parish - KNOE"
         ]
       },
       {
-        "trend": "mental health",
+        "trend": "public health",
         "market_code": "QA",
-        "category": "Mental Health",
-        "score": 9,
+        "category": "Arab Health",
+        "score": 8,
         "examples": [
-          "Oklahoma approves mental health consent decree plan after delay - The Journal Record",
-          "Montgomery Update: Grieving More Victims of ICE Violence, Setting the Record Straight on Property Taxes, and Teen Mental Health Ambassadors - Montgomery County, MD (.gov)",
-          "Mental health, environment shape pregnancy sleep - WashU"
+          "JHU + WVU Rural Health Convos: From Pregnancy to Practice—Infrastructure for Rural Health Research - Johns Hopkins Bloomberg School of Public Health",
+          "JHU + WVU Rural Health Convos: From Pregnancy to Practice—Infrastructure for Rural Health Research - Johns Hopkins Bloomberg School of Public Health",
+          "Public Health Groups Urge Court to Protect Access to Evidence-Based, Lifesaving Vaccines - Cancer Health"
         ]
       },
       {
@@ -2520,9 +2520,9 @@
         "category": "Outbreaks",
         "score": 8,
         "examples": [
+          "West Nile virus detected in Ogle County mosquito pool; no human cases reported - MyStateline",
           "West Nile virus found in Oregon for the first time this year - KGW",
-          "Local Doctor responds to first human West Nile Virus case in Ouachita Parish - KNOE",
-          "Local Doctor responds to first human West Nile Virus case in Ouachita Parish - WOWT"
+          "Local Doctor responds to first human West Nile Virus case in Ouachita Parish - KNOE"
         ]
       },
       {
@@ -2531,20 +2531,20 @@
         "category": "Outbreaks",
         "score": 8,
         "examples": [
+          "West Nile virus detected in Ogle County mosquito pool; no human cases reported - MyStateline",
           "West Nile virus found in Oregon for the first time this year - KGW",
-          "Local Doctor responds to first human West Nile Virus case in Ouachita Parish - KNOE",
-          "Local Doctor responds to first human West Nile Virus case in Ouachita Parish - WOWT"
+          "Local Doctor responds to first human West Nile Virus case in Ouachita Parish - KNOE"
         ]
       },
       {
-        "trend": "health officials",
+        "trend": "hospital",
         "market_code": "QA",
         "category": "Arab Health",
-        "score": 7,
+        "score": 6,
         "examples": [
-          "Cases of cyclosporiasis in Michigan surpass 5,000, health officials say - ABC News - Breaking News, Latest News and Videos",
-          "NJ Health Officials Report Typical Seasonal Uptick of Cyclosporiasis Cases - Hopewell Township, NJ",
-          "Cases of cyclosporiasis in Michigan surpass 5,000, health officials say - ABC News - Breaking News, Latest News and Videos"
+          "CDC finds decline in healthcare-associated infections in hospitals - American Hospital Association",
+          "RFK Jr. comes to Tampa to roll out ‘Make Hospital Food Healthier’ pledge - The Miami Times",
+          "How Family Advocacy Day Inspired a Medical Student to Pursue Pediatrics - Children's Hospital Association"
         ]
       }
     ],
@@ -2553,44 +2553,33 @@
         "trend": "health",
         "market_code": "JO",
         "category": "Arab Health",
-        "score": 81,
+        "score": 84,
         "examples": [
           "Health Report pres. by Vanderbilt Health: Nashville SC vs Atlanta United - Nashville SC",
           "Health Report pres. by Vanderbilt Health: Nashville SC vs Atlanta United - Nashville SC",
-          "Cases of cyclosporiasis in Michigan surpass 5,000, health officials say - ABC News - Breaking News, Latest News and Videos"
+          "Colorado health officials are tracking toxic algae blooms with warnings of health impacts - The Colorado Sun"
         ]
       },
       {
         "trend": "medical",
         "market_code": "JO",
         "category": "Arab Health",
-        "score": 15,
+        "score": 16,
         "examples": [
+          "What does medical science say about testosterone deficiency? - NBC News",
           "Thomas F. Frist Medical School faces accreditation delay - Nashville Banner",
-          "Are medical expenses tax deductible? - H&R Block",
-          "AvenueM: The path from community college to medical school - UC Davis Health"
+          "Medical Impact Reaches Patients in Venezuela, Post-Earthquake - Direct Relief"
         ]
       },
       {
-        "trend": "public health",
+        "trend": "healthcare",
         "market_code": "JO",
         "category": "Arab Health",
-        "score": 12,
-        "examples": [
-          "JHU + WVU Rural Health Convos: From Pregnancy to Practice—Infrastructure for Rural Health Research - Johns Hopkins Bloomberg School of Public Health",
-          "JHU + WVU Rural Health Convos: From Pregnancy to Practice—Infrastructure for Rural Health Research - Johns Hopkins Bloomberg School of Public Health",
-          "Rabid bat found in Seattle near the University of Washington - Public Health Insider"
-        ]
-      },
-      {
-        "trend": "outbreak",
-        "market_code": "JO",
-        "category": "Outbreaks",
         "score": 11,
         "examples": [
-          "King County on alert as CDC links parasite outbreak to Taco Bell lettuce - MyNorthwest.com",
-          "Cyclosporiasis Outbreak 2026 - Johns Hopkins Medicine",
-          "Salmonella Outbreak Linked to Moringa Capsules - Centers for Disease Control and Prevention | CDC (.gov)"
+          "Deals tracker: Cross Country Healthcare deal moves forward - Modern Healthcare",
+          "Deals tracker: Cross Country Healthcare deal moves forward - Modern Healthcare",
+          "Deals tracker: Cross Country Healthcare deal moves forward - Modern Healthcare"
         ]
       },
       {
@@ -2610,20 +2599,31 @@
         "category": "Mental Health",
         "score": 10,
         "examples": [
-          "Oklahoma approves mental health consent decree plan after delay - The Journal Record",
-          "Montgomery Update: Grieving More Victims of ICE Violence, Setting the Record Straight on Property Taxes, and Teen Mental Health Ambassadors - Montgomery County, MD (.gov)",
-          "Mental health, environment shape pregnancy sleep - WashU"
+          "Montgomery Co. program provides teens a way to lead on mental health issues - WTOP",
+          "Montgomery Co. program provides teens a way to lead on mental health issues - WTOP",
+          "Opinion: Wyoming doesn't need lectures on mental health. It needs solutions - WyomingNews.com"
         ]
       },
       {
-        "trend": "healthcare",
+        "trend": "mental health",
         "market_code": "JO",
-        "category": "Arab Health",
+        "category": "Mental Health",
+        "score": 10,
+        "examples": [
+          "Montgomery Co. program provides teens a way to lead on mental health issues - WTOP",
+          "Montgomery Co. program provides teens a way to lead on mental health issues - WTOP",
+          "Opinion: Wyoming doesn't need lectures on mental health. It needs solutions - WyomingNews.com"
+        ]
+      },
+      {
+        "trend": "outbreak",
+        "market_code": "JO",
+        "category": "Outbreaks",
         "score": 9,
         "examples": [
-          "Deals tracker: Cross Country Healthcare deal moves forward - Modern Healthcare",
-          "Deals tracker: Cross Country Healthcare deal moves forward - Modern Healthcare",
-          "Deals tracker: Cross Country Healthcare deal moves forward - Modern Healthcare"
+          "NYC health alert: Legionnaires outbreak grows as cyclospora concerns spread - FOX 5 New York",
+          "Cyclosporiasis Outbreak 2026 - Johns Hopkins Medicine",
+          "Map: ‘Explosive diarrhea’ parasite outbreak by state - NewsNation"
         ]
       },
       {
@@ -2632,20 +2632,20 @@
         "category": "Outbreaks",
         "score": 9,
         "examples": [
+          "West Nile virus detected in Ogle County mosquito pool; no human cases reported - MyStateline",
           "West Nile virus found in Oregon for the first time this year - KGW",
-          "Local Doctor responds to first human West Nile Virus case in Ouachita Parish - KNOE",
-          "Local Doctor responds to first human West Nile Virus case in Ouachita Parish - WOWT"
+          "Local Doctor responds to first human West Nile Virus case in Ouachita Parish - KNOE"
         ]
       },
       {
-        "trend": "mental health",
+        "trend": "public health",
         "market_code": "JO",
-        "category": "Mental Health",
-        "score": 9,
+        "category": "Arab Health",
+        "score": 8,
         "examples": [
-          "Oklahoma approves mental health consent decree plan after delay - The Journal Record",
-          "Montgomery Update: Grieving More Victims of ICE Violence, Setting the Record Straight on Property Taxes, and Teen Mental Health Ambassadors - Montgomery County, MD (.gov)",
-          "Mental health, environment shape pregnancy sleep - WashU"
+          "JHU + WVU Rural Health Convos: From Pregnancy to Practice—Infrastructure for Rural Health Research - Johns Hopkins Bloomberg School of Public Health",
+          "JHU + WVU Rural Health Convos: From Pregnancy to Practice—Infrastructure for Rural Health Research - Johns Hopkins Bloomberg School of Public Health",
+          "Public Health Groups Urge Court to Protect Access to Evidence-Based, Lifesaving Vaccines - Cancer Health"
         ]
       },
       {
@@ -2654,9 +2654,9 @@
         "category": "Outbreaks",
         "score": 8,
         "examples": [
+          "West Nile virus detected in Ogle County mosquito pool; no human cases reported - MyStateline",
           "West Nile virus found in Oregon for the first time this year - KGW",
-          "Local Doctor responds to first human West Nile Virus case in Ouachita Parish - KNOE",
-          "Local Doctor responds to first human West Nile Virus case in Ouachita Parish - WOWT"
+          "Local Doctor responds to first human West Nile Virus case in Ouachita Parish - KNOE"
         ]
       },
       {
@@ -2665,20 +2665,20 @@
         "category": "Outbreaks",
         "score": 8,
         "examples": [
+          "West Nile virus detected in Ogle County mosquito pool; no human cases reported - MyStateline",
           "West Nile virus found in Oregon for the first time this year - KGW",
-          "Local Doctor responds to first human West Nile Virus case in Ouachita Parish - KNOE",
-          "Local Doctor responds to first human West Nile Virus case in Ouachita Parish - WOWT"
+          "Local Doctor responds to first human West Nile Virus case in Ouachita Parish - KNOE"
         ]
       },
       {
-        "trend": "health officials",
+        "trend": "hospital",
         "market_code": "JO",
         "category": "Arab Health",
-        "score": 7,
+        "score": 6,
         "examples": [
-          "Cases of cyclosporiasis in Michigan surpass 5,000, health officials say - ABC News - Breaking News, Latest News and Videos",
-          "NJ Health Officials Report Typical Seasonal Uptick of Cyclosporiasis Cases - Hopewell Township, NJ",
-          "Cases of cyclosporiasis in Michigan surpass 5,000, health officials say - ABC News - Breaking News, Latest News and Videos"
+          "CDC finds decline in healthcare-associated infections in hospitals - American Hospital Association",
+          "RFK Jr. comes to Tampa to roll out ‘Make Hospital Food Healthier’ pledge - The Miami Times",
+          "How Family Advocacy Day Inspired a Medical Student to Pursue Pediatrics - Children's Hospital Association"
         ]
       }
     ],
@@ -2687,44 +2687,33 @@
         "trend": "health",
         "market_code": "LB",
         "category": "Arab Health",
-        "score": 81,
+        "score": 84,
         "examples": [
           "Health Report pres. by Vanderbilt Health: Nashville SC vs Atlanta United - Nashville SC",
           "Health Report pres. by Vanderbilt Health: Nashville SC vs Atlanta United - Nashville SC",
-          "Cases of cyclosporiasis in Michigan surpass 5,000, health officials say - ABC News - Breaking News, Latest News and Videos"
+          "Colorado health officials are tracking toxic algae blooms with warnings of health impacts - The Colorado Sun"
         ]
       },
       {
         "trend": "medical",
         "market_code": "LB",
         "category": "Arab Health",
-        "score": 15,
+        "score": 16,
         "examples": [
+          "What does medical science say about testosterone deficiency? - NBC News",
           "Thomas F. Frist Medical School faces accreditation delay - Nashville Banner",
-          "Are medical expenses tax deductible? - H&R Block",
-          "AvenueM: The path from community college to medical school - UC Davis Health"
+          "Medical Impact Reaches Patients in Venezuela, Post-Earthquake - Direct Relief"
         ]
       },
       {
-        "trend": "public health",
+        "trend": "healthcare",
         "market_code": "LB",
         "category": "Arab Health",
-        "score": 12,
-        "examples": [
-          "JHU + WVU Rural Health Convos: From Pregnancy to Practice—Infrastructure for Rural Health Research - Johns Hopkins Bloomberg School of Public Health",
-          "JHU + WVU Rural Health Convos: From Pregnancy to Practice—Infrastructure for Rural Health Research - Johns Hopkins Bloomberg School of Public Health",
-          "Rabid bat found in Seattle near the University of Washington - Public Health Insider"
-        ]
-      },
-      {
-        "trend": "outbreak",
-        "market_code": "LB",
-        "category": "Outbreaks",
         "score": 11,
         "examples": [
-          "King County on alert as CDC links parasite outbreak to Taco Bell lettuce - MyNorthwest.com",
-          "Cyclosporiasis Outbreak 2026 - Johns Hopkins Medicine",
-          "Salmonella Outbreak Linked to Moringa Capsules - Centers for Disease Control and Prevention | CDC (.gov)"
+          "Deals tracker: Cross Country Healthcare deal moves forward - Modern Healthcare",
+          "Deals tracker: Cross Country Healthcare deal moves forward - Modern Healthcare",
+          "Deals tracker: Cross Country Healthcare deal moves forward - Modern Healthcare"
         ]
       },
       {
@@ -2744,20 +2733,31 @@
         "category": "Mental Health",
         "score": 10,
         "examples": [
-          "Oklahoma approves mental health consent decree plan after delay - The Journal Record",
-          "Montgomery Update: Grieving More Victims of ICE Violence, Setting the Record Straight on Property Taxes, and Teen Mental Health Ambassadors - Montgomery County, MD (.gov)",
-          "Mental health, environment shape pregnancy sleep - WashU"
+          "Montgomery Co. program provides teens a way to lead on mental health issues - WTOP",
+          "Montgomery Co. program provides teens a way to lead on mental health issues - WTOP",
+          "Opinion: Wyoming doesn't need lectures on mental health. It needs solutions - WyomingNews.com"
         ]
       },
       {
-        "trend": "healthcare",
+        "trend": "mental health",
         "market_code": "LB",
-        "category": "Arab Health",
+        "category": "Mental Health",
+        "score": 10,
+        "examples": [
+          "Montgomery Co. program provides teens a way to lead on mental health issues - WTOP",
+          "Montgomery Co. program provides teens a way to lead on mental health issues - WTOP",
+          "Opinion: Wyoming doesn't need lectures on mental health. It needs solutions - WyomingNews.com"
+        ]
+      },
+      {
+        "trend": "outbreak",
+        "market_code": "LB",
+        "category": "Outbreaks",
         "score": 9,
         "examples": [
-          "Deals tracker: Cross Country Healthcare deal moves forward - Modern Healthcare",
-          "Deals tracker: Cross Country Healthcare deal moves forward - Modern Healthcare",
-          "Deals tracker: Cross Country Healthcare deal moves forward - Modern Healthcare"
+          "NYC health alert: Legionnaires outbreak grows as cyclospora concerns spread - FOX 5 New York",
+          "Cyclosporiasis Outbreak 2026 - Johns Hopkins Medicine",
+          "Map: ‘Explosive diarrhea’ parasite outbreak by state - NewsNation"
         ]
       },
       {
@@ -2766,20 +2766,20 @@
         "category": "Outbreaks",
         "score": 9,
         "examples": [
+          "West Nile virus detected in Ogle County mosquito pool; no human cases reported - MyStateline",
           "West Nile virus found in Oregon for the first time this year - KGW",
-          "Local Doctor responds to first human West Nile Virus case in Ouachita Parish - KNOE",
-          "Local Doctor responds to first human West Nile Virus case in Ouachita Parish - WOWT"
+          "Local Doctor responds to first human West Nile Virus case in Ouachita Parish - KNOE"
         ]
       },
       {
-        "trend": "mental health",
+        "trend": "public health",
         "market_code": "LB",
-        "category": "Mental Health",
-        "score": 9,
+        "category": "Arab Health",
+        "score": 8,
         "examples": [
-          "Oklahoma approves mental health consent decree plan after delay - The Journal Record",
-          "Montgomery Update: Grieving More Victims of ICE Violence, Setting the Record Straight on Property Taxes, and Teen Mental Health Ambassadors - Montgomery County, MD (.gov)",
-          "Mental health, environment shape pregnancy sleep - WashU"
+          "JHU + WVU Rural Health Convos: From Pregnancy to Practice—Infrastructure for Rural Health Research - Johns Hopkins Bloomberg School of Public Health",
+          "JHU + WVU Rural Health Convos: From Pregnancy to Practice—Infrastructure for Rural Health Research - Johns Hopkins Bloomberg School of Public Health",
+          "Public Health Groups Urge Court to Protect Access to Evidence-Based, Lifesaving Vaccines - Cancer Health"
         ]
       },
       {
@@ -2788,9 +2788,9 @@
         "category": "Outbreaks",
         "score": 8,
         "examples": [
+          "West Nile virus detected in Ogle County mosquito pool; no human cases reported - MyStateline",
           "West Nile virus found in Oregon for the first time this year - KGW",
-          "Local Doctor responds to first human West Nile Virus case in Ouachita Parish - KNOE",
-          "Local Doctor responds to first human West Nile Virus case in Ouachita Parish - WOWT"
+          "Local Doctor responds to first human West Nile Virus case in Ouachita Parish - KNOE"
         ]
       },
       {
@@ -2799,20 +2799,20 @@
         "category": "Outbreaks",
         "score": 8,
         "examples": [
+          "West Nile virus detected in Ogle County mosquito pool; no human cases reported - MyStateline",
           "West Nile virus found in Oregon for the first time this year - KGW",
-          "Local Doctor responds to first human West Nile Virus case in Ouachita Parish - KNOE",
-          "Local Doctor responds to first human West Nile Virus case in Ouachita Parish - WOWT"
+          "Local Doctor responds to first human West Nile Virus case in Ouachita Parish - KNOE"
         ]
       },
       {
-        "trend": "health officials",
+        "trend": "hospital",
         "market_code": "LB",
         "category": "Arab Health",
-        "score": 7,
+        "score": 6,
         "examples": [
-          "Cases of cyclosporiasis in Michigan surpass 5,000, health officials say - ABC News - Breaking News, Latest News and Videos",
-          "NJ Health Officials Report Typical Seasonal Uptick of Cyclosporiasis Cases - Hopewell Township, NJ",
-          "Cases of cyclosporiasis in Michigan surpass 5,000, health officials say - ABC News - Breaking News, Latest News and Videos"
+          "CDC finds decline in healthcare-associated infections in hospitals - American Hospital Association",
+          "RFK Jr. comes to Tampa to roll out ‘Make Hospital Food Healthier’ pledge - The Miami Times",
+          "How Family Advocacy Day Inspired a Medical Student to Pursue Pediatrics - Children's Hospital Association"
         ]
       }
     ]
