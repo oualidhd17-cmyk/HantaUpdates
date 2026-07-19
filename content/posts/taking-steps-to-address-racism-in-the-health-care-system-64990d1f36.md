@@ -1,0 +1,65 @@
+---
+title: "Taking steps to address racism in the health care system"
+description: "Taking steps to address racism in the health care system Global News"
+slug: "taking-steps-to-address-racism-in-the-health-care-system-64990d1f36"
+category: "Global Health"
+region: "Canada"
+source: "Google News / Canada"
+source_url: "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNFgzOGV2UGlPemVzRmhFWDlDd19mMVFLUUIxVGJmSDBlN0ZOMUFXd2pZUTVJVmhHaU1jdFROU2U4WmltRHdWbVd2UTZtbTNUdDNJZFcxSGdlbEFEbHE2bmFzbklWUkhHMU5kd3BtWFNTQkJKckpqNTlxRWE4Nnc5cmQ4bm9IRTBZYTFMdE9iRVpLZ2l1VkQwSQ?oc=5"
+source_confidence: "medium"
+published_at: "Thu, 16 Jul 2026 22:15:34 GMT"
+generated_at: "2026-07-19T01:18:11.594986+00:00"
+image_url: "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+trend: "health care"
+keywords:
+  - "health care"
+  - "global health"
+  - "canada health news"
+  - "health trends"
+  - "medical news"
+  - "public health"
+  - "taking"
+  - "steps"
+  - "address"
+  - "racism"
+  - "health"
+  - "care"
+  - "system"
+  - "global"
+---
+
+# Taking steps to address racism in the health care system
+
+Taking steps to address racism in the health care system Global News
+
+## Why this topic is trending
+
+This update was selected because it is connected to a detected health trend in **Canada**.
+
+Tracked trend: **health care**.
+
+## What happened
+
+This update is part of a wider health signal being monitored from public sources and regional news feeds. It may relate to public health, medical research, symptoms, outbreaks, treatments, wellness, healthcare systems, or health technology.
+
+## Why it matters
+
+- It may affect public awareness or online health searches.
+- It may be connected to health policy, disease monitoring, treatment updates, or scientific research.
+- The original source should be reviewed for full details and context.
+
+## Region
+
+**Canada**
+
+## Category
+
+**Global Health**
+
+## Source context
+
+This article summarizes a public health signal from **Google News / Canada**. HantaUpdates links to the original source so readers can verify details directly.
+
+## Medical disclaimer
+
+HantaUpdates does not provide medical advice, diagnosis, or treatment. Always follow guidance from your local health authority or a qualified medical professional.
