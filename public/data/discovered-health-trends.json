@@ -1,929 +1,2819 @@
 {
-  "updated_at": "2026-07-20T02:03:24.319714+00:00",
-  "total_trends": 126,
+  "updated_at": "2026-07-20T08:32:23.769273+00:00",
+  "total_trends": 252,
   "markets": {
     "United States": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "US",
         "category": "US Health",
-        "score": 1,
-        "examples": []
+        "score": 68,
+        "examples": [
+          "Op-Ed: School employees’ health costs are everyone’s problem - NJ Spotlight News",
+          "‘When I get home, my whole body aches’: extreme heat saps health and wages of India’s poorest workers - The Guardian",
+          "The promise of innovative mental health models - Community College Daily"
+        ]
       },
       {
         "trend": "outbreak",
         "market_code": "US",
         "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "score": 17,
+        "examples": [
+          "Taylor Farms recalls lettuce in 27 states amid cyclosporiasis outbreak: What to know - ABC News - Breaking News, Latest News and Videos",
+          "United States Issues Cyclospora Health Alert for Domestic Travellers as Multi-State Outbreak Raises Food Safety Concerns: What Precautions Should You Take Now? - Travel And Tour World",
+          "Health alert in Kayah State refugee camps after chickenpox outbreak - AsiaNews"
+        ]
+      },
+      {
+        "trend": "medical",
+        "market_code": "US",
+        "category": "US Health",
+        "score": 14,
+        "examples": [
+          "Bipartisan bill would invest $25M to bolster use of key medical imaging software - Radiology Business",
+          "UT Medical Branch sued for alleged gender pay discrimination - The Daily Texan",
+          "Wrightsville Beach Ocean Rescue responds to “medical emergency” near beach access #10 - WECT"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "US",
+        "category": "Mental Health",
+        "score": 12,
+        "examples": [
+          "The promise of innovative mental health models - Community College Daily",
+          "The promise of innovative mental health models - Community College Daily",
+          "Young Ohioans struggle to access mental health care, study finds - NBC4 WCMH-TV"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "US",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
+        "score": 11,
+        "examples": [
+          "The promise of innovative mental health models - Community College Daily",
+          "The promise of innovative mental health models - Community College Daily",
+          "Young Ohioans struggle to access mental health care, study finds - NBC4 WCMH-TV"
+        ]
       },
       {
-        "trend": "medical research",
+        "trend": "infection",
+        "market_code": "US",
+        "category": "Outbreaks",
+        "score": 7,
+        "examples": [
+          "A Diagnostic Challenge: Disseminated Herpes Simplex Virus Type 2 Infection Presenting in Stages and Mimicking Sepsis and Biliary Disease Across Two Healthcare Systems - Cureus",
+          "Comparison of the Vessel Loop Technique Versus Traditional Skin Closure for the Prevention of Surgical Site Infection Following Laparotomy in General Surgery - Cureus",
+          "The Evolution of Dental Safety: PPE vs Uniforms - Infection Control Today"
+        ]
+      },
+      {
+        "trend": "disease",
         "market_code": "US",
         "category": "US Health",
-        "score": 1,
-        "examples": []
+        "score": 6,
+        "examples": [
+          "Second person dies in legionnaires’ disease outbreak in New York City - The Guardian",
+          "Two More Patients Die in Outbreak of Legionnaires’ Disease in Manhattan - The New York Times",
+          "A Diagnostic Challenge: Disseminated Herpes Simplex Virus Type 2 Infection Presenting in Stages and Mimicking Sepsis and Biliary Disease Across Two Healthcare Systems - Cureus"
+        ]
       },
       {
-        "trend": "drug approval",
+        "trend": "healthcare",
         "market_code": "US",
-        "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
+        "category": "US Health",
+        "score": 6,
+        "examples": [
+          "A Diagnostic Challenge: Disseminated Herpes Simplex Virus Type 2 Infection Presenting in Stages and Mimicking Sepsis and Biliary Disease Across Two Healthcare Systems - Cureus",
+          "Technological innovation in healthcare: challenges, opportunities and impact on sustainability - Frontiers",
+          "Student presents AI research at international healthcare technology conference - The Pennsylvania State University"
+        ]
       },
       {
-        "trend": "diet wellness",
+        "trend": "public health",
         "market_code": "US",
-        "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "category": "US Health",
+        "score": 5,
+        "examples": [
+          "Heat stroke, exhaustion biggest RAGBRAI concerns for county public health - Times Republican",
+          "Heat stroke, exhaustion biggest RAGBRAI concerns for county public health - Times Republican",
+          "More prevention, less 'modern corruption’: A call-to-action to protect public health - Public Health Communication Centre"
+        ]
+      },
+      {
+        "trend": "healthy",
+        "market_code": "US",
+        "category": "US Health",
+        "score": 5,
+        "examples": [
+          "Jarrow Formulas® Co-Q10, 200 mg, Antioxidant Support for Mitochondrial Health, Cellular Energy Production and Healthy Cardiovascular Function, 60 Veggie Capsules, 60 Day Supply | Mitochondrial Health Support, Cellular Energy Support, Cardiovascular - Whole Foods Market",
+          "Least Healthy Medicaid Enrollees Face Highest Risk of Coverage Loss Under Work Requirements Expansion - The American Journal of Managed Care",
+          "Want to Be Healthy at 70? This Is the Diet to Follow, Research Says - Yahoo Health"
+        ]
+      },
+      {
+        "trend": "patients",
+        "market_code": "US",
+        "category": "US Health",
+        "score": 5,
+        "examples": [
+          "Two More Patients Die in Outbreak of Legionnaires’ Disease in Manhattan - The New York Times",
+          "‘Just living life again’: Beechview resident part of a Pitt trial connecting cancer patients with mental health supports - Pittsburgh Post-Gazette",
+          "Patients’ Perspectives on AI in Primary Care - Commonwealth Fund"
+        ]
+      },
+      {
+        "trend": "virus",
+        "market_code": "US",
+        "category": "Outbreaks",
+        "score": 5,
+        "examples": [
+          "Opinion | There's a cure for the 'Knesset virus' infecting Arab-Israeli politics: unity - Haaretz",
+          "West Nile Virus detected in LaPorte County - 95.3 MNC",
+          "Chinese police repatriate key suspect in phishing and Trojan virus case from Vietnam - China Daily"
+        ]
       }
     ],
     "United Kingdom": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "GB",
         "category": "Europe Health",
-        "score": 1,
-        "examples": []
+        "score": 67,
+        "examples": [
+          "Brain health summer series: make your move with 3 simple activities - Alzheimer's Research UK",
+          "Restoring Britain’s health to 2014 levels could add 2% to GDP, thinktank says - The Guardian",
+          "Court order keeps Portsmouth food business shut following health risk - Portsmouth City Council"
+        ]
+      },
+      {
+        "trend": "medical",
+        "market_code": "GB",
+        "category": "Europe Health",
+        "score": 16,
+        "examples": [
+          "Sark ferry company withdraws discounted medical fares - BBC",
+          "Rogers set for Chelsea medical in hammer blow to Arsenal transfer plan - London Evening Standard",
+          "Cylists test medical kit on Austria bike ride - BBC"
+        ]
       },
       {
         "trend": "outbreak",
         "market_code": "GB",
         "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "score": 16,
+        "examples": [
+          "Health alert in Kayah State refugee camps after chickenpox outbreak - AsiaNews",
+          "United States Issues Cyclospora Health Alert for Domestic Travellers as Multi-State Outbreak Raises Food Safety Concerns: What Precautions Should You Take Now? - Travel And Tour World",
+          "Cyclosporiasis Outbreak Map and Foods to Avoid as Parasite Reaches 34 States - TODAY.com"
+        ]
+      },
+      {
+        "trend": "healthcare",
+        "market_code": "GB",
+        "category": "Europe Health",
+        "score": 12,
+        "examples": [
+          "Value-Based Procurement in healthcare: What is it, why now and how? - Open Access Government",
+          "2026 World AI Conference showcases latest AI innovations in healthcare - bastillepost.com",
+          "A Diagnostic Challenge: Disseminated Herpes Simplex Virus Type 2 Infection Presenting in Stages and Mimicking Sepsis and Biliary Disease Across Two Healthcare Systems - Cureus"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "GB",
+        "category": "Mental Health",
+        "score": 11,
+        "examples": [
+          "Defra launches £1.5m farmer mental health fund - FarmingUK",
+          "WHO launches an ECHO-funded project to expand lifesaving health and mental health services for Sudanese refugees in southern Libya - emro.who.int",
+          "MP suspended by Starmer to sue Labour over ‘mental health smears’ - The Telegraph"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "GB",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
+        "score": 11,
+        "examples": [
+          "Defra launches £1.5m farmer mental health fund - FarmingUK",
+          "WHO launches an ECHO-funded project to expand lifesaving health and mental health services for Sudanese refugees in southern Libya - emro.who.int",
+          "MP suspended by Starmer to sue Labour over ‘mental health smears’ - The Telegraph"
+        ]
       },
       {
-        "trend": "medical research",
+        "trend": "research",
         "market_code": "GB",
         "category": "Europe Health",
-        "score": 1,
-        "examples": []
+        "score": 7,
+        "examples": [
+          "Brain health summer series: make your move with 3 simple activities - Alzheimer's Research UK",
+          "Nearly 60% of young women get health advice from influences, research finds - FemTech World",
+          "AI in pharma: Practical use cases transforming research, regulatory and medical affairs - Manufacturing Chemist"
+        ]
       },
       {
-        "trend": "drug approval",
+        "trend": "disease",
         "market_code": "GB",
-        "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
+        "category": "Europe Health",
+        "score": 6,
+        "examples": [
+          "Second person dies in legionnaires’ disease outbreak in New York City - The Guardian",
+          "Two More Patients Die in Outbreak of Legionnaires’ Disease in Manhattan - The New York Times",
+          "A Diagnostic Challenge: Disseminated Herpes Simplex Virus Type 2 Infection Presenting in Stages and Mimicking Sepsis and Biliary Disease Across Two Healthcare Systems - Cureus"
+        ]
       },
       {
-        "trend": "diet wellness",
+        "trend": "ebola outbreak",
+        "market_code": "GB",
+        "category": "Outbreaks",
+        "score": 6,
+        "examples": [
+          "At least 930 people dead in DR Congo Ebola outbreak - Belfast Telegraph",
+          "At least 930 dead in Ebola outbreak after worst day yet - Wales Online",
+          "At least 930 people dead in DR Congo Ebola outbreak - Herts Advertiser"
+        ]
+      },
+      {
+        "trend": "warning",
+        "market_code": "GB",
+        "category": "Europe Health",
+        "score": 5,
+        "examples": [
+          "Warning for swimmers this summer as river bacteria levels raise health concerns - Yahoo News UK",
+          "Warning strike in health, scheduled to start today. Unions contest the salary law / A general strike is announced on July 28. - Informat.ro",
+          "Amber rainstorm warning cancelled but unsettled weather to persist - South China Morning Post"
+        ]
+      },
+      {
+        "trend": "virus",
+        "market_code": "GB",
+        "category": "Outbreaks",
+        "score": 5,
+        "examples": [
+          "Opinion | There's a cure for the 'Knesset virus' infecting Arab-Israeli politics: unity - Haaretz",
+          "Chinese police repatriate key suspect in phishing and Trojan virus case from Vietnam - China Daily",
+          "A Diagnostic Challenge: Disseminated Herpes Simplex Virus Type 2 Infection Presenting in Stages and Mimicking Sepsis and Biliary Disease Across Two Healthcare Systems - Cureus"
+        ]
+      },
+      {
+        "trend": "wellness",
         "market_code": "GB",
         "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "score": 5,
+        "examples": [
+          "Your next health coach might be your supermarket: Inside the UAE’s wellness retail boom - Gulf Business",
+          "A New Frontier in Eye Health: Digital Wellness, Bioavailability, and the Eye-Brain Connection - Nutritional Outlook",
+          "I’m a nutritionist — these wellness habits aren't as healthy as you think - Metro.co.uk"
+        ]
       }
     ],
     "Germany": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "DE",
         "category": "Europe Health",
-        "score": 1,
-        "examples": []
+        "score": 66,
+        "examples": [
+          "Op-Ed: School employees’ health costs are everyone’s problem - NJ Spotlight News",
+          "The promise of innovative mental health models - Community College Daily",
+          "Jarrow Formulas® Co-Q10, 200 mg, Antioxidant Support for Mitochondrial Health, Cellular Energy Production and Healthy Cardiovascular Function, 60 Veggie Capsules, 60 Day Supply | Mitochondrial Health Support, Cellular Energy Support, Cardiovascular - Whole Foods Market"
+        ]
       },
       {
         "trend": "outbreak",
         "market_code": "DE",
         "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "score": 17,
+        "examples": [
+          "Taylor Farms recalls lettuce in 27 states amid cyclosporiasis outbreak: What to know - ABC News - Breaking News, Latest News and Videos",
+          "United States Issues Cyclospora Health Alert for Domestic Travellers as Multi-State Outbreak Raises Food Safety Concerns: What Precautions Should You Take Now? - Travel And Tour World",
+          "Health alert in Kayah State refugee camps after chickenpox outbreak - AsiaNews"
+        ]
+      },
+      {
+        "trend": "medical",
+        "market_code": "DE",
+        "category": "Europe Health",
+        "score": 14,
+        "examples": [
+          "Bipartisan bill would invest $25M to bolster use of key medical imaging software - Radiology Business",
+          "UT Medical Branch sued for alleged gender pay discrimination - The Daily Texan",
+          "Wrightsville Beach Ocean Rescue responds to “medical emergency” near beach access #10 - WECT"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "DE",
+        "category": "Mental Health",
+        "score": 12,
+        "examples": [
+          "The promise of innovative mental health models - Community College Daily",
+          "Young Ohioans struggle to access mental health care, study finds - NBC4 WCMH-TV",
+          "The promise of innovative mental health models - Community College Daily"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "DE",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
+        "score": 11,
+        "examples": [
+          "The promise of innovative mental health models - Community College Daily",
+          "Young Ohioans struggle to access mental health care, study finds - NBC4 WCMH-TV",
+          "The promise of innovative mental health models - Community College Daily"
+        ]
       },
       {
-        "trend": "medical research",
+        "trend": "infection",
+        "market_code": "DE",
+        "category": "Outbreaks",
+        "score": 7,
+        "examples": [
+          "A Diagnostic Challenge: Disseminated Herpes Simplex Virus Type 2 Infection Presenting in Stages and Mimicking Sepsis and Biliary Disease Across Two Healthcare Systems - Cureus",
+          "Comparison of the Vessel Loop Technique Versus Traditional Skin Closure for the Prevention of Surgical Site Infection Following Laparotomy in General Surgery - Cureus",
+          "The Evolution of Dental Safety: PPE vs Uniforms - Infection Control Today"
+        ]
+      },
+      {
+        "trend": "disease",
         "market_code": "DE",
         "category": "Europe Health",
-        "score": 1,
-        "examples": []
+        "score": 6,
+        "examples": [
+          "Second person dies in legionnaires’ disease outbreak in New York City - The Guardian",
+          "Two More Patients Die in Outbreak of Legionnaires’ Disease in Manhattan - The New York Times",
+          "A Diagnostic Challenge: Disseminated Herpes Simplex Virus Type 2 Infection Presenting in Stages and Mimicking Sepsis and Biliary Disease Across Two Healthcare Systems - Cureus"
+        ]
       },
       {
-        "trend": "drug approval",
+        "trend": "healthcare",
         "market_code": "DE",
-        "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
+        "category": "Europe Health",
+        "score": 6,
+        "examples": [
+          "A Diagnostic Challenge: Disseminated Herpes Simplex Virus Type 2 Infection Presenting in Stages and Mimicking Sepsis and Biliary Disease Across Two Healthcare Systems - Cureus",
+          "Technological innovation in healthcare: challenges, opportunities and impact on sustainability - Frontiers",
+          "Student presents AI research at international healthcare technology conference - The Pennsylvania State University"
+        ]
       },
       {
-        "trend": "diet wellness",
+        "trend": "healthy",
         "market_code": "DE",
-        "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "category": "Europe Health",
+        "score": 5,
+        "examples": [
+          "Jarrow Formulas® Co-Q10, 200 mg, Antioxidant Support for Mitochondrial Health, Cellular Energy Production and Healthy Cardiovascular Function, 60 Veggie Capsules, 60 Day Supply | Mitochondrial Health Support, Cellular Energy Support, Cardiovascular - Whole Foods Market",
+          "Least Healthy Medicaid Enrollees Face Highest Risk of Coverage Loss Under Work Requirements Expansion - The American Journal of Managed Care",
+          "Want to Be Healthy at 70? This Is the Diet to Follow, Research Says - Yahoo Health"
+        ]
+      },
+      {
+        "trend": "public health",
+        "market_code": "DE",
+        "category": "Europe Health",
+        "score": 5,
+        "examples": [
+          "Heat stroke, exhaustion biggest RAGBRAI concerns for county public health - Times Republican",
+          "Heat stroke, exhaustion biggest RAGBRAI concerns for county public health - Times Republican",
+          "More prevention, less 'modern corruption’: A call-to-action to protect public health - Public Health Communication Centre"
+        ]
+      },
+      {
+        "trend": "hospital",
+        "market_code": "DE",
+        "category": "Europe Health",
+        "score": 5,
+        "examples": [
+          "2 men sue hospital for sending them home with each other’s families as newborns almost 40 years ago - HealthExec",
+          "Georgia is building first state psychiatric hospital since landmark disability case - Georgia Recorder",
+          "How Family Advocacy Day Inspired a Medical Student to Pursue Pediatrics - Children's Hospital Association"
+        ]
+      },
+      {
+        "trend": "patients",
+        "market_code": "DE",
+        "category": "Europe Health",
+        "score": 5,
+        "examples": [
+          "Two More Patients Die in Outbreak of Legionnaires’ Disease in Manhattan - The New York Times",
+          "‘Just living life again’: Beechview resident part of a Pitt trial connecting cancer patients with mental health supports - Pittsburgh Post-Gazette",
+          "Patients’ Perspectives on AI in Primary Care - Commonwealth Fund"
+        ]
       }
     ],
     "France": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "FR",
         "category": "Europe Health",
-        "score": 1,
-        "examples": []
+        "score": 66,
+        "examples": [
+          "Op-Ed: School employees’ health costs are everyone’s problem - NJ Spotlight News",
+          "The promise of innovative mental health models - Community College Daily",
+          "Jarrow Formulas® Co-Q10, 200 mg, Antioxidant Support for Mitochondrial Health, Cellular Energy Production and Healthy Cardiovascular Function, 60 Veggie Capsules, 60 Day Supply | Mitochondrial Health Support, Cellular Energy Support, Cardiovascular - Whole Foods Market"
+        ]
       },
       {
         "trend": "outbreak",
         "market_code": "FR",
         "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "score": 17,
+        "examples": [
+          "Taylor Farms recalls lettuce in 27 states amid cyclosporiasis outbreak: What to know - ABC News - Breaking News, Latest News and Videos",
+          "United States Issues Cyclospora Health Alert for Domestic Travellers as Multi-State Outbreak Raises Food Safety Concerns: What Precautions Should You Take Now? - Travel And Tour World",
+          "Health alert in Kayah State refugee camps after chickenpox outbreak - AsiaNews"
+        ]
+      },
+      {
+        "trend": "medical",
+        "market_code": "FR",
+        "category": "Europe Health",
+        "score": 14,
+        "examples": [
+          "Bipartisan bill would invest $25M to bolster use of key medical imaging software - Radiology Business",
+          "UT Medical Branch sued for alleged gender pay discrimination - The Daily Texan",
+          "Wrightsville Beach Ocean Rescue responds to “medical emergency” near beach access #10 - WECT"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "FR",
+        "category": "Mental Health",
+        "score": 12,
+        "examples": [
+          "The promise of innovative mental health models - Community College Daily",
+          "Young Ohioans struggle to access mental health care, study finds - NBC4 WCMH-TV",
+          "The promise of innovative mental health models - Community College Daily"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "FR",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
+        "score": 11,
+        "examples": [
+          "The promise of innovative mental health models - Community College Daily",
+          "Young Ohioans struggle to access mental health care, study finds - NBC4 WCMH-TV",
+          "The promise of innovative mental health models - Community College Daily"
+        ]
       },
       {
-        "trend": "medical research",
+        "trend": "infection",
+        "market_code": "FR",
+        "category": "Outbreaks",
+        "score": 7,
+        "examples": [
+          "A Diagnostic Challenge: Disseminated Herpes Simplex Virus Type 2 Infection Presenting in Stages and Mimicking Sepsis and Biliary Disease Across Two Healthcare Systems - Cureus",
+          "Comparison of the Vessel Loop Technique Versus Traditional Skin Closure for the Prevention of Surgical Site Infection Following Laparotomy in General Surgery - Cureus",
+          "The Evolution of Dental Safety: PPE vs Uniforms - Infection Control Today"
+        ]
+      },
+      {
+        "trend": "disease",
         "market_code": "FR",
         "category": "Europe Health",
-        "score": 1,
-        "examples": []
+        "score": 6,
+        "examples": [
+          "Second person dies in legionnaires’ disease outbreak in New York City - The Guardian",
+          "Two More Patients Die in Outbreak of Legionnaires’ Disease in Manhattan - The New York Times",
+          "A Diagnostic Challenge: Disseminated Herpes Simplex Virus Type 2 Infection Presenting in Stages and Mimicking Sepsis and Biliary Disease Across Two Healthcare Systems - Cureus"
+        ]
       },
       {
-        "trend": "drug approval",
+        "trend": "healthcare",
         "market_code": "FR",
-        "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
+        "category": "Europe Health",
+        "score": 6,
+        "examples": [
+          "A Diagnostic Challenge: Disseminated Herpes Simplex Virus Type 2 Infection Presenting in Stages and Mimicking Sepsis and Biliary Disease Across Two Healthcare Systems - Cureus",
+          "Technological innovation in healthcare: challenges, opportunities and impact on sustainability - Frontiers",
+          "Student presents AI research at international healthcare technology conference - The Pennsylvania State University"
+        ]
       },
       {
-        "trend": "diet wellness",
+        "trend": "healthy",
         "market_code": "FR",
-        "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "category": "Europe Health",
+        "score": 5,
+        "examples": [
+          "Jarrow Formulas® Co-Q10, 200 mg, Antioxidant Support for Mitochondrial Health, Cellular Energy Production and Healthy Cardiovascular Function, 60 Veggie Capsules, 60 Day Supply | Mitochondrial Health Support, Cellular Energy Support, Cardiovascular - Whole Foods Market",
+          "Least Healthy Medicaid Enrollees Face Highest Risk of Coverage Loss Under Work Requirements Expansion - The American Journal of Managed Care",
+          "Want to Be Healthy at 70? This Is the Diet to Follow, Research Says - Yahoo Health"
+        ]
+      },
+      {
+        "trend": "public health",
+        "market_code": "FR",
+        "category": "Europe Health",
+        "score": 5,
+        "examples": [
+          "Heat stroke, exhaustion biggest RAGBRAI concerns for county public health - Times Republican",
+          "Heat stroke, exhaustion biggest RAGBRAI concerns for county public health - Times Republican",
+          "More prevention, less 'modern corruption’: A call-to-action to protect public health - Public Health Communication Centre"
+        ]
+      },
+      {
+        "trend": "hospital",
+        "market_code": "FR",
+        "category": "Europe Health",
+        "score": 5,
+        "examples": [
+          "2 men sue hospital for sending them home with each other’s families as newborns almost 40 years ago - HealthExec",
+          "Georgia is building first state psychiatric hospital since landmark disability case - Georgia Recorder",
+          "How Family Advocacy Day Inspired a Medical Student to Pursue Pediatrics - Children's Hospital Association"
+        ]
+      },
+      {
+        "trend": "patients",
+        "market_code": "FR",
+        "category": "Europe Health",
+        "score": 5,
+        "examples": [
+          "Two More Patients Die in Outbreak of Legionnaires’ Disease in Manhattan - The New York Times",
+          "‘Just living life again’: Beechview resident part of a Pitt trial connecting cancer patients with mental health supports - Pittsburgh Post-Gazette",
+          "Patients’ Perspectives on AI in Primary Care - Commonwealth Fund"
+        ]
       }
     ],
     "Italy": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "IT",
         "category": "Europe Health",
-        "score": 1,
-        "examples": []
+        "score": 66,
+        "examples": [
+          "Op-Ed: School employees’ health costs are everyone’s problem - NJ Spotlight News",
+          "The promise of innovative mental health models - Community College Daily",
+          "Jarrow Formulas® Co-Q10, 200 mg, Antioxidant Support for Mitochondrial Health, Cellular Energy Production and Healthy Cardiovascular Function, 60 Veggie Capsules, 60 Day Supply | Mitochondrial Health Support, Cellular Energy Support, Cardiovascular - Whole Foods Market"
+        ]
       },
       {
         "trend": "outbreak",
         "market_code": "IT",
         "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "score": 17,
+        "examples": [
+          "Taylor Farms recalls lettuce in 27 states amid cyclosporiasis outbreak: What to know - ABC News - Breaking News, Latest News and Videos",
+          "United States Issues Cyclospora Health Alert for Domestic Travellers as Multi-State Outbreak Raises Food Safety Concerns: What Precautions Should You Take Now? - Travel And Tour World",
+          "Health alert in Kayah State refugee camps after chickenpox outbreak - AsiaNews"
+        ]
+      },
+      {
+        "trend": "medical",
+        "market_code": "IT",
+        "category": "Europe Health",
+        "score": 14,
+        "examples": [
+          "Bipartisan bill would invest $25M to bolster use of key medical imaging software - Radiology Business",
+          "UT Medical Branch sued for alleged gender pay discrimination - The Daily Texan",
+          "Wrightsville Beach Ocean Rescue responds to “medical emergency” near beach access #10 - WECT"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "IT",
+        "category": "Mental Health",
+        "score": 12,
+        "examples": [
+          "The promise of innovative mental health models - Community College Daily",
+          "Young Ohioans struggle to access mental health care, study finds - NBC4 WCMH-TV",
+          "The promise of innovative mental health models - Community College Daily"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "IT",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
+        "score": 11,
+        "examples": [
+          "The promise of innovative mental health models - Community College Daily",
+          "Young Ohioans struggle to access mental health care, study finds - NBC4 WCMH-TV",
+          "The promise of innovative mental health models - Community College Daily"
+        ]
       },
       {
-        "trend": "medical research",
+        "trend": "infection",
+        "market_code": "IT",
+        "category": "Outbreaks",
+        "score": 7,
+        "examples": [
+          "A Diagnostic Challenge: Disseminated Herpes Simplex Virus Type 2 Infection Presenting in Stages and Mimicking Sepsis and Biliary Disease Across Two Healthcare Systems - Cureus",
+          "Comparison of the Vessel Loop Technique Versus Traditional Skin Closure for the Prevention of Surgical Site Infection Following Laparotomy in General Surgery - Cureus",
+          "The Evolution of Dental Safety: PPE vs Uniforms - Infection Control Today"
+        ]
+      },
+      {
+        "trend": "disease",
         "market_code": "IT",
         "category": "Europe Health",
-        "score": 1,
-        "examples": []
+        "score": 6,
+        "examples": [
+          "Second person dies in legionnaires’ disease outbreak in New York City - The Guardian",
+          "Two More Patients Die in Outbreak of Legionnaires’ Disease in Manhattan - The New York Times",
+          "A Diagnostic Challenge: Disseminated Herpes Simplex Virus Type 2 Infection Presenting in Stages and Mimicking Sepsis and Biliary Disease Across Two Healthcare Systems - Cureus"
+        ]
       },
       {
-        "trend": "drug approval",
+        "trend": "healthcare",
         "market_code": "IT",
-        "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
+        "category": "Europe Health",
+        "score": 6,
+        "examples": [
+          "A Diagnostic Challenge: Disseminated Herpes Simplex Virus Type 2 Infection Presenting in Stages and Mimicking Sepsis and Biliary Disease Across Two Healthcare Systems - Cureus",
+          "Technological innovation in healthcare: challenges, opportunities and impact on sustainability - Frontiers",
+          "Student presents AI research at international healthcare technology conference - The Pennsylvania State University"
+        ]
       },
       {
-        "trend": "diet wellness",
+        "trend": "healthy",
         "market_code": "IT",
-        "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "category": "Europe Health",
+        "score": 5,
+        "examples": [
+          "Jarrow Formulas® Co-Q10, 200 mg, Antioxidant Support for Mitochondrial Health, Cellular Energy Production and Healthy Cardiovascular Function, 60 Veggie Capsules, 60 Day Supply | Mitochondrial Health Support, Cellular Energy Support, Cardiovascular - Whole Foods Market",
+          "Least Healthy Medicaid Enrollees Face Highest Risk of Coverage Loss Under Work Requirements Expansion - The American Journal of Managed Care",
+          "Want to Be Healthy at 70? This Is the Diet to Follow, Research Says - Yahoo Health"
+        ]
+      },
+      {
+        "trend": "public health",
+        "market_code": "IT",
+        "category": "Europe Health",
+        "score": 5,
+        "examples": [
+          "Heat stroke, exhaustion biggest RAGBRAI concerns for county public health - Times Republican",
+          "Heat stroke, exhaustion biggest RAGBRAI concerns for county public health - Times Republican",
+          "More prevention, less 'modern corruption’: A call-to-action to protect public health - Public Health Communication Centre"
+        ]
+      },
+      {
+        "trend": "hospital",
+        "market_code": "IT",
+        "category": "Europe Health",
+        "score": 5,
+        "examples": [
+          "2 men sue hospital for sending them home with each other’s families as newborns almost 40 years ago - HealthExec",
+          "Georgia is building first state psychiatric hospital since landmark disability case - Georgia Recorder",
+          "How Family Advocacy Day Inspired a Medical Student to Pursue Pediatrics - Children's Hospital Association"
+        ]
+      },
+      {
+        "trend": "patients",
+        "market_code": "IT",
+        "category": "Europe Health",
+        "score": 5,
+        "examples": [
+          "Two More Patients Die in Outbreak of Legionnaires’ Disease in Manhattan - The New York Times",
+          "‘Just living life again’: Beechview resident part of a Pitt trial connecting cancer patients with mental health supports - Pittsburgh Post-Gazette",
+          "Patients’ Perspectives on AI in Primary Care - Commonwealth Fund"
+        ]
       }
     ],
     "Spain": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "ES",
         "category": "Europe Health",
-        "score": 1,
-        "examples": []
+        "score": 66,
+        "examples": [
+          "Op-Ed: School employees’ health costs are everyone’s problem - NJ Spotlight News",
+          "The promise of innovative mental health models - Community College Daily",
+          "Jarrow Formulas® Co-Q10, 200 mg, Antioxidant Support for Mitochondrial Health, Cellular Energy Production and Healthy Cardiovascular Function, 60 Veggie Capsules, 60 Day Supply | Mitochondrial Health Support, Cellular Energy Support, Cardiovascular - Whole Foods Market"
+        ]
       },
       {
         "trend": "outbreak",
         "market_code": "ES",
         "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "score": 17,
+        "examples": [
+          "Taylor Farms recalls lettuce in 27 states amid cyclosporiasis outbreak: What to know - ABC News - Breaking News, Latest News and Videos",
+          "United States Issues Cyclospora Health Alert for Domestic Travellers as Multi-State Outbreak Raises Food Safety Concerns: What Precautions Should You Take Now? - Travel And Tour World",
+          "Health alert in Kayah State refugee camps after chickenpox outbreak - AsiaNews"
+        ]
+      },
+      {
+        "trend": "medical",
+        "market_code": "ES",
+        "category": "Europe Health",
+        "score": 14,
+        "examples": [
+          "Bipartisan bill would invest $25M to bolster use of key medical imaging software - Radiology Business",
+          "UT Medical Branch sued for alleged gender pay discrimination - The Daily Texan",
+          "Wrightsville Beach Ocean Rescue responds to “medical emergency” near beach access #10 - WECT"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "ES",
+        "category": "Mental Health",
+        "score": 12,
+        "examples": [
+          "The promise of innovative mental health models - Community College Daily",
+          "Young Ohioans struggle to access mental health care, study finds - NBC4 WCMH-TV",
+          "The promise of innovative mental health models - Community College Daily"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "ES",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
+        "score": 11,
+        "examples": [
+          "The promise of innovative mental health models - Community College Daily",
+          "Young Ohioans struggle to access mental health care, study finds - NBC4 WCMH-TV",
+          "The promise of innovative mental health models - Community College Daily"
+        ]
       },
       {
-        "trend": "medical research",
+        "trend": "infection",
+        "market_code": "ES",
+        "category": "Outbreaks",
+        "score": 7,
+        "examples": [
+          "A Diagnostic Challenge: Disseminated Herpes Simplex Virus Type 2 Infection Presenting in Stages and Mimicking Sepsis and Biliary Disease Across Two Healthcare Systems - Cureus",
+          "Comparison of the Vessel Loop Technique Versus Traditional Skin Closure for the Prevention of Surgical Site Infection Following Laparotomy in General Surgery - Cureus",
+          "The Evolution of Dental Safety: PPE vs Uniforms - Infection Control Today"
+        ]
+      },
+      {
+        "trend": "disease",
         "market_code": "ES",
         "category": "Europe Health",
-        "score": 1,
-        "examples": []
+        "score": 6,
+        "examples": [
+          "Second person dies in legionnaires’ disease outbreak in New York City - The Guardian",
+          "Two More Patients Die in Outbreak of Legionnaires’ Disease in Manhattan - The New York Times",
+          "A Diagnostic Challenge: Disseminated Herpes Simplex Virus Type 2 Infection Presenting in Stages and Mimicking Sepsis and Biliary Disease Across Two Healthcare Systems - Cureus"
+        ]
       },
       {
-        "trend": "drug approval",
+        "trend": "healthcare",
         "market_code": "ES",
-        "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
+        "category": "Europe Health",
+        "score": 6,
+        "examples": [
+          "A Diagnostic Challenge: Disseminated Herpes Simplex Virus Type 2 Infection Presenting in Stages and Mimicking Sepsis and Biliary Disease Across Two Healthcare Systems - Cureus",
+          "Technological innovation in healthcare: challenges, opportunities and impact on sustainability - Frontiers",
+          "Student presents AI research at international healthcare technology conference - The Pennsylvania State University"
+        ]
       },
       {
-        "trend": "diet wellness",
+        "trend": "healthy",
         "market_code": "ES",
-        "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "category": "Europe Health",
+        "score": 5,
+        "examples": [
+          "Jarrow Formulas® Co-Q10, 200 mg, Antioxidant Support for Mitochondrial Health, Cellular Energy Production and Healthy Cardiovascular Function, 60 Veggie Capsules, 60 Day Supply | Mitochondrial Health Support, Cellular Energy Support, Cardiovascular - Whole Foods Market",
+          "Least Healthy Medicaid Enrollees Face Highest Risk of Coverage Loss Under Work Requirements Expansion - The American Journal of Managed Care",
+          "Want to Be Healthy at 70? This Is the Diet to Follow, Research Says - Yahoo Health"
+        ]
+      },
+      {
+        "trend": "public health",
+        "market_code": "ES",
+        "category": "Europe Health",
+        "score": 5,
+        "examples": [
+          "Heat stroke, exhaustion biggest RAGBRAI concerns for county public health - Times Republican",
+          "Heat stroke, exhaustion biggest RAGBRAI concerns for county public health - Times Republican",
+          "More prevention, less 'modern corruption’: A call-to-action to protect public health - Public Health Communication Centre"
+        ]
+      },
+      {
+        "trend": "hospital",
+        "market_code": "ES",
+        "category": "Europe Health",
+        "score": 5,
+        "examples": [
+          "2 men sue hospital for sending them home with each other’s families as newborns almost 40 years ago - HealthExec",
+          "Georgia is building first state psychiatric hospital since landmark disability case - Georgia Recorder",
+          "How Family Advocacy Day Inspired a Medical Student to Pursue Pediatrics - Children's Hospital Association"
+        ]
+      },
+      {
+        "trend": "patients",
+        "market_code": "ES",
+        "category": "Europe Health",
+        "score": 5,
+        "examples": [
+          "Two More Patients Die in Outbreak of Legionnaires’ Disease in Manhattan - The New York Times",
+          "‘Just living life again’: Beechview resident part of a Pitt trial connecting cancer patients with mental health supports - Pittsburgh Post-Gazette",
+          "Patients’ Perspectives on AI in Primary Care - Commonwealth Fund"
+        ]
       }
     ],
     "Sweden": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "SE",
         "category": "Europe Health",
-        "score": 1,
-        "examples": []
+        "score": 66,
+        "examples": [
+          "Op-Ed: School employees’ health costs are everyone’s problem - NJ Spotlight News",
+          "The promise of innovative mental health models - Community College Daily",
+          "Jarrow Formulas® Co-Q10, 200 mg, Antioxidant Support for Mitochondrial Health, Cellular Energy Production and Healthy Cardiovascular Function, 60 Veggie Capsules, 60 Day Supply | Mitochondrial Health Support, Cellular Energy Support, Cardiovascular - Whole Foods Market"
+        ]
       },
       {
         "trend": "outbreak",
         "market_code": "SE",
         "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "score": 17,
+        "examples": [
+          "Taylor Farms recalls lettuce in 27 states amid cyclosporiasis outbreak: What to know - ABC News - Breaking News, Latest News and Videos",
+          "United States Issues Cyclospora Health Alert for Domestic Travellers as Multi-State Outbreak Raises Food Safety Concerns: What Precautions Should You Take Now? - Travel And Tour World",
+          "Health alert in Kayah State refugee camps after chickenpox outbreak - AsiaNews"
+        ]
+      },
+      {
+        "trend": "medical",
+        "market_code": "SE",
+        "category": "Europe Health",
+        "score": 14,
+        "examples": [
+          "Bipartisan bill would invest $25M to bolster use of key medical imaging software - Radiology Business",
+          "UT Medical Branch sued for alleged gender pay discrimination - The Daily Texan",
+          "Wrightsville Beach Ocean Rescue responds to “medical emergency” near beach access #10 - WECT"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "SE",
+        "category": "Mental Health",
+        "score": 12,
+        "examples": [
+          "The promise of innovative mental health models - Community College Daily",
+          "Young Ohioans struggle to access mental health care, study finds - NBC4 WCMH-TV",
+          "The promise of innovative mental health models - Community College Daily"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "SE",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
+        "score": 11,
+        "examples": [
+          "The promise of innovative mental health models - Community College Daily",
+          "Young Ohioans struggle to access mental health care, study finds - NBC4 WCMH-TV",
+          "The promise of innovative mental health models - Community College Daily"
+        ]
       },
       {
-        "trend": "medical research",
+        "trend": "infection",
+        "market_code": "SE",
+        "category": "Outbreaks",
+        "score": 7,
+        "examples": [
+          "A Diagnostic Challenge: Disseminated Herpes Simplex Virus Type 2 Infection Presenting in Stages and Mimicking Sepsis and Biliary Disease Across Two Healthcare Systems - Cureus",
+          "Comparison of the Vessel Loop Technique Versus Traditional Skin Closure for the Prevention of Surgical Site Infection Following Laparotomy in General Surgery - Cureus",
+          "The Evolution of Dental Safety: PPE vs Uniforms - Infection Control Today"
+        ]
+      },
+      {
+        "trend": "disease",
         "market_code": "SE",
         "category": "Europe Health",
-        "score": 1,
-        "examples": []
+        "score": 6,
+        "examples": [
+          "Second person dies in legionnaires’ disease outbreak in New York City - The Guardian",
+          "Two More Patients Die in Outbreak of Legionnaires’ Disease in Manhattan - The New York Times",
+          "A Diagnostic Challenge: Disseminated Herpes Simplex Virus Type 2 Infection Presenting in Stages and Mimicking Sepsis and Biliary Disease Across Two Healthcare Systems - Cureus"
+        ]
       },
       {
-        "trend": "drug approval",
+        "trend": "healthcare",
         "market_code": "SE",
-        "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
+        "category": "Europe Health",
+        "score": 6,
+        "examples": [
+          "A Diagnostic Challenge: Disseminated Herpes Simplex Virus Type 2 Infection Presenting in Stages and Mimicking Sepsis and Biliary Disease Across Two Healthcare Systems - Cureus",
+          "Technological innovation in healthcare: challenges, opportunities and impact on sustainability - Frontiers",
+          "Student presents AI research at international healthcare technology conference - The Pennsylvania State University"
+        ]
       },
       {
-        "trend": "diet wellness",
+        "trend": "healthy",
         "market_code": "SE",
-        "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "category": "Europe Health",
+        "score": 5,
+        "examples": [
+          "Jarrow Formulas® Co-Q10, 200 mg, Antioxidant Support for Mitochondrial Health, Cellular Energy Production and Healthy Cardiovascular Function, 60 Veggie Capsules, 60 Day Supply | Mitochondrial Health Support, Cellular Energy Support, Cardiovascular - Whole Foods Market",
+          "Least Healthy Medicaid Enrollees Face Highest Risk of Coverage Loss Under Work Requirements Expansion - The American Journal of Managed Care",
+          "Want to Be Healthy at 70? This Is the Diet to Follow, Research Says - Yahoo Health"
+        ]
+      },
+      {
+        "trend": "public health",
+        "market_code": "SE",
+        "category": "Europe Health",
+        "score": 5,
+        "examples": [
+          "Heat stroke, exhaustion biggest RAGBRAI concerns for county public health - Times Republican",
+          "Heat stroke, exhaustion biggest RAGBRAI concerns for county public health - Times Republican",
+          "More prevention, less 'modern corruption’: A call-to-action to protect public health - Public Health Communication Centre"
+        ]
+      },
+      {
+        "trend": "hospital",
+        "market_code": "SE",
+        "category": "Europe Health",
+        "score": 5,
+        "examples": [
+          "2 men sue hospital for sending them home with each other’s families as newborns almost 40 years ago - HealthExec",
+          "Georgia is building first state psychiatric hospital since landmark disability case - Georgia Recorder",
+          "How Family Advocacy Day Inspired a Medical Student to Pursue Pediatrics - Children's Hospital Association"
+        ]
+      },
+      {
+        "trend": "patients",
+        "market_code": "SE",
+        "category": "Europe Health",
+        "score": 5,
+        "examples": [
+          "Two More Patients Die in Outbreak of Legionnaires’ Disease in Manhattan - The New York Times",
+          "‘Just living life again’: Beechview resident part of a Pitt trial connecting cancer patients with mental health supports - Pittsburgh Post-Gazette",
+          "Patients’ Perspectives on AI in Primary Care - Commonwealth Fund"
+        ]
       }
     ],
     "Netherlands": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "NL",
         "category": "Europe Health",
-        "score": 1,
-        "examples": []
+        "score": 66,
+        "examples": [
+          "Op-Ed: School employees’ health costs are everyone’s problem - NJ Spotlight News",
+          "The promise of innovative mental health models - Community College Daily",
+          "Jarrow Formulas® Co-Q10, 200 mg, Antioxidant Support for Mitochondrial Health, Cellular Energy Production and Healthy Cardiovascular Function, 60 Veggie Capsules, 60 Day Supply | Mitochondrial Health Support, Cellular Energy Support, Cardiovascular - Whole Foods Market"
+        ]
       },
       {
         "trend": "outbreak",
         "market_code": "NL",
         "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "score": 17,
+        "examples": [
+          "Taylor Farms recalls lettuce in 27 states amid cyclosporiasis outbreak: What to know - ABC News - Breaking News, Latest News and Videos",
+          "United States Issues Cyclospora Health Alert for Domestic Travellers as Multi-State Outbreak Raises Food Safety Concerns: What Precautions Should You Take Now? - Travel And Tour World",
+          "Health alert in Kayah State refugee camps after chickenpox outbreak - AsiaNews"
+        ]
+      },
+      {
+        "trend": "medical",
+        "market_code": "NL",
+        "category": "Europe Health",
+        "score": 14,
+        "examples": [
+          "Bipartisan bill would invest $25M to bolster use of key medical imaging software - Radiology Business",
+          "UT Medical Branch sued for alleged gender pay discrimination - The Daily Texan",
+          "Wrightsville Beach Ocean Rescue responds to “medical emergency” near beach access #10 - WECT"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "NL",
+        "category": "Mental Health",
+        "score": 12,
+        "examples": [
+          "The promise of innovative mental health models - Community College Daily",
+          "Young Ohioans struggle to access mental health care, study finds - NBC4 WCMH-TV",
+          "The promise of innovative mental health models - Community College Daily"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "NL",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
+        "score": 11,
+        "examples": [
+          "The promise of innovative mental health models - Community College Daily",
+          "Young Ohioans struggle to access mental health care, study finds - NBC4 WCMH-TV",
+          "The promise of innovative mental health models - Community College Daily"
+        ]
       },
       {
-        "trend": "medical research",
+        "trend": "infection",
+        "market_code": "NL",
+        "category": "Outbreaks",
+        "score": 7,
+        "examples": [
+          "A Diagnostic Challenge: Disseminated Herpes Simplex Virus Type 2 Infection Presenting in Stages and Mimicking Sepsis and Biliary Disease Across Two Healthcare Systems - Cureus",
+          "Comparison of the Vessel Loop Technique Versus Traditional Skin Closure for the Prevention of Surgical Site Infection Following Laparotomy in General Surgery - Cureus",
+          "The Evolution of Dental Safety: PPE vs Uniforms - Infection Control Today"
+        ]
+      },
+      {
+        "trend": "disease",
         "market_code": "NL",
         "category": "Europe Health",
-        "score": 1,
-        "examples": []
+        "score": 6,
+        "examples": [
+          "Second person dies in legionnaires’ disease outbreak in New York City - The Guardian",
+          "Two More Patients Die in Outbreak of Legionnaires’ Disease in Manhattan - The New York Times",
+          "A Diagnostic Challenge: Disseminated Herpes Simplex Virus Type 2 Infection Presenting in Stages and Mimicking Sepsis and Biliary Disease Across Two Healthcare Systems - Cureus"
+        ]
       },
       {
-        "trend": "drug approval",
+        "trend": "healthcare",
         "market_code": "NL",
-        "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
+        "category": "Europe Health",
+        "score": 6,
+        "examples": [
+          "A Diagnostic Challenge: Disseminated Herpes Simplex Virus Type 2 Infection Presenting in Stages and Mimicking Sepsis and Biliary Disease Across Two Healthcare Systems - Cureus",
+          "Technological innovation in healthcare: challenges, opportunities and impact on sustainability - Frontiers",
+          "Student presents AI research at international healthcare technology conference - The Pennsylvania State University"
+        ]
       },
       {
-        "trend": "diet wellness",
+        "trend": "healthy",
         "market_code": "NL",
-        "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "category": "Europe Health",
+        "score": 5,
+        "examples": [
+          "Jarrow Formulas® Co-Q10, 200 mg, Antioxidant Support for Mitochondrial Health, Cellular Energy Production and Healthy Cardiovascular Function, 60 Veggie Capsules, 60 Day Supply | Mitochondrial Health Support, Cellular Energy Support, Cardiovascular - Whole Foods Market",
+          "Least Healthy Medicaid Enrollees Face Highest Risk of Coverage Loss Under Work Requirements Expansion - The American Journal of Managed Care",
+          "Want to Be Healthy at 70? This Is the Diet to Follow, Research Says - Yahoo Health"
+        ]
+      },
+      {
+        "trend": "public health",
+        "market_code": "NL",
+        "category": "Europe Health",
+        "score": 5,
+        "examples": [
+          "Heat stroke, exhaustion biggest RAGBRAI concerns for county public health - Times Republican",
+          "Heat stroke, exhaustion biggest RAGBRAI concerns for county public health - Times Republican",
+          "More prevention, less 'modern corruption’: A call-to-action to protect public health - Public Health Communication Centre"
+        ]
+      },
+      {
+        "trend": "hospital",
+        "market_code": "NL",
+        "category": "Europe Health",
+        "score": 5,
+        "examples": [
+          "2 men sue hospital for sending them home with each other’s families as newborns almost 40 years ago - HealthExec",
+          "Georgia is building first state psychiatric hospital since landmark disability case - Georgia Recorder",
+          "How Family Advocacy Day Inspired a Medical Student to Pursue Pediatrics - Children's Hospital Association"
+        ]
+      },
+      {
+        "trend": "patients",
+        "market_code": "NL",
+        "category": "Europe Health",
+        "score": 5,
+        "examples": [
+          "Two More Patients Die in Outbreak of Legionnaires’ Disease in Manhattan - The New York Times",
+          "‘Just living life again’: Beechview resident part of a Pitt trial connecting cancer patients with mental health supports - Pittsburgh Post-Gazette",
+          "Patients’ Perspectives on AI in Primary Care - Commonwealth Fund"
+        ]
       }
     ],
     "Finland": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "FI",
         "category": "Europe Health",
-        "score": 1,
-        "examples": []
+        "score": 66,
+        "examples": [
+          "Op-Ed: School employees’ health costs are everyone’s problem - NJ Spotlight News",
+          "The promise of innovative mental health models - Community College Daily",
+          "Jarrow Formulas® Co-Q10, 200 mg, Antioxidant Support for Mitochondrial Health, Cellular Energy Production and Healthy Cardiovascular Function, 60 Veggie Capsules, 60 Day Supply | Mitochondrial Health Support, Cellular Energy Support, Cardiovascular - Whole Foods Market"
+        ]
       },
       {
         "trend": "outbreak",
         "market_code": "FI",
         "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "score": 17,
+        "examples": [
+          "Taylor Farms recalls lettuce in 27 states amid cyclosporiasis outbreak: What to know - ABC News - Breaking News, Latest News and Videos",
+          "United States Issues Cyclospora Health Alert for Domestic Travellers as Multi-State Outbreak Raises Food Safety Concerns: What Precautions Should You Take Now? - Travel And Tour World",
+          "Health alert in Kayah State refugee camps after chickenpox outbreak - AsiaNews"
+        ]
+      },
+      {
+        "trend": "medical",
+        "market_code": "FI",
+        "category": "Europe Health",
+        "score": 14,
+        "examples": [
+          "Bipartisan bill would invest $25M to bolster use of key medical imaging software - Radiology Business",
+          "UT Medical Branch sued for alleged gender pay discrimination - The Daily Texan",
+          "Wrightsville Beach Ocean Rescue responds to “medical emergency” near beach access #10 - WECT"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "FI",
+        "category": "Mental Health",
+        "score": 12,
+        "examples": [
+          "The promise of innovative mental health models - Community College Daily",
+          "Young Ohioans struggle to access mental health care, study finds - NBC4 WCMH-TV",
+          "The promise of innovative mental health models - Community College Daily"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "FI",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
+        "score": 11,
+        "examples": [
+          "The promise of innovative mental health models - Community College Daily",
+          "Young Ohioans struggle to access mental health care, study finds - NBC4 WCMH-TV",
+          "The promise of innovative mental health models - Community College Daily"
+        ]
       },
       {
-        "trend": "medical research",
+        "trend": "infection",
+        "market_code": "FI",
+        "category": "Outbreaks",
+        "score": 7,
+        "examples": [
+          "A Diagnostic Challenge: Disseminated Herpes Simplex Virus Type 2 Infection Presenting in Stages and Mimicking Sepsis and Biliary Disease Across Two Healthcare Systems - Cureus",
+          "Comparison of the Vessel Loop Technique Versus Traditional Skin Closure for the Prevention of Surgical Site Infection Following Laparotomy in General Surgery - Cureus",
+          "The Evolution of Dental Safety: PPE vs Uniforms - Infection Control Today"
+        ]
+      },
+      {
+        "trend": "disease",
         "market_code": "FI",
         "category": "Europe Health",
-        "score": 1,
-        "examples": []
+        "score": 6,
+        "examples": [
+          "Second person dies in legionnaires’ disease outbreak in New York City - The Guardian",
+          "Two More Patients Die in Outbreak of Legionnaires’ Disease in Manhattan - The New York Times",
+          "A Diagnostic Challenge: Disseminated Herpes Simplex Virus Type 2 Infection Presenting in Stages and Mimicking Sepsis and Biliary Disease Across Two Healthcare Systems - Cureus"
+        ]
       },
       {
-        "trend": "drug approval",
+        "trend": "healthcare",
         "market_code": "FI",
-        "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
+        "category": "Europe Health",
+        "score": 6,
+        "examples": [
+          "A Diagnostic Challenge: Disseminated Herpes Simplex Virus Type 2 Infection Presenting in Stages and Mimicking Sepsis and Biliary Disease Across Two Healthcare Systems - Cureus",
+          "Technological innovation in healthcare: challenges, opportunities and impact on sustainability - Frontiers",
+          "Student presents AI research at international healthcare technology conference - The Pennsylvania State University"
+        ]
       },
       {
-        "trend": "diet wellness",
+        "trend": "healthy",
         "market_code": "FI",
-        "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "category": "Europe Health",
+        "score": 5,
+        "examples": [
+          "Jarrow Formulas® Co-Q10, 200 mg, Antioxidant Support for Mitochondrial Health, Cellular Energy Production and Healthy Cardiovascular Function, 60 Veggie Capsules, 60 Day Supply | Mitochondrial Health Support, Cellular Energy Support, Cardiovascular - Whole Foods Market",
+          "Least Healthy Medicaid Enrollees Face Highest Risk of Coverage Loss Under Work Requirements Expansion - The American Journal of Managed Care",
+          "Want to Be Healthy at 70? This Is the Diet to Follow, Research Says - Yahoo Health"
+        ]
+      },
+      {
+        "trend": "public health",
+        "market_code": "FI",
+        "category": "Europe Health",
+        "score": 5,
+        "examples": [
+          "Heat stroke, exhaustion biggest RAGBRAI concerns for county public health - Times Republican",
+          "Heat stroke, exhaustion biggest RAGBRAI concerns for county public health - Times Republican",
+          "More prevention, less 'modern corruption’: A call-to-action to protect public health - Public Health Communication Centre"
+        ]
+      },
+      {
+        "trend": "hospital",
+        "market_code": "FI",
+        "category": "Europe Health",
+        "score": 5,
+        "examples": [
+          "2 men sue hospital for sending them home with each other’s families as newborns almost 40 years ago - HealthExec",
+          "Georgia is building first state psychiatric hospital since landmark disability case - Georgia Recorder",
+          "How Family Advocacy Day Inspired a Medical Student to Pursue Pediatrics - Children's Hospital Association"
+        ]
+      },
+      {
+        "trend": "patients",
+        "market_code": "FI",
+        "category": "Europe Health",
+        "score": 5,
+        "examples": [
+          "Two More Patients Die in Outbreak of Legionnaires’ Disease in Manhattan - The New York Times",
+          "‘Just living life again’: Beechview resident part of a Pitt trial connecting cancer patients with mental health supports - Pittsburgh Post-Gazette",
+          "Patients’ Perspectives on AI in Primary Care - Commonwealth Fund"
+        ]
       }
     ],
     "Norway": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "NO",
         "category": "Europe Health",
-        "score": 1,
-        "examples": []
+        "score": 66,
+        "examples": [
+          "Op-Ed: School employees’ health costs are everyone’s problem - NJ Spotlight News",
+          "The promise of innovative mental health models - Community College Daily",
+          "Jarrow Formulas® Co-Q10, 200 mg, Antioxidant Support for Mitochondrial Health, Cellular Energy Production and Healthy Cardiovascular Function, 60 Veggie Capsules, 60 Day Supply | Mitochondrial Health Support, Cellular Energy Support, Cardiovascular - Whole Foods Market"
+        ]
       },
       {
         "trend": "outbreak",
         "market_code": "NO",
         "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "score": 17,
+        "examples": [
+          "Taylor Farms recalls lettuce in 27 states amid cyclosporiasis outbreak: What to know - ABC News - Breaking News, Latest News and Videos",
+          "United States Issues Cyclospora Health Alert for Domestic Travellers as Multi-State Outbreak Raises Food Safety Concerns: What Precautions Should You Take Now? - Travel And Tour World",
+          "Health alert in Kayah State refugee camps after chickenpox outbreak - AsiaNews"
+        ]
+      },
+      {
+        "trend": "medical",
+        "market_code": "NO",
+        "category": "Europe Health",
+        "score": 14,
+        "examples": [
+          "Bipartisan bill would invest $25M to bolster use of key medical imaging software - Radiology Business",
+          "UT Medical Branch sued for alleged gender pay discrimination - The Daily Texan",
+          "Wrightsville Beach Ocean Rescue responds to “medical emergency” near beach access #10 - WECT"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "NO",
+        "category": "Mental Health",
+        "score": 12,
+        "examples": [
+          "The promise of innovative mental health models - Community College Daily",
+          "Young Ohioans struggle to access mental health care, study finds - NBC4 WCMH-TV",
+          "The promise of innovative mental health models - Community College Daily"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "NO",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
+        "score": 11,
+        "examples": [
+          "The promise of innovative mental health models - Community College Daily",
+          "Young Ohioans struggle to access mental health care, study finds - NBC4 WCMH-TV",
+          "The promise of innovative mental health models - Community College Daily"
+        ]
       },
       {
-        "trend": "medical research",
+        "trend": "infection",
+        "market_code": "NO",
+        "category": "Outbreaks",
+        "score": 7,
+        "examples": [
+          "A Diagnostic Challenge: Disseminated Herpes Simplex Virus Type 2 Infection Presenting in Stages and Mimicking Sepsis and Biliary Disease Across Two Healthcare Systems - Cureus",
+          "Comparison of the Vessel Loop Technique Versus Traditional Skin Closure for the Prevention of Surgical Site Infection Following Laparotomy in General Surgery - Cureus",
+          "The Evolution of Dental Safety: PPE vs Uniforms - Infection Control Today"
+        ]
+      },
+      {
+        "trend": "disease",
         "market_code": "NO",
         "category": "Europe Health",
-        "score": 1,
-        "examples": []
+        "score": 6,
+        "examples": [
+          "Second person dies in legionnaires’ disease outbreak in New York City - The Guardian",
+          "Two More Patients Die in Outbreak of Legionnaires’ Disease in Manhattan - The New York Times",
+          "A Diagnostic Challenge: Disseminated Herpes Simplex Virus Type 2 Infection Presenting in Stages and Mimicking Sepsis and Biliary Disease Across Two Healthcare Systems - Cureus"
+        ]
       },
       {
-        "trend": "drug approval",
+        "trend": "healthcare",
         "market_code": "NO",
-        "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
+        "category": "Europe Health",
+        "score": 6,
+        "examples": [
+          "A Diagnostic Challenge: Disseminated Herpes Simplex Virus Type 2 Infection Presenting in Stages and Mimicking Sepsis and Biliary Disease Across Two Healthcare Systems - Cureus",
+          "Technological innovation in healthcare: challenges, opportunities and impact on sustainability - Frontiers",
+          "Student presents AI research at international healthcare technology conference - The Pennsylvania State University"
+        ]
       },
       {
-        "trend": "diet wellness",
+        "trend": "healthy",
         "market_code": "NO",
-        "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "category": "Europe Health",
+        "score": 5,
+        "examples": [
+          "Jarrow Formulas® Co-Q10, 200 mg, Antioxidant Support for Mitochondrial Health, Cellular Energy Production and Healthy Cardiovascular Function, 60 Veggie Capsules, 60 Day Supply | Mitochondrial Health Support, Cellular Energy Support, Cardiovascular - Whole Foods Market",
+          "Least Healthy Medicaid Enrollees Face Highest Risk of Coverage Loss Under Work Requirements Expansion - The American Journal of Managed Care",
+          "Want to Be Healthy at 70? This Is the Diet to Follow, Research Says - Yahoo Health"
+        ]
+      },
+      {
+        "trend": "public health",
+        "market_code": "NO",
+        "category": "Europe Health",
+        "score": 5,
+        "examples": [
+          "Heat stroke, exhaustion biggest RAGBRAI concerns for county public health - Times Republican",
+          "Heat stroke, exhaustion biggest RAGBRAI concerns for county public health - Times Republican",
+          "More prevention, less 'modern corruption’: A call-to-action to protect public health - Public Health Communication Centre"
+        ]
+      },
+      {
+        "trend": "hospital",
+        "market_code": "NO",
+        "category": "Europe Health",
+        "score": 5,
+        "examples": [
+          "2 men sue hospital for sending them home with each other’s families as newborns almost 40 years ago - HealthExec",
+          "Georgia is building first state psychiatric hospital since landmark disability case - Georgia Recorder",
+          "How Family Advocacy Day Inspired a Medical Student to Pursue Pediatrics - Children's Hospital Association"
+        ]
+      },
+      {
+        "trend": "patients",
+        "market_code": "NO",
+        "category": "Europe Health",
+        "score": 5,
+        "examples": [
+          "Two More Patients Die in Outbreak of Legionnaires’ Disease in Manhattan - The New York Times",
+          "‘Just living life again’: Beechview resident part of a Pitt trial connecting cancer patients with mental health supports - Pittsburgh Post-Gazette",
+          "Patients’ Perspectives on AI in Primary Care - Commonwealth Fund"
+        ]
       }
     ],
     "Japan": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "JP",
         "category": "Asia Health",
-        "score": 1,
-        "examples": []
+        "score": 66,
+        "examples": [
+          "Op-Ed: School employees’ health costs are everyone’s problem - NJ Spotlight News",
+          "The promise of innovative mental health models - Community College Daily",
+          "Jarrow Formulas® Co-Q10, 200 mg, Antioxidant Support for Mitochondrial Health, Cellular Energy Production and Healthy Cardiovascular Function, 60 Veggie Capsules, 60 Day Supply | Mitochondrial Health Support, Cellular Energy Support, Cardiovascular - Whole Foods Market"
+        ]
       },
       {
         "trend": "outbreak",
         "market_code": "JP",
         "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "score": 17,
+        "examples": [
+          "Taylor Farms recalls lettuce in 27 states amid cyclosporiasis outbreak: What to know - ABC News - Breaking News, Latest News and Videos",
+          "United States Issues Cyclospora Health Alert for Domestic Travellers as Multi-State Outbreak Raises Food Safety Concerns: What Precautions Should You Take Now? - Travel And Tour World",
+          "Health alert in Kayah State refugee camps after chickenpox outbreak - AsiaNews"
+        ]
+      },
+      {
+        "trend": "medical",
+        "market_code": "JP",
+        "category": "Asia Health",
+        "score": 14,
+        "examples": [
+          "Bipartisan bill would invest $25M to bolster use of key medical imaging software - Radiology Business",
+          "UT Medical Branch sued for alleged gender pay discrimination - The Daily Texan",
+          "Wrightsville Beach Ocean Rescue responds to “medical emergency” near beach access #10 - WECT"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "JP",
+        "category": "Mental Health",
+        "score": 12,
+        "examples": [
+          "The promise of innovative mental health models - Community College Daily",
+          "Young Ohioans struggle to access mental health care, study finds - NBC4 WCMH-TV",
+          "The promise of innovative mental health models - Community College Daily"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "JP",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
+        "score": 11,
+        "examples": [
+          "The promise of innovative mental health models - Community College Daily",
+          "Young Ohioans struggle to access mental health care, study finds - NBC4 WCMH-TV",
+          "The promise of innovative mental health models - Community College Daily"
+        ]
       },
       {
-        "trend": "medical research",
+        "trend": "infection",
+        "market_code": "JP",
+        "category": "Outbreaks",
+        "score": 7,
+        "examples": [
+          "A Diagnostic Challenge: Disseminated Herpes Simplex Virus Type 2 Infection Presenting in Stages and Mimicking Sepsis and Biliary Disease Across Two Healthcare Systems - Cureus",
+          "Comparison of the Vessel Loop Technique Versus Traditional Skin Closure for the Prevention of Surgical Site Infection Following Laparotomy in General Surgery - Cureus",
+          "The Evolution of Dental Safety: PPE vs Uniforms - Infection Control Today"
+        ]
+      },
+      {
+        "trend": "disease",
         "market_code": "JP",
         "category": "Asia Health",
-        "score": 1,
-        "examples": []
+        "score": 6,
+        "examples": [
+          "Second person dies in legionnaires’ disease outbreak in New York City - The Guardian",
+          "Two More Patients Die in Outbreak of Legionnaires’ Disease in Manhattan - The New York Times",
+          "A Diagnostic Challenge: Disseminated Herpes Simplex Virus Type 2 Infection Presenting in Stages and Mimicking Sepsis and Biliary Disease Across Two Healthcare Systems - Cureus"
+        ]
       },
       {
-        "trend": "drug approval",
+        "trend": "healthcare",
         "market_code": "JP",
-        "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
+        "category": "Asia Health",
+        "score": 6,
+        "examples": [
+          "A Diagnostic Challenge: Disseminated Herpes Simplex Virus Type 2 Infection Presenting in Stages and Mimicking Sepsis and Biliary Disease Across Two Healthcare Systems - Cureus",
+          "Technological innovation in healthcare: challenges, opportunities and impact on sustainability - Frontiers",
+          "Student presents AI research at international healthcare technology conference - The Pennsylvania State University"
+        ]
       },
       {
-        "trend": "diet wellness",
+        "trend": "healthy",
         "market_code": "JP",
-        "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "category": "Asia Health",
+        "score": 5,
+        "examples": [
+          "Jarrow Formulas® Co-Q10, 200 mg, Antioxidant Support for Mitochondrial Health, Cellular Energy Production and Healthy Cardiovascular Function, 60 Veggie Capsules, 60 Day Supply | Mitochondrial Health Support, Cellular Energy Support, Cardiovascular - Whole Foods Market",
+          "Least Healthy Medicaid Enrollees Face Highest Risk of Coverage Loss Under Work Requirements Expansion - The American Journal of Managed Care",
+          "Want to Be Healthy at 70? This Is the Diet to Follow, Research Says - Yahoo Health"
+        ]
+      },
+      {
+        "trend": "public health",
+        "market_code": "JP",
+        "category": "Asia Health",
+        "score": 5,
+        "examples": [
+          "Heat stroke, exhaustion biggest RAGBRAI concerns for county public health - Times Republican",
+          "Heat stroke, exhaustion biggest RAGBRAI concerns for county public health - Times Republican",
+          "More prevention, less 'modern corruption’: A call-to-action to protect public health - Public Health Communication Centre"
+        ]
+      },
+      {
+        "trend": "hospital",
+        "market_code": "JP",
+        "category": "Asia Health",
+        "score": 5,
+        "examples": [
+          "2 men sue hospital for sending them home with each other’s families as newborns almost 40 years ago - HealthExec",
+          "Georgia is building first state psychiatric hospital since landmark disability case - Georgia Recorder",
+          "How Family Advocacy Day Inspired a Medical Student to Pursue Pediatrics - Children's Hospital Association"
+        ]
+      },
+      {
+        "trend": "patients",
+        "market_code": "JP",
+        "category": "Asia Health",
+        "score": 5,
+        "examples": [
+          "Two More Patients Die in Outbreak of Legionnaires’ Disease in Manhattan - The New York Times",
+          "‘Just living life again’: Beechview resident part of a Pitt trial connecting cancer patients with mental health supports - Pittsburgh Post-Gazette",
+          "Patients’ Perspectives on AI in Primary Care - Commonwealth Fund"
+        ]
       }
     ],
     "China": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "CN",
         "category": "Asia Health",
-        "score": 1,
-        "examples": []
+        "score": 66,
+        "examples": [
+          "Op-Ed: School employees’ health costs are everyone’s problem - NJ Spotlight News",
+          "The promise of innovative mental health models - Community College Daily",
+          "Jarrow Formulas® Co-Q10, 200 mg, Antioxidant Support for Mitochondrial Health, Cellular Energy Production and Healthy Cardiovascular Function, 60 Veggie Capsules, 60 Day Supply | Mitochondrial Health Support, Cellular Energy Support, Cardiovascular - Whole Foods Market"
+        ]
       },
       {
         "trend": "outbreak",
         "market_code": "CN",
         "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "score": 17,
+        "examples": [
+          "Taylor Farms recalls lettuce in 27 states amid cyclosporiasis outbreak: What to know - ABC News - Breaking News, Latest News and Videos",
+          "United States Issues Cyclospora Health Alert for Domestic Travellers as Multi-State Outbreak Raises Food Safety Concerns: What Precautions Should You Take Now? - Travel And Tour World",
+          "Health alert in Kayah State refugee camps after chickenpox outbreak - AsiaNews"
+        ]
+      },
+      {
+        "trend": "medical",
+        "market_code": "CN",
+        "category": "Asia Health",
+        "score": 14,
+        "examples": [
+          "Bipartisan bill would invest $25M to bolster use of key medical imaging software - Radiology Business",
+          "UT Medical Branch sued for alleged gender pay discrimination - The Daily Texan",
+          "Wrightsville Beach Ocean Rescue responds to “medical emergency” near beach access #10 - WECT"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "CN",
+        "category": "Mental Health",
+        "score": 12,
+        "examples": [
+          "The promise of innovative mental health models - Community College Daily",
+          "Young Ohioans struggle to access mental health care, study finds - NBC4 WCMH-TV",
+          "The promise of innovative mental health models - Community College Daily"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "CN",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
+        "score": 11,
+        "examples": [
+          "The promise of innovative mental health models - Community College Daily",
+          "Young Ohioans struggle to access mental health care, study finds - NBC4 WCMH-TV",
+          "The promise of innovative mental health models - Community College Daily"
+        ]
       },
       {
-        "trend": "medical research",
+        "trend": "infection",
+        "market_code": "CN",
+        "category": "Outbreaks",
+        "score": 7,
+        "examples": [
+          "A Diagnostic Challenge: Disseminated Herpes Simplex Virus Type 2 Infection Presenting in Stages and Mimicking Sepsis and Biliary Disease Across Two Healthcare Systems - Cureus",
+          "Comparison of the Vessel Loop Technique Versus Traditional Skin Closure for the Prevention of Surgical Site Infection Following Laparotomy in General Surgery - Cureus",
+          "The Evolution of Dental Safety: PPE vs Uniforms - Infection Control Today"
+        ]
+      },
+      {
+        "trend": "disease",
         "market_code": "CN",
         "category": "Asia Health",
-        "score": 1,
-        "examples": []
+        "score": 6,
+        "examples": [
+          "Second person dies in legionnaires’ disease outbreak in New York City - The Guardian",
+          "Two More Patients Die in Outbreak of Legionnaires’ Disease in Manhattan - The New York Times",
+          "A Diagnostic Challenge: Disseminated Herpes Simplex Virus Type 2 Infection Presenting in Stages and Mimicking Sepsis and Biliary Disease Across Two Healthcare Systems - Cureus"
+        ]
       },
       {
-        "trend": "drug approval",
+        "trend": "healthcare",
         "market_code": "CN",
-        "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
+        "category": "Asia Health",
+        "score": 6,
+        "examples": [
+          "A Diagnostic Challenge: Disseminated Herpes Simplex Virus Type 2 Infection Presenting in Stages and Mimicking Sepsis and Biliary Disease Across Two Healthcare Systems - Cureus",
+          "Technological innovation in healthcare: challenges, opportunities and impact on sustainability - Frontiers",
+          "Student presents AI research at international healthcare technology conference - The Pennsylvania State University"
+        ]
       },
       {
-        "trend": "diet wellness",
+        "trend": "healthy",
         "market_code": "CN",
-        "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "category": "Asia Health",
+        "score": 5,
+        "examples": [
+          "Jarrow Formulas® Co-Q10, 200 mg, Antioxidant Support for Mitochondrial Health, Cellular Energy Production and Healthy Cardiovascular Function, 60 Veggie Capsules, 60 Day Supply | Mitochondrial Health Support, Cellular Energy Support, Cardiovascular - Whole Foods Market",
+          "Least Healthy Medicaid Enrollees Face Highest Risk of Coverage Loss Under Work Requirements Expansion - The American Journal of Managed Care",
+          "Want to Be Healthy at 70? This Is the Diet to Follow, Research Says - Yahoo Health"
+        ]
+      },
+      {
+        "trend": "public health",
+        "market_code": "CN",
+        "category": "Asia Health",
+        "score": 5,
+        "examples": [
+          "Heat stroke, exhaustion biggest RAGBRAI concerns for county public health - Times Republican",
+          "Heat stroke, exhaustion biggest RAGBRAI concerns for county public health - Times Republican",
+          "More prevention, less 'modern corruption’: A call-to-action to protect public health - Public Health Communication Centre"
+        ]
+      },
+      {
+        "trend": "hospital",
+        "market_code": "CN",
+        "category": "Asia Health",
+        "score": 5,
+        "examples": [
+          "2 men sue hospital for sending them home with each other’s families as newborns almost 40 years ago - HealthExec",
+          "Georgia is building first state psychiatric hospital since landmark disability case - Georgia Recorder",
+          "How Family Advocacy Day Inspired a Medical Student to Pursue Pediatrics - Children's Hospital Association"
+        ]
+      },
+      {
+        "trend": "patients",
+        "market_code": "CN",
+        "category": "Asia Health",
+        "score": 5,
+        "examples": [
+          "Two More Patients Die in Outbreak of Legionnaires’ Disease in Manhattan - The New York Times",
+          "‘Just living life again’: Beechview resident part of a Pitt trial connecting cancer patients with mental health supports - Pittsburgh Post-Gazette",
+          "Patients’ Perspectives on AI in Primary Care - Commonwealth Fund"
+        ]
       }
     ],
     "South Korea": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "KR",
         "category": "Asia Health",
-        "score": 1,
-        "examples": []
+        "score": 66,
+        "examples": [
+          "Op-Ed: School employees’ health costs are everyone’s problem - NJ Spotlight News",
+          "The promise of innovative mental health models - Community College Daily",
+          "Jarrow Formulas® Co-Q10, 200 mg, Antioxidant Support for Mitochondrial Health, Cellular Energy Production and Healthy Cardiovascular Function, 60 Veggie Capsules, 60 Day Supply | Mitochondrial Health Support, Cellular Energy Support, Cardiovascular - Whole Foods Market"
+        ]
       },
       {
         "trend": "outbreak",
         "market_code": "KR",
         "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "score": 17,
+        "examples": [
+          "Taylor Farms recalls lettuce in 27 states amid cyclosporiasis outbreak: What to know - ABC News - Breaking News, Latest News and Videos",
+          "United States Issues Cyclospora Health Alert for Domestic Travellers as Multi-State Outbreak Raises Food Safety Concerns: What Precautions Should You Take Now? - Travel And Tour World",
+          "Health alert in Kayah State refugee camps after chickenpox outbreak - AsiaNews"
+        ]
+      },
+      {
+        "trend": "medical",
+        "market_code": "KR",
+        "category": "Asia Health",
+        "score": 14,
+        "examples": [
+          "Bipartisan bill would invest $25M to bolster use of key medical imaging software - Radiology Business",
+          "UT Medical Branch sued for alleged gender pay discrimination - The Daily Texan",
+          "Wrightsville Beach Ocean Rescue responds to “medical emergency” near beach access #10 - WECT"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "KR",
+        "category": "Mental Health",
+        "score": 12,
+        "examples": [
+          "The promise of innovative mental health models - Community College Daily",
+          "Young Ohioans struggle to access mental health care, study finds - NBC4 WCMH-TV",
+          "The promise of innovative mental health models - Community College Daily"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "KR",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
+        "score": 11,
+        "examples": [
+          "The promise of innovative mental health models - Community College Daily",
+          "Young Ohioans struggle to access mental health care, study finds - NBC4 WCMH-TV",
+          "The promise of innovative mental health models - Community College Daily"
+        ]
       },
       {
-        "trend": "medical research",
+        "trend": "infection",
+        "market_code": "KR",
+        "category": "Outbreaks",
+        "score": 7,
+        "examples": [
+          "A Diagnostic Challenge: Disseminated Herpes Simplex Virus Type 2 Infection Presenting in Stages and Mimicking Sepsis and Biliary Disease Across Two Healthcare Systems - Cureus",
+          "Comparison of the Vessel Loop Technique Versus Traditional Skin Closure for the Prevention of Surgical Site Infection Following Laparotomy in General Surgery - Cureus",
+          "The Evolution of Dental Safety: PPE vs Uniforms - Infection Control Today"
+        ]
+      },
+      {
+        "trend": "disease",
         "market_code": "KR",
         "category": "Asia Health",
-        "score": 1,
-        "examples": []
+        "score": 6,
+        "examples": [
+          "Second person dies in legionnaires’ disease outbreak in New York City - The Guardian",
+          "Two More Patients Die in Outbreak of Legionnaires’ Disease in Manhattan - The New York Times",
+          "A Diagnostic Challenge: Disseminated Herpes Simplex Virus Type 2 Infection Presenting in Stages and Mimicking Sepsis and Biliary Disease Across Two Healthcare Systems - Cureus"
+        ]
       },
       {
-        "trend": "drug approval",
+        "trend": "healthcare",
         "market_code": "KR",
-        "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
+        "category": "Asia Health",
+        "score": 6,
+        "examples": [
+          "A Diagnostic Challenge: Disseminated Herpes Simplex Virus Type 2 Infection Presenting in Stages and Mimicking Sepsis and Biliary Disease Across Two Healthcare Systems - Cureus",
+          "Technological innovation in healthcare: challenges, opportunities and impact on sustainability - Frontiers",
+          "Student presents AI research at international healthcare technology conference - The Pennsylvania State University"
+        ]
       },
       {
-        "trend": "diet wellness",
+        "trend": "healthy",
         "market_code": "KR",
-        "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "category": "Asia Health",
+        "score": 5,
+        "examples": [
+          "Jarrow Formulas® Co-Q10, 200 mg, Antioxidant Support for Mitochondrial Health, Cellular Energy Production and Healthy Cardiovascular Function, 60 Veggie Capsules, 60 Day Supply | Mitochondrial Health Support, Cellular Energy Support, Cardiovascular - Whole Foods Market",
+          "Least Healthy Medicaid Enrollees Face Highest Risk of Coverage Loss Under Work Requirements Expansion - The American Journal of Managed Care",
+          "Want to Be Healthy at 70? This Is the Diet to Follow, Research Says - Yahoo Health"
+        ]
+      },
+      {
+        "trend": "public health",
+        "market_code": "KR",
+        "category": "Asia Health",
+        "score": 5,
+        "examples": [
+          "Heat stroke, exhaustion biggest RAGBRAI concerns for county public health - Times Republican",
+          "Heat stroke, exhaustion biggest RAGBRAI concerns for county public health - Times Republican",
+          "More prevention, less 'modern corruption’: A call-to-action to protect public health - Public Health Communication Centre"
+        ]
+      },
+      {
+        "trend": "hospital",
+        "market_code": "KR",
+        "category": "Asia Health",
+        "score": 5,
+        "examples": [
+          "2 men sue hospital for sending them home with each other’s families as newborns almost 40 years ago - HealthExec",
+          "Georgia is building first state psychiatric hospital since landmark disability case - Georgia Recorder",
+          "How Family Advocacy Day Inspired a Medical Student to Pursue Pediatrics - Children's Hospital Association"
+        ]
+      },
+      {
+        "trend": "patients",
+        "market_code": "KR",
+        "category": "Asia Health",
+        "score": 5,
+        "examples": [
+          "Two More Patients Die in Outbreak of Legionnaires’ Disease in Manhattan - The New York Times",
+          "‘Just living life again’: Beechview resident part of a Pitt trial connecting cancer patients with mental health supports - Pittsburgh Post-Gazette",
+          "Patients’ Perspectives on AI in Primary Care - Commonwealth Fund"
+        ]
       }
     ],
     "India": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "IN",
         "category": "Asia Health",
-        "score": 1,
-        "examples": []
+        "score": 58,
+        "examples": [
+          "Salman Khan reacts to concern about his health with cryptic post: ‘Aap ki tabiyat kaisi hai ?’ - The Indian Express",
+          "Why understanding psychometabolic links may be crucial to combating India’s diabetes and mental health epidemic - The Hindu",
+          "Punjabi singer Karandeep suffers heart attack in Australia, urges youth to prioritise health after near-death experience - PTC News"
+        ]
+      },
+      {
+        "trend": "medical",
+        "market_code": "IN",
+        "category": "Asia Health",
+        "score": 23,
+        "examples": [
+          "Maharashtra govt orders medical panels in pvt hospitals for passive euthanisia cases - ET HealthWorld",
+          "Tamil Nadu launches non-profit foundation to boost Infrastructure at Govt Hospitals - Medical Dialogues",
+          "Medical Ethics Awareness Among Doctors at the Pakistan Institute of Medical Sciences - Cureus"
+        ]
+      },
+      {
+        "trend": "healthcare",
+        "market_code": "IN",
+        "category": "Asia Health",
+        "score": 22,
+        "examples": [
+          "Comment: How private hospitals are evolving - Healthcare Today",
+          "Value-Based Procurement in healthcare: What is it, why now and how? - Open Access Government",
+          "Comment: How private hospitals are evolving - Healthcare Today"
+        ]
       },
       {
         "trend": "outbreak",
         "market_code": "IN",
         "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "score": 13,
+        "examples": [
+          "Health alert in Kayah State refugee camps after chickenpox outbreak - AsiaNews",
+          "United States Issues Cyclospora Health Alert for Domestic Travellers as Multi-State Outbreak Raises Food Safety Concerns: What Precautions Should You Take Now? - Travel And Tour World",
+          "Video: Local health experts on alert for diarrhea outbreak - MSN"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "IN",
+        "category": "Mental Health",
+        "score": 11,
+        "examples": [
+          "Why understanding psychometabolic links may be crucial to combating India’s diabetes and mental health epidemic - The Hindu",
+          "Why understanding psychometabolic links may be crucial to combating India’s diabetes and mental health epidemic - The Hindu",
+          "WHO launches an ECHO-funded project to expand lifesaving health and mental health services for Sudanese refugees in southern Libya - emro.who.int"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "IN",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
+        "score": 10,
+        "examples": [
+          "Why understanding psychometabolic links may be crucial to combating India’s diabetes and mental health epidemic - The Hindu",
+          "Why understanding psychometabolic links may be crucial to combating India’s diabetes and mental health epidemic - The Hindu",
+          "WHO launches an ECHO-funded project to expand lifesaving health and mental health services for Sudanese refugees in southern Libya - emro.who.int"
+        ]
       },
       {
-        "trend": "medical research",
+        "trend": "hospitals",
         "market_code": "IN",
         "category": "Asia Health",
-        "score": 1,
-        "examples": []
+        "score": 10,
+        "examples": [
+          "Q1 preview: Hospitals, diagnostic chains set for healthy quarter on strong demand, expansions- Moneycontrol.com - LinkedIn",
+          "Maharashtra govt orders medical panels in pvt hospitals for passive euthanisia cases - ET HealthWorld",
+          "Comment: How private hospitals are evolving - Healthcare Today"
+        ]
       },
       {
-        "trend": "drug approval",
+        "trend": "diabetes",
         "market_code": "IN",
-        "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
+        "category": "Chronic Disease",
+        "score": 6,
+        "examples": [
+          "Why understanding psychometabolic links may be crucial to combating India’s diabetes and mental health epidemic - The Hindu",
+          "Diabetes patients face higher risk of severe dengue, says study - The New Indian Express",
+          "People with Type 2 diabetes face higher risk of severe dengue: Study - ET HealthWorld"
+        ]
       },
       {
-        "trend": "diet wellness",
+        "trend": "hospital",
         "market_code": "IN",
-        "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "category": "Asia Health",
+        "score": 6,
+        "examples": [
+          "Manipal Hospital, Bhubaneswar Sets Up 3 bedded Temporary Medical Centre for Puri Ratha Yatra 2026 - healthcareexecutive.in",
+          "Boston Children’s Hospital and OpenEvidence Collaborate to Advance AI-Powered Analysis of Clinical Practice Patterns - Business Wire",
+          "How Family Advocacy Day Inspired a Medical Student to Pursue Pediatrics - Children's Hospital Association"
+        ]
+      },
+      {
+        "trend": "disease",
+        "market_code": "IN",
+        "category": "Asia Health",
+        "score": 6,
+        "examples": [
+          "Second person dies in legionnaires’ disease outbreak in New York City - The Guardian",
+          "Second death reported in Legionnaires' disease outbreak in New York City - CNBC TV18",
+          "A Diagnostic Challenge: Disseminated Herpes Simplex Virus Type 2 Infection Presenting in Stages and Mimicking Sepsis and Biliary Disease Across Two Healthcare Systems - Cureus"
+        ]
+      },
+      {
+        "trend": "healthworld",
+        "market_code": "IN",
+        "category": "Asia Health",
+        "score": 5,
+        "examples": [
+          "Maharashtra govt orders medical panels in pvt hospitals for passive euthanisia cases - ET HealthWorld",
+          "Maharashtra govt orders medical panels in pvt hospitals for passive euthanisia cases - ET HealthWorld",
+          "Maharashtra govt orders medical panels in pvt hospitals for passive euthanisia cases - ET HealthWorld"
+        ]
+      },
+      {
+        "trend": "virus",
+        "market_code": "IN",
+        "category": "Outbreaks",
+        "score": 5,
+        "examples": [
+          "Child dies of Chandipura virus in Bhavnagar: Four of 13 deaths confirmed as Chandipura; here's how to prote... - Bhaskar English",
+          "Chinese police repatriate key suspect in phishing and Trojan virus case from Vietnam - China Daily",
+          "A Diagnostic Challenge: Disseminated Herpes Simplex Virus Type 2 Infection Presenting in Stages and Mimicking Sepsis and Biliary Disease Across Two Healthcare Systems - Cureus"
+        ]
       }
     ],
     "Australia": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "AU",
         "category": "Global Health",
-        "score": 1,
-        "examples": []
+        "score": 64,
+        "examples": [
+          "Press conference with Assistant Minister McBride, Central Coast – 20 July 2026 - Australian Government Department of Health, Disability and Ageing",
+          "Oh, the places you’ll go with the Community Residency Program - WA Country Health Service",
+          "Ella Boatfield is Metro South Graduate Nurse of the Year! - Metro South Health"
+        ]
+      },
+      {
+        "trend": "medical",
+        "market_code": "AU",
+        "category": "Global Health",
+        "score": 20,
+        "examples": [
+          "Australia has a blind spot: it’s time for a national brain health strategy - Medical Republic",
+          "What to stream this week: A hot new Aussie medical drama, plus five more picks - SMH.com.au",
+          "Third-degree burns and skin grafts: The popular medical device that left a trail of injured children - The Age"
+        ]
       },
       {
         "trend": "outbreak",
         "market_code": "AU",
         "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "score": 15,
+        "examples": [
+          "Health alert in Kayah State refugee camps after chickenpox outbreak - AsiaNews",
+          "Cyclosporiasis Outbreak Map and Foods to Avoid as Parasite Reaches 34 States - TODAY.com",
+          "NYC health alert: Legionnaires outbreak grows as cyclospora concerns spread - FOX 5 New York"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "AU",
+        "category": "Mental Health",
+        "score": 12,
+        "examples": [
+          "New Medicare Mental Health Centre now open on the Central Coast - Australian Government Department of Health, Disability and Ageing",
+          "Beau Lamarre-Condon will not rely on mental health defence at upcoming trial - OUTinPerth",
+          "Seven in 10 people with mental illness face discrimination, first nati... - Disability Support Guide"
+        ]
+      },
+      {
+        "trend": "healthcare",
+        "market_code": "AU",
+        "category": "Global Health",
+        "score": 11,
+        "examples": [
+          "Te Whatu Ora taps NHS partner for AI development - Healthcare IT News",
+          "2026 World AI Conference showcases latest AI innovations in healthcare - bastillepost.com",
+          "A Diagnostic Challenge: Disseminated Herpes Simplex Virus Type 2 Infection Presenting in Stages and Mimicking Sepsis and Biliary Disease Across Two Healthcare Systems - Cureus"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "AU",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
+        "score": 11,
+        "examples": [
+          "New Medicare Mental Health Centre now open on the Central Coast - Australian Government Department of Health, Disability and Ageing",
+          "Beau Lamarre-Condon will not rely on mental health defence at upcoming trial - OUTinPerth",
+          "Victoria’s first peer-led mental health service opens in Moolap - Times News Group"
+        ]
       },
       {
-        "trend": "medical research",
+        "trend": "disease",
         "market_code": "AU",
         "category": "Global Health",
-        "score": 1,
-        "examples": []
+        "score": 6,
+        "examples": [
+          "Second person dies in legionnaires’ disease outbreak in New York City - The Guardian",
+          "Two More Patients Die in Outbreak of Legionnaires’ Disease in Manhattan - The New York Times",
+          "A Diagnostic Challenge: Disseminated Herpes Simplex Virus Type 2 Infection Presenting in Stages and Mimicking Sepsis and Biliary Disease Across Two Healthcare Systems - Cureus"
+        ]
       },
       {
-        "trend": "drug approval",
+        "trend": "cancer",
         "market_code": "AU",
-        "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
+        "category": "Chronic Disease",
+        "score": 5,
+        "examples": [
+          "FDA approves new breast cancer drug based on VIKTORIA-1 study results - Fred Hutchinson Cancer Center",
+          "FDA approves new breast cancer drug based on VIKTORIA-1 study results - Fred Hutchinson Cancer Center",
+          "Combination therapy completely clears ovarian cancer in lab mice - Rare Cancer News"
+        ]
       },
       {
-        "trend": "diet wellness",
+        "trend": "medical republic",
         "market_code": "AU",
-        "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "category": "Global Health",
+        "score": 4,
+        "examples": [
+          "Australia has a blind spot: it’s time for a national brain health strategy - Medical Republic",
+          "National mesothelioma guideline redraws care - Medical Republic",
+          "Vitamins out, physical activity in: new WHO dementia recommendations - Medical Republic"
+        ]
+      },
+      {
+        "trend": "research",
+        "market_code": "AU",
+        "category": "Global Health",
+        "score": 4,
+        "examples": [
+          "Championing culturally safe research for First Peoples - Department of Jobs, Skills, Industry and Regions",
+          "Medical research captured as art in annual image prize - Medianet News Hub",
+          "Want to Be Healthy at 70? This Is the Diet to Follow, Research Says - Yahoo Health"
+        ]
+      },
+      {
+        "trend": "hospital",
+        "market_code": "AU",
+        "category": "Global Health",
+        "score": 4,
+        "examples": [
+          "Early works commence on the $400 million Canterbury Hospital Redevelopment - NSW Government",
+          "How Family Advocacy Day Inspired a Medical Student to Pursue Pediatrics - Children's Hospital Association",
+          "Egypt to Launch First Virtual Hospital in Africa - Egyptian Streets"
+        ]
+      },
+      {
+        "trend": "ebola outbreak",
+        "market_code": "AU",
+        "category": "Outbreaks",
+        "score": 4,
+        "examples": [
+          "Deaths in Congo's Ebola outbreak surge to over 900 - thesenior.com.au",
+          "Deaths in Congo's Ebola outbreak surge to over 900 - The Singleton Argus",
+          "At least 930 people have died in Congo’s Ebola outbreak - The Seattle Times"
+        ]
       }
     ],
     "Canada": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "CA",
         "category": "Global Health",
-        "score": 1,
-        "examples": []
+        "score": 59,
+        "examples": [
+          "‘Collective alarm-raising’: advocates wonder about future of rare disease, mental health, and home-care bilateral deals as March 2027 deadline looms - The Hill Times",
+          "Commercializing Canadian Health Research: The Case for Targeting Grants and Increasing Overall Investment - Information Technology and Innovation Foundation (ITIF)",
+          "Family Fun Day targets health gaps at Crystal Beach Co-op - Fort Erie Radio"
+        ]
       },
       {
         "trend": "outbreak",
         "market_code": "CA",
         "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "score": 19,
+        "examples": [
+          "Source of U.S. diarrhea-causing outbreak back in question after FDA declares false positive | CBC News - CBC",
+          "Syria’s second FETP cohort trains to strengthen disease surveillance and outbreak response - emro.who.int",
+          "Health alert in Kayah State refugee camps after chickenpox outbreak - AsiaNews"
+        ]
+      },
+      {
+        "trend": "medical",
+        "market_code": "CA",
+        "category": "Global Health",
+        "score": 15,
+        "examples": [
+          "July 25 — Live Younger, Medical Aesthetics Clinic - Global News",
+          "Visma gives Jonas Vingegaard medical update after brutal Tour crash - Canadian Cycling Magazine",
+          "Bipartisan bill would invest $25M to bolster use of key medical imaging software - Radiology Business"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "CA",
+        "category": "Mental Health",
+        "score": 13,
+        "examples": [
+          "‘Collective alarm-raising’: advocates wonder about future of rare disease, mental health, and home-care bilateral deals as March 2027 deadline looms - The Hill Times",
+          "‘Collective alarm-raising’: advocates wonder about future of rare disease, mental health, and home-care bilateral deals as March 2027 deadline looms - The Hill Times",
+          "WHO launches an ECHO-funded project to expand lifesaving health and mental health services for Sudanese refugees in southern Libya - emro.who.int"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "CA",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
+        "score": 13,
+        "examples": [
+          "‘Collective alarm-raising’: advocates wonder about future of rare disease, mental health, and home-care bilateral deals as March 2027 deadline looms - The Hill Times",
+          "‘Collective alarm-raising’: advocates wonder about future of rare disease, mental health, and home-care bilateral deals as March 2027 deadline looms - The Hill Times",
+          "WHO launches an ECHO-funded project to expand lifesaving health and mental health services for Sudanese refugees in southern Libya - emro.who.int"
+        ]
       },
       {
-        "trend": "medical research",
+        "trend": "healthcare",
         "market_code": "CA",
         "category": "Global Health",
-        "score": 1,
-        "examples": []
+        "score": 12,
+        "examples": [
+          "Value-Based Procurement in healthcare: What is it, why now and how? - Open Access Government",
+          "2026 World AI Conference showcases latest AI innovations in healthcare - bastillepost.com",
+          "A Diagnostic Challenge: Disseminated Herpes Simplex Virus Type 2 Infection Presenting in Stages and Mimicking Sepsis and Biliary Disease Across Two Healthcare Systems - Cureus"
+        ]
       },
       {
-        "trend": "drug approval",
+        "trend": "disease",
+        "market_code": "CA",
+        "category": "Global Health",
+        "score": 9,
+        "examples": [
+          "‘Collective alarm-raising’: advocates wonder about future of rare disease, mental health, and home-care bilateral deals as March 2027 deadline looms - The Hill Times",
+          "Syria’s second FETP cohort trains to strengthen disease surveillance and outbreak response - emro.who.int",
+          "Second person dies in legionnaires’ disease outbreak in New York City - The Guardian"
+        ]
+      },
+      {
+        "trend": "cancer",
+        "market_code": "CA",
+        "category": "Chronic Disease",
+        "score": 7,
+        "examples": [
+          "‘Just living life again’: Beechview resident part of a Pitt trial connecting cancer patients with mental health supports - Pittsburgh Post-Gazette",
+          "FDA approves new breast cancer drug based on VIKTORIA-1 study results - Fred Hutchinson Cancer Center",
+          "FDA approves new breast cancer drug based on VIKTORIA-1 study results - Fred Hutchinson Cancer Center"
+        ]
+      },
+      {
+        "trend": "infection",
+        "market_code": "CA",
+        "category": "Outbreaks",
+        "score": 6,
+        "examples": [
+          "A Diagnostic Challenge: Disseminated Herpes Simplex Virus Type 2 Infection Presenting in Stages and Mimicking Sepsis and Biliary Disease Across Two Healthcare Systems - Cureus",
+          "Comparison of the Vessel Loop Technique Versus Traditional Skin Closure for the Prevention of Surgical Site Infection Following Laparotomy in General Surgery - Cureus",
+          "The Evolution of Dental Safety: PPE vs Uniforms - Infection Control Today"
+        ]
+      },
+      {
+        "trend": "news-medical",
+        "market_code": "CA",
+        "category": "Global Health",
+        "score": 5,
+        "examples": [
+          "Study identifies immune response causing severe COVID-19 susceptibility - News-Medical",
+          "Global childhood IBD trends reveal unequal progress in diagnosis and survival - News-Medical",
+          "Study identifies immune response causing severe COVID-19 susceptibility - News-Medical"
+        ]
+      },
+      {
+        "trend": "drug",
         "market_code": "CA",
         "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
+        "score": 5,
+        "examples": [
+          "Ottawa's last supervised drug sites closed in June. So far, overdose deaths haven't spiked - CBC",
+          "FDA approves new breast cancer drug based on VIKTORIA-1 study results - Fred Hutchinson Cancer Center",
+          "This new Alzheimer’s drug targets a different brain protein, and is showing promise - CTV News"
+        ]
       },
       {
-        "trend": "diet wellness",
+        "trend": "wellness",
         "market_code": "CA",
         "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "score": 5,
+        "examples": [
+          "A New Frontier in Eye Health: Digital Wellness, Bioavailability, and the Eye-Brain Connection - Nutritional Outlook",
+          "Your next health coach might be your supermarket: Inside the UAE’s wellness retail boom - Gulf Business",
+          "I’m a nutritionist — these wellness habits aren't as healthy as you think - Metro.co.uk"
+        ]
       }
     ],
     "United Arab Emirates": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "AE",
         "category": "Arab Health",
-        "score": 1,
-        "examples": []
+        "score": 66,
+        "examples": [
+          "Op-Ed: School employees’ health costs are everyone’s problem - NJ Spotlight News",
+          "The promise of innovative mental health models - Community College Daily",
+          "Jarrow Formulas® Co-Q10, 200 mg, Antioxidant Support for Mitochondrial Health, Cellular Energy Production and Healthy Cardiovascular Function, 60 Veggie Capsules, 60 Day Supply | Mitochondrial Health Support, Cellular Energy Support, Cardiovascular - Whole Foods Market"
+        ]
       },
       {
         "trend": "outbreak",
         "market_code": "AE",
         "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "score": 17,
+        "examples": [
+          "Taylor Farms recalls lettuce in 27 states amid cyclosporiasis outbreak: What to know - ABC News - Breaking News, Latest News and Videos",
+          "United States Issues Cyclospora Health Alert for Domestic Travellers as Multi-State Outbreak Raises Food Safety Concerns: What Precautions Should You Take Now? - Travel And Tour World",
+          "Health alert in Kayah State refugee camps after chickenpox outbreak - AsiaNews"
+        ]
+      },
+      {
+        "trend": "medical",
+        "market_code": "AE",
+        "category": "Arab Health",
+        "score": 14,
+        "examples": [
+          "Bipartisan bill would invest $25M to bolster use of key medical imaging software - Radiology Business",
+          "UT Medical Branch sued for alleged gender pay discrimination - The Daily Texan",
+          "Wrightsville Beach Ocean Rescue responds to “medical emergency” near beach access #10 - WECT"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "AE",
+        "category": "Mental Health",
+        "score": 12,
+        "examples": [
+          "The promise of innovative mental health models - Community College Daily",
+          "Young Ohioans struggle to access mental health care, study finds - NBC4 WCMH-TV",
+          "The promise of innovative mental health models - Community College Daily"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "AE",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
+        "score": 11,
+        "examples": [
+          "The promise of innovative mental health models - Community College Daily",
+          "Young Ohioans struggle to access mental health care, study finds - NBC4 WCMH-TV",
+          "The promise of innovative mental health models - Community College Daily"
+        ]
       },
       {
-        "trend": "medical research",
+        "trend": "infection",
+        "market_code": "AE",
+        "category": "Outbreaks",
+        "score": 7,
+        "examples": [
+          "A Diagnostic Challenge: Disseminated Herpes Simplex Virus Type 2 Infection Presenting in Stages and Mimicking Sepsis and Biliary Disease Across Two Healthcare Systems - Cureus",
+          "Comparison of the Vessel Loop Technique Versus Traditional Skin Closure for the Prevention of Surgical Site Infection Following Laparotomy in General Surgery - Cureus",
+          "The Evolution of Dental Safety: PPE vs Uniforms - Infection Control Today"
+        ]
+      },
+      {
+        "trend": "disease",
         "market_code": "AE",
         "category": "Arab Health",
-        "score": 1,
-        "examples": []
+        "score": 6,
+        "examples": [
+          "Second person dies in legionnaires’ disease outbreak in New York City - The Guardian",
+          "Two More Patients Die in Outbreak of Legionnaires’ Disease in Manhattan - The New York Times",
+          "A Diagnostic Challenge: Disseminated Herpes Simplex Virus Type 2 Infection Presenting in Stages and Mimicking Sepsis and Biliary Disease Across Two Healthcare Systems - Cureus"
+        ]
       },
       {
-        "trend": "drug approval",
+        "trend": "healthcare",
         "market_code": "AE",
-        "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
+        "category": "Arab Health",
+        "score": 6,
+        "examples": [
+          "A Diagnostic Challenge: Disseminated Herpes Simplex Virus Type 2 Infection Presenting in Stages and Mimicking Sepsis and Biliary Disease Across Two Healthcare Systems - Cureus",
+          "Technological innovation in healthcare: challenges, opportunities and impact on sustainability - Frontiers",
+          "Student presents AI research at international healthcare technology conference - The Pennsylvania State University"
+        ]
       },
       {
-        "trend": "diet wellness",
+        "trend": "healthy",
         "market_code": "AE",
-        "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "category": "Arab Health",
+        "score": 5,
+        "examples": [
+          "Jarrow Formulas® Co-Q10, 200 mg, Antioxidant Support for Mitochondrial Health, Cellular Energy Production and Healthy Cardiovascular Function, 60 Veggie Capsules, 60 Day Supply | Mitochondrial Health Support, Cellular Energy Support, Cardiovascular - Whole Foods Market",
+          "Least Healthy Medicaid Enrollees Face Highest Risk of Coverage Loss Under Work Requirements Expansion - The American Journal of Managed Care",
+          "Want to Be Healthy at 70? This Is the Diet to Follow, Research Says - Yahoo Health"
+        ]
+      },
+      {
+        "trend": "public health",
+        "market_code": "AE",
+        "category": "Arab Health",
+        "score": 5,
+        "examples": [
+          "Heat stroke, exhaustion biggest RAGBRAI concerns for county public health - Times Republican",
+          "Heat stroke, exhaustion biggest RAGBRAI concerns for county public health - Times Republican",
+          "More prevention, less 'modern corruption’: A call-to-action to protect public health - Public Health Communication Centre"
+        ]
+      },
+      {
+        "trend": "hospital",
+        "market_code": "AE",
+        "category": "Arab Health",
+        "score": 5,
+        "examples": [
+          "2 men sue hospital for sending them home with each other’s families as newborns almost 40 years ago - HealthExec",
+          "Georgia is building first state psychiatric hospital since landmark disability case - Georgia Recorder",
+          "How Family Advocacy Day Inspired a Medical Student to Pursue Pediatrics - Children's Hospital Association"
+        ]
+      },
+      {
+        "trend": "patients",
+        "market_code": "AE",
+        "category": "Arab Health",
+        "score": 5,
+        "examples": [
+          "Two More Patients Die in Outbreak of Legionnaires’ Disease in Manhattan - The New York Times",
+          "‘Just living life again’: Beechview resident part of a Pitt trial connecting cancer patients with mental health supports - Pittsburgh Post-Gazette",
+          "Patients’ Perspectives on AI in Primary Care - Commonwealth Fund"
+        ]
       }
     ],
     "Saudi Arabia": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "SA",
         "category": "Arab Health",
-        "score": 1,
-        "examples": []
+        "score": 66,
+        "examples": [
+          "Op-Ed: School employees’ health costs are everyone’s problem - NJ Spotlight News",
+          "The promise of innovative mental health models - Community College Daily",
+          "Jarrow Formulas® Co-Q10, 200 mg, Antioxidant Support for Mitochondrial Health, Cellular Energy Production and Healthy Cardiovascular Function, 60 Veggie Capsules, 60 Day Supply | Mitochondrial Health Support, Cellular Energy Support, Cardiovascular - Whole Foods Market"
+        ]
       },
       {
         "trend": "outbreak",
         "market_code": "SA",
         "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "score": 17,
+        "examples": [
+          "Taylor Farms recalls lettuce in 27 states amid cyclosporiasis outbreak: What to know - ABC News - Breaking News, Latest News and Videos",
+          "United States Issues Cyclospora Health Alert for Domestic Travellers as Multi-State Outbreak Raises Food Safety Concerns: What Precautions Should You Take Now? - Travel And Tour World",
+          "Health alert in Kayah State refugee camps after chickenpox outbreak - AsiaNews"
+        ]
+      },
+      {
+        "trend": "medical",
+        "market_code": "SA",
+        "category": "Arab Health",
+        "score": 14,
+        "examples": [
+          "Bipartisan bill would invest $25M to bolster use of key medical imaging software - Radiology Business",
+          "UT Medical Branch sued for alleged gender pay discrimination - The Daily Texan",
+          "Wrightsville Beach Ocean Rescue responds to “medical emergency” near beach access #10 - WECT"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "SA",
+        "category": "Mental Health",
+        "score": 12,
+        "examples": [
+          "The promise of innovative mental health models - Community College Daily",
+          "Young Ohioans struggle to access mental health care, study finds - NBC4 WCMH-TV",
+          "The promise of innovative mental health models - Community College Daily"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "SA",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
+        "score": 11,
+        "examples": [
+          "The promise of innovative mental health models - Community College Daily",
+          "Young Ohioans struggle to access mental health care, study finds - NBC4 WCMH-TV",
+          "The promise of innovative mental health models - Community College Daily"
+        ]
       },
       {
-        "trend": "medical research",
+        "trend": "infection",
+        "market_code": "SA",
+        "category": "Outbreaks",
+        "score": 7,
+        "examples": [
+          "A Diagnostic Challenge: Disseminated Herpes Simplex Virus Type 2 Infection Presenting in Stages and Mimicking Sepsis and Biliary Disease Across Two Healthcare Systems - Cureus",
+          "Comparison of the Vessel Loop Technique Versus Traditional Skin Closure for the Prevention of Surgical Site Infection Following Laparotomy in General Surgery - Cureus",
+          "The Evolution of Dental Safety: PPE vs Uniforms - Infection Control Today"
+        ]
+      },
+      {
+        "trend": "disease",
         "market_code": "SA",
         "category": "Arab Health",
-        "score": 1,
-        "examples": []
+        "score": 6,
+        "examples": [
+          "Second person dies in legionnaires’ disease outbreak in New York City - The Guardian",
+          "Two More Patients Die in Outbreak of Legionnaires’ Disease in Manhattan - The New York Times",
+          "A Diagnostic Challenge: Disseminated Herpes Simplex Virus Type 2 Infection Presenting in Stages and Mimicking Sepsis and Biliary Disease Across Two Healthcare Systems - Cureus"
+        ]
       },
       {
-        "trend": "drug approval",
+        "trend": "healthcare",
         "market_code": "SA",
-        "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
+        "category": "Arab Health",
+        "score": 6,
+        "examples": [
+          "A Diagnostic Challenge: Disseminated Herpes Simplex Virus Type 2 Infection Presenting in Stages and Mimicking Sepsis and Biliary Disease Across Two Healthcare Systems - Cureus",
+          "Technological innovation in healthcare: challenges, opportunities and impact on sustainability - Frontiers",
+          "Student presents AI research at international healthcare technology conference - The Pennsylvania State University"
+        ]
       },
       {
-        "trend": "diet wellness",
+        "trend": "healthy",
         "market_code": "SA",
-        "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "category": "Arab Health",
+        "score": 5,
+        "examples": [
+          "Jarrow Formulas® Co-Q10, 200 mg, Antioxidant Support for Mitochondrial Health, Cellular Energy Production and Healthy Cardiovascular Function, 60 Veggie Capsules, 60 Day Supply | Mitochondrial Health Support, Cellular Energy Support, Cardiovascular - Whole Foods Market",
+          "Least Healthy Medicaid Enrollees Face Highest Risk of Coverage Loss Under Work Requirements Expansion - The American Journal of Managed Care",
+          "Want to Be Healthy at 70? This Is the Diet to Follow, Research Says - Yahoo Health"
+        ]
+      },
+      {
+        "trend": "public health",
+        "market_code": "SA",
+        "category": "Arab Health",
+        "score": 5,
+        "examples": [
+          "Heat stroke, exhaustion biggest RAGBRAI concerns for county public health - Times Republican",
+          "Heat stroke, exhaustion biggest RAGBRAI concerns for county public health - Times Republican",
+          "More prevention, less 'modern corruption’: A call-to-action to protect public health - Public Health Communication Centre"
+        ]
+      },
+      {
+        "trend": "hospital",
+        "market_code": "SA",
+        "category": "Arab Health",
+        "score": 5,
+        "examples": [
+          "2 men sue hospital for sending them home with each other’s families as newborns almost 40 years ago - HealthExec",
+          "Georgia is building first state psychiatric hospital since landmark disability case - Georgia Recorder",
+          "How Family Advocacy Day Inspired a Medical Student to Pursue Pediatrics - Children's Hospital Association"
+        ]
+      },
+      {
+        "trend": "patients",
+        "market_code": "SA",
+        "category": "Arab Health",
+        "score": 5,
+        "examples": [
+          "Two More Patients Die in Outbreak of Legionnaires’ Disease in Manhattan - The New York Times",
+          "‘Just living life again’: Beechview resident part of a Pitt trial connecting cancer patients with mental health supports - Pittsburgh Post-Gazette",
+          "Patients’ Perspectives on AI in Primary Care - Commonwealth Fund"
+        ]
       }
     ],
     "Qatar": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "QA",
         "category": "Arab Health",
-        "score": 1,
-        "examples": []
+        "score": 66,
+        "examples": [
+          "Op-Ed: School employees’ health costs are everyone’s problem - NJ Spotlight News",
+          "The promise of innovative mental health models - Community College Daily",
+          "Jarrow Formulas® Co-Q10, 200 mg, Antioxidant Support for Mitochondrial Health, Cellular Energy Production and Healthy Cardiovascular Function, 60 Veggie Capsules, 60 Day Supply | Mitochondrial Health Support, Cellular Energy Support, Cardiovascular - Whole Foods Market"
+        ]
       },
       {
         "trend": "outbreak",
         "market_code": "QA",
         "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "score": 17,
+        "examples": [
+          "Taylor Farms recalls lettuce in 27 states amid cyclosporiasis outbreak: What to know - ABC News - Breaking News, Latest News and Videos",
+          "United States Issues Cyclospora Health Alert for Domestic Travellers as Multi-State Outbreak Raises Food Safety Concerns: What Precautions Should You Take Now? - Travel And Tour World",
+          "Health alert in Kayah State refugee camps after chickenpox outbreak - AsiaNews"
+        ]
+      },
+      {
+        "trend": "medical",
+        "market_code": "QA",
+        "category": "Arab Health",
+        "score": 14,
+        "examples": [
+          "Bipartisan bill would invest $25M to bolster use of key medical imaging software - Radiology Business",
+          "UT Medical Branch sued for alleged gender pay discrimination - The Daily Texan",
+          "Wrightsville Beach Ocean Rescue responds to “medical emergency” near beach access #10 - WECT"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "QA",
+        "category": "Mental Health",
+        "score": 12,
+        "examples": [
+          "The promise of innovative mental health models - Community College Daily",
+          "Young Ohioans struggle to access mental health care, study finds - NBC4 WCMH-TV",
+          "The promise of innovative mental health models - Community College Daily"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "QA",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
+        "score": 11,
+        "examples": [
+          "The promise of innovative mental health models - Community College Daily",
+          "Young Ohioans struggle to access mental health care, study finds - NBC4 WCMH-TV",
+          "The promise of innovative mental health models - Community College Daily"
+        ]
       },
       {
-        "trend": "medical research",
+        "trend": "infection",
+        "market_code": "QA",
+        "category": "Outbreaks",
+        "score": 7,
+        "examples": [
+          "A Diagnostic Challenge: Disseminated Herpes Simplex Virus Type 2 Infection Presenting in Stages and Mimicking Sepsis and Biliary Disease Across Two Healthcare Systems - Cureus",
+          "Comparison of the Vessel Loop Technique Versus Traditional Skin Closure for the Prevention of Surgical Site Infection Following Laparotomy in General Surgery - Cureus",
+          "The Evolution of Dental Safety: PPE vs Uniforms - Infection Control Today"
+        ]
+      },
+      {
+        "trend": "disease",
         "market_code": "QA",
         "category": "Arab Health",
-        "score": 1,
-        "examples": []
+        "score": 6,
+        "examples": [
+          "Second person dies in legionnaires’ disease outbreak in New York City - The Guardian",
+          "Two More Patients Die in Outbreak of Legionnaires’ Disease in Manhattan - The New York Times",
+          "A Diagnostic Challenge: Disseminated Herpes Simplex Virus Type 2 Infection Presenting in Stages and Mimicking Sepsis and Biliary Disease Across Two Healthcare Systems - Cureus"
+        ]
       },
       {
-        "trend": "drug approval",
+        "trend": "healthcare",
         "market_code": "QA",
-        "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
+        "category": "Arab Health",
+        "score": 6,
+        "examples": [
+          "A Diagnostic Challenge: Disseminated Herpes Simplex Virus Type 2 Infection Presenting in Stages and Mimicking Sepsis and Biliary Disease Across Two Healthcare Systems - Cureus",
+          "Technological innovation in healthcare: challenges, opportunities and impact on sustainability - Frontiers",
+          "Student presents AI research at international healthcare technology conference - The Pennsylvania State University"
+        ]
       },
       {
-        "trend": "diet wellness",
+        "trend": "healthy",
         "market_code": "QA",
-        "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "category": "Arab Health",
+        "score": 5,
+        "examples": [
+          "Jarrow Formulas® Co-Q10, 200 mg, Antioxidant Support for Mitochondrial Health, Cellular Energy Production and Healthy Cardiovascular Function, 60 Veggie Capsules, 60 Day Supply | Mitochondrial Health Support, Cellular Energy Support, Cardiovascular - Whole Foods Market",
+          "Least Healthy Medicaid Enrollees Face Highest Risk of Coverage Loss Under Work Requirements Expansion - The American Journal of Managed Care",
+          "Want to Be Healthy at 70? This Is the Diet to Follow, Research Says - Yahoo Health"
+        ]
+      },
+      {
+        "trend": "public health",
+        "market_code": "QA",
+        "category": "Arab Health",
+        "score": 5,
+        "examples": [
+          "Heat stroke, exhaustion biggest RAGBRAI concerns for county public health - Times Republican",
+          "Heat stroke, exhaustion biggest RAGBRAI concerns for county public health - Times Republican",
+          "More prevention, less 'modern corruption’: A call-to-action to protect public health - Public Health Communication Centre"
+        ]
+      },
+      {
+        "trend": "hospital",
+        "market_code": "QA",
+        "category": "Arab Health",
+        "score": 5,
+        "examples": [
+          "2 men sue hospital for sending them home with each other’s families as newborns almost 40 years ago - HealthExec",
+          "Georgia is building first state psychiatric hospital since landmark disability case - Georgia Recorder",
+          "How Family Advocacy Day Inspired a Medical Student to Pursue Pediatrics - Children's Hospital Association"
+        ]
+      },
+      {
+        "trend": "patients",
+        "market_code": "QA",
+        "category": "Arab Health",
+        "score": 5,
+        "examples": [
+          "Two More Patients Die in Outbreak of Legionnaires’ Disease in Manhattan - The New York Times",
+          "‘Just living life again’: Beechview resident part of a Pitt trial connecting cancer patients with mental health supports - Pittsburgh Post-Gazette",
+          "Patients’ Perspectives on AI in Primary Care - Commonwealth Fund"
+        ]
       }
     ],
     "Jordan": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "JO",
         "category": "Arab Health",
-        "score": 1,
-        "examples": []
+        "score": 66,
+        "examples": [
+          "Op-Ed: School employees’ health costs are everyone’s problem - NJ Spotlight News",
+          "The promise of innovative mental health models - Community College Daily",
+          "Jarrow Formulas® Co-Q10, 200 mg, Antioxidant Support for Mitochondrial Health, Cellular Energy Production and Healthy Cardiovascular Function, 60 Veggie Capsules, 60 Day Supply | Mitochondrial Health Support, Cellular Energy Support, Cardiovascular - Whole Foods Market"
+        ]
       },
       {
         "trend": "outbreak",
         "market_code": "JO",
         "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "score": 17,
+        "examples": [
+          "Taylor Farms recalls lettuce in 27 states amid cyclosporiasis outbreak: What to know - ABC News - Breaking News, Latest News and Videos",
+          "United States Issues Cyclospora Health Alert for Domestic Travellers as Multi-State Outbreak Raises Food Safety Concerns: What Precautions Should You Take Now? - Travel And Tour World",
+          "Health alert in Kayah State refugee camps after chickenpox outbreak - AsiaNews"
+        ]
+      },
+      {
+        "trend": "medical",
+        "market_code": "JO",
+        "category": "Arab Health",
+        "score": 14,
+        "examples": [
+          "Bipartisan bill would invest $25M to bolster use of key medical imaging software - Radiology Business",
+          "UT Medical Branch sued for alleged gender pay discrimination - The Daily Texan",
+          "Wrightsville Beach Ocean Rescue responds to “medical emergency” near beach access #10 - WECT"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "JO",
+        "category": "Mental Health",
+        "score": 12,
+        "examples": [
+          "The promise of innovative mental health models - Community College Daily",
+          "Young Ohioans struggle to access mental health care, study finds - NBC4 WCMH-TV",
+          "The promise of innovative mental health models - Community College Daily"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "JO",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
+        "score": 11,
+        "examples": [
+          "The promise of innovative mental health models - Community College Daily",
+          "Young Ohioans struggle to access mental health care, study finds - NBC4 WCMH-TV",
+          "The promise of innovative mental health models - Community College Daily"
+        ]
       },
       {
-        "trend": "medical research",
+        "trend": "infection",
+        "market_code": "JO",
+        "category": "Outbreaks",
+        "score": 7,
+        "examples": [
+          "A Diagnostic Challenge: Disseminated Herpes Simplex Virus Type 2 Infection Presenting in Stages and Mimicking Sepsis and Biliary Disease Across Two Healthcare Systems - Cureus",
+          "Comparison of the Vessel Loop Technique Versus Traditional Skin Closure for the Prevention of Surgical Site Infection Following Laparotomy in General Surgery - Cureus",
+          "The Evolution of Dental Safety: PPE vs Uniforms - Infection Control Today"
+        ]
+      },
+      {
+        "trend": "disease",
         "market_code": "JO",
         "category": "Arab Health",
-        "score": 1,
-        "examples": []
+        "score": 6,
+        "examples": [
+          "Second person dies in legionnaires’ disease outbreak in New York City - The Guardian",
+          "Two More Patients Die in Outbreak of Legionnaires’ Disease in Manhattan - The New York Times",
+          "A Diagnostic Challenge: Disseminated Herpes Simplex Virus Type 2 Infection Presenting in Stages and Mimicking Sepsis and Biliary Disease Across Two Healthcare Systems - Cureus"
+        ]
       },
       {
-        "trend": "drug approval",
+        "trend": "healthcare",
         "market_code": "JO",
-        "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
+        "category": "Arab Health",
+        "score": 6,
+        "examples": [
+          "A Diagnostic Challenge: Disseminated Herpes Simplex Virus Type 2 Infection Presenting in Stages and Mimicking Sepsis and Biliary Disease Across Two Healthcare Systems - Cureus",
+          "Technological innovation in healthcare: challenges, opportunities and impact on sustainability - Frontiers",
+          "Student presents AI research at international healthcare technology conference - The Pennsylvania State University"
+        ]
       },
       {
-        "trend": "diet wellness",
+        "trend": "healthy",
         "market_code": "JO",
-        "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "category": "Arab Health",
+        "score": 5,
+        "examples": [
+          "Jarrow Formulas® Co-Q10, 200 mg, Antioxidant Support for Mitochondrial Health, Cellular Energy Production and Healthy Cardiovascular Function, 60 Veggie Capsules, 60 Day Supply | Mitochondrial Health Support, Cellular Energy Support, Cardiovascular - Whole Foods Market",
+          "Least Healthy Medicaid Enrollees Face Highest Risk of Coverage Loss Under Work Requirements Expansion - The American Journal of Managed Care",
+          "Want to Be Healthy at 70? This Is the Diet to Follow, Research Says - Yahoo Health"
+        ]
+      },
+      {
+        "trend": "public health",
+        "market_code": "JO",
+        "category": "Arab Health",
+        "score": 5,
+        "examples": [
+          "Heat stroke, exhaustion biggest RAGBRAI concerns for county public health - Times Republican",
+          "Heat stroke, exhaustion biggest RAGBRAI concerns for county public health - Times Republican",
+          "More prevention, less 'modern corruption’: A call-to-action to protect public health - Public Health Communication Centre"
+        ]
+      },
+      {
+        "trend": "hospital",
+        "market_code": "JO",
+        "category": "Arab Health",
+        "score": 5,
+        "examples": [
+          "2 men sue hospital for sending them home with each other’s families as newborns almost 40 years ago - HealthExec",
+          "Georgia is building first state psychiatric hospital since landmark disability case - Georgia Recorder",
+          "How Family Advocacy Day Inspired a Medical Student to Pursue Pediatrics - Children's Hospital Association"
+        ]
+      },
+      {
+        "trend": "patients",
+        "market_code": "JO",
+        "category": "Arab Health",
+        "score": 5,
+        "examples": [
+          "Two More Patients Die in Outbreak of Legionnaires’ Disease in Manhattan - The New York Times",
+          "‘Just living life again’: Beechview resident part of a Pitt trial connecting cancer patients with mental health supports - Pittsburgh Post-Gazette",
+          "Patients’ Perspectives on AI in Primary Care - Commonwealth Fund"
+        ]
       }
     ],
     "Lebanon": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "LB",
         "category": "Arab Health",
-        "score": 1,
-        "examples": []
+        "score": 66,
+        "examples": [
+          "Op-Ed: School employees’ health costs are everyone’s problem - NJ Spotlight News",
+          "The promise of innovative mental health models - Community College Daily",
+          "Jarrow Formulas® Co-Q10, 200 mg, Antioxidant Support for Mitochondrial Health, Cellular Energy Production and Healthy Cardiovascular Function, 60 Veggie Capsules, 60 Day Supply | Mitochondrial Health Support, Cellular Energy Support, Cardiovascular - Whole Foods Market"
+        ]
       },
       {
         "trend": "outbreak",
         "market_code": "LB",
         "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "score": 17,
+        "examples": [
+          "Taylor Farms recalls lettuce in 27 states amid cyclosporiasis outbreak: What to know - ABC News - Breaking News, Latest News and Videos",
+          "United States Issues Cyclospora Health Alert for Domestic Travellers as Multi-State Outbreak Raises Food Safety Concerns: What Precautions Should You Take Now? - Travel And Tour World",
+          "Health alert in Kayah State refugee camps after chickenpox outbreak - AsiaNews"
+        ]
+      },
+      {
+        "trend": "medical",
+        "market_code": "LB",
+        "category": "Arab Health",
+        "score": 14,
+        "examples": [
+          "Bipartisan bill would invest $25M to bolster use of key medical imaging software - Radiology Business",
+          "UT Medical Branch sued for alleged gender pay discrimination - The Daily Texan",
+          "Wrightsville Beach Ocean Rescue responds to “medical emergency” near beach access #10 - WECT"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "LB",
+        "category": "Mental Health",
+        "score": 12,
+        "examples": [
+          "The promise of innovative mental health models - Community College Daily",
+          "Young Ohioans struggle to access mental health care, study finds - NBC4 WCMH-TV",
+          "The promise of innovative mental health models - Community College Daily"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "LB",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
+        "score": 11,
+        "examples": [
+          "The promise of innovative mental health models - Community College Daily",
+          "Young Ohioans struggle to access mental health care, study finds - NBC4 WCMH-TV",
+          "The promise of innovative mental health models - Community College Daily"
+        ]
       },
       {
-        "trend": "medical research",
+        "trend": "infection",
+        "market_code": "LB",
+        "category": "Outbreaks",
+        "score": 7,
+        "examples": [
+          "A Diagnostic Challenge: Disseminated Herpes Simplex Virus Type 2 Infection Presenting in Stages and Mimicking Sepsis and Biliary Disease Across Two Healthcare Systems - Cureus",
+          "Comparison of the Vessel Loop Technique Versus Traditional Skin Closure for the Prevention of Surgical Site Infection Following Laparotomy in General Surgery - Cureus",
+          "The Evolution of Dental Safety: PPE vs Uniforms - Infection Control Today"
+        ]
+      },
+      {
+        "trend": "disease",
         "market_code": "LB",
         "category": "Arab Health",
-        "score": 1,
-        "examples": []
+        "score": 6,
+        "examples": [
+          "Second person dies in legionnaires’ disease outbreak in New York City - The Guardian",
+          "Two More Patients Die in Outbreak of Legionnaires’ Disease in Manhattan - The New York Times",
+          "A Diagnostic Challenge: Disseminated Herpes Simplex Virus Type 2 Infection Presenting in Stages and Mimicking Sepsis and Biliary Disease Across Two Healthcare Systems - Cureus"
+        ]
       },
       {
-        "trend": "drug approval",
+        "trend": "healthcare",
         "market_code": "LB",
-        "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
+        "category": "Arab Health",
+        "score": 6,
+        "examples": [
+          "A Diagnostic Challenge: Disseminated Herpes Simplex Virus Type 2 Infection Presenting in Stages and Mimicking Sepsis and Biliary Disease Across Two Healthcare Systems - Cureus",
+          "Technological innovation in healthcare: challenges, opportunities and impact on sustainability - Frontiers",
+          "Student presents AI research at international healthcare technology conference - The Pennsylvania State University"
+        ]
       },
       {
-        "trend": "diet wellness",
+        "trend": "healthy",
         "market_code": "LB",
-        "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "category": "Arab Health",
+        "score": 5,
+        "examples": [
+          "Jarrow Formulas® Co-Q10, 200 mg, Antioxidant Support for Mitochondrial Health, Cellular Energy Production and Healthy Cardiovascular Function, 60 Veggie Capsules, 60 Day Supply | Mitochondrial Health Support, Cellular Energy Support, Cardiovascular - Whole Foods Market",
+          "Least Healthy Medicaid Enrollees Face Highest Risk of Coverage Loss Under Work Requirements Expansion - The American Journal of Managed Care",
+          "Want to Be Healthy at 70? This Is the Diet to Follow, Research Says - Yahoo Health"
+        ]
+      },
+      {
+        "trend": "public health",
+        "market_code": "LB",
+        "category": "Arab Health",
+        "score": 5,
+        "examples": [
+          "Heat stroke, exhaustion biggest RAGBRAI concerns for county public health - Times Republican",
+          "Heat stroke, exhaustion biggest RAGBRAI concerns for county public health - Times Republican",
+          "More prevention, less 'modern corruption’: A call-to-action to protect public health - Public Health Communication Centre"
+        ]
+      },
+      {
+        "trend": "hospital",
+        "market_code": "LB",
+        "category": "Arab Health",
+        "score": 5,
+        "examples": [
+          "2 men sue hospital for sending them home with each other’s families as newborns almost 40 years ago - HealthExec",
+          "Georgia is building first state psychiatric hospital since landmark disability case - Georgia Recorder",
+          "How Family Advocacy Day Inspired a Medical Student to Pursue Pediatrics - Children's Hospital Association"
+        ]
+      },
+      {
+        "trend": "patients",
+        "market_code": "LB",
+        "category": "Arab Health",
+        "score": 5,
+        "examples": [
+          "Two More Patients Die in Outbreak of Legionnaires’ Disease in Manhattan - The New York Times",
+          "‘Just living life again’: Beechview resident part of a Pitt trial connecting cancer patients with mental health supports - Pittsburgh Post-Gazette",
+          "Patients’ Perspectives on AI in Primary Care - Commonwealth Fund"
+        ]
       }
     ]
   }
