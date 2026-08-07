@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-06T22:41:09.516065+00:00",
+  "updated_at": "2026-08-07T01:56:22.621431+00:00",
   "total_trends": 252,
   "markets": {
     "United States": [
@@ -7,33 +7,55 @@
         "trend": "health",
         "market_code": "US",
         "category": "US Health",
-        "score": 65,
+        "score": 66,
         "examples": [
           "The Trump Administration's Foreign Aid Review: Status of U.S. Global Maternal and Child Health Efforts - KFF",
-          "HHS proposes cutting many federal education and health guidelines for Head Start - washingtonpost.com",
-          "Reimagining Rural Maternal and Child Health - National Governors Association"
+          "New Mexico court orders Meta to pay $567 million over mental health harms to kids online - PBS",
+          "HHS proposes cutting many federal education and health guidelines for Head Start - The Washington Post"
         ]
       },
       {
         "trend": "medical",
         "market_code": "US",
         "category": "US Health",
-        "score": 20,
+        "score": 21,
         "examples": [
           "Medical Aid in Dying - New York State Department of Health (.gov)",
           "UNC defensive coordinator Steve Belichick on medical leave - WRAL",
-          "Making Medical AI More Reliable - USC Viterbi School of Engineering"
+          "Maine Medical Center nurse who was detained by ICE released from custody, Rep. Pingree says - WMTW"
         ]
       },
       {
         "trend": "outbreak",
         "market_code": "US",
         "category": "Outbreaks",
-        "score": 18,
+        "score": 13,
         "examples": [
           "19 Health Alert: Northeast Ohio measles outbreak - Cleveland 19 News",
-          "19 Health Alert: Northeast Ohio measles outbreak - Cleveland 19 News",
-          "Salmonella Outbreak Linked to Jalapeño Peppers From Chipotle and Qdoba - Time Magazine"
+          "Salmonella Outbreak Linked to Jalapeño Peppers From Chipotle and Qdoba - Time Magazine",
+          "Cyclospora Outbreak 2026: Map, Foods to Avoid, States Most Impacted as US Hits 22,000 Cases - TODAY.com"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "US",
+        "category": "Mental Health",
+        "score": 12,
+        "examples": [
+          "New Mexico court orders Meta to pay $567 million over mental health harms to kids online - PBS",
+          "Former Clancy nanny testifies about mother's mental health issues before killings - PBS",
+          "Wellness club gives Latino men space to focus on mental health - ABC7 Los Angeles"
+        ]
+      },
+      {
+        "trend": "mental health",
+        "market_code": "US",
+        "category": "Mental Health",
+        "score": 12,
+        "examples": [
+          "New Mexico court orders Meta to pay $567 million over mental health harms to kids online - PBS",
+          "Former Clancy nanny testifies about mother's mental health issues before killings - PBS",
+          "Wellness club gives Latino men space to focus on mental health - ABC7 Los Angeles"
         ]
       },
       {
@@ -48,28 +70,6 @@
         ]
       },
       {
-        "trend": "mental",
-        "market_code": "US",
-        "category": "Mental Health",
-        "score": 10,
-        "examples": [
-          "Former Clancy nanny testifies about mother's mental health issues before killings - PBS",
-          "Working with the American Psychological Association on youth mental health and AI - OpenAI",
-          "NY made it possible for judges to order mental health treatment. But is access the real issue? - WXXI News"
-        ]
-      },
-      {
-        "trend": "mental health",
-        "market_code": "US",
-        "category": "Mental Health",
-        "score": 10,
-        "examples": [
-          "Former Clancy nanny testifies about mother's mental health issues before killings - PBS",
-          "Working with the American Psychological Association on youth mental health and AI - OpenAI",
-          "NY made it possible for judges to order mental health treatment. But is access the real issue? - WXXI News"
-        ]
-      },
-      {
         "trend": "healthcare",
         "market_code": "US",
         "category": "US Health",
@@ -81,43 +81,21 @@
         ]
       },
       {
-        "trend": "virus",
-        "market_code": "US",
-        "category": "Outbreaks",
-        "score": 9,
-        "examples": [
-          "Ebola virus behind massive outbreak in DRC could be mutating, officials say - theguardian.com",
-          "Ebola virus behind massive outbreak in DRC could be mutating, officials say - theguardian.com",
-          "AI designs new virus not found in nature - Axios"
-        ]
-      },
-      {
         "trend": "public health",
         "market_code": "US",
         "category": "US Health",
         "score": 8,
         "examples": [
           "How a Maxwell Professor Uses Radio Dramas to Improve Public Health Outcomes - Syracuse University Today",
-          "Marena Works remembered for Nevada public health leadership - unr.edu",
-          "Public health alumna, center director guide road map for cancer prevention in Virginia - Virginia Tech News"
-        ]
-      },
-      {
-        "trend": "measles",
-        "market_code": "US",
-        "category": "Outbreaks",
-        "score": 7,
-        "examples": [
-          "Kern County Public Health confirms first cases of measles - KGET.com",
-          "19 Health Alert: Northeast Ohio measles outbreak - Cleveland 19 News",
-          "Measles exposure warning issued at Universal Studios Hollywood after confirmed case in visitor - CBS News"
+          "Greening public health: embedding environmental sustainability in research and practice - Frontiers",
+          "Marena Works remembered for Nevada public health leadership - University of Nevada, Reno"
         ]
       },
       {
         "trend": "infection",
         "market_code": "US",
         "category": "Outbreaks",
-        "score": 7,
+        "score": 8,
         "examples": [
           "Texas leads US in cases of dangerous fungal infection - FOX 7 Austin",
           "Why the same antibiotic can cure one infection but fail in another - Medical Xpress",
@@ -125,14 +103,36 @@
         ]
       },
       {
+        "trend": "virus",
+        "market_code": "US",
+        "category": "Outbreaks",
+        "score": 7,
+        "examples": [
+          "Ebola virus behind massive outbreak in DRC could be mutating, officials say - The Guardian",
+          "AI designs new virus not found in nature - Axios",
+          "Ebola virus behind massive outbreak in DRC could be mutating, officials say - The Guardian"
+        ]
+      },
+      {
         "trend": "vaccine",
         "market_code": "US",
         "category": "Drug & Treatment News",
-        "score": 6,
+        "score": 7,
         "examples": [
           "Moderna begins Phase 1 clinical trial of Ebola vaccine against strain behind DRC outbreak - ABC News - Breaking News, Latest News and Videos",
           "Two FDA approvals — a new drug and a new vaccine - STAT",
-          "FDA Approves mRNA-1010 (mFLUSIVA) as mRNA Flu Vaccine for Adults 50 and Older - patientcareonline.com"
+          "Moderna's first mRNA flu vaccine approved for adults 50+ - Stock Titan"
+        ]
+      },
+      {
+        "trend": "research",
+        "market_code": "US",
+        "category": "US Health",
+        "score": 6,
+        "examples": [
+          "Bridging Gaps in Women’s Health: Research driving change in sexual violence prevention - The University of Utah",
+          "Greening public health: embedding environmental sustainability in research and practice - Frontiers",
+          "‘If it stings your lungs, go inside’: Wildfire smoke blankets western South Dakota as SDSU research powers new national forecast tool - KOTA Territory News"
         ]
       }
     ],
@@ -141,21 +141,21 @@
         "trend": "health",
         "market_code": "GB",
         "category": "Europe Health",
-        "score": 56,
+        "score": 59,
         "examples": [
           "New walk-in mental health centres to open in banks and libraries across England - BBC",
-          "New mental health community centres - LGA response - Local Government Association",
-          "Plans unveiled for 100 community mental health centres - Nursing in Practice"
+          "New mental health community centres - LGA response - local.gov.uk",
+          "Government to Roll Out 159 Mental Health Hubs in England - Pharmacy Business"
         ]
       },
       {
         "trend": "medical",
         "market_code": "GB",
         "category": "Europe Health",
-        "score": 20,
+        "score": 21,
         "examples": [
-          "August: Bristol medical student signs first professional contract with Gloucestershire | News and features - University of Bristol",
           "Arsenal set to announce Bruno Guimaraes deal after medical as contract details revealed - London Evening Standard",
+          "August: Bristol medical student signs first professional contract with Gloucestershire | News and features - University of Bristol",
           "Medical Report: Betfred Championship - London Broncos"
         ]
       },
@@ -163,33 +163,44 @@
         "trend": "mental",
         "market_code": "GB",
         "category": "Mental Health",
-        "score": 19,
+        "score": 20,
         "examples": [
           "New walk-in mental health centres to open in banks and libraries across England - BBC",
-          "New mental health community centres - LGA response - Local Government Association",
-          "Plans unveiled for 100 community mental health centres - Nursing in Practice"
+          "New mental health community centres - LGA response - local.gov.uk",
+          "Government to Roll Out 159 Mental Health Hubs in England - Pharmacy Business"
         ]
       },
       {
         "trend": "mental health",
         "market_code": "GB",
         "category": "Mental Health",
-        "score": 19,
+        "score": 20,
         "examples": [
           "New walk-in mental health centres to open in banks and libraries across England - BBC",
-          "New mental health community centres - LGA response - Local Government Association",
-          "Plans unveiled for 100 community mental health centres - Nursing in Practice"
+          "New mental health community centres - LGA response - local.gov.uk",
+          "Government to Roll Out 159 Mental Health Hubs in England - Pharmacy Business"
         ]
       },
       {
         "trend": "outbreak",
         "market_code": "GB",
         "category": "Outbreaks",
-        "score": 14,
+        "score": 12,
         "examples": [
           "Ebola virus behind massive outbreak in DRC could be mutating, officials say - The Guardian",
-          "Cyclospora Outbreak 2026: Map, Foods to Avoid, States Most Impacted as US Hits 22,000 Cases - TODAY.com",
-          "WOWorks CEO addresses cyclosporiasis outbreak, food safety response - Yahoo Finance UK"
+          "Cyclospora Outbreak 2026: Map, Foods to Avoid, States Most Impacted as US Hits 22,000 Cases - today.com",
+          "WHO chief: Ebola outbreak in DRC spreading at ‘unprecedented rate’ - Al Jazeera"
+        ]
+      },
+      {
+        "trend": "warning",
+        "market_code": "GB",
+        "category": "Europe Health",
+        "score": 11,
+        "examples": [
+          "Health warning issued for harmful algae bloom in West Medical Lake - KXLY.com",
+          "Measles exposure warning issued at Universal Studios Hollywood after confirmed case in visitor - CBS News",
+          "Michigan health officials lift lettuce, salad greens warning as cyclosporiasis cases decline - ClickOnDetroit | WDIV Local 4"
         ]
       },
       {
@@ -204,47 +215,47 @@
         ]
       },
       {
-        "trend": "warning",
+        "trend": "research",
         "market_code": "GB",
         "category": "Europe Health",
-        "score": 10,
-        "examples": [
-          "Measles exposure warning issued at Universal Studios Hollywood after confirmed case in visitor - cbsnews.com",
-          "Michigan health officials lift lettuce, salad greens warning as cyclosporiasis cases decline - ClickOnDetroit | WDIV Local 4",
-          "Health warning at Cedar Lake beaches for blue-green algae - kstp.com"
-        ]
-      },
-      {
-        "trend": "infection",
-        "market_code": "GB",
-        "category": "Outbreaks",
         "score": 8,
         "examples": [
-          "Public consultation on the draft key ethical criteria for controlled human infection studies in emergency preparedness - who.int",
-          "Public consultation on the draft key ethical criteria for controlled human infection studies in emergency preparedness - who.int",
-          "DNA sequencing may help revolutionize CF lung infection care: Study - Cystic Fibrosis News Today"
-        ]
-      },
-      {
-        "trend": "virus",
-        "market_code": "GB",
-        "category": "Outbreaks",
-        "score": 7,
-        "examples": [
-          "Granby Zoo issues warning about Japanese macaque following possible Herpes B virus exposure - ctvnews.ca",
-          "Granby Zoo issues warning about Japanese macaque following possible Herpes B virus exposure - CP24",
-          "Ebola virus behind massive outbreak in DRC could be mutating, officials say - The Guardian"
+          "Greening public health: embedding environmental sustainability in research and practice - Frontiers",
+          "‘If it stings your lungs, go inside’: Wildfire smoke blankets western South Dakota as SDSU research powers new national forecast tool - KOTA Territory News",
+          "New study traces 20 years of research linking Morgellons disease to infection - LymeDisease.org"
         ]
       },
       {
         "trend": "vaccine",
         "market_code": "GB",
         "category": "Drug & Treatment News",
-        "score": 7,
+        "score": 6,
         "examples": [
+          "Africa CDC says will use Zaire Ebola vaccine in current outbreak - TRT Afrika",
           "Moderna begins Phase 1 clinical trial of Ebola vaccine against strain behind DRC outbreak - ABC News - Breaking News, Latest News and Videos",
-          "FDA Approves mRNA-1010 (mFLUSIVA) as mRNA Flu Vaccine for Adults 50 and Older - Patient Care Online",
           "FDA approves first mRNA vaccine for seasonal flu - Live Science"
+        ]
+      },
+      {
+        "trend": "viruses",
+        "market_code": "GB",
+        "category": "Outbreaks",
+        "score": 6,
+        "examples": [
+          "Artificial Intelligence used to design brand new viruses - BBC",
+          "AI creates first synthetic viruses - Financial Times",
+          "Safety fears as scientists make first viruses designed by AI - The Guardian"
+        ]
+      },
+      {
+        "trend": "infection",
+        "market_code": "GB",
+        "category": "Outbreaks",
+        "score": 6,
+        "examples": [
+          "Public consultation on the draft key ethical criteria for controlled human infection studies in emergency preparedness - World Health Organization (WHO)",
+          "DNA sequencing may help revolutionize CF lung infection care: Study - Cystic Fibrosis News Today",
+          "Why the same antibiotic can cure one infection but fail in another - Medical Xpress"
         ]
       },
       {
@@ -255,18 +266,7 @@
         "examples": [
           "New walk-in mental health centres to open in banks and libraries across England - BBC",
           "Plans unveiled for 100 community mental health centres - Nursing in Practice",
-          "New walk-in mental health centres to open in banks and libraries across England - BBC"
-        ]
-      },
-      {
-        "trend": "mental health centres",
-        "market_code": "GB",
-        "category": "Mental Health",
-        "score": 5,
-        "examples": [
-          "New walk-in mental health centres to open in banks and libraries across England - BBC",
-          "Plans unveiled for 100 community mental health centres - Nursing in Practice",
-          "New walk-in mental health centres to open in banks and libraries across England - BBC"
+          "Plans unveiled for 100 community mental health centres - Nursing in Practice"
         ]
       }
     ],
@@ -275,33 +275,55 @@
         "trend": "health",
         "market_code": "DE",
         "category": "Europe Health",
-        "score": 65,
+        "score": 66,
         "examples": [
           "The Trump Administration's Foreign Aid Review: Status of U.S. Global Maternal and Child Health Efforts - KFF",
-          "HHS proposes cutting many federal education and health guidelines for Head Start - washingtonpost.com",
-          "Reimagining Rural Maternal and Child Health - National Governors Association"
+          "New Mexico court orders Meta to pay $567 million over mental health harms to kids online - PBS",
+          "HHS proposes cutting many federal education and health guidelines for Head Start - The Washington Post"
         ]
       },
       {
         "trend": "medical",
         "market_code": "DE",
         "category": "Europe Health",
-        "score": 20,
+        "score": 21,
         "examples": [
           "Medical Aid in Dying - New York State Department of Health (.gov)",
           "UNC defensive coordinator Steve Belichick on medical leave - WRAL",
-          "Making Medical AI More Reliable - USC Viterbi School of Engineering"
+          "Making Medical AI More Reliable - viterbischool.usc.edu"
         ]
       },
       {
         "trend": "outbreak",
         "market_code": "DE",
         "category": "Outbreaks",
-        "score": 18,
+        "score": 13,
         "examples": [
           "19 Health Alert: Northeast Ohio measles outbreak - Cleveland 19 News",
-          "19 Health Alert: Northeast Ohio measles outbreak - Cleveland 19 News",
-          "Salmonella Outbreak Linked to Jalapeño Peppers From Chipotle and Qdoba - Time Magazine"
+          "Salmonella Outbreak Linked to Jalapeño Peppers From Chipotle and Qdoba - Time Magazine",
+          "Cyclospora Outbreak 2026: Map, Foods to Avoid, States Most Impacted as US Hits 22,000 Cases - TODAY.com"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "DE",
+        "category": "Mental Health",
+        "score": 12,
+        "examples": [
+          "New Mexico court orders Meta to pay $567 million over mental health harms to kids online - PBS",
+          "Former Clancy nanny testifies about mother's mental health issues before killings - PBS",
+          "Wellness club gives Latino men space to focus on mental health - ABC7 Los Angeles"
+        ]
+      },
+      {
+        "trend": "mental health",
+        "market_code": "DE",
+        "category": "Mental Health",
+        "score": 12,
+        "examples": [
+          "New Mexico court orders Meta to pay $567 million over mental health harms to kids online - PBS",
+          "Former Clancy nanny testifies about mother's mental health issues before killings - PBS",
+          "Wellness club gives Latino men space to focus on mental health - ABC7 Los Angeles"
         ]
       },
       {
@@ -316,47 +338,14 @@
         ]
       },
       {
-        "trend": "mental",
-        "market_code": "DE",
-        "category": "Mental Health",
-        "score": 10,
-        "examples": [
-          "Former Clancy nanny testifies about mother's mental health issues before killings - PBS",
-          "Working with the American Psychological Association on youth mental health and AI - OpenAI",
-          "NY made it possible for judges to order mental health treatment. But is access the real issue? - WXXI News"
-        ]
-      },
-      {
-        "trend": "mental health",
-        "market_code": "DE",
-        "category": "Mental Health",
-        "score": 10,
-        "examples": [
-          "Former Clancy nanny testifies about mother's mental health issues before killings - PBS",
-          "Working with the American Psychological Association on youth mental health and AI - OpenAI",
-          "NY made it possible for judges to order mental health treatment. But is access the real issue? - WXXI News"
-        ]
-      },
-      {
         "trend": "healthcare",
         "market_code": "DE",
         "category": "Europe Health",
-        "score": 10,
+        "score": 11,
         "examples": [
           "Is physical AI healthcare's next transformational technology? - Healthcare IT News",
           "Is physical AI healthcare's next transformational technology? - Healthcare IT News",
           "Medical AI should be built with healthcare, not around it - The Business Journals"
-        ]
-      },
-      {
-        "trend": "virus",
-        "market_code": "DE",
-        "category": "Outbreaks",
-        "score": 9,
-        "examples": [
-          "Ebola virus behind massive outbreak in DRC could be mutating, officials say - The Guardian",
-          "Ebola virus behind massive outbreak in DRC could be mutating, officials say - theguardian.com",
-          "AI designs new virus not found in nature - Axios"
         ]
       },
       {
@@ -366,26 +355,15 @@
         "score": 8,
         "examples": [
           "How a Maxwell Professor Uses Radio Dramas to Improve Public Health Outcomes - Syracuse University Today",
-          "Marena Works remembered for Nevada public health leadership - unr.edu",
-          "Public health alumna, center director guide road map for cancer prevention in Virginia - Virginia Tech News"
-        ]
-      },
-      {
-        "trend": "measles",
-        "market_code": "DE",
-        "category": "Outbreaks",
-        "score": 7,
-        "examples": [
-          "Kern County Public Health confirms first cases of measles - KGET.com",
-          "19 Health Alert: Northeast Ohio measles outbreak - Cleveland 19 News",
-          "Measles exposure warning issued at Universal Studios Hollywood after confirmed case in visitor - CBS News"
+          "Greening public health: embedding environmental sustainability in research and practice - Frontiers",
+          "Marena Works remembered for Nevada public health leadership - University of Nevada, Reno"
         ]
       },
       {
         "trend": "infection",
         "market_code": "DE",
         "category": "Outbreaks",
-        "score": 7,
+        "score": 8,
         "examples": [
           "Texas leads US in cases of dangerous fungal infection - FOX 7 Austin",
           "Why the same antibiotic can cure one infection but fail in another - Medical Xpress",
@@ -393,14 +371,36 @@
         ]
       },
       {
+        "trend": "virus",
+        "market_code": "DE",
+        "category": "Outbreaks",
+        "score": 7,
+        "examples": [
+          "Ebola virus behind massive outbreak in DRC could be mutating, officials say - The Guardian",
+          "AI designs new virus not found in nature - Axios",
+          "Ebola virus behind massive outbreak in DRC could be mutating, officials say - The Guardian"
+        ]
+      },
+      {
         "trend": "vaccine",
         "market_code": "DE",
         "category": "Drug & Treatment News",
-        "score": 6,
+        "score": 7,
         "examples": [
           "Moderna begins Phase 1 clinical trial of Ebola vaccine against strain behind DRC outbreak - ABC News - Breaking News, Latest News and Videos",
           "Two FDA approvals — a new drug and a new vaccine - STAT",
-          "FDA Approves mRNA-1010 (mFLUSIVA) as mRNA Flu Vaccine for Adults 50 and Older - patientcareonline.com"
+          "Moderna's first mRNA flu vaccine approved for adults 50+ - Stock Titan"
+        ]
+      },
+      {
+        "trend": "research",
+        "market_code": "DE",
+        "category": "Europe Health",
+        "score": 6,
+        "examples": [
+          "Bridging Gaps in Women’s Health: Research driving change in sexual violence prevention - The University of Utah",
+          "Greening public health: embedding environmental sustainability in research and practice - Frontiers",
+          "‘If it stings your lungs, go inside’: Wildfire smoke blankets western South Dakota as SDSU research powers new national forecast tool - KOTA Territory News"
         ]
       }
     ],
@@ -409,33 +409,55 @@
         "trend": "health",
         "market_code": "FR",
         "category": "Europe Health",
-        "score": 65,
+        "score": 66,
         "examples": [
           "The Trump Administration's Foreign Aid Review: Status of U.S. Global Maternal and Child Health Efforts - KFF",
-          "HHS proposes cutting many federal education and health guidelines for Head Start - washingtonpost.com",
-          "Reimagining Rural Maternal and Child Health - National Governors Association"
+          "New Mexico court orders Meta to pay $567 million over mental health harms to kids online - PBS",
+          "HHS proposes cutting many federal education and health guidelines for Head Start - The Washington Post"
         ]
       },
       {
         "trend": "medical",
         "market_code": "FR",
         "category": "Europe Health",
-        "score": 20,
+        "score": 21,
         "examples": [
           "Medical Aid in Dying - New York State Department of Health (.gov)",
           "UNC defensive coordinator Steve Belichick on medical leave - WRAL",
-          "Making Medical AI More Reliable - USC Viterbi School of Engineering"
+          "Making Medical AI More Reliable - viterbischool.usc.edu"
         ]
       },
       {
         "trend": "outbreak",
         "market_code": "FR",
         "category": "Outbreaks",
-        "score": 18,
+        "score": 13,
         "examples": [
           "19 Health Alert: Northeast Ohio measles outbreak - Cleveland 19 News",
-          "19 Health Alert: Northeast Ohio measles outbreak - Cleveland 19 News",
-          "Salmonella Outbreak Linked to Jalapeño Peppers From Chipotle and Qdoba - Time Magazine"
+          "Salmonella Outbreak Linked to Jalapeño Peppers From Chipotle and Qdoba - Time Magazine",
+          "Cyclospora Outbreak 2026: Map, Foods to Avoid, States Most Impacted as US Hits 22,000 Cases - TODAY.com"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "FR",
+        "category": "Mental Health",
+        "score": 12,
+        "examples": [
+          "New Mexico court orders Meta to pay $567 million over mental health harms to kids online - PBS",
+          "Former Clancy nanny testifies about mother's mental health issues before killings - PBS",
+          "Wellness club gives Latino men space to focus on mental health - ABC7 Los Angeles"
+        ]
+      },
+      {
+        "trend": "mental health",
+        "market_code": "FR",
+        "category": "Mental Health",
+        "score": 12,
+        "examples": [
+          "New Mexico court orders Meta to pay $567 million over mental health harms to kids online - PBS",
+          "Former Clancy nanny testifies about mother's mental health issues before killings - PBS",
+          "Wellness club gives Latino men space to focus on mental health - ABC7 Los Angeles"
         ]
       },
       {
@@ -450,47 +472,14 @@
         ]
       },
       {
-        "trend": "mental",
-        "market_code": "FR",
-        "category": "Mental Health",
-        "score": 10,
-        "examples": [
-          "Former Clancy nanny testifies about mother's mental health issues before killings - PBS",
-          "Working with the American Psychological Association on youth mental health and AI - OpenAI",
-          "NY made it possible for judges to order mental health treatment. But is access the real issue? - WXXI News"
-        ]
-      },
-      {
-        "trend": "mental health",
-        "market_code": "FR",
-        "category": "Mental Health",
-        "score": 10,
-        "examples": [
-          "Former Clancy nanny testifies about mother's mental health issues before killings - PBS",
-          "Working with the American Psychological Association on youth mental health and AI - OpenAI",
-          "NY made it possible for judges to order mental health treatment. But is access the real issue? - WXXI News"
-        ]
-      },
-      {
         "trend": "healthcare",
         "market_code": "FR",
         "category": "Europe Health",
-        "score": 10,
+        "score": 11,
         "examples": [
           "Is physical AI healthcare's next transformational technology? - Healthcare IT News",
           "Is physical AI healthcare's next transformational technology? - Healthcare IT News",
           "Medical AI should be built with healthcare, not around it - The Business Journals"
-        ]
-      },
-      {
-        "trend": "virus",
-        "market_code": "FR",
-        "category": "Outbreaks",
-        "score": 9,
-        "examples": [
-          "Ebola virus behind massive outbreak in DRC could be mutating, officials say - The Guardian",
-          "Ebola virus behind massive outbreak in DRC could be mutating, officials say - theguardian.com",
-          "AI designs new virus not found in nature - Axios"
         ]
       },
       {
@@ -500,26 +489,15 @@
         "score": 8,
         "examples": [
           "How a Maxwell Professor Uses Radio Dramas to Improve Public Health Outcomes - Syracuse University Today",
-          "Marena Works remembered for Nevada public health leadership - unr.edu",
-          "Public health alumna, center director guide road map for cancer prevention in Virginia - Virginia Tech News"
-        ]
-      },
-      {
-        "trend": "measles",
-        "market_code": "FR",
-        "category": "Outbreaks",
-        "score": 7,
-        "examples": [
-          "Kern County Public Health confirms first cases of measles - KGET.com",
-          "19 Health Alert: Northeast Ohio measles outbreak - Cleveland 19 News",
-          "Measles exposure warning issued at Universal Studios Hollywood after confirmed case in visitor - CBS News"
+          "Greening public health: embedding environmental sustainability in research and practice - Frontiers",
+          "Marena Works remembered for Nevada public health leadership - University of Nevada, Reno"
         ]
       },
       {
         "trend": "infection",
         "market_code": "FR",
         "category": "Outbreaks",
-        "score": 7,
+        "score": 8,
         "examples": [
           "Texas leads US in cases of dangerous fungal infection - FOX 7 Austin",
           "Why the same antibiotic can cure one infection but fail in another - Medical Xpress",
@@ -527,14 +505,36 @@
         ]
       },
       {
+        "trend": "virus",
+        "market_code": "FR",
+        "category": "Outbreaks",
+        "score": 7,
+        "examples": [
+          "Ebola virus behind massive outbreak in DRC could be mutating, officials say - The Guardian",
+          "AI designs new virus not found in nature - Axios",
+          "Ebola virus behind massive outbreak in DRC could be mutating, officials say - The Guardian"
+        ]
+      },
+      {
         "trend": "vaccine",
         "market_code": "FR",
         "category": "Drug & Treatment News",
-        "score": 6,
+        "score": 7,
         "examples": [
           "Moderna begins Phase 1 clinical trial of Ebola vaccine against strain behind DRC outbreak - ABC News - Breaking News, Latest News and Videos",
           "Two FDA approvals — a new drug and a new vaccine - STAT",
-          "FDA Approves mRNA-1010 (mFLUSIVA) as mRNA Flu Vaccine for Adults 50 and Older - patientcareonline.com"
+          "Moderna's first mRNA flu vaccine approved for adults 50+ - Stock Titan"
+        ]
+      },
+      {
+        "trend": "research",
+        "market_code": "FR",
+        "category": "Europe Health",
+        "score": 6,
+        "examples": [
+          "Bridging Gaps in Women’s Health: Research driving change in sexual violence prevention - The University of Utah",
+          "Greening public health: embedding environmental sustainability in research and practice - Frontiers",
+          "‘If it stings your lungs, go inside’: Wildfire smoke blankets western South Dakota as SDSU research powers new national forecast tool - KOTA Territory News"
         ]
       }
     ],
@@ -543,33 +543,55 @@
         "trend": "health",
         "market_code": "IT",
         "category": "Europe Health",
-        "score": 65,
+        "score": 66,
         "examples": [
           "The Trump Administration's Foreign Aid Review: Status of U.S. Global Maternal and Child Health Efforts - KFF",
-          "HHS proposes cutting many federal education and health guidelines for Head Start - washingtonpost.com",
-          "Reimagining Rural Maternal and Child Health - National Governors Association"
+          "New Mexico court orders Meta to pay $567 million over mental health harms to kids online - PBS",
+          "HHS proposes cutting many federal education and health guidelines for Head Start - The Washington Post"
         ]
       },
       {
         "trend": "medical",
         "market_code": "IT",
         "category": "Europe Health",
-        "score": 20,
+        "score": 21,
         "examples": [
           "Medical Aid in Dying - New York State Department of Health (.gov)",
           "UNC defensive coordinator Steve Belichick on medical leave - WRAL",
-          "Making Medical AI More Reliable - USC Viterbi School of Engineering"
+          "Making Medical AI More Reliable - viterbischool.usc.edu"
         ]
       },
       {
         "trend": "outbreak",
         "market_code": "IT",
         "category": "Outbreaks",
-        "score": 18,
+        "score": 13,
         "examples": [
           "19 Health Alert: Northeast Ohio measles outbreak - Cleveland 19 News",
-          "19 Health Alert: Northeast Ohio measles outbreak - Cleveland 19 News",
-          "Salmonella Outbreak Linked to Jalapeño Peppers From Chipotle and Qdoba - Time Magazine"
+          "Salmonella Outbreak Linked to Jalapeño Peppers From Chipotle and Qdoba - Time Magazine",
+          "Cyclospora Outbreak 2026: Map, Foods to Avoid, States Most Impacted as US Hits 22,000 Cases - TODAY.com"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "IT",
+        "category": "Mental Health",
+        "score": 12,
+        "examples": [
+          "New Mexico court orders Meta to pay $567 million over mental health harms to kids online - PBS",
+          "Former Clancy nanny testifies about mother's mental health issues before killings - PBS",
+          "Wellness club gives Latino men space to focus on mental health - ABC7 Los Angeles"
+        ]
+      },
+      {
+        "trend": "mental health",
+        "market_code": "IT",
+        "category": "Mental Health",
+        "score": 12,
+        "examples": [
+          "New Mexico court orders Meta to pay $567 million over mental health harms to kids online - PBS",
+          "Former Clancy nanny testifies about mother's mental health issues before killings - PBS",
+          "Wellness club gives Latino men space to focus on mental health - ABC7 Los Angeles"
         ]
       },
       {
@@ -584,47 +606,14 @@
         ]
       },
       {
-        "trend": "mental",
-        "market_code": "IT",
-        "category": "Mental Health",
-        "score": 10,
-        "examples": [
-          "Former Clancy nanny testifies about mother's mental health issues before killings - PBS",
-          "Working with the American Psychological Association on youth mental health and AI - OpenAI",
-          "NY made it possible for judges to order mental health treatment. But is access the real issue? - WXXI News"
-        ]
-      },
-      {
-        "trend": "mental health",
-        "market_code": "IT",
-        "category": "Mental Health",
-        "score": 10,
-        "examples": [
-          "Former Clancy nanny testifies about mother's mental health issues before killings - PBS",
-          "Working with the American Psychological Association on youth mental health and AI - OpenAI",
-          "NY made it possible for judges to order mental health treatment. But is access the real issue? - WXXI News"
-        ]
-      },
-      {
         "trend": "healthcare",
         "market_code": "IT",
         "category": "Europe Health",
-        "score": 10,
+        "score": 11,
         "examples": [
           "Is physical AI healthcare's next transformational technology? - Healthcare IT News",
           "Is physical AI healthcare's next transformational technology? - Healthcare IT News",
           "Medical AI should be built with healthcare, not around it - The Business Journals"
-        ]
-      },
-      {
-        "trend": "virus",
-        "market_code": "IT",
-        "category": "Outbreaks",
-        "score": 9,
-        "examples": [
-          "Ebola virus behind massive outbreak in DRC could be mutating, officials say - The Guardian",
-          "Ebola virus behind massive outbreak in DRC could be mutating, officials say - theguardian.com",
-          "AI designs new virus not found in nature - Axios"
         ]
       },
       {
@@ -634,26 +623,15 @@
         "score": 8,
         "examples": [
           "How a Maxwell Professor Uses Radio Dramas to Improve Public Health Outcomes - Syracuse University Today",
-          "Marena Works remembered for Nevada public health leadership - unr.edu",
-          "Public health alumna, center director guide road map for cancer prevention in Virginia - Virginia Tech News"
-        ]
-      },
-      {
-        "trend": "measles",
-        "market_code": "IT",
-        "category": "Outbreaks",
-        "score": 7,
-        "examples": [
-          "Kern County Public Health confirms first cases of measles - KGET.com",
-          "19 Health Alert: Northeast Ohio measles outbreak - Cleveland 19 News",
-          "Measles exposure warning issued at Universal Studios Hollywood after confirmed case in visitor - CBS News"
+          "Greening public health: embedding environmental sustainability in research and practice - Frontiers",
+          "Marena Works remembered for Nevada public health leadership - University of Nevada, Reno"
         ]
       },
       {
         "trend": "infection",
         "market_code": "IT",
         "category": "Outbreaks",
-        "score": 7,
+        "score": 8,
         "examples": [
           "Texas leads US in cases of dangerous fungal infection - FOX 7 Austin",
           "Why the same antibiotic can cure one infection but fail in another - Medical Xpress",
@@ -661,14 +639,36 @@
         ]
       },
       {
+        "trend": "virus",
+        "market_code": "IT",
+        "category": "Outbreaks",
+        "score": 7,
+        "examples": [
+          "Ebola virus behind massive outbreak in DRC could be mutating, officials say - The Guardian",
+          "AI designs new virus not found in nature - Axios",
+          "Ebola virus behind massive outbreak in DRC could be mutating, officials say - The Guardian"
+        ]
+      },
+      {
         "trend": "vaccine",
         "market_code": "IT",
         "category": "Drug & Treatment News",
-        "score": 6,
+        "score": 7,
         "examples": [
           "Moderna begins Phase 1 clinical trial of Ebola vaccine against strain behind DRC outbreak - ABC News - Breaking News, Latest News and Videos",
           "Two FDA approvals — a new drug and a new vaccine - STAT",
-          "FDA Approves mRNA-1010 (mFLUSIVA) as mRNA Flu Vaccine for Adults 50 and Older - patientcareonline.com"
+          "Moderna's first mRNA flu vaccine approved for adults 50+ - Stock Titan"
+        ]
+      },
+      {
+        "trend": "research",
+        "market_code": "IT",
+        "category": "Europe Health",
+        "score": 6,
+        "examples": [
+          "Bridging Gaps in Women’s Health: Research driving change in sexual violence prevention - The University of Utah",
+          "Greening public health: embedding environmental sustainability in research and practice - Frontiers",
+          "‘If it stings your lungs, go inside’: Wildfire smoke blankets western South Dakota as SDSU research powers new national forecast tool - KOTA Territory News"
         ]
       }
     ],
@@ -677,33 +677,55 @@
         "trend": "health",
         "market_code": "ES",
         "category": "Europe Health",
-        "score": 65,
+        "score": 66,
         "examples": [
           "The Trump Administration's Foreign Aid Review: Status of U.S. Global Maternal and Child Health Efforts - KFF",
-          "HHS proposes cutting many federal education and health guidelines for Head Start - washingtonpost.com",
-          "Reimagining Rural Maternal and Child Health - National Governors Association"
+          "New Mexico court orders Meta to pay $567 million over mental health harms to kids online - PBS",
+          "HHS proposes cutting many federal education and health guidelines for Head Start - The Washington Post"
         ]
       },
       {
         "trend": "medical",
         "market_code": "ES",
         "category": "Europe Health",
-        "score": 20,
+        "score": 21,
         "examples": [
           "Medical Aid in Dying - New York State Department of Health (.gov)",
           "UNC defensive coordinator Steve Belichick on medical leave - WRAL",
-          "Making Medical AI More Reliable - USC Viterbi School of Engineering"
+          "Making Medical AI More Reliable - viterbischool.usc.edu"
         ]
       },
       {
         "trend": "outbreak",
         "market_code": "ES",
         "category": "Outbreaks",
-        "score": 18,
+        "score": 13,
         "examples": [
           "19 Health Alert: Northeast Ohio measles outbreak - Cleveland 19 News",
-          "19 Health Alert: Northeast Ohio measles outbreak - Cleveland 19 News",
-          "Salmonella Outbreak Linked to Jalapeño Peppers From Chipotle and Qdoba - Time Magazine"
+          "Salmonella Outbreak Linked to Jalapeño Peppers From Chipotle and Qdoba - Time Magazine",
+          "Cyclospora Outbreak 2026: Map, Foods to Avoid, States Most Impacted as US Hits 22,000 Cases - TODAY.com"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "ES",
+        "category": "Mental Health",
+        "score": 12,
+        "examples": [
+          "New Mexico court orders Meta to pay $567 million over mental health harms to kids online - PBS",
+          "Former Clancy nanny testifies about mother's mental health issues before killings - PBS",
+          "Wellness club gives Latino men space to focus on mental health - ABC7 Los Angeles"
+        ]
+      },
+      {
+        "trend": "mental health",
+        "market_code": "ES",
+        "category": "Mental Health",
+        "score": 12,
+        "examples": [
+          "New Mexico court orders Meta to pay $567 million over mental health harms to kids online - PBS",
+          "Former Clancy nanny testifies about mother's mental health issues before killings - PBS",
+          "Wellness club gives Latino men space to focus on mental health - ABC7 Los Angeles"
         ]
       },
       {
@@ -718,47 +740,14 @@
         ]
       },
       {
-        "trend": "mental",
-        "market_code": "ES",
-        "category": "Mental Health",
-        "score": 10,
-        "examples": [
-          "Former Clancy nanny testifies about mother's mental health issues before killings - PBS",
-          "Working with the American Psychological Association on youth mental health and AI - OpenAI",
-          "NY made it possible for judges to order mental health treatment. But is access the real issue? - WXXI News"
-        ]
-      },
-      {
-        "trend": "mental health",
-        "market_code": "ES",
-        "category": "Mental Health",
-        "score": 10,
-        "examples": [
-          "Former Clancy nanny testifies about mother's mental health issues before killings - PBS",
-          "Working with the American Psychological Association on youth mental health and AI - OpenAI",
-          "NY made it possible for judges to order mental health treatment. But is access the real issue? - WXXI News"
-        ]
-      },
-      {
         "trend": "healthcare",
         "market_code": "ES",
         "category": "Europe Health",
-        "score": 10,
+        "score": 11,
         "examples": [
           "Is physical AI healthcare's next transformational technology? - Healthcare IT News",
           "Is physical AI healthcare's next transformational technology? - Healthcare IT News",
           "Medical AI should be built with healthcare, not around it - The Business Journals"
-        ]
-      },
-      {
-        "trend": "virus",
-        "market_code": "ES",
-        "category": "Outbreaks",
-        "score": 9,
-        "examples": [
-          "Ebola virus behind massive outbreak in DRC could be mutating, officials say - The Guardian",
-          "Ebola virus behind massive outbreak in DRC could be mutating, officials say - theguardian.com",
-          "AI designs new virus not found in nature - Axios"
         ]
       },
       {
@@ -768,26 +757,15 @@
         "score": 8,
         "examples": [
           "How a Maxwell Professor Uses Radio Dramas to Improve Public Health Outcomes - Syracuse University Today",
-          "Marena Works remembered for Nevada public health leadership - unr.edu",
-          "Public health alumna, center director guide road map for cancer prevention in Virginia - Virginia Tech News"
-        ]
-      },
-      {
-        "trend": "measles",
-        "market_code": "ES",
-        "category": "Outbreaks",
-        "score": 7,
-        "examples": [
-          "Kern County Public Health confirms first cases of measles - KGET.com",
-          "19 Health Alert: Northeast Ohio measles outbreak - Cleveland 19 News",
-          "Measles exposure warning issued at Universal Studios Hollywood after confirmed case in visitor - CBS News"
+          "Greening public health: embedding environmental sustainability in research and practice - Frontiers",
+          "Marena Works remembered for Nevada public health leadership - University of Nevada, Reno"
         ]
       },
       {
         "trend": "infection",
         "market_code": "ES",
         "category": "Outbreaks",
-        "score": 7,
+        "score": 8,
         "examples": [
           "Texas leads US in cases of dangerous fungal infection - FOX 7 Austin",
           "Why the same antibiotic can cure one infection but fail in another - Medical Xpress",
@@ -795,14 +773,36 @@
         ]
       },
       {
+        "trend": "virus",
+        "market_code": "ES",
+        "category": "Outbreaks",
+        "score": 7,
+        "examples": [
+          "Ebola virus behind massive outbreak in DRC could be mutating, officials say - The Guardian",
+          "AI designs new virus not found in nature - Axios",
+          "Ebola virus behind massive outbreak in DRC could be mutating, officials say - The Guardian"
+        ]
+      },
+      {
         "trend": "vaccine",
         "market_code": "ES",
         "category": "Drug & Treatment News",
-        "score": 6,
+        "score": 7,
         "examples": [
           "Moderna begins Phase 1 clinical trial of Ebola vaccine against strain behind DRC outbreak - ABC News - Breaking News, Latest News and Videos",
           "Two FDA approvals — a new drug and a new vaccine - STAT",
-          "FDA Approves mRNA-1010 (mFLUSIVA) as mRNA Flu Vaccine for Adults 50 and Older - patientcareonline.com"
+          "Moderna's first mRNA flu vaccine approved for adults 50+ - Stock Titan"
+        ]
+      },
+      {
+        "trend": "research",
+        "market_code": "ES",
+        "category": "Europe Health",
+        "score": 6,
+        "examples": [
+          "Bridging Gaps in Women’s Health: Research driving change in sexual violence prevention - The University of Utah",
+          "Greening public health: embedding environmental sustainability in research and practice - Frontiers",
+          "‘If it stings your lungs, go inside’: Wildfire smoke blankets western South Dakota as SDSU research powers new national forecast tool - KOTA Territory News"
         ]
       }
     ],
@@ -811,33 +811,55 @@
         "trend": "health",
         "market_code": "SE",
         "category": "Europe Health",
-        "score": 65,
+        "score": 66,
         "examples": [
           "The Trump Administration's Foreign Aid Review: Status of U.S. Global Maternal and Child Health Efforts - KFF",
-          "HHS proposes cutting many federal education and health guidelines for Head Start - washingtonpost.com",
-          "Reimagining Rural Maternal and Child Health - National Governors Association"
+          "New Mexico court orders Meta to pay $567 million over mental health harms to kids online - PBS",
+          "HHS proposes cutting many federal education and health guidelines for Head Start - The Washington Post"
         ]
       },
       {
         "trend": "medical",
         "market_code": "SE",
         "category": "Europe Health",
-        "score": 20,
+        "score": 21,
         "examples": [
           "Medical Aid in Dying - New York State Department of Health (.gov)",
           "UNC defensive coordinator Steve Belichick on medical leave - WRAL",
-          "Making Medical AI More Reliable - USC Viterbi School of Engineering"
+          "Making Medical AI More Reliable - viterbischool.usc.edu"
         ]
       },
       {
         "trend": "outbreak",
         "market_code": "SE",
         "category": "Outbreaks",
-        "score": 18,
+        "score": 13,
         "examples": [
           "19 Health Alert: Northeast Ohio measles outbreak - Cleveland 19 News",
-          "19 Health Alert: Northeast Ohio measles outbreak - Cleveland 19 News",
-          "Salmonella Outbreak Linked to Jalapeño Peppers From Chipotle and Qdoba - Time Magazine"
+          "Salmonella Outbreak Linked to Jalapeño Peppers From Chipotle and Qdoba - Time Magazine",
+          "Cyclospora Outbreak 2026: Map, Foods to Avoid, States Most Impacted as US Hits 22,000 Cases - TODAY.com"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "SE",
+        "category": "Mental Health",
+        "score": 12,
+        "examples": [
+          "New Mexico court orders Meta to pay $567 million over mental health harms to kids online - PBS",
+          "Former Clancy nanny testifies about mother's mental health issues before killings - PBS",
+          "Wellness club gives Latino men space to focus on mental health - ABC7 Los Angeles"
+        ]
+      },
+      {
+        "trend": "mental health",
+        "market_code": "SE",
+        "category": "Mental Health",
+        "score": 12,
+        "examples": [
+          "New Mexico court orders Meta to pay $567 million over mental health harms to kids online - PBS",
+          "Former Clancy nanny testifies about mother's mental health issues before killings - PBS",
+          "Wellness club gives Latino men space to focus on mental health - ABC7 Los Angeles"
         ]
       },
       {
@@ -852,47 +874,14 @@
         ]
       },
       {
-        "trend": "mental",
-        "market_code": "SE",
-        "category": "Mental Health",
-        "score": 10,
-        "examples": [
-          "Former Clancy nanny testifies about mother's mental health issues before killings - PBS",
-          "Working with the American Psychological Association on youth mental health and AI - OpenAI",
-          "NY made it possible for judges to order mental health treatment. But is access the real issue? - WXXI News"
-        ]
-      },
-      {
-        "trend": "mental health",
-        "market_code": "SE",
-        "category": "Mental Health",
-        "score": 10,
-        "examples": [
-          "Former Clancy nanny testifies about mother's mental health issues before killings - PBS",
-          "Working with the American Psychological Association on youth mental health and AI - OpenAI",
-          "NY made it possible for judges to order mental health treatment. But is access the real issue? - WXXI News"
-        ]
-      },
-      {
         "trend": "healthcare",
         "market_code": "SE",
         "category": "Europe Health",
-        "score": 10,
+        "score": 11,
         "examples": [
           "Is physical AI healthcare's next transformational technology? - Healthcare IT News",
           "Is physical AI healthcare's next transformational technology? - Healthcare IT News",
           "Medical AI should be built with healthcare, not around it - The Business Journals"
-        ]
-      },
-      {
-        "trend": "virus",
-        "market_code": "SE",
-        "category": "Outbreaks",
-        "score": 9,
-        "examples": [
-          "Ebola virus behind massive outbreak in DRC could be mutating, officials say - The Guardian",
-          "Ebola virus behind massive outbreak in DRC could be mutating, officials say - theguardian.com",
-          "AI designs new virus not found in nature - Axios"
         ]
       },
       {
@@ -902,26 +891,15 @@
         "score": 8,
         "examples": [
           "How a Maxwell Professor Uses Radio Dramas to Improve Public Health Outcomes - Syracuse University Today",
-          "Marena Works remembered for Nevada public health leadership - unr.edu",
-          "Public health alumna, center director guide road map for cancer prevention in Virginia - Virginia Tech News"
-        ]
-      },
-      {
-        "trend": "measles",
-        "market_code": "SE",
-        "category": "Outbreaks",
-        "score": 7,
-        "examples": [
-          "Kern County Public Health confirms first cases of measles - KGET.com",
-          "19 Health Alert: Northeast Ohio measles outbreak - Cleveland 19 News",
-          "Measles exposure warning issued at Universal Studios Hollywood after confirmed case in visitor - CBS News"
+          "Greening public health: embedding environmental sustainability in research and practice - Frontiers",
+          "Marena Works remembered for Nevada public health leadership - University of Nevada, Reno"
         ]
       },
       {
         "trend": "infection",
         "market_code": "SE",
         "category": "Outbreaks",
-        "score": 7,
+        "score": 8,
         "examples": [
           "Texas leads US in cases of dangerous fungal infection - FOX 7 Austin",
           "Why the same antibiotic can cure one infection but fail in another - Medical Xpress",
@@ -929,14 +907,36 @@
         ]
       },
       {
+        "trend": "virus",
+        "market_code": "SE",
+        "category": "Outbreaks",
+        "score": 7,
+        "examples": [
+          "Ebola virus behind massive outbreak in DRC could be mutating, officials say - The Guardian",
+          "AI designs new virus not found in nature - Axios",
+          "Ebola virus behind massive outbreak in DRC could be mutating, officials say - The Guardian"
+        ]
+      },
+      {
         "trend": "vaccine",
         "market_code": "SE",
         "category": "Drug & Treatment News",
-        "score": 6,
+        "score": 7,
         "examples": [
           "Moderna begins Phase 1 clinical trial of Ebola vaccine against strain behind DRC outbreak - ABC News - Breaking News, Latest News and Videos",
           "Two FDA approvals — a new drug and a new vaccine - STAT",
-          "FDA Approves mRNA-1010 (mFLUSIVA) as mRNA Flu Vaccine for Adults 50 and Older - patientcareonline.com"
+          "Moderna's first mRNA flu vaccine approved for adults 50+ - Stock Titan"
+        ]
+      },
+      {
+        "trend": "research",
+        "market_code": "SE",
+        "category": "Europe Health",
+        "score": 6,
+        "examples": [
+          "Bridging Gaps in Women’s Health: Research driving change in sexual violence prevention - The University of Utah",
+          "Greening public health: embedding environmental sustainability in research and practice - Frontiers",
+          "‘If it stings your lungs, go inside’: Wildfire smoke blankets western South Dakota as SDSU research powers new national forecast tool - KOTA Territory News"
         ]
       }
     ],
@@ -945,33 +945,55 @@
         "trend": "health",
         "market_code": "NL",
         "category": "Europe Health",
-        "score": 65,
+        "score": 66,
         "examples": [
           "The Trump Administration's Foreign Aid Review: Status of U.S. Global Maternal and Child Health Efforts - KFF",
-          "HHS proposes cutting many federal education and health guidelines for Head Start - washingtonpost.com",
-          "Reimagining Rural Maternal and Child Health - National Governors Association"
+          "New Mexico court orders Meta to pay $567 million over mental health harms to kids online - PBS",
+          "HHS proposes cutting many federal education and health guidelines for Head Start - The Washington Post"
         ]
       },
       {
         "trend": "medical",
         "market_code": "NL",
         "category": "Europe Health",
-        "score": 20,
+        "score": 21,
         "examples": [
           "Medical Aid in Dying - New York State Department of Health (.gov)",
           "UNC defensive coordinator Steve Belichick on medical leave - WRAL",
-          "Making Medical AI More Reliable - USC Viterbi School of Engineering"
+          "Making Medical AI More Reliable - viterbischool.usc.edu"
         ]
       },
       {
         "trend": "outbreak",
         "market_code": "NL",
         "category": "Outbreaks",
-        "score": 18,
+        "score": 13,
         "examples": [
           "19 Health Alert: Northeast Ohio measles outbreak - Cleveland 19 News",
-          "19 Health Alert: Northeast Ohio measles outbreak - Cleveland 19 News",
-          "Salmonella Outbreak Linked to Jalapeño Peppers From Chipotle and Qdoba - Time Magazine"
+          "Salmonella Outbreak Linked to Jalapeño Peppers From Chipotle and Qdoba - Time Magazine",
+          "Cyclospora Outbreak 2026: Map, Foods to Avoid, States Most Impacted as US Hits 22,000 Cases - TODAY.com"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "NL",
+        "category": "Mental Health",
+        "score": 12,
+        "examples": [
+          "New Mexico court orders Meta to pay $567 million over mental health harms to kids online - PBS",
+          "Former Clancy nanny testifies about mother's mental health issues before killings - PBS",
+          "Wellness club gives Latino men space to focus on mental health - ABC7 Los Angeles"
+        ]
+      },
+      {
+        "trend": "mental health",
+        "market_code": "NL",
+        "category": "Mental Health",
+        "score": 12,
+        "examples": [
+          "New Mexico court orders Meta to pay $567 million over mental health harms to kids online - PBS",
+          "Former Clancy nanny testifies about mother's mental health issues before killings - PBS",
+          "Wellness club gives Latino men space to focus on mental health - ABC7 Los Angeles"
         ]
       },
       {
@@ -986,47 +1008,14 @@
         ]
       },
       {
-        "trend": "mental",
-        "market_code": "NL",
-        "category": "Mental Health",
-        "score": 10,
-        "examples": [
-          "Former Clancy nanny testifies about mother's mental health issues before killings - PBS",
-          "Working with the American Psychological Association on youth mental health and AI - OpenAI",
-          "NY made it possible for judges to order mental health treatment. But is access the real issue? - WXXI News"
-        ]
-      },
-      {
-        "trend": "mental health",
-        "market_code": "NL",
-        "category": "Mental Health",
-        "score": 10,
-        "examples": [
-          "Former Clancy nanny testifies about mother's mental health issues before killings - PBS",
-          "Working with the American Psychological Association on youth mental health and AI - OpenAI",
-          "NY made it possible for judges to order mental health treatment. But is access the real issue? - WXXI News"
-        ]
-      },
-      {
         "trend": "healthcare",
         "market_code": "NL",
         "category": "Europe Health",
-        "score": 10,
+        "score": 11,
         "examples": [
           "Is physical AI healthcare's next transformational technology? - Healthcare IT News",
           "Is physical AI healthcare's next transformational technology? - Healthcare IT News",
           "Medical AI should be built with healthcare, not around it - The Business Journals"
-        ]
-      },
-      {
-        "trend": "virus",
-        "market_code": "NL",
-        "category": "Outbreaks",
-        "score": 9,
-        "examples": [
-          "Ebola virus behind massive outbreak in DRC could be mutating, officials say - The Guardian",
-          "Ebola virus behind massive outbreak in DRC could be mutating, officials say - theguardian.com",
-          "AI designs new virus not found in nature - Axios"
         ]
       },
       {
@@ -1036,26 +1025,15 @@
         "score": 8,
         "examples": [
           "How a Maxwell Professor Uses Radio Dramas to Improve Public Health Outcomes - Syracuse University Today",
-          "Marena Works remembered for Nevada public health leadership - unr.edu",
-          "Public health alumna, center director guide road map for cancer prevention in Virginia - Virginia Tech News"
-        ]
-      },
-      {
-        "trend": "measles",
-        "market_code": "NL",
-        "category": "Outbreaks",
-        "score": 7,
-        "examples": [
-          "Kern County Public Health confirms first cases of measles - KGET.com",
-          "19 Health Alert: Northeast Ohio measles outbreak - Cleveland 19 News",
-          "Measles exposure warning issued at Universal Studios Hollywood after confirmed case in visitor - CBS News"
+          "Greening public health: embedding environmental sustainability in research and practice - Frontiers",
+          "Marena Works remembered for Nevada public health leadership - University of Nevada, Reno"
         ]
       },
       {
         "trend": "infection",
         "market_code": "NL",
         "category": "Outbreaks",
-        "score": 7,
+        "score": 8,
         "examples": [
           "Texas leads US in cases of dangerous fungal infection - FOX 7 Austin",
           "Why the same antibiotic can cure one infection but fail in another - Medical Xpress",
@@ -1063,14 +1041,36 @@
         ]
       },
       {
+        "trend": "virus",
+        "market_code": "NL",
+        "category": "Outbreaks",
+        "score": 7,
+        "examples": [
+          "Ebola virus behind massive outbreak in DRC could be mutating, officials say - The Guardian",
+          "AI designs new virus not found in nature - Axios",
+          "Ebola virus behind massive outbreak in DRC could be mutating, officials say - The Guardian"
+        ]
+      },
+      {
         "trend": "vaccine",
         "market_code": "NL",
         "category": "Drug & Treatment News",
-        "score": 6,
+        "score": 7,
         "examples": [
           "Moderna begins Phase 1 clinical trial of Ebola vaccine against strain behind DRC outbreak - ABC News - Breaking News, Latest News and Videos",
           "Two FDA approvals — a new drug and a new vaccine - STAT",
-          "FDA Approves mRNA-1010 (mFLUSIVA) as mRNA Flu Vaccine for Adults 50 and Older - patientcareonline.com"
+          "Moderna's first mRNA flu vaccine approved for adults 50+ - Stock Titan"
+        ]
+      },
+      {
+        "trend": "research",
+        "market_code": "NL",
+        "category": "Europe Health",
+        "score": 6,
+        "examples": [
+          "Bridging Gaps in Women’s Health: Research driving change in sexual violence prevention - The University of Utah",
+          "Greening public health: embedding environmental sustainability in research and practice - Frontiers",
+          "‘If it stings your lungs, go inside’: Wildfire smoke blankets western South Dakota as SDSU research powers new national forecast tool - KOTA Territory News"
         ]
       }
     ],
@@ -1079,33 +1079,55 @@
         "trend": "health",
         "market_code": "FI",
         "category": "Europe Health",
-        "score": 65,
+        "score": 66,
         "examples": [
           "The Trump Administration's Foreign Aid Review: Status of U.S. Global Maternal and Child Health Efforts - KFF",
-          "HHS proposes cutting many federal education and health guidelines for Head Start - washingtonpost.com",
-          "Reimagining Rural Maternal and Child Health - National Governors Association"
+          "New Mexico court orders Meta to pay $567 million over mental health harms to kids online - PBS",
+          "HHS proposes cutting many federal education and health guidelines for Head Start - The Washington Post"
         ]
       },
       {
         "trend": "medical",
         "market_code": "FI",
         "category": "Europe Health",
-        "score": 20,
+        "score": 21,
         "examples": [
           "Medical Aid in Dying - New York State Department of Health (.gov)",
           "UNC defensive coordinator Steve Belichick on medical leave - WRAL",
-          "Making Medical AI More Reliable - USC Viterbi School of Engineering"
+          "Making Medical AI More Reliable - viterbischool.usc.edu"
         ]
       },
       {
         "trend": "outbreak",
         "market_code": "FI",
         "category": "Outbreaks",
-        "score": 18,
+        "score": 13,
         "examples": [
           "19 Health Alert: Northeast Ohio measles outbreak - Cleveland 19 News",
-          "19 Health Alert: Northeast Ohio measles outbreak - Cleveland 19 News",
-          "Salmonella Outbreak Linked to Jalapeño Peppers From Chipotle and Qdoba - Time Magazine"
+          "Salmonella Outbreak Linked to Jalapeño Peppers From Chipotle and Qdoba - Time Magazine",
+          "Cyclospora Outbreak 2026: Map, Foods to Avoid, States Most Impacted as US Hits 22,000 Cases - TODAY.com"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "FI",
+        "category": "Mental Health",
+        "score": 12,
+        "examples": [
+          "New Mexico court orders Meta to pay $567 million over mental health harms to kids online - PBS",
+          "Former Clancy nanny testifies about mother's mental health issues before killings - PBS",
+          "Wellness club gives Latino men space to focus on mental health - ABC7 Los Angeles"
+        ]
+      },
+      {
+        "trend": "mental health",
+        "market_code": "FI",
+        "category": "Mental Health",
+        "score": 12,
+        "examples": [
+          "New Mexico court orders Meta to pay $567 million over mental health harms to kids online - PBS",
+          "Former Clancy nanny testifies about mother's mental health issues before killings - PBS",
+          "Wellness club gives Latino men space to focus on mental health - ABC7 Los Angeles"
         ]
       },
       {
@@ -1120,47 +1142,14 @@
         ]
       },
       {
-        "trend": "mental",
-        "market_code": "FI",
-        "category": "Mental Health",
-        "score": 10,
-        "examples": [
-          "Former Clancy nanny testifies about mother's mental health issues before killings - PBS",
-          "Working with the American Psychological Association on youth mental health and AI - OpenAI",
-          "NY made it possible for judges to order mental health treatment. But is access the real issue? - WXXI News"
-        ]
-      },
-      {
-        "trend": "mental health",
-        "market_code": "FI",
-        "category": "Mental Health",
-        "score": 10,
-        "examples": [
-          "Former Clancy nanny testifies about mother's mental health issues before killings - PBS",
-          "Working with the American Psychological Association on youth mental health and AI - OpenAI",
-          "NY made it possible for judges to order mental health treatment. But is access the real issue? - WXXI News"
-        ]
-      },
-      {
         "trend": "healthcare",
         "market_code": "FI",
         "category": "Europe Health",
-        "score": 10,
+        "score": 11,
         "examples": [
           "Is physical AI healthcare's next transformational technology? - Healthcare IT News",
           "Is physical AI healthcare's next transformational technology? - Healthcare IT News",
           "Medical AI should be built with healthcare, not around it - The Business Journals"
-        ]
-      },
-      {
-        "trend": "virus",
-        "market_code": "FI",
-        "category": "Outbreaks",
-        "score": 9,
-        "examples": [
-          "Ebola virus behind massive outbreak in DRC could be mutating, officials say - The Guardian",
-          "Ebola virus behind massive outbreak in DRC could be mutating, officials say - theguardian.com",
-          "AI designs new virus not found in nature - Axios"
         ]
       },
       {
@@ -1170,26 +1159,15 @@
         "score": 8,
         "examples": [
           "How a Maxwell Professor Uses Radio Dramas to Improve Public Health Outcomes - Syracuse University Today",
-          "Marena Works remembered for Nevada public health leadership - unr.edu",
-          "Public health alumna, center director guide road map for cancer prevention in Virginia - Virginia Tech News"
-        ]
-      },
-      {
-        "trend": "measles",
-        "market_code": "FI",
-        "category": "Outbreaks",
-        "score": 7,
-        "examples": [
-          "Kern County Public Health confirms first cases of measles - KGET.com",
-          "19 Health Alert: Northeast Ohio measles outbreak - Cleveland 19 News",
-          "Measles exposure warning issued at Universal Studios Hollywood after confirmed case in visitor - CBS News"
+          "Greening public health: embedding environmental sustainability in research and practice - Frontiers",
+          "Marena Works remembered for Nevada public health leadership - University of Nevada, Reno"
         ]
       },
       {
         "trend": "infection",
         "market_code": "FI",
         "category": "Outbreaks",
-        "score": 7,
+        "score": 8,
         "examples": [
           "Texas leads US in cases of dangerous fungal infection - FOX 7 Austin",
           "Why the same antibiotic can cure one infection but fail in another - Medical Xpress",
@@ -1197,14 +1175,36 @@
         ]
       },
       {
+        "trend": "virus",
+        "market_code": "FI",
+        "category": "Outbreaks",
+        "score": 7,
+        "examples": [
+          "Ebola virus behind massive outbreak in DRC could be mutating, officials say - The Guardian",
+          "AI designs new virus not found in nature - Axios",
+          "Ebola virus behind massive outbreak in DRC could be mutating, officials say - The Guardian"
+        ]
+      },
+      {
         "trend": "vaccine",
         "market_code": "FI",
         "category": "Drug & Treatment News",
-        "score": 6,
+        "score": 7,
         "examples": [
           "Moderna begins Phase 1 clinical trial of Ebola vaccine against strain behind DRC outbreak - ABC News - Breaking News, Latest News and Videos",
           "Two FDA approvals — a new drug and a new vaccine - STAT",
-          "FDA Approves mRNA-1010 (mFLUSIVA) as mRNA Flu Vaccine for Adults 50 and Older - patientcareonline.com"
+          "Moderna's first mRNA flu vaccine approved for adults 50+ - Stock Titan"
+        ]
+      },
+      {
+        "trend": "research",
+        "market_code": "FI",
+        "category": "Europe Health",
+        "score": 6,
+        "examples": [
+          "Bridging Gaps in Women’s Health: Research driving change in sexual violence prevention - The University of Utah",
+          "Greening public health: embedding environmental sustainability in research and practice - Frontiers",
+          "‘If it stings your lungs, go inside’: Wildfire smoke blankets western South Dakota as SDSU research powers new national forecast tool - KOTA Territory News"
         ]
       }
     ],
@@ -1213,33 +1213,55 @@
         "trend": "health",
         "market_code": "NO",
         "category": "Europe Health",
-        "score": 65,
+        "score": 66,
         "examples": [
           "The Trump Administration's Foreign Aid Review: Status of U.S. Global Maternal and Child Health Efforts - KFF",
-          "HHS proposes cutting many federal education and health guidelines for Head Start - washingtonpost.com",
-          "Reimagining Rural Maternal and Child Health - National Governors Association"
+          "New Mexico court orders Meta to pay $567 million over mental health harms to kids online - PBS",
+          "HHS proposes cutting many federal education and health guidelines for Head Start - The Washington Post"
         ]
       },
       {
         "trend": "medical",
         "market_code": "NO",
         "category": "Europe Health",
-        "score": 20,
+        "score": 21,
         "examples": [
           "Medical Aid in Dying - New York State Department of Health (.gov)",
           "UNC defensive coordinator Steve Belichick on medical leave - WRAL",
-          "Making Medical AI More Reliable - USC Viterbi School of Engineering"
+          "Making Medical AI More Reliable - viterbischool.usc.edu"
         ]
       },
       {
         "trend": "outbreak",
         "market_code": "NO",
         "category": "Outbreaks",
-        "score": 18,
+        "score": 13,
         "examples": [
           "19 Health Alert: Northeast Ohio measles outbreak - Cleveland 19 News",
-          "19 Health Alert: Northeast Ohio measles outbreak - Cleveland 19 News",
-          "Salmonella Outbreak Linked to Jalapeño Peppers From Chipotle and Qdoba - Time Magazine"
+          "Salmonella Outbreak Linked to Jalapeño Peppers From Chipotle and Qdoba - Time Magazine",
+          "Cyclospora Outbreak 2026: Map, Foods to Avoid, States Most Impacted as US Hits 22,000 Cases - TODAY.com"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "NO",
+        "category": "Mental Health",
+        "score": 12,
+        "examples": [
+          "New Mexico court orders Meta to pay $567 million over mental health harms to kids online - PBS",
+          "Former Clancy nanny testifies about mother's mental health issues before killings - PBS",
+          "Wellness club gives Latino men space to focus on mental health - ABC7 Los Angeles"
+        ]
+      },
+      {
+        "trend": "mental health",
+        "market_code": "NO",
+        "category": "Mental Health",
+        "score": 12,
+        "examples": [
+          "New Mexico court orders Meta to pay $567 million over mental health harms to kids online - PBS",
+          "Former Clancy nanny testifies about mother's mental health issues before killings - PBS",
+          "Wellness club gives Latino men space to focus on mental health - ABC7 Los Angeles"
         ]
       },
       {
@@ -1254,47 +1276,14 @@
         ]
       },
       {
-        "trend": "mental",
-        "market_code": "NO",
-        "category": "Mental Health",
-        "score": 10,
-        "examples": [
-          "Former Clancy nanny testifies about mother's mental health issues before killings - PBS",
-          "Working with the American Psychological Association on youth mental health and AI - OpenAI",
-          "NY made it possible for judges to order mental health treatment. But is access the real issue? - WXXI News"
-        ]
-      },
-      {
-        "trend": "mental health",
-        "market_code": "NO",
-        "category": "Mental Health",
-        "score": 10,
-        "examples": [
-          "Former Clancy nanny testifies about mother's mental health issues before killings - PBS",
-          "Working with the American Psychological Association on youth mental health and AI - OpenAI",
-          "NY made it possible for judges to order mental health treatment. But is access the real issue? - WXXI News"
-        ]
-      },
-      {
         "trend": "healthcare",
         "market_code": "NO",
         "category": "Europe Health",
-        "score": 10,
+        "score": 11,
         "examples": [
           "Is physical AI healthcare's next transformational technology? - Healthcare IT News",
           "Is physical AI healthcare's next transformational technology? - Healthcare IT News",
           "Medical AI should be built with healthcare, not around it - The Business Journals"
-        ]
-      },
-      {
-        "trend": "virus",
-        "market_code": "NO",
-        "category": "Outbreaks",
-        "score": 9,
-        "examples": [
-          "Ebola virus behind massive outbreak in DRC could be mutating, officials say - The Guardian",
-          "Ebola virus behind massive outbreak in DRC could be mutating, officials say - theguardian.com",
-          "AI designs new virus not found in nature - Axios"
         ]
       },
       {
@@ -1304,26 +1293,15 @@
         "score": 8,
         "examples": [
           "How a Maxwell Professor Uses Radio Dramas to Improve Public Health Outcomes - Syracuse University Today",
-          "Marena Works remembered for Nevada public health leadership - unr.edu",
-          "Public health alumna, center director guide road map for cancer prevention in Virginia - Virginia Tech News"
-        ]
-      },
-      {
-        "trend": "measles",
-        "market_code": "NO",
-        "category": "Outbreaks",
-        "score": 7,
-        "examples": [
-          "Kern County Public Health confirms first cases of measles - KGET.com",
-          "19 Health Alert: Northeast Ohio measles outbreak - Cleveland 19 News",
-          "Measles exposure warning issued at Universal Studios Hollywood after confirmed case in visitor - CBS News"
+          "Greening public health: embedding environmental sustainability in research and practice - Frontiers",
+          "Marena Works remembered for Nevada public health leadership - University of Nevada, Reno"
         ]
       },
       {
         "trend": "infection",
         "market_code": "NO",
         "category": "Outbreaks",
-        "score": 7,
+        "score": 8,
         "examples": [
           "Texas leads US in cases of dangerous fungal infection - FOX 7 Austin",
           "Why the same antibiotic can cure one infection but fail in another - Medical Xpress",
@@ -1331,14 +1309,36 @@
         ]
       },
       {
+        "trend": "virus",
+        "market_code": "NO",
+        "category": "Outbreaks",
+        "score": 7,
+        "examples": [
+          "Ebola virus behind massive outbreak in DRC could be mutating, officials say - The Guardian",
+          "AI designs new virus not found in nature - Axios",
+          "Ebola virus behind massive outbreak in DRC could be mutating, officials say - The Guardian"
+        ]
+      },
+      {
         "trend": "vaccine",
         "market_code": "NO",
         "category": "Drug & Treatment News",
-        "score": 6,
+        "score": 7,
         "examples": [
           "Moderna begins Phase 1 clinical trial of Ebola vaccine against strain behind DRC outbreak - ABC News - Breaking News, Latest News and Videos",
           "Two FDA approvals — a new drug and a new vaccine - STAT",
-          "FDA Approves mRNA-1010 (mFLUSIVA) as mRNA Flu Vaccine for Adults 50 and Older - patientcareonline.com"
+          "Moderna's first mRNA flu vaccine approved for adults 50+ - Stock Titan"
+        ]
+      },
+      {
+        "trend": "research",
+        "market_code": "NO",
+        "category": "Europe Health",
+        "score": 6,
+        "examples": [
+          "Bridging Gaps in Women’s Health: Research driving change in sexual violence prevention - The University of Utah",
+          "Greening public health: embedding environmental sustainability in research and practice - Frontiers",
+          "‘If it stings your lungs, go inside’: Wildfire smoke blankets western South Dakota as SDSU research powers new national forecast tool - KOTA Territory News"
         ]
       }
     ],
@@ -1347,33 +1347,55 @@
         "trend": "health",
         "market_code": "JP",
         "category": "Asia Health",
-        "score": 65,
+        "score": 66,
         "examples": [
           "The Trump Administration's Foreign Aid Review: Status of U.S. Global Maternal and Child Health Efforts - KFF",
-          "HHS proposes cutting many federal education and health guidelines for Head Start - washingtonpost.com",
-          "Reimagining Rural Maternal and Child Health - National Governors Association"
+          "New Mexico court orders Meta to pay $567 million over mental health harms to kids online - PBS",
+          "HHS proposes cutting many federal education and health guidelines for Head Start - The Washington Post"
         ]
       },
       {
         "trend": "medical",
         "market_code": "JP",
         "category": "Asia Health",
-        "score": 20,
+        "score": 21,
         "examples": [
           "Medical Aid in Dying - New York State Department of Health (.gov)",
           "UNC defensive coordinator Steve Belichick on medical leave - WRAL",
-          "Making Medical AI More Reliable - USC Viterbi School of Engineering"
+          "Making Medical AI More Reliable - viterbischool.usc.edu"
         ]
       },
       {
         "trend": "outbreak",
         "market_code": "JP",
         "category": "Outbreaks",
-        "score": 18,
+        "score": 13,
         "examples": [
           "19 Health Alert: Northeast Ohio measles outbreak - Cleveland 19 News",
-          "19 Health Alert: Northeast Ohio measles outbreak - Cleveland 19 News",
-          "Salmonella Outbreak Linked to Jalapeño Peppers From Chipotle and Qdoba - Time Magazine"
+          "Salmonella Outbreak Linked to Jalapeño Peppers From Chipotle and Qdoba - Time Magazine",
+          "Cyclospora Outbreak 2026: Map, Foods to Avoid, States Most Impacted as US Hits 22,000 Cases - TODAY.com"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "JP",
+        "category": "Mental Health",
+        "score": 12,
+        "examples": [
+          "New Mexico court orders Meta to pay $567 million over mental health harms to kids online - PBS",
+          "Former Clancy nanny testifies about mother's mental health issues before killings - PBS",
+          "Wellness club gives Latino men space to focus on mental health - ABC7 Los Angeles"
+        ]
+      },
+      {
+        "trend": "mental health",
+        "market_code": "JP",
+        "category": "Mental Health",
+        "score": 12,
+        "examples": [
+          "New Mexico court orders Meta to pay $567 million over mental health harms to kids online - PBS",
+          "Former Clancy nanny testifies about mother's mental health issues before killings - PBS",
+          "Wellness club gives Latino men space to focus on mental health - ABC7 Los Angeles"
         ]
       },
       {
@@ -1388,47 +1410,14 @@
         ]
       },
       {
-        "trend": "mental",
-        "market_code": "JP",
-        "category": "Mental Health",
-        "score": 10,
-        "examples": [
-          "Former Clancy nanny testifies about mother's mental health issues before killings - PBS",
-          "Working with the American Psychological Association on youth mental health and AI - OpenAI",
-          "NY made it possible for judges to order mental health treatment. But is access the real issue? - WXXI News"
-        ]
-      },
-      {
-        "trend": "mental health",
-        "market_code": "JP",
-        "category": "Mental Health",
-        "score": 10,
-        "examples": [
-          "Former Clancy nanny testifies about mother's mental health issues before killings - PBS",
-          "Working with the American Psychological Association on youth mental health and AI - OpenAI",
-          "NY made it possible for judges to order mental health treatment. But is access the real issue? - WXXI News"
-        ]
-      },
-      {
         "trend": "healthcare",
         "market_code": "JP",
         "category": "Asia Health",
-        "score": 10,
+        "score": 11,
         "examples": [
           "Is physical AI healthcare's next transformational technology? - Healthcare IT News",
           "Is physical AI healthcare's next transformational technology? - Healthcare IT News",
           "Medical AI should be built with healthcare, not around it - The Business Journals"
-        ]
-      },
-      {
-        "trend": "virus",
-        "market_code": "JP",
-        "category": "Outbreaks",
-        "score": 9,
-        "examples": [
-          "Ebola virus behind massive outbreak in DRC could be mutating, officials say - The Guardian",
-          "Ebola virus behind massive outbreak in DRC could be mutating, officials say - theguardian.com",
-          "AI designs new virus not found in nature - Axios"
         ]
       },
       {
@@ -1438,26 +1427,15 @@
         "score": 8,
         "examples": [
           "How a Maxwell Professor Uses Radio Dramas to Improve Public Health Outcomes - Syracuse University Today",
-          "Marena Works remembered for Nevada public health leadership - unr.edu",
-          "Public health alumna, center director guide road map for cancer prevention in Virginia - Virginia Tech News"
-        ]
-      },
-      {
-        "trend": "measles",
-        "market_code": "JP",
-        "category": "Outbreaks",
-        "score": 7,
-        "examples": [
-          "Kern County Public Health confirms first cases of measles - KGET.com",
-          "19 Health Alert: Northeast Ohio measles outbreak - Cleveland 19 News",
-          "Measles exposure warning issued at Universal Studios Hollywood after confirmed case in visitor - CBS News"
+          "Greening public health: embedding environmental sustainability in research and practice - Frontiers",
+          "Marena Works remembered for Nevada public health leadership - University of Nevada, Reno"
         ]
       },
       {
         "trend": "infection",
         "market_code": "JP",
         "category": "Outbreaks",
-        "score": 7,
+        "score": 8,
         "examples": [
           "Texas leads US in cases of dangerous fungal infection - FOX 7 Austin",
           "Why the same antibiotic can cure one infection but fail in another - Medical Xpress",
@@ -1465,14 +1443,36 @@
         ]
       },
       {
+        "trend": "virus",
+        "market_code": "JP",
+        "category": "Outbreaks",
+        "score": 7,
+        "examples": [
+          "Ebola virus behind massive outbreak in DRC could be mutating, officials say - The Guardian",
+          "AI designs new virus not found in nature - Axios",
+          "Ebola virus behind massive outbreak in DRC could be mutating, officials say - The Guardian"
+        ]
+      },
+      {
         "trend": "vaccine",
         "market_code": "JP",
         "category": "Drug & Treatment News",
-        "score": 6,
+        "score": 7,
         "examples": [
           "Moderna begins Phase 1 clinical trial of Ebola vaccine against strain behind DRC outbreak - ABC News - Breaking News, Latest News and Videos",
           "Two FDA approvals — a new drug and a new vaccine - STAT",
-          "FDA Approves mRNA-1010 (mFLUSIVA) as mRNA Flu Vaccine for Adults 50 and Older - patientcareonline.com"
+          "Moderna's first mRNA flu vaccine approved for adults 50+ - Stock Titan"
+        ]
+      },
+      {
+        "trend": "research",
+        "market_code": "JP",
+        "category": "Asia Health",
+        "score": 6,
+        "examples": [
+          "Bridging Gaps in Women’s Health: Research driving change in sexual violence prevention - The University of Utah",
+          "Greening public health: embedding environmental sustainability in research and practice - Frontiers",
+          "‘If it stings your lungs, go inside’: Wildfire smoke blankets western South Dakota as SDSU research powers new national forecast tool - KOTA Territory News"
         ]
       }
     ],
@@ -1481,33 +1481,55 @@
         "trend": "health",
         "market_code": "CN",
         "category": "Asia Health",
-        "score": 65,
+        "score": 66,
         "examples": [
           "The Trump Administration's Foreign Aid Review: Status of U.S. Global Maternal and Child Health Efforts - KFF",
-          "HHS proposes cutting many federal education and health guidelines for Head Start - washingtonpost.com",
-          "Reimagining Rural Maternal and Child Health - National Governors Association"
+          "New Mexico court orders Meta to pay $567 million over mental health harms to kids online - PBS",
+          "HHS proposes cutting many federal education and health guidelines for Head Start - The Washington Post"
         ]
       },
       {
         "trend": "medical",
         "market_code": "CN",
         "category": "Asia Health",
-        "score": 20,
+        "score": 21,
         "examples": [
           "Medical Aid in Dying - New York State Department of Health (.gov)",
           "UNC defensive coordinator Steve Belichick on medical leave - WRAL",
-          "Making Medical AI More Reliable - USC Viterbi School of Engineering"
+          "Making Medical AI More Reliable - viterbischool.usc.edu"
         ]
       },
       {
         "trend": "outbreak",
         "market_code": "CN",
         "category": "Outbreaks",
-        "score": 18,
+        "score": 13,
         "examples": [
           "19 Health Alert: Northeast Ohio measles outbreak - Cleveland 19 News",
-          "19 Health Alert: Northeast Ohio measles outbreak - Cleveland 19 News",
-          "Salmonella Outbreak Linked to Jalapeño Peppers From Chipotle and Qdoba - Time Magazine"
+          "Salmonella Outbreak Linked to Jalapeño Peppers From Chipotle and Qdoba - Time Magazine",
+          "Cyclospora Outbreak 2026: Map, Foods to Avoid, States Most Impacted as US Hits 22,000 Cases - TODAY.com"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "CN",
+        "category": "Mental Health",
+        "score": 12,
+        "examples": [
+          "New Mexico court orders Meta to pay $567 million over mental health harms to kids online - PBS",
+          "Former Clancy nanny testifies about mother's mental health issues before killings - PBS",
+          "Wellness club gives Latino men space to focus on mental health - ABC7 Los Angeles"
+        ]
+      },
+      {
+        "trend": "mental health",
+        "market_code": "CN",
+        "category": "Mental Health",
+        "score": 12,
+        "examples": [
+          "New Mexico court orders Meta to pay $567 million over mental health harms to kids online - PBS",
+          "Former Clancy nanny testifies about mother's mental health issues before killings - PBS",
+          "Wellness club gives Latino men space to focus on mental health - ABC7 Los Angeles"
         ]
       },
       {
@@ -1522,47 +1544,14 @@
         ]
       },
       {
-        "trend": "mental",
-        "market_code": "CN",
-        "category": "Mental Health",
-        "score": 10,
-        "examples": [
-          "Former Clancy nanny testifies about mother's mental health issues before killings - PBS",
-          "Working with the American Psychological Association on youth mental health and AI - OpenAI",
-          "NY made it possible for judges to order mental health treatment. But is access the real issue? - WXXI News"
-        ]
-      },
-      {
-        "trend": "mental health",
-        "market_code": "CN",
-        "category": "Mental Health",
-        "score": 10,
-        "examples": [
-          "Former Clancy nanny testifies about mother's mental health issues before killings - PBS",
-          "Working with the American Psychological Association on youth mental health and AI - OpenAI",
-          "NY made it possible for judges to order mental health treatment. But is access the real issue? - WXXI News"
-        ]
-      },
-      {
         "trend": "healthcare",
         "market_code": "CN",
         "category": "Asia Health",
-        "score": 10,
+        "score": 11,
         "examples": [
           "Is physical AI healthcare's next transformational technology? - Healthcare IT News",
           "Is physical AI healthcare's next transformational technology? - Healthcare IT News",
           "Medical AI should be built with healthcare, not around it - The Business Journals"
-        ]
-      },
-      {
-        "trend": "virus",
-        "market_code": "CN",
-        "category": "Outbreaks",
-        "score": 9,
-        "examples": [
-          "Ebola virus behind massive outbreak in DRC could be mutating, officials say - The Guardian",
-          "Ebola virus behind massive outbreak in DRC could be mutating, officials say - theguardian.com",
-          "AI designs new virus not found in nature - Axios"
         ]
       },
       {
@@ -1572,26 +1561,15 @@
         "score": 8,
         "examples": [
           "How a Maxwell Professor Uses Radio Dramas to Improve Public Health Outcomes - Syracuse University Today",
-          "Marena Works remembered for Nevada public health leadership - unr.edu",
-          "Public health alumna, center director guide road map for cancer prevention in Virginia - Virginia Tech News"
-        ]
-      },
-      {
-        "trend": "measles",
-        "market_code": "CN",
-        "category": "Outbreaks",
-        "score": 7,
-        "examples": [
-          "Kern County Public Health confirms first cases of measles - KGET.com",
-          "19 Health Alert: Northeast Ohio measles outbreak - Cleveland 19 News",
-          "Measles exposure warning issued at Universal Studios Hollywood after confirmed case in visitor - CBS News"
+          "Greening public health: embedding environmental sustainability in research and practice - Frontiers",
+          "Marena Works remembered for Nevada public health leadership - University of Nevada, Reno"
         ]
       },
       {
         "trend": "infection",
         "market_code": "CN",
         "category": "Outbreaks",
-        "score": 7,
+        "score": 8,
         "examples": [
           "Texas leads US in cases of dangerous fungal infection - FOX 7 Austin",
           "Why the same antibiotic can cure one infection but fail in another - Medical Xpress",
@@ -1599,14 +1577,36 @@
         ]
       },
       {
+        "trend": "virus",
+        "market_code": "CN",
+        "category": "Outbreaks",
+        "score": 7,
+        "examples": [
+          "Ebola virus behind massive outbreak in DRC could be mutating, officials say - The Guardian",
+          "AI designs new virus not found in nature - Axios",
+          "Ebola virus behind massive outbreak in DRC could be mutating, officials say - The Guardian"
+        ]
+      },
+      {
         "trend": "vaccine",
         "market_code": "CN",
         "category": "Drug & Treatment News",
-        "score": 6,
+        "score": 7,
         "examples": [
           "Moderna begins Phase 1 clinical trial of Ebola vaccine against strain behind DRC outbreak - ABC News - Breaking News, Latest News and Videos",
           "Two FDA approvals — a new drug and a new vaccine - STAT",
-          "FDA Approves mRNA-1010 (mFLUSIVA) as mRNA Flu Vaccine for Adults 50 and Older - patientcareonline.com"
+          "Moderna's first mRNA flu vaccine approved for adults 50+ - Stock Titan"
+        ]
+      },
+      {
+        "trend": "research",
+        "market_code": "CN",
+        "category": "Asia Health",
+        "score": 6,
+        "examples": [
+          "Bridging Gaps in Women’s Health: Research driving change in sexual violence prevention - The University of Utah",
+          "Greening public health: embedding environmental sustainability in research and practice - Frontiers",
+          "‘If it stings your lungs, go inside’: Wildfire smoke blankets western South Dakota as SDSU research powers new national forecast tool - KOTA Territory News"
         ]
       }
     ],
@@ -1615,33 +1615,55 @@
         "trend": "health",
         "market_code": "KR",
         "category": "Asia Health",
-        "score": 65,
+        "score": 66,
         "examples": [
           "The Trump Administration's Foreign Aid Review: Status of U.S. Global Maternal and Child Health Efforts - KFF",
-          "HHS proposes cutting many federal education and health guidelines for Head Start - washingtonpost.com",
-          "Reimagining Rural Maternal and Child Health - National Governors Association"
+          "New Mexico court orders Meta to pay $567 million over mental health harms to kids online - PBS",
+          "HHS proposes cutting many federal education and health guidelines for Head Start - The Washington Post"
         ]
       },
       {
         "trend": "medical",
         "market_code": "KR",
         "category": "Asia Health",
-        "score": 20,
+        "score": 21,
         "examples": [
           "Medical Aid in Dying - New York State Department of Health (.gov)",
           "UNC defensive coordinator Steve Belichick on medical leave - WRAL",
-          "Making Medical AI More Reliable - USC Viterbi School of Engineering"
+          "Making Medical AI More Reliable - viterbischool.usc.edu"
         ]
       },
       {
         "trend": "outbreak",
         "market_code": "KR",
         "category": "Outbreaks",
-        "score": 18,
+        "score": 13,
         "examples": [
           "19 Health Alert: Northeast Ohio measles outbreak - Cleveland 19 News",
-          "19 Health Alert: Northeast Ohio measles outbreak - Cleveland 19 News",
-          "Salmonella Outbreak Linked to Jalapeño Peppers From Chipotle and Qdoba - Time Magazine"
+          "Salmonella Outbreak Linked to Jalapeño Peppers From Chipotle and Qdoba - Time Magazine",
+          "Cyclospora Outbreak 2026: Map, Foods to Avoid, States Most Impacted as US Hits 22,000 Cases - TODAY.com"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "KR",
+        "category": "Mental Health",
+        "score": 12,
+        "examples": [
+          "New Mexico court orders Meta to pay $567 million over mental health harms to kids online - PBS",
+          "Former Clancy nanny testifies about mother's mental health issues before killings - PBS",
+          "Wellness club gives Latino men space to focus on mental health - ABC7 Los Angeles"
+        ]
+      },
+      {
+        "trend": "mental health",
+        "market_code": "KR",
+        "category": "Mental Health",
+        "score": 12,
+        "examples": [
+          "New Mexico court orders Meta to pay $567 million over mental health harms to kids online - PBS",
+          "Former Clancy nanny testifies about mother's mental health issues before killings - PBS",
+          "Wellness club gives Latino men space to focus on mental health - ABC7 Los Angeles"
         ]
       },
       {
@@ -1656,47 +1678,14 @@
         ]
       },
       {
-        "trend": "mental",
-        "market_code": "KR",
-        "category": "Mental Health",
-        "score": 10,
-        "examples": [
-          "Former Clancy nanny testifies about mother's mental health issues before killings - PBS",
-          "Working with the American Psychological Association on youth mental health and AI - OpenAI",
-          "NY made it possible for judges to order mental health treatment. But is access the real issue? - WXXI News"
-        ]
-      },
-      {
-        "trend": "mental health",
-        "market_code": "KR",
-        "category": "Mental Health",
-        "score": 10,
-        "examples": [
-          "Former Clancy nanny testifies about mother's mental health issues before killings - PBS",
-          "Working with the American Psychological Association on youth mental health and AI - OpenAI",
-          "NY made it possible for judges to order mental health treatment. But is access the real issue? - WXXI News"
-        ]
-      },
-      {
         "trend": "healthcare",
         "market_code": "KR",
         "category": "Asia Health",
-        "score": 10,
+        "score": 11,
         "examples": [
           "Is physical AI healthcare's next transformational technology? - Healthcare IT News",
           "Is physical AI healthcare's next transformational technology? - Healthcare IT News",
           "Medical AI should be built with healthcare, not around it - The Business Journals"
-        ]
-      },
-      {
-        "trend": "virus",
-        "market_code": "KR",
-        "category": "Outbreaks",
-        "score": 9,
-        "examples": [
-          "Ebola virus behind massive outbreak in DRC could be mutating, officials say - The Guardian",
-          "Ebola virus behind massive outbreak in DRC could be mutating, officials say - theguardian.com",
-          "AI designs new virus not found in nature - Axios"
         ]
       },
       {
@@ -1706,26 +1695,15 @@
         "score": 8,
         "examples": [
           "How a Maxwell Professor Uses Radio Dramas to Improve Public Health Outcomes - Syracuse University Today",
-          "Marena Works remembered for Nevada public health leadership - unr.edu",
-          "Public health alumna, center director guide road map for cancer prevention in Virginia - Virginia Tech News"
-        ]
-      },
-      {
-        "trend": "measles",
-        "market_code": "KR",
-        "category": "Outbreaks",
-        "score": 7,
-        "examples": [
-          "Kern County Public Health confirms first cases of measles - KGET.com",
-          "19 Health Alert: Northeast Ohio measles outbreak - Cleveland 19 News",
-          "Measles exposure warning issued at Universal Studios Hollywood after confirmed case in visitor - CBS News"
+          "Greening public health: embedding environmental sustainability in research and practice - Frontiers",
+          "Marena Works remembered for Nevada public health leadership - University of Nevada, Reno"
         ]
       },
       {
         "trend": "infection",
         "market_code": "KR",
         "category": "Outbreaks",
-        "score": 7,
+        "score": 8,
         "examples": [
           "Texas leads US in cases of dangerous fungal infection - FOX 7 Austin",
           "Why the same antibiotic can cure one infection but fail in another - Medical Xpress",
@@ -1733,14 +1711,36 @@
         ]
       },
       {
+        "trend": "virus",
+        "market_code": "KR",
+        "category": "Outbreaks",
+        "score": 7,
+        "examples": [
+          "Ebola virus behind massive outbreak in DRC could be mutating, officials say - The Guardian",
+          "AI designs new virus not found in nature - Axios",
+          "Ebola virus behind massive outbreak in DRC could be mutating, officials say - The Guardian"
+        ]
+      },
+      {
         "trend": "vaccine",
         "market_code": "KR",
         "category": "Drug & Treatment News",
-        "score": 6,
+        "score": 7,
         "examples": [
           "Moderna begins Phase 1 clinical trial of Ebola vaccine against strain behind DRC outbreak - ABC News - Breaking News, Latest News and Videos",
           "Two FDA approvals — a new drug and a new vaccine - STAT",
-          "FDA Approves mRNA-1010 (mFLUSIVA) as mRNA Flu Vaccine for Adults 50 and Older - patientcareonline.com"
+          "Moderna's first mRNA flu vaccine approved for adults 50+ - Stock Titan"
+        ]
+      },
+      {
+        "trend": "research",
+        "market_code": "KR",
+        "category": "Asia Health",
+        "score": 6,
+        "examples": [
+          "Bridging Gaps in Women’s Health: Research driving change in sexual violence prevention - The University of Utah",
+          "Greening public health: embedding environmental sustainability in research and practice - Frontiers",
+          "‘If it stings your lungs, go inside’: Wildfire smoke blankets western South Dakota as SDSU research powers new national forecast tool - KOTA Territory News"
         ]
       }
     ],
@@ -1749,44 +1749,44 @@
         "trend": "health",
         "market_code": "IN",
         "category": "Asia Health",
-        "score": 64,
+        "score": 61,
         "examples": [
-          "August 6, 2026 | WELL Health - WELL Health Technologies",
-          "August 6, 2026 | WELL Health - WELL Health Technologies",
-          "Working with the American Psychological Association on youth mental health and AI - OpenAI"
-        ]
-      },
-      {
-        "trend": "healthcare",
-        "market_code": "IN",
-        "category": "Asia Health",
-        "score": 20,
-        "examples": [
-          "Healthcare Satellite Connectivity Market - Future Market Insights",
-          "Chutes & Ladders—Jaewon Ryu steps down from Risant; Summa Health hires permanent CEO - Fierce Healthcare",
-          "When does it make sense to build software instead of buy? One health system’s answer - Healthcare Dive"
+          "Greening public health: embedding environmental sustainability in research and practice - Frontiers",
+          "Breastfeeding: More Than Nutrition, an Investment in Health and Development - Inter-American Development Bank",
+          "August 6, 2026 | WELL Health - news-releases.well.company"
         ]
       },
       {
         "trend": "medical",
         "market_code": "IN",
         "category": "Asia Health",
-        "score": 17,
+        "score": 19,
         "examples": [
-          "Access paradox: On medical education in India - thehindu.com",
+          "Access paradox: On medical education in India - The Hindu",
           "Making Medical AI More Reliable - USC Viterbi School of Engineering",
           "Andhra Medical Student Declared Brain Dead After Drunk Man Runs Car Over Her - NDTV"
+        ]
+      },
+      {
+        "trend": "healthcare",
+        "market_code": "IN",
+        "category": "Asia Health",
+        "score": 19,
+        "examples": [
+          "Healthcare services normal in Pune hospitals, lukewarm response to strike - The Times of India",
+          "A Swedish healthcare giant, an American private equity powerhouse, and a $1.39 billion India hospital deal. KKR is acquiring 100% of Medicover India’s hospital business, taking control of a 24-hospital network. Is Indian healthcare emerging as the next big gl - LinkedIn",
+          "A Swedish healthcare giant, an American private equity powerhouse, and a $1.39 billion India hospital deal. KKR is acquiring 100% of Medicover India’s hospital business, taking control of a 24-hospital network. Is Indian healthcare emerging as the next big gl - LinkedIn"
         ]
       },
       {
         "trend": "mental",
         "market_code": "IN",
         "category": "Mental Health",
-        "score": 14,
+        "score": 13,
         "examples": [
-          "Working with the American Psychological Association on youth mental health and AI - OpenAI",
           "New walk-in mental health centres to open in banks and libraries across England - BBC",
-          "After Perez Hilton's concerning TikTok live, local therapist shares mental health warning signs - wfmynews2.com"
+          "After Perez Hilton's concerning TikTok live, local therapist shares mental health warning signs - wfmynews2.com",
+          "New Mexico court orders Meta to pay $567m over harms to children’s mental health - The Guardian"
         ]
       },
       {
@@ -1795,9 +1795,9 @@
         "category": "Mental Health",
         "score": 13,
         "examples": [
-          "Working with the American Psychological Association on youth mental health and AI - OpenAI",
           "New walk-in mental health centres to open in banks and libraries across England - BBC",
-          "After Perez Hilton's concerning TikTok live, local therapist shares mental health warning signs - wfmynews2.com"
+          "After Perez Hilton's concerning TikTok live, local therapist shares mental health warning signs - wfmynews2.com",
+          "New Mexico court orders Meta to pay $567m over harms to children’s mental health - The Guardian"
         ]
       },
       {
@@ -1806,52 +1806,30 @@
         "category": "Outbreaks",
         "score": 13,
         "examples": [
-          "19 Health Alert: Northeast Ohio measles outbreak - Cleveland 19 News",
           "Ebola virus behind massive outbreak in DRC could be mutating, officials say - The Guardian",
-          "Nepal zoo bird flu outbreak raises alarm for national parks - news.mongabay.com"
-        ]
-      },
-      {
-        "trend": "warning",
-        "market_code": "IN",
-        "category": "Asia Health",
-        "score": 8,
-        "examples": [
-          "FSSAI proposes nutrition information instead of warning labels on packaged foods - Firstpost",
-          "Michigan health officials lift lettuce, salad greens warning as cyclosporiasis cases decline - ClickOnDetroit | WDIV Local 4",
-          "Health warning at Cedar Lake beaches for blue-green algae - 5 EYEWITNESS NEWS"
-        ]
-      },
-      {
-        "trend": "virus",
-        "market_code": "IN",
-        "category": "Outbreaks",
-        "score": 8,
-        "examples": [
-          "Granby Zoo issues warning about Japanese macaque following possible Herpes B virus exposure - CTV News",
-          "Granby Zoo issues warning about Japanese macaque following possible Herpes B virus exposure - cp24.com",
-          "Ebola virus behind massive outbreak in DRC could be mutating, officials say - The Guardian"
+          "Salmonella Outbreak Linked to Jalapeño Peppers From Chipotle and Qdoba - Time Magazine",
+          "Nepal zoo bird flu outbreak raises alarm for national parks - news - Mongabay"
         ]
       },
       {
         "trend": "hospitals",
         "market_code": "IN",
         "category": "Asia Health",
-        "score": 7,
+        "score": 8,
         "examples": [
           "Healthcare services normal in Pune hospitals, lukewarm response to strike - The Times of India",
           "US Hospitals Can Close Inventory Gaps with RFID Tracking - HealthTech Magazine",
-          "Manipal Hospitals to consider acquisitions in areas of interest, geographic expansion - The Economic Times"
+          "U.S. News & World Report “Best Hospitals 2026-2027” List Includes All NYC Health + Hospitals’ Acute Care Facilities - NYC Health + Hospitals"
         ]
       },
       {
         "trend": "infection",
         "market_code": "IN",
         "category": "Outbreaks",
-        "score": 7,
+        "score": 8,
         "examples": [
-          "Public consultation on the draft key ethical criteria for controlled human infection studies in emergency preparedness - World Health Organization (WHO)",
-          "Public consultation on the draft key ethical criteria for controlled human infection studies in emergency preparedness - World Health Organization (WHO)",
+          "Public consultation on the draft key ethical criteria for controlled human infection studies in emergency preparedness - who.int",
+          "Public consultation on the draft key ethical criteria for controlled human infection studies in emergency preparedness - who.int",
           "DNA sequencing may help revolutionize CF lung infection care: Study - Cystic Fibrosis News Today"
         ]
       },
@@ -1859,22 +1837,44 @@
         "trend": "public health",
         "market_code": "IN",
         "category": "Asia Health",
-        "score": 5,
+        "score": 7,
         "examples": [
           "Greening public health: embedding environmental sustainability in research and practice - Frontiers",
-          "One Health mission focuses on national preparedness against emerging public health threats - News On AIR",
-          "Menopause is not a women’s issue; it’s a public health issue, says Divya Spandana - The Times of India"
+          "Greening public health: embedding environmental sustainability in research and practice - Frontiers",
+          "One Health mission focuses on national preparedness against emerging public health threats - newsonair.gov.in"
         ]
       },
       {
-        "trend": "drug",
+        "trend": "warning",
         "market_code": "IN",
-        "category": "Drug & Treatment News",
-        "score": 5,
+        "category": "Asia Health",
+        "score": 7,
         "examples": [
-          "Health Ministry tightens drug approval norms, introduces debarment for fake data submissions - DD India",
-          "FDA Drug Approval Decisions Expected in September 2026 - MPR - Medical Professionals Reference",
-          "Why the Orzeyful Approval Matters Beyond One Drug Class - PharmTech.com"
+          "FSSAI proposes nutrition information instead of warning labels on packaged foods - Firstpost",
+          "Health warning issued for harmful algae bloom in West Medical Lake - KXLY.com",
+          "Kenya Health Alert: US CDC Issues Dengue Fever Warning for Tourists - Nomad Lawyer"
+        ]
+      },
+      {
+        "trend": "research",
+        "market_code": "IN",
+        "category": "Asia Health",
+        "score": 6,
+        "examples": [
+          "Greening public health: embedding environmental sustainability in research and practice - Frontiers",
+          "Europe Medical Electronics Market Size to Lead USD 63.05 Billion by 2035 - Precedence Research",
+          "Greening public health: embedding environmental sustainability in research and practice - Frontiers"
+        ]
+      },
+      {
+        "trend": "virus",
+        "market_code": "IN",
+        "category": "Outbreaks",
+        "score": 6,
+        "examples": [
+          "Ebola virus behind massive outbreak in DRC could be mutating, officials say - The Guardian",
+          "The Latest Scary-Sounding AI Milestone: A Brand-New Virus - WSJ",
+          "Ebola virus reaches displacement camps in DR Congo - UN News"
         ]
       }
     ],
@@ -1883,33 +1883,55 @@
         "trend": "health",
         "market_code": "AU",
         "category": "Global Health",
-        "score": 54,
+        "score": 58,
         "examples": [
+          "New clinical guidelines for detecting prostate cancer - Australian Government Department of Health, Disability and Ageing",
           "ATO partners with Beyond Blue to address mental health in the profession - Accountants Daily",
-          "'Your health matters, too': Aunty Sharon has twice ... - National Indigenous Times",
-          "Coming to Wallington this November: a premium health club, made personal - Times News Group"
+          "Greening public health: embedding environmental sustainability in research and practice - Frontiers"
         ]
       },
       {
         "trend": "medical",
         "market_code": "AU",
         "category": "Global Health",
-        "score": 18,
+        "score": 20,
         "examples": [
-          "US military jammed GPS before medical plane crash - ABC News & Headlines – Australian Broadcasting Corporation",
-          "newsGP - In Practice: Medical Training Survey now open - Royal Australian College of General Practitioners (RACGP)",
-          "How an Illawarra medical manager used unsuspecting doctors to bleed Medicare of $760k - Illawarra Mercury"
+          "Imricor Medical Systems shares: Philips declares compatibility for iMR products - The Motley Fool Australia",
+          "Clinicians are using AI scribes, but what happens to your medical data? - Switzer Daily",
+          "Avita Medical upgrades FY26 revenue guidance - Capital Brief"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "AU",
+        "category": "Mental Health",
+        "score": 14,
+        "examples": [
+          "ATO partners with Beyond Blue to address mental health in the profession - Accountants Daily",
+          "Mental Health Experts Will Soon Provide an Alternative First Response to Crisis Callouts - Sydney Criminal Lawyers",
+          "Sweltering summers and heatwaves linked to poorer mental health in kids: new research - EducationHQ"
+        ]
+      },
+      {
+        "trend": "mental health",
+        "market_code": "AU",
+        "category": "Mental Health",
+        "score": 14,
+        "examples": [
+          "ATO partners with Beyond Blue to address mental health in the profession - Accountants Daily",
+          "Mental Health Experts Will Soon Provide an Alternative First Response to Crisis Callouts - Sydney Criminal Lawyers",
+          "Sweltering summers and heatwaves linked to poorer mental health in kids: new research - EducationHQ"
         ]
       },
       {
         "trend": "outbreak",
         "market_code": "AU",
         "category": "Outbreaks",
-        "score": 15,
+        "score": 14,
         "examples": [
-          "Ebola virus behind massive outbreak in DRC could be mutating, officials say - The Guardian",
+          "Ebola virus behind massive outbreak in DRC could be mutating, officials say - theguardian.com",
           "19 Health Alert: Northeast Ohio measles outbreak - Cleveland 19 News",
-          "Ebola virus behind massive outbreak in DRC could be mutating, officials say - The Guardian"
+          "Ebola virus behind massive outbreak in DRC could be mutating, officials say - theguardian.com"
         ]
       },
       {
@@ -1924,91 +1946,69 @@
         ]
       },
       {
-        "trend": "mental",
-        "market_code": "AU",
-        "category": "Mental Health",
-        "score": 10,
-        "examples": [
-          "ATO partners with Beyond Blue to address mental health in the profession - Accountants Daily",
-          "After Perez Hilton's concerning TikTok live, local therapist shares mental health warning signs - wfmynews2.com",
-          "ATO partners with Beyond Blue to address mental health in the profession - Accountants Daily"
-        ]
-      },
-      {
-        "trend": "mental health",
-        "market_code": "AU",
-        "category": "Mental Health",
-        "score": 10,
-        "examples": [
-          "ATO partners with Beyond Blue to address mental health in the profession - Accountants Daily",
-          "After Perez Hilton's concerning TikTok live, local therapist shares mental health warning signs - wfmynews2.com",
-          "ATO partners with Beyond Blue to address mental health in the profession - Accountants Daily"
-        ]
-      },
-      {
         "trend": "infection",
         "market_code": "AU",
         "category": "Outbreaks",
-        "score": 10,
+        "score": 9,
         "examples": [
           "Public consultation on the draft key ethical criteria for controlled human infection studies in emergency preparedness - World Health Organization (WHO)",
           "Public consultation on the draft key ethical criteria for controlled human infection studies in emergency preparedness - World Health Organization (WHO)",
-          "Why the same antibiotic can cure one infection but fail in another - Medical Xpress"
-        ]
-      },
-      {
-        "trend": "viruses",
-        "market_code": "AU",
-        "category": "Outbreaks",
-        "score": 6,
-        "examples": [
-          "Safety fears as scientists make first viruses designed by AI - The Guardian",
-          "AI creates first synthetic viruses - Financial Times",
-          "This A.I. Just Created Viruses Not Found in Nature - The New York Times"
+          "DNA sequencing may help revolutionize CF lung infection care: Study - Cystic Fibrosis News Today"
         ]
       },
       {
         "trend": "vaccine",
         "market_code": "AU",
         "category": "Drug & Treatment News",
+        "score": 7,
+        "examples": [
+          "Kiwis fly toward bird flu vaccine as Aussie outbreak spreads - InDaily Queensland",
+          "Moderna begins Phase 1 clinical trial of Ebola vaccine against strain behind DRC outbreak - ABC News - Breaking News, Latest News and Videos",
+          "Will Flu Be Mild This Winter? FDA Approves First mRNA Flu Vaccine - The People's Pharmacy"
+        ]
+      },
+      {
+        "trend": "research",
+        "market_code": "AU",
+        "category": "Global Health",
         "score": 6,
         "examples": [
-          "Moderna begins Phase 1 clinical trial of Ebola vaccine against strain behind DRC outbreak - abcnews.com",
-          "Will Flu Be Mild This Winter? FDA Approves First mRNA Flu Vaccine - The People's Pharmacy",
-          "FDA approves first mRNA vaccine for seasonal flu - Live Science"
+          "Greening public health: embedding environmental sustainability in research and practice - Frontiers",
+          "Healing, not handcuffs: research finds pathway to reduce child incarceration - UQ News",
+          "Greening public health: embedding environmental sustainability in research and practice - Frontiers"
         ]
       },
       {
-        "trend": "world health",
+        "trend": "public health",
+        "market_code": "AU",
+        "category": "Global Health",
+        "score": 6,
+        "examples": [
+          "Greening public health: embedding environmental sustainability in research and practice - Frontiers",
+          "Greening public health: embedding environmental sustainability in research and practice - Frontiers",
+          "Better Communication for Better Health: Supporting Wellbeing in Extreme Weather - Public Health Communications Collaborative"
+        ]
+      },
+      {
+        "trend": "virus",
+        "market_code": "AU",
+        "category": "Outbreaks",
+        "score": 6,
+        "examples": [
+          "Ebola virus behind massive outbreak in DRC could be mutating, officials say - theguardian.com",
+          "Ebola virus behind massive outbreak in DRC could be mutating, officials say - theguardian.com",
+          "Ebola virus reaches displacement camps in DR Congo - UN News"
+        ]
+      },
+      {
+        "trend": "warning",
         "market_code": "AU",
         "category": "Global Health",
         "score": 5,
         "examples": [
-          "Africa CDC and WHO call for urgent, community-led action to contain Ebola in the DRC - World Health Organization (WHO)",
-          "Public consultation on the draft key ethical criteria for controlled human infection studies in emergency preparedness - World Health Organization (WHO)",
-          "Global Respiratory Virus Activity: Weekly Update N° 589 - World Health Organization (WHO)"
-        ]
-      },
-      {
-        "trend": "health organization",
-        "market_code": "AU",
-        "category": "Global Health",
-        "score": 5,
-        "examples": [
-          "Africa CDC and WHO call for urgent, community-led action to contain Ebola in the DRC - World Health Organization (WHO)",
-          "Public consultation on the draft key ethical criteria for controlled human infection studies in emergency preparedness - World Health Organization (WHO)",
-          "Global Respiratory Virus Activity: Weekly Update N° 589 - World Health Organization (WHO)"
-        ]
-      },
-      {
-        "trend": "world health organization",
-        "market_code": "AU",
-        "category": "Global Health",
-        "score": 5,
-        "examples": [
-          "Africa CDC and WHO call for urgent, community-led action to contain Ebola in the DRC - World Health Organization (WHO)",
-          "Public consultation on the draft key ethical criteria for controlled human infection studies in emergency preparedness - World Health Organization (WHO)",
-          "Global Respiratory Virus Activity: Weekly Update N° 589 - World Health Organization (WHO)"
+          "AVITA Medical (NSDQ:RCEL) revenue climbs 18% but going concern warning still bites - Stocks Down Under",
+          "Health warning issued for harmful algae bloom in West Medical Lake - KXLY.com",
+          "Michigan health officials lift lettuce, salad greens warning as cyclosporiasis cases decline - ClickOnDetroit | WDIV Local 4"
         ]
       }
     ],
@@ -2017,87 +2017,87 @@
         "trend": "health",
         "market_code": "CA",
         "category": "Global Health",
-        "score": 56,
+        "score": 57,
         "examples": [
           "August 6, 2026 | WELL Health - WELL Health Technologies",
           "August 6, 2026 | WELL Health - WELL Health Technologies",
-          "Carney government restores some health coverage it had cut for refugees - Toronto Star"
+          "Carney government restores some health coverage it had cut for refugees - thestar.com"
         ]
       },
       {
         "trend": "medical",
         "market_code": "CA",
         "category": "Global Health",
-        "score": 18,
+        "score": 19,
         "examples": [
           "Planned water service disruption at McMaster University Medical Centre overnight August 7 - McMaster News",
-          "‘It’s a national tragedy’: Manitoba’s chief medical examiner on addictions crisis - globalnews.ca",
-          "Ontario Divisional Court accepts three expert reports’ late service in medical malpractice case - Canadian Lawyer"
-        ]
-      },
-      {
-        "trend": "virus",
-        "market_code": "CA",
-        "category": "Outbreaks",
-        "score": 15,
-        "examples": [
-          "Granby Zoo issues warning about Japanese macaque following possible Herpes B virus exposure - CP24",
-          "Granby Zoo issues warning about Japanese macaque following possible Herpes B virus exposure - CP24",
-          "Granby Zoo issues warning about Japanese macaque following possible Herpes B virus exposure - CTV News"
-        ]
-      },
-      {
-        "trend": "mental",
-        "market_code": "CA",
-        "category": "Mental Health",
-        "score": 14,
-        "examples": [
-          "Working with the American Psychological Association on youth mental health and AI - OpenAI",
-          "Working with the American Psychological Association on youth mental health and AI - OpenAI",
-          "How different activities build brain development and help the mental health of kids - globalnews.ca"
-        ]
-      },
-      {
-        "trend": "mental health",
-        "market_code": "CA",
-        "category": "Mental Health",
-        "score": 14,
-        "examples": [
-          "Working with the American Psychological Association on youth mental health and AI - OpenAI",
-          "Working with the American Psychological Association on youth mental health and AI - OpenAI",
-          "How different activities build brain development and help the mental health of kids - globalnews.ca"
+          "‘It’s a national tragedy’: Manitoba’s chief medical examiner on addictions crisis - Global News",
+          "Local medical scrubs retailer feeling abandoned by U of M, RRC Polytech nursing programs - Winnipeg Free Press"
         ]
       },
       {
         "trend": "outbreak",
         "market_code": "CA",
         "category": "Outbreaks",
-        "score": 14,
+        "score": 16,
         "examples": [
-          "19 Health Alert: Northeast Ohio measles outbreak - Cleveland 19 News",
-          "Ebola virus behind massive outbreak in DRC could be mutating, officials say - theguardian.com",
-          "Quebec lettuce growers operating at a loss amid U.S. cyclosporiasis outbreak - globalnews.ca"
+          "Jalapeno-linked salmonella outbreak hits 27 U.S. states. What's the risk in Canada? - CBC",
+          "Jalapeno-linked salmonella outbreak hits 27 U.S. states. What's the risk in Canada? - CBC",
+          "19 Health Alert: Northeast Ohio measles outbreak - Cleveland 19 News"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "CA",
+        "category": "Mental Health",
+        "score": 12,
+        "examples": [
+          "U.S. Court orders Instagram and Facebook’s Meta to pay US$567M to address kids’ mental health online - CTV News",
+          "How different activities build brain development and help the mental health of kids - Global News",
+          "Perez Hilton's family fled home before mental health crisis - Castanet"
+        ]
+      },
+      {
+        "trend": "mental health",
+        "market_code": "CA",
+        "category": "Mental Health",
+        "score": 12,
+        "examples": [
+          "U.S. Court orders Instagram and Facebook’s Meta to pay US$567M to address kids’ mental health online - CTV News",
+          "How different activities build brain development and help the mental health of kids - Global News",
+          "Perez Hilton's family fled home before mental health crisis - Castanet"
         ]
       },
       {
         "trend": "healthcare",
         "market_code": "CA",
         "category": "Global Health",
-        "score": 14,
+        "score": 12,
         "examples": [
           "From Diagnosis to Wellness, AI's Healthcare Revolution | Newswise - Newswise",
-          "Is physical AI healthcare's next transformational technology? - Healthcare IT News",
-          "Is physical AI healthcare's next transformational technology? - Healthcare IT News"
+          "Is physical AI healthcare's next transformational technology? - healthcareitnews.com",
+          "3 AI Healthcare Stocks Retail Investors Are Watching For Real World Adoption - simplywall.st"
         ]
       },
       {
         "trend": "warning",
         "market_code": "CA",
         "category": "Global Health",
-        "score": 12,
+        "score": 10,
         "examples": [
-          "Granby Zoo issues warning about Japanese macaque following possible Herpes B virus exposure - CP24",
-          "Granby Zoo issues warning about Japanese macaque following possible Herpes B virus exposure - CP24",
+          "Granby Zoo issues warning about Japanese macaque following possible Herpes B virus exposure - CTV News",
+          "Granby Zoo issues warning about Japanese macaque following possible Herpes B virus exposure - CTV News",
+          "Fraser Valley under air quality warning as wildfire smoke and smog raise health concern - Fraser Valley Today"
+        ]
+      },
+      {
+        "trend": "virus",
+        "market_code": "CA",
+        "category": "Outbreaks",
+        "score": 10,
+        "examples": [
+          "Granby Zoo issues warning about Japanese macaque following possible Herpes B virus exposure - CTV News",
+          "Prevention is key to avoiding contracting West Nile Virus - mytimminsnow.com",
           "Granby Zoo issues warning about Japanese macaque following possible Herpes B virus exposure - CTV News"
         ]
       },
@@ -2107,42 +2107,42 @@
         "category": "Outbreaks",
         "score": 9,
         "examples": [
-          "Public consultation on the draft key ethical criteria for controlled human infection studies in emergency preparedness - who.int",
-          "Public consultation on the draft key ethical criteria for controlled human infection studies in emergency preparedness - who.int",
+          "Public consultation on the draft key ethical criteria for controlled human infection studies in emergency preparedness - World Health Organization (WHO)",
+          "Public consultation on the draft key ethical criteria for controlled human infection studies in emergency preparedness - World Health Organization (WHO)",
           "Why the same antibiotic can cure one infection but fail in another - Medical Xpress"
         ]
       },
       {
-        "trend": "issues warning",
-        "market_code": "CA",
-        "category": "Global Health",
-        "score": 8,
-        "examples": [
-          "Granby Zoo issues warning about Japanese macaque following possible Herpes B virus exposure - CP24",
-          "Granby Zoo issues warning about Japanese macaque following possible Herpes B virus exposure - CP24",
-          "Granby Zoo issues warning about Japanese macaque following possible Herpes B virus exposure - CTV News"
-        ]
-      },
-      {
-        "trend": "herpes virus",
+        "trend": "salmonella outbreak",
         "market_code": "CA",
         "category": "Outbreaks",
-        "score": 8,
+        "score": 7,
         "examples": [
-          "Granby Zoo issues warning about Japanese macaque following possible Herpes B virus exposure - CP24",
-          "Granby Zoo issues warning about Japanese macaque following possible Herpes B virus exposure - CP24",
-          "Granby Zoo issues warning about Japanese macaque following possible Herpes B virus exposure - CTV News"
+          "Jalapeno-linked salmonella outbreak hits 27 U.S. states. What's the risk in Canada? - CBC",
+          "Jalapeno-linked salmonella outbreak hits 27 U.S. states. What's the risk in Canada? - CBC",
+          "Jalapeno-linked salmonella outbreak hits 27 U.S. states. What's the risk in Canada? - CBC"
         ]
       },
       {
-        "trend": "granby issues warning",
+        "trend": "vaccine",
+        "market_code": "CA",
+        "category": "Drug & Treatment News",
+        "score": 7,
+        "examples": [
+          "Africa CDC says will use Zaire Ebola vaccine in current outbreak - CP24",
+          "Moderna begins Phase 1 clinical trial of Ebola vaccine against strain behind DRC outbreak - ABC News - Breaking News, Latest News and Videos",
+          "Moderna Receives U.S. FDA Approval for Influenza Vaccine mFLUSIVA - Investing News Network"
+        ]
+      },
+      {
+        "trend": "hospitals",
         "market_code": "CA",
         "category": "Global Health",
-        "score": 8,
+        "score": 7,
         "examples": [
-          "Granby Zoo issues warning about Japanese macaque following possible Herpes B virus exposure - CP24",
-          "Granby Zoo issues warning about Japanese macaque following possible Herpes B virus exposure - CP24",
-          "Granby Zoo issues warning about Japanese macaque following possible Herpes B virus exposure - CTV News"
+          "U.S. News Honors Sutter Hospitals Across Specialties and Care Areas - Sutter Health",
+          "U.S. News & World Report “Best Hospitals 2026-2027” List Includes All NYC Health + Hospitals’ Acute Care Facilities - NYC Health + Hospitals",
+          "U.S. News & World Report “Best Hospitals 2026-2027” List Includes All NYC Health + Hospitals’ Acute Care Facilities - NYC Health + Hospitals"
         ]
       }
     ],
@@ -2151,33 +2151,55 @@
         "trend": "health",
         "market_code": "AE",
         "category": "Arab Health",
-        "score": 65,
+        "score": 66,
         "examples": [
           "The Trump Administration's Foreign Aid Review: Status of U.S. Global Maternal and Child Health Efforts - KFF",
-          "HHS proposes cutting many federal education and health guidelines for Head Start - washingtonpost.com",
-          "Reimagining Rural Maternal and Child Health - National Governors Association"
+          "New Mexico court orders Meta to pay $567 million over mental health harms to kids online - PBS",
+          "HHS proposes cutting many federal education and health guidelines for Head Start - The Washington Post"
         ]
       },
       {
         "trend": "medical",
         "market_code": "AE",
         "category": "Arab Health",
-        "score": 20,
+        "score": 21,
         "examples": [
           "Medical Aid in Dying - New York State Department of Health (.gov)",
           "UNC defensive coordinator Steve Belichick on medical leave - WRAL",
-          "Making Medical AI More Reliable - USC Viterbi School of Engineering"
+          "Making Medical AI More Reliable - viterbischool.usc.edu"
         ]
       },
       {
         "trend": "outbreak",
         "market_code": "AE",
         "category": "Outbreaks",
-        "score": 18,
+        "score": 13,
         "examples": [
           "19 Health Alert: Northeast Ohio measles outbreak - Cleveland 19 News",
-          "19 Health Alert: Northeast Ohio measles outbreak - Cleveland 19 News",
-          "Salmonella Outbreak Linked to Jalapeño Peppers From Chipotle and Qdoba - Time Magazine"
+          "Salmonella Outbreak Linked to Jalapeño Peppers From Chipotle and Qdoba - Time Magazine",
+          "Cyclospora Outbreak 2026: Map, Foods to Avoid, States Most Impacted as US Hits 22,000 Cases - TODAY.com"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "AE",
+        "category": "Mental Health",
+        "score": 12,
+        "examples": [
+          "New Mexico court orders Meta to pay $567 million over mental health harms to kids online - PBS",
+          "Former Clancy nanny testifies about mother's mental health issues before killings - PBS",
+          "Wellness club gives Latino men space to focus on mental health - ABC7 Los Angeles"
+        ]
+      },
+      {
+        "trend": "mental health",
+        "market_code": "AE",
+        "category": "Mental Health",
+        "score": 12,
+        "examples": [
+          "New Mexico court orders Meta to pay $567 million over mental health harms to kids online - PBS",
+          "Former Clancy nanny testifies about mother's mental health issues before killings - PBS",
+          "Wellness club gives Latino men space to focus on mental health - ABC7 Los Angeles"
         ]
       },
       {
@@ -2192,47 +2214,14 @@
         ]
       },
       {
-        "trend": "mental",
-        "market_code": "AE",
-        "category": "Mental Health",
-        "score": 10,
-        "examples": [
-          "Former Clancy nanny testifies about mother's mental health issues before killings - PBS",
-          "Working with the American Psychological Association on youth mental health and AI - OpenAI",
-          "NY made it possible for judges to order mental health treatment. But is access the real issue? - WXXI News"
-        ]
-      },
-      {
-        "trend": "mental health",
-        "market_code": "AE",
-        "category": "Mental Health",
-        "score": 10,
-        "examples": [
-          "Former Clancy nanny testifies about mother's mental health issues before killings - PBS",
-          "Working with the American Psychological Association on youth mental health and AI - OpenAI",
-          "NY made it possible for judges to order mental health treatment. But is access the real issue? - WXXI News"
-        ]
-      },
-      {
         "trend": "healthcare",
         "market_code": "AE",
         "category": "Arab Health",
-        "score": 10,
+        "score": 11,
         "examples": [
           "Is physical AI healthcare's next transformational technology? - Healthcare IT News",
           "Is physical AI healthcare's next transformational technology? - Healthcare IT News",
           "Medical AI should be built with healthcare, not around it - The Business Journals"
-        ]
-      },
-      {
-        "trend": "virus",
-        "market_code": "AE",
-        "category": "Outbreaks",
-        "score": 9,
-        "examples": [
-          "Ebola virus behind massive outbreak in DRC could be mutating, officials say - The Guardian",
-          "Ebola virus behind massive outbreak in DRC could be mutating, officials say - theguardian.com",
-          "AI designs new virus not found in nature - Axios"
         ]
       },
       {
@@ -2242,26 +2231,15 @@
         "score": 8,
         "examples": [
           "How a Maxwell Professor Uses Radio Dramas to Improve Public Health Outcomes - Syracuse University Today",
-          "Marena Works remembered for Nevada public health leadership - unr.edu",
-          "Public health alumna, center director guide road map for cancer prevention in Virginia - Virginia Tech News"
-        ]
-      },
-      {
-        "trend": "measles",
-        "market_code": "AE",
-        "category": "Outbreaks",
-        "score": 7,
-        "examples": [
-          "Kern County Public Health confirms first cases of measles - KGET.com",
-          "19 Health Alert: Northeast Ohio measles outbreak - Cleveland 19 News",
-          "Measles exposure warning issued at Universal Studios Hollywood after confirmed case in visitor - CBS News"
+          "Greening public health: embedding environmental sustainability in research and practice - Frontiers",
+          "Marena Works remembered for Nevada public health leadership - University of Nevada, Reno"
         ]
       },
       {
         "trend": "infection",
         "market_code": "AE",
         "category": "Outbreaks",
-        "score": 7,
+        "score": 8,
         "examples": [
           "Texas leads US in cases of dangerous fungal infection - FOX 7 Austin",
           "Why the same antibiotic can cure one infection but fail in another - Medical Xpress",
@@ -2269,14 +2247,36 @@
         ]
       },
       {
+        "trend": "virus",
+        "market_code": "AE",
+        "category": "Outbreaks",
+        "score": 7,
+        "examples": [
+          "Ebola virus behind massive outbreak in DRC could be mutating, officials say - The Guardian",
+          "AI designs new virus not found in nature - Axios",
+          "Ebola virus behind massive outbreak in DRC could be mutating, officials say - The Guardian"
+        ]
+      },
+      {
         "trend": "vaccine",
         "market_code": "AE",
         "category": "Drug & Treatment News",
-        "score": 6,
+        "score": 7,
         "examples": [
           "Moderna begins Phase 1 clinical trial of Ebola vaccine against strain behind DRC outbreak - ABC News - Breaking News, Latest News and Videos",
           "Two FDA approvals — a new drug and a new vaccine - STAT",
-          "FDA Approves mRNA-1010 (mFLUSIVA) as mRNA Flu Vaccine for Adults 50 and Older - patientcareonline.com"
+          "Moderna's first mRNA flu vaccine approved for adults 50+ - Stock Titan"
+        ]
+      },
+      {
+        "trend": "research",
+        "market_code": "AE",
+        "category": "Arab Health",
+        "score": 6,
+        "examples": [
+          "Bridging Gaps in Women’s Health: Research driving change in sexual violence prevention - The University of Utah",
+          "Greening public health: embedding environmental sustainability in research and practice - Frontiers",
+          "‘If it stings your lungs, go inside’: Wildfire smoke blankets western South Dakota as SDSU research powers new national forecast tool - KOTA Territory News"
         ]
       }
     ],
@@ -2285,33 +2285,55 @@
         "trend": "health",
         "market_code": "SA",
         "category": "Arab Health",
-        "score": 65,
+        "score": 66,
         "examples": [
           "The Trump Administration's Foreign Aid Review: Status of U.S. Global Maternal and Child Health Efforts - KFF",
-          "HHS proposes cutting many federal education and health guidelines for Head Start - washingtonpost.com",
-          "Reimagining Rural Maternal and Child Health - National Governors Association"
+          "New Mexico court orders Meta to pay $567 million over mental health harms to kids online - PBS",
+          "HHS proposes cutting many federal education and health guidelines for Head Start - The Washington Post"
         ]
       },
       {
         "trend": "medical",
         "market_code": "SA",
         "category": "Arab Health",
-        "score": 20,
+        "score": 21,
         "examples": [
           "Medical Aid in Dying - New York State Department of Health (.gov)",
           "UNC defensive coordinator Steve Belichick on medical leave - WRAL",
-          "Making Medical AI More Reliable - USC Viterbi School of Engineering"
+          "Making Medical AI More Reliable - viterbischool.usc.edu"
         ]
       },
       {
         "trend": "outbreak",
         "market_code": "SA",
         "category": "Outbreaks",
-        "score": 18,
+        "score": 13,
         "examples": [
           "19 Health Alert: Northeast Ohio measles outbreak - Cleveland 19 News",
-          "19 Health Alert: Northeast Ohio measles outbreak - Cleveland 19 News",
-          "Salmonella Outbreak Linked to Jalapeño Peppers From Chipotle and Qdoba - Time Magazine"
+          "Salmonella Outbreak Linked to Jalapeño Peppers From Chipotle and Qdoba - Time Magazine",
+          "Cyclospora Outbreak 2026: Map, Foods to Avoid, States Most Impacted as US Hits 22,000 Cases - TODAY.com"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "SA",
+        "category": "Mental Health",
+        "score": 12,
+        "examples": [
+          "New Mexico court orders Meta to pay $567 million over mental health harms to kids online - PBS",
+          "Former Clancy nanny testifies about mother's mental health issues before killings - PBS",
+          "Wellness club gives Latino men space to focus on mental health - ABC7 Los Angeles"
+        ]
+      },
+      {
+        "trend": "mental health",
+        "market_code": "SA",
+        "category": "Mental Health",
+        "score": 12,
+        "examples": [
+          "New Mexico court orders Meta to pay $567 million over mental health harms to kids online - PBS",
+          "Former Clancy nanny testifies about mother's mental health issues before killings - PBS",
+          "Wellness club gives Latino men space to focus on mental health - ABC7 Los Angeles"
         ]
       },
       {
@@ -2326,47 +2348,14 @@
         ]
       },
       {
-        "trend": "mental",
-        "market_code": "SA",
-        "category": "Mental Health",
-        "score": 10,
-        "examples": [
-          "Former Clancy nanny testifies about mother's mental health issues before killings - PBS",
-          "Working with the American Psychological Association on youth mental health and AI - OpenAI",
-          "NY made it possible for judges to order mental health treatment. But is access the real issue? - WXXI News"
-        ]
-      },
-      {
-        "trend": "mental health",
-        "market_code": "SA",
-        "category": "Mental Health",
-        "score": 10,
-        "examples": [
-          "Former Clancy nanny testifies about mother's mental health issues before killings - PBS",
-          "Working with the American Psychological Association on youth mental health and AI - OpenAI",
-          "NY made it possible for judges to order mental health treatment. But is access the real issue? - WXXI News"
-        ]
-      },
-      {
         "trend": "healthcare",
         "market_code": "SA",
         "category": "Arab Health",
-        "score": 10,
+        "score": 11,
         "examples": [
           "Is physical AI healthcare's next transformational technology? - Healthcare IT News",
           "Is physical AI healthcare's next transformational technology? - Healthcare IT News",
           "Medical AI should be built with healthcare, not around it - The Business Journals"
-        ]
-      },
-      {
-        "trend": "virus",
-        "market_code": "SA",
-        "category": "Outbreaks",
-        "score": 9,
-        "examples": [
-          "Ebola virus behind massive outbreak in DRC could be mutating, officials say - The Guardian",
-          "Ebola virus behind massive outbreak in DRC could be mutating, officials say - theguardian.com",
-          "AI designs new virus not found in nature - Axios"
         ]
       },
       {
@@ -2376,26 +2365,15 @@
         "score": 8,
         "examples": [
           "How a Maxwell Professor Uses Radio Dramas to Improve Public Health Outcomes - Syracuse University Today",
-          "Marena Works remembered for Nevada public health leadership - unr.edu",
-          "Public health alumna, center director guide road map for cancer prevention in Virginia - Virginia Tech News"
-        ]
-      },
-      {
-        "trend": "measles",
-        "market_code": "SA",
-        "category": "Outbreaks",
-        "score": 7,
-        "examples": [
-          "Kern County Public Health confirms first cases of measles - KGET.com",
-          "19 Health Alert: Northeast Ohio measles outbreak - Cleveland 19 News",
-          "Measles exposure warning issued at Universal Studios Hollywood after confirmed case in visitor - CBS News"
+          "Greening public health: embedding environmental sustainability in research and practice - Frontiers",
+          "Marena Works remembered for Nevada public health leadership - University of Nevada, Reno"
         ]
       },
       {
         "trend": "infection",
         "market_code": "SA",
         "category": "Outbreaks",
-        "score": 7,
+        "score": 8,
         "examples": [
           "Texas leads US in cases of dangerous fungal infection - FOX 7 Austin",
           "Why the same antibiotic can cure one infection but fail in another - Medical Xpress",
@@ -2403,14 +2381,36 @@
         ]
       },
       {
+        "trend": "virus",
+        "market_code": "SA",
+        "category": "Outbreaks",
+        "score": 7,
+        "examples": [
+          "Ebola virus behind massive outbreak in DRC could be mutating, officials say - The Guardian",
+          "AI designs new virus not found in nature - Axios",
+          "Ebola virus behind massive outbreak in DRC could be mutating, officials say - The Guardian"
+        ]
+      },
+      {
         "trend": "vaccine",
         "market_code": "SA",
         "category": "Drug & Treatment News",
-        "score": 6,
+        "score": 7,
         "examples": [
           "Moderna begins Phase 1 clinical trial of Ebola vaccine against strain behind DRC outbreak - ABC News - Breaking News, Latest News and Videos",
           "Two FDA approvals — a new drug and a new vaccine - STAT",
-          "FDA Approves mRNA-1010 (mFLUSIVA) as mRNA Flu Vaccine for Adults 50 and Older - patientcareonline.com"
+          "Moderna's first mRNA flu vaccine approved for adults 50+ - Stock Titan"
+        ]
+      },
+      {
+        "trend": "research",
+        "market_code": "SA",
+        "category": "Arab Health",
+        "score": 6,
+        "examples": [
+          "Bridging Gaps in Women’s Health: Research driving change in sexual violence prevention - The University of Utah",
+          "Greening public health: embedding environmental sustainability in research and practice - Frontiers",
+          "‘If it stings your lungs, go inside’: Wildfire smoke blankets western South Dakota as SDSU research powers new national forecast tool - KOTA Territory News"
         ]
       }
     ],
@@ -2419,33 +2419,55 @@
         "trend": "health",
         "market_code": "QA",
         "category": "Arab Health",
-        "score": 65,
+        "score": 66,
         "examples": [
           "The Trump Administration's Foreign Aid Review: Status of U.S. Global Maternal and Child Health Efforts - KFF",
-          "HHS proposes cutting many federal education and health guidelines for Head Start - washingtonpost.com",
-          "Reimagining Rural Maternal and Child Health - National Governors Association"
+          "New Mexico court orders Meta to pay $567 million over mental health harms to kids online - PBS",
+          "HHS proposes cutting many federal education and health guidelines for Head Start - The Washington Post"
         ]
       },
       {
         "trend": "medical",
         "market_code": "QA",
         "category": "Arab Health",
-        "score": 20,
+        "score": 21,
         "examples": [
           "Medical Aid in Dying - New York State Department of Health (.gov)",
           "UNC defensive coordinator Steve Belichick on medical leave - WRAL",
-          "Making Medical AI More Reliable - USC Viterbi School of Engineering"
+          "Making Medical AI More Reliable - viterbischool.usc.edu"
         ]
       },
       {
         "trend": "outbreak",
         "market_code": "QA",
         "category": "Outbreaks",
-        "score": 18,
+        "score": 13,
         "examples": [
           "19 Health Alert: Northeast Ohio measles outbreak - Cleveland 19 News",
-          "19 Health Alert: Northeast Ohio measles outbreak - Cleveland 19 News",
-          "Salmonella Outbreak Linked to Jalapeño Peppers From Chipotle and Qdoba - Time Magazine"
+          "Salmonella Outbreak Linked to Jalapeño Peppers From Chipotle and Qdoba - Time Magazine",
+          "Cyclospora Outbreak 2026: Map, Foods to Avoid, States Most Impacted as US Hits 22,000 Cases - TODAY.com"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "QA",
+        "category": "Mental Health",
+        "score": 12,
+        "examples": [
+          "New Mexico court orders Meta to pay $567 million over mental health harms to kids online - PBS",
+          "Former Clancy nanny testifies about mother's mental health issues before killings - PBS",
+          "Wellness club gives Latino men space to focus on mental health - ABC7 Los Angeles"
+        ]
+      },
+      {
+        "trend": "mental health",
+        "market_code": "QA",
+        "category": "Mental Health",
+        "score": 12,
+        "examples": [
+          "New Mexico court orders Meta to pay $567 million over mental health harms to kids online - PBS",
+          "Former Clancy nanny testifies about mother's mental health issues before killings - PBS",
+          "Wellness club gives Latino men space to focus on mental health - ABC7 Los Angeles"
         ]
       },
       {
@@ -2460,47 +2482,14 @@
         ]
       },
       {
-        "trend": "mental",
-        "market_code": "QA",
-        "category": "Mental Health",
-        "score": 10,
-        "examples": [
-          "Former Clancy nanny testifies about mother's mental health issues before killings - PBS",
-          "Working with the American Psychological Association on youth mental health and AI - OpenAI",
-          "NY made it possible for judges to order mental health treatment. But is access the real issue? - WXXI News"
-        ]
-      },
-      {
-        "trend": "mental health",
-        "market_code": "QA",
-        "category": "Mental Health",
-        "score": 10,
-        "examples": [
-          "Former Clancy nanny testifies about mother's mental health issues before killings - PBS",
-          "Working with the American Psychological Association on youth mental health and AI - OpenAI",
-          "NY made it possible for judges to order mental health treatment. But is access the real issue? - WXXI News"
-        ]
-      },
-      {
         "trend": "healthcare",
         "market_code": "QA",
         "category": "Arab Health",
-        "score": 10,
+        "score": 11,
         "examples": [
           "Is physical AI healthcare's next transformational technology? - Healthcare IT News",
           "Is physical AI healthcare's next transformational technology? - Healthcare IT News",
           "Medical AI should be built with healthcare, not around it - The Business Journals"
-        ]
-      },
-      {
-        "trend": "virus",
-        "market_code": "QA",
-        "category": "Outbreaks",
-        "score": 9,
-        "examples": [
-          "Ebola virus behind massive outbreak in DRC could be mutating, officials say - The Guardian",
-          "Ebola virus behind massive outbreak in DRC could be mutating, officials say - theguardian.com",
-          "AI designs new virus not found in nature - Axios"
         ]
       },
       {
@@ -2510,26 +2499,15 @@
         "score": 8,
         "examples": [
           "How a Maxwell Professor Uses Radio Dramas to Improve Public Health Outcomes - Syracuse University Today",
-          "Marena Works remembered for Nevada public health leadership - unr.edu",
-          "Public health alumna, center director guide road map for cancer prevention in Virginia - Virginia Tech News"
-        ]
-      },
-      {
-        "trend": "measles",
-        "market_code": "QA",
-        "category": "Outbreaks",
-        "score": 7,
-        "examples": [
-          "Kern County Public Health confirms first cases of measles - KGET.com",
-          "19 Health Alert: Northeast Ohio measles outbreak - Cleveland 19 News",
-          "Measles exposure warning issued at Universal Studios Hollywood after confirmed case in visitor - CBS News"
+          "Greening public health: embedding environmental sustainability in research and practice - Frontiers",
+          "Marena Works remembered for Nevada public health leadership - University of Nevada, Reno"
         ]
       },
       {
         "trend": "infection",
         "market_code": "QA",
         "category": "Outbreaks",
-        "score": 7,
+        "score": 8,
         "examples": [
           "Texas leads US in cases of dangerous fungal infection - FOX 7 Austin",
           "Why the same antibiotic can cure one infection but fail in another - Medical Xpress",
@@ -2537,14 +2515,36 @@
         ]
       },
       {
+        "trend": "virus",
+        "market_code": "QA",
+        "category": "Outbreaks",
+        "score": 7,
+        "examples": [
+          "Ebola virus behind massive outbreak in DRC could be mutating, officials say - The Guardian",
+          "AI designs new virus not found in nature - Axios",
+          "Ebola virus behind massive outbreak in DRC could be mutating, officials say - The Guardian"
+        ]
+      },
+      {
         "trend": "vaccine",
         "market_code": "QA",
         "category": "Drug & Treatment News",
-        "score": 6,
+        "score": 7,
         "examples": [
           "Moderna begins Phase 1 clinical trial of Ebola vaccine against strain behind DRC outbreak - ABC News - Breaking News, Latest News and Videos",
           "Two FDA approvals — a new drug and a new vaccine - STAT",
-          "FDA Approves mRNA-1010 (mFLUSIVA) as mRNA Flu Vaccine for Adults 50 and Older - patientcareonline.com"
+          "Moderna's first mRNA flu vaccine approved for adults 50+ - Stock Titan"
+        ]
+      },
+      {
+        "trend": "research",
+        "market_code": "QA",
+        "category": "Arab Health",
+        "score": 6,
+        "examples": [
+          "Bridging Gaps in Women’s Health: Research driving change in sexual violence prevention - The University of Utah",
+          "Greening public health: embedding environmental sustainability in research and practice - Frontiers",
+          "‘If it stings your lungs, go inside’: Wildfire smoke blankets western South Dakota as SDSU research powers new national forecast tool - KOTA Territory News"
         ]
       }
     ],
@@ -2553,33 +2553,55 @@
         "trend": "health",
         "market_code": "JO",
         "category": "Arab Health",
-        "score": 65,
+        "score": 66,
         "examples": [
           "The Trump Administration's Foreign Aid Review: Status of U.S. Global Maternal and Child Health Efforts - KFF",
-          "HHS proposes cutting many federal education and health guidelines for Head Start - washingtonpost.com",
-          "Reimagining Rural Maternal and Child Health - National Governors Association"
+          "New Mexico court orders Meta to pay $567 million over mental health harms to kids online - PBS",
+          "HHS proposes cutting many federal education and health guidelines for Head Start - The Washington Post"
         ]
       },
       {
         "trend": "medical",
         "market_code": "JO",
         "category": "Arab Health",
-        "score": 20,
+        "score": 21,
         "examples": [
           "Medical Aid in Dying - New York State Department of Health (.gov)",
           "UNC defensive coordinator Steve Belichick on medical leave - WRAL",
-          "Making Medical AI More Reliable - USC Viterbi School of Engineering"
+          "Making Medical AI More Reliable - viterbischool.usc.edu"
         ]
       },
       {
         "trend": "outbreak",
         "market_code": "JO",
         "category": "Outbreaks",
-        "score": 18,
+        "score": 13,
         "examples": [
           "19 Health Alert: Northeast Ohio measles outbreak - Cleveland 19 News",
-          "19 Health Alert: Northeast Ohio measles outbreak - Cleveland 19 News",
-          "Salmonella Outbreak Linked to Jalapeño Peppers From Chipotle and Qdoba - Time Magazine"
+          "Salmonella Outbreak Linked to Jalapeño Peppers From Chipotle and Qdoba - Time Magazine",
+          "Cyclospora Outbreak 2026: Map, Foods to Avoid, States Most Impacted as US Hits 22,000 Cases - TODAY.com"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "JO",
+        "category": "Mental Health",
+        "score": 12,
+        "examples": [
+          "New Mexico court orders Meta to pay $567 million over mental health harms to kids online - PBS",
+          "Former Clancy nanny testifies about mother's mental health issues before killings - PBS",
+          "Wellness club gives Latino men space to focus on mental health - ABC7 Los Angeles"
+        ]
+      },
+      {
+        "trend": "mental health",
+        "market_code": "JO",
+        "category": "Mental Health",
+        "score": 12,
+        "examples": [
+          "New Mexico court orders Meta to pay $567 million over mental health harms to kids online - PBS",
+          "Former Clancy nanny testifies about mother's mental health issues before killings - PBS",
+          "Wellness club gives Latino men space to focus on mental health - ABC7 Los Angeles"
         ]
       },
       {
@@ -2594,47 +2616,14 @@
         ]
       },
       {
-        "trend": "mental",
-        "market_code": "JO",
-        "category": "Mental Health",
-        "score": 10,
-        "examples": [
-          "Former Clancy nanny testifies about mother's mental health issues before killings - PBS",
-          "Working with the American Psychological Association on youth mental health and AI - OpenAI",
-          "NY made it possible for judges to order mental health treatment. But is access the real issue? - WXXI News"
-        ]
-      },
-      {
-        "trend": "mental health",
-        "market_code": "JO",
-        "category": "Mental Health",
-        "score": 10,
-        "examples": [
-          "Former Clancy nanny testifies about mother's mental health issues before killings - PBS",
-          "Working with the American Psychological Association on youth mental health and AI - OpenAI",
-          "NY made it possible for judges to order mental health treatment. But is access the real issue? - WXXI News"
-        ]
-      },
-      {
         "trend": "healthcare",
         "market_code": "JO",
         "category": "Arab Health",
-        "score": 10,
+        "score": 11,
         "examples": [
           "Is physical AI healthcare's next transformational technology? - Healthcare IT News",
           "Is physical AI healthcare's next transformational technology? - Healthcare IT News",
           "Medical AI should be built with healthcare, not around it - The Business Journals"
-        ]
-      },
-      {
-        "trend": "virus",
-        "market_code": "JO",
-        "category": "Outbreaks",
-        "score": 9,
-        "examples": [
-          "Ebola virus behind massive outbreak in DRC could be mutating, officials say - The Guardian",
-          "Ebola virus behind massive outbreak in DRC could be mutating, officials say - theguardian.com",
-          "AI designs new virus not found in nature - Axios"
         ]
       },
       {
@@ -2644,26 +2633,15 @@
         "score": 8,
         "examples": [
           "How a Maxwell Professor Uses Radio Dramas to Improve Public Health Outcomes - Syracuse University Today",
-          "Marena Works remembered for Nevada public health leadership - unr.edu",
-          "Public health alumna, center director guide road map for cancer prevention in Virginia - Virginia Tech News"
-        ]
-      },
-      {
-        "trend": "measles",
-        "market_code": "JO",
-        "category": "Outbreaks",
-        "score": 7,
-        "examples": [
-          "Kern County Public Health confirms first cases of measles - KGET.com",
-          "19 Health Alert: Northeast Ohio measles outbreak - Cleveland 19 News",
-          "Measles exposure warning issued at Universal Studios Hollywood after confirmed case in visitor - CBS News"
+          "Greening public health: embedding environmental sustainability in research and practice - Frontiers",
+          "Marena Works remembered for Nevada public health leadership - University of Nevada, Reno"
         ]
       },
       {
         "trend": "infection",
         "market_code": "JO",
         "category": "Outbreaks",
-        "score": 7,
+        "score": 8,
         "examples": [
           "Texas leads US in cases of dangerous fungal infection - FOX 7 Austin",
           "Why the same antibiotic can cure one infection but fail in another - Medical Xpress",
@@ -2671,14 +2649,36 @@
         ]
       },
       {
+        "trend": "virus",
+        "market_code": "JO",
+        "category": "Outbreaks",
+        "score": 7,
+        "examples": [
+          "Ebola virus behind massive outbreak in DRC could be mutating, officials say - The Guardian",
+          "AI designs new virus not found in nature - Axios",
+          "Ebola virus behind massive outbreak in DRC could be mutating, officials say - The Guardian"
+        ]
+      },
+      {
         "trend": "vaccine",
         "market_code": "JO",
         "category": "Drug & Treatment News",
-        "score": 6,
+        "score": 7,
         "examples": [
           "Moderna begins Phase 1 clinical trial of Ebola vaccine against strain behind DRC outbreak - ABC News - Breaking News, Latest News and Videos",
           "Two FDA approvals — a new drug and a new vaccine - STAT",
-          "FDA Approves mRNA-1010 (mFLUSIVA) as mRNA Flu Vaccine for Adults 50 and Older - patientcareonline.com"
+          "Moderna's first mRNA flu vaccine approved for adults 50+ - Stock Titan"
+        ]
+      },
+      {
+        "trend": "research",
+        "market_code": "JO",
+        "category": "Arab Health",
+        "score": 6,
+        "examples": [
+          "Bridging Gaps in Women’s Health: Research driving change in sexual violence prevention - The University of Utah",
+          "Greening public health: embedding environmental sustainability in research and practice - Frontiers",
+          "‘If it stings your lungs, go inside’: Wildfire smoke blankets western South Dakota as SDSU research powers new national forecast tool - KOTA Territory News"
         ]
       }
     ],
@@ -2687,33 +2687,55 @@
         "trend": "health",
         "market_code": "LB",
         "category": "Arab Health",
-        "score": 65,
+        "score": 66,
         "examples": [
           "The Trump Administration's Foreign Aid Review: Status of U.S. Global Maternal and Child Health Efforts - KFF",
-          "HHS proposes cutting many federal education and health guidelines for Head Start - washingtonpost.com",
-          "Reimagining Rural Maternal and Child Health - National Governors Association"
+          "New Mexico court orders Meta to pay $567 million over mental health harms to kids online - PBS",
+          "HHS proposes cutting many federal education and health guidelines for Head Start - The Washington Post"
         ]
       },
       {
         "trend": "medical",
         "market_code": "LB",
         "category": "Arab Health",
-        "score": 20,
+        "score": 21,
         "examples": [
           "Medical Aid in Dying - New York State Department of Health (.gov)",
           "UNC defensive coordinator Steve Belichick on medical leave - WRAL",
-          "Making Medical AI More Reliable - USC Viterbi School of Engineering"
+          "Making Medical AI More Reliable - viterbischool.usc.edu"
         ]
       },
       {
         "trend": "outbreak",
         "market_code": "LB",
         "category": "Outbreaks",
-        "score": 18,
+        "score": 13,
         "examples": [
           "19 Health Alert: Northeast Ohio measles outbreak - Cleveland 19 News",
-          "19 Health Alert: Northeast Ohio measles outbreak - Cleveland 19 News",
-          "Salmonella Outbreak Linked to Jalapeño Peppers From Chipotle and Qdoba - Time Magazine"
+          "Salmonella Outbreak Linked to Jalapeño Peppers From Chipotle and Qdoba - Time Magazine",
+          "Cyclospora Outbreak 2026: Map, Foods to Avoid, States Most Impacted as US Hits 22,000 Cases - TODAY.com"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "LB",
+        "category": "Mental Health",
+        "score": 12,
+        "examples": [
+          "New Mexico court orders Meta to pay $567 million over mental health harms to kids online - PBS",
+          "Former Clancy nanny testifies about mother's mental health issues before killings - PBS",
+          "Wellness club gives Latino men space to focus on mental health - ABC7 Los Angeles"
+        ]
+      },
+      {
+        "trend": "mental health",
+        "market_code": "LB",
+        "category": "Mental Health",
+        "score": 12,
+        "examples": [
+          "New Mexico court orders Meta to pay $567 million over mental health harms to kids online - PBS",
+          "Former Clancy nanny testifies about mother's mental health issues before killings - PBS",
+          "Wellness club gives Latino men space to focus on mental health - ABC7 Los Angeles"
         ]
       },
       {
@@ -2728,47 +2750,14 @@
         ]
       },
       {
-        "trend": "mental",
-        "market_code": "LB",
-        "category": "Mental Health",
-        "score": 10,
-        "examples": [
-          "Former Clancy nanny testifies about mother's mental health issues before killings - PBS",
-          "Working with the American Psychological Association on youth mental health and AI - OpenAI",
-          "NY made it possible for judges to order mental health treatment. But is access the real issue? - WXXI News"
-        ]
-      },
-      {
-        "trend": "mental health",
-        "market_code": "LB",
-        "category": "Mental Health",
-        "score": 10,
-        "examples": [
-          "Former Clancy nanny testifies about mother's mental health issues before killings - PBS",
-          "Working with the American Psychological Association on youth mental health and AI - OpenAI",
-          "NY made it possible for judges to order mental health treatment. But is access the real issue? - WXXI News"
-        ]
-      },
-      {
         "trend": "healthcare",
         "market_code": "LB",
         "category": "Arab Health",
-        "score": 10,
+        "score": 11,
         "examples": [
           "Is physical AI healthcare's next transformational technology? - Healthcare IT News",
           "Is physical AI healthcare's next transformational technology? - Healthcare IT News",
           "Medical AI should be built with healthcare, not around it - The Business Journals"
-        ]
-      },
-      {
-        "trend": "virus",
-        "market_code": "LB",
-        "category": "Outbreaks",
-        "score": 9,
-        "examples": [
-          "Ebola virus behind massive outbreak in DRC could be mutating, officials say - The Guardian",
-          "Ebola virus behind massive outbreak in DRC could be mutating, officials say - theguardian.com",
-          "AI designs new virus not found in nature - Axios"
         ]
       },
       {
@@ -2778,26 +2767,15 @@
         "score": 8,
         "examples": [
           "How a Maxwell Professor Uses Radio Dramas to Improve Public Health Outcomes - Syracuse University Today",
-          "Marena Works remembered for Nevada public health leadership - unr.edu",
-          "Public health alumna, center director guide road map for cancer prevention in Virginia - Virginia Tech News"
-        ]
-      },
-      {
-        "trend": "measles",
-        "market_code": "LB",
-        "category": "Outbreaks",
-        "score": 7,
-        "examples": [
-          "Kern County Public Health confirms first cases of measles - KGET.com",
-          "19 Health Alert: Northeast Ohio measles outbreak - Cleveland 19 News",
-          "Measles exposure warning issued at Universal Studios Hollywood after confirmed case in visitor - CBS News"
+          "Greening public health: embedding environmental sustainability in research and practice - Frontiers",
+          "Marena Works remembered for Nevada public health leadership - University of Nevada, Reno"
         ]
       },
       {
         "trend": "infection",
         "market_code": "LB",
         "category": "Outbreaks",
-        "score": 7,
+        "score": 8,
         "examples": [
           "Texas leads US in cases of dangerous fungal infection - FOX 7 Austin",
           "Why the same antibiotic can cure one infection but fail in another - Medical Xpress",
@@ -2805,14 +2783,36 @@
         ]
       },
       {
+        "trend": "virus",
+        "market_code": "LB",
+        "category": "Outbreaks",
+        "score": 7,
+        "examples": [
+          "Ebola virus behind massive outbreak in DRC could be mutating, officials say - The Guardian",
+          "AI designs new virus not found in nature - Axios",
+          "Ebola virus behind massive outbreak in DRC could be mutating, officials say - The Guardian"
+        ]
+      },
+      {
         "trend": "vaccine",
         "market_code": "LB",
         "category": "Drug & Treatment News",
-        "score": 6,
+        "score": 7,
         "examples": [
           "Moderna begins Phase 1 clinical trial of Ebola vaccine against strain behind DRC outbreak - ABC News - Breaking News, Latest News and Videos",
           "Two FDA approvals — a new drug and a new vaccine - STAT",
-          "FDA Approves mRNA-1010 (mFLUSIVA) as mRNA Flu Vaccine for Adults 50 and Older - patientcareonline.com"
+          "Moderna's first mRNA flu vaccine approved for adults 50+ - Stock Titan"
+        ]
+      },
+      {
+        "trend": "research",
+        "market_code": "LB",
+        "category": "Arab Health",
+        "score": 6,
+        "examples": [
+          "Bridging Gaps in Women’s Health: Research driving change in sexual violence prevention - The University of Utah",
+          "Greening public health: embedding environmental sustainability in research and practice - Frontiers",
+          "‘If it stings your lungs, go inside’: Wildfire smoke blankets western South Dakota as SDSU research powers new national forecast tool - KOTA Territory News"
         ]
       }
     ]
