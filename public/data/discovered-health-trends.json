@@ -1,2819 +1,929 @@
 {
-  "updated_at": "2026-08-12T00:50:19.541580+00:00",
-  "total_trends": 252,
+  "updated_at": "2026-08-12T07:46:11.645838+00:00",
+  "total_trends": 126,
   "markets": {
     "United States": [
       {
-        "trend": "health",
+        "trend": "health alert",
         "market_code": "US",
         "category": "US Health",
-        "score": 71,
-        "examples": [
-          "Governor Ron DeSantis Announces Nearly $188 Million to Expand Rural Health Care Access Across Florida - Office of Governor Ron DeSantis",
-          "PPB, PF&R Safely Rescue Juvenile in Mental Health Crisis - City of Portland, Oregon (.gov)",
-          "Prisma Health restores some systems after connectivity problems - WYFF"
-        ]
-      },
-      {
-        "trend": "medical",
-        "market_code": "US",
-        "category": "US Health",
-        "score": 17,
-        "examples": [
-          "AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study. - blog.google",
-          "Demolition of Lindy Boggs Medical Center on track to begin this month - WDSU",
-          "Guard Medical Leaders Boost Readiness - nationalguard.mil"
-        ]
-      },
-      {
-        "trend": "disease",
-        "market_code": "US",
-        "category": "US Health",
-        "score": 16,
-        "examples": [
-          "Risk of Severe Arboviral Disease in Patients Receiving B Cell-Depleting or Modulating Medications - Centers for Disease Control and Prevention | CDC (.gov)",
-          "Risk of Severe Arboviral Disease in Patients Receiving B Cell-Depleting or Modulating Medications - Centers for Disease Control and Prevention | CDC (.gov)",
-          "RELEASE: Gottheimer Hosts Alzheimer’s Disease Roundtable with Patients, Advocates, and Medical Professionals - House.gov"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
         "trend": "outbreak",
         "market_code": "US",
         "category": "Outbreaks",
-        "score": 13,
-        "examples": [
-          "Salmonella outbreak linked to jalapeño prompts other food recalls - Detroit Free Press",
-          "5 Low-Risk Fruits and Vegetables As the Cyclospora Outbreak Grows — And Whether to Avoid Lettuce - TODAY.com",
-          "Farm linked to cyclosporiasis outbreak hadn't been inspected in 7 years as FDA lags on foreign inspection targets - CBS News"
-        ]
-      },
-      {
-        "trend": "mental",
-        "market_code": "US",
-        "category": "Mental Health",
-        "score": 12,
-        "examples": [
-          "PPB, PF&R Safely Rescue Juvenile in Mental Health Crisis - City of Portland, Oregon (.gov)",
-          "Childhood screen detects mental health risks - National Institutes of Health (NIH) | (.gov)",
-          "PPB, PF&R Safely Rescue Juvenile in Mental Health Crisis - City of Portland, Oregon (.gov)"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
         "trend": "mental health",
         "market_code": "US",
         "category": "Mental Health",
-        "score": 12,
-        "examples": [
-          "PPB, PF&R Safely Rescue Juvenile in Mental Health Crisis - City of Portland, Oregon (.gov)",
-          "Childhood screen detects mental health risks - National Institutes of Health (NIH) | (.gov)",
-          "PPB, PF&R Safely Rescue Juvenile in Mental Health Crisis - City of Portland, Oregon (.gov)"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "hospitals",
+        "trend": "medical research",
         "market_code": "US",
         "category": "US Health",
-        "score": 9,
-        "examples": [
-          "NYC Health + Hospitals/Carter Appoints New Chief Nursing Officer - NYC Health + Hospitals",
-          "NYC Health + Hospitals/Carter Appoints New Chief Nursing Officer - NYC Health + Hospitals",
-          "All ECU Health hospitals receive Get With The Guidelines® awards for fourth consecutive year - ECU Health"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "public health",
+        "trend": "drug approval",
         "market_code": "US",
-        "category": "US Health",
-        "score": 9,
-        "examples": [
-          "Schneider: Orange’s Proposed Smoking Ban Should Put Public Health First - Voice of OC",
-          "Calcasieu Parish Coroner issues public health warning over deadly bacteria found in local waters - KPLC 7 News",
-          "2026 Sam Shapiro Lecture: Why Health? With Sandro Galea, MD, DrPH - Johns Hopkins Bloomberg School of Public Health"
-        ]
+        "category": "Drug & Treatment News",
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "warning",
+        "trend": "diet wellness",
         "market_code": "US",
-        "category": "US Health",
-        "score": 9,
-        "examples": [
-          "Calcasieu Parish Coroner issues public health warning over deadly bacteria found in local waters - KPLC 7 News",
-          "Calcasieu Parish Coroner issues public health warning over deadly bacteria found in local waters - KPLC 7 News",
-          "‘Real mummy’s curse’: health warning over growing trade in mummified human remains - The Guardian"
-        ]
-      },
-      {
-        "trend": "virus",
-        "market_code": "US",
-        "category": "Outbreaks",
-        "score": 9,
-        "examples": [
-          "MADACC's cat kennels under quarantine as the shelter fights a highly contagious virus with no cure. - WISN",
-          "Pee Dee, South Carolina, reports West Nile virus outbreak - CIDRAP",
-          "MADACC's cat kennels under quarantine as the shelter fights a highly contagious virus with no cure. - WISN"
-        ]
-      },
-      {
-        "trend": "patients",
-        "market_code": "US",
-        "category": "US Health",
-        "score": 8,
-        "examples": [
-          "Risk of Severe Arboviral Disease in Patients Receiving B Cell-Depleting or Modulating Medications - Centers for Disease Control and Prevention | CDC (.gov)",
-          "RELEASE: Gottheimer Hosts Alzheimer’s Disease Roundtable with Patients, Advocates, and Medical Professionals - House.gov",
-          "Risk of Severe Arboviral Disease in Patients Receiving B Cell-Depleting or Modulating Medications - Centers for Disease Control and Prevention | CDC (.gov)"
-        ]
-      },
-      {
-        "trend": "healthcare",
-        "market_code": "US",
-        "category": "US Health",
-        "score": 8,
-        "examples": [
-          "DentaQuest breach exposes data of 15M people, a record this year - Healthcare Dive",
-          "The Foodism Show x Thailand Health & Wellness Expo 2026 Promoting Preventive Healthcare for a Sustainable Quality of Life - aap.com.au",
-          "The AI boom could boost Epic's position, health system execs say. Here's where AI startups can still win - Fierce Healthcare"
-        ]
+        "category": "Diet & Wellness",
+        "score": 1,
+        "examples": []
       }
     ],
     "United Kingdom": [
       {
-        "trend": "health",
+        "trend": "health alert",
         "market_code": "GB",
         "category": "Europe Health",
-        "score": 86,
-        "examples": [
-          "WHO Health Emergencies EPI-WIN webinar: Preparing for El Niño and climate-related health risks: global insights and country experiences - World Health Organization (WHO)",
-          "WHO Health Emergencies EPI-WIN webinar: Preparing for El Niño and climate-related health risks: global insights and country experiences - World Health Organization (WHO)",
-          "WHO Health Emergencies EPI-WIN webinar: Preparing for El Niño and climate-related health risks: global insights and country experiences - World Health Organization (WHO)"
-        ]
-      },
-      {
-        "trend": "healthcare",
-        "market_code": "GB",
-        "category": "Europe Health",
-        "score": 16,
-        "examples": [
-          "NHS Healthcare Improvement Scotland Non-Executive Director Recruitment - Health and Social Care Alliance Scotland",
-          "Alert issued on medical devices without conformity markings - Healthcare Management Magazine",
-          "National recognition for Trust with multiple award shortlists - Imperial College Healthcare NHS Trust"
-        ]
-      },
-      {
-        "trend": "medical",
-        "market_code": "GB",
-        "category": "Europe Health",
-        "score": 15,
-        "examples": [
-          "Rescue at York Minster after tower medical incident - BBC",
-          "Chelsea confirm transfer as medical booked for ninth summer signing - London Evening Standard",
-          "AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study. - blog.google"
-        ]
-      },
-      {
-        "trend": "mental",
-        "market_code": "GB",
-        "category": "Mental Health",
-        "score": 12,
-        "examples": [
-          "Resolving an enduring injustice – why every IPP prisoner needs a resentencing review - Centre for Mental Health",
-          "Mapping how mental health risks emerge in AI chatbot conversations - Medical Xpress",
-          "54% of young adults ‘say finances have recently affected mental health’ - London Evening Standard"
-        ]
-      },
-      {
-        "trend": "mental health",
-        "market_code": "GB",
-        "category": "Mental Health",
-        "score": 12,
-        "examples": [
-          "Resolving an enduring injustice – why every IPP prisoner needs a resentencing review - Centre for Mental Health",
-          "Mapping how mental health risks emerge in AI chatbot conversations - Medical Xpress",
-          "54% of young adults ‘say finances have recently affected mental health’ - London Evening Standard"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
         "trend": "outbreak",
         "market_code": "GB",
         "category": "Outbreaks",
-        "score": 10,
-        "examples": [
-          "DRC Ebola death toll passes 2,000 amid fastest-growing outbreak on record - Al Jazeera",
-          "5 Low-Risk Fruits and Vegetables As the Cyclospora Outbreak Grows — And Whether to Avoid Lettuce - TODAY.com",
-          "At least 2,000 people have died in Congo Ebola outbreak - Morning Star | The People’s Daily"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "warning",
+        "trend": "mental health",
+        "market_code": "GB",
+        "category": "Mental Health",
+        "score": 1,
+        "examples": []
+      },
+      {
+        "trend": "medical research",
         "market_code": "GB",
         "category": "Europe Health",
-        "score": 9,
-        "examples": [
-          "‘Real mummy’s curse’: health warning over growing trade in mummified human remains - The Guardian",
-          "‘Real mummy’s curse’: health warning over growing trade in mummified human remains - The Guardian",
-          "UK heatwave prompts Met Office amber warning with 38C predicted - BBC"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "health warning",
+        "trend": "drug approval",
         "market_code": "GB",
-        "category": "Europe Health",
-        "score": 6,
-        "examples": [
-          "‘Real mummy’s curse’: health warning over growing trade in mummified human remains - The Guardian",
-          "‘Real mummy’s curse’: health warning over growing trade in mummified human remains - The Guardian",
-          "Amber health warning: Hottest day of the week revealed - SussexWorld"
-        ]
+        "category": "Drug & Treatment News",
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "health alert",
+        "trend": "diet wellness",
         "market_code": "GB",
-        "category": "Europe Health",
-        "score": 6,
-        "examples": [
-          "Amber Health alert: West Sussex County Council offers advice as temperatures set to peak at 36°C - SussexWorld",
-          "Amber Heat Health Alert Issued Across Sussex - More Radio",
-          "North East heat health alert upgraded ahead of historic fifth UK heatwave - Chronicle Live"
-        ]
-      },
-      {
-        "trend": "heat health",
-        "market_code": "GB",
-        "category": "Europe Health",
-        "score": 6,
-        "examples": [
-          "Amber heat health alerts for almost all of England as next heatwave begins - BBC",
-          "Amber Heat Health Alert Issued Across Sussex - More Radio",
-          "North East heat health alert upgraded ahead of historic fifth UK heatwave - Chronicle Live"
-        ]
-      },
-      {
-        "trend": "virus",
-        "market_code": "GB",
-        "category": "Outbreaks",
-        "score": 6,
-        "examples": [
-          "Potentially deadly bluetongue livestock virus found in Scotland for first time - BBC",
-          "Scientists have designed a functioning virus from scratch using AI – what you need to know - The Conversation",
-          "Potentially deadly livestock virus found in Scotland for first time - The National Scot"
-        ]
-      },
-      {
-        "trend": "infection",
-        "market_code": "GB",
-        "category": "Outbreaks",
-        "score": 6,
-        "examples": [
-          "Concussion before, not after, EBV infection may boost MS risk - Multiple Sclerosis News Today",
-          "Concussion before, not after, EBV infection may boost MS risk - Multiple Sclerosis News Today",
-          "CRISPR-armed phages help treat severe superbug infection - New Scientist"
-        ]
+        "category": "Diet & Wellness",
+        "score": 1,
+        "examples": []
       }
     ],
     "Germany": [
       {
-        "trend": "health",
+        "trend": "health alert",
         "market_code": "DE",
         "category": "Europe Health",
-        "score": 74,
-        "examples": [
-          "Governor Ron DeSantis Announces Nearly $188 Million to Expand Rural Health Care Access Across Florida - Office of Governor Ron DeSantis",
-          "PPB, PF&R Safely Rescue Juvenile in Mental Health Crisis - City of Portland, Oregon (.gov)",
-          "Prisma Health restores some systems after connectivity problems - WYFF"
-        ]
-      },
-      {
-        "trend": "medical",
-        "market_code": "DE",
-        "category": "Europe Health",
-        "score": 17,
-        "examples": [
-          "AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study. - blog.google",
-          "Demolition of Lindy Boggs Medical Center on track to begin this month - WDSU",
-          "Guard Medical Leaders Boost Readiness - nationalguard.mil"
-        ]
-      },
-      {
-        "trend": "disease",
-        "market_code": "DE",
-        "category": "Europe Health",
-        "score": 16,
-        "examples": [
-          "Risk of Severe Arboviral Disease in Patients Receiving B Cell-Depleting or Modulating Medications - Centers for Disease Control and Prevention | CDC (.gov)",
-          "Risk of Severe Arboviral Disease in Patients Receiving B Cell-Depleting or Modulating Medications - Centers for Disease Control and Prevention | CDC (.gov)",
-          "RELEASE: Gottheimer Hosts Alzheimer’s Disease Roundtable with Patients, Advocates, and Medical Professionals - House.gov"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
         "trend": "outbreak",
         "market_code": "DE",
         "category": "Outbreaks",
-        "score": 13,
-        "examples": [
-          "Salmonella outbreak linked to jalapeño prompts other food recalls - Detroit Free Press",
-          "5 Low-Risk Fruits and Vegetables As the Cyclospora Outbreak Grows — And Whether to Avoid Lettuce - TODAY.com",
-          "Farm linked to cyclosporiasis outbreak hadn't been inspected in 7 years as FDA lags on foreign inspection targets - CBS News"
-        ]
-      },
-      {
-        "trend": "mental",
-        "market_code": "DE",
-        "category": "Mental Health",
-        "score": 12,
-        "examples": [
-          "PPB, PF&R Safely Rescue Juvenile in Mental Health Crisis - City of Portland, Oregon (.gov)",
-          "Childhood screen detects mental health risks - National Institutes of Health (NIH) | (.gov)",
-          "PPB, PF&R Safely Rescue Juvenile in Mental Health Crisis - City of Portland, Oregon (.gov)"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
         "trend": "mental health",
         "market_code": "DE",
         "category": "Mental Health",
-        "score": 12,
-        "examples": [
-          "PPB, PF&R Safely Rescue Juvenile in Mental Health Crisis - City of Portland, Oregon (.gov)",
-          "Childhood screen detects mental health risks - National Institutes of Health (NIH) | (.gov)",
-          "PPB, PF&R Safely Rescue Juvenile in Mental Health Crisis - City of Portland, Oregon (.gov)"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "hospitals",
+        "trend": "medical research",
         "market_code": "DE",
         "category": "Europe Health",
-        "score": 9,
-        "examples": [
-          "NYC Health + Hospitals/Carter Appoints New Chief Nursing Officer - NYC Health + Hospitals",
-          "NYC Health + Hospitals/Carter Appoints New Chief Nursing Officer - NYC Health + Hospitals",
-          "All ECU Health hospitals receive Get With The Guidelines® awards for fourth consecutive year - ECU Health"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "public health",
+        "trend": "drug approval",
         "market_code": "DE",
-        "category": "Europe Health",
-        "score": 9,
-        "examples": [
-          "Schneider: Orange’s Proposed Smoking Ban Should Put Public Health First - Voice of OC",
-          "Calcasieu Parish Coroner issues public health warning over deadly bacteria found in local waters - KPLC 7 News",
-          "2026 Sam Shapiro Lecture: Why Health? With Sandro Galea, MD, DrPH - Johns Hopkins Bloomberg School of Public Health"
-        ]
+        "category": "Drug & Treatment News",
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "warning",
+        "trend": "diet wellness",
         "market_code": "DE",
-        "category": "Europe Health",
-        "score": 9,
-        "examples": [
-          "Calcasieu Parish Coroner issues public health warning over deadly bacteria found in local waters - KPLC 7 News",
-          "Calcasieu Parish Coroner issues public health warning over deadly bacteria found in local waters - KPLC 7 News",
-          "‘Real mummy’s curse’: health warning over growing trade in mummified human remains - The Guardian"
-        ]
-      },
-      {
-        "trend": "healthcare",
-        "market_code": "DE",
-        "category": "Europe Health",
-        "score": 9,
-        "examples": [
-          "DentaQuest breach exposes data of 15M people, a record this year - Healthcare Dive",
-          "The Foodism Show x Thailand Health & Wellness Expo 2026 Promoting Preventive Healthcare for a Sustainable Quality of Life - aap.com.au",
-          "The AI boom could boost Epic's position, health system execs say. Here's where AI startups can still win - Fierce Healthcare"
-        ]
-      },
-      {
-        "trend": "virus",
-        "market_code": "DE",
-        "category": "Outbreaks",
-        "score": 9,
-        "examples": [
-          "MADACC's cat kennels under quarantine as the shelter fights a highly contagious virus with no cure. - WISN",
-          "Pee Dee, South Carolina, reports West Nile virus outbreak - CIDRAP",
-          "MADACC's cat kennels under quarantine as the shelter fights a highly contagious virus with no cure. - WISN"
-        ]
-      },
-      {
-        "trend": "patients",
-        "market_code": "DE",
-        "category": "Europe Health",
-        "score": 8,
-        "examples": [
-          "Risk of Severe Arboviral Disease in Patients Receiving B Cell-Depleting or Modulating Medications - Centers for Disease Control and Prevention | CDC (.gov)",
-          "RELEASE: Gottheimer Hosts Alzheimer’s Disease Roundtable with Patients, Advocates, and Medical Professionals - House.gov",
-          "Risk of Severe Arboviral Disease in Patients Receiving B Cell-Depleting or Modulating Medications - Centers for Disease Control and Prevention | CDC (.gov)"
-        ]
+        "category": "Diet & Wellness",
+        "score": 1,
+        "examples": []
       }
     ],
     "France": [
       {
-        "trend": "health",
+        "trend": "health alert",
         "market_code": "FR",
         "category": "Europe Health",
-        "score": 74,
-        "examples": [
-          "Governor Ron DeSantis Announces Nearly $188 Million to Expand Rural Health Care Access Across Florida - Office of Governor Ron DeSantis",
-          "PPB, PF&R Safely Rescue Juvenile in Mental Health Crisis - City of Portland, Oregon (.gov)",
-          "Prisma Health restores some systems after connectivity problems - WYFF"
-        ]
-      },
-      {
-        "trend": "medical",
-        "market_code": "FR",
-        "category": "Europe Health",
-        "score": 17,
-        "examples": [
-          "AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study. - blog.google",
-          "Demolition of Lindy Boggs Medical Center on track to begin this month - WDSU",
-          "Guard Medical Leaders Boost Readiness - nationalguard.mil"
-        ]
-      },
-      {
-        "trend": "disease",
-        "market_code": "FR",
-        "category": "Europe Health",
-        "score": 16,
-        "examples": [
-          "Risk of Severe Arboviral Disease in Patients Receiving B Cell-Depleting or Modulating Medications - Centers for Disease Control and Prevention | CDC (.gov)",
-          "Risk of Severe Arboviral Disease in Patients Receiving B Cell-Depleting or Modulating Medications - Centers for Disease Control and Prevention | CDC (.gov)",
-          "RELEASE: Gottheimer Hosts Alzheimer’s Disease Roundtable with Patients, Advocates, and Medical Professionals - House.gov"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
         "trend": "outbreak",
         "market_code": "FR",
         "category": "Outbreaks",
-        "score": 13,
-        "examples": [
-          "Salmonella outbreak linked to jalapeño prompts other food recalls - Detroit Free Press",
-          "5 Low-Risk Fruits and Vegetables As the Cyclospora Outbreak Grows — And Whether to Avoid Lettuce - TODAY.com",
-          "Farm linked to cyclosporiasis outbreak hadn't been inspected in 7 years as FDA lags on foreign inspection targets - CBS News"
-        ]
-      },
-      {
-        "trend": "mental",
-        "market_code": "FR",
-        "category": "Mental Health",
-        "score": 12,
-        "examples": [
-          "PPB, PF&R Safely Rescue Juvenile in Mental Health Crisis - City of Portland, Oregon (.gov)",
-          "Childhood screen detects mental health risks - National Institutes of Health (NIH) | (.gov)",
-          "PPB, PF&R Safely Rescue Juvenile in Mental Health Crisis - City of Portland, Oregon (.gov)"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
         "trend": "mental health",
         "market_code": "FR",
         "category": "Mental Health",
-        "score": 12,
-        "examples": [
-          "PPB, PF&R Safely Rescue Juvenile in Mental Health Crisis - City of Portland, Oregon (.gov)",
-          "Childhood screen detects mental health risks - National Institutes of Health (NIH) | (.gov)",
-          "PPB, PF&R Safely Rescue Juvenile in Mental Health Crisis - City of Portland, Oregon (.gov)"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "hospitals",
+        "trend": "medical research",
         "market_code": "FR",
         "category": "Europe Health",
-        "score": 9,
-        "examples": [
-          "NYC Health + Hospitals/Carter Appoints New Chief Nursing Officer - NYC Health + Hospitals",
-          "NYC Health + Hospitals/Carter Appoints New Chief Nursing Officer - NYC Health + Hospitals",
-          "All ECU Health hospitals receive Get With The Guidelines® awards for fourth consecutive year - ECU Health"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "public health",
+        "trend": "drug approval",
         "market_code": "FR",
-        "category": "Europe Health",
-        "score": 9,
-        "examples": [
-          "Schneider: Orange’s Proposed Smoking Ban Should Put Public Health First - Voice of OC",
-          "Calcasieu Parish Coroner issues public health warning over deadly bacteria found in local waters - KPLC 7 News",
-          "2026 Sam Shapiro Lecture: Why Health? With Sandro Galea, MD, DrPH - Johns Hopkins Bloomberg School of Public Health"
-        ]
+        "category": "Drug & Treatment News",
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "warning",
+        "trend": "diet wellness",
         "market_code": "FR",
-        "category": "Europe Health",
-        "score": 9,
-        "examples": [
-          "Calcasieu Parish Coroner issues public health warning over deadly bacteria found in local waters - KPLC 7 News",
-          "Calcasieu Parish Coroner issues public health warning over deadly bacteria found in local waters - KPLC 7 News",
-          "‘Real mummy’s curse’: health warning over growing trade in mummified human remains - The Guardian"
-        ]
-      },
-      {
-        "trend": "healthcare",
-        "market_code": "FR",
-        "category": "Europe Health",
-        "score": 9,
-        "examples": [
-          "DentaQuest breach exposes data of 15M people, a record this year - Healthcare Dive",
-          "The Foodism Show x Thailand Health & Wellness Expo 2026 Promoting Preventive Healthcare for a Sustainable Quality of Life - aap.com.au",
-          "The AI boom could boost Epic's position, health system execs say. Here's where AI startups can still win - Fierce Healthcare"
-        ]
-      },
-      {
-        "trend": "virus",
-        "market_code": "FR",
-        "category": "Outbreaks",
-        "score": 9,
-        "examples": [
-          "MADACC's cat kennels under quarantine as the shelter fights a highly contagious virus with no cure. - WISN",
-          "Pee Dee, South Carolina, reports West Nile virus outbreak - CIDRAP",
-          "MADACC's cat kennels under quarantine as the shelter fights a highly contagious virus with no cure. - WISN"
-        ]
-      },
-      {
-        "trend": "patients",
-        "market_code": "FR",
-        "category": "Europe Health",
-        "score": 8,
-        "examples": [
-          "Risk of Severe Arboviral Disease in Patients Receiving B Cell-Depleting or Modulating Medications - Centers for Disease Control and Prevention | CDC (.gov)",
-          "RELEASE: Gottheimer Hosts Alzheimer’s Disease Roundtable with Patients, Advocates, and Medical Professionals - House.gov",
-          "Risk of Severe Arboviral Disease in Patients Receiving B Cell-Depleting or Modulating Medications - Centers for Disease Control and Prevention | CDC (.gov)"
-        ]
+        "category": "Diet & Wellness",
+        "score": 1,
+        "examples": []
       }
     ],
     "Italy": [
       {
-        "trend": "health",
+        "trend": "health alert",
         "market_code": "IT",
         "category": "Europe Health",
-        "score": 74,
-        "examples": [
-          "Governor Ron DeSantis Announces Nearly $188 Million to Expand Rural Health Care Access Across Florida - Office of Governor Ron DeSantis",
-          "PPB, PF&R Safely Rescue Juvenile in Mental Health Crisis - City of Portland, Oregon (.gov)",
-          "Prisma Health restores some systems after connectivity problems - WYFF"
-        ]
-      },
-      {
-        "trend": "medical",
-        "market_code": "IT",
-        "category": "Europe Health",
-        "score": 17,
-        "examples": [
-          "AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study. - blog.google",
-          "Demolition of Lindy Boggs Medical Center on track to begin this month - WDSU",
-          "Guard Medical Leaders Boost Readiness - nationalguard.mil"
-        ]
-      },
-      {
-        "trend": "disease",
-        "market_code": "IT",
-        "category": "Europe Health",
-        "score": 16,
-        "examples": [
-          "Risk of Severe Arboviral Disease in Patients Receiving B Cell-Depleting or Modulating Medications - Centers for Disease Control and Prevention | CDC (.gov)",
-          "Risk of Severe Arboviral Disease in Patients Receiving B Cell-Depleting or Modulating Medications - Centers for Disease Control and Prevention | CDC (.gov)",
-          "RELEASE: Gottheimer Hosts Alzheimer’s Disease Roundtable with Patients, Advocates, and Medical Professionals - House.gov"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
         "trend": "outbreak",
         "market_code": "IT",
         "category": "Outbreaks",
-        "score": 13,
-        "examples": [
-          "Salmonella outbreak linked to jalapeño prompts other food recalls - Detroit Free Press",
-          "5 Low-Risk Fruits and Vegetables As the Cyclospora Outbreak Grows — And Whether to Avoid Lettuce - TODAY.com",
-          "Farm linked to cyclosporiasis outbreak hadn't been inspected in 7 years as FDA lags on foreign inspection targets - CBS News"
-        ]
-      },
-      {
-        "trend": "mental",
-        "market_code": "IT",
-        "category": "Mental Health",
-        "score": 12,
-        "examples": [
-          "PPB, PF&R Safely Rescue Juvenile in Mental Health Crisis - City of Portland, Oregon (.gov)",
-          "Childhood screen detects mental health risks - National Institutes of Health (NIH) | (.gov)",
-          "PPB, PF&R Safely Rescue Juvenile in Mental Health Crisis - City of Portland, Oregon (.gov)"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
         "trend": "mental health",
         "market_code": "IT",
         "category": "Mental Health",
-        "score": 12,
-        "examples": [
-          "PPB, PF&R Safely Rescue Juvenile in Mental Health Crisis - City of Portland, Oregon (.gov)",
-          "Childhood screen detects mental health risks - National Institutes of Health (NIH) | (.gov)",
-          "PPB, PF&R Safely Rescue Juvenile in Mental Health Crisis - City of Portland, Oregon (.gov)"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "hospitals",
+        "trend": "medical research",
         "market_code": "IT",
         "category": "Europe Health",
-        "score": 9,
-        "examples": [
-          "NYC Health + Hospitals/Carter Appoints New Chief Nursing Officer - NYC Health + Hospitals",
-          "NYC Health + Hospitals/Carter Appoints New Chief Nursing Officer - NYC Health + Hospitals",
-          "All ECU Health hospitals receive Get With The Guidelines® awards for fourth consecutive year - ECU Health"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "public health",
+        "trend": "drug approval",
         "market_code": "IT",
-        "category": "Europe Health",
-        "score": 9,
-        "examples": [
-          "Schneider: Orange’s Proposed Smoking Ban Should Put Public Health First - Voice of OC",
-          "Calcasieu Parish Coroner issues public health warning over deadly bacteria found in local waters - KPLC 7 News",
-          "2026 Sam Shapiro Lecture: Why Health? With Sandro Galea, MD, DrPH - Johns Hopkins Bloomberg School of Public Health"
-        ]
+        "category": "Drug & Treatment News",
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "warning",
+        "trend": "diet wellness",
         "market_code": "IT",
-        "category": "Europe Health",
-        "score": 9,
-        "examples": [
-          "Calcasieu Parish Coroner issues public health warning over deadly bacteria found in local waters - KPLC 7 News",
-          "Calcasieu Parish Coroner issues public health warning over deadly bacteria found in local waters - KPLC 7 News",
-          "‘Real mummy’s curse’: health warning over growing trade in mummified human remains - The Guardian"
-        ]
-      },
-      {
-        "trend": "healthcare",
-        "market_code": "IT",
-        "category": "Europe Health",
-        "score": 9,
-        "examples": [
-          "DentaQuest breach exposes data of 15M people, a record this year - Healthcare Dive",
-          "The Foodism Show x Thailand Health & Wellness Expo 2026 Promoting Preventive Healthcare for a Sustainable Quality of Life - aap.com.au",
-          "The AI boom could boost Epic's position, health system execs say. Here's where AI startups can still win - Fierce Healthcare"
-        ]
-      },
-      {
-        "trend": "virus",
-        "market_code": "IT",
-        "category": "Outbreaks",
-        "score": 9,
-        "examples": [
-          "MADACC's cat kennels under quarantine as the shelter fights a highly contagious virus with no cure. - WISN",
-          "Pee Dee, South Carolina, reports West Nile virus outbreak - CIDRAP",
-          "MADACC's cat kennels under quarantine as the shelter fights a highly contagious virus with no cure. - WISN"
-        ]
-      },
-      {
-        "trend": "patients",
-        "market_code": "IT",
-        "category": "Europe Health",
-        "score": 8,
-        "examples": [
-          "Risk of Severe Arboviral Disease in Patients Receiving B Cell-Depleting or Modulating Medications - Centers for Disease Control and Prevention | CDC (.gov)",
-          "RELEASE: Gottheimer Hosts Alzheimer’s Disease Roundtable with Patients, Advocates, and Medical Professionals - House.gov",
-          "Risk of Severe Arboviral Disease in Patients Receiving B Cell-Depleting or Modulating Medications - Centers for Disease Control and Prevention | CDC (.gov)"
-        ]
+        "category": "Diet & Wellness",
+        "score": 1,
+        "examples": []
       }
     ],
     "Spain": [
       {
-        "trend": "health",
+        "trend": "health alert",
         "market_code": "ES",
         "category": "Europe Health",
-        "score": 74,
-        "examples": [
-          "Governor Ron DeSantis Announces Nearly $188 Million to Expand Rural Health Care Access Across Florida - Office of Governor Ron DeSantis",
-          "PPB, PF&R Safely Rescue Juvenile in Mental Health Crisis - City of Portland, Oregon (.gov)",
-          "Prisma Health restores some systems after connectivity problems - WYFF"
-        ]
-      },
-      {
-        "trend": "medical",
-        "market_code": "ES",
-        "category": "Europe Health",
-        "score": 17,
-        "examples": [
-          "AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study. - blog.google",
-          "Demolition of Lindy Boggs Medical Center on track to begin this month - WDSU",
-          "Guard Medical Leaders Boost Readiness - nationalguard.mil"
-        ]
-      },
-      {
-        "trend": "disease",
-        "market_code": "ES",
-        "category": "Europe Health",
-        "score": 16,
-        "examples": [
-          "Risk of Severe Arboviral Disease in Patients Receiving B Cell-Depleting or Modulating Medications - Centers for Disease Control and Prevention | CDC (.gov)",
-          "Risk of Severe Arboviral Disease in Patients Receiving B Cell-Depleting or Modulating Medications - Centers for Disease Control and Prevention | CDC (.gov)",
-          "RELEASE: Gottheimer Hosts Alzheimer’s Disease Roundtable with Patients, Advocates, and Medical Professionals - House.gov"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
         "trend": "outbreak",
         "market_code": "ES",
         "category": "Outbreaks",
-        "score": 13,
-        "examples": [
-          "Salmonella outbreak linked to jalapeño prompts other food recalls - Detroit Free Press",
-          "5 Low-Risk Fruits and Vegetables As the Cyclospora Outbreak Grows — And Whether to Avoid Lettuce - TODAY.com",
-          "Farm linked to cyclosporiasis outbreak hadn't been inspected in 7 years as FDA lags on foreign inspection targets - CBS News"
-        ]
-      },
-      {
-        "trend": "mental",
-        "market_code": "ES",
-        "category": "Mental Health",
-        "score": 12,
-        "examples": [
-          "PPB, PF&R Safely Rescue Juvenile in Mental Health Crisis - City of Portland, Oregon (.gov)",
-          "Childhood screen detects mental health risks - National Institutes of Health (NIH) | (.gov)",
-          "PPB, PF&R Safely Rescue Juvenile in Mental Health Crisis - City of Portland, Oregon (.gov)"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
         "trend": "mental health",
         "market_code": "ES",
         "category": "Mental Health",
-        "score": 12,
-        "examples": [
-          "PPB, PF&R Safely Rescue Juvenile in Mental Health Crisis - City of Portland, Oregon (.gov)",
-          "Childhood screen detects mental health risks - National Institutes of Health (NIH) | (.gov)",
-          "PPB, PF&R Safely Rescue Juvenile in Mental Health Crisis - City of Portland, Oregon (.gov)"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "hospitals",
+        "trend": "medical research",
         "market_code": "ES",
         "category": "Europe Health",
-        "score": 9,
-        "examples": [
-          "NYC Health + Hospitals/Carter Appoints New Chief Nursing Officer - NYC Health + Hospitals",
-          "NYC Health + Hospitals/Carter Appoints New Chief Nursing Officer - NYC Health + Hospitals",
-          "All ECU Health hospitals receive Get With The Guidelines® awards for fourth consecutive year - ECU Health"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "public health",
+        "trend": "drug approval",
         "market_code": "ES",
-        "category": "Europe Health",
-        "score": 9,
-        "examples": [
-          "Schneider: Orange’s Proposed Smoking Ban Should Put Public Health First - Voice of OC",
-          "Calcasieu Parish Coroner issues public health warning over deadly bacteria found in local waters - KPLC 7 News",
-          "2026 Sam Shapiro Lecture: Why Health? With Sandro Galea, MD, DrPH - Johns Hopkins Bloomberg School of Public Health"
-        ]
+        "category": "Drug & Treatment News",
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "warning",
+        "trend": "diet wellness",
         "market_code": "ES",
-        "category": "Europe Health",
-        "score": 9,
-        "examples": [
-          "Calcasieu Parish Coroner issues public health warning over deadly bacteria found in local waters - KPLC 7 News",
-          "Calcasieu Parish Coroner issues public health warning over deadly bacteria found in local waters - KPLC 7 News",
-          "‘Real mummy’s curse’: health warning over growing trade in mummified human remains - The Guardian"
-        ]
-      },
-      {
-        "trend": "healthcare",
-        "market_code": "ES",
-        "category": "Europe Health",
-        "score": 9,
-        "examples": [
-          "DentaQuest breach exposes data of 15M people, a record this year - Healthcare Dive",
-          "The Foodism Show x Thailand Health & Wellness Expo 2026 Promoting Preventive Healthcare for a Sustainable Quality of Life - aap.com.au",
-          "The AI boom could boost Epic's position, health system execs say. Here's where AI startups can still win - Fierce Healthcare"
-        ]
-      },
-      {
-        "trend": "virus",
-        "market_code": "ES",
-        "category": "Outbreaks",
-        "score": 9,
-        "examples": [
-          "MADACC's cat kennels under quarantine as the shelter fights a highly contagious virus with no cure. - WISN",
-          "Pee Dee, South Carolina, reports West Nile virus outbreak - CIDRAP",
-          "MADACC's cat kennels under quarantine as the shelter fights a highly contagious virus with no cure. - WISN"
-        ]
-      },
-      {
-        "trend": "patients",
-        "market_code": "ES",
-        "category": "Europe Health",
-        "score": 8,
-        "examples": [
-          "Risk of Severe Arboviral Disease in Patients Receiving B Cell-Depleting or Modulating Medications - Centers for Disease Control and Prevention | CDC (.gov)",
-          "RELEASE: Gottheimer Hosts Alzheimer’s Disease Roundtable with Patients, Advocates, and Medical Professionals - House.gov",
-          "Risk of Severe Arboviral Disease in Patients Receiving B Cell-Depleting or Modulating Medications - Centers for Disease Control and Prevention | CDC (.gov)"
-        ]
+        "category": "Diet & Wellness",
+        "score": 1,
+        "examples": []
       }
     ],
     "Sweden": [
       {
-        "trend": "health",
+        "trend": "health alert",
         "market_code": "SE",
         "category": "Europe Health",
-        "score": 74,
-        "examples": [
-          "Governor Ron DeSantis Announces Nearly $188 Million to Expand Rural Health Care Access Across Florida - Office of Governor Ron DeSantis",
-          "PPB, PF&R Safely Rescue Juvenile in Mental Health Crisis - City of Portland, Oregon (.gov)",
-          "Prisma Health restores some systems after connectivity problems - WYFF"
-        ]
-      },
-      {
-        "trend": "medical",
-        "market_code": "SE",
-        "category": "Europe Health",
-        "score": 17,
-        "examples": [
-          "AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study. - blog.google",
-          "Demolition of Lindy Boggs Medical Center on track to begin this month - WDSU",
-          "Guard Medical Leaders Boost Readiness - nationalguard.mil"
-        ]
-      },
-      {
-        "trend": "disease",
-        "market_code": "SE",
-        "category": "Europe Health",
-        "score": 16,
-        "examples": [
-          "Risk of Severe Arboviral Disease in Patients Receiving B Cell-Depleting or Modulating Medications - Centers for Disease Control and Prevention | CDC (.gov)",
-          "Risk of Severe Arboviral Disease in Patients Receiving B Cell-Depleting or Modulating Medications - Centers for Disease Control and Prevention | CDC (.gov)",
-          "RELEASE: Gottheimer Hosts Alzheimer’s Disease Roundtable with Patients, Advocates, and Medical Professionals - House.gov"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
         "trend": "outbreak",
         "market_code": "SE",
         "category": "Outbreaks",
-        "score": 13,
-        "examples": [
-          "Salmonella outbreak linked to jalapeño prompts other food recalls - Detroit Free Press",
-          "5 Low-Risk Fruits and Vegetables As the Cyclospora Outbreak Grows — And Whether to Avoid Lettuce - TODAY.com",
-          "Farm linked to cyclosporiasis outbreak hadn't been inspected in 7 years as FDA lags on foreign inspection targets - CBS News"
-        ]
-      },
-      {
-        "trend": "mental",
-        "market_code": "SE",
-        "category": "Mental Health",
-        "score": 12,
-        "examples": [
-          "PPB, PF&R Safely Rescue Juvenile in Mental Health Crisis - City of Portland, Oregon (.gov)",
-          "Childhood screen detects mental health risks - National Institutes of Health (NIH) | (.gov)",
-          "PPB, PF&R Safely Rescue Juvenile in Mental Health Crisis - City of Portland, Oregon (.gov)"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
         "trend": "mental health",
         "market_code": "SE",
         "category": "Mental Health",
-        "score": 12,
-        "examples": [
-          "PPB, PF&R Safely Rescue Juvenile in Mental Health Crisis - City of Portland, Oregon (.gov)",
-          "Childhood screen detects mental health risks - National Institutes of Health (NIH) | (.gov)",
-          "PPB, PF&R Safely Rescue Juvenile in Mental Health Crisis - City of Portland, Oregon (.gov)"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "hospitals",
+        "trend": "medical research",
         "market_code": "SE",
         "category": "Europe Health",
-        "score": 9,
-        "examples": [
-          "NYC Health + Hospitals/Carter Appoints New Chief Nursing Officer - NYC Health + Hospitals",
-          "NYC Health + Hospitals/Carter Appoints New Chief Nursing Officer - NYC Health + Hospitals",
-          "All ECU Health hospitals receive Get With The Guidelines® awards for fourth consecutive year - ECU Health"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "public health",
+        "trend": "drug approval",
         "market_code": "SE",
-        "category": "Europe Health",
-        "score": 9,
-        "examples": [
-          "Schneider: Orange’s Proposed Smoking Ban Should Put Public Health First - Voice of OC",
-          "Calcasieu Parish Coroner issues public health warning over deadly bacteria found in local waters - KPLC 7 News",
-          "2026 Sam Shapiro Lecture: Why Health? With Sandro Galea, MD, DrPH - Johns Hopkins Bloomberg School of Public Health"
-        ]
+        "category": "Drug & Treatment News",
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "warning",
+        "trend": "diet wellness",
         "market_code": "SE",
-        "category": "Europe Health",
-        "score": 9,
-        "examples": [
-          "Calcasieu Parish Coroner issues public health warning over deadly bacteria found in local waters - KPLC 7 News",
-          "Calcasieu Parish Coroner issues public health warning over deadly bacteria found in local waters - KPLC 7 News",
-          "‘Real mummy’s curse’: health warning over growing trade in mummified human remains - The Guardian"
-        ]
-      },
-      {
-        "trend": "healthcare",
-        "market_code": "SE",
-        "category": "Europe Health",
-        "score": 9,
-        "examples": [
-          "DentaQuest breach exposes data of 15M people, a record this year - Healthcare Dive",
-          "The Foodism Show x Thailand Health & Wellness Expo 2026 Promoting Preventive Healthcare for a Sustainable Quality of Life - aap.com.au",
-          "The AI boom could boost Epic's position, health system execs say. Here's where AI startups can still win - Fierce Healthcare"
-        ]
-      },
-      {
-        "trend": "virus",
-        "market_code": "SE",
-        "category": "Outbreaks",
-        "score": 9,
-        "examples": [
-          "MADACC's cat kennels under quarantine as the shelter fights a highly contagious virus with no cure. - WISN",
-          "Pee Dee, South Carolina, reports West Nile virus outbreak - CIDRAP",
-          "MADACC's cat kennels under quarantine as the shelter fights a highly contagious virus with no cure. - WISN"
-        ]
-      },
-      {
-        "trend": "patients",
-        "market_code": "SE",
-        "category": "Europe Health",
-        "score": 8,
-        "examples": [
-          "Risk of Severe Arboviral Disease in Patients Receiving B Cell-Depleting or Modulating Medications - Centers for Disease Control and Prevention | CDC (.gov)",
-          "RELEASE: Gottheimer Hosts Alzheimer’s Disease Roundtable with Patients, Advocates, and Medical Professionals - House.gov",
-          "Risk of Severe Arboviral Disease in Patients Receiving B Cell-Depleting or Modulating Medications - Centers for Disease Control and Prevention | CDC (.gov)"
-        ]
+        "category": "Diet & Wellness",
+        "score": 1,
+        "examples": []
       }
     ],
     "Netherlands": [
       {
-        "trend": "health",
+        "trend": "health alert",
         "market_code": "NL",
         "category": "Europe Health",
-        "score": 74,
-        "examples": [
-          "Governor Ron DeSantis Announces Nearly $188 Million to Expand Rural Health Care Access Across Florida - Office of Governor Ron DeSantis",
-          "PPB, PF&R Safely Rescue Juvenile in Mental Health Crisis - City of Portland, Oregon (.gov)",
-          "Prisma Health restores some systems after connectivity problems - WYFF"
-        ]
-      },
-      {
-        "trend": "medical",
-        "market_code": "NL",
-        "category": "Europe Health",
-        "score": 17,
-        "examples": [
-          "AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study. - blog.google",
-          "Demolition of Lindy Boggs Medical Center on track to begin this month - WDSU",
-          "Guard Medical Leaders Boost Readiness - nationalguard.mil"
-        ]
-      },
-      {
-        "trend": "disease",
-        "market_code": "NL",
-        "category": "Europe Health",
-        "score": 16,
-        "examples": [
-          "Risk of Severe Arboviral Disease in Patients Receiving B Cell-Depleting or Modulating Medications - Centers for Disease Control and Prevention | CDC (.gov)",
-          "Risk of Severe Arboviral Disease in Patients Receiving B Cell-Depleting or Modulating Medications - Centers for Disease Control and Prevention | CDC (.gov)",
-          "RELEASE: Gottheimer Hosts Alzheimer’s Disease Roundtable with Patients, Advocates, and Medical Professionals - House.gov"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
         "trend": "outbreak",
         "market_code": "NL",
         "category": "Outbreaks",
-        "score": 13,
-        "examples": [
-          "Salmonella outbreak linked to jalapeño prompts other food recalls - Detroit Free Press",
-          "5 Low-Risk Fruits and Vegetables As the Cyclospora Outbreak Grows — And Whether to Avoid Lettuce - TODAY.com",
-          "Farm linked to cyclosporiasis outbreak hadn't been inspected in 7 years as FDA lags on foreign inspection targets - CBS News"
-        ]
-      },
-      {
-        "trend": "mental",
-        "market_code": "NL",
-        "category": "Mental Health",
-        "score": 12,
-        "examples": [
-          "PPB, PF&R Safely Rescue Juvenile in Mental Health Crisis - City of Portland, Oregon (.gov)",
-          "Childhood screen detects mental health risks - National Institutes of Health (NIH) | (.gov)",
-          "PPB, PF&R Safely Rescue Juvenile in Mental Health Crisis - City of Portland, Oregon (.gov)"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
         "trend": "mental health",
         "market_code": "NL",
         "category": "Mental Health",
-        "score": 12,
-        "examples": [
-          "PPB, PF&R Safely Rescue Juvenile in Mental Health Crisis - City of Portland, Oregon (.gov)",
-          "Childhood screen detects mental health risks - National Institutes of Health (NIH) | (.gov)",
-          "PPB, PF&R Safely Rescue Juvenile in Mental Health Crisis - City of Portland, Oregon (.gov)"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "hospitals",
+        "trend": "medical research",
         "market_code": "NL",
         "category": "Europe Health",
-        "score": 9,
-        "examples": [
-          "NYC Health + Hospitals/Carter Appoints New Chief Nursing Officer - NYC Health + Hospitals",
-          "NYC Health + Hospitals/Carter Appoints New Chief Nursing Officer - NYC Health + Hospitals",
-          "All ECU Health hospitals receive Get With The Guidelines® awards for fourth consecutive year - ECU Health"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "public health",
+        "trend": "drug approval",
         "market_code": "NL",
-        "category": "Europe Health",
-        "score": 9,
-        "examples": [
-          "Schneider: Orange’s Proposed Smoking Ban Should Put Public Health First - Voice of OC",
-          "Calcasieu Parish Coroner issues public health warning over deadly bacteria found in local waters - KPLC 7 News",
-          "2026 Sam Shapiro Lecture: Why Health? With Sandro Galea, MD, DrPH - Johns Hopkins Bloomberg School of Public Health"
-        ]
+        "category": "Drug & Treatment News",
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "warning",
+        "trend": "diet wellness",
         "market_code": "NL",
-        "category": "Europe Health",
-        "score": 9,
-        "examples": [
-          "Calcasieu Parish Coroner issues public health warning over deadly bacteria found in local waters - KPLC 7 News",
-          "Calcasieu Parish Coroner issues public health warning over deadly bacteria found in local waters - KPLC 7 News",
-          "‘Real mummy’s curse’: health warning over growing trade in mummified human remains - The Guardian"
-        ]
-      },
-      {
-        "trend": "healthcare",
-        "market_code": "NL",
-        "category": "Europe Health",
-        "score": 9,
-        "examples": [
-          "DentaQuest breach exposes data of 15M people, a record this year - Healthcare Dive",
-          "The Foodism Show x Thailand Health & Wellness Expo 2026 Promoting Preventive Healthcare for a Sustainable Quality of Life - aap.com.au",
-          "The AI boom could boost Epic's position, health system execs say. Here's where AI startups can still win - Fierce Healthcare"
-        ]
-      },
-      {
-        "trend": "virus",
-        "market_code": "NL",
-        "category": "Outbreaks",
-        "score": 9,
-        "examples": [
-          "MADACC's cat kennels under quarantine as the shelter fights a highly contagious virus with no cure. - WISN",
-          "Pee Dee, South Carolina, reports West Nile virus outbreak - CIDRAP",
-          "MADACC's cat kennels under quarantine as the shelter fights a highly contagious virus with no cure. - WISN"
-        ]
-      },
-      {
-        "trend": "patients",
-        "market_code": "NL",
-        "category": "Europe Health",
-        "score": 8,
-        "examples": [
-          "Risk of Severe Arboviral Disease in Patients Receiving B Cell-Depleting or Modulating Medications - Centers for Disease Control and Prevention | CDC (.gov)",
-          "RELEASE: Gottheimer Hosts Alzheimer’s Disease Roundtable with Patients, Advocates, and Medical Professionals - House.gov",
-          "Risk of Severe Arboviral Disease in Patients Receiving B Cell-Depleting or Modulating Medications - Centers for Disease Control and Prevention | CDC (.gov)"
-        ]
+        "category": "Diet & Wellness",
+        "score": 1,
+        "examples": []
       }
     ],
     "Finland": [
       {
-        "trend": "health",
+        "trend": "health alert",
         "market_code": "FI",
         "category": "Europe Health",
-        "score": 74,
-        "examples": [
-          "Governor Ron DeSantis Announces Nearly $188 Million to Expand Rural Health Care Access Across Florida - Office of Governor Ron DeSantis",
-          "PPB, PF&R Safely Rescue Juvenile in Mental Health Crisis - City of Portland, Oregon (.gov)",
-          "Prisma Health restores some systems after connectivity problems - WYFF"
-        ]
-      },
-      {
-        "trend": "medical",
-        "market_code": "FI",
-        "category": "Europe Health",
-        "score": 17,
-        "examples": [
-          "AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study. - blog.google",
-          "Demolition of Lindy Boggs Medical Center on track to begin this month - WDSU",
-          "Guard Medical Leaders Boost Readiness - nationalguard.mil"
-        ]
-      },
-      {
-        "trend": "disease",
-        "market_code": "FI",
-        "category": "Europe Health",
-        "score": 16,
-        "examples": [
-          "Risk of Severe Arboviral Disease in Patients Receiving B Cell-Depleting or Modulating Medications - Centers for Disease Control and Prevention | CDC (.gov)",
-          "Risk of Severe Arboviral Disease in Patients Receiving B Cell-Depleting or Modulating Medications - Centers for Disease Control and Prevention | CDC (.gov)",
-          "RELEASE: Gottheimer Hosts Alzheimer’s Disease Roundtable with Patients, Advocates, and Medical Professionals - House.gov"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
         "trend": "outbreak",
         "market_code": "FI",
         "category": "Outbreaks",
-        "score": 13,
-        "examples": [
-          "Salmonella outbreak linked to jalapeño prompts other food recalls - Detroit Free Press",
-          "5 Low-Risk Fruits and Vegetables As the Cyclospora Outbreak Grows — And Whether to Avoid Lettuce - TODAY.com",
-          "Farm linked to cyclosporiasis outbreak hadn't been inspected in 7 years as FDA lags on foreign inspection targets - CBS News"
-        ]
-      },
-      {
-        "trend": "mental",
-        "market_code": "FI",
-        "category": "Mental Health",
-        "score": 12,
-        "examples": [
-          "PPB, PF&R Safely Rescue Juvenile in Mental Health Crisis - City of Portland, Oregon (.gov)",
-          "Childhood screen detects mental health risks - National Institutes of Health (NIH) | (.gov)",
-          "PPB, PF&R Safely Rescue Juvenile in Mental Health Crisis - City of Portland, Oregon (.gov)"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
         "trend": "mental health",
         "market_code": "FI",
         "category": "Mental Health",
-        "score": 12,
-        "examples": [
-          "PPB, PF&R Safely Rescue Juvenile in Mental Health Crisis - City of Portland, Oregon (.gov)",
-          "Childhood screen detects mental health risks - National Institutes of Health (NIH) | (.gov)",
-          "PPB, PF&R Safely Rescue Juvenile in Mental Health Crisis - City of Portland, Oregon (.gov)"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "hospitals",
+        "trend": "medical research",
         "market_code": "FI",
         "category": "Europe Health",
-        "score": 9,
-        "examples": [
-          "NYC Health + Hospitals/Carter Appoints New Chief Nursing Officer - NYC Health + Hospitals",
-          "NYC Health + Hospitals/Carter Appoints New Chief Nursing Officer - NYC Health + Hospitals",
-          "All ECU Health hospitals receive Get With The Guidelines® awards for fourth consecutive year - ECU Health"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "public health",
+        "trend": "drug approval",
         "market_code": "FI",
-        "category": "Europe Health",
-        "score": 9,
-        "examples": [
-          "Schneider: Orange’s Proposed Smoking Ban Should Put Public Health First - Voice of OC",
-          "Calcasieu Parish Coroner issues public health warning over deadly bacteria found in local waters - KPLC 7 News",
-          "2026 Sam Shapiro Lecture: Why Health? With Sandro Galea, MD, DrPH - Johns Hopkins Bloomberg School of Public Health"
-        ]
+        "category": "Drug & Treatment News",
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "warning",
+        "trend": "diet wellness",
         "market_code": "FI",
-        "category": "Europe Health",
-        "score": 9,
-        "examples": [
-          "Calcasieu Parish Coroner issues public health warning over deadly bacteria found in local waters - KPLC 7 News",
-          "Calcasieu Parish Coroner issues public health warning over deadly bacteria found in local waters - KPLC 7 News",
-          "‘Real mummy’s curse’: health warning over growing trade in mummified human remains - The Guardian"
-        ]
-      },
-      {
-        "trend": "healthcare",
-        "market_code": "FI",
-        "category": "Europe Health",
-        "score": 9,
-        "examples": [
-          "DentaQuest breach exposes data of 15M people, a record this year - Healthcare Dive",
-          "The Foodism Show x Thailand Health & Wellness Expo 2026 Promoting Preventive Healthcare for a Sustainable Quality of Life - aap.com.au",
-          "The AI boom could boost Epic's position, health system execs say. Here's where AI startups can still win - Fierce Healthcare"
-        ]
-      },
-      {
-        "trend": "virus",
-        "market_code": "FI",
-        "category": "Outbreaks",
-        "score": 9,
-        "examples": [
-          "MADACC's cat kennels under quarantine as the shelter fights a highly contagious virus with no cure. - WISN",
-          "Pee Dee, South Carolina, reports West Nile virus outbreak - CIDRAP",
-          "MADACC's cat kennels under quarantine as the shelter fights a highly contagious virus with no cure. - WISN"
-        ]
-      },
-      {
-        "trend": "patients",
-        "market_code": "FI",
-        "category": "Europe Health",
-        "score": 8,
-        "examples": [
-          "Risk of Severe Arboviral Disease in Patients Receiving B Cell-Depleting or Modulating Medications - Centers for Disease Control and Prevention | CDC (.gov)",
-          "RELEASE: Gottheimer Hosts Alzheimer’s Disease Roundtable with Patients, Advocates, and Medical Professionals - House.gov",
-          "Risk of Severe Arboviral Disease in Patients Receiving B Cell-Depleting or Modulating Medications - Centers for Disease Control and Prevention | CDC (.gov)"
-        ]
+        "category": "Diet & Wellness",
+        "score": 1,
+        "examples": []
       }
     ],
     "Norway": [
       {
-        "trend": "health",
+        "trend": "health alert",
         "market_code": "NO",
         "category": "Europe Health",
-        "score": 74,
-        "examples": [
-          "Governor Ron DeSantis Announces Nearly $188 Million to Expand Rural Health Care Access Across Florida - Office of Governor Ron DeSantis",
-          "PPB, PF&R Safely Rescue Juvenile in Mental Health Crisis - City of Portland, Oregon (.gov)",
-          "Prisma Health restores some systems after connectivity problems - WYFF"
-        ]
-      },
-      {
-        "trend": "medical",
-        "market_code": "NO",
-        "category": "Europe Health",
-        "score": 17,
-        "examples": [
-          "AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study. - blog.google",
-          "Demolition of Lindy Boggs Medical Center on track to begin this month - WDSU",
-          "Guard Medical Leaders Boost Readiness - nationalguard.mil"
-        ]
-      },
-      {
-        "trend": "disease",
-        "market_code": "NO",
-        "category": "Europe Health",
-        "score": 16,
-        "examples": [
-          "Risk of Severe Arboviral Disease in Patients Receiving B Cell-Depleting or Modulating Medications - Centers for Disease Control and Prevention | CDC (.gov)",
-          "Risk of Severe Arboviral Disease in Patients Receiving B Cell-Depleting or Modulating Medications - Centers for Disease Control and Prevention | CDC (.gov)",
-          "RELEASE: Gottheimer Hosts Alzheimer’s Disease Roundtable with Patients, Advocates, and Medical Professionals - House.gov"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
         "trend": "outbreak",
         "market_code": "NO",
         "category": "Outbreaks",
-        "score": 13,
-        "examples": [
-          "Salmonella outbreak linked to jalapeño prompts other food recalls - Detroit Free Press",
-          "5 Low-Risk Fruits and Vegetables As the Cyclospora Outbreak Grows — And Whether to Avoid Lettuce - TODAY.com",
-          "Farm linked to cyclosporiasis outbreak hadn't been inspected in 7 years as FDA lags on foreign inspection targets - CBS News"
-        ]
-      },
-      {
-        "trend": "mental",
-        "market_code": "NO",
-        "category": "Mental Health",
-        "score": 12,
-        "examples": [
-          "PPB, PF&R Safely Rescue Juvenile in Mental Health Crisis - City of Portland, Oregon (.gov)",
-          "Childhood screen detects mental health risks - National Institutes of Health (NIH) | (.gov)",
-          "PPB, PF&R Safely Rescue Juvenile in Mental Health Crisis - City of Portland, Oregon (.gov)"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
         "trend": "mental health",
         "market_code": "NO",
         "category": "Mental Health",
-        "score": 12,
-        "examples": [
-          "PPB, PF&R Safely Rescue Juvenile in Mental Health Crisis - City of Portland, Oregon (.gov)",
-          "Childhood screen detects mental health risks - National Institutes of Health (NIH) | (.gov)",
-          "PPB, PF&R Safely Rescue Juvenile in Mental Health Crisis - City of Portland, Oregon (.gov)"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "hospitals",
+        "trend": "medical research",
         "market_code": "NO",
         "category": "Europe Health",
-        "score": 9,
-        "examples": [
-          "NYC Health + Hospitals/Carter Appoints New Chief Nursing Officer - NYC Health + Hospitals",
-          "NYC Health + Hospitals/Carter Appoints New Chief Nursing Officer - NYC Health + Hospitals",
-          "All ECU Health hospitals receive Get With The Guidelines® awards for fourth consecutive year - ECU Health"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "public health",
+        "trend": "drug approval",
         "market_code": "NO",
-        "category": "Europe Health",
-        "score": 9,
-        "examples": [
-          "Schneider: Orange’s Proposed Smoking Ban Should Put Public Health First - Voice of OC",
-          "Calcasieu Parish Coroner issues public health warning over deadly bacteria found in local waters - KPLC 7 News",
-          "2026 Sam Shapiro Lecture: Why Health? With Sandro Galea, MD, DrPH - Johns Hopkins Bloomberg School of Public Health"
-        ]
+        "category": "Drug & Treatment News",
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "warning",
+        "trend": "diet wellness",
         "market_code": "NO",
-        "category": "Europe Health",
-        "score": 9,
-        "examples": [
-          "Calcasieu Parish Coroner issues public health warning over deadly bacteria found in local waters - KPLC 7 News",
-          "Calcasieu Parish Coroner issues public health warning over deadly bacteria found in local waters - KPLC 7 News",
-          "‘Real mummy’s curse’: health warning over growing trade in mummified human remains - The Guardian"
-        ]
-      },
-      {
-        "trend": "healthcare",
-        "market_code": "NO",
-        "category": "Europe Health",
-        "score": 9,
-        "examples": [
-          "DentaQuest breach exposes data of 15M people, a record this year - Healthcare Dive",
-          "The Foodism Show x Thailand Health & Wellness Expo 2026 Promoting Preventive Healthcare for a Sustainable Quality of Life - aap.com.au",
-          "The AI boom could boost Epic's position, health system execs say. Here's where AI startups can still win - Fierce Healthcare"
-        ]
-      },
-      {
-        "trend": "virus",
-        "market_code": "NO",
-        "category": "Outbreaks",
-        "score": 9,
-        "examples": [
-          "MADACC's cat kennels under quarantine as the shelter fights a highly contagious virus with no cure. - WISN",
-          "Pee Dee, South Carolina, reports West Nile virus outbreak - CIDRAP",
-          "MADACC's cat kennels under quarantine as the shelter fights a highly contagious virus with no cure. - WISN"
-        ]
-      },
-      {
-        "trend": "patients",
-        "market_code": "NO",
-        "category": "Europe Health",
-        "score": 8,
-        "examples": [
-          "Risk of Severe Arboviral Disease in Patients Receiving B Cell-Depleting or Modulating Medications - Centers for Disease Control and Prevention | CDC (.gov)",
-          "RELEASE: Gottheimer Hosts Alzheimer’s Disease Roundtable with Patients, Advocates, and Medical Professionals - House.gov",
-          "Risk of Severe Arboviral Disease in Patients Receiving B Cell-Depleting or Modulating Medications - Centers for Disease Control and Prevention | CDC (.gov)"
-        ]
+        "category": "Diet & Wellness",
+        "score": 1,
+        "examples": []
       }
     ],
     "Japan": [
       {
-        "trend": "health",
+        "trend": "health alert",
         "market_code": "JP",
         "category": "Asia Health",
-        "score": 74,
-        "examples": [
-          "Governor Ron DeSantis Announces Nearly $188 Million to Expand Rural Health Care Access Across Florida - Office of Governor Ron DeSantis",
-          "PPB, PF&R Safely Rescue Juvenile in Mental Health Crisis - City of Portland, Oregon (.gov)",
-          "Prisma Health restores some systems after connectivity problems - WYFF"
-        ]
-      },
-      {
-        "trend": "medical",
-        "market_code": "JP",
-        "category": "Asia Health",
-        "score": 17,
-        "examples": [
-          "AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study. - blog.google",
-          "Demolition of Lindy Boggs Medical Center on track to begin this month - WDSU",
-          "Guard Medical Leaders Boost Readiness - nationalguard.mil"
-        ]
-      },
-      {
-        "trend": "disease",
-        "market_code": "JP",
-        "category": "Asia Health",
-        "score": 16,
-        "examples": [
-          "Risk of Severe Arboviral Disease in Patients Receiving B Cell-Depleting or Modulating Medications - Centers for Disease Control and Prevention | CDC (.gov)",
-          "Risk of Severe Arboviral Disease in Patients Receiving B Cell-Depleting or Modulating Medications - Centers for Disease Control and Prevention | CDC (.gov)",
-          "RELEASE: Gottheimer Hosts Alzheimer’s Disease Roundtable with Patients, Advocates, and Medical Professionals - House.gov"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
         "trend": "outbreak",
         "market_code": "JP",
         "category": "Outbreaks",
-        "score": 13,
-        "examples": [
-          "Salmonella outbreak linked to jalapeño prompts other food recalls - Detroit Free Press",
-          "5 Low-Risk Fruits and Vegetables As the Cyclospora Outbreak Grows — And Whether to Avoid Lettuce - TODAY.com",
-          "Farm linked to cyclosporiasis outbreak hadn't been inspected in 7 years as FDA lags on foreign inspection targets - CBS News"
-        ]
-      },
-      {
-        "trend": "mental",
-        "market_code": "JP",
-        "category": "Mental Health",
-        "score": 12,
-        "examples": [
-          "PPB, PF&R Safely Rescue Juvenile in Mental Health Crisis - City of Portland, Oregon (.gov)",
-          "Childhood screen detects mental health risks - National Institutes of Health (NIH) | (.gov)",
-          "PPB, PF&R Safely Rescue Juvenile in Mental Health Crisis - City of Portland, Oregon (.gov)"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
         "trend": "mental health",
         "market_code": "JP",
         "category": "Mental Health",
-        "score": 12,
-        "examples": [
-          "PPB, PF&R Safely Rescue Juvenile in Mental Health Crisis - City of Portland, Oregon (.gov)",
-          "Childhood screen detects mental health risks - National Institutes of Health (NIH) | (.gov)",
-          "PPB, PF&R Safely Rescue Juvenile in Mental Health Crisis - City of Portland, Oregon (.gov)"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "hospitals",
+        "trend": "medical research",
         "market_code": "JP",
         "category": "Asia Health",
-        "score": 9,
-        "examples": [
-          "NYC Health + Hospitals/Carter Appoints New Chief Nursing Officer - NYC Health + Hospitals",
-          "NYC Health + Hospitals/Carter Appoints New Chief Nursing Officer - NYC Health + Hospitals",
-          "All ECU Health hospitals receive Get With The Guidelines® awards for fourth consecutive year - ECU Health"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "public health",
+        "trend": "drug approval",
         "market_code": "JP",
-        "category": "Asia Health",
-        "score": 9,
-        "examples": [
-          "Schneider: Orange’s Proposed Smoking Ban Should Put Public Health First - Voice of OC",
-          "Calcasieu Parish Coroner issues public health warning over deadly bacteria found in local waters - KPLC 7 News",
-          "2026 Sam Shapiro Lecture: Why Health? With Sandro Galea, MD, DrPH - Johns Hopkins Bloomberg School of Public Health"
-        ]
+        "category": "Drug & Treatment News",
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "warning",
+        "trend": "diet wellness",
         "market_code": "JP",
-        "category": "Asia Health",
-        "score": 9,
-        "examples": [
-          "Calcasieu Parish Coroner issues public health warning over deadly bacteria found in local waters - KPLC 7 News",
-          "Calcasieu Parish Coroner issues public health warning over deadly bacteria found in local waters - KPLC 7 News",
-          "‘Real mummy’s curse’: health warning over growing trade in mummified human remains - The Guardian"
-        ]
-      },
-      {
-        "trend": "healthcare",
-        "market_code": "JP",
-        "category": "Asia Health",
-        "score": 9,
-        "examples": [
-          "DentaQuest breach exposes data of 15M people, a record this year - Healthcare Dive",
-          "The Foodism Show x Thailand Health & Wellness Expo 2026 Promoting Preventive Healthcare for a Sustainable Quality of Life - aap.com.au",
-          "The AI boom could boost Epic's position, health system execs say. Here's where AI startups can still win - Fierce Healthcare"
-        ]
-      },
-      {
-        "trend": "virus",
-        "market_code": "JP",
-        "category": "Outbreaks",
-        "score": 9,
-        "examples": [
-          "MADACC's cat kennels under quarantine as the shelter fights a highly contagious virus with no cure. - WISN",
-          "Pee Dee, South Carolina, reports West Nile virus outbreak - CIDRAP",
-          "MADACC's cat kennels under quarantine as the shelter fights a highly contagious virus with no cure. - WISN"
-        ]
-      },
-      {
-        "trend": "patients",
-        "market_code": "JP",
-        "category": "Asia Health",
-        "score": 8,
-        "examples": [
-          "Risk of Severe Arboviral Disease in Patients Receiving B Cell-Depleting or Modulating Medications - Centers for Disease Control and Prevention | CDC (.gov)",
-          "RELEASE: Gottheimer Hosts Alzheimer’s Disease Roundtable with Patients, Advocates, and Medical Professionals - House.gov",
-          "Risk of Severe Arboviral Disease in Patients Receiving B Cell-Depleting or Modulating Medications - Centers for Disease Control and Prevention | CDC (.gov)"
-        ]
+        "category": "Diet & Wellness",
+        "score": 1,
+        "examples": []
       }
     ],
     "China": [
       {
-        "trend": "health",
+        "trend": "health alert",
         "market_code": "CN",
         "category": "Asia Health",
-        "score": 74,
-        "examples": [
-          "Governor Ron DeSantis Announces Nearly $188 Million to Expand Rural Health Care Access Across Florida - Office of Governor Ron DeSantis",
-          "PPB, PF&R Safely Rescue Juvenile in Mental Health Crisis - City of Portland, Oregon (.gov)",
-          "Prisma Health restores some systems after connectivity problems - WYFF"
-        ]
-      },
-      {
-        "trend": "medical",
-        "market_code": "CN",
-        "category": "Asia Health",
-        "score": 17,
-        "examples": [
-          "AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study. - blog.google",
-          "Demolition of Lindy Boggs Medical Center on track to begin this month - WDSU",
-          "Guard Medical Leaders Boost Readiness - nationalguard.mil"
-        ]
-      },
-      {
-        "trend": "disease",
-        "market_code": "CN",
-        "category": "Asia Health",
-        "score": 16,
-        "examples": [
-          "Risk of Severe Arboviral Disease in Patients Receiving B Cell-Depleting or Modulating Medications - Centers for Disease Control and Prevention | CDC (.gov)",
-          "Risk of Severe Arboviral Disease in Patients Receiving B Cell-Depleting or Modulating Medications - Centers for Disease Control and Prevention | CDC (.gov)",
-          "RELEASE: Gottheimer Hosts Alzheimer’s Disease Roundtable with Patients, Advocates, and Medical Professionals - House.gov"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
         "trend": "outbreak",
         "market_code": "CN",
         "category": "Outbreaks",
-        "score": 13,
-        "examples": [
-          "Salmonella outbreak linked to jalapeño prompts other food recalls - Detroit Free Press",
-          "5 Low-Risk Fruits and Vegetables As the Cyclospora Outbreak Grows — And Whether to Avoid Lettuce - TODAY.com",
-          "Farm linked to cyclosporiasis outbreak hadn't been inspected in 7 years as FDA lags on foreign inspection targets - CBS News"
-        ]
-      },
-      {
-        "trend": "mental",
-        "market_code": "CN",
-        "category": "Mental Health",
-        "score": 12,
-        "examples": [
-          "PPB, PF&R Safely Rescue Juvenile in Mental Health Crisis - City of Portland, Oregon (.gov)",
-          "Childhood screen detects mental health risks - National Institutes of Health (NIH) | (.gov)",
-          "PPB, PF&R Safely Rescue Juvenile in Mental Health Crisis - City of Portland, Oregon (.gov)"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
         "trend": "mental health",
         "market_code": "CN",
         "category": "Mental Health",
-        "score": 12,
-        "examples": [
-          "PPB, PF&R Safely Rescue Juvenile in Mental Health Crisis - City of Portland, Oregon (.gov)",
-          "Childhood screen detects mental health risks - National Institutes of Health (NIH) | (.gov)",
-          "PPB, PF&R Safely Rescue Juvenile in Mental Health Crisis - City of Portland, Oregon (.gov)"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "hospitals",
+        "trend": "medical research",
         "market_code": "CN",
         "category": "Asia Health",
-        "score": 9,
-        "examples": [
-          "NYC Health + Hospitals/Carter Appoints New Chief Nursing Officer - NYC Health + Hospitals",
-          "NYC Health + Hospitals/Carter Appoints New Chief Nursing Officer - NYC Health + Hospitals",
-          "All ECU Health hospitals receive Get With The Guidelines® awards for fourth consecutive year - ECU Health"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "public health",
+        "trend": "drug approval",
         "market_code": "CN",
-        "category": "Asia Health",
-        "score": 9,
-        "examples": [
-          "Schneider: Orange’s Proposed Smoking Ban Should Put Public Health First - Voice of OC",
-          "Calcasieu Parish Coroner issues public health warning over deadly bacteria found in local waters - KPLC 7 News",
-          "2026 Sam Shapiro Lecture: Why Health? With Sandro Galea, MD, DrPH - Johns Hopkins Bloomberg School of Public Health"
-        ]
+        "category": "Drug & Treatment News",
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "warning",
+        "trend": "diet wellness",
         "market_code": "CN",
-        "category": "Asia Health",
-        "score": 9,
-        "examples": [
-          "Calcasieu Parish Coroner issues public health warning over deadly bacteria found in local waters - KPLC 7 News",
-          "Calcasieu Parish Coroner issues public health warning over deadly bacteria found in local waters - KPLC 7 News",
-          "‘Real mummy’s curse’: health warning over growing trade in mummified human remains - The Guardian"
-        ]
-      },
-      {
-        "trend": "healthcare",
-        "market_code": "CN",
-        "category": "Asia Health",
-        "score": 9,
-        "examples": [
-          "DentaQuest breach exposes data of 15M people, a record this year - Healthcare Dive",
-          "The Foodism Show x Thailand Health & Wellness Expo 2026 Promoting Preventive Healthcare for a Sustainable Quality of Life - aap.com.au",
-          "The AI boom could boost Epic's position, health system execs say. Here's where AI startups can still win - Fierce Healthcare"
-        ]
-      },
-      {
-        "trend": "virus",
-        "market_code": "CN",
-        "category": "Outbreaks",
-        "score": 9,
-        "examples": [
-          "MADACC's cat kennels under quarantine as the shelter fights a highly contagious virus with no cure. - WISN",
-          "Pee Dee, South Carolina, reports West Nile virus outbreak - CIDRAP",
-          "MADACC's cat kennels under quarantine as the shelter fights a highly contagious virus with no cure. - WISN"
-        ]
-      },
-      {
-        "trend": "patients",
-        "market_code": "CN",
-        "category": "Asia Health",
-        "score": 8,
-        "examples": [
-          "Risk of Severe Arboviral Disease in Patients Receiving B Cell-Depleting or Modulating Medications - Centers for Disease Control and Prevention | CDC (.gov)",
-          "RELEASE: Gottheimer Hosts Alzheimer’s Disease Roundtable with Patients, Advocates, and Medical Professionals - House.gov",
-          "Risk of Severe Arboviral Disease in Patients Receiving B Cell-Depleting or Modulating Medications - Centers for Disease Control and Prevention | CDC (.gov)"
-        ]
+        "category": "Diet & Wellness",
+        "score": 1,
+        "examples": []
       }
     ],
     "South Korea": [
       {
-        "trend": "health",
+        "trend": "health alert",
         "market_code": "KR",
         "category": "Asia Health",
-        "score": 74,
-        "examples": [
-          "Governor Ron DeSantis Announces Nearly $188 Million to Expand Rural Health Care Access Across Florida - Office of Governor Ron DeSantis",
-          "PPB, PF&R Safely Rescue Juvenile in Mental Health Crisis - City of Portland, Oregon (.gov)",
-          "Prisma Health restores some systems after connectivity problems - WYFF"
-        ]
-      },
-      {
-        "trend": "medical",
-        "market_code": "KR",
-        "category": "Asia Health",
-        "score": 17,
-        "examples": [
-          "AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study. - blog.google",
-          "Demolition of Lindy Boggs Medical Center on track to begin this month - WDSU",
-          "Guard Medical Leaders Boost Readiness - nationalguard.mil"
-        ]
-      },
-      {
-        "trend": "disease",
-        "market_code": "KR",
-        "category": "Asia Health",
-        "score": 16,
-        "examples": [
-          "Risk of Severe Arboviral Disease in Patients Receiving B Cell-Depleting or Modulating Medications - Centers for Disease Control and Prevention | CDC (.gov)",
-          "Risk of Severe Arboviral Disease in Patients Receiving B Cell-Depleting or Modulating Medications - Centers for Disease Control and Prevention | CDC (.gov)",
-          "RELEASE: Gottheimer Hosts Alzheimer’s Disease Roundtable with Patients, Advocates, and Medical Professionals - House.gov"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
         "trend": "outbreak",
         "market_code": "KR",
         "category": "Outbreaks",
-        "score": 13,
-        "examples": [
-          "Salmonella outbreak linked to jalapeño prompts other food recalls - Detroit Free Press",
-          "5 Low-Risk Fruits and Vegetables As the Cyclospora Outbreak Grows — And Whether to Avoid Lettuce - TODAY.com",
-          "Farm linked to cyclosporiasis outbreak hadn't been inspected in 7 years as FDA lags on foreign inspection targets - CBS News"
-        ]
-      },
-      {
-        "trend": "mental",
-        "market_code": "KR",
-        "category": "Mental Health",
-        "score": 12,
-        "examples": [
-          "PPB, PF&R Safely Rescue Juvenile in Mental Health Crisis - City of Portland, Oregon (.gov)",
-          "Childhood screen detects mental health risks - National Institutes of Health (NIH) | (.gov)",
-          "PPB, PF&R Safely Rescue Juvenile in Mental Health Crisis - City of Portland, Oregon (.gov)"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
         "trend": "mental health",
         "market_code": "KR",
         "category": "Mental Health",
-        "score": 12,
-        "examples": [
-          "PPB, PF&R Safely Rescue Juvenile in Mental Health Crisis - City of Portland, Oregon (.gov)",
-          "Childhood screen detects mental health risks - National Institutes of Health (NIH) | (.gov)",
-          "PPB, PF&R Safely Rescue Juvenile in Mental Health Crisis - City of Portland, Oregon (.gov)"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "hospitals",
+        "trend": "medical research",
         "market_code": "KR",
         "category": "Asia Health",
-        "score": 9,
-        "examples": [
-          "NYC Health + Hospitals/Carter Appoints New Chief Nursing Officer - NYC Health + Hospitals",
-          "NYC Health + Hospitals/Carter Appoints New Chief Nursing Officer - NYC Health + Hospitals",
-          "All ECU Health hospitals receive Get With The Guidelines® awards for fourth consecutive year - ECU Health"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "public health",
+        "trend": "drug approval",
         "market_code": "KR",
-        "category": "Asia Health",
-        "score": 9,
-        "examples": [
-          "Schneider: Orange’s Proposed Smoking Ban Should Put Public Health First - Voice of OC",
-          "Calcasieu Parish Coroner issues public health warning over deadly bacteria found in local waters - KPLC 7 News",
-          "2026 Sam Shapiro Lecture: Why Health? With Sandro Galea, MD, DrPH - Johns Hopkins Bloomberg School of Public Health"
-        ]
+        "category": "Drug & Treatment News",
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "warning",
+        "trend": "diet wellness",
         "market_code": "KR",
-        "category": "Asia Health",
-        "score": 9,
-        "examples": [
-          "Calcasieu Parish Coroner issues public health warning over deadly bacteria found in local waters - KPLC 7 News",
-          "Calcasieu Parish Coroner issues public health warning over deadly bacteria found in local waters - KPLC 7 News",
-          "‘Real mummy’s curse’: health warning over growing trade in mummified human remains - The Guardian"
-        ]
-      },
-      {
-        "trend": "healthcare",
-        "market_code": "KR",
-        "category": "Asia Health",
-        "score": 9,
-        "examples": [
-          "DentaQuest breach exposes data of 15M people, a record this year - Healthcare Dive",
-          "The Foodism Show x Thailand Health & Wellness Expo 2026 Promoting Preventive Healthcare for a Sustainable Quality of Life - aap.com.au",
-          "The AI boom could boost Epic's position, health system execs say. Here's where AI startups can still win - Fierce Healthcare"
-        ]
-      },
-      {
-        "trend": "virus",
-        "market_code": "KR",
-        "category": "Outbreaks",
-        "score": 9,
-        "examples": [
-          "MADACC's cat kennels under quarantine as the shelter fights a highly contagious virus with no cure. - WISN",
-          "Pee Dee, South Carolina, reports West Nile virus outbreak - CIDRAP",
-          "MADACC's cat kennels under quarantine as the shelter fights a highly contagious virus with no cure. - WISN"
-        ]
-      },
-      {
-        "trend": "patients",
-        "market_code": "KR",
-        "category": "Asia Health",
-        "score": 8,
-        "examples": [
-          "Risk of Severe Arboviral Disease in Patients Receiving B Cell-Depleting or Modulating Medications - Centers for Disease Control and Prevention | CDC (.gov)",
-          "RELEASE: Gottheimer Hosts Alzheimer’s Disease Roundtable with Patients, Advocates, and Medical Professionals - House.gov",
-          "Risk of Severe Arboviral Disease in Patients Receiving B Cell-Depleting or Modulating Medications - Centers for Disease Control and Prevention | CDC (.gov)"
-        ]
+        "category": "Diet & Wellness",
+        "score": 1,
+        "examples": []
       }
     ],
     "India": [
       {
-        "trend": "health",
+        "trend": "health alert",
         "market_code": "IN",
         "category": "Asia Health",
-        "score": 80,
-        "examples": [
-          "Google Health announces a strategic partnership with Abbott, a leader in health and wellness. - blog.google",
-          "Google Health announces a strategic partnership with Abbott, a leader in health and wellness. - blog.google",
-          "WHO Health Emergencies EPI-WIN webinar: Preparing for El Niño and climate-related health risks: global insights and country experiences - World Health Organization (WHO)"
-        ]
-      },
-      {
-        "trend": "healthcare",
-        "market_code": "IN",
-        "category": "Asia Health",
-        "score": 18,
-        "examples": [
-          "Exposing Systemic Inequity and Digital Barriers in India’s Public Healthcare - Frontline Magazine",
-          "DentaQuest breach exposes data of 15M people, a record this year - Healthcare Dive",
-          "Respiratory Infections Rise Among Healthcare Shift Workers - EMJ"
-        ]
-      },
-      {
-        "trend": "medical",
-        "market_code": "IN",
-        "category": "Asia Health",
-        "score": 12,
-        "examples": [
-          "AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study. - blog.google",
-          "Plea to fill vacancies, provide adequate equipment in medical college hospitals - The Hindu",
-          "Navigating Wireless Coexistence Testing for Medical Devices - Tech Briefs"
-        ]
-      },
-      {
-        "trend": "disease",
-        "market_code": "IN",
-        "category": "Asia Health",
-        "score": 10,
-        "examples": [
-          "Nine hospitals in the Central Valley recognized for advancing quality care for heart disease, stroke - newsroom.heart.org",
-          "Risk of Severe Arboviral Disease in Patients Receiving B Cell-Depleting or Modulating Medications - Centers for Disease Control and Prevention | CDC (.gov)",
-          "Risk of Severe Arboviral Disease in Patients Receiving B Cell-Depleting or Modulating Medications - Centers for Disease Control and Prevention | CDC (.gov)"
-        ]
-      },
-      {
-        "trend": "mental",
-        "market_code": "IN",
-        "category": "Mental Health",
-        "score": 10,
-        "examples": [
-          "Childhood screen detects mental health risks - National Institutes of Health (NIH) | (.gov)",
-          "Mapping how mental health risks emerge in AI chatbot conversations - Medical Xpress",
-          "Karnataka appoints mental health counsellors for schoolchildren - The Times of India"
-        ]
-      },
-      {
-        "trend": "warning",
-        "market_code": "IN",
-        "category": "Asia Health",
-        "score": 9,
-        "examples": [
-          "‘Real mummy’s curse’: health warning over growing trade in mummified human remains - The Guardian",
-          "Calcasieu Parish Coroner issues public health warning over deadly bacteria found in local waters - KPLC 7 News",
-          "UK heatwave prompts Met Office amber warning with 38C predicted - BBC"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
         "trend": "outbreak",
         "market_code": "IN",
         "category": "Outbreaks",
-        "score": 9,
-        "examples": [
-          "DRC Ebola death toll passes 2,000 amid fastest-growing outbreak on record - Al Jazeera",
-          "Congo says 2,000 people have died in history’s fastest-growing Ebola outbreak - AP News",
-          "State issues Chandipura alert as Gujarat, Rajasthan battle encephalitis outbreak - The Times of India"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
         "trend": "mental health",
         "market_code": "IN",
         "category": "Mental Health",
-        "score": 9,
-        "examples": [
-          "Childhood screen detects mental health risks - National Institutes of Health (NIH) | (.gov)",
-          "Mapping how mental health risks emerge in AI chatbot conversations - Medical Xpress",
-          "Karnataka appoints mental health counsellors for schoolchildren - The Times of India"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "news-medical",
+        "trend": "medical research",
         "market_code": "IN",
         "category": "Asia Health",
-        "score": 7,
-        "examples": [
-          "UH College of Pharmacy secures funding for three major health studies - News-Medical",
-          "UH College of Pharmacy secures funding for three major health studies - News-Medical",
-          "Dexamethasone calms lung inflammation without weakening core immune responses - News-Medical"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "vaccine",
+        "trend": "drug approval",
         "market_code": "IN",
         "category": "Drug & Treatment News",
-        "score": 7,
-        "examples": [
-          "Why bad health information can seem so convincing – and five ways to resist it - Gavi, the Vaccine Alliance",
-          "Ebola deaths top 2,000 as scientists race to develop vaccine - UN News",
-          "Rep. Lois Frankel slams Trump's vaccine executive order, warning of risks to children's health - wusf.org"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "hospitals",
-        "market_code": "IN",
-        "category": "Asia Health",
-        "score": 7,
-        "examples": [
-          "Plea to fill vacancies, provide adequate equipment in medical college hospitals - The Hindu",
-          "कैसे रहेंगे Apollo Hospitals के नतीजे? आय, मुनाफे में कैसी रहेगी ग्रोथ? #ApolloHospitals #ApolloHospitalsResults #ApolloHospitalsQ1 - facebook.com",
-          "Nine hospitals in the Central Valley recognized for advancing quality care for heart disease, stroke - newsroom.heart.org"
-        ]
-      },
-      {
-        "trend": "wellness",
+        "trend": "diet wellness",
         "market_code": "IN",
         "category": "Diet & Wellness",
-        "score": 5,
-        "examples": [
-          "Google Health announces a strategic partnership with Abbott, a leader in health and wellness. - blog.google",
-          "Wellness without spending: Small habits, big benefits - The New Indian Express",
-          "The Foodism Show x Thailand Health & Wellness Expo 2026 Promoting Preventive Healthcare for a Sustainable Quality of Life - aap.com.au"
-        ]
+        "score": 1,
+        "examples": []
       }
     ],
     "Australia": [
       {
-        "trend": "health",
+        "trend": "health alert",
         "market_code": "AU",
         "category": "Global Health",
-        "score": 69,
-        "examples": [
-          "Private health insurers access patients' full medical records in 'aggressive' audits - ABC News & Headlines – Australian Broadcasting Corporation",
-          "Council backs rural and regional health with RFDS landing fees waived - Rockhampton Regional Council",
-          "WHO Health Emergencies EPI-WIN webinar: Preparing for El Niño and climate-related health risks: global insights and country experiences - World Health Organization (WHO)"
-        ]
-      },
-      {
-        "trend": "medical",
-        "market_code": "AU",
-        "category": "Global Health",
-        "score": 15,
-        "examples": [
-          "Private health insurers access patients' full medical records in 'aggressive' audits - ABC News & Headlines – Australian Broadcasting Corporation",
-          "Private health insurers access patients' full medical records in 'aggressive' audits - ABC News & Headlines – Australian Broadcasting Corporation",
-          "Exclusive: Socceroos’ teenage star Herrington on way to UK to complete medical for Australian record transfer fee - football360.com.au"
-        ]
-      },
-      {
-        "trend": "healthcare",
-        "market_code": "AU",
-        "category": "Global Health",
-        "score": 13,
-        "examples": [
-          "Respiratory Infections Rise Among Healthcare Shift Workers - EMJ",
-          "The Foodism Show x Thailand Health & Wellness Expo 2026 Promoting Preventive Healthcare for a Sustainable Quality of Life - aap.com.au",
-          "Steven Strange chosen by healthcare AI company MediQo Health - The Weekly Source"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
         "trend": "outbreak",
         "market_code": "AU",
         "category": "Outbreaks",
-        "score": 12,
-        "examples": [
-          "A deadly outbreak is spreading at record speed. Why is it so hard to contain? - sbs.com.au",
-          "Fastest-growing Ebola outbreak in history has claimed 2,000 lives. Here's why it is hard to contain - PBS",
-          "DRC Ebola death toll passes 2,000 amid fastest-growing outbreak on record - Al Jazeera"
-        ]
-      },
-      {
-        "trend": "mental",
-        "market_code": "AU",
-        "category": "Mental Health",
-        "score": 11,
-        "examples": [
-          "Kids’ mental health unit shut as staff investigated for use of force - The Age",
-          "National Medicare Mental Health Check In campaign launches – free community toolkit available - Australian Government Department of Health, Disability and Ageing",
-          "National Medicare Mental Health Check In campaign launches – free community toolkit available - Australian Government Department of Health, Disability and Ageing"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
         "trend": "mental health",
         "market_code": "AU",
         "category": "Mental Health",
-        "score": 11,
-        "examples": [
-          "Kids’ mental health unit shut as staff investigated for use of force - The Age",
-          "National Medicare Mental Health Check In campaign launches – free community toolkit available - Australian Government Department of Health, Disability and Ageing",
-          "National Medicare Mental Health Check In campaign launches – free community toolkit available - Australian Government Department of Health, Disability and Ageing"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "disease",
+        "trend": "medical research",
         "market_code": "AU",
         "category": "Global Health",
-        "score": 11,
-        "examples": [
-          "Actinogen Medical Hosts Clinical Trials Science Forum Webinar on Alzheimer's Disease Treatment - Kalkine",
-          "Risk of Severe Arboviral Disease in Patients Receiving B Cell-Depleting or Modulating Medications - Centers for Disease Control and Prevention | CDC (.gov)",
-          "Risk of Severe Arboviral Disease in Patients Receiving B Cell-Depleting or Modulating Medications - Centers for Disease Control and Prevention | CDC (.gov)"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "vaccine",
+        "trend": "drug approval",
         "market_code": "AU",
         "category": "Drug & Treatment News",
-        "score": 7,
-        "examples": [
-          "Hep B advice holds firm in Australia despite US vaccine shake-up - retailpharmacymagazine.com.au",
-          "Ebola deaths top 2,000 as scientists race to develop vaccine - UN News",
-          "Rep. Lois Frankel slams Trump's vaccine executive order, warning of risks to children's health - WUSF"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "warning",
+        "trend": "diet wellness",
         "market_code": "AU",
-        "category": "Global Health",
-        "score": 7,
-        "examples": [
-          "Health watchdog issues warning over second alleged fake Victorian doctor - ABC News & Headlines – Australian Broadcasting Corporation",
-          "‘Real mummy’s curse’: health warning over growing trade in mummified human remains - The Guardian",
-          "Calcasieu Parish Coroner issues public health warning over deadly bacteria found in local waters - kplctv.com"
-        ]
-      },
-      {
-        "trend": "virus",
-        "market_code": "AU",
-        "category": "Outbreaks",
-        "score": 6,
-        "examples": [
-          "Bundibugyo Virus Disease Outbreak | Issue No. 82 – August 7, 2026 - ReliefWeb",
-          "Scientists have designed a functioning virus from scratch using AI – what you need to know - The Conversation",
-          "More chicken farms placed into lockdown as bird virus spreads - Nine.com.au"
-        ]
-      },
-      {
-        "trend": "infection",
-        "market_code": "AU",
-        "category": "Outbreaks",
-        "score": 6,
-        "examples": [
-          "Cells' own abnormal RNA may trigger inflammation during viral infection, challenging 20 years of assumptions - Medical Xpress",
-          "CRISPR-armed phages help treat severe superbug infection - New Scientist",
-          "Concussion before, not after, EBV infection may boost MS risk - Multiple Sclerosis News Today"
-        ]
-      },
-      {
-        "trend": "heart",
-        "market_code": "AU",
-        "category": "Chronic Disease",
-        "score": 5,
-        "examples": [
-          "Diabetes Meds Tied to Fewer Heart Attacks, Strokes - Mirage News",
-          "Waist size predicts heart disease risk better than body mass index - News-Medical",
-          "What is driving America's heart disease crisis? Hypertension remains a big reason - Medical Xpress"
-        ]
+        "category": "Diet & Wellness",
+        "score": 1,
+        "examples": []
       }
     ],
     "Canada": [
       {
-        "trend": "health",
+        "trend": "health alert",
         "market_code": "CA",
         "category": "Global Health",
-        "score": 66,
-        "examples": [
-          "Project aims to eliminate gaps in brain and heart health care for Indigenous elders - Sudbury News",
-          "Heart disease doesn’t always look the same in women - Niagara Health",
-          "Government of Canada highlights funding to address the health risks of climate change in Quebec City - canada.ca"
-        ]
-      },
-      {
-        "trend": "disease",
-        "market_code": "CA",
-        "category": "Global Health",
-        "score": 13,
-        "examples": [
-          "Heart disease doesn’t always look the same in women - Niagara Health",
-          "Risk of Severe Arboviral Disease in Patients Receiving B Cell-Depleting or Modulating Medications - Centers for Disease Control and Prevention | CDC (.gov)",
-          "Risk of Severe Arboviral Disease in Patients Receiving B Cell-Depleting or Modulating Medications - Centers for Disease Control and Prevention | CDC (.gov)"
-        ]
-      },
-      {
-        "trend": "medical",
-        "market_code": "CA",
-        "category": "Global Health",
-        "score": 13,
-        "examples": [
-          "Rod Stewart postpones concert at last minute due to ‘medical procedure’ - Global News",
-          "Inside a career in Emergency Medical Dispatch - SaskHealthAuthority",
-          "AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study. - blog.google"
-        ]
-      },
-      {
-        "trend": "healthcare",
-        "market_code": "CA",
-        "category": "Global Health",
-        "score": 13,
-        "examples": [
-          "The Foodism Show x Thailand Health & Wellness Expo 2026 Promoting Preventive Healthcare for a Sustainable Quality of Life - aap.com.au",
-          "The AI boom could boost Epic's position, health system execs say. Here's where AI startups can still win - Fierce Healthcare",
-          "Patients Wary of Governments, Companies Pushing AI as a Rural Healthcare Solution - KFF Health News"
-        ]
-      },
-      {
-        "trend": "mental",
-        "market_code": "CA",
-        "category": "Mental Health",
-        "score": 12,
-        "examples": [
-          "30% of Canadian employees say mental health negatively impacting productivity: survey - Benefits Canada.com",
-          "Kids Help Phone sees surging overnight demand for mental health support - Global News",
-          "30% of Canadian employees say mental health negatively impacting productivity: survey - Benefits Canada.com"
-        ]
-      },
-      {
-        "trend": "mental health",
-        "market_code": "CA",
-        "category": "Mental Health",
-        "score": 11,
-        "examples": [
-          "30% of Canadian employees say mental health negatively impacting productivity: survey - Benefits Canada.com",
-          "Kids Help Phone sees surging overnight demand for mental health support - Global News",
-          "30% of Canadian employees say mental health negatively impacting productivity: survey - Benefits Canada.com"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
         "trend": "outbreak",
         "market_code": "CA",
         "category": "Outbreaks",
-        "score": 11,
-        "examples": [
-          "Salmonella outbreak linked to jalapeño prompts other food recalls - Detroit Free Press",
-          "Taylor Farms recalls jalapeno products amid salmonella outbreak - Global News",
-          "Fastest-growing Ebola outbreak in history has claimed 2,000 lives. Here's why it is hard to contain - PBS"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "vaccine",
+        "trend": "mental health",
         "market_code": "CA",
-        "category": "Drug & Treatment News",
-        "score": 7,
-        "examples": [
-          "Rep. Lois Frankel slams Trump's vaccine executive order, warning of risks to children's health - WUSF",
-          "FDA Approves First mRNA Flu Vaccine - respiratory-therapy.com",
-          "Health Canada authorizes Phase I trial for Bundibugyo Ebola vaccine candidate - WestCentralOnline"
-        ]
+        "category": "Mental Health",
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "heart",
-        "market_code": "CA",
-        "category": "Chronic Disease",
-        "score": 6,
-        "examples": [
-          "Project aims to eliminate gaps in brain and heart health care for Indigenous elders - Sudbury News",
-          "Heart disease doesn’t always look the same in women - Niagara Health",
-          "Tirzepatide lowers heart attack and cardiovascular event risk in adults with type 2 diabetes - News-Medical"
-        ]
-      },
-      {
-        "trend": "warning",
+        "trend": "medical research",
         "market_code": "CA",
         "category": "Global Health",
-        "score": 6,
-        "examples": [
-          "‘Real mummy’s curse’: health warning over growing trade in mummified human remains - theguardian.com",
-          "Rep. Lois Frankel slams Trump's vaccine executive order, warning of risks to children's health - WUSF",
-          "Calcasieu Parish Coroner issues public health warning over deadly bacteria found in local waters - KPLC 7 News"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "ebola outbreak",
+        "trend": "drug approval",
         "market_code": "CA",
-        "category": "Outbreaks",
-        "score": 6,
-        "examples": [
-          "Fastest-growing Ebola outbreak in history has claimed 2,000 lives. Here's why it is hard to contain - PBS",
-          "Congo battles fastest-spreading Ebola outbreak on record as deaths top 2,000 - CBC",
-          "Congo says 2,000 people have died in history’s fastest-growing Ebola outbreak - AP News"
-        ]
+        "category": "Drug & Treatment News",
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "virus",
+        "trend": "diet wellness",
         "market_code": "CA",
-        "category": "Outbreaks",
-        "score": 6,
-        "examples": [
-          "Mosquitoes in Barrie test positive for West Nile virus - BradfordToday.ca",
-          "Mosquito pool in Simcoe County tests positive for West Nile Virus - CTV News",
-          "West Nile virus found in Barrie mosquitoes: SMDHU - Barrie 360"
-        ]
+        "category": "Diet & Wellness",
+        "score": 1,
+        "examples": []
       }
     ],
     "United Arab Emirates": [
       {
-        "trend": "health",
+        "trend": "health alert",
         "market_code": "AE",
         "category": "Arab Health",
-        "score": 74,
-        "examples": [
-          "Governor Ron DeSantis Announces Nearly $188 Million to Expand Rural Health Care Access Across Florida - Office of Governor Ron DeSantis",
-          "PPB, PF&R Safely Rescue Juvenile in Mental Health Crisis - City of Portland, Oregon (.gov)",
-          "Prisma Health restores some systems after connectivity problems - WYFF"
-        ]
-      },
-      {
-        "trend": "medical",
-        "market_code": "AE",
-        "category": "Arab Health",
-        "score": 17,
-        "examples": [
-          "AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study. - blog.google",
-          "Demolition of Lindy Boggs Medical Center on track to begin this month - WDSU",
-          "Guard Medical Leaders Boost Readiness - nationalguard.mil"
-        ]
-      },
-      {
-        "trend": "disease",
-        "market_code": "AE",
-        "category": "Arab Health",
-        "score": 16,
-        "examples": [
-          "Risk of Severe Arboviral Disease in Patients Receiving B Cell-Depleting or Modulating Medications - Centers for Disease Control and Prevention | CDC (.gov)",
-          "Risk of Severe Arboviral Disease in Patients Receiving B Cell-Depleting or Modulating Medications - Centers for Disease Control and Prevention | CDC (.gov)",
-          "RELEASE: Gottheimer Hosts Alzheimer’s Disease Roundtable with Patients, Advocates, and Medical Professionals - House.gov"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
         "trend": "outbreak",
         "market_code": "AE",
         "category": "Outbreaks",
-        "score": 13,
-        "examples": [
-          "Salmonella outbreak linked to jalapeño prompts other food recalls - Detroit Free Press",
-          "5 Low-Risk Fruits and Vegetables As the Cyclospora Outbreak Grows — And Whether to Avoid Lettuce - TODAY.com",
-          "Farm linked to cyclosporiasis outbreak hadn't been inspected in 7 years as FDA lags on foreign inspection targets - CBS News"
-        ]
-      },
-      {
-        "trend": "mental",
-        "market_code": "AE",
-        "category": "Mental Health",
-        "score": 12,
-        "examples": [
-          "PPB, PF&R Safely Rescue Juvenile in Mental Health Crisis - City of Portland, Oregon (.gov)",
-          "Childhood screen detects mental health risks - National Institutes of Health (NIH) | (.gov)",
-          "PPB, PF&R Safely Rescue Juvenile in Mental Health Crisis - City of Portland, Oregon (.gov)"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
         "trend": "mental health",
         "market_code": "AE",
         "category": "Mental Health",
-        "score": 12,
-        "examples": [
-          "PPB, PF&R Safely Rescue Juvenile in Mental Health Crisis - City of Portland, Oregon (.gov)",
-          "Childhood screen detects mental health risks - National Institutes of Health (NIH) | (.gov)",
-          "PPB, PF&R Safely Rescue Juvenile in Mental Health Crisis - City of Portland, Oregon (.gov)"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "hospitals",
+        "trend": "medical research",
         "market_code": "AE",
         "category": "Arab Health",
-        "score": 9,
-        "examples": [
-          "NYC Health + Hospitals/Carter Appoints New Chief Nursing Officer - NYC Health + Hospitals",
-          "NYC Health + Hospitals/Carter Appoints New Chief Nursing Officer - NYC Health + Hospitals",
-          "All ECU Health hospitals receive Get With The Guidelines® awards for fourth consecutive year - ECU Health"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "public health",
+        "trend": "drug approval",
         "market_code": "AE",
-        "category": "Arab Health",
-        "score": 9,
-        "examples": [
-          "Schneider: Orange’s Proposed Smoking Ban Should Put Public Health First - Voice of OC",
-          "Calcasieu Parish Coroner issues public health warning over deadly bacteria found in local waters - KPLC 7 News",
-          "2026 Sam Shapiro Lecture: Why Health? With Sandro Galea, MD, DrPH - Johns Hopkins Bloomberg School of Public Health"
-        ]
+        "category": "Drug & Treatment News",
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "warning",
+        "trend": "diet wellness",
         "market_code": "AE",
-        "category": "Arab Health",
-        "score": 9,
-        "examples": [
-          "Calcasieu Parish Coroner issues public health warning over deadly bacteria found in local waters - KPLC 7 News",
-          "Calcasieu Parish Coroner issues public health warning over deadly bacteria found in local waters - KPLC 7 News",
-          "‘Real mummy’s curse’: health warning over growing trade in mummified human remains - The Guardian"
-        ]
-      },
-      {
-        "trend": "healthcare",
-        "market_code": "AE",
-        "category": "Arab Health",
-        "score": 9,
-        "examples": [
-          "DentaQuest breach exposes data of 15M people, a record this year - Healthcare Dive",
-          "The Foodism Show x Thailand Health & Wellness Expo 2026 Promoting Preventive Healthcare for a Sustainable Quality of Life - aap.com.au",
-          "The AI boom could boost Epic's position, health system execs say. Here's where AI startups can still win - Fierce Healthcare"
-        ]
-      },
-      {
-        "trend": "virus",
-        "market_code": "AE",
-        "category": "Outbreaks",
-        "score": 9,
-        "examples": [
-          "MADACC's cat kennels under quarantine as the shelter fights a highly contagious virus with no cure. - WISN",
-          "Pee Dee, South Carolina, reports West Nile virus outbreak - CIDRAP",
-          "MADACC's cat kennels under quarantine as the shelter fights a highly contagious virus with no cure. - WISN"
-        ]
-      },
-      {
-        "trend": "patients",
-        "market_code": "AE",
-        "category": "Arab Health",
-        "score": 8,
-        "examples": [
-          "Risk of Severe Arboviral Disease in Patients Receiving B Cell-Depleting or Modulating Medications - Centers for Disease Control and Prevention | CDC (.gov)",
-          "RELEASE: Gottheimer Hosts Alzheimer’s Disease Roundtable with Patients, Advocates, and Medical Professionals - House.gov",
-          "Risk of Severe Arboviral Disease in Patients Receiving B Cell-Depleting or Modulating Medications - Centers for Disease Control and Prevention | CDC (.gov)"
-        ]
+        "category": "Diet & Wellness",
+        "score": 1,
+        "examples": []
       }
     ],
     "Saudi Arabia": [
       {
-        "trend": "health",
+        "trend": "health alert",
         "market_code": "SA",
         "category": "Arab Health",
-        "score": 74,
-        "examples": [
-          "Governor Ron DeSantis Announces Nearly $188 Million to Expand Rural Health Care Access Across Florida - Office of Governor Ron DeSantis",
-          "PPB, PF&R Safely Rescue Juvenile in Mental Health Crisis - City of Portland, Oregon (.gov)",
-          "Prisma Health restores some systems after connectivity problems - WYFF"
-        ]
-      },
-      {
-        "trend": "medical",
-        "market_code": "SA",
-        "category": "Arab Health",
-        "score": 17,
-        "examples": [
-          "AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study. - blog.google",
-          "Demolition of Lindy Boggs Medical Center on track to begin this month - WDSU",
-          "Guard Medical Leaders Boost Readiness - nationalguard.mil"
-        ]
-      },
-      {
-        "trend": "disease",
-        "market_code": "SA",
-        "category": "Arab Health",
-        "score": 16,
-        "examples": [
-          "Risk of Severe Arboviral Disease in Patients Receiving B Cell-Depleting or Modulating Medications - Centers for Disease Control and Prevention | CDC (.gov)",
-          "Risk of Severe Arboviral Disease in Patients Receiving B Cell-Depleting or Modulating Medications - Centers for Disease Control and Prevention | CDC (.gov)",
-          "RELEASE: Gottheimer Hosts Alzheimer’s Disease Roundtable with Patients, Advocates, and Medical Professionals - House.gov"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
         "trend": "outbreak",
         "market_code": "SA",
         "category": "Outbreaks",
-        "score": 13,
-        "examples": [
-          "Salmonella outbreak linked to jalapeño prompts other food recalls - Detroit Free Press",
-          "5 Low-Risk Fruits and Vegetables As the Cyclospora Outbreak Grows — And Whether to Avoid Lettuce - TODAY.com",
-          "Farm linked to cyclosporiasis outbreak hadn't been inspected in 7 years as FDA lags on foreign inspection targets - CBS News"
-        ]
-      },
-      {
-        "trend": "mental",
-        "market_code": "SA",
-        "category": "Mental Health",
-        "score": 12,
-        "examples": [
-          "PPB, PF&R Safely Rescue Juvenile in Mental Health Crisis - City of Portland, Oregon (.gov)",
-          "Childhood screen detects mental health risks - National Institutes of Health (NIH) | (.gov)",
-          "PPB, PF&R Safely Rescue Juvenile in Mental Health Crisis - City of Portland, Oregon (.gov)"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
         "trend": "mental health",
         "market_code": "SA",
         "category": "Mental Health",
-        "score": 12,
-        "examples": [
-          "PPB, PF&R Safely Rescue Juvenile in Mental Health Crisis - City of Portland, Oregon (.gov)",
-          "Childhood screen detects mental health risks - National Institutes of Health (NIH) | (.gov)",
-          "PPB, PF&R Safely Rescue Juvenile in Mental Health Crisis - City of Portland, Oregon (.gov)"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "hospitals",
+        "trend": "medical research",
         "market_code": "SA",
         "category": "Arab Health",
-        "score": 9,
-        "examples": [
-          "NYC Health + Hospitals/Carter Appoints New Chief Nursing Officer - NYC Health + Hospitals",
-          "NYC Health + Hospitals/Carter Appoints New Chief Nursing Officer - NYC Health + Hospitals",
-          "All ECU Health hospitals receive Get With The Guidelines® awards for fourth consecutive year - ECU Health"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "public health",
+        "trend": "drug approval",
         "market_code": "SA",
-        "category": "Arab Health",
-        "score": 9,
-        "examples": [
-          "Schneider: Orange’s Proposed Smoking Ban Should Put Public Health First - Voice of OC",
-          "Calcasieu Parish Coroner issues public health warning over deadly bacteria found in local waters - KPLC 7 News",
-          "2026 Sam Shapiro Lecture: Why Health? With Sandro Galea, MD, DrPH - Johns Hopkins Bloomberg School of Public Health"
-        ]
+        "category": "Drug & Treatment News",
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "warning",
+        "trend": "diet wellness",
         "market_code": "SA",
-        "category": "Arab Health",
-        "score": 9,
-        "examples": [
-          "Calcasieu Parish Coroner issues public health warning over deadly bacteria found in local waters - KPLC 7 News",
-          "Calcasieu Parish Coroner issues public health warning over deadly bacteria found in local waters - KPLC 7 News",
-          "‘Real mummy’s curse’: health warning over growing trade in mummified human remains - The Guardian"
-        ]
-      },
-      {
-        "trend": "healthcare",
-        "market_code": "SA",
-        "category": "Arab Health",
-        "score": 9,
-        "examples": [
-          "DentaQuest breach exposes data of 15M people, a record this year - Healthcare Dive",
-          "The Foodism Show x Thailand Health & Wellness Expo 2026 Promoting Preventive Healthcare for a Sustainable Quality of Life - aap.com.au",
-          "The AI boom could boost Epic's position, health system execs say. Here's where AI startups can still win - Fierce Healthcare"
-        ]
-      },
-      {
-        "trend": "virus",
-        "market_code": "SA",
-        "category": "Outbreaks",
-        "score": 9,
-        "examples": [
-          "MADACC's cat kennels under quarantine as the shelter fights a highly contagious virus with no cure. - WISN",
-          "Pee Dee, South Carolina, reports West Nile virus outbreak - CIDRAP",
-          "MADACC's cat kennels under quarantine as the shelter fights a highly contagious virus with no cure. - WISN"
-        ]
-      },
-      {
-        "trend": "patients",
-        "market_code": "SA",
-        "category": "Arab Health",
-        "score": 8,
-        "examples": [
-          "Risk of Severe Arboviral Disease in Patients Receiving B Cell-Depleting or Modulating Medications - Centers for Disease Control and Prevention | CDC (.gov)",
-          "RELEASE: Gottheimer Hosts Alzheimer’s Disease Roundtable with Patients, Advocates, and Medical Professionals - House.gov",
-          "Risk of Severe Arboviral Disease in Patients Receiving B Cell-Depleting or Modulating Medications - Centers for Disease Control and Prevention | CDC (.gov)"
-        ]
+        "category": "Diet & Wellness",
+        "score": 1,
+        "examples": []
       }
     ],
     "Qatar": [
       {
-        "trend": "health",
+        "trend": "health alert",
         "market_code": "QA",
         "category": "Arab Health",
-        "score": 74,
-        "examples": [
-          "Governor Ron DeSantis Announces Nearly $188 Million to Expand Rural Health Care Access Across Florida - Office of Governor Ron DeSantis",
-          "PPB, PF&R Safely Rescue Juvenile in Mental Health Crisis - City of Portland, Oregon (.gov)",
-          "Prisma Health restores some systems after connectivity problems - WYFF"
-        ]
-      },
-      {
-        "trend": "medical",
-        "market_code": "QA",
-        "category": "Arab Health",
-        "score": 17,
-        "examples": [
-          "AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study. - blog.google",
-          "Demolition of Lindy Boggs Medical Center on track to begin this month - WDSU",
-          "Guard Medical Leaders Boost Readiness - nationalguard.mil"
-        ]
-      },
-      {
-        "trend": "disease",
-        "market_code": "QA",
-        "category": "Arab Health",
-        "score": 16,
-        "examples": [
-          "Risk of Severe Arboviral Disease in Patients Receiving B Cell-Depleting or Modulating Medications - Centers for Disease Control and Prevention | CDC (.gov)",
-          "Risk of Severe Arboviral Disease in Patients Receiving B Cell-Depleting or Modulating Medications - Centers for Disease Control and Prevention | CDC (.gov)",
-          "RELEASE: Gottheimer Hosts Alzheimer’s Disease Roundtable with Patients, Advocates, and Medical Professionals - House.gov"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
         "trend": "outbreak",
         "market_code": "QA",
         "category": "Outbreaks",
-        "score": 13,
-        "examples": [
-          "Salmonella outbreak linked to jalapeño prompts other food recalls - Detroit Free Press",
-          "5 Low-Risk Fruits and Vegetables As the Cyclospora Outbreak Grows — And Whether to Avoid Lettuce - TODAY.com",
-          "Farm linked to cyclosporiasis outbreak hadn't been inspected in 7 years as FDA lags on foreign inspection targets - CBS News"
-        ]
-      },
-      {
-        "trend": "mental",
-        "market_code": "QA",
-        "category": "Mental Health",
-        "score": 12,
-        "examples": [
-          "PPB, PF&R Safely Rescue Juvenile in Mental Health Crisis - City of Portland, Oregon (.gov)",
-          "Childhood screen detects mental health risks - National Institutes of Health (NIH) | (.gov)",
-          "PPB, PF&R Safely Rescue Juvenile in Mental Health Crisis - City of Portland, Oregon (.gov)"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
         "trend": "mental health",
         "market_code": "QA",
         "category": "Mental Health",
-        "score": 12,
-        "examples": [
-          "PPB, PF&R Safely Rescue Juvenile in Mental Health Crisis - City of Portland, Oregon (.gov)",
-          "Childhood screen detects mental health risks - National Institutes of Health (NIH) | (.gov)",
-          "PPB, PF&R Safely Rescue Juvenile in Mental Health Crisis - City of Portland, Oregon (.gov)"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "hospitals",
+        "trend": "medical research",
         "market_code": "QA",
         "category": "Arab Health",
-        "score": 9,
-        "examples": [
-          "NYC Health + Hospitals/Carter Appoints New Chief Nursing Officer - NYC Health + Hospitals",
-          "NYC Health + Hospitals/Carter Appoints New Chief Nursing Officer - NYC Health + Hospitals",
-          "All ECU Health hospitals receive Get With The Guidelines® awards for fourth consecutive year - ECU Health"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "public health",
+        "trend": "drug approval",
         "market_code": "QA",
-        "category": "Arab Health",
-        "score": 9,
-        "examples": [
-          "Schneider: Orange’s Proposed Smoking Ban Should Put Public Health First - Voice of OC",
-          "Calcasieu Parish Coroner issues public health warning over deadly bacteria found in local waters - KPLC 7 News",
-          "2026 Sam Shapiro Lecture: Why Health? With Sandro Galea, MD, DrPH - Johns Hopkins Bloomberg School of Public Health"
-        ]
+        "category": "Drug & Treatment News",
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "warning",
+        "trend": "diet wellness",
         "market_code": "QA",
-        "category": "Arab Health",
-        "score": 9,
-        "examples": [
-          "Calcasieu Parish Coroner issues public health warning over deadly bacteria found in local waters - KPLC 7 News",
-          "Calcasieu Parish Coroner issues public health warning over deadly bacteria found in local waters - KPLC 7 News",
-          "‘Real mummy’s curse’: health warning over growing trade in mummified human remains - The Guardian"
-        ]
-      },
-      {
-        "trend": "healthcare",
-        "market_code": "QA",
-        "category": "Arab Health",
-        "score": 9,
-        "examples": [
-          "DentaQuest breach exposes data of 15M people, a record this year - Healthcare Dive",
-          "The Foodism Show x Thailand Health & Wellness Expo 2026 Promoting Preventive Healthcare for a Sustainable Quality of Life - aap.com.au",
-          "The AI boom could boost Epic's position, health system execs say. Here's where AI startups can still win - Fierce Healthcare"
-        ]
-      },
-      {
-        "trend": "virus",
-        "market_code": "QA",
-        "category": "Outbreaks",
-        "score": 9,
-        "examples": [
-          "MADACC's cat kennels under quarantine as the shelter fights a highly contagious virus with no cure. - WISN",
-          "Pee Dee, South Carolina, reports West Nile virus outbreak - CIDRAP",
-          "MADACC's cat kennels under quarantine as the shelter fights a highly contagious virus with no cure. - WISN"
-        ]
-      },
-      {
-        "trend": "patients",
-        "market_code": "QA",
-        "category": "Arab Health",
-        "score": 8,
-        "examples": [
-          "Risk of Severe Arboviral Disease in Patients Receiving B Cell-Depleting or Modulating Medications - Centers for Disease Control and Prevention | CDC (.gov)",
-          "RELEASE: Gottheimer Hosts Alzheimer’s Disease Roundtable with Patients, Advocates, and Medical Professionals - House.gov",
-          "Risk of Severe Arboviral Disease in Patients Receiving B Cell-Depleting or Modulating Medications - Centers for Disease Control and Prevention | CDC (.gov)"
-        ]
+        "category": "Diet & Wellness",
+        "score": 1,
+        "examples": []
       }
     ],
     "Jordan": [
       {
-        "trend": "health",
+        "trend": "health alert",
         "market_code": "JO",
         "category": "Arab Health",
-        "score": 74,
-        "examples": [
-          "Governor Ron DeSantis Announces Nearly $188 Million to Expand Rural Health Care Access Across Florida - Office of Governor Ron DeSantis",
-          "PPB, PF&R Safely Rescue Juvenile in Mental Health Crisis - City of Portland, Oregon (.gov)",
-          "Prisma Health restores some systems after connectivity problems - WYFF"
-        ]
-      },
-      {
-        "trend": "medical",
-        "market_code": "JO",
-        "category": "Arab Health",
-        "score": 17,
-        "examples": [
-          "AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study. - blog.google",
-          "Demolition of Lindy Boggs Medical Center on track to begin this month - WDSU",
-          "Guard Medical Leaders Boost Readiness - nationalguard.mil"
-        ]
-      },
-      {
-        "trend": "disease",
-        "market_code": "JO",
-        "category": "Arab Health",
-        "score": 16,
-        "examples": [
-          "Risk of Severe Arboviral Disease in Patients Receiving B Cell-Depleting or Modulating Medications - Centers for Disease Control and Prevention | CDC (.gov)",
-          "Risk of Severe Arboviral Disease in Patients Receiving B Cell-Depleting or Modulating Medications - Centers for Disease Control and Prevention | CDC (.gov)",
-          "RELEASE: Gottheimer Hosts Alzheimer’s Disease Roundtable with Patients, Advocates, and Medical Professionals - House.gov"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
         "trend": "outbreak",
         "market_code": "JO",
         "category": "Outbreaks",
-        "score": 13,
-        "examples": [
-          "Salmonella outbreak linked to jalapeño prompts other food recalls - Detroit Free Press",
-          "5 Low-Risk Fruits and Vegetables As the Cyclospora Outbreak Grows — And Whether to Avoid Lettuce - TODAY.com",
-          "Farm linked to cyclosporiasis outbreak hadn't been inspected in 7 years as FDA lags on foreign inspection targets - CBS News"
-        ]
-      },
-      {
-        "trend": "mental",
-        "market_code": "JO",
-        "category": "Mental Health",
-        "score": 12,
-        "examples": [
-          "PPB, PF&R Safely Rescue Juvenile in Mental Health Crisis - City of Portland, Oregon (.gov)",
-          "Childhood screen detects mental health risks - National Institutes of Health (NIH) | (.gov)",
-          "PPB, PF&R Safely Rescue Juvenile in Mental Health Crisis - City of Portland, Oregon (.gov)"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
         "trend": "mental health",
         "market_code": "JO",
         "category": "Mental Health",
-        "score": 12,
-        "examples": [
-          "PPB, PF&R Safely Rescue Juvenile in Mental Health Crisis - City of Portland, Oregon (.gov)",
-          "Childhood screen detects mental health risks - National Institutes of Health (NIH) | (.gov)",
-          "PPB, PF&R Safely Rescue Juvenile in Mental Health Crisis - City of Portland, Oregon (.gov)"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "hospitals",
+        "trend": "medical research",
         "market_code": "JO",
         "category": "Arab Health",
-        "score": 9,
-        "examples": [
-          "NYC Health + Hospitals/Carter Appoints New Chief Nursing Officer - NYC Health + Hospitals",
-          "NYC Health + Hospitals/Carter Appoints New Chief Nursing Officer - NYC Health + Hospitals",
-          "All ECU Health hospitals receive Get With The Guidelines® awards for fourth consecutive year - ECU Health"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "public health",
+        "trend": "drug approval",
         "market_code": "JO",
-        "category": "Arab Health",
-        "score": 9,
-        "examples": [
-          "Schneider: Orange’s Proposed Smoking Ban Should Put Public Health First - Voice of OC",
-          "Calcasieu Parish Coroner issues public health warning over deadly bacteria found in local waters - KPLC 7 News",
-          "2026 Sam Shapiro Lecture: Why Health? With Sandro Galea, MD, DrPH - Johns Hopkins Bloomberg School of Public Health"
-        ]
+        "category": "Drug & Treatment News",
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "warning",
+        "trend": "diet wellness",
         "market_code": "JO",
-        "category": "Arab Health",
-        "score": 9,
-        "examples": [
-          "Calcasieu Parish Coroner issues public health warning over deadly bacteria found in local waters - KPLC 7 News",
-          "Calcasieu Parish Coroner issues public health warning over deadly bacteria found in local waters - KPLC 7 News",
-          "‘Real mummy’s curse’: health warning over growing trade in mummified human remains - The Guardian"
-        ]
-      },
-      {
-        "trend": "healthcare",
-        "market_code": "JO",
-        "category": "Arab Health",
-        "score": 9,
-        "examples": [
-          "DentaQuest breach exposes data of 15M people, a record this year - Healthcare Dive",
-          "The Foodism Show x Thailand Health & Wellness Expo 2026 Promoting Preventive Healthcare for a Sustainable Quality of Life - aap.com.au",
-          "The AI boom could boost Epic's position, health system execs say. Here's where AI startups can still win - Fierce Healthcare"
-        ]
-      },
-      {
-        "trend": "virus",
-        "market_code": "JO",
-        "category": "Outbreaks",
-        "score": 9,
-        "examples": [
-          "MADACC's cat kennels under quarantine as the shelter fights a highly contagious virus with no cure. - WISN",
-          "Pee Dee, South Carolina, reports West Nile virus outbreak - CIDRAP",
-          "MADACC's cat kennels under quarantine as the shelter fights a highly contagious virus with no cure. - WISN"
-        ]
-      },
-      {
-        "trend": "patients",
-        "market_code": "JO",
-        "category": "Arab Health",
-        "score": 8,
-        "examples": [
-          "Risk of Severe Arboviral Disease in Patients Receiving B Cell-Depleting or Modulating Medications - Centers for Disease Control and Prevention | CDC (.gov)",
-          "RELEASE: Gottheimer Hosts Alzheimer’s Disease Roundtable with Patients, Advocates, and Medical Professionals - House.gov",
-          "Risk of Severe Arboviral Disease in Patients Receiving B Cell-Depleting or Modulating Medications - Centers for Disease Control and Prevention | CDC (.gov)"
-        ]
+        "category": "Diet & Wellness",
+        "score": 1,
+        "examples": []
       }
     ],
     "Lebanon": [
       {
-        "trend": "health",
+        "trend": "health alert",
         "market_code": "LB",
         "category": "Arab Health",
-        "score": 74,
-        "examples": [
-          "Governor Ron DeSantis Announces Nearly $188 Million to Expand Rural Health Care Access Across Florida - Office of Governor Ron DeSantis",
-          "PPB, PF&R Safely Rescue Juvenile in Mental Health Crisis - City of Portland, Oregon (.gov)",
-          "Prisma Health restores some systems after connectivity problems - WYFF"
-        ]
-      },
-      {
-        "trend": "medical",
-        "market_code": "LB",
-        "category": "Arab Health",
-        "score": 17,
-        "examples": [
-          "AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study. - blog.google",
-          "Demolition of Lindy Boggs Medical Center on track to begin this month - WDSU",
-          "Guard Medical Leaders Boost Readiness - nationalguard.mil"
-        ]
-      },
-      {
-        "trend": "disease",
-        "market_code": "LB",
-        "category": "Arab Health",
-        "score": 16,
-        "examples": [
-          "Risk of Severe Arboviral Disease in Patients Receiving B Cell-Depleting or Modulating Medications - Centers for Disease Control and Prevention | CDC (.gov)",
-          "Risk of Severe Arboviral Disease in Patients Receiving B Cell-Depleting or Modulating Medications - Centers for Disease Control and Prevention | CDC (.gov)",
-          "RELEASE: Gottheimer Hosts Alzheimer’s Disease Roundtable with Patients, Advocates, and Medical Professionals - House.gov"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
         "trend": "outbreak",
         "market_code": "LB",
         "category": "Outbreaks",
-        "score": 13,
-        "examples": [
-          "Salmonella outbreak linked to jalapeño prompts other food recalls - Detroit Free Press",
-          "5 Low-Risk Fruits and Vegetables As the Cyclospora Outbreak Grows — And Whether to Avoid Lettuce - TODAY.com",
-          "Farm linked to cyclosporiasis outbreak hadn't been inspected in 7 years as FDA lags on foreign inspection targets - CBS News"
-        ]
-      },
-      {
-        "trend": "mental",
-        "market_code": "LB",
-        "category": "Mental Health",
-        "score": 12,
-        "examples": [
-          "PPB, PF&R Safely Rescue Juvenile in Mental Health Crisis - City of Portland, Oregon (.gov)",
-          "Childhood screen detects mental health risks - National Institutes of Health (NIH) | (.gov)",
-          "PPB, PF&R Safely Rescue Juvenile in Mental Health Crisis - City of Portland, Oregon (.gov)"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
         "trend": "mental health",
         "market_code": "LB",
         "category": "Mental Health",
-        "score": 12,
-        "examples": [
-          "PPB, PF&R Safely Rescue Juvenile in Mental Health Crisis - City of Portland, Oregon (.gov)",
-          "Childhood screen detects mental health risks - National Institutes of Health (NIH) | (.gov)",
-          "PPB, PF&R Safely Rescue Juvenile in Mental Health Crisis - City of Portland, Oregon (.gov)"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "hospitals",
+        "trend": "medical research",
         "market_code": "LB",
         "category": "Arab Health",
-        "score": 9,
-        "examples": [
-          "NYC Health + Hospitals/Carter Appoints New Chief Nursing Officer - NYC Health + Hospitals",
-          "NYC Health + Hospitals/Carter Appoints New Chief Nursing Officer - NYC Health + Hospitals",
-          "All ECU Health hospitals receive Get With The Guidelines® awards for fourth consecutive year - ECU Health"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "public health",
+        "trend": "drug approval",
         "market_code": "LB",
-        "category": "Arab Health",
-        "score": 9,
-        "examples": [
-          "Schneider: Orange’s Proposed Smoking Ban Should Put Public Health First - Voice of OC",
-          "Calcasieu Parish Coroner issues public health warning over deadly bacteria found in local waters - KPLC 7 News",
-          "2026 Sam Shapiro Lecture: Why Health? With Sandro Galea, MD, DrPH - Johns Hopkins Bloomberg School of Public Health"
-        ]
+        "category": "Drug & Treatment News",
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "warning",
+        "trend": "diet wellness",
         "market_code": "LB",
-        "category": "Arab Health",
-        "score": 9,
-        "examples": [
-          "Calcasieu Parish Coroner issues public health warning over deadly bacteria found in local waters - KPLC 7 News",
-          "Calcasieu Parish Coroner issues public health warning over deadly bacteria found in local waters - KPLC 7 News",
-          "‘Real mummy’s curse’: health warning over growing trade in mummified human remains - The Guardian"
-        ]
-      },
-      {
-        "trend": "healthcare",
-        "market_code": "LB",
-        "category": "Arab Health",
-        "score": 9,
-        "examples": [
-          "DentaQuest breach exposes data of 15M people, a record this year - Healthcare Dive",
-          "The Foodism Show x Thailand Health & Wellness Expo 2026 Promoting Preventive Healthcare for a Sustainable Quality of Life - aap.com.au",
-          "The AI boom could boost Epic's position, health system execs say. Here's where AI startups can still win - Fierce Healthcare"
-        ]
-      },
-      {
-        "trend": "virus",
-        "market_code": "LB",
-        "category": "Outbreaks",
-        "score": 9,
-        "examples": [
-          "MADACC's cat kennels under quarantine as the shelter fights a highly contagious virus with no cure. - WISN",
-          "Pee Dee, South Carolina, reports West Nile virus outbreak - CIDRAP",
-          "MADACC's cat kennels under quarantine as the shelter fights a highly contagious virus with no cure. - WISN"
-        ]
-      },
-      {
-        "trend": "patients",
-        "market_code": "LB",
-        "category": "Arab Health",
-        "score": 8,
-        "examples": [
-          "Risk of Severe Arboviral Disease in Patients Receiving B Cell-Depleting or Modulating Medications - Centers for Disease Control and Prevention | CDC (.gov)",
-          "RELEASE: Gottheimer Hosts Alzheimer’s Disease Roundtable with Patients, Advocates, and Medical Professionals - House.gov",
-          "Risk of Severe Arboviral Disease in Patients Receiving B Cell-Depleting or Modulating Medications - Centers for Disease Control and Prevention | CDC (.gov)"
-        ]
+        "category": "Diet & Wellness",
+        "score": 1,
+        "examples": []
       }
     ]
   }
