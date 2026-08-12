@@ -1,0 +1,64 @@
+---
+title: "DR Congo Ebola outbreak set to become deadliest on record, WHO warns"
+description: "DR Congo Ebola outbreak set to become deadliest on record, WHO warns Al Jazeera"
+slug: "dr-congo-ebola-outbreak-set-to-become-deadliest-on-record-who-warns-ecbee20e06"
+category: "Outbreaks"
+region: "United States"
+source: "Google News / United States"
+source_url: "https://news.google.com/rss/articles/CBMirAFBVV95cUxNcHg0cHJ2eFRkYlUwM09qbG9GVndtQjVPbTUzNWliUmdJUzdCbWZFRUlaNGZRSjg1akNXYzhYOXlnUlFidHNtOTlwQ2tyeTB0d2VndV9lQ1dxRzJLZWdmdndaTTBIeWxGVTRiSE9OSEYzdzYwTkVaY0hGZm0zdVFoNENfWEN6blU2TGZCU1Z2ZFRucHhmRW00VFZtTmwwd2FKUjh5S3VVa0tFcC1j0gGyAUFVX3lxTE9VZmNka3pfYUxIeU9DUHZUMV9lNlVIdWtmVHBMZGVtOEliaUVkQzIzUzRVTnpkSWxVVUhaRkc3U1ptTGFiQk1CckgwV2tOb2RMUjNYRklobGJPeFd2OExkU190MG1iWjNTeWhiSW5jdFYxTTVQMnVRQ2VKU2tXVVppS1hDTEQ3cjd4UEdLbDBNWHNUVUpmNGI2SmIxTWpSUEhlQnJfQ0dkQlZWN2hDemhyOVE?oc=5"
+source_confidence: "medium"
+published_at: "Wed, 12 Aug 2026 18:26:53 GMT"
+generated_at: "2026-08-12T18:44:17.905120+00:00"
+image_url: "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+trend: "outbreak"
+keywords:
+  - "outbreak"
+  - "outbreaks"
+  - "united states health news"
+  - "health trends"
+  - "medical news"
+  - "public health"
+  - "congo"
+  - "ebola"
+  - "become"
+  - "deadliest"
+  - "record"
+  - "warns"
+  - "jazeera"
+---
+
+# DR Congo Ebola outbreak set to become deadliest on record, WHO warns
+
+DR Congo Ebola outbreak set to become deadliest on record, WHO warns Al Jazeera
+
+## Why this topic is trending
+
+This update was selected because it is connected to a detected health trend in **United States**.
+
+Tracked trend: **outbreak**.
+
+## What happened
+
+This update is part of a wider health signal being monitored from public sources and regional news feeds. It may relate to public health, medical research, symptoms, outbreaks, treatments, wellness, healthcare systems, or health technology.
+
+## Why it matters
+
+- It may affect public awareness or online health searches.
+- It may be connected to health policy, disease monitoring, treatment updates, or scientific research.
+- The original source should be reviewed for full details and context.
+
+## Region
+
+**United States**
+
+## Category
+
+**Outbreaks**
+
+## Source context
+
+This article summarizes a public health signal from **Google News / United States**. HantaUpdates links to the original source so readers can verify details directly.
+
+## Medical disclaimer
+
+HantaUpdates does not provide medical advice, diagnosis, or treatment. Always follow guidance from your local health authority or a qualified medical professional.
