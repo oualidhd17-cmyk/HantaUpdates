@@ -1,929 +1,2819 @@
 {
-  "updated_at": "2026-08-12T07:46:11.645838+00:00",
-  "total_trends": 126,
+  "updated_at": "2026-08-12T12:38:30.987279+00:00",
+  "total_trends": 252,
   "markets": {
     "United States": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "US",
         "category": "US Health",
-        "score": 1,
-        "examples": []
+        "score": 80,
+        "examples": [
+          "Opinion | I Was Dick Cheney’s Cardiologist. I Have Questions About Trump’s Health. - nytimes.com",
+          "Nuclear power push ramps up uranium mill — and tribal health concerns - npr.org",
+          "How to design a space habitat that supports its residents’ mental health - MIT News"
+        ]
+      },
+      {
+        "trend": "medical",
+        "market_code": "US",
+        "category": "US Health",
+        "score": 17,
+        "examples": [
+          "Landstuhl Regional Medical Center Team Prepares Joint US Military Medical Personnel for Global Health Engagements - DVIDS",
+          "Landstuhl Regional Medical Center Team Prepares Joint US Military Medical Personnel for Global Health Engagements - DVIDS",
+          "Weighing Surgical Versus Medical Management in Endometriosis - Contemporary OB/GYN"
+        ]
       },
       {
         "trend": "outbreak",
         "market_code": "US",
         "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "score": 12,
+        "examples": [
+          "Ebola disease outbreak in the Democratic Republic of the Congo and Uganda - European Centre for Disease Prevention and Control (ECDC)",
+          "DW News. . Health authorities in the Democratic Republic of Congo say Ebola has killed more than 2,000 people. Officials are racing to contain the outbreak, which is the fastest-spreading on record. #dwnews - facebook.com",
+          "Ebola disease outbreak in the Democratic Republic of the Congo and Uganda - European Centre for Disease Prevention and Control (ECDC)"
+        ]
+      },
+      {
+        "trend": "healthcare",
+        "market_code": "US",
+        "category": "US Health",
+        "score": 12,
+        "examples": [
+          "Jupiter Medical Center Recognized Among Becker’s 100 Great Community Hospitals - Florida Hospital News and Healthcare Report",
+          "DentaQuest breach exposes data of 15M people, a record this year - Healthcare Dive",
+          "The Foodism Show x Thailand Health & Wellness Expo 2026 promoting preventive healthcare for a sustainable quality of life - Asia Food Journal"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "US",
+        "category": "Mental Health",
+        "score": 11,
+        "examples": [
+          "How to design a space habitat that supports its residents’ mental health - MIT News",
+          "Study finds lasting mental health impacts on Lexington’s laid-off Tyson Foods workers - Nebraska Public Media",
+          "Study finds lasting mental health impacts on Lexington’s laid-off Tyson Foods workers - Nebraska Public Media"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "US",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
+        "score": 11,
+        "examples": [
+          "How to design a space habitat that supports its residents’ mental health - MIT News",
+          "Study finds lasting mental health impacts on Lexington’s laid-off Tyson Foods workers - Nebraska Public Media",
+          "Study finds lasting mental health impacts on Lexington’s laid-off Tyson Foods workers - Nebraska Public Media"
+        ]
       },
       {
-        "trend": "medical research",
+        "trend": "disease",
         "market_code": "US",
         "category": "US Health",
-        "score": 1,
-        "examples": []
+        "score": 11,
+        "examples": [
+          "Ebola disease outbreak in the Democratic Republic of the Congo and Uganda - European Centre for Disease Prevention and Control (ECDC)",
+          "Ebola disease outbreak in the Democratic Republic of the Congo and Uganda - European Centre for Disease Prevention and Control (ECDC)",
+          "Risk of Severe Arboviral Disease in Patients Receiving B Cell-Depleting or Modulating Medications - Centers for Disease Control and Prevention | CDC (.gov)"
+        ]
       },
       {
-        "trend": "drug approval",
+        "trend": "hospitals",
         "market_code": "US",
-        "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
+        "category": "US Health",
+        "score": 10,
+        "examples": [
+          "Jupiter Medical Center Recognized Among Becker’s 100 Great Community Hospitals - Florida Hospital News and Healthcare Report",
+          "All ECU Health hospitals receive Get With The Guidelines® awards for fourth consecutive year - ECU Health",
+          "U.S. News & World Report “Best Hospitals 2026-2027” List Includes All NYC Health + Hospitals’ Acute Care Facilities - NYC Health + Hospitals"
+        ]
       },
       {
-        "trend": "diet wellness",
+        "trend": "public health",
         "market_code": "US",
-        "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "category": "US Health",
+        "score": 8,
+        "examples": [
+          "Community members demand Colorado issue public health order for ICE tuberculosis case - KUNC",
+          "Concord University adds Master of Public Health to graduate lineup - The Real WV",
+          "Why Trump’s MMR vaccine order is the latest public health disaster, with effects set to last years - The Conversation"
+        ]
+      },
+      {
+        "trend": "warning",
+        "market_code": "US",
+        "category": "US Health",
+        "score": 8,
+        "examples": [
+          "Calcasieu Parish Coroner issues public health warning over deadly bacteria found in local waters - KPLC 7 News",
+          "‘Real mummy’s curse’: health warning over growing trade in mummified human remains - theguardian.com",
+          "Off-the-charts dust spike triggers hazardous air quality warning in Westmorland - Imperial Valley Press Online"
+        ]
+      },
+      {
+        "trend": "virus",
+        "market_code": "US",
+        "category": "Outbreaks",
+        "score": 8,
+        "examples": [
+          "West Nile Virus Alert - City and County of Denver - City and County of Denver",
+          "Dallas County confirms first human case of West Nile virus of 2026 season - KERA News",
+          "Outdoor activities suspended because of West Nile virus - FOX 5 Atlanta"
+        ]
+      },
+      {
+        "trend": "medicine",
+        "market_code": "US",
+        "category": "US Health",
+        "score": 7,
+        "examples": [
+          "New division chiefs appointed in internal medicine - University of Nebraska Medical Center",
+          "Clinical: Expanded Access Takes SNIPR001 Beyond the Gut - CRISPR Medicine News",
+          "Vaccines for Adults 65 and Older: What You Need to Know to Stay Healthy - Stony Brook Medicine"
+        ]
       }
     ],
     "United Kingdom": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "GB",
         "category": "Europe Health",
-        "score": 1,
-        "examples": []
+        "score": 61,
+        "examples": [
+          "International discussion on climate change, ageing and health - GOV.UK",
+          "Tower Hamlets health visitors ballot for strike action for NHS parity - Unite the Union",
+          "Longevity as the new health paradigm: The control system - pharmaphorum"
+        ]
+      },
+      {
+        "trend": "healthcare",
+        "market_code": "GB",
+        "category": "Europe Health",
+        "score": 17,
+        "examples": [
+          "KENYA: International Youth Day - What do beauty skills and youth agency have to do with healthcare? - prezly.msf.org.uk",
+          "Healthcare’s digital productivity lever hiding in plain sight - Home | Digital Health",
+          "KENYA: International Youth Day - What do beauty skills and youth agency have to do with healthcare? - prezly.msf.org.uk"
+        ]
+      },
+      {
+        "trend": "medical",
+        "market_code": "GB",
+        "category": "Europe Health",
+        "score": 13,
+        "examples": [
+          "Chelsea confirm transfer as medical booked for ninth summer signing - London Evening Standard",
+          "Trust part of new £20 million medical research hub - Cambridge University Hospitals",
+          "Lucas Gourna-Douath undergoing Hull City medical ahead of transfer from Red Bull Salzburg - The New York Times"
+        ]
       },
       {
         "trend": "outbreak",
         "market_code": "GB",
         "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "score": 11,
+        "examples": [
+          "Ebola disease outbreak in the Democratic Republic of the Congo and Uganda - European Centre for Disease Prevention and Control (ECDC)",
+          "Ebola disease outbreak in the Democratic Republic of the Congo and Uganda - ecdc.europa.eu",
+          "Can Taylor Farms survive explosive diarrhea and salmonella outbreak? - The Independent"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "GB",
+        "category": "Mental Health",
+        "score": 11,
+        "examples": [
+          "Prioritise routine screening and regular monitoring of elite athletes’ mental health, says IOC - BMJ Group",
+          "54% of young adults ‘say finances have recently affected mental health’ - London Evening Standard",
+          "New NHS mental health support announced for Nottinghamshire - West Bridgford Wire"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "GB",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
+        "score": 11,
+        "examples": [
+          "Prioritise routine screening and regular monitoring of elite athletes’ mental health, says IOC - BMJ Group",
+          "54% of young adults ‘say finances have recently affected mental health’ - London Evening Standard",
+          "New NHS mental health support announced for Nottinghamshire - West Bridgford Wire"
+        ]
       },
       {
-        "trend": "medical research",
-        "market_code": "GB",
-        "category": "Europe Health",
-        "score": 1,
-        "examples": []
-      },
-      {
-        "trend": "drug approval",
+        "trend": "vaccine",
         "market_code": "GB",
         "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
+        "score": 8,
+        "examples": [
+          "Why Trump’s MMR vaccine order is the latest public health disaster, with effects set to last years - The Conversation",
+          "Ebola deaths top 2,000 as scientists race to develop vaccine - UN News",
+          "Race to find Ebola vaccine as DR Congo outbreak kills more than 2,000 - RFI"
+        ]
       },
       {
-        "trend": "diet wellness",
+        "trend": "drug",
         "market_code": "GB",
-        "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "category": "Drug & Treatment News",
+        "score": 7,
+        "examples": [
+          "FDA Advisory No.2026-0866 || Public Health Warning Against the Purchase and Use of the Unauthorized Cosmetic Product “KEVIN & COCO MOUSSE BLUSH & BLUSHER (01 CHARM RUBY, 02 HONEY CORAL, 03 MILK PEARL)” - Food and Drug Administr - fda.gov.ph",
+          "FDA approves first-in-class drug to treat narcolepsy - Drug Discovery News",
+          "FDA approves first-in-class drug to treat narcolepsy - Drug Discovery News"
+        ]
+      },
+      {
+        "trend": "infection",
+        "market_code": "GB",
+        "category": "Outbreaks",
+        "score": 7,
+        "examples": [
+          "SNIPR phage therapy clears MDR infection in first patient - pharmaphorum",
+          "Candida Auris Outbreaks: Escalating Resistance and Infection Control - EMJ",
+          "Health Officials Launch Investigation After Bacterial Infection Detected In Limerick Neonatal Unit - distilledpost.com"
+        ]
+      },
+      {
+        "trend": "disease",
+        "market_code": "GB",
+        "category": "Europe Health",
+        "score": 6,
+        "examples": [
+          "Ebola disease outbreak in the Democratic Republic of the Congo and Uganda - European Centre for Disease Prevention and Control (ECDC)",
+          "Ebola disease outbreak in the Democratic Republic of the Congo and Uganda - European Centre for Disease Prevention and Control (ECDC)",
+          "Ebola disease outbreak in the Democratic Republic of the Congo and Uganda - ecdc.europa.eu"
+        ]
+      },
+      {
+        "trend": "warning",
+        "market_code": "GB",
+        "category": "Europe Health",
+        "score": 6,
+        "examples": [
+          "‘Real mummy’s curse’: health warning over growing trade in mummified human remains - The Guardian",
+          "Health officials issue heatwave warning in 'important' NHS message - Manchester Evening News",
+          "Danger warning as amber heat alert issued in county - The Hereford Times"
+        ]
+      },
+      {
+        "trend": "virus",
+        "market_code": "GB",
+        "category": "Outbreaks",
+        "score": 6,
+        "examples": [
+          "Farming family confirm first case of bluetongue virus detected in single lamb - BBC",
+          "Potentially deadly bluetongue livestock virus found in Scotland for first time - BBC",
+          "Scotland hit by potentially deadly livestock virus for the first time - The Scotsman"
+        ]
       }
     ],
     "Germany": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "DE",
         "category": "Europe Health",
-        "score": 1,
-        "examples": []
+        "score": 79,
+        "examples": [
+          "Opinion | I Was Dick Cheney’s Cardiologist. I Have Questions About Trump’s Health. - nytimes.com",
+          "Nuclear power push ramps up uranium mill — and tribal health concerns - npr.org",
+          "How to design a space habitat that supports its residents’ mental health - MIT News"
+        ]
+      },
+      {
+        "trend": "medical",
+        "market_code": "DE",
+        "category": "Europe Health",
+        "score": 19,
+        "examples": [
+          "Landstuhl Regional Medical Center Team Prepares Joint US Military Medical Personnel for Global Health Engagements - DVIDS",
+          "Landstuhl Regional Medical Center Team Prepares Joint US Military Medical Personnel for Global Health Engagements - DVIDS",
+          "Landstuhl Regional Medical Center Team Prepares Joint US Military Medical Personnel for Global Health Engagements - DVIDS"
+        ]
       },
       {
         "trend": "outbreak",
         "market_code": "DE",
         "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "score": 12,
+        "examples": [
+          "Ebola disease outbreak in the Democratic Republic of the Congo and Uganda - European Centre for Disease Prevention and Control (ECDC)",
+          "DW News. . Health authorities in the Democratic Republic of Congo say Ebola has killed more than 2,000 people. Officials are racing to contain the outbreak, which is the fastest-spreading on record. #dwnews - facebook.com",
+          "Ebola disease outbreak in the Democratic Republic of the Congo and Uganda - European Centre for Disease Prevention and Control (ECDC)"
+        ]
+      },
+      {
+        "trend": "healthcare",
+        "market_code": "DE",
+        "category": "Europe Health",
+        "score": 12,
+        "examples": [
+          "Jupiter Medical Center Recognized Among Becker’s 100 Great Community Hospitals - Florida Hospital News and Healthcare Report",
+          "DentaQuest breach exposes data of 15M people, a record this year - Healthcare Dive",
+          "The Foodism Show x Thailand Health & Wellness Expo 2026 promoting preventive healthcare for a sustainable quality of life - Asia Food Journal"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "DE",
+        "category": "Mental Health",
+        "score": 11,
+        "examples": [
+          "How to design a space habitat that supports its residents’ mental health - MIT News",
+          "Study finds lasting mental health impacts on Lexington’s laid-off Tyson Foods workers - Nebraska Public Media",
+          "Study finds lasting mental health impacts on Lexington’s laid-off Tyson Foods workers - Nebraska Public Media"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "DE",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
+        "score": 11,
+        "examples": [
+          "How to design a space habitat that supports its residents’ mental health - MIT News",
+          "Study finds lasting mental health impacts on Lexington’s laid-off Tyson Foods workers - Nebraska Public Media",
+          "Study finds lasting mental health impacts on Lexington’s laid-off Tyson Foods workers - Nebraska Public Media"
+        ]
       },
       {
-        "trend": "medical research",
+        "trend": "disease",
         "market_code": "DE",
         "category": "Europe Health",
-        "score": 1,
-        "examples": []
+        "score": 11,
+        "examples": [
+          "Ebola disease outbreak in the Democratic Republic of the Congo and Uganda - European Centre for Disease Prevention and Control (ECDC)",
+          "Ebola disease outbreak in the Democratic Republic of the Congo and Uganda - European Centre for Disease Prevention and Control (ECDC)",
+          "Risk of Severe Arboviral Disease in Patients Receiving B Cell-Depleting or Modulating Medications - Centers for Disease Control and Prevention | CDC (.gov)"
+        ]
       },
       {
-        "trend": "drug approval",
+        "trend": "virus",
         "market_code": "DE",
-        "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "West Nile Virus Alert - City and County of Denver - City and County of Denver",
+          "Dallas County confirms first human case of West Nile virus of 2026 season - KERA News",
+          "Outdoor activities suspended because of West Nile virus - FOX 5 Atlanta"
+        ]
       },
       {
-        "trend": "diet wellness",
+        "trend": "hospitals",
         "market_code": "DE",
-        "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "category": "Europe Health",
+        "score": 8,
+        "examples": [
+          "Jupiter Medical Center Recognized Among Becker’s 100 Great Community Hospitals - Florida Hospital News and Healthcare Report",
+          "All ECU Health hospitals receive Get With The Guidelines® awards for fourth consecutive year - ECU Health",
+          "U.S. News & World Report “Best Hospitals 2026-2027” List Includes All NYC Health + Hospitals’ Acute Care Facilities - NYC Health + Hospitals"
+        ]
+      },
+      {
+        "trend": "public health",
+        "market_code": "DE",
+        "category": "Europe Health",
+        "score": 8,
+        "examples": [
+          "Community members demand Colorado issue public health order for ICE tuberculosis case - KUNC",
+          "Concord University adds Master of Public Health to graduate lineup - The Real WV",
+          "Why Trump’s MMR vaccine order is the latest public health disaster, with effects set to last years - The Conversation"
+        ]
+      },
+      {
+        "trend": "warning",
+        "market_code": "DE",
+        "category": "Europe Health",
+        "score": 8,
+        "examples": [
+          "Calcasieu Parish Coroner issues public health warning over deadly bacteria found in local waters - KPLC 7 News",
+          "‘Real mummy’s curse’: health warning over growing trade in mummified human remains - theguardian.com",
+          "Off-the-charts dust spike triggers hazardous air quality warning in Westmorland - Imperial Valley Press Online"
+        ]
+      },
+      {
+        "trend": "medicine",
+        "market_code": "DE",
+        "category": "Europe Health",
+        "score": 7,
+        "examples": [
+          "New division chiefs appointed in internal medicine - University of Nebraska Medical Center",
+          "Clinical: Expanded Access Takes SNIPR001 Beyond the Gut - CRISPR Medicine News",
+          "Vaccines for Adults 65 and Older: What You Need to Know to Stay Healthy - Stony Brook Medicine"
+        ]
       }
     ],
     "France": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "FR",
         "category": "Europe Health",
-        "score": 1,
-        "examples": []
+        "score": 79,
+        "examples": [
+          "Opinion | I Was Dick Cheney’s Cardiologist. I Have Questions About Trump’s Health. - nytimes.com",
+          "Nuclear power push ramps up uranium mill — and tribal health concerns - npr.org",
+          "How to design a space habitat that supports its residents’ mental health - MIT News"
+        ]
+      },
+      {
+        "trend": "medical",
+        "market_code": "FR",
+        "category": "Europe Health",
+        "score": 19,
+        "examples": [
+          "Landstuhl Regional Medical Center Team Prepares Joint US Military Medical Personnel for Global Health Engagements - DVIDS",
+          "Landstuhl Regional Medical Center Team Prepares Joint US Military Medical Personnel for Global Health Engagements - DVIDS",
+          "Landstuhl Regional Medical Center Team Prepares Joint US Military Medical Personnel for Global Health Engagements - DVIDS"
+        ]
       },
       {
         "trend": "outbreak",
         "market_code": "FR",
         "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "score": 12,
+        "examples": [
+          "Ebola disease outbreak in the Democratic Republic of the Congo and Uganda - European Centre for Disease Prevention and Control (ECDC)",
+          "DW News. . Health authorities in the Democratic Republic of Congo say Ebola has killed more than 2,000 people. Officials are racing to contain the outbreak, which is the fastest-spreading on record. #dwnews - facebook.com",
+          "Ebola disease outbreak in the Democratic Republic of the Congo and Uganda - European Centre for Disease Prevention and Control (ECDC)"
+        ]
+      },
+      {
+        "trend": "healthcare",
+        "market_code": "FR",
+        "category": "Europe Health",
+        "score": 12,
+        "examples": [
+          "Jupiter Medical Center Recognized Among Becker’s 100 Great Community Hospitals - Florida Hospital News and Healthcare Report",
+          "DentaQuest breach exposes data of 15M people, a record this year - Healthcare Dive",
+          "The Foodism Show x Thailand Health & Wellness Expo 2026 promoting preventive healthcare for a sustainable quality of life - Asia Food Journal"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "FR",
+        "category": "Mental Health",
+        "score": 11,
+        "examples": [
+          "How to design a space habitat that supports its residents’ mental health - MIT News",
+          "Study finds lasting mental health impacts on Lexington’s laid-off Tyson Foods workers - Nebraska Public Media",
+          "Study finds lasting mental health impacts on Lexington’s laid-off Tyson Foods workers - Nebraska Public Media"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "FR",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
+        "score": 11,
+        "examples": [
+          "How to design a space habitat that supports its residents’ mental health - MIT News",
+          "Study finds lasting mental health impacts on Lexington’s laid-off Tyson Foods workers - Nebraska Public Media",
+          "Study finds lasting mental health impacts on Lexington’s laid-off Tyson Foods workers - Nebraska Public Media"
+        ]
       },
       {
-        "trend": "medical research",
+        "trend": "disease",
         "market_code": "FR",
         "category": "Europe Health",
-        "score": 1,
-        "examples": []
+        "score": 11,
+        "examples": [
+          "Ebola disease outbreak in the Democratic Republic of the Congo and Uganda - European Centre for Disease Prevention and Control (ECDC)",
+          "Ebola disease outbreak in the Democratic Republic of the Congo and Uganda - European Centre for Disease Prevention and Control (ECDC)",
+          "Risk of Severe Arboviral Disease in Patients Receiving B Cell-Depleting or Modulating Medications - Centers for Disease Control and Prevention | CDC (.gov)"
+        ]
       },
       {
-        "trend": "drug approval",
+        "trend": "virus",
         "market_code": "FR",
-        "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "West Nile Virus Alert - City and County of Denver - City and County of Denver",
+          "Dallas County confirms first human case of West Nile virus of 2026 season - KERA News",
+          "Outdoor activities suspended because of West Nile virus - FOX 5 Atlanta"
+        ]
       },
       {
-        "trend": "diet wellness",
+        "trend": "hospitals",
         "market_code": "FR",
-        "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "category": "Europe Health",
+        "score": 8,
+        "examples": [
+          "Jupiter Medical Center Recognized Among Becker’s 100 Great Community Hospitals - Florida Hospital News and Healthcare Report",
+          "All ECU Health hospitals receive Get With The Guidelines® awards for fourth consecutive year - ECU Health",
+          "U.S. News & World Report “Best Hospitals 2026-2027” List Includes All NYC Health + Hospitals’ Acute Care Facilities - NYC Health + Hospitals"
+        ]
+      },
+      {
+        "trend": "public health",
+        "market_code": "FR",
+        "category": "Europe Health",
+        "score": 8,
+        "examples": [
+          "Community members demand Colorado issue public health order for ICE tuberculosis case - KUNC",
+          "Concord University adds Master of Public Health to graduate lineup - The Real WV",
+          "Why Trump’s MMR vaccine order is the latest public health disaster, with effects set to last years - The Conversation"
+        ]
+      },
+      {
+        "trend": "warning",
+        "market_code": "FR",
+        "category": "Europe Health",
+        "score": 8,
+        "examples": [
+          "Calcasieu Parish Coroner issues public health warning over deadly bacteria found in local waters - KPLC 7 News",
+          "‘Real mummy’s curse’: health warning over growing trade in mummified human remains - theguardian.com",
+          "Off-the-charts dust spike triggers hazardous air quality warning in Westmorland - Imperial Valley Press Online"
+        ]
+      },
+      {
+        "trend": "medicine",
+        "market_code": "FR",
+        "category": "Europe Health",
+        "score": 7,
+        "examples": [
+          "New division chiefs appointed in internal medicine - University of Nebraska Medical Center",
+          "Clinical: Expanded Access Takes SNIPR001 Beyond the Gut - CRISPR Medicine News",
+          "Vaccines for Adults 65 and Older: What You Need to Know to Stay Healthy - Stony Brook Medicine"
+        ]
       }
     ],
     "Italy": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "IT",
         "category": "Europe Health",
-        "score": 1,
-        "examples": []
+        "score": 79,
+        "examples": [
+          "Opinion | I Was Dick Cheney’s Cardiologist. I Have Questions About Trump’s Health. - nytimes.com",
+          "Nuclear power push ramps up uranium mill — and tribal health concerns - npr.org",
+          "How to design a space habitat that supports its residents’ mental health - MIT News"
+        ]
+      },
+      {
+        "trend": "medical",
+        "market_code": "IT",
+        "category": "Europe Health",
+        "score": 19,
+        "examples": [
+          "Landstuhl Regional Medical Center Team Prepares Joint US Military Medical Personnel for Global Health Engagements - DVIDS",
+          "Landstuhl Regional Medical Center Team Prepares Joint US Military Medical Personnel for Global Health Engagements - DVIDS",
+          "Landstuhl Regional Medical Center Team Prepares Joint US Military Medical Personnel for Global Health Engagements - DVIDS"
+        ]
       },
       {
         "trend": "outbreak",
         "market_code": "IT",
         "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "score": 12,
+        "examples": [
+          "Ebola disease outbreak in the Democratic Republic of the Congo and Uganda - European Centre for Disease Prevention and Control (ECDC)",
+          "DW News. . Health authorities in the Democratic Republic of Congo say Ebola has killed more than 2,000 people. Officials are racing to contain the outbreak, which is the fastest-spreading on record. #dwnews - facebook.com",
+          "Ebola disease outbreak in the Democratic Republic of the Congo and Uganda - European Centre for Disease Prevention and Control (ECDC)"
+        ]
+      },
+      {
+        "trend": "healthcare",
+        "market_code": "IT",
+        "category": "Europe Health",
+        "score": 12,
+        "examples": [
+          "Jupiter Medical Center Recognized Among Becker’s 100 Great Community Hospitals - Florida Hospital News and Healthcare Report",
+          "DentaQuest breach exposes data of 15M people, a record this year - Healthcare Dive",
+          "The Foodism Show x Thailand Health & Wellness Expo 2026 promoting preventive healthcare for a sustainable quality of life - Asia Food Journal"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "IT",
+        "category": "Mental Health",
+        "score": 11,
+        "examples": [
+          "How to design a space habitat that supports its residents’ mental health - MIT News",
+          "Study finds lasting mental health impacts on Lexington’s laid-off Tyson Foods workers - Nebraska Public Media",
+          "Study finds lasting mental health impacts on Lexington’s laid-off Tyson Foods workers - Nebraska Public Media"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "IT",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
+        "score": 11,
+        "examples": [
+          "How to design a space habitat that supports its residents’ mental health - MIT News",
+          "Study finds lasting mental health impacts on Lexington’s laid-off Tyson Foods workers - Nebraska Public Media",
+          "Study finds lasting mental health impacts on Lexington’s laid-off Tyson Foods workers - Nebraska Public Media"
+        ]
       },
       {
-        "trend": "medical research",
+        "trend": "disease",
         "market_code": "IT",
         "category": "Europe Health",
-        "score": 1,
-        "examples": []
+        "score": 11,
+        "examples": [
+          "Ebola disease outbreak in the Democratic Republic of the Congo and Uganda - European Centre for Disease Prevention and Control (ECDC)",
+          "Ebola disease outbreak in the Democratic Republic of the Congo and Uganda - European Centre for Disease Prevention and Control (ECDC)",
+          "Risk of Severe Arboviral Disease in Patients Receiving B Cell-Depleting or Modulating Medications - Centers for Disease Control and Prevention | CDC (.gov)"
+        ]
       },
       {
-        "trend": "drug approval",
+        "trend": "virus",
         "market_code": "IT",
-        "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "West Nile Virus Alert - City and County of Denver - City and County of Denver",
+          "Dallas County confirms first human case of West Nile virus of 2026 season - KERA News",
+          "Outdoor activities suspended because of West Nile virus - FOX 5 Atlanta"
+        ]
       },
       {
-        "trend": "diet wellness",
+        "trend": "hospitals",
         "market_code": "IT",
-        "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "category": "Europe Health",
+        "score": 8,
+        "examples": [
+          "Jupiter Medical Center Recognized Among Becker’s 100 Great Community Hospitals - Florida Hospital News and Healthcare Report",
+          "All ECU Health hospitals receive Get With The Guidelines® awards for fourth consecutive year - ECU Health",
+          "U.S. News & World Report “Best Hospitals 2026-2027” List Includes All NYC Health + Hospitals’ Acute Care Facilities - NYC Health + Hospitals"
+        ]
+      },
+      {
+        "trend": "public health",
+        "market_code": "IT",
+        "category": "Europe Health",
+        "score": 8,
+        "examples": [
+          "Community members demand Colorado issue public health order for ICE tuberculosis case - KUNC",
+          "Concord University adds Master of Public Health to graduate lineup - The Real WV",
+          "Why Trump’s MMR vaccine order is the latest public health disaster, with effects set to last years - The Conversation"
+        ]
+      },
+      {
+        "trend": "warning",
+        "market_code": "IT",
+        "category": "Europe Health",
+        "score": 8,
+        "examples": [
+          "Calcasieu Parish Coroner issues public health warning over deadly bacteria found in local waters - KPLC 7 News",
+          "‘Real mummy’s curse’: health warning over growing trade in mummified human remains - theguardian.com",
+          "Off-the-charts dust spike triggers hazardous air quality warning in Westmorland - Imperial Valley Press Online"
+        ]
+      },
+      {
+        "trend": "medicine",
+        "market_code": "IT",
+        "category": "Europe Health",
+        "score": 7,
+        "examples": [
+          "New division chiefs appointed in internal medicine - University of Nebraska Medical Center",
+          "Clinical: Expanded Access Takes SNIPR001 Beyond the Gut - CRISPR Medicine News",
+          "Vaccines for Adults 65 and Older: What You Need to Know to Stay Healthy - Stony Brook Medicine"
+        ]
       }
     ],
     "Spain": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "ES",
         "category": "Europe Health",
-        "score": 1,
-        "examples": []
+        "score": 79,
+        "examples": [
+          "Opinion | I Was Dick Cheney’s Cardiologist. I Have Questions About Trump’s Health. - nytimes.com",
+          "Nuclear power push ramps up uranium mill — and tribal health concerns - npr.org",
+          "How to design a space habitat that supports its residents’ mental health - MIT News"
+        ]
+      },
+      {
+        "trend": "medical",
+        "market_code": "ES",
+        "category": "Europe Health",
+        "score": 19,
+        "examples": [
+          "Landstuhl Regional Medical Center Team Prepares Joint US Military Medical Personnel for Global Health Engagements - DVIDS",
+          "Landstuhl Regional Medical Center Team Prepares Joint US Military Medical Personnel for Global Health Engagements - DVIDS",
+          "Landstuhl Regional Medical Center Team Prepares Joint US Military Medical Personnel for Global Health Engagements - DVIDS"
+        ]
       },
       {
         "trend": "outbreak",
         "market_code": "ES",
         "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "score": 12,
+        "examples": [
+          "Ebola disease outbreak in the Democratic Republic of the Congo and Uganda - European Centre for Disease Prevention and Control (ECDC)",
+          "DW News. . Health authorities in the Democratic Republic of Congo say Ebola has killed more than 2,000 people. Officials are racing to contain the outbreak, which is the fastest-spreading on record. #dwnews - facebook.com",
+          "Ebola disease outbreak in the Democratic Republic of the Congo and Uganda - European Centre for Disease Prevention and Control (ECDC)"
+        ]
+      },
+      {
+        "trend": "healthcare",
+        "market_code": "ES",
+        "category": "Europe Health",
+        "score": 12,
+        "examples": [
+          "Jupiter Medical Center Recognized Among Becker’s 100 Great Community Hospitals - Florida Hospital News and Healthcare Report",
+          "DentaQuest breach exposes data of 15M people, a record this year - Healthcare Dive",
+          "The Foodism Show x Thailand Health & Wellness Expo 2026 promoting preventive healthcare for a sustainable quality of life - Asia Food Journal"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "ES",
+        "category": "Mental Health",
+        "score": 11,
+        "examples": [
+          "How to design a space habitat that supports its residents’ mental health - MIT News",
+          "Study finds lasting mental health impacts on Lexington’s laid-off Tyson Foods workers - Nebraska Public Media",
+          "Study finds lasting mental health impacts on Lexington’s laid-off Tyson Foods workers - Nebraska Public Media"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "ES",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
+        "score": 11,
+        "examples": [
+          "How to design a space habitat that supports its residents’ mental health - MIT News",
+          "Study finds lasting mental health impacts on Lexington’s laid-off Tyson Foods workers - Nebraska Public Media",
+          "Study finds lasting mental health impacts on Lexington’s laid-off Tyson Foods workers - Nebraska Public Media"
+        ]
       },
       {
-        "trend": "medical research",
+        "trend": "disease",
         "market_code": "ES",
         "category": "Europe Health",
-        "score": 1,
-        "examples": []
+        "score": 11,
+        "examples": [
+          "Ebola disease outbreak in the Democratic Republic of the Congo and Uganda - European Centre for Disease Prevention and Control (ECDC)",
+          "Ebola disease outbreak in the Democratic Republic of the Congo and Uganda - European Centre for Disease Prevention and Control (ECDC)",
+          "Risk of Severe Arboviral Disease in Patients Receiving B Cell-Depleting or Modulating Medications - Centers for Disease Control and Prevention | CDC (.gov)"
+        ]
       },
       {
-        "trend": "drug approval",
+        "trend": "virus",
         "market_code": "ES",
-        "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "West Nile Virus Alert - City and County of Denver - City and County of Denver",
+          "Dallas County confirms first human case of West Nile virus of 2026 season - KERA News",
+          "Outdoor activities suspended because of West Nile virus - FOX 5 Atlanta"
+        ]
       },
       {
-        "trend": "diet wellness",
+        "trend": "hospitals",
         "market_code": "ES",
-        "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "category": "Europe Health",
+        "score": 8,
+        "examples": [
+          "Jupiter Medical Center Recognized Among Becker’s 100 Great Community Hospitals - Florida Hospital News and Healthcare Report",
+          "All ECU Health hospitals receive Get With The Guidelines® awards for fourth consecutive year - ECU Health",
+          "U.S. News & World Report “Best Hospitals 2026-2027” List Includes All NYC Health + Hospitals’ Acute Care Facilities - NYC Health + Hospitals"
+        ]
+      },
+      {
+        "trend": "public health",
+        "market_code": "ES",
+        "category": "Europe Health",
+        "score": 8,
+        "examples": [
+          "Community members demand Colorado issue public health order for ICE tuberculosis case - KUNC",
+          "Concord University adds Master of Public Health to graduate lineup - The Real WV",
+          "Why Trump’s MMR vaccine order is the latest public health disaster, with effects set to last years - The Conversation"
+        ]
+      },
+      {
+        "trend": "warning",
+        "market_code": "ES",
+        "category": "Europe Health",
+        "score": 8,
+        "examples": [
+          "Calcasieu Parish Coroner issues public health warning over deadly bacteria found in local waters - KPLC 7 News",
+          "‘Real mummy’s curse’: health warning over growing trade in mummified human remains - theguardian.com",
+          "Off-the-charts dust spike triggers hazardous air quality warning in Westmorland - Imperial Valley Press Online"
+        ]
+      },
+      {
+        "trend": "medicine",
+        "market_code": "ES",
+        "category": "Europe Health",
+        "score": 7,
+        "examples": [
+          "New division chiefs appointed in internal medicine - University of Nebraska Medical Center",
+          "Clinical: Expanded Access Takes SNIPR001 Beyond the Gut - CRISPR Medicine News",
+          "Vaccines for Adults 65 and Older: What You Need to Know to Stay Healthy - Stony Brook Medicine"
+        ]
       }
     ],
     "Sweden": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "SE",
         "category": "Europe Health",
-        "score": 1,
-        "examples": []
+        "score": 79,
+        "examples": [
+          "Opinion | I Was Dick Cheney’s Cardiologist. I Have Questions About Trump’s Health. - nytimes.com",
+          "Nuclear power push ramps up uranium mill — and tribal health concerns - npr.org",
+          "How to design a space habitat that supports its residents’ mental health - MIT News"
+        ]
+      },
+      {
+        "trend": "medical",
+        "market_code": "SE",
+        "category": "Europe Health",
+        "score": 19,
+        "examples": [
+          "Landstuhl Regional Medical Center Team Prepares Joint US Military Medical Personnel for Global Health Engagements - DVIDS",
+          "Landstuhl Regional Medical Center Team Prepares Joint US Military Medical Personnel for Global Health Engagements - DVIDS",
+          "Landstuhl Regional Medical Center Team Prepares Joint US Military Medical Personnel for Global Health Engagements - DVIDS"
+        ]
       },
       {
         "trend": "outbreak",
         "market_code": "SE",
         "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "score": 12,
+        "examples": [
+          "Ebola disease outbreak in the Democratic Republic of the Congo and Uganda - European Centre for Disease Prevention and Control (ECDC)",
+          "DW News. . Health authorities in the Democratic Republic of Congo say Ebola has killed more than 2,000 people. Officials are racing to contain the outbreak, which is the fastest-spreading on record. #dwnews - facebook.com",
+          "Ebola disease outbreak in the Democratic Republic of the Congo and Uganda - European Centre for Disease Prevention and Control (ECDC)"
+        ]
+      },
+      {
+        "trend": "healthcare",
+        "market_code": "SE",
+        "category": "Europe Health",
+        "score": 12,
+        "examples": [
+          "Jupiter Medical Center Recognized Among Becker’s 100 Great Community Hospitals - Florida Hospital News and Healthcare Report",
+          "DentaQuest breach exposes data of 15M people, a record this year - Healthcare Dive",
+          "The Foodism Show x Thailand Health & Wellness Expo 2026 promoting preventive healthcare for a sustainable quality of life - Asia Food Journal"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "SE",
+        "category": "Mental Health",
+        "score": 11,
+        "examples": [
+          "How to design a space habitat that supports its residents’ mental health - MIT News",
+          "Study finds lasting mental health impacts on Lexington’s laid-off Tyson Foods workers - Nebraska Public Media",
+          "Study finds lasting mental health impacts on Lexington’s laid-off Tyson Foods workers - Nebraska Public Media"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "SE",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
+        "score": 11,
+        "examples": [
+          "How to design a space habitat that supports its residents’ mental health - MIT News",
+          "Study finds lasting mental health impacts on Lexington’s laid-off Tyson Foods workers - Nebraska Public Media",
+          "Study finds lasting mental health impacts on Lexington’s laid-off Tyson Foods workers - Nebraska Public Media"
+        ]
       },
       {
-        "trend": "medical research",
+        "trend": "disease",
         "market_code": "SE",
         "category": "Europe Health",
-        "score": 1,
-        "examples": []
+        "score": 11,
+        "examples": [
+          "Ebola disease outbreak in the Democratic Republic of the Congo and Uganda - European Centre for Disease Prevention and Control (ECDC)",
+          "Ebola disease outbreak in the Democratic Republic of the Congo and Uganda - European Centre for Disease Prevention and Control (ECDC)",
+          "Risk of Severe Arboviral Disease in Patients Receiving B Cell-Depleting or Modulating Medications - Centers for Disease Control and Prevention | CDC (.gov)"
+        ]
       },
       {
-        "trend": "drug approval",
+        "trend": "virus",
         "market_code": "SE",
-        "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "West Nile Virus Alert - City and County of Denver - City and County of Denver",
+          "Dallas County confirms first human case of West Nile virus of 2026 season - KERA News",
+          "Outdoor activities suspended because of West Nile virus - FOX 5 Atlanta"
+        ]
       },
       {
-        "trend": "diet wellness",
+        "trend": "hospitals",
         "market_code": "SE",
-        "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "category": "Europe Health",
+        "score": 8,
+        "examples": [
+          "Jupiter Medical Center Recognized Among Becker’s 100 Great Community Hospitals - Florida Hospital News and Healthcare Report",
+          "All ECU Health hospitals receive Get With The Guidelines® awards for fourth consecutive year - ECU Health",
+          "U.S. News & World Report “Best Hospitals 2026-2027” List Includes All NYC Health + Hospitals’ Acute Care Facilities - NYC Health + Hospitals"
+        ]
+      },
+      {
+        "trend": "public health",
+        "market_code": "SE",
+        "category": "Europe Health",
+        "score": 8,
+        "examples": [
+          "Community members demand Colorado issue public health order for ICE tuberculosis case - KUNC",
+          "Concord University adds Master of Public Health to graduate lineup - The Real WV",
+          "Why Trump’s MMR vaccine order is the latest public health disaster, with effects set to last years - The Conversation"
+        ]
+      },
+      {
+        "trend": "warning",
+        "market_code": "SE",
+        "category": "Europe Health",
+        "score": 8,
+        "examples": [
+          "Calcasieu Parish Coroner issues public health warning over deadly bacteria found in local waters - KPLC 7 News",
+          "‘Real mummy’s curse’: health warning over growing trade in mummified human remains - theguardian.com",
+          "Off-the-charts dust spike triggers hazardous air quality warning in Westmorland - Imperial Valley Press Online"
+        ]
+      },
+      {
+        "trend": "medicine",
+        "market_code": "SE",
+        "category": "Europe Health",
+        "score": 7,
+        "examples": [
+          "New division chiefs appointed in internal medicine - University of Nebraska Medical Center",
+          "Clinical: Expanded Access Takes SNIPR001 Beyond the Gut - CRISPR Medicine News",
+          "Vaccines for Adults 65 and Older: What You Need to Know to Stay Healthy - Stony Brook Medicine"
+        ]
       }
     ],
     "Netherlands": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "NL",
         "category": "Europe Health",
-        "score": 1,
-        "examples": []
+        "score": 79,
+        "examples": [
+          "Opinion | I Was Dick Cheney’s Cardiologist. I Have Questions About Trump’s Health. - nytimes.com",
+          "Nuclear power push ramps up uranium mill — and tribal health concerns - npr.org",
+          "How to design a space habitat that supports its residents’ mental health - MIT News"
+        ]
+      },
+      {
+        "trend": "medical",
+        "market_code": "NL",
+        "category": "Europe Health",
+        "score": 19,
+        "examples": [
+          "Landstuhl Regional Medical Center Team Prepares Joint US Military Medical Personnel for Global Health Engagements - DVIDS",
+          "Landstuhl Regional Medical Center Team Prepares Joint US Military Medical Personnel for Global Health Engagements - DVIDS",
+          "Landstuhl Regional Medical Center Team Prepares Joint US Military Medical Personnel for Global Health Engagements - DVIDS"
+        ]
       },
       {
         "trend": "outbreak",
         "market_code": "NL",
         "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "score": 12,
+        "examples": [
+          "Ebola disease outbreak in the Democratic Republic of the Congo and Uganda - European Centre for Disease Prevention and Control (ECDC)",
+          "DW News. . Health authorities in the Democratic Republic of Congo say Ebola has killed more than 2,000 people. Officials are racing to contain the outbreak, which is the fastest-spreading on record. #dwnews - facebook.com",
+          "Ebola disease outbreak in the Democratic Republic of the Congo and Uganda - European Centre for Disease Prevention and Control (ECDC)"
+        ]
+      },
+      {
+        "trend": "healthcare",
+        "market_code": "NL",
+        "category": "Europe Health",
+        "score": 12,
+        "examples": [
+          "Jupiter Medical Center Recognized Among Becker’s 100 Great Community Hospitals - Florida Hospital News and Healthcare Report",
+          "DentaQuest breach exposes data of 15M people, a record this year - Healthcare Dive",
+          "The Foodism Show x Thailand Health & Wellness Expo 2026 promoting preventive healthcare for a sustainable quality of life - Asia Food Journal"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "NL",
+        "category": "Mental Health",
+        "score": 11,
+        "examples": [
+          "How to design a space habitat that supports its residents’ mental health - MIT News",
+          "Study finds lasting mental health impacts on Lexington’s laid-off Tyson Foods workers - Nebraska Public Media",
+          "Study finds lasting mental health impacts on Lexington’s laid-off Tyson Foods workers - Nebraska Public Media"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "NL",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
+        "score": 11,
+        "examples": [
+          "How to design a space habitat that supports its residents’ mental health - MIT News",
+          "Study finds lasting mental health impacts on Lexington’s laid-off Tyson Foods workers - Nebraska Public Media",
+          "Study finds lasting mental health impacts on Lexington’s laid-off Tyson Foods workers - Nebraska Public Media"
+        ]
       },
       {
-        "trend": "medical research",
+        "trend": "disease",
         "market_code": "NL",
         "category": "Europe Health",
-        "score": 1,
-        "examples": []
+        "score": 11,
+        "examples": [
+          "Ebola disease outbreak in the Democratic Republic of the Congo and Uganda - European Centre for Disease Prevention and Control (ECDC)",
+          "Ebola disease outbreak in the Democratic Republic of the Congo and Uganda - European Centre for Disease Prevention and Control (ECDC)",
+          "Risk of Severe Arboviral Disease in Patients Receiving B Cell-Depleting or Modulating Medications - Centers for Disease Control and Prevention | CDC (.gov)"
+        ]
       },
       {
-        "trend": "drug approval",
+        "trend": "virus",
         "market_code": "NL",
-        "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "West Nile Virus Alert - City and County of Denver - City and County of Denver",
+          "Dallas County confirms first human case of West Nile virus of 2026 season - KERA News",
+          "Outdoor activities suspended because of West Nile virus - FOX 5 Atlanta"
+        ]
       },
       {
-        "trend": "diet wellness",
+        "trend": "hospitals",
         "market_code": "NL",
-        "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "category": "Europe Health",
+        "score": 8,
+        "examples": [
+          "Jupiter Medical Center Recognized Among Becker’s 100 Great Community Hospitals - Florida Hospital News and Healthcare Report",
+          "All ECU Health hospitals receive Get With The Guidelines® awards for fourth consecutive year - ECU Health",
+          "U.S. News & World Report “Best Hospitals 2026-2027” List Includes All NYC Health + Hospitals’ Acute Care Facilities - NYC Health + Hospitals"
+        ]
+      },
+      {
+        "trend": "public health",
+        "market_code": "NL",
+        "category": "Europe Health",
+        "score": 8,
+        "examples": [
+          "Community members demand Colorado issue public health order for ICE tuberculosis case - KUNC",
+          "Concord University adds Master of Public Health to graduate lineup - The Real WV",
+          "Why Trump’s MMR vaccine order is the latest public health disaster, with effects set to last years - The Conversation"
+        ]
+      },
+      {
+        "trend": "warning",
+        "market_code": "NL",
+        "category": "Europe Health",
+        "score": 8,
+        "examples": [
+          "Calcasieu Parish Coroner issues public health warning over deadly bacteria found in local waters - KPLC 7 News",
+          "‘Real mummy’s curse’: health warning over growing trade in mummified human remains - theguardian.com",
+          "Off-the-charts dust spike triggers hazardous air quality warning in Westmorland - Imperial Valley Press Online"
+        ]
+      },
+      {
+        "trend": "medicine",
+        "market_code": "NL",
+        "category": "Europe Health",
+        "score": 7,
+        "examples": [
+          "New division chiefs appointed in internal medicine - University of Nebraska Medical Center",
+          "Clinical: Expanded Access Takes SNIPR001 Beyond the Gut - CRISPR Medicine News",
+          "Vaccines for Adults 65 and Older: What You Need to Know to Stay Healthy - Stony Brook Medicine"
+        ]
       }
     ],
     "Finland": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "FI",
         "category": "Europe Health",
-        "score": 1,
-        "examples": []
+        "score": 79,
+        "examples": [
+          "Opinion | I Was Dick Cheney’s Cardiologist. I Have Questions About Trump’s Health. - nytimes.com",
+          "Nuclear power push ramps up uranium mill — and tribal health concerns - npr.org",
+          "How to design a space habitat that supports its residents’ mental health - MIT News"
+        ]
+      },
+      {
+        "trend": "medical",
+        "market_code": "FI",
+        "category": "Europe Health",
+        "score": 19,
+        "examples": [
+          "Landstuhl Regional Medical Center Team Prepares Joint US Military Medical Personnel for Global Health Engagements - DVIDS",
+          "Landstuhl Regional Medical Center Team Prepares Joint US Military Medical Personnel for Global Health Engagements - DVIDS",
+          "Landstuhl Regional Medical Center Team Prepares Joint US Military Medical Personnel for Global Health Engagements - DVIDS"
+        ]
       },
       {
         "trend": "outbreak",
         "market_code": "FI",
         "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "score": 12,
+        "examples": [
+          "Ebola disease outbreak in the Democratic Republic of the Congo and Uganda - European Centre for Disease Prevention and Control (ECDC)",
+          "DW News. . Health authorities in the Democratic Republic of Congo say Ebola has killed more than 2,000 people. Officials are racing to contain the outbreak, which is the fastest-spreading on record. #dwnews - facebook.com",
+          "Ebola disease outbreak in the Democratic Republic of the Congo and Uganda - European Centre for Disease Prevention and Control (ECDC)"
+        ]
+      },
+      {
+        "trend": "healthcare",
+        "market_code": "FI",
+        "category": "Europe Health",
+        "score": 12,
+        "examples": [
+          "Jupiter Medical Center Recognized Among Becker’s 100 Great Community Hospitals - Florida Hospital News and Healthcare Report",
+          "DentaQuest breach exposes data of 15M people, a record this year - Healthcare Dive",
+          "The Foodism Show x Thailand Health & Wellness Expo 2026 promoting preventive healthcare for a sustainable quality of life - Asia Food Journal"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "FI",
+        "category": "Mental Health",
+        "score": 11,
+        "examples": [
+          "How to design a space habitat that supports its residents’ mental health - MIT News",
+          "Study finds lasting mental health impacts on Lexington’s laid-off Tyson Foods workers - Nebraska Public Media",
+          "Study finds lasting mental health impacts on Lexington’s laid-off Tyson Foods workers - Nebraska Public Media"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "FI",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
+        "score": 11,
+        "examples": [
+          "How to design a space habitat that supports its residents’ mental health - MIT News",
+          "Study finds lasting mental health impacts on Lexington’s laid-off Tyson Foods workers - Nebraska Public Media",
+          "Study finds lasting mental health impacts on Lexington’s laid-off Tyson Foods workers - Nebraska Public Media"
+        ]
       },
       {
-        "trend": "medical research",
+        "trend": "disease",
         "market_code": "FI",
         "category": "Europe Health",
-        "score": 1,
-        "examples": []
+        "score": 11,
+        "examples": [
+          "Ebola disease outbreak in the Democratic Republic of the Congo and Uganda - European Centre for Disease Prevention and Control (ECDC)",
+          "Ebola disease outbreak in the Democratic Republic of the Congo and Uganda - European Centre for Disease Prevention and Control (ECDC)",
+          "Risk of Severe Arboviral Disease in Patients Receiving B Cell-Depleting or Modulating Medications - Centers for Disease Control and Prevention | CDC (.gov)"
+        ]
       },
       {
-        "trend": "drug approval",
+        "trend": "virus",
         "market_code": "FI",
-        "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "West Nile Virus Alert - City and County of Denver - City and County of Denver",
+          "Dallas County confirms first human case of West Nile virus of 2026 season - KERA News",
+          "Outdoor activities suspended because of West Nile virus - FOX 5 Atlanta"
+        ]
       },
       {
-        "trend": "diet wellness",
+        "trend": "hospitals",
         "market_code": "FI",
-        "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "category": "Europe Health",
+        "score": 8,
+        "examples": [
+          "Jupiter Medical Center Recognized Among Becker’s 100 Great Community Hospitals - Florida Hospital News and Healthcare Report",
+          "All ECU Health hospitals receive Get With The Guidelines® awards for fourth consecutive year - ECU Health",
+          "U.S. News & World Report “Best Hospitals 2026-2027” List Includes All NYC Health + Hospitals’ Acute Care Facilities - NYC Health + Hospitals"
+        ]
+      },
+      {
+        "trend": "public health",
+        "market_code": "FI",
+        "category": "Europe Health",
+        "score": 8,
+        "examples": [
+          "Community members demand Colorado issue public health order for ICE tuberculosis case - KUNC",
+          "Concord University adds Master of Public Health to graduate lineup - The Real WV",
+          "Why Trump’s MMR vaccine order is the latest public health disaster, with effects set to last years - The Conversation"
+        ]
+      },
+      {
+        "trend": "warning",
+        "market_code": "FI",
+        "category": "Europe Health",
+        "score": 8,
+        "examples": [
+          "Calcasieu Parish Coroner issues public health warning over deadly bacteria found in local waters - KPLC 7 News",
+          "‘Real mummy’s curse’: health warning over growing trade in mummified human remains - theguardian.com",
+          "Off-the-charts dust spike triggers hazardous air quality warning in Westmorland - Imperial Valley Press Online"
+        ]
+      },
+      {
+        "trend": "medicine",
+        "market_code": "FI",
+        "category": "Europe Health",
+        "score": 7,
+        "examples": [
+          "New division chiefs appointed in internal medicine - University of Nebraska Medical Center",
+          "Clinical: Expanded Access Takes SNIPR001 Beyond the Gut - CRISPR Medicine News",
+          "Vaccines for Adults 65 and Older: What You Need to Know to Stay Healthy - Stony Brook Medicine"
+        ]
       }
     ],
     "Norway": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "NO",
         "category": "Europe Health",
-        "score": 1,
-        "examples": []
+        "score": 79,
+        "examples": [
+          "Opinion | I Was Dick Cheney’s Cardiologist. I Have Questions About Trump’s Health. - nytimes.com",
+          "Nuclear power push ramps up uranium mill — and tribal health concerns - npr.org",
+          "How to design a space habitat that supports its residents’ mental health - MIT News"
+        ]
+      },
+      {
+        "trend": "medical",
+        "market_code": "NO",
+        "category": "Europe Health",
+        "score": 19,
+        "examples": [
+          "Landstuhl Regional Medical Center Team Prepares Joint US Military Medical Personnel for Global Health Engagements - DVIDS",
+          "Landstuhl Regional Medical Center Team Prepares Joint US Military Medical Personnel for Global Health Engagements - DVIDS",
+          "Landstuhl Regional Medical Center Team Prepares Joint US Military Medical Personnel for Global Health Engagements - DVIDS"
+        ]
       },
       {
         "trend": "outbreak",
         "market_code": "NO",
         "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "score": 12,
+        "examples": [
+          "Ebola disease outbreak in the Democratic Republic of the Congo and Uganda - European Centre for Disease Prevention and Control (ECDC)",
+          "DW News. . Health authorities in the Democratic Republic of Congo say Ebola has killed more than 2,000 people. Officials are racing to contain the outbreak, which is the fastest-spreading on record. #dwnews - facebook.com",
+          "Ebola disease outbreak in the Democratic Republic of the Congo and Uganda - European Centre for Disease Prevention and Control (ECDC)"
+        ]
+      },
+      {
+        "trend": "healthcare",
+        "market_code": "NO",
+        "category": "Europe Health",
+        "score": 12,
+        "examples": [
+          "Jupiter Medical Center Recognized Among Becker’s 100 Great Community Hospitals - Florida Hospital News and Healthcare Report",
+          "DentaQuest breach exposes data of 15M people, a record this year - Healthcare Dive",
+          "The Foodism Show x Thailand Health & Wellness Expo 2026 promoting preventive healthcare for a sustainable quality of life - Asia Food Journal"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "NO",
+        "category": "Mental Health",
+        "score": 11,
+        "examples": [
+          "How to design a space habitat that supports its residents’ mental health - MIT News",
+          "Study finds lasting mental health impacts on Lexington’s laid-off Tyson Foods workers - Nebraska Public Media",
+          "Study finds lasting mental health impacts on Lexington’s laid-off Tyson Foods workers - Nebraska Public Media"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "NO",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
+        "score": 11,
+        "examples": [
+          "How to design a space habitat that supports its residents’ mental health - MIT News",
+          "Study finds lasting mental health impacts on Lexington’s laid-off Tyson Foods workers - Nebraska Public Media",
+          "Study finds lasting mental health impacts on Lexington’s laid-off Tyson Foods workers - Nebraska Public Media"
+        ]
       },
       {
-        "trend": "medical research",
+        "trend": "disease",
         "market_code": "NO",
         "category": "Europe Health",
-        "score": 1,
-        "examples": []
+        "score": 11,
+        "examples": [
+          "Ebola disease outbreak in the Democratic Republic of the Congo and Uganda - European Centre for Disease Prevention and Control (ECDC)",
+          "Ebola disease outbreak in the Democratic Republic of the Congo and Uganda - European Centre for Disease Prevention and Control (ECDC)",
+          "Risk of Severe Arboviral Disease in Patients Receiving B Cell-Depleting or Modulating Medications - Centers for Disease Control and Prevention | CDC (.gov)"
+        ]
       },
       {
-        "trend": "drug approval",
+        "trend": "virus",
         "market_code": "NO",
-        "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "West Nile Virus Alert - City and County of Denver - City and County of Denver",
+          "Dallas County confirms first human case of West Nile virus of 2026 season - KERA News",
+          "Outdoor activities suspended because of West Nile virus - FOX 5 Atlanta"
+        ]
       },
       {
-        "trend": "diet wellness",
+        "trend": "hospitals",
         "market_code": "NO",
-        "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "category": "Europe Health",
+        "score": 8,
+        "examples": [
+          "Jupiter Medical Center Recognized Among Becker’s 100 Great Community Hospitals - Florida Hospital News and Healthcare Report",
+          "All ECU Health hospitals receive Get With The Guidelines® awards for fourth consecutive year - ECU Health",
+          "U.S. News & World Report “Best Hospitals 2026-2027” List Includes All NYC Health + Hospitals’ Acute Care Facilities - NYC Health + Hospitals"
+        ]
+      },
+      {
+        "trend": "public health",
+        "market_code": "NO",
+        "category": "Europe Health",
+        "score": 8,
+        "examples": [
+          "Community members demand Colorado issue public health order for ICE tuberculosis case - KUNC",
+          "Concord University adds Master of Public Health to graduate lineup - The Real WV",
+          "Why Trump’s MMR vaccine order is the latest public health disaster, with effects set to last years - The Conversation"
+        ]
+      },
+      {
+        "trend": "warning",
+        "market_code": "NO",
+        "category": "Europe Health",
+        "score": 8,
+        "examples": [
+          "Calcasieu Parish Coroner issues public health warning over deadly bacteria found in local waters - KPLC 7 News",
+          "‘Real mummy’s curse’: health warning over growing trade in mummified human remains - theguardian.com",
+          "Off-the-charts dust spike triggers hazardous air quality warning in Westmorland - Imperial Valley Press Online"
+        ]
+      },
+      {
+        "trend": "medicine",
+        "market_code": "NO",
+        "category": "Europe Health",
+        "score": 7,
+        "examples": [
+          "New division chiefs appointed in internal medicine - University of Nebraska Medical Center",
+          "Clinical: Expanded Access Takes SNIPR001 Beyond the Gut - CRISPR Medicine News",
+          "Vaccines for Adults 65 and Older: What You Need to Know to Stay Healthy - Stony Brook Medicine"
+        ]
       }
     ],
     "Japan": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "JP",
         "category": "Asia Health",
-        "score": 1,
-        "examples": []
+        "score": 79,
+        "examples": [
+          "Opinion | I Was Dick Cheney’s Cardiologist. I Have Questions About Trump’s Health. - nytimes.com",
+          "Nuclear power push ramps up uranium mill — and tribal health concerns - npr.org",
+          "How to design a space habitat that supports its residents’ mental health - MIT News"
+        ]
+      },
+      {
+        "trend": "medical",
+        "market_code": "JP",
+        "category": "Asia Health",
+        "score": 19,
+        "examples": [
+          "Landstuhl Regional Medical Center Team Prepares Joint US Military Medical Personnel for Global Health Engagements - DVIDS",
+          "Landstuhl Regional Medical Center Team Prepares Joint US Military Medical Personnel for Global Health Engagements - DVIDS",
+          "Landstuhl Regional Medical Center Team Prepares Joint US Military Medical Personnel for Global Health Engagements - DVIDS"
+        ]
       },
       {
         "trend": "outbreak",
         "market_code": "JP",
         "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "score": 12,
+        "examples": [
+          "Ebola disease outbreak in the Democratic Republic of the Congo and Uganda - European Centre for Disease Prevention and Control (ECDC)",
+          "DW News. . Health authorities in the Democratic Republic of Congo say Ebola has killed more than 2,000 people. Officials are racing to contain the outbreak, which is the fastest-spreading on record. #dwnews - facebook.com",
+          "Ebola disease outbreak in the Democratic Republic of the Congo and Uganda - European Centre for Disease Prevention and Control (ECDC)"
+        ]
+      },
+      {
+        "trend": "healthcare",
+        "market_code": "JP",
+        "category": "Asia Health",
+        "score": 12,
+        "examples": [
+          "Jupiter Medical Center Recognized Among Becker’s 100 Great Community Hospitals - Florida Hospital News and Healthcare Report",
+          "DentaQuest breach exposes data of 15M people, a record this year - Healthcare Dive",
+          "The Foodism Show x Thailand Health & Wellness Expo 2026 promoting preventive healthcare for a sustainable quality of life - Asia Food Journal"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "JP",
+        "category": "Mental Health",
+        "score": 11,
+        "examples": [
+          "How to design a space habitat that supports its residents’ mental health - MIT News",
+          "Study finds lasting mental health impacts on Lexington’s laid-off Tyson Foods workers - Nebraska Public Media",
+          "Study finds lasting mental health impacts on Lexington’s laid-off Tyson Foods workers - Nebraska Public Media"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "JP",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
+        "score": 11,
+        "examples": [
+          "How to design a space habitat that supports its residents’ mental health - MIT News",
+          "Study finds lasting mental health impacts on Lexington’s laid-off Tyson Foods workers - Nebraska Public Media",
+          "Study finds lasting mental health impacts on Lexington’s laid-off Tyson Foods workers - Nebraska Public Media"
+        ]
       },
       {
-        "trend": "medical research",
+        "trend": "disease",
         "market_code": "JP",
         "category": "Asia Health",
-        "score": 1,
-        "examples": []
+        "score": 11,
+        "examples": [
+          "Ebola disease outbreak in the Democratic Republic of the Congo and Uganda - European Centre for Disease Prevention and Control (ECDC)",
+          "Ebola disease outbreak in the Democratic Republic of the Congo and Uganda - European Centre for Disease Prevention and Control (ECDC)",
+          "Risk of Severe Arboviral Disease in Patients Receiving B Cell-Depleting or Modulating Medications - Centers for Disease Control and Prevention | CDC (.gov)"
+        ]
       },
       {
-        "trend": "drug approval",
+        "trend": "virus",
         "market_code": "JP",
-        "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "West Nile Virus Alert - City and County of Denver - City and County of Denver",
+          "Dallas County confirms first human case of West Nile virus of 2026 season - KERA News",
+          "Outdoor activities suspended because of West Nile virus - FOX 5 Atlanta"
+        ]
       },
       {
-        "trend": "diet wellness",
+        "trend": "hospitals",
         "market_code": "JP",
-        "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "category": "Asia Health",
+        "score": 8,
+        "examples": [
+          "Jupiter Medical Center Recognized Among Becker’s 100 Great Community Hospitals - Florida Hospital News and Healthcare Report",
+          "All ECU Health hospitals receive Get With The Guidelines® awards for fourth consecutive year - ECU Health",
+          "U.S. News & World Report “Best Hospitals 2026-2027” List Includes All NYC Health + Hospitals’ Acute Care Facilities - NYC Health + Hospitals"
+        ]
+      },
+      {
+        "trend": "public health",
+        "market_code": "JP",
+        "category": "Asia Health",
+        "score": 8,
+        "examples": [
+          "Community members demand Colorado issue public health order for ICE tuberculosis case - KUNC",
+          "Concord University adds Master of Public Health to graduate lineup - The Real WV",
+          "Why Trump’s MMR vaccine order is the latest public health disaster, with effects set to last years - The Conversation"
+        ]
+      },
+      {
+        "trend": "warning",
+        "market_code": "JP",
+        "category": "Asia Health",
+        "score": 8,
+        "examples": [
+          "Calcasieu Parish Coroner issues public health warning over deadly bacteria found in local waters - KPLC 7 News",
+          "‘Real mummy’s curse’: health warning over growing trade in mummified human remains - theguardian.com",
+          "Off-the-charts dust spike triggers hazardous air quality warning in Westmorland - Imperial Valley Press Online"
+        ]
+      },
+      {
+        "trend": "medicine",
+        "market_code": "JP",
+        "category": "Asia Health",
+        "score": 7,
+        "examples": [
+          "New division chiefs appointed in internal medicine - University of Nebraska Medical Center",
+          "Clinical: Expanded Access Takes SNIPR001 Beyond the Gut - CRISPR Medicine News",
+          "Vaccines for Adults 65 and Older: What You Need to Know to Stay Healthy - Stony Brook Medicine"
+        ]
       }
     ],
     "China": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "CN",
         "category": "Asia Health",
-        "score": 1,
-        "examples": []
+        "score": 79,
+        "examples": [
+          "Opinion | I Was Dick Cheney’s Cardiologist. I Have Questions About Trump’s Health. - nytimes.com",
+          "Nuclear power push ramps up uranium mill — and tribal health concerns - npr.org",
+          "How to design a space habitat that supports its residents’ mental health - MIT News"
+        ]
+      },
+      {
+        "trend": "medical",
+        "market_code": "CN",
+        "category": "Asia Health",
+        "score": 19,
+        "examples": [
+          "Landstuhl Regional Medical Center Team Prepares Joint US Military Medical Personnel for Global Health Engagements - DVIDS",
+          "Landstuhl Regional Medical Center Team Prepares Joint US Military Medical Personnel for Global Health Engagements - DVIDS",
+          "Landstuhl Regional Medical Center Team Prepares Joint US Military Medical Personnel for Global Health Engagements - DVIDS"
+        ]
       },
       {
         "trend": "outbreak",
         "market_code": "CN",
         "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "score": 12,
+        "examples": [
+          "Ebola disease outbreak in the Democratic Republic of the Congo and Uganda - European Centre for Disease Prevention and Control (ECDC)",
+          "DW News. . Health authorities in the Democratic Republic of Congo say Ebola has killed more than 2,000 people. Officials are racing to contain the outbreak, which is the fastest-spreading on record. #dwnews - facebook.com",
+          "Ebola disease outbreak in the Democratic Republic of the Congo and Uganda - European Centre for Disease Prevention and Control (ECDC)"
+        ]
+      },
+      {
+        "trend": "healthcare",
+        "market_code": "CN",
+        "category": "Asia Health",
+        "score": 12,
+        "examples": [
+          "Jupiter Medical Center Recognized Among Becker’s 100 Great Community Hospitals - Florida Hospital News and Healthcare Report",
+          "DentaQuest breach exposes data of 15M people, a record this year - Healthcare Dive",
+          "The Foodism Show x Thailand Health & Wellness Expo 2026 promoting preventive healthcare for a sustainable quality of life - Asia Food Journal"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "CN",
+        "category": "Mental Health",
+        "score": 11,
+        "examples": [
+          "How to design a space habitat that supports its residents’ mental health - MIT News",
+          "Study finds lasting mental health impacts on Lexington’s laid-off Tyson Foods workers - Nebraska Public Media",
+          "Study finds lasting mental health impacts on Lexington’s laid-off Tyson Foods workers - Nebraska Public Media"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "CN",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
+        "score": 11,
+        "examples": [
+          "How to design a space habitat that supports its residents’ mental health - MIT News",
+          "Study finds lasting mental health impacts on Lexington’s laid-off Tyson Foods workers - Nebraska Public Media",
+          "Study finds lasting mental health impacts on Lexington’s laid-off Tyson Foods workers - Nebraska Public Media"
+        ]
       },
       {
-        "trend": "medical research",
+        "trend": "disease",
         "market_code": "CN",
         "category": "Asia Health",
-        "score": 1,
-        "examples": []
+        "score": 11,
+        "examples": [
+          "Ebola disease outbreak in the Democratic Republic of the Congo and Uganda - European Centre for Disease Prevention and Control (ECDC)",
+          "Ebola disease outbreak in the Democratic Republic of the Congo and Uganda - European Centre for Disease Prevention and Control (ECDC)",
+          "Risk of Severe Arboviral Disease in Patients Receiving B Cell-Depleting or Modulating Medications - Centers for Disease Control and Prevention | CDC (.gov)"
+        ]
       },
       {
-        "trend": "drug approval",
+        "trend": "virus",
         "market_code": "CN",
-        "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "West Nile Virus Alert - City and County of Denver - City and County of Denver",
+          "Dallas County confirms first human case of West Nile virus of 2026 season - KERA News",
+          "Outdoor activities suspended because of West Nile virus - FOX 5 Atlanta"
+        ]
       },
       {
-        "trend": "diet wellness",
+        "trend": "hospitals",
         "market_code": "CN",
-        "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "category": "Asia Health",
+        "score": 8,
+        "examples": [
+          "Jupiter Medical Center Recognized Among Becker’s 100 Great Community Hospitals - Florida Hospital News and Healthcare Report",
+          "All ECU Health hospitals receive Get With The Guidelines® awards for fourth consecutive year - ECU Health",
+          "U.S. News & World Report “Best Hospitals 2026-2027” List Includes All NYC Health + Hospitals’ Acute Care Facilities - NYC Health + Hospitals"
+        ]
+      },
+      {
+        "trend": "public health",
+        "market_code": "CN",
+        "category": "Asia Health",
+        "score": 8,
+        "examples": [
+          "Community members demand Colorado issue public health order for ICE tuberculosis case - KUNC",
+          "Concord University adds Master of Public Health to graduate lineup - The Real WV",
+          "Why Trump’s MMR vaccine order is the latest public health disaster, with effects set to last years - The Conversation"
+        ]
+      },
+      {
+        "trend": "warning",
+        "market_code": "CN",
+        "category": "Asia Health",
+        "score": 8,
+        "examples": [
+          "Calcasieu Parish Coroner issues public health warning over deadly bacteria found in local waters - KPLC 7 News",
+          "‘Real mummy’s curse’: health warning over growing trade in mummified human remains - theguardian.com",
+          "Off-the-charts dust spike triggers hazardous air quality warning in Westmorland - Imperial Valley Press Online"
+        ]
+      },
+      {
+        "trend": "medicine",
+        "market_code": "CN",
+        "category": "Asia Health",
+        "score": 7,
+        "examples": [
+          "New division chiefs appointed in internal medicine - University of Nebraska Medical Center",
+          "Clinical: Expanded Access Takes SNIPR001 Beyond the Gut - CRISPR Medicine News",
+          "Vaccines for Adults 65 and Older: What You Need to Know to Stay Healthy - Stony Brook Medicine"
+        ]
       }
     ],
     "South Korea": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "KR",
         "category": "Asia Health",
-        "score": 1,
-        "examples": []
+        "score": 79,
+        "examples": [
+          "Opinion | I Was Dick Cheney’s Cardiologist. I Have Questions About Trump’s Health. - nytimes.com",
+          "Nuclear power push ramps up uranium mill — and tribal health concerns - npr.org",
+          "How to design a space habitat that supports its residents’ mental health - MIT News"
+        ]
+      },
+      {
+        "trend": "medical",
+        "market_code": "KR",
+        "category": "Asia Health",
+        "score": 19,
+        "examples": [
+          "Landstuhl Regional Medical Center Team Prepares Joint US Military Medical Personnel for Global Health Engagements - DVIDS",
+          "Landstuhl Regional Medical Center Team Prepares Joint US Military Medical Personnel for Global Health Engagements - DVIDS",
+          "Landstuhl Regional Medical Center Team Prepares Joint US Military Medical Personnel for Global Health Engagements - DVIDS"
+        ]
       },
       {
         "trend": "outbreak",
         "market_code": "KR",
         "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "score": 12,
+        "examples": [
+          "Ebola disease outbreak in the Democratic Republic of the Congo and Uganda - European Centre for Disease Prevention and Control (ECDC)",
+          "DW News. . Health authorities in the Democratic Republic of Congo say Ebola has killed more than 2,000 people. Officials are racing to contain the outbreak, which is the fastest-spreading on record. #dwnews - facebook.com",
+          "Ebola disease outbreak in the Democratic Republic of the Congo and Uganda - European Centre for Disease Prevention and Control (ECDC)"
+        ]
+      },
+      {
+        "trend": "healthcare",
+        "market_code": "KR",
+        "category": "Asia Health",
+        "score": 12,
+        "examples": [
+          "Jupiter Medical Center Recognized Among Becker’s 100 Great Community Hospitals - Florida Hospital News and Healthcare Report",
+          "DentaQuest breach exposes data of 15M people, a record this year - Healthcare Dive",
+          "The Foodism Show x Thailand Health & Wellness Expo 2026 promoting preventive healthcare for a sustainable quality of life - Asia Food Journal"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "KR",
+        "category": "Mental Health",
+        "score": 11,
+        "examples": [
+          "How to design a space habitat that supports its residents’ mental health - MIT News",
+          "Study finds lasting mental health impacts on Lexington’s laid-off Tyson Foods workers - Nebraska Public Media",
+          "Study finds lasting mental health impacts on Lexington’s laid-off Tyson Foods workers - Nebraska Public Media"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "KR",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
+        "score": 11,
+        "examples": [
+          "How to design a space habitat that supports its residents’ mental health - MIT News",
+          "Study finds lasting mental health impacts on Lexington’s laid-off Tyson Foods workers - Nebraska Public Media",
+          "Study finds lasting mental health impacts on Lexington’s laid-off Tyson Foods workers - Nebraska Public Media"
+        ]
       },
       {
-        "trend": "medical research",
+        "trend": "disease",
         "market_code": "KR",
         "category": "Asia Health",
-        "score": 1,
-        "examples": []
+        "score": 11,
+        "examples": [
+          "Ebola disease outbreak in the Democratic Republic of the Congo and Uganda - European Centre for Disease Prevention and Control (ECDC)",
+          "Ebola disease outbreak in the Democratic Republic of the Congo and Uganda - European Centre for Disease Prevention and Control (ECDC)",
+          "Risk of Severe Arboviral Disease in Patients Receiving B Cell-Depleting or Modulating Medications - Centers for Disease Control and Prevention | CDC (.gov)"
+        ]
       },
       {
-        "trend": "drug approval",
+        "trend": "virus",
         "market_code": "KR",
-        "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "West Nile Virus Alert - City and County of Denver - City and County of Denver",
+          "Dallas County confirms first human case of West Nile virus of 2026 season - KERA News",
+          "Outdoor activities suspended because of West Nile virus - FOX 5 Atlanta"
+        ]
       },
       {
-        "trend": "diet wellness",
+        "trend": "hospitals",
         "market_code": "KR",
-        "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "category": "Asia Health",
+        "score": 8,
+        "examples": [
+          "Jupiter Medical Center Recognized Among Becker’s 100 Great Community Hospitals - Florida Hospital News and Healthcare Report",
+          "All ECU Health hospitals receive Get With The Guidelines® awards for fourth consecutive year - ECU Health",
+          "U.S. News & World Report “Best Hospitals 2026-2027” List Includes All NYC Health + Hospitals’ Acute Care Facilities - NYC Health + Hospitals"
+        ]
+      },
+      {
+        "trend": "public health",
+        "market_code": "KR",
+        "category": "Asia Health",
+        "score": 8,
+        "examples": [
+          "Community members demand Colorado issue public health order for ICE tuberculosis case - KUNC",
+          "Concord University adds Master of Public Health to graduate lineup - The Real WV",
+          "Why Trump’s MMR vaccine order is the latest public health disaster, with effects set to last years - The Conversation"
+        ]
+      },
+      {
+        "trend": "warning",
+        "market_code": "KR",
+        "category": "Asia Health",
+        "score": 8,
+        "examples": [
+          "Calcasieu Parish Coroner issues public health warning over deadly bacteria found in local waters - KPLC 7 News",
+          "‘Real mummy’s curse’: health warning over growing trade in mummified human remains - theguardian.com",
+          "Off-the-charts dust spike triggers hazardous air quality warning in Westmorland - Imperial Valley Press Online"
+        ]
+      },
+      {
+        "trend": "medicine",
+        "market_code": "KR",
+        "category": "Asia Health",
+        "score": 7,
+        "examples": [
+          "New division chiefs appointed in internal medicine - University of Nebraska Medical Center",
+          "Clinical: Expanded Access Takes SNIPR001 Beyond the Gut - CRISPR Medicine News",
+          "Vaccines for Adults 65 and Older: What You Need to Know to Stay Healthy - Stony Brook Medicine"
+        ]
       }
     ],
     "India": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "IN",
         "category": "Asia Health",
-        "score": 1,
-        "examples": []
+        "score": 60,
+        "examples": [
+          "DCDRC: Insurer Cannot Ignore Doctor’s Decision to Reject Claims; Orders Star Health To Pay Father ₹94,000 ... - LawBeat",
+          "How to design a space habitat that supports its residents’ mental health - MIT News",
+          "India and Nepal sign MoUs for eight development projects in education, health and agriculture - News On AIR"
+        ]
+      },
+      {
+        "trend": "healthcare",
+        "market_code": "IN",
+        "category": "Asia Health",
+        "score": 21,
+        "examples": [
+          "Panel seeks review of FDI in private hospitals, warns of aggressive corporatisation, rising healthcare costs - The Hindu",
+          "Affordable and Accessible Healthcare for All - PIB",
+          "India plans insurance reforms to rein in healthcare costs, sources say - Reuters"
+        ]
+      },
+      {
+        "trend": "medical",
+        "market_code": "IN",
+        "category": "Asia Health",
+        "score": 19,
+        "examples": [
+          "AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study. - blog.google",
+          "Human Papillomavirus Knowledge, Attitudes, and Vaccination-Related Practices Among Medical Students in Himachal Pradesh, India: A Multicenter Analysis - Cureus",
+          "Medical Device Bodies Raise Alarm Over Criminalisation Of Technical Lapses - ETV Bharat"
+        ]
       },
       {
         "trend": "outbreak",
         "market_code": "IN",
         "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "score": 18,
+        "examples": [
+          "Ebola disease outbreak in the Democratic Republic of the Congo and Uganda - European Centre for Disease Prevention and Control (ECDC)",
+          "The DRC's Ebola Outbreak and the Limits of Preparedness - orfonline.org",
+          "DW News. . Health authorities in the Democratic Republic of Congo say Ebola has killed more than 2,000 people. Officials are racing to contain the outbreak, which is the fastest-spreading on record. #dwnews - facebook.com"
+        ]
+      },
+      {
+        "trend": "disease",
+        "market_code": "IN",
+        "category": "Asia Health",
+        "score": 12,
+        "examples": [
+          "Ebola disease outbreak in the Democratic Republic of the Congo and Uganda - European Centre for Disease Prevention and Control (ECDC)",
+          "Ebola disease outbreak in the Democratic Republic of the Congo and Uganda - European Centre for Disease Prevention and Control (ECDC)",
+          "Risk of Severe Arboviral Disease in Patients Receiving B Cell-Depleting or Modulating Medications - Centers for Disease Control and Prevention | CDC (.gov)"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "IN",
+        "category": "Mental Health",
+        "score": 10,
+        "examples": [
+          "How to design a space habitat that supports its residents’ mental health - MIT News",
+          "How to design a space habitat that supports its residents’ mental health - MIT News",
+          "Skillfully Adding AI To The HHS Pledge On Advancing Best Practices For National Mental Health Care - Forbes"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "IN",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
+        "score": 10,
+        "examples": [
+          "How to design a space habitat that supports its residents’ mental health - MIT News",
+          "How to design a space habitat that supports its residents’ mental health - MIT News",
+          "Skillfully Adding AI To The HHS Pledge On Advancing Best Practices For National Mental Health Care - Forbes"
+        ]
       },
       {
-        "trend": "medical research",
+        "trend": "warning",
         "market_code": "IN",
         "category": "Asia Health",
-        "score": 1,
-        "examples": []
+        "score": 10,
+        "examples": [
+          "‘Real mummy’s curse’: health warning over growing trade in mummified human remains - The Guardian",
+          "FDA Advisory No.2026-0866 || Public Health Warning Against the Purchase and Use of the Unauthorized Cosmetic Product “KEVIN & COCO MOUSSE BLUSH & BLUSHER (01 CHARM RUBY, 02 HONEY CORAL, 03 MILK PEARL)” - Food and Drug Administr - fda.gov.ph",
+          "Calcasieu Parish Coroner issues public health warning over deadly bacteria found in local waters - KPLC 7 News"
+        ]
       },
       {
-        "trend": "drug approval",
+        "trend": "vaccine",
         "market_code": "IN",
         "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
+        "score": 7,
+        "examples": [
+          "Why Trump’s MMR vaccine order is the latest public health disaster, with effects set to last years - The Conversation",
+          "Rep. Lois Frankel slams Trump's vaccine executive order, warning of risks to children's health - WUSF",
+          "Ebola deaths top 2,000 as scientists race to develop vaccine - news.un.org"
+        ]
       },
       {
-        "trend": "diet wellness",
+        "trend": "virus",
         "market_code": "IN",
-        "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "category": "Outbreaks",
+        "score": 7,
+        "examples": [
+          "ICMR Team Deployed to Gujarat Over Chandipura Virus Outbreak - Deccan Chronicle",
+          "Ebola virus disease in the modern era: pathogenesis, therapeutic advances, vaccine strategies, and global health preparedness - springermedicine.com",
+          "Long Covid Study Finds Gut Immune System Struggling To Clear Lingering Virus - NDTV"
+        ]
+      },
+      {
+        "trend": "doctor",
+        "market_code": "IN",
+        "category": "Asia Health",
+        "score": 6,
+        "examples": [
+          "DCDRC: Insurer Cannot Ignore Doctor’s Decision to Reject Claims; Orders Star Health To Pay Father ₹94,000 ... - LawBeat",
+          "A forensic doctor accused Diego Maradona's medical team of ignoring warning signs regarding the health of the Argentine star. - Informat.ro",
+          "Health watchdog issues warning over second alleged fake Victorian doctor - ABC News & Headlines – Australian Broadcasting Corporation"
+        ]
+      },
+      {
+        "trend": "drug",
+        "market_code": "IN",
+        "category": "Drug & Treatment News",
+        "score": 6,
+        "examples": [
+          "FDA Advisory No.2026-0866 || Public Health Warning Against the Purchase and Use of the Unauthorized Cosmetic Product “KEVIN & COCO MOUSSE BLUSH & BLUSHER (01 CHARM RUBY, 02 HONEY CORAL, 03 MILK PEARL)” - Food and Drug Administr - fda.gov.ph",
+          "Calla Lily joins $50M program targeting antibiotic resistance - Drug Discovery News",
+          "Pharmaceutical industry - Drug Regulation, Approval - Encyclopedia Britannica"
+        ]
       }
     ],
     "Australia": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "AU",
         "category": "Global Health",
-        "score": 1,
-        "examples": []
+        "score": 67,
+        "examples": [
+          "TV interview with Minister Rae, News24 – 12 August 2026 - Australian Government Department of Health, Disability and Ageing",
+          "The Big Picture: Northern Health’s Digital Coordination Centre - Northern Health",
+          "The Big Picture: Northern Health’s Digital Coordination Centre - Northern Health"
+        ]
+      },
+      {
+        "trend": "medical",
+        "market_code": "AU",
+        "category": "Global Health",
+        "score": 20,
+        "examples": [
+          "Health insurers access full medical records in 'aggressive' audits - ABC News & Headlines – Australian Broadcasting Corporation",
+          "newsGP - Medical Board ups registration cost - Royal Australian College of General Practitioners (RACGP)",
+          "Health insurers access full medical records in 'aggressive' audits - ABC News & Headlines – Australian Broadcasting Corporation"
+        ]
+      },
+      {
+        "trend": "healthcare",
+        "market_code": "AU",
+        "category": "Global Health",
+        "score": 15,
+        "examples": [
+          "The Foodism Show x Thailand Health & Wellness Expo 2026 Promoting Preventive Healthcare for a Sustainable Quality of Life - aap.com.au",
+          "The Foodism Show x Thailand Health & Wellness Expo 2026 promoting preventive healthcare for a sustainable quality of life - Asia Food Journal",
+          "Steven Strange chosen by healthcare AI company MediQo Health - The Weekly Source"
+        ]
       },
       {
         "trend": "outbreak",
         "market_code": "AU",
         "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "score": 13,
+        "examples": [
+          "DW News. . Health authorities in the Democratic Republic of Congo say Ebola has killed more than 2,000 people. Officials are racing to contain the outbreak, which is the fastest-spreading on record. #dwnews - facebook.com",
+          "DW News. . Health authorities in the Democratic Republic of Congo say Ebola has killed more than 2,000 people. Officials are racing to contain the outbreak, which is the fastest-spreading on record. #dwnews - facebook.com",
+          "DW News. . Health authorities in the Democratic Republic of Congo say Ebola has killed more than 2,000 people. Officials are racing to contain the outbreak, which is the fastest-spreading on record. #dwnews - facebook.com"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "AU",
+        "category": "Mental Health",
+        "score": 11,
+        "examples": [
+          "FIFO boss resigns from flagship youth mental health service - The Age",
+          "FIFO boss resigns from flagship youth mental health service - The Age",
+          "People with psychosocial disability from mental illness will lose out from tightened NDIS eligibility - The Conversation"
+        ]
+      },
+      {
+        "trend": "warning",
+        "market_code": "AU",
+        "category": "Global Health",
+        "score": 10,
+        "examples": [
+          "Health watchdog issues warning over second alleged fake Victorian doctor - ABC News & Headlines – Australian Broadcasting Corporation",
+          "‘Real mummy’s curse’: health warning over growing trade in mummified human remains - The Guardian",
+          "Safety warning after dragline blow knocks out worker - Industry Queensland"
+        ]
+      },
+      {
+        "trend": "disease",
+        "market_code": "AU",
+        "category": "Global Health",
+        "score": 9,
+        "examples": [
+          "Risk of Severe Arboviral Disease in Patients Receiving B Cell-Depleting or Modulating Medications - Centers for Disease Control and Prevention | CDC (.gov)",
+          "Risk of Severe Arboviral Disease in Patients Receiving B Cell-Depleting or Modulating Medications - Centers for Disease Control and Prevention | CDC (.gov)",
+          "Ebola disease outbreak in the Democratic Republic of the Congo and Uganda - European Centre for Disease Prevention and Control (ECDC)"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "AU",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
+        "score": 8,
+        "examples": [
+          "FIFO boss resigns from flagship youth mental health service - The Age",
+          "FIFO boss resigns from flagship youth mental health service - The Age",
+          "WHAT DOES MENTAL HEALTH LOOK LIKE? GLOBAL ART COMPETITION OPENS CALL FOR ENTRIES - FilmInk"
+        ]
       },
       {
-        "trend": "medical research",
+        "trend": "public health",
         "market_code": "AU",
         "category": "Global Health",
-        "score": 1,
-        "examples": []
+        "score": 7,
+        "examples": [
+          "Why Trump’s MMR vaccine order is the latest public health disaster, with effects set to last years - The Conversation",
+          "Why Trump’s MMR vaccine order is the latest public health disaster, with effects set to last years - The Conversation",
+          "With 500 injured kids, e-scooters become a ‘public health challenge’ - Euronews.com"
+        ]
       },
       {
-        "trend": "drug approval",
+        "trend": "virus",
+        "market_code": "AU",
+        "category": "Outbreaks",
+        "score": 7,
+        "examples": [
+          "Aussie travellers warned about potentially deadly virus - Escape Australia",
+          "Strengthening the Bundibugyo virus disease response through community evidence - World Health Organization (WHO)",
+          "Scientists have designed a functioning virus from scratch using AI – what you need to know - The Conversation"
+        ]
+      },
+      {
+        "trend": "vaccine",
         "market_code": "AU",
         "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
+        "score": 6,
+        "examples": [
+          "Why Trump’s MMR vaccine order is the latest public health disaster, with effects set to last years - The Conversation",
+          "Why Trump’s MMR vaccine order is the latest public health disaster, with effects set to last years - The Conversation",
+          "Ebola deaths top 2,000 as scientists race to develop vaccine - UN News"
+        ]
       },
       {
-        "trend": "diet wellness",
+        "trend": "drug",
         "market_code": "AU",
-        "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "category": "Drug & Treatment News",
+        "score": 5,
+        "examples": [
+          "FDA Advisory No.2026-0866 || Public Health Warning Against the Purchase and Use of the Unauthorized Cosmetic Product “KEVIN & COCO MOUSSE BLUSH & BLUSHER (01 CHARM RUBY, 02 HONEY CORAL, 03 MILK PEARL)” - Food and Drug Administr - fda.gov.ph",
+          "FDA approves first-in-class drug to treat narcolepsy - Drug Discovery News",
+          "FDA approves first-in-class drug to treat narcolepsy - Drug Discovery News"
+        ]
       }
     ],
     "Canada": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "CA",
         "category": "Global Health",
-        "score": 1,
-        "examples": []
+        "score": 65,
+        "examples": [
+          "Project aims to eliminate gaps in brain and heart health care for Indigenous elders - sudbury.com",
+          "Heart disease doesn’t always look the same in women - Niagara Health",
+          "Mental health run brings colour and awareness to Strathmore - strathmorenow.com"
+        ]
+      },
+      {
+        "trend": "healthcare",
+        "market_code": "CA",
+        "category": "Global Health",
+        "score": 16,
+        "examples": [
+          "The Foodism Show x Thailand Health & Wellness Expo 2026 promoting preventive healthcare for a sustainable quality of life - Asia Food Journal",
+          "3 AI Healthcare Stocks Retail Investors Are Watching For Real World Adoption - simplywall.st",
+          "The AI boom could boost Epic's position, health system execs say. Here's where AI startups can still win - Fierce Healthcare"
+        ]
       },
       {
         "trend": "outbreak",
         "market_code": "CA",
         "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "score": 14,
+        "examples": [
+          "Ebola disease outbreak in the Democratic Republic of the Congo and Uganda - European Centre for Disease Prevention and Control (ECDC)",
+          "DW News. . Health authorities in the Democratic Republic of Congo say Ebola has killed more than 2,000 people. Officials are racing to contain the outbreak, which is the fastest-spreading on record. #dwnews - facebook.com",
+          "Ebola disease outbreak in the Democratic Republic of the Congo and Uganda - European Centre for Disease Prevention and Control (ECDC)"
+        ]
+      },
+      {
+        "trend": "medical",
+        "market_code": "CA",
+        "category": "Global Health",
+        "score": 14,
+        "examples": [
+          "Shortage of hotel rooms during wildfire season creates challenges for medical travellers to Thunder Bay - CBC",
+          "Four-storey medical building in Landmark district goes before city council Tuesday evening - Castanet",
+          "Portage council backs medical van, development push and community grants - PortageOnline"
+        ]
+      },
+      {
+        "trend": "disease",
+        "market_code": "CA",
+        "category": "Global Health",
+        "score": 12,
+        "examples": [
+          "Ebola disease outbreak in the Democratic Republic of the Congo and Uganda - European Centre for Disease Prevention and Control (ECDC)",
+          "Ebola disease outbreak in the Democratic Republic of the Congo and Uganda - European Centre for Disease Prevention and Control (ECDC)",
+          "Heart disease doesn’t always look the same in women - Niagara Health"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "CA",
+        "category": "Mental Health",
+        "score": 11,
+        "examples": [
+          "Mental health run brings colour and awareness to Strathmore - strathmorenow.com",
+          "Mental health run brings colour and awareness to Strathmore - strathmorenow.com",
+          "Spotlight: One night at Massey Hall brings a cross-genre Canadian lineup together for mental health - Oakville News"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "CA",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
+        "score": 11,
+        "examples": [
+          "Mental health run brings colour and awareness to Strathmore - strathmorenow.com",
+          "Mental health run brings colour and awareness to Strathmore - strathmorenow.com",
+          "Spotlight: One night at Massey Hall brings a cross-genre Canadian lineup together for mental health - Oakville News"
+        ]
       },
       {
-        "trend": "medical research",
-        "market_code": "CA",
-        "category": "Global Health",
-        "score": 1,
-        "examples": []
-      },
-      {
-        "trend": "drug approval",
+        "trend": "vaccine",
         "market_code": "CA",
         "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
+        "score": 11,
+        "examples": [
+          "Why Trump’s MMR vaccine order is the latest public health disaster, with effects set to last years - The Conversation",
+          "Rep. Lois Frankel slams Trump's vaccine executive order, warning of risks to children's health - WUSF",
+          "Race to find Ebola vaccine as DR Congo outbreak kills more than 2,000 - Yahoo News Canada"
+        ]
       },
       {
-        "trend": "diet wellness",
+        "trend": "public health",
         "market_code": "CA",
-        "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "category": "Global Health",
+        "score": 8,
+        "examples": [
+          "Why Trump’s MMR vaccine order is the latest public health disaster, with effects set to last years - The Conversation",
+          "With 500 injured kids, e-scooters become a ‘public health challenge’ - Euronews.com",
+          "Ottawa’s new science hub to support CFIA, Public Health Agency research - Food In Canada"
+        ]
+      },
+      {
+        "trend": "heart",
+        "market_code": "CA",
+        "category": "Chronic Disease",
+        "score": 7,
+        "examples": [
+          "Project aims to eliminate gaps in brain and heart health care for Indigenous elders - sudbury.com",
+          "Heart disease doesn’t always look the same in women - Niagara Health",
+          "Tirzepatide lowers heart attack and cardiovascular event risk in adults with type 2 diabetes - News-Medical"
+        ]
+      },
+      {
+        "trend": "warning",
+        "market_code": "CA",
+        "category": "Global Health",
+        "score": 7,
+        "examples": [
+          "‘Real mummy’s curse’: health warning over growing trade in mummified human remains - The Guardian",
+          "FDA Advisory No.2026-0868 || Public Health Warning Against the Purchase and Use of the Unauthorized Cosmetic Product “KEVIN & COCO PUPPY-ANGEL LIPSTICK (01 CHARM RUBY, 02 HONEY CORAL, 03 MILK PEARL, 04 BLAZING BLUSH, 05 SWEET - fda.gov.ph",
+          "Off-the-charts dust spike triggers hazardous air quality warning in Westmorland - Imperial Valley Press Online"
+        ]
+      },
+      {
+        "trend": "children",
+        "market_code": "CA",
+        "category": "Children Health",
+        "score": 7,
+        "examples": [
+          "Rep. Lois Frankel slams Trump's vaccine executive order, warning of risks to children's health - WUSF",
+          "Death linked to measles rises to 885 in Bangladesh as 5 more children die - Anadolu Ajansı",
+          "What to know about the trial of Lindsay Clancy, woman accused of killing her 3 children - CBC"
+        ]
       }
     ],
     "United Arab Emirates": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "AE",
         "category": "Arab Health",
-        "score": 1,
-        "examples": []
+        "score": 79,
+        "examples": [
+          "Opinion | I Was Dick Cheney’s Cardiologist. I Have Questions About Trump’s Health. - nytimes.com",
+          "Nuclear power push ramps up uranium mill — and tribal health concerns - npr.org",
+          "How to design a space habitat that supports its residents’ mental health - MIT News"
+        ]
+      },
+      {
+        "trend": "medical",
+        "market_code": "AE",
+        "category": "Arab Health",
+        "score": 19,
+        "examples": [
+          "Landstuhl Regional Medical Center Team Prepares Joint US Military Medical Personnel for Global Health Engagements - DVIDS",
+          "Landstuhl Regional Medical Center Team Prepares Joint US Military Medical Personnel for Global Health Engagements - DVIDS",
+          "Landstuhl Regional Medical Center Team Prepares Joint US Military Medical Personnel for Global Health Engagements - DVIDS"
+        ]
       },
       {
         "trend": "outbreak",
         "market_code": "AE",
         "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "score": 12,
+        "examples": [
+          "Ebola disease outbreak in the Democratic Republic of the Congo and Uganda - European Centre for Disease Prevention and Control (ECDC)",
+          "DW News. . Health authorities in the Democratic Republic of Congo say Ebola has killed more than 2,000 people. Officials are racing to contain the outbreak, which is the fastest-spreading on record. #dwnews - facebook.com",
+          "Ebola disease outbreak in the Democratic Republic of the Congo and Uganda - European Centre for Disease Prevention and Control (ECDC)"
+        ]
+      },
+      {
+        "trend": "healthcare",
+        "market_code": "AE",
+        "category": "Arab Health",
+        "score": 12,
+        "examples": [
+          "Jupiter Medical Center Recognized Among Becker’s 100 Great Community Hospitals - Florida Hospital News and Healthcare Report",
+          "DentaQuest breach exposes data of 15M people, a record this year - Healthcare Dive",
+          "The Foodism Show x Thailand Health & Wellness Expo 2026 promoting preventive healthcare for a sustainable quality of life - Asia Food Journal"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "AE",
+        "category": "Mental Health",
+        "score": 11,
+        "examples": [
+          "How to design a space habitat that supports its residents’ mental health - MIT News",
+          "Study finds lasting mental health impacts on Lexington’s laid-off Tyson Foods workers - Nebraska Public Media",
+          "Study finds lasting mental health impacts on Lexington’s laid-off Tyson Foods workers - Nebraska Public Media"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "AE",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
+        "score": 11,
+        "examples": [
+          "How to design a space habitat that supports its residents’ mental health - MIT News",
+          "Study finds lasting mental health impacts on Lexington’s laid-off Tyson Foods workers - Nebraska Public Media",
+          "Study finds lasting mental health impacts on Lexington’s laid-off Tyson Foods workers - Nebraska Public Media"
+        ]
       },
       {
-        "trend": "medical research",
+        "trend": "disease",
         "market_code": "AE",
         "category": "Arab Health",
-        "score": 1,
-        "examples": []
+        "score": 11,
+        "examples": [
+          "Ebola disease outbreak in the Democratic Republic of the Congo and Uganda - European Centre for Disease Prevention and Control (ECDC)",
+          "Ebola disease outbreak in the Democratic Republic of the Congo and Uganda - European Centre for Disease Prevention and Control (ECDC)",
+          "Risk of Severe Arboviral Disease in Patients Receiving B Cell-Depleting or Modulating Medications - Centers for Disease Control and Prevention | CDC (.gov)"
+        ]
       },
       {
-        "trend": "drug approval",
+        "trend": "virus",
         "market_code": "AE",
-        "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "West Nile Virus Alert - City and County of Denver - City and County of Denver",
+          "Dallas County confirms first human case of West Nile virus of 2026 season - KERA News",
+          "Outdoor activities suspended because of West Nile virus - FOX 5 Atlanta"
+        ]
       },
       {
-        "trend": "diet wellness",
+        "trend": "hospitals",
         "market_code": "AE",
-        "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "category": "Arab Health",
+        "score": 8,
+        "examples": [
+          "Jupiter Medical Center Recognized Among Becker’s 100 Great Community Hospitals - Florida Hospital News and Healthcare Report",
+          "All ECU Health hospitals receive Get With The Guidelines® awards for fourth consecutive year - ECU Health",
+          "U.S. News & World Report “Best Hospitals 2026-2027” List Includes All NYC Health + Hospitals’ Acute Care Facilities - NYC Health + Hospitals"
+        ]
+      },
+      {
+        "trend": "public health",
+        "market_code": "AE",
+        "category": "Arab Health",
+        "score": 8,
+        "examples": [
+          "Community members demand Colorado issue public health order for ICE tuberculosis case - KUNC",
+          "Concord University adds Master of Public Health to graduate lineup - The Real WV",
+          "Why Trump’s MMR vaccine order is the latest public health disaster, with effects set to last years - The Conversation"
+        ]
+      },
+      {
+        "trend": "warning",
+        "market_code": "AE",
+        "category": "Arab Health",
+        "score": 8,
+        "examples": [
+          "Calcasieu Parish Coroner issues public health warning over deadly bacteria found in local waters - KPLC 7 News",
+          "‘Real mummy’s curse’: health warning over growing trade in mummified human remains - theguardian.com",
+          "Off-the-charts dust spike triggers hazardous air quality warning in Westmorland - Imperial Valley Press Online"
+        ]
+      },
+      {
+        "trend": "medicine",
+        "market_code": "AE",
+        "category": "Arab Health",
+        "score": 7,
+        "examples": [
+          "New division chiefs appointed in internal medicine - University of Nebraska Medical Center",
+          "Clinical: Expanded Access Takes SNIPR001 Beyond the Gut - CRISPR Medicine News",
+          "Vaccines for Adults 65 and Older: What You Need to Know to Stay Healthy - Stony Brook Medicine"
+        ]
       }
     ],
     "Saudi Arabia": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "SA",
         "category": "Arab Health",
-        "score": 1,
-        "examples": []
+        "score": 79,
+        "examples": [
+          "Opinion | I Was Dick Cheney’s Cardiologist. I Have Questions About Trump’s Health. - nytimes.com",
+          "Nuclear power push ramps up uranium mill — and tribal health concerns - npr.org",
+          "How to design a space habitat that supports its residents’ mental health - MIT News"
+        ]
+      },
+      {
+        "trend": "medical",
+        "market_code": "SA",
+        "category": "Arab Health",
+        "score": 19,
+        "examples": [
+          "Landstuhl Regional Medical Center Team Prepares Joint US Military Medical Personnel for Global Health Engagements - DVIDS",
+          "Landstuhl Regional Medical Center Team Prepares Joint US Military Medical Personnel for Global Health Engagements - DVIDS",
+          "Landstuhl Regional Medical Center Team Prepares Joint US Military Medical Personnel for Global Health Engagements - DVIDS"
+        ]
       },
       {
         "trend": "outbreak",
         "market_code": "SA",
         "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "score": 12,
+        "examples": [
+          "Ebola disease outbreak in the Democratic Republic of the Congo and Uganda - European Centre for Disease Prevention and Control (ECDC)",
+          "DW News. . Health authorities in the Democratic Republic of Congo say Ebola has killed more than 2,000 people. Officials are racing to contain the outbreak, which is the fastest-spreading on record. #dwnews - facebook.com",
+          "Ebola disease outbreak in the Democratic Republic of the Congo and Uganda - European Centre for Disease Prevention and Control (ECDC)"
+        ]
+      },
+      {
+        "trend": "healthcare",
+        "market_code": "SA",
+        "category": "Arab Health",
+        "score": 12,
+        "examples": [
+          "Jupiter Medical Center Recognized Among Becker’s 100 Great Community Hospitals - Florida Hospital News and Healthcare Report",
+          "DentaQuest breach exposes data of 15M people, a record this year - Healthcare Dive",
+          "The Foodism Show x Thailand Health & Wellness Expo 2026 promoting preventive healthcare for a sustainable quality of life - Asia Food Journal"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "SA",
+        "category": "Mental Health",
+        "score": 11,
+        "examples": [
+          "How to design a space habitat that supports its residents’ mental health - MIT News",
+          "Study finds lasting mental health impacts on Lexington’s laid-off Tyson Foods workers - Nebraska Public Media",
+          "Study finds lasting mental health impacts on Lexington’s laid-off Tyson Foods workers - Nebraska Public Media"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "SA",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
+        "score": 11,
+        "examples": [
+          "How to design a space habitat that supports its residents’ mental health - MIT News",
+          "Study finds lasting mental health impacts on Lexington’s laid-off Tyson Foods workers - Nebraska Public Media",
+          "Study finds lasting mental health impacts on Lexington’s laid-off Tyson Foods workers - Nebraska Public Media"
+        ]
       },
       {
-        "trend": "medical research",
+        "trend": "disease",
         "market_code": "SA",
         "category": "Arab Health",
-        "score": 1,
-        "examples": []
+        "score": 11,
+        "examples": [
+          "Ebola disease outbreak in the Democratic Republic of the Congo and Uganda - European Centre for Disease Prevention and Control (ECDC)",
+          "Ebola disease outbreak in the Democratic Republic of the Congo and Uganda - European Centre for Disease Prevention and Control (ECDC)",
+          "Risk of Severe Arboviral Disease in Patients Receiving B Cell-Depleting or Modulating Medications - Centers for Disease Control and Prevention | CDC (.gov)"
+        ]
       },
       {
-        "trend": "drug approval",
+        "trend": "virus",
         "market_code": "SA",
-        "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "West Nile Virus Alert - City and County of Denver - City and County of Denver",
+          "Dallas County confirms first human case of West Nile virus of 2026 season - KERA News",
+          "Outdoor activities suspended because of West Nile virus - FOX 5 Atlanta"
+        ]
       },
       {
-        "trend": "diet wellness",
+        "trend": "hospitals",
         "market_code": "SA",
-        "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "category": "Arab Health",
+        "score": 8,
+        "examples": [
+          "Jupiter Medical Center Recognized Among Becker’s 100 Great Community Hospitals - Florida Hospital News and Healthcare Report",
+          "All ECU Health hospitals receive Get With The Guidelines® awards for fourth consecutive year - ECU Health",
+          "U.S. News & World Report “Best Hospitals 2026-2027” List Includes All NYC Health + Hospitals’ Acute Care Facilities - NYC Health + Hospitals"
+        ]
+      },
+      {
+        "trend": "public health",
+        "market_code": "SA",
+        "category": "Arab Health",
+        "score": 8,
+        "examples": [
+          "Community members demand Colorado issue public health order for ICE tuberculosis case - KUNC",
+          "Concord University adds Master of Public Health to graduate lineup - The Real WV",
+          "Why Trump’s MMR vaccine order is the latest public health disaster, with effects set to last years - The Conversation"
+        ]
+      },
+      {
+        "trend": "warning",
+        "market_code": "SA",
+        "category": "Arab Health",
+        "score": 8,
+        "examples": [
+          "Calcasieu Parish Coroner issues public health warning over deadly bacteria found in local waters - KPLC 7 News",
+          "‘Real mummy’s curse’: health warning over growing trade in mummified human remains - theguardian.com",
+          "Off-the-charts dust spike triggers hazardous air quality warning in Westmorland - Imperial Valley Press Online"
+        ]
+      },
+      {
+        "trend": "medicine",
+        "market_code": "SA",
+        "category": "Arab Health",
+        "score": 7,
+        "examples": [
+          "New division chiefs appointed in internal medicine - University of Nebraska Medical Center",
+          "Clinical: Expanded Access Takes SNIPR001 Beyond the Gut - CRISPR Medicine News",
+          "Vaccines for Adults 65 and Older: What You Need to Know to Stay Healthy - Stony Brook Medicine"
+        ]
       }
     ],
     "Qatar": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "QA",
         "category": "Arab Health",
-        "score": 1,
-        "examples": []
+        "score": 79,
+        "examples": [
+          "Opinion | I Was Dick Cheney’s Cardiologist. I Have Questions About Trump’s Health. - nytimes.com",
+          "Nuclear power push ramps up uranium mill — and tribal health concerns - npr.org",
+          "How to design a space habitat that supports its residents’ mental health - MIT News"
+        ]
+      },
+      {
+        "trend": "medical",
+        "market_code": "QA",
+        "category": "Arab Health",
+        "score": 19,
+        "examples": [
+          "Landstuhl Regional Medical Center Team Prepares Joint US Military Medical Personnel for Global Health Engagements - DVIDS",
+          "Landstuhl Regional Medical Center Team Prepares Joint US Military Medical Personnel for Global Health Engagements - DVIDS",
+          "Landstuhl Regional Medical Center Team Prepares Joint US Military Medical Personnel for Global Health Engagements - DVIDS"
+        ]
       },
       {
         "trend": "outbreak",
         "market_code": "QA",
         "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "score": 12,
+        "examples": [
+          "Ebola disease outbreak in the Democratic Republic of the Congo and Uganda - European Centre for Disease Prevention and Control (ECDC)",
+          "DW News. . Health authorities in the Democratic Republic of Congo say Ebola has killed more than 2,000 people. Officials are racing to contain the outbreak, which is the fastest-spreading on record. #dwnews - facebook.com",
+          "Ebola disease outbreak in the Democratic Republic of the Congo and Uganda - European Centre for Disease Prevention and Control (ECDC)"
+        ]
+      },
+      {
+        "trend": "healthcare",
+        "market_code": "QA",
+        "category": "Arab Health",
+        "score": 12,
+        "examples": [
+          "Jupiter Medical Center Recognized Among Becker’s 100 Great Community Hospitals - Florida Hospital News and Healthcare Report",
+          "DentaQuest breach exposes data of 15M people, a record this year - Healthcare Dive",
+          "The Foodism Show x Thailand Health & Wellness Expo 2026 promoting preventive healthcare for a sustainable quality of life - Asia Food Journal"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "QA",
+        "category": "Mental Health",
+        "score": 11,
+        "examples": [
+          "How to design a space habitat that supports its residents’ mental health - MIT News",
+          "Study finds lasting mental health impacts on Lexington’s laid-off Tyson Foods workers - Nebraska Public Media",
+          "Study finds lasting mental health impacts on Lexington’s laid-off Tyson Foods workers - Nebraska Public Media"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "QA",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
+        "score": 11,
+        "examples": [
+          "How to design a space habitat that supports its residents’ mental health - MIT News",
+          "Study finds lasting mental health impacts on Lexington’s laid-off Tyson Foods workers - Nebraska Public Media",
+          "Study finds lasting mental health impacts on Lexington’s laid-off Tyson Foods workers - Nebraska Public Media"
+        ]
       },
       {
-        "trend": "medical research",
+        "trend": "disease",
         "market_code": "QA",
         "category": "Arab Health",
-        "score": 1,
-        "examples": []
+        "score": 11,
+        "examples": [
+          "Ebola disease outbreak in the Democratic Republic of the Congo and Uganda - European Centre for Disease Prevention and Control (ECDC)",
+          "Ebola disease outbreak in the Democratic Republic of the Congo and Uganda - European Centre for Disease Prevention and Control (ECDC)",
+          "Risk of Severe Arboviral Disease in Patients Receiving B Cell-Depleting or Modulating Medications - Centers for Disease Control and Prevention | CDC (.gov)"
+        ]
       },
       {
-        "trend": "drug approval",
+        "trend": "virus",
         "market_code": "QA",
-        "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "West Nile Virus Alert - City and County of Denver - City and County of Denver",
+          "Dallas County confirms first human case of West Nile virus of 2026 season - KERA News",
+          "Outdoor activities suspended because of West Nile virus - FOX 5 Atlanta"
+        ]
       },
       {
-        "trend": "diet wellness",
+        "trend": "hospitals",
         "market_code": "QA",
-        "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "category": "Arab Health",
+        "score": 8,
+        "examples": [
+          "Jupiter Medical Center Recognized Among Becker’s 100 Great Community Hospitals - Florida Hospital News and Healthcare Report",
+          "All ECU Health hospitals receive Get With The Guidelines® awards for fourth consecutive year - ECU Health",
+          "U.S. News & World Report “Best Hospitals 2026-2027” List Includes All NYC Health + Hospitals’ Acute Care Facilities - NYC Health + Hospitals"
+        ]
+      },
+      {
+        "trend": "public health",
+        "market_code": "QA",
+        "category": "Arab Health",
+        "score": 8,
+        "examples": [
+          "Community members demand Colorado issue public health order for ICE tuberculosis case - KUNC",
+          "Concord University adds Master of Public Health to graduate lineup - The Real WV",
+          "Why Trump’s MMR vaccine order is the latest public health disaster, with effects set to last years - The Conversation"
+        ]
+      },
+      {
+        "trend": "warning",
+        "market_code": "QA",
+        "category": "Arab Health",
+        "score": 8,
+        "examples": [
+          "Calcasieu Parish Coroner issues public health warning over deadly bacteria found in local waters - KPLC 7 News",
+          "‘Real mummy’s curse’: health warning over growing trade in mummified human remains - theguardian.com",
+          "Off-the-charts dust spike triggers hazardous air quality warning in Westmorland - Imperial Valley Press Online"
+        ]
+      },
+      {
+        "trend": "medicine",
+        "market_code": "QA",
+        "category": "Arab Health",
+        "score": 7,
+        "examples": [
+          "New division chiefs appointed in internal medicine - University of Nebraska Medical Center",
+          "Clinical: Expanded Access Takes SNIPR001 Beyond the Gut - CRISPR Medicine News",
+          "Vaccines for Adults 65 and Older: What You Need to Know to Stay Healthy - Stony Brook Medicine"
+        ]
       }
     ],
     "Jordan": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "JO",
         "category": "Arab Health",
-        "score": 1,
-        "examples": []
+        "score": 79,
+        "examples": [
+          "Opinion | I Was Dick Cheney’s Cardiologist. I Have Questions About Trump’s Health. - nytimes.com",
+          "Nuclear power push ramps up uranium mill — and tribal health concerns - npr.org",
+          "How to design a space habitat that supports its residents’ mental health - MIT News"
+        ]
+      },
+      {
+        "trend": "medical",
+        "market_code": "JO",
+        "category": "Arab Health",
+        "score": 19,
+        "examples": [
+          "Landstuhl Regional Medical Center Team Prepares Joint US Military Medical Personnel for Global Health Engagements - DVIDS",
+          "Landstuhl Regional Medical Center Team Prepares Joint US Military Medical Personnel for Global Health Engagements - DVIDS",
+          "Landstuhl Regional Medical Center Team Prepares Joint US Military Medical Personnel for Global Health Engagements - DVIDS"
+        ]
       },
       {
         "trend": "outbreak",
         "market_code": "JO",
         "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "score": 12,
+        "examples": [
+          "Ebola disease outbreak in the Democratic Republic of the Congo and Uganda - European Centre for Disease Prevention and Control (ECDC)",
+          "DW News. . Health authorities in the Democratic Republic of Congo say Ebola has killed more than 2,000 people. Officials are racing to contain the outbreak, which is the fastest-spreading on record. #dwnews - facebook.com",
+          "Ebola disease outbreak in the Democratic Republic of the Congo and Uganda - European Centre for Disease Prevention and Control (ECDC)"
+        ]
+      },
+      {
+        "trend": "healthcare",
+        "market_code": "JO",
+        "category": "Arab Health",
+        "score": 12,
+        "examples": [
+          "Jupiter Medical Center Recognized Among Becker’s 100 Great Community Hospitals - Florida Hospital News and Healthcare Report",
+          "DentaQuest breach exposes data of 15M people, a record this year - Healthcare Dive",
+          "The Foodism Show x Thailand Health & Wellness Expo 2026 promoting preventive healthcare for a sustainable quality of life - Asia Food Journal"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "JO",
+        "category": "Mental Health",
+        "score": 11,
+        "examples": [
+          "How to design a space habitat that supports its residents’ mental health - MIT News",
+          "Study finds lasting mental health impacts on Lexington’s laid-off Tyson Foods workers - Nebraska Public Media",
+          "Study finds lasting mental health impacts on Lexington’s laid-off Tyson Foods workers - Nebraska Public Media"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "JO",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
+        "score": 11,
+        "examples": [
+          "How to design a space habitat that supports its residents’ mental health - MIT News",
+          "Study finds lasting mental health impacts on Lexington’s laid-off Tyson Foods workers - Nebraska Public Media",
+          "Study finds lasting mental health impacts on Lexington’s laid-off Tyson Foods workers - Nebraska Public Media"
+        ]
       },
       {
-        "trend": "medical research",
+        "trend": "disease",
         "market_code": "JO",
         "category": "Arab Health",
-        "score": 1,
-        "examples": []
+        "score": 11,
+        "examples": [
+          "Ebola disease outbreak in the Democratic Republic of the Congo and Uganda - European Centre for Disease Prevention and Control (ECDC)",
+          "Ebola disease outbreak in the Democratic Republic of the Congo and Uganda - European Centre for Disease Prevention and Control (ECDC)",
+          "Risk of Severe Arboviral Disease in Patients Receiving B Cell-Depleting or Modulating Medications - Centers for Disease Control and Prevention | CDC (.gov)"
+        ]
       },
       {
-        "trend": "drug approval",
+        "trend": "virus",
         "market_code": "JO",
-        "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "West Nile Virus Alert - City and County of Denver - City and County of Denver",
+          "Dallas County confirms first human case of West Nile virus of 2026 season - KERA News",
+          "Outdoor activities suspended because of West Nile virus - FOX 5 Atlanta"
+        ]
       },
       {
-        "trend": "diet wellness",
+        "trend": "hospitals",
         "market_code": "JO",
-        "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "category": "Arab Health",
+        "score": 8,
+        "examples": [
+          "Jupiter Medical Center Recognized Among Becker’s 100 Great Community Hospitals - Florida Hospital News and Healthcare Report",
+          "All ECU Health hospitals receive Get With The Guidelines® awards for fourth consecutive year - ECU Health",
+          "U.S. News & World Report “Best Hospitals 2026-2027” List Includes All NYC Health + Hospitals’ Acute Care Facilities - NYC Health + Hospitals"
+        ]
+      },
+      {
+        "trend": "public health",
+        "market_code": "JO",
+        "category": "Arab Health",
+        "score": 8,
+        "examples": [
+          "Community members demand Colorado issue public health order for ICE tuberculosis case - KUNC",
+          "Concord University adds Master of Public Health to graduate lineup - The Real WV",
+          "Why Trump’s MMR vaccine order is the latest public health disaster, with effects set to last years - The Conversation"
+        ]
+      },
+      {
+        "trend": "warning",
+        "market_code": "JO",
+        "category": "Arab Health",
+        "score": 8,
+        "examples": [
+          "Calcasieu Parish Coroner issues public health warning over deadly bacteria found in local waters - KPLC 7 News",
+          "‘Real mummy’s curse’: health warning over growing trade in mummified human remains - theguardian.com",
+          "Off-the-charts dust spike triggers hazardous air quality warning in Westmorland - Imperial Valley Press Online"
+        ]
+      },
+      {
+        "trend": "medicine",
+        "market_code": "JO",
+        "category": "Arab Health",
+        "score": 7,
+        "examples": [
+          "New division chiefs appointed in internal medicine - University of Nebraska Medical Center",
+          "Clinical: Expanded Access Takes SNIPR001 Beyond the Gut - CRISPR Medicine News",
+          "Vaccines for Adults 65 and Older: What You Need to Know to Stay Healthy - Stony Brook Medicine"
+        ]
       }
     ],
     "Lebanon": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "LB",
         "category": "Arab Health",
-        "score": 1,
-        "examples": []
+        "score": 79,
+        "examples": [
+          "Opinion | I Was Dick Cheney’s Cardiologist. I Have Questions About Trump’s Health. - nytimes.com",
+          "Nuclear power push ramps up uranium mill — and tribal health concerns - npr.org",
+          "How to design a space habitat that supports its residents’ mental health - MIT News"
+        ]
+      },
+      {
+        "trend": "medical",
+        "market_code": "LB",
+        "category": "Arab Health",
+        "score": 19,
+        "examples": [
+          "Landstuhl Regional Medical Center Team Prepares Joint US Military Medical Personnel for Global Health Engagements - DVIDS",
+          "Landstuhl Regional Medical Center Team Prepares Joint US Military Medical Personnel for Global Health Engagements - DVIDS",
+          "Landstuhl Regional Medical Center Team Prepares Joint US Military Medical Personnel for Global Health Engagements - DVIDS"
+        ]
       },
       {
         "trend": "outbreak",
         "market_code": "LB",
         "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "score": 12,
+        "examples": [
+          "Ebola disease outbreak in the Democratic Republic of the Congo and Uganda - European Centre for Disease Prevention and Control (ECDC)",
+          "DW News. . Health authorities in the Democratic Republic of Congo say Ebola has killed more than 2,000 people. Officials are racing to contain the outbreak, which is the fastest-spreading on record. #dwnews - facebook.com",
+          "Ebola disease outbreak in the Democratic Republic of the Congo and Uganda - European Centre for Disease Prevention and Control (ECDC)"
+        ]
+      },
+      {
+        "trend": "healthcare",
+        "market_code": "LB",
+        "category": "Arab Health",
+        "score": 12,
+        "examples": [
+          "Jupiter Medical Center Recognized Among Becker’s 100 Great Community Hospitals - Florida Hospital News and Healthcare Report",
+          "DentaQuest breach exposes data of 15M people, a record this year - Healthcare Dive",
+          "The Foodism Show x Thailand Health & Wellness Expo 2026 promoting preventive healthcare for a sustainable quality of life - Asia Food Journal"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "LB",
+        "category": "Mental Health",
+        "score": 11,
+        "examples": [
+          "How to design a space habitat that supports its residents’ mental health - MIT News",
+          "Study finds lasting mental health impacts on Lexington’s laid-off Tyson Foods workers - Nebraska Public Media",
+          "Study finds lasting mental health impacts on Lexington’s laid-off Tyson Foods workers - Nebraska Public Media"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "LB",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
+        "score": 11,
+        "examples": [
+          "How to design a space habitat that supports its residents’ mental health - MIT News",
+          "Study finds lasting mental health impacts on Lexington’s laid-off Tyson Foods workers - Nebraska Public Media",
+          "Study finds lasting mental health impacts on Lexington’s laid-off Tyson Foods workers - Nebraska Public Media"
+        ]
       },
       {
-        "trend": "medical research",
+        "trend": "disease",
         "market_code": "LB",
         "category": "Arab Health",
-        "score": 1,
-        "examples": []
+        "score": 11,
+        "examples": [
+          "Ebola disease outbreak in the Democratic Republic of the Congo and Uganda - European Centre for Disease Prevention and Control (ECDC)",
+          "Ebola disease outbreak in the Democratic Republic of the Congo and Uganda - European Centre for Disease Prevention and Control (ECDC)",
+          "Risk of Severe Arboviral Disease in Patients Receiving B Cell-Depleting or Modulating Medications - Centers for Disease Control and Prevention | CDC (.gov)"
+        ]
       },
       {
-        "trend": "drug approval",
+        "trend": "virus",
         "market_code": "LB",
-        "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "West Nile Virus Alert - City and County of Denver - City and County of Denver",
+          "Dallas County confirms first human case of West Nile virus of 2026 season - KERA News",
+          "Outdoor activities suspended because of West Nile virus - FOX 5 Atlanta"
+        ]
       },
       {
-        "trend": "diet wellness",
+        "trend": "hospitals",
         "market_code": "LB",
-        "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "category": "Arab Health",
+        "score": 8,
+        "examples": [
+          "Jupiter Medical Center Recognized Among Becker’s 100 Great Community Hospitals - Florida Hospital News and Healthcare Report",
+          "All ECU Health hospitals receive Get With The Guidelines® awards for fourth consecutive year - ECU Health",
+          "U.S. News & World Report “Best Hospitals 2026-2027” List Includes All NYC Health + Hospitals’ Acute Care Facilities - NYC Health + Hospitals"
+        ]
+      },
+      {
+        "trend": "public health",
+        "market_code": "LB",
+        "category": "Arab Health",
+        "score": 8,
+        "examples": [
+          "Community members demand Colorado issue public health order for ICE tuberculosis case - KUNC",
+          "Concord University adds Master of Public Health to graduate lineup - The Real WV",
+          "Why Trump’s MMR vaccine order is the latest public health disaster, with effects set to last years - The Conversation"
+        ]
+      },
+      {
+        "trend": "warning",
+        "market_code": "LB",
+        "category": "Arab Health",
+        "score": 8,
+        "examples": [
+          "Calcasieu Parish Coroner issues public health warning over deadly bacteria found in local waters - KPLC 7 News",
+          "‘Real mummy’s curse’: health warning over growing trade in mummified human remains - theguardian.com",
+          "Off-the-charts dust spike triggers hazardous air quality warning in Westmorland - Imperial Valley Press Online"
+        ]
+      },
+      {
+        "trend": "medicine",
+        "market_code": "LB",
+        "category": "Arab Health",
+        "score": 7,
+        "examples": [
+          "New division chiefs appointed in internal medicine - University of Nebraska Medical Center",
+          "Clinical: Expanded Access Takes SNIPR001 Beyond the Gut - CRISPR Medicine News",
+          "Vaccines for Adults 65 and Older: What You Need to Know to Stay Healthy - Stony Brook Medicine"
+        ]
       }
     ]
   }
