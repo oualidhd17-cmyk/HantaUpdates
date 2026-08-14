@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-14T00:51:08.168974+00:00",
+  "updated_at": "2026-08-14T07:02:44.456873+00:00",
   "total_trends": 252,
   "markets": {
     "United States": [
@@ -7,22 +7,22 @@
         "trend": "health",
         "market_code": "US",
         "category": "US Health",
-        "score": 64,
+        "score": 70,
         "examples": [
           "HHS Announces Historic Investment to Expand Health Center Program, Bringing Primary Care to Nearly 1 Million More Americans - HHS.gov",
           "Armstrong appoints senior advisor Conner Swanson to lead ND Department of Health and Human Services - North Dakota Office of the Governor (.gov)",
-          "Selena Gomez and her mental health startup accused of fraud - CNN"
+          "As It Walks Toward Its Doom, Providence Health Plan Gets More Bad News - Willamette Week"
         ]
       },
       {
         "trend": "medical",
         "market_code": "US",
         "category": "US Health",
-        "score": 16,
+        "score": 15,
         "examples": [
-          "Deaths of 3 ICE Detainees Prompt Questions About Medical Care - The New York Times",
-          "Link discovered between medical debt and insufficient sleep - Augusta University",
-          "FULL LIST: 22 of 56 remains found improperly stored at South Chicago Chapel funeral home ID'd by Cook County medical examiner - ABC7 Chicago"
+          "Immigrant detained by ICE dies after medical emergency - NBC News",
+          "PCF and Bayer Launch First Annual VA Medical Education Program - Prostate Cancer Foundation (PCF)",
+          "Deaths of 3 ICE Detainees Prompt Questions About Medical Care - The New York Times"
         ]
       },
       {
@@ -33,7 +33,7 @@
         "examples": [
           "A Salmonella Outbreak in Peppers Is Now Pulling Chicken Wraps and Burritos from Shelves Through a Second Federal Agency - Medical Daily",
           "Wisconsin health officials investigating measles outbreak in southwest counties - WPR",
-          "Ebola outbreak has spread to new province in Congo, the head of Africa CDC says - PBS"
+          "DRC’s fast-growing Ebola outbreak spreads to sixth province - The Guardian"
         ]
       },
       {
@@ -42,9 +42,9 @@
         "category": "Mental Health",
         "score": 10,
         "examples": [
-          "Selena Gomez and her mental health startup accused of fraud - CNN",
-          "Montgomery County sues social media companies over youth mental health harm - WHYY",
-          "The Lindsay Clancy trial brings maternal mental health into the spotlight - KOMU 8"
+          "Selena Gomez and her mom accused of fraud over their mental health startup - NBC News",
+          "Postpartum mental health: what families and mothers need to know - Dakota News Now",
+          "Postpartum mental health: what families and mothers need to know - Dakota News Now"
         ]
       },
       {
@@ -53,27 +53,38 @@
         "category": "Mental Health",
         "score": 10,
         "examples": [
-          "Selena Gomez and her mental health startup accused of fraud - CNN",
-          "Montgomery County sues social media companies over youth mental health harm - WHYY",
-          "The Lindsay Clancy trial brings maternal mental health into the spotlight - KOMU 8"
+          "Selena Gomez and her mom accused of fraud over their mental health startup - NBC News",
+          "Postpartum mental health: what families and mothers need to know - Dakota News Now",
+          "Postpartum mental health: what families and mothers need to know - Dakota News Now"
+        ]
+      },
+      {
+        "trend": "public health",
+        "market_code": "US",
+        "category": "US Health",
+        "score": 10,
+        "examples": [
+          "Public Health Watch Wins Two National Edward R. Murrow Awards - Public Health Watch",
+          "Public Health Watch Wins Two National Edward R. Murrow Awards - Public Health Watch",
+          "Colorado issues public health order over tuberculosis at Aurora immigrant detention center - Colorado Public Radio"
         ]
       },
       {
         "trend": "virus",
         "market_code": "US",
         "category": "Outbreaks",
-        "score": 10,
+        "score": 8,
         "examples": [
-          "Researcher earns patent for breath-based virus detection technology - Northeastern Global News",
+          "Researcher earns patent for breath-based virus detection technology - news.northeastern.edu",
           "Rhode Island reports Powassan virus case in Newport County - Outbreak News Today",
-          "Ebola tracing improves in DR Congo – but the virus is still winning the race - UN News"
+          "Daily news: West Nile virus is much more present than usual in Utah this year - Utah Public Radio"
         ]
       },
       {
         "trend": "healthcare",
         "market_code": "US",
         "category": "US Health",
-        "score": 9,
+        "score": 8,
         "examples": [
           "The AI boom could boost Epic's position, health system execs say. Here's where AI startups can still win - Fierce Healthcare",
           "Patients Wary of Governments, Companies Pushing AI as a Rural Healthcare Solution - KFF Health News",
@@ -81,58 +92,47 @@
         ]
       },
       {
-        "trend": "public health",
+        "trend": "disease",
         "market_code": "US",
         "category": "US Health",
-        "score": 8,
-        "examples": [
-          "Colorado issues public health order over tuberculosis at Aurora immigrant detention center - Colorado Public Radio",
-          "Colorado issues state-level public health order over tuberculosis case at Aurora ICE facility - Colorado Newsline",
-          "Celebrating \"Excellent\" Advocacy Faculty at the Bloomberg School - Johns Hopkins Bloomberg School of Public Health"
-        ]
-      },
-      {
-        "trend": "nile virus",
-        "market_code": "US",
-        "category": "Outbreaks",
         "score": 6,
         "examples": [
-          "Daily news: West Nile virus is much more present than usual in Utah this year - Utah Public Radio",
-          "State confirms first human positive case of West Nile Virus in Hays County - Hays County (.gov)",
-          "Butte County confirms its first West Nile virus death of the year - CBS News"
+          "Risk of Severe Arboviral Disease in Patients Receiving B Cell-Depleting or Modulating Medications - KDHE.ks.gov",
+          "Risk of Severe Arboviral Disease in Patients Receiving B Cell-Depleting or Modulating Medications - KDHE.ks.gov",
+          "Thomas Fraser, MD, on the Future of Infectious Disease Care - Cleveland Clinic"
         ]
       },
       {
-        "trend": "west nile virus",
+        "trend": "cancer",
         "market_code": "US",
-        "category": "Outbreaks",
-        "score": 6,
+        "category": "Chronic Disease",
+        "score": 5,
         "examples": [
-          "Daily news: West Nile virus is much more present than usual in Utah this year - Utah Public Radio",
-          "State confirms first human positive case of West Nile Virus in Hays County - Hays County (.gov)",
-          "Butte County confirms its first West Nile virus death of the year - CBS News"
+          "PCF and Bayer Launch First Annual VA Medical Education Program - Prostate Cancer Foundation (PCF)",
+          "FDA Expands Clinical Trial Eligibility for Cancer Patients - Oncology News Central",
+          "mRNA-4359: Promising Cancer Vaccine, Dose, Administration, and Clinical Trials - Oncodaily"
         ]
       },
       {
-        "trend": "trial",
+        "trend": "health officials",
         "market_code": "US",
         "category": "US Health",
         "score": 5,
         "examples": [
-          "FDA approves pivotal trial for FastWave Medical's peripheral IVL system - Cardiovascular Business",
-          "The Lindsay Clancy trial brings maternal mental health into the spotlight - KOMU 8",
-          "FDA Expands Clinical Trial Eligibility for Cancer Patients - Oncology News Central"
+          "Health officials warn of Hamlin Lake algae bloom health risks - 9and10News.com",
+          "Health officials issue blue-green algae advisory for Lake Du Bay - WSAW",
+          "Wisconsin health officials investigating measles outbreak in southwest counties - WPR"
         ]
       },
       {
-        "trend": "hospital",
+        "trend": "patients",
         "market_code": "US",
         "category": "US Health",
         "score": 5,
         "examples": [
-          "In the name of public health and safety, Mayor Sarno calls for Vibra Hospital to take action to clean and secure their property - springfield-ma.gov",
-          "Newark-Wayne Community Hospital Earns High Marks in U.S. News Rankings - Finger Lakes Daily News",
-          "Hospital in Monroe County ranked as one of best in Pennsylvania - Pocono Record"
+          "Risk of Severe Arboviral Disease in Patients Receiving B Cell-Depleting or Modulating Medications - KDHE.ks.gov",
+          "Risk of Severe Arboviral Disease in Patients Receiving B Cell-Depleting or Modulating Medications - KDHE.ks.gov",
+          "Risk of Severe Arboviral Disease in Patients Receiving B Cell-Depleting or Modulating Medications - KDHE.ks.gov"
         ]
       }
     ],
@@ -141,121 +141,110 @@
         "trend": "health",
         "market_code": "GB",
         "category": "Europe Health",
-        "score": 63,
+        "score": 69,
         "examples": [
-          "You've got the grades, but don't pass on your health - GOV.UK",
-          "Consultants revolt over leadership of Humber Health Partnership - BBC",
-          "Residents urged to attend free community health and wellbeing event - Latest News - News Updates - Charnwood Borough Council"
-        ]
-      },
-      {
-        "trend": "outbreak",
-        "market_code": "GB",
-        "category": "Outbreaks",
-        "score": 16,
-        "examples": [
-          "Fiji’s HIV outbreak is a public health emergency. Pacific neighbours must step up - The Conversation",
-          "DRC’s fast-growing Ebola outbreak spreads to sixth province - The Guardian",
-          "DR Congo's fastest-growing Ebola outbreak reaches sixth province - Sky News"
+          "Residents urged to attend free community health and wellbeing event - Latest News - News Updates - Charnwood Borough Council",
+          "HSJ Podcast: The true cost of the FDP - HSJ | Health Service Journal",
+          "Consultants revolt over leadership of Humber Health Partnership - BBC"
         ]
       },
       {
         "trend": "medical",
         "market_code": "GB",
         "category": "Europe Health",
-        "score": 15,
+        "score": 19,
         "examples": [
-          "Introduction: Reframing access to our colonial medical photograph collection - LSHTM",
-          "Sarah Farhan. Medical Education and the Making of Iraqi Doctors, 1869–1959 . 368 pp., illus., figs., tables, bibl., index. Edinburgh: Edinburgh University Press, 2025. £95 (cloth); ISBN 9781399553285. E-book available. - The University of Chicago Press: Journals",
-          "Spurs agree next transfer deal in Arsenal blow as medical booked - London Evening Standard"
+          "Letter: UK shouldn’t need a war to ensure its medical readiness - Financial Times",
+          "Spurs agree next transfer deal in Arsenal blow as medical booked - London Evening Standard",
+          "Introduction: Reframing access to our colonial medical photograph collection - LSHTM"
         ]
       },
       {
-        "trend": "healthcare",
+        "trend": "outbreak",
         "market_code": "GB",
-        "category": "Europe Health",
+        "category": "Outbreaks",
         "score": 15,
         "examples": [
-          "China redirects medical insurance funds towards primary healthcare - Asia Insurance Review",
-          "Marley Medical operations transition to Starlight Healthcare - Dealroom",
-          "The Acquisition Readiness Checklist: What Buyers Actually Diligence in a €25M to €250M HealthTech, MedTech, Healthcare AI, Health IT, Digital Health Deal - healthcare.digital"
+          "Fiji’s HIV outbreak is a public health emergency. Pacific neighbours must step up - The Conversation",
+          "DRC’s fast-growing Ebola outbreak spreads to sixth province - The Guardian",
+          "Oxfam warns of 'lack of resources' in Ebola outbreak - BBC"
         ]
       },
       {
         "trend": "ebola outbreak",
         "market_code": "GB",
         "category": "Outbreaks",
-        "score": 13,
+        "score": 12,
         "examples": [
           "DRC’s fast-growing Ebola outbreak spreads to sixth province - The Guardian",
-          "DR Congo's fastest-growing Ebola outbreak reaches sixth province - Sky News",
-          "WHO Chief: ‘Congo Ebola Outbreak to be Worst Ever’ - EMJ"
+          "Oxfam warns of 'lack of resources' in Ebola outbreak - BBC",
+          "DR Congo's fastest-growing Ebola outbreak reaches sixth province - Sky News"
+        ]
+      },
+      {
+        "trend": "healthcare",
+        "market_code": "GB",
+        "category": "Europe Health",
+        "score": 11,
+        "examples": [
+          "The Acquisition Readiness Checklist: What Buyers Actually Diligence in a €25M to €250M HealthTech, MedTech, Healthcare AI, Health IT, Digital Health Deal - healthcare.digital",
+          "The Acquisition Readiness Checklist: What Buyers Actually Diligence in a €25M to €250M HealthTech, MedTech, Healthcare AI, Health IT, Digital Health Deal - healthcare.digital",
+          "From Diagnosis to Wellness, AI’s Healthcare Revolution - Technology Org"
         ]
       },
       {
         "trend": "mental",
         "market_code": "GB",
         "category": "Mental Health",
-        "score": 9,
+        "score": 10,
         "examples": [
-          "Fall in girls’ top A-level grades linked to mental health crisis - The Telegraph",
-          "£3.4m study to test same-day mental health support across Wales - nation.cymru",
-          "Fall in girls’ top A-level grades linked to mental health crisis - The Telegraph"
-        ]
-      },
-      {
-        "trend": "warning",
-        "market_code": "GB",
-        "category": "Europe Health",
-        "score": 9,
-        "examples": [
-          "UK issues amber extreme heat warning as temperatures set to reach 38C - Anadolu Ajansı",
-          "Temperatures soar to 38C as amber extreme heat warning in effect - BBC",
-          "Amber health warning: Sussex swelters as hottest day reaches 34°C - SussexWorld"
+          "£3.4m study to test same-day mental health support across Wales - Nation.Cymru",
+          "Future space habitats could be designed with mental health in mind - Euronews.com",
+          "£3.4m study to test same-day mental health support across Wales - Nation.Cymru"
         ]
       },
       {
         "trend": "mental health",
         "market_code": "GB",
         "category": "Mental Health",
-        "score": 8,
+        "score": 9,
         "examples": [
-          "Fall in girls’ top A-level grades linked to mental health crisis - The Telegraph",
-          "£3.4m study to test same-day mental health support across Wales - nation.cymru",
-          "Fall in girls’ top A-level grades linked to mental health crisis - The Telegraph"
+          "£3.4m study to test same-day mental health support across Wales - Nation.Cymru",
+          "Future space habitats could be designed with mental health in mind - Euronews.com",
+          "£3.4m study to test same-day mental health support across Wales - Nation.Cymru"
         ]
       },
       {
         "trend": "public health",
         "market_code": "GB",
         "category": "Europe Health",
-        "score": 6,
+        "score": 8,
         "examples": [
-          "Burnham must fix England’s fragmented public health system to make devolution a success - bma.org.uk",
-          "Burnham must fix England’s fragmented public health system to make devolution a success - bma.org.uk",
-          "How public health research supports accountability for Israeli war crimes in Gaza - The New Humanitarian"
+          "Burnham must fix England’s fragmented public health system to make devolution a success - BMA",
+          "Burnham must fix England’s fragmented public health system to make devolution a success - BMA",
+          "Study examines how public deliberation can strengthen public health policymaking - news-medical.net"
         ]
       },
       {
-        "trend": "clinical",
+        "trend": "warning",
         "market_code": "GB",
         "category": "Europe Health",
-        "score": 6,
+        "score": 8,
         "examples": [
-          "Clinical: Expanded Access Takes SNIPR001 Beyond the Gut - CRISPR Medicine News",
-          "FDA OKs first clinical trial testing novel oral therapy in MS patients - Multiple Sclerosis News Today",
-          "NanoViricides Has Received Regulatory Approval for a Phase II Clinical Trial of NV-387 Oral Gummies as a Treatment for Ebola in DR Congo To Fight the Current Largest Ever and Expanding Ebola Outbreak - ACCESS Newswire"
+          "UK issues amber extreme heat warning as temperatures set to reach 38C - Anadolu Ajansı",
+          "Amber health warning: Sussex swelters as hottest day reaches 34°C - SussexWorld",
+          "Red Tide Near Fort George Inlet Is Another Warning Sign: Jacksonville Needs to Move Beyond Coal - CleanTechnica"
         ]
       },
       {
-        "trend": "virus",
+        "trend": "vaccine",
         "market_code": "GB",
-        "category": "Outbreaks",
+        "category": "Drug & Treatment News",
         "score": 5,
         "examples": [
-          "Ebola tracing improves in DR Congo – but the virus is still winning the race - UN News",
-          "Bat virus fragments turn up in fertilizer sold in Thai markets, study finds - news - Mongabay",
-          "Researcher earns patent for breath-based virus detection technology - news.northeastern.edu"
+          "FDA fast-tracks experimental vaccine aiming to slow early Parkinson’s - Parkinson's News Today",
+          "Will Flu Be Mild This Winter? FDA Approves First mRNA Flu Vaccine - The People's Pharmacy",
+          "mRNA-4359: Promising Cancer Vaccine, Dose, Administration, and Clinical Trials - Oncodaily"
         ]
       },
       {
@@ -264,9 +253,20 @@
         "category": "Europe Health",
         "score": 4,
         "examples": [
-          "Burnham must fix England’s fragmented public health system to make devolution a success - bma.org.uk",
-          "Burnham must fix England’s fragmented public health system to make devolution a success - bma.org.uk",
+          "Burnham must fix England’s fragmented public health system to make devolution a success - BMA",
+          "Burnham must fix England’s fragmented public health system to make devolution a success - BMA",
           "The AI boom could boost Epic's position, health system execs say. Here's where AI startups can still win - Fierce Healthcare"
+        ]
+      },
+      {
+        "trend": "news-medical",
+        "market_code": "GB",
+        "category": "Europe Health",
+        "score": 4,
+        "examples": [
+          "Study examines how public deliberation can strengthen public health policymaking - news-medical.net",
+          "Strong friendships linked to better mental and physical health - news-medical.net",
+          "HonorHealth begins trial of dendritic cell vaccine for advanced melanoma - news-medical.net"
         ]
       }
     ],
@@ -275,73 +275,84 @@
         "trend": "health",
         "market_code": "DE",
         "category": "Europe Health",
-        "score": 64,
+        "score": 71,
         "examples": [
           "HHS Announces Historic Investment to Expand Health Center Program, Bringing Primary Care to Nearly 1 Million More Americans - HHS.gov",
           "Armstrong appoints senior advisor Conner Swanson to lead ND Department of Health and Human Services - North Dakota Office of the Governor (.gov)",
-          "Selena Gomez and her mental health startup accused of fraud - CNN"
+          "As It Walks Toward Its Doom, Providence Health Plan Gets More Bad News - Willamette Week"
         ]
       },
       {
         "trend": "medical",
         "market_code": "DE",
         "category": "Europe Health",
-        "score": 16,
+        "score": 15,
         "examples": [
-          "Deaths of 3 ICE Detainees Prompt Questions About Medical Care - The New York Times",
-          "Link discovered between medical debt and insufficient sleep - Augusta University",
-          "FULL LIST: 22 of 56 remains found improperly stored at South Chicago Chapel funeral home ID'd by Cook County medical examiner - ABC7 Chicago"
+          "Immigrant detained by ICE dies after medical emergency - NBC News",
+          "PCF and Bayer Launch First Annual VA Medical Education Program - Prostate Cancer Foundation (PCF)",
+          "Deaths of 3 ICE Detainees Prompt Questions About Medical Care - The New York Times"
         ]
       },
       {
         "trend": "outbreak",
         "market_code": "DE",
         "category": "Outbreaks",
-        "score": 12,
+        "score": 13,
         "examples": [
           "A Salmonella Outbreak in Peppers Is Now Pulling Chicken Wraps and Burritos from Shelves Through a Second Federal Agency - Medical Daily",
           "Wisconsin health officials investigating measles outbreak in southwest counties - WPR",
-          "Ebola outbreak has spread to new province in Congo, the head of Africa CDC says - PBS"
+          "DRC’s fast-growing Ebola outbreak spreads to sixth province - The Guardian"
         ]
       },
       {
         "trend": "mental",
         "market_code": "DE",
         "category": "Mental Health",
-        "score": 10,
+        "score": 11,
         "examples": [
-          "Selena Gomez and her mental health startup accused of fraud - CNN",
-          "Montgomery County sues social media companies over youth mental health harm - WHYY",
-          "The Lindsay Clancy trial brings maternal mental health into the spotlight - KOMU 8"
+          "Selena Gomez and her mom accused of fraud over their mental health startup - NBC News",
+          "Postpartum mental health: what families and mothers need to know - Dakota News Now",
+          "Postpartum mental health: what families and mothers need to know - Dakota News Now"
         ]
       },
       {
         "trend": "mental health",
         "market_code": "DE",
         "category": "Mental Health",
+        "score": 11,
+        "examples": [
+          "Selena Gomez and her mom accused of fraud over their mental health startup - NBC News",
+          "Postpartum mental health: what families and mothers need to know - Dakota News Now",
+          "Postpartum mental health: what families and mothers need to know - Dakota News Now"
+        ]
+      },
+      {
+        "trend": "public health",
+        "market_code": "DE",
+        "category": "Europe Health",
         "score": 10,
         "examples": [
-          "Selena Gomez and her mental health startup accused of fraud - CNN",
-          "Montgomery County sues social media companies over youth mental health harm - WHYY",
-          "The Lindsay Clancy trial brings maternal mental health into the spotlight - KOMU 8"
+          "Public Health Watch Wins Two National Edward R. Murrow Awards - Public Health Watch",
+          "Public Health Watch Wins Two National Edward R. Murrow Awards - Public Health Watch",
+          "Colorado issues public health order over tuberculosis at Aurora immigrant detention center - Colorado Public Radio"
         ]
       },
       {
         "trend": "virus",
         "market_code": "DE",
         "category": "Outbreaks",
-        "score": 10,
+        "score": 8,
         "examples": [
-          "Researcher earns patent for breath-based virus detection technology - Northeastern Global News",
+          "Researcher earns patent for breath-based virus detection technology - news.northeastern.edu",
           "Rhode Island reports Powassan virus case in Newport County - Outbreak News Today",
-          "Ebola tracing improves in DR Congo – but the virus is still winning the race - UN News"
+          "Daily news: West Nile virus is much more present than usual in Utah this year - Utah Public Radio"
         ]
       },
       {
         "trend": "healthcare",
         "market_code": "DE",
         "category": "Europe Health",
-        "score": 9,
+        "score": 8,
         "examples": [
           "The AI boom could boost Epic's position, health system execs say. Here's where AI startups can still win - Fierce Healthcare",
           "Patients Wary of Governments, Companies Pushing AI as a Rural Healthcare Solution - KFF Health News",
@@ -349,58 +360,47 @@
         ]
       },
       {
-        "trend": "public health",
+        "trend": "disease",
         "market_code": "DE",
         "category": "Europe Health",
-        "score": 8,
-        "examples": [
-          "Colorado issues public health order over tuberculosis at Aurora immigrant detention center - Colorado Public Radio",
-          "Colorado issues state-level public health order over tuberculosis case at Aurora ICE facility - Colorado Newsline",
-          "Celebrating \"Excellent\" Advocacy Faculty at the Bloomberg School - Johns Hopkins Bloomberg School of Public Health"
-        ]
-      },
-      {
-        "trend": "nile virus",
-        "market_code": "DE",
-        "category": "Outbreaks",
         "score": 6,
         "examples": [
-          "Daily news: West Nile virus is much more present than usual in Utah this year - Utah Public Radio",
-          "State confirms first human positive case of West Nile Virus in Hays County - Hays County (.gov)",
-          "Butte County confirms its first West Nile virus death of the year - CBS News"
+          "Risk of Severe Arboviral Disease in Patients Receiving B Cell-Depleting or Modulating Medications - KDHE.ks.gov",
+          "Risk of Severe Arboviral Disease in Patients Receiving B Cell-Depleting or Modulating Medications - KDHE.ks.gov",
+          "Thomas Fraser, MD, on the Future of Infectious Disease Care - Cleveland Clinic"
         ]
       },
       {
-        "trend": "west nile virus",
-        "market_code": "DE",
-        "category": "Outbreaks",
-        "score": 6,
-        "examples": [
-          "Daily news: West Nile virus is much more present than usual in Utah this year - Utah Public Radio",
-          "State confirms first human positive case of West Nile Virus in Hays County - Hays County (.gov)",
-          "Butte County confirms its first West Nile virus death of the year - CBS News"
-        ]
-      },
-      {
-        "trend": "trial",
+        "trend": "clinical",
         "market_code": "DE",
         "category": "Europe Health",
-        "score": 5,
+        "score": 6,
         "examples": [
-          "FDA approves pivotal trial for FastWave Medical's peripheral IVL system - Cardiovascular Business",
-          "The Lindsay Clancy trial brings maternal mental health into the spotlight - KOMU 8",
+          "Clinical: Expanded Access Takes SNIPR001 Beyond the Gut - CRISPR Medicine News",
+          "Nature Medicine Just Published the AI Mental Health Audit Framework the FDA Hasn’t Written Yet - The Clinical Trial Vanguard",
           "FDA Expands Clinical Trial Eligibility for Cancer Patients - Oncology News Central"
         ]
       },
       {
-        "trend": "hospital",
+        "trend": "cancer",
+        "market_code": "DE",
+        "category": "Chronic Disease",
+        "score": 5,
+        "examples": [
+          "PCF and Bayer Launch First Annual VA Medical Education Program - Prostate Cancer Foundation (PCF)",
+          "FDA Expands Clinical Trial Eligibility for Cancer Patients - Oncology News Central",
+          "mRNA-4359: Promising Cancer Vaccine, Dose, Administration, and Clinical Trials - Oncodaily"
+        ]
+      },
+      {
+        "trend": "health officials",
         "market_code": "DE",
         "category": "Europe Health",
         "score": 5,
         "examples": [
-          "In the name of public health and safety, Mayor Sarno calls for Vibra Hospital to take action to clean and secure their property - springfield-ma.gov",
-          "Newark-Wayne Community Hospital Earns High Marks in U.S. News Rankings - Finger Lakes Daily News",
-          "Hospital in Monroe County ranked as one of best in Pennsylvania - Pocono Record"
+          "Health officials warn of Hamlin Lake algae bloom health risks - 9and10News.com",
+          "Health officials issue blue-green algae advisory for Lake Du Bay - WSAW",
+          "Wisconsin health officials investigating measles outbreak in southwest counties - WPR"
         ]
       }
     ],
@@ -409,73 +409,84 @@
         "trend": "health",
         "market_code": "FR",
         "category": "Europe Health",
-        "score": 64,
+        "score": 71,
         "examples": [
           "HHS Announces Historic Investment to Expand Health Center Program, Bringing Primary Care to Nearly 1 Million More Americans - HHS.gov",
           "Armstrong appoints senior advisor Conner Swanson to lead ND Department of Health and Human Services - North Dakota Office of the Governor (.gov)",
-          "Selena Gomez and her mental health startup accused of fraud - CNN"
+          "As It Walks Toward Its Doom, Providence Health Plan Gets More Bad News - Willamette Week"
         ]
       },
       {
         "trend": "medical",
         "market_code": "FR",
         "category": "Europe Health",
-        "score": 16,
+        "score": 15,
         "examples": [
-          "Deaths of 3 ICE Detainees Prompt Questions About Medical Care - The New York Times",
-          "Link discovered between medical debt and insufficient sleep - Augusta University",
-          "FULL LIST: 22 of 56 remains found improperly stored at South Chicago Chapel funeral home ID'd by Cook County medical examiner - ABC7 Chicago"
+          "Immigrant detained by ICE dies after medical emergency - NBC News",
+          "PCF and Bayer Launch First Annual VA Medical Education Program - Prostate Cancer Foundation (PCF)",
+          "Deaths of 3 ICE Detainees Prompt Questions About Medical Care - The New York Times"
         ]
       },
       {
         "trend": "outbreak",
         "market_code": "FR",
         "category": "Outbreaks",
-        "score": 12,
+        "score": 13,
         "examples": [
           "A Salmonella Outbreak in Peppers Is Now Pulling Chicken Wraps and Burritos from Shelves Through a Second Federal Agency - Medical Daily",
           "Wisconsin health officials investigating measles outbreak in southwest counties - WPR",
-          "Ebola outbreak has spread to new province in Congo, the head of Africa CDC says - PBS"
+          "DRC’s fast-growing Ebola outbreak spreads to sixth province - The Guardian"
         ]
       },
       {
         "trend": "mental",
         "market_code": "FR",
         "category": "Mental Health",
-        "score": 10,
+        "score": 11,
         "examples": [
-          "Selena Gomez and her mental health startup accused of fraud - CNN",
-          "Montgomery County sues social media companies over youth mental health harm - WHYY",
-          "The Lindsay Clancy trial brings maternal mental health into the spotlight - KOMU 8"
+          "Selena Gomez and her mom accused of fraud over their mental health startup - NBC News",
+          "Postpartum mental health: what families and mothers need to know - Dakota News Now",
+          "Postpartum mental health: what families and mothers need to know - Dakota News Now"
         ]
       },
       {
         "trend": "mental health",
         "market_code": "FR",
         "category": "Mental Health",
+        "score": 11,
+        "examples": [
+          "Selena Gomez and her mom accused of fraud over their mental health startup - NBC News",
+          "Postpartum mental health: what families and mothers need to know - Dakota News Now",
+          "Postpartum mental health: what families and mothers need to know - Dakota News Now"
+        ]
+      },
+      {
+        "trend": "public health",
+        "market_code": "FR",
+        "category": "Europe Health",
         "score": 10,
         "examples": [
-          "Selena Gomez and her mental health startup accused of fraud - CNN",
-          "Montgomery County sues social media companies over youth mental health harm - WHYY",
-          "The Lindsay Clancy trial brings maternal mental health into the spotlight - KOMU 8"
+          "Public Health Watch Wins Two National Edward R. Murrow Awards - Public Health Watch",
+          "Public Health Watch Wins Two National Edward R. Murrow Awards - Public Health Watch",
+          "Colorado issues public health order over tuberculosis at Aurora immigrant detention center - Colorado Public Radio"
         ]
       },
       {
         "trend": "virus",
         "market_code": "FR",
         "category": "Outbreaks",
-        "score": 10,
+        "score": 8,
         "examples": [
-          "Researcher earns patent for breath-based virus detection technology - Northeastern Global News",
+          "Researcher earns patent for breath-based virus detection technology - news.northeastern.edu",
           "Rhode Island reports Powassan virus case in Newport County - Outbreak News Today",
-          "Ebola tracing improves in DR Congo – but the virus is still winning the race - UN News"
+          "Daily news: West Nile virus is much more present than usual in Utah this year - Utah Public Radio"
         ]
       },
       {
         "trend": "healthcare",
         "market_code": "FR",
         "category": "Europe Health",
-        "score": 9,
+        "score": 8,
         "examples": [
           "The AI boom could boost Epic's position, health system execs say. Here's where AI startups can still win - Fierce Healthcare",
           "Patients Wary of Governments, Companies Pushing AI as a Rural Healthcare Solution - KFF Health News",
@@ -483,58 +494,47 @@
         ]
       },
       {
-        "trend": "public health",
+        "trend": "disease",
         "market_code": "FR",
         "category": "Europe Health",
-        "score": 8,
-        "examples": [
-          "Colorado issues public health order over tuberculosis at Aurora immigrant detention center - Colorado Public Radio",
-          "Colorado issues state-level public health order over tuberculosis case at Aurora ICE facility - Colorado Newsline",
-          "Celebrating \"Excellent\" Advocacy Faculty at the Bloomberg School - Johns Hopkins Bloomberg School of Public Health"
-        ]
-      },
-      {
-        "trend": "nile virus",
-        "market_code": "FR",
-        "category": "Outbreaks",
         "score": 6,
         "examples": [
-          "Daily news: West Nile virus is much more present than usual in Utah this year - Utah Public Radio",
-          "State confirms first human positive case of West Nile Virus in Hays County - Hays County (.gov)",
-          "Butte County confirms its first West Nile virus death of the year - CBS News"
+          "Risk of Severe Arboviral Disease in Patients Receiving B Cell-Depleting or Modulating Medications - KDHE.ks.gov",
+          "Risk of Severe Arboviral Disease in Patients Receiving B Cell-Depleting or Modulating Medications - KDHE.ks.gov",
+          "Thomas Fraser, MD, on the Future of Infectious Disease Care - Cleveland Clinic"
         ]
       },
       {
-        "trend": "west nile virus",
-        "market_code": "FR",
-        "category": "Outbreaks",
-        "score": 6,
-        "examples": [
-          "Daily news: West Nile virus is much more present than usual in Utah this year - Utah Public Radio",
-          "State confirms first human positive case of West Nile Virus in Hays County - Hays County (.gov)",
-          "Butte County confirms its first West Nile virus death of the year - CBS News"
-        ]
-      },
-      {
-        "trend": "trial",
+        "trend": "clinical",
         "market_code": "FR",
         "category": "Europe Health",
-        "score": 5,
+        "score": 6,
         "examples": [
-          "FDA approves pivotal trial for FastWave Medical's peripheral IVL system - Cardiovascular Business",
-          "The Lindsay Clancy trial brings maternal mental health into the spotlight - KOMU 8",
+          "Clinical: Expanded Access Takes SNIPR001 Beyond the Gut - CRISPR Medicine News",
+          "Nature Medicine Just Published the AI Mental Health Audit Framework the FDA Hasn’t Written Yet - The Clinical Trial Vanguard",
           "FDA Expands Clinical Trial Eligibility for Cancer Patients - Oncology News Central"
         ]
       },
       {
-        "trend": "hospital",
+        "trend": "cancer",
+        "market_code": "FR",
+        "category": "Chronic Disease",
+        "score": 5,
+        "examples": [
+          "PCF and Bayer Launch First Annual VA Medical Education Program - Prostate Cancer Foundation (PCF)",
+          "FDA Expands Clinical Trial Eligibility for Cancer Patients - Oncology News Central",
+          "mRNA-4359: Promising Cancer Vaccine, Dose, Administration, and Clinical Trials - Oncodaily"
+        ]
+      },
+      {
+        "trend": "health officials",
         "market_code": "FR",
         "category": "Europe Health",
         "score": 5,
         "examples": [
-          "In the name of public health and safety, Mayor Sarno calls for Vibra Hospital to take action to clean and secure their property - springfield-ma.gov",
-          "Newark-Wayne Community Hospital Earns High Marks in U.S. News Rankings - Finger Lakes Daily News",
-          "Hospital in Monroe County ranked as one of best in Pennsylvania - Pocono Record"
+          "Health officials warn of Hamlin Lake algae bloom health risks - 9and10News.com",
+          "Health officials issue blue-green algae advisory for Lake Du Bay - WSAW",
+          "Wisconsin health officials investigating measles outbreak in southwest counties - WPR"
         ]
       }
     ],
@@ -543,73 +543,84 @@
         "trend": "health",
         "market_code": "IT",
         "category": "Europe Health",
-        "score": 64,
+        "score": 71,
         "examples": [
           "HHS Announces Historic Investment to Expand Health Center Program, Bringing Primary Care to Nearly 1 Million More Americans - HHS.gov",
           "Armstrong appoints senior advisor Conner Swanson to lead ND Department of Health and Human Services - North Dakota Office of the Governor (.gov)",
-          "Selena Gomez and her mental health startup accused of fraud - CNN"
+          "As It Walks Toward Its Doom, Providence Health Plan Gets More Bad News - Willamette Week"
         ]
       },
       {
         "trend": "medical",
         "market_code": "IT",
         "category": "Europe Health",
-        "score": 16,
+        "score": 15,
         "examples": [
-          "Deaths of 3 ICE Detainees Prompt Questions About Medical Care - The New York Times",
-          "Link discovered between medical debt and insufficient sleep - Augusta University",
-          "FULL LIST: 22 of 56 remains found improperly stored at South Chicago Chapel funeral home ID'd by Cook County medical examiner - ABC7 Chicago"
+          "Immigrant detained by ICE dies after medical emergency - NBC News",
+          "PCF and Bayer Launch First Annual VA Medical Education Program - Prostate Cancer Foundation (PCF)",
+          "Deaths of 3 ICE Detainees Prompt Questions About Medical Care - The New York Times"
         ]
       },
       {
         "trend": "outbreak",
         "market_code": "IT",
         "category": "Outbreaks",
-        "score": 12,
+        "score": 13,
         "examples": [
           "A Salmonella Outbreak in Peppers Is Now Pulling Chicken Wraps and Burritos from Shelves Through a Second Federal Agency - Medical Daily",
           "Wisconsin health officials investigating measles outbreak in southwest counties - WPR",
-          "Ebola outbreak has spread to new province in Congo, the head of Africa CDC says - PBS"
+          "DRC’s fast-growing Ebola outbreak spreads to sixth province - The Guardian"
         ]
       },
       {
         "trend": "mental",
         "market_code": "IT",
         "category": "Mental Health",
-        "score": 10,
+        "score": 11,
         "examples": [
-          "Selena Gomez and her mental health startup accused of fraud - CNN",
-          "Montgomery County sues social media companies over youth mental health harm - WHYY",
-          "The Lindsay Clancy trial brings maternal mental health into the spotlight - KOMU 8"
+          "Selena Gomez and her mom accused of fraud over their mental health startup - NBC News",
+          "Postpartum mental health: what families and mothers need to know - Dakota News Now",
+          "Postpartum mental health: what families and mothers need to know - Dakota News Now"
         ]
       },
       {
         "trend": "mental health",
         "market_code": "IT",
         "category": "Mental Health",
+        "score": 11,
+        "examples": [
+          "Selena Gomez and her mom accused of fraud over their mental health startup - NBC News",
+          "Postpartum mental health: what families and mothers need to know - Dakota News Now",
+          "Postpartum mental health: what families and mothers need to know - Dakota News Now"
+        ]
+      },
+      {
+        "trend": "public health",
+        "market_code": "IT",
+        "category": "Europe Health",
         "score": 10,
         "examples": [
-          "Selena Gomez and her mental health startup accused of fraud - CNN",
-          "Montgomery County sues social media companies over youth mental health harm - WHYY",
-          "The Lindsay Clancy trial brings maternal mental health into the spotlight - KOMU 8"
+          "Public Health Watch Wins Two National Edward R. Murrow Awards - Public Health Watch",
+          "Public Health Watch Wins Two National Edward R. Murrow Awards - Public Health Watch",
+          "Colorado issues public health order over tuberculosis at Aurora immigrant detention center - Colorado Public Radio"
         ]
       },
       {
         "trend": "virus",
         "market_code": "IT",
         "category": "Outbreaks",
-        "score": 10,
+        "score": 8,
         "examples": [
-          "Researcher earns patent for breath-based virus detection technology - Northeastern Global News",
+          "Researcher earns patent for breath-based virus detection technology - news.northeastern.edu",
           "Rhode Island reports Powassan virus case in Newport County - Outbreak News Today",
-          "Ebola tracing improves in DR Congo – but the virus is still winning the race - UN News"
+          "Daily news: West Nile virus is much more present than usual in Utah this year - Utah Public Radio"
         ]
       },
       {
         "trend": "healthcare",
         "market_code": "IT",
         "category": "Europe Health",
-        "score": 9,
+        "score": 8,
         "examples": [
           "The AI boom could boost Epic's position, health system execs say. Here's where AI startups can still win - Fierce Healthcare",
           "Patients Wary of Governments, Companies Pushing AI as a Rural Healthcare Solution - KFF Health News",
@@ -617,58 +628,47 @@
         ]
       },
       {
-        "trend": "public health",
+        "trend": "disease",
         "market_code": "IT",
         "category": "Europe Health",
-        "score": 8,
-        "examples": [
-          "Colorado issues public health order over tuberculosis at Aurora immigrant detention center - Colorado Public Radio",
-          "Colorado issues state-level public health order over tuberculosis case at Aurora ICE facility - Colorado Newsline",
-          "Celebrating \"Excellent\" Advocacy Faculty at the Bloomberg School - Johns Hopkins Bloomberg School of Public Health"
-        ]
-      },
-      {
-        "trend": "nile virus",
-        "market_code": "IT",
-        "category": "Outbreaks",
         "score": 6,
         "examples": [
-          "Daily news: West Nile virus is much more present than usual in Utah this year - Utah Public Radio",
-          "State confirms first human positive case of West Nile Virus in Hays County - Hays County (.gov)",
-          "Butte County confirms its first West Nile virus death of the year - CBS News"
+          "Risk of Severe Arboviral Disease in Patients Receiving B Cell-Depleting or Modulating Medications - KDHE.ks.gov",
+          "Risk of Severe Arboviral Disease in Patients Receiving B Cell-Depleting or Modulating Medications - KDHE.ks.gov",
+          "Thomas Fraser, MD, on the Future of Infectious Disease Care - Cleveland Clinic"
         ]
       },
       {
-        "trend": "west nile virus",
-        "market_code": "IT",
-        "category": "Outbreaks",
-        "score": 6,
-        "examples": [
-          "Daily news: West Nile virus is much more present than usual in Utah this year - Utah Public Radio",
-          "State confirms first human positive case of West Nile Virus in Hays County - Hays County (.gov)",
-          "Butte County confirms its first West Nile virus death of the year - CBS News"
-        ]
-      },
-      {
-        "trend": "trial",
+        "trend": "clinical",
         "market_code": "IT",
         "category": "Europe Health",
-        "score": 5,
+        "score": 6,
         "examples": [
-          "FDA approves pivotal trial for FastWave Medical's peripheral IVL system - Cardiovascular Business",
-          "The Lindsay Clancy trial brings maternal mental health into the spotlight - KOMU 8",
+          "Clinical: Expanded Access Takes SNIPR001 Beyond the Gut - CRISPR Medicine News",
+          "Nature Medicine Just Published the AI Mental Health Audit Framework the FDA Hasn’t Written Yet - The Clinical Trial Vanguard",
           "FDA Expands Clinical Trial Eligibility for Cancer Patients - Oncology News Central"
         ]
       },
       {
-        "trend": "hospital",
+        "trend": "cancer",
+        "market_code": "IT",
+        "category": "Chronic Disease",
+        "score": 5,
+        "examples": [
+          "PCF and Bayer Launch First Annual VA Medical Education Program - Prostate Cancer Foundation (PCF)",
+          "FDA Expands Clinical Trial Eligibility for Cancer Patients - Oncology News Central",
+          "mRNA-4359: Promising Cancer Vaccine, Dose, Administration, and Clinical Trials - Oncodaily"
+        ]
+      },
+      {
+        "trend": "health officials",
         "market_code": "IT",
         "category": "Europe Health",
         "score": 5,
         "examples": [
-          "In the name of public health and safety, Mayor Sarno calls for Vibra Hospital to take action to clean and secure their property - springfield-ma.gov",
-          "Newark-Wayne Community Hospital Earns High Marks in U.S. News Rankings - Finger Lakes Daily News",
-          "Hospital in Monroe County ranked as one of best in Pennsylvania - Pocono Record"
+          "Health officials warn of Hamlin Lake algae bloom health risks - 9and10News.com",
+          "Health officials issue blue-green algae advisory for Lake Du Bay - WSAW",
+          "Wisconsin health officials investigating measles outbreak in southwest counties - WPR"
         ]
       }
     ],
@@ -677,73 +677,84 @@
         "trend": "health",
         "market_code": "ES",
         "category": "Europe Health",
-        "score": 64,
+        "score": 71,
         "examples": [
           "HHS Announces Historic Investment to Expand Health Center Program, Bringing Primary Care to Nearly 1 Million More Americans - HHS.gov",
           "Armstrong appoints senior advisor Conner Swanson to lead ND Department of Health and Human Services - North Dakota Office of the Governor (.gov)",
-          "Selena Gomez and her mental health startup accused of fraud - CNN"
+          "As It Walks Toward Its Doom, Providence Health Plan Gets More Bad News - Willamette Week"
         ]
       },
       {
         "trend": "medical",
         "market_code": "ES",
         "category": "Europe Health",
-        "score": 16,
+        "score": 15,
         "examples": [
-          "Deaths of 3 ICE Detainees Prompt Questions About Medical Care - The New York Times",
-          "Link discovered between medical debt and insufficient sleep - Augusta University",
-          "FULL LIST: 22 of 56 remains found improperly stored at South Chicago Chapel funeral home ID'd by Cook County medical examiner - ABC7 Chicago"
+          "Immigrant detained by ICE dies after medical emergency - NBC News",
+          "PCF and Bayer Launch First Annual VA Medical Education Program - Prostate Cancer Foundation (PCF)",
+          "Deaths of 3 ICE Detainees Prompt Questions About Medical Care - The New York Times"
         ]
       },
       {
         "trend": "outbreak",
         "market_code": "ES",
         "category": "Outbreaks",
-        "score": 12,
+        "score": 13,
         "examples": [
           "A Salmonella Outbreak in Peppers Is Now Pulling Chicken Wraps and Burritos from Shelves Through a Second Federal Agency - Medical Daily",
           "Wisconsin health officials investigating measles outbreak in southwest counties - WPR",
-          "Ebola outbreak has spread to new province in Congo, the head of Africa CDC says - PBS"
+          "DRC’s fast-growing Ebola outbreak spreads to sixth province - The Guardian"
         ]
       },
       {
         "trend": "mental",
         "market_code": "ES",
         "category": "Mental Health",
-        "score": 10,
+        "score": 11,
         "examples": [
-          "Selena Gomez and her mental health startup accused of fraud - CNN",
-          "Montgomery County sues social media companies over youth mental health harm - WHYY",
-          "The Lindsay Clancy trial brings maternal mental health into the spotlight - KOMU 8"
+          "Selena Gomez and her mom accused of fraud over their mental health startup - NBC News",
+          "Postpartum mental health: what families and mothers need to know - Dakota News Now",
+          "Postpartum mental health: what families and mothers need to know - Dakota News Now"
         ]
       },
       {
         "trend": "mental health",
         "market_code": "ES",
         "category": "Mental Health",
+        "score": 11,
+        "examples": [
+          "Selena Gomez and her mom accused of fraud over their mental health startup - NBC News",
+          "Postpartum mental health: what families and mothers need to know - Dakota News Now",
+          "Postpartum mental health: what families and mothers need to know - Dakota News Now"
+        ]
+      },
+      {
+        "trend": "public health",
+        "market_code": "ES",
+        "category": "Europe Health",
         "score": 10,
         "examples": [
-          "Selena Gomez and her mental health startup accused of fraud - CNN",
-          "Montgomery County sues social media companies over youth mental health harm - WHYY",
-          "The Lindsay Clancy trial brings maternal mental health into the spotlight - KOMU 8"
+          "Public Health Watch Wins Two National Edward R. Murrow Awards - Public Health Watch",
+          "Public Health Watch Wins Two National Edward R. Murrow Awards - Public Health Watch",
+          "Colorado issues public health order over tuberculosis at Aurora immigrant detention center - Colorado Public Radio"
         ]
       },
       {
         "trend": "virus",
         "market_code": "ES",
         "category": "Outbreaks",
-        "score": 10,
+        "score": 8,
         "examples": [
-          "Researcher earns patent for breath-based virus detection technology - Northeastern Global News",
+          "Researcher earns patent for breath-based virus detection technology - news.northeastern.edu",
           "Rhode Island reports Powassan virus case in Newport County - Outbreak News Today",
-          "Ebola tracing improves in DR Congo – but the virus is still winning the race - UN News"
+          "Daily news: West Nile virus is much more present than usual in Utah this year - Utah Public Radio"
         ]
       },
       {
         "trend": "healthcare",
         "market_code": "ES",
         "category": "Europe Health",
-        "score": 9,
+        "score": 8,
         "examples": [
           "The AI boom could boost Epic's position, health system execs say. Here's where AI startups can still win - Fierce Healthcare",
           "Patients Wary of Governments, Companies Pushing AI as a Rural Healthcare Solution - KFF Health News",
@@ -751,58 +762,47 @@
         ]
       },
       {
-        "trend": "public health",
+        "trend": "disease",
         "market_code": "ES",
         "category": "Europe Health",
-        "score": 8,
-        "examples": [
-          "Colorado issues public health order over tuberculosis at Aurora immigrant detention center - Colorado Public Radio",
-          "Colorado issues state-level public health order over tuberculosis case at Aurora ICE facility - Colorado Newsline",
-          "Celebrating \"Excellent\" Advocacy Faculty at the Bloomberg School - Johns Hopkins Bloomberg School of Public Health"
-        ]
-      },
-      {
-        "trend": "nile virus",
-        "market_code": "ES",
-        "category": "Outbreaks",
         "score": 6,
         "examples": [
-          "Daily news: West Nile virus is much more present than usual in Utah this year - Utah Public Radio",
-          "State confirms first human positive case of West Nile Virus in Hays County - Hays County (.gov)",
-          "Butte County confirms its first West Nile virus death of the year - CBS News"
+          "Risk of Severe Arboviral Disease in Patients Receiving B Cell-Depleting or Modulating Medications - KDHE.ks.gov",
+          "Risk of Severe Arboviral Disease in Patients Receiving B Cell-Depleting or Modulating Medications - KDHE.ks.gov",
+          "Thomas Fraser, MD, on the Future of Infectious Disease Care - Cleveland Clinic"
         ]
       },
       {
-        "trend": "west nile virus",
-        "market_code": "ES",
-        "category": "Outbreaks",
-        "score": 6,
-        "examples": [
-          "Daily news: West Nile virus is much more present than usual in Utah this year - Utah Public Radio",
-          "State confirms first human positive case of West Nile Virus in Hays County - Hays County (.gov)",
-          "Butte County confirms its first West Nile virus death of the year - CBS News"
-        ]
-      },
-      {
-        "trend": "trial",
+        "trend": "clinical",
         "market_code": "ES",
         "category": "Europe Health",
-        "score": 5,
+        "score": 6,
         "examples": [
-          "FDA approves pivotal trial for FastWave Medical's peripheral IVL system - Cardiovascular Business",
-          "The Lindsay Clancy trial brings maternal mental health into the spotlight - KOMU 8",
+          "Clinical: Expanded Access Takes SNIPR001 Beyond the Gut - CRISPR Medicine News",
+          "Nature Medicine Just Published the AI Mental Health Audit Framework the FDA Hasn’t Written Yet - The Clinical Trial Vanguard",
           "FDA Expands Clinical Trial Eligibility for Cancer Patients - Oncology News Central"
         ]
       },
       {
-        "trend": "hospital",
+        "trend": "cancer",
+        "market_code": "ES",
+        "category": "Chronic Disease",
+        "score": 5,
+        "examples": [
+          "PCF and Bayer Launch First Annual VA Medical Education Program - Prostate Cancer Foundation (PCF)",
+          "FDA Expands Clinical Trial Eligibility for Cancer Patients - Oncology News Central",
+          "mRNA-4359: Promising Cancer Vaccine, Dose, Administration, and Clinical Trials - Oncodaily"
+        ]
+      },
+      {
+        "trend": "health officials",
         "market_code": "ES",
         "category": "Europe Health",
         "score": 5,
         "examples": [
-          "In the name of public health and safety, Mayor Sarno calls for Vibra Hospital to take action to clean and secure their property - springfield-ma.gov",
-          "Newark-Wayne Community Hospital Earns High Marks in U.S. News Rankings - Finger Lakes Daily News",
-          "Hospital in Monroe County ranked as one of best in Pennsylvania - Pocono Record"
+          "Health officials warn of Hamlin Lake algae bloom health risks - 9and10News.com",
+          "Health officials issue blue-green algae advisory for Lake Du Bay - WSAW",
+          "Wisconsin health officials investigating measles outbreak in southwest counties - WPR"
         ]
       }
     ],
@@ -811,73 +811,84 @@
         "trend": "health",
         "market_code": "SE",
         "category": "Europe Health",
-        "score": 64,
+        "score": 71,
         "examples": [
           "HHS Announces Historic Investment to Expand Health Center Program, Bringing Primary Care to Nearly 1 Million More Americans - HHS.gov",
           "Armstrong appoints senior advisor Conner Swanson to lead ND Department of Health and Human Services - North Dakota Office of the Governor (.gov)",
-          "Selena Gomez and her mental health startup accused of fraud - CNN"
+          "As It Walks Toward Its Doom, Providence Health Plan Gets More Bad News - Willamette Week"
         ]
       },
       {
         "trend": "medical",
         "market_code": "SE",
         "category": "Europe Health",
-        "score": 16,
+        "score": 15,
         "examples": [
-          "Deaths of 3 ICE Detainees Prompt Questions About Medical Care - The New York Times",
-          "Link discovered between medical debt and insufficient sleep - Augusta University",
-          "FULL LIST: 22 of 56 remains found improperly stored at South Chicago Chapel funeral home ID'd by Cook County medical examiner - ABC7 Chicago"
+          "Immigrant detained by ICE dies after medical emergency - NBC News",
+          "PCF and Bayer Launch First Annual VA Medical Education Program - Prostate Cancer Foundation (PCF)",
+          "Deaths of 3 ICE Detainees Prompt Questions About Medical Care - The New York Times"
         ]
       },
       {
         "trend": "outbreak",
         "market_code": "SE",
         "category": "Outbreaks",
-        "score": 12,
+        "score": 13,
         "examples": [
           "A Salmonella Outbreak in Peppers Is Now Pulling Chicken Wraps and Burritos from Shelves Through a Second Federal Agency - Medical Daily",
           "Wisconsin health officials investigating measles outbreak in southwest counties - WPR",
-          "Ebola outbreak has spread to new province in Congo, the head of Africa CDC says - PBS"
+          "DRC’s fast-growing Ebola outbreak spreads to sixth province - The Guardian"
         ]
       },
       {
         "trend": "mental",
         "market_code": "SE",
         "category": "Mental Health",
-        "score": 10,
+        "score": 11,
         "examples": [
-          "Selena Gomez and her mental health startup accused of fraud - CNN",
-          "Montgomery County sues social media companies over youth mental health harm - WHYY",
-          "The Lindsay Clancy trial brings maternal mental health into the spotlight - KOMU 8"
+          "Selena Gomez and her mom accused of fraud over their mental health startup - NBC News",
+          "Postpartum mental health: what families and mothers need to know - Dakota News Now",
+          "Postpartum mental health: what families and mothers need to know - Dakota News Now"
         ]
       },
       {
         "trend": "mental health",
         "market_code": "SE",
         "category": "Mental Health",
+        "score": 11,
+        "examples": [
+          "Selena Gomez and her mom accused of fraud over their mental health startup - NBC News",
+          "Postpartum mental health: what families and mothers need to know - Dakota News Now",
+          "Postpartum mental health: what families and mothers need to know - Dakota News Now"
+        ]
+      },
+      {
+        "trend": "public health",
+        "market_code": "SE",
+        "category": "Europe Health",
         "score": 10,
         "examples": [
-          "Selena Gomez and her mental health startup accused of fraud - CNN",
-          "Montgomery County sues social media companies over youth mental health harm - WHYY",
-          "The Lindsay Clancy trial brings maternal mental health into the spotlight - KOMU 8"
+          "Public Health Watch Wins Two National Edward R. Murrow Awards - Public Health Watch",
+          "Public Health Watch Wins Two National Edward R. Murrow Awards - Public Health Watch",
+          "Colorado issues public health order over tuberculosis at Aurora immigrant detention center - Colorado Public Radio"
         ]
       },
       {
         "trend": "virus",
         "market_code": "SE",
         "category": "Outbreaks",
-        "score": 10,
+        "score": 8,
         "examples": [
-          "Researcher earns patent for breath-based virus detection technology - Northeastern Global News",
+          "Researcher earns patent for breath-based virus detection technology - news.northeastern.edu",
           "Rhode Island reports Powassan virus case in Newport County - Outbreak News Today",
-          "Ebola tracing improves in DR Congo – but the virus is still winning the race - UN News"
+          "Daily news: West Nile virus is much more present than usual in Utah this year - Utah Public Radio"
         ]
       },
       {
         "trend": "healthcare",
         "market_code": "SE",
         "category": "Europe Health",
-        "score": 9,
+        "score": 8,
         "examples": [
           "The AI boom could boost Epic's position, health system execs say. Here's where AI startups can still win - Fierce Healthcare",
           "Patients Wary of Governments, Companies Pushing AI as a Rural Healthcare Solution - KFF Health News",
@@ -885,58 +896,47 @@
         ]
       },
       {
-        "trend": "public health",
+        "trend": "disease",
         "market_code": "SE",
         "category": "Europe Health",
-        "score": 8,
-        "examples": [
-          "Colorado issues public health order over tuberculosis at Aurora immigrant detention center - Colorado Public Radio",
-          "Colorado issues state-level public health order over tuberculosis case at Aurora ICE facility - Colorado Newsline",
-          "Celebrating \"Excellent\" Advocacy Faculty at the Bloomberg School - Johns Hopkins Bloomberg School of Public Health"
-        ]
-      },
-      {
-        "trend": "nile virus",
-        "market_code": "SE",
-        "category": "Outbreaks",
         "score": 6,
         "examples": [
-          "Daily news: West Nile virus is much more present than usual in Utah this year - Utah Public Radio",
-          "State confirms first human positive case of West Nile Virus in Hays County - Hays County (.gov)",
-          "Butte County confirms its first West Nile virus death of the year - CBS News"
+          "Risk of Severe Arboviral Disease in Patients Receiving B Cell-Depleting or Modulating Medications - KDHE.ks.gov",
+          "Risk of Severe Arboviral Disease in Patients Receiving B Cell-Depleting or Modulating Medications - KDHE.ks.gov",
+          "Thomas Fraser, MD, on the Future of Infectious Disease Care - Cleveland Clinic"
         ]
       },
       {
-        "trend": "west nile virus",
-        "market_code": "SE",
-        "category": "Outbreaks",
-        "score": 6,
-        "examples": [
-          "Daily news: West Nile virus is much more present than usual in Utah this year - Utah Public Radio",
-          "State confirms first human positive case of West Nile Virus in Hays County - Hays County (.gov)",
-          "Butte County confirms its first West Nile virus death of the year - CBS News"
-        ]
-      },
-      {
-        "trend": "trial",
+        "trend": "clinical",
         "market_code": "SE",
         "category": "Europe Health",
-        "score": 5,
+        "score": 6,
         "examples": [
-          "FDA approves pivotal trial for FastWave Medical's peripheral IVL system - Cardiovascular Business",
-          "The Lindsay Clancy trial brings maternal mental health into the spotlight - KOMU 8",
+          "Clinical: Expanded Access Takes SNIPR001 Beyond the Gut - CRISPR Medicine News",
+          "Nature Medicine Just Published the AI Mental Health Audit Framework the FDA Hasn’t Written Yet - The Clinical Trial Vanguard",
           "FDA Expands Clinical Trial Eligibility for Cancer Patients - Oncology News Central"
         ]
       },
       {
-        "trend": "hospital",
+        "trend": "cancer",
+        "market_code": "SE",
+        "category": "Chronic Disease",
+        "score": 5,
+        "examples": [
+          "PCF and Bayer Launch First Annual VA Medical Education Program - Prostate Cancer Foundation (PCF)",
+          "FDA Expands Clinical Trial Eligibility for Cancer Patients - Oncology News Central",
+          "mRNA-4359: Promising Cancer Vaccine, Dose, Administration, and Clinical Trials - Oncodaily"
+        ]
+      },
+      {
+        "trend": "health officials",
         "market_code": "SE",
         "category": "Europe Health",
         "score": 5,
         "examples": [
-          "In the name of public health and safety, Mayor Sarno calls for Vibra Hospital to take action to clean and secure their property - springfield-ma.gov",
-          "Newark-Wayne Community Hospital Earns High Marks in U.S. News Rankings - Finger Lakes Daily News",
-          "Hospital in Monroe County ranked as one of best in Pennsylvania - Pocono Record"
+          "Health officials warn of Hamlin Lake algae bloom health risks - 9and10News.com",
+          "Health officials issue blue-green algae advisory for Lake Du Bay - WSAW",
+          "Wisconsin health officials investigating measles outbreak in southwest counties - WPR"
         ]
       }
     ],
@@ -945,73 +945,84 @@
         "trend": "health",
         "market_code": "NL",
         "category": "Europe Health",
-        "score": 64,
+        "score": 71,
         "examples": [
           "HHS Announces Historic Investment to Expand Health Center Program, Bringing Primary Care to Nearly 1 Million More Americans - HHS.gov",
           "Armstrong appoints senior advisor Conner Swanson to lead ND Department of Health and Human Services - North Dakota Office of the Governor (.gov)",
-          "Selena Gomez and her mental health startup accused of fraud - CNN"
+          "As It Walks Toward Its Doom, Providence Health Plan Gets More Bad News - Willamette Week"
         ]
       },
       {
         "trend": "medical",
         "market_code": "NL",
         "category": "Europe Health",
-        "score": 16,
+        "score": 15,
         "examples": [
-          "Deaths of 3 ICE Detainees Prompt Questions About Medical Care - The New York Times",
-          "Link discovered between medical debt and insufficient sleep - Augusta University",
-          "FULL LIST: 22 of 56 remains found improperly stored at South Chicago Chapel funeral home ID'd by Cook County medical examiner - ABC7 Chicago"
+          "Immigrant detained by ICE dies after medical emergency - NBC News",
+          "PCF and Bayer Launch First Annual VA Medical Education Program - Prostate Cancer Foundation (PCF)",
+          "Deaths of 3 ICE Detainees Prompt Questions About Medical Care - The New York Times"
         ]
       },
       {
         "trend": "outbreak",
         "market_code": "NL",
         "category": "Outbreaks",
-        "score": 12,
+        "score": 13,
         "examples": [
           "A Salmonella Outbreak in Peppers Is Now Pulling Chicken Wraps and Burritos from Shelves Through a Second Federal Agency - Medical Daily",
           "Wisconsin health officials investigating measles outbreak in southwest counties - WPR",
-          "Ebola outbreak has spread to new province in Congo, the head of Africa CDC says - PBS"
+          "DRC’s fast-growing Ebola outbreak spreads to sixth province - The Guardian"
         ]
       },
       {
         "trend": "mental",
         "market_code": "NL",
         "category": "Mental Health",
-        "score": 10,
+        "score": 11,
         "examples": [
-          "Selena Gomez and her mental health startup accused of fraud - CNN",
-          "Montgomery County sues social media companies over youth mental health harm - WHYY",
-          "The Lindsay Clancy trial brings maternal mental health into the spotlight - KOMU 8"
+          "Selena Gomez and her mom accused of fraud over their mental health startup - NBC News",
+          "Postpartum mental health: what families and mothers need to know - Dakota News Now",
+          "Postpartum mental health: what families and mothers need to know - Dakota News Now"
         ]
       },
       {
         "trend": "mental health",
         "market_code": "NL",
         "category": "Mental Health",
+        "score": 11,
+        "examples": [
+          "Selena Gomez and her mom accused of fraud over their mental health startup - NBC News",
+          "Postpartum mental health: what families and mothers need to know - Dakota News Now",
+          "Postpartum mental health: what families and mothers need to know - Dakota News Now"
+        ]
+      },
+      {
+        "trend": "public health",
+        "market_code": "NL",
+        "category": "Europe Health",
         "score": 10,
         "examples": [
-          "Selena Gomez and her mental health startup accused of fraud - CNN",
-          "Montgomery County sues social media companies over youth mental health harm - WHYY",
-          "The Lindsay Clancy trial brings maternal mental health into the spotlight - KOMU 8"
+          "Public Health Watch Wins Two National Edward R. Murrow Awards - Public Health Watch",
+          "Public Health Watch Wins Two National Edward R. Murrow Awards - Public Health Watch",
+          "Colorado issues public health order over tuberculosis at Aurora immigrant detention center - Colorado Public Radio"
         ]
       },
       {
         "trend": "virus",
         "market_code": "NL",
         "category": "Outbreaks",
-        "score": 10,
+        "score": 8,
         "examples": [
-          "Researcher earns patent for breath-based virus detection technology - Northeastern Global News",
+          "Researcher earns patent for breath-based virus detection technology - news.northeastern.edu",
           "Rhode Island reports Powassan virus case in Newport County - Outbreak News Today",
-          "Ebola tracing improves in DR Congo – but the virus is still winning the race - UN News"
+          "Daily news: West Nile virus is much more present than usual in Utah this year - Utah Public Radio"
         ]
       },
       {
         "trend": "healthcare",
         "market_code": "NL",
         "category": "Europe Health",
-        "score": 9,
+        "score": 8,
         "examples": [
           "The AI boom could boost Epic's position, health system execs say. Here's where AI startups can still win - Fierce Healthcare",
           "Patients Wary of Governments, Companies Pushing AI as a Rural Healthcare Solution - KFF Health News",
@@ -1019,58 +1030,47 @@
         ]
       },
       {
-        "trend": "public health",
+        "trend": "disease",
         "market_code": "NL",
         "category": "Europe Health",
-        "score": 8,
-        "examples": [
-          "Colorado issues public health order over tuberculosis at Aurora immigrant detention center - Colorado Public Radio",
-          "Colorado issues state-level public health order over tuberculosis case at Aurora ICE facility - Colorado Newsline",
-          "Celebrating \"Excellent\" Advocacy Faculty at the Bloomberg School - Johns Hopkins Bloomberg School of Public Health"
-        ]
-      },
-      {
-        "trend": "nile virus",
-        "market_code": "NL",
-        "category": "Outbreaks",
         "score": 6,
         "examples": [
-          "Daily news: West Nile virus is much more present than usual in Utah this year - Utah Public Radio",
-          "State confirms first human positive case of West Nile Virus in Hays County - Hays County (.gov)",
-          "Butte County confirms its first West Nile virus death of the year - CBS News"
+          "Risk of Severe Arboviral Disease in Patients Receiving B Cell-Depleting or Modulating Medications - KDHE.ks.gov",
+          "Risk of Severe Arboviral Disease in Patients Receiving B Cell-Depleting or Modulating Medications - KDHE.ks.gov",
+          "Thomas Fraser, MD, on the Future of Infectious Disease Care - Cleveland Clinic"
         ]
       },
       {
-        "trend": "west nile virus",
-        "market_code": "NL",
-        "category": "Outbreaks",
-        "score": 6,
-        "examples": [
-          "Daily news: West Nile virus is much more present than usual in Utah this year - Utah Public Radio",
-          "State confirms first human positive case of West Nile Virus in Hays County - Hays County (.gov)",
-          "Butte County confirms its first West Nile virus death of the year - CBS News"
-        ]
-      },
-      {
-        "trend": "trial",
+        "trend": "clinical",
         "market_code": "NL",
         "category": "Europe Health",
-        "score": 5,
+        "score": 6,
         "examples": [
-          "FDA approves pivotal trial for FastWave Medical's peripheral IVL system - Cardiovascular Business",
-          "The Lindsay Clancy trial brings maternal mental health into the spotlight - KOMU 8",
+          "Clinical: Expanded Access Takes SNIPR001 Beyond the Gut - CRISPR Medicine News",
+          "Nature Medicine Just Published the AI Mental Health Audit Framework the FDA Hasn’t Written Yet - The Clinical Trial Vanguard",
           "FDA Expands Clinical Trial Eligibility for Cancer Patients - Oncology News Central"
         ]
       },
       {
-        "trend": "hospital",
+        "trend": "cancer",
+        "market_code": "NL",
+        "category": "Chronic Disease",
+        "score": 5,
+        "examples": [
+          "PCF and Bayer Launch First Annual VA Medical Education Program - Prostate Cancer Foundation (PCF)",
+          "FDA Expands Clinical Trial Eligibility for Cancer Patients - Oncology News Central",
+          "mRNA-4359: Promising Cancer Vaccine, Dose, Administration, and Clinical Trials - Oncodaily"
+        ]
+      },
+      {
+        "trend": "health officials",
         "market_code": "NL",
         "category": "Europe Health",
         "score": 5,
         "examples": [
-          "In the name of public health and safety, Mayor Sarno calls for Vibra Hospital to take action to clean and secure their property - springfield-ma.gov",
-          "Newark-Wayne Community Hospital Earns High Marks in U.S. News Rankings - Finger Lakes Daily News",
-          "Hospital in Monroe County ranked as one of best in Pennsylvania - Pocono Record"
+          "Health officials warn of Hamlin Lake algae bloom health risks - 9and10News.com",
+          "Health officials issue blue-green algae advisory for Lake Du Bay - WSAW",
+          "Wisconsin health officials investigating measles outbreak in southwest counties - WPR"
         ]
       }
     ],
@@ -1079,73 +1079,84 @@
         "trend": "health",
         "market_code": "FI",
         "category": "Europe Health",
-        "score": 64,
+        "score": 71,
         "examples": [
           "HHS Announces Historic Investment to Expand Health Center Program, Bringing Primary Care to Nearly 1 Million More Americans - HHS.gov",
           "Armstrong appoints senior advisor Conner Swanson to lead ND Department of Health and Human Services - North Dakota Office of the Governor (.gov)",
-          "Selena Gomez and her mental health startup accused of fraud - CNN"
+          "As It Walks Toward Its Doom, Providence Health Plan Gets More Bad News - Willamette Week"
         ]
       },
       {
         "trend": "medical",
         "market_code": "FI",
         "category": "Europe Health",
-        "score": 16,
+        "score": 15,
         "examples": [
-          "Deaths of 3 ICE Detainees Prompt Questions About Medical Care - The New York Times",
-          "Link discovered between medical debt and insufficient sleep - Augusta University",
-          "FULL LIST: 22 of 56 remains found improperly stored at South Chicago Chapel funeral home ID'd by Cook County medical examiner - ABC7 Chicago"
+          "Immigrant detained by ICE dies after medical emergency - NBC News",
+          "PCF and Bayer Launch First Annual VA Medical Education Program - Prostate Cancer Foundation (PCF)",
+          "Deaths of 3 ICE Detainees Prompt Questions About Medical Care - The New York Times"
         ]
       },
       {
         "trend": "outbreak",
         "market_code": "FI",
         "category": "Outbreaks",
-        "score": 12,
+        "score": 13,
         "examples": [
           "A Salmonella Outbreak in Peppers Is Now Pulling Chicken Wraps and Burritos from Shelves Through a Second Federal Agency - Medical Daily",
           "Wisconsin health officials investigating measles outbreak in southwest counties - WPR",
-          "Ebola outbreak has spread to new province in Congo, the head of Africa CDC says - PBS"
+          "DRC’s fast-growing Ebola outbreak spreads to sixth province - The Guardian"
         ]
       },
       {
         "trend": "mental",
         "market_code": "FI",
         "category": "Mental Health",
-        "score": 10,
+        "score": 11,
         "examples": [
-          "Selena Gomez and her mental health startup accused of fraud - CNN",
-          "Montgomery County sues social media companies over youth mental health harm - WHYY",
-          "The Lindsay Clancy trial brings maternal mental health into the spotlight - KOMU 8"
+          "Selena Gomez and her mom accused of fraud over their mental health startup - NBC News",
+          "Postpartum mental health: what families and mothers need to know - Dakota News Now",
+          "Postpartum mental health: what families and mothers need to know - Dakota News Now"
         ]
       },
       {
         "trend": "mental health",
         "market_code": "FI",
         "category": "Mental Health",
+        "score": 11,
+        "examples": [
+          "Selena Gomez and her mom accused of fraud over their mental health startup - NBC News",
+          "Postpartum mental health: what families and mothers need to know - Dakota News Now",
+          "Postpartum mental health: what families and mothers need to know - Dakota News Now"
+        ]
+      },
+      {
+        "trend": "public health",
+        "market_code": "FI",
+        "category": "Europe Health",
         "score": 10,
         "examples": [
-          "Selena Gomez and her mental health startup accused of fraud - CNN",
-          "Montgomery County sues social media companies over youth mental health harm - WHYY",
-          "The Lindsay Clancy trial brings maternal mental health into the spotlight - KOMU 8"
+          "Public Health Watch Wins Two National Edward R. Murrow Awards - Public Health Watch",
+          "Public Health Watch Wins Two National Edward R. Murrow Awards - Public Health Watch",
+          "Colorado issues public health order over tuberculosis at Aurora immigrant detention center - Colorado Public Radio"
         ]
       },
       {
         "trend": "virus",
         "market_code": "FI",
         "category": "Outbreaks",
-        "score": 10,
+        "score": 8,
         "examples": [
-          "Researcher earns patent for breath-based virus detection technology - Northeastern Global News",
+          "Researcher earns patent for breath-based virus detection technology - news.northeastern.edu",
           "Rhode Island reports Powassan virus case in Newport County - Outbreak News Today",
-          "Ebola tracing improves in DR Congo – but the virus is still winning the race - UN News"
+          "Daily news: West Nile virus is much more present than usual in Utah this year - Utah Public Radio"
         ]
       },
       {
         "trend": "healthcare",
         "market_code": "FI",
         "category": "Europe Health",
-        "score": 9,
+        "score": 8,
         "examples": [
           "The AI boom could boost Epic's position, health system execs say. Here's where AI startups can still win - Fierce Healthcare",
           "Patients Wary of Governments, Companies Pushing AI as a Rural Healthcare Solution - KFF Health News",
@@ -1153,58 +1164,47 @@
         ]
       },
       {
-        "trend": "public health",
+        "trend": "disease",
         "market_code": "FI",
         "category": "Europe Health",
-        "score": 8,
-        "examples": [
-          "Colorado issues public health order over tuberculosis at Aurora immigrant detention center - Colorado Public Radio",
-          "Colorado issues state-level public health order over tuberculosis case at Aurora ICE facility - Colorado Newsline",
-          "Celebrating \"Excellent\" Advocacy Faculty at the Bloomberg School - Johns Hopkins Bloomberg School of Public Health"
-        ]
-      },
-      {
-        "trend": "nile virus",
-        "market_code": "FI",
-        "category": "Outbreaks",
         "score": 6,
         "examples": [
-          "Daily news: West Nile virus is much more present than usual in Utah this year - Utah Public Radio",
-          "State confirms first human positive case of West Nile Virus in Hays County - Hays County (.gov)",
-          "Butte County confirms its first West Nile virus death of the year - CBS News"
+          "Risk of Severe Arboviral Disease in Patients Receiving B Cell-Depleting or Modulating Medications - KDHE.ks.gov",
+          "Risk of Severe Arboviral Disease in Patients Receiving B Cell-Depleting or Modulating Medications - KDHE.ks.gov",
+          "Thomas Fraser, MD, on the Future of Infectious Disease Care - Cleveland Clinic"
         ]
       },
       {
-        "trend": "west nile virus",
-        "market_code": "FI",
-        "category": "Outbreaks",
-        "score": 6,
-        "examples": [
-          "Daily news: West Nile virus is much more present than usual in Utah this year - Utah Public Radio",
-          "State confirms first human positive case of West Nile Virus in Hays County - Hays County (.gov)",
-          "Butte County confirms its first West Nile virus death of the year - CBS News"
-        ]
-      },
-      {
-        "trend": "trial",
+        "trend": "clinical",
         "market_code": "FI",
         "category": "Europe Health",
-        "score": 5,
+        "score": 6,
         "examples": [
-          "FDA approves pivotal trial for FastWave Medical's peripheral IVL system - Cardiovascular Business",
-          "The Lindsay Clancy trial brings maternal mental health into the spotlight - KOMU 8",
+          "Clinical: Expanded Access Takes SNIPR001 Beyond the Gut - CRISPR Medicine News",
+          "Nature Medicine Just Published the AI Mental Health Audit Framework the FDA Hasn’t Written Yet - The Clinical Trial Vanguard",
           "FDA Expands Clinical Trial Eligibility for Cancer Patients - Oncology News Central"
         ]
       },
       {
-        "trend": "hospital",
+        "trend": "cancer",
+        "market_code": "FI",
+        "category": "Chronic Disease",
+        "score": 5,
+        "examples": [
+          "PCF and Bayer Launch First Annual VA Medical Education Program - Prostate Cancer Foundation (PCF)",
+          "FDA Expands Clinical Trial Eligibility for Cancer Patients - Oncology News Central",
+          "mRNA-4359: Promising Cancer Vaccine, Dose, Administration, and Clinical Trials - Oncodaily"
+        ]
+      },
+      {
+        "trend": "health officials",
         "market_code": "FI",
         "category": "Europe Health",
         "score": 5,
         "examples": [
-          "In the name of public health and safety, Mayor Sarno calls for Vibra Hospital to take action to clean and secure their property - springfield-ma.gov",
-          "Newark-Wayne Community Hospital Earns High Marks in U.S. News Rankings - Finger Lakes Daily News",
-          "Hospital in Monroe County ranked as one of best in Pennsylvania - Pocono Record"
+          "Health officials warn of Hamlin Lake algae bloom health risks - 9and10News.com",
+          "Health officials issue blue-green algae advisory for Lake Du Bay - WSAW",
+          "Wisconsin health officials investigating measles outbreak in southwest counties - WPR"
         ]
       }
     ],
@@ -1213,73 +1213,84 @@
         "trend": "health",
         "market_code": "NO",
         "category": "Europe Health",
-        "score": 64,
+        "score": 71,
         "examples": [
           "HHS Announces Historic Investment to Expand Health Center Program, Bringing Primary Care to Nearly 1 Million More Americans - HHS.gov",
           "Armstrong appoints senior advisor Conner Swanson to lead ND Department of Health and Human Services - North Dakota Office of the Governor (.gov)",
-          "Selena Gomez and her mental health startup accused of fraud - CNN"
+          "As It Walks Toward Its Doom, Providence Health Plan Gets More Bad News - Willamette Week"
         ]
       },
       {
         "trend": "medical",
         "market_code": "NO",
         "category": "Europe Health",
-        "score": 16,
+        "score": 15,
         "examples": [
-          "Deaths of 3 ICE Detainees Prompt Questions About Medical Care - The New York Times",
-          "Link discovered between medical debt and insufficient sleep - Augusta University",
-          "FULL LIST: 22 of 56 remains found improperly stored at South Chicago Chapel funeral home ID'd by Cook County medical examiner - ABC7 Chicago"
+          "Immigrant detained by ICE dies after medical emergency - NBC News",
+          "PCF and Bayer Launch First Annual VA Medical Education Program - Prostate Cancer Foundation (PCF)",
+          "Deaths of 3 ICE Detainees Prompt Questions About Medical Care - The New York Times"
         ]
       },
       {
         "trend": "outbreak",
         "market_code": "NO",
         "category": "Outbreaks",
-        "score": 12,
+        "score": 13,
         "examples": [
           "A Salmonella Outbreak in Peppers Is Now Pulling Chicken Wraps and Burritos from Shelves Through a Second Federal Agency - Medical Daily",
           "Wisconsin health officials investigating measles outbreak in southwest counties - WPR",
-          "Ebola outbreak has spread to new province in Congo, the head of Africa CDC says - PBS"
+          "DRC’s fast-growing Ebola outbreak spreads to sixth province - The Guardian"
         ]
       },
       {
         "trend": "mental",
         "market_code": "NO",
         "category": "Mental Health",
-        "score": 10,
+        "score": 11,
         "examples": [
-          "Selena Gomez and her mental health startup accused of fraud - CNN",
-          "Montgomery County sues social media companies over youth mental health harm - WHYY",
-          "The Lindsay Clancy trial brings maternal mental health into the spotlight - KOMU 8"
+          "Selena Gomez and her mom accused of fraud over their mental health startup - NBC News",
+          "Postpartum mental health: what families and mothers need to know - Dakota News Now",
+          "Postpartum mental health: what families and mothers need to know - Dakota News Now"
         ]
       },
       {
         "trend": "mental health",
         "market_code": "NO",
         "category": "Mental Health",
+        "score": 11,
+        "examples": [
+          "Selena Gomez and her mom accused of fraud over their mental health startup - NBC News",
+          "Postpartum mental health: what families and mothers need to know - Dakota News Now",
+          "Postpartum mental health: what families and mothers need to know - Dakota News Now"
+        ]
+      },
+      {
+        "trend": "public health",
+        "market_code": "NO",
+        "category": "Europe Health",
         "score": 10,
         "examples": [
-          "Selena Gomez and her mental health startup accused of fraud - CNN",
-          "Montgomery County sues social media companies over youth mental health harm - WHYY",
-          "The Lindsay Clancy trial brings maternal mental health into the spotlight - KOMU 8"
+          "Public Health Watch Wins Two National Edward R. Murrow Awards - Public Health Watch",
+          "Public Health Watch Wins Two National Edward R. Murrow Awards - Public Health Watch",
+          "Colorado issues public health order over tuberculosis at Aurora immigrant detention center - Colorado Public Radio"
         ]
       },
       {
         "trend": "virus",
         "market_code": "NO",
         "category": "Outbreaks",
-        "score": 10,
+        "score": 8,
         "examples": [
-          "Researcher earns patent for breath-based virus detection technology - Northeastern Global News",
+          "Researcher earns patent for breath-based virus detection technology - news.northeastern.edu",
           "Rhode Island reports Powassan virus case in Newport County - Outbreak News Today",
-          "Ebola tracing improves in DR Congo – but the virus is still winning the race - UN News"
+          "Daily news: West Nile virus is much more present than usual in Utah this year - Utah Public Radio"
         ]
       },
       {
         "trend": "healthcare",
         "market_code": "NO",
         "category": "Europe Health",
-        "score": 9,
+        "score": 8,
         "examples": [
           "The AI boom could boost Epic's position, health system execs say. Here's where AI startups can still win - Fierce Healthcare",
           "Patients Wary of Governments, Companies Pushing AI as a Rural Healthcare Solution - KFF Health News",
@@ -1287,58 +1298,47 @@
         ]
       },
       {
-        "trend": "public health",
+        "trend": "disease",
         "market_code": "NO",
         "category": "Europe Health",
-        "score": 8,
-        "examples": [
-          "Colorado issues public health order over tuberculosis at Aurora immigrant detention center - Colorado Public Radio",
-          "Colorado issues state-level public health order over tuberculosis case at Aurora ICE facility - Colorado Newsline",
-          "Celebrating \"Excellent\" Advocacy Faculty at the Bloomberg School - Johns Hopkins Bloomberg School of Public Health"
-        ]
-      },
-      {
-        "trend": "nile virus",
-        "market_code": "NO",
-        "category": "Outbreaks",
         "score": 6,
         "examples": [
-          "Daily news: West Nile virus is much more present than usual in Utah this year - Utah Public Radio",
-          "State confirms first human positive case of West Nile Virus in Hays County - Hays County (.gov)",
-          "Butte County confirms its first West Nile virus death of the year - CBS News"
+          "Risk of Severe Arboviral Disease in Patients Receiving B Cell-Depleting or Modulating Medications - KDHE.ks.gov",
+          "Risk of Severe Arboviral Disease in Patients Receiving B Cell-Depleting or Modulating Medications - KDHE.ks.gov",
+          "Thomas Fraser, MD, on the Future of Infectious Disease Care - Cleveland Clinic"
         ]
       },
       {
-        "trend": "west nile virus",
-        "market_code": "NO",
-        "category": "Outbreaks",
-        "score": 6,
-        "examples": [
-          "Daily news: West Nile virus is much more present than usual in Utah this year - Utah Public Radio",
-          "State confirms first human positive case of West Nile Virus in Hays County - Hays County (.gov)",
-          "Butte County confirms its first West Nile virus death of the year - CBS News"
-        ]
-      },
-      {
-        "trend": "trial",
+        "trend": "clinical",
         "market_code": "NO",
         "category": "Europe Health",
-        "score": 5,
+        "score": 6,
         "examples": [
-          "FDA approves pivotal trial for FastWave Medical's peripheral IVL system - Cardiovascular Business",
-          "The Lindsay Clancy trial brings maternal mental health into the spotlight - KOMU 8",
+          "Clinical: Expanded Access Takes SNIPR001 Beyond the Gut - CRISPR Medicine News",
+          "Nature Medicine Just Published the AI Mental Health Audit Framework the FDA Hasn’t Written Yet - The Clinical Trial Vanguard",
           "FDA Expands Clinical Trial Eligibility for Cancer Patients - Oncology News Central"
         ]
       },
       {
-        "trend": "hospital",
+        "trend": "cancer",
+        "market_code": "NO",
+        "category": "Chronic Disease",
+        "score": 5,
+        "examples": [
+          "PCF and Bayer Launch First Annual VA Medical Education Program - Prostate Cancer Foundation (PCF)",
+          "FDA Expands Clinical Trial Eligibility for Cancer Patients - Oncology News Central",
+          "mRNA-4359: Promising Cancer Vaccine, Dose, Administration, and Clinical Trials - Oncodaily"
+        ]
+      },
+      {
+        "trend": "health officials",
         "market_code": "NO",
         "category": "Europe Health",
         "score": 5,
         "examples": [
-          "In the name of public health and safety, Mayor Sarno calls for Vibra Hospital to take action to clean and secure their property - springfield-ma.gov",
-          "Newark-Wayne Community Hospital Earns High Marks in U.S. News Rankings - Finger Lakes Daily News",
-          "Hospital in Monroe County ranked as one of best in Pennsylvania - Pocono Record"
+          "Health officials warn of Hamlin Lake algae bloom health risks - 9and10News.com",
+          "Health officials issue blue-green algae advisory for Lake Du Bay - WSAW",
+          "Wisconsin health officials investigating measles outbreak in southwest counties - WPR"
         ]
       }
     ],
@@ -1347,73 +1347,84 @@
         "trend": "health",
         "market_code": "JP",
         "category": "Asia Health",
-        "score": 64,
+        "score": 71,
         "examples": [
           "HHS Announces Historic Investment to Expand Health Center Program, Bringing Primary Care to Nearly 1 Million More Americans - HHS.gov",
           "Armstrong appoints senior advisor Conner Swanson to lead ND Department of Health and Human Services - North Dakota Office of the Governor (.gov)",
-          "Selena Gomez and her mental health startup accused of fraud - CNN"
+          "As It Walks Toward Its Doom, Providence Health Plan Gets More Bad News - Willamette Week"
         ]
       },
       {
         "trend": "medical",
         "market_code": "JP",
         "category": "Asia Health",
-        "score": 16,
+        "score": 15,
         "examples": [
-          "Deaths of 3 ICE Detainees Prompt Questions About Medical Care - The New York Times",
-          "Link discovered between medical debt and insufficient sleep - Augusta University",
-          "FULL LIST: 22 of 56 remains found improperly stored at South Chicago Chapel funeral home ID'd by Cook County medical examiner - ABC7 Chicago"
+          "Immigrant detained by ICE dies after medical emergency - NBC News",
+          "PCF and Bayer Launch First Annual VA Medical Education Program - Prostate Cancer Foundation (PCF)",
+          "Deaths of 3 ICE Detainees Prompt Questions About Medical Care - The New York Times"
         ]
       },
       {
         "trend": "outbreak",
         "market_code": "JP",
         "category": "Outbreaks",
-        "score": 12,
+        "score": 13,
         "examples": [
           "A Salmonella Outbreak in Peppers Is Now Pulling Chicken Wraps and Burritos from Shelves Through a Second Federal Agency - Medical Daily",
           "Wisconsin health officials investigating measles outbreak in southwest counties - WPR",
-          "Ebola outbreak has spread to new province in Congo, the head of Africa CDC says - PBS"
+          "DRC’s fast-growing Ebola outbreak spreads to sixth province - The Guardian"
         ]
       },
       {
         "trend": "mental",
         "market_code": "JP",
         "category": "Mental Health",
-        "score": 10,
+        "score": 11,
         "examples": [
-          "Selena Gomez and her mental health startup accused of fraud - CNN",
-          "Montgomery County sues social media companies over youth mental health harm - WHYY",
-          "The Lindsay Clancy trial brings maternal mental health into the spotlight - KOMU 8"
+          "Selena Gomez and her mom accused of fraud over their mental health startup - NBC News",
+          "Postpartum mental health: what families and mothers need to know - Dakota News Now",
+          "Postpartum mental health: what families and mothers need to know - Dakota News Now"
         ]
       },
       {
         "trend": "mental health",
         "market_code": "JP",
         "category": "Mental Health",
+        "score": 11,
+        "examples": [
+          "Selena Gomez and her mom accused of fraud over their mental health startup - NBC News",
+          "Postpartum mental health: what families and mothers need to know - Dakota News Now",
+          "Postpartum mental health: what families and mothers need to know - Dakota News Now"
+        ]
+      },
+      {
+        "trend": "public health",
+        "market_code": "JP",
+        "category": "Asia Health",
         "score": 10,
         "examples": [
-          "Selena Gomez and her mental health startup accused of fraud - CNN",
-          "Montgomery County sues social media companies over youth mental health harm - WHYY",
-          "The Lindsay Clancy trial brings maternal mental health into the spotlight - KOMU 8"
+          "Public Health Watch Wins Two National Edward R. Murrow Awards - Public Health Watch",
+          "Public Health Watch Wins Two National Edward R. Murrow Awards - Public Health Watch",
+          "Colorado issues public health order over tuberculosis at Aurora immigrant detention center - Colorado Public Radio"
         ]
       },
       {
         "trend": "virus",
         "market_code": "JP",
         "category": "Outbreaks",
-        "score": 10,
+        "score": 8,
         "examples": [
-          "Researcher earns patent for breath-based virus detection technology - Northeastern Global News",
+          "Researcher earns patent for breath-based virus detection technology - news.northeastern.edu",
           "Rhode Island reports Powassan virus case in Newport County - Outbreak News Today",
-          "Ebola tracing improves in DR Congo – but the virus is still winning the race - UN News"
+          "Daily news: West Nile virus is much more present than usual in Utah this year - Utah Public Radio"
         ]
       },
       {
         "trend": "healthcare",
         "market_code": "JP",
         "category": "Asia Health",
-        "score": 9,
+        "score": 8,
         "examples": [
           "The AI boom could boost Epic's position, health system execs say. Here's where AI startups can still win - Fierce Healthcare",
           "Patients Wary of Governments, Companies Pushing AI as a Rural Healthcare Solution - KFF Health News",
@@ -1421,58 +1432,47 @@
         ]
       },
       {
-        "trend": "public health",
+        "trend": "disease",
         "market_code": "JP",
         "category": "Asia Health",
-        "score": 8,
-        "examples": [
-          "Colorado issues public health order over tuberculosis at Aurora immigrant detention center - Colorado Public Radio",
-          "Colorado issues state-level public health order over tuberculosis case at Aurora ICE facility - Colorado Newsline",
-          "Celebrating \"Excellent\" Advocacy Faculty at the Bloomberg School - Johns Hopkins Bloomberg School of Public Health"
-        ]
-      },
-      {
-        "trend": "nile virus",
-        "market_code": "JP",
-        "category": "Outbreaks",
         "score": 6,
         "examples": [
-          "Daily news: West Nile virus is much more present than usual in Utah this year - Utah Public Radio",
-          "State confirms first human positive case of West Nile Virus in Hays County - Hays County (.gov)",
-          "Butte County confirms its first West Nile virus death of the year - CBS News"
+          "Risk of Severe Arboviral Disease in Patients Receiving B Cell-Depleting or Modulating Medications - KDHE.ks.gov",
+          "Risk of Severe Arboviral Disease in Patients Receiving B Cell-Depleting or Modulating Medications - KDHE.ks.gov",
+          "Thomas Fraser, MD, on the Future of Infectious Disease Care - Cleveland Clinic"
         ]
       },
       {
-        "trend": "west nile virus",
-        "market_code": "JP",
-        "category": "Outbreaks",
-        "score": 6,
-        "examples": [
-          "Daily news: West Nile virus is much more present than usual in Utah this year - Utah Public Radio",
-          "State confirms first human positive case of West Nile Virus in Hays County - Hays County (.gov)",
-          "Butte County confirms its first West Nile virus death of the year - CBS News"
-        ]
-      },
-      {
-        "trend": "trial",
+        "trend": "clinical",
         "market_code": "JP",
         "category": "Asia Health",
-        "score": 5,
+        "score": 6,
         "examples": [
-          "FDA approves pivotal trial for FastWave Medical's peripheral IVL system - Cardiovascular Business",
-          "The Lindsay Clancy trial brings maternal mental health into the spotlight - KOMU 8",
+          "Clinical: Expanded Access Takes SNIPR001 Beyond the Gut - CRISPR Medicine News",
+          "Nature Medicine Just Published the AI Mental Health Audit Framework the FDA Hasn’t Written Yet - The Clinical Trial Vanguard",
           "FDA Expands Clinical Trial Eligibility for Cancer Patients - Oncology News Central"
         ]
       },
       {
-        "trend": "hospital",
+        "trend": "cancer",
+        "market_code": "JP",
+        "category": "Chronic Disease",
+        "score": 5,
+        "examples": [
+          "PCF and Bayer Launch First Annual VA Medical Education Program - Prostate Cancer Foundation (PCF)",
+          "FDA Expands Clinical Trial Eligibility for Cancer Patients - Oncology News Central",
+          "mRNA-4359: Promising Cancer Vaccine, Dose, Administration, and Clinical Trials - Oncodaily"
+        ]
+      },
+      {
+        "trend": "health officials",
         "market_code": "JP",
         "category": "Asia Health",
         "score": 5,
         "examples": [
-          "In the name of public health and safety, Mayor Sarno calls for Vibra Hospital to take action to clean and secure their property - springfield-ma.gov",
-          "Newark-Wayne Community Hospital Earns High Marks in U.S. News Rankings - Finger Lakes Daily News",
-          "Hospital in Monroe County ranked as one of best in Pennsylvania - Pocono Record"
+          "Health officials warn of Hamlin Lake algae bloom health risks - 9and10News.com",
+          "Health officials issue blue-green algae advisory for Lake Du Bay - WSAW",
+          "Wisconsin health officials investigating measles outbreak in southwest counties - WPR"
         ]
       }
     ],
@@ -1481,73 +1481,84 @@
         "trend": "health",
         "market_code": "CN",
         "category": "Asia Health",
-        "score": 64,
+        "score": 71,
         "examples": [
           "HHS Announces Historic Investment to Expand Health Center Program, Bringing Primary Care to Nearly 1 Million More Americans - HHS.gov",
           "Armstrong appoints senior advisor Conner Swanson to lead ND Department of Health and Human Services - North Dakota Office of the Governor (.gov)",
-          "Selena Gomez and her mental health startup accused of fraud - CNN"
+          "As It Walks Toward Its Doom, Providence Health Plan Gets More Bad News - Willamette Week"
         ]
       },
       {
         "trend": "medical",
         "market_code": "CN",
         "category": "Asia Health",
-        "score": 16,
+        "score": 15,
         "examples": [
-          "Deaths of 3 ICE Detainees Prompt Questions About Medical Care - The New York Times",
-          "Link discovered between medical debt and insufficient sleep - Augusta University",
-          "FULL LIST: 22 of 56 remains found improperly stored at South Chicago Chapel funeral home ID'd by Cook County medical examiner - ABC7 Chicago"
+          "Immigrant detained by ICE dies after medical emergency - NBC News",
+          "PCF and Bayer Launch First Annual VA Medical Education Program - Prostate Cancer Foundation (PCF)",
+          "Deaths of 3 ICE Detainees Prompt Questions About Medical Care - The New York Times"
         ]
       },
       {
         "trend": "outbreak",
         "market_code": "CN",
         "category": "Outbreaks",
-        "score": 12,
+        "score": 13,
         "examples": [
           "A Salmonella Outbreak in Peppers Is Now Pulling Chicken Wraps and Burritos from Shelves Through a Second Federal Agency - Medical Daily",
           "Wisconsin health officials investigating measles outbreak in southwest counties - WPR",
-          "Ebola outbreak has spread to new province in Congo, the head of Africa CDC says - PBS"
+          "DRC’s fast-growing Ebola outbreak spreads to sixth province - The Guardian"
         ]
       },
       {
         "trend": "mental",
         "market_code": "CN",
         "category": "Mental Health",
-        "score": 10,
+        "score": 11,
         "examples": [
-          "Selena Gomez and her mental health startup accused of fraud - CNN",
-          "Montgomery County sues social media companies over youth mental health harm - WHYY",
-          "The Lindsay Clancy trial brings maternal mental health into the spotlight - KOMU 8"
+          "Selena Gomez and her mom accused of fraud over their mental health startup - NBC News",
+          "Postpartum mental health: what families and mothers need to know - Dakota News Now",
+          "Postpartum mental health: what families and mothers need to know - Dakota News Now"
         ]
       },
       {
         "trend": "mental health",
         "market_code": "CN",
         "category": "Mental Health",
+        "score": 11,
+        "examples": [
+          "Selena Gomez and her mom accused of fraud over their mental health startup - NBC News",
+          "Postpartum mental health: what families and mothers need to know - Dakota News Now",
+          "Postpartum mental health: what families and mothers need to know - Dakota News Now"
+        ]
+      },
+      {
+        "trend": "public health",
+        "market_code": "CN",
+        "category": "Asia Health",
         "score": 10,
         "examples": [
-          "Selena Gomez and her mental health startup accused of fraud - CNN",
-          "Montgomery County sues social media companies over youth mental health harm - WHYY",
-          "The Lindsay Clancy trial brings maternal mental health into the spotlight - KOMU 8"
+          "Public Health Watch Wins Two National Edward R. Murrow Awards - Public Health Watch",
+          "Public Health Watch Wins Two National Edward R. Murrow Awards - Public Health Watch",
+          "Colorado issues public health order over tuberculosis at Aurora immigrant detention center - Colorado Public Radio"
         ]
       },
       {
         "trend": "virus",
         "market_code": "CN",
         "category": "Outbreaks",
-        "score": 10,
+        "score": 8,
         "examples": [
-          "Researcher earns patent for breath-based virus detection technology - Northeastern Global News",
+          "Researcher earns patent for breath-based virus detection technology - news.northeastern.edu",
           "Rhode Island reports Powassan virus case in Newport County - Outbreak News Today",
-          "Ebola tracing improves in DR Congo – but the virus is still winning the race - UN News"
+          "Daily news: West Nile virus is much more present than usual in Utah this year - Utah Public Radio"
         ]
       },
       {
         "trend": "healthcare",
         "market_code": "CN",
         "category": "Asia Health",
-        "score": 9,
+        "score": 8,
         "examples": [
           "The AI boom could boost Epic's position, health system execs say. Here's where AI startups can still win - Fierce Healthcare",
           "Patients Wary of Governments, Companies Pushing AI as a Rural Healthcare Solution - KFF Health News",
@@ -1555,58 +1566,47 @@
         ]
       },
       {
-        "trend": "public health",
+        "trend": "disease",
         "market_code": "CN",
         "category": "Asia Health",
-        "score": 8,
-        "examples": [
-          "Colorado issues public health order over tuberculosis at Aurora immigrant detention center - Colorado Public Radio",
-          "Colorado issues state-level public health order over tuberculosis case at Aurora ICE facility - Colorado Newsline",
-          "Celebrating \"Excellent\" Advocacy Faculty at the Bloomberg School - Johns Hopkins Bloomberg School of Public Health"
-        ]
-      },
-      {
-        "trend": "nile virus",
-        "market_code": "CN",
-        "category": "Outbreaks",
         "score": 6,
         "examples": [
-          "Daily news: West Nile virus is much more present than usual in Utah this year - Utah Public Radio",
-          "State confirms first human positive case of West Nile Virus in Hays County - Hays County (.gov)",
-          "Butte County confirms its first West Nile virus death of the year - CBS News"
+          "Risk of Severe Arboviral Disease in Patients Receiving B Cell-Depleting or Modulating Medications - KDHE.ks.gov",
+          "Risk of Severe Arboviral Disease in Patients Receiving B Cell-Depleting or Modulating Medications - KDHE.ks.gov",
+          "Thomas Fraser, MD, on the Future of Infectious Disease Care - Cleveland Clinic"
         ]
       },
       {
-        "trend": "west nile virus",
-        "market_code": "CN",
-        "category": "Outbreaks",
-        "score": 6,
-        "examples": [
-          "Daily news: West Nile virus is much more present than usual in Utah this year - Utah Public Radio",
-          "State confirms first human positive case of West Nile Virus in Hays County - Hays County (.gov)",
-          "Butte County confirms its first West Nile virus death of the year - CBS News"
-        ]
-      },
-      {
-        "trend": "trial",
+        "trend": "clinical",
         "market_code": "CN",
         "category": "Asia Health",
-        "score": 5,
+        "score": 6,
         "examples": [
-          "FDA approves pivotal trial for FastWave Medical's peripheral IVL system - Cardiovascular Business",
-          "The Lindsay Clancy trial brings maternal mental health into the spotlight - KOMU 8",
+          "Clinical: Expanded Access Takes SNIPR001 Beyond the Gut - CRISPR Medicine News",
+          "Nature Medicine Just Published the AI Mental Health Audit Framework the FDA Hasn’t Written Yet - The Clinical Trial Vanguard",
           "FDA Expands Clinical Trial Eligibility for Cancer Patients - Oncology News Central"
         ]
       },
       {
-        "trend": "hospital",
+        "trend": "cancer",
+        "market_code": "CN",
+        "category": "Chronic Disease",
+        "score": 5,
+        "examples": [
+          "PCF and Bayer Launch First Annual VA Medical Education Program - Prostate Cancer Foundation (PCF)",
+          "FDA Expands Clinical Trial Eligibility for Cancer Patients - Oncology News Central",
+          "mRNA-4359: Promising Cancer Vaccine, Dose, Administration, and Clinical Trials - Oncodaily"
+        ]
+      },
+      {
+        "trend": "health officials",
         "market_code": "CN",
         "category": "Asia Health",
         "score": 5,
         "examples": [
-          "In the name of public health and safety, Mayor Sarno calls for Vibra Hospital to take action to clean and secure their property - springfield-ma.gov",
-          "Newark-Wayne Community Hospital Earns High Marks in U.S. News Rankings - Finger Lakes Daily News",
-          "Hospital in Monroe County ranked as one of best in Pennsylvania - Pocono Record"
+          "Health officials warn of Hamlin Lake algae bloom health risks - 9and10News.com",
+          "Health officials issue blue-green algae advisory for Lake Du Bay - WSAW",
+          "Wisconsin health officials investigating measles outbreak in southwest counties - WPR"
         ]
       }
     ],
@@ -1615,73 +1615,84 @@
         "trend": "health",
         "market_code": "KR",
         "category": "Asia Health",
-        "score": 64,
+        "score": 71,
         "examples": [
           "HHS Announces Historic Investment to Expand Health Center Program, Bringing Primary Care to Nearly 1 Million More Americans - HHS.gov",
           "Armstrong appoints senior advisor Conner Swanson to lead ND Department of Health and Human Services - North Dakota Office of the Governor (.gov)",
-          "Selena Gomez and her mental health startup accused of fraud - CNN"
+          "As It Walks Toward Its Doom, Providence Health Plan Gets More Bad News - Willamette Week"
         ]
       },
       {
         "trend": "medical",
         "market_code": "KR",
         "category": "Asia Health",
-        "score": 16,
+        "score": 15,
         "examples": [
-          "Deaths of 3 ICE Detainees Prompt Questions About Medical Care - The New York Times",
-          "Link discovered between medical debt and insufficient sleep - Augusta University",
-          "FULL LIST: 22 of 56 remains found improperly stored at South Chicago Chapel funeral home ID'd by Cook County medical examiner - ABC7 Chicago"
+          "Immigrant detained by ICE dies after medical emergency - NBC News",
+          "PCF and Bayer Launch First Annual VA Medical Education Program - Prostate Cancer Foundation (PCF)",
+          "Deaths of 3 ICE Detainees Prompt Questions About Medical Care - The New York Times"
         ]
       },
       {
         "trend": "outbreak",
         "market_code": "KR",
         "category": "Outbreaks",
-        "score": 12,
+        "score": 13,
         "examples": [
           "A Salmonella Outbreak in Peppers Is Now Pulling Chicken Wraps and Burritos from Shelves Through a Second Federal Agency - Medical Daily",
           "Wisconsin health officials investigating measles outbreak in southwest counties - WPR",
-          "Ebola outbreak has spread to new province in Congo, the head of Africa CDC says - PBS"
+          "DRC’s fast-growing Ebola outbreak spreads to sixth province - The Guardian"
         ]
       },
       {
         "trend": "mental",
         "market_code": "KR",
         "category": "Mental Health",
-        "score": 10,
+        "score": 11,
         "examples": [
-          "Selena Gomez and her mental health startup accused of fraud - CNN",
-          "Montgomery County sues social media companies over youth mental health harm - WHYY",
-          "The Lindsay Clancy trial brings maternal mental health into the spotlight - KOMU 8"
+          "Selena Gomez and her mom accused of fraud over their mental health startup - NBC News",
+          "Postpartum mental health: what families and mothers need to know - Dakota News Now",
+          "Postpartum mental health: what families and mothers need to know - Dakota News Now"
         ]
       },
       {
         "trend": "mental health",
         "market_code": "KR",
         "category": "Mental Health",
+        "score": 11,
+        "examples": [
+          "Selena Gomez and her mom accused of fraud over their mental health startup - NBC News",
+          "Postpartum mental health: what families and mothers need to know - Dakota News Now",
+          "Postpartum mental health: what families and mothers need to know - Dakota News Now"
+        ]
+      },
+      {
+        "trend": "public health",
+        "market_code": "KR",
+        "category": "Asia Health",
         "score": 10,
         "examples": [
-          "Selena Gomez and her mental health startup accused of fraud - CNN",
-          "Montgomery County sues social media companies over youth mental health harm - WHYY",
-          "The Lindsay Clancy trial brings maternal mental health into the spotlight - KOMU 8"
+          "Public Health Watch Wins Two National Edward R. Murrow Awards - Public Health Watch",
+          "Public Health Watch Wins Two National Edward R. Murrow Awards - Public Health Watch",
+          "Colorado issues public health order over tuberculosis at Aurora immigrant detention center - Colorado Public Radio"
         ]
       },
       {
         "trend": "virus",
         "market_code": "KR",
         "category": "Outbreaks",
-        "score": 10,
+        "score": 8,
         "examples": [
-          "Researcher earns patent for breath-based virus detection technology - Northeastern Global News",
+          "Researcher earns patent for breath-based virus detection technology - news.northeastern.edu",
           "Rhode Island reports Powassan virus case in Newport County - Outbreak News Today",
-          "Ebola tracing improves in DR Congo – but the virus is still winning the race - UN News"
+          "Daily news: West Nile virus is much more present than usual in Utah this year - Utah Public Radio"
         ]
       },
       {
         "trend": "healthcare",
         "market_code": "KR",
         "category": "Asia Health",
-        "score": 9,
+        "score": 8,
         "examples": [
           "The AI boom could boost Epic's position, health system execs say. Here's where AI startups can still win - Fierce Healthcare",
           "Patients Wary of Governments, Companies Pushing AI as a Rural Healthcare Solution - KFF Health News",
@@ -1689,58 +1700,47 @@
         ]
       },
       {
-        "trend": "public health",
+        "trend": "disease",
         "market_code": "KR",
         "category": "Asia Health",
-        "score": 8,
-        "examples": [
-          "Colorado issues public health order over tuberculosis at Aurora immigrant detention center - Colorado Public Radio",
-          "Colorado issues state-level public health order over tuberculosis case at Aurora ICE facility - Colorado Newsline",
-          "Celebrating \"Excellent\" Advocacy Faculty at the Bloomberg School - Johns Hopkins Bloomberg School of Public Health"
-        ]
-      },
-      {
-        "trend": "nile virus",
-        "market_code": "KR",
-        "category": "Outbreaks",
         "score": 6,
         "examples": [
-          "Daily news: West Nile virus is much more present than usual in Utah this year - Utah Public Radio",
-          "State confirms first human positive case of West Nile Virus in Hays County - Hays County (.gov)",
-          "Butte County confirms its first West Nile virus death of the year - CBS News"
+          "Risk of Severe Arboviral Disease in Patients Receiving B Cell-Depleting or Modulating Medications - KDHE.ks.gov",
+          "Risk of Severe Arboviral Disease in Patients Receiving B Cell-Depleting or Modulating Medications - KDHE.ks.gov",
+          "Thomas Fraser, MD, on the Future of Infectious Disease Care - Cleveland Clinic"
         ]
       },
       {
-        "trend": "west nile virus",
-        "market_code": "KR",
-        "category": "Outbreaks",
-        "score": 6,
-        "examples": [
-          "Daily news: West Nile virus is much more present than usual in Utah this year - Utah Public Radio",
-          "State confirms first human positive case of West Nile Virus in Hays County - Hays County (.gov)",
-          "Butte County confirms its first West Nile virus death of the year - CBS News"
-        ]
-      },
-      {
-        "trend": "trial",
+        "trend": "clinical",
         "market_code": "KR",
         "category": "Asia Health",
-        "score": 5,
+        "score": 6,
         "examples": [
-          "FDA approves pivotal trial for FastWave Medical's peripheral IVL system - Cardiovascular Business",
-          "The Lindsay Clancy trial brings maternal mental health into the spotlight - KOMU 8",
+          "Clinical: Expanded Access Takes SNIPR001 Beyond the Gut - CRISPR Medicine News",
+          "Nature Medicine Just Published the AI Mental Health Audit Framework the FDA Hasn’t Written Yet - The Clinical Trial Vanguard",
           "FDA Expands Clinical Trial Eligibility for Cancer Patients - Oncology News Central"
         ]
       },
       {
-        "trend": "hospital",
+        "trend": "cancer",
+        "market_code": "KR",
+        "category": "Chronic Disease",
+        "score": 5,
+        "examples": [
+          "PCF and Bayer Launch First Annual VA Medical Education Program - Prostate Cancer Foundation (PCF)",
+          "FDA Expands Clinical Trial Eligibility for Cancer Patients - Oncology News Central",
+          "mRNA-4359: Promising Cancer Vaccine, Dose, Administration, and Clinical Trials - Oncodaily"
+        ]
+      },
+      {
+        "trend": "health officials",
         "market_code": "KR",
         "category": "Asia Health",
         "score": 5,
         "examples": [
-          "In the name of public health and safety, Mayor Sarno calls for Vibra Hospital to take action to clean and secure their property - springfield-ma.gov",
-          "Newark-Wayne Community Hospital Earns High Marks in U.S. News Rankings - Finger Lakes Daily News",
-          "Hospital in Monroe County ranked as one of best in Pennsylvania - Pocono Record"
+          "Health officials warn of Hamlin Lake algae bloom health risks - 9and10News.com",
+          "Health officials issue blue-green algae advisory for Lake Du Bay - WSAW",
+          "Wisconsin health officials investigating measles outbreak in southwest counties - WPR"
         ]
       }
     ],
@@ -1749,22 +1749,22 @@
         "trend": "health",
         "market_code": "IN",
         "category": "Asia Health",
-        "score": 60,
+        "score": 62,
         "examples": [
+          "Why Health Remains Underfunded in Global Climate Finance - orfonline.org",
           "From Biosignals to Health Insights: Samsung Research’s Work on Health Foundation Models - samsung.com",
-          "From Biosignals to Health Insights: Samsung Research’s Work on Health Foundation Models - samsung.com",
-          "Frailty and health resource utilization in 5450 adults with acute myeloid leukaemia: A population-based study from Ontario, Canada - National Institutes of Health (NIH) | (.gov)"
+          "From Biosignals to Health Insights: Samsung Research’s Work on Health Foundation Models - samsung.com"
         ]
       },
       {
         "trend": "medical",
         "market_code": "IN",
         "category": "Asia Health",
-        "score": 18,
+        "score": 19,
         "examples": [
-          "Critical medical equipment lying idle across 26 govt. hospitals, says Delhi HC - The Hindu",
           "India weighs health insurance reforms amid rising medical costs - Asia Insurance Review",
-          "Critical medical equipment lying idle across 26 govt. hospitals, says Delhi HC - The Hindu"
+          "India weighs health insurance reforms amid rising medical costs - Asia Insurance Review",
+          "Medical counselling begins; NEET repeaters dominate - The New Indian Express"
         ]
       },
       {
@@ -1773,86 +1773,64 @@
         "category": "Outbreaks",
         "score": 14,
         "examples": [
+          "Congo Ebola Outbreak Spreads To Sixth Province Amid Rising Deaths And Health Worker Strikes - NDTV",
           "Fiji’s HIV outbreak is a public health emergency. Pacific neighbours must step up - The Conversation",
-          "Fiji’s HIV outbreak is a public health emergency. Pacific neighbours must step up - The Conversation",
-          "A Salmonella Outbreak in Peppers Is Now Pulling Chicken Wraps and Burritos from Shelves Through a Second Federal Agency - Medical Daily"
-        ]
-      },
-      {
-        "trend": "healthcare",
-        "market_code": "IN",
-        "category": "Asia Health",
-        "score": 14,
-        "examples": [
-          "Marley Medical operations transition to Starlight Healthcare - Dealroom",
-          "Union Minister J P Nadda releases Knowledge Paper on ‘AI in MedTech: Revolutionizing Healthcare Through Artificial Intelligence’ - PIB",
-          "AI in MedTech can transform healthcare, report paper highlights five priorities - health.economictimes.indiatimes.com"
-        ]
-      },
-      {
-        "trend": "mental",
-        "market_code": "IN",
-        "category": "Mental Health",
-        "score": 8,
-        "examples": [
-          "Selena Gomez and her mental health startup accused of fraud - CNN",
-          "Selena Gomez and her mental health startup accused of fraud - CNN",
-          "Digital mental health tools show positive impact on youth well-being - news-medical.net"
-        ]
-      },
-      {
-        "trend": "mental health",
-        "market_code": "IN",
-        "category": "Mental Health",
-        "score": 8,
-        "examples": [
-          "Selena Gomez and her mental health startup accused of fraud - CNN",
-          "Selena Gomez and her mental health startup accused of fraud - CNN",
-          "Digital mental health tools show positive impact on youth well-being - news-medical.net"
-        ]
-      },
-      {
-        "trend": "ebola outbreak",
-        "market_code": "IN",
-        "category": "Outbreaks",
-        "score": 8,
-        "examples": [
-          "DR Congo Ebola outbreak spreads to a sixth province - Al Jazeera",
-          "DRC’s fast-growing Ebola outbreak spreads to sixth province - The Guardian",
-          "Ebola outbreak spreads to 6th Congolese province - Anadolu Ajansı"
-        ]
-      },
-      {
-        "trend": "public health",
-        "market_code": "IN",
-        "category": "Asia Health",
-        "score": 7,
-        "examples": [
-          "Fiji’s HIV outbreak is a public health emergency. Pacific neighbours must step up - The Conversation",
-          "Fiji’s HIV outbreak is a public health emergency. Pacific neighbours must step up - The Conversation",
-          "Exploring how discretionary time impacts health - Harvard T.H. Chan School of Public Health"
+          "US Imposes Strict Travel Restrictions on DRC Over Ebola Outbreak - Nomad Lawyer"
         ]
       },
       {
         "trend": "warning",
         "market_code": "IN",
         "category": "Asia Health",
-        "score": 7,
+        "score": 11,
         "examples": [
+          "'Don't you want people to be healthy?': SC slams FSSAI over packaged food warning labels - Rediff",
           "Bengaluru: PGs scramble to scrub kitchens after health minister Khader's warning - Deccan Herald",
-          "'Children's health is important'; Supreme Court orders front-of-pack warning labels on packaged food products - Kerala Kaumudi",
-          "FDA Advisory No.2026-0868 || Public Health Warning Against the Purchase and Use of the Unauthorized Cosmetic Product “KEVIN & COCO PUPPY-ANGEL LIPSTICK (01 CHARM RUBY, 02 HONEY CORAL, 03 MILK PEARL, 04 BLAZING BLUSH, 05 SWEET - fda.gov.ph"
+          "'Children's health is important'; Supreme Court orders front-of-pack warning labels on packaged food products - Kerala Kaumudi"
         ]
       },
       {
-        "trend": "vaccine",
+        "trend": "healthcare",
         "market_code": "IN",
-        "category": "Drug & Treatment News",
+        "category": "Asia Health",
+        "score": 11,
+        "examples": [
+          "Union Minister J P Nadda releases Knowledge Paper on ‘AI in MedTech: Revolutionizing Healthcare Through Artificial Intelligence’ - PIB",
+          "AI in MedTech can transform healthcare, report paper highlights five priorities - ET HealthWorld",
+          "Health Minister Nadda chairs MedTech CEO roundtable, unveils roadmap for responsible AI adoption in healthcare - ddnews.gov.in"
+        ]
+      },
+      {
+        "trend": "ebola outbreak",
+        "market_code": "IN",
+        "category": "Outbreaks",
+        "score": 10,
+        "examples": [
+          "Congo Ebola Outbreak Spreads To Sixth Province Amid Rising Deaths And Health Worker Strikes - NDTV",
+          "US Imposes Strict Travel Restrictions on DRC Over Ebola Outbreak - Nomad Lawyer",
+          "US Enforces Strict Travel Restrictions on DRC Amid Ebola Outbreak - Nomad Lawyer"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "IN",
+        "category": "Mental Health",
+        "score": 7,
+        "examples": [
+          "Strong friendships linked to better mental and physical health - News-Medical",
+          "Strong friendships linked to better mental and physical health - News-Medical",
+          "Selena Gomez sued by investors over mental health startup - India Today"
+        ]
+      },
+      {
+        "trend": "hospitals",
+        "market_code": "IN",
+        "category": "Asia Health",
         "score": 6,
         "examples": [
-          "Interim govt changed vaccine procurement despite Unicef warning: Science report - The Daily Star",
-          "FDA Approves First mRNA Flu Vaccine - respiratory-therapy.com",
-          "mRNA-4359: Promising Cancer Vaccine, Dose, Administration, and Clinical Trials - oncodaily.com"
+          "Colombia earthquake: Hospitals adapt to save lives amid widespread damage - Al Jazeera",
+          "Apollo Hospitals completes 2,000 robotic-assisted joint replacements - The Hindu",
+          "Colombia earthquake: Hospitals adapt to save lives amid widespread damage - Al Jazeera"
         ]
       },
       {
@@ -1861,20 +1839,42 @@
         "category": "Outbreaks",
         "score": 6,
         "examples": [
-          "Ebola tracing improves in DR Congo – but the virus is still winning the race - UN News",
-          "Researcher earns patent for breath-based virus detection technology - Northeastern Global News",
-          "Bat virus fragments turn up in fertilizer sold in Thai markets, study finds - news - Mongabay"
+          "25 dead in 5 weeks in Gujarat, experts clueless about Chandipura virus outbreak - The Indian Express",
+          "25 dead in 5 weeks in Gujarat, experts clueless about Chandipura virus outbreak - The Indian Express",
+          "Researcher earns patent for breath-based virus detection technology - Northeastern Global News"
         ]
       },
       {
-        "trend": "hospitals",
+        "trend": "outbreak spreads",
+        "market_code": "IN",
+        "category": "Outbreaks",
+        "score": 5,
+        "examples": [
+          "Congo Ebola Outbreak Spreads To Sixth Province Amid Rising Deaths And Health Worker Strikes - NDTV",
+          "DRC’s fast-growing Ebola outbreak spreads to sixth province - The Guardian",
+          "DR Congo Ebola outbreak spreads to a sixth province - Al Jazeera"
+        ]
+      },
+      {
+        "trend": "ebola outbreak spreads",
+        "market_code": "IN",
+        "category": "Outbreaks",
+        "score": 5,
+        "examples": [
+          "Congo Ebola Outbreak Spreads To Sixth Province Amid Rising Deaths And Health Worker Strikes - NDTV",
+          "DRC’s fast-growing Ebola outbreak spreads to sixth province - The Guardian",
+          "DR Congo Ebola outbreak spreads to a sixth province - Al Jazeera"
+        ]
+      },
+      {
+        "trend": "public health",
         "market_code": "IN",
         "category": "Asia Health",
         "score": 5,
         "examples": [
-          "Colombia earthquake: Hospitals adapt to save lives amid widespread damage - Al Jazeera",
-          "Critical medical equipment lying idle across 26 govt. hospitals, says Delhi HC - The Hindu",
-          "Colombia earthquake: Hospitals adapt to save lives amid widespread damage - Al Jazeera"
+          "Study examines how public deliberation can strengthen public health policymaking - News-Medical",
+          "Fiji’s HIV outbreak is a public health emergency. Pacific neighbours must step up - The Conversation",
+          "Public Health Watch Wins Two National Edward R. Murrow Awards - publichealthwatch.org"
         ]
       }
     ],
@@ -1883,11 +1883,11 @@
         "trend": "health",
         "market_code": "AU",
         "category": "Global Health",
-        "score": 65,
+        "score": 70,
         "examples": [
-          "Construction reaches highest point for NSW’s largest mental health facility - NSW Government",
-          "New Medicare Mental Health Centre to open in Tasmania - Australian Government Department of Health, Disability and Ageing",
-          "New Medicare Mental Health Centre to open in Tasmania - Australian Government Department of Health, Disability and Ageing"
+          "Lynne Mitchell takes country health outcomes to the next level four decades on - WA Country Health Service",
+          "Lynne Mitchell takes country health outcomes to the next level four decades on - WA Country Health Service",
+          "Construction reaches highest point for NSW’s largest mental health facility - NSW Government"
         ]
       },
       {
@@ -1896,53 +1896,53 @@
         "category": "Global Health",
         "score": 17,
         "examples": [
-          "CTPA presents major 4D Medical opportunity - The Mercury",
-          "Pilot Medical Update - Jesse Ramien - sharks.com.au",
-          "Cybersecurity firm fired worker on medical leave, then advertised her job, suit alleges - hcamag.com"
+          "Peak medical education body calls for a ‘self-sufficient’ workforce - Medical Republic",
+          "Peak medical education body calls for a ‘self-sufficient’ workforce - Medical Republic",
+          "Penthrox powers Medical Developments International (ASX:MVP) back to positive cash flow as paediatric approvals land - Kalkine"
         ]
       },
       {
         "trend": "outbreak",
         "market_code": "AU",
         "category": "Outbreaks",
-        "score": 14,
+        "score": 15,
         "examples": [
-          "Fiji’s HIV outbreak is a public health emergency. Pacific neighbours must step up - The Conversation",
-          "Fiji’s HIV outbreak is a public health emergency. Pacific neighbours must step up - The Conversation",
+          "Fiji’s HIV outbreak is a public health emergency. Pacific neighbours must step up - theconversation.com",
+          "Fiji’s HIV outbreak is a public health emergency. Pacific neighbours must step up - theconversation.com",
           "A Salmonella Outbreak in Peppers Is Now Pulling Chicken Wraps and Burritos from Shelves Through a Second Federal Agency - Medical Daily"
-        ]
-      },
-      {
-        "trend": "healthcare",
-        "market_code": "AU",
-        "category": "Global Health",
-        "score": 11,
-        "examples": [
-          "China redirects medical insurance funds towards primary healthcare - Asia Insurance Review",
-          "AI Healthcare Stocks With Real Revenue For Australian Investors - simplywall.st",
-          "Patients Wary of Governments, Companies Pushing AI as a Rural Healthcare Solution - KFF Health News"
         ]
       },
       {
         "trend": "mental",
         "market_code": "AU",
         "category": "Mental Health",
-        "score": 10,
+        "score": 14,
         "examples": [
           "Construction reaches highest point for NSW’s largest mental health facility - NSW Government",
           "New Medicare Mental Health Centre to open in Tasmania - Australian Government Department of Health, Disability and Ageing",
-          "Severe mental illness linked to preventable physical disease and shorter life span - UQ News"
+          "You can’t address youth mental health without talking about the economy - Health Services Daily"
         ]
       },
       {
-        "trend": "public health",
+        "trend": "mental health",
+        "market_code": "AU",
+        "category": "Mental Health",
+        "score": 13,
+        "examples": [
+          "Construction reaches highest point for NSW’s largest mental health facility - NSW Government",
+          "New Medicare Mental Health Centre to open in Tasmania - Australian Government Department of Health, Disability and Ageing",
+          "You can’t address youth mental health without talking about the economy - Health Services Daily"
+        ]
+      },
+      {
+        "trend": "healthcare",
         "market_code": "AU",
         "category": "Global Health",
-        "score": 10,
+        "score": 12,
         "examples": [
-          "Fiji’s HIV outbreak is a public health emergency. Pacific neighbours must step up - The Conversation",
-          "Fiji’s HIV outbreak is a public health emergency. Pacific neighbours must step up - The Conversation",
-          "AI Public Health Agenda: From Breakthrough to Action - Mirage News"
+          "Rural Aussies die young amid major healthcare shortfall - The Canberra Times",
+          "How new midwife role could boost regional healthcare - The Courier Mail",
+          "AI Healthcare Stocks With Real Revenue For Australian Investors - simplywall.st"
         ]
       },
       {
@@ -1952,52 +1952,41 @@
         "score": 9,
         "examples": [
           "DRC’s fast-growing Ebola outbreak spreads to sixth province - The Guardian",
-          "DR Congo Ebola outbreak spreads to a sixth province - Al Jazeera",
+          "Ebola outbreak caused by new ‘animal transmission’: What that means - Al Jazeera",
           "Ebola outbreak in DR Congo spreads to sixth province as death toll passes 2,100 - Le Monde.fr"
-        ]
-      },
-      {
-        "trend": "mental health",
-        "market_code": "AU",
-        "category": "Mental Health",
-        "score": 8,
-        "examples": [
-          "Construction reaches highest point for NSW’s largest mental health facility - NSW Government",
-          "New Medicare Mental Health Centre to open in Tasmania - Australian Government Department of Health, Disability and Ageing",
-          "Construction reaches highest point for NSW’s largest mental health facility - NSW Government"
-        ]
-      },
-      {
-        "trend": "department health",
-        "market_code": "AU",
-        "category": "Global Health",
-        "score": 6,
-        "examples": [
-          "New Medicare Mental Health Centre to open in Tasmania - Australian Government Department of Health, Disability and Ageing",
-          "Department of Health - Seminole Issues Blue Green Algae Health Alert for Lake Howell - mysanfordherald.com",
-          "New Medicare Mental Health Centre to open in Tasmania - Australian Government Department of Health, Disability and Ageing"
-        ]
-      },
-      {
-        "trend": "vaccine",
-        "market_code": "AU",
-        "category": "Drug & Treatment News",
-        "score": 6,
-        "examples": [
-          "What’s driving vaccine hesitancy—and how to address it - Harvard T.H. Chan School of Public Health",
-          "Malaria research: The Australian discovery that could turn mosquito bites into vaccine booster shots - SMH.com.au",
-          "FDA fast-tracks experimental vaccine aiming to slow early Parkinson’s - Parkinson's News Today"
         ]
       },
       {
         "trend": "warning",
         "market_code": "AU",
         "category": "Global Health",
-        "score": 6,
+        "score": 8,
         "examples": [
-          "newsGP - New campaign’s attention-grabbing kidney warning - Royal Australian College of General Practitioners (RACGP)",
+          "Temperatures soar to 38C as amber extreme heat warning in effect - au.news.yahoo.com",
           "FDA Advisory No.2026-0868 || Public Health Warning Against the Purchase and Use of the Unauthorized Cosmetic Product “KEVIN & COCO PUPPY-ANGEL LIPSTICK (01 CHARM RUBY, 02 HONEY CORAL, 03 MILK PEARL, 04 BLAZING BLUSH, 05 SWEET - fda.gov.ph",
-          "UK issues amber extreme heat warning as temperatures set to reach 38C - A News"
+          "Flesh-eating’ bacteria warning — should Galveston beachgoers be concerned? - Click2Houston"
+        ]
+      },
+      {
+        "trend": "public health",
+        "market_code": "AU",
+        "category": "Global Health",
+        "score": 7,
+        "examples": [
+          "Fiji’s HIV outbreak is a public health emergency. Pacific neighbours must step up - theconversation.com",
+          "Fiji’s HIV outbreak is a public health emergency. Pacific neighbours must step up - theconversation.com",
+          "Study examines how public deliberation can strengthen public health policymaking - news-medical.net"
+        ]
+      },
+      {
+        "trend": "department health",
+        "market_code": "AU",
+        "category": "Global Health",
+        "score": 5,
+        "examples": [
+          "New Medicare Mental Health Centre to open in Tasmania - Australian Government Department of Health, Disability and Ageing",
+          "Department of Health - Seminole Issues Blue Green Algae Health Alert for Lake Howell - mysanfordherald.com",
+          "New Medicare Mental Health Centre to open in Tasmania - Australian Government Department of Health, Disability and Ageing"
         ]
       },
       {
@@ -2006,9 +1995,20 @@
         "category": "Global Health",
         "score": 5,
         "examples": [
-          "Severe mental illness linked to preventable physical disease and shorter life span - UQ News",
-          "Sheep vet warns Ovine Johne’s Disease has not gone away - sheepcentral.com",
-          "Deadly fungal disease threatens native snakes - ABC News & Headlines – Australian Broadcasting Corporation"
+          "Strategic Framework Targets Rheumatic Heart Disease - Mirage News",
+          "Risk of Severe Arboviral Disease in Patients Receiving B Cell-Depleting or Modulating Medications - KDHE.ks.gov",
+          "Sheep vet warns Ovine Johne’s Disease has not gone away - sheepcentral.com"
+        ]
+      },
+      {
+        "trend": "infection",
+        "market_code": "AU",
+        "category": "Outbreaks",
+        "score": 5,
+        "examples": [
+          "Children suffer kidney failure from petting zoo infection - SMH.com.au",
+          "Children struck down with kidney failure after contracting bacterial infection at petting zoo - nine.com.au",
+          "From infection to protection: Could mosquitoes help eradicate malaria? - wehi.edu.au"
         ]
       }
     ],
@@ -2019,9 +2019,9 @@
         "category": "Global Health",
         "score": 70,
         "examples": [
-          "'Contractor’s error' caused sewage backup at health centre: chief - snnewswatch.com",
-          "'Last resort': Health unit takes legal action against Vickers Manor owners - Thunder Bay News - TBNewsWatch.com",
-          "Investors sue Selena Gomez for alleged fraud over mental health startup - CBC"
+          "Dr. David Hammond joins first national Canadian Cannabis and Brain Health Consortium - University of Waterloo",
+          "Investors sue Selena Gomez for alleged fraud over mental health startup - CBC",
+          "'Contractor’s error' caused sewage backup at health centre: chief - SNNewsWatch.com"
         ]
       },
       {
@@ -2043,29 +2043,18 @@
         "examples": [
           "Fiji’s HIV outbreak is a public health emergency. Pacific neighbours must step up - The Conversation",
           "WHO aims to turn tide of Ebola outbreak in DR Congo within three months - سانا",
-          "A Salmonella Outbreak in Peppers Is Now Pulling Chicken Wraps and Burritos from Shelves Through a Second Federal Agency - Medical Daily"
+          "A Salmonella Outbreak in Peppers Is Now Pulling Chicken Wraps and Burritos from Shelves Through a Second Federal Agency - medicaldaily.com"
         ]
       },
       {
-        "trend": "mental",
+        "trend": "ebola outbreak",
         "market_code": "CA",
-        "category": "Mental Health",
-        "score": 12,
+        "category": "Outbreaks",
+        "score": 11,
         "examples": [
-          "Investors sue Selena Gomez for alleged fraud over mental health startup - CBC",
-          "The Lindsay Clancy trial brings maternal mental health into the spotlight - KOMU 8",
-          "Investors sue Selena Gomez for alleged fraud over mental health startup - CBC"
-        ]
-      },
-      {
-        "trend": "mental health",
-        "market_code": "CA",
-        "category": "Mental Health",
-        "score": 12,
-        "examples": [
-          "Investors sue Selena Gomez for alleged fraud over mental health startup - CBC",
-          "The Lindsay Clancy trial brings maternal mental health into the spotlight - KOMU 8",
-          "Investors sue Selena Gomez for alleged fraud over mental health startup - CBC"
+          "WHO aims to turn tide of Ebola outbreak in DR Congo within three months - سانا",
+          "US Enforces Strict Travel Restrictions on DRC Amid Ebola Outbreak - Nomad Lawyer",
+          "DRC’s fast-growing Ebola outbreak spreads to sixth province - The Guardian"
         ]
       },
       {
@@ -2080,25 +2069,25 @@
         ]
       },
       {
-        "trend": "virus",
+        "trend": "mental",
         "market_code": "CA",
-        "category": "Outbreaks",
+        "category": "Mental Health",
         "score": 9,
         "examples": [
-          "Second West Nile virus positive mosquito trap found in Stouffville - NewmarketToday.ca",
-          "Second West Nile virus positive mosquito trap found in Stouffville - NewmarketToday.ca",
-          "Ebola tracing improves in DR Congo – but the virus is still winning the race - UN News"
+          "Investors sue Selena Gomez for alleged fraud over mental health startup - CBC",
+          "Postpartum mental health: what families and mothers need to know - dakotanewsnow.com",
+          "Investors sue Selena Gomez for alleged fraud over mental health startup - CBC"
         ]
       },
       {
-        "trend": "ebola outbreak",
+        "trend": "mental health",
         "market_code": "CA",
-        "category": "Outbreaks",
-        "score": 9,
+        "category": "Mental Health",
+        "score": 8,
         "examples": [
-          "WHO aims to turn tide of Ebola outbreak in DR Congo within three months - سانا",
-          "DR Congo Ebola outbreak spreads to a sixth province - Al Jazeera",
-          "DRC’s fast-growing Ebola outbreak spreads to sixth province - The Guardian"
+          "Investors sue Selena Gomez for alleged fraud over mental health startup - CBC",
+          "Postpartum mental health: what families and mothers need to know - dakotanewsnow.com",
+          "Investors sue Selena Gomez for alleged fraud over mental health startup - CBC"
         ]
       },
       {
@@ -2108,8 +2097,30 @@
         "score": 8,
         "examples": [
           "Black soot doesn’t pose long-term health risks, Hamilton Public Health says - CP24",
-          "Black soot doesn’t pose long-term health risks, Hamilton Public Health says - CP24",
-          "Hamilton Public Health says July black soot event does not pose long-term health risks - CHCH"
+          "Study examines how public deliberation can strengthen public health policymaking - News-Medical",
+          "Black soot doesn’t pose long-term health risks, Hamilton Public Health says - CP24"
+        ]
+      },
+      {
+        "trend": "vaccine",
+        "market_code": "CA",
+        "category": "Drug & Treatment News",
+        "score": 7,
+        "examples": [
+          "FDA Approves First mRNA Flu Vaccine - respiratory-therapy.com",
+          "FDA fast-tracks experimental vaccine aiming to slow early Parkinson’s - Parkinson's News Today",
+          "Health Canada authorizes Phase I trial for Bundibugyo Ebola vaccine candidate - WestCentralOnline"
+        ]
+      },
+      {
+        "trend": "virus",
+        "market_code": "CA",
+        "category": "Outbreaks",
+        "score": 6,
+        "examples": [
+          "Second West Nile virus positive mosquito trap found in Stouffville - NewmarketToday.ca",
+          "Second West Nile virus positive mosquito trap found in Stouffville - NewmarketToday.ca",
+          "Ebola tracing improves in DR Congo – but the virus is still winning the race - UN News"
         ]
       },
       {
@@ -2120,7 +2131,7 @@
         "examples": [
           "'Very high health risk': Orange air quality warning issued for parts of B.C. - Daily Hive",
           "Temperatures to soar to 38C as amber extreme heat warning in effect - Yahoo News Canada",
-          "FDA Advisory No.2026-0868 || Public Health Warning Against the Purchase and Use of the Unauthorized Cosmetic Product “KEVIN & COCO PUPPY-ANGEL LIPSTICK (01 CHARM RUBY, 02 HONEY CORAL, 03 MILK PEARL, 04 BLAZING BLUSH, 05 SWEET - fda.gov.ph"
+          "Flesh-eating’ bacteria warning — should Galveston beachgoers be concerned? - Click2Houston"
         ]
       },
       {
@@ -2129,20 +2140,9 @@
         "category": "Children Health",
         "score": 6,
         "examples": [
-          "Children’s Mental Health of Leeds and Grenville reaches agreement with union - Brockville Recorder & Times",
-          "‘Children’s mental health belongs in that conversation’: Chippawa arena redevelopment may include Pathstone facility - St. Catharines Standard",
-          "Breaking: Children’s Mental Health workers returning to work after agreement reached - My Kemptville Now"
-        ]
-      },
-      {
-        "trend": "vaccine",
-        "market_code": "CA",
-        "category": "Drug & Treatment News",
-        "score": 6,
-        "examples": [
-          "FDA Approves First mRNA Flu Vaccine - respiratory-therapy.com",
-          "Health Canada authorizes Phase I trial for Bundibugyo Ebola vaccine candidate - WestCentralOnline",
-          "FDA fast-tracks experimental vaccine aiming to slow early Parkinson’s - Parkinson's News Today"
+          "Children suffer kidney failure from petting zoo infection - SMH.com.au",
+          "Children struck down with kidney failure after contracting bacterial infection at petting zoo - Nine.com.au",
+          "Children’s Mental Health of Leeds and Grenville reaches agreement with union - Brockville Recorder & Times"
         ]
       }
     ],
@@ -2151,73 +2151,84 @@
         "trend": "health",
         "market_code": "AE",
         "category": "Arab Health",
-        "score": 64,
+        "score": 71,
         "examples": [
           "HHS Announces Historic Investment to Expand Health Center Program, Bringing Primary Care to Nearly 1 Million More Americans - HHS.gov",
           "Armstrong appoints senior advisor Conner Swanson to lead ND Department of Health and Human Services - North Dakota Office of the Governor (.gov)",
-          "Selena Gomez and her mental health startup accused of fraud - CNN"
+          "As It Walks Toward Its Doom, Providence Health Plan Gets More Bad News - Willamette Week"
         ]
       },
       {
         "trend": "medical",
         "market_code": "AE",
         "category": "Arab Health",
-        "score": 16,
+        "score": 15,
         "examples": [
-          "Deaths of 3 ICE Detainees Prompt Questions About Medical Care - The New York Times",
-          "Link discovered between medical debt and insufficient sleep - Augusta University",
-          "FULL LIST: 22 of 56 remains found improperly stored at South Chicago Chapel funeral home ID'd by Cook County medical examiner - ABC7 Chicago"
+          "Immigrant detained by ICE dies after medical emergency - NBC News",
+          "PCF and Bayer Launch First Annual VA Medical Education Program - Prostate Cancer Foundation (PCF)",
+          "Deaths of 3 ICE Detainees Prompt Questions About Medical Care - The New York Times"
         ]
       },
       {
         "trend": "outbreak",
         "market_code": "AE",
         "category": "Outbreaks",
-        "score": 12,
+        "score": 13,
         "examples": [
           "A Salmonella Outbreak in Peppers Is Now Pulling Chicken Wraps and Burritos from Shelves Through a Second Federal Agency - Medical Daily",
           "Wisconsin health officials investigating measles outbreak in southwest counties - WPR",
-          "Ebola outbreak has spread to new province in Congo, the head of Africa CDC says - PBS"
+          "DRC’s fast-growing Ebola outbreak spreads to sixth province - The Guardian"
         ]
       },
       {
         "trend": "mental",
         "market_code": "AE",
         "category": "Mental Health",
-        "score": 10,
+        "score": 11,
         "examples": [
-          "Selena Gomez and her mental health startup accused of fraud - CNN",
-          "Montgomery County sues social media companies over youth mental health harm - WHYY",
-          "The Lindsay Clancy trial brings maternal mental health into the spotlight - KOMU 8"
+          "Selena Gomez and her mom accused of fraud over their mental health startup - NBC News",
+          "Postpartum mental health: what families and mothers need to know - Dakota News Now",
+          "Postpartum mental health: what families and mothers need to know - Dakota News Now"
         ]
       },
       {
         "trend": "mental health",
         "market_code": "AE",
         "category": "Mental Health",
+        "score": 11,
+        "examples": [
+          "Selena Gomez and her mom accused of fraud over their mental health startup - NBC News",
+          "Postpartum mental health: what families and mothers need to know - Dakota News Now",
+          "Postpartum mental health: what families and mothers need to know - Dakota News Now"
+        ]
+      },
+      {
+        "trend": "public health",
+        "market_code": "AE",
+        "category": "Arab Health",
         "score": 10,
         "examples": [
-          "Selena Gomez and her mental health startup accused of fraud - CNN",
-          "Montgomery County sues social media companies over youth mental health harm - WHYY",
-          "The Lindsay Clancy trial brings maternal mental health into the spotlight - KOMU 8"
+          "Public Health Watch Wins Two National Edward R. Murrow Awards - Public Health Watch",
+          "Public Health Watch Wins Two National Edward R. Murrow Awards - Public Health Watch",
+          "Colorado issues public health order over tuberculosis at Aurora immigrant detention center - Colorado Public Radio"
         ]
       },
       {
         "trend": "virus",
         "market_code": "AE",
         "category": "Outbreaks",
-        "score": 10,
+        "score": 8,
         "examples": [
-          "Researcher earns patent for breath-based virus detection technology - Northeastern Global News",
+          "Researcher earns patent for breath-based virus detection technology - news.northeastern.edu",
           "Rhode Island reports Powassan virus case in Newport County - Outbreak News Today",
-          "Ebola tracing improves in DR Congo – but the virus is still winning the race - UN News"
+          "Daily news: West Nile virus is much more present than usual in Utah this year - Utah Public Radio"
         ]
       },
       {
         "trend": "healthcare",
         "market_code": "AE",
         "category": "Arab Health",
-        "score": 9,
+        "score": 8,
         "examples": [
           "The AI boom could boost Epic's position, health system execs say. Here's where AI startups can still win - Fierce Healthcare",
           "Patients Wary of Governments, Companies Pushing AI as a Rural Healthcare Solution - KFF Health News",
@@ -2225,58 +2236,47 @@
         ]
       },
       {
-        "trend": "public health",
+        "trend": "disease",
         "market_code": "AE",
         "category": "Arab Health",
-        "score": 8,
-        "examples": [
-          "Colorado issues public health order over tuberculosis at Aurora immigrant detention center - Colorado Public Radio",
-          "Colorado issues state-level public health order over tuberculosis case at Aurora ICE facility - Colorado Newsline",
-          "Celebrating \"Excellent\" Advocacy Faculty at the Bloomberg School - Johns Hopkins Bloomberg School of Public Health"
-        ]
-      },
-      {
-        "trend": "nile virus",
-        "market_code": "AE",
-        "category": "Outbreaks",
         "score": 6,
         "examples": [
-          "Daily news: West Nile virus is much more present than usual in Utah this year - Utah Public Radio",
-          "State confirms first human positive case of West Nile Virus in Hays County - Hays County (.gov)",
-          "Butte County confirms its first West Nile virus death of the year - CBS News"
+          "Risk of Severe Arboviral Disease in Patients Receiving B Cell-Depleting or Modulating Medications - KDHE.ks.gov",
+          "Risk of Severe Arboviral Disease in Patients Receiving B Cell-Depleting or Modulating Medications - KDHE.ks.gov",
+          "Thomas Fraser, MD, on the Future of Infectious Disease Care - Cleveland Clinic"
         ]
       },
       {
-        "trend": "west nile virus",
-        "market_code": "AE",
-        "category": "Outbreaks",
-        "score": 6,
-        "examples": [
-          "Daily news: West Nile virus is much more present than usual in Utah this year - Utah Public Radio",
-          "State confirms first human positive case of West Nile Virus in Hays County - Hays County (.gov)",
-          "Butte County confirms its first West Nile virus death of the year - CBS News"
-        ]
-      },
-      {
-        "trend": "trial",
+        "trend": "clinical",
         "market_code": "AE",
         "category": "Arab Health",
-        "score": 5,
+        "score": 6,
         "examples": [
-          "FDA approves pivotal trial for FastWave Medical's peripheral IVL system - Cardiovascular Business",
-          "The Lindsay Clancy trial brings maternal mental health into the spotlight - KOMU 8",
+          "Clinical: Expanded Access Takes SNIPR001 Beyond the Gut - CRISPR Medicine News",
+          "Nature Medicine Just Published the AI Mental Health Audit Framework the FDA Hasn’t Written Yet - The Clinical Trial Vanguard",
           "FDA Expands Clinical Trial Eligibility for Cancer Patients - Oncology News Central"
         ]
       },
       {
-        "trend": "hospital",
+        "trend": "cancer",
+        "market_code": "AE",
+        "category": "Chronic Disease",
+        "score": 5,
+        "examples": [
+          "PCF and Bayer Launch First Annual VA Medical Education Program - Prostate Cancer Foundation (PCF)",
+          "FDA Expands Clinical Trial Eligibility for Cancer Patients - Oncology News Central",
+          "mRNA-4359: Promising Cancer Vaccine, Dose, Administration, and Clinical Trials - Oncodaily"
+        ]
+      },
+      {
+        "trend": "health officials",
         "market_code": "AE",
         "category": "Arab Health",
         "score": 5,
         "examples": [
-          "In the name of public health and safety, Mayor Sarno calls for Vibra Hospital to take action to clean and secure their property - springfield-ma.gov",
-          "Newark-Wayne Community Hospital Earns High Marks in U.S. News Rankings - Finger Lakes Daily News",
-          "Hospital in Monroe County ranked as one of best in Pennsylvania - Pocono Record"
+          "Health officials warn of Hamlin Lake algae bloom health risks - 9and10News.com",
+          "Health officials issue blue-green algae advisory for Lake Du Bay - WSAW",
+          "Wisconsin health officials investigating measles outbreak in southwest counties - WPR"
         ]
       }
     ],
@@ -2285,73 +2285,84 @@
         "trend": "health",
         "market_code": "SA",
         "category": "Arab Health",
-        "score": 64,
+        "score": 71,
         "examples": [
           "HHS Announces Historic Investment to Expand Health Center Program, Bringing Primary Care to Nearly 1 Million More Americans - HHS.gov",
           "Armstrong appoints senior advisor Conner Swanson to lead ND Department of Health and Human Services - North Dakota Office of the Governor (.gov)",
-          "Selena Gomez and her mental health startup accused of fraud - CNN"
+          "As It Walks Toward Its Doom, Providence Health Plan Gets More Bad News - Willamette Week"
         ]
       },
       {
         "trend": "medical",
         "market_code": "SA",
         "category": "Arab Health",
-        "score": 16,
+        "score": 15,
         "examples": [
-          "Deaths of 3 ICE Detainees Prompt Questions About Medical Care - The New York Times",
-          "Link discovered between medical debt and insufficient sleep - Augusta University",
-          "FULL LIST: 22 of 56 remains found improperly stored at South Chicago Chapel funeral home ID'd by Cook County medical examiner - ABC7 Chicago"
+          "Immigrant detained by ICE dies after medical emergency - NBC News",
+          "PCF and Bayer Launch First Annual VA Medical Education Program - Prostate Cancer Foundation (PCF)",
+          "Deaths of 3 ICE Detainees Prompt Questions About Medical Care - The New York Times"
         ]
       },
       {
         "trend": "outbreak",
         "market_code": "SA",
         "category": "Outbreaks",
-        "score": 12,
+        "score": 13,
         "examples": [
           "A Salmonella Outbreak in Peppers Is Now Pulling Chicken Wraps and Burritos from Shelves Through a Second Federal Agency - Medical Daily",
           "Wisconsin health officials investigating measles outbreak in southwest counties - WPR",
-          "Ebola outbreak has spread to new province in Congo, the head of Africa CDC says - PBS"
+          "DRC’s fast-growing Ebola outbreak spreads to sixth province - The Guardian"
         ]
       },
       {
         "trend": "mental",
         "market_code": "SA",
         "category": "Mental Health",
-        "score": 10,
+        "score": 11,
         "examples": [
-          "Selena Gomez and her mental health startup accused of fraud - CNN",
-          "Montgomery County sues social media companies over youth mental health harm - WHYY",
-          "The Lindsay Clancy trial brings maternal mental health into the spotlight - KOMU 8"
+          "Selena Gomez and her mom accused of fraud over their mental health startup - NBC News",
+          "Postpartum mental health: what families and mothers need to know - Dakota News Now",
+          "Postpartum mental health: what families and mothers need to know - Dakota News Now"
         ]
       },
       {
         "trend": "mental health",
         "market_code": "SA",
         "category": "Mental Health",
+        "score": 11,
+        "examples": [
+          "Selena Gomez and her mom accused of fraud over their mental health startup - NBC News",
+          "Postpartum mental health: what families and mothers need to know - Dakota News Now",
+          "Postpartum mental health: what families and mothers need to know - Dakota News Now"
+        ]
+      },
+      {
+        "trend": "public health",
+        "market_code": "SA",
+        "category": "Arab Health",
         "score": 10,
         "examples": [
-          "Selena Gomez and her mental health startup accused of fraud - CNN",
-          "Montgomery County sues social media companies over youth mental health harm - WHYY",
-          "The Lindsay Clancy trial brings maternal mental health into the spotlight - KOMU 8"
+          "Public Health Watch Wins Two National Edward R. Murrow Awards - Public Health Watch",
+          "Public Health Watch Wins Two National Edward R. Murrow Awards - Public Health Watch",
+          "Colorado issues public health order over tuberculosis at Aurora immigrant detention center - Colorado Public Radio"
         ]
       },
       {
         "trend": "virus",
         "market_code": "SA",
         "category": "Outbreaks",
-        "score": 10,
+        "score": 8,
         "examples": [
-          "Researcher earns patent for breath-based virus detection technology - Northeastern Global News",
+          "Researcher earns patent for breath-based virus detection technology - news.northeastern.edu",
           "Rhode Island reports Powassan virus case in Newport County - Outbreak News Today",
-          "Ebola tracing improves in DR Congo – but the virus is still winning the race - UN News"
+          "Daily news: West Nile virus is much more present than usual in Utah this year - Utah Public Radio"
         ]
       },
       {
         "trend": "healthcare",
         "market_code": "SA",
         "category": "Arab Health",
-        "score": 9,
+        "score": 8,
         "examples": [
           "The AI boom could boost Epic's position, health system execs say. Here's where AI startups can still win - Fierce Healthcare",
           "Patients Wary of Governments, Companies Pushing AI as a Rural Healthcare Solution - KFF Health News",
@@ -2359,58 +2370,47 @@
         ]
       },
       {
-        "trend": "public health",
+        "trend": "disease",
         "market_code": "SA",
         "category": "Arab Health",
-        "score": 8,
-        "examples": [
-          "Colorado issues public health order over tuberculosis at Aurora immigrant detention center - Colorado Public Radio",
-          "Colorado issues state-level public health order over tuberculosis case at Aurora ICE facility - Colorado Newsline",
-          "Celebrating \"Excellent\" Advocacy Faculty at the Bloomberg School - Johns Hopkins Bloomberg School of Public Health"
-        ]
-      },
-      {
-        "trend": "nile virus",
-        "market_code": "SA",
-        "category": "Outbreaks",
         "score": 6,
         "examples": [
-          "Daily news: West Nile virus is much more present than usual in Utah this year - Utah Public Radio",
-          "State confirms first human positive case of West Nile Virus in Hays County - Hays County (.gov)",
-          "Butte County confirms its first West Nile virus death of the year - CBS News"
+          "Risk of Severe Arboviral Disease in Patients Receiving B Cell-Depleting or Modulating Medications - KDHE.ks.gov",
+          "Risk of Severe Arboviral Disease in Patients Receiving B Cell-Depleting or Modulating Medications - KDHE.ks.gov",
+          "Thomas Fraser, MD, on the Future of Infectious Disease Care - Cleveland Clinic"
         ]
       },
       {
-        "trend": "west nile virus",
-        "market_code": "SA",
-        "category": "Outbreaks",
-        "score": 6,
-        "examples": [
-          "Daily news: West Nile virus is much more present than usual in Utah this year - Utah Public Radio",
-          "State confirms first human positive case of West Nile Virus in Hays County - Hays County (.gov)",
-          "Butte County confirms its first West Nile virus death of the year - CBS News"
-        ]
-      },
-      {
-        "trend": "trial",
+        "trend": "clinical",
         "market_code": "SA",
         "category": "Arab Health",
-        "score": 5,
+        "score": 6,
         "examples": [
-          "FDA approves pivotal trial for FastWave Medical's peripheral IVL system - Cardiovascular Business",
-          "The Lindsay Clancy trial brings maternal mental health into the spotlight - KOMU 8",
+          "Clinical: Expanded Access Takes SNIPR001 Beyond the Gut - CRISPR Medicine News",
+          "Nature Medicine Just Published the AI Mental Health Audit Framework the FDA Hasn’t Written Yet - The Clinical Trial Vanguard",
           "FDA Expands Clinical Trial Eligibility for Cancer Patients - Oncology News Central"
         ]
       },
       {
-        "trend": "hospital",
+        "trend": "cancer",
+        "market_code": "SA",
+        "category": "Chronic Disease",
+        "score": 5,
+        "examples": [
+          "PCF and Bayer Launch First Annual VA Medical Education Program - Prostate Cancer Foundation (PCF)",
+          "FDA Expands Clinical Trial Eligibility for Cancer Patients - Oncology News Central",
+          "mRNA-4359: Promising Cancer Vaccine, Dose, Administration, and Clinical Trials - Oncodaily"
+        ]
+      },
+      {
+        "trend": "health officials",
         "market_code": "SA",
         "category": "Arab Health",
         "score": 5,
         "examples": [
-          "In the name of public health and safety, Mayor Sarno calls for Vibra Hospital to take action to clean and secure their property - springfield-ma.gov",
-          "Newark-Wayne Community Hospital Earns High Marks in U.S. News Rankings - Finger Lakes Daily News",
-          "Hospital in Monroe County ranked as one of best in Pennsylvania - Pocono Record"
+          "Health officials warn of Hamlin Lake algae bloom health risks - 9and10News.com",
+          "Health officials issue blue-green algae advisory for Lake Du Bay - WSAW",
+          "Wisconsin health officials investigating measles outbreak in southwest counties - WPR"
         ]
       }
     ],
@@ -2419,73 +2419,84 @@
         "trend": "health",
         "market_code": "QA",
         "category": "Arab Health",
-        "score": 64,
+        "score": 71,
         "examples": [
           "HHS Announces Historic Investment to Expand Health Center Program, Bringing Primary Care to Nearly 1 Million More Americans - HHS.gov",
           "Armstrong appoints senior advisor Conner Swanson to lead ND Department of Health and Human Services - North Dakota Office of the Governor (.gov)",
-          "Selena Gomez and her mental health startup accused of fraud - CNN"
+          "As It Walks Toward Its Doom, Providence Health Plan Gets More Bad News - Willamette Week"
         ]
       },
       {
         "trend": "medical",
         "market_code": "QA",
         "category": "Arab Health",
-        "score": 16,
+        "score": 15,
         "examples": [
-          "Deaths of 3 ICE Detainees Prompt Questions About Medical Care - The New York Times",
-          "Link discovered between medical debt and insufficient sleep - Augusta University",
-          "FULL LIST: 22 of 56 remains found improperly stored at South Chicago Chapel funeral home ID'd by Cook County medical examiner - ABC7 Chicago"
+          "Immigrant detained by ICE dies after medical emergency - NBC News",
+          "PCF and Bayer Launch First Annual VA Medical Education Program - Prostate Cancer Foundation (PCF)",
+          "Deaths of 3 ICE Detainees Prompt Questions About Medical Care - The New York Times"
         ]
       },
       {
         "trend": "outbreak",
         "market_code": "QA",
         "category": "Outbreaks",
-        "score": 12,
+        "score": 13,
         "examples": [
           "A Salmonella Outbreak in Peppers Is Now Pulling Chicken Wraps and Burritos from Shelves Through a Second Federal Agency - Medical Daily",
           "Wisconsin health officials investigating measles outbreak in southwest counties - WPR",
-          "Ebola outbreak has spread to new province in Congo, the head of Africa CDC says - PBS"
+          "DRC’s fast-growing Ebola outbreak spreads to sixth province - The Guardian"
         ]
       },
       {
         "trend": "mental",
         "market_code": "QA",
         "category": "Mental Health",
-        "score": 10,
+        "score": 11,
         "examples": [
-          "Selena Gomez and her mental health startup accused of fraud - CNN",
-          "Montgomery County sues social media companies over youth mental health harm - WHYY",
-          "The Lindsay Clancy trial brings maternal mental health into the spotlight - KOMU 8"
+          "Selena Gomez and her mom accused of fraud over their mental health startup - NBC News",
+          "Postpartum mental health: what families and mothers need to know - Dakota News Now",
+          "Postpartum mental health: what families and mothers need to know - Dakota News Now"
         ]
       },
       {
         "trend": "mental health",
         "market_code": "QA",
         "category": "Mental Health",
+        "score": 11,
+        "examples": [
+          "Selena Gomez and her mom accused of fraud over their mental health startup - NBC News",
+          "Postpartum mental health: what families and mothers need to know - Dakota News Now",
+          "Postpartum mental health: what families and mothers need to know - Dakota News Now"
+        ]
+      },
+      {
+        "trend": "public health",
+        "market_code": "QA",
+        "category": "Arab Health",
         "score": 10,
         "examples": [
-          "Selena Gomez and her mental health startup accused of fraud - CNN",
-          "Montgomery County sues social media companies over youth mental health harm - WHYY",
-          "The Lindsay Clancy trial brings maternal mental health into the spotlight - KOMU 8"
+          "Public Health Watch Wins Two National Edward R. Murrow Awards - Public Health Watch",
+          "Public Health Watch Wins Two National Edward R. Murrow Awards - Public Health Watch",
+          "Colorado issues public health order over tuberculosis at Aurora immigrant detention center - Colorado Public Radio"
         ]
       },
       {
         "trend": "virus",
         "market_code": "QA",
         "category": "Outbreaks",
-        "score": 10,
+        "score": 8,
         "examples": [
-          "Researcher earns patent for breath-based virus detection technology - Northeastern Global News",
+          "Researcher earns patent for breath-based virus detection technology - news.northeastern.edu",
           "Rhode Island reports Powassan virus case in Newport County - Outbreak News Today",
-          "Ebola tracing improves in DR Congo – but the virus is still winning the race - UN News"
+          "Daily news: West Nile virus is much more present than usual in Utah this year - Utah Public Radio"
         ]
       },
       {
         "trend": "healthcare",
         "market_code": "QA",
         "category": "Arab Health",
-        "score": 9,
+        "score": 8,
         "examples": [
           "The AI boom could boost Epic's position, health system execs say. Here's where AI startups can still win - Fierce Healthcare",
           "Patients Wary of Governments, Companies Pushing AI as a Rural Healthcare Solution - KFF Health News",
@@ -2493,58 +2504,47 @@
         ]
       },
       {
-        "trend": "public health",
+        "trend": "disease",
         "market_code": "QA",
         "category": "Arab Health",
-        "score": 8,
-        "examples": [
-          "Colorado issues public health order over tuberculosis at Aurora immigrant detention center - Colorado Public Radio",
-          "Colorado issues state-level public health order over tuberculosis case at Aurora ICE facility - Colorado Newsline",
-          "Celebrating \"Excellent\" Advocacy Faculty at the Bloomberg School - Johns Hopkins Bloomberg School of Public Health"
-        ]
-      },
-      {
-        "trend": "nile virus",
-        "market_code": "QA",
-        "category": "Outbreaks",
         "score": 6,
         "examples": [
-          "Daily news: West Nile virus is much more present than usual in Utah this year - Utah Public Radio",
-          "State confirms first human positive case of West Nile Virus in Hays County - Hays County (.gov)",
-          "Butte County confirms its first West Nile virus death of the year - CBS News"
+          "Risk of Severe Arboviral Disease in Patients Receiving B Cell-Depleting or Modulating Medications - KDHE.ks.gov",
+          "Risk of Severe Arboviral Disease in Patients Receiving B Cell-Depleting or Modulating Medications - KDHE.ks.gov",
+          "Thomas Fraser, MD, on the Future of Infectious Disease Care - Cleveland Clinic"
         ]
       },
       {
-        "trend": "west nile virus",
-        "market_code": "QA",
-        "category": "Outbreaks",
-        "score": 6,
-        "examples": [
-          "Daily news: West Nile virus is much more present than usual in Utah this year - Utah Public Radio",
-          "State confirms first human positive case of West Nile Virus in Hays County - Hays County (.gov)",
-          "Butte County confirms its first West Nile virus death of the year - CBS News"
-        ]
-      },
-      {
-        "trend": "trial",
+        "trend": "clinical",
         "market_code": "QA",
         "category": "Arab Health",
-        "score": 5,
+        "score": 6,
         "examples": [
-          "FDA approves pivotal trial for FastWave Medical's peripheral IVL system - Cardiovascular Business",
-          "The Lindsay Clancy trial brings maternal mental health into the spotlight - KOMU 8",
+          "Clinical: Expanded Access Takes SNIPR001 Beyond the Gut - CRISPR Medicine News",
+          "Nature Medicine Just Published the AI Mental Health Audit Framework the FDA Hasn’t Written Yet - The Clinical Trial Vanguard",
           "FDA Expands Clinical Trial Eligibility for Cancer Patients - Oncology News Central"
         ]
       },
       {
-        "trend": "hospital",
+        "trend": "cancer",
+        "market_code": "QA",
+        "category": "Chronic Disease",
+        "score": 5,
+        "examples": [
+          "PCF and Bayer Launch First Annual VA Medical Education Program - Prostate Cancer Foundation (PCF)",
+          "FDA Expands Clinical Trial Eligibility for Cancer Patients - Oncology News Central",
+          "mRNA-4359: Promising Cancer Vaccine, Dose, Administration, and Clinical Trials - Oncodaily"
+        ]
+      },
+      {
+        "trend": "health officials",
         "market_code": "QA",
         "category": "Arab Health",
         "score": 5,
         "examples": [
-          "In the name of public health and safety, Mayor Sarno calls for Vibra Hospital to take action to clean and secure their property - springfield-ma.gov",
-          "Newark-Wayne Community Hospital Earns High Marks in U.S. News Rankings - Finger Lakes Daily News",
-          "Hospital in Monroe County ranked as one of best in Pennsylvania - Pocono Record"
+          "Health officials warn of Hamlin Lake algae bloom health risks - 9and10News.com",
+          "Health officials issue blue-green algae advisory for Lake Du Bay - WSAW",
+          "Wisconsin health officials investigating measles outbreak in southwest counties - WPR"
         ]
       }
     ],
@@ -2553,73 +2553,84 @@
         "trend": "health",
         "market_code": "JO",
         "category": "Arab Health",
-        "score": 64,
+        "score": 71,
         "examples": [
           "HHS Announces Historic Investment to Expand Health Center Program, Bringing Primary Care to Nearly 1 Million More Americans - HHS.gov",
           "Armstrong appoints senior advisor Conner Swanson to lead ND Department of Health and Human Services - North Dakota Office of the Governor (.gov)",
-          "Selena Gomez and her mental health startup accused of fraud - CNN"
+          "As It Walks Toward Its Doom, Providence Health Plan Gets More Bad News - Willamette Week"
         ]
       },
       {
         "trend": "medical",
         "market_code": "JO",
         "category": "Arab Health",
-        "score": 16,
+        "score": 15,
         "examples": [
-          "Deaths of 3 ICE Detainees Prompt Questions About Medical Care - The New York Times",
-          "Link discovered between medical debt and insufficient sleep - Augusta University",
-          "FULL LIST: 22 of 56 remains found improperly stored at South Chicago Chapel funeral home ID'd by Cook County medical examiner - ABC7 Chicago"
+          "Immigrant detained by ICE dies after medical emergency - NBC News",
+          "PCF and Bayer Launch First Annual VA Medical Education Program - Prostate Cancer Foundation (PCF)",
+          "Deaths of 3 ICE Detainees Prompt Questions About Medical Care - The New York Times"
         ]
       },
       {
         "trend": "outbreak",
         "market_code": "JO",
         "category": "Outbreaks",
-        "score": 12,
+        "score": 13,
         "examples": [
           "A Salmonella Outbreak in Peppers Is Now Pulling Chicken Wraps and Burritos from Shelves Through a Second Federal Agency - Medical Daily",
           "Wisconsin health officials investigating measles outbreak in southwest counties - WPR",
-          "Ebola outbreak has spread to new province in Congo, the head of Africa CDC says - PBS"
+          "DRC’s fast-growing Ebola outbreak spreads to sixth province - The Guardian"
         ]
       },
       {
         "trend": "mental",
         "market_code": "JO",
         "category": "Mental Health",
-        "score": 10,
+        "score": 11,
         "examples": [
-          "Selena Gomez and her mental health startup accused of fraud - CNN",
-          "Montgomery County sues social media companies over youth mental health harm - WHYY",
-          "The Lindsay Clancy trial brings maternal mental health into the spotlight - KOMU 8"
+          "Selena Gomez and her mom accused of fraud over their mental health startup - NBC News",
+          "Postpartum mental health: what families and mothers need to know - Dakota News Now",
+          "Postpartum mental health: what families and mothers need to know - Dakota News Now"
         ]
       },
       {
         "trend": "mental health",
         "market_code": "JO",
         "category": "Mental Health",
+        "score": 11,
+        "examples": [
+          "Selena Gomez and her mom accused of fraud over their mental health startup - NBC News",
+          "Postpartum mental health: what families and mothers need to know - Dakota News Now",
+          "Postpartum mental health: what families and mothers need to know - Dakota News Now"
+        ]
+      },
+      {
+        "trend": "public health",
+        "market_code": "JO",
+        "category": "Arab Health",
         "score": 10,
         "examples": [
-          "Selena Gomez and her mental health startup accused of fraud - CNN",
-          "Montgomery County sues social media companies over youth mental health harm - WHYY",
-          "The Lindsay Clancy trial brings maternal mental health into the spotlight - KOMU 8"
+          "Public Health Watch Wins Two National Edward R. Murrow Awards - Public Health Watch",
+          "Public Health Watch Wins Two National Edward R. Murrow Awards - Public Health Watch",
+          "Colorado issues public health order over tuberculosis at Aurora immigrant detention center - Colorado Public Radio"
         ]
       },
       {
         "trend": "virus",
         "market_code": "JO",
         "category": "Outbreaks",
-        "score": 10,
+        "score": 8,
         "examples": [
-          "Researcher earns patent for breath-based virus detection technology - Northeastern Global News",
+          "Researcher earns patent for breath-based virus detection technology - news.northeastern.edu",
           "Rhode Island reports Powassan virus case in Newport County - Outbreak News Today",
-          "Ebola tracing improves in DR Congo – but the virus is still winning the race - UN News"
+          "Daily news: West Nile virus is much more present than usual in Utah this year - Utah Public Radio"
         ]
       },
       {
         "trend": "healthcare",
         "market_code": "JO",
         "category": "Arab Health",
-        "score": 9,
+        "score": 8,
         "examples": [
           "The AI boom could boost Epic's position, health system execs say. Here's where AI startups can still win - Fierce Healthcare",
           "Patients Wary of Governments, Companies Pushing AI as a Rural Healthcare Solution - KFF Health News",
@@ -2627,58 +2638,47 @@
         ]
       },
       {
-        "trend": "public health",
+        "trend": "disease",
         "market_code": "JO",
         "category": "Arab Health",
-        "score": 8,
-        "examples": [
-          "Colorado issues public health order over tuberculosis at Aurora immigrant detention center - Colorado Public Radio",
-          "Colorado issues state-level public health order over tuberculosis case at Aurora ICE facility - Colorado Newsline",
-          "Celebrating \"Excellent\" Advocacy Faculty at the Bloomberg School - Johns Hopkins Bloomberg School of Public Health"
-        ]
-      },
-      {
-        "trend": "nile virus",
-        "market_code": "JO",
-        "category": "Outbreaks",
         "score": 6,
         "examples": [
-          "Daily news: West Nile virus is much more present than usual in Utah this year - Utah Public Radio",
-          "State confirms first human positive case of West Nile Virus in Hays County - Hays County (.gov)",
-          "Butte County confirms its first West Nile virus death of the year - CBS News"
+          "Risk of Severe Arboviral Disease in Patients Receiving B Cell-Depleting or Modulating Medications - KDHE.ks.gov",
+          "Risk of Severe Arboviral Disease in Patients Receiving B Cell-Depleting or Modulating Medications - KDHE.ks.gov",
+          "Thomas Fraser, MD, on the Future of Infectious Disease Care - Cleveland Clinic"
         ]
       },
       {
-        "trend": "west nile virus",
-        "market_code": "JO",
-        "category": "Outbreaks",
-        "score": 6,
-        "examples": [
-          "Daily news: West Nile virus is much more present than usual in Utah this year - Utah Public Radio",
-          "State confirms first human positive case of West Nile Virus in Hays County - Hays County (.gov)",
-          "Butte County confirms its first West Nile virus death of the year - CBS News"
-        ]
-      },
-      {
-        "trend": "trial",
+        "trend": "clinical",
         "market_code": "JO",
         "category": "Arab Health",
-        "score": 5,
+        "score": 6,
         "examples": [
-          "FDA approves pivotal trial for FastWave Medical's peripheral IVL system - Cardiovascular Business",
-          "The Lindsay Clancy trial brings maternal mental health into the spotlight - KOMU 8",
+          "Clinical: Expanded Access Takes SNIPR001 Beyond the Gut - CRISPR Medicine News",
+          "Nature Medicine Just Published the AI Mental Health Audit Framework the FDA Hasn’t Written Yet - The Clinical Trial Vanguard",
           "FDA Expands Clinical Trial Eligibility for Cancer Patients - Oncology News Central"
         ]
       },
       {
-        "trend": "hospital",
+        "trend": "cancer",
+        "market_code": "JO",
+        "category": "Chronic Disease",
+        "score": 5,
+        "examples": [
+          "PCF and Bayer Launch First Annual VA Medical Education Program - Prostate Cancer Foundation (PCF)",
+          "FDA Expands Clinical Trial Eligibility for Cancer Patients - Oncology News Central",
+          "mRNA-4359: Promising Cancer Vaccine, Dose, Administration, and Clinical Trials - Oncodaily"
+        ]
+      },
+      {
+        "trend": "health officials",
         "market_code": "JO",
         "category": "Arab Health",
         "score": 5,
         "examples": [
-          "In the name of public health and safety, Mayor Sarno calls for Vibra Hospital to take action to clean and secure their property - springfield-ma.gov",
-          "Newark-Wayne Community Hospital Earns High Marks in U.S. News Rankings - Finger Lakes Daily News",
-          "Hospital in Monroe County ranked as one of best in Pennsylvania - Pocono Record"
+          "Health officials warn of Hamlin Lake algae bloom health risks - 9and10News.com",
+          "Health officials issue blue-green algae advisory for Lake Du Bay - WSAW",
+          "Wisconsin health officials investigating measles outbreak in southwest counties - WPR"
         ]
       }
     ],
@@ -2687,73 +2687,84 @@
         "trend": "health",
         "market_code": "LB",
         "category": "Arab Health",
-        "score": 64,
+        "score": 71,
         "examples": [
           "HHS Announces Historic Investment to Expand Health Center Program, Bringing Primary Care to Nearly 1 Million More Americans - HHS.gov",
           "Armstrong appoints senior advisor Conner Swanson to lead ND Department of Health and Human Services - North Dakota Office of the Governor (.gov)",
-          "Selena Gomez and her mental health startup accused of fraud - CNN"
+          "As It Walks Toward Its Doom, Providence Health Plan Gets More Bad News - Willamette Week"
         ]
       },
       {
         "trend": "medical",
         "market_code": "LB",
         "category": "Arab Health",
-        "score": 16,
+        "score": 15,
         "examples": [
-          "Deaths of 3 ICE Detainees Prompt Questions About Medical Care - The New York Times",
-          "Link discovered between medical debt and insufficient sleep - Augusta University",
-          "FULL LIST: 22 of 56 remains found improperly stored at South Chicago Chapel funeral home ID'd by Cook County medical examiner - ABC7 Chicago"
+          "Immigrant detained by ICE dies after medical emergency - NBC News",
+          "PCF and Bayer Launch First Annual VA Medical Education Program - Prostate Cancer Foundation (PCF)",
+          "Deaths of 3 ICE Detainees Prompt Questions About Medical Care - The New York Times"
         ]
       },
       {
         "trend": "outbreak",
         "market_code": "LB",
         "category": "Outbreaks",
-        "score": 12,
+        "score": 13,
         "examples": [
           "A Salmonella Outbreak in Peppers Is Now Pulling Chicken Wraps and Burritos from Shelves Through a Second Federal Agency - Medical Daily",
           "Wisconsin health officials investigating measles outbreak in southwest counties - WPR",
-          "Ebola outbreak has spread to new province in Congo, the head of Africa CDC says - PBS"
+          "DRC’s fast-growing Ebola outbreak spreads to sixth province - The Guardian"
         ]
       },
       {
         "trend": "mental",
         "market_code": "LB",
         "category": "Mental Health",
-        "score": 10,
+        "score": 11,
         "examples": [
-          "Selena Gomez and her mental health startup accused of fraud - CNN",
-          "Montgomery County sues social media companies over youth mental health harm - WHYY",
-          "The Lindsay Clancy trial brings maternal mental health into the spotlight - KOMU 8"
+          "Selena Gomez and her mom accused of fraud over their mental health startup - NBC News",
+          "Postpartum mental health: what families and mothers need to know - Dakota News Now",
+          "Postpartum mental health: what families and mothers need to know - Dakota News Now"
         ]
       },
       {
         "trend": "mental health",
         "market_code": "LB",
         "category": "Mental Health",
+        "score": 11,
+        "examples": [
+          "Selena Gomez and her mom accused of fraud over their mental health startup - NBC News",
+          "Postpartum mental health: what families and mothers need to know - Dakota News Now",
+          "Postpartum mental health: what families and mothers need to know - Dakota News Now"
+        ]
+      },
+      {
+        "trend": "public health",
+        "market_code": "LB",
+        "category": "Arab Health",
         "score": 10,
         "examples": [
-          "Selena Gomez and her mental health startup accused of fraud - CNN",
-          "Montgomery County sues social media companies over youth mental health harm - WHYY",
-          "The Lindsay Clancy trial brings maternal mental health into the spotlight - KOMU 8"
+          "Public Health Watch Wins Two National Edward R. Murrow Awards - Public Health Watch",
+          "Public Health Watch Wins Two National Edward R. Murrow Awards - Public Health Watch",
+          "Colorado issues public health order over tuberculosis at Aurora immigrant detention center - Colorado Public Radio"
         ]
       },
       {
         "trend": "virus",
         "market_code": "LB",
         "category": "Outbreaks",
-        "score": 10,
+        "score": 8,
         "examples": [
-          "Researcher earns patent for breath-based virus detection technology - Northeastern Global News",
+          "Researcher earns patent for breath-based virus detection technology - news.northeastern.edu",
           "Rhode Island reports Powassan virus case in Newport County - Outbreak News Today",
-          "Ebola tracing improves in DR Congo – but the virus is still winning the race - UN News"
+          "Daily news: West Nile virus is much more present than usual in Utah this year - Utah Public Radio"
         ]
       },
       {
         "trend": "healthcare",
         "market_code": "LB",
         "category": "Arab Health",
-        "score": 9,
+        "score": 8,
         "examples": [
           "The AI boom could boost Epic's position, health system execs say. Here's where AI startups can still win - Fierce Healthcare",
           "Patients Wary of Governments, Companies Pushing AI as a Rural Healthcare Solution - KFF Health News",
@@ -2761,58 +2772,47 @@
         ]
       },
       {
-        "trend": "public health",
+        "trend": "disease",
         "market_code": "LB",
         "category": "Arab Health",
-        "score": 8,
-        "examples": [
-          "Colorado issues public health order over tuberculosis at Aurora immigrant detention center - Colorado Public Radio",
-          "Colorado issues state-level public health order over tuberculosis case at Aurora ICE facility - Colorado Newsline",
-          "Celebrating \"Excellent\" Advocacy Faculty at the Bloomberg School - Johns Hopkins Bloomberg School of Public Health"
-        ]
-      },
-      {
-        "trend": "nile virus",
-        "market_code": "LB",
-        "category": "Outbreaks",
         "score": 6,
         "examples": [
-          "Daily news: West Nile virus is much more present than usual in Utah this year - Utah Public Radio",
-          "State confirms first human positive case of West Nile Virus in Hays County - Hays County (.gov)",
-          "Butte County confirms its first West Nile virus death of the year - CBS News"
+          "Risk of Severe Arboviral Disease in Patients Receiving B Cell-Depleting or Modulating Medications - KDHE.ks.gov",
+          "Risk of Severe Arboviral Disease in Patients Receiving B Cell-Depleting or Modulating Medications - KDHE.ks.gov",
+          "Thomas Fraser, MD, on the Future of Infectious Disease Care - Cleveland Clinic"
         ]
       },
       {
-        "trend": "west nile virus",
-        "market_code": "LB",
-        "category": "Outbreaks",
-        "score": 6,
-        "examples": [
-          "Daily news: West Nile virus is much more present than usual in Utah this year - Utah Public Radio",
-          "State confirms first human positive case of West Nile Virus in Hays County - Hays County (.gov)",
-          "Butte County confirms its first West Nile virus death of the year - CBS News"
-        ]
-      },
-      {
-        "trend": "trial",
+        "trend": "clinical",
         "market_code": "LB",
         "category": "Arab Health",
-        "score": 5,
+        "score": 6,
         "examples": [
-          "FDA approves pivotal trial for FastWave Medical's peripheral IVL system - Cardiovascular Business",
-          "The Lindsay Clancy trial brings maternal mental health into the spotlight - KOMU 8",
+          "Clinical: Expanded Access Takes SNIPR001 Beyond the Gut - CRISPR Medicine News",
+          "Nature Medicine Just Published the AI Mental Health Audit Framework the FDA Hasn’t Written Yet - The Clinical Trial Vanguard",
           "FDA Expands Clinical Trial Eligibility for Cancer Patients - Oncology News Central"
         ]
       },
       {
-        "trend": "hospital",
+        "trend": "cancer",
+        "market_code": "LB",
+        "category": "Chronic Disease",
+        "score": 5,
+        "examples": [
+          "PCF and Bayer Launch First Annual VA Medical Education Program - Prostate Cancer Foundation (PCF)",
+          "FDA Expands Clinical Trial Eligibility for Cancer Patients - Oncology News Central",
+          "mRNA-4359: Promising Cancer Vaccine, Dose, Administration, and Clinical Trials - Oncodaily"
+        ]
+      },
+      {
+        "trend": "health officials",
         "market_code": "LB",
         "category": "Arab Health",
         "score": 5,
         "examples": [
-          "In the name of public health and safety, Mayor Sarno calls for Vibra Hospital to take action to clean and secure their property - springfield-ma.gov",
-          "Newark-Wayne Community Hospital Earns High Marks in U.S. News Rankings - Finger Lakes Daily News",
-          "Hospital in Monroe County ranked as one of best in Pennsylvania - Pocono Record"
+          "Health officials warn of Hamlin Lake algae bloom health risks - 9and10News.com",
+          "Health officials issue blue-green algae advisory for Lake Du Bay - WSAW",
+          "Wisconsin health officials investigating measles outbreak in southwest counties - WPR"
         ]
       }
     ]
