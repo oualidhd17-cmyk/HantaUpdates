@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-15T00:28:29.381610+00:00",
+  "updated_at": "2026-08-15T06:16:21.774772+00:00",
   "total_trends": 252,
   "markets": {
     "United States": [
@@ -7,11 +7,22 @@
         "trend": "health",
         "market_code": "US",
         "category": "US Health",
-        "score": 76,
+        "score": 74,
         "examples": [
           "University Honors Health Fellows Program to Expand Student Opportunity and Strengthen Tennessee’s Healthcare Workforce - University of Tennessee, Knoxville",
-          "Scoop: Trump team tells GOP to lean in on health care - Axios",
-          "DoD changes transitional health care eligibility for reservists following lawsuit - Federal News Network"
+          "3 UC Davis Health researchers awarded state grants to advance health equity through precision medicine - UC Davis Health",
+          "3 UC Davis Health researchers awarded state grants to advance health equity through precision medicine - UC Davis Health"
+        ]
+      },
+      {
+        "trend": "medical",
+        "market_code": "US",
+        "category": "US Health",
+        "score": 16,
+        "examples": [
+          "UConn’s Largest Medical School Class Yet Dons 117 New White Coats - UConn Today",
+          "Milwaukee VA Medical Center unveils new arts beautification effort with help from Brewers - VA.gov Home | Veterans Affairs",
+          "New medical students continue ʻImi Hoʻōla’s mission to serve Hawaiʻi - University of Hawaii System"
         ]
       },
       {
@@ -21,41 +32,8 @@
         "score": 15,
         "examples": [
           "University Honors Health Fellows Program to Expand Student Opportunity and Strengthen Tennessee’s Healthcare Workforce - University of Tennessee, Knoxville",
-          "States have tools to slow healthcare spending growth, new UCLA Health report finds - UCLA Health",
-          "Sentara's Epic EHR model targets MRSA infections early - Healthcare IT News"
-        ]
-      },
-      {
-        "trend": "medical",
-        "market_code": "US",
-        "category": "US Health",
-        "score": 15,
-        "examples": [
-          "UConn’s Largest Medical School Class Yet Dons 117 New White Coats - UConn Today",
-          "News - Medical Officer of the Marine Corps Visits MCRD San Diego - DVIDS",
-          "Dr. Linda Liau awarded 2026 UCLA Younes Nazarian Medical Humanitarian Prize for brain cancer research and treatment - UCLA Health"
-        ]
-      },
-      {
-        "trend": "mental",
-        "market_code": "US",
-        "category": "Mental Health",
-        "score": 12,
-        "examples": [
-          "Trump dismisses mental health concerns on USS Lincoln aircraft carrier - Al Jazeera",
-          "Selena Gomez and her mother accused of fraud over their mental health company - NBC News",
-          "Trump dismisses mental health concerns on USS Lincoln aircraft carrier - Al Jazeera"
-        ]
-      },
-      {
-        "trend": "mental health",
-        "market_code": "US",
-        "category": "Mental Health",
-        "score": 12,
-        "examples": [
-          "Trump dismisses mental health concerns on USS Lincoln aircraft carrier - Al Jazeera",
-          "Selena Gomez and her mother accused of fraud over their mental health company - NBC News",
-          "Trump dismisses mental health concerns on USS Lincoln aircraft carrier - Al Jazeera"
+          "Patients Wary of Governments, Companies Pushing AI as a Rural Healthcare Solution - KFF Health News",
+          "‘Hey, Siri. How do I draw blood?’ New AI medical tech is transforming healthcare. Are we ready? - NJ.com"
         ]
       },
       {
@@ -64,20 +42,53 @@
         "category": "Outbreaks",
         "score": 11,
         "examples": [
-          "NYC Health Department announces two more deaths in Upper East Side Legionnaires' outbreak - ABC7 New York",
-          "FDA in Mexico a month after linking Taylor Farms to cyclospora outbreak - The Washington Post",
-          "Wisconsin health officials investigating measles outbreak in southwest counties - WPR"
+          "South Korea issues a malaria health alert - Outbreak News Today",
+          "South Korea issues a malaria health alert - Outbreak News Today",
+          "2 more states added to cyclospora outbreak linked to lettuce - NewsNation"
         ]
       },
       {
         "trend": "virus",
         "market_code": "US",
         "category": "Outbreaks",
-        "score": 10,
+        "score": 11,
         "examples": [
-          "West Nile Virus Information - Andover, MA (.gov)",
-          "First human West Nile virus case confirmed in Yuba County this year - ABC10",
+          "West Nile virus found in Hyrum Dam mosquito samples - ABC4 Utah",
+          "New Jersey Reports First Case Of Zika Virus Since 2020 - newjersey.news12.com",
           "Yuba County confirms first human West Nile virus case of 2026 - FOX40"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "US",
+        "category": "Mental Health",
+        "score": 9,
+        "examples": [
+          "Trump dismisses mental health concerns on USS Lincoln aircraft carrier - Al Jazeera",
+          "Trump dismisses mental health concerns on USS Lincoln aircraft carrier - Al Jazeera",
+          "ICYMI: Kelly Blasts Hegseth's Dismissiveness on Mental Health Crisis Aboard USS Lincoln, Calls for Sailors to Get Immediate Help - U.S. Senate (.gov)"
+        ]
+      },
+      {
+        "trend": "mental health",
+        "market_code": "US",
+        "category": "Mental Health",
+        "score": 9,
+        "examples": [
+          "Trump dismisses mental health concerns on USS Lincoln aircraft carrier - Al Jazeera",
+          "Trump dismisses mental health concerns on USS Lincoln aircraft carrier - Al Jazeera",
+          "ICYMI: Kelly Blasts Hegseth's Dismissiveness on Mental Health Crisis Aboard USS Lincoln, Calls for Sailors to Get Immediate Help - U.S. Senate (.gov)"
+        ]
+      },
+      {
+        "trend": "health alert",
+        "market_code": "US",
+        "category": "US Health",
+        "score": 8,
+        "examples": [
+          "DOH-Orange Issues Blue-Green Algae Health Alert for Lake Formosa (Pedestrian Bridge) - Florida Department of Health in Orange County (.gov)",
+          "South Korea issues a malaria health alert - Outbreak News Today",
+          "DOH-Orange Issues Blue-Green Algae Health Alert for Lake Formosa (Pedestrian Bridge) - Florida Department of Health in Orange County (.gov)"
         ]
       },
       {
@@ -86,9 +97,9 @@
         "category": "Outbreaks",
         "score": 8,
         "examples": [
-          "West Nile Virus Information - Andover, MA (.gov)",
-          "First human West Nile virus case confirmed in Yuba County this year - ABC10",
-          "Yuba County confirms first human West Nile virus case of 2026 - FOX40"
+          "West Nile virus found in Hyrum Dam mosquito samples - ABC4 Utah",
+          "Yuba County confirms first human West Nile virus case of 2026 - FOX40",
+          "West Nile Virus Information - Andover, MA (.gov)"
         ]
       },
       {
@@ -97,20 +108,9 @@
         "category": "Outbreaks",
         "score": 8,
         "examples": [
-          "West Nile Virus Information - Andover, MA (.gov)",
-          "First human West Nile virus case confirmed in Yuba County this year - ABC10",
-          "Yuba County confirms first human West Nile virus case of 2026 - FOX40"
-        ]
-      },
-      {
-        "trend": "cancer",
-        "market_code": "US",
-        "category": "Chronic Disease",
-        "score": 7,
-        "examples": [
-          "Dr. Linda Liau awarded 2026 UCLA Younes Nazarian Medical Humanitarian Prize for brain cancer research and treatment - UCLA Health",
-          "MSTP student receives Kirkpatrick Award for cancer immunity research: CT Plus - UT Southwestern",
-          "Pennsylvania Department of Health Urges Residents to Watch for Skin Cancer Warning Signs - Franklin County Free Press"
+          "West Nile virus found in Hyrum Dam mosquito samples - ABC4 Utah",
+          "Yuba County confirms first human West Nile virus case of 2026 - FOX40",
+          "West Nile Virus Information - Andover, MA (.gov)"
         ]
       },
       {
@@ -119,20 +119,20 @@
         "category": "US Health",
         "score": 7,
         "examples": [
-          "The path to a breakthrough public health contract - Washington State Nurses Association - WSNA",
-          "Youth vaping remains critical public health crisis, health department warns - WAFB",
-          "In Idaho, public health officials are trying to curb the rat infestation — with a $250K fund - Idaho Capital Sun"
+          "Photo Gallery - Johns Hopkins Bloomberg School of Public Health",
+          "Trump’s Vaccine Order Will Harm Public Health - Progressive.org",
+          "The path to a breakthrough public health contract - Washington State Nurses Association - WSNA"
         ]
       },
       {
-        "trend": "hospital",
+        "trend": "cancer",
         "market_code": "US",
-        "category": "US Health",
-        "score": 7,
+        "category": "Chronic Disease",
+        "score": 6,
         "examples": [
-          "How one San Antonio hospital is dealing with a hard-to-kill fungus - San Antonio Report",
-          "Doximity bets big on hospital adoption of enterprise AI as it ramps up tech spending - Fierce Healthcare",
-          "What Is Lifestyle Medicine? - HSS | Hospital for Special Surgery"
+          "Dr. Linda Liau awarded 2026 UCLA Younes Nazarian Medical Humanitarian Prize for brain cancer research and treatment - UCLA Health",
+          "Like it or not, AI psycho-oncology care is already happening. Urgently needed: An ethical framework Developers and mental health providers must share the same goal: Safe, equitable, trustworthy, and patient-centered care - The Cancer Letter",
+          "FDA Expands Clinical Trial Eligibility for Cancer Patients - oncologynewscentral.com"
         ]
       }
     ],
@@ -141,77 +141,66 @@
         "trend": "health",
         "market_code": "GB",
         "category": "Europe Health",
-        "score": 68,
+        "score": 66,
         "examples": [
-          "'It's shocking it's come to this' - 5,000 fewer health visitor appointments amid long-running strike - bbc.co.uk",
-          "‘I shot Mr Thompson’: Luigi Mangione describes his planning and the killing of health insurance CEO - The Guardian",
-          "First-of-its-kind funding to evaluate open access mental health support across Wales - Swansea University"
-        ]
-      },
-      {
-        "trend": "outbreak",
-        "market_code": "GB",
-        "category": "Outbreaks",
-        "score": 16,
-        "examples": [
-          "France: Legionnaires' disease surge in Savoie - Outbreak News Today",
-          "South Korea issues a malaria health alert - Outbreak News Today",
-          "Bluetongue outbreak to get worse, warns chief vet - bbc.co.uk"
-        ]
-      },
-      {
-        "trend": "medical",
-        "market_code": "GB",
-        "category": "Europe Health",
-        "score": 15,
-        "examples": [
-          "Eight in ten adults track their own health: New survey - Medical Xpress",
-          "West Ham book medical as record-breaking fourth summer transfer agreed - London Evening Standard",
-          "Sensitive medical data sent over unencrypted pager network - bbc.co.uk"
-        ]
-      },
-      {
-        "trend": "mental",
-        "market_code": "GB",
-        "category": "Mental Health",
-        "score": 14,
-        "examples": [
-          "First-of-its-kind funding to evaluate open access mental health support across Wales - Swansea University",
-          "Selena Gomez sued for alleged fraud over mental health company - BBC",
-          "First-of-its-kind funding to evaluate open access mental health support across Wales - Swansea University"
-        ]
-      },
-      {
-        "trend": "mental health",
-        "market_code": "GB",
-        "category": "Mental Health",
-        "score": 14,
-        "examples": [
-          "First-of-its-kind funding to evaluate open access mental health support across Wales - Swansea University",
-          "Selena Gomez sued for alleged fraud over mental health company - BBC",
-          "First-of-its-kind funding to evaluate open access mental health support across Wales - Swansea University"
+          "'It's shocking it's come to this' - 5,000 fewer health visitor appointments amid long-running strike - BBC",
+          "First-of-its-kind funding to evaluate open access mental health support across Wales - swansea.ac.uk",
+          "‘I shot Mr Thompson’: Luigi Mangione describes his planning and the killing of health insurance CEO - The Guardian"
         ]
       },
       {
         "trend": "healthcare",
         "market_code": "GB",
         "category": "Europe Health",
-        "score": 12,
+        "score": 17,
         "examples": [
-          "This Week in European HealthTech, MedTech and Health AI: 14th August 2026 - healthcare.digital",
-          "From Diagnosis to Wellness, AI’s Healthcare Revolution - Technology Org",
-          "‘Hey, Siri. How do I draw blood?’ New AI medical tech is transforming healthcare. Are we ready? - NJ.com"
+          "Who is Luigi Mangione, the man who admitted to shooting a healthcare CEO? - BBC",
+          "Dr Meike Schleiff joins BBC Woman’s Hour to discuss medical tourism and women’s healthcare - UCL | University College London",
+          "Sentara's Epic EHR model targets MRSA infections early - Healthcare IT News"
         ]
       },
       {
-        "trend": "virus",
+        "trend": "medical",
+        "market_code": "GB",
+        "category": "Europe Health",
+        "score": 13,
+        "examples": [
+          "West Ham book medical as record-breaking fourth summer transfer agreed - London Evening Standard",
+          "NEWS | Medical Room Move Among Off-Season Upgrades - Hereford FC",
+          "Dr Meike Schleiff joins BBC Woman’s Hour to discuss medical tourism and women’s healthcare - UCL | University College London"
+        ]
+      },
+      {
+        "trend": "outbreak",
         "market_code": "GB",
         "category": "Outbreaks",
-        "score": 8,
+        "score": 13,
         "examples": [
-          "UK's 'worst' bluetongue outbreak as hot weather fuels deadly virus - BBC",
-          "Three months into DRC Ebola outbreak, community trust remains critical to stopping the spread of the virus - IFRC",
-          "UK's 'worst' bluetongue outbreak as hot weather fuels deadly virus - BBC"
+          "Brits warned of health risk over measles outbreak in Majorca - Lincolnshire Live",
+          "South Korea issues a malaria health alert - Outbreak News Today",
+          "Bluetongue outbreak to get worse, warns chief vet - BBC"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "GB",
+        "category": "Mental Health",
+        "score": 12,
+        "examples": [
+          "First-of-its-kind funding to evaluate open access mental health support across Wales - swansea.ac.uk",
+          "Sharp rise in seclusion of mental health patients by Northern Ireland trust previously under scrutiny for ‘last resort’ tactic - The Irish News",
+          "WHO-Lions Clubs partner to expand mental health services in Jordan and Nepal - World Health Organization (WHO)"
+        ]
+      },
+      {
+        "trend": "mental health",
+        "market_code": "GB",
+        "category": "Mental Health",
+        "score": 12,
+        "examples": [
+          "First-of-its-kind funding to evaluate open access mental health support across Wales - swansea.ac.uk",
+          "Sharp rise in seclusion of mental health patients by Northern Ireland trust previously under scrutiny for ‘last resort’ tactic - The Irish News",
+          "WHO-Lions Clubs partner to expand mental health services in Jordan and Nepal - World Health Organization (WHO)"
         ]
       },
       {
@@ -220,9 +209,31 @@
         "category": "Drug & Treatment News",
         "score": 7,
         "examples": [
+          "Trump’s Vaccine Order Will Harm Public Health - Progressive.org",
           "Could COVID-19 reawaken viruses hidden in the body? - Gavi, the Vaccine Alliance",
-          "FDA fast-tracks experimental vaccine aiming to slow early Parkinson’s - Parkinson's News Today",
-          "Will Flu Be Mild This Winter? FDA Approves First mRNA Flu Vaccine - The People's Pharmacy"
+          "FDA fast-tracks experimental vaccine aiming to slow early Parkinson’s - parkinsonsnewstoday.com"
+        ]
+      },
+      {
+        "trend": "virus",
+        "market_code": "GB",
+        "category": "Outbreaks",
+        "score": 7,
+        "examples": [
+          "Three months into DRC Ebola outbreak, community trust remains critical to stopping the spread of the virus - IFRC",
+          "AI designed a virus, scientists brought it to life - Ynetnews",
+          "Potentially deadly bluetongue virus found on third farm in Scotland - BBC"
+        ]
+      },
+      {
+        "trend": "research",
+        "market_code": "GB",
+        "category": "Europe Health",
+        "score": 6,
+        "examples": [
+          "DMU scientist honoured at House of Lords for research tackling global health challenges - De Montfort University",
+          "Study recruitment: Researchers to explore impact of a meat-free diet on long-term health - Diabetes Research & Wellness Foundation",
+          "DMU scientist honoured at House of Lords for research tackling global health challenges - De Montfort University"
         ]
       },
       {
@@ -233,40 +244,29 @@
         "examples": [
           "Heat health alert for Essex extended amid recording-breaking temperatures - essexcountynews.co.uk",
           "Heat health alert for Essex extended amid recording-breaking temperatures - Southend Echo",
+          "South Korea issues a malaria health alert - Outbreak News Today"
+        ]
+      },
+      {
+        "trend": "heat health",
+        "market_code": "GB",
+        "category": "Europe Health",
+        "score": 5,
+        "examples": [
+          "Heat health alert for Essex extended amid recording-breaking temperatures - essexcountynews.co.uk",
+          "Heat health alert for Essex extended amid recording-breaking temperatures - Southend Echo",
           "Heat health alert extended after hottest day of the year - The Independent"
         ]
       },
       {
-        "trend": "news-medical",
+        "trend": "heat health alert",
         "market_code": "GB",
         "category": "Europe Health",
         "score": 5,
         "examples": [
-          "Britons embrace DIY health checks - news-medical.net",
-          "Britons embrace DIY health checks - news-medical.net",
-          "Britons embrace DIY health checks - news-medical.net"
-        ]
-      },
-      {
-        "trend": "research",
-        "market_code": "GB",
-        "category": "Europe Health",
-        "score": 5,
-        "examples": [
-          "Study recruitment: Researchers to explore impact of a meat-free diet on long-term health - Diabetes Research & Wellness Foundation",
-          "DMU scientist honoured at House of Lords for research tackling global health challenges - De Montfort University",
-          "Research finds link between problematic khat use and mental health conditions in the Somali Region of Ethiopia - kcl.ac.uk"
-        ]
-      },
-      {
-        "trend": "disease",
-        "market_code": "GB",
-        "category": "Europe Health",
-        "score": 5,
-        "examples": [
-          "France: Legionnaires' disease surge in Savoie - Outbreak News Today",
-          "France: Legionnaires' disease surge in Savoie - Outbreak News Today",
-          "Every disease is a policy failure - Works in Progress Magazine"
+          "Heat health alert for Essex extended amid recording-breaking temperatures - essexcountynews.co.uk",
+          "Heat health alert for Essex extended amid recording-breaking temperatures - Southend Echo",
+          "Heat health alert extended after hottest day of the year - The Independent"
         ]
       }
     ],
@@ -278,8 +278,8 @@
         "score": 75,
         "examples": [
           "University Honors Health Fellows Program to Expand Student Opportunity and Strengthen Tennessee’s Healthcare Workforce - University of Tennessee, Knoxville",
-          "DoD changes transitional health care eligibility for reservists following lawsuit - Federal News Network",
-          "Trump dismisses mental health concerns on USS Lincoln aircraft carrier - Al Jazeera"
+          "3 UC Davis Health researchers awarded state grants to advance health equity through precision medicine - UC Davis Health",
+          "3 UC Davis Health researchers awarded state grants to advance health equity through precision medicine - UC Davis Health"
         ]
       },
       {
@@ -289,8 +289,8 @@
         "score": 16,
         "examples": [
           "UConn’s Largest Medical School Class Yet Dons 117 New White Coats - UConn Today",
-          "News - Medical Officer of the Marine Corps Visits MCRD San Diego - DVIDS",
-          "Dr. Linda Liau awarded 2026 UCLA Younes Nazarian Medical Humanitarian Prize for brain cancer research and treatment - UCLA Health"
+          "Milwaukee VA Medical Center unveils new arts beautification effort with help from Brewers - VA.gov Home | Veterans Affairs",
+          "New medical students continue ʻImi Hoʻōla’s mission to serve Hawaiʻi - University of Hawaii System"
         ]
       },
       {
@@ -300,30 +300,8 @@
         "score": 15,
         "examples": [
           "University Honors Health Fellows Program to Expand Student Opportunity and Strengthen Tennessee’s Healthcare Workforce - University of Tennessee, Knoxville",
-          "States have tools to slow healthcare spending growth, new UCLA Health report finds - UCLA Health",
-          "Sentara's Epic EHR model targets MRSA infections early - Healthcare IT News"
-        ]
-      },
-      {
-        "trend": "mental",
-        "market_code": "DE",
-        "category": "Mental Health",
-        "score": 12,
-        "examples": [
-          "Trump dismisses mental health concerns on USS Lincoln aircraft carrier - Al Jazeera",
-          "Selena Gomez and her mother accused of fraud over their mental health company - NBC News",
-          "Trump dismisses mental health concerns on USS Lincoln aircraft carrier - Al Jazeera"
-        ]
-      },
-      {
-        "trend": "mental health",
-        "market_code": "DE",
-        "category": "Mental Health",
-        "score": 12,
-        "examples": [
-          "Trump dismisses mental health concerns on USS Lincoln aircraft carrier - Al Jazeera",
-          "Selena Gomez and her mother accused of fraud over their mental health company - NBC News",
-          "Trump dismisses mental health concerns on USS Lincoln aircraft carrier - Al Jazeera"
+          "Patients Wary of Governments, Companies Pushing AI as a Rural Healthcare Solution - KFF Health News",
+          "‘Hey, Siri. How do I draw blood?’ New AI medical tech is transforming healthcare. Are we ready? - NJ.com"
         ]
       },
       {
@@ -332,8 +310,8 @@
         "category": "Outbreaks",
         "score": 11,
         "examples": [
-          "NYC Health Department announces two more deaths in Upper East Side Legionnaires' outbreak - ABC7 New York",
-          "FDA in Mexico a month after linking Taylor Farms to cyclospora outbreak - The Washington Post",
+          "South Korea issues a malaria health alert - Outbreak News Today",
+          "South Korea issues a malaria health alert - Outbreak News Today",
           "2 more states added to cyclospora outbreak linked to lettuce - NewsNation"
         ]
       },
@@ -341,11 +319,44 @@
         "trend": "virus",
         "market_code": "DE",
         "category": "Outbreaks",
-        "score": 10,
+        "score": 11,
         "examples": [
-          "West Nile Virus Information - Andover, MA (.gov)",
-          "First human West Nile virus case confirmed in Yuba County this year - ABC10",
+          "West Nile virus found in Hyrum Dam mosquito samples - ABC4 Utah",
+          "New Jersey Reports First Case Of Zika Virus Since 2020 - newjersey.news12.com",
           "Yuba County confirms first human West Nile virus case of 2026 - FOX40"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "DE",
+        "category": "Mental Health",
+        "score": 9,
+        "examples": [
+          "Trump dismisses mental health concerns on USS Lincoln aircraft carrier - Al Jazeera",
+          "Trump dismisses mental health concerns on USS Lincoln aircraft carrier - Al Jazeera",
+          "ICYMI: Kelly Blasts Hegseth's Dismissiveness on Mental Health Crisis Aboard USS Lincoln, Calls for Sailors to Get Immediate Help - U.S. Senate (.gov)"
+        ]
+      },
+      {
+        "trend": "mental health",
+        "market_code": "DE",
+        "category": "Mental Health",
+        "score": 9,
+        "examples": [
+          "Trump dismisses mental health concerns on USS Lincoln aircraft carrier - Al Jazeera",
+          "Trump dismisses mental health concerns on USS Lincoln aircraft carrier - Al Jazeera",
+          "ICYMI: Kelly Blasts Hegseth's Dismissiveness on Mental Health Crisis Aboard USS Lincoln, Calls for Sailors to Get Immediate Help - U.S. Senate (.gov)"
+        ]
+      },
+      {
+        "trend": "health alert",
+        "market_code": "DE",
+        "category": "Europe Health",
+        "score": 8,
+        "examples": [
+          "DOH-Orange Issues Blue-Green Algae Health Alert for Lake Formosa (Pedestrian Bridge) - Florida Department of Health in Orange County (.gov)",
+          "South Korea issues a malaria health alert - Outbreak News Today",
+          "DOH-Orange Issues Blue-Green Algae Health Alert for Lake Formosa (Pedestrian Bridge) - Florida Department of Health in Orange County (.gov)"
         ]
       },
       {
@@ -354,9 +365,9 @@
         "category": "Outbreaks",
         "score": 8,
         "examples": [
-          "West Nile Virus Information - Andover, MA (.gov)",
-          "First human West Nile virus case confirmed in Yuba County this year - ABC10",
-          "Yuba County confirms first human West Nile virus case of 2026 - FOX40"
+          "West Nile virus found in Hyrum Dam mosquito samples - ABC4 Utah",
+          "Yuba County confirms first human West Nile virus case of 2026 - FOX40",
+          "West Nile Virus Information - Andover, MA (.gov)"
         ]
       },
       {
@@ -365,20 +376,9 @@
         "category": "Outbreaks",
         "score": 8,
         "examples": [
-          "West Nile Virus Information - Andover, MA (.gov)",
-          "First human West Nile virus case confirmed in Yuba County this year - ABC10",
-          "Yuba County confirms first human West Nile virus case of 2026 - FOX40"
-        ]
-      },
-      {
-        "trend": "cancer",
-        "market_code": "DE",
-        "category": "Chronic Disease",
-        "score": 7,
-        "examples": [
-          "Dr. Linda Liau awarded 2026 UCLA Younes Nazarian Medical Humanitarian Prize for brain cancer research and treatment - UCLA Health",
-          "MSTP student receives Kirkpatrick Award for cancer immunity research: CT Plus - UT Southwestern",
-          "Pennsylvania Department of Health Urges Residents to Watch for Skin Cancer Warning Signs - Franklin County Free Press"
+          "West Nile virus found in Hyrum Dam mosquito samples - ABC4 Utah",
+          "Yuba County confirms first human West Nile virus case of 2026 - FOX40",
+          "West Nile Virus Information - Andover, MA (.gov)"
         ]
       },
       {
@@ -387,20 +387,20 @@
         "category": "Europe Health",
         "score": 7,
         "examples": [
-          "The path to a breakthrough public health contract - Washington State Nurses Association - WSNA",
-          "Youth vaping remains critical public health crisis, health department warns - WAFB",
-          "In Idaho, public health officials are trying to curb the rat infestation — with a $250K fund - Idaho Capital Sun"
+          "Photo Gallery - Johns Hopkins Bloomberg School of Public Health",
+          "Trump’s Vaccine Order Will Harm Public Health - Progressive.org",
+          "The path to a breakthrough public health contract - Washington State Nurses Association - WSNA"
         ]
       },
       {
-        "trend": "hospital",
+        "trend": "cancer",
         "market_code": "DE",
-        "category": "Europe Health",
-        "score": 7,
+        "category": "Chronic Disease",
+        "score": 6,
         "examples": [
-          "How one San Antonio hospital is dealing with a hard-to-kill fungus - San Antonio Report",
-          "Doximity bets big on hospital adoption of enterprise AI as it ramps up tech spending - Fierce Healthcare",
-          "What Is Lifestyle Medicine? - HSS | Hospital for Special Surgery"
+          "Dr. Linda Liau awarded 2026 UCLA Younes Nazarian Medical Humanitarian Prize for brain cancer research and treatment - UCLA Health",
+          "Like it or not, AI psycho-oncology care is already happening. Urgently needed: An ethical framework Developers and mental health providers must share the same goal: Safe, equitable, trustworthy, and patient-centered care - The Cancer Letter",
+          "FDA Expands Clinical Trial Eligibility for Cancer Patients - oncologynewscentral.com"
         ]
       }
     ],
@@ -412,8 +412,8 @@
         "score": 75,
         "examples": [
           "University Honors Health Fellows Program to Expand Student Opportunity and Strengthen Tennessee’s Healthcare Workforce - University of Tennessee, Knoxville",
-          "DoD changes transitional health care eligibility for reservists following lawsuit - Federal News Network",
-          "Trump dismisses mental health concerns on USS Lincoln aircraft carrier - Al Jazeera"
+          "3 UC Davis Health researchers awarded state grants to advance health equity through precision medicine - UC Davis Health",
+          "3 UC Davis Health researchers awarded state grants to advance health equity through precision medicine - UC Davis Health"
         ]
       },
       {
@@ -423,8 +423,8 @@
         "score": 16,
         "examples": [
           "UConn’s Largest Medical School Class Yet Dons 117 New White Coats - UConn Today",
-          "News - Medical Officer of the Marine Corps Visits MCRD San Diego - DVIDS",
-          "Dr. Linda Liau awarded 2026 UCLA Younes Nazarian Medical Humanitarian Prize for brain cancer research and treatment - UCLA Health"
+          "Milwaukee VA Medical Center unveils new arts beautification effort with help from Brewers - VA.gov Home | Veterans Affairs",
+          "New medical students continue ʻImi Hoʻōla’s mission to serve Hawaiʻi - University of Hawaii System"
         ]
       },
       {
@@ -434,30 +434,8 @@
         "score": 15,
         "examples": [
           "University Honors Health Fellows Program to Expand Student Opportunity and Strengthen Tennessee’s Healthcare Workforce - University of Tennessee, Knoxville",
-          "States have tools to slow healthcare spending growth, new UCLA Health report finds - UCLA Health",
-          "Sentara's Epic EHR model targets MRSA infections early - Healthcare IT News"
-        ]
-      },
-      {
-        "trend": "mental",
-        "market_code": "FR",
-        "category": "Mental Health",
-        "score": 12,
-        "examples": [
-          "Trump dismisses mental health concerns on USS Lincoln aircraft carrier - Al Jazeera",
-          "Selena Gomez and her mother accused of fraud over their mental health company - NBC News",
-          "Trump dismisses mental health concerns on USS Lincoln aircraft carrier - Al Jazeera"
-        ]
-      },
-      {
-        "trend": "mental health",
-        "market_code": "FR",
-        "category": "Mental Health",
-        "score": 12,
-        "examples": [
-          "Trump dismisses mental health concerns on USS Lincoln aircraft carrier - Al Jazeera",
-          "Selena Gomez and her mother accused of fraud over their mental health company - NBC News",
-          "Trump dismisses mental health concerns on USS Lincoln aircraft carrier - Al Jazeera"
+          "Patients Wary of Governments, Companies Pushing AI as a Rural Healthcare Solution - KFF Health News",
+          "‘Hey, Siri. How do I draw blood?’ New AI medical tech is transforming healthcare. Are we ready? - NJ.com"
         ]
       },
       {
@@ -466,8 +444,8 @@
         "category": "Outbreaks",
         "score": 11,
         "examples": [
-          "NYC Health Department announces two more deaths in Upper East Side Legionnaires' outbreak - ABC7 New York",
-          "FDA in Mexico a month after linking Taylor Farms to cyclospora outbreak - The Washington Post",
+          "South Korea issues a malaria health alert - Outbreak News Today",
+          "South Korea issues a malaria health alert - Outbreak News Today",
           "2 more states added to cyclospora outbreak linked to lettuce - NewsNation"
         ]
       },
@@ -475,11 +453,44 @@
         "trend": "virus",
         "market_code": "FR",
         "category": "Outbreaks",
-        "score": 10,
+        "score": 11,
         "examples": [
-          "West Nile Virus Information - Andover, MA (.gov)",
-          "First human West Nile virus case confirmed in Yuba County this year - ABC10",
+          "West Nile virus found in Hyrum Dam mosquito samples - ABC4 Utah",
+          "New Jersey Reports First Case Of Zika Virus Since 2020 - newjersey.news12.com",
           "Yuba County confirms first human West Nile virus case of 2026 - FOX40"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "FR",
+        "category": "Mental Health",
+        "score": 9,
+        "examples": [
+          "Trump dismisses mental health concerns on USS Lincoln aircraft carrier - Al Jazeera",
+          "Trump dismisses mental health concerns on USS Lincoln aircraft carrier - Al Jazeera",
+          "ICYMI: Kelly Blasts Hegseth's Dismissiveness on Mental Health Crisis Aboard USS Lincoln, Calls for Sailors to Get Immediate Help - U.S. Senate (.gov)"
+        ]
+      },
+      {
+        "trend": "mental health",
+        "market_code": "FR",
+        "category": "Mental Health",
+        "score": 9,
+        "examples": [
+          "Trump dismisses mental health concerns on USS Lincoln aircraft carrier - Al Jazeera",
+          "Trump dismisses mental health concerns on USS Lincoln aircraft carrier - Al Jazeera",
+          "ICYMI: Kelly Blasts Hegseth's Dismissiveness on Mental Health Crisis Aboard USS Lincoln, Calls for Sailors to Get Immediate Help - U.S. Senate (.gov)"
+        ]
+      },
+      {
+        "trend": "health alert",
+        "market_code": "FR",
+        "category": "Europe Health",
+        "score": 8,
+        "examples": [
+          "DOH-Orange Issues Blue-Green Algae Health Alert for Lake Formosa (Pedestrian Bridge) - Florida Department of Health in Orange County (.gov)",
+          "South Korea issues a malaria health alert - Outbreak News Today",
+          "DOH-Orange Issues Blue-Green Algae Health Alert for Lake Formosa (Pedestrian Bridge) - Florida Department of Health in Orange County (.gov)"
         ]
       },
       {
@@ -488,9 +499,9 @@
         "category": "Outbreaks",
         "score": 8,
         "examples": [
-          "West Nile Virus Information - Andover, MA (.gov)",
-          "First human West Nile virus case confirmed in Yuba County this year - ABC10",
-          "Yuba County confirms first human West Nile virus case of 2026 - FOX40"
+          "West Nile virus found in Hyrum Dam mosquito samples - ABC4 Utah",
+          "Yuba County confirms first human West Nile virus case of 2026 - FOX40",
+          "West Nile Virus Information - Andover, MA (.gov)"
         ]
       },
       {
@@ -499,20 +510,9 @@
         "category": "Outbreaks",
         "score": 8,
         "examples": [
-          "West Nile Virus Information - Andover, MA (.gov)",
-          "First human West Nile virus case confirmed in Yuba County this year - ABC10",
-          "Yuba County confirms first human West Nile virus case of 2026 - FOX40"
-        ]
-      },
-      {
-        "trend": "cancer",
-        "market_code": "FR",
-        "category": "Chronic Disease",
-        "score": 7,
-        "examples": [
-          "Dr. Linda Liau awarded 2026 UCLA Younes Nazarian Medical Humanitarian Prize for brain cancer research and treatment - UCLA Health",
-          "MSTP student receives Kirkpatrick Award for cancer immunity research: CT Plus - UT Southwestern",
-          "Pennsylvania Department of Health Urges Residents to Watch for Skin Cancer Warning Signs - Franklin County Free Press"
+          "West Nile virus found in Hyrum Dam mosquito samples - ABC4 Utah",
+          "Yuba County confirms first human West Nile virus case of 2026 - FOX40",
+          "West Nile Virus Information - Andover, MA (.gov)"
         ]
       },
       {
@@ -521,20 +521,20 @@
         "category": "Europe Health",
         "score": 7,
         "examples": [
-          "The path to a breakthrough public health contract - Washington State Nurses Association - WSNA",
-          "Youth vaping remains critical public health crisis, health department warns - WAFB",
-          "In Idaho, public health officials are trying to curb the rat infestation — with a $250K fund - Idaho Capital Sun"
+          "Photo Gallery - Johns Hopkins Bloomberg School of Public Health",
+          "Trump’s Vaccine Order Will Harm Public Health - Progressive.org",
+          "The path to a breakthrough public health contract - Washington State Nurses Association - WSNA"
         ]
       },
       {
-        "trend": "hospital",
+        "trend": "cancer",
         "market_code": "FR",
-        "category": "Europe Health",
-        "score": 7,
+        "category": "Chronic Disease",
+        "score": 6,
         "examples": [
-          "How one San Antonio hospital is dealing with a hard-to-kill fungus - San Antonio Report",
-          "Doximity bets big on hospital adoption of enterprise AI as it ramps up tech spending - Fierce Healthcare",
-          "What Is Lifestyle Medicine? - HSS | Hospital for Special Surgery"
+          "Dr. Linda Liau awarded 2026 UCLA Younes Nazarian Medical Humanitarian Prize for brain cancer research and treatment - UCLA Health",
+          "Like it or not, AI psycho-oncology care is already happening. Urgently needed: An ethical framework Developers and mental health providers must share the same goal: Safe, equitable, trustworthy, and patient-centered care - The Cancer Letter",
+          "FDA Expands Clinical Trial Eligibility for Cancer Patients - oncologynewscentral.com"
         ]
       }
     ],
@@ -546,8 +546,8 @@
         "score": 75,
         "examples": [
           "University Honors Health Fellows Program to Expand Student Opportunity and Strengthen Tennessee’s Healthcare Workforce - University of Tennessee, Knoxville",
-          "DoD changes transitional health care eligibility for reservists following lawsuit - Federal News Network",
-          "Trump dismisses mental health concerns on USS Lincoln aircraft carrier - Al Jazeera"
+          "3 UC Davis Health researchers awarded state grants to advance health equity through precision medicine - UC Davis Health",
+          "3 UC Davis Health researchers awarded state grants to advance health equity through precision medicine - UC Davis Health"
         ]
       },
       {
@@ -557,8 +557,8 @@
         "score": 16,
         "examples": [
           "UConn’s Largest Medical School Class Yet Dons 117 New White Coats - UConn Today",
-          "News - Medical Officer of the Marine Corps Visits MCRD San Diego - DVIDS",
-          "Dr. Linda Liau awarded 2026 UCLA Younes Nazarian Medical Humanitarian Prize for brain cancer research and treatment - UCLA Health"
+          "Milwaukee VA Medical Center unveils new arts beautification effort with help from Brewers - VA.gov Home | Veterans Affairs",
+          "New medical students continue ʻImi Hoʻōla’s mission to serve Hawaiʻi - University of Hawaii System"
         ]
       },
       {
@@ -568,30 +568,8 @@
         "score": 15,
         "examples": [
           "University Honors Health Fellows Program to Expand Student Opportunity and Strengthen Tennessee’s Healthcare Workforce - University of Tennessee, Knoxville",
-          "States have tools to slow healthcare spending growth, new UCLA Health report finds - UCLA Health",
-          "Sentara's Epic EHR model targets MRSA infections early - Healthcare IT News"
-        ]
-      },
-      {
-        "trend": "mental",
-        "market_code": "IT",
-        "category": "Mental Health",
-        "score": 12,
-        "examples": [
-          "Trump dismisses mental health concerns on USS Lincoln aircraft carrier - Al Jazeera",
-          "Selena Gomez and her mother accused of fraud over their mental health company - NBC News",
-          "Trump dismisses mental health concerns on USS Lincoln aircraft carrier - Al Jazeera"
-        ]
-      },
-      {
-        "trend": "mental health",
-        "market_code": "IT",
-        "category": "Mental Health",
-        "score": 12,
-        "examples": [
-          "Trump dismisses mental health concerns on USS Lincoln aircraft carrier - Al Jazeera",
-          "Selena Gomez and her mother accused of fraud over their mental health company - NBC News",
-          "Trump dismisses mental health concerns on USS Lincoln aircraft carrier - Al Jazeera"
+          "Patients Wary of Governments, Companies Pushing AI as a Rural Healthcare Solution - KFF Health News",
+          "‘Hey, Siri. How do I draw blood?’ New AI medical tech is transforming healthcare. Are we ready? - NJ.com"
         ]
       },
       {
@@ -600,8 +578,8 @@
         "category": "Outbreaks",
         "score": 11,
         "examples": [
-          "NYC Health Department announces two more deaths in Upper East Side Legionnaires' outbreak - ABC7 New York",
-          "FDA in Mexico a month after linking Taylor Farms to cyclospora outbreak - The Washington Post",
+          "South Korea issues a malaria health alert - Outbreak News Today",
+          "South Korea issues a malaria health alert - Outbreak News Today",
           "2 more states added to cyclospora outbreak linked to lettuce - NewsNation"
         ]
       },
@@ -609,11 +587,44 @@
         "trend": "virus",
         "market_code": "IT",
         "category": "Outbreaks",
-        "score": 10,
+        "score": 11,
         "examples": [
-          "West Nile Virus Information - Andover, MA (.gov)",
-          "First human West Nile virus case confirmed in Yuba County this year - ABC10",
+          "West Nile virus found in Hyrum Dam mosquito samples - ABC4 Utah",
+          "New Jersey Reports First Case Of Zika Virus Since 2020 - newjersey.news12.com",
           "Yuba County confirms first human West Nile virus case of 2026 - FOX40"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "IT",
+        "category": "Mental Health",
+        "score": 9,
+        "examples": [
+          "Trump dismisses mental health concerns on USS Lincoln aircraft carrier - Al Jazeera",
+          "Trump dismisses mental health concerns on USS Lincoln aircraft carrier - Al Jazeera",
+          "ICYMI: Kelly Blasts Hegseth's Dismissiveness on Mental Health Crisis Aboard USS Lincoln, Calls for Sailors to Get Immediate Help - U.S. Senate (.gov)"
+        ]
+      },
+      {
+        "trend": "mental health",
+        "market_code": "IT",
+        "category": "Mental Health",
+        "score": 9,
+        "examples": [
+          "Trump dismisses mental health concerns on USS Lincoln aircraft carrier - Al Jazeera",
+          "Trump dismisses mental health concerns on USS Lincoln aircraft carrier - Al Jazeera",
+          "ICYMI: Kelly Blasts Hegseth's Dismissiveness on Mental Health Crisis Aboard USS Lincoln, Calls for Sailors to Get Immediate Help - U.S. Senate (.gov)"
+        ]
+      },
+      {
+        "trend": "health alert",
+        "market_code": "IT",
+        "category": "Europe Health",
+        "score": 8,
+        "examples": [
+          "DOH-Orange Issues Blue-Green Algae Health Alert for Lake Formosa (Pedestrian Bridge) - Florida Department of Health in Orange County (.gov)",
+          "South Korea issues a malaria health alert - Outbreak News Today",
+          "DOH-Orange Issues Blue-Green Algae Health Alert for Lake Formosa (Pedestrian Bridge) - Florida Department of Health in Orange County (.gov)"
         ]
       },
       {
@@ -622,9 +633,9 @@
         "category": "Outbreaks",
         "score": 8,
         "examples": [
-          "West Nile Virus Information - Andover, MA (.gov)",
-          "First human West Nile virus case confirmed in Yuba County this year - ABC10",
-          "Yuba County confirms first human West Nile virus case of 2026 - FOX40"
+          "West Nile virus found in Hyrum Dam mosquito samples - ABC4 Utah",
+          "Yuba County confirms first human West Nile virus case of 2026 - FOX40",
+          "West Nile Virus Information - Andover, MA (.gov)"
         ]
       },
       {
@@ -633,20 +644,9 @@
         "category": "Outbreaks",
         "score": 8,
         "examples": [
-          "West Nile Virus Information - Andover, MA (.gov)",
-          "First human West Nile virus case confirmed in Yuba County this year - ABC10",
-          "Yuba County confirms first human West Nile virus case of 2026 - FOX40"
-        ]
-      },
-      {
-        "trend": "cancer",
-        "market_code": "IT",
-        "category": "Chronic Disease",
-        "score": 7,
-        "examples": [
-          "Dr. Linda Liau awarded 2026 UCLA Younes Nazarian Medical Humanitarian Prize for brain cancer research and treatment - UCLA Health",
-          "MSTP student receives Kirkpatrick Award for cancer immunity research: CT Plus - UT Southwestern",
-          "Pennsylvania Department of Health Urges Residents to Watch for Skin Cancer Warning Signs - Franklin County Free Press"
+          "West Nile virus found in Hyrum Dam mosquito samples - ABC4 Utah",
+          "Yuba County confirms first human West Nile virus case of 2026 - FOX40",
+          "West Nile Virus Information - Andover, MA (.gov)"
         ]
       },
       {
@@ -655,20 +655,20 @@
         "category": "Europe Health",
         "score": 7,
         "examples": [
-          "The path to a breakthrough public health contract - Washington State Nurses Association - WSNA",
-          "Youth vaping remains critical public health crisis, health department warns - WAFB",
-          "In Idaho, public health officials are trying to curb the rat infestation — with a $250K fund - Idaho Capital Sun"
+          "Photo Gallery - Johns Hopkins Bloomberg School of Public Health",
+          "Trump’s Vaccine Order Will Harm Public Health - Progressive.org",
+          "The path to a breakthrough public health contract - Washington State Nurses Association - WSNA"
         ]
       },
       {
-        "trend": "hospital",
+        "trend": "cancer",
         "market_code": "IT",
-        "category": "Europe Health",
-        "score": 7,
+        "category": "Chronic Disease",
+        "score": 6,
         "examples": [
-          "How one San Antonio hospital is dealing with a hard-to-kill fungus - San Antonio Report",
-          "Doximity bets big on hospital adoption of enterprise AI as it ramps up tech spending - Fierce Healthcare",
-          "What Is Lifestyle Medicine? - HSS | Hospital for Special Surgery"
+          "Dr. Linda Liau awarded 2026 UCLA Younes Nazarian Medical Humanitarian Prize for brain cancer research and treatment - UCLA Health",
+          "Like it or not, AI psycho-oncology care is already happening. Urgently needed: An ethical framework Developers and mental health providers must share the same goal: Safe, equitable, trustworthy, and patient-centered care - The Cancer Letter",
+          "FDA Expands Clinical Trial Eligibility for Cancer Patients - oncologynewscentral.com"
         ]
       }
     ],
@@ -680,8 +680,8 @@
         "score": 75,
         "examples": [
           "University Honors Health Fellows Program to Expand Student Opportunity and Strengthen Tennessee’s Healthcare Workforce - University of Tennessee, Knoxville",
-          "DoD changes transitional health care eligibility for reservists following lawsuit - Federal News Network",
-          "Trump dismisses mental health concerns on USS Lincoln aircraft carrier - Al Jazeera"
+          "3 UC Davis Health researchers awarded state grants to advance health equity through precision medicine - UC Davis Health",
+          "3 UC Davis Health researchers awarded state grants to advance health equity through precision medicine - UC Davis Health"
         ]
       },
       {
@@ -691,8 +691,8 @@
         "score": 16,
         "examples": [
           "UConn’s Largest Medical School Class Yet Dons 117 New White Coats - UConn Today",
-          "News - Medical Officer of the Marine Corps Visits MCRD San Diego - DVIDS",
-          "Dr. Linda Liau awarded 2026 UCLA Younes Nazarian Medical Humanitarian Prize for brain cancer research and treatment - UCLA Health"
+          "Milwaukee VA Medical Center unveils new arts beautification effort with help from Brewers - VA.gov Home | Veterans Affairs",
+          "New medical students continue ʻImi Hoʻōla’s mission to serve Hawaiʻi - University of Hawaii System"
         ]
       },
       {
@@ -702,30 +702,8 @@
         "score": 15,
         "examples": [
           "University Honors Health Fellows Program to Expand Student Opportunity and Strengthen Tennessee’s Healthcare Workforce - University of Tennessee, Knoxville",
-          "States have tools to slow healthcare spending growth, new UCLA Health report finds - UCLA Health",
-          "Sentara's Epic EHR model targets MRSA infections early - Healthcare IT News"
-        ]
-      },
-      {
-        "trend": "mental",
-        "market_code": "ES",
-        "category": "Mental Health",
-        "score": 12,
-        "examples": [
-          "Trump dismisses mental health concerns on USS Lincoln aircraft carrier - Al Jazeera",
-          "Selena Gomez and her mother accused of fraud over their mental health company - NBC News",
-          "Trump dismisses mental health concerns on USS Lincoln aircraft carrier - Al Jazeera"
-        ]
-      },
-      {
-        "trend": "mental health",
-        "market_code": "ES",
-        "category": "Mental Health",
-        "score": 12,
-        "examples": [
-          "Trump dismisses mental health concerns on USS Lincoln aircraft carrier - Al Jazeera",
-          "Selena Gomez and her mother accused of fraud over their mental health company - NBC News",
-          "Trump dismisses mental health concerns on USS Lincoln aircraft carrier - Al Jazeera"
+          "Patients Wary of Governments, Companies Pushing AI as a Rural Healthcare Solution - KFF Health News",
+          "‘Hey, Siri. How do I draw blood?’ New AI medical tech is transforming healthcare. Are we ready? - NJ.com"
         ]
       },
       {
@@ -734,8 +712,8 @@
         "category": "Outbreaks",
         "score": 11,
         "examples": [
-          "NYC Health Department announces two more deaths in Upper East Side Legionnaires' outbreak - ABC7 New York",
-          "FDA in Mexico a month after linking Taylor Farms to cyclospora outbreak - The Washington Post",
+          "South Korea issues a malaria health alert - Outbreak News Today",
+          "South Korea issues a malaria health alert - Outbreak News Today",
           "2 more states added to cyclospora outbreak linked to lettuce - NewsNation"
         ]
       },
@@ -743,11 +721,44 @@
         "trend": "virus",
         "market_code": "ES",
         "category": "Outbreaks",
-        "score": 10,
+        "score": 11,
         "examples": [
-          "West Nile Virus Information - Andover, MA (.gov)",
-          "First human West Nile virus case confirmed in Yuba County this year - ABC10",
+          "West Nile virus found in Hyrum Dam mosquito samples - ABC4 Utah",
+          "New Jersey Reports First Case Of Zika Virus Since 2020 - newjersey.news12.com",
           "Yuba County confirms first human West Nile virus case of 2026 - FOX40"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "ES",
+        "category": "Mental Health",
+        "score": 9,
+        "examples": [
+          "Trump dismisses mental health concerns on USS Lincoln aircraft carrier - Al Jazeera",
+          "Trump dismisses mental health concerns on USS Lincoln aircraft carrier - Al Jazeera",
+          "ICYMI: Kelly Blasts Hegseth's Dismissiveness on Mental Health Crisis Aboard USS Lincoln, Calls for Sailors to Get Immediate Help - U.S. Senate (.gov)"
+        ]
+      },
+      {
+        "trend": "mental health",
+        "market_code": "ES",
+        "category": "Mental Health",
+        "score": 9,
+        "examples": [
+          "Trump dismisses mental health concerns on USS Lincoln aircraft carrier - Al Jazeera",
+          "Trump dismisses mental health concerns on USS Lincoln aircraft carrier - Al Jazeera",
+          "ICYMI: Kelly Blasts Hegseth's Dismissiveness on Mental Health Crisis Aboard USS Lincoln, Calls for Sailors to Get Immediate Help - U.S. Senate (.gov)"
+        ]
+      },
+      {
+        "trend": "health alert",
+        "market_code": "ES",
+        "category": "Europe Health",
+        "score": 8,
+        "examples": [
+          "DOH-Orange Issues Blue-Green Algae Health Alert for Lake Formosa (Pedestrian Bridge) - Florida Department of Health in Orange County (.gov)",
+          "South Korea issues a malaria health alert - Outbreak News Today",
+          "DOH-Orange Issues Blue-Green Algae Health Alert for Lake Formosa (Pedestrian Bridge) - Florida Department of Health in Orange County (.gov)"
         ]
       },
       {
@@ -756,9 +767,9 @@
         "category": "Outbreaks",
         "score": 8,
         "examples": [
-          "West Nile Virus Information - Andover, MA (.gov)",
-          "First human West Nile virus case confirmed in Yuba County this year - ABC10",
-          "Yuba County confirms first human West Nile virus case of 2026 - FOX40"
+          "West Nile virus found in Hyrum Dam mosquito samples - ABC4 Utah",
+          "Yuba County confirms first human West Nile virus case of 2026 - FOX40",
+          "West Nile Virus Information - Andover, MA (.gov)"
         ]
       },
       {
@@ -767,20 +778,9 @@
         "category": "Outbreaks",
         "score": 8,
         "examples": [
-          "West Nile Virus Information - Andover, MA (.gov)",
-          "First human West Nile virus case confirmed in Yuba County this year - ABC10",
-          "Yuba County confirms first human West Nile virus case of 2026 - FOX40"
-        ]
-      },
-      {
-        "trend": "cancer",
-        "market_code": "ES",
-        "category": "Chronic Disease",
-        "score": 7,
-        "examples": [
-          "Dr. Linda Liau awarded 2026 UCLA Younes Nazarian Medical Humanitarian Prize for brain cancer research and treatment - UCLA Health",
-          "MSTP student receives Kirkpatrick Award for cancer immunity research: CT Plus - UT Southwestern",
-          "Pennsylvania Department of Health Urges Residents to Watch for Skin Cancer Warning Signs - Franklin County Free Press"
+          "West Nile virus found in Hyrum Dam mosquito samples - ABC4 Utah",
+          "Yuba County confirms first human West Nile virus case of 2026 - FOX40",
+          "West Nile Virus Information - Andover, MA (.gov)"
         ]
       },
       {
@@ -789,20 +789,20 @@
         "category": "Europe Health",
         "score": 7,
         "examples": [
-          "The path to a breakthrough public health contract - Washington State Nurses Association - WSNA",
-          "Youth vaping remains critical public health crisis, health department warns - WAFB",
-          "In Idaho, public health officials are trying to curb the rat infestation — with a $250K fund - Idaho Capital Sun"
+          "Photo Gallery - Johns Hopkins Bloomberg School of Public Health",
+          "Trump’s Vaccine Order Will Harm Public Health - Progressive.org",
+          "The path to a breakthrough public health contract - Washington State Nurses Association - WSNA"
         ]
       },
       {
-        "trend": "hospital",
+        "trend": "cancer",
         "market_code": "ES",
-        "category": "Europe Health",
-        "score": 7,
+        "category": "Chronic Disease",
+        "score": 6,
         "examples": [
-          "How one San Antonio hospital is dealing with a hard-to-kill fungus - San Antonio Report",
-          "Doximity bets big on hospital adoption of enterprise AI as it ramps up tech spending - Fierce Healthcare",
-          "What Is Lifestyle Medicine? - HSS | Hospital for Special Surgery"
+          "Dr. Linda Liau awarded 2026 UCLA Younes Nazarian Medical Humanitarian Prize for brain cancer research and treatment - UCLA Health",
+          "Like it or not, AI psycho-oncology care is already happening. Urgently needed: An ethical framework Developers and mental health providers must share the same goal: Safe, equitable, trustworthy, and patient-centered care - The Cancer Letter",
+          "FDA Expands Clinical Trial Eligibility for Cancer Patients - oncologynewscentral.com"
         ]
       }
     ],
@@ -814,8 +814,8 @@
         "score": 75,
         "examples": [
           "University Honors Health Fellows Program to Expand Student Opportunity and Strengthen Tennessee’s Healthcare Workforce - University of Tennessee, Knoxville",
-          "DoD changes transitional health care eligibility for reservists following lawsuit - Federal News Network",
-          "Trump dismisses mental health concerns on USS Lincoln aircraft carrier - Al Jazeera"
+          "3 UC Davis Health researchers awarded state grants to advance health equity through precision medicine - UC Davis Health",
+          "3 UC Davis Health researchers awarded state grants to advance health equity through precision medicine - UC Davis Health"
         ]
       },
       {
@@ -825,8 +825,8 @@
         "score": 16,
         "examples": [
           "UConn’s Largest Medical School Class Yet Dons 117 New White Coats - UConn Today",
-          "News - Medical Officer of the Marine Corps Visits MCRD San Diego - DVIDS",
-          "Dr. Linda Liau awarded 2026 UCLA Younes Nazarian Medical Humanitarian Prize for brain cancer research and treatment - UCLA Health"
+          "Milwaukee VA Medical Center unveils new arts beautification effort with help from Brewers - VA.gov Home | Veterans Affairs",
+          "New medical students continue ʻImi Hoʻōla’s mission to serve Hawaiʻi - University of Hawaii System"
         ]
       },
       {
@@ -836,30 +836,8 @@
         "score": 15,
         "examples": [
           "University Honors Health Fellows Program to Expand Student Opportunity and Strengthen Tennessee’s Healthcare Workforce - University of Tennessee, Knoxville",
-          "States have tools to slow healthcare spending growth, new UCLA Health report finds - UCLA Health",
-          "Sentara's Epic EHR model targets MRSA infections early - Healthcare IT News"
-        ]
-      },
-      {
-        "trend": "mental",
-        "market_code": "SE",
-        "category": "Mental Health",
-        "score": 12,
-        "examples": [
-          "Trump dismisses mental health concerns on USS Lincoln aircraft carrier - Al Jazeera",
-          "Selena Gomez and her mother accused of fraud over their mental health company - NBC News",
-          "Trump dismisses mental health concerns on USS Lincoln aircraft carrier - Al Jazeera"
-        ]
-      },
-      {
-        "trend": "mental health",
-        "market_code": "SE",
-        "category": "Mental Health",
-        "score": 12,
-        "examples": [
-          "Trump dismisses mental health concerns on USS Lincoln aircraft carrier - Al Jazeera",
-          "Selena Gomez and her mother accused of fraud over their mental health company - NBC News",
-          "Trump dismisses mental health concerns on USS Lincoln aircraft carrier - Al Jazeera"
+          "Patients Wary of Governments, Companies Pushing AI as a Rural Healthcare Solution - KFF Health News",
+          "‘Hey, Siri. How do I draw blood?’ New AI medical tech is transforming healthcare. Are we ready? - NJ.com"
         ]
       },
       {
@@ -868,8 +846,8 @@
         "category": "Outbreaks",
         "score": 11,
         "examples": [
-          "NYC Health Department announces two more deaths in Upper East Side Legionnaires' outbreak - ABC7 New York",
-          "FDA in Mexico a month after linking Taylor Farms to cyclospora outbreak - The Washington Post",
+          "South Korea issues a malaria health alert - Outbreak News Today",
+          "South Korea issues a malaria health alert - Outbreak News Today",
           "2 more states added to cyclospora outbreak linked to lettuce - NewsNation"
         ]
       },
@@ -877,11 +855,44 @@
         "trend": "virus",
         "market_code": "SE",
         "category": "Outbreaks",
-        "score": 10,
+        "score": 11,
         "examples": [
-          "West Nile Virus Information - Andover, MA (.gov)",
-          "First human West Nile virus case confirmed in Yuba County this year - ABC10",
+          "West Nile virus found in Hyrum Dam mosquito samples - ABC4 Utah",
+          "New Jersey Reports First Case Of Zika Virus Since 2020 - newjersey.news12.com",
           "Yuba County confirms first human West Nile virus case of 2026 - FOX40"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "SE",
+        "category": "Mental Health",
+        "score": 9,
+        "examples": [
+          "Trump dismisses mental health concerns on USS Lincoln aircraft carrier - Al Jazeera",
+          "Trump dismisses mental health concerns on USS Lincoln aircraft carrier - Al Jazeera",
+          "ICYMI: Kelly Blasts Hegseth's Dismissiveness on Mental Health Crisis Aboard USS Lincoln, Calls for Sailors to Get Immediate Help - U.S. Senate (.gov)"
+        ]
+      },
+      {
+        "trend": "mental health",
+        "market_code": "SE",
+        "category": "Mental Health",
+        "score": 9,
+        "examples": [
+          "Trump dismisses mental health concerns on USS Lincoln aircraft carrier - Al Jazeera",
+          "Trump dismisses mental health concerns on USS Lincoln aircraft carrier - Al Jazeera",
+          "ICYMI: Kelly Blasts Hegseth's Dismissiveness on Mental Health Crisis Aboard USS Lincoln, Calls for Sailors to Get Immediate Help - U.S. Senate (.gov)"
+        ]
+      },
+      {
+        "trend": "health alert",
+        "market_code": "SE",
+        "category": "Europe Health",
+        "score": 8,
+        "examples": [
+          "DOH-Orange Issues Blue-Green Algae Health Alert for Lake Formosa (Pedestrian Bridge) - Florida Department of Health in Orange County (.gov)",
+          "South Korea issues a malaria health alert - Outbreak News Today",
+          "DOH-Orange Issues Blue-Green Algae Health Alert for Lake Formosa (Pedestrian Bridge) - Florida Department of Health in Orange County (.gov)"
         ]
       },
       {
@@ -890,9 +901,9 @@
         "category": "Outbreaks",
         "score": 8,
         "examples": [
-          "West Nile Virus Information - Andover, MA (.gov)",
-          "First human West Nile virus case confirmed in Yuba County this year - ABC10",
-          "Yuba County confirms first human West Nile virus case of 2026 - FOX40"
+          "West Nile virus found in Hyrum Dam mosquito samples - ABC4 Utah",
+          "Yuba County confirms first human West Nile virus case of 2026 - FOX40",
+          "West Nile Virus Information - Andover, MA (.gov)"
         ]
       },
       {
@@ -901,20 +912,9 @@
         "category": "Outbreaks",
         "score": 8,
         "examples": [
-          "West Nile Virus Information - Andover, MA (.gov)",
-          "First human West Nile virus case confirmed in Yuba County this year - ABC10",
-          "Yuba County confirms first human West Nile virus case of 2026 - FOX40"
-        ]
-      },
-      {
-        "trend": "cancer",
-        "market_code": "SE",
-        "category": "Chronic Disease",
-        "score": 7,
-        "examples": [
-          "Dr. Linda Liau awarded 2026 UCLA Younes Nazarian Medical Humanitarian Prize for brain cancer research and treatment - UCLA Health",
-          "MSTP student receives Kirkpatrick Award for cancer immunity research: CT Plus - UT Southwestern",
-          "Pennsylvania Department of Health Urges Residents to Watch for Skin Cancer Warning Signs - Franklin County Free Press"
+          "West Nile virus found in Hyrum Dam mosquito samples - ABC4 Utah",
+          "Yuba County confirms first human West Nile virus case of 2026 - FOX40",
+          "West Nile Virus Information - Andover, MA (.gov)"
         ]
       },
       {
@@ -923,20 +923,20 @@
         "category": "Europe Health",
         "score": 7,
         "examples": [
-          "The path to a breakthrough public health contract - Washington State Nurses Association - WSNA",
-          "Youth vaping remains critical public health crisis, health department warns - WAFB",
-          "In Idaho, public health officials are trying to curb the rat infestation — with a $250K fund - Idaho Capital Sun"
+          "Photo Gallery - Johns Hopkins Bloomberg School of Public Health",
+          "Trump’s Vaccine Order Will Harm Public Health - Progressive.org",
+          "The path to a breakthrough public health contract - Washington State Nurses Association - WSNA"
         ]
       },
       {
-        "trend": "hospital",
+        "trend": "cancer",
         "market_code": "SE",
-        "category": "Europe Health",
-        "score": 7,
+        "category": "Chronic Disease",
+        "score": 6,
         "examples": [
-          "How one San Antonio hospital is dealing with a hard-to-kill fungus - San Antonio Report",
-          "Doximity bets big on hospital adoption of enterprise AI as it ramps up tech spending - Fierce Healthcare",
-          "What Is Lifestyle Medicine? - HSS | Hospital for Special Surgery"
+          "Dr. Linda Liau awarded 2026 UCLA Younes Nazarian Medical Humanitarian Prize for brain cancer research and treatment - UCLA Health",
+          "Like it or not, AI psycho-oncology care is already happening. Urgently needed: An ethical framework Developers and mental health providers must share the same goal: Safe, equitable, trustworthy, and patient-centered care - The Cancer Letter",
+          "FDA Expands Clinical Trial Eligibility for Cancer Patients - oncologynewscentral.com"
         ]
       }
     ],
@@ -948,8 +948,8 @@
         "score": 75,
         "examples": [
           "University Honors Health Fellows Program to Expand Student Opportunity and Strengthen Tennessee’s Healthcare Workforce - University of Tennessee, Knoxville",
-          "DoD changes transitional health care eligibility for reservists following lawsuit - Federal News Network",
-          "Trump dismisses mental health concerns on USS Lincoln aircraft carrier - Al Jazeera"
+          "3 UC Davis Health researchers awarded state grants to advance health equity through precision medicine - UC Davis Health",
+          "3 UC Davis Health researchers awarded state grants to advance health equity through precision medicine - UC Davis Health"
         ]
       },
       {
@@ -959,8 +959,8 @@
         "score": 16,
         "examples": [
           "UConn’s Largest Medical School Class Yet Dons 117 New White Coats - UConn Today",
-          "News - Medical Officer of the Marine Corps Visits MCRD San Diego - DVIDS",
-          "Dr. Linda Liau awarded 2026 UCLA Younes Nazarian Medical Humanitarian Prize for brain cancer research and treatment - UCLA Health"
+          "Milwaukee VA Medical Center unveils new arts beautification effort with help from Brewers - VA.gov Home | Veterans Affairs",
+          "New medical students continue ʻImi Hoʻōla’s mission to serve Hawaiʻi - University of Hawaii System"
         ]
       },
       {
@@ -970,30 +970,8 @@
         "score": 15,
         "examples": [
           "University Honors Health Fellows Program to Expand Student Opportunity and Strengthen Tennessee’s Healthcare Workforce - University of Tennessee, Knoxville",
-          "States have tools to slow healthcare spending growth, new UCLA Health report finds - UCLA Health",
-          "Sentara's Epic EHR model targets MRSA infections early - Healthcare IT News"
-        ]
-      },
-      {
-        "trend": "mental",
-        "market_code": "NL",
-        "category": "Mental Health",
-        "score": 12,
-        "examples": [
-          "Trump dismisses mental health concerns on USS Lincoln aircraft carrier - Al Jazeera",
-          "Selena Gomez and her mother accused of fraud over their mental health company - NBC News",
-          "Trump dismisses mental health concerns on USS Lincoln aircraft carrier - Al Jazeera"
-        ]
-      },
-      {
-        "trend": "mental health",
-        "market_code": "NL",
-        "category": "Mental Health",
-        "score": 12,
-        "examples": [
-          "Trump dismisses mental health concerns on USS Lincoln aircraft carrier - Al Jazeera",
-          "Selena Gomez and her mother accused of fraud over their mental health company - NBC News",
-          "Trump dismisses mental health concerns on USS Lincoln aircraft carrier - Al Jazeera"
+          "Patients Wary of Governments, Companies Pushing AI as a Rural Healthcare Solution - KFF Health News",
+          "‘Hey, Siri. How do I draw blood?’ New AI medical tech is transforming healthcare. Are we ready? - NJ.com"
         ]
       },
       {
@@ -1002,8 +980,8 @@
         "category": "Outbreaks",
         "score": 11,
         "examples": [
-          "NYC Health Department announces two more deaths in Upper East Side Legionnaires' outbreak - ABC7 New York",
-          "FDA in Mexico a month after linking Taylor Farms to cyclospora outbreak - The Washington Post",
+          "South Korea issues a malaria health alert - Outbreak News Today",
+          "South Korea issues a malaria health alert - Outbreak News Today",
           "2 more states added to cyclospora outbreak linked to lettuce - NewsNation"
         ]
       },
@@ -1011,11 +989,44 @@
         "trend": "virus",
         "market_code": "NL",
         "category": "Outbreaks",
-        "score": 10,
+        "score": 11,
         "examples": [
-          "West Nile Virus Information - Andover, MA (.gov)",
-          "First human West Nile virus case confirmed in Yuba County this year - ABC10",
+          "West Nile virus found in Hyrum Dam mosquito samples - ABC4 Utah",
+          "New Jersey Reports First Case Of Zika Virus Since 2020 - newjersey.news12.com",
           "Yuba County confirms first human West Nile virus case of 2026 - FOX40"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "NL",
+        "category": "Mental Health",
+        "score": 9,
+        "examples": [
+          "Trump dismisses mental health concerns on USS Lincoln aircraft carrier - Al Jazeera",
+          "Trump dismisses mental health concerns on USS Lincoln aircraft carrier - Al Jazeera",
+          "ICYMI: Kelly Blasts Hegseth's Dismissiveness on Mental Health Crisis Aboard USS Lincoln, Calls for Sailors to Get Immediate Help - U.S. Senate (.gov)"
+        ]
+      },
+      {
+        "trend": "mental health",
+        "market_code": "NL",
+        "category": "Mental Health",
+        "score": 9,
+        "examples": [
+          "Trump dismisses mental health concerns on USS Lincoln aircraft carrier - Al Jazeera",
+          "Trump dismisses mental health concerns on USS Lincoln aircraft carrier - Al Jazeera",
+          "ICYMI: Kelly Blasts Hegseth's Dismissiveness on Mental Health Crisis Aboard USS Lincoln, Calls for Sailors to Get Immediate Help - U.S. Senate (.gov)"
+        ]
+      },
+      {
+        "trend": "health alert",
+        "market_code": "NL",
+        "category": "Europe Health",
+        "score": 8,
+        "examples": [
+          "DOH-Orange Issues Blue-Green Algae Health Alert for Lake Formosa (Pedestrian Bridge) - Florida Department of Health in Orange County (.gov)",
+          "South Korea issues a malaria health alert - Outbreak News Today",
+          "DOH-Orange Issues Blue-Green Algae Health Alert for Lake Formosa (Pedestrian Bridge) - Florida Department of Health in Orange County (.gov)"
         ]
       },
       {
@@ -1024,9 +1035,9 @@
         "category": "Outbreaks",
         "score": 8,
         "examples": [
-          "West Nile Virus Information - Andover, MA (.gov)",
-          "First human West Nile virus case confirmed in Yuba County this year - ABC10",
-          "Yuba County confirms first human West Nile virus case of 2026 - FOX40"
+          "West Nile virus found in Hyrum Dam mosquito samples - ABC4 Utah",
+          "Yuba County confirms first human West Nile virus case of 2026 - FOX40",
+          "West Nile Virus Information - Andover, MA (.gov)"
         ]
       },
       {
@@ -1035,20 +1046,9 @@
         "category": "Outbreaks",
         "score": 8,
         "examples": [
-          "West Nile Virus Information - Andover, MA (.gov)",
-          "First human West Nile virus case confirmed in Yuba County this year - ABC10",
-          "Yuba County confirms first human West Nile virus case of 2026 - FOX40"
-        ]
-      },
-      {
-        "trend": "cancer",
-        "market_code": "NL",
-        "category": "Chronic Disease",
-        "score": 7,
-        "examples": [
-          "Dr. Linda Liau awarded 2026 UCLA Younes Nazarian Medical Humanitarian Prize for brain cancer research and treatment - UCLA Health",
-          "MSTP student receives Kirkpatrick Award for cancer immunity research: CT Plus - UT Southwestern",
-          "Pennsylvania Department of Health Urges Residents to Watch for Skin Cancer Warning Signs - Franklin County Free Press"
+          "West Nile virus found in Hyrum Dam mosquito samples - ABC4 Utah",
+          "Yuba County confirms first human West Nile virus case of 2026 - FOX40",
+          "West Nile Virus Information - Andover, MA (.gov)"
         ]
       },
       {
@@ -1057,20 +1057,20 @@
         "category": "Europe Health",
         "score": 7,
         "examples": [
-          "The path to a breakthrough public health contract - Washington State Nurses Association - WSNA",
-          "Youth vaping remains critical public health crisis, health department warns - WAFB",
-          "In Idaho, public health officials are trying to curb the rat infestation — with a $250K fund - Idaho Capital Sun"
+          "Photo Gallery - Johns Hopkins Bloomberg School of Public Health",
+          "Trump’s Vaccine Order Will Harm Public Health - Progressive.org",
+          "The path to a breakthrough public health contract - Washington State Nurses Association - WSNA"
         ]
       },
       {
-        "trend": "hospital",
+        "trend": "cancer",
         "market_code": "NL",
-        "category": "Europe Health",
-        "score": 7,
+        "category": "Chronic Disease",
+        "score": 6,
         "examples": [
-          "How one San Antonio hospital is dealing with a hard-to-kill fungus - San Antonio Report",
-          "Doximity bets big on hospital adoption of enterprise AI as it ramps up tech spending - Fierce Healthcare",
-          "What Is Lifestyle Medicine? - HSS | Hospital for Special Surgery"
+          "Dr. Linda Liau awarded 2026 UCLA Younes Nazarian Medical Humanitarian Prize for brain cancer research and treatment - UCLA Health",
+          "Like it or not, AI psycho-oncology care is already happening. Urgently needed: An ethical framework Developers and mental health providers must share the same goal: Safe, equitable, trustworthy, and patient-centered care - The Cancer Letter",
+          "FDA Expands Clinical Trial Eligibility for Cancer Patients - oncologynewscentral.com"
         ]
       }
     ],
@@ -1082,8 +1082,8 @@
         "score": 75,
         "examples": [
           "University Honors Health Fellows Program to Expand Student Opportunity and Strengthen Tennessee’s Healthcare Workforce - University of Tennessee, Knoxville",
-          "DoD changes transitional health care eligibility for reservists following lawsuit - Federal News Network",
-          "Trump dismisses mental health concerns on USS Lincoln aircraft carrier - Al Jazeera"
+          "3 UC Davis Health researchers awarded state grants to advance health equity through precision medicine - UC Davis Health",
+          "3 UC Davis Health researchers awarded state grants to advance health equity through precision medicine - UC Davis Health"
         ]
       },
       {
@@ -1093,8 +1093,8 @@
         "score": 16,
         "examples": [
           "UConn’s Largest Medical School Class Yet Dons 117 New White Coats - UConn Today",
-          "News - Medical Officer of the Marine Corps Visits MCRD San Diego - DVIDS",
-          "Dr. Linda Liau awarded 2026 UCLA Younes Nazarian Medical Humanitarian Prize for brain cancer research and treatment - UCLA Health"
+          "Milwaukee VA Medical Center unveils new arts beautification effort with help from Brewers - VA.gov Home | Veterans Affairs",
+          "New medical students continue ʻImi Hoʻōla’s mission to serve Hawaiʻi - University of Hawaii System"
         ]
       },
       {
@@ -1104,30 +1104,8 @@
         "score": 15,
         "examples": [
           "University Honors Health Fellows Program to Expand Student Opportunity and Strengthen Tennessee’s Healthcare Workforce - University of Tennessee, Knoxville",
-          "States have tools to slow healthcare spending growth, new UCLA Health report finds - UCLA Health",
-          "Sentara's Epic EHR model targets MRSA infections early - Healthcare IT News"
-        ]
-      },
-      {
-        "trend": "mental",
-        "market_code": "FI",
-        "category": "Mental Health",
-        "score": 12,
-        "examples": [
-          "Trump dismisses mental health concerns on USS Lincoln aircraft carrier - Al Jazeera",
-          "Selena Gomez and her mother accused of fraud over their mental health company - NBC News",
-          "Trump dismisses mental health concerns on USS Lincoln aircraft carrier - Al Jazeera"
-        ]
-      },
-      {
-        "trend": "mental health",
-        "market_code": "FI",
-        "category": "Mental Health",
-        "score": 12,
-        "examples": [
-          "Trump dismisses mental health concerns on USS Lincoln aircraft carrier - Al Jazeera",
-          "Selena Gomez and her mother accused of fraud over their mental health company - NBC News",
-          "Trump dismisses mental health concerns on USS Lincoln aircraft carrier - Al Jazeera"
+          "Patients Wary of Governments, Companies Pushing AI as a Rural Healthcare Solution - KFF Health News",
+          "‘Hey, Siri. How do I draw blood?’ New AI medical tech is transforming healthcare. Are we ready? - NJ.com"
         ]
       },
       {
@@ -1136,8 +1114,8 @@
         "category": "Outbreaks",
         "score": 11,
         "examples": [
-          "NYC Health Department announces two more deaths in Upper East Side Legionnaires' outbreak - ABC7 New York",
-          "FDA in Mexico a month after linking Taylor Farms to cyclospora outbreak - The Washington Post",
+          "South Korea issues a malaria health alert - Outbreak News Today",
+          "South Korea issues a malaria health alert - Outbreak News Today",
           "2 more states added to cyclospora outbreak linked to lettuce - NewsNation"
         ]
       },
@@ -1145,11 +1123,44 @@
         "trend": "virus",
         "market_code": "FI",
         "category": "Outbreaks",
-        "score": 10,
+        "score": 11,
         "examples": [
-          "West Nile Virus Information - Andover, MA (.gov)",
-          "First human West Nile virus case confirmed in Yuba County this year - ABC10",
+          "West Nile virus found in Hyrum Dam mosquito samples - ABC4 Utah",
+          "New Jersey Reports First Case Of Zika Virus Since 2020 - newjersey.news12.com",
           "Yuba County confirms first human West Nile virus case of 2026 - FOX40"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "FI",
+        "category": "Mental Health",
+        "score": 9,
+        "examples": [
+          "Trump dismisses mental health concerns on USS Lincoln aircraft carrier - Al Jazeera",
+          "Trump dismisses mental health concerns on USS Lincoln aircraft carrier - Al Jazeera",
+          "ICYMI: Kelly Blasts Hegseth's Dismissiveness on Mental Health Crisis Aboard USS Lincoln, Calls for Sailors to Get Immediate Help - U.S. Senate (.gov)"
+        ]
+      },
+      {
+        "trend": "mental health",
+        "market_code": "FI",
+        "category": "Mental Health",
+        "score": 9,
+        "examples": [
+          "Trump dismisses mental health concerns on USS Lincoln aircraft carrier - Al Jazeera",
+          "Trump dismisses mental health concerns on USS Lincoln aircraft carrier - Al Jazeera",
+          "ICYMI: Kelly Blasts Hegseth's Dismissiveness on Mental Health Crisis Aboard USS Lincoln, Calls for Sailors to Get Immediate Help - U.S. Senate (.gov)"
+        ]
+      },
+      {
+        "trend": "health alert",
+        "market_code": "FI",
+        "category": "Europe Health",
+        "score": 8,
+        "examples": [
+          "DOH-Orange Issues Blue-Green Algae Health Alert for Lake Formosa (Pedestrian Bridge) - Florida Department of Health in Orange County (.gov)",
+          "South Korea issues a malaria health alert - Outbreak News Today",
+          "DOH-Orange Issues Blue-Green Algae Health Alert for Lake Formosa (Pedestrian Bridge) - Florida Department of Health in Orange County (.gov)"
         ]
       },
       {
@@ -1158,9 +1169,9 @@
         "category": "Outbreaks",
         "score": 8,
         "examples": [
-          "West Nile Virus Information - Andover, MA (.gov)",
-          "First human West Nile virus case confirmed in Yuba County this year - ABC10",
-          "Yuba County confirms first human West Nile virus case of 2026 - FOX40"
+          "West Nile virus found in Hyrum Dam mosquito samples - ABC4 Utah",
+          "Yuba County confirms first human West Nile virus case of 2026 - FOX40",
+          "West Nile Virus Information - Andover, MA (.gov)"
         ]
       },
       {
@@ -1169,20 +1180,9 @@
         "category": "Outbreaks",
         "score": 8,
         "examples": [
-          "West Nile Virus Information - Andover, MA (.gov)",
-          "First human West Nile virus case confirmed in Yuba County this year - ABC10",
-          "Yuba County confirms first human West Nile virus case of 2026 - FOX40"
-        ]
-      },
-      {
-        "trend": "cancer",
-        "market_code": "FI",
-        "category": "Chronic Disease",
-        "score": 7,
-        "examples": [
-          "Dr. Linda Liau awarded 2026 UCLA Younes Nazarian Medical Humanitarian Prize for brain cancer research and treatment - UCLA Health",
-          "MSTP student receives Kirkpatrick Award for cancer immunity research: CT Plus - UT Southwestern",
-          "Pennsylvania Department of Health Urges Residents to Watch for Skin Cancer Warning Signs - Franklin County Free Press"
+          "West Nile virus found in Hyrum Dam mosquito samples - ABC4 Utah",
+          "Yuba County confirms first human West Nile virus case of 2026 - FOX40",
+          "West Nile Virus Information - Andover, MA (.gov)"
         ]
       },
       {
@@ -1191,20 +1191,20 @@
         "category": "Europe Health",
         "score": 7,
         "examples": [
-          "The path to a breakthrough public health contract - Washington State Nurses Association - WSNA",
-          "Youth vaping remains critical public health crisis, health department warns - WAFB",
-          "In Idaho, public health officials are trying to curb the rat infestation — with a $250K fund - Idaho Capital Sun"
+          "Photo Gallery - Johns Hopkins Bloomberg School of Public Health",
+          "Trump’s Vaccine Order Will Harm Public Health - Progressive.org",
+          "The path to a breakthrough public health contract - Washington State Nurses Association - WSNA"
         ]
       },
       {
-        "trend": "hospital",
+        "trend": "cancer",
         "market_code": "FI",
-        "category": "Europe Health",
-        "score": 7,
+        "category": "Chronic Disease",
+        "score": 6,
         "examples": [
-          "How one San Antonio hospital is dealing with a hard-to-kill fungus - San Antonio Report",
-          "Doximity bets big on hospital adoption of enterprise AI as it ramps up tech spending - Fierce Healthcare",
-          "What Is Lifestyle Medicine? - HSS | Hospital for Special Surgery"
+          "Dr. Linda Liau awarded 2026 UCLA Younes Nazarian Medical Humanitarian Prize for brain cancer research and treatment - UCLA Health",
+          "Like it or not, AI psycho-oncology care is already happening. Urgently needed: An ethical framework Developers and mental health providers must share the same goal: Safe, equitable, trustworthy, and patient-centered care - The Cancer Letter",
+          "FDA Expands Clinical Trial Eligibility for Cancer Patients - oncologynewscentral.com"
         ]
       }
     ],
@@ -1216,8 +1216,8 @@
         "score": 75,
         "examples": [
           "University Honors Health Fellows Program to Expand Student Opportunity and Strengthen Tennessee’s Healthcare Workforce - University of Tennessee, Knoxville",
-          "DoD changes transitional health care eligibility for reservists following lawsuit - Federal News Network",
-          "Trump dismisses mental health concerns on USS Lincoln aircraft carrier - Al Jazeera"
+          "3 UC Davis Health researchers awarded state grants to advance health equity through precision medicine - UC Davis Health",
+          "3 UC Davis Health researchers awarded state grants to advance health equity through precision medicine - UC Davis Health"
         ]
       },
       {
@@ -1227,8 +1227,8 @@
         "score": 16,
         "examples": [
           "UConn’s Largest Medical School Class Yet Dons 117 New White Coats - UConn Today",
-          "News - Medical Officer of the Marine Corps Visits MCRD San Diego - DVIDS",
-          "Dr. Linda Liau awarded 2026 UCLA Younes Nazarian Medical Humanitarian Prize for brain cancer research and treatment - UCLA Health"
+          "Milwaukee VA Medical Center unveils new arts beautification effort with help from Brewers - VA.gov Home | Veterans Affairs",
+          "New medical students continue ʻImi Hoʻōla’s mission to serve Hawaiʻi - University of Hawaii System"
         ]
       },
       {
@@ -1238,30 +1238,8 @@
         "score": 15,
         "examples": [
           "University Honors Health Fellows Program to Expand Student Opportunity and Strengthen Tennessee’s Healthcare Workforce - University of Tennessee, Knoxville",
-          "States have tools to slow healthcare spending growth, new UCLA Health report finds - UCLA Health",
-          "Sentara's Epic EHR model targets MRSA infections early - Healthcare IT News"
-        ]
-      },
-      {
-        "trend": "mental",
-        "market_code": "NO",
-        "category": "Mental Health",
-        "score": 12,
-        "examples": [
-          "Trump dismisses mental health concerns on USS Lincoln aircraft carrier - Al Jazeera",
-          "Selena Gomez and her mother accused of fraud over their mental health company - NBC News",
-          "Trump dismisses mental health concerns on USS Lincoln aircraft carrier - Al Jazeera"
-        ]
-      },
-      {
-        "trend": "mental health",
-        "market_code": "NO",
-        "category": "Mental Health",
-        "score": 12,
-        "examples": [
-          "Trump dismisses mental health concerns on USS Lincoln aircraft carrier - Al Jazeera",
-          "Selena Gomez and her mother accused of fraud over their mental health company - NBC News",
-          "Trump dismisses mental health concerns on USS Lincoln aircraft carrier - Al Jazeera"
+          "Patients Wary of Governments, Companies Pushing AI as a Rural Healthcare Solution - KFF Health News",
+          "‘Hey, Siri. How do I draw blood?’ New AI medical tech is transforming healthcare. Are we ready? - NJ.com"
         ]
       },
       {
@@ -1270,8 +1248,8 @@
         "category": "Outbreaks",
         "score": 11,
         "examples": [
-          "NYC Health Department announces two more deaths in Upper East Side Legionnaires' outbreak - ABC7 New York",
-          "FDA in Mexico a month after linking Taylor Farms to cyclospora outbreak - The Washington Post",
+          "South Korea issues a malaria health alert - Outbreak News Today",
+          "South Korea issues a malaria health alert - Outbreak News Today",
           "2 more states added to cyclospora outbreak linked to lettuce - NewsNation"
         ]
       },
@@ -1279,11 +1257,44 @@
         "trend": "virus",
         "market_code": "NO",
         "category": "Outbreaks",
-        "score": 10,
+        "score": 11,
         "examples": [
-          "West Nile Virus Information - Andover, MA (.gov)",
-          "First human West Nile virus case confirmed in Yuba County this year - ABC10",
+          "West Nile virus found in Hyrum Dam mosquito samples - ABC4 Utah",
+          "New Jersey Reports First Case Of Zika Virus Since 2020 - newjersey.news12.com",
           "Yuba County confirms first human West Nile virus case of 2026 - FOX40"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "NO",
+        "category": "Mental Health",
+        "score": 9,
+        "examples": [
+          "Trump dismisses mental health concerns on USS Lincoln aircraft carrier - Al Jazeera",
+          "Trump dismisses mental health concerns on USS Lincoln aircraft carrier - Al Jazeera",
+          "ICYMI: Kelly Blasts Hegseth's Dismissiveness on Mental Health Crisis Aboard USS Lincoln, Calls for Sailors to Get Immediate Help - U.S. Senate (.gov)"
+        ]
+      },
+      {
+        "trend": "mental health",
+        "market_code": "NO",
+        "category": "Mental Health",
+        "score": 9,
+        "examples": [
+          "Trump dismisses mental health concerns on USS Lincoln aircraft carrier - Al Jazeera",
+          "Trump dismisses mental health concerns on USS Lincoln aircraft carrier - Al Jazeera",
+          "ICYMI: Kelly Blasts Hegseth's Dismissiveness on Mental Health Crisis Aboard USS Lincoln, Calls for Sailors to Get Immediate Help - U.S. Senate (.gov)"
+        ]
+      },
+      {
+        "trend": "health alert",
+        "market_code": "NO",
+        "category": "Europe Health",
+        "score": 8,
+        "examples": [
+          "DOH-Orange Issues Blue-Green Algae Health Alert for Lake Formosa (Pedestrian Bridge) - Florida Department of Health in Orange County (.gov)",
+          "South Korea issues a malaria health alert - Outbreak News Today",
+          "DOH-Orange Issues Blue-Green Algae Health Alert for Lake Formosa (Pedestrian Bridge) - Florida Department of Health in Orange County (.gov)"
         ]
       },
       {
@@ -1292,9 +1303,9 @@
         "category": "Outbreaks",
         "score": 8,
         "examples": [
-          "West Nile Virus Information - Andover, MA (.gov)",
-          "First human West Nile virus case confirmed in Yuba County this year - ABC10",
-          "Yuba County confirms first human West Nile virus case of 2026 - FOX40"
+          "West Nile virus found in Hyrum Dam mosquito samples - ABC4 Utah",
+          "Yuba County confirms first human West Nile virus case of 2026 - FOX40",
+          "West Nile Virus Information - Andover, MA (.gov)"
         ]
       },
       {
@@ -1303,20 +1314,9 @@
         "category": "Outbreaks",
         "score": 8,
         "examples": [
-          "West Nile Virus Information - Andover, MA (.gov)",
-          "First human West Nile virus case confirmed in Yuba County this year - ABC10",
-          "Yuba County confirms first human West Nile virus case of 2026 - FOX40"
-        ]
-      },
-      {
-        "trend": "cancer",
-        "market_code": "NO",
-        "category": "Chronic Disease",
-        "score": 7,
-        "examples": [
-          "Dr. Linda Liau awarded 2026 UCLA Younes Nazarian Medical Humanitarian Prize for brain cancer research and treatment - UCLA Health",
-          "MSTP student receives Kirkpatrick Award for cancer immunity research: CT Plus - UT Southwestern",
-          "Pennsylvania Department of Health Urges Residents to Watch for Skin Cancer Warning Signs - Franklin County Free Press"
+          "West Nile virus found in Hyrum Dam mosquito samples - ABC4 Utah",
+          "Yuba County confirms first human West Nile virus case of 2026 - FOX40",
+          "West Nile Virus Information - Andover, MA (.gov)"
         ]
       },
       {
@@ -1325,20 +1325,20 @@
         "category": "Europe Health",
         "score": 7,
         "examples": [
-          "The path to a breakthrough public health contract - Washington State Nurses Association - WSNA",
-          "Youth vaping remains critical public health crisis, health department warns - WAFB",
-          "In Idaho, public health officials are trying to curb the rat infestation — with a $250K fund - Idaho Capital Sun"
+          "Photo Gallery - Johns Hopkins Bloomberg School of Public Health",
+          "Trump’s Vaccine Order Will Harm Public Health - Progressive.org",
+          "The path to a breakthrough public health contract - Washington State Nurses Association - WSNA"
         ]
       },
       {
-        "trend": "hospital",
+        "trend": "cancer",
         "market_code": "NO",
-        "category": "Europe Health",
-        "score": 7,
+        "category": "Chronic Disease",
+        "score": 6,
         "examples": [
-          "How one San Antonio hospital is dealing with a hard-to-kill fungus - San Antonio Report",
-          "Doximity bets big on hospital adoption of enterprise AI as it ramps up tech spending - Fierce Healthcare",
-          "What Is Lifestyle Medicine? - HSS | Hospital for Special Surgery"
+          "Dr. Linda Liau awarded 2026 UCLA Younes Nazarian Medical Humanitarian Prize for brain cancer research and treatment - UCLA Health",
+          "Like it or not, AI psycho-oncology care is already happening. Urgently needed: An ethical framework Developers and mental health providers must share the same goal: Safe, equitable, trustworthy, and patient-centered care - The Cancer Letter",
+          "FDA Expands Clinical Trial Eligibility for Cancer Patients - oncologynewscentral.com"
         ]
       }
     ],
@@ -1350,8 +1350,8 @@
         "score": 75,
         "examples": [
           "University Honors Health Fellows Program to Expand Student Opportunity and Strengthen Tennessee’s Healthcare Workforce - University of Tennessee, Knoxville",
-          "DoD changes transitional health care eligibility for reservists following lawsuit - Federal News Network",
-          "Trump dismisses mental health concerns on USS Lincoln aircraft carrier - Al Jazeera"
+          "3 UC Davis Health researchers awarded state grants to advance health equity through precision medicine - UC Davis Health",
+          "3 UC Davis Health researchers awarded state grants to advance health equity through precision medicine - UC Davis Health"
         ]
       },
       {
@@ -1361,8 +1361,8 @@
         "score": 16,
         "examples": [
           "UConn’s Largest Medical School Class Yet Dons 117 New White Coats - UConn Today",
-          "News - Medical Officer of the Marine Corps Visits MCRD San Diego - DVIDS",
-          "Dr. Linda Liau awarded 2026 UCLA Younes Nazarian Medical Humanitarian Prize for brain cancer research and treatment - UCLA Health"
+          "Milwaukee VA Medical Center unveils new arts beautification effort with help from Brewers - VA.gov Home | Veterans Affairs",
+          "New medical students continue ʻImi Hoʻōla’s mission to serve Hawaiʻi - University of Hawaii System"
         ]
       },
       {
@@ -1372,30 +1372,8 @@
         "score": 15,
         "examples": [
           "University Honors Health Fellows Program to Expand Student Opportunity and Strengthen Tennessee’s Healthcare Workforce - University of Tennessee, Knoxville",
-          "States have tools to slow healthcare spending growth, new UCLA Health report finds - UCLA Health",
-          "Sentara's Epic EHR model targets MRSA infections early - Healthcare IT News"
-        ]
-      },
-      {
-        "trend": "mental",
-        "market_code": "JP",
-        "category": "Mental Health",
-        "score": 12,
-        "examples": [
-          "Trump dismisses mental health concerns on USS Lincoln aircraft carrier - Al Jazeera",
-          "Selena Gomez and her mother accused of fraud over their mental health company - NBC News",
-          "Trump dismisses mental health concerns on USS Lincoln aircraft carrier - Al Jazeera"
-        ]
-      },
-      {
-        "trend": "mental health",
-        "market_code": "JP",
-        "category": "Mental Health",
-        "score": 12,
-        "examples": [
-          "Trump dismisses mental health concerns on USS Lincoln aircraft carrier - Al Jazeera",
-          "Selena Gomez and her mother accused of fraud over their mental health company - NBC News",
-          "Trump dismisses mental health concerns on USS Lincoln aircraft carrier - Al Jazeera"
+          "Patients Wary of Governments, Companies Pushing AI as a Rural Healthcare Solution - KFF Health News",
+          "‘Hey, Siri. How do I draw blood?’ New AI medical tech is transforming healthcare. Are we ready? - NJ.com"
         ]
       },
       {
@@ -1404,8 +1382,8 @@
         "category": "Outbreaks",
         "score": 11,
         "examples": [
-          "NYC Health Department announces two more deaths in Upper East Side Legionnaires' outbreak - ABC7 New York",
-          "FDA in Mexico a month after linking Taylor Farms to cyclospora outbreak - The Washington Post",
+          "South Korea issues a malaria health alert - Outbreak News Today",
+          "South Korea issues a malaria health alert - Outbreak News Today",
           "2 more states added to cyclospora outbreak linked to lettuce - NewsNation"
         ]
       },
@@ -1413,11 +1391,44 @@
         "trend": "virus",
         "market_code": "JP",
         "category": "Outbreaks",
-        "score": 10,
+        "score": 11,
         "examples": [
-          "West Nile Virus Information - Andover, MA (.gov)",
-          "First human West Nile virus case confirmed in Yuba County this year - ABC10",
+          "West Nile virus found in Hyrum Dam mosquito samples - ABC4 Utah",
+          "New Jersey Reports First Case Of Zika Virus Since 2020 - newjersey.news12.com",
           "Yuba County confirms first human West Nile virus case of 2026 - FOX40"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "JP",
+        "category": "Mental Health",
+        "score": 9,
+        "examples": [
+          "Trump dismisses mental health concerns on USS Lincoln aircraft carrier - Al Jazeera",
+          "Trump dismisses mental health concerns on USS Lincoln aircraft carrier - Al Jazeera",
+          "ICYMI: Kelly Blasts Hegseth's Dismissiveness on Mental Health Crisis Aboard USS Lincoln, Calls for Sailors to Get Immediate Help - U.S. Senate (.gov)"
+        ]
+      },
+      {
+        "trend": "mental health",
+        "market_code": "JP",
+        "category": "Mental Health",
+        "score": 9,
+        "examples": [
+          "Trump dismisses mental health concerns on USS Lincoln aircraft carrier - Al Jazeera",
+          "Trump dismisses mental health concerns on USS Lincoln aircraft carrier - Al Jazeera",
+          "ICYMI: Kelly Blasts Hegseth's Dismissiveness on Mental Health Crisis Aboard USS Lincoln, Calls for Sailors to Get Immediate Help - U.S. Senate (.gov)"
+        ]
+      },
+      {
+        "trend": "health alert",
+        "market_code": "JP",
+        "category": "Asia Health",
+        "score": 8,
+        "examples": [
+          "DOH-Orange Issues Blue-Green Algae Health Alert for Lake Formosa (Pedestrian Bridge) - Florida Department of Health in Orange County (.gov)",
+          "South Korea issues a malaria health alert - Outbreak News Today",
+          "DOH-Orange Issues Blue-Green Algae Health Alert for Lake Formosa (Pedestrian Bridge) - Florida Department of Health in Orange County (.gov)"
         ]
       },
       {
@@ -1426,9 +1437,9 @@
         "category": "Outbreaks",
         "score": 8,
         "examples": [
-          "West Nile Virus Information - Andover, MA (.gov)",
-          "First human West Nile virus case confirmed in Yuba County this year - ABC10",
-          "Yuba County confirms first human West Nile virus case of 2026 - FOX40"
+          "West Nile virus found in Hyrum Dam mosquito samples - ABC4 Utah",
+          "Yuba County confirms first human West Nile virus case of 2026 - FOX40",
+          "West Nile Virus Information - Andover, MA (.gov)"
         ]
       },
       {
@@ -1437,20 +1448,9 @@
         "category": "Outbreaks",
         "score": 8,
         "examples": [
-          "West Nile Virus Information - Andover, MA (.gov)",
-          "First human West Nile virus case confirmed in Yuba County this year - ABC10",
-          "Yuba County confirms first human West Nile virus case of 2026 - FOX40"
-        ]
-      },
-      {
-        "trend": "cancer",
-        "market_code": "JP",
-        "category": "Chronic Disease",
-        "score": 7,
-        "examples": [
-          "Dr. Linda Liau awarded 2026 UCLA Younes Nazarian Medical Humanitarian Prize for brain cancer research and treatment - UCLA Health",
-          "MSTP student receives Kirkpatrick Award for cancer immunity research: CT Plus - UT Southwestern",
-          "Pennsylvania Department of Health Urges Residents to Watch for Skin Cancer Warning Signs - Franklin County Free Press"
+          "West Nile virus found in Hyrum Dam mosquito samples - ABC4 Utah",
+          "Yuba County confirms first human West Nile virus case of 2026 - FOX40",
+          "West Nile Virus Information - Andover, MA (.gov)"
         ]
       },
       {
@@ -1459,20 +1459,20 @@
         "category": "Asia Health",
         "score": 7,
         "examples": [
-          "The path to a breakthrough public health contract - Washington State Nurses Association - WSNA",
-          "Youth vaping remains critical public health crisis, health department warns - WAFB",
-          "In Idaho, public health officials are trying to curb the rat infestation — with a $250K fund - Idaho Capital Sun"
+          "Photo Gallery - Johns Hopkins Bloomberg School of Public Health",
+          "Trump’s Vaccine Order Will Harm Public Health - Progressive.org",
+          "The path to a breakthrough public health contract - Washington State Nurses Association - WSNA"
         ]
       },
       {
-        "trend": "hospital",
+        "trend": "cancer",
         "market_code": "JP",
-        "category": "Asia Health",
-        "score": 7,
+        "category": "Chronic Disease",
+        "score": 6,
         "examples": [
-          "How one San Antonio hospital is dealing with a hard-to-kill fungus - San Antonio Report",
-          "Doximity bets big on hospital adoption of enterprise AI as it ramps up tech spending - Fierce Healthcare",
-          "What Is Lifestyle Medicine? - HSS | Hospital for Special Surgery"
+          "Dr. Linda Liau awarded 2026 UCLA Younes Nazarian Medical Humanitarian Prize for brain cancer research and treatment - UCLA Health",
+          "Like it or not, AI psycho-oncology care is already happening. Urgently needed: An ethical framework Developers and mental health providers must share the same goal: Safe, equitable, trustworthy, and patient-centered care - The Cancer Letter",
+          "FDA Expands Clinical Trial Eligibility for Cancer Patients - oncologynewscentral.com"
         ]
       }
     ],
@@ -1484,8 +1484,8 @@
         "score": 75,
         "examples": [
           "University Honors Health Fellows Program to Expand Student Opportunity and Strengthen Tennessee’s Healthcare Workforce - University of Tennessee, Knoxville",
-          "DoD changes transitional health care eligibility for reservists following lawsuit - Federal News Network",
-          "Trump dismisses mental health concerns on USS Lincoln aircraft carrier - Al Jazeera"
+          "3 UC Davis Health researchers awarded state grants to advance health equity through precision medicine - UC Davis Health",
+          "3 UC Davis Health researchers awarded state grants to advance health equity through precision medicine - UC Davis Health"
         ]
       },
       {
@@ -1495,8 +1495,8 @@
         "score": 16,
         "examples": [
           "UConn’s Largest Medical School Class Yet Dons 117 New White Coats - UConn Today",
-          "News - Medical Officer of the Marine Corps Visits MCRD San Diego - DVIDS",
-          "Dr. Linda Liau awarded 2026 UCLA Younes Nazarian Medical Humanitarian Prize for brain cancer research and treatment - UCLA Health"
+          "Milwaukee VA Medical Center unveils new arts beautification effort with help from Brewers - VA.gov Home | Veterans Affairs",
+          "New medical students continue ʻImi Hoʻōla’s mission to serve Hawaiʻi - University of Hawaii System"
         ]
       },
       {
@@ -1506,30 +1506,8 @@
         "score": 15,
         "examples": [
           "University Honors Health Fellows Program to Expand Student Opportunity and Strengthen Tennessee’s Healthcare Workforce - University of Tennessee, Knoxville",
-          "States have tools to slow healthcare spending growth, new UCLA Health report finds - UCLA Health",
-          "Sentara's Epic EHR model targets MRSA infections early - Healthcare IT News"
-        ]
-      },
-      {
-        "trend": "mental",
-        "market_code": "CN",
-        "category": "Mental Health",
-        "score": 12,
-        "examples": [
-          "Trump dismisses mental health concerns on USS Lincoln aircraft carrier - Al Jazeera",
-          "Selena Gomez and her mother accused of fraud over their mental health company - NBC News",
-          "Trump dismisses mental health concerns on USS Lincoln aircraft carrier - Al Jazeera"
-        ]
-      },
-      {
-        "trend": "mental health",
-        "market_code": "CN",
-        "category": "Mental Health",
-        "score": 12,
-        "examples": [
-          "Trump dismisses mental health concerns on USS Lincoln aircraft carrier - Al Jazeera",
-          "Selena Gomez and her mother accused of fraud over their mental health company - NBC News",
-          "Trump dismisses mental health concerns on USS Lincoln aircraft carrier - Al Jazeera"
+          "Patients Wary of Governments, Companies Pushing AI as a Rural Healthcare Solution - KFF Health News",
+          "‘Hey, Siri. How do I draw blood?’ New AI medical tech is transforming healthcare. Are we ready? - NJ.com"
         ]
       },
       {
@@ -1538,8 +1516,8 @@
         "category": "Outbreaks",
         "score": 11,
         "examples": [
-          "NYC Health Department announces two more deaths in Upper East Side Legionnaires' outbreak - ABC7 New York",
-          "FDA in Mexico a month after linking Taylor Farms to cyclospora outbreak - The Washington Post",
+          "South Korea issues a malaria health alert - Outbreak News Today",
+          "South Korea issues a malaria health alert - Outbreak News Today",
           "2 more states added to cyclospora outbreak linked to lettuce - NewsNation"
         ]
       },
@@ -1547,11 +1525,44 @@
         "trend": "virus",
         "market_code": "CN",
         "category": "Outbreaks",
-        "score": 10,
+        "score": 11,
         "examples": [
-          "West Nile Virus Information - Andover, MA (.gov)",
-          "First human West Nile virus case confirmed in Yuba County this year - ABC10",
+          "West Nile virus found in Hyrum Dam mosquito samples - ABC4 Utah",
+          "New Jersey Reports First Case Of Zika Virus Since 2020 - newjersey.news12.com",
           "Yuba County confirms first human West Nile virus case of 2026 - FOX40"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "CN",
+        "category": "Mental Health",
+        "score": 9,
+        "examples": [
+          "Trump dismisses mental health concerns on USS Lincoln aircraft carrier - Al Jazeera",
+          "Trump dismisses mental health concerns on USS Lincoln aircraft carrier - Al Jazeera",
+          "ICYMI: Kelly Blasts Hegseth's Dismissiveness on Mental Health Crisis Aboard USS Lincoln, Calls for Sailors to Get Immediate Help - U.S. Senate (.gov)"
+        ]
+      },
+      {
+        "trend": "mental health",
+        "market_code": "CN",
+        "category": "Mental Health",
+        "score": 9,
+        "examples": [
+          "Trump dismisses mental health concerns on USS Lincoln aircraft carrier - Al Jazeera",
+          "Trump dismisses mental health concerns on USS Lincoln aircraft carrier - Al Jazeera",
+          "ICYMI: Kelly Blasts Hegseth's Dismissiveness on Mental Health Crisis Aboard USS Lincoln, Calls for Sailors to Get Immediate Help - U.S. Senate (.gov)"
+        ]
+      },
+      {
+        "trend": "health alert",
+        "market_code": "CN",
+        "category": "Asia Health",
+        "score": 8,
+        "examples": [
+          "DOH-Orange Issues Blue-Green Algae Health Alert for Lake Formosa (Pedestrian Bridge) - Florida Department of Health in Orange County (.gov)",
+          "South Korea issues a malaria health alert - Outbreak News Today",
+          "DOH-Orange Issues Blue-Green Algae Health Alert for Lake Formosa (Pedestrian Bridge) - Florida Department of Health in Orange County (.gov)"
         ]
       },
       {
@@ -1560,9 +1571,9 @@
         "category": "Outbreaks",
         "score": 8,
         "examples": [
-          "West Nile Virus Information - Andover, MA (.gov)",
-          "First human West Nile virus case confirmed in Yuba County this year - ABC10",
-          "Yuba County confirms first human West Nile virus case of 2026 - FOX40"
+          "West Nile virus found in Hyrum Dam mosquito samples - ABC4 Utah",
+          "Yuba County confirms first human West Nile virus case of 2026 - FOX40",
+          "West Nile Virus Information - Andover, MA (.gov)"
         ]
       },
       {
@@ -1571,20 +1582,9 @@
         "category": "Outbreaks",
         "score": 8,
         "examples": [
-          "West Nile Virus Information - Andover, MA (.gov)",
-          "First human West Nile virus case confirmed in Yuba County this year - ABC10",
-          "Yuba County confirms first human West Nile virus case of 2026 - FOX40"
-        ]
-      },
-      {
-        "trend": "cancer",
-        "market_code": "CN",
-        "category": "Chronic Disease",
-        "score": 7,
-        "examples": [
-          "Dr. Linda Liau awarded 2026 UCLA Younes Nazarian Medical Humanitarian Prize for brain cancer research and treatment - UCLA Health",
-          "MSTP student receives Kirkpatrick Award for cancer immunity research: CT Plus - UT Southwestern",
-          "Pennsylvania Department of Health Urges Residents to Watch for Skin Cancer Warning Signs - Franklin County Free Press"
+          "West Nile virus found in Hyrum Dam mosquito samples - ABC4 Utah",
+          "Yuba County confirms first human West Nile virus case of 2026 - FOX40",
+          "West Nile Virus Information - Andover, MA (.gov)"
         ]
       },
       {
@@ -1593,20 +1593,20 @@
         "category": "Asia Health",
         "score": 7,
         "examples": [
-          "The path to a breakthrough public health contract - Washington State Nurses Association - WSNA",
-          "Youth vaping remains critical public health crisis, health department warns - WAFB",
-          "In Idaho, public health officials are trying to curb the rat infestation — with a $250K fund - Idaho Capital Sun"
+          "Photo Gallery - Johns Hopkins Bloomberg School of Public Health",
+          "Trump’s Vaccine Order Will Harm Public Health - Progressive.org",
+          "The path to a breakthrough public health contract - Washington State Nurses Association - WSNA"
         ]
       },
       {
-        "trend": "hospital",
+        "trend": "cancer",
         "market_code": "CN",
-        "category": "Asia Health",
-        "score": 7,
+        "category": "Chronic Disease",
+        "score": 6,
         "examples": [
-          "How one San Antonio hospital is dealing with a hard-to-kill fungus - San Antonio Report",
-          "Doximity bets big on hospital adoption of enterprise AI as it ramps up tech spending - Fierce Healthcare",
-          "What Is Lifestyle Medicine? - HSS | Hospital for Special Surgery"
+          "Dr. Linda Liau awarded 2026 UCLA Younes Nazarian Medical Humanitarian Prize for brain cancer research and treatment - UCLA Health",
+          "Like it or not, AI psycho-oncology care is already happening. Urgently needed: An ethical framework Developers and mental health providers must share the same goal: Safe, equitable, trustworthy, and patient-centered care - The Cancer Letter",
+          "FDA Expands Clinical Trial Eligibility for Cancer Patients - oncologynewscentral.com"
         ]
       }
     ],
@@ -1618,8 +1618,8 @@
         "score": 75,
         "examples": [
           "University Honors Health Fellows Program to Expand Student Opportunity and Strengthen Tennessee’s Healthcare Workforce - University of Tennessee, Knoxville",
-          "DoD changes transitional health care eligibility for reservists following lawsuit - Federal News Network",
-          "Trump dismisses mental health concerns on USS Lincoln aircraft carrier - Al Jazeera"
+          "3 UC Davis Health researchers awarded state grants to advance health equity through precision medicine - UC Davis Health",
+          "3 UC Davis Health researchers awarded state grants to advance health equity through precision medicine - UC Davis Health"
         ]
       },
       {
@@ -1629,8 +1629,8 @@
         "score": 16,
         "examples": [
           "UConn’s Largest Medical School Class Yet Dons 117 New White Coats - UConn Today",
-          "News - Medical Officer of the Marine Corps Visits MCRD San Diego - DVIDS",
-          "Dr. Linda Liau awarded 2026 UCLA Younes Nazarian Medical Humanitarian Prize for brain cancer research and treatment - UCLA Health"
+          "Milwaukee VA Medical Center unveils new arts beautification effort with help from Brewers - VA.gov Home | Veterans Affairs",
+          "New medical students continue ʻImi Hoʻōla’s mission to serve Hawaiʻi - University of Hawaii System"
         ]
       },
       {
@@ -1640,30 +1640,8 @@
         "score": 15,
         "examples": [
           "University Honors Health Fellows Program to Expand Student Opportunity and Strengthen Tennessee’s Healthcare Workforce - University of Tennessee, Knoxville",
-          "States have tools to slow healthcare spending growth, new UCLA Health report finds - UCLA Health",
-          "Sentara's Epic EHR model targets MRSA infections early - Healthcare IT News"
-        ]
-      },
-      {
-        "trend": "mental",
-        "market_code": "KR",
-        "category": "Mental Health",
-        "score": 12,
-        "examples": [
-          "Trump dismisses mental health concerns on USS Lincoln aircraft carrier - Al Jazeera",
-          "Selena Gomez and her mother accused of fraud over their mental health company - NBC News",
-          "Trump dismisses mental health concerns on USS Lincoln aircraft carrier - Al Jazeera"
-        ]
-      },
-      {
-        "trend": "mental health",
-        "market_code": "KR",
-        "category": "Mental Health",
-        "score": 12,
-        "examples": [
-          "Trump dismisses mental health concerns on USS Lincoln aircraft carrier - Al Jazeera",
-          "Selena Gomez and her mother accused of fraud over their mental health company - NBC News",
-          "Trump dismisses mental health concerns on USS Lincoln aircraft carrier - Al Jazeera"
+          "Patients Wary of Governments, Companies Pushing AI as a Rural Healthcare Solution - KFF Health News",
+          "‘Hey, Siri. How do I draw blood?’ New AI medical tech is transforming healthcare. Are we ready? - NJ.com"
         ]
       },
       {
@@ -1672,8 +1650,8 @@
         "category": "Outbreaks",
         "score": 11,
         "examples": [
-          "NYC Health Department announces two more deaths in Upper East Side Legionnaires' outbreak - ABC7 New York",
-          "FDA in Mexico a month after linking Taylor Farms to cyclospora outbreak - The Washington Post",
+          "South Korea issues a malaria health alert - Outbreak News Today",
+          "South Korea issues a malaria health alert - Outbreak News Today",
           "2 more states added to cyclospora outbreak linked to lettuce - NewsNation"
         ]
       },
@@ -1681,11 +1659,44 @@
         "trend": "virus",
         "market_code": "KR",
         "category": "Outbreaks",
-        "score": 10,
+        "score": 11,
         "examples": [
-          "West Nile Virus Information - Andover, MA (.gov)",
-          "First human West Nile virus case confirmed in Yuba County this year - ABC10",
+          "West Nile virus found in Hyrum Dam mosquito samples - ABC4 Utah",
+          "New Jersey Reports First Case Of Zika Virus Since 2020 - newjersey.news12.com",
           "Yuba County confirms first human West Nile virus case of 2026 - FOX40"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "KR",
+        "category": "Mental Health",
+        "score": 9,
+        "examples": [
+          "Trump dismisses mental health concerns on USS Lincoln aircraft carrier - Al Jazeera",
+          "Trump dismisses mental health concerns on USS Lincoln aircraft carrier - Al Jazeera",
+          "ICYMI: Kelly Blasts Hegseth's Dismissiveness on Mental Health Crisis Aboard USS Lincoln, Calls for Sailors to Get Immediate Help - U.S. Senate (.gov)"
+        ]
+      },
+      {
+        "trend": "mental health",
+        "market_code": "KR",
+        "category": "Mental Health",
+        "score": 9,
+        "examples": [
+          "Trump dismisses mental health concerns on USS Lincoln aircraft carrier - Al Jazeera",
+          "Trump dismisses mental health concerns on USS Lincoln aircraft carrier - Al Jazeera",
+          "ICYMI: Kelly Blasts Hegseth's Dismissiveness on Mental Health Crisis Aboard USS Lincoln, Calls for Sailors to Get Immediate Help - U.S. Senate (.gov)"
+        ]
+      },
+      {
+        "trend": "health alert",
+        "market_code": "KR",
+        "category": "Asia Health",
+        "score": 8,
+        "examples": [
+          "DOH-Orange Issues Blue-Green Algae Health Alert for Lake Formosa (Pedestrian Bridge) - Florida Department of Health in Orange County (.gov)",
+          "South Korea issues a malaria health alert - Outbreak News Today",
+          "DOH-Orange Issues Blue-Green Algae Health Alert for Lake Formosa (Pedestrian Bridge) - Florida Department of Health in Orange County (.gov)"
         ]
       },
       {
@@ -1694,9 +1705,9 @@
         "category": "Outbreaks",
         "score": 8,
         "examples": [
-          "West Nile Virus Information - Andover, MA (.gov)",
-          "First human West Nile virus case confirmed in Yuba County this year - ABC10",
-          "Yuba County confirms first human West Nile virus case of 2026 - FOX40"
+          "West Nile virus found in Hyrum Dam mosquito samples - ABC4 Utah",
+          "Yuba County confirms first human West Nile virus case of 2026 - FOX40",
+          "West Nile Virus Information - Andover, MA (.gov)"
         ]
       },
       {
@@ -1705,20 +1716,9 @@
         "category": "Outbreaks",
         "score": 8,
         "examples": [
-          "West Nile Virus Information - Andover, MA (.gov)",
-          "First human West Nile virus case confirmed in Yuba County this year - ABC10",
-          "Yuba County confirms first human West Nile virus case of 2026 - FOX40"
-        ]
-      },
-      {
-        "trend": "cancer",
-        "market_code": "KR",
-        "category": "Chronic Disease",
-        "score": 7,
-        "examples": [
-          "Dr. Linda Liau awarded 2026 UCLA Younes Nazarian Medical Humanitarian Prize for brain cancer research and treatment - UCLA Health",
-          "MSTP student receives Kirkpatrick Award for cancer immunity research: CT Plus - UT Southwestern",
-          "Pennsylvania Department of Health Urges Residents to Watch for Skin Cancer Warning Signs - Franklin County Free Press"
+          "West Nile virus found in Hyrum Dam mosquito samples - ABC4 Utah",
+          "Yuba County confirms first human West Nile virus case of 2026 - FOX40",
+          "West Nile Virus Information - Andover, MA (.gov)"
         ]
       },
       {
@@ -1727,20 +1727,20 @@
         "category": "Asia Health",
         "score": 7,
         "examples": [
-          "The path to a breakthrough public health contract - Washington State Nurses Association - WSNA",
-          "Youth vaping remains critical public health crisis, health department warns - WAFB",
-          "In Idaho, public health officials are trying to curb the rat infestation — with a $250K fund - Idaho Capital Sun"
+          "Photo Gallery - Johns Hopkins Bloomberg School of Public Health",
+          "Trump’s Vaccine Order Will Harm Public Health - Progressive.org",
+          "The path to a breakthrough public health contract - Washington State Nurses Association - WSNA"
         ]
       },
       {
-        "trend": "hospital",
+        "trend": "cancer",
         "market_code": "KR",
-        "category": "Asia Health",
-        "score": 7,
+        "category": "Chronic Disease",
+        "score": 6,
         "examples": [
-          "How one San Antonio hospital is dealing with a hard-to-kill fungus - San Antonio Report",
-          "Doximity bets big on hospital adoption of enterprise AI as it ramps up tech spending - Fierce Healthcare",
-          "What Is Lifestyle Medicine? - HSS | Hospital for Special Surgery"
+          "Dr. Linda Liau awarded 2026 UCLA Younes Nazarian Medical Humanitarian Prize for brain cancer research and treatment - UCLA Health",
+          "Like it or not, AI psycho-oncology care is already happening. Urgently needed: An ethical framework Developers and mental health providers must share the same goal: Safe, equitable, trustworthy, and patient-centered care - The Cancer Letter",
+          "FDA Expands Clinical Trial Eligibility for Cancer Patients - oncologynewscentral.com"
         ]
       }
     ],
@@ -1749,22 +1749,22 @@
         "trend": "health",
         "market_code": "IN",
         "category": "Asia Health",
-        "score": 64,
+        "score": 65,
         "examples": [
+          "From Tuberculosis To Diabetes: The Diseases That Changed India's Health Burden - ndtv.com",
           "WHO-Lions Clubs partner to expand mental health services in Jordan and Nepal - World Health Organization (WHO)",
-          "WHO-Lions Clubs partner to expand mental health services in Jordan and Nepal - World Health Organization (WHO)",
-          "37% of health facilities in Sudan out of service in 2026: WHO - Anadolu Ajansı"
+          "WHO-Lions Clubs partner to expand mental health services in Jordan and Nepal - World Health Organization (WHO)"
         ]
       },
       {
         "trend": "medical",
         "market_code": "IN",
         "category": "Asia Health",
-        "score": 23,
+        "score": 21,
         "examples": [
-          "Comparative Perspectives on Obesity From Medical Students, Practitioners, and Non-medical Students - Cureus",
-          "CCRAS-NIIMH Signs MoU with Sevadhi Museum and Indological Research Institute for Digitization of Medical Manuscripts - PIB",
-          "Hospitals in southern Bolivia to receive new medical equipment - TV BRICS"
+          "Can weather affect your periods? And when should you seek medical help? - The Hindu",
+          "Rajasthan approves recruitment of 600 medical officers - Medical Dialogues",
+          "Rajasthan approves recruitment of 600 medical officers - Medical Dialogues"
         ]
       },
       {
@@ -1774,74 +1774,74 @@
         "score": 18,
         "examples": [
           "An attack on healthcare every six hours, and no one held to account - UN News",
-          "University Honors Health Fellows Program to Expand Student Opportunity and Strengthen Tennessee’s Healthcare Workforce - University of Tennessee, Knoxville",
-          "Innovaccer, Mastek partner on agentic healthcare AI in U.S. and beyond - mobihealthnews.com"
-        ]
-      },
-      {
-        "trend": "mental",
-        "market_code": "IN",
-        "category": "Mental Health",
-        "score": 12,
-        "examples": [
-          "WHO-Lions Clubs partner to expand mental health services in Jordan and Nepal - World Health Organization (WHO)",
-          "When is a mental health crisis too severe for telehealth? Warning signs families shouldn't ignore - Fox News",
-          "WHO-Lions Clubs partner to expand mental health services in Jordan and Nepal - World Health Organization (WHO)"
-        ]
-      },
-      {
-        "trend": "mental health",
-        "market_code": "IN",
-        "category": "Mental Health",
-        "score": 12,
-        "examples": [
-          "WHO-Lions Clubs partner to expand mental health services in Jordan and Nepal - World Health Organization (WHO)",
-          "When is a mental health crisis too severe for telehealth? Warning signs families shouldn't ignore - Fox News",
-          "WHO-Lions Clubs partner to expand mental health services in Jordan and Nepal - World Health Organization (WHO)"
+          "Who is Luigi Mangione, the man who admitted to shooting a healthcare CEO? - bbc.com",
+          "Union Minister J P Nadda releases Knowledge Paper on ‘AI in MedTech: Revolutionizing Healthcare Through Artificial Intelligence’ - PIB"
         ]
       },
       {
         "trend": "outbreak",
         "market_code": "IN",
         "category": "Outbreaks",
+        "score": 12,
+        "examples": [
+          "Ebola Outbreak Reaches Sixth Province In DR Congo As Cases Top 4,600: Official - ndtv.com",
+          "Brits warned of health risk over measles outbreak in Majorca - Lincolnshire Live",
+          "South Korea issues a malaria health alert - Outbreak News Today"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "IN",
+        "category": "Mental Health",
         "score": 10,
         "examples": [
-          "South Korea issues a malaria health alert - Outbreak News Today",
-          "Measles outbreak in Bangladesh claims 38 children amid vaccination gaps - Newsonair",
-          "Multi-Country Bundibugyo Ebola Outbreak Response (3-9 August 2026) - Situation Report #13 - consultaelectoral.onpe.gob.pe"
+          "WHO-Lions Clubs partner to expand mental health services in Jordan and Nepal - World Health Organization (WHO)",
+          "WHO-Lions Clubs partner to expand mental health services in Jordan and Nepal - World Health Organization (WHO)",
+          "Selena Gomez sued for alleged fraud over mental health company - bbc.com"
+        ]
+      },
+      {
+        "trend": "mental health",
+        "market_code": "IN",
+        "category": "Mental Health",
+        "score": 10,
+        "examples": [
+          "WHO-Lions Clubs partner to expand mental health services in Jordan and Nepal - World Health Organization (WHO)",
+          "WHO-Lions Clubs partner to expand mental health services in Jordan and Nepal - World Health Organization (WHO)",
+          "Selena Gomez sued for alleged fraud over mental health company - bbc.com"
         ]
       },
       {
         "trend": "virus",
         "market_code": "IN",
         "category": "Outbreaks",
-        "score": 9,
+        "score": 8,
         "examples": [
           "Three months into DRC Ebola outbreak, community trust remains critical to stopping the spread of the virus - IFRC",
-          "UK's 'worst' bluetongue outbreak as hot weather fuels deadly virus - BBC",
-          "Bird flu has been evolving and migrating for 30 years. It is a far more deadly virus that has now arrived in Australia - The Guardian"
+          "Gujarat Chandipura Virus Outbreak: 27 Deaths, 41 Confirmed Cases Reported - ndtv.com",
+          "Chandipura Virus Cases Rise In Gujarat, Testing Intensified; 257 Suspected Cases, 27 Deaths - english.gujaratsamachar.com"
         ]
       },
       {
-        "trend": "warning",
+        "trend": "health alert",
         "market_code": "IN",
         "category": "Asia Health",
         "score": 7,
         "examples": [
-          "1.5 million dozen recalled eggs receive FDA’s highest-risk warning - The Washington Post",
-          "Pennsylvania Department of Health Urges Residents to Watch for Skin Cancer Warning Signs - Franklin County Free Press",
-          "Lucas County health officials issue warning after bat tests positive for rabies - wtol.com"
+          "South Korea issues a malaria health alert - Outbreak News Today",
+          "Second Red Tide Health Alert issued in Duval County in less than a week - firstcoastnews.com",
+          "Custer County Public Health alert after rabid bat find - Wet Mountain Tribune"
         ]
       },
       {
-        "trend": "vaccine",
+        "trend": "public health",
         "market_code": "IN",
-        "category": "Drug & Treatment News",
+        "category": "Asia Health",
         "score": 6,
         "examples": [
-          "How Aka hunters and Fulani chiefs helped health workers locate CAR’s missed-out children - Gavi, the Vaccine Alliance",
-          "Could COVID-19 reawaken viruses hidden in the body? - Gavi, the Vaccine Alliance",
-          "Can a vaccine built for one Ebola virus stop another? The World Health Organization is about to find out - The Conversation"
+          "Photo Gallery - Johns Hopkins Bloomberg School of Public Health",
+          "One Health mission focuses on national preparedness against emerging public health threats - News On AIR",
+          "Reselling expired food products with fresh labels is ‘calculated assault on public health’: Karnataka High Court - The Hindu"
         ]
       },
       {
@@ -1850,31 +1850,31 @@
         "category": "Asia Health",
         "score": 6,
         "examples": [
-          "A.P. Health Minister opens new OP block in Dharmavaram Hospital - The Hindu",
-          "Doximity bets big on hospital adoption of enterprise AI as it ramps up tech spending - fiercehealthcare.com",
-          "What Is Lifestyle Medicine? - HSS | Hospital for Special Surgery"
+          "Why You Might Be Interested In Kovai Medical Center and Hospital Limited (NSE:KOVAI) For Its Upcoming Dividend - simplywall.st",
+          "Doximity bets big on hospital adoption of enterprise AI as it ramps up tech spending - Fierce Healthcare",
+          "Same Knee Surgery, Twice the Price: Hospital Monopolies Push Up Health Care Costs - The Assembly NC"
         ]
       },
       {
-        "trend": "health alert",
+        "trend": "ebola outbreak",
         "market_code": "IN",
-        "category": "Asia Health",
+        "category": "Outbreaks",
         "score": 6,
         "examples": [
-          "Heat health alert for Essex extended amid recording-breaking temperatures - essexcountynews.co.uk",
-          "South Korea issues a malaria health alert - Outbreak News Today",
-          "Custer County Public Health alert after rabid bat find - wetmountaintribune.com"
+          "Ebola Outbreak Reaches Sixth Province In DR Congo As Cases Top 4,600: Official - ndtv.com",
+          "Multi-Country Bundibugyo Ebola Outbreak Response (3-9 August 2026) - Situation Report #13 - ReliefWeb",
+          "Ebola Outbreak Reaches Sixth Province In DR Congo As Cases Top 4,600: Official - ndtv.com"
         ]
       },
       {
-        "trend": "public health",
+        "trend": "cancer",
         "market_code": "IN",
-        "category": "Asia Health",
-        "score": 5,
+        "category": "Chronic Disease",
+        "score": 6,
         "examples": [
-          "One Health mission focuses on national preparedness against emerging public health threats - Newsonair",
-          "Reselling expired food products with fresh labels is ‘calculated assault on public health’: Karnataka High Court - The Hindu",
-          "'Calculated Assault On Public Health': Karnataka High Court Upholds FIR Against Company Allegedly... - Live Law"
+          "Supreme Court asks 19 States, UTs to Declare Cancer 'notifiable disease' for Early Detection - Vajiram & Ravi",
+          "Pennsylvania Department of Health Urges Residents to Watch for Skin Cancer Warning Signs - Franklin County Free Press",
+          "Like it or not, AI psycho-oncology care is already happening. Urgently needed: An ethical framework Developers and mental health providers must share the same goal: Safe, equitable, trustworthy, and patient-centered care - The Cancer Letter"
         ]
       }
     ],
@@ -1883,9 +1883,9 @@
         "trend": "health",
         "market_code": "AU",
         "category": "Global Health",
-        "score": 65,
+        "score": 64,
         "examples": [
-          "‘I’m sorry’: Dolly Parton cancels major appearance over ‘health issues’ - Nine.com.au",
+          "Helping Australians reduce their dementia risk - Australian Government Department of Health, Disability and Ageing",
           "WHO-Lions Clubs partner to expand mental health services in Jordan and Nepal - World Health Organization (WHO)",
           "WHO-Lions Clubs partner to expand mental health services in Jordan and Nepal - World Health Organization (WHO)"
         ]
@@ -1894,7 +1894,7 @@
         "trend": "healthcare",
         "market_code": "AU",
         "category": "Global Health",
-        "score": 17,
+        "score": 15,
         "examples": [
           "An attack on healthcare every six hours, and no one held to account - UN News",
           "Sentara's Epic EHR model targets MRSA infections early - Healthcare IT News",
@@ -1905,66 +1905,66 @@
         "trend": "medical",
         "market_code": "AU",
         "category": "Global Health",
-        "score": 16,
+        "score": 14,
         "examples": [
-          "Australian Medical Drama ‘The F Ward’ Sells to 100 Markets for Paramount - The Hollywood Reporter",
+          "$1.5 million medical facility the first of its kind - Orange City Life",
           "An incoming brief for the RACGP president - Medical Republic",
-          "Comparative Perspectives on Obesity From Medical Students, Practitioners, and Non-medical Students - cureus.com"
+          "Comparative Perspectives on Obesity From Medical Students, Practitioners, and Non-medical Students - Cureus"
         ]
       },
       {
         "trend": "mental",
         "market_code": "AU",
         "category": "Mental Health",
-        "score": 12,
+        "score": 11,
         "examples": [
           "WHO-Lions Clubs partner to expand mental health services in Jordan and Nepal - World Health Organization (WHO)",
-          "Mental health in the workplace - insightnews.com.au",
-          "Trump dismisses mental health concerns on USS Lincoln aircraft carrier - Al Jazeera"
+          "Where does dad fit in the perinatal mental health conversation as fatherhood evolves? - Region Canberra",
+          "Mental health in the workplace - insightnews.com.au"
         ]
       },
       {
         "trend": "mental health",
         "market_code": "AU",
         "category": "Mental Health",
-        "score": 12,
-        "examples": [
-          "WHO-Lions Clubs partner to expand mental health services in Jordan and Nepal - World Health Organization (WHO)",
-          "Mental health in the workplace - insightnews.com.au",
-          "Trump dismisses mental health concerns on USS Lincoln aircraft carrier - Al Jazeera"
-        ]
-      },
-      {
-        "trend": "outbreak",
-        "market_code": "AU",
-        "category": "Outbreaks",
         "score": 11,
         "examples": [
-          "South Korea issues a malaria health alert - Outbreak News Today",
-          "South Korea issues a malaria health alert - Outbreak News Today",
-          "Multi-Country Bundibugyo Ebola Outbreak Response (3-9 August 2026) - Situation Report #13 - reliefweb.int"
+          "WHO-Lions Clubs partner to expand mental health services in Jordan and Nepal - World Health Organization (WHO)",
+          "Where does dad fit in the perinatal mental health conversation as fatherhood evolves? - Region Canberra",
+          "Mental health in the workplace - insightnews.com.au"
         ]
       },
       {
         "trend": "virus",
         "market_code": "AU",
         "category": "Outbreaks",
-        "score": 10,
+        "score": 11,
         "examples": [
           "Can a vaccine built for one Ebola virus stop another? The World Health Organization is about to find out - The Conversation",
           "Three months into DRC Ebola outbreak, community trust remains critical to stopping the spread of the virus - IFRC",
-          "UK's 'worst' bluetongue outbreak as hot weather fuels deadly virus - BBC"
+          "The Ebola virus is outpacing the international response - Le Monde.fr"
         ]
       },
       {
         "trend": "vaccine",
         "market_code": "AU",
         "category": "Drug & Treatment News",
-        "score": 8,
+        "score": 9,
         "examples": [
+          "Trump’s Vaccine Order Will Harm Public Health - Progressive.org",
           "Can a vaccine built for one Ebola virus stop another? The World Health Organization is about to find out - The Conversation",
-          "Can a vaccine built for one Ebola virus stop another? The World Health Organization is about to find out - The Conversation",
-          "Could COVID-19 reawaken viruses hidden in the body? - Gavi, the Vaccine Alliance"
+          "Trump's vaccine order would require millions of individual shots last used decades ago - PBS"
+        ]
+      },
+      {
+        "trend": "outbreak",
+        "market_code": "AU",
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "South Korea issues a malaria health alert - Outbreak News Today",
+          "South Korea issues a malaria health alert - Outbreak News Today",
+          "Multi-Country Bundibugyo Ebola Outbreak Response (3-9 August 2026) - Situation Report #13 - ReliefWeb"
         ]
       },
       {
@@ -1982,11 +1982,11 @@
         "trend": "infection",
         "market_code": "AU",
         "category": "Outbreaks",
-        "score": 7,
+        "score": 6,
         "examples": [
           "‘She has a permanent brain injury’: Kids hospitalised after contracting bacterial infection at petting zoo - Nine.com.au",
           "‘She has a permanent brain injury’: Kids hospitalised after contracting bacterial infection at petting zoo - Nine.com.au",
-          "Children suffer kidney failure from petting zoo infection - SMH.com.au"
+          "Caging bacteria to fight infection | ENTRAPMENT Project | Results in Brief | H2020 - CORDIS"
         ]
       },
       {
@@ -2017,11 +2017,22 @@
         "trend": "health",
         "market_code": "CA",
         "category": "Global Health",
-        "score": 67,
+        "score": 66,
         "examples": [
           "Selena Gomez accused of fraud by investors over mental health startup - Global News",
           "Recent soot doesn't 'pose long-term health risks': Hamilton Public Health - CBC",
           "Recent soot doesn't 'pose long-term health risks': Hamilton Public Health - CBC"
+        ]
+      },
+      {
+        "trend": "medical",
+        "market_code": "CA",
+        "category": "Global Health",
+        "score": 17,
+        "examples": [
+          "Dr. Paul Heffernan appointed Associate Dean, Postgraduate Medical Education (PGME) - Queen's University",
+          "Vycor Medical Releases Financial Results for the Three and Six Months Ended June 30, 2026 - Yahoo! Finance Canada",
+          "My Medical Association Silenced My Views on Gender Treatment - thefp.com"
         ]
       },
       {
@@ -2036,36 +2047,25 @@
         ]
       },
       {
-        "trend": "medical",
-        "market_code": "CA",
-        "category": "Global Health",
-        "score": 14,
-        "examples": [
-          "Dr. Paul Heffernan appointed Associate Dean, Postgraduate Medical Education (PGME) - Queen's University",
-          "Vycor Medical Releases Financial Results for the Three and Six Months Ended June 30, 2026 - Yahoo! Finance Canada",
-          "Canopy Growth Secures Renewed EU GMP Certification at Kincardine as European Medical Cannabis Business Grows - canopygrowth.com"
-        ]
-      },
-      {
         "trend": "mental",
         "market_code": "CA",
         "category": "Mental Health",
-        "score": 12,
+        "score": 13,
         "examples": [
           "Selena Gomez accused of fraud by investors over mental health startup - Global News",
-          "NISA no more: Peer Support North new name for Sudbury mental health group - Sudbury News",
-          "WHO-Lions Clubs partner to expand mental health services in Jordan and Nepal - World Health Organization (WHO)"
+          "Upcoming school year brings demand for mental health services - CTV News",
+          "NISA no more: Peer Support North new name for Sudbury mental health group - Sudbury News"
         ]
       },
       {
         "trend": "mental health",
         "market_code": "CA",
         "category": "Mental Health",
-        "score": 11,
+        "score": 12,
         "examples": [
           "Selena Gomez accused of fraud by investors over mental health startup - Global News",
-          "NISA no more: Peer Support North new name for Sudbury mental health group - Sudbury News",
-          "WHO-Lions Clubs partner to expand mental health services in Jordan and Nepal - World Health Organization (WHO)"
+          "Upcoming school year brings demand for mental health services - CTV News",
+          "NISA no more: Peer Support North new name for Sudbury mental health group - Sudbury News"
         ]
       },
       {
@@ -2076,7 +2076,7 @@
         "examples": [
           "South Korea issues a malaria health alert - Outbreak News Today",
           "South Korea issues a malaria health alert - Outbreak News Today",
-          "FDA in Mexico a month after linking Taylor Farms to cyclospora outbreak - The Washington Post"
+          "FDA travels to Mexico a month after linking Taylor Farms to cyclospora outbreak - The Washington Post"
         ]
       },
       {
@@ -2086,19 +2086,8 @@
         "score": 10,
         "examples": [
           "Three months into DRC Ebola outbreak, community trust remains critical to stopping the spread of the virus - IFRC",
-          "Manitoba reports 1st confirmed case of West Nile virus this season - CBC",
-          "Mosquitoes test positive in Pickering and Whitby for West Nile virus - durhamradionews.com"
-        ]
-      },
-      {
-        "trend": "public health",
-        "market_code": "CA",
-        "category": "Global Health",
-        "score": 9,
-        "examples": [
-          "Recent soot doesn't 'pose long-term health risks': Hamilton Public Health - CBC",
-          "Recent soot doesn't 'pose long-term health risks': Hamilton Public Health - CBC",
-          "Hamilton ‘black soot’ not expected to pose long-term risk, public health says - Global News"
+          "The Ebola virus is outpacing the international response - Le Monde.fr",
+          "Manitoba reports 1st confirmed case of West Nile virus this season - CBC"
         ]
       },
       {
@@ -2107,9 +2096,20 @@
         "category": "Drug & Treatment News",
         "score": 9,
         "examples": [
-          "Could COVID-19 reawaken viruses hidden in the body? - Gavi, the Vaccine Alliance",
+          "Trump’s Vaccine Order Will Harm Public Health - Progressive.org",
           "EU to study potential vaccine for Lyme disease: companies - CTV News",
-          "FDA fast-tracks experimental vaccine aiming to slow early Parkinson’s - Parkinson's News Today"
+          "FDA fast-tracks experimental vaccine aiming to slow early Parkinson’s - parkinsonsnewstoday.com"
+        ]
+      },
+      {
+        "trend": "public health",
+        "market_code": "CA",
+        "category": "Global Health",
+        "score": 8,
+        "examples": [
+          "Recent soot doesn't 'pose long-term health risks': Hamilton Public Health - CBC",
+          "Recent soot doesn't 'pose long-term health risks': Hamilton Public Health - CBC",
+          "Hamilton ‘black soot’ not expected to pose long-term risk, public health says - Global News"
         ]
       },
       {
@@ -2119,19 +2119,8 @@
         "score": 8,
         "examples": [
           "South Korea issues a malaria health alert - Outbreak News Today",
-          "South Korea issues a malaria health alert - Outbreak News Today",
-          "DOH-Orange Issues Blue-Green Algae Health Alert for Lake Formosa (Pedestrian Bridge) - Florida Department of Health in Orange County (.gov)"
-        ]
-      },
-      {
-        "trend": "health risks",
-        "market_code": "CA",
-        "category": "Global Health",
-        "score": 5,
-        "examples": [
-          "Recent soot doesn't 'pose long-term health risks': Hamilton Public Health - CBC",
-          "Recent soot doesn't 'pose long-term health risks': Hamilton Public Health - CBC",
-          "Recent soot doesn't 'pose long-term health risks': Hamilton Public Health - CBC"
+          "DOH-Orange Issues Blue-Green Algae Health Alert for Lake Formosa (Pedestrian Bridge) - Florida Department of Health in Orange County (.gov)",
+          "Second Red Tide Health Alert issued in Duval County in less than a week - firstcoastnews.com"
         ]
       },
       {
@@ -2140,9 +2129,20 @@
         "category": "Chronic Disease",
         "score": 5,
         "examples": [
-          "Eby shuffles cabinet after Bailey cancer diagnosis, Osborne to Finance, Kahlon to Health - Penticton Western News",
+          "Dr. Linda Liau awarded 2026 UCLA Younes Nazarian Medical Humanitarian Prize for brain cancer research and treatment - UCLA Health",
           "3 AI Healthcare Stocks Helping Investors Find The Next Breakthrough In Cancer Care - simplywall.st",
-          "Can herpes fight cancer? Plus, Trump’s vaccine order, a drug-resistant fungus and the mRNA flu shot - Straight Arrow"
+          "mRNA-4359: Promising Cancer Vaccine, Dose, Administration, and Clinical Trials - Oncodaily"
+        ]
+      },
+      {
+        "trend": "wellness",
+        "market_code": "CA",
+        "category": "Diet & Wellness",
+        "score": 5,
+        "examples": [
+          "A New Frontier in Eye Health: Digital Wellness, Bioavailability, and the Eye-Brain Connection - Nutritional Outlook",
+          "Worth trying? The truth behind 4 TikTok wellness trends - UCLA Health",
+          "FERRERO GROUP TO ACQUIRE PURELY ELIZABETH, A LEADING U.S. MODERN WELLNESS BRAND - Ferrero"
         ]
       }
     ],
@@ -2154,8 +2154,8 @@
         "score": 75,
         "examples": [
           "University Honors Health Fellows Program to Expand Student Opportunity and Strengthen Tennessee’s Healthcare Workforce - University of Tennessee, Knoxville",
-          "DoD changes transitional health care eligibility for reservists following lawsuit - Federal News Network",
-          "Trump dismisses mental health concerns on USS Lincoln aircraft carrier - Al Jazeera"
+          "3 UC Davis Health researchers awarded state grants to advance health equity through precision medicine - UC Davis Health",
+          "3 UC Davis Health researchers awarded state grants to advance health equity through precision medicine - UC Davis Health"
         ]
       },
       {
@@ -2165,8 +2165,8 @@
         "score": 16,
         "examples": [
           "UConn’s Largest Medical School Class Yet Dons 117 New White Coats - UConn Today",
-          "News - Medical Officer of the Marine Corps Visits MCRD San Diego - DVIDS",
-          "Dr. Linda Liau awarded 2026 UCLA Younes Nazarian Medical Humanitarian Prize for brain cancer research and treatment - UCLA Health"
+          "Milwaukee VA Medical Center unveils new arts beautification effort with help from Brewers - VA.gov Home | Veterans Affairs",
+          "New medical students continue ʻImi Hoʻōla’s mission to serve Hawaiʻi - University of Hawaii System"
         ]
       },
       {
@@ -2176,30 +2176,8 @@
         "score": 15,
         "examples": [
           "University Honors Health Fellows Program to Expand Student Opportunity and Strengthen Tennessee’s Healthcare Workforce - University of Tennessee, Knoxville",
-          "States have tools to slow healthcare spending growth, new UCLA Health report finds - UCLA Health",
-          "Sentara's Epic EHR model targets MRSA infections early - Healthcare IT News"
-        ]
-      },
-      {
-        "trend": "mental",
-        "market_code": "AE",
-        "category": "Mental Health",
-        "score": 12,
-        "examples": [
-          "Trump dismisses mental health concerns on USS Lincoln aircraft carrier - Al Jazeera",
-          "Selena Gomez and her mother accused of fraud over their mental health company - NBC News",
-          "Trump dismisses mental health concerns on USS Lincoln aircraft carrier - Al Jazeera"
-        ]
-      },
-      {
-        "trend": "mental health",
-        "market_code": "AE",
-        "category": "Mental Health",
-        "score": 12,
-        "examples": [
-          "Trump dismisses mental health concerns on USS Lincoln aircraft carrier - Al Jazeera",
-          "Selena Gomez and her mother accused of fraud over their mental health company - NBC News",
-          "Trump dismisses mental health concerns on USS Lincoln aircraft carrier - Al Jazeera"
+          "Patients Wary of Governments, Companies Pushing AI as a Rural Healthcare Solution - KFF Health News",
+          "‘Hey, Siri. How do I draw blood?’ New AI medical tech is transforming healthcare. Are we ready? - NJ.com"
         ]
       },
       {
@@ -2208,8 +2186,8 @@
         "category": "Outbreaks",
         "score": 11,
         "examples": [
-          "NYC Health Department announces two more deaths in Upper East Side Legionnaires' outbreak - ABC7 New York",
-          "FDA in Mexico a month after linking Taylor Farms to cyclospora outbreak - The Washington Post",
+          "South Korea issues a malaria health alert - Outbreak News Today",
+          "South Korea issues a malaria health alert - Outbreak News Today",
           "2 more states added to cyclospora outbreak linked to lettuce - NewsNation"
         ]
       },
@@ -2217,11 +2195,44 @@
         "trend": "virus",
         "market_code": "AE",
         "category": "Outbreaks",
-        "score": 10,
+        "score": 11,
         "examples": [
-          "West Nile Virus Information - Andover, MA (.gov)",
-          "First human West Nile virus case confirmed in Yuba County this year - ABC10",
+          "West Nile virus found in Hyrum Dam mosquito samples - ABC4 Utah",
+          "New Jersey Reports First Case Of Zika Virus Since 2020 - newjersey.news12.com",
           "Yuba County confirms first human West Nile virus case of 2026 - FOX40"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "AE",
+        "category": "Mental Health",
+        "score": 9,
+        "examples": [
+          "Trump dismisses mental health concerns on USS Lincoln aircraft carrier - Al Jazeera",
+          "Trump dismisses mental health concerns on USS Lincoln aircraft carrier - Al Jazeera",
+          "ICYMI: Kelly Blasts Hegseth's Dismissiveness on Mental Health Crisis Aboard USS Lincoln, Calls for Sailors to Get Immediate Help - U.S. Senate (.gov)"
+        ]
+      },
+      {
+        "trend": "mental health",
+        "market_code": "AE",
+        "category": "Mental Health",
+        "score": 9,
+        "examples": [
+          "Trump dismisses mental health concerns on USS Lincoln aircraft carrier - Al Jazeera",
+          "Trump dismisses mental health concerns on USS Lincoln aircraft carrier - Al Jazeera",
+          "ICYMI: Kelly Blasts Hegseth's Dismissiveness on Mental Health Crisis Aboard USS Lincoln, Calls for Sailors to Get Immediate Help - U.S. Senate (.gov)"
+        ]
+      },
+      {
+        "trend": "health alert",
+        "market_code": "AE",
+        "category": "Arab Health",
+        "score": 8,
+        "examples": [
+          "DOH-Orange Issues Blue-Green Algae Health Alert for Lake Formosa (Pedestrian Bridge) - Florida Department of Health in Orange County (.gov)",
+          "South Korea issues a malaria health alert - Outbreak News Today",
+          "DOH-Orange Issues Blue-Green Algae Health Alert for Lake Formosa (Pedestrian Bridge) - Florida Department of Health in Orange County (.gov)"
         ]
       },
       {
@@ -2230,9 +2241,9 @@
         "category": "Outbreaks",
         "score": 8,
         "examples": [
-          "West Nile Virus Information - Andover, MA (.gov)",
-          "First human West Nile virus case confirmed in Yuba County this year - ABC10",
-          "Yuba County confirms first human West Nile virus case of 2026 - FOX40"
+          "West Nile virus found in Hyrum Dam mosquito samples - ABC4 Utah",
+          "Yuba County confirms first human West Nile virus case of 2026 - FOX40",
+          "West Nile Virus Information - Andover, MA (.gov)"
         ]
       },
       {
@@ -2241,20 +2252,9 @@
         "category": "Outbreaks",
         "score": 8,
         "examples": [
-          "West Nile Virus Information - Andover, MA (.gov)",
-          "First human West Nile virus case confirmed in Yuba County this year - ABC10",
-          "Yuba County confirms first human West Nile virus case of 2026 - FOX40"
-        ]
-      },
-      {
-        "trend": "cancer",
-        "market_code": "AE",
-        "category": "Chronic Disease",
-        "score": 7,
-        "examples": [
-          "Dr. Linda Liau awarded 2026 UCLA Younes Nazarian Medical Humanitarian Prize for brain cancer research and treatment - UCLA Health",
-          "MSTP student receives Kirkpatrick Award for cancer immunity research: CT Plus - UT Southwestern",
-          "Pennsylvania Department of Health Urges Residents to Watch for Skin Cancer Warning Signs - Franklin County Free Press"
+          "West Nile virus found in Hyrum Dam mosquito samples - ABC4 Utah",
+          "Yuba County confirms first human West Nile virus case of 2026 - FOX40",
+          "West Nile Virus Information - Andover, MA (.gov)"
         ]
       },
       {
@@ -2263,20 +2263,20 @@
         "category": "Arab Health",
         "score": 7,
         "examples": [
-          "The path to a breakthrough public health contract - Washington State Nurses Association - WSNA",
-          "Youth vaping remains critical public health crisis, health department warns - WAFB",
-          "In Idaho, public health officials are trying to curb the rat infestation — with a $250K fund - Idaho Capital Sun"
+          "Photo Gallery - Johns Hopkins Bloomberg School of Public Health",
+          "Trump’s Vaccine Order Will Harm Public Health - Progressive.org",
+          "The path to a breakthrough public health contract - Washington State Nurses Association - WSNA"
         ]
       },
       {
-        "trend": "hospital",
+        "trend": "cancer",
         "market_code": "AE",
-        "category": "Arab Health",
-        "score": 7,
+        "category": "Chronic Disease",
+        "score": 6,
         "examples": [
-          "How one San Antonio hospital is dealing with a hard-to-kill fungus - San Antonio Report",
-          "Doximity bets big on hospital adoption of enterprise AI as it ramps up tech spending - Fierce Healthcare",
-          "What Is Lifestyle Medicine? - HSS | Hospital for Special Surgery"
+          "Dr. Linda Liau awarded 2026 UCLA Younes Nazarian Medical Humanitarian Prize for brain cancer research and treatment - UCLA Health",
+          "Like it or not, AI psycho-oncology care is already happening. Urgently needed: An ethical framework Developers and mental health providers must share the same goal: Safe, equitable, trustworthy, and patient-centered care - The Cancer Letter",
+          "FDA Expands Clinical Trial Eligibility for Cancer Patients - oncologynewscentral.com"
         ]
       }
     ],
@@ -2288,8 +2288,8 @@
         "score": 75,
         "examples": [
           "University Honors Health Fellows Program to Expand Student Opportunity and Strengthen Tennessee’s Healthcare Workforce - University of Tennessee, Knoxville",
-          "DoD changes transitional health care eligibility for reservists following lawsuit - Federal News Network",
-          "Trump dismisses mental health concerns on USS Lincoln aircraft carrier - Al Jazeera"
+          "3 UC Davis Health researchers awarded state grants to advance health equity through precision medicine - UC Davis Health",
+          "3 UC Davis Health researchers awarded state grants to advance health equity through precision medicine - UC Davis Health"
         ]
       },
       {
@@ -2299,8 +2299,8 @@
         "score": 16,
         "examples": [
           "UConn’s Largest Medical School Class Yet Dons 117 New White Coats - UConn Today",
-          "News - Medical Officer of the Marine Corps Visits MCRD San Diego - DVIDS",
-          "Dr. Linda Liau awarded 2026 UCLA Younes Nazarian Medical Humanitarian Prize for brain cancer research and treatment - UCLA Health"
+          "Milwaukee VA Medical Center unveils new arts beautification effort with help from Brewers - VA.gov Home | Veterans Affairs",
+          "New medical students continue ʻImi Hoʻōla’s mission to serve Hawaiʻi - University of Hawaii System"
         ]
       },
       {
@@ -2310,30 +2310,8 @@
         "score": 15,
         "examples": [
           "University Honors Health Fellows Program to Expand Student Opportunity and Strengthen Tennessee’s Healthcare Workforce - University of Tennessee, Knoxville",
-          "States have tools to slow healthcare spending growth, new UCLA Health report finds - UCLA Health",
-          "Sentara's Epic EHR model targets MRSA infections early - Healthcare IT News"
-        ]
-      },
-      {
-        "trend": "mental",
-        "market_code": "SA",
-        "category": "Mental Health",
-        "score": 12,
-        "examples": [
-          "Trump dismisses mental health concerns on USS Lincoln aircraft carrier - Al Jazeera",
-          "Selena Gomez and her mother accused of fraud over their mental health company - NBC News",
-          "Trump dismisses mental health concerns on USS Lincoln aircraft carrier - Al Jazeera"
-        ]
-      },
-      {
-        "trend": "mental health",
-        "market_code": "SA",
-        "category": "Mental Health",
-        "score": 12,
-        "examples": [
-          "Trump dismisses mental health concerns on USS Lincoln aircraft carrier - Al Jazeera",
-          "Selena Gomez and her mother accused of fraud over their mental health company - NBC News",
-          "Trump dismisses mental health concerns on USS Lincoln aircraft carrier - Al Jazeera"
+          "Patients Wary of Governments, Companies Pushing AI as a Rural Healthcare Solution - KFF Health News",
+          "‘Hey, Siri. How do I draw blood?’ New AI medical tech is transforming healthcare. Are we ready? - NJ.com"
         ]
       },
       {
@@ -2342,8 +2320,8 @@
         "category": "Outbreaks",
         "score": 11,
         "examples": [
-          "NYC Health Department announces two more deaths in Upper East Side Legionnaires' outbreak - ABC7 New York",
-          "FDA in Mexico a month after linking Taylor Farms to cyclospora outbreak - The Washington Post",
+          "South Korea issues a malaria health alert - Outbreak News Today",
+          "South Korea issues a malaria health alert - Outbreak News Today",
           "2 more states added to cyclospora outbreak linked to lettuce - NewsNation"
         ]
       },
@@ -2351,11 +2329,44 @@
         "trend": "virus",
         "market_code": "SA",
         "category": "Outbreaks",
-        "score": 10,
+        "score": 11,
         "examples": [
-          "West Nile Virus Information - Andover, MA (.gov)",
-          "First human West Nile virus case confirmed in Yuba County this year - ABC10",
+          "West Nile virus found in Hyrum Dam mosquito samples - ABC4 Utah",
+          "New Jersey Reports First Case Of Zika Virus Since 2020 - newjersey.news12.com",
           "Yuba County confirms first human West Nile virus case of 2026 - FOX40"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "SA",
+        "category": "Mental Health",
+        "score": 9,
+        "examples": [
+          "Trump dismisses mental health concerns on USS Lincoln aircraft carrier - Al Jazeera",
+          "Trump dismisses mental health concerns on USS Lincoln aircraft carrier - Al Jazeera",
+          "ICYMI: Kelly Blasts Hegseth's Dismissiveness on Mental Health Crisis Aboard USS Lincoln, Calls for Sailors to Get Immediate Help - U.S. Senate (.gov)"
+        ]
+      },
+      {
+        "trend": "mental health",
+        "market_code": "SA",
+        "category": "Mental Health",
+        "score": 9,
+        "examples": [
+          "Trump dismisses mental health concerns on USS Lincoln aircraft carrier - Al Jazeera",
+          "Trump dismisses mental health concerns on USS Lincoln aircraft carrier - Al Jazeera",
+          "ICYMI: Kelly Blasts Hegseth's Dismissiveness on Mental Health Crisis Aboard USS Lincoln, Calls for Sailors to Get Immediate Help - U.S. Senate (.gov)"
+        ]
+      },
+      {
+        "trend": "health alert",
+        "market_code": "SA",
+        "category": "Arab Health",
+        "score": 8,
+        "examples": [
+          "DOH-Orange Issues Blue-Green Algae Health Alert for Lake Formosa (Pedestrian Bridge) - Florida Department of Health in Orange County (.gov)",
+          "South Korea issues a malaria health alert - Outbreak News Today",
+          "DOH-Orange Issues Blue-Green Algae Health Alert for Lake Formosa (Pedestrian Bridge) - Florida Department of Health in Orange County (.gov)"
         ]
       },
       {
@@ -2364,9 +2375,9 @@
         "category": "Outbreaks",
         "score": 8,
         "examples": [
-          "West Nile Virus Information - Andover, MA (.gov)",
-          "First human West Nile virus case confirmed in Yuba County this year - ABC10",
-          "Yuba County confirms first human West Nile virus case of 2026 - FOX40"
+          "West Nile virus found in Hyrum Dam mosquito samples - ABC4 Utah",
+          "Yuba County confirms first human West Nile virus case of 2026 - FOX40",
+          "West Nile Virus Information - Andover, MA (.gov)"
         ]
       },
       {
@@ -2375,20 +2386,9 @@
         "category": "Outbreaks",
         "score": 8,
         "examples": [
-          "West Nile Virus Information - Andover, MA (.gov)",
-          "First human West Nile virus case confirmed in Yuba County this year - ABC10",
-          "Yuba County confirms first human West Nile virus case of 2026 - FOX40"
-        ]
-      },
-      {
-        "trend": "cancer",
-        "market_code": "SA",
-        "category": "Chronic Disease",
-        "score": 7,
-        "examples": [
-          "Dr. Linda Liau awarded 2026 UCLA Younes Nazarian Medical Humanitarian Prize for brain cancer research and treatment - UCLA Health",
-          "MSTP student receives Kirkpatrick Award for cancer immunity research: CT Plus - UT Southwestern",
-          "Pennsylvania Department of Health Urges Residents to Watch for Skin Cancer Warning Signs - Franklin County Free Press"
+          "West Nile virus found in Hyrum Dam mosquito samples - ABC4 Utah",
+          "Yuba County confirms first human West Nile virus case of 2026 - FOX40",
+          "West Nile Virus Information - Andover, MA (.gov)"
         ]
       },
       {
@@ -2397,20 +2397,20 @@
         "category": "Arab Health",
         "score": 7,
         "examples": [
-          "The path to a breakthrough public health contract - Washington State Nurses Association - WSNA",
-          "Youth vaping remains critical public health crisis, health department warns - WAFB",
-          "In Idaho, public health officials are trying to curb the rat infestation — with a $250K fund - Idaho Capital Sun"
+          "Photo Gallery - Johns Hopkins Bloomberg School of Public Health",
+          "Trump’s Vaccine Order Will Harm Public Health - Progressive.org",
+          "The path to a breakthrough public health contract - Washington State Nurses Association - WSNA"
         ]
       },
       {
-        "trend": "hospital",
+        "trend": "cancer",
         "market_code": "SA",
-        "category": "Arab Health",
-        "score": 7,
+        "category": "Chronic Disease",
+        "score": 6,
         "examples": [
-          "How one San Antonio hospital is dealing with a hard-to-kill fungus - San Antonio Report",
-          "Doximity bets big on hospital adoption of enterprise AI as it ramps up tech spending - Fierce Healthcare",
-          "What Is Lifestyle Medicine? - HSS | Hospital for Special Surgery"
+          "Dr. Linda Liau awarded 2026 UCLA Younes Nazarian Medical Humanitarian Prize for brain cancer research and treatment - UCLA Health",
+          "Like it or not, AI psycho-oncology care is already happening. Urgently needed: An ethical framework Developers and mental health providers must share the same goal: Safe, equitable, trustworthy, and patient-centered care - The Cancer Letter",
+          "FDA Expands Clinical Trial Eligibility for Cancer Patients - oncologynewscentral.com"
         ]
       }
     ],
@@ -2422,8 +2422,8 @@
         "score": 75,
         "examples": [
           "University Honors Health Fellows Program to Expand Student Opportunity and Strengthen Tennessee’s Healthcare Workforce - University of Tennessee, Knoxville",
-          "DoD changes transitional health care eligibility for reservists following lawsuit - Federal News Network",
-          "Trump dismisses mental health concerns on USS Lincoln aircraft carrier - Al Jazeera"
+          "3 UC Davis Health researchers awarded state grants to advance health equity through precision medicine - UC Davis Health",
+          "3 UC Davis Health researchers awarded state grants to advance health equity through precision medicine - UC Davis Health"
         ]
       },
       {
@@ -2433,8 +2433,8 @@
         "score": 16,
         "examples": [
           "UConn’s Largest Medical School Class Yet Dons 117 New White Coats - UConn Today",
-          "News - Medical Officer of the Marine Corps Visits MCRD San Diego - DVIDS",
-          "Dr. Linda Liau awarded 2026 UCLA Younes Nazarian Medical Humanitarian Prize for brain cancer research and treatment - UCLA Health"
+          "Milwaukee VA Medical Center unveils new arts beautification effort with help from Brewers - VA.gov Home | Veterans Affairs",
+          "New medical students continue ʻImi Hoʻōla’s mission to serve Hawaiʻi - University of Hawaii System"
         ]
       },
       {
@@ -2444,30 +2444,8 @@
         "score": 15,
         "examples": [
           "University Honors Health Fellows Program to Expand Student Opportunity and Strengthen Tennessee’s Healthcare Workforce - University of Tennessee, Knoxville",
-          "States have tools to slow healthcare spending growth, new UCLA Health report finds - UCLA Health",
-          "Sentara's Epic EHR model targets MRSA infections early - Healthcare IT News"
-        ]
-      },
-      {
-        "trend": "mental",
-        "market_code": "QA",
-        "category": "Mental Health",
-        "score": 12,
-        "examples": [
-          "Trump dismisses mental health concerns on USS Lincoln aircraft carrier - Al Jazeera",
-          "Selena Gomez and her mother accused of fraud over their mental health company - NBC News",
-          "Trump dismisses mental health concerns on USS Lincoln aircraft carrier - Al Jazeera"
-        ]
-      },
-      {
-        "trend": "mental health",
-        "market_code": "QA",
-        "category": "Mental Health",
-        "score": 12,
-        "examples": [
-          "Trump dismisses mental health concerns on USS Lincoln aircraft carrier - Al Jazeera",
-          "Selena Gomez and her mother accused of fraud over their mental health company - NBC News",
-          "Trump dismisses mental health concerns on USS Lincoln aircraft carrier - Al Jazeera"
+          "Patients Wary of Governments, Companies Pushing AI as a Rural Healthcare Solution - KFF Health News",
+          "‘Hey, Siri. How do I draw blood?’ New AI medical tech is transforming healthcare. Are we ready? - NJ.com"
         ]
       },
       {
@@ -2476,8 +2454,8 @@
         "category": "Outbreaks",
         "score": 11,
         "examples": [
-          "NYC Health Department announces two more deaths in Upper East Side Legionnaires' outbreak - ABC7 New York",
-          "FDA in Mexico a month after linking Taylor Farms to cyclospora outbreak - The Washington Post",
+          "South Korea issues a malaria health alert - Outbreak News Today",
+          "South Korea issues a malaria health alert - Outbreak News Today",
           "2 more states added to cyclospora outbreak linked to lettuce - NewsNation"
         ]
       },
@@ -2485,11 +2463,44 @@
         "trend": "virus",
         "market_code": "QA",
         "category": "Outbreaks",
-        "score": 10,
+        "score": 11,
         "examples": [
-          "West Nile Virus Information - Andover, MA (.gov)",
-          "First human West Nile virus case confirmed in Yuba County this year - ABC10",
+          "West Nile virus found in Hyrum Dam mosquito samples - ABC4 Utah",
+          "New Jersey Reports First Case Of Zika Virus Since 2020 - newjersey.news12.com",
           "Yuba County confirms first human West Nile virus case of 2026 - FOX40"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "QA",
+        "category": "Mental Health",
+        "score": 9,
+        "examples": [
+          "Trump dismisses mental health concerns on USS Lincoln aircraft carrier - Al Jazeera",
+          "Trump dismisses mental health concerns on USS Lincoln aircraft carrier - Al Jazeera",
+          "ICYMI: Kelly Blasts Hegseth's Dismissiveness on Mental Health Crisis Aboard USS Lincoln, Calls for Sailors to Get Immediate Help - U.S. Senate (.gov)"
+        ]
+      },
+      {
+        "trend": "mental health",
+        "market_code": "QA",
+        "category": "Mental Health",
+        "score": 9,
+        "examples": [
+          "Trump dismisses mental health concerns on USS Lincoln aircraft carrier - Al Jazeera",
+          "Trump dismisses mental health concerns on USS Lincoln aircraft carrier - Al Jazeera",
+          "ICYMI: Kelly Blasts Hegseth's Dismissiveness on Mental Health Crisis Aboard USS Lincoln, Calls for Sailors to Get Immediate Help - U.S. Senate (.gov)"
+        ]
+      },
+      {
+        "trend": "health alert",
+        "market_code": "QA",
+        "category": "Arab Health",
+        "score": 8,
+        "examples": [
+          "DOH-Orange Issues Blue-Green Algae Health Alert for Lake Formosa (Pedestrian Bridge) - Florida Department of Health in Orange County (.gov)",
+          "South Korea issues a malaria health alert - Outbreak News Today",
+          "DOH-Orange Issues Blue-Green Algae Health Alert for Lake Formosa (Pedestrian Bridge) - Florida Department of Health in Orange County (.gov)"
         ]
       },
       {
@@ -2498,9 +2509,9 @@
         "category": "Outbreaks",
         "score": 8,
         "examples": [
-          "West Nile Virus Information - Andover, MA (.gov)",
-          "First human West Nile virus case confirmed in Yuba County this year - ABC10",
-          "Yuba County confirms first human West Nile virus case of 2026 - FOX40"
+          "West Nile virus found in Hyrum Dam mosquito samples - ABC4 Utah",
+          "Yuba County confirms first human West Nile virus case of 2026 - FOX40",
+          "West Nile Virus Information - Andover, MA (.gov)"
         ]
       },
       {
@@ -2509,20 +2520,9 @@
         "category": "Outbreaks",
         "score": 8,
         "examples": [
-          "West Nile Virus Information - Andover, MA (.gov)",
-          "First human West Nile virus case confirmed in Yuba County this year - ABC10",
-          "Yuba County confirms first human West Nile virus case of 2026 - FOX40"
-        ]
-      },
-      {
-        "trend": "cancer",
-        "market_code": "QA",
-        "category": "Chronic Disease",
-        "score": 7,
-        "examples": [
-          "Dr. Linda Liau awarded 2026 UCLA Younes Nazarian Medical Humanitarian Prize for brain cancer research and treatment - UCLA Health",
-          "MSTP student receives Kirkpatrick Award for cancer immunity research: CT Plus - UT Southwestern",
-          "Pennsylvania Department of Health Urges Residents to Watch for Skin Cancer Warning Signs - Franklin County Free Press"
+          "West Nile virus found in Hyrum Dam mosquito samples - ABC4 Utah",
+          "Yuba County confirms first human West Nile virus case of 2026 - FOX40",
+          "West Nile Virus Information - Andover, MA (.gov)"
         ]
       },
       {
@@ -2531,20 +2531,20 @@
         "category": "Arab Health",
         "score": 7,
         "examples": [
-          "The path to a breakthrough public health contract - Washington State Nurses Association - WSNA",
-          "Youth vaping remains critical public health crisis, health department warns - WAFB",
-          "In Idaho, public health officials are trying to curb the rat infestation — with a $250K fund - Idaho Capital Sun"
+          "Photo Gallery - Johns Hopkins Bloomberg School of Public Health",
+          "Trump’s Vaccine Order Will Harm Public Health - Progressive.org",
+          "The path to a breakthrough public health contract - Washington State Nurses Association - WSNA"
         ]
       },
       {
-        "trend": "hospital",
+        "trend": "cancer",
         "market_code": "QA",
-        "category": "Arab Health",
-        "score": 7,
+        "category": "Chronic Disease",
+        "score": 6,
         "examples": [
-          "How one San Antonio hospital is dealing with a hard-to-kill fungus - San Antonio Report",
-          "Doximity bets big on hospital adoption of enterprise AI as it ramps up tech spending - Fierce Healthcare",
-          "What Is Lifestyle Medicine? - HSS | Hospital for Special Surgery"
+          "Dr. Linda Liau awarded 2026 UCLA Younes Nazarian Medical Humanitarian Prize for brain cancer research and treatment - UCLA Health",
+          "Like it or not, AI psycho-oncology care is already happening. Urgently needed: An ethical framework Developers and mental health providers must share the same goal: Safe, equitable, trustworthy, and patient-centered care - The Cancer Letter",
+          "FDA Expands Clinical Trial Eligibility for Cancer Patients - oncologynewscentral.com"
         ]
       }
     ],
@@ -2556,8 +2556,8 @@
         "score": 75,
         "examples": [
           "University Honors Health Fellows Program to Expand Student Opportunity and Strengthen Tennessee’s Healthcare Workforce - University of Tennessee, Knoxville",
-          "DoD changes transitional health care eligibility for reservists following lawsuit - Federal News Network",
-          "Trump dismisses mental health concerns on USS Lincoln aircraft carrier - Al Jazeera"
+          "3 UC Davis Health researchers awarded state grants to advance health equity through precision medicine - UC Davis Health",
+          "3 UC Davis Health researchers awarded state grants to advance health equity through precision medicine - UC Davis Health"
         ]
       },
       {
@@ -2567,8 +2567,8 @@
         "score": 16,
         "examples": [
           "UConn’s Largest Medical School Class Yet Dons 117 New White Coats - UConn Today",
-          "News - Medical Officer of the Marine Corps Visits MCRD San Diego - DVIDS",
-          "Dr. Linda Liau awarded 2026 UCLA Younes Nazarian Medical Humanitarian Prize for brain cancer research and treatment - UCLA Health"
+          "Milwaukee VA Medical Center unveils new arts beautification effort with help from Brewers - VA.gov Home | Veterans Affairs",
+          "New medical students continue ʻImi Hoʻōla’s mission to serve Hawaiʻi - University of Hawaii System"
         ]
       },
       {
@@ -2578,30 +2578,8 @@
         "score": 15,
         "examples": [
           "University Honors Health Fellows Program to Expand Student Opportunity and Strengthen Tennessee’s Healthcare Workforce - University of Tennessee, Knoxville",
-          "States have tools to slow healthcare spending growth, new UCLA Health report finds - UCLA Health",
-          "Sentara's Epic EHR model targets MRSA infections early - Healthcare IT News"
-        ]
-      },
-      {
-        "trend": "mental",
-        "market_code": "JO",
-        "category": "Mental Health",
-        "score": 12,
-        "examples": [
-          "Trump dismisses mental health concerns on USS Lincoln aircraft carrier - Al Jazeera",
-          "Selena Gomez and her mother accused of fraud over their mental health company - NBC News",
-          "Trump dismisses mental health concerns on USS Lincoln aircraft carrier - Al Jazeera"
-        ]
-      },
-      {
-        "trend": "mental health",
-        "market_code": "JO",
-        "category": "Mental Health",
-        "score": 12,
-        "examples": [
-          "Trump dismisses mental health concerns on USS Lincoln aircraft carrier - Al Jazeera",
-          "Selena Gomez and her mother accused of fraud over their mental health company - NBC News",
-          "Trump dismisses mental health concerns on USS Lincoln aircraft carrier - Al Jazeera"
+          "Patients Wary of Governments, Companies Pushing AI as a Rural Healthcare Solution - KFF Health News",
+          "‘Hey, Siri. How do I draw blood?’ New AI medical tech is transforming healthcare. Are we ready? - NJ.com"
         ]
       },
       {
@@ -2610,8 +2588,8 @@
         "category": "Outbreaks",
         "score": 11,
         "examples": [
-          "NYC Health Department announces two more deaths in Upper East Side Legionnaires' outbreak - ABC7 New York",
-          "FDA in Mexico a month after linking Taylor Farms to cyclospora outbreak - The Washington Post",
+          "South Korea issues a malaria health alert - Outbreak News Today",
+          "South Korea issues a malaria health alert - Outbreak News Today",
           "2 more states added to cyclospora outbreak linked to lettuce - NewsNation"
         ]
       },
@@ -2619,11 +2597,44 @@
         "trend": "virus",
         "market_code": "JO",
         "category": "Outbreaks",
-        "score": 10,
+        "score": 11,
         "examples": [
-          "West Nile Virus Information - Andover, MA (.gov)",
-          "First human West Nile virus case confirmed in Yuba County this year - ABC10",
+          "West Nile virus found in Hyrum Dam mosquito samples - ABC4 Utah",
+          "New Jersey Reports First Case Of Zika Virus Since 2020 - newjersey.news12.com",
           "Yuba County confirms first human West Nile virus case of 2026 - FOX40"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "JO",
+        "category": "Mental Health",
+        "score": 9,
+        "examples": [
+          "Trump dismisses mental health concerns on USS Lincoln aircraft carrier - Al Jazeera",
+          "Trump dismisses mental health concerns on USS Lincoln aircraft carrier - Al Jazeera",
+          "ICYMI: Kelly Blasts Hegseth's Dismissiveness on Mental Health Crisis Aboard USS Lincoln, Calls for Sailors to Get Immediate Help - U.S. Senate (.gov)"
+        ]
+      },
+      {
+        "trend": "mental health",
+        "market_code": "JO",
+        "category": "Mental Health",
+        "score": 9,
+        "examples": [
+          "Trump dismisses mental health concerns on USS Lincoln aircraft carrier - Al Jazeera",
+          "Trump dismisses mental health concerns on USS Lincoln aircraft carrier - Al Jazeera",
+          "ICYMI: Kelly Blasts Hegseth's Dismissiveness on Mental Health Crisis Aboard USS Lincoln, Calls for Sailors to Get Immediate Help - U.S. Senate (.gov)"
+        ]
+      },
+      {
+        "trend": "health alert",
+        "market_code": "JO",
+        "category": "Arab Health",
+        "score": 8,
+        "examples": [
+          "DOH-Orange Issues Blue-Green Algae Health Alert for Lake Formosa (Pedestrian Bridge) - Florida Department of Health in Orange County (.gov)",
+          "South Korea issues a malaria health alert - Outbreak News Today",
+          "DOH-Orange Issues Blue-Green Algae Health Alert for Lake Formosa (Pedestrian Bridge) - Florida Department of Health in Orange County (.gov)"
         ]
       },
       {
@@ -2632,9 +2643,9 @@
         "category": "Outbreaks",
         "score": 8,
         "examples": [
-          "West Nile Virus Information - Andover, MA (.gov)",
-          "First human West Nile virus case confirmed in Yuba County this year - ABC10",
-          "Yuba County confirms first human West Nile virus case of 2026 - FOX40"
+          "West Nile virus found in Hyrum Dam mosquito samples - ABC4 Utah",
+          "Yuba County confirms first human West Nile virus case of 2026 - FOX40",
+          "West Nile Virus Information - Andover, MA (.gov)"
         ]
       },
       {
@@ -2643,20 +2654,9 @@
         "category": "Outbreaks",
         "score": 8,
         "examples": [
-          "West Nile Virus Information - Andover, MA (.gov)",
-          "First human West Nile virus case confirmed in Yuba County this year - ABC10",
-          "Yuba County confirms first human West Nile virus case of 2026 - FOX40"
-        ]
-      },
-      {
-        "trend": "cancer",
-        "market_code": "JO",
-        "category": "Chronic Disease",
-        "score": 7,
-        "examples": [
-          "Dr. Linda Liau awarded 2026 UCLA Younes Nazarian Medical Humanitarian Prize for brain cancer research and treatment - UCLA Health",
-          "MSTP student receives Kirkpatrick Award for cancer immunity research: CT Plus - UT Southwestern",
-          "Pennsylvania Department of Health Urges Residents to Watch for Skin Cancer Warning Signs - Franklin County Free Press"
+          "West Nile virus found in Hyrum Dam mosquito samples - ABC4 Utah",
+          "Yuba County confirms first human West Nile virus case of 2026 - FOX40",
+          "West Nile Virus Information - Andover, MA (.gov)"
         ]
       },
       {
@@ -2665,20 +2665,20 @@
         "category": "Arab Health",
         "score": 7,
         "examples": [
-          "The path to a breakthrough public health contract - Washington State Nurses Association - WSNA",
-          "Youth vaping remains critical public health crisis, health department warns - WAFB",
-          "In Idaho, public health officials are trying to curb the rat infestation — with a $250K fund - Idaho Capital Sun"
+          "Photo Gallery - Johns Hopkins Bloomberg School of Public Health",
+          "Trump’s Vaccine Order Will Harm Public Health - Progressive.org",
+          "The path to a breakthrough public health contract - Washington State Nurses Association - WSNA"
         ]
       },
       {
-        "trend": "hospital",
+        "trend": "cancer",
         "market_code": "JO",
-        "category": "Arab Health",
-        "score": 7,
+        "category": "Chronic Disease",
+        "score": 6,
         "examples": [
-          "How one San Antonio hospital is dealing with a hard-to-kill fungus - San Antonio Report",
-          "Doximity bets big on hospital adoption of enterprise AI as it ramps up tech spending - Fierce Healthcare",
-          "What Is Lifestyle Medicine? - HSS | Hospital for Special Surgery"
+          "Dr. Linda Liau awarded 2026 UCLA Younes Nazarian Medical Humanitarian Prize for brain cancer research and treatment - UCLA Health",
+          "Like it or not, AI psycho-oncology care is already happening. Urgently needed: An ethical framework Developers and mental health providers must share the same goal: Safe, equitable, trustworthy, and patient-centered care - The Cancer Letter",
+          "FDA Expands Clinical Trial Eligibility for Cancer Patients - oncologynewscentral.com"
         ]
       }
     ],
@@ -2690,8 +2690,8 @@
         "score": 75,
         "examples": [
           "University Honors Health Fellows Program to Expand Student Opportunity and Strengthen Tennessee’s Healthcare Workforce - University of Tennessee, Knoxville",
-          "DoD changes transitional health care eligibility for reservists following lawsuit - Federal News Network",
-          "Trump dismisses mental health concerns on USS Lincoln aircraft carrier - Al Jazeera"
+          "3 UC Davis Health researchers awarded state grants to advance health equity through precision medicine - UC Davis Health",
+          "3 UC Davis Health researchers awarded state grants to advance health equity through precision medicine - UC Davis Health"
         ]
       },
       {
@@ -2701,8 +2701,8 @@
         "score": 16,
         "examples": [
           "UConn’s Largest Medical School Class Yet Dons 117 New White Coats - UConn Today",
-          "News - Medical Officer of the Marine Corps Visits MCRD San Diego - DVIDS",
-          "Dr. Linda Liau awarded 2026 UCLA Younes Nazarian Medical Humanitarian Prize for brain cancer research and treatment - UCLA Health"
+          "Milwaukee VA Medical Center unveils new arts beautification effort with help from Brewers - VA.gov Home | Veterans Affairs",
+          "New medical students continue ʻImi Hoʻōla’s mission to serve Hawaiʻi - University of Hawaii System"
         ]
       },
       {
@@ -2712,30 +2712,8 @@
         "score": 15,
         "examples": [
           "University Honors Health Fellows Program to Expand Student Opportunity and Strengthen Tennessee’s Healthcare Workforce - University of Tennessee, Knoxville",
-          "States have tools to slow healthcare spending growth, new UCLA Health report finds - UCLA Health",
-          "Sentara's Epic EHR model targets MRSA infections early - Healthcare IT News"
-        ]
-      },
-      {
-        "trend": "mental",
-        "market_code": "LB",
-        "category": "Mental Health",
-        "score": 12,
-        "examples": [
-          "Trump dismisses mental health concerns on USS Lincoln aircraft carrier - Al Jazeera",
-          "Selena Gomez and her mother accused of fraud over their mental health company - NBC News",
-          "Trump dismisses mental health concerns on USS Lincoln aircraft carrier - Al Jazeera"
-        ]
-      },
-      {
-        "trend": "mental health",
-        "market_code": "LB",
-        "category": "Mental Health",
-        "score": 12,
-        "examples": [
-          "Trump dismisses mental health concerns on USS Lincoln aircraft carrier - Al Jazeera",
-          "Selena Gomez and her mother accused of fraud over their mental health company - NBC News",
-          "Trump dismisses mental health concerns on USS Lincoln aircraft carrier - Al Jazeera"
+          "Patients Wary of Governments, Companies Pushing AI as a Rural Healthcare Solution - KFF Health News",
+          "‘Hey, Siri. How do I draw blood?’ New AI medical tech is transforming healthcare. Are we ready? - NJ.com"
         ]
       },
       {
@@ -2744,8 +2722,8 @@
         "category": "Outbreaks",
         "score": 11,
         "examples": [
-          "NYC Health Department announces two more deaths in Upper East Side Legionnaires' outbreak - ABC7 New York",
-          "FDA in Mexico a month after linking Taylor Farms to cyclospora outbreak - The Washington Post",
+          "South Korea issues a malaria health alert - Outbreak News Today",
+          "South Korea issues a malaria health alert - Outbreak News Today",
           "2 more states added to cyclospora outbreak linked to lettuce - NewsNation"
         ]
       },
@@ -2753,11 +2731,44 @@
         "trend": "virus",
         "market_code": "LB",
         "category": "Outbreaks",
-        "score": 10,
+        "score": 11,
         "examples": [
-          "West Nile Virus Information - Andover, MA (.gov)",
-          "First human West Nile virus case confirmed in Yuba County this year - ABC10",
+          "West Nile virus found in Hyrum Dam mosquito samples - ABC4 Utah",
+          "New Jersey Reports First Case Of Zika Virus Since 2020 - newjersey.news12.com",
           "Yuba County confirms first human West Nile virus case of 2026 - FOX40"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "LB",
+        "category": "Mental Health",
+        "score": 9,
+        "examples": [
+          "Trump dismisses mental health concerns on USS Lincoln aircraft carrier - Al Jazeera",
+          "Trump dismisses mental health concerns on USS Lincoln aircraft carrier - Al Jazeera",
+          "ICYMI: Kelly Blasts Hegseth's Dismissiveness on Mental Health Crisis Aboard USS Lincoln, Calls for Sailors to Get Immediate Help - U.S. Senate (.gov)"
+        ]
+      },
+      {
+        "trend": "mental health",
+        "market_code": "LB",
+        "category": "Mental Health",
+        "score": 9,
+        "examples": [
+          "Trump dismisses mental health concerns on USS Lincoln aircraft carrier - Al Jazeera",
+          "Trump dismisses mental health concerns on USS Lincoln aircraft carrier - Al Jazeera",
+          "ICYMI: Kelly Blasts Hegseth's Dismissiveness on Mental Health Crisis Aboard USS Lincoln, Calls for Sailors to Get Immediate Help - U.S. Senate (.gov)"
+        ]
+      },
+      {
+        "trend": "health alert",
+        "market_code": "LB",
+        "category": "Arab Health",
+        "score": 8,
+        "examples": [
+          "DOH-Orange Issues Blue-Green Algae Health Alert for Lake Formosa (Pedestrian Bridge) - Florida Department of Health in Orange County (.gov)",
+          "South Korea issues a malaria health alert - Outbreak News Today",
+          "DOH-Orange Issues Blue-Green Algae Health Alert for Lake Formosa (Pedestrian Bridge) - Florida Department of Health in Orange County (.gov)"
         ]
       },
       {
@@ -2766,9 +2777,9 @@
         "category": "Outbreaks",
         "score": 8,
         "examples": [
-          "West Nile Virus Information - Andover, MA (.gov)",
-          "First human West Nile virus case confirmed in Yuba County this year - ABC10",
-          "Yuba County confirms first human West Nile virus case of 2026 - FOX40"
+          "West Nile virus found in Hyrum Dam mosquito samples - ABC4 Utah",
+          "Yuba County confirms first human West Nile virus case of 2026 - FOX40",
+          "West Nile Virus Information - Andover, MA (.gov)"
         ]
       },
       {
@@ -2777,20 +2788,9 @@
         "category": "Outbreaks",
         "score": 8,
         "examples": [
-          "West Nile Virus Information - Andover, MA (.gov)",
-          "First human West Nile virus case confirmed in Yuba County this year - ABC10",
-          "Yuba County confirms first human West Nile virus case of 2026 - FOX40"
-        ]
-      },
-      {
-        "trend": "cancer",
-        "market_code": "LB",
-        "category": "Chronic Disease",
-        "score": 7,
-        "examples": [
-          "Dr. Linda Liau awarded 2026 UCLA Younes Nazarian Medical Humanitarian Prize for brain cancer research and treatment - UCLA Health",
-          "MSTP student receives Kirkpatrick Award for cancer immunity research: CT Plus - UT Southwestern",
-          "Pennsylvania Department of Health Urges Residents to Watch for Skin Cancer Warning Signs - Franklin County Free Press"
+          "West Nile virus found in Hyrum Dam mosquito samples - ABC4 Utah",
+          "Yuba County confirms first human West Nile virus case of 2026 - FOX40",
+          "West Nile Virus Information - Andover, MA (.gov)"
         ]
       },
       {
@@ -2799,20 +2799,20 @@
         "category": "Arab Health",
         "score": 7,
         "examples": [
-          "The path to a breakthrough public health contract - Washington State Nurses Association - WSNA",
-          "Youth vaping remains critical public health crisis, health department warns - WAFB",
-          "In Idaho, public health officials are trying to curb the rat infestation — with a $250K fund - Idaho Capital Sun"
+          "Photo Gallery - Johns Hopkins Bloomberg School of Public Health",
+          "Trump’s Vaccine Order Will Harm Public Health - Progressive.org",
+          "The path to a breakthrough public health contract - Washington State Nurses Association - WSNA"
         ]
       },
       {
-        "trend": "hospital",
+        "trend": "cancer",
         "market_code": "LB",
-        "category": "Arab Health",
-        "score": 7,
+        "category": "Chronic Disease",
+        "score": 6,
         "examples": [
-          "How one San Antonio hospital is dealing with a hard-to-kill fungus - San Antonio Report",
-          "Doximity bets big on hospital adoption of enterprise AI as it ramps up tech spending - Fierce Healthcare",
-          "What Is Lifestyle Medicine? - HSS | Hospital for Special Surgery"
+          "Dr. Linda Liau awarded 2026 UCLA Younes Nazarian Medical Humanitarian Prize for brain cancer research and treatment - UCLA Health",
+          "Like it or not, AI psycho-oncology care is already happening. Urgently needed: An ethical framework Developers and mental health providers must share the same goal: Safe, equitable, trustworthy, and patient-centered care - The Cancer Letter",
+          "FDA Expands Clinical Trial Eligibility for Cancer Patients - oncologynewscentral.com"
         ]
       }
     ]
