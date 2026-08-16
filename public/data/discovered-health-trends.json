@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-16T06:18:05.348398+00:00",
+  "updated_at": "2026-08-16T12:13:05.170263+00:00",
   "total_trends": 252,
   "markets": {
     "United States": [
@@ -7,11 +7,11 @@
         "trend": "health",
         "market_code": "US",
         "category": "US Health",
-        "score": 61,
+        "score": 55,
         "examples": [
-          "Bruin to Bruin: Internationally renowned health economist, global health reform leader and UCLA Associate of the Chancellor Dr. Felicia Marie Knaul - Daily Bruin",
-          "Bruin to Bruin: Internationally renowned health economist, global health reform leader and UCLA Associate of the Chancellor Dr. Felicia Marie Knaul - Daily Bruin",
-          "Bernalillo County's Behavioral Health Unit rapidly grows, diverting 911 calls - Santa Fe New Mexican"
+          "How AI could bring Mayo-quality health care to everyone - Axios",
+          "Novak Djokovic Reveals He’s Been ‘Dealing With (A Health Issue) For Many Years Now’ - Forbes",
+          "Bexar County health department at risk as ARPA money runs out - San Antonio Report"
         ]
       },
       {
@@ -20,31 +20,53 @@
         "category": "US Health",
         "score": 15,
         "examples": [
+          "Clinic closures expose the fragile state of rural healthcare in Oklahoma - Tulsa World",
           "Cases of a fungus found in healthcare facilities, are rising rapidly - Scripps News",
-          "Patients Wary of Governments, Companies Pushing AI as a Rural Healthcare Solution - KFF Health News",
-          "Five Atlanta healthcare companies using AI to cut costs, improve care - The Business Journals"
+          "Patients Wary of Governments, Companies Pushing AI as a Rural Healthcare Solution - KFF Health News"
         ]
       },
       {
         "trend": "medical",
         "market_code": "US",
         "category": "US Health",
-        "score": 13,
+        "score": 14,
         "examples": [
-          "AI Is Helping Patients Solve Medical Mysteries - WSJ",
-          "Immigrant detained by ICE dies after medical emergency - NBC News",
-          "New approach opens rare immune cells to genetic risk research - Medical Xpress"
+          "UNC football defensive coordinator Steve Belichick on medical leave - The Daily Tar Heel",
+          "Potentially Low-Value Medical Interventions in Frail Older Adults Near the End of Life: A Narrative Review - Cureus",
+          "Inspire Medical Systems (INSP) Stock May Be Cheap After A 74% Fall - Yahoo Finance"
         ]
       },
       {
         "trend": "outbreak",
         "market_code": "US",
         "category": "Outbreaks",
-        "score": 12,
+        "score": 11,
         "examples": [
           "Massive egg recall in US south and south-west due to salmonella outbreak - The Guardian",
+          "Cholera Outbreak Sickens Over 90 in Myanmar’s Biggest City - nytimes.com",
+          "Why is the latest Ebola outbreak worsening? - Al Jazeera"
+        ]
+      },
+      {
+        "trend": "heart",
+        "market_code": "US",
+        "category": "Chronic Disease",
+        "score": 7,
+        "examples": [
+          "You Don’t Need 10,000 Steps to Help Your Heart - Time Magazine",
+          "You Don’t Need 10,000 Steps to Help Your Heart - Time Magazine",
+          "You Don’t Need 10,000 Steps to Help Your Heart - Time Magazine"
+        ]
+      },
+      {
+        "trend": "ebola outbreak",
+        "market_code": "US",
+        "category": "Outbreaks",
+        "score": 7,
+        "examples": [
           "Why is the latest Ebola outbreak worsening? - Al Jazeera",
-          "Kentucky health officials suspect measles outbreak after new case confirmed in Christian County - WDRB"
+          "Ebola outbreak in DR Congo worsens, long transmission warned - news.cgtn.com",
+          "Ebola outbreak in DR Congo: One death every 30 minutes - France 24"
         ]
       },
       {
@@ -53,9 +75,9 @@
         "category": "Mental Health",
         "score": 7,
         "examples": [
+          "Subconscious Restructuring Protocol in a Mental Health Quality Improvement Study: Reduced Treatment Duration and Improvement Across 17 Psychometric Outcomes in Adult Civilians, Veterans, and Adolescents - Cureus",
           "Lindsay Clancy trial reveals new details about mental health before killings - Scripps News",
-          "Selena Gomez Dismisses ‘Baseless’ Fraud Claims Over Mental Health Startup - inc.com",
-          "Astra is de-stigmatizing mental health one stroke at a time in the form of art. - WIBW"
+          "More than $1.3 million awarded to area schools for safety, mental health programs - fox56.com"
         ]
       },
       {
@@ -64,38 +86,38 @@
         "category": "Mental Health",
         "score": 7,
         "examples": [
+          "Subconscious Restructuring Protocol in a Mental Health Quality Improvement Study: Reduced Treatment Duration and Improvement Across 17 Psychometric Outcomes in Adult Civilians, Veterans, and Adolescents - Cureus",
           "Lindsay Clancy trial reveals new details about mental health before killings - Scripps News",
-          "Selena Gomez Dismisses ‘Baseless’ Fraud Claims Over Mental Health Startup - inc.com",
-          "Astra is de-stigmatizing mental health one stroke at a time in the form of art. - WIBW"
+          "More than $1.3 million awarded to area schools for safety, mental health programs - fox56.com"
         ]
       },
       {
-        "trend": "patients",
-        "market_code": "US",
-        "category": "US Health",
-        "score": 6,
-        "examples": [
-          "Ethicists: Clinicians aren’t wrong to expect more from certain patients’ families—but they wouldn’t be right to request it, either - HealthExec",
-          "AI Is Helping Patients Solve Medical Mysteries - WSJ",
-          "Gaza hospitals, patients at risk amid oxygen shortage, health ministry warns - Arab News PK"
-        ]
-      },
-      {
-        "trend": "ebola outbreak",
+        "trend": "covid-19",
         "market_code": "US",
         "category": "Outbreaks",
-        "score": 6,
+        "score": 5,
         "examples": [
-          "Why is the latest Ebola outbreak worsening? - Al Jazeera",
-          "Ebola outbreak in DR Congo: One death every 30 minutes - france24.com",
-          "These graphs show why this Ebola outbreak is set to be the worst in history - ABC News & Headlines – Australian Broadcasting Corporation"
+          "CDC won’t publish report showing COVID-19 vaccine effectiveness; former pharmacy president sentenced in $33M compounded drug kickback scheme; mRNA bird flu vaccine hits late-stage testing – Morning Medical Update - Medical Economics",
+          "COVID-19 awakens dormant viruses — and one is linked to long COVID - ScienceDaily",
+          "Epstein-Barr, herpes, long covid: Study discovers Covid-19 can reawaken dormant viruses in the body - Deccan Herald"
+        ]
+      },
+      {
+        "trend": "vaccine",
+        "market_code": "US",
+        "category": "Drug & Treatment News",
+        "score": 5,
+        "examples": [
+          "CDC won’t publish report showing COVID-19 vaccine effectiveness; former pharmacy president sentenced in $33M compounded drug kickback scheme; mRNA bird flu vaccine hits late-stage testing – Morning Medical Update - Medical Economics",
+          "CDC won’t publish report showing COVID-19 vaccine effectiveness; former pharmacy president sentenced in $33M compounded drug kickback scheme; mRNA bird flu vaccine hits late-stage testing – Morning Medical Update - Medical Economics",
+          "RNA researcher on F.D.A. approval of first mRNA influenza vaccine - UC Santa Cruz - News"
         ]
       },
       {
         "trend": "hospital",
         "market_code": "US",
         "category": "US Health",
-        "score": 6,
+        "score": 5,
         "examples": [
           "First Lawsuit Over the Jalapeño Salmonella Outbreak Names the Importer. An Illinois Woman Spent Three Days in the Hospital After Two Meals at a Springfield Chipotle. - Food Poison Journal",
           "Doximity bets big on hospital adoption of enterprise AI as it ramps up tech spending - Fierce Healthcare",
@@ -103,36 +125,14 @@
         ]
       },
       {
-        "trend": "hospitals",
+        "trend": "medicine",
         "market_code": "US",
         "category": "US Health",
         "score": 5,
         "examples": [
-          "Gaza hospitals, patients at risk amid oxygen shortage, health ministry warns - Arab News PK",
-          "What Medicare incentives for AI-based devices mean for tech companies — and hospitals - STAT",
-          "Ban prior auth? And hospitals cut jobs - STAT"
-        ]
-      },
-      {
-        "trend": "diseases",
-        "market_code": "US",
-        "category": "US Health",
-        "score": 5,
-        "examples": [
-          "IDSA Experts Warn of Summer Rise in Vector-Borne Diseases - Infectious Disease Special Edition",
-          "NFID Statement on Childhood Immunization Schedule - National Foundation for Infectious Diseases",
-          "IDSA Experts Warn of Summer Rise in Vector-Borne Diseases - Infectious Disease Special Edition"
-        ]
-      },
-      {
-        "trend": "disease",
-        "market_code": "US",
-        "category": "US Health",
-        "score": 5,
-        "examples": [
-          "IDSA Experts Warn of Summer Rise in Vector-Borne Diseases - Infectious Disease Special Edition",
-          "IDSA Experts Warn of Summer Rise in Vector-Borne Diseases - Infectious Disease Special Edition",
-          "This Week's Top 5 Infectious Disease News Stories: August 8-August 14, 2026 - Contagion Live"
+          "What Is Lifestyle Medicine? - HSS | Hospital for Special Surgery",
+          "Expert explainer: What ultra-processed foods mean for heart health - Schulich School of Medicine & Dentistry",
+          "Why back-to-school physicals matter for kids’ health and success - UChicago Medicine"
         ]
       }
     ],
@@ -141,77 +141,77 @@
         "trend": "health",
         "market_code": "GB",
         "category": "Europe Health",
-        "score": 42,
+        "score": 47,
         "examples": [
-          "Yellow heat health warning issued after heatwave - BBC",
-          "Health visitor leaders plan industrial action in job evaluation dispute - London Evening Standard",
-          "Exactly when to eat dinner as 'best time' revealed for better health - Wales Online"
-        ]
-      },
-      {
-        "trend": "outbreak",
-        "market_code": "GB",
-        "category": "Outbreaks",
-        "score": 15,
-        "examples": [
-          "Why is the latest Ebola outbreak worsening? - Al Jazeera",
-          "Massive egg recall in US south and south-west due to salmonella outbreak - The Guardian",
-          "Ebola outbreak in DR Congo: One death every 30 minutes - France 24"
-        ]
-      },
-      {
-        "trend": "healthcare",
-        "market_code": "GB",
-        "category": "Europe Health",
-        "score": 14,
-        "examples": [
-          "Challenges to treatment preparedness among lung cancer patients from a healthcare provider perspective: a mixed-method study - Nature",
-          "Cases of a fungus found in healthcare facilities, are rising rapidly - Scripps News",
-          "Cases of a fungus found in healthcare facilities, are rising rapidly - Scripps News"
+          "Many UK aquifer levels in remarkable health despite driest July on record - BGS - British Geological Survey",
+          "Novak Djokovic reveals ongoing health condition after defeat in Cincinnati - Sky Sports",
+          "Novak Djokovic Reveals He’s Been ‘Dealing With (A Health Issue) For Many Years Now’ - Forbes"
         ]
       },
       {
         "trend": "medical",
         "market_code": "GB",
         "category": "Europe Health",
-        "score": 13,
+        "score": 17,
         "examples": [
-          "West Ham book medical as record-breaking fourth summer transfer agreed - London Evening Standard",
           "Sensitive medical data sent over unencrypted pager network - BBC",
-          "31 cap Bosnian international flying in today for scheduled Newcastle United medical - The Mag"
+          "West Ham book medical as record-breaking fourth summer transfer agreed - standard.co.uk",
+          "Potentially Low-Value Medical Interventions in Frail Older Adults Near the End of Life: A Narrative Review - cureus.com"
         ]
       },
       {
-        "trend": "ebola outbreak",
+        "trend": "outbreak",
         "market_code": "GB",
         "category": "Outbreaks",
+        "score": 11,
+        "examples": [
+          "Why is the latest Ebola outbreak worsening? - aljazeera.com",
+          "Ebola outbreak in DR Congo worsens, long transmission warned - news.cgtn.com",
+          "Ebola outbreak in DR Congo: One death every 30 minutes - france24.com"
+        ]
+      },
+      {
+        "trend": "heart",
+        "market_code": "GB",
+        "category": "Chronic Disease",
         "score": 9,
         "examples": [
-          "Why is the latest Ebola outbreak worsening? - Al Jazeera",
-          "Ebola outbreak in DR Congo: One death every 30 minutes - France 24",
-          "These graphs show why this Ebola outbreak is set to be the worst in history - ABC News & Headlines – Australian Broadcasting Corporation"
+          "You Don’t Need 10,000 Steps to Help Your Heart - Time Magazine",
+          "Heart rate holds vital clues about your health and lifespan – here's what you need to listen out for - BikeRadar",
+          "4 key metrics that runners need to track for a healthy heart – and exactly how to measure and improve them - Runner's World"
         ]
       },
       {
         "trend": "warning",
         "market_code": "GB",
         "category": "Europe Health",
-        "score": 8,
+        "score": 9,
         "examples": [
+          "Officials and medics have been warning for some time that this should be treated as a major public health threat - facebook.com",
           "Yellow heat health warning issued after heatwave - BBC",
-          "Yellow heat health warning issued after heatwave - BBC",
-          "Extreme heat warning for London as temperatures tipped to hit 38C - London Evening Standard"
+          "Extreme heat warning for London as temperatures tipped to hit 38C - standard.co.uk"
         ]
       },
       {
-        "trend": "cancer",
+        "trend": "healthcare",
         "market_code": "GB",
-        "category": "Chronic Disease",
-        "score": 6,
+        "category": "Europe Health",
+        "score": 9,
         "examples": [
-          "Challenges to treatment preparedness among lung cancer patients from a healthcare provider perspective: a mixed-method study - Nature",
-          "Man, 40, Diagnosed With Colon Cancer After Ignoring These Warning Signs - Newsweek",
-          "New cancer warning: what researchers just found in people with large tattoos - Futura, le média qui explore le monde"
+          "This Week in European HealthTech, MedTech and Health AI: 14th August 2026 - healthcare.digital",
+          "3 AI Healthcare Stocks Helping Investors Find The Next Breakthrough In Cancer Care - simplywall.st",
+          "Can gyms become part of preventative healthcare? - Well Nation"
+        ]
+      },
+      {
+        "trend": "ebola outbreak",
+        "market_code": "GB",
+        "category": "Outbreaks",
+        "score": 8,
+        "examples": [
+          "Why is the latest Ebola outbreak worsening? - aljazeera.com",
+          "Ebola outbreak in DR Congo worsens, long transmission warned - news.cgtn.com",
+          "Ebola outbreak in DR Congo: One death every 30 minutes - france24.com"
         ]
       },
       {
@@ -220,9 +220,9 @@
         "category": "Mental Health",
         "score": 6,
         "examples": [
-          "Associations of mental health with subsequent weight development during a 4-year follow-up in adolescence - Nature",
-          "Charity 5k run for mental health to take place in Malton this summer - Yahoo News UK",
-          "‘Mission’ review: George MacKay gives a committed performance in propulsive, overwrought mental health drama - Screen Daily"
+          "Still time to have your say on mental health support in Derbyshire - Derbyshire Times",
+          "Column: Perez Hilton created the internet culture that watched his mental health crisis unfold - Los Angeles Times",
+          "Subconscious Restructuring Protocol in a Mental Health Quality Improvement Study: Reduced Treatment Duration and Improvement Across 17 Psychometric Outcomes in Adult Civilians, Veterans, and Adolescents - cureus.com"
         ]
       },
       {
@@ -231,42 +231,42 @@
         "category": "Mental Health",
         "score": 6,
         "examples": [
-          "Associations of mental health with subsequent weight development during a 4-year follow-up in adolescence - Nature",
-          "Charity 5k run for mental health to take place in Malton this summer - Yahoo News UK",
-          "‘Mission’ review: George MacKay gives a committed performance in propulsive, overwrought mental health drama - Screen Daily"
+          "Still time to have your say on mental health support in Derbyshire - Derbyshire Times",
+          "Column: Perez Hilton created the internet culture that watched his mental health crisis unfold - Los Angeles Times",
+          "Subconscious Restructuring Protocol in a Mental Health Quality Improvement Study: Reduced Treatment Duration and Improvement Across 17 Psychometric Outcomes in Adult Civilians, Veterans, and Adolescents - cureus.com"
+        ]
+      },
+      {
+        "trend": "viruses",
+        "market_code": "GB",
+        "category": "Outbreaks",
+        "score": 5,
+        "examples": [
+          "COVID-19 awakens dormant viruses — and one is linked to long COVID - ScienceDaily",
+          "Viruses in the Gut Have a Genetic Way to Fight Bacteria, Potentially Helping to Deal with Superbugs - VOI.ID",
+          "AI-designed viruses target drug-resistant bacteria - VOV World"
         ]
       },
       {
         "trend": "vaccine",
         "market_code": "GB",
         "category": "Drug & Treatment News",
-        "score": 6,
-        "examples": [
-          "Trump and RFK Jr need to shut up about the MMR vaccine - Christina Pagel | Substack",
-          "RNA researcher on F.D.A. approval of first mRNA influenza vaccine - UC Santa Cruz - News",
-          "TB Vaccine Pipeline Enters Most Promising Phase in Decades - Medscape"
-        ]
-      },
-      {
-        "trend": "heart",
-        "market_code": "GB",
-        "category": "Chronic Disease",
         "score": 5,
         "examples": [
-          "4 key metrics that runners need to track for a healthy heart – and exactly how to measure and improve them - Runner's World",
-          "Tirzepatide lowers heart attack and cardiovascular event risk in adults with type 2 diabetes - News-Medical",
-          "Microplastics in local water supplies linked to higher risks of heart attack and stroke - Futura, le média qui explore le monde"
+          "RNA researcher on F.D.A. approval of first mRNA influenza vaccine - UC Santa Cruz - News",
+          "TB Vaccine Pipeline Enters Most Promising Phase in Decades - Medscape",
+          "EMA to study potential vaccine for Lyme disease - euractiv.com"
         ]
       },
       {
-        "trend": "heat health",
+        "trend": "disease",
         "market_code": "GB",
         "category": "Europe Health",
         "score": 4,
         "examples": [
-          "Yellow heat health warning issued after heatwave - BBC",
-          "Yellow heat health warning issued after heatwave - BBC",
-          "Yellow heat health warning issued after heatwave - BBC"
+          "Your wearables can track your heartbeat, sleep and even ECG — but can they really predict disease? - Firstpost",
+          "Every disease is a policy failure - Works in Progress Magazine",
+          "EMA to study potential vaccine for Lyme disease - euractiv.com"
         ]
       }
     ],
@@ -275,11 +275,11 @@
         "trend": "health",
         "market_code": "DE",
         "category": "Europe Health",
-        "score": 61,
+        "score": 55,
         "examples": [
-          "Bruin to Bruin: Internationally renowned health economist, global health reform leader and UCLA Associate of the Chancellor Dr. Felicia Marie Knaul - Daily Bruin",
-          "Bruin to Bruin: Internationally renowned health economist, global health reform leader and UCLA Associate of the Chancellor Dr. Felicia Marie Knaul - Daily Bruin",
-          "Bernalillo County's Behavioral Health Unit rapidly grows, diverting 911 calls - Santa Fe New Mexican"
+          "How AI could bring Mayo-quality health care to everyone - Axios",
+          "Novak Djokovic Reveals He’s Been ‘Dealing With (A Health Issue) For Many Years Now’ - Forbes",
+          "Bexar County health department at risk as ARPA money runs out - San Antonio Report"
         ]
       },
       {
@@ -288,9 +288,9 @@
         "category": "Europe Health",
         "score": 15,
         "examples": [
+          "Clinic closures expose the fragile state of rural healthcare in Oklahoma - Tulsa World",
           "Cases of a fungus found in healthcare facilities, are rising rapidly - Scripps News",
-          "Patients Wary of Governments, Companies Pushing AI as a Rural Healthcare Solution - KFF Health News",
-          "Five Atlanta healthcare companies using AI to cut costs, improve care - The Business Journals"
+          "Patients Wary of Governments, Companies Pushing AI as a Rural Healthcare Solution - KFF Health News"
         ]
       },
       {
@@ -299,20 +299,31 @@
         "category": "Europe Health",
         "score": 13,
         "examples": [
-          "AI Is Helping Patients Solve Medical Mysteries - WSJ",
-          "Immigrant detained by ICE dies after medical emergency - NBC News",
-          "New approach opens rare immune cells to genetic risk research - Medical Xpress"
+          "UNC football defensive coordinator Steve Belichick on medical leave - The Daily Tar Heel",
+          "Potentially Low-Value Medical Interventions in Frail Older Adults Near the End of Life: A Narrative Review - Cureus",
+          "Inspire Medical Systems (INSP) Stock May Be Cheap After A 74% Fall - Yahoo Finance"
         ]
       },
       {
         "trend": "outbreak",
         "market_code": "DE",
         "category": "Outbreaks",
-        "score": 12,
+        "score": 11,
         "examples": [
+          "Cyclosporiasis outbreak has affected about 1 in every 1,000 people in Michigan - Scripps News",
           "Massive egg recall in US south and south-west due to salmonella outbreak - The Guardian",
-          "Why is the latest Ebola outbreak worsening? - Al Jazeera",
-          "Kentucky health officials suspect measles outbreak after new case confirmed in Christian County - WDRB"
+          "Cholera Outbreak Sickens Over 90 in Myanmar’s Biggest City - nytimes.com"
+        ]
+      },
+      {
+        "trend": "heart",
+        "market_code": "DE",
+        "category": "Chronic Disease",
+        "score": 7,
+        "examples": [
+          "You Don’t Need 10,000 Steps to Help Your Heart - Time Magazine",
+          "You Don’t Need 10,000 Steps to Help Your Heart - Time Magazine",
+          "You Don’t Need 10,000 Steps to Help Your Heart - Time Magazine"
         ]
       },
       {
@@ -321,9 +332,9 @@
         "category": "Mental Health",
         "score": 7,
         "examples": [
+          "Subconscious Restructuring Protocol in a Mental Health Quality Improvement Study: Reduced Treatment Duration and Improvement Across 17 Psychometric Outcomes in Adult Civilians, Veterans, and Adolescents - Cureus",
           "Lindsay Clancy trial reveals new details about mental health before killings - Scripps News",
-          "Selena Gomez Dismisses ‘Baseless’ Fraud Claims Over Mental Health Startup - inc.com",
-          "Astra is de-stigmatizing mental health one stroke at a time in the form of art. - WIBW"
+          "More than $1.3 million awarded to area schools for safety, mental health programs - fox56.com"
         ]
       },
       {
@@ -332,20 +343,9 @@
         "category": "Mental Health",
         "score": 7,
         "examples": [
+          "Subconscious Restructuring Protocol in a Mental Health Quality Improvement Study: Reduced Treatment Duration and Improvement Across 17 Psychometric Outcomes in Adult Civilians, Veterans, and Adolescents - Cureus",
           "Lindsay Clancy trial reveals new details about mental health before killings - Scripps News",
-          "Selena Gomez Dismisses ‘Baseless’ Fraud Claims Over Mental Health Startup - inc.com",
-          "Astra is de-stigmatizing mental health one stroke at a time in the form of art. - WIBW"
-        ]
-      },
-      {
-        "trend": "patients",
-        "market_code": "DE",
-        "category": "Europe Health",
-        "score": 6,
-        "examples": [
-          "Ethicists: Clinicians aren’t wrong to expect more from certain patients’ families—but they wouldn’t be right to request it, either - HealthExec",
-          "AI Is Helping Patients Solve Medical Mysteries - WSJ",
-          "Gaza hospitals, patients at risk amid oxygen shortage, health ministry warns - Arab News PK"
+          "More than $1.3 million awarded to area schools for safety, mental health programs - fox56.com"
         ]
       },
       {
@@ -355,15 +355,15 @@
         "score": 6,
         "examples": [
           "Why is the latest Ebola outbreak worsening? - Al Jazeera",
-          "Ebola outbreak in DR Congo: One death every 30 minutes - france24.com",
-          "These graphs show why this Ebola outbreak is set to be the worst in history - ABC News & Headlines – Australian Broadcasting Corporation"
+          "Ebola outbreak in DR Congo worsens, long transmission warned - news.cgtn.com",
+          "Ebola outbreak in DR Congo: One death every 30 minutes - France 24"
         ]
       },
       {
         "trend": "hospital",
         "market_code": "DE",
         "category": "Europe Health",
-        "score": 6,
+        "score": 5,
         "examples": [
           "First Lawsuit Over the Jalapeño Salmonella Outbreak Names the Importer. An Illinois Woman Spent Three Days in the Hospital After Two Meals at a Springfield Chipotle. - Food Poison Journal",
           "Doximity bets big on hospital adoption of enterprise AI as it ramps up tech spending - Fierce Healthcare",
@@ -371,36 +371,36 @@
         ]
       },
       {
-        "trend": "hospitals",
+        "trend": "medicine",
         "market_code": "DE",
         "category": "Europe Health",
         "score": 5,
         "examples": [
-          "Gaza hospitals, patients at risk amid oxygen shortage, health ministry warns - Arab News PK",
-          "What Medicare incentives for AI-based devices mean for tech companies — and hospitals - STAT",
-          "Ban prior auth? And hospitals cut jobs - STAT"
+          "What Is Lifestyle Medicine? - HSS | Hospital for Special Surgery",
+          "Expert explainer: What ultra-processed foods mean for heart health - Schulich School of Medicine & Dentistry",
+          "Why back-to-school physicals matter for kids’ health and success - UChicago Medicine"
         ]
       },
       {
-        "trend": "diseases",
+        "trend": "patients",
         "market_code": "DE",
         "category": "Europe Health",
-        "score": 5,
+        "score": 4,
         "examples": [
-          "IDSA Experts Warn of Summer Rise in Vector-Borne Diseases - Infectious Disease Special Edition",
-          "NFID Statement on Childhood Immunization Schedule - National Foundation for Infectious Diseases",
-          "IDSA Experts Warn of Summer Rise in Vector-Borne Diseases - Infectious Disease Special Edition"
+          "AI Is Helping Patients Solve Medical Mysteries - WSJ",
+          "Patients Wary of Governments, Companies Pushing AI as a Rural Healthcare Solution - KFF Health News",
+          "FDA Expands Clinical Trial Eligibility for Cancer Patients - Oncology News Central"
         ]
       },
       {
-        "trend": "disease",
+        "trend": "warning",
         "market_code": "DE",
         "category": "Europe Health",
-        "score": 5,
+        "score": 4,
         "examples": [
-          "IDSA Experts Warn of Summer Rise in Vector-Borne Diseases - Infectious Disease Special Edition",
-          "IDSA Experts Warn of Summer Rise in Vector-Borne Diseases - Infectious Disease Special Edition",
-          "This Week's Top 5 Infectious Disease News Stories: August 8-August 14, 2026 - Contagion Live"
+          "Health officials' floodwater warning, YWCA seeks donations, Fauci contempt vote: Sunrise Brief - WTKR",
+          "Man, 40, Diagnosed With Colon Cancer After Ignoring These Warning Signs - Newsweek",
+          "Toddler’s death sparks urgent warning about popular playsets - KOLN | Nebraska Local News, Weather, Sports | Lincoln, NE"
         ]
       }
     ],
@@ -409,11 +409,11 @@
         "trend": "health",
         "market_code": "FR",
         "category": "Europe Health",
-        "score": 61,
+        "score": 55,
         "examples": [
-          "Bruin to Bruin: Internationally renowned health economist, global health reform leader and UCLA Associate of the Chancellor Dr. Felicia Marie Knaul - Daily Bruin",
-          "Bruin to Bruin: Internationally renowned health economist, global health reform leader and UCLA Associate of the Chancellor Dr. Felicia Marie Knaul - Daily Bruin",
-          "Bernalillo County's Behavioral Health Unit rapidly grows, diverting 911 calls - Santa Fe New Mexican"
+          "How AI could bring Mayo-quality health care to everyone - Axios",
+          "Novak Djokovic Reveals He’s Been ‘Dealing With (A Health Issue) For Many Years Now’ - Forbes",
+          "Bexar County health department at risk as ARPA money runs out - San Antonio Report"
         ]
       },
       {
@@ -422,9 +422,9 @@
         "category": "Europe Health",
         "score": 15,
         "examples": [
+          "Clinic closures expose the fragile state of rural healthcare in Oklahoma - Tulsa World",
           "Cases of a fungus found in healthcare facilities, are rising rapidly - Scripps News",
-          "Patients Wary of Governments, Companies Pushing AI as a Rural Healthcare Solution - KFF Health News",
-          "Five Atlanta healthcare companies using AI to cut costs, improve care - The Business Journals"
+          "Patients Wary of Governments, Companies Pushing AI as a Rural Healthcare Solution - KFF Health News"
         ]
       },
       {
@@ -433,20 +433,31 @@
         "category": "Europe Health",
         "score": 13,
         "examples": [
-          "AI Is Helping Patients Solve Medical Mysteries - WSJ",
-          "Immigrant detained by ICE dies after medical emergency - NBC News",
-          "New approach opens rare immune cells to genetic risk research - Medical Xpress"
+          "UNC football defensive coordinator Steve Belichick on medical leave - The Daily Tar Heel",
+          "Potentially Low-Value Medical Interventions in Frail Older Adults Near the End of Life: A Narrative Review - Cureus",
+          "Inspire Medical Systems (INSP) Stock May Be Cheap After A 74% Fall - Yahoo Finance"
         ]
       },
       {
         "trend": "outbreak",
         "market_code": "FR",
         "category": "Outbreaks",
-        "score": 12,
+        "score": 11,
         "examples": [
+          "Cyclosporiasis outbreak has affected about 1 in every 1,000 people in Michigan - Scripps News",
           "Massive egg recall in US south and south-west due to salmonella outbreak - The Guardian",
-          "Why is the latest Ebola outbreak worsening? - Al Jazeera",
-          "Kentucky health officials suspect measles outbreak after new case confirmed in Christian County - WDRB"
+          "Cholera Outbreak Sickens Over 90 in Myanmar’s Biggest City - nytimes.com"
+        ]
+      },
+      {
+        "trend": "heart",
+        "market_code": "FR",
+        "category": "Chronic Disease",
+        "score": 7,
+        "examples": [
+          "You Don’t Need 10,000 Steps to Help Your Heart - Time Magazine",
+          "You Don’t Need 10,000 Steps to Help Your Heart - Time Magazine",
+          "You Don’t Need 10,000 Steps to Help Your Heart - Time Magazine"
         ]
       },
       {
@@ -455,9 +466,9 @@
         "category": "Mental Health",
         "score": 7,
         "examples": [
+          "Subconscious Restructuring Protocol in a Mental Health Quality Improvement Study: Reduced Treatment Duration and Improvement Across 17 Psychometric Outcomes in Adult Civilians, Veterans, and Adolescents - Cureus",
           "Lindsay Clancy trial reveals new details about mental health before killings - Scripps News",
-          "Selena Gomez Dismisses ‘Baseless’ Fraud Claims Over Mental Health Startup - inc.com",
-          "Astra is de-stigmatizing mental health one stroke at a time in the form of art. - WIBW"
+          "More than $1.3 million awarded to area schools for safety, mental health programs - fox56.com"
         ]
       },
       {
@@ -466,20 +477,9 @@
         "category": "Mental Health",
         "score": 7,
         "examples": [
+          "Subconscious Restructuring Protocol in a Mental Health Quality Improvement Study: Reduced Treatment Duration and Improvement Across 17 Psychometric Outcomes in Adult Civilians, Veterans, and Adolescents - Cureus",
           "Lindsay Clancy trial reveals new details about mental health before killings - Scripps News",
-          "Selena Gomez Dismisses ‘Baseless’ Fraud Claims Over Mental Health Startup - inc.com",
-          "Astra is de-stigmatizing mental health one stroke at a time in the form of art. - WIBW"
-        ]
-      },
-      {
-        "trend": "patients",
-        "market_code": "FR",
-        "category": "Europe Health",
-        "score": 6,
-        "examples": [
-          "Ethicists: Clinicians aren’t wrong to expect more from certain patients’ families—but they wouldn’t be right to request it, either - HealthExec",
-          "AI Is Helping Patients Solve Medical Mysteries - WSJ",
-          "Gaza hospitals, patients at risk amid oxygen shortage, health ministry warns - Arab News PK"
+          "More than $1.3 million awarded to area schools for safety, mental health programs - fox56.com"
         ]
       },
       {
@@ -489,15 +489,15 @@
         "score": 6,
         "examples": [
           "Why is the latest Ebola outbreak worsening? - Al Jazeera",
-          "Ebola outbreak in DR Congo: One death every 30 minutes - france24.com",
-          "These graphs show why this Ebola outbreak is set to be the worst in history - ABC News & Headlines – Australian Broadcasting Corporation"
+          "Ebola outbreak in DR Congo worsens, long transmission warned - news.cgtn.com",
+          "Ebola outbreak in DR Congo: One death every 30 minutes - France 24"
         ]
       },
       {
         "trend": "hospital",
         "market_code": "FR",
         "category": "Europe Health",
-        "score": 6,
+        "score": 5,
         "examples": [
           "First Lawsuit Over the Jalapeño Salmonella Outbreak Names the Importer. An Illinois Woman Spent Three Days in the Hospital After Two Meals at a Springfield Chipotle. - Food Poison Journal",
           "Doximity bets big on hospital adoption of enterprise AI as it ramps up tech spending - Fierce Healthcare",
@@ -505,36 +505,36 @@
         ]
       },
       {
-        "trend": "hospitals",
+        "trend": "medicine",
         "market_code": "FR",
         "category": "Europe Health",
         "score": 5,
         "examples": [
-          "Gaza hospitals, patients at risk amid oxygen shortage, health ministry warns - Arab News PK",
-          "What Medicare incentives for AI-based devices mean for tech companies — and hospitals - STAT",
-          "Ban prior auth? And hospitals cut jobs - STAT"
+          "What Is Lifestyle Medicine? - HSS | Hospital for Special Surgery",
+          "Expert explainer: What ultra-processed foods mean for heart health - Schulich School of Medicine & Dentistry",
+          "Why back-to-school physicals matter for kids’ health and success - UChicago Medicine"
         ]
       },
       {
-        "trend": "diseases",
+        "trend": "patients",
         "market_code": "FR",
         "category": "Europe Health",
-        "score": 5,
+        "score": 4,
         "examples": [
-          "IDSA Experts Warn of Summer Rise in Vector-Borne Diseases - Infectious Disease Special Edition",
-          "NFID Statement on Childhood Immunization Schedule - National Foundation for Infectious Diseases",
-          "IDSA Experts Warn of Summer Rise in Vector-Borne Diseases - Infectious Disease Special Edition"
+          "AI Is Helping Patients Solve Medical Mysteries - WSJ",
+          "Patients Wary of Governments, Companies Pushing AI as a Rural Healthcare Solution - KFF Health News",
+          "FDA Expands Clinical Trial Eligibility for Cancer Patients - Oncology News Central"
         ]
       },
       {
-        "trend": "disease",
+        "trend": "warning",
         "market_code": "FR",
         "category": "Europe Health",
-        "score": 5,
+        "score": 4,
         "examples": [
-          "IDSA Experts Warn of Summer Rise in Vector-Borne Diseases - Infectious Disease Special Edition",
-          "IDSA Experts Warn of Summer Rise in Vector-Borne Diseases - Infectious Disease Special Edition",
-          "This Week's Top 5 Infectious Disease News Stories: August 8-August 14, 2026 - Contagion Live"
+          "Health officials' floodwater warning, YWCA seeks donations, Fauci contempt vote: Sunrise Brief - WTKR",
+          "Man, 40, Diagnosed With Colon Cancer After Ignoring These Warning Signs - Newsweek",
+          "Toddler’s death sparks urgent warning about popular playsets - KOLN | Nebraska Local News, Weather, Sports | Lincoln, NE"
         ]
       }
     ],
@@ -543,11 +543,11 @@
         "trend": "health",
         "market_code": "IT",
         "category": "Europe Health",
-        "score": 61,
+        "score": 55,
         "examples": [
-          "Bruin to Bruin: Internationally renowned health economist, global health reform leader and UCLA Associate of the Chancellor Dr. Felicia Marie Knaul - Daily Bruin",
-          "Bruin to Bruin: Internationally renowned health economist, global health reform leader and UCLA Associate of the Chancellor Dr. Felicia Marie Knaul - Daily Bruin",
-          "Bernalillo County's Behavioral Health Unit rapidly grows, diverting 911 calls - Santa Fe New Mexican"
+          "How AI could bring Mayo-quality health care to everyone - Axios",
+          "Novak Djokovic Reveals He’s Been ‘Dealing With (A Health Issue) For Many Years Now’ - Forbes",
+          "Bexar County health department at risk as ARPA money runs out - San Antonio Report"
         ]
       },
       {
@@ -556,9 +556,9 @@
         "category": "Europe Health",
         "score": 15,
         "examples": [
+          "Clinic closures expose the fragile state of rural healthcare in Oklahoma - Tulsa World",
           "Cases of a fungus found in healthcare facilities, are rising rapidly - Scripps News",
-          "Patients Wary of Governments, Companies Pushing AI as a Rural Healthcare Solution - KFF Health News",
-          "Five Atlanta healthcare companies using AI to cut costs, improve care - The Business Journals"
+          "Patients Wary of Governments, Companies Pushing AI as a Rural Healthcare Solution - KFF Health News"
         ]
       },
       {
@@ -567,20 +567,31 @@
         "category": "Europe Health",
         "score": 13,
         "examples": [
-          "AI Is Helping Patients Solve Medical Mysteries - WSJ",
-          "Immigrant detained by ICE dies after medical emergency - NBC News",
-          "New approach opens rare immune cells to genetic risk research - Medical Xpress"
+          "UNC football defensive coordinator Steve Belichick on medical leave - The Daily Tar Heel",
+          "Potentially Low-Value Medical Interventions in Frail Older Adults Near the End of Life: A Narrative Review - Cureus",
+          "Inspire Medical Systems (INSP) Stock May Be Cheap After A 74% Fall - Yahoo Finance"
         ]
       },
       {
         "trend": "outbreak",
         "market_code": "IT",
         "category": "Outbreaks",
-        "score": 12,
+        "score": 11,
         "examples": [
+          "Cyclosporiasis outbreak has affected about 1 in every 1,000 people in Michigan - Scripps News",
           "Massive egg recall in US south and south-west due to salmonella outbreak - The Guardian",
-          "Why is the latest Ebola outbreak worsening? - Al Jazeera",
-          "Kentucky health officials suspect measles outbreak after new case confirmed in Christian County - WDRB"
+          "Cholera Outbreak Sickens Over 90 in Myanmar’s Biggest City - nytimes.com"
+        ]
+      },
+      {
+        "trend": "heart",
+        "market_code": "IT",
+        "category": "Chronic Disease",
+        "score": 7,
+        "examples": [
+          "You Don’t Need 10,000 Steps to Help Your Heart - Time Magazine",
+          "You Don’t Need 10,000 Steps to Help Your Heart - Time Magazine",
+          "You Don’t Need 10,000 Steps to Help Your Heart - Time Magazine"
         ]
       },
       {
@@ -589,9 +600,9 @@
         "category": "Mental Health",
         "score": 7,
         "examples": [
+          "Subconscious Restructuring Protocol in a Mental Health Quality Improvement Study: Reduced Treatment Duration and Improvement Across 17 Psychometric Outcomes in Adult Civilians, Veterans, and Adolescents - Cureus",
           "Lindsay Clancy trial reveals new details about mental health before killings - Scripps News",
-          "Selena Gomez Dismisses ‘Baseless’ Fraud Claims Over Mental Health Startup - inc.com",
-          "Astra is de-stigmatizing mental health one stroke at a time in the form of art. - WIBW"
+          "More than $1.3 million awarded to area schools for safety, mental health programs - fox56.com"
         ]
       },
       {
@@ -600,20 +611,9 @@
         "category": "Mental Health",
         "score": 7,
         "examples": [
+          "Subconscious Restructuring Protocol in a Mental Health Quality Improvement Study: Reduced Treatment Duration and Improvement Across 17 Psychometric Outcomes in Adult Civilians, Veterans, and Adolescents - Cureus",
           "Lindsay Clancy trial reveals new details about mental health before killings - Scripps News",
-          "Selena Gomez Dismisses ‘Baseless’ Fraud Claims Over Mental Health Startup - inc.com",
-          "Astra is de-stigmatizing mental health one stroke at a time in the form of art. - WIBW"
-        ]
-      },
-      {
-        "trend": "patients",
-        "market_code": "IT",
-        "category": "Europe Health",
-        "score": 6,
-        "examples": [
-          "Ethicists: Clinicians aren’t wrong to expect more from certain patients’ families—but they wouldn’t be right to request it, either - HealthExec",
-          "AI Is Helping Patients Solve Medical Mysteries - WSJ",
-          "Gaza hospitals, patients at risk amid oxygen shortage, health ministry warns - Arab News PK"
+          "More than $1.3 million awarded to area schools for safety, mental health programs - fox56.com"
         ]
       },
       {
@@ -623,15 +623,15 @@
         "score": 6,
         "examples": [
           "Why is the latest Ebola outbreak worsening? - Al Jazeera",
-          "Ebola outbreak in DR Congo: One death every 30 minutes - france24.com",
-          "These graphs show why this Ebola outbreak is set to be the worst in history - ABC News & Headlines – Australian Broadcasting Corporation"
+          "Ebola outbreak in DR Congo worsens, long transmission warned - news.cgtn.com",
+          "Ebola outbreak in DR Congo: One death every 30 minutes - France 24"
         ]
       },
       {
         "trend": "hospital",
         "market_code": "IT",
         "category": "Europe Health",
-        "score": 6,
+        "score": 5,
         "examples": [
           "First Lawsuit Over the Jalapeño Salmonella Outbreak Names the Importer. An Illinois Woman Spent Three Days in the Hospital After Two Meals at a Springfield Chipotle. - Food Poison Journal",
           "Doximity bets big on hospital adoption of enterprise AI as it ramps up tech spending - Fierce Healthcare",
@@ -639,36 +639,36 @@
         ]
       },
       {
-        "trend": "hospitals",
+        "trend": "medicine",
         "market_code": "IT",
         "category": "Europe Health",
         "score": 5,
         "examples": [
-          "Gaza hospitals, patients at risk amid oxygen shortage, health ministry warns - Arab News PK",
-          "What Medicare incentives for AI-based devices mean for tech companies — and hospitals - STAT",
-          "Ban prior auth? And hospitals cut jobs - STAT"
+          "What Is Lifestyle Medicine? - HSS | Hospital for Special Surgery",
+          "Expert explainer: What ultra-processed foods mean for heart health - Schulich School of Medicine & Dentistry",
+          "Why back-to-school physicals matter for kids’ health and success - UChicago Medicine"
         ]
       },
       {
-        "trend": "diseases",
+        "trend": "patients",
         "market_code": "IT",
         "category": "Europe Health",
-        "score": 5,
+        "score": 4,
         "examples": [
-          "IDSA Experts Warn of Summer Rise in Vector-Borne Diseases - Infectious Disease Special Edition",
-          "NFID Statement on Childhood Immunization Schedule - National Foundation for Infectious Diseases",
-          "IDSA Experts Warn of Summer Rise in Vector-Borne Diseases - Infectious Disease Special Edition"
+          "AI Is Helping Patients Solve Medical Mysteries - WSJ",
+          "Patients Wary of Governments, Companies Pushing AI as a Rural Healthcare Solution - KFF Health News",
+          "FDA Expands Clinical Trial Eligibility for Cancer Patients - Oncology News Central"
         ]
       },
       {
-        "trend": "disease",
+        "trend": "warning",
         "market_code": "IT",
         "category": "Europe Health",
-        "score": 5,
+        "score": 4,
         "examples": [
-          "IDSA Experts Warn of Summer Rise in Vector-Borne Diseases - Infectious Disease Special Edition",
-          "IDSA Experts Warn of Summer Rise in Vector-Borne Diseases - Infectious Disease Special Edition",
-          "This Week's Top 5 Infectious Disease News Stories: August 8-August 14, 2026 - Contagion Live"
+          "Health officials' floodwater warning, YWCA seeks donations, Fauci contempt vote: Sunrise Brief - WTKR",
+          "Man, 40, Diagnosed With Colon Cancer After Ignoring These Warning Signs - Newsweek",
+          "Toddler’s death sparks urgent warning about popular playsets - KOLN | Nebraska Local News, Weather, Sports | Lincoln, NE"
         ]
       }
     ],
@@ -677,11 +677,11 @@
         "trend": "health",
         "market_code": "ES",
         "category": "Europe Health",
-        "score": 61,
+        "score": 55,
         "examples": [
-          "Bruin to Bruin: Internationally renowned health economist, global health reform leader and UCLA Associate of the Chancellor Dr. Felicia Marie Knaul - Daily Bruin",
-          "Bruin to Bruin: Internationally renowned health economist, global health reform leader and UCLA Associate of the Chancellor Dr. Felicia Marie Knaul - Daily Bruin",
-          "Bernalillo County's Behavioral Health Unit rapidly grows, diverting 911 calls - Santa Fe New Mexican"
+          "How AI could bring Mayo-quality health care to everyone - Axios",
+          "Novak Djokovic Reveals He’s Been ‘Dealing With (A Health Issue) For Many Years Now’ - Forbes",
+          "Bexar County health department at risk as ARPA money runs out - San Antonio Report"
         ]
       },
       {
@@ -690,9 +690,9 @@
         "category": "Europe Health",
         "score": 15,
         "examples": [
+          "Clinic closures expose the fragile state of rural healthcare in Oklahoma - Tulsa World",
           "Cases of a fungus found in healthcare facilities, are rising rapidly - Scripps News",
-          "Patients Wary of Governments, Companies Pushing AI as a Rural Healthcare Solution - KFF Health News",
-          "Five Atlanta healthcare companies using AI to cut costs, improve care - The Business Journals"
+          "Patients Wary of Governments, Companies Pushing AI as a Rural Healthcare Solution - KFF Health News"
         ]
       },
       {
@@ -701,20 +701,31 @@
         "category": "Europe Health",
         "score": 13,
         "examples": [
-          "AI Is Helping Patients Solve Medical Mysteries - WSJ",
-          "Immigrant detained by ICE dies after medical emergency - NBC News",
-          "New approach opens rare immune cells to genetic risk research - Medical Xpress"
+          "UNC football defensive coordinator Steve Belichick on medical leave - The Daily Tar Heel",
+          "Potentially Low-Value Medical Interventions in Frail Older Adults Near the End of Life: A Narrative Review - Cureus",
+          "Inspire Medical Systems (INSP) Stock May Be Cheap After A 74% Fall - Yahoo Finance"
         ]
       },
       {
         "trend": "outbreak",
         "market_code": "ES",
         "category": "Outbreaks",
-        "score": 12,
+        "score": 11,
         "examples": [
+          "Cyclosporiasis outbreak has affected about 1 in every 1,000 people in Michigan - Scripps News",
           "Massive egg recall in US south and south-west due to salmonella outbreak - The Guardian",
-          "Why is the latest Ebola outbreak worsening? - Al Jazeera",
-          "Kentucky health officials suspect measles outbreak after new case confirmed in Christian County - WDRB"
+          "Cholera Outbreak Sickens Over 90 in Myanmar’s Biggest City - nytimes.com"
+        ]
+      },
+      {
+        "trend": "heart",
+        "market_code": "ES",
+        "category": "Chronic Disease",
+        "score": 7,
+        "examples": [
+          "You Don’t Need 10,000 Steps to Help Your Heart - Time Magazine",
+          "You Don’t Need 10,000 Steps to Help Your Heart - Time Magazine",
+          "You Don’t Need 10,000 Steps to Help Your Heart - Time Magazine"
         ]
       },
       {
@@ -723,9 +734,9 @@
         "category": "Mental Health",
         "score": 7,
         "examples": [
+          "Subconscious Restructuring Protocol in a Mental Health Quality Improvement Study: Reduced Treatment Duration and Improvement Across 17 Psychometric Outcomes in Adult Civilians, Veterans, and Adolescents - Cureus",
           "Lindsay Clancy trial reveals new details about mental health before killings - Scripps News",
-          "Selena Gomez Dismisses ‘Baseless’ Fraud Claims Over Mental Health Startup - inc.com",
-          "Astra is de-stigmatizing mental health one stroke at a time in the form of art. - WIBW"
+          "More than $1.3 million awarded to area schools for safety, mental health programs - fox56.com"
         ]
       },
       {
@@ -734,20 +745,9 @@
         "category": "Mental Health",
         "score": 7,
         "examples": [
+          "Subconscious Restructuring Protocol in a Mental Health Quality Improvement Study: Reduced Treatment Duration and Improvement Across 17 Psychometric Outcomes in Adult Civilians, Veterans, and Adolescents - Cureus",
           "Lindsay Clancy trial reveals new details about mental health before killings - Scripps News",
-          "Selena Gomez Dismisses ‘Baseless’ Fraud Claims Over Mental Health Startup - inc.com",
-          "Astra is de-stigmatizing mental health one stroke at a time in the form of art. - WIBW"
-        ]
-      },
-      {
-        "trend": "patients",
-        "market_code": "ES",
-        "category": "Europe Health",
-        "score": 6,
-        "examples": [
-          "Ethicists: Clinicians aren’t wrong to expect more from certain patients’ families—but they wouldn’t be right to request it, either - HealthExec",
-          "AI Is Helping Patients Solve Medical Mysteries - WSJ",
-          "Gaza hospitals, patients at risk amid oxygen shortage, health ministry warns - Arab News PK"
+          "More than $1.3 million awarded to area schools for safety, mental health programs - fox56.com"
         ]
       },
       {
@@ -757,15 +757,15 @@
         "score": 6,
         "examples": [
           "Why is the latest Ebola outbreak worsening? - Al Jazeera",
-          "Ebola outbreak in DR Congo: One death every 30 minutes - france24.com",
-          "These graphs show why this Ebola outbreak is set to be the worst in history - ABC News & Headlines – Australian Broadcasting Corporation"
+          "Ebola outbreak in DR Congo worsens, long transmission warned - news.cgtn.com",
+          "Ebola outbreak in DR Congo: One death every 30 minutes - France 24"
         ]
       },
       {
         "trend": "hospital",
         "market_code": "ES",
         "category": "Europe Health",
-        "score": 6,
+        "score": 5,
         "examples": [
           "First Lawsuit Over the Jalapeño Salmonella Outbreak Names the Importer. An Illinois Woman Spent Three Days in the Hospital After Two Meals at a Springfield Chipotle. - Food Poison Journal",
           "Doximity bets big on hospital adoption of enterprise AI as it ramps up tech spending - Fierce Healthcare",
@@ -773,36 +773,36 @@
         ]
       },
       {
-        "trend": "hospitals",
+        "trend": "medicine",
         "market_code": "ES",
         "category": "Europe Health",
         "score": 5,
         "examples": [
-          "Gaza hospitals, patients at risk amid oxygen shortage, health ministry warns - Arab News PK",
-          "What Medicare incentives for AI-based devices mean for tech companies — and hospitals - STAT",
-          "Ban prior auth? And hospitals cut jobs - STAT"
+          "What Is Lifestyle Medicine? - HSS | Hospital for Special Surgery",
+          "Expert explainer: What ultra-processed foods mean for heart health - Schulich School of Medicine & Dentistry",
+          "Why back-to-school physicals matter for kids’ health and success - UChicago Medicine"
         ]
       },
       {
-        "trend": "diseases",
+        "trend": "patients",
         "market_code": "ES",
         "category": "Europe Health",
-        "score": 5,
+        "score": 4,
         "examples": [
-          "IDSA Experts Warn of Summer Rise in Vector-Borne Diseases - Infectious Disease Special Edition",
-          "NFID Statement on Childhood Immunization Schedule - National Foundation for Infectious Diseases",
-          "IDSA Experts Warn of Summer Rise in Vector-Borne Diseases - Infectious Disease Special Edition"
+          "AI Is Helping Patients Solve Medical Mysteries - WSJ",
+          "Patients Wary of Governments, Companies Pushing AI as a Rural Healthcare Solution - KFF Health News",
+          "FDA Expands Clinical Trial Eligibility for Cancer Patients - Oncology News Central"
         ]
       },
       {
-        "trend": "disease",
+        "trend": "warning",
         "market_code": "ES",
         "category": "Europe Health",
-        "score": 5,
+        "score": 4,
         "examples": [
-          "IDSA Experts Warn of Summer Rise in Vector-Borne Diseases - Infectious Disease Special Edition",
-          "IDSA Experts Warn of Summer Rise in Vector-Borne Diseases - Infectious Disease Special Edition",
-          "This Week's Top 5 Infectious Disease News Stories: August 8-August 14, 2026 - Contagion Live"
+          "Health officials' floodwater warning, YWCA seeks donations, Fauci contempt vote: Sunrise Brief - WTKR",
+          "Man, 40, Diagnosed With Colon Cancer After Ignoring These Warning Signs - Newsweek",
+          "Toddler’s death sparks urgent warning about popular playsets - KOLN | Nebraska Local News, Weather, Sports | Lincoln, NE"
         ]
       }
     ],
@@ -811,11 +811,11 @@
         "trend": "health",
         "market_code": "SE",
         "category": "Europe Health",
-        "score": 61,
+        "score": 55,
         "examples": [
-          "Bruin to Bruin: Internationally renowned health economist, global health reform leader and UCLA Associate of the Chancellor Dr. Felicia Marie Knaul - Daily Bruin",
-          "Bruin to Bruin: Internationally renowned health economist, global health reform leader and UCLA Associate of the Chancellor Dr. Felicia Marie Knaul - Daily Bruin",
-          "Bernalillo County's Behavioral Health Unit rapidly grows, diverting 911 calls - Santa Fe New Mexican"
+          "How AI could bring Mayo-quality health care to everyone - Axios",
+          "Novak Djokovic Reveals He’s Been ‘Dealing With (A Health Issue) For Many Years Now’ - Forbes",
+          "Bexar County health department at risk as ARPA money runs out - San Antonio Report"
         ]
       },
       {
@@ -824,9 +824,9 @@
         "category": "Europe Health",
         "score": 15,
         "examples": [
+          "Clinic closures expose the fragile state of rural healthcare in Oklahoma - Tulsa World",
           "Cases of a fungus found in healthcare facilities, are rising rapidly - Scripps News",
-          "Patients Wary of Governments, Companies Pushing AI as a Rural Healthcare Solution - KFF Health News",
-          "Five Atlanta healthcare companies using AI to cut costs, improve care - The Business Journals"
+          "Patients Wary of Governments, Companies Pushing AI as a Rural Healthcare Solution - KFF Health News"
         ]
       },
       {
@@ -835,20 +835,31 @@
         "category": "Europe Health",
         "score": 13,
         "examples": [
-          "AI Is Helping Patients Solve Medical Mysteries - WSJ",
-          "Immigrant detained by ICE dies after medical emergency - NBC News",
-          "New approach opens rare immune cells to genetic risk research - Medical Xpress"
+          "UNC football defensive coordinator Steve Belichick on medical leave - The Daily Tar Heel",
+          "Potentially Low-Value Medical Interventions in Frail Older Adults Near the End of Life: A Narrative Review - Cureus",
+          "Inspire Medical Systems (INSP) Stock May Be Cheap After A 74% Fall - Yahoo Finance"
         ]
       },
       {
         "trend": "outbreak",
         "market_code": "SE",
         "category": "Outbreaks",
-        "score": 12,
+        "score": 11,
         "examples": [
+          "Cyclosporiasis outbreak has affected about 1 in every 1,000 people in Michigan - Scripps News",
           "Massive egg recall in US south and south-west due to salmonella outbreak - The Guardian",
-          "Why is the latest Ebola outbreak worsening? - Al Jazeera",
-          "Kentucky health officials suspect measles outbreak after new case confirmed in Christian County - WDRB"
+          "Cholera Outbreak Sickens Over 90 in Myanmar’s Biggest City - nytimes.com"
+        ]
+      },
+      {
+        "trend": "heart",
+        "market_code": "SE",
+        "category": "Chronic Disease",
+        "score": 7,
+        "examples": [
+          "You Don’t Need 10,000 Steps to Help Your Heart - Time Magazine",
+          "You Don’t Need 10,000 Steps to Help Your Heart - Time Magazine",
+          "You Don’t Need 10,000 Steps to Help Your Heart - Time Magazine"
         ]
       },
       {
@@ -857,9 +868,9 @@
         "category": "Mental Health",
         "score": 7,
         "examples": [
+          "Subconscious Restructuring Protocol in a Mental Health Quality Improvement Study: Reduced Treatment Duration and Improvement Across 17 Psychometric Outcomes in Adult Civilians, Veterans, and Adolescents - Cureus",
           "Lindsay Clancy trial reveals new details about mental health before killings - Scripps News",
-          "Selena Gomez Dismisses ‘Baseless’ Fraud Claims Over Mental Health Startup - inc.com",
-          "Astra is de-stigmatizing mental health one stroke at a time in the form of art. - WIBW"
+          "More than $1.3 million awarded to area schools for safety, mental health programs - fox56.com"
         ]
       },
       {
@@ -868,20 +879,9 @@
         "category": "Mental Health",
         "score": 7,
         "examples": [
+          "Subconscious Restructuring Protocol in a Mental Health Quality Improvement Study: Reduced Treatment Duration and Improvement Across 17 Psychometric Outcomes in Adult Civilians, Veterans, and Adolescents - Cureus",
           "Lindsay Clancy trial reveals new details about mental health before killings - Scripps News",
-          "Selena Gomez Dismisses ‘Baseless’ Fraud Claims Over Mental Health Startup - inc.com",
-          "Astra is de-stigmatizing mental health one stroke at a time in the form of art. - WIBW"
-        ]
-      },
-      {
-        "trend": "patients",
-        "market_code": "SE",
-        "category": "Europe Health",
-        "score": 6,
-        "examples": [
-          "Ethicists: Clinicians aren’t wrong to expect more from certain patients’ families—but they wouldn’t be right to request it, either - HealthExec",
-          "AI Is Helping Patients Solve Medical Mysteries - WSJ",
-          "Gaza hospitals, patients at risk amid oxygen shortage, health ministry warns - Arab News PK"
+          "More than $1.3 million awarded to area schools for safety, mental health programs - fox56.com"
         ]
       },
       {
@@ -891,15 +891,15 @@
         "score": 6,
         "examples": [
           "Why is the latest Ebola outbreak worsening? - Al Jazeera",
-          "Ebola outbreak in DR Congo: One death every 30 minutes - france24.com",
-          "These graphs show why this Ebola outbreak is set to be the worst in history - ABC News & Headlines – Australian Broadcasting Corporation"
+          "Ebola outbreak in DR Congo worsens, long transmission warned - news.cgtn.com",
+          "Ebola outbreak in DR Congo: One death every 30 minutes - France 24"
         ]
       },
       {
         "trend": "hospital",
         "market_code": "SE",
         "category": "Europe Health",
-        "score": 6,
+        "score": 5,
         "examples": [
           "First Lawsuit Over the Jalapeño Salmonella Outbreak Names the Importer. An Illinois Woman Spent Three Days in the Hospital After Two Meals at a Springfield Chipotle. - Food Poison Journal",
           "Doximity bets big on hospital adoption of enterprise AI as it ramps up tech spending - Fierce Healthcare",
@@ -907,36 +907,36 @@
         ]
       },
       {
-        "trend": "hospitals",
+        "trend": "medicine",
         "market_code": "SE",
         "category": "Europe Health",
         "score": 5,
         "examples": [
-          "Gaza hospitals, patients at risk amid oxygen shortage, health ministry warns - Arab News PK",
-          "What Medicare incentives for AI-based devices mean for tech companies — and hospitals - STAT",
-          "Ban prior auth? And hospitals cut jobs - STAT"
+          "What Is Lifestyle Medicine? - HSS | Hospital for Special Surgery",
+          "Expert explainer: What ultra-processed foods mean for heart health - Schulich School of Medicine & Dentistry",
+          "Why back-to-school physicals matter for kids’ health and success - UChicago Medicine"
         ]
       },
       {
-        "trend": "diseases",
+        "trend": "patients",
         "market_code": "SE",
         "category": "Europe Health",
-        "score": 5,
+        "score": 4,
         "examples": [
-          "IDSA Experts Warn of Summer Rise in Vector-Borne Diseases - Infectious Disease Special Edition",
-          "NFID Statement on Childhood Immunization Schedule - National Foundation for Infectious Diseases",
-          "IDSA Experts Warn of Summer Rise in Vector-Borne Diseases - Infectious Disease Special Edition"
+          "AI Is Helping Patients Solve Medical Mysteries - WSJ",
+          "Patients Wary of Governments, Companies Pushing AI as a Rural Healthcare Solution - KFF Health News",
+          "FDA Expands Clinical Trial Eligibility for Cancer Patients - Oncology News Central"
         ]
       },
       {
-        "trend": "disease",
+        "trend": "warning",
         "market_code": "SE",
         "category": "Europe Health",
-        "score": 5,
+        "score": 4,
         "examples": [
-          "IDSA Experts Warn of Summer Rise in Vector-Borne Diseases - Infectious Disease Special Edition",
-          "IDSA Experts Warn of Summer Rise in Vector-Borne Diseases - Infectious Disease Special Edition",
-          "This Week's Top 5 Infectious Disease News Stories: August 8-August 14, 2026 - Contagion Live"
+          "Health officials' floodwater warning, YWCA seeks donations, Fauci contempt vote: Sunrise Brief - WTKR",
+          "Man, 40, Diagnosed With Colon Cancer After Ignoring These Warning Signs - Newsweek",
+          "Toddler’s death sparks urgent warning about popular playsets - KOLN | Nebraska Local News, Weather, Sports | Lincoln, NE"
         ]
       }
     ],
@@ -945,11 +945,11 @@
         "trend": "health",
         "market_code": "NL",
         "category": "Europe Health",
-        "score": 61,
+        "score": 55,
         "examples": [
-          "Bruin to Bruin: Internationally renowned health economist, global health reform leader and UCLA Associate of the Chancellor Dr. Felicia Marie Knaul - Daily Bruin",
-          "Bruin to Bruin: Internationally renowned health economist, global health reform leader and UCLA Associate of the Chancellor Dr. Felicia Marie Knaul - Daily Bruin",
-          "Bernalillo County's Behavioral Health Unit rapidly grows, diverting 911 calls - Santa Fe New Mexican"
+          "How AI could bring Mayo-quality health care to everyone - Axios",
+          "Novak Djokovic Reveals He’s Been ‘Dealing With (A Health Issue) For Many Years Now’ - Forbes",
+          "Bexar County health department at risk as ARPA money runs out - San Antonio Report"
         ]
       },
       {
@@ -958,9 +958,9 @@
         "category": "Europe Health",
         "score": 15,
         "examples": [
+          "Clinic closures expose the fragile state of rural healthcare in Oklahoma - Tulsa World",
           "Cases of a fungus found in healthcare facilities, are rising rapidly - Scripps News",
-          "Patients Wary of Governments, Companies Pushing AI as a Rural Healthcare Solution - KFF Health News",
-          "Five Atlanta healthcare companies using AI to cut costs, improve care - The Business Journals"
+          "Patients Wary of Governments, Companies Pushing AI as a Rural Healthcare Solution - KFF Health News"
         ]
       },
       {
@@ -969,20 +969,31 @@
         "category": "Europe Health",
         "score": 13,
         "examples": [
-          "AI Is Helping Patients Solve Medical Mysteries - WSJ",
-          "Immigrant detained by ICE dies after medical emergency - NBC News",
-          "New approach opens rare immune cells to genetic risk research - Medical Xpress"
+          "UNC football defensive coordinator Steve Belichick on medical leave - The Daily Tar Heel",
+          "Potentially Low-Value Medical Interventions in Frail Older Adults Near the End of Life: A Narrative Review - Cureus",
+          "Inspire Medical Systems (INSP) Stock May Be Cheap After A 74% Fall - Yahoo Finance"
         ]
       },
       {
         "trend": "outbreak",
         "market_code": "NL",
         "category": "Outbreaks",
-        "score": 12,
+        "score": 11,
         "examples": [
+          "Cyclosporiasis outbreak has affected about 1 in every 1,000 people in Michigan - Scripps News",
           "Massive egg recall in US south and south-west due to salmonella outbreak - The Guardian",
-          "Why is the latest Ebola outbreak worsening? - Al Jazeera",
-          "Kentucky health officials suspect measles outbreak after new case confirmed in Christian County - WDRB"
+          "Cholera Outbreak Sickens Over 90 in Myanmar’s Biggest City - nytimes.com"
+        ]
+      },
+      {
+        "trend": "heart",
+        "market_code": "NL",
+        "category": "Chronic Disease",
+        "score": 7,
+        "examples": [
+          "You Don’t Need 10,000 Steps to Help Your Heart - Time Magazine",
+          "You Don’t Need 10,000 Steps to Help Your Heart - Time Magazine",
+          "You Don’t Need 10,000 Steps to Help Your Heart - Time Magazine"
         ]
       },
       {
@@ -991,9 +1002,9 @@
         "category": "Mental Health",
         "score": 7,
         "examples": [
+          "Subconscious Restructuring Protocol in a Mental Health Quality Improvement Study: Reduced Treatment Duration and Improvement Across 17 Psychometric Outcomes in Adult Civilians, Veterans, and Adolescents - Cureus",
           "Lindsay Clancy trial reveals new details about mental health before killings - Scripps News",
-          "Selena Gomez Dismisses ‘Baseless’ Fraud Claims Over Mental Health Startup - inc.com",
-          "Astra is de-stigmatizing mental health one stroke at a time in the form of art. - WIBW"
+          "More than $1.3 million awarded to area schools for safety, mental health programs - fox56.com"
         ]
       },
       {
@@ -1002,20 +1013,9 @@
         "category": "Mental Health",
         "score": 7,
         "examples": [
+          "Subconscious Restructuring Protocol in a Mental Health Quality Improvement Study: Reduced Treatment Duration and Improvement Across 17 Psychometric Outcomes in Adult Civilians, Veterans, and Adolescents - Cureus",
           "Lindsay Clancy trial reveals new details about mental health before killings - Scripps News",
-          "Selena Gomez Dismisses ‘Baseless’ Fraud Claims Over Mental Health Startup - inc.com",
-          "Astra is de-stigmatizing mental health one stroke at a time in the form of art. - WIBW"
-        ]
-      },
-      {
-        "trend": "patients",
-        "market_code": "NL",
-        "category": "Europe Health",
-        "score": 6,
-        "examples": [
-          "Ethicists: Clinicians aren’t wrong to expect more from certain patients’ families—but they wouldn’t be right to request it, either - HealthExec",
-          "AI Is Helping Patients Solve Medical Mysteries - WSJ",
-          "Gaza hospitals, patients at risk amid oxygen shortage, health ministry warns - Arab News PK"
+          "More than $1.3 million awarded to area schools for safety, mental health programs - fox56.com"
         ]
       },
       {
@@ -1025,15 +1025,15 @@
         "score": 6,
         "examples": [
           "Why is the latest Ebola outbreak worsening? - Al Jazeera",
-          "Ebola outbreak in DR Congo: One death every 30 minutes - france24.com",
-          "These graphs show why this Ebola outbreak is set to be the worst in history - ABC News & Headlines – Australian Broadcasting Corporation"
+          "Ebola outbreak in DR Congo worsens, long transmission warned - news.cgtn.com",
+          "Ebola outbreak in DR Congo: One death every 30 minutes - France 24"
         ]
       },
       {
         "trend": "hospital",
         "market_code": "NL",
         "category": "Europe Health",
-        "score": 6,
+        "score": 5,
         "examples": [
           "First Lawsuit Over the Jalapeño Salmonella Outbreak Names the Importer. An Illinois Woman Spent Three Days in the Hospital After Two Meals at a Springfield Chipotle. - Food Poison Journal",
           "Doximity bets big on hospital adoption of enterprise AI as it ramps up tech spending - Fierce Healthcare",
@@ -1041,36 +1041,36 @@
         ]
       },
       {
-        "trend": "hospitals",
+        "trend": "medicine",
         "market_code": "NL",
         "category": "Europe Health",
         "score": 5,
         "examples": [
-          "Gaza hospitals, patients at risk amid oxygen shortage, health ministry warns - Arab News PK",
-          "What Medicare incentives for AI-based devices mean for tech companies — and hospitals - STAT",
-          "Ban prior auth? And hospitals cut jobs - STAT"
+          "What Is Lifestyle Medicine? - HSS | Hospital for Special Surgery",
+          "Expert explainer: What ultra-processed foods mean for heart health - Schulich School of Medicine & Dentistry",
+          "Why back-to-school physicals matter for kids’ health and success - UChicago Medicine"
         ]
       },
       {
-        "trend": "diseases",
+        "trend": "patients",
         "market_code": "NL",
         "category": "Europe Health",
-        "score": 5,
+        "score": 4,
         "examples": [
-          "IDSA Experts Warn of Summer Rise in Vector-Borne Diseases - Infectious Disease Special Edition",
-          "NFID Statement on Childhood Immunization Schedule - National Foundation for Infectious Diseases",
-          "IDSA Experts Warn of Summer Rise in Vector-Borne Diseases - Infectious Disease Special Edition"
+          "AI Is Helping Patients Solve Medical Mysteries - WSJ",
+          "Patients Wary of Governments, Companies Pushing AI as a Rural Healthcare Solution - KFF Health News",
+          "FDA Expands Clinical Trial Eligibility for Cancer Patients - Oncology News Central"
         ]
       },
       {
-        "trend": "disease",
+        "trend": "warning",
         "market_code": "NL",
         "category": "Europe Health",
-        "score": 5,
+        "score": 4,
         "examples": [
-          "IDSA Experts Warn of Summer Rise in Vector-Borne Diseases - Infectious Disease Special Edition",
-          "IDSA Experts Warn of Summer Rise in Vector-Borne Diseases - Infectious Disease Special Edition",
-          "This Week's Top 5 Infectious Disease News Stories: August 8-August 14, 2026 - Contagion Live"
+          "Health officials' floodwater warning, YWCA seeks donations, Fauci contempt vote: Sunrise Brief - WTKR",
+          "Man, 40, Diagnosed With Colon Cancer After Ignoring These Warning Signs - Newsweek",
+          "Toddler’s death sparks urgent warning about popular playsets - KOLN | Nebraska Local News, Weather, Sports | Lincoln, NE"
         ]
       }
     ],
@@ -1079,11 +1079,11 @@
         "trend": "health",
         "market_code": "FI",
         "category": "Europe Health",
-        "score": 61,
+        "score": 55,
         "examples": [
-          "Bruin to Bruin: Internationally renowned health economist, global health reform leader and UCLA Associate of the Chancellor Dr. Felicia Marie Knaul - Daily Bruin",
-          "Bruin to Bruin: Internationally renowned health economist, global health reform leader and UCLA Associate of the Chancellor Dr. Felicia Marie Knaul - Daily Bruin",
-          "Bernalillo County's Behavioral Health Unit rapidly grows, diverting 911 calls - Santa Fe New Mexican"
+          "How AI could bring Mayo-quality health care to everyone - Axios",
+          "Novak Djokovic Reveals He’s Been ‘Dealing With (A Health Issue) For Many Years Now’ - Forbes",
+          "Bexar County health department at risk as ARPA money runs out - San Antonio Report"
         ]
       },
       {
@@ -1092,9 +1092,9 @@
         "category": "Europe Health",
         "score": 15,
         "examples": [
+          "Clinic closures expose the fragile state of rural healthcare in Oklahoma - Tulsa World",
           "Cases of a fungus found in healthcare facilities, are rising rapidly - Scripps News",
-          "Patients Wary of Governments, Companies Pushing AI as a Rural Healthcare Solution - KFF Health News",
-          "Five Atlanta healthcare companies using AI to cut costs, improve care - The Business Journals"
+          "Patients Wary of Governments, Companies Pushing AI as a Rural Healthcare Solution - KFF Health News"
         ]
       },
       {
@@ -1103,20 +1103,31 @@
         "category": "Europe Health",
         "score": 13,
         "examples": [
-          "AI Is Helping Patients Solve Medical Mysteries - WSJ",
-          "Immigrant detained by ICE dies after medical emergency - NBC News",
-          "New approach opens rare immune cells to genetic risk research - Medical Xpress"
+          "UNC football defensive coordinator Steve Belichick on medical leave - The Daily Tar Heel",
+          "Potentially Low-Value Medical Interventions in Frail Older Adults Near the End of Life: A Narrative Review - Cureus",
+          "Inspire Medical Systems (INSP) Stock May Be Cheap After A 74% Fall - Yahoo Finance"
         ]
       },
       {
         "trend": "outbreak",
         "market_code": "FI",
         "category": "Outbreaks",
-        "score": 12,
+        "score": 11,
         "examples": [
+          "Cyclosporiasis outbreak has affected about 1 in every 1,000 people in Michigan - Scripps News",
           "Massive egg recall in US south and south-west due to salmonella outbreak - The Guardian",
-          "Why is the latest Ebola outbreak worsening? - Al Jazeera",
-          "Kentucky health officials suspect measles outbreak after new case confirmed in Christian County - WDRB"
+          "Cholera Outbreak Sickens Over 90 in Myanmar’s Biggest City - nytimes.com"
+        ]
+      },
+      {
+        "trend": "heart",
+        "market_code": "FI",
+        "category": "Chronic Disease",
+        "score": 7,
+        "examples": [
+          "You Don’t Need 10,000 Steps to Help Your Heart - Time Magazine",
+          "You Don’t Need 10,000 Steps to Help Your Heart - Time Magazine",
+          "You Don’t Need 10,000 Steps to Help Your Heart - Time Magazine"
         ]
       },
       {
@@ -1125,9 +1136,9 @@
         "category": "Mental Health",
         "score": 7,
         "examples": [
+          "Subconscious Restructuring Protocol in a Mental Health Quality Improvement Study: Reduced Treatment Duration and Improvement Across 17 Psychometric Outcomes in Adult Civilians, Veterans, and Adolescents - Cureus",
           "Lindsay Clancy trial reveals new details about mental health before killings - Scripps News",
-          "Selena Gomez Dismisses ‘Baseless’ Fraud Claims Over Mental Health Startup - inc.com",
-          "Astra is de-stigmatizing mental health one stroke at a time in the form of art. - WIBW"
+          "More than $1.3 million awarded to area schools for safety, mental health programs - fox56.com"
         ]
       },
       {
@@ -1136,20 +1147,9 @@
         "category": "Mental Health",
         "score": 7,
         "examples": [
+          "Subconscious Restructuring Protocol in a Mental Health Quality Improvement Study: Reduced Treatment Duration and Improvement Across 17 Psychometric Outcomes in Adult Civilians, Veterans, and Adolescents - Cureus",
           "Lindsay Clancy trial reveals new details about mental health before killings - Scripps News",
-          "Selena Gomez Dismisses ‘Baseless’ Fraud Claims Over Mental Health Startup - inc.com",
-          "Astra is de-stigmatizing mental health one stroke at a time in the form of art. - WIBW"
-        ]
-      },
-      {
-        "trend": "patients",
-        "market_code": "FI",
-        "category": "Europe Health",
-        "score": 6,
-        "examples": [
-          "Ethicists: Clinicians aren’t wrong to expect more from certain patients’ families—but they wouldn’t be right to request it, either - HealthExec",
-          "AI Is Helping Patients Solve Medical Mysteries - WSJ",
-          "Gaza hospitals, patients at risk amid oxygen shortage, health ministry warns - Arab News PK"
+          "More than $1.3 million awarded to area schools for safety, mental health programs - fox56.com"
         ]
       },
       {
@@ -1159,15 +1159,15 @@
         "score": 6,
         "examples": [
           "Why is the latest Ebola outbreak worsening? - Al Jazeera",
-          "Ebola outbreak in DR Congo: One death every 30 minutes - france24.com",
-          "These graphs show why this Ebola outbreak is set to be the worst in history - ABC News & Headlines – Australian Broadcasting Corporation"
+          "Ebola outbreak in DR Congo worsens, long transmission warned - news.cgtn.com",
+          "Ebola outbreak in DR Congo: One death every 30 minutes - France 24"
         ]
       },
       {
         "trend": "hospital",
         "market_code": "FI",
         "category": "Europe Health",
-        "score": 6,
+        "score": 5,
         "examples": [
           "First Lawsuit Over the Jalapeño Salmonella Outbreak Names the Importer. An Illinois Woman Spent Three Days in the Hospital After Two Meals at a Springfield Chipotle. - Food Poison Journal",
           "Doximity bets big on hospital adoption of enterprise AI as it ramps up tech spending - Fierce Healthcare",
@@ -1175,36 +1175,36 @@
         ]
       },
       {
-        "trend": "hospitals",
+        "trend": "medicine",
         "market_code": "FI",
         "category": "Europe Health",
         "score": 5,
         "examples": [
-          "Gaza hospitals, patients at risk amid oxygen shortage, health ministry warns - Arab News PK",
-          "What Medicare incentives for AI-based devices mean for tech companies — and hospitals - STAT",
-          "Ban prior auth? And hospitals cut jobs - STAT"
+          "What Is Lifestyle Medicine? - HSS | Hospital for Special Surgery",
+          "Expert explainer: What ultra-processed foods mean for heart health - Schulich School of Medicine & Dentistry",
+          "Why back-to-school physicals matter for kids’ health and success - UChicago Medicine"
         ]
       },
       {
-        "trend": "diseases",
+        "trend": "patients",
         "market_code": "FI",
         "category": "Europe Health",
-        "score": 5,
+        "score": 4,
         "examples": [
-          "IDSA Experts Warn of Summer Rise in Vector-Borne Diseases - Infectious Disease Special Edition",
-          "NFID Statement on Childhood Immunization Schedule - National Foundation for Infectious Diseases",
-          "IDSA Experts Warn of Summer Rise in Vector-Borne Diseases - Infectious Disease Special Edition"
+          "AI Is Helping Patients Solve Medical Mysteries - WSJ",
+          "Patients Wary of Governments, Companies Pushing AI as a Rural Healthcare Solution - KFF Health News",
+          "FDA Expands Clinical Trial Eligibility for Cancer Patients - Oncology News Central"
         ]
       },
       {
-        "trend": "disease",
+        "trend": "warning",
         "market_code": "FI",
         "category": "Europe Health",
-        "score": 5,
+        "score": 4,
         "examples": [
-          "IDSA Experts Warn of Summer Rise in Vector-Borne Diseases - Infectious Disease Special Edition",
-          "IDSA Experts Warn of Summer Rise in Vector-Borne Diseases - Infectious Disease Special Edition",
-          "This Week's Top 5 Infectious Disease News Stories: August 8-August 14, 2026 - Contagion Live"
+          "Health officials' floodwater warning, YWCA seeks donations, Fauci contempt vote: Sunrise Brief - WTKR",
+          "Man, 40, Diagnosed With Colon Cancer After Ignoring These Warning Signs - Newsweek",
+          "Toddler’s death sparks urgent warning about popular playsets - KOLN | Nebraska Local News, Weather, Sports | Lincoln, NE"
         ]
       }
     ],
@@ -1213,11 +1213,11 @@
         "trend": "health",
         "market_code": "NO",
         "category": "Europe Health",
-        "score": 61,
+        "score": 55,
         "examples": [
-          "Bruin to Bruin: Internationally renowned health economist, global health reform leader and UCLA Associate of the Chancellor Dr. Felicia Marie Knaul - Daily Bruin",
-          "Bruin to Bruin: Internationally renowned health economist, global health reform leader and UCLA Associate of the Chancellor Dr. Felicia Marie Knaul - Daily Bruin",
-          "Bernalillo County's Behavioral Health Unit rapidly grows, diverting 911 calls - Santa Fe New Mexican"
+          "How AI could bring Mayo-quality health care to everyone - Axios",
+          "Novak Djokovic Reveals He’s Been ‘Dealing With (A Health Issue) For Many Years Now’ - Forbes",
+          "Bexar County health department at risk as ARPA money runs out - San Antonio Report"
         ]
       },
       {
@@ -1226,9 +1226,9 @@
         "category": "Europe Health",
         "score": 15,
         "examples": [
+          "Clinic closures expose the fragile state of rural healthcare in Oklahoma - Tulsa World",
           "Cases of a fungus found in healthcare facilities, are rising rapidly - Scripps News",
-          "Patients Wary of Governments, Companies Pushing AI as a Rural Healthcare Solution - KFF Health News",
-          "Five Atlanta healthcare companies using AI to cut costs, improve care - The Business Journals"
+          "Patients Wary of Governments, Companies Pushing AI as a Rural Healthcare Solution - KFF Health News"
         ]
       },
       {
@@ -1237,20 +1237,31 @@
         "category": "Europe Health",
         "score": 13,
         "examples": [
-          "AI Is Helping Patients Solve Medical Mysteries - WSJ",
-          "Immigrant detained by ICE dies after medical emergency - NBC News",
-          "New approach opens rare immune cells to genetic risk research - Medical Xpress"
+          "UNC football defensive coordinator Steve Belichick on medical leave - The Daily Tar Heel",
+          "Potentially Low-Value Medical Interventions in Frail Older Adults Near the End of Life: A Narrative Review - Cureus",
+          "Inspire Medical Systems (INSP) Stock May Be Cheap After A 74% Fall - Yahoo Finance"
         ]
       },
       {
         "trend": "outbreak",
         "market_code": "NO",
         "category": "Outbreaks",
-        "score": 12,
+        "score": 11,
         "examples": [
+          "Cyclosporiasis outbreak has affected about 1 in every 1,000 people in Michigan - Scripps News",
           "Massive egg recall in US south and south-west due to salmonella outbreak - The Guardian",
-          "Why is the latest Ebola outbreak worsening? - Al Jazeera",
-          "Kentucky health officials suspect measles outbreak after new case confirmed in Christian County - WDRB"
+          "Cholera Outbreak Sickens Over 90 in Myanmar’s Biggest City - nytimes.com"
+        ]
+      },
+      {
+        "trend": "heart",
+        "market_code": "NO",
+        "category": "Chronic Disease",
+        "score": 7,
+        "examples": [
+          "You Don’t Need 10,000 Steps to Help Your Heart - Time Magazine",
+          "You Don’t Need 10,000 Steps to Help Your Heart - Time Magazine",
+          "You Don’t Need 10,000 Steps to Help Your Heart - Time Magazine"
         ]
       },
       {
@@ -1259,9 +1270,9 @@
         "category": "Mental Health",
         "score": 7,
         "examples": [
+          "Subconscious Restructuring Protocol in a Mental Health Quality Improvement Study: Reduced Treatment Duration and Improvement Across 17 Psychometric Outcomes in Adult Civilians, Veterans, and Adolescents - Cureus",
           "Lindsay Clancy trial reveals new details about mental health before killings - Scripps News",
-          "Selena Gomez Dismisses ‘Baseless’ Fraud Claims Over Mental Health Startup - inc.com",
-          "Astra is de-stigmatizing mental health one stroke at a time in the form of art. - WIBW"
+          "More than $1.3 million awarded to area schools for safety, mental health programs - fox56.com"
         ]
       },
       {
@@ -1270,20 +1281,9 @@
         "category": "Mental Health",
         "score": 7,
         "examples": [
+          "Subconscious Restructuring Protocol in a Mental Health Quality Improvement Study: Reduced Treatment Duration and Improvement Across 17 Psychometric Outcomes in Adult Civilians, Veterans, and Adolescents - Cureus",
           "Lindsay Clancy trial reveals new details about mental health before killings - Scripps News",
-          "Selena Gomez Dismisses ‘Baseless’ Fraud Claims Over Mental Health Startup - inc.com",
-          "Astra is de-stigmatizing mental health one stroke at a time in the form of art. - WIBW"
-        ]
-      },
-      {
-        "trend": "patients",
-        "market_code": "NO",
-        "category": "Europe Health",
-        "score": 6,
-        "examples": [
-          "Ethicists: Clinicians aren’t wrong to expect more from certain patients’ families—but they wouldn’t be right to request it, either - HealthExec",
-          "AI Is Helping Patients Solve Medical Mysteries - WSJ",
-          "Gaza hospitals, patients at risk amid oxygen shortage, health ministry warns - Arab News PK"
+          "More than $1.3 million awarded to area schools for safety, mental health programs - fox56.com"
         ]
       },
       {
@@ -1293,15 +1293,15 @@
         "score": 6,
         "examples": [
           "Why is the latest Ebola outbreak worsening? - Al Jazeera",
-          "Ebola outbreak in DR Congo: One death every 30 minutes - france24.com",
-          "These graphs show why this Ebola outbreak is set to be the worst in history - ABC News & Headlines – Australian Broadcasting Corporation"
+          "Ebola outbreak in DR Congo worsens, long transmission warned - news.cgtn.com",
+          "Ebola outbreak in DR Congo: One death every 30 minutes - France 24"
         ]
       },
       {
         "trend": "hospital",
         "market_code": "NO",
         "category": "Europe Health",
-        "score": 6,
+        "score": 5,
         "examples": [
           "First Lawsuit Over the Jalapeño Salmonella Outbreak Names the Importer. An Illinois Woman Spent Three Days in the Hospital After Two Meals at a Springfield Chipotle. - Food Poison Journal",
           "Doximity bets big on hospital adoption of enterprise AI as it ramps up tech spending - Fierce Healthcare",
@@ -1309,36 +1309,36 @@
         ]
       },
       {
-        "trend": "hospitals",
+        "trend": "medicine",
         "market_code": "NO",
         "category": "Europe Health",
         "score": 5,
         "examples": [
-          "Gaza hospitals, patients at risk amid oxygen shortage, health ministry warns - Arab News PK",
-          "What Medicare incentives for AI-based devices mean for tech companies — and hospitals - STAT",
-          "Ban prior auth? And hospitals cut jobs - STAT"
+          "What Is Lifestyle Medicine? - HSS | Hospital for Special Surgery",
+          "Expert explainer: What ultra-processed foods mean for heart health - Schulich School of Medicine & Dentistry",
+          "Why back-to-school physicals matter for kids’ health and success - UChicago Medicine"
         ]
       },
       {
-        "trend": "diseases",
+        "trend": "patients",
         "market_code": "NO",
         "category": "Europe Health",
-        "score": 5,
+        "score": 4,
         "examples": [
-          "IDSA Experts Warn of Summer Rise in Vector-Borne Diseases - Infectious Disease Special Edition",
-          "NFID Statement on Childhood Immunization Schedule - National Foundation for Infectious Diseases",
-          "IDSA Experts Warn of Summer Rise in Vector-Borne Diseases - Infectious Disease Special Edition"
+          "AI Is Helping Patients Solve Medical Mysteries - WSJ",
+          "Patients Wary of Governments, Companies Pushing AI as a Rural Healthcare Solution - KFF Health News",
+          "FDA Expands Clinical Trial Eligibility for Cancer Patients - Oncology News Central"
         ]
       },
       {
-        "trend": "disease",
+        "trend": "warning",
         "market_code": "NO",
         "category": "Europe Health",
-        "score": 5,
+        "score": 4,
         "examples": [
-          "IDSA Experts Warn of Summer Rise in Vector-Borne Diseases - Infectious Disease Special Edition",
-          "IDSA Experts Warn of Summer Rise in Vector-Borne Diseases - Infectious Disease Special Edition",
-          "This Week's Top 5 Infectious Disease News Stories: August 8-August 14, 2026 - Contagion Live"
+          "Health officials' floodwater warning, YWCA seeks donations, Fauci contempt vote: Sunrise Brief - WTKR",
+          "Man, 40, Diagnosed With Colon Cancer After Ignoring These Warning Signs - Newsweek",
+          "Toddler’s death sparks urgent warning about popular playsets - KOLN | Nebraska Local News, Weather, Sports | Lincoln, NE"
         ]
       }
     ],
@@ -1347,11 +1347,11 @@
         "trend": "health",
         "market_code": "JP",
         "category": "Asia Health",
-        "score": 61,
+        "score": 55,
         "examples": [
-          "Bruin to Bruin: Internationally renowned health economist, global health reform leader and UCLA Associate of the Chancellor Dr. Felicia Marie Knaul - Daily Bruin",
-          "Bruin to Bruin: Internationally renowned health economist, global health reform leader and UCLA Associate of the Chancellor Dr. Felicia Marie Knaul - Daily Bruin",
-          "Bernalillo County's Behavioral Health Unit rapidly grows, diverting 911 calls - Santa Fe New Mexican"
+          "How AI could bring Mayo-quality health care to everyone - Axios",
+          "Novak Djokovic Reveals He’s Been ‘Dealing With (A Health Issue) For Many Years Now’ - Forbes",
+          "Bexar County health department at risk as ARPA money runs out - San Antonio Report"
         ]
       },
       {
@@ -1360,9 +1360,9 @@
         "category": "Asia Health",
         "score": 15,
         "examples": [
+          "Clinic closures expose the fragile state of rural healthcare in Oklahoma - Tulsa World",
           "Cases of a fungus found in healthcare facilities, are rising rapidly - Scripps News",
-          "Patients Wary of Governments, Companies Pushing AI as a Rural Healthcare Solution - KFF Health News",
-          "Five Atlanta healthcare companies using AI to cut costs, improve care - The Business Journals"
+          "Patients Wary of Governments, Companies Pushing AI as a Rural Healthcare Solution - KFF Health News"
         ]
       },
       {
@@ -1371,20 +1371,31 @@
         "category": "Asia Health",
         "score": 13,
         "examples": [
-          "AI Is Helping Patients Solve Medical Mysteries - WSJ",
-          "Immigrant detained by ICE dies after medical emergency - NBC News",
-          "New approach opens rare immune cells to genetic risk research - Medical Xpress"
+          "UNC football defensive coordinator Steve Belichick on medical leave - The Daily Tar Heel",
+          "Potentially Low-Value Medical Interventions in Frail Older Adults Near the End of Life: A Narrative Review - Cureus",
+          "Inspire Medical Systems (INSP) Stock May Be Cheap After A 74% Fall - Yahoo Finance"
         ]
       },
       {
         "trend": "outbreak",
         "market_code": "JP",
         "category": "Outbreaks",
-        "score": 12,
+        "score": 11,
         "examples": [
+          "Cyclosporiasis outbreak has affected about 1 in every 1,000 people in Michigan - Scripps News",
           "Massive egg recall in US south and south-west due to salmonella outbreak - The Guardian",
-          "Why is the latest Ebola outbreak worsening? - Al Jazeera",
-          "Kentucky health officials suspect measles outbreak after new case confirmed in Christian County - WDRB"
+          "Cholera Outbreak Sickens Over 90 in Myanmar’s Biggest City - nytimes.com"
+        ]
+      },
+      {
+        "trend": "heart",
+        "market_code": "JP",
+        "category": "Chronic Disease",
+        "score": 7,
+        "examples": [
+          "You Don’t Need 10,000 Steps to Help Your Heart - Time Magazine",
+          "You Don’t Need 10,000 Steps to Help Your Heart - Time Magazine",
+          "You Don’t Need 10,000 Steps to Help Your Heart - Time Magazine"
         ]
       },
       {
@@ -1393,9 +1404,9 @@
         "category": "Mental Health",
         "score": 7,
         "examples": [
+          "Subconscious Restructuring Protocol in a Mental Health Quality Improvement Study: Reduced Treatment Duration and Improvement Across 17 Psychometric Outcomes in Adult Civilians, Veterans, and Adolescents - Cureus",
           "Lindsay Clancy trial reveals new details about mental health before killings - Scripps News",
-          "Selena Gomez Dismisses ‘Baseless’ Fraud Claims Over Mental Health Startup - inc.com",
-          "Astra is de-stigmatizing mental health one stroke at a time in the form of art. - WIBW"
+          "More than $1.3 million awarded to area schools for safety, mental health programs - fox56.com"
         ]
       },
       {
@@ -1404,20 +1415,9 @@
         "category": "Mental Health",
         "score": 7,
         "examples": [
+          "Subconscious Restructuring Protocol in a Mental Health Quality Improvement Study: Reduced Treatment Duration and Improvement Across 17 Psychometric Outcomes in Adult Civilians, Veterans, and Adolescents - Cureus",
           "Lindsay Clancy trial reveals new details about mental health before killings - Scripps News",
-          "Selena Gomez Dismisses ‘Baseless’ Fraud Claims Over Mental Health Startup - inc.com",
-          "Astra is de-stigmatizing mental health one stroke at a time in the form of art. - WIBW"
-        ]
-      },
-      {
-        "trend": "patients",
-        "market_code": "JP",
-        "category": "Asia Health",
-        "score": 6,
-        "examples": [
-          "Ethicists: Clinicians aren’t wrong to expect more from certain patients’ families—but they wouldn’t be right to request it, either - HealthExec",
-          "AI Is Helping Patients Solve Medical Mysteries - WSJ",
-          "Gaza hospitals, patients at risk amid oxygen shortage, health ministry warns - Arab News PK"
+          "More than $1.3 million awarded to area schools for safety, mental health programs - fox56.com"
         ]
       },
       {
@@ -1427,15 +1427,15 @@
         "score": 6,
         "examples": [
           "Why is the latest Ebola outbreak worsening? - Al Jazeera",
-          "Ebola outbreak in DR Congo: One death every 30 minutes - france24.com",
-          "These graphs show why this Ebola outbreak is set to be the worst in history - ABC News & Headlines – Australian Broadcasting Corporation"
+          "Ebola outbreak in DR Congo worsens, long transmission warned - news.cgtn.com",
+          "Ebola outbreak in DR Congo: One death every 30 minutes - France 24"
         ]
       },
       {
         "trend": "hospital",
         "market_code": "JP",
         "category": "Asia Health",
-        "score": 6,
+        "score": 5,
         "examples": [
           "First Lawsuit Over the Jalapeño Salmonella Outbreak Names the Importer. An Illinois Woman Spent Three Days in the Hospital After Two Meals at a Springfield Chipotle. - Food Poison Journal",
           "Doximity bets big on hospital adoption of enterprise AI as it ramps up tech spending - Fierce Healthcare",
@@ -1443,36 +1443,36 @@
         ]
       },
       {
-        "trend": "hospitals",
+        "trend": "medicine",
         "market_code": "JP",
         "category": "Asia Health",
         "score": 5,
         "examples": [
-          "Gaza hospitals, patients at risk amid oxygen shortage, health ministry warns - Arab News PK",
-          "What Medicare incentives for AI-based devices mean for tech companies — and hospitals - STAT",
-          "Ban prior auth? And hospitals cut jobs - STAT"
+          "What Is Lifestyle Medicine? - HSS | Hospital for Special Surgery",
+          "Expert explainer: What ultra-processed foods mean for heart health - Schulich School of Medicine & Dentistry",
+          "Why back-to-school physicals matter for kids’ health and success - UChicago Medicine"
         ]
       },
       {
-        "trend": "diseases",
+        "trend": "patients",
         "market_code": "JP",
         "category": "Asia Health",
-        "score": 5,
+        "score": 4,
         "examples": [
-          "IDSA Experts Warn of Summer Rise in Vector-Borne Diseases - Infectious Disease Special Edition",
-          "NFID Statement on Childhood Immunization Schedule - National Foundation for Infectious Diseases",
-          "IDSA Experts Warn of Summer Rise in Vector-Borne Diseases - Infectious Disease Special Edition"
+          "AI Is Helping Patients Solve Medical Mysteries - WSJ",
+          "Patients Wary of Governments, Companies Pushing AI as a Rural Healthcare Solution - KFF Health News",
+          "FDA Expands Clinical Trial Eligibility for Cancer Patients - Oncology News Central"
         ]
       },
       {
-        "trend": "disease",
+        "trend": "warning",
         "market_code": "JP",
         "category": "Asia Health",
-        "score": 5,
+        "score": 4,
         "examples": [
-          "IDSA Experts Warn of Summer Rise in Vector-Borne Diseases - Infectious Disease Special Edition",
-          "IDSA Experts Warn of Summer Rise in Vector-Borne Diseases - Infectious Disease Special Edition",
-          "This Week's Top 5 Infectious Disease News Stories: August 8-August 14, 2026 - Contagion Live"
+          "Health officials' floodwater warning, YWCA seeks donations, Fauci contempt vote: Sunrise Brief - WTKR",
+          "Man, 40, Diagnosed With Colon Cancer After Ignoring These Warning Signs - Newsweek",
+          "Toddler’s death sparks urgent warning about popular playsets - KOLN | Nebraska Local News, Weather, Sports | Lincoln, NE"
         ]
       }
     ],
@@ -1481,11 +1481,11 @@
         "trend": "health",
         "market_code": "CN",
         "category": "Asia Health",
-        "score": 61,
+        "score": 55,
         "examples": [
-          "Bruin to Bruin: Internationally renowned health economist, global health reform leader and UCLA Associate of the Chancellor Dr. Felicia Marie Knaul - Daily Bruin",
-          "Bruin to Bruin: Internationally renowned health economist, global health reform leader and UCLA Associate of the Chancellor Dr. Felicia Marie Knaul - Daily Bruin",
-          "Bernalillo County's Behavioral Health Unit rapidly grows, diverting 911 calls - Santa Fe New Mexican"
+          "How AI could bring Mayo-quality health care to everyone - Axios",
+          "Novak Djokovic Reveals He’s Been ‘Dealing With (A Health Issue) For Many Years Now’ - Forbes",
+          "Bexar County health department at risk as ARPA money runs out - San Antonio Report"
         ]
       },
       {
@@ -1494,9 +1494,9 @@
         "category": "Asia Health",
         "score": 15,
         "examples": [
+          "Clinic closures expose the fragile state of rural healthcare in Oklahoma - Tulsa World",
           "Cases of a fungus found in healthcare facilities, are rising rapidly - Scripps News",
-          "Patients Wary of Governments, Companies Pushing AI as a Rural Healthcare Solution - KFF Health News",
-          "Five Atlanta healthcare companies using AI to cut costs, improve care - The Business Journals"
+          "Patients Wary of Governments, Companies Pushing AI as a Rural Healthcare Solution - KFF Health News"
         ]
       },
       {
@@ -1505,20 +1505,31 @@
         "category": "Asia Health",
         "score": 13,
         "examples": [
-          "AI Is Helping Patients Solve Medical Mysteries - WSJ",
-          "Immigrant detained by ICE dies after medical emergency - NBC News",
-          "New approach opens rare immune cells to genetic risk research - Medical Xpress"
+          "UNC football defensive coordinator Steve Belichick on medical leave - The Daily Tar Heel",
+          "Potentially Low-Value Medical Interventions in Frail Older Adults Near the End of Life: A Narrative Review - Cureus",
+          "Inspire Medical Systems (INSP) Stock May Be Cheap After A 74% Fall - Yahoo Finance"
         ]
       },
       {
         "trend": "outbreak",
         "market_code": "CN",
         "category": "Outbreaks",
-        "score": 12,
+        "score": 11,
         "examples": [
+          "Cyclosporiasis outbreak has affected about 1 in every 1,000 people in Michigan - Scripps News",
           "Massive egg recall in US south and south-west due to salmonella outbreak - The Guardian",
-          "Why is the latest Ebola outbreak worsening? - Al Jazeera",
-          "Kentucky health officials suspect measles outbreak after new case confirmed in Christian County - WDRB"
+          "Cholera Outbreak Sickens Over 90 in Myanmar’s Biggest City - nytimes.com"
+        ]
+      },
+      {
+        "trend": "heart",
+        "market_code": "CN",
+        "category": "Chronic Disease",
+        "score": 7,
+        "examples": [
+          "You Don’t Need 10,000 Steps to Help Your Heart - Time Magazine",
+          "You Don’t Need 10,000 Steps to Help Your Heart - Time Magazine",
+          "You Don’t Need 10,000 Steps to Help Your Heart - Time Magazine"
         ]
       },
       {
@@ -1527,9 +1538,9 @@
         "category": "Mental Health",
         "score": 7,
         "examples": [
+          "Subconscious Restructuring Protocol in a Mental Health Quality Improvement Study: Reduced Treatment Duration and Improvement Across 17 Psychometric Outcomes in Adult Civilians, Veterans, and Adolescents - Cureus",
           "Lindsay Clancy trial reveals new details about mental health before killings - Scripps News",
-          "Selena Gomez Dismisses ‘Baseless’ Fraud Claims Over Mental Health Startup - inc.com",
-          "Astra is de-stigmatizing mental health one stroke at a time in the form of art. - WIBW"
+          "More than $1.3 million awarded to area schools for safety, mental health programs - fox56.com"
         ]
       },
       {
@@ -1538,20 +1549,9 @@
         "category": "Mental Health",
         "score": 7,
         "examples": [
+          "Subconscious Restructuring Protocol in a Mental Health Quality Improvement Study: Reduced Treatment Duration and Improvement Across 17 Psychometric Outcomes in Adult Civilians, Veterans, and Adolescents - Cureus",
           "Lindsay Clancy trial reveals new details about mental health before killings - Scripps News",
-          "Selena Gomez Dismisses ‘Baseless’ Fraud Claims Over Mental Health Startup - inc.com",
-          "Astra is de-stigmatizing mental health one stroke at a time in the form of art. - WIBW"
-        ]
-      },
-      {
-        "trend": "patients",
-        "market_code": "CN",
-        "category": "Asia Health",
-        "score": 6,
-        "examples": [
-          "Ethicists: Clinicians aren’t wrong to expect more from certain patients’ families—but they wouldn’t be right to request it, either - HealthExec",
-          "AI Is Helping Patients Solve Medical Mysteries - WSJ",
-          "Gaza hospitals, patients at risk amid oxygen shortage, health ministry warns - Arab News PK"
+          "More than $1.3 million awarded to area schools for safety, mental health programs - fox56.com"
         ]
       },
       {
@@ -1561,15 +1561,15 @@
         "score": 6,
         "examples": [
           "Why is the latest Ebola outbreak worsening? - Al Jazeera",
-          "Ebola outbreak in DR Congo: One death every 30 minutes - france24.com",
-          "These graphs show why this Ebola outbreak is set to be the worst in history - ABC News & Headlines – Australian Broadcasting Corporation"
+          "Ebola outbreak in DR Congo worsens, long transmission warned - news.cgtn.com",
+          "Ebola outbreak in DR Congo: One death every 30 minutes - France 24"
         ]
       },
       {
         "trend": "hospital",
         "market_code": "CN",
         "category": "Asia Health",
-        "score": 6,
+        "score": 5,
         "examples": [
           "First Lawsuit Over the Jalapeño Salmonella Outbreak Names the Importer. An Illinois Woman Spent Three Days in the Hospital After Two Meals at a Springfield Chipotle. - Food Poison Journal",
           "Doximity bets big on hospital adoption of enterprise AI as it ramps up tech spending - Fierce Healthcare",
@@ -1577,36 +1577,36 @@
         ]
       },
       {
-        "trend": "hospitals",
+        "trend": "medicine",
         "market_code": "CN",
         "category": "Asia Health",
         "score": 5,
         "examples": [
-          "Gaza hospitals, patients at risk amid oxygen shortage, health ministry warns - Arab News PK",
-          "What Medicare incentives for AI-based devices mean for tech companies — and hospitals - STAT",
-          "Ban prior auth? And hospitals cut jobs - STAT"
+          "What Is Lifestyle Medicine? - HSS | Hospital for Special Surgery",
+          "Expert explainer: What ultra-processed foods mean for heart health - Schulich School of Medicine & Dentistry",
+          "Why back-to-school physicals matter for kids’ health and success - UChicago Medicine"
         ]
       },
       {
-        "trend": "diseases",
+        "trend": "patients",
         "market_code": "CN",
         "category": "Asia Health",
-        "score": 5,
+        "score": 4,
         "examples": [
-          "IDSA Experts Warn of Summer Rise in Vector-Borne Diseases - Infectious Disease Special Edition",
-          "NFID Statement on Childhood Immunization Schedule - National Foundation for Infectious Diseases",
-          "IDSA Experts Warn of Summer Rise in Vector-Borne Diseases - Infectious Disease Special Edition"
+          "AI Is Helping Patients Solve Medical Mysteries - WSJ",
+          "Patients Wary of Governments, Companies Pushing AI as a Rural Healthcare Solution - KFF Health News",
+          "FDA Expands Clinical Trial Eligibility for Cancer Patients - Oncology News Central"
         ]
       },
       {
-        "trend": "disease",
+        "trend": "warning",
         "market_code": "CN",
         "category": "Asia Health",
-        "score": 5,
+        "score": 4,
         "examples": [
-          "IDSA Experts Warn of Summer Rise in Vector-Borne Diseases - Infectious Disease Special Edition",
-          "IDSA Experts Warn of Summer Rise in Vector-Borne Diseases - Infectious Disease Special Edition",
-          "This Week's Top 5 Infectious Disease News Stories: August 8-August 14, 2026 - Contagion Live"
+          "Health officials' floodwater warning, YWCA seeks donations, Fauci contempt vote: Sunrise Brief - WTKR",
+          "Man, 40, Diagnosed With Colon Cancer After Ignoring These Warning Signs - Newsweek",
+          "Toddler’s death sparks urgent warning about popular playsets - KOLN | Nebraska Local News, Weather, Sports | Lincoln, NE"
         ]
       }
     ],
@@ -1615,11 +1615,11 @@
         "trend": "health",
         "market_code": "KR",
         "category": "Asia Health",
-        "score": 61,
+        "score": 55,
         "examples": [
-          "Bruin to Bruin: Internationally renowned health economist, global health reform leader and UCLA Associate of the Chancellor Dr. Felicia Marie Knaul - Daily Bruin",
-          "Bruin to Bruin: Internationally renowned health economist, global health reform leader and UCLA Associate of the Chancellor Dr. Felicia Marie Knaul - Daily Bruin",
-          "Bernalillo County's Behavioral Health Unit rapidly grows, diverting 911 calls - Santa Fe New Mexican"
+          "How AI could bring Mayo-quality health care to everyone - Axios",
+          "Novak Djokovic Reveals He’s Been ‘Dealing With (A Health Issue) For Many Years Now’ - Forbes",
+          "Bexar County health department at risk as ARPA money runs out - San Antonio Report"
         ]
       },
       {
@@ -1628,9 +1628,9 @@
         "category": "Asia Health",
         "score": 15,
         "examples": [
+          "Clinic closures expose the fragile state of rural healthcare in Oklahoma - Tulsa World",
           "Cases of a fungus found in healthcare facilities, are rising rapidly - Scripps News",
-          "Patients Wary of Governments, Companies Pushing AI as a Rural Healthcare Solution - KFF Health News",
-          "Five Atlanta healthcare companies using AI to cut costs, improve care - The Business Journals"
+          "Patients Wary of Governments, Companies Pushing AI as a Rural Healthcare Solution - KFF Health News"
         ]
       },
       {
@@ -1639,20 +1639,31 @@
         "category": "Asia Health",
         "score": 13,
         "examples": [
-          "AI Is Helping Patients Solve Medical Mysteries - WSJ",
-          "Immigrant detained by ICE dies after medical emergency - NBC News",
-          "New approach opens rare immune cells to genetic risk research - Medical Xpress"
+          "UNC football defensive coordinator Steve Belichick on medical leave - The Daily Tar Heel",
+          "Potentially Low-Value Medical Interventions in Frail Older Adults Near the End of Life: A Narrative Review - Cureus",
+          "Inspire Medical Systems (INSP) Stock May Be Cheap After A 74% Fall - Yahoo Finance"
         ]
       },
       {
         "trend": "outbreak",
         "market_code": "KR",
         "category": "Outbreaks",
-        "score": 12,
+        "score": 11,
         "examples": [
+          "Cyclosporiasis outbreak has affected about 1 in every 1,000 people in Michigan - Scripps News",
           "Massive egg recall in US south and south-west due to salmonella outbreak - The Guardian",
-          "Why is the latest Ebola outbreak worsening? - Al Jazeera",
-          "Kentucky health officials suspect measles outbreak after new case confirmed in Christian County - WDRB"
+          "Cholera Outbreak Sickens Over 90 in Myanmar’s Biggest City - nytimes.com"
+        ]
+      },
+      {
+        "trend": "heart",
+        "market_code": "KR",
+        "category": "Chronic Disease",
+        "score": 7,
+        "examples": [
+          "You Don’t Need 10,000 Steps to Help Your Heart - Time Magazine",
+          "You Don’t Need 10,000 Steps to Help Your Heart - Time Magazine",
+          "You Don’t Need 10,000 Steps to Help Your Heart - Time Magazine"
         ]
       },
       {
@@ -1661,9 +1672,9 @@
         "category": "Mental Health",
         "score": 7,
         "examples": [
+          "Subconscious Restructuring Protocol in a Mental Health Quality Improvement Study: Reduced Treatment Duration and Improvement Across 17 Psychometric Outcomes in Adult Civilians, Veterans, and Adolescents - Cureus",
           "Lindsay Clancy trial reveals new details about mental health before killings - Scripps News",
-          "Selena Gomez Dismisses ‘Baseless’ Fraud Claims Over Mental Health Startup - inc.com",
-          "Astra is de-stigmatizing mental health one stroke at a time in the form of art. - WIBW"
+          "More than $1.3 million awarded to area schools for safety, mental health programs - fox56.com"
         ]
       },
       {
@@ -1672,20 +1683,9 @@
         "category": "Mental Health",
         "score": 7,
         "examples": [
+          "Subconscious Restructuring Protocol in a Mental Health Quality Improvement Study: Reduced Treatment Duration and Improvement Across 17 Psychometric Outcomes in Adult Civilians, Veterans, and Adolescents - Cureus",
           "Lindsay Clancy trial reveals new details about mental health before killings - Scripps News",
-          "Selena Gomez Dismisses ‘Baseless’ Fraud Claims Over Mental Health Startup - inc.com",
-          "Astra is de-stigmatizing mental health one stroke at a time in the form of art. - WIBW"
-        ]
-      },
-      {
-        "trend": "patients",
-        "market_code": "KR",
-        "category": "Asia Health",
-        "score": 6,
-        "examples": [
-          "Ethicists: Clinicians aren’t wrong to expect more from certain patients’ families—but they wouldn’t be right to request it, either - HealthExec",
-          "AI Is Helping Patients Solve Medical Mysteries - WSJ",
-          "Gaza hospitals, patients at risk amid oxygen shortage, health ministry warns - Arab News PK"
+          "More than $1.3 million awarded to area schools for safety, mental health programs - fox56.com"
         ]
       },
       {
@@ -1695,15 +1695,15 @@
         "score": 6,
         "examples": [
           "Why is the latest Ebola outbreak worsening? - Al Jazeera",
-          "Ebola outbreak in DR Congo: One death every 30 minutes - france24.com",
-          "These graphs show why this Ebola outbreak is set to be the worst in history - ABC News & Headlines – Australian Broadcasting Corporation"
+          "Ebola outbreak in DR Congo worsens, long transmission warned - news.cgtn.com",
+          "Ebola outbreak in DR Congo: One death every 30 minutes - France 24"
         ]
       },
       {
         "trend": "hospital",
         "market_code": "KR",
         "category": "Asia Health",
-        "score": 6,
+        "score": 5,
         "examples": [
           "First Lawsuit Over the Jalapeño Salmonella Outbreak Names the Importer. An Illinois Woman Spent Three Days in the Hospital After Two Meals at a Springfield Chipotle. - Food Poison Journal",
           "Doximity bets big on hospital adoption of enterprise AI as it ramps up tech spending - Fierce Healthcare",
@@ -1711,36 +1711,36 @@
         ]
       },
       {
-        "trend": "hospitals",
+        "trend": "medicine",
         "market_code": "KR",
         "category": "Asia Health",
         "score": 5,
         "examples": [
-          "Gaza hospitals, patients at risk amid oxygen shortage, health ministry warns - Arab News PK",
-          "What Medicare incentives for AI-based devices mean for tech companies — and hospitals - STAT",
-          "Ban prior auth? And hospitals cut jobs - STAT"
+          "What Is Lifestyle Medicine? - HSS | Hospital for Special Surgery",
+          "Expert explainer: What ultra-processed foods mean for heart health - Schulich School of Medicine & Dentistry",
+          "Why back-to-school physicals matter for kids’ health and success - UChicago Medicine"
         ]
       },
       {
-        "trend": "diseases",
+        "trend": "patients",
         "market_code": "KR",
         "category": "Asia Health",
-        "score": 5,
+        "score": 4,
         "examples": [
-          "IDSA Experts Warn of Summer Rise in Vector-Borne Diseases - Infectious Disease Special Edition",
-          "NFID Statement on Childhood Immunization Schedule - National Foundation for Infectious Diseases",
-          "IDSA Experts Warn of Summer Rise in Vector-Borne Diseases - Infectious Disease Special Edition"
+          "AI Is Helping Patients Solve Medical Mysteries - WSJ",
+          "Patients Wary of Governments, Companies Pushing AI as a Rural Healthcare Solution - KFF Health News",
+          "FDA Expands Clinical Trial Eligibility for Cancer Patients - Oncology News Central"
         ]
       },
       {
-        "trend": "disease",
+        "trend": "warning",
         "market_code": "KR",
         "category": "Asia Health",
-        "score": 5,
+        "score": 4,
         "examples": [
-          "IDSA Experts Warn of Summer Rise in Vector-Borne Diseases - Infectious Disease Special Edition",
-          "IDSA Experts Warn of Summer Rise in Vector-Borne Diseases - Infectious Disease Special Edition",
-          "This Week's Top 5 Infectious Disease News Stories: August 8-August 14, 2026 - Contagion Live"
+          "Health officials' floodwater warning, YWCA seeks donations, Fauci contempt vote: Sunrise Brief - WTKR",
+          "Man, 40, Diagnosed With Colon Cancer After Ignoring These Warning Signs - Newsweek",
+          "Toddler’s death sparks urgent warning about popular playsets - KOLN | Nebraska Local News, Weather, Sports | Lincoln, NE"
         ]
       }
     ],
@@ -1749,55 +1749,66 @@
         "trend": "health",
         "market_code": "IN",
         "category": "Asia Health",
-        "score": 51,
+        "score": 57,
         "examples": [
-          "HEALTH WRAP | EP 46 | Vaccine policies, TB, cancer care, blue zones and more - The Hindu",
-          "How to decode your health insurance claim settlement letter - livemint.com",
-          "DHR-ICMR celebrates 80th Independence Day with renewed commitment to health research, medical innovation and nation-building - pib.gov.in"
+          "Bombay HC rules community health volunteers entitled to minimum wage - The Hindu",
+          "Mental health insurance in India: From policy wording to patient access - expresshealthcare.in",
+          "AI could cut doctors' paperwork burden as global health worker shortage looms: Report - ET HealthWorld"
         ]
       },
       {
         "trend": "healthcare",
         "market_code": "IN",
         "category": "Asia Health",
-        "score": 19,
+        "score": 14,
         "examples": [
-          "Challenges to treatment preparedness among lung cancer patients from a healthcare provider perspective: a mixed-method study - Nature",
           "Punjab’s cashless healthcare scheme eases medical costs for families - The Hindu",
-          "Clinic closures expose the fragile state of rural healthcare in Oklahoma - Tulsa World"
+          "J P Nadda releases Knowledge Paper on ‘AI in MedTech: Revolutionizing Healthcare Through Artificial Intelligence’ - expresshealthcare.in",
+          "Beyond AI And Biotech, Is Robotics India’s Next Healthcare Growth Engine - BW Healthcare World"
         ]
       },
       {
         "trend": "outbreak",
         "market_code": "IN",
         "category": "Outbreaks",
-        "score": 16,
+        "score": 11,
         "examples": [
-          "Andhra Pradesh plans drills for outbreak response - newindianexpress.com",
-          "Andhra Pradesh plans drills for outbreak response - newindianexpress.com",
-          "CFPs: Strengthening Global Health Security and Outbreak Response in India (US) - fundsforNGOs"
+          "Why is the latest Ebola outbreak worsening? - Al Jazeera",
+          "Central, Arunachal teams intensify measures to contain FMD outbreak - ThePrint",
+          "Ebola outbreak in DR Congo worsens, long transmission warned - news.cgtn.com"
         ]
       },
       {
         "trend": "medical",
         "market_code": "IN",
         "category": "Asia Health",
-        "score": 12,
+        "score": 8,
         "examples": [
-          "DHR-ICMR celebrates 80th Independence Day with renewed commitment to health research, medical innovation and nation-building - pib.gov.in",
           "Punjab’s cashless healthcare scheme eases medical costs for families - The Hindu",
+          "Potentially Low-Value Medical Interventions in Frail Older Adults Near the End of Life: A Narrative Review - Cureus",
           "Delhi Doctors Offer Free Weekly Medical Consultations Under '2 Ghante Desh Ke Naam' Initiative - NDTV"
         ]
       },
       {
-        "trend": "cancer",
+        "trend": "heart",
         "market_code": "IN",
         "category": "Chronic Disease",
         "score": 7,
         "examples": [
-          "HEALTH WRAP | EP 46 | Vaccine policies, TB, cancer care, blue zones and more - The Hindu",
-          "Challenges to treatment preparedness among lung cancer patients from a healthcare provider perspective: a mixed-method study - Nature",
-          "Man, 40, Diagnosed With Colon Cancer After Ignoring These Warning Signs - Newsweek"
+          "You Don’t Need 10,000 Steps to Help Your Heart - Time Magazine",
+          "You Don’t Need 10,000 Steps to Help Your Heart - Time Magazine",
+          "You Don’t Need 10,000 Steps to Help Your Heart - Time Magazine"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "IN",
+        "category": "Mental Health",
+        "score": 7,
+        "examples": [
+          "Mental health insurance in India: From policy wording to patient access - expresshealthcare.in",
+          "Mental health insurance in India: From policy wording to patient access - expresshealthcare.in",
+          "Subconscious Restructuring Protocol in a Mental Health Quality Improvement Study: Reduced Treatment Duration and Improvement Across 17 Psychometric Outcomes in Adult Civilians, Veterans, and Adolescents - Cureus"
         ]
       },
       {
@@ -1807,30 +1818,8 @@
         "score": 7,
         "examples": [
           "Why is the latest Ebola outbreak worsening? - Al Jazeera",
-          "Ebola Outbreak In Congo: UN Reports 1 Death Every 30 Minutes - NDTV",
-          "Ebola outbreak in DR Congo: One death every 30 minutes - France 24"
-        ]
-      },
-      {
-        "trend": "mental",
-        "market_code": "IN",
-        "category": "Mental Health",
-        "score": 7,
-        "examples": [
-          "Selena Gomez Dismisses ‘Baseless’ Fraud Claims Over Mental Health Startup - inc.com",
-          "What investors say went wrong at Selena Gomez's mental health startup Wondermind - Business Insider",
-          "Space habitat design could shape astronaut mental health on Mars missions - The Brighter Side of News"
-        ]
-      },
-      {
-        "trend": "mental health",
-        "market_code": "IN",
-        "category": "Mental Health",
-        "score": 7,
-        "examples": [
-          "Selena Gomez Dismisses ‘Baseless’ Fraud Claims Over Mental Health Startup - inc.com",
-          "What investors say went wrong at Selena Gomez's mental health startup Wondermind - Business Insider",
-          "Space habitat design could shape astronaut mental health on Mars missions - The Brighter Side of News"
+          "Ebola outbreak in DR Congo worsens, long transmission warned - news.cgtn.com",
+          "Ebola Outbreak In Congo: UN Reports 1 Death Every 30 Minutes - NDTV"
         ]
       },
       {
@@ -1839,42 +1828,53 @@
         "category": "Asia Health",
         "score": 7,
         "examples": [
-          "Doximity bets big on hospital adoption of enterprise AI as it ramps up tech spending - Fierce Healthcare",
+          "Doximity bets big on hospital adoption of enterprise AI as it ramps up tech spending - fiercehealthcare.com",
           "What Is Lifestyle Medicine? - HSS | Hospital for Special Surgery",
           "Only 0.79 Govt Hospital Beds Per 1,000 People, Private Care 8–15 Times Costlier: Parliamentary Panel Flags Affordability Crisis - Moneylife"
         ]
       },
       {
-        "trend": "vaccine",
+        "trend": "mental health",
         "market_code": "IN",
-        "category": "Drug & Treatment News",
+        "category": "Mental Health",
         "score": 6,
         "examples": [
-          "HEALTH WRAP | EP 46 | Vaccine policies, TB, cancer care, blue zones and more - The Hindu",
-          "Infodemic Crisis: Impact Of Online Vaccine Messaging On Public Trust - Live Law",
-          "TB Vaccine Pipeline Enters Most Promising Phase in Decades - Medscape"
+          "Mental health insurance in India: From policy wording to patient access - expresshealthcare.in",
+          "Mental health insurance in India: From policy wording to patient access - expresshealthcare.in",
+          "Subconscious Restructuring Protocol in a Mental Health Quality Improvement Study: Reduced Treatment Duration and Improvement Across 17 Psychometric Outcomes in Adult Civilians, Veterans, and Adolescents - Cureus"
         ]
       },
       {
-        "trend": "warning",
+        "trend": "doctors",
         "market_code": "IN",
         "category": "Asia Health",
         "score": 6,
         "examples": [
-          "Yellow heat health warning issued after heatwave - BBC",
-          "The ‘40-year-old ICU club’: Why experts are warning against sacrificing sleep for success - The Indian Express",
-          "‘Should India Remain Underdeveloped?’ SC Questions Centre Over Food Warning Labels - heraldgoa.in"
+          "AI could cut doctors' paperwork burden as global health worker shortage looms: Report - ET HealthWorld",
+          "AI could cut doctors' paperwork burden as global health worker shortage looms: Report - ET HealthWorld",
+          "Delhi Doctors Offer Free Weekly Medical Consultations Under '2 Ghante Desh Ke Naam' Initiative - NDTV"
         ]
       },
       {
-        "trend": "patients",
+        "trend": "public health",
         "market_code": "IN",
         "category": "Asia Health",
         "score": 5,
         "examples": [
-          "Challenges to treatment preparedness among lung cancer patients from a healthcare provider perspective: a mixed-method study - Nature",
-          "Ethicists: Clinicians aren’t wrong to expect more from certain patients’ families—but they wouldn’t be right to request it, either - HealthExec",
-          "AI Is Helping Patients Solve Medical Mysteries - WSJ"
+          "Paucity Of Ventilator Operators Hamper Public Health Services In Bathinda and Ludhiana - ETV Bharat",
+          "Paucity Of Ventilator Operators Hamper Public Health Services In Bathinda and Ludhiana - ETV Bharat",
+          "Paucity Of Ventilator Operators Hamper Public Health Services In Bathinda and Ludhiana - ETV Bharat"
+        ]
+      },
+      {
+        "trend": "hospitals",
+        "market_code": "IN",
+        "category": "Asia Health",
+        "score": 5,
+        "examples": [
+          "Ayushman Bharat: West Bengal launching scheme today — Check hospitals, eligibility, benefits, documents, how to apply - livemint.com",
+          "Ayushman Bharat: West Bengal launching scheme today — Check hospitals, eligibility, benefits, documents, how to apply - livemint.com",
+          "‘Horrific’ Conditions Grip UK Hospitals Unprepared for Heat - Bloomberg.com"
         ]
       }
     ],
@@ -1883,44 +1883,44 @@
         "trend": "health",
         "market_code": "AU",
         "category": "Global Health",
-        "score": 49,
+        "score": 47,
         "examples": [
           "Djokovic collapses, confesses to health secret - News.com.au",
-          "NT health heroes: The full list of winners revealed - NT News",
-          "Mental health nurses for Redland, Redcliffe and Hervey Bay - newsreel.com.au"
-        ]
-      },
-      {
-        "trend": "healthcare",
-        "market_code": "AU",
-        "category": "Global Health",
-        "score": 16,
-        "examples": [
-          "Cases of a fungus found in healthcare facilities, are rising rapidly - Scripps News",
-          "Cases of a fungus found in healthcare facilities, are rising rapidly - Scripps News",
-          "AI Healthcare Stocks With Real Revenue For Australian Investors - simplywall.st"
+          "Novak Djokovic Reveals He’s Been ‘Dealing With (A Health Issue) For Many Years Now’ - Forbes",
+          "Midlife Activity Boosts Brain Health Later - Mirage News"
         ]
       },
       {
         "trend": "medical",
         "market_code": "AU",
         "category": "Global Health",
+        "score": 15,
+        "examples": [
+          "Pilot Medical Update - Braydon Trindall - sharks.com.au",
+          "Potentially Low-Value Medical Interventions in Frail Older Adults Near the End of Life: A Narrative Review - Cureus",
+          "Chinese medical team conducts Sanfutie treatments for Tunisian people - Xinhua"
+        ]
+      },
+      {
+        "trend": "healthcare",
+        "market_code": "AU",
+        "category": "Global Health",
         "score": 13,
         "examples": [
-          "Neuroone Medical earnings missed by $0.10, revenue fell short of estimates - Investing.com Australia",
-          "World-class $1.5 million medical training facility opens in Orange - Orange City Life",
-          "New approach opens rare immune cells to genetic risk research - Medical Xpress"
+          "Cases of a fungus found in healthcare facilities, are rising rapidly - Scripps News",
+          "AI Healthcare Stocks With Real Revenue For Australian Investors - simplywall.st",
+          "Patients Wary of Governments, Companies Pushing AI as a Rural Healthcare Solution - KFF Health News"
         ]
       },
       {
         "trend": "outbreak",
         "market_code": "AU",
         "category": "Outbreaks",
-        "score": 13,
+        "score": 11,
         "examples": [
-          "DRC reports 26 million malaria cases in 2025 - Outbreak News Today",
           "These graphs show why this Ebola outbreak is set to be the worst in history - ABC News & Headlines – Australian Broadcasting Corporation",
-          "Why is the latest Ebola outbreak worsening? - Al Jazeera"
+          "Why is the latest Ebola outbreak worsening? - Al Jazeera",
+          "Massive egg recall in US south and south-west due to salmonella outbreak - The Guardian"
         ]
       },
       {
@@ -1931,40 +1931,40 @@
         "examples": [
           "These graphs show why this Ebola outbreak is set to be the worst in history - ABC News & Headlines – Australian Broadcasting Corporation",
           "Why is the latest Ebola outbreak worsening? - Al Jazeera",
-          "Ebola outbreak in DR Congo: One death every 30 minutes - France 24"
+          "Ebola outbreak in DR Congo worsens, long transmission warned - news.cgtn.com"
         ]
       },
       {
-        "trend": "mental",
+        "trend": "heart",
         "market_code": "AU",
-        "category": "Mental Health",
-        "score": 8,
+        "category": "Chronic Disease",
+        "score": 7,
         "examples": [
-          "Mental health nurses for Redland, Redcliffe and Hervey Bay - newsreel.com.au",
-          "Associations of mental health with subsequent weight development during a 4-year follow-up in adolescence - Nature",
-          "Mental health nurses for Redland, Redcliffe and Hervey Bay - newsreel.com.au"
+          "You Don’t Need 10,000 Steps to Help Your Heart - Time Magazine",
+          "You Don’t Need 10,000 Steps to Help Your Heart - Time Magazine",
+          "You Don’t Need 10,000 Steps to Help Your Heart - Time Magazine"
         ]
       },
       {
-        "trend": "mental health",
+        "trend": "warning",
         "market_code": "AU",
-        "category": "Mental Health",
-        "score": 8,
+        "category": "Global Health",
+        "score": 7,
         "examples": [
-          "Mental health nurses for Redland, Redcliffe and Hervey Bay - newsreel.com.au",
-          "Associations of mental health with subsequent weight development during a 4-year follow-up in adolescence - Nature",
-          "Mental health nurses for Redland, Redcliffe and Hervey Bay - newsreel.com.au"
+          "Yellow heat health warning issued after heatwave - BBC",
+          "#hauora: Meningococcal Warning After Young Adult Dies in Waikato - Waatea News",
+          "Why Bangladesh Needs Mandatory Warning Labels on Packaged Foods - The Daily Star"
         ]
       },
       {
         "trend": "hospital",
         "market_code": "AU",
         "category": "Global Health",
-        "score": 7,
+        "score": 5,
         "examples": [
           "NSW hospital patients’ 2025 survey results - Coffs Coast News Of The Area",
-          "First Lawsuit Over the Jalapeño Salmonella Outbreak Names the Importer. An Illinois Woman Spent Three Days in the Hospital After Two Meals at a Springfield Chipotle. - Food Poison Journal",
-          "Highly skilled mental health nurses to tackle hospital crisis - The Courier Mail"
+          "Doximity bets big on hospital adoption of enterprise AI as it ramps up tech spending - Fierce Healthcare",
+          "What Is Lifestyle Medicine? - HSS | Hospital for Special Surgery"
         ]
       },
       {
@@ -1973,9 +1973,31 @@
         "category": "Global Health",
         "score": 5,
         "examples": [
-          "AI Is Helping Patients Solve Medical Mysteries - WSJ",
           "NSW hospital patients’ 2025 survey results - Coffs Coast News Of The Area",
-          "Gaza hospitals, patients at risk amid oxygen shortage, health ministry warns - arabnews.pk"
+          "Gaza hospitals, patients at risk amid oxygen shortage, health ministry warns - Arab News PK",
+          "Mental health patients allege unexplained sedation, improper wards - The Canberra Times"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "AU",
+        "category": "Mental Health",
+        "score": 5,
+        "examples": [
+          "Mental health patients allege unexplained sedation, improper wards - The Canberra Times",
+          "Teenager to run 4,000km for men’s mental health - Geelong Advertiser",
+          "Column: Perez Hilton created the internet culture that watched his mental health crisis unfold - Los Angeles Times"
+        ]
+      },
+      {
+        "trend": "mental health",
+        "market_code": "AU",
+        "category": "Mental Health",
+        "score": 5,
+        "examples": [
+          "Mental health patients allege unexplained sedation, improper wards - The Canberra Times",
+          "Teenager to run 4,000km for men’s mental health - Geelong Advertiser",
+          "Column: Perez Hilton created the internet culture that watched his mental health crisis unfold - Los Angeles Times"
         ]
       },
       {
@@ -1988,28 +2010,6 @@
           "RNA researcher on F.D.A. approval of first mRNA influenza vaccine - UC Santa Cruz - News",
           "TB Vaccine Pipeline Enters Most Promising Phase in Decades - Medscape"
         ]
-      },
-      {
-        "trend": "health nurses",
-        "market_code": "AU",
-        "category": "Global Health",
-        "score": 4,
-        "examples": [
-          "Mental health nurses for Redland, Redcliffe and Hervey Bay - newsreel.com.au",
-          "Mental health nurses for Redland, Redcliffe and Hervey Bay - newsreel.com.au",
-          "Highly skilled mental health nurses to tackle hospital crisis - The Courier Mail"
-        ]
-      },
-      {
-        "trend": "mental health nurses",
-        "market_code": "AU",
-        "category": "Mental Health",
-        "score": 4,
-        "examples": [
-          "Mental health nurses for Redland, Redcliffe and Hervey Bay - newsreel.com.au",
-          "Mental health nurses for Redland, Redcliffe and Hervey Bay - newsreel.com.au",
-          "Highly skilled mental health nurses to tackle hospital crisis - The Courier Mail"
-        ]
       }
     ],
     "Canada": [
@@ -2017,99 +2017,99 @@
         "trend": "health",
         "market_code": "CA",
         "category": "Global Health",
-        "score": 54,
+        "score": 51,
         "examples": [
-          "Trump faces pressure after reports of sailors’ deteriorating mental health aboard USS Abraham Lincoln - Global News",
-          "Opinion: Are provincial health systems stacked against new immigrants? - SaskToday.ca",
-          "IH says Clinton Home Health services to resume on Sunday - The Ashcroft-Cache Creek Journal"
-        ]
-      },
-      {
-        "trend": "outbreak",
-        "market_code": "CA",
-        "category": "Outbreaks",
-        "score": 14,
-        "examples": [
-          "Fastest-growing Ebola outbreak through the eyes of Canadian aid workers - CityNews Vancouver",
-          "Fastest-growing Ebola outbreak through the eyes of Canadian aid workers - CityNews Vancouver",
-          "Why is the latest Ebola outbreak worsening? - Al Jazeera"
+          "Should universities use a pass-fail system to support students’ mental health? Here’s what experts think - CTV News",
+          "Novak Djokovic Reveals He’s Been ‘Dealing With (A Health Issue) For Many Years Now’ - Forbes",
+          "Health minister warns Alberta’s plan to expand private care may violate federal law - Toronto Star"
         ]
       },
       {
         "trend": "medical",
         "market_code": "CA",
         "category": "Global Health",
-        "score": 14,
+        "score": 17,
         "examples": [
-          "AI Is Helping Patients Solve Medical Mysteries - WSJ",
-          "Jaxson Dart Heads to medical tent - Fantasy Footballers Podcast",
-          "MUST READ: Handley cites medical reasons for winter stays in Dominican Republic - ThoroldToday.ca"
+          "Potentially Low-Value Medical Interventions in Frail Older Adults Near the End of Life: A Narrative Review - Cureus",
+          "Chinese medical team conducts Sanfutie treatments for Tunisian people - Xinhua",
+          "Inspire Medical Systems (INSP) Stock May Be Cheap After A 74% Fall - Yahoo Finance"
         ]
       },
       {
         "trend": "healthcare",
         "market_code": "CA",
         "category": "Global Health",
-        "score": 13,
+        "score": 12,
         "examples": [
           "Cases of a fungus found in healthcare facilities, are rising rapidly - Scripps News",
           "3 AI Healthcare Stocks Helping Investors Find The Next Breakthrough In Cancer Care - simplywall.st",
-          "From Diagnosis to Wellness, AI’s Healthcare Revolution - Technology Org"
+          "Patients Wary of Governments, Companies Pushing AI as a Rural Healthcare Solution - KFF Health News"
+        ]
+      },
+      {
+        "trend": "outbreak",
+        "market_code": "CA",
+        "category": "Outbreaks",
+        "score": 11,
+        "examples": [
+          "Fastest-growing Ebola outbreak through the eyes of Canadian aid workers - CityNews Vancouver",
+          "Why is the latest Ebola outbreak worsening? - Al Jazeera",
+          "Ebola outbreak in DR Congo worsens, long transmission warned - news.cgtn.com"
         ]
       },
       {
         "trend": "ebola outbreak",
         "market_code": "CA",
         "category": "Outbreaks",
-        "score": 10,
+        "score": 8,
         "examples": [
           "Fastest-growing Ebola outbreak through the eyes of Canadian aid workers - CityNews Vancouver",
-          "Fastest-growing Ebola outbreak through the eyes of Canadian aid workers - CityNews Vancouver",
-          "Why is the latest Ebola outbreak worsening? - Al Jazeera"
+          "Why is the latest Ebola outbreak worsening? - Al Jazeera",
+          "Ebola outbreak in DR Congo worsens, long transmission warned - news.cgtn.com"
         ]
       },
       {
         "trend": "mental",
         "market_code": "CA",
         "category": "Mental Health",
-        "score": 8,
+        "score": 7,
         "examples": [
-          "Trump faces pressure after reports of sailors’ deteriorating mental health aboard USS Abraham Lincoln - Global News",
-          "Local restaurant’s pledge backs hospital equipment, technology, mental health services - MidlandToday.ca",
-          "Trump faces pressure after reports of sailors’ deteriorating mental health aboard USS Abraham Lincoln - Global News"
+          "Should universities use a pass-fail system to support students’ mental health? Here’s what experts think - CTV News",
+          "Column: Perez Hilton created the internet culture that watched his mental health crisis unfold - Los Angeles Times",
+          "Should universities use a pass-fail system to support students’ mental health? Here’s what experts think - CTV News"
         ]
       },
       {
         "trend": "mental health",
         "market_code": "CA",
         "category": "Mental Health",
-        "score": 8,
+        "score": 7,
         "examples": [
-          "Trump faces pressure after reports of sailors’ deteriorating mental health aboard USS Abraham Lincoln - Global News",
-          "Local restaurant’s pledge backs hospital equipment, technology, mental health services - MidlandToday.ca",
-          "Trump faces pressure after reports of sailors’ deteriorating mental health aboard USS Abraham Lincoln - Global News"
-        ]
-      },
-      {
-        "trend": "hospital",
-        "market_code": "CA",
-        "category": "Global Health",
-        "score": 6,
-        "examples": [
-          "Local restaurant’s pledge backs hospital equipment, technology, mental health services - MidlandToday.ca",
-          "First Lawsuit Over the Jalapeño Salmonella Outbreak Names the Importer. An Illinois Woman Spent Three Days in the Hospital After Two Meals at a Springfield Chipotle. - Food Poison Journal",
-          "Local restaurant’s pledge backs hospital equipment, technology, mental health services - MidlandToday.ca"
+          "Should universities use a pass-fail system to support students’ mental health? Here’s what experts think - CTV News",
+          "Column: Perez Hilton created the internet culture that watched his mental health crisis unfold - Los Angeles Times",
+          "Should universities use a pass-fail system to support students’ mental health? Here’s what experts think - CTV News"
         ]
       },
       {
         "trend": "warning",
         "market_code": "CA",
         "category": "Global Health",
-        "score": 5,
+        "score": 6,
         "examples": [
           "Air quality warning issued as wildfire smoke blankets South Okanagan - Castanet",
           "Yellow heat health warning issued after heatwave - BBC",
-          "Health officials' floodwater warning, YWCA seeks donations, Fauci contempt vote: Sunrise Brief - WTKR"
+          "SC gives FSSAI final two weeks on HFSS food warning labels. - en.etemaaddaily.com"
+        ]
+      },
+      {
+        "trend": "vaccine",
+        "market_code": "CA",
+        "category": "Drug & Treatment News",
+        "score": 6,
+        "examples": [
+          "RNA researcher on F.D.A. approval of first mRNA influenza vaccine - UC Santa Cruz - News",
+          "Health Canada authorizes Phase I trial for Bundibugyo Ebola vaccine candidate - WestCentralOnline",
+          "TB Vaccine Pipeline Enters Most Promising Phase in Decades - medscape.com"
         ]
       },
       {
@@ -2118,31 +2118,31 @@
         "category": "Chronic Disease",
         "score": 5,
         "examples": [
-          "A top cancer doctor shares 4 bare minimum food rules to lower your chronic disease risk - Business Insider",
+          "Man, 40, Diagnosed With Colon Cancer After Ignoring These Warning Signs - Newsweek",
           "3 AI Healthcare Stocks Helping Investors Find The Next Breakthrough In Cancer Care - simplywall.st",
           "mRNA-4359: Promising Cancer Vaccine, Dose, Administration, and Clinical Trials - Oncodaily"
         ]
       },
       {
-        "trend": "vaccine",
+        "trend": "heart",
         "market_code": "CA",
-        "category": "Drug & Treatment News",
+        "category": "Chronic Disease",
         "score": 5,
         "examples": [
-          "RNA researcher on F.D.A. approval of first mRNA influenza vaccine - UC Santa Cruz - News",
-          "Health Canada authorizes Phase I trial for Bundibugyo Ebola vaccine candidate - WestCentralOnline",
-          "mRNA-4359: Promising Cancer Vaccine, Dose, Administration, and Clinical Trials - Oncodaily"
+          "Expert explainer: What ultra-processed foods mean for heart health - Schulich School of Medicine & Dentistry",
+          "Microplastics in local water supplies linked to higher risks of heart attack and stroke - Futura, le média qui explore le monde",
+          "You Don’t Need 10,000 Steps to Help Your Heart - Time Magazine"
         ]
       },
       {
-        "trend": "health care",
+        "trend": "researchers",
         "market_code": "CA",
         "category": "Global Health",
         "score": 4,
         "examples": [
-          "Opinion: Status quo the greatest threat to Canadian health care - Calgary Herald",
-          "Editorial: Alberta health care at a crossroad - Cochrane Eagle",
-          "Back-to-School Health Tips: How to Keep Your Child Healthy and Ready to Learn - McLaren Health Care"
+          "Researchers document surge in unhoused deaths in Quebec - CBC",
+          "Researchers begin to uncover how cryptococcus shifts from silent infection to killer fungus - technology.org",
+          "Researchers help identify new Ebola variant and potential treatment - Medical Xpress"
         ]
       }
     ],
@@ -2151,11 +2151,11 @@
         "trend": "health",
         "market_code": "AE",
         "category": "Arab Health",
-        "score": 61,
+        "score": 55,
         "examples": [
-          "Bruin to Bruin: Internationally renowned health economist, global health reform leader and UCLA Associate of the Chancellor Dr. Felicia Marie Knaul - Daily Bruin",
-          "Bruin to Bruin: Internationally renowned health economist, global health reform leader and UCLA Associate of the Chancellor Dr. Felicia Marie Knaul - Daily Bruin",
-          "Bernalillo County's Behavioral Health Unit rapidly grows, diverting 911 calls - Santa Fe New Mexican"
+          "How AI could bring Mayo-quality health care to everyone - Axios",
+          "Novak Djokovic Reveals He’s Been ‘Dealing With (A Health Issue) For Many Years Now’ - Forbes",
+          "Bexar County health department at risk as ARPA money runs out - San Antonio Report"
         ]
       },
       {
@@ -2164,9 +2164,9 @@
         "category": "Arab Health",
         "score": 15,
         "examples": [
+          "Clinic closures expose the fragile state of rural healthcare in Oklahoma - Tulsa World",
           "Cases of a fungus found in healthcare facilities, are rising rapidly - Scripps News",
-          "Patients Wary of Governments, Companies Pushing AI as a Rural Healthcare Solution - KFF Health News",
-          "Five Atlanta healthcare companies using AI to cut costs, improve care - The Business Journals"
+          "Patients Wary of Governments, Companies Pushing AI as a Rural Healthcare Solution - KFF Health News"
         ]
       },
       {
@@ -2175,20 +2175,31 @@
         "category": "Arab Health",
         "score": 13,
         "examples": [
-          "AI Is Helping Patients Solve Medical Mysteries - WSJ",
-          "Immigrant detained by ICE dies after medical emergency - NBC News",
-          "New approach opens rare immune cells to genetic risk research - Medical Xpress"
+          "UNC football defensive coordinator Steve Belichick on medical leave - The Daily Tar Heel",
+          "Potentially Low-Value Medical Interventions in Frail Older Adults Near the End of Life: A Narrative Review - Cureus",
+          "Inspire Medical Systems (INSP) Stock May Be Cheap After A 74% Fall - Yahoo Finance"
         ]
       },
       {
         "trend": "outbreak",
         "market_code": "AE",
         "category": "Outbreaks",
-        "score": 12,
+        "score": 11,
         "examples": [
+          "Cyclosporiasis outbreak has affected about 1 in every 1,000 people in Michigan - Scripps News",
           "Massive egg recall in US south and south-west due to salmonella outbreak - The Guardian",
-          "Why is the latest Ebola outbreak worsening? - Al Jazeera",
-          "Kentucky health officials suspect measles outbreak after new case confirmed in Christian County - WDRB"
+          "Cholera Outbreak Sickens Over 90 in Myanmar’s Biggest City - nytimes.com"
+        ]
+      },
+      {
+        "trend": "heart",
+        "market_code": "AE",
+        "category": "Chronic Disease",
+        "score": 7,
+        "examples": [
+          "You Don’t Need 10,000 Steps to Help Your Heart - Time Magazine",
+          "You Don’t Need 10,000 Steps to Help Your Heart - Time Magazine",
+          "You Don’t Need 10,000 Steps to Help Your Heart - Time Magazine"
         ]
       },
       {
@@ -2197,9 +2208,9 @@
         "category": "Mental Health",
         "score": 7,
         "examples": [
+          "Subconscious Restructuring Protocol in a Mental Health Quality Improvement Study: Reduced Treatment Duration and Improvement Across 17 Psychometric Outcomes in Adult Civilians, Veterans, and Adolescents - Cureus",
           "Lindsay Clancy trial reveals new details about mental health before killings - Scripps News",
-          "Selena Gomez Dismisses ‘Baseless’ Fraud Claims Over Mental Health Startup - inc.com",
-          "Astra is de-stigmatizing mental health one stroke at a time in the form of art. - WIBW"
+          "More than $1.3 million awarded to area schools for safety, mental health programs - fox56.com"
         ]
       },
       {
@@ -2208,20 +2219,9 @@
         "category": "Mental Health",
         "score": 7,
         "examples": [
+          "Subconscious Restructuring Protocol in a Mental Health Quality Improvement Study: Reduced Treatment Duration and Improvement Across 17 Psychometric Outcomes in Adult Civilians, Veterans, and Adolescents - Cureus",
           "Lindsay Clancy trial reveals new details about mental health before killings - Scripps News",
-          "Selena Gomez Dismisses ‘Baseless’ Fraud Claims Over Mental Health Startup - inc.com",
-          "Astra is de-stigmatizing mental health one stroke at a time in the form of art. - WIBW"
-        ]
-      },
-      {
-        "trend": "patients",
-        "market_code": "AE",
-        "category": "Arab Health",
-        "score": 6,
-        "examples": [
-          "Ethicists: Clinicians aren’t wrong to expect more from certain patients’ families—but they wouldn’t be right to request it, either - HealthExec",
-          "AI Is Helping Patients Solve Medical Mysteries - WSJ",
-          "Gaza hospitals, patients at risk amid oxygen shortage, health ministry warns - Arab News PK"
+          "More than $1.3 million awarded to area schools for safety, mental health programs - fox56.com"
         ]
       },
       {
@@ -2231,15 +2231,15 @@
         "score": 6,
         "examples": [
           "Why is the latest Ebola outbreak worsening? - Al Jazeera",
-          "Ebola outbreak in DR Congo: One death every 30 minutes - france24.com",
-          "These graphs show why this Ebola outbreak is set to be the worst in history - ABC News & Headlines – Australian Broadcasting Corporation"
+          "Ebola outbreak in DR Congo worsens, long transmission warned - news.cgtn.com",
+          "Ebola outbreak in DR Congo: One death every 30 minutes - France 24"
         ]
       },
       {
         "trend": "hospital",
         "market_code": "AE",
         "category": "Arab Health",
-        "score": 6,
+        "score": 5,
         "examples": [
           "First Lawsuit Over the Jalapeño Salmonella Outbreak Names the Importer. An Illinois Woman Spent Three Days in the Hospital After Two Meals at a Springfield Chipotle. - Food Poison Journal",
           "Doximity bets big on hospital adoption of enterprise AI as it ramps up tech spending - Fierce Healthcare",
@@ -2247,36 +2247,36 @@
         ]
       },
       {
-        "trend": "hospitals",
+        "trend": "medicine",
         "market_code": "AE",
         "category": "Arab Health",
         "score": 5,
         "examples": [
-          "Gaza hospitals, patients at risk amid oxygen shortage, health ministry warns - Arab News PK",
-          "What Medicare incentives for AI-based devices mean for tech companies — and hospitals - STAT",
-          "Ban prior auth? And hospitals cut jobs - STAT"
+          "What Is Lifestyle Medicine? - HSS | Hospital for Special Surgery",
+          "Expert explainer: What ultra-processed foods mean for heart health - Schulich School of Medicine & Dentistry",
+          "Why back-to-school physicals matter for kids’ health and success - UChicago Medicine"
         ]
       },
       {
-        "trend": "diseases",
+        "trend": "patients",
         "market_code": "AE",
         "category": "Arab Health",
-        "score": 5,
+        "score": 4,
         "examples": [
-          "IDSA Experts Warn of Summer Rise in Vector-Borne Diseases - Infectious Disease Special Edition",
-          "NFID Statement on Childhood Immunization Schedule - National Foundation for Infectious Diseases",
-          "IDSA Experts Warn of Summer Rise in Vector-Borne Diseases - Infectious Disease Special Edition"
+          "AI Is Helping Patients Solve Medical Mysteries - WSJ",
+          "Patients Wary of Governments, Companies Pushing AI as a Rural Healthcare Solution - KFF Health News",
+          "FDA Expands Clinical Trial Eligibility for Cancer Patients - Oncology News Central"
         ]
       },
       {
-        "trend": "disease",
+        "trend": "warning",
         "market_code": "AE",
         "category": "Arab Health",
-        "score": 5,
+        "score": 4,
         "examples": [
-          "IDSA Experts Warn of Summer Rise in Vector-Borne Diseases - Infectious Disease Special Edition",
-          "IDSA Experts Warn of Summer Rise in Vector-Borne Diseases - Infectious Disease Special Edition",
-          "This Week's Top 5 Infectious Disease News Stories: August 8-August 14, 2026 - Contagion Live"
+          "Health officials' floodwater warning, YWCA seeks donations, Fauci contempt vote: Sunrise Brief - WTKR",
+          "Man, 40, Diagnosed With Colon Cancer After Ignoring These Warning Signs - Newsweek",
+          "Toddler’s death sparks urgent warning about popular playsets - KOLN | Nebraska Local News, Weather, Sports | Lincoln, NE"
         ]
       }
     ],
@@ -2285,11 +2285,11 @@
         "trend": "health",
         "market_code": "SA",
         "category": "Arab Health",
-        "score": 61,
+        "score": 55,
         "examples": [
-          "Bruin to Bruin: Internationally renowned health economist, global health reform leader and UCLA Associate of the Chancellor Dr. Felicia Marie Knaul - Daily Bruin",
-          "Bruin to Bruin: Internationally renowned health economist, global health reform leader and UCLA Associate of the Chancellor Dr. Felicia Marie Knaul - Daily Bruin",
-          "Bernalillo County's Behavioral Health Unit rapidly grows, diverting 911 calls - Santa Fe New Mexican"
+          "How AI could bring Mayo-quality health care to everyone - Axios",
+          "Novak Djokovic Reveals He’s Been ‘Dealing With (A Health Issue) For Many Years Now’ - Forbes",
+          "Bexar County health department at risk as ARPA money runs out - San Antonio Report"
         ]
       },
       {
@@ -2298,9 +2298,9 @@
         "category": "Arab Health",
         "score": 15,
         "examples": [
+          "Clinic closures expose the fragile state of rural healthcare in Oklahoma - Tulsa World",
           "Cases of a fungus found in healthcare facilities, are rising rapidly - Scripps News",
-          "Patients Wary of Governments, Companies Pushing AI as a Rural Healthcare Solution - KFF Health News",
-          "Five Atlanta healthcare companies using AI to cut costs, improve care - The Business Journals"
+          "Patients Wary of Governments, Companies Pushing AI as a Rural Healthcare Solution - KFF Health News"
         ]
       },
       {
@@ -2309,20 +2309,31 @@
         "category": "Arab Health",
         "score": 13,
         "examples": [
-          "AI Is Helping Patients Solve Medical Mysteries - WSJ",
-          "Immigrant detained by ICE dies after medical emergency - NBC News",
-          "New approach opens rare immune cells to genetic risk research - Medical Xpress"
+          "UNC football defensive coordinator Steve Belichick on medical leave - The Daily Tar Heel",
+          "Potentially Low-Value Medical Interventions in Frail Older Adults Near the End of Life: A Narrative Review - Cureus",
+          "Inspire Medical Systems (INSP) Stock May Be Cheap After A 74% Fall - Yahoo Finance"
         ]
       },
       {
         "trend": "outbreak",
         "market_code": "SA",
         "category": "Outbreaks",
-        "score": 12,
+        "score": 11,
         "examples": [
+          "Cyclosporiasis outbreak has affected about 1 in every 1,000 people in Michigan - Scripps News",
           "Massive egg recall in US south and south-west due to salmonella outbreak - The Guardian",
-          "Why is the latest Ebola outbreak worsening? - Al Jazeera",
-          "Kentucky health officials suspect measles outbreak after new case confirmed in Christian County - WDRB"
+          "Cholera Outbreak Sickens Over 90 in Myanmar’s Biggest City - nytimes.com"
+        ]
+      },
+      {
+        "trend": "heart",
+        "market_code": "SA",
+        "category": "Chronic Disease",
+        "score": 7,
+        "examples": [
+          "You Don’t Need 10,000 Steps to Help Your Heart - Time Magazine",
+          "You Don’t Need 10,000 Steps to Help Your Heart - Time Magazine",
+          "You Don’t Need 10,000 Steps to Help Your Heart - Time Magazine"
         ]
       },
       {
@@ -2331,9 +2342,9 @@
         "category": "Mental Health",
         "score": 7,
         "examples": [
+          "Subconscious Restructuring Protocol in a Mental Health Quality Improvement Study: Reduced Treatment Duration and Improvement Across 17 Psychometric Outcomes in Adult Civilians, Veterans, and Adolescents - Cureus",
           "Lindsay Clancy trial reveals new details about mental health before killings - Scripps News",
-          "Selena Gomez Dismisses ‘Baseless’ Fraud Claims Over Mental Health Startup - inc.com",
-          "Astra is de-stigmatizing mental health one stroke at a time in the form of art. - WIBW"
+          "More than $1.3 million awarded to area schools for safety, mental health programs - fox56.com"
         ]
       },
       {
@@ -2342,20 +2353,9 @@
         "category": "Mental Health",
         "score": 7,
         "examples": [
+          "Subconscious Restructuring Protocol in a Mental Health Quality Improvement Study: Reduced Treatment Duration and Improvement Across 17 Psychometric Outcomes in Adult Civilians, Veterans, and Adolescents - Cureus",
           "Lindsay Clancy trial reveals new details about mental health before killings - Scripps News",
-          "Selena Gomez Dismisses ‘Baseless’ Fraud Claims Over Mental Health Startup - inc.com",
-          "Astra is de-stigmatizing mental health one stroke at a time in the form of art. - WIBW"
-        ]
-      },
-      {
-        "trend": "patients",
-        "market_code": "SA",
-        "category": "Arab Health",
-        "score": 6,
-        "examples": [
-          "Ethicists: Clinicians aren’t wrong to expect more from certain patients’ families—but they wouldn’t be right to request it, either - HealthExec",
-          "AI Is Helping Patients Solve Medical Mysteries - WSJ",
-          "Gaza hospitals, patients at risk amid oxygen shortage, health ministry warns - Arab News PK"
+          "More than $1.3 million awarded to area schools for safety, mental health programs - fox56.com"
         ]
       },
       {
@@ -2365,15 +2365,15 @@
         "score": 6,
         "examples": [
           "Why is the latest Ebola outbreak worsening? - Al Jazeera",
-          "Ebola outbreak in DR Congo: One death every 30 minutes - france24.com",
-          "These graphs show why this Ebola outbreak is set to be the worst in history - ABC News & Headlines – Australian Broadcasting Corporation"
+          "Ebola outbreak in DR Congo worsens, long transmission warned - news.cgtn.com",
+          "Ebola outbreak in DR Congo: One death every 30 minutes - France 24"
         ]
       },
       {
         "trend": "hospital",
         "market_code": "SA",
         "category": "Arab Health",
-        "score": 6,
+        "score": 5,
         "examples": [
           "First Lawsuit Over the Jalapeño Salmonella Outbreak Names the Importer. An Illinois Woman Spent Three Days in the Hospital After Two Meals at a Springfield Chipotle. - Food Poison Journal",
           "Doximity bets big on hospital adoption of enterprise AI as it ramps up tech spending - Fierce Healthcare",
@@ -2381,36 +2381,36 @@
         ]
       },
       {
-        "trend": "hospitals",
+        "trend": "medicine",
         "market_code": "SA",
         "category": "Arab Health",
         "score": 5,
         "examples": [
-          "Gaza hospitals, patients at risk amid oxygen shortage, health ministry warns - Arab News PK",
-          "What Medicare incentives for AI-based devices mean for tech companies — and hospitals - STAT",
-          "Ban prior auth? And hospitals cut jobs - STAT"
+          "What Is Lifestyle Medicine? - HSS | Hospital for Special Surgery",
+          "Expert explainer: What ultra-processed foods mean for heart health - Schulich School of Medicine & Dentistry",
+          "Why back-to-school physicals matter for kids’ health and success - UChicago Medicine"
         ]
       },
       {
-        "trend": "diseases",
+        "trend": "patients",
         "market_code": "SA",
         "category": "Arab Health",
-        "score": 5,
+        "score": 4,
         "examples": [
-          "IDSA Experts Warn of Summer Rise in Vector-Borne Diseases - Infectious Disease Special Edition",
-          "NFID Statement on Childhood Immunization Schedule - National Foundation for Infectious Diseases",
-          "IDSA Experts Warn of Summer Rise in Vector-Borne Diseases - Infectious Disease Special Edition"
+          "AI Is Helping Patients Solve Medical Mysteries - WSJ",
+          "Patients Wary of Governments, Companies Pushing AI as a Rural Healthcare Solution - KFF Health News",
+          "FDA Expands Clinical Trial Eligibility for Cancer Patients - Oncology News Central"
         ]
       },
       {
-        "trend": "disease",
+        "trend": "warning",
         "market_code": "SA",
         "category": "Arab Health",
-        "score": 5,
+        "score": 4,
         "examples": [
-          "IDSA Experts Warn of Summer Rise in Vector-Borne Diseases - Infectious Disease Special Edition",
-          "IDSA Experts Warn of Summer Rise in Vector-Borne Diseases - Infectious Disease Special Edition",
-          "This Week's Top 5 Infectious Disease News Stories: August 8-August 14, 2026 - Contagion Live"
+          "Health officials' floodwater warning, YWCA seeks donations, Fauci contempt vote: Sunrise Brief - WTKR",
+          "Man, 40, Diagnosed With Colon Cancer After Ignoring These Warning Signs - Newsweek",
+          "Toddler’s death sparks urgent warning about popular playsets - KOLN | Nebraska Local News, Weather, Sports | Lincoln, NE"
         ]
       }
     ],
@@ -2419,11 +2419,11 @@
         "trend": "health",
         "market_code": "QA",
         "category": "Arab Health",
-        "score": 61,
+        "score": 55,
         "examples": [
-          "Bruin to Bruin: Internationally renowned health economist, global health reform leader and UCLA Associate of the Chancellor Dr. Felicia Marie Knaul - Daily Bruin",
-          "Bruin to Bruin: Internationally renowned health economist, global health reform leader and UCLA Associate of the Chancellor Dr. Felicia Marie Knaul - Daily Bruin",
-          "Bernalillo County's Behavioral Health Unit rapidly grows, diverting 911 calls - Santa Fe New Mexican"
+          "How AI could bring Mayo-quality health care to everyone - Axios",
+          "Novak Djokovic Reveals He’s Been ‘Dealing With (A Health Issue) For Many Years Now’ - Forbes",
+          "Bexar County health department at risk as ARPA money runs out - San Antonio Report"
         ]
       },
       {
@@ -2432,9 +2432,9 @@
         "category": "Arab Health",
         "score": 15,
         "examples": [
+          "Clinic closures expose the fragile state of rural healthcare in Oklahoma - Tulsa World",
           "Cases of a fungus found in healthcare facilities, are rising rapidly - Scripps News",
-          "Patients Wary of Governments, Companies Pushing AI as a Rural Healthcare Solution - KFF Health News",
-          "Five Atlanta healthcare companies using AI to cut costs, improve care - The Business Journals"
+          "Patients Wary of Governments, Companies Pushing AI as a Rural Healthcare Solution - KFF Health News"
         ]
       },
       {
@@ -2443,20 +2443,31 @@
         "category": "Arab Health",
         "score": 13,
         "examples": [
-          "AI Is Helping Patients Solve Medical Mysteries - WSJ",
-          "Immigrant detained by ICE dies after medical emergency - NBC News",
-          "New approach opens rare immune cells to genetic risk research - Medical Xpress"
+          "UNC football defensive coordinator Steve Belichick on medical leave - The Daily Tar Heel",
+          "Potentially Low-Value Medical Interventions in Frail Older Adults Near the End of Life: A Narrative Review - Cureus",
+          "Inspire Medical Systems (INSP) Stock May Be Cheap After A 74% Fall - Yahoo Finance"
         ]
       },
       {
         "trend": "outbreak",
         "market_code": "QA",
         "category": "Outbreaks",
-        "score": 12,
+        "score": 11,
         "examples": [
+          "Cyclosporiasis outbreak has affected about 1 in every 1,000 people in Michigan - Scripps News",
           "Massive egg recall in US south and south-west due to salmonella outbreak - The Guardian",
-          "Why is the latest Ebola outbreak worsening? - Al Jazeera",
-          "Kentucky health officials suspect measles outbreak after new case confirmed in Christian County - WDRB"
+          "Cholera Outbreak Sickens Over 90 in Myanmar’s Biggest City - nytimes.com"
+        ]
+      },
+      {
+        "trend": "heart",
+        "market_code": "QA",
+        "category": "Chronic Disease",
+        "score": 7,
+        "examples": [
+          "You Don’t Need 10,000 Steps to Help Your Heart - Time Magazine",
+          "You Don’t Need 10,000 Steps to Help Your Heart - Time Magazine",
+          "You Don’t Need 10,000 Steps to Help Your Heart - Time Magazine"
         ]
       },
       {
@@ -2465,9 +2476,9 @@
         "category": "Mental Health",
         "score": 7,
         "examples": [
+          "Subconscious Restructuring Protocol in a Mental Health Quality Improvement Study: Reduced Treatment Duration and Improvement Across 17 Psychometric Outcomes in Adult Civilians, Veterans, and Adolescents - Cureus",
           "Lindsay Clancy trial reveals new details about mental health before killings - Scripps News",
-          "Selena Gomez Dismisses ‘Baseless’ Fraud Claims Over Mental Health Startup - inc.com",
-          "Astra is de-stigmatizing mental health one stroke at a time in the form of art. - WIBW"
+          "More than $1.3 million awarded to area schools for safety, mental health programs - fox56.com"
         ]
       },
       {
@@ -2476,20 +2487,9 @@
         "category": "Mental Health",
         "score": 7,
         "examples": [
+          "Subconscious Restructuring Protocol in a Mental Health Quality Improvement Study: Reduced Treatment Duration and Improvement Across 17 Psychometric Outcomes in Adult Civilians, Veterans, and Adolescents - Cureus",
           "Lindsay Clancy trial reveals new details about mental health before killings - Scripps News",
-          "Selena Gomez Dismisses ‘Baseless’ Fraud Claims Over Mental Health Startup - inc.com",
-          "Astra is de-stigmatizing mental health one stroke at a time in the form of art. - WIBW"
-        ]
-      },
-      {
-        "trend": "patients",
-        "market_code": "QA",
-        "category": "Arab Health",
-        "score": 6,
-        "examples": [
-          "Ethicists: Clinicians aren’t wrong to expect more from certain patients’ families—but they wouldn’t be right to request it, either - HealthExec",
-          "AI Is Helping Patients Solve Medical Mysteries - WSJ",
-          "Gaza hospitals, patients at risk amid oxygen shortage, health ministry warns - Arab News PK"
+          "More than $1.3 million awarded to area schools for safety, mental health programs - fox56.com"
         ]
       },
       {
@@ -2499,15 +2499,15 @@
         "score": 6,
         "examples": [
           "Why is the latest Ebola outbreak worsening? - Al Jazeera",
-          "Ebola outbreak in DR Congo: One death every 30 minutes - france24.com",
-          "These graphs show why this Ebola outbreak is set to be the worst in history - ABC News & Headlines – Australian Broadcasting Corporation"
+          "Ebola outbreak in DR Congo worsens, long transmission warned - news.cgtn.com",
+          "Ebola outbreak in DR Congo: One death every 30 minutes - France 24"
         ]
       },
       {
         "trend": "hospital",
         "market_code": "QA",
         "category": "Arab Health",
-        "score": 6,
+        "score": 5,
         "examples": [
           "First Lawsuit Over the Jalapeño Salmonella Outbreak Names the Importer. An Illinois Woman Spent Three Days in the Hospital After Two Meals at a Springfield Chipotle. - Food Poison Journal",
           "Doximity bets big on hospital adoption of enterprise AI as it ramps up tech spending - Fierce Healthcare",
@@ -2515,36 +2515,36 @@
         ]
       },
       {
-        "trend": "hospitals",
+        "trend": "medicine",
         "market_code": "QA",
         "category": "Arab Health",
         "score": 5,
         "examples": [
-          "Gaza hospitals, patients at risk amid oxygen shortage, health ministry warns - Arab News PK",
-          "What Medicare incentives for AI-based devices mean for tech companies — and hospitals - STAT",
-          "Ban prior auth? And hospitals cut jobs - STAT"
+          "What Is Lifestyle Medicine? - HSS | Hospital for Special Surgery",
+          "Expert explainer: What ultra-processed foods mean for heart health - Schulich School of Medicine & Dentistry",
+          "Why back-to-school physicals matter for kids’ health and success - UChicago Medicine"
         ]
       },
       {
-        "trend": "diseases",
+        "trend": "patients",
         "market_code": "QA",
         "category": "Arab Health",
-        "score": 5,
+        "score": 4,
         "examples": [
-          "IDSA Experts Warn of Summer Rise in Vector-Borne Diseases - Infectious Disease Special Edition",
-          "NFID Statement on Childhood Immunization Schedule - National Foundation for Infectious Diseases",
-          "IDSA Experts Warn of Summer Rise in Vector-Borne Diseases - Infectious Disease Special Edition"
+          "AI Is Helping Patients Solve Medical Mysteries - WSJ",
+          "Patients Wary of Governments, Companies Pushing AI as a Rural Healthcare Solution - KFF Health News",
+          "FDA Expands Clinical Trial Eligibility for Cancer Patients - Oncology News Central"
         ]
       },
       {
-        "trend": "disease",
+        "trend": "warning",
         "market_code": "QA",
         "category": "Arab Health",
-        "score": 5,
+        "score": 4,
         "examples": [
-          "IDSA Experts Warn of Summer Rise in Vector-Borne Diseases - Infectious Disease Special Edition",
-          "IDSA Experts Warn of Summer Rise in Vector-Borne Diseases - Infectious Disease Special Edition",
-          "This Week's Top 5 Infectious Disease News Stories: August 8-August 14, 2026 - Contagion Live"
+          "Health officials' floodwater warning, YWCA seeks donations, Fauci contempt vote: Sunrise Brief - WTKR",
+          "Man, 40, Diagnosed With Colon Cancer After Ignoring These Warning Signs - Newsweek",
+          "Toddler’s death sparks urgent warning about popular playsets - KOLN | Nebraska Local News, Weather, Sports | Lincoln, NE"
         ]
       }
     ],
@@ -2553,11 +2553,11 @@
         "trend": "health",
         "market_code": "JO",
         "category": "Arab Health",
-        "score": 61,
+        "score": 55,
         "examples": [
-          "Bruin to Bruin: Internationally renowned health economist, global health reform leader and UCLA Associate of the Chancellor Dr. Felicia Marie Knaul - Daily Bruin",
-          "Bruin to Bruin: Internationally renowned health economist, global health reform leader and UCLA Associate of the Chancellor Dr. Felicia Marie Knaul - Daily Bruin",
-          "Bernalillo County's Behavioral Health Unit rapidly grows, diverting 911 calls - Santa Fe New Mexican"
+          "How AI could bring Mayo-quality health care to everyone - Axios",
+          "Novak Djokovic Reveals He’s Been ‘Dealing With (A Health Issue) For Many Years Now’ - Forbes",
+          "Bexar County health department at risk as ARPA money runs out - San Antonio Report"
         ]
       },
       {
@@ -2566,9 +2566,9 @@
         "category": "Arab Health",
         "score": 15,
         "examples": [
+          "Clinic closures expose the fragile state of rural healthcare in Oklahoma - Tulsa World",
           "Cases of a fungus found in healthcare facilities, are rising rapidly - Scripps News",
-          "Patients Wary of Governments, Companies Pushing AI as a Rural Healthcare Solution - KFF Health News",
-          "Five Atlanta healthcare companies using AI to cut costs, improve care - The Business Journals"
+          "Patients Wary of Governments, Companies Pushing AI as a Rural Healthcare Solution - KFF Health News"
         ]
       },
       {
@@ -2577,20 +2577,31 @@
         "category": "Arab Health",
         "score": 13,
         "examples": [
-          "AI Is Helping Patients Solve Medical Mysteries - WSJ",
-          "Immigrant detained by ICE dies after medical emergency - NBC News",
-          "New approach opens rare immune cells to genetic risk research - Medical Xpress"
+          "UNC football defensive coordinator Steve Belichick on medical leave - The Daily Tar Heel",
+          "Potentially Low-Value Medical Interventions in Frail Older Adults Near the End of Life: A Narrative Review - Cureus",
+          "Inspire Medical Systems (INSP) Stock May Be Cheap After A 74% Fall - Yahoo Finance"
         ]
       },
       {
         "trend": "outbreak",
         "market_code": "JO",
         "category": "Outbreaks",
-        "score": 12,
+        "score": 11,
         "examples": [
+          "Cyclosporiasis outbreak has affected about 1 in every 1,000 people in Michigan - Scripps News",
           "Massive egg recall in US south and south-west due to salmonella outbreak - The Guardian",
-          "Why is the latest Ebola outbreak worsening? - Al Jazeera",
-          "Kentucky health officials suspect measles outbreak after new case confirmed in Christian County - WDRB"
+          "Cholera Outbreak Sickens Over 90 in Myanmar’s Biggest City - nytimes.com"
+        ]
+      },
+      {
+        "trend": "heart",
+        "market_code": "JO",
+        "category": "Chronic Disease",
+        "score": 7,
+        "examples": [
+          "You Don’t Need 10,000 Steps to Help Your Heart - Time Magazine",
+          "You Don’t Need 10,000 Steps to Help Your Heart - Time Magazine",
+          "You Don’t Need 10,000 Steps to Help Your Heart - Time Magazine"
         ]
       },
       {
@@ -2599,9 +2610,9 @@
         "category": "Mental Health",
         "score": 7,
         "examples": [
+          "Subconscious Restructuring Protocol in a Mental Health Quality Improvement Study: Reduced Treatment Duration and Improvement Across 17 Psychometric Outcomes in Adult Civilians, Veterans, and Adolescents - Cureus",
           "Lindsay Clancy trial reveals new details about mental health before killings - Scripps News",
-          "Selena Gomez Dismisses ‘Baseless’ Fraud Claims Over Mental Health Startup - inc.com",
-          "Astra is de-stigmatizing mental health one stroke at a time in the form of art. - WIBW"
+          "More than $1.3 million awarded to area schools for safety, mental health programs - fox56.com"
         ]
       },
       {
@@ -2610,20 +2621,9 @@
         "category": "Mental Health",
         "score": 7,
         "examples": [
+          "Subconscious Restructuring Protocol in a Mental Health Quality Improvement Study: Reduced Treatment Duration and Improvement Across 17 Psychometric Outcomes in Adult Civilians, Veterans, and Adolescents - Cureus",
           "Lindsay Clancy trial reveals new details about mental health before killings - Scripps News",
-          "Selena Gomez Dismisses ‘Baseless’ Fraud Claims Over Mental Health Startup - inc.com",
-          "Astra is de-stigmatizing mental health one stroke at a time in the form of art. - WIBW"
-        ]
-      },
-      {
-        "trend": "patients",
-        "market_code": "JO",
-        "category": "Arab Health",
-        "score": 6,
-        "examples": [
-          "Ethicists: Clinicians aren’t wrong to expect more from certain patients’ families—but they wouldn’t be right to request it, either - HealthExec",
-          "AI Is Helping Patients Solve Medical Mysteries - WSJ",
-          "Gaza hospitals, patients at risk amid oxygen shortage, health ministry warns - Arab News PK"
+          "More than $1.3 million awarded to area schools for safety, mental health programs - fox56.com"
         ]
       },
       {
@@ -2633,15 +2633,15 @@
         "score": 6,
         "examples": [
           "Why is the latest Ebola outbreak worsening? - Al Jazeera",
-          "Ebola outbreak in DR Congo: One death every 30 minutes - france24.com",
-          "These graphs show why this Ebola outbreak is set to be the worst in history - ABC News & Headlines – Australian Broadcasting Corporation"
+          "Ebola outbreak in DR Congo worsens, long transmission warned - news.cgtn.com",
+          "Ebola outbreak in DR Congo: One death every 30 minutes - France 24"
         ]
       },
       {
         "trend": "hospital",
         "market_code": "JO",
         "category": "Arab Health",
-        "score": 6,
+        "score": 5,
         "examples": [
           "First Lawsuit Over the Jalapeño Salmonella Outbreak Names the Importer. An Illinois Woman Spent Three Days in the Hospital After Two Meals at a Springfield Chipotle. - Food Poison Journal",
           "Doximity bets big on hospital adoption of enterprise AI as it ramps up tech spending - Fierce Healthcare",
@@ -2649,36 +2649,36 @@
         ]
       },
       {
-        "trend": "hospitals",
+        "trend": "medicine",
         "market_code": "JO",
         "category": "Arab Health",
         "score": 5,
         "examples": [
-          "Gaza hospitals, patients at risk amid oxygen shortage, health ministry warns - Arab News PK",
-          "What Medicare incentives for AI-based devices mean for tech companies — and hospitals - STAT",
-          "Ban prior auth? And hospitals cut jobs - STAT"
+          "What Is Lifestyle Medicine? - HSS | Hospital for Special Surgery",
+          "Expert explainer: What ultra-processed foods mean for heart health - Schulich School of Medicine & Dentistry",
+          "Why back-to-school physicals matter for kids’ health and success - UChicago Medicine"
         ]
       },
       {
-        "trend": "diseases",
+        "trend": "patients",
         "market_code": "JO",
         "category": "Arab Health",
-        "score": 5,
+        "score": 4,
         "examples": [
-          "IDSA Experts Warn of Summer Rise in Vector-Borne Diseases - Infectious Disease Special Edition",
-          "NFID Statement on Childhood Immunization Schedule - National Foundation for Infectious Diseases",
-          "IDSA Experts Warn of Summer Rise in Vector-Borne Diseases - Infectious Disease Special Edition"
+          "AI Is Helping Patients Solve Medical Mysteries - WSJ",
+          "Patients Wary of Governments, Companies Pushing AI as a Rural Healthcare Solution - KFF Health News",
+          "FDA Expands Clinical Trial Eligibility for Cancer Patients - Oncology News Central"
         ]
       },
       {
-        "trend": "disease",
+        "trend": "warning",
         "market_code": "JO",
         "category": "Arab Health",
-        "score": 5,
+        "score": 4,
         "examples": [
-          "IDSA Experts Warn of Summer Rise in Vector-Borne Diseases - Infectious Disease Special Edition",
-          "IDSA Experts Warn of Summer Rise in Vector-Borne Diseases - Infectious Disease Special Edition",
-          "This Week's Top 5 Infectious Disease News Stories: August 8-August 14, 2026 - Contagion Live"
+          "Health officials' floodwater warning, YWCA seeks donations, Fauci contempt vote: Sunrise Brief - WTKR",
+          "Man, 40, Diagnosed With Colon Cancer After Ignoring These Warning Signs - Newsweek",
+          "Toddler’s death sparks urgent warning about popular playsets - KOLN | Nebraska Local News, Weather, Sports | Lincoln, NE"
         ]
       }
     ],
@@ -2687,11 +2687,11 @@
         "trend": "health",
         "market_code": "LB",
         "category": "Arab Health",
-        "score": 61,
+        "score": 55,
         "examples": [
-          "Bruin to Bruin: Internationally renowned health economist, global health reform leader and UCLA Associate of the Chancellor Dr. Felicia Marie Knaul - Daily Bruin",
-          "Bruin to Bruin: Internationally renowned health economist, global health reform leader and UCLA Associate of the Chancellor Dr. Felicia Marie Knaul - Daily Bruin",
-          "Bernalillo County's Behavioral Health Unit rapidly grows, diverting 911 calls - Santa Fe New Mexican"
+          "How AI could bring Mayo-quality health care to everyone - Axios",
+          "Novak Djokovic Reveals He’s Been ‘Dealing With (A Health Issue) For Many Years Now’ - Forbes",
+          "Bexar County health department at risk as ARPA money runs out - San Antonio Report"
         ]
       },
       {
@@ -2700,9 +2700,9 @@
         "category": "Arab Health",
         "score": 15,
         "examples": [
+          "Clinic closures expose the fragile state of rural healthcare in Oklahoma - Tulsa World",
           "Cases of a fungus found in healthcare facilities, are rising rapidly - Scripps News",
-          "Patients Wary of Governments, Companies Pushing AI as a Rural Healthcare Solution - KFF Health News",
-          "Five Atlanta healthcare companies using AI to cut costs, improve care - The Business Journals"
+          "Patients Wary of Governments, Companies Pushing AI as a Rural Healthcare Solution - KFF Health News"
         ]
       },
       {
@@ -2711,20 +2711,31 @@
         "category": "Arab Health",
         "score": 13,
         "examples": [
-          "AI Is Helping Patients Solve Medical Mysteries - WSJ",
-          "Immigrant detained by ICE dies after medical emergency - NBC News",
-          "New approach opens rare immune cells to genetic risk research - Medical Xpress"
+          "UNC football defensive coordinator Steve Belichick on medical leave - The Daily Tar Heel",
+          "Potentially Low-Value Medical Interventions in Frail Older Adults Near the End of Life: A Narrative Review - Cureus",
+          "Inspire Medical Systems (INSP) Stock May Be Cheap After A 74% Fall - Yahoo Finance"
         ]
       },
       {
         "trend": "outbreak",
         "market_code": "LB",
         "category": "Outbreaks",
-        "score": 12,
+        "score": 11,
         "examples": [
+          "Cyclosporiasis outbreak has affected about 1 in every 1,000 people in Michigan - Scripps News",
           "Massive egg recall in US south and south-west due to salmonella outbreak - The Guardian",
-          "Why is the latest Ebola outbreak worsening? - Al Jazeera",
-          "Kentucky health officials suspect measles outbreak after new case confirmed in Christian County - WDRB"
+          "Cholera Outbreak Sickens Over 90 in Myanmar’s Biggest City - nytimes.com"
+        ]
+      },
+      {
+        "trend": "heart",
+        "market_code": "LB",
+        "category": "Chronic Disease",
+        "score": 7,
+        "examples": [
+          "You Don’t Need 10,000 Steps to Help Your Heart - Time Magazine",
+          "You Don’t Need 10,000 Steps to Help Your Heart - Time Magazine",
+          "You Don’t Need 10,000 Steps to Help Your Heart - Time Magazine"
         ]
       },
       {
@@ -2733,9 +2744,9 @@
         "category": "Mental Health",
         "score": 7,
         "examples": [
+          "Subconscious Restructuring Protocol in a Mental Health Quality Improvement Study: Reduced Treatment Duration and Improvement Across 17 Psychometric Outcomes in Adult Civilians, Veterans, and Adolescents - Cureus",
           "Lindsay Clancy trial reveals new details about mental health before killings - Scripps News",
-          "Selena Gomez Dismisses ‘Baseless’ Fraud Claims Over Mental Health Startup - inc.com",
-          "Astra is de-stigmatizing mental health one stroke at a time in the form of art. - WIBW"
+          "More than $1.3 million awarded to area schools for safety, mental health programs - fox56.com"
         ]
       },
       {
@@ -2744,20 +2755,9 @@
         "category": "Mental Health",
         "score": 7,
         "examples": [
+          "Subconscious Restructuring Protocol in a Mental Health Quality Improvement Study: Reduced Treatment Duration and Improvement Across 17 Psychometric Outcomes in Adult Civilians, Veterans, and Adolescents - Cureus",
           "Lindsay Clancy trial reveals new details about mental health before killings - Scripps News",
-          "Selena Gomez Dismisses ‘Baseless’ Fraud Claims Over Mental Health Startup - inc.com",
-          "Astra is de-stigmatizing mental health one stroke at a time in the form of art. - WIBW"
-        ]
-      },
-      {
-        "trend": "patients",
-        "market_code": "LB",
-        "category": "Arab Health",
-        "score": 6,
-        "examples": [
-          "Ethicists: Clinicians aren’t wrong to expect more from certain patients’ families—but they wouldn’t be right to request it, either - HealthExec",
-          "AI Is Helping Patients Solve Medical Mysteries - WSJ",
-          "Gaza hospitals, patients at risk amid oxygen shortage, health ministry warns - Arab News PK"
+          "More than $1.3 million awarded to area schools for safety, mental health programs - fox56.com"
         ]
       },
       {
@@ -2767,15 +2767,15 @@
         "score": 6,
         "examples": [
           "Why is the latest Ebola outbreak worsening? - Al Jazeera",
-          "Ebola outbreak in DR Congo: One death every 30 minutes - france24.com",
-          "These graphs show why this Ebola outbreak is set to be the worst in history - ABC News & Headlines – Australian Broadcasting Corporation"
+          "Ebola outbreak in DR Congo worsens, long transmission warned - news.cgtn.com",
+          "Ebola outbreak in DR Congo: One death every 30 minutes - France 24"
         ]
       },
       {
         "trend": "hospital",
         "market_code": "LB",
         "category": "Arab Health",
-        "score": 6,
+        "score": 5,
         "examples": [
           "First Lawsuit Over the Jalapeño Salmonella Outbreak Names the Importer. An Illinois Woman Spent Three Days in the Hospital After Two Meals at a Springfield Chipotle. - Food Poison Journal",
           "Doximity bets big on hospital adoption of enterprise AI as it ramps up tech spending - Fierce Healthcare",
@@ -2783,36 +2783,36 @@
         ]
       },
       {
-        "trend": "hospitals",
+        "trend": "medicine",
         "market_code": "LB",
         "category": "Arab Health",
         "score": 5,
         "examples": [
-          "Gaza hospitals, patients at risk amid oxygen shortage, health ministry warns - Arab News PK",
-          "What Medicare incentives for AI-based devices mean for tech companies — and hospitals - STAT",
-          "Ban prior auth? And hospitals cut jobs - STAT"
+          "What Is Lifestyle Medicine? - HSS | Hospital for Special Surgery",
+          "Expert explainer: What ultra-processed foods mean for heart health - Schulich School of Medicine & Dentistry",
+          "Why back-to-school physicals matter for kids’ health and success - UChicago Medicine"
         ]
       },
       {
-        "trend": "diseases",
+        "trend": "patients",
         "market_code": "LB",
         "category": "Arab Health",
-        "score": 5,
+        "score": 4,
         "examples": [
-          "IDSA Experts Warn of Summer Rise in Vector-Borne Diseases - Infectious Disease Special Edition",
-          "NFID Statement on Childhood Immunization Schedule - National Foundation for Infectious Diseases",
-          "IDSA Experts Warn of Summer Rise in Vector-Borne Diseases - Infectious Disease Special Edition"
+          "AI Is Helping Patients Solve Medical Mysteries - WSJ",
+          "Patients Wary of Governments, Companies Pushing AI as a Rural Healthcare Solution - KFF Health News",
+          "FDA Expands Clinical Trial Eligibility for Cancer Patients - Oncology News Central"
         ]
       },
       {
-        "trend": "disease",
+        "trend": "warning",
         "market_code": "LB",
         "category": "Arab Health",
-        "score": 5,
+        "score": 4,
         "examples": [
-          "IDSA Experts Warn of Summer Rise in Vector-Borne Diseases - Infectious Disease Special Edition",
-          "IDSA Experts Warn of Summer Rise in Vector-Borne Diseases - Infectious Disease Special Edition",
-          "This Week's Top 5 Infectious Disease News Stories: August 8-August 14, 2026 - Contagion Live"
+          "Health officials' floodwater warning, YWCA seeks donations, Fauci contempt vote: Sunrise Brief - WTKR",
+          "Man, 40, Diagnosed With Colon Cancer After Ignoring These Warning Signs - Newsweek",
+          "Toddler’s death sparks urgent warning about popular playsets - KOLN | Nebraska Local News, Weather, Sports | Lincoln, NE"
         ]
       }
     ]
