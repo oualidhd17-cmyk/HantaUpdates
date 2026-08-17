@@ -1,2819 +1,929 @@
 {
-  "updated_at": "2026-08-17T12:16:50.449174+00:00",
-  "total_trends": 252,
+  "updated_at": "2026-08-17T19:02:49.113374+00:00",
+  "total_trends": 126,
   "markets": {
     "United States": [
       {
-        "trend": "health",
+        "trend": "health alert",
         "market_code": "US",
         "category": "US Health",
-        "score": 54,
-        "examples": [
-          "There’s a New Link Between Gut Health and Alzheimer’s Disease - WIRED",
-          "Workplace habit changes can improve your overall health - UKNow",
-          "The national focus on politicians' health is making its way into the Oklahoma GOP race for governor - Oklahoma Voice"
-        ]
-      },
-      {
-        "trend": "medical",
-        "market_code": "US",
-        "category": "US Health",
-        "score": 15,
-        "examples": [
-          "A decade after settlement, medical care still falls short at Baltimore jail - Maryland Matters",
-          "How to manage impostor phenomenon as a 1st-year medical student - American Medical Association | AMA",
-          "How to manage impostor phenomenon as a 1st-year medical student - American Medical Association | AMA"
-        ]
-      },
-      {
-        "trend": "healthcare",
-        "market_code": "US",
-        "category": "US Health",
-        "score": 15,
-        "examples": [
-          "‘A game changer’: UHS closes $835M Talkspace acquisition - Healthcare Dive",
-          "Patients Wary of Governments, Companies Pushing AI as a Rural Healthcare Solution - KFF Health News",
-          "Abridge expands AI decision support to more clinicians in bid to become healthcare's copilot - Fierce Healthcare"
-        ]
-      },
-      {
-        "trend": "mental",
-        "market_code": "US",
-        "category": "Mental Health",
-        "score": 10,
-        "examples": [
-          "U.S. commander calls mental health a priority after he visits USS Lincoln - The Washington Post",
-          "U.S. commander calls mental health a priority after he visits USS Lincoln - The Washington Post",
-          "Selena Gomez and her mom accused of fraud over their mental health startup - nbcnews.com"
-        ]
-      },
-      {
-        "trend": "mental health",
-        "market_code": "US",
-        "category": "Mental Health",
-        "score": 10,
-        "examples": [
-          "U.S. commander calls mental health a priority after he visits USS Lincoln - The Washington Post",
-          "U.S. commander calls mental health a priority after he visits USS Lincoln - The Washington Post",
-          "Selena Gomez and her mom accused of fraud over their mental health startup - nbcnews.com"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
         "trend": "outbreak",
         "market_code": "US",
         "category": "Outbreaks",
-        "score": 10,
-        "examples": [
-          "Deadliest Ebola outbreak in D.R. Congo history - CNN",
-          "Ebola outbreak in DR Congo now deadliest ever - france24.com",
-          "Flu outbreak among Air Force recruits at Joint Base San Antonio after Hegseth ends mandatory flu vaccine - abcnews.com"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "hospitals",
+        "trend": "mental health",
+        "market_code": "US",
+        "category": "Mental Health",
+        "score": 1,
+        "examples": []
+      },
+      {
+        "trend": "medical research",
         "market_code": "US",
         "category": "US Health",
-        "score": 8,
-        "examples": [
-          "Hospitals Say They Found a Tool to Help Reduce Childbirth Risks: Wristbands - The Good Men Project",
-          "‘Horrific’ conditions grip U.K. hospitals unprepared for heat - The Japan Times",
-          "3 north Alabama hospitals recognized for 0 MRSA infection rate - WHNT.com"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "virus",
+        "trend": "drug approval",
         "market_code": "US",
-        "category": "Outbreaks",
-        "score": 8,
-        "examples": [
-          "First cow tests positive for bluetongue virus in Scotland - BBC",
-          "What is the potentially deadly bluetongue virus? - Yahoo",
-          "St. Louis Encephalitis virus detected in Kingsville mosquito pool, prompting city-wide spraying operation - KRIS 6 News Corpus Christi"
-        ]
+        "category": "Drug & Treatment News",
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "ebola outbreak",
+        "trend": "diet wellness",
         "market_code": "US",
-        "category": "Outbreaks",
-        "score": 7,
-        "examples": [
-          "Deadliest Ebola outbreak in D.R. Congo history - CNN",
-          "Ebola outbreak in DR Congo now deadliest ever - france24.com",
-          "Ebola outbreak in DR Congo becomes deadliest in country’s history - Al Jazeera"
-        ]
-      },
-      {
-        "trend": "hospital",
-        "market_code": "US",
-        "category": "US Health",
-        "score": 6,
-        "examples": [
-          "In Idaho, an insurer says health care costs may rise after hospital taps Congress’s billing tool - Idaho Capital Sun",
-          "In Idaho, an insurer says health care costs may rise after hospital taps Congress’s billing tool - Idaho Capital Sun",
-          "What Is Lifestyle Medicine? - HSS | Hospital for Special Surgery"
-        ]
-      },
-      {
-        "trend": "cancer",
-        "market_code": "US",
-        "category": "Chronic Disease",
-        "score": 6,
-        "examples": [
-          "FDA Expands Clinical Trial Eligibility for Cancer Patients - Oncology News Central",
-          "FDA Expands Approval of Pluvicto® for Metastatic Prostate Cancer: Targets a Protein Called PSMA - Memorial Sloan Kettering Cancer Center",
-          "FDA Expands Approval of Pluvicto® for Metastatic Prostate Cancer: Targets a Protein Called PSMA - Memorial Sloan Kettering Cancer Center"
-        ]
-      },
-      {
-        "trend": "public health",
-        "market_code": "US",
-        "category": "US Health",
-        "score": 5,
-        "examples": [
-          "Share Your Experiences With the Public Health System in Louisiana - The New York Times",
-          "Share Your Experiences With the Public Health System in Louisiana - The New York Times",
-          "Milken to waive application fee for first 1,000 public health master’s program applicants - The GW Hatchet"
-        ]
+        "category": "Diet & Wellness",
+        "score": 1,
+        "examples": []
       }
     ],
     "United Kingdom": [
       {
-        "trend": "health",
+        "trend": "health alert",
         "market_code": "GB",
         "category": "Europe Health",
-        "score": 54,
-        "examples": [
-          "Willerby Hill mental health unit could replace ageing Hull sites - BBC",
-          "Broadband quality associated with mental health and digital-health equity in elderly people - King's College London",
-          "Most don’t disclose menstrual health leave to managers - HR Magazine"
-        ]
-      },
-      {
-        "trend": "medical",
-        "market_code": "GB",
-        "category": "Europe Health",
-        "score": 15,
-        "examples": [
-          "Northumbria Healthcare staff support thousands during medical mission to Kenya - Northumbria Healthcare NHS Foundation Trust",
-          "Rheinmetall is supplying mobile medical stations to the Bundeswehr - Rheinmetall",
-          "When does an AI Scribe Become a Medical Device? Understanding the MHRA's AVT Guidance - Burges Salmon"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
         "trend": "outbreak",
         "market_code": "GB",
         "category": "Outbreaks",
-        "score": 15,
-        "examples": [
-          "Ebola outbreak in Democratic Republic of the Congo now deadliest in country’s history - The Guardian",
-          "Nurses on frontline of Ebola outbreak ‘still waiting to be paid’ - Nursing in Practice",
-          "DRC faces its deadliest ebola outbreak as virus spreads to 6th province - Down To Earth"
-        ]
-      },
-      {
-        "trend": "healthcare",
-        "market_code": "GB",
-        "category": "Europe Health",
-        "score": 14,
-        "examples": [
-          "Major funding secured to support next generation of healthcare researchers - strath.ac.uk",
-          "Northumbria Healthcare staff support thousands during medical mission to Kenya - Northumbria Healthcare NHS Foundation Trust",
-          "Northumbria Healthcare staff support thousands during medical mission to Kenya - Northumbria Healthcare NHS Foundation Trust"
-        ]
-      },
-      {
-        "trend": "virus",
-        "market_code": "GB",
-        "category": "Outbreaks",
-        "score": 14,
-        "examples": [
-          "EU health agency urges protection against West Nile virus - euractiv.com",
-          "DRC faces its deadliest ebola outbreak as virus spreads to 6th province - Down To Earth",
-          "What is the potentially deadly bluetongue virus in the UK? - BBC"
-        ]
-      },
-      {
-        "trend": "ebola outbreak",
-        "market_code": "GB",
-        "category": "Outbreaks",
-        "score": 14,
-        "examples": [
-          "Ebola outbreak in Democratic Republic of the Congo now deadliest in country’s history - The Guardian",
-          "Nurses on frontline of Ebola outbreak ‘still waiting to be paid’ - Nursing in Practice",
-          "DRC faces its deadliest ebola outbreak as virus spreads to 6th province - Down To Earth"
-        ]
-      },
-      {
-        "trend": "mental",
-        "market_code": "GB",
-        "category": "Mental Health",
-        "score": 11,
-        "examples": [
-          "Willerby Hill mental health unit could replace ageing Hull sites - BBC",
-          "Broadband quality associated with mental health and digital-health equity in elderly people - King's College London",
-          "Willerby Hill mental health unit could replace ageing Hull sites - BBC"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
         "trend": "mental health",
         "market_code": "GB",
         "category": "Mental Health",
-        "score": 11,
-        "examples": [
-          "Willerby Hill mental health unit could replace ageing Hull sites - BBC",
-          "Broadband quality associated with mental health and digital-health equity in elderly people - King's College London",
-          "Willerby Hill mental health unit could replace ageing Hull sites - BBC"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "warning",
+        "trend": "medical research",
         "market_code": "GB",
         "category": "Europe Health",
-        "score": 7,
-        "examples": [
-          "Sepsis and deterioration: are early warning systems being misused? - RCNi",
-          "Thunderstorm warning for parts of UK as rain returns - full list - Wales Online",
-          "Minnesota Presses Judge To Reject Challenge To Warning Label Mandate 08/13/2026 - MediaPost"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "outbreak congo",
+        "trend": "drug approval",
         "market_code": "GB",
-        "category": "Outbreaks",
-        "score": 7,
-        "examples": [
-          "Ebola outbreak in DR Congo becomes deadliest in its history - BBC",
-          "Ebola outbreak in DR Congo now deadliest in country's history - Sky News",
-          "Ebola outbreak in DR Congo now deadliest ever - France 24"
-        ]
+        "category": "Drug & Treatment News",
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "ebola outbreak congo",
+        "trend": "diet wellness",
         "market_code": "GB",
-        "category": "Outbreaks",
-        "score": 7,
-        "examples": [
-          "Ebola outbreak in DR Congo becomes deadliest in its history - BBC",
-          "Ebola outbreak in DR Congo now deadliest in country's history - Sky News",
-          "Ebola outbreak in DR Congo now deadliest ever - France 24"
-        ]
-      },
-      {
-        "trend": "nile virus",
-        "market_code": "GB",
-        "category": "Outbreaks",
-        "score": 6,
-        "examples": [
-          "EU health agency urges protection against West Nile virus - euractiv.com",
-          "EU health agency urges protection against West Nile virus - euractiv.com",
-          "EU health agency urges protection against West Nile virus - euractiv.com"
-        ]
+        "category": "Diet & Wellness",
+        "score": 1,
+        "examples": []
       }
     ],
     "Germany": [
       {
-        "trend": "health",
+        "trend": "health alert",
         "market_code": "DE",
         "category": "Europe Health",
-        "score": 53,
-        "examples": [
-          "There’s a New Link Between Gut Health and Alzheimer’s Disease - WIRED",
-          "Workplace habit changes can improve your overall health - UKNow",
-          "The national focus on politicians' health is making its way into the Oklahoma GOP race for governor - Oklahoma Voice"
-        ]
-      },
-      {
-        "trend": "medical",
-        "market_code": "DE",
-        "category": "Europe Health",
-        "score": 17,
-        "examples": [
-          "A decade after settlement, medical care still falls short at Baltimore jail - Maryland Matters",
-          "How to manage impostor phenomenon as a 1st-year medical student - American Medical Association | AMA",
-          "How to manage impostor phenomenon as a 1st-year medical student - American Medical Association | AMA"
-        ]
-      },
-      {
-        "trend": "healthcare",
-        "market_code": "DE",
-        "category": "Europe Health",
-        "score": 15,
-        "examples": [
-          "‘A game changer’: UHS closes $835M Talkspace acquisition - Healthcare Dive",
-          "Patients Wary of Governments, Companies Pushing AI as a Rural Healthcare Solution - KFF Health News",
-          "Abridge expands AI decision support to more clinicians in bid to become healthcare's copilot - Fierce Healthcare"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
         "trend": "outbreak",
         "market_code": "DE",
         "category": "Outbreaks",
-        "score": 12,
-        "examples": [
-          "Michigan’s cyclosporiasis cases near 14,000 as outbreak continues - Michigan Advance",
-          "Deadliest Ebola outbreak in D.R. Congo history - CNN",
-          "Ebola outbreak in DR Congo now deadliest ever - france24.com"
-        ]
-      },
-      {
-        "trend": "mental",
-        "market_code": "DE",
-        "category": "Mental Health",
-        "score": 9,
-        "examples": [
-          "U.S. commander calls mental health a priority after he visits USS Lincoln - The Washington Post",
-          "U.S. commander calls mental health a priority after he visits USS Lincoln - The Washington Post",
-          "Selena Gomez and her mom accused of fraud over their mental health startup - nbcnews.com"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
         "trend": "mental health",
         "market_code": "DE",
         "category": "Mental Health",
-        "score": 9,
-        "examples": [
-          "U.S. commander calls mental health a priority after he visits USS Lincoln - The Washington Post",
-          "U.S. commander calls mental health a priority after he visits USS Lincoln - The Washington Post",
-          "Selena Gomez and her mom accused of fraud over their mental health startup - nbcnews.com"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "hospitals",
+        "trend": "medical research",
         "market_code": "DE",
         "category": "Europe Health",
-        "score": 8,
-        "examples": [
-          "Hospitals Say They Found a Tool to Help Reduce Childbirth Risks: Wristbands - The Good Men Project",
-          "‘Horrific’ conditions grip U.K. hospitals unprepared for heat - The Japan Times",
-          "3 north Alabama hospitals recognized for 0 MRSA infection rate - WHNT.com"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "ebola outbreak",
+        "trend": "drug approval",
         "market_code": "DE",
-        "category": "Outbreaks",
-        "score": 8,
-        "examples": [
-          "Deadliest Ebola outbreak in D.R. Congo history - CNN",
-          "Ebola outbreak in DR Congo now deadliest ever - france24.com",
-          "Ebola outbreak in DR Congo becomes deadliest in country’s history - Al Jazeera"
-        ]
+        "category": "Drug & Treatment News",
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "virus",
+        "trend": "diet wellness",
         "market_code": "DE",
-        "category": "Outbreaks",
-        "score": 7,
-        "examples": [
-          "What is the potentially deadly bluetongue virus in the UK? - BBC",
-          "St. Louis Encephalitis virus detected in Kingsville mosquito pool, prompting city-wide spraying operation - KRIS 6 News Corpus Christi",
-          "Greek Health Service Urges Additional Vigilance Regarding West Nile Virus - The National Herald"
-        ]
-      },
-      {
-        "trend": "hospital",
-        "market_code": "DE",
-        "category": "Europe Health",
-        "score": 6,
-        "examples": [
-          "In Idaho, an insurer says health care costs may rise after hospital taps Congress’s billing tool - Idaho Capital Sun",
-          "In Idaho, an insurer says health care costs may rise after hospital taps Congress’s billing tool - Idaho Capital Sun",
-          "What Is Lifestyle Medicine? - HSS | Hospital for Special Surgery"
-        ]
-      },
-      {
-        "trend": "warning",
-        "market_code": "DE",
-        "category": "Europe Health",
-        "score": 6,
-        "examples": [
-          "Minnesota Presses Judge To Reject Challenge To Warning Label Mandate 08/13/2026 - mediapost.com",
-          "Health officials' floodwater warning, YWCA seeks donations, Fauci contempt vote: Sunrise Brief - WTKR",
-          "Deep cracks in wooden spatula spark blunt warning: 'You can't make it food safe again' - The Cool Down"
-        ]
-      },
-      {
-        "trend": "cancer",
-        "market_code": "DE",
-        "category": "Chronic Disease",
-        "score": 6,
-        "examples": [
-          "FDA Expands Clinical Trial Eligibility for Cancer Patients - Oncology News Central",
-          "FDA Expands Approval of Pluvicto® for Metastatic Prostate Cancer: Targets a Protein Called PSMA - Memorial Sloan Kettering Cancer Center",
-          "FDA Expands Approval of Pluvicto® for Metastatic Prostate Cancer: Targets a Protein Called PSMA - Memorial Sloan Kettering Cancer Center"
-        ]
+        "category": "Diet & Wellness",
+        "score": 1,
+        "examples": []
       }
     ],
     "France": [
       {
-        "trend": "health",
+        "trend": "health alert",
         "market_code": "FR",
         "category": "Europe Health",
-        "score": 53,
-        "examples": [
-          "There’s a New Link Between Gut Health and Alzheimer’s Disease - WIRED",
-          "Workplace habit changes can improve your overall health - UKNow",
-          "The national focus on politicians' health is making its way into the Oklahoma GOP race for governor - Oklahoma Voice"
-        ]
-      },
-      {
-        "trend": "medical",
-        "market_code": "FR",
-        "category": "Europe Health",
-        "score": 17,
-        "examples": [
-          "A decade after settlement, medical care still falls short at Baltimore jail - Maryland Matters",
-          "How to manage impostor phenomenon as a 1st-year medical student - American Medical Association | AMA",
-          "How to manage impostor phenomenon as a 1st-year medical student - American Medical Association | AMA"
-        ]
-      },
-      {
-        "trend": "healthcare",
-        "market_code": "FR",
-        "category": "Europe Health",
-        "score": 15,
-        "examples": [
-          "‘A game changer’: UHS closes $835M Talkspace acquisition - Healthcare Dive",
-          "Patients Wary of Governments, Companies Pushing AI as a Rural Healthcare Solution - KFF Health News",
-          "Abridge expands AI decision support to more clinicians in bid to become healthcare's copilot - Fierce Healthcare"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
         "trend": "outbreak",
         "market_code": "FR",
         "category": "Outbreaks",
-        "score": 12,
-        "examples": [
-          "Michigan’s cyclosporiasis cases near 14,000 as outbreak continues - Michigan Advance",
-          "Deadliest Ebola outbreak in D.R. Congo history - CNN",
-          "Ebola outbreak in DR Congo now deadliest ever - france24.com"
-        ]
-      },
-      {
-        "trend": "mental",
-        "market_code": "FR",
-        "category": "Mental Health",
-        "score": 9,
-        "examples": [
-          "U.S. commander calls mental health a priority after he visits USS Lincoln - The Washington Post",
-          "U.S. commander calls mental health a priority after he visits USS Lincoln - The Washington Post",
-          "Selena Gomez and her mom accused of fraud over their mental health startup - nbcnews.com"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
         "trend": "mental health",
         "market_code": "FR",
         "category": "Mental Health",
-        "score": 9,
-        "examples": [
-          "U.S. commander calls mental health a priority after he visits USS Lincoln - The Washington Post",
-          "U.S. commander calls mental health a priority after he visits USS Lincoln - The Washington Post",
-          "Selena Gomez and her mom accused of fraud over their mental health startup - nbcnews.com"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "hospitals",
+        "trend": "medical research",
         "market_code": "FR",
         "category": "Europe Health",
-        "score": 8,
-        "examples": [
-          "Hospitals Say They Found a Tool to Help Reduce Childbirth Risks: Wristbands - The Good Men Project",
-          "‘Horrific’ conditions grip U.K. hospitals unprepared for heat - The Japan Times",
-          "3 north Alabama hospitals recognized for 0 MRSA infection rate - WHNT.com"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "ebola outbreak",
+        "trend": "drug approval",
         "market_code": "FR",
-        "category": "Outbreaks",
-        "score": 8,
-        "examples": [
-          "Deadliest Ebola outbreak in D.R. Congo history - CNN",
-          "Ebola outbreak in DR Congo now deadliest ever - france24.com",
-          "Ebola outbreak in DR Congo becomes deadliest in country’s history - Al Jazeera"
-        ]
+        "category": "Drug & Treatment News",
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "virus",
+        "trend": "diet wellness",
         "market_code": "FR",
-        "category": "Outbreaks",
-        "score": 7,
-        "examples": [
-          "What is the potentially deadly bluetongue virus in the UK? - BBC",
-          "St. Louis Encephalitis virus detected in Kingsville mosquito pool, prompting city-wide spraying operation - KRIS 6 News Corpus Christi",
-          "Greek Health Service Urges Additional Vigilance Regarding West Nile Virus - The National Herald"
-        ]
-      },
-      {
-        "trend": "hospital",
-        "market_code": "FR",
-        "category": "Europe Health",
-        "score": 6,
-        "examples": [
-          "In Idaho, an insurer says health care costs may rise after hospital taps Congress’s billing tool - Idaho Capital Sun",
-          "In Idaho, an insurer says health care costs may rise after hospital taps Congress’s billing tool - Idaho Capital Sun",
-          "What Is Lifestyle Medicine? - HSS | Hospital for Special Surgery"
-        ]
-      },
-      {
-        "trend": "warning",
-        "market_code": "FR",
-        "category": "Europe Health",
-        "score": 6,
-        "examples": [
-          "Minnesota Presses Judge To Reject Challenge To Warning Label Mandate 08/13/2026 - mediapost.com",
-          "Health officials' floodwater warning, YWCA seeks donations, Fauci contempt vote: Sunrise Brief - WTKR",
-          "Deep cracks in wooden spatula spark blunt warning: 'You can't make it food safe again' - The Cool Down"
-        ]
-      },
-      {
-        "trend": "cancer",
-        "market_code": "FR",
-        "category": "Chronic Disease",
-        "score": 6,
-        "examples": [
-          "FDA Expands Clinical Trial Eligibility for Cancer Patients - Oncology News Central",
-          "FDA Expands Approval of Pluvicto® for Metastatic Prostate Cancer: Targets a Protein Called PSMA - Memorial Sloan Kettering Cancer Center",
-          "FDA Expands Approval of Pluvicto® for Metastatic Prostate Cancer: Targets a Protein Called PSMA - Memorial Sloan Kettering Cancer Center"
-        ]
+        "category": "Diet & Wellness",
+        "score": 1,
+        "examples": []
       }
     ],
     "Italy": [
       {
-        "trend": "health",
+        "trend": "health alert",
         "market_code": "IT",
         "category": "Europe Health",
-        "score": 53,
-        "examples": [
-          "There’s a New Link Between Gut Health and Alzheimer’s Disease - WIRED",
-          "Workplace habit changes can improve your overall health - UKNow",
-          "The national focus on politicians' health is making its way into the Oklahoma GOP race for governor - Oklahoma Voice"
-        ]
-      },
-      {
-        "trend": "medical",
-        "market_code": "IT",
-        "category": "Europe Health",
-        "score": 17,
-        "examples": [
-          "A decade after settlement, medical care still falls short at Baltimore jail - Maryland Matters",
-          "How to manage impostor phenomenon as a 1st-year medical student - American Medical Association | AMA",
-          "How to manage impostor phenomenon as a 1st-year medical student - American Medical Association | AMA"
-        ]
-      },
-      {
-        "trend": "healthcare",
-        "market_code": "IT",
-        "category": "Europe Health",
-        "score": 15,
-        "examples": [
-          "‘A game changer’: UHS closes $835M Talkspace acquisition - Healthcare Dive",
-          "Patients Wary of Governments, Companies Pushing AI as a Rural Healthcare Solution - KFF Health News",
-          "Abridge expands AI decision support to more clinicians in bid to become healthcare's copilot - Fierce Healthcare"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
         "trend": "outbreak",
         "market_code": "IT",
         "category": "Outbreaks",
-        "score": 12,
-        "examples": [
-          "Michigan’s cyclosporiasis cases near 14,000 as outbreak continues - Michigan Advance",
-          "Deadliest Ebola outbreak in D.R. Congo history - CNN",
-          "Ebola outbreak in DR Congo now deadliest ever - france24.com"
-        ]
-      },
-      {
-        "trend": "mental",
-        "market_code": "IT",
-        "category": "Mental Health",
-        "score": 9,
-        "examples": [
-          "U.S. commander calls mental health a priority after he visits USS Lincoln - The Washington Post",
-          "U.S. commander calls mental health a priority after he visits USS Lincoln - The Washington Post",
-          "Selena Gomez and her mom accused of fraud over their mental health startup - nbcnews.com"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
         "trend": "mental health",
         "market_code": "IT",
         "category": "Mental Health",
-        "score": 9,
-        "examples": [
-          "U.S. commander calls mental health a priority after he visits USS Lincoln - The Washington Post",
-          "U.S. commander calls mental health a priority after he visits USS Lincoln - The Washington Post",
-          "Selena Gomez and her mom accused of fraud over their mental health startup - nbcnews.com"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "hospitals",
+        "trend": "medical research",
         "market_code": "IT",
         "category": "Europe Health",
-        "score": 8,
-        "examples": [
-          "Hospitals Say They Found a Tool to Help Reduce Childbirth Risks: Wristbands - The Good Men Project",
-          "‘Horrific’ conditions grip U.K. hospitals unprepared for heat - The Japan Times",
-          "3 north Alabama hospitals recognized for 0 MRSA infection rate - WHNT.com"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "ebola outbreak",
+        "trend": "drug approval",
         "market_code": "IT",
-        "category": "Outbreaks",
-        "score": 8,
-        "examples": [
-          "Deadliest Ebola outbreak in D.R. Congo history - CNN",
-          "Ebola outbreak in DR Congo now deadliest ever - france24.com",
-          "Ebola outbreak in DR Congo becomes deadliest in country’s history - Al Jazeera"
-        ]
+        "category": "Drug & Treatment News",
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "virus",
+        "trend": "diet wellness",
         "market_code": "IT",
-        "category": "Outbreaks",
-        "score": 7,
-        "examples": [
-          "What is the potentially deadly bluetongue virus in the UK? - BBC",
-          "St. Louis Encephalitis virus detected in Kingsville mosquito pool, prompting city-wide spraying operation - KRIS 6 News Corpus Christi",
-          "Greek Health Service Urges Additional Vigilance Regarding West Nile Virus - The National Herald"
-        ]
-      },
-      {
-        "trend": "hospital",
-        "market_code": "IT",
-        "category": "Europe Health",
-        "score": 6,
-        "examples": [
-          "In Idaho, an insurer says health care costs may rise after hospital taps Congress’s billing tool - Idaho Capital Sun",
-          "In Idaho, an insurer says health care costs may rise after hospital taps Congress’s billing tool - Idaho Capital Sun",
-          "What Is Lifestyle Medicine? - HSS | Hospital for Special Surgery"
-        ]
-      },
-      {
-        "trend": "warning",
-        "market_code": "IT",
-        "category": "Europe Health",
-        "score": 6,
-        "examples": [
-          "Minnesota Presses Judge To Reject Challenge To Warning Label Mandate 08/13/2026 - mediapost.com",
-          "Health officials' floodwater warning, YWCA seeks donations, Fauci contempt vote: Sunrise Brief - WTKR",
-          "Deep cracks in wooden spatula spark blunt warning: 'You can't make it food safe again' - The Cool Down"
-        ]
-      },
-      {
-        "trend": "cancer",
-        "market_code": "IT",
-        "category": "Chronic Disease",
-        "score": 6,
-        "examples": [
-          "FDA Expands Clinical Trial Eligibility for Cancer Patients - Oncology News Central",
-          "FDA Expands Approval of Pluvicto® for Metastatic Prostate Cancer: Targets a Protein Called PSMA - Memorial Sloan Kettering Cancer Center",
-          "FDA Expands Approval of Pluvicto® for Metastatic Prostate Cancer: Targets a Protein Called PSMA - Memorial Sloan Kettering Cancer Center"
-        ]
+        "category": "Diet & Wellness",
+        "score": 1,
+        "examples": []
       }
     ],
     "Spain": [
       {
-        "trend": "health",
+        "trend": "health alert",
         "market_code": "ES",
         "category": "Europe Health",
-        "score": 53,
-        "examples": [
-          "There’s a New Link Between Gut Health and Alzheimer’s Disease - WIRED",
-          "Workplace habit changes can improve your overall health - UKNow",
-          "The national focus on politicians' health is making its way into the Oklahoma GOP race for governor - Oklahoma Voice"
-        ]
-      },
-      {
-        "trend": "medical",
-        "market_code": "ES",
-        "category": "Europe Health",
-        "score": 17,
-        "examples": [
-          "A decade after settlement, medical care still falls short at Baltimore jail - Maryland Matters",
-          "How to manage impostor phenomenon as a 1st-year medical student - American Medical Association | AMA",
-          "How to manage impostor phenomenon as a 1st-year medical student - American Medical Association | AMA"
-        ]
-      },
-      {
-        "trend": "healthcare",
-        "market_code": "ES",
-        "category": "Europe Health",
-        "score": 15,
-        "examples": [
-          "‘A game changer’: UHS closes $835M Talkspace acquisition - Healthcare Dive",
-          "Patients Wary of Governments, Companies Pushing AI as a Rural Healthcare Solution - KFF Health News",
-          "Abridge expands AI decision support to more clinicians in bid to become healthcare's copilot - Fierce Healthcare"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
         "trend": "outbreak",
         "market_code": "ES",
         "category": "Outbreaks",
-        "score": 12,
-        "examples": [
-          "Michigan’s cyclosporiasis cases near 14,000 as outbreak continues - Michigan Advance",
-          "Deadliest Ebola outbreak in D.R. Congo history - CNN",
-          "Ebola outbreak in DR Congo now deadliest ever - france24.com"
-        ]
-      },
-      {
-        "trend": "mental",
-        "market_code": "ES",
-        "category": "Mental Health",
-        "score": 9,
-        "examples": [
-          "U.S. commander calls mental health a priority after he visits USS Lincoln - The Washington Post",
-          "U.S. commander calls mental health a priority after he visits USS Lincoln - The Washington Post",
-          "Selena Gomez and her mom accused of fraud over their mental health startup - nbcnews.com"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
         "trend": "mental health",
         "market_code": "ES",
         "category": "Mental Health",
-        "score": 9,
-        "examples": [
-          "U.S. commander calls mental health a priority after he visits USS Lincoln - The Washington Post",
-          "U.S. commander calls mental health a priority after he visits USS Lincoln - The Washington Post",
-          "Selena Gomez and her mom accused of fraud over their mental health startup - nbcnews.com"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "hospitals",
+        "trend": "medical research",
         "market_code": "ES",
         "category": "Europe Health",
-        "score": 8,
-        "examples": [
-          "Hospitals Say They Found a Tool to Help Reduce Childbirth Risks: Wristbands - The Good Men Project",
-          "‘Horrific’ conditions grip U.K. hospitals unprepared for heat - The Japan Times",
-          "3 north Alabama hospitals recognized for 0 MRSA infection rate - WHNT.com"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "ebola outbreak",
+        "trend": "drug approval",
         "market_code": "ES",
-        "category": "Outbreaks",
-        "score": 8,
-        "examples": [
-          "Deadliest Ebola outbreak in D.R. Congo history - CNN",
-          "Ebola outbreak in DR Congo now deadliest ever - france24.com",
-          "Ebola outbreak in DR Congo becomes deadliest in country’s history - Al Jazeera"
-        ]
+        "category": "Drug & Treatment News",
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "virus",
+        "trend": "diet wellness",
         "market_code": "ES",
-        "category": "Outbreaks",
-        "score": 7,
-        "examples": [
-          "What is the potentially deadly bluetongue virus in the UK? - BBC",
-          "St. Louis Encephalitis virus detected in Kingsville mosquito pool, prompting city-wide spraying operation - KRIS 6 News Corpus Christi",
-          "Greek Health Service Urges Additional Vigilance Regarding West Nile Virus - The National Herald"
-        ]
-      },
-      {
-        "trend": "hospital",
-        "market_code": "ES",
-        "category": "Europe Health",
-        "score": 6,
-        "examples": [
-          "In Idaho, an insurer says health care costs may rise after hospital taps Congress’s billing tool - Idaho Capital Sun",
-          "In Idaho, an insurer says health care costs may rise after hospital taps Congress’s billing tool - Idaho Capital Sun",
-          "What Is Lifestyle Medicine? - HSS | Hospital for Special Surgery"
-        ]
-      },
-      {
-        "trend": "warning",
-        "market_code": "ES",
-        "category": "Europe Health",
-        "score": 6,
-        "examples": [
-          "Minnesota Presses Judge To Reject Challenge To Warning Label Mandate 08/13/2026 - mediapost.com",
-          "Health officials' floodwater warning, YWCA seeks donations, Fauci contempt vote: Sunrise Brief - WTKR",
-          "Deep cracks in wooden spatula spark blunt warning: 'You can't make it food safe again' - The Cool Down"
-        ]
-      },
-      {
-        "trend": "cancer",
-        "market_code": "ES",
-        "category": "Chronic Disease",
-        "score": 6,
-        "examples": [
-          "FDA Expands Clinical Trial Eligibility for Cancer Patients - Oncology News Central",
-          "FDA Expands Approval of Pluvicto® for Metastatic Prostate Cancer: Targets a Protein Called PSMA - Memorial Sloan Kettering Cancer Center",
-          "FDA Expands Approval of Pluvicto® for Metastatic Prostate Cancer: Targets a Protein Called PSMA - Memorial Sloan Kettering Cancer Center"
-        ]
+        "category": "Diet & Wellness",
+        "score": 1,
+        "examples": []
       }
     ],
     "Sweden": [
       {
-        "trend": "health",
+        "trend": "health alert",
         "market_code": "SE",
         "category": "Europe Health",
-        "score": 53,
-        "examples": [
-          "There’s a New Link Between Gut Health and Alzheimer’s Disease - WIRED",
-          "Workplace habit changes can improve your overall health - UKNow",
-          "The national focus on politicians' health is making its way into the Oklahoma GOP race for governor - Oklahoma Voice"
-        ]
-      },
-      {
-        "trend": "medical",
-        "market_code": "SE",
-        "category": "Europe Health",
-        "score": 17,
-        "examples": [
-          "A decade after settlement, medical care still falls short at Baltimore jail - Maryland Matters",
-          "How to manage impostor phenomenon as a 1st-year medical student - American Medical Association | AMA",
-          "How to manage impostor phenomenon as a 1st-year medical student - American Medical Association | AMA"
-        ]
-      },
-      {
-        "trend": "healthcare",
-        "market_code": "SE",
-        "category": "Europe Health",
-        "score": 15,
-        "examples": [
-          "‘A game changer’: UHS closes $835M Talkspace acquisition - Healthcare Dive",
-          "Patients Wary of Governments, Companies Pushing AI as a Rural Healthcare Solution - KFF Health News",
-          "Abridge expands AI decision support to more clinicians in bid to become healthcare's copilot - Fierce Healthcare"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
         "trend": "outbreak",
         "market_code": "SE",
         "category": "Outbreaks",
-        "score": 12,
-        "examples": [
-          "Michigan’s cyclosporiasis cases near 14,000 as outbreak continues - Michigan Advance",
-          "Deadliest Ebola outbreak in D.R. Congo history - CNN",
-          "Ebola outbreak in DR Congo now deadliest ever - france24.com"
-        ]
-      },
-      {
-        "trend": "mental",
-        "market_code": "SE",
-        "category": "Mental Health",
-        "score": 9,
-        "examples": [
-          "U.S. commander calls mental health a priority after he visits USS Lincoln - The Washington Post",
-          "U.S. commander calls mental health a priority after he visits USS Lincoln - The Washington Post",
-          "Selena Gomez and her mom accused of fraud over their mental health startup - nbcnews.com"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
         "trend": "mental health",
         "market_code": "SE",
         "category": "Mental Health",
-        "score": 9,
-        "examples": [
-          "U.S. commander calls mental health a priority after he visits USS Lincoln - The Washington Post",
-          "U.S. commander calls mental health a priority after he visits USS Lincoln - The Washington Post",
-          "Selena Gomez and her mom accused of fraud over their mental health startup - nbcnews.com"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "hospitals",
+        "trend": "medical research",
         "market_code": "SE",
         "category": "Europe Health",
-        "score": 8,
-        "examples": [
-          "Hospitals Say They Found a Tool to Help Reduce Childbirth Risks: Wristbands - The Good Men Project",
-          "‘Horrific’ conditions grip U.K. hospitals unprepared for heat - The Japan Times",
-          "3 north Alabama hospitals recognized for 0 MRSA infection rate - WHNT.com"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "ebola outbreak",
+        "trend": "drug approval",
         "market_code": "SE",
-        "category": "Outbreaks",
-        "score": 8,
-        "examples": [
-          "Deadliest Ebola outbreak in D.R. Congo history - CNN",
-          "Ebola outbreak in DR Congo now deadliest ever - france24.com",
-          "Ebola outbreak in DR Congo becomes deadliest in country’s history - Al Jazeera"
-        ]
+        "category": "Drug & Treatment News",
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "virus",
+        "trend": "diet wellness",
         "market_code": "SE",
-        "category": "Outbreaks",
-        "score": 7,
-        "examples": [
-          "What is the potentially deadly bluetongue virus in the UK? - BBC",
-          "St. Louis Encephalitis virus detected in Kingsville mosquito pool, prompting city-wide spraying operation - KRIS 6 News Corpus Christi",
-          "Greek Health Service Urges Additional Vigilance Regarding West Nile Virus - The National Herald"
-        ]
-      },
-      {
-        "trend": "hospital",
-        "market_code": "SE",
-        "category": "Europe Health",
-        "score": 6,
-        "examples": [
-          "In Idaho, an insurer says health care costs may rise after hospital taps Congress’s billing tool - Idaho Capital Sun",
-          "In Idaho, an insurer says health care costs may rise after hospital taps Congress’s billing tool - Idaho Capital Sun",
-          "What Is Lifestyle Medicine? - HSS | Hospital for Special Surgery"
-        ]
-      },
-      {
-        "trend": "warning",
-        "market_code": "SE",
-        "category": "Europe Health",
-        "score": 6,
-        "examples": [
-          "Minnesota Presses Judge To Reject Challenge To Warning Label Mandate 08/13/2026 - mediapost.com",
-          "Health officials' floodwater warning, YWCA seeks donations, Fauci contempt vote: Sunrise Brief - WTKR",
-          "Deep cracks in wooden spatula spark blunt warning: 'You can't make it food safe again' - The Cool Down"
-        ]
-      },
-      {
-        "trend": "cancer",
-        "market_code": "SE",
-        "category": "Chronic Disease",
-        "score": 6,
-        "examples": [
-          "FDA Expands Clinical Trial Eligibility for Cancer Patients - Oncology News Central",
-          "FDA Expands Approval of Pluvicto® for Metastatic Prostate Cancer: Targets a Protein Called PSMA - Memorial Sloan Kettering Cancer Center",
-          "FDA Expands Approval of Pluvicto® for Metastatic Prostate Cancer: Targets a Protein Called PSMA - Memorial Sloan Kettering Cancer Center"
-        ]
+        "category": "Diet & Wellness",
+        "score": 1,
+        "examples": []
       }
     ],
     "Netherlands": [
       {
-        "trend": "health",
+        "trend": "health alert",
         "market_code": "NL",
         "category": "Europe Health",
-        "score": 53,
-        "examples": [
-          "There’s a New Link Between Gut Health and Alzheimer’s Disease - WIRED",
-          "Workplace habit changes can improve your overall health - UKNow",
-          "The national focus on politicians' health is making its way into the Oklahoma GOP race for governor - Oklahoma Voice"
-        ]
-      },
-      {
-        "trend": "medical",
-        "market_code": "NL",
-        "category": "Europe Health",
-        "score": 17,
-        "examples": [
-          "A decade after settlement, medical care still falls short at Baltimore jail - Maryland Matters",
-          "How to manage impostor phenomenon as a 1st-year medical student - American Medical Association | AMA",
-          "How to manage impostor phenomenon as a 1st-year medical student - American Medical Association | AMA"
-        ]
-      },
-      {
-        "trend": "healthcare",
-        "market_code": "NL",
-        "category": "Europe Health",
-        "score": 15,
-        "examples": [
-          "‘A game changer’: UHS closes $835M Talkspace acquisition - Healthcare Dive",
-          "Patients Wary of Governments, Companies Pushing AI as a Rural Healthcare Solution - KFF Health News",
-          "Abridge expands AI decision support to more clinicians in bid to become healthcare's copilot - Fierce Healthcare"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
         "trend": "outbreak",
         "market_code": "NL",
         "category": "Outbreaks",
-        "score": 12,
-        "examples": [
-          "Michigan’s cyclosporiasis cases near 14,000 as outbreak continues - Michigan Advance",
-          "Deadliest Ebola outbreak in D.R. Congo history - CNN",
-          "Ebola outbreak in DR Congo now deadliest ever - france24.com"
-        ]
-      },
-      {
-        "trend": "mental",
-        "market_code": "NL",
-        "category": "Mental Health",
-        "score": 9,
-        "examples": [
-          "U.S. commander calls mental health a priority after he visits USS Lincoln - The Washington Post",
-          "U.S. commander calls mental health a priority after he visits USS Lincoln - The Washington Post",
-          "Selena Gomez and her mom accused of fraud over their mental health startup - nbcnews.com"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
         "trend": "mental health",
         "market_code": "NL",
         "category": "Mental Health",
-        "score": 9,
-        "examples": [
-          "U.S. commander calls mental health a priority after he visits USS Lincoln - The Washington Post",
-          "U.S. commander calls mental health a priority after he visits USS Lincoln - The Washington Post",
-          "Selena Gomez and her mom accused of fraud over their mental health startup - nbcnews.com"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "hospitals",
+        "trend": "medical research",
         "market_code": "NL",
         "category": "Europe Health",
-        "score": 8,
-        "examples": [
-          "Hospitals Say They Found a Tool to Help Reduce Childbirth Risks: Wristbands - The Good Men Project",
-          "‘Horrific’ conditions grip U.K. hospitals unprepared for heat - The Japan Times",
-          "3 north Alabama hospitals recognized for 0 MRSA infection rate - WHNT.com"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "ebola outbreak",
+        "trend": "drug approval",
         "market_code": "NL",
-        "category": "Outbreaks",
-        "score": 8,
-        "examples": [
-          "Deadliest Ebola outbreak in D.R. Congo history - CNN",
-          "Ebola outbreak in DR Congo now deadliest ever - france24.com",
-          "Ebola outbreak in DR Congo becomes deadliest in country’s history - Al Jazeera"
-        ]
+        "category": "Drug & Treatment News",
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "virus",
+        "trend": "diet wellness",
         "market_code": "NL",
-        "category": "Outbreaks",
-        "score": 7,
-        "examples": [
-          "What is the potentially deadly bluetongue virus in the UK? - BBC",
-          "St. Louis Encephalitis virus detected in Kingsville mosquito pool, prompting city-wide spraying operation - KRIS 6 News Corpus Christi",
-          "Greek Health Service Urges Additional Vigilance Regarding West Nile Virus - The National Herald"
-        ]
-      },
-      {
-        "trend": "hospital",
-        "market_code": "NL",
-        "category": "Europe Health",
-        "score": 6,
-        "examples": [
-          "In Idaho, an insurer says health care costs may rise after hospital taps Congress’s billing tool - Idaho Capital Sun",
-          "In Idaho, an insurer says health care costs may rise after hospital taps Congress’s billing tool - Idaho Capital Sun",
-          "What Is Lifestyle Medicine? - HSS | Hospital for Special Surgery"
-        ]
-      },
-      {
-        "trend": "warning",
-        "market_code": "NL",
-        "category": "Europe Health",
-        "score": 6,
-        "examples": [
-          "Minnesota Presses Judge To Reject Challenge To Warning Label Mandate 08/13/2026 - mediapost.com",
-          "Health officials' floodwater warning, YWCA seeks donations, Fauci contempt vote: Sunrise Brief - WTKR",
-          "Deep cracks in wooden spatula spark blunt warning: 'You can't make it food safe again' - The Cool Down"
-        ]
-      },
-      {
-        "trend": "cancer",
-        "market_code": "NL",
-        "category": "Chronic Disease",
-        "score": 6,
-        "examples": [
-          "FDA Expands Clinical Trial Eligibility for Cancer Patients - Oncology News Central",
-          "FDA Expands Approval of Pluvicto® for Metastatic Prostate Cancer: Targets a Protein Called PSMA - Memorial Sloan Kettering Cancer Center",
-          "FDA Expands Approval of Pluvicto® for Metastatic Prostate Cancer: Targets a Protein Called PSMA - Memorial Sloan Kettering Cancer Center"
-        ]
+        "category": "Diet & Wellness",
+        "score": 1,
+        "examples": []
       }
     ],
     "Finland": [
       {
-        "trend": "health",
+        "trend": "health alert",
         "market_code": "FI",
         "category": "Europe Health",
-        "score": 53,
-        "examples": [
-          "There’s a New Link Between Gut Health and Alzheimer’s Disease - WIRED",
-          "Workplace habit changes can improve your overall health - UKNow",
-          "The national focus on politicians' health is making its way into the Oklahoma GOP race for governor - Oklahoma Voice"
-        ]
-      },
-      {
-        "trend": "medical",
-        "market_code": "FI",
-        "category": "Europe Health",
-        "score": 17,
-        "examples": [
-          "A decade after settlement, medical care still falls short at Baltimore jail - Maryland Matters",
-          "How to manage impostor phenomenon as a 1st-year medical student - American Medical Association | AMA",
-          "How to manage impostor phenomenon as a 1st-year medical student - American Medical Association | AMA"
-        ]
-      },
-      {
-        "trend": "healthcare",
-        "market_code": "FI",
-        "category": "Europe Health",
-        "score": 15,
-        "examples": [
-          "‘A game changer’: UHS closes $835M Talkspace acquisition - Healthcare Dive",
-          "Patients Wary of Governments, Companies Pushing AI as a Rural Healthcare Solution - KFF Health News",
-          "Abridge expands AI decision support to more clinicians in bid to become healthcare's copilot - Fierce Healthcare"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
         "trend": "outbreak",
         "market_code": "FI",
         "category": "Outbreaks",
-        "score": 12,
-        "examples": [
-          "Michigan’s cyclosporiasis cases near 14,000 as outbreak continues - Michigan Advance",
-          "Deadliest Ebola outbreak in D.R. Congo history - CNN",
-          "Ebola outbreak in DR Congo now deadliest ever - france24.com"
-        ]
-      },
-      {
-        "trend": "mental",
-        "market_code": "FI",
-        "category": "Mental Health",
-        "score": 9,
-        "examples": [
-          "U.S. commander calls mental health a priority after he visits USS Lincoln - The Washington Post",
-          "U.S. commander calls mental health a priority after he visits USS Lincoln - The Washington Post",
-          "Selena Gomez and her mom accused of fraud over their mental health startup - nbcnews.com"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
         "trend": "mental health",
         "market_code": "FI",
         "category": "Mental Health",
-        "score": 9,
-        "examples": [
-          "U.S. commander calls mental health a priority after he visits USS Lincoln - The Washington Post",
-          "U.S. commander calls mental health a priority after he visits USS Lincoln - The Washington Post",
-          "Selena Gomez and her mom accused of fraud over their mental health startup - nbcnews.com"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "hospitals",
+        "trend": "medical research",
         "market_code": "FI",
         "category": "Europe Health",
-        "score": 8,
-        "examples": [
-          "Hospitals Say They Found a Tool to Help Reduce Childbirth Risks: Wristbands - The Good Men Project",
-          "‘Horrific’ conditions grip U.K. hospitals unprepared for heat - The Japan Times",
-          "3 north Alabama hospitals recognized for 0 MRSA infection rate - WHNT.com"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "ebola outbreak",
+        "trend": "drug approval",
         "market_code": "FI",
-        "category": "Outbreaks",
-        "score": 8,
-        "examples": [
-          "Deadliest Ebola outbreak in D.R. Congo history - CNN",
-          "Ebola outbreak in DR Congo now deadliest ever - france24.com",
-          "Ebola outbreak in DR Congo becomes deadliest in country’s history - Al Jazeera"
-        ]
+        "category": "Drug & Treatment News",
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "virus",
+        "trend": "diet wellness",
         "market_code": "FI",
-        "category": "Outbreaks",
-        "score": 7,
-        "examples": [
-          "What is the potentially deadly bluetongue virus in the UK? - BBC",
-          "St. Louis Encephalitis virus detected in Kingsville mosquito pool, prompting city-wide spraying operation - KRIS 6 News Corpus Christi",
-          "Greek Health Service Urges Additional Vigilance Regarding West Nile Virus - The National Herald"
-        ]
-      },
-      {
-        "trend": "hospital",
-        "market_code": "FI",
-        "category": "Europe Health",
-        "score": 6,
-        "examples": [
-          "In Idaho, an insurer says health care costs may rise after hospital taps Congress’s billing tool - Idaho Capital Sun",
-          "In Idaho, an insurer says health care costs may rise after hospital taps Congress’s billing tool - Idaho Capital Sun",
-          "What Is Lifestyle Medicine? - HSS | Hospital for Special Surgery"
-        ]
-      },
-      {
-        "trend": "warning",
-        "market_code": "FI",
-        "category": "Europe Health",
-        "score": 6,
-        "examples": [
-          "Minnesota Presses Judge To Reject Challenge To Warning Label Mandate 08/13/2026 - mediapost.com",
-          "Health officials' floodwater warning, YWCA seeks donations, Fauci contempt vote: Sunrise Brief - WTKR",
-          "Deep cracks in wooden spatula spark blunt warning: 'You can't make it food safe again' - The Cool Down"
-        ]
-      },
-      {
-        "trend": "cancer",
-        "market_code": "FI",
-        "category": "Chronic Disease",
-        "score": 6,
-        "examples": [
-          "FDA Expands Clinical Trial Eligibility for Cancer Patients - Oncology News Central",
-          "FDA Expands Approval of Pluvicto® for Metastatic Prostate Cancer: Targets a Protein Called PSMA - Memorial Sloan Kettering Cancer Center",
-          "FDA Expands Approval of Pluvicto® for Metastatic Prostate Cancer: Targets a Protein Called PSMA - Memorial Sloan Kettering Cancer Center"
-        ]
+        "category": "Diet & Wellness",
+        "score": 1,
+        "examples": []
       }
     ],
     "Norway": [
       {
-        "trend": "health",
+        "trend": "health alert",
         "market_code": "NO",
         "category": "Europe Health",
-        "score": 53,
-        "examples": [
-          "There’s a New Link Between Gut Health and Alzheimer’s Disease - WIRED",
-          "Workplace habit changes can improve your overall health - UKNow",
-          "The national focus on politicians' health is making its way into the Oklahoma GOP race for governor - Oklahoma Voice"
-        ]
-      },
-      {
-        "trend": "medical",
-        "market_code": "NO",
-        "category": "Europe Health",
-        "score": 17,
-        "examples": [
-          "A decade after settlement, medical care still falls short at Baltimore jail - Maryland Matters",
-          "How to manage impostor phenomenon as a 1st-year medical student - American Medical Association | AMA",
-          "How to manage impostor phenomenon as a 1st-year medical student - American Medical Association | AMA"
-        ]
-      },
-      {
-        "trend": "healthcare",
-        "market_code": "NO",
-        "category": "Europe Health",
-        "score": 15,
-        "examples": [
-          "‘A game changer’: UHS closes $835M Talkspace acquisition - Healthcare Dive",
-          "Patients Wary of Governments, Companies Pushing AI as a Rural Healthcare Solution - KFF Health News",
-          "Abridge expands AI decision support to more clinicians in bid to become healthcare's copilot - Fierce Healthcare"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
         "trend": "outbreak",
         "market_code": "NO",
         "category": "Outbreaks",
-        "score": 12,
-        "examples": [
-          "Michigan’s cyclosporiasis cases near 14,000 as outbreak continues - Michigan Advance",
-          "Deadliest Ebola outbreak in D.R. Congo history - CNN",
-          "Ebola outbreak in DR Congo now deadliest ever - france24.com"
-        ]
-      },
-      {
-        "trend": "mental",
-        "market_code": "NO",
-        "category": "Mental Health",
-        "score": 9,
-        "examples": [
-          "U.S. commander calls mental health a priority after he visits USS Lincoln - The Washington Post",
-          "U.S. commander calls mental health a priority after he visits USS Lincoln - The Washington Post",
-          "Selena Gomez and her mom accused of fraud over their mental health startup - nbcnews.com"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
         "trend": "mental health",
         "market_code": "NO",
         "category": "Mental Health",
-        "score": 9,
-        "examples": [
-          "U.S. commander calls mental health a priority after he visits USS Lincoln - The Washington Post",
-          "U.S. commander calls mental health a priority after he visits USS Lincoln - The Washington Post",
-          "Selena Gomez and her mom accused of fraud over their mental health startup - nbcnews.com"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "hospitals",
+        "trend": "medical research",
         "market_code": "NO",
         "category": "Europe Health",
-        "score": 8,
-        "examples": [
-          "Hospitals Say They Found a Tool to Help Reduce Childbirth Risks: Wristbands - The Good Men Project",
-          "‘Horrific’ conditions grip U.K. hospitals unprepared for heat - The Japan Times",
-          "3 north Alabama hospitals recognized for 0 MRSA infection rate - WHNT.com"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "ebola outbreak",
+        "trend": "drug approval",
         "market_code": "NO",
-        "category": "Outbreaks",
-        "score": 8,
-        "examples": [
-          "Deadliest Ebola outbreak in D.R. Congo history - CNN",
-          "Ebola outbreak in DR Congo now deadliest ever - france24.com",
-          "Ebola outbreak in DR Congo becomes deadliest in country’s history - Al Jazeera"
-        ]
+        "category": "Drug & Treatment News",
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "virus",
+        "trend": "diet wellness",
         "market_code": "NO",
-        "category": "Outbreaks",
-        "score": 7,
-        "examples": [
-          "What is the potentially deadly bluetongue virus in the UK? - BBC",
-          "St. Louis Encephalitis virus detected in Kingsville mosquito pool, prompting city-wide spraying operation - KRIS 6 News Corpus Christi",
-          "Greek Health Service Urges Additional Vigilance Regarding West Nile Virus - The National Herald"
-        ]
-      },
-      {
-        "trend": "hospital",
-        "market_code": "NO",
-        "category": "Europe Health",
-        "score": 6,
-        "examples": [
-          "In Idaho, an insurer says health care costs may rise after hospital taps Congress’s billing tool - Idaho Capital Sun",
-          "In Idaho, an insurer says health care costs may rise after hospital taps Congress’s billing tool - Idaho Capital Sun",
-          "What Is Lifestyle Medicine? - HSS | Hospital for Special Surgery"
-        ]
-      },
-      {
-        "trend": "warning",
-        "market_code": "NO",
-        "category": "Europe Health",
-        "score": 6,
-        "examples": [
-          "Minnesota Presses Judge To Reject Challenge To Warning Label Mandate 08/13/2026 - mediapost.com",
-          "Health officials' floodwater warning, YWCA seeks donations, Fauci contempt vote: Sunrise Brief - WTKR",
-          "Deep cracks in wooden spatula spark blunt warning: 'You can't make it food safe again' - The Cool Down"
-        ]
-      },
-      {
-        "trend": "cancer",
-        "market_code": "NO",
-        "category": "Chronic Disease",
-        "score": 6,
-        "examples": [
-          "FDA Expands Clinical Trial Eligibility for Cancer Patients - Oncology News Central",
-          "FDA Expands Approval of Pluvicto® for Metastatic Prostate Cancer: Targets a Protein Called PSMA - Memorial Sloan Kettering Cancer Center",
-          "FDA Expands Approval of Pluvicto® for Metastatic Prostate Cancer: Targets a Protein Called PSMA - Memorial Sloan Kettering Cancer Center"
-        ]
+        "category": "Diet & Wellness",
+        "score": 1,
+        "examples": []
       }
     ],
     "Japan": [
       {
-        "trend": "health",
+        "trend": "health alert",
         "market_code": "JP",
         "category": "Asia Health",
-        "score": 53,
-        "examples": [
-          "There’s a New Link Between Gut Health and Alzheimer’s Disease - WIRED",
-          "Workplace habit changes can improve your overall health - UKNow",
-          "The national focus on politicians' health is making its way into the Oklahoma GOP race for governor - Oklahoma Voice"
-        ]
-      },
-      {
-        "trend": "medical",
-        "market_code": "JP",
-        "category": "Asia Health",
-        "score": 17,
-        "examples": [
-          "A decade after settlement, medical care still falls short at Baltimore jail - Maryland Matters",
-          "How to manage impostor phenomenon as a 1st-year medical student - American Medical Association | AMA",
-          "How to manage impostor phenomenon as a 1st-year medical student - American Medical Association | AMA"
-        ]
-      },
-      {
-        "trend": "healthcare",
-        "market_code": "JP",
-        "category": "Asia Health",
-        "score": 15,
-        "examples": [
-          "‘A game changer’: UHS closes $835M Talkspace acquisition - Healthcare Dive",
-          "Patients Wary of Governments, Companies Pushing AI as a Rural Healthcare Solution - KFF Health News",
-          "Abridge expands AI decision support to more clinicians in bid to become healthcare's copilot - Fierce Healthcare"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
         "trend": "outbreak",
         "market_code": "JP",
         "category": "Outbreaks",
-        "score": 12,
-        "examples": [
-          "Michigan’s cyclosporiasis cases near 14,000 as outbreak continues - Michigan Advance",
-          "Deadliest Ebola outbreak in D.R. Congo history - CNN",
-          "Ebola outbreak in DR Congo now deadliest ever - france24.com"
-        ]
-      },
-      {
-        "trend": "mental",
-        "market_code": "JP",
-        "category": "Mental Health",
-        "score": 9,
-        "examples": [
-          "U.S. commander calls mental health a priority after he visits USS Lincoln - The Washington Post",
-          "U.S. commander calls mental health a priority after he visits USS Lincoln - The Washington Post",
-          "Selena Gomez and her mom accused of fraud over their mental health startup - nbcnews.com"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
         "trend": "mental health",
         "market_code": "JP",
         "category": "Mental Health",
-        "score": 9,
-        "examples": [
-          "U.S. commander calls mental health a priority after he visits USS Lincoln - The Washington Post",
-          "U.S. commander calls mental health a priority after he visits USS Lincoln - The Washington Post",
-          "Selena Gomez and her mom accused of fraud over their mental health startup - nbcnews.com"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "hospitals",
+        "trend": "medical research",
         "market_code": "JP",
         "category": "Asia Health",
-        "score": 8,
-        "examples": [
-          "Hospitals Say They Found a Tool to Help Reduce Childbirth Risks: Wristbands - The Good Men Project",
-          "‘Horrific’ conditions grip U.K. hospitals unprepared for heat - The Japan Times",
-          "3 north Alabama hospitals recognized for 0 MRSA infection rate - WHNT.com"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "ebola outbreak",
+        "trend": "drug approval",
         "market_code": "JP",
-        "category": "Outbreaks",
-        "score": 8,
-        "examples": [
-          "Deadliest Ebola outbreak in D.R. Congo history - CNN",
-          "Ebola outbreak in DR Congo now deadliest ever - france24.com",
-          "Ebola outbreak in DR Congo becomes deadliest in country’s history - Al Jazeera"
-        ]
+        "category": "Drug & Treatment News",
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "virus",
+        "trend": "diet wellness",
         "market_code": "JP",
-        "category": "Outbreaks",
-        "score": 7,
-        "examples": [
-          "What is the potentially deadly bluetongue virus in the UK? - BBC",
-          "St. Louis Encephalitis virus detected in Kingsville mosquito pool, prompting city-wide spraying operation - KRIS 6 News Corpus Christi",
-          "Greek Health Service Urges Additional Vigilance Regarding West Nile Virus - The National Herald"
-        ]
-      },
-      {
-        "trend": "hospital",
-        "market_code": "JP",
-        "category": "Asia Health",
-        "score": 6,
-        "examples": [
-          "In Idaho, an insurer says health care costs may rise after hospital taps Congress’s billing tool - Idaho Capital Sun",
-          "In Idaho, an insurer says health care costs may rise after hospital taps Congress’s billing tool - Idaho Capital Sun",
-          "What Is Lifestyle Medicine? - HSS | Hospital for Special Surgery"
-        ]
-      },
-      {
-        "trend": "warning",
-        "market_code": "JP",
-        "category": "Asia Health",
-        "score": 6,
-        "examples": [
-          "Minnesota Presses Judge To Reject Challenge To Warning Label Mandate 08/13/2026 - mediapost.com",
-          "Health officials' floodwater warning, YWCA seeks donations, Fauci contempt vote: Sunrise Brief - WTKR",
-          "Deep cracks in wooden spatula spark blunt warning: 'You can't make it food safe again' - The Cool Down"
-        ]
-      },
-      {
-        "trend": "cancer",
-        "market_code": "JP",
-        "category": "Chronic Disease",
-        "score": 6,
-        "examples": [
-          "FDA Expands Clinical Trial Eligibility for Cancer Patients - Oncology News Central",
-          "FDA Expands Approval of Pluvicto® for Metastatic Prostate Cancer: Targets a Protein Called PSMA - Memorial Sloan Kettering Cancer Center",
-          "FDA Expands Approval of Pluvicto® for Metastatic Prostate Cancer: Targets a Protein Called PSMA - Memorial Sloan Kettering Cancer Center"
-        ]
+        "category": "Diet & Wellness",
+        "score": 1,
+        "examples": []
       }
     ],
     "China": [
       {
-        "trend": "health",
+        "trend": "health alert",
         "market_code": "CN",
         "category": "Asia Health",
-        "score": 53,
-        "examples": [
-          "There’s a New Link Between Gut Health and Alzheimer’s Disease - WIRED",
-          "Workplace habit changes can improve your overall health - UKNow",
-          "The national focus on politicians' health is making its way into the Oklahoma GOP race for governor - Oklahoma Voice"
-        ]
-      },
-      {
-        "trend": "medical",
-        "market_code": "CN",
-        "category": "Asia Health",
-        "score": 17,
-        "examples": [
-          "A decade after settlement, medical care still falls short at Baltimore jail - Maryland Matters",
-          "How to manage impostor phenomenon as a 1st-year medical student - American Medical Association | AMA",
-          "How to manage impostor phenomenon as a 1st-year medical student - American Medical Association | AMA"
-        ]
-      },
-      {
-        "trend": "healthcare",
-        "market_code": "CN",
-        "category": "Asia Health",
-        "score": 15,
-        "examples": [
-          "‘A game changer’: UHS closes $835M Talkspace acquisition - Healthcare Dive",
-          "Patients Wary of Governments, Companies Pushing AI as a Rural Healthcare Solution - KFF Health News",
-          "Abridge expands AI decision support to more clinicians in bid to become healthcare's copilot - Fierce Healthcare"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
         "trend": "outbreak",
         "market_code": "CN",
         "category": "Outbreaks",
-        "score": 12,
-        "examples": [
-          "Michigan’s cyclosporiasis cases near 14,000 as outbreak continues - Michigan Advance",
-          "Deadliest Ebola outbreak in D.R. Congo history - CNN",
-          "Ebola outbreak in DR Congo now deadliest ever - france24.com"
-        ]
-      },
-      {
-        "trend": "mental",
-        "market_code": "CN",
-        "category": "Mental Health",
-        "score": 9,
-        "examples": [
-          "U.S. commander calls mental health a priority after he visits USS Lincoln - The Washington Post",
-          "U.S. commander calls mental health a priority after he visits USS Lincoln - The Washington Post",
-          "Selena Gomez and her mom accused of fraud over their mental health startup - nbcnews.com"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
         "trend": "mental health",
         "market_code": "CN",
         "category": "Mental Health",
-        "score": 9,
-        "examples": [
-          "U.S. commander calls mental health a priority after he visits USS Lincoln - The Washington Post",
-          "U.S. commander calls mental health a priority after he visits USS Lincoln - The Washington Post",
-          "Selena Gomez and her mom accused of fraud over their mental health startup - nbcnews.com"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "hospitals",
+        "trend": "medical research",
         "market_code": "CN",
         "category": "Asia Health",
-        "score": 8,
-        "examples": [
-          "Hospitals Say They Found a Tool to Help Reduce Childbirth Risks: Wristbands - The Good Men Project",
-          "‘Horrific’ conditions grip U.K. hospitals unprepared for heat - The Japan Times",
-          "3 north Alabama hospitals recognized for 0 MRSA infection rate - WHNT.com"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "ebola outbreak",
+        "trend": "drug approval",
         "market_code": "CN",
-        "category": "Outbreaks",
-        "score": 8,
-        "examples": [
-          "Deadliest Ebola outbreak in D.R. Congo history - CNN",
-          "Ebola outbreak in DR Congo now deadliest ever - france24.com",
-          "Ebola outbreak in DR Congo becomes deadliest in country’s history - Al Jazeera"
-        ]
+        "category": "Drug & Treatment News",
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "virus",
+        "trend": "diet wellness",
         "market_code": "CN",
-        "category": "Outbreaks",
-        "score": 7,
-        "examples": [
-          "What is the potentially deadly bluetongue virus in the UK? - BBC",
-          "St. Louis Encephalitis virus detected in Kingsville mosquito pool, prompting city-wide spraying operation - KRIS 6 News Corpus Christi",
-          "Greek Health Service Urges Additional Vigilance Regarding West Nile Virus - The National Herald"
-        ]
-      },
-      {
-        "trend": "hospital",
-        "market_code": "CN",
-        "category": "Asia Health",
-        "score": 6,
-        "examples": [
-          "In Idaho, an insurer says health care costs may rise after hospital taps Congress’s billing tool - Idaho Capital Sun",
-          "In Idaho, an insurer says health care costs may rise after hospital taps Congress’s billing tool - Idaho Capital Sun",
-          "What Is Lifestyle Medicine? - HSS | Hospital for Special Surgery"
-        ]
-      },
-      {
-        "trend": "warning",
-        "market_code": "CN",
-        "category": "Asia Health",
-        "score": 6,
-        "examples": [
-          "Minnesota Presses Judge To Reject Challenge To Warning Label Mandate 08/13/2026 - mediapost.com",
-          "Health officials' floodwater warning, YWCA seeks donations, Fauci contempt vote: Sunrise Brief - WTKR",
-          "Deep cracks in wooden spatula spark blunt warning: 'You can't make it food safe again' - The Cool Down"
-        ]
-      },
-      {
-        "trend": "cancer",
-        "market_code": "CN",
-        "category": "Chronic Disease",
-        "score": 6,
-        "examples": [
-          "FDA Expands Clinical Trial Eligibility for Cancer Patients - Oncology News Central",
-          "FDA Expands Approval of Pluvicto® for Metastatic Prostate Cancer: Targets a Protein Called PSMA - Memorial Sloan Kettering Cancer Center",
-          "FDA Expands Approval of Pluvicto® for Metastatic Prostate Cancer: Targets a Protein Called PSMA - Memorial Sloan Kettering Cancer Center"
-        ]
+        "category": "Diet & Wellness",
+        "score": 1,
+        "examples": []
       }
     ],
     "South Korea": [
       {
-        "trend": "health",
+        "trend": "health alert",
         "market_code": "KR",
         "category": "Asia Health",
-        "score": 53,
-        "examples": [
-          "There’s a New Link Between Gut Health and Alzheimer’s Disease - WIRED",
-          "Workplace habit changes can improve your overall health - UKNow",
-          "The national focus on politicians' health is making its way into the Oklahoma GOP race for governor - Oklahoma Voice"
-        ]
-      },
-      {
-        "trend": "medical",
-        "market_code": "KR",
-        "category": "Asia Health",
-        "score": 17,
-        "examples": [
-          "A decade after settlement, medical care still falls short at Baltimore jail - Maryland Matters",
-          "How to manage impostor phenomenon as a 1st-year medical student - American Medical Association | AMA",
-          "How to manage impostor phenomenon as a 1st-year medical student - American Medical Association | AMA"
-        ]
-      },
-      {
-        "trend": "healthcare",
-        "market_code": "KR",
-        "category": "Asia Health",
-        "score": 15,
-        "examples": [
-          "‘A game changer’: UHS closes $835M Talkspace acquisition - Healthcare Dive",
-          "Patients Wary of Governments, Companies Pushing AI as a Rural Healthcare Solution - KFF Health News",
-          "Abridge expands AI decision support to more clinicians in bid to become healthcare's copilot - Fierce Healthcare"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
         "trend": "outbreak",
         "market_code": "KR",
         "category": "Outbreaks",
-        "score": 12,
-        "examples": [
-          "Michigan’s cyclosporiasis cases near 14,000 as outbreak continues - Michigan Advance",
-          "Deadliest Ebola outbreak in D.R. Congo history - CNN",
-          "Ebola outbreak in DR Congo now deadliest ever - france24.com"
-        ]
-      },
-      {
-        "trend": "mental",
-        "market_code": "KR",
-        "category": "Mental Health",
-        "score": 9,
-        "examples": [
-          "U.S. commander calls mental health a priority after he visits USS Lincoln - The Washington Post",
-          "U.S. commander calls mental health a priority after he visits USS Lincoln - The Washington Post",
-          "Selena Gomez and her mom accused of fraud over their mental health startup - nbcnews.com"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
         "trend": "mental health",
         "market_code": "KR",
         "category": "Mental Health",
-        "score": 9,
-        "examples": [
-          "U.S. commander calls mental health a priority after he visits USS Lincoln - The Washington Post",
-          "U.S. commander calls mental health a priority after he visits USS Lincoln - The Washington Post",
-          "Selena Gomez and her mom accused of fraud over their mental health startup - nbcnews.com"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "hospitals",
+        "trend": "medical research",
         "market_code": "KR",
         "category": "Asia Health",
-        "score": 8,
-        "examples": [
-          "Hospitals Say They Found a Tool to Help Reduce Childbirth Risks: Wristbands - The Good Men Project",
-          "‘Horrific’ conditions grip U.K. hospitals unprepared for heat - The Japan Times",
-          "3 north Alabama hospitals recognized for 0 MRSA infection rate - WHNT.com"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "ebola outbreak",
+        "trend": "drug approval",
         "market_code": "KR",
-        "category": "Outbreaks",
-        "score": 8,
-        "examples": [
-          "Deadliest Ebola outbreak in D.R. Congo history - CNN",
-          "Ebola outbreak in DR Congo now deadliest ever - france24.com",
-          "Ebola outbreak in DR Congo becomes deadliest in country’s history - Al Jazeera"
-        ]
+        "category": "Drug & Treatment News",
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "virus",
+        "trend": "diet wellness",
         "market_code": "KR",
-        "category": "Outbreaks",
-        "score": 7,
-        "examples": [
-          "What is the potentially deadly bluetongue virus in the UK? - BBC",
-          "St. Louis Encephalitis virus detected in Kingsville mosquito pool, prompting city-wide spraying operation - KRIS 6 News Corpus Christi",
-          "Greek Health Service Urges Additional Vigilance Regarding West Nile Virus - The National Herald"
-        ]
-      },
-      {
-        "trend": "hospital",
-        "market_code": "KR",
-        "category": "Asia Health",
-        "score": 6,
-        "examples": [
-          "In Idaho, an insurer says health care costs may rise after hospital taps Congress’s billing tool - Idaho Capital Sun",
-          "In Idaho, an insurer says health care costs may rise after hospital taps Congress’s billing tool - Idaho Capital Sun",
-          "What Is Lifestyle Medicine? - HSS | Hospital for Special Surgery"
-        ]
-      },
-      {
-        "trend": "warning",
-        "market_code": "KR",
-        "category": "Asia Health",
-        "score": 6,
-        "examples": [
-          "Minnesota Presses Judge To Reject Challenge To Warning Label Mandate 08/13/2026 - mediapost.com",
-          "Health officials' floodwater warning, YWCA seeks donations, Fauci contempt vote: Sunrise Brief - WTKR",
-          "Deep cracks in wooden spatula spark blunt warning: 'You can't make it food safe again' - The Cool Down"
-        ]
-      },
-      {
-        "trend": "cancer",
-        "market_code": "KR",
-        "category": "Chronic Disease",
-        "score": 6,
-        "examples": [
-          "FDA Expands Clinical Trial Eligibility for Cancer Patients - Oncology News Central",
-          "FDA Expands Approval of Pluvicto® for Metastatic Prostate Cancer: Targets a Protein Called PSMA - Memorial Sloan Kettering Cancer Center",
-          "FDA Expands Approval of Pluvicto® for Metastatic Prostate Cancer: Targets a Protein Called PSMA - Memorial Sloan Kettering Cancer Center"
-        ]
+        "category": "Diet & Wellness",
+        "score": 1,
+        "examples": []
       }
     ],
     "India": [
       {
-        "trend": "health",
+        "trend": "health alert",
         "market_code": "IN",
         "category": "Asia Health",
-        "score": 50,
-        "examples": [
-          "UNESCO shares international experience to advance school health and nutrition in Viet Nam - Unesco",
-          "Chester Medical acquires supplements manufacturer Power Health - Nutraceutical Business Review",
-          "There’s a New Link Between Gut Health and Alzheimer’s Disease - WIRED"
-        ]
-      },
-      {
-        "trend": "healthcare",
-        "market_code": "IN",
-        "category": "Asia Health",
-        "score": 19,
-        "examples": [
-          "China’s Demographic Shift and the Transformation of Healthcare - orfonline.org",
-          "Private hospitals to benefit from streamlined patient feedback reporting - Healthcare Today",
-          "NSO Survey Highlights Significant Rise in Healthcare Access Across Country - News On AIR"
-        ]
-      },
-      {
-        "trend": "medical",
-        "market_code": "IN",
-        "category": "Asia Health",
-        "score": 17,
-        "examples": [
-          "Chester Medical acquires supplements manufacturer Power Health - Nutraceutical Business Review",
-          "Health Bulletin 17/August/2026 - Medical Dialogues",
-          "Medical Therapy Reduces Nasal Discharge in CRS - Medscape"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
         "trend": "outbreak",
         "market_code": "IN",
         "category": "Outbreaks",
-        "score": 17,
-        "examples": [
-          "Fiji’s HIV outbreak is a public health emergency. Pacific neighbours must step up - Down To Earth",
-          "DRC faces its deadliest ebola outbreak as virus spreads to 6th province - Down To Earth",
-          "Anthrax warning: Dead hippopotamus tests positive in Rutshuru territory of North Kivu, DRC - Outbreak News Today"
-        ]
-      },
-      {
-        "trend": "virus",
-        "market_code": "IN",
-        "category": "Outbreaks",
-        "score": 11,
-        "examples": [
-          "DRC faces its deadliest ebola outbreak as virus spreads to 6th province - Down To Earth",
-          "Urgent warning to parents as potentially deadly liver virus rips through town and sickens under-5s - The Sun",
-          "DRC faces its deadliest ebola outbreak as virus spreads to 6th province - Down To Earth"
-        ]
-      },
-      {
-        "trend": "ebola outbreak",
-        "market_code": "IN",
-        "category": "Outbreaks",
-        "score": 11,
-        "examples": [
-          "DRC faces its deadliest ebola outbreak as virus spreads to 6th province - Down To Earth",
-          "Ebola outbreak in DR Congo becomes deadliest in country’s history - Al Jazeera",
-          "DRC faces its deadliest ebola outbreak as virus spreads to 6th province - Down To Earth"
-        ]
-      },
-      {
-        "trend": "mental",
-        "market_code": "IN",
-        "category": "Mental Health",
-        "score": 9,
-        "examples": [
-          "Beyond Birth: Integrating Maternal Mental Health into Every Stage of Care - adb.org",
-          "All not perfect: US Centcom commander flags sailors' mental issues during long service at sea - The Times of India",
-          "Cat Owners Beware: The Strange Mental Health Link Experts Are Now Exposing - Futura, le média qui explore le monde"
-        ]
-      },
-      {
-        "trend": "warning",
-        "market_code": "IN",
-        "category": "Asia Health",
-        "score": 8,
-        "examples": [
-          "Minnesota Presses Judge To Reject Challenge To Warning Label Mandate 08/13/2026 - MediaPost",
-          "Sepsis and deterioration: are early warning systems being misused? - RCNi",
-          "They want to ban the circulation of new psychoactive substances: preparing an early warning and data exchange system - Судово-юридична газета"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
         "trend": "mental health",
         "market_code": "IN",
         "category": "Mental Health",
-        "score": 8,
-        "examples": [
-          "Beyond Birth: Integrating Maternal Mental Health into Every Stage of Care - adb.org",
-          "Cat Owners Beware: The Strange Mental Health Link Experts Are Now Exposing - Futura, le média qui explore le monde",
-          "Hayden Panettiere dies at 36: Net worth, personal life, and mental health battles - India Today"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "cancer",
-        "market_code": "IN",
-        "category": "Chronic Disease",
-        "score": 7,
-        "examples": [
-          "AI-powered “virtual patient” to advance personalised cancer treatment - healthcare-in-europe.com",
-          "AI-powered “virtual patient” to advance personalised cancer treatment - healthcare-in-europe.com",
-          "FDA Expands Clinical Trial Eligibility for Cancer Patients - oncologynewscentral.com"
-        ]
-      },
-      {
-        "trend": "hospital",
+        "trend": "medical research",
         "market_code": "IN",
         "category": "Asia Health",
-        "score": 6,
-        "examples": [
-          "Doximity bets big on hospital adoption of enterprise AI as it ramps up tech spending - Fierce Healthcare",
-          "What Is Lifestyle Medicine? - HSS | Hospital for Special Surgery",
-          "Wellstar Health System acquires 12th hospital, prepares to open another - chiefhealthcareexecutive.com"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "outbreak congo",
+        "trend": "drug approval",
         "market_code": "IN",
-        "category": "Outbreaks",
-        "score": 5,
-        "examples": [
-          "Ebola outbreak in DR Congo becomes deadliest in country’s history - Al Jazeera",
-          "Ebola outbreak in DR Congo now deadliest ever - France 24",
-          "Deadliest Ebola outbreak in D.R. Congo history - CNN"
-        ]
+        "category": "Drug & Treatment News",
+        "score": 1,
+        "examples": []
+      },
+      {
+        "trend": "diet wellness",
+        "market_code": "IN",
+        "category": "Diet & Wellness",
+        "score": 1,
+        "examples": []
       }
     ],
     "Australia": [
       {
-        "trend": "health",
+        "trend": "health alert",
         "market_code": "AU",
         "category": "Global Health",
-        "score": 48,
-        "examples": [
-          "Inquest into patient suicides hears hospital's mental health facility 'over capacity' - ABC News & Headlines – Australian Broadcasting Corporation",
-          "UNSW brain health pioneer joins national dementia awareness campaign - UNSW Sydney",
-          "Minns Labor Government invests $2.7m in women’s health, wellbeing and empowerment - NSW Government"
-        ]
-      },
-      {
-        "trend": "medical",
-        "market_code": "AU",
-        "category": "Global Health",
-        "score": 16,
-        "examples": [
-          "Brookvale medical centre emergency - Northern Beaches Advocate",
-          "Moombaki scholarship supports First Nations medical students - National Indigenous Times",
-          "National facility to deliver life-changing medical treatments and research - Murdoch University"
-        ]
-      },
-      {
-        "trend": "healthcare",
-        "market_code": "AU",
-        "category": "Global Health",
-        "score": 14,
-        "examples": [
-          "Top 3 benefits of aerobic and strength training for chronic disease prevention - Hospital + Healthcare",
-          "32-bed specialist private mental health hospital opens today - Hospital + Healthcare",
-          "AI Healthcare Stocks With Real Revenue For Australian Investors - simplywall.st"
-        ]
-      },
-      {
-        "trend": "virus",
-        "market_code": "AU",
-        "category": "Outbreaks",
-        "score": 14,
-        "examples": [
-          "EU health agency urges protection against West Nile virus - euractiv.com",
-          "What is the potentially deadly bluetongue virus in the UK? - BBC",
-          "Common carp relatives could help stop virus spreading - Lab + Life Scientist"
-        ]
-      },
-      {
-        "trend": "mental",
-        "market_code": "AU",
-        "category": "Mental Health",
-        "score": 11,
-        "examples": [
-          "Inquest into patient suicides hears hospital's mental health facility 'over capacity' - ABC News & Headlines – Australian Broadcasting Corporation",
-          "Specialist mental health nurses join Queensland EDs - Queensland Health",
-          "Advancing mental health at MinRes - Mineral Resources"
-        ]
-      },
-      {
-        "trend": "mental health",
-        "market_code": "AU",
-        "category": "Mental Health",
-        "score": 11,
-        "examples": [
-          "Inquest into patient suicides hears hospital's mental health facility 'over capacity' - ABC News & Headlines – Australian Broadcasting Corporation",
-          "Specialist mental health nurses join Queensland EDs - Queensland Health",
-          "Advancing mental health at MinRes - Mineral Resources"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
         "trend": "outbreak",
         "market_code": "AU",
         "category": "Outbreaks",
-        "score": 11,
-        "examples": [
-          "Measles outbreak warning as 1.7 million Aussies go unprotected - Nine.com.au",
-          "Anthrax warning: Dead hippopotamus tests positive in Rutshuru territory of North Kivu, DRC - Outbreak News Today",
-          "Ebola outbreak in Democratic Republic of the Congo now deadliest in country’s history - The Guardian"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "ebola outbreak",
+        "trend": "mental health",
         "market_code": "AU",
-        "category": "Outbreaks",
-        "score": 9,
-        "examples": [
-          "Ebola outbreak in Democratic Republic of the Congo now deadliest in country’s history - The Guardian",
-          "Ebola outbreak in DR Congo becomes deadliest in country’s history - Al Jazeera",
-          "Deadliest Ebola outbreak in D.R. Congo history - CNN"
-        ]
+        "category": "Mental Health",
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "hospital",
+        "trend": "medical research",
         "market_code": "AU",
         "category": "Global Health",
-        "score": 8,
-        "examples": [
-          "Inquest into patient suicides hears hospital's mental health facility 'over capacity' - ABC News & Headlines – Australian Broadcasting Corporation",
-          "Inquest into patient suicides hears hospital's mental health facility 'over capacity' - ABC News & Headlines – Australian Broadcasting Corporation",
-          "Top 3 benefits of aerobic and strength training for chronic disease prevention - Hospital + Healthcare"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "warning",
+        "trend": "drug approval",
         "market_code": "AU",
-        "category": "Global Health",
-        "score": 6,
-        "examples": [
-          "newsGP - GPs’ red tape warning over proposed ‘bill shock’ reforms - Royal Australian College of General Practitioners (RACGP)",
-          "Measles outbreak warning as 1.7 million Aussies go unprotected - Nine.com.au",
-          "Minnesota Presses Judge To Reject Challenge To Warning Label Mandate 08/13/2026 - MediaPost"
-        ]
+        "category": "Drug & Treatment News",
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "cancer",
+        "trend": "diet wellness",
         "market_code": "AU",
-        "category": "Chronic Disease",
-        "score": 6,
-        "examples": [
-          "Don’t let our cancer data go down the drain - Health Services Daily",
-          "PolyU develops AI-powered virtual patient simulation system integrating multimodal data to advance personalized cancer treatment - eurekalert.org",
-          "FDA Expands Clinical Trial Eligibility for Cancer Patients - Oncology News Central"
-        ]
-      },
-      {
-        "trend": "nile virus",
-        "market_code": "AU",
-        "category": "Outbreaks",
-        "score": 6,
-        "examples": [
-          "EU health agency urges protection against West Nile virus - euractiv.com",
-          "EU health agency urges protection against West Nile virus - euractiv.com",
-          "Dutch blood donor diagnosed with West Nile virus; Likely contracted in the Netherlands - NL Times"
-        ]
+        "category": "Diet & Wellness",
+        "score": 1,
+        "examples": []
       }
     ],
     "Canada": [
       {
-        "trend": "health",
+        "trend": "health alert",
         "market_code": "CA",
         "category": "Global Health",
-        "score": 41,
-        "examples": [
-          "Surge in measles cases risks 'horrific' health consequences: immunologist - CBC",
-          "UNESCO shares international experience to advance school health and nutrition in Viet Nam - Unesco",
-          "There’s a New Link Between Gut Health and Alzheimer’s Disease - WIRED"
-        ]
-      },
-      {
-        "trend": "medical",
-        "market_code": "CA",
-        "category": "Global Health",
-        "score": 16,
-        "examples": [
-          "Tilray Medical Accelerates the Commercial Expansion of Tilray Medical-Branded Cannabis Medicines in the UK with First Direct-to-Patient Launch Through Lyphe Clinic and Lyphe Dispensary - The Globe and Mail",
-          "Rheinmetall is supplying mobile medical stations to the Bundeswehr - rheinmetall.com",
-          "Health Canada & Medical Device Classes - Healthcare - Canada - Mondaq"
-        ]
-      },
-      {
-        "trend": "healthcare",
-        "market_code": "CA",
-        "category": "Global Health",
-        "score": 12,
-        "examples": [
-          "Health Canada & Medical Device Classes - Healthcare - Canada - Mondaq",
-          "3 AI Healthcare Stocks Helping Investors Find The Next Breakthrough In Cancer Care - simplywall.st",
-          "Patients Wary of Governments, Companies Pushing AI as a Rural Healthcare Solution - KFF Health News"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
         "trend": "outbreak",
         "market_code": "CA",
         "category": "Outbreaks",
-        "score": 12,
-        "examples": [
-          "Anthrax warning: Dead hippopotamus tests positive in Rutshuru territory of North Kivu, DRC - Outbreak News Today",
-          "Ebola outbreak in DR Congo now deadliest ever - France 24",
-          "Deadliest Ebola outbreak in D.R. Congo history - CNN"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "virus",
-        "market_code": "CA",
-        "category": "Outbreaks",
-        "score": 11,
-        "examples": [
-          "EU health agency urges protection against West Nile virus - euractiv.com",
-          "EU health agency urges protection against West Nile virus - euractiv.com",
-          "First cow tests positive for bluetongue virus in Scotland - BBC"
-        ]
-      },
-      {
-        "trend": "ebola outbreak",
-        "market_code": "CA",
-        "category": "Outbreaks",
-        "score": 11,
-        "examples": [
-          "Ebola outbreak in DR Congo now deadliest ever - France 24",
-          "Deadliest Ebola outbreak in D.R. Congo history - CNN",
-          "Ebola outbreak in DR Congo becomes deadliest in country’s history - Al Jazeera"
-        ]
-      },
-      {
-        "trend": "nile virus",
-        "market_code": "CA",
-        "category": "Outbreaks",
-        "score": 9,
-        "examples": [
-          "EU health agency urges protection against West Nile virus - euractiv.com",
-          "EU health agency urges protection against West Nile virus - euractiv.com",
-          "Dutch blood donor diagnosed with West Nile virus; Likely contracted in the Netherlands - NL Times"
-        ]
-      },
-      {
-        "trend": "west nile virus",
-        "market_code": "CA",
-        "category": "Outbreaks",
-        "score": 9,
-        "examples": [
-          "EU health agency urges protection against West Nile virus - euractiv.com",
-          "EU health agency urges protection against West Nile virus - euractiv.com",
-          "Dutch blood donor diagnosed with West Nile virus; Likely contracted in the Netherlands - NL Times"
-        ]
-      },
-      {
-        "trend": "mental",
+        "trend": "mental health",
         "market_code": "CA",
         "category": "Mental Health",
-        "score": 7,
-        "examples": [
-          "Cat Owners Beware: The Strange Mental Health Link Experts Are Now Exposing - Futura, le média qui explore le monde",
-          "Cat Owners Beware: The Strange Mental Health Link Experts Are Now Exposing - Futura, le média qui explore le monde",
-          "Hollywood star Selena Gomez gets slapped with suit over sinking of mental health startup - Canadian Lawyer"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "outbreak congo",
+        "trend": "medical research",
         "market_code": "CA",
-        "category": "Outbreaks",
-        "score": 7,
-        "examples": [
-          "Ebola outbreak in DR Congo now deadliest ever - France 24",
-          "Deadliest Ebola outbreak in D.R. Congo history - CNN",
-          "Ebola outbreak in DR Congo becomes deadliest in country’s history - Al Jazeera"
-        ]
+        "category": "Global Health",
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "ebola outbreak congo",
+        "trend": "drug approval",
         "market_code": "CA",
-        "category": "Outbreaks",
-        "score": 7,
-        "examples": [
-          "Ebola outbreak in DR Congo now deadliest ever - France 24",
-          "Deadliest Ebola outbreak in D.R. Congo history - CNN",
-          "Ebola outbreak in DR Congo becomes deadliest in country’s history - Al Jazeera"
-        ]
+        "category": "Drug & Treatment News",
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "cancer",
+        "trend": "diet wellness",
         "market_code": "CA",
-        "category": "Chronic Disease",
-        "score": 7,
-        "examples": [
-          "3 AI Healthcare Stocks Helping Investors Find The Next Breakthrough In Cancer Care - simplywall.st",
-          "PolyU develops AI-powered virtual patient simulation system integrating multimodal data to advance personalized cancer treatment - EurekAlert!",
-          "FDA Expands Clinical Trial Eligibility for Cancer Patients - Oncology News Central"
-        ]
+        "category": "Diet & Wellness",
+        "score": 1,
+        "examples": []
       }
     ],
     "United Arab Emirates": [
       {
-        "trend": "health",
+        "trend": "health alert",
         "market_code": "AE",
         "category": "Arab Health",
-        "score": 53,
-        "examples": [
-          "There’s a New Link Between Gut Health and Alzheimer’s Disease - WIRED",
-          "Workplace habit changes can improve your overall health - UKNow",
-          "The national focus on politicians' health is making its way into the Oklahoma GOP race for governor - Oklahoma Voice"
-        ]
-      },
-      {
-        "trend": "medical",
-        "market_code": "AE",
-        "category": "Arab Health",
-        "score": 17,
-        "examples": [
-          "A decade after settlement, medical care still falls short at Baltimore jail - Maryland Matters",
-          "How to manage impostor phenomenon as a 1st-year medical student - American Medical Association | AMA",
-          "How to manage impostor phenomenon as a 1st-year medical student - American Medical Association | AMA"
-        ]
-      },
-      {
-        "trend": "healthcare",
-        "market_code": "AE",
-        "category": "Arab Health",
-        "score": 15,
-        "examples": [
-          "‘A game changer’: UHS closes $835M Talkspace acquisition - Healthcare Dive",
-          "Patients Wary of Governments, Companies Pushing AI as a Rural Healthcare Solution - KFF Health News",
-          "Abridge expands AI decision support to more clinicians in bid to become healthcare's copilot - Fierce Healthcare"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
         "trend": "outbreak",
         "market_code": "AE",
         "category": "Outbreaks",
-        "score": 12,
-        "examples": [
-          "Michigan’s cyclosporiasis cases near 14,000 as outbreak continues - Michigan Advance",
-          "Deadliest Ebola outbreak in D.R. Congo history - CNN",
-          "Ebola outbreak in DR Congo now deadliest ever - france24.com"
-        ]
-      },
-      {
-        "trend": "mental",
-        "market_code": "AE",
-        "category": "Mental Health",
-        "score": 9,
-        "examples": [
-          "U.S. commander calls mental health a priority after he visits USS Lincoln - The Washington Post",
-          "U.S. commander calls mental health a priority after he visits USS Lincoln - The Washington Post",
-          "Selena Gomez and her mom accused of fraud over their mental health startup - nbcnews.com"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
         "trend": "mental health",
         "market_code": "AE",
         "category": "Mental Health",
-        "score": 9,
-        "examples": [
-          "U.S. commander calls mental health a priority after he visits USS Lincoln - The Washington Post",
-          "U.S. commander calls mental health a priority after he visits USS Lincoln - The Washington Post",
-          "Selena Gomez and her mom accused of fraud over their mental health startup - nbcnews.com"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "hospitals",
+        "trend": "medical research",
         "market_code": "AE",
         "category": "Arab Health",
-        "score": 8,
-        "examples": [
-          "Hospitals Say They Found a Tool to Help Reduce Childbirth Risks: Wristbands - The Good Men Project",
-          "‘Horrific’ conditions grip U.K. hospitals unprepared for heat - The Japan Times",
-          "3 north Alabama hospitals recognized for 0 MRSA infection rate - WHNT.com"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "ebola outbreak",
+        "trend": "drug approval",
         "market_code": "AE",
-        "category": "Outbreaks",
-        "score": 8,
-        "examples": [
-          "Deadliest Ebola outbreak in D.R. Congo history - CNN",
-          "Ebola outbreak in DR Congo now deadliest ever - france24.com",
-          "Ebola outbreak in DR Congo becomes deadliest in country’s history - Al Jazeera"
-        ]
+        "category": "Drug & Treatment News",
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "virus",
+        "trend": "diet wellness",
         "market_code": "AE",
-        "category": "Outbreaks",
-        "score": 7,
-        "examples": [
-          "What is the potentially deadly bluetongue virus in the UK? - BBC",
-          "St. Louis Encephalitis virus detected in Kingsville mosquito pool, prompting city-wide spraying operation - KRIS 6 News Corpus Christi",
-          "Greek Health Service Urges Additional Vigilance Regarding West Nile Virus - The National Herald"
-        ]
-      },
-      {
-        "trend": "hospital",
-        "market_code": "AE",
-        "category": "Arab Health",
-        "score": 6,
-        "examples": [
-          "In Idaho, an insurer says health care costs may rise after hospital taps Congress’s billing tool - Idaho Capital Sun",
-          "In Idaho, an insurer says health care costs may rise after hospital taps Congress’s billing tool - Idaho Capital Sun",
-          "What Is Lifestyle Medicine? - HSS | Hospital for Special Surgery"
-        ]
-      },
-      {
-        "trend": "warning",
-        "market_code": "AE",
-        "category": "Arab Health",
-        "score": 6,
-        "examples": [
-          "Minnesota Presses Judge To Reject Challenge To Warning Label Mandate 08/13/2026 - mediapost.com",
-          "Health officials' floodwater warning, YWCA seeks donations, Fauci contempt vote: Sunrise Brief - WTKR",
-          "Deep cracks in wooden spatula spark blunt warning: 'You can't make it food safe again' - The Cool Down"
-        ]
-      },
-      {
-        "trend": "cancer",
-        "market_code": "AE",
-        "category": "Chronic Disease",
-        "score": 6,
-        "examples": [
-          "FDA Expands Clinical Trial Eligibility for Cancer Patients - Oncology News Central",
-          "FDA Expands Approval of Pluvicto® for Metastatic Prostate Cancer: Targets a Protein Called PSMA - Memorial Sloan Kettering Cancer Center",
-          "FDA Expands Approval of Pluvicto® for Metastatic Prostate Cancer: Targets a Protein Called PSMA - Memorial Sloan Kettering Cancer Center"
-        ]
+        "category": "Diet & Wellness",
+        "score": 1,
+        "examples": []
       }
     ],
     "Saudi Arabia": [
       {
-        "trend": "health",
+        "trend": "health alert",
         "market_code": "SA",
         "category": "Arab Health",
-        "score": 53,
-        "examples": [
-          "There’s a New Link Between Gut Health and Alzheimer’s Disease - WIRED",
-          "Workplace habit changes can improve your overall health - UKNow",
-          "The national focus on politicians' health is making its way into the Oklahoma GOP race for governor - Oklahoma Voice"
-        ]
-      },
-      {
-        "trend": "medical",
-        "market_code": "SA",
-        "category": "Arab Health",
-        "score": 17,
-        "examples": [
-          "A decade after settlement, medical care still falls short at Baltimore jail - Maryland Matters",
-          "How to manage impostor phenomenon as a 1st-year medical student - American Medical Association | AMA",
-          "How to manage impostor phenomenon as a 1st-year medical student - American Medical Association | AMA"
-        ]
-      },
-      {
-        "trend": "healthcare",
-        "market_code": "SA",
-        "category": "Arab Health",
-        "score": 15,
-        "examples": [
-          "‘A game changer’: UHS closes $835M Talkspace acquisition - Healthcare Dive",
-          "Patients Wary of Governments, Companies Pushing AI as a Rural Healthcare Solution - KFF Health News",
-          "Abridge expands AI decision support to more clinicians in bid to become healthcare's copilot - Fierce Healthcare"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
         "trend": "outbreak",
         "market_code": "SA",
         "category": "Outbreaks",
-        "score": 12,
-        "examples": [
-          "Michigan’s cyclosporiasis cases near 14,000 as outbreak continues - Michigan Advance",
-          "Deadliest Ebola outbreak in D.R. Congo history - CNN",
-          "Ebola outbreak in DR Congo now deadliest ever - france24.com"
-        ]
-      },
-      {
-        "trend": "mental",
-        "market_code": "SA",
-        "category": "Mental Health",
-        "score": 9,
-        "examples": [
-          "U.S. commander calls mental health a priority after he visits USS Lincoln - The Washington Post",
-          "U.S. commander calls mental health a priority after he visits USS Lincoln - The Washington Post",
-          "Selena Gomez and her mom accused of fraud over their mental health startup - nbcnews.com"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
         "trend": "mental health",
         "market_code": "SA",
         "category": "Mental Health",
-        "score": 9,
-        "examples": [
-          "U.S. commander calls mental health a priority after he visits USS Lincoln - The Washington Post",
-          "U.S. commander calls mental health a priority after he visits USS Lincoln - The Washington Post",
-          "Selena Gomez and her mom accused of fraud over their mental health startup - nbcnews.com"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "hospitals",
+        "trend": "medical research",
         "market_code": "SA",
         "category": "Arab Health",
-        "score": 8,
-        "examples": [
-          "Hospitals Say They Found a Tool to Help Reduce Childbirth Risks: Wristbands - The Good Men Project",
-          "‘Horrific’ conditions grip U.K. hospitals unprepared for heat - The Japan Times",
-          "3 north Alabama hospitals recognized for 0 MRSA infection rate - WHNT.com"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "ebola outbreak",
+        "trend": "drug approval",
         "market_code": "SA",
-        "category": "Outbreaks",
-        "score": 8,
-        "examples": [
-          "Deadliest Ebola outbreak in D.R. Congo history - CNN",
-          "Ebola outbreak in DR Congo now deadliest ever - france24.com",
-          "Ebola outbreak in DR Congo becomes deadliest in country’s history - Al Jazeera"
-        ]
+        "category": "Drug & Treatment News",
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "virus",
+        "trend": "diet wellness",
         "market_code": "SA",
-        "category": "Outbreaks",
-        "score": 7,
-        "examples": [
-          "What is the potentially deadly bluetongue virus in the UK? - BBC",
-          "St. Louis Encephalitis virus detected in Kingsville mosquito pool, prompting city-wide spraying operation - KRIS 6 News Corpus Christi",
-          "Greek Health Service Urges Additional Vigilance Regarding West Nile Virus - The National Herald"
-        ]
-      },
-      {
-        "trend": "hospital",
-        "market_code": "SA",
-        "category": "Arab Health",
-        "score": 6,
-        "examples": [
-          "In Idaho, an insurer says health care costs may rise after hospital taps Congress’s billing tool - Idaho Capital Sun",
-          "In Idaho, an insurer says health care costs may rise after hospital taps Congress’s billing tool - Idaho Capital Sun",
-          "What Is Lifestyle Medicine? - HSS | Hospital for Special Surgery"
-        ]
-      },
-      {
-        "trend": "warning",
-        "market_code": "SA",
-        "category": "Arab Health",
-        "score": 6,
-        "examples": [
-          "Minnesota Presses Judge To Reject Challenge To Warning Label Mandate 08/13/2026 - mediapost.com",
-          "Health officials' floodwater warning, YWCA seeks donations, Fauci contempt vote: Sunrise Brief - WTKR",
-          "Deep cracks in wooden spatula spark blunt warning: 'You can't make it food safe again' - The Cool Down"
-        ]
-      },
-      {
-        "trend": "cancer",
-        "market_code": "SA",
-        "category": "Chronic Disease",
-        "score": 6,
-        "examples": [
-          "FDA Expands Clinical Trial Eligibility for Cancer Patients - Oncology News Central",
-          "FDA Expands Approval of Pluvicto® for Metastatic Prostate Cancer: Targets a Protein Called PSMA - Memorial Sloan Kettering Cancer Center",
-          "FDA Expands Approval of Pluvicto® for Metastatic Prostate Cancer: Targets a Protein Called PSMA - Memorial Sloan Kettering Cancer Center"
-        ]
+        "category": "Diet & Wellness",
+        "score": 1,
+        "examples": []
       }
     ],
     "Qatar": [
       {
-        "trend": "health",
+        "trend": "health alert",
         "market_code": "QA",
         "category": "Arab Health",
-        "score": 53,
-        "examples": [
-          "There’s a New Link Between Gut Health and Alzheimer’s Disease - WIRED",
-          "Workplace habit changes can improve your overall health - UKNow",
-          "The national focus on politicians' health is making its way into the Oklahoma GOP race for governor - Oklahoma Voice"
-        ]
-      },
-      {
-        "trend": "medical",
-        "market_code": "QA",
-        "category": "Arab Health",
-        "score": 17,
-        "examples": [
-          "A decade after settlement, medical care still falls short at Baltimore jail - Maryland Matters",
-          "How to manage impostor phenomenon as a 1st-year medical student - American Medical Association | AMA",
-          "How to manage impostor phenomenon as a 1st-year medical student - American Medical Association | AMA"
-        ]
-      },
-      {
-        "trend": "healthcare",
-        "market_code": "QA",
-        "category": "Arab Health",
-        "score": 15,
-        "examples": [
-          "‘A game changer’: UHS closes $835M Talkspace acquisition - Healthcare Dive",
-          "Patients Wary of Governments, Companies Pushing AI as a Rural Healthcare Solution - KFF Health News",
-          "Abridge expands AI decision support to more clinicians in bid to become healthcare's copilot - Fierce Healthcare"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
         "trend": "outbreak",
         "market_code": "QA",
         "category": "Outbreaks",
-        "score": 12,
-        "examples": [
-          "Michigan’s cyclosporiasis cases near 14,000 as outbreak continues - Michigan Advance",
-          "Deadliest Ebola outbreak in D.R. Congo history - CNN",
-          "Ebola outbreak in DR Congo now deadliest ever - france24.com"
-        ]
-      },
-      {
-        "trend": "mental",
-        "market_code": "QA",
-        "category": "Mental Health",
-        "score": 9,
-        "examples": [
-          "U.S. commander calls mental health a priority after he visits USS Lincoln - The Washington Post",
-          "U.S. commander calls mental health a priority after he visits USS Lincoln - The Washington Post",
-          "Selena Gomez and her mom accused of fraud over their mental health startup - nbcnews.com"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
         "trend": "mental health",
         "market_code": "QA",
         "category": "Mental Health",
-        "score": 9,
-        "examples": [
-          "U.S. commander calls mental health a priority after he visits USS Lincoln - The Washington Post",
-          "U.S. commander calls mental health a priority after he visits USS Lincoln - The Washington Post",
-          "Selena Gomez and her mom accused of fraud over their mental health startup - nbcnews.com"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "hospitals",
+        "trend": "medical research",
         "market_code": "QA",
         "category": "Arab Health",
-        "score": 8,
-        "examples": [
-          "Hospitals Say They Found a Tool to Help Reduce Childbirth Risks: Wristbands - The Good Men Project",
-          "‘Horrific’ conditions grip U.K. hospitals unprepared for heat - The Japan Times",
-          "3 north Alabama hospitals recognized for 0 MRSA infection rate - WHNT.com"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "ebola outbreak",
+        "trend": "drug approval",
         "market_code": "QA",
-        "category": "Outbreaks",
-        "score": 8,
-        "examples": [
-          "Deadliest Ebola outbreak in D.R. Congo history - CNN",
-          "Ebola outbreak in DR Congo now deadliest ever - france24.com",
-          "Ebola outbreak in DR Congo becomes deadliest in country’s history - Al Jazeera"
-        ]
+        "category": "Drug & Treatment News",
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "virus",
+        "trend": "diet wellness",
         "market_code": "QA",
-        "category": "Outbreaks",
-        "score": 7,
-        "examples": [
-          "What is the potentially deadly bluetongue virus in the UK? - BBC",
-          "St. Louis Encephalitis virus detected in Kingsville mosquito pool, prompting city-wide spraying operation - KRIS 6 News Corpus Christi",
-          "Greek Health Service Urges Additional Vigilance Regarding West Nile Virus - The National Herald"
-        ]
-      },
-      {
-        "trend": "hospital",
-        "market_code": "QA",
-        "category": "Arab Health",
-        "score": 6,
-        "examples": [
-          "In Idaho, an insurer says health care costs may rise after hospital taps Congress’s billing tool - Idaho Capital Sun",
-          "In Idaho, an insurer says health care costs may rise after hospital taps Congress’s billing tool - Idaho Capital Sun",
-          "What Is Lifestyle Medicine? - HSS | Hospital for Special Surgery"
-        ]
-      },
-      {
-        "trend": "warning",
-        "market_code": "QA",
-        "category": "Arab Health",
-        "score": 6,
-        "examples": [
-          "Minnesota Presses Judge To Reject Challenge To Warning Label Mandate 08/13/2026 - mediapost.com",
-          "Health officials' floodwater warning, YWCA seeks donations, Fauci contempt vote: Sunrise Brief - WTKR",
-          "Deep cracks in wooden spatula spark blunt warning: 'You can't make it food safe again' - The Cool Down"
-        ]
-      },
-      {
-        "trend": "cancer",
-        "market_code": "QA",
-        "category": "Chronic Disease",
-        "score": 6,
-        "examples": [
-          "FDA Expands Clinical Trial Eligibility for Cancer Patients - Oncology News Central",
-          "FDA Expands Approval of Pluvicto® for Metastatic Prostate Cancer: Targets a Protein Called PSMA - Memorial Sloan Kettering Cancer Center",
-          "FDA Expands Approval of Pluvicto® for Metastatic Prostate Cancer: Targets a Protein Called PSMA - Memorial Sloan Kettering Cancer Center"
-        ]
+        "category": "Diet & Wellness",
+        "score": 1,
+        "examples": []
       }
     ],
     "Jordan": [
       {
-        "trend": "health",
+        "trend": "health alert",
         "market_code": "JO",
         "category": "Arab Health",
-        "score": 53,
-        "examples": [
-          "There’s a New Link Between Gut Health and Alzheimer’s Disease - WIRED",
-          "Workplace habit changes can improve your overall health - UKNow",
-          "The national focus on politicians' health is making its way into the Oklahoma GOP race for governor - Oklahoma Voice"
-        ]
-      },
-      {
-        "trend": "medical",
-        "market_code": "JO",
-        "category": "Arab Health",
-        "score": 17,
-        "examples": [
-          "A decade after settlement, medical care still falls short at Baltimore jail - Maryland Matters",
-          "How to manage impostor phenomenon as a 1st-year medical student - American Medical Association | AMA",
-          "How to manage impostor phenomenon as a 1st-year medical student - American Medical Association | AMA"
-        ]
-      },
-      {
-        "trend": "healthcare",
-        "market_code": "JO",
-        "category": "Arab Health",
-        "score": 15,
-        "examples": [
-          "‘A game changer’: UHS closes $835M Talkspace acquisition - Healthcare Dive",
-          "Patients Wary of Governments, Companies Pushing AI as a Rural Healthcare Solution - KFF Health News",
-          "Abridge expands AI decision support to more clinicians in bid to become healthcare's copilot - Fierce Healthcare"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
         "trend": "outbreak",
         "market_code": "JO",
         "category": "Outbreaks",
-        "score": 12,
-        "examples": [
-          "Michigan’s cyclosporiasis cases near 14,000 as outbreak continues - Michigan Advance",
-          "Deadliest Ebola outbreak in D.R. Congo history - CNN",
-          "Ebola outbreak in DR Congo now deadliest ever - france24.com"
-        ]
-      },
-      {
-        "trend": "mental",
-        "market_code": "JO",
-        "category": "Mental Health",
-        "score": 9,
-        "examples": [
-          "U.S. commander calls mental health a priority after he visits USS Lincoln - The Washington Post",
-          "U.S. commander calls mental health a priority after he visits USS Lincoln - The Washington Post",
-          "Selena Gomez and her mom accused of fraud over their mental health startup - nbcnews.com"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
         "trend": "mental health",
         "market_code": "JO",
         "category": "Mental Health",
-        "score": 9,
-        "examples": [
-          "U.S. commander calls mental health a priority after he visits USS Lincoln - The Washington Post",
-          "U.S. commander calls mental health a priority after he visits USS Lincoln - The Washington Post",
-          "Selena Gomez and her mom accused of fraud over their mental health startup - nbcnews.com"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "hospitals",
+        "trend": "medical research",
         "market_code": "JO",
         "category": "Arab Health",
-        "score": 8,
-        "examples": [
-          "Hospitals Say They Found a Tool to Help Reduce Childbirth Risks: Wristbands - The Good Men Project",
-          "‘Horrific’ conditions grip U.K. hospitals unprepared for heat - The Japan Times",
-          "3 north Alabama hospitals recognized for 0 MRSA infection rate - WHNT.com"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "ebola outbreak",
+        "trend": "drug approval",
         "market_code": "JO",
-        "category": "Outbreaks",
-        "score": 8,
-        "examples": [
-          "Deadliest Ebola outbreak in D.R. Congo history - CNN",
-          "Ebola outbreak in DR Congo now deadliest ever - france24.com",
-          "Ebola outbreak in DR Congo becomes deadliest in country’s history - Al Jazeera"
-        ]
+        "category": "Drug & Treatment News",
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "virus",
+        "trend": "diet wellness",
         "market_code": "JO",
-        "category": "Outbreaks",
-        "score": 7,
-        "examples": [
-          "What is the potentially deadly bluetongue virus in the UK? - BBC",
-          "St. Louis Encephalitis virus detected in Kingsville mosquito pool, prompting city-wide spraying operation - KRIS 6 News Corpus Christi",
-          "Greek Health Service Urges Additional Vigilance Regarding West Nile Virus - The National Herald"
-        ]
-      },
-      {
-        "trend": "hospital",
-        "market_code": "JO",
-        "category": "Arab Health",
-        "score": 6,
-        "examples": [
-          "In Idaho, an insurer says health care costs may rise after hospital taps Congress’s billing tool - Idaho Capital Sun",
-          "In Idaho, an insurer says health care costs may rise after hospital taps Congress’s billing tool - Idaho Capital Sun",
-          "What Is Lifestyle Medicine? - HSS | Hospital for Special Surgery"
-        ]
-      },
-      {
-        "trend": "warning",
-        "market_code": "JO",
-        "category": "Arab Health",
-        "score": 6,
-        "examples": [
-          "Minnesota Presses Judge To Reject Challenge To Warning Label Mandate 08/13/2026 - mediapost.com",
-          "Health officials' floodwater warning, YWCA seeks donations, Fauci contempt vote: Sunrise Brief - WTKR",
-          "Deep cracks in wooden spatula spark blunt warning: 'You can't make it food safe again' - The Cool Down"
-        ]
-      },
-      {
-        "trend": "cancer",
-        "market_code": "JO",
-        "category": "Chronic Disease",
-        "score": 6,
-        "examples": [
-          "FDA Expands Clinical Trial Eligibility for Cancer Patients - Oncology News Central",
-          "FDA Expands Approval of Pluvicto® for Metastatic Prostate Cancer: Targets a Protein Called PSMA - Memorial Sloan Kettering Cancer Center",
-          "FDA Expands Approval of Pluvicto® for Metastatic Prostate Cancer: Targets a Protein Called PSMA - Memorial Sloan Kettering Cancer Center"
-        ]
+        "category": "Diet & Wellness",
+        "score": 1,
+        "examples": []
       }
     ],
     "Lebanon": [
       {
-        "trend": "health",
+        "trend": "health alert",
         "market_code": "LB",
         "category": "Arab Health",
-        "score": 53,
-        "examples": [
-          "There’s a New Link Between Gut Health and Alzheimer’s Disease - WIRED",
-          "Workplace habit changes can improve your overall health - UKNow",
-          "The national focus on politicians' health is making its way into the Oklahoma GOP race for governor - Oklahoma Voice"
-        ]
-      },
-      {
-        "trend": "medical",
-        "market_code": "LB",
-        "category": "Arab Health",
-        "score": 17,
-        "examples": [
-          "A decade after settlement, medical care still falls short at Baltimore jail - Maryland Matters",
-          "How to manage impostor phenomenon as a 1st-year medical student - American Medical Association | AMA",
-          "How to manage impostor phenomenon as a 1st-year medical student - American Medical Association | AMA"
-        ]
-      },
-      {
-        "trend": "healthcare",
-        "market_code": "LB",
-        "category": "Arab Health",
-        "score": 15,
-        "examples": [
-          "‘A game changer’: UHS closes $835M Talkspace acquisition - Healthcare Dive",
-          "Patients Wary of Governments, Companies Pushing AI as a Rural Healthcare Solution - KFF Health News",
-          "Abridge expands AI decision support to more clinicians in bid to become healthcare's copilot - Fierce Healthcare"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
         "trend": "outbreak",
         "market_code": "LB",
         "category": "Outbreaks",
-        "score": 12,
-        "examples": [
-          "Michigan’s cyclosporiasis cases near 14,000 as outbreak continues - Michigan Advance",
-          "Deadliest Ebola outbreak in D.R. Congo history - CNN",
-          "Ebola outbreak in DR Congo now deadliest ever - france24.com"
-        ]
-      },
-      {
-        "trend": "mental",
-        "market_code": "LB",
-        "category": "Mental Health",
-        "score": 9,
-        "examples": [
-          "U.S. commander calls mental health a priority after he visits USS Lincoln - The Washington Post",
-          "U.S. commander calls mental health a priority after he visits USS Lincoln - The Washington Post",
-          "Selena Gomez and her mom accused of fraud over their mental health startup - nbcnews.com"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
         "trend": "mental health",
         "market_code": "LB",
         "category": "Mental Health",
-        "score": 9,
-        "examples": [
-          "U.S. commander calls mental health a priority after he visits USS Lincoln - The Washington Post",
-          "U.S. commander calls mental health a priority after he visits USS Lincoln - The Washington Post",
-          "Selena Gomez and her mom accused of fraud over their mental health startup - nbcnews.com"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "hospitals",
+        "trend": "medical research",
         "market_code": "LB",
         "category": "Arab Health",
-        "score": 8,
-        "examples": [
-          "Hospitals Say They Found a Tool to Help Reduce Childbirth Risks: Wristbands - The Good Men Project",
-          "‘Horrific’ conditions grip U.K. hospitals unprepared for heat - The Japan Times",
-          "3 north Alabama hospitals recognized for 0 MRSA infection rate - WHNT.com"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "ebola outbreak",
+        "trend": "drug approval",
         "market_code": "LB",
-        "category": "Outbreaks",
-        "score": 8,
-        "examples": [
-          "Deadliest Ebola outbreak in D.R. Congo history - CNN",
-          "Ebola outbreak in DR Congo now deadliest ever - france24.com",
-          "Ebola outbreak in DR Congo becomes deadliest in country’s history - Al Jazeera"
-        ]
+        "category": "Drug & Treatment News",
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "virus",
+        "trend": "diet wellness",
         "market_code": "LB",
-        "category": "Outbreaks",
-        "score": 7,
-        "examples": [
-          "What is the potentially deadly bluetongue virus in the UK? - BBC",
-          "St. Louis Encephalitis virus detected in Kingsville mosquito pool, prompting city-wide spraying operation - KRIS 6 News Corpus Christi",
-          "Greek Health Service Urges Additional Vigilance Regarding West Nile Virus - The National Herald"
-        ]
-      },
-      {
-        "trend": "hospital",
-        "market_code": "LB",
-        "category": "Arab Health",
-        "score": 6,
-        "examples": [
-          "In Idaho, an insurer says health care costs may rise after hospital taps Congress’s billing tool - Idaho Capital Sun",
-          "In Idaho, an insurer says health care costs may rise after hospital taps Congress’s billing tool - Idaho Capital Sun",
-          "What Is Lifestyle Medicine? - HSS | Hospital for Special Surgery"
-        ]
-      },
-      {
-        "trend": "warning",
-        "market_code": "LB",
-        "category": "Arab Health",
-        "score": 6,
-        "examples": [
-          "Minnesota Presses Judge To Reject Challenge To Warning Label Mandate 08/13/2026 - mediapost.com",
-          "Health officials' floodwater warning, YWCA seeks donations, Fauci contempt vote: Sunrise Brief - WTKR",
-          "Deep cracks in wooden spatula spark blunt warning: 'You can't make it food safe again' - The Cool Down"
-        ]
-      },
-      {
-        "trend": "cancer",
-        "market_code": "LB",
-        "category": "Chronic Disease",
-        "score": 6,
-        "examples": [
-          "FDA Expands Clinical Trial Eligibility for Cancer Patients - Oncology News Central",
-          "FDA Expands Approval of Pluvicto® for Metastatic Prostate Cancer: Targets a Protein Called PSMA - Memorial Sloan Kettering Cancer Center",
-          "FDA Expands Approval of Pluvicto® for Metastatic Prostate Cancer: Targets a Protein Called PSMA - Memorial Sloan Kettering Cancer Center"
-        ]
+        "category": "Diet & Wellness",
+        "score": 1,
+        "examples": []
       }
     ]
   }
