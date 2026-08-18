@@ -1,929 +1,2819 @@
 {
-  "updated_at": "2026-08-17T19:02:49.113374+00:00",
-  "total_trends": 126,
+  "updated_at": "2026-08-18T00:27:39.436173+00:00",
+  "total_trends": 252,
   "markets": {
     "United States": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "US",
         "category": "US Health",
-        "score": 1,
-        "examples": []
+        "score": 66,
+        "examples": [
+          "Ventura County nurses and health care professionals to hold speak out to save Santa Paula Hospital - National Nurses United",
+          "Kentucky Gov. Beshear Says He's 'Heard Absolutely Nothing Back' About McConnell’s Health - Time Magazine",
+          "Cone Health Names Chief Value-Based Care Officer - Cone Health"
+        ]
       },
       {
-        "trend": "outbreak",
+        "trend": "healthcare",
         "market_code": "US",
-        "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "category": "US Health",
+        "score": 15,
+        "examples": [
+          "The Use of AI by Government Healthcare Agencies: Is It in the Public Interest? - Petrie-Flom Center",
+          "Patients Wary of Governments, Companies Pushing AI as a Rural Healthcare Solution - KFF Health News",
+          "Abridge expands AI decision support to more clinicians in bid to become healthcare's copilot - Fierce Healthcare"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "US",
+        "category": "Mental Health",
+        "score": 14,
+        "examples": [
+          "Oregon congresswoman proposes program to support first responder mental health - Oregon Capital Chronicle",
+          "A group of attorneys general is suing Meta over mental health risks for youths - npr.org",
+          "A group of attorneys general is suing Meta over mental health risks for youths - npr.org"
+        ]
+      },
+      {
+        "trend": "medical",
+        "market_code": "US",
+        "category": "US Health",
+        "score": 14,
+        "examples": [
+          "Here’s what we know about the police presence at Intermountain Medical Center - The Salt Lake Tribune",
+          "Intermountain Medical Center in Murray on restricted access, ambulances being diverted - ABC4 Utah",
+          "Reclassification eases taxes and banking for medical cannabis, but leaves state with questions - southdakotasearchlight.com"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "US",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
+        "score": 13,
+        "examples": [
+          "Oregon congresswoman proposes program to support first responder mental health - Oregon Capital Chronicle",
+          "A group of attorneys general is suing Meta over mental health risks for youths - npr.org",
+          "A group of attorneys general is suing Meta over mental health risks for youths - npr.org"
+        ]
       },
       {
-        "trend": "medical research",
+        "trend": "virus",
+        "market_code": "US",
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "Southwest Idaho resident contracts meningitis from West Nile Virus infection, health officials say - Idaho Capital Sun",
+          "West Nile virus activity spreads across San Joaquin County as positive mosquito samples climb to 74 - Stocktonia",
+          "Sutter County reports first human West Nile Virus case of the year - ABC10"
+        ]
+      },
+      {
+        "trend": "nile virus",
+        "market_code": "US",
+        "category": "Outbreaks",
+        "score": 8,
+        "examples": [
+          "Southwest Idaho resident contracts meningitis from West Nile Virus infection, health officials say - Idaho Capital Sun",
+          "West Nile virus activity spreads across San Joaquin County as positive mosquito samples climb to 74 - Stocktonia",
+          "Sutter County reports first human West Nile Virus case of the year - ABC10"
+        ]
+      },
+      {
+        "trend": "west nile virus",
+        "market_code": "US",
+        "category": "Outbreaks",
+        "score": 8,
+        "examples": [
+          "Southwest Idaho resident contracts meningitis from West Nile Virus infection, health officials say - Idaho Capital Sun",
+          "West Nile virus activity spreads across San Joaquin County as positive mosquito samples climb to 74 - Stocktonia",
+          "Sutter County reports first human West Nile Virus case of the year - ABC10"
+        ]
+      },
+      {
+        "trend": "public health",
         "market_code": "US",
         "category": "US Health",
-        "score": 1,
-        "examples": []
+        "score": 7,
+        "examples": [
+          "Public health investigation into tuberculosis at Aurora detention center at standstill as deadline looms - Colorado Public Radio",
+          "Lincoln’s wastewater is a public health gem; how is the health department using it? - KOLN | Nebraska Local News, Weather, Sports | Lincoln, NE",
+          "MPH student unravels complexities of public health at Fairfax County Health Department internship - George Mason University"
+        ]
       },
       {
-        "trend": "drug approval",
+        "trend": "outbreak",
         "market_code": "US",
-        "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
+        "category": "Outbreaks",
+        "score": 7,
+        "examples": [
+          "Department of Public Health confirms measles outbreak in Kentucky - WKYT",
+          "Ramona Salmonella Outbreak Grows - San Diego County News Center",
+          "Ebola outbreak now deadliest ever in DR Congo as death rate reaches 46% - CIDRAP"
+        ]
       },
       {
-        "trend": "diet wellness",
+        "trend": "infection",
         "market_code": "US",
-        "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "category": "Outbreaks",
+        "score": 7,
+        "examples": [
+          "White House Executive Order Reshapes Childhood Vaccine Recommendations, Drawing Public Health Concerns - Infection Control Today",
+          "Southwest Idaho resident contracts meningitis from West Nile Virus infection, health officials say - Idaho Capital Sun",
+          "Southwest Idaho resident contracts meningitis from West Nile Virus infection, health officials say - Idaho Capital Sun"
+        ]
+      },
+      {
+        "trend": "cancer",
+        "market_code": "US",
+        "category": "Chronic Disease",
+        "score": 6,
+        "examples": [
+          "Clara Maass Medical Center Attains National Accreditation from the American College of Surgeons Commission on Cancer - RWJBarnabas Health",
+          "FDA Expands Clinical Trial Eligibility for Cancer Patients - Oncology News Central",
+          "FDA Expands Approval of Pluvicto® for Metastatic Prostate Cancer: Targets a Protein Called PSMA - Memorial Sloan Kettering Cancer Center"
+        ]
       }
     ],
     "United Kingdom": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "GB",
         "category": "Europe Health",
-        "score": 1,
-        "examples": []
+        "score": 65,
+        "examples": [
+          "Attempts to improve public health undermined by food companies suing governments over health improving policies - Diabetes Research & Wellness Foundation",
+          "Attempts to improve public health undermined by food companies suing governments over health improving policies - Diabetes Research & Wellness Foundation",
+          "Could our sleep reveal clues to brain health and longevity? Q&A with Dr Abidemi Otaiku - Imperial College London"
+        ]
       },
       {
         "trend": "outbreak",
         "market_code": "GB",
         "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "score": 14,
+        "examples": [
+          "Health plea for children as hepatitis A outbreak in Barry continues - Wales Online",
+          "Ebola outbreak becomes DR Congo’s deadliest - Financial Times",
+          "What is Ebola and why is the outbreak in DRC causing so much concern? - The Guardian"
+        ]
+      },
+      {
+        "trend": "medical",
+        "market_code": "GB",
+        "category": "Europe Health",
+        "score": 13,
+        "examples": [
+          "Drivers can save up to 10 days by notifying DVLA of a medical condition online - gov.uk",
+          "Northumbria Healthcare staff support thousands during medical mission to Kenya - Northumbria Healthcare NHS Foundation Trust",
+          "Joel Piroe set for West Ham medical, Niclas Fullkrug close to Werder Bremen move - The New York Times"
+        ]
+      },
+      {
+        "trend": "healthcare",
+        "market_code": "GB",
+        "category": "Europe Health",
+        "score": 13,
+        "examples": [
+          "Northumbria Healthcare staff support thousands during medical mission to Kenya - Northumbria Healthcare NHS Foundation Trust",
+          "Northumbria Healthcare staff support thousands during medical mission to Kenya - Northumbria Healthcare NHS Foundation Trust",
+          "AI will be better than doctors at some medical tasks, healthcare and VC experts predict - Endpoints News"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "GB",
+        "category": "Mental Health",
+        "score": 12,
+        "examples": [
+          "Warnings about Jason Arday’s mental health were ignored by the press - Good Law Project",
+          "The Centre and the Coalition respond to the tragic death of Professor Jason Arday - Centre for Mental Health",
+          "A group of attorneys general is suing Meta over mental health risks for youths - NPR"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "GB",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
+        "score": 12,
+        "examples": [
+          "Warnings about Jason Arday’s mental health were ignored by the press - Good Law Project",
+          "The Centre and the Coalition respond to the tragic death of Professor Jason Arday - Centre for Mental Health",
+          "A group of attorneys general is suing Meta over mental health risks for youths - NPR"
+        ]
       },
       {
-        "trend": "medical research",
+        "trend": "virus",
+        "market_code": "GB",
+        "category": "Outbreaks",
+        "score": 10,
+        "examples": [
+          "What is the potentially deadly bluetongue virus in the UK? - BBC",
+          "As Ebola kills thousands in DRC, a perfect storm is making the virus hard to stop | Devi Sridhar - The Guardian",
+          "Victory in sight in battle against blood virus - Cambridge University Hospitals"
+        ]
+      },
+      {
+        "trend": "warning",
         "market_code": "GB",
         "category": "Europe Health",
-        "score": 1,
-        "examples": []
+        "score": 9,
+        "examples": [
+          "Yellow heat health warning issued after heatwave - AOL.com",
+          "Fresh UK heat health alerts in place for 61 hours amid 'rise in deaths' warning - AOL.co.uk",
+          "Sepsis and deterioration: are early warning systems being misused? - RCNi"
+        ]
       },
       {
-        "trend": "drug approval",
+        "trend": "ebola outbreak",
+        "market_code": "GB",
+        "category": "Outbreaks",
+        "score": 8,
+        "examples": [
+          "Ebola outbreak becomes DR Congo’s deadliest - Financial Times",
+          "What is Ebola and why is the outbreak in DRC causing so much concern? - The Guardian",
+          "Ebola outbreak in DR Congo becomes deadliest in its history - BBC"
+        ]
+      },
+      {
+        "trend": "vaccine",
         "market_code": "GB",
         "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
+        "score": 6,
+        "examples": [
+          "FDA fast-tracks experimental vaccine aiming to slow early Parkinson’s - parkinsonsnewstoday.com",
+          "RNA researcher on F.D.A. approval of first mRNA influenza vaccine - UC Santa Cruz - News",
+          "TB Vaccine Pipeline Enters Most Promising Phase in Decades - Medscape"
+        ]
       },
       {
-        "trend": "diet wellness",
+        "trend": "hospital",
+        "market_code": "GB",
+        "category": "Europe Health",
+        "score": 5,
+        "examples": [
+          "NW200 warning 'intensified pressure' over Causeway Hospital emergency surgery, says UNISON, as UUP leader says he 'does not agree' with Trust recommendation - northernirelandworld.com",
+          "Man took own life after hospital medication delay - BBC",
+          "What Is Lifestyle Medicine? - HSS | Hospital for Special Surgery"
+        ]
+      },
+      {
+        "trend": "wellness",
         "market_code": "GB",
         "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "score": 4,
+        "examples": [
+          "Attempts to improve public health undermined by food companies suing governments over health improving policies - Diabetes Research & Wellness Foundation",
+          "Attempts to improve public health undermined by food companies suing governments over health improving policies - Diabetes Research & Wellness Foundation",
+          "Wellness Without the Hype: A More Thoughtful Approach to Everyday Nutrition - Splash Magazines Worldwide"
+        ]
       }
     ],
     "Germany": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "DE",
         "category": "Europe Health",
-        "score": 1,
-        "examples": []
+        "score": 66,
+        "examples": [
+          "Ventura County nurses and health care professionals to hold speak out to save Santa Paula Hospital - National Nurses United",
+          "Kentucky Gov. Beshear Says He's 'Heard Absolutely Nothing Back' About McConnell’s Health - Time Magazine",
+          "Cone Health Names Chief Value-Based Care Officer - Cone Health"
+        ]
       },
       {
-        "trend": "outbreak",
+        "trend": "healthcare",
         "market_code": "DE",
-        "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "category": "Europe Health",
+        "score": 15,
+        "examples": [
+          "The Use of AI by Government Healthcare Agencies: Is It in the Public Interest? - Petrie-Flom Center",
+          "Patients Wary of Governments, Companies Pushing AI as a Rural Healthcare Solution - KFF Health News",
+          "Abridge expands AI decision support to more clinicians in bid to become healthcare's copilot - Fierce Healthcare"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "DE",
+        "category": "Mental Health",
+        "score": 14,
+        "examples": [
+          "Oregon congresswoman proposes program to support first responder mental health - Oregon Capital Chronicle",
+          "A group of attorneys general is suing Meta over mental health risks for youths - npr.org",
+          "A group of attorneys general is suing Meta over mental health risks for youths - npr.org"
+        ]
+      },
+      {
+        "trend": "medical",
+        "market_code": "DE",
+        "category": "Europe Health",
+        "score": 14,
+        "examples": [
+          "Here’s what we know about the police presence at Intermountain Medical Center - The Salt Lake Tribune",
+          "Intermountain Medical Center in Murray on restricted access, ambulances being diverted - ABC4 Utah",
+          "Reclassification eases taxes and banking for medical cannabis, but leaves state with questions - southdakotasearchlight.com"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "DE",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
+        "score": 13,
+        "examples": [
+          "Oregon congresswoman proposes program to support first responder mental health - Oregon Capital Chronicle",
+          "A group of attorneys general is suing Meta over mental health risks for youths - npr.org",
+          "A group of attorneys general is suing Meta over mental health risks for youths - npr.org"
+        ]
       },
       {
-        "trend": "medical research",
+        "trend": "virus",
+        "market_code": "DE",
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "Southwest Idaho resident contracts meningitis from West Nile Virus infection, health officials say - Idaho Capital Sun",
+          "West Nile virus activity spreads across San Joaquin County as positive mosquito samples climb to 74 - Stocktonia",
+          "Sutter County reports first human West Nile Virus case of the year - ABC10"
+        ]
+      },
+      {
+        "trend": "nile virus",
+        "market_code": "DE",
+        "category": "Outbreaks",
+        "score": 8,
+        "examples": [
+          "Southwest Idaho resident contracts meningitis from West Nile Virus infection, health officials say - Idaho Capital Sun",
+          "West Nile virus activity spreads across San Joaquin County as positive mosquito samples climb to 74 - Stocktonia",
+          "Sutter County reports first human West Nile Virus case of the year - ABC10"
+        ]
+      },
+      {
+        "trend": "west nile virus",
+        "market_code": "DE",
+        "category": "Outbreaks",
+        "score": 8,
+        "examples": [
+          "Southwest Idaho resident contracts meningitis from West Nile Virus infection, health officials say - Idaho Capital Sun",
+          "West Nile virus activity spreads across San Joaquin County as positive mosquito samples climb to 74 - Stocktonia",
+          "Sutter County reports first human West Nile Virus case of the year - ABC10"
+        ]
+      },
+      {
+        "trend": "public health",
         "market_code": "DE",
         "category": "Europe Health",
-        "score": 1,
-        "examples": []
+        "score": 7,
+        "examples": [
+          "Public health investigation into tuberculosis at Aurora detention center at standstill as deadline looms - Colorado Public Radio",
+          "Lincoln’s wastewater is a public health gem; how is the health department using it? - KOLN | Nebraska Local News, Weather, Sports | Lincoln, NE",
+          "MPH student unravels complexities of public health at Fairfax County Health Department internship - George Mason University"
+        ]
       },
       {
-        "trend": "drug approval",
+        "trend": "outbreak",
         "market_code": "DE",
-        "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
+        "category": "Outbreaks",
+        "score": 7,
+        "examples": [
+          "Department of Public Health confirms measles outbreak in Kentucky - WKYT",
+          "Ramona Salmonella Outbreak Grows - San Diego County News Center",
+          "Ebola outbreak now deadliest ever in DR Congo as death rate reaches 46% - CIDRAP"
+        ]
       },
       {
-        "trend": "diet wellness",
+        "trend": "infection",
         "market_code": "DE",
-        "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "category": "Outbreaks",
+        "score": 7,
+        "examples": [
+          "White House Executive Order Reshapes Childhood Vaccine Recommendations, Drawing Public Health Concerns - Infection Control Today",
+          "Southwest Idaho resident contracts meningitis from West Nile Virus infection, health officials say - Idaho Capital Sun",
+          "Southwest Idaho resident contracts meningitis from West Nile Virus infection, health officials say - Idaho Capital Sun"
+        ]
+      },
+      {
+        "trend": "cancer",
+        "market_code": "DE",
+        "category": "Chronic Disease",
+        "score": 6,
+        "examples": [
+          "Clara Maass Medical Center Attains National Accreditation from the American College of Surgeons Commission on Cancer - RWJBarnabas Health",
+          "FDA Expands Clinical Trial Eligibility for Cancer Patients - Oncology News Central",
+          "FDA Expands Approval of Pluvicto® for Metastatic Prostate Cancer: Targets a Protein Called PSMA - Memorial Sloan Kettering Cancer Center"
+        ]
       }
     ],
     "France": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "FR",
         "category": "Europe Health",
-        "score": 1,
-        "examples": []
+        "score": 66,
+        "examples": [
+          "Ventura County nurses and health care professionals to hold speak out to save Santa Paula Hospital - National Nurses United",
+          "Kentucky Gov. Beshear Says He's 'Heard Absolutely Nothing Back' About McConnell’s Health - Time Magazine",
+          "Cone Health Names Chief Value-Based Care Officer - Cone Health"
+        ]
       },
       {
-        "trend": "outbreak",
+        "trend": "healthcare",
         "market_code": "FR",
-        "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "category": "Europe Health",
+        "score": 15,
+        "examples": [
+          "The Use of AI by Government Healthcare Agencies: Is It in the Public Interest? - Petrie-Flom Center",
+          "Patients Wary of Governments, Companies Pushing AI as a Rural Healthcare Solution - KFF Health News",
+          "Abridge expands AI decision support to more clinicians in bid to become healthcare's copilot - Fierce Healthcare"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "FR",
+        "category": "Mental Health",
+        "score": 14,
+        "examples": [
+          "Oregon congresswoman proposes program to support first responder mental health - Oregon Capital Chronicle",
+          "A group of attorneys general is suing Meta over mental health risks for youths - npr.org",
+          "A group of attorneys general is suing Meta over mental health risks for youths - npr.org"
+        ]
+      },
+      {
+        "trend": "medical",
+        "market_code": "FR",
+        "category": "Europe Health",
+        "score": 14,
+        "examples": [
+          "Here’s what we know about the police presence at Intermountain Medical Center - The Salt Lake Tribune",
+          "Intermountain Medical Center in Murray on restricted access, ambulances being diverted - ABC4 Utah",
+          "Reclassification eases taxes and banking for medical cannabis, but leaves state with questions - southdakotasearchlight.com"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "FR",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
+        "score": 13,
+        "examples": [
+          "Oregon congresswoman proposes program to support first responder mental health - Oregon Capital Chronicle",
+          "A group of attorneys general is suing Meta over mental health risks for youths - npr.org",
+          "A group of attorneys general is suing Meta over mental health risks for youths - npr.org"
+        ]
       },
       {
-        "trend": "medical research",
+        "trend": "virus",
+        "market_code": "FR",
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "Southwest Idaho resident contracts meningitis from West Nile Virus infection, health officials say - Idaho Capital Sun",
+          "West Nile virus activity spreads across San Joaquin County as positive mosquito samples climb to 74 - Stocktonia",
+          "Sutter County reports first human West Nile Virus case of the year - ABC10"
+        ]
+      },
+      {
+        "trend": "nile virus",
+        "market_code": "FR",
+        "category": "Outbreaks",
+        "score": 8,
+        "examples": [
+          "Southwest Idaho resident contracts meningitis from West Nile Virus infection, health officials say - Idaho Capital Sun",
+          "West Nile virus activity spreads across San Joaquin County as positive mosquito samples climb to 74 - Stocktonia",
+          "Sutter County reports first human West Nile Virus case of the year - ABC10"
+        ]
+      },
+      {
+        "trend": "west nile virus",
+        "market_code": "FR",
+        "category": "Outbreaks",
+        "score": 8,
+        "examples": [
+          "Southwest Idaho resident contracts meningitis from West Nile Virus infection, health officials say - Idaho Capital Sun",
+          "West Nile virus activity spreads across San Joaquin County as positive mosquito samples climb to 74 - Stocktonia",
+          "Sutter County reports first human West Nile Virus case of the year - ABC10"
+        ]
+      },
+      {
+        "trend": "public health",
         "market_code": "FR",
         "category": "Europe Health",
-        "score": 1,
-        "examples": []
+        "score": 7,
+        "examples": [
+          "Public health investigation into tuberculosis at Aurora detention center at standstill as deadline looms - Colorado Public Radio",
+          "Lincoln’s wastewater is a public health gem; how is the health department using it? - KOLN | Nebraska Local News, Weather, Sports | Lincoln, NE",
+          "MPH student unravels complexities of public health at Fairfax County Health Department internship - George Mason University"
+        ]
       },
       {
-        "trend": "drug approval",
+        "trend": "outbreak",
         "market_code": "FR",
-        "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
+        "category": "Outbreaks",
+        "score": 7,
+        "examples": [
+          "Department of Public Health confirms measles outbreak in Kentucky - WKYT",
+          "Ramona Salmonella Outbreak Grows - San Diego County News Center",
+          "Ebola outbreak now deadliest ever in DR Congo as death rate reaches 46% - CIDRAP"
+        ]
       },
       {
-        "trend": "diet wellness",
+        "trend": "infection",
         "market_code": "FR",
-        "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "category": "Outbreaks",
+        "score": 7,
+        "examples": [
+          "White House Executive Order Reshapes Childhood Vaccine Recommendations, Drawing Public Health Concerns - Infection Control Today",
+          "Southwest Idaho resident contracts meningitis from West Nile Virus infection, health officials say - Idaho Capital Sun",
+          "Southwest Idaho resident contracts meningitis from West Nile Virus infection, health officials say - Idaho Capital Sun"
+        ]
+      },
+      {
+        "trend": "cancer",
+        "market_code": "FR",
+        "category": "Chronic Disease",
+        "score": 6,
+        "examples": [
+          "Clara Maass Medical Center Attains National Accreditation from the American College of Surgeons Commission on Cancer - RWJBarnabas Health",
+          "FDA Expands Clinical Trial Eligibility for Cancer Patients - Oncology News Central",
+          "FDA Expands Approval of Pluvicto® for Metastatic Prostate Cancer: Targets a Protein Called PSMA - Memorial Sloan Kettering Cancer Center"
+        ]
       }
     ],
     "Italy": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "IT",
         "category": "Europe Health",
-        "score": 1,
-        "examples": []
+        "score": 66,
+        "examples": [
+          "Ventura County nurses and health care professionals to hold speak out to save Santa Paula Hospital - National Nurses United",
+          "Kentucky Gov. Beshear Says He's 'Heard Absolutely Nothing Back' About McConnell’s Health - Time Magazine",
+          "Cone Health Names Chief Value-Based Care Officer - Cone Health"
+        ]
       },
       {
-        "trend": "outbreak",
+        "trend": "healthcare",
         "market_code": "IT",
-        "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "category": "Europe Health",
+        "score": 15,
+        "examples": [
+          "The Use of AI by Government Healthcare Agencies: Is It in the Public Interest? - Petrie-Flom Center",
+          "Patients Wary of Governments, Companies Pushing AI as a Rural Healthcare Solution - KFF Health News",
+          "Abridge expands AI decision support to more clinicians in bid to become healthcare's copilot - Fierce Healthcare"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "IT",
+        "category": "Mental Health",
+        "score": 14,
+        "examples": [
+          "Oregon congresswoman proposes program to support first responder mental health - Oregon Capital Chronicle",
+          "A group of attorneys general is suing Meta over mental health risks for youths - npr.org",
+          "A group of attorneys general is suing Meta over mental health risks for youths - npr.org"
+        ]
+      },
+      {
+        "trend": "medical",
+        "market_code": "IT",
+        "category": "Europe Health",
+        "score": 14,
+        "examples": [
+          "Here’s what we know about the police presence at Intermountain Medical Center - The Salt Lake Tribune",
+          "Intermountain Medical Center in Murray on restricted access, ambulances being diverted - ABC4 Utah",
+          "Reclassification eases taxes and banking for medical cannabis, but leaves state with questions - southdakotasearchlight.com"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "IT",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
+        "score": 13,
+        "examples": [
+          "Oregon congresswoman proposes program to support first responder mental health - Oregon Capital Chronicle",
+          "A group of attorneys general is suing Meta over mental health risks for youths - npr.org",
+          "A group of attorneys general is suing Meta over mental health risks for youths - npr.org"
+        ]
       },
       {
-        "trend": "medical research",
+        "trend": "virus",
+        "market_code": "IT",
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "Southwest Idaho resident contracts meningitis from West Nile Virus infection, health officials say - Idaho Capital Sun",
+          "West Nile virus activity spreads across San Joaquin County as positive mosquito samples climb to 74 - Stocktonia",
+          "Sutter County reports first human West Nile Virus case of the year - ABC10"
+        ]
+      },
+      {
+        "trend": "nile virus",
+        "market_code": "IT",
+        "category": "Outbreaks",
+        "score": 8,
+        "examples": [
+          "Southwest Idaho resident contracts meningitis from West Nile Virus infection, health officials say - Idaho Capital Sun",
+          "West Nile virus activity spreads across San Joaquin County as positive mosquito samples climb to 74 - Stocktonia",
+          "Sutter County reports first human West Nile Virus case of the year - ABC10"
+        ]
+      },
+      {
+        "trend": "west nile virus",
+        "market_code": "IT",
+        "category": "Outbreaks",
+        "score": 8,
+        "examples": [
+          "Southwest Idaho resident contracts meningitis from West Nile Virus infection, health officials say - Idaho Capital Sun",
+          "West Nile virus activity spreads across San Joaquin County as positive mosquito samples climb to 74 - Stocktonia",
+          "Sutter County reports first human West Nile Virus case of the year - ABC10"
+        ]
+      },
+      {
+        "trend": "public health",
         "market_code": "IT",
         "category": "Europe Health",
-        "score": 1,
-        "examples": []
+        "score": 7,
+        "examples": [
+          "Public health investigation into tuberculosis at Aurora detention center at standstill as deadline looms - Colorado Public Radio",
+          "Lincoln’s wastewater is a public health gem; how is the health department using it? - KOLN | Nebraska Local News, Weather, Sports | Lincoln, NE",
+          "MPH student unravels complexities of public health at Fairfax County Health Department internship - George Mason University"
+        ]
       },
       {
-        "trend": "drug approval",
+        "trend": "outbreak",
         "market_code": "IT",
-        "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
+        "category": "Outbreaks",
+        "score": 7,
+        "examples": [
+          "Department of Public Health confirms measles outbreak in Kentucky - WKYT",
+          "Ramona Salmonella Outbreak Grows - San Diego County News Center",
+          "Ebola outbreak now deadliest ever in DR Congo as death rate reaches 46% - CIDRAP"
+        ]
       },
       {
-        "trend": "diet wellness",
+        "trend": "infection",
         "market_code": "IT",
-        "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "category": "Outbreaks",
+        "score": 7,
+        "examples": [
+          "White House Executive Order Reshapes Childhood Vaccine Recommendations, Drawing Public Health Concerns - Infection Control Today",
+          "Southwest Idaho resident contracts meningitis from West Nile Virus infection, health officials say - Idaho Capital Sun",
+          "Southwest Idaho resident contracts meningitis from West Nile Virus infection, health officials say - Idaho Capital Sun"
+        ]
+      },
+      {
+        "trend": "cancer",
+        "market_code": "IT",
+        "category": "Chronic Disease",
+        "score": 6,
+        "examples": [
+          "Clara Maass Medical Center Attains National Accreditation from the American College of Surgeons Commission on Cancer - RWJBarnabas Health",
+          "FDA Expands Clinical Trial Eligibility for Cancer Patients - Oncology News Central",
+          "FDA Expands Approval of Pluvicto® for Metastatic Prostate Cancer: Targets a Protein Called PSMA - Memorial Sloan Kettering Cancer Center"
+        ]
       }
     ],
     "Spain": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "ES",
         "category": "Europe Health",
-        "score": 1,
-        "examples": []
+        "score": 66,
+        "examples": [
+          "Ventura County nurses and health care professionals to hold speak out to save Santa Paula Hospital - National Nurses United",
+          "Kentucky Gov. Beshear Says He's 'Heard Absolutely Nothing Back' About McConnell’s Health - Time Magazine",
+          "Cone Health Names Chief Value-Based Care Officer - Cone Health"
+        ]
       },
       {
-        "trend": "outbreak",
+        "trend": "healthcare",
         "market_code": "ES",
-        "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "category": "Europe Health",
+        "score": 15,
+        "examples": [
+          "The Use of AI by Government Healthcare Agencies: Is It in the Public Interest? - Petrie-Flom Center",
+          "Patients Wary of Governments, Companies Pushing AI as a Rural Healthcare Solution - KFF Health News",
+          "Abridge expands AI decision support to more clinicians in bid to become healthcare's copilot - Fierce Healthcare"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "ES",
+        "category": "Mental Health",
+        "score": 14,
+        "examples": [
+          "Oregon congresswoman proposes program to support first responder mental health - Oregon Capital Chronicle",
+          "A group of attorneys general is suing Meta over mental health risks for youths - npr.org",
+          "A group of attorneys general is suing Meta over mental health risks for youths - npr.org"
+        ]
+      },
+      {
+        "trend": "medical",
+        "market_code": "ES",
+        "category": "Europe Health",
+        "score": 14,
+        "examples": [
+          "Here’s what we know about the police presence at Intermountain Medical Center - The Salt Lake Tribune",
+          "Intermountain Medical Center in Murray on restricted access, ambulances being diverted - ABC4 Utah",
+          "Reclassification eases taxes and banking for medical cannabis, but leaves state with questions - southdakotasearchlight.com"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "ES",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
+        "score": 13,
+        "examples": [
+          "Oregon congresswoman proposes program to support first responder mental health - Oregon Capital Chronicle",
+          "A group of attorneys general is suing Meta over mental health risks for youths - npr.org",
+          "A group of attorneys general is suing Meta over mental health risks for youths - npr.org"
+        ]
       },
       {
-        "trend": "medical research",
+        "trend": "virus",
+        "market_code": "ES",
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "Southwest Idaho resident contracts meningitis from West Nile Virus infection, health officials say - Idaho Capital Sun",
+          "West Nile virus activity spreads across San Joaquin County as positive mosquito samples climb to 74 - Stocktonia",
+          "Sutter County reports first human West Nile Virus case of the year - ABC10"
+        ]
+      },
+      {
+        "trend": "nile virus",
+        "market_code": "ES",
+        "category": "Outbreaks",
+        "score": 8,
+        "examples": [
+          "Southwest Idaho resident contracts meningitis from West Nile Virus infection, health officials say - Idaho Capital Sun",
+          "West Nile virus activity spreads across San Joaquin County as positive mosquito samples climb to 74 - Stocktonia",
+          "Sutter County reports first human West Nile Virus case of the year - ABC10"
+        ]
+      },
+      {
+        "trend": "west nile virus",
+        "market_code": "ES",
+        "category": "Outbreaks",
+        "score": 8,
+        "examples": [
+          "Southwest Idaho resident contracts meningitis from West Nile Virus infection, health officials say - Idaho Capital Sun",
+          "West Nile virus activity spreads across San Joaquin County as positive mosquito samples climb to 74 - Stocktonia",
+          "Sutter County reports first human West Nile Virus case of the year - ABC10"
+        ]
+      },
+      {
+        "trend": "public health",
         "market_code": "ES",
         "category": "Europe Health",
-        "score": 1,
-        "examples": []
+        "score": 7,
+        "examples": [
+          "Public health investigation into tuberculosis at Aurora detention center at standstill as deadline looms - Colorado Public Radio",
+          "Lincoln’s wastewater is a public health gem; how is the health department using it? - KOLN | Nebraska Local News, Weather, Sports | Lincoln, NE",
+          "MPH student unravels complexities of public health at Fairfax County Health Department internship - George Mason University"
+        ]
       },
       {
-        "trend": "drug approval",
+        "trend": "outbreak",
         "market_code": "ES",
-        "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
+        "category": "Outbreaks",
+        "score": 7,
+        "examples": [
+          "Department of Public Health confirms measles outbreak in Kentucky - WKYT",
+          "Ramona Salmonella Outbreak Grows - San Diego County News Center",
+          "Ebola outbreak now deadliest ever in DR Congo as death rate reaches 46% - CIDRAP"
+        ]
       },
       {
-        "trend": "diet wellness",
+        "trend": "infection",
         "market_code": "ES",
-        "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "category": "Outbreaks",
+        "score": 7,
+        "examples": [
+          "White House Executive Order Reshapes Childhood Vaccine Recommendations, Drawing Public Health Concerns - Infection Control Today",
+          "Southwest Idaho resident contracts meningitis from West Nile Virus infection, health officials say - Idaho Capital Sun",
+          "Southwest Idaho resident contracts meningitis from West Nile Virus infection, health officials say - Idaho Capital Sun"
+        ]
+      },
+      {
+        "trend": "cancer",
+        "market_code": "ES",
+        "category": "Chronic Disease",
+        "score": 6,
+        "examples": [
+          "Clara Maass Medical Center Attains National Accreditation from the American College of Surgeons Commission on Cancer - RWJBarnabas Health",
+          "FDA Expands Clinical Trial Eligibility for Cancer Patients - Oncology News Central",
+          "FDA Expands Approval of Pluvicto® for Metastatic Prostate Cancer: Targets a Protein Called PSMA - Memorial Sloan Kettering Cancer Center"
+        ]
       }
     ],
     "Sweden": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "SE",
         "category": "Europe Health",
-        "score": 1,
-        "examples": []
+        "score": 66,
+        "examples": [
+          "Ventura County nurses and health care professionals to hold speak out to save Santa Paula Hospital - National Nurses United",
+          "Kentucky Gov. Beshear Says He's 'Heard Absolutely Nothing Back' About McConnell’s Health - Time Magazine",
+          "Cone Health Names Chief Value-Based Care Officer - Cone Health"
+        ]
       },
       {
-        "trend": "outbreak",
+        "trend": "healthcare",
         "market_code": "SE",
-        "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "category": "Europe Health",
+        "score": 15,
+        "examples": [
+          "The Use of AI by Government Healthcare Agencies: Is It in the Public Interest? - Petrie-Flom Center",
+          "Patients Wary of Governments, Companies Pushing AI as a Rural Healthcare Solution - KFF Health News",
+          "Abridge expands AI decision support to more clinicians in bid to become healthcare's copilot - Fierce Healthcare"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "SE",
+        "category": "Mental Health",
+        "score": 14,
+        "examples": [
+          "Oregon congresswoman proposes program to support first responder mental health - Oregon Capital Chronicle",
+          "A group of attorneys general is suing Meta over mental health risks for youths - npr.org",
+          "A group of attorneys general is suing Meta over mental health risks for youths - npr.org"
+        ]
+      },
+      {
+        "trend": "medical",
+        "market_code": "SE",
+        "category": "Europe Health",
+        "score": 14,
+        "examples": [
+          "Here’s what we know about the police presence at Intermountain Medical Center - The Salt Lake Tribune",
+          "Intermountain Medical Center in Murray on restricted access, ambulances being diverted - ABC4 Utah",
+          "Reclassification eases taxes and banking for medical cannabis, but leaves state with questions - southdakotasearchlight.com"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "SE",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
+        "score": 13,
+        "examples": [
+          "Oregon congresswoman proposes program to support first responder mental health - Oregon Capital Chronicle",
+          "A group of attorneys general is suing Meta over mental health risks for youths - npr.org",
+          "A group of attorneys general is suing Meta over mental health risks for youths - npr.org"
+        ]
       },
       {
-        "trend": "medical research",
+        "trend": "virus",
+        "market_code": "SE",
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "Southwest Idaho resident contracts meningitis from West Nile Virus infection, health officials say - Idaho Capital Sun",
+          "West Nile virus activity spreads across San Joaquin County as positive mosquito samples climb to 74 - Stocktonia",
+          "Sutter County reports first human West Nile Virus case of the year - ABC10"
+        ]
+      },
+      {
+        "trend": "nile virus",
+        "market_code": "SE",
+        "category": "Outbreaks",
+        "score": 8,
+        "examples": [
+          "Southwest Idaho resident contracts meningitis from West Nile Virus infection, health officials say - Idaho Capital Sun",
+          "West Nile virus activity spreads across San Joaquin County as positive mosquito samples climb to 74 - Stocktonia",
+          "Sutter County reports first human West Nile Virus case of the year - ABC10"
+        ]
+      },
+      {
+        "trend": "west nile virus",
+        "market_code": "SE",
+        "category": "Outbreaks",
+        "score": 8,
+        "examples": [
+          "Southwest Idaho resident contracts meningitis from West Nile Virus infection, health officials say - Idaho Capital Sun",
+          "West Nile virus activity spreads across San Joaquin County as positive mosquito samples climb to 74 - Stocktonia",
+          "Sutter County reports first human West Nile Virus case of the year - ABC10"
+        ]
+      },
+      {
+        "trend": "public health",
         "market_code": "SE",
         "category": "Europe Health",
-        "score": 1,
-        "examples": []
+        "score": 7,
+        "examples": [
+          "Public health investigation into tuberculosis at Aurora detention center at standstill as deadline looms - Colorado Public Radio",
+          "Lincoln’s wastewater is a public health gem; how is the health department using it? - KOLN | Nebraska Local News, Weather, Sports | Lincoln, NE",
+          "MPH student unravels complexities of public health at Fairfax County Health Department internship - George Mason University"
+        ]
       },
       {
-        "trend": "drug approval",
+        "trend": "outbreak",
         "market_code": "SE",
-        "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
+        "category": "Outbreaks",
+        "score": 7,
+        "examples": [
+          "Department of Public Health confirms measles outbreak in Kentucky - WKYT",
+          "Ramona Salmonella Outbreak Grows - San Diego County News Center",
+          "Ebola outbreak now deadliest ever in DR Congo as death rate reaches 46% - CIDRAP"
+        ]
       },
       {
-        "trend": "diet wellness",
+        "trend": "infection",
         "market_code": "SE",
-        "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "category": "Outbreaks",
+        "score": 7,
+        "examples": [
+          "White House Executive Order Reshapes Childhood Vaccine Recommendations, Drawing Public Health Concerns - Infection Control Today",
+          "Southwest Idaho resident contracts meningitis from West Nile Virus infection, health officials say - Idaho Capital Sun",
+          "Southwest Idaho resident contracts meningitis from West Nile Virus infection, health officials say - Idaho Capital Sun"
+        ]
+      },
+      {
+        "trend": "cancer",
+        "market_code": "SE",
+        "category": "Chronic Disease",
+        "score": 6,
+        "examples": [
+          "Clara Maass Medical Center Attains National Accreditation from the American College of Surgeons Commission on Cancer - RWJBarnabas Health",
+          "FDA Expands Clinical Trial Eligibility for Cancer Patients - Oncology News Central",
+          "FDA Expands Approval of Pluvicto® for Metastatic Prostate Cancer: Targets a Protein Called PSMA - Memorial Sloan Kettering Cancer Center"
+        ]
       }
     ],
     "Netherlands": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "NL",
         "category": "Europe Health",
-        "score": 1,
-        "examples": []
+        "score": 66,
+        "examples": [
+          "Ventura County nurses and health care professionals to hold speak out to save Santa Paula Hospital - National Nurses United",
+          "Kentucky Gov. Beshear Says He's 'Heard Absolutely Nothing Back' About McConnell’s Health - Time Magazine",
+          "Cone Health Names Chief Value-Based Care Officer - Cone Health"
+        ]
       },
       {
-        "trend": "outbreak",
+        "trend": "healthcare",
         "market_code": "NL",
-        "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "category": "Europe Health",
+        "score": 15,
+        "examples": [
+          "The Use of AI by Government Healthcare Agencies: Is It in the Public Interest? - Petrie-Flom Center",
+          "Patients Wary of Governments, Companies Pushing AI as a Rural Healthcare Solution - KFF Health News",
+          "Abridge expands AI decision support to more clinicians in bid to become healthcare's copilot - Fierce Healthcare"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "NL",
+        "category": "Mental Health",
+        "score": 14,
+        "examples": [
+          "Oregon congresswoman proposes program to support first responder mental health - Oregon Capital Chronicle",
+          "A group of attorneys general is suing Meta over mental health risks for youths - npr.org",
+          "A group of attorneys general is suing Meta over mental health risks for youths - npr.org"
+        ]
+      },
+      {
+        "trend": "medical",
+        "market_code": "NL",
+        "category": "Europe Health",
+        "score": 14,
+        "examples": [
+          "Here’s what we know about the police presence at Intermountain Medical Center - The Salt Lake Tribune",
+          "Intermountain Medical Center in Murray on restricted access, ambulances being diverted - ABC4 Utah",
+          "Reclassification eases taxes and banking for medical cannabis, but leaves state with questions - southdakotasearchlight.com"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "NL",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
+        "score": 13,
+        "examples": [
+          "Oregon congresswoman proposes program to support first responder mental health - Oregon Capital Chronicle",
+          "A group of attorneys general is suing Meta over mental health risks for youths - npr.org",
+          "A group of attorneys general is suing Meta over mental health risks for youths - npr.org"
+        ]
       },
       {
-        "trend": "medical research",
+        "trend": "virus",
+        "market_code": "NL",
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "Southwest Idaho resident contracts meningitis from West Nile Virus infection, health officials say - Idaho Capital Sun",
+          "West Nile virus activity spreads across San Joaquin County as positive mosquito samples climb to 74 - Stocktonia",
+          "Sutter County reports first human West Nile Virus case of the year - ABC10"
+        ]
+      },
+      {
+        "trend": "nile virus",
+        "market_code": "NL",
+        "category": "Outbreaks",
+        "score": 8,
+        "examples": [
+          "Southwest Idaho resident contracts meningitis from West Nile Virus infection, health officials say - Idaho Capital Sun",
+          "West Nile virus activity spreads across San Joaquin County as positive mosquito samples climb to 74 - Stocktonia",
+          "Sutter County reports first human West Nile Virus case of the year - ABC10"
+        ]
+      },
+      {
+        "trend": "west nile virus",
+        "market_code": "NL",
+        "category": "Outbreaks",
+        "score": 8,
+        "examples": [
+          "Southwest Idaho resident contracts meningitis from West Nile Virus infection, health officials say - Idaho Capital Sun",
+          "West Nile virus activity spreads across San Joaquin County as positive mosquito samples climb to 74 - Stocktonia",
+          "Sutter County reports first human West Nile Virus case of the year - ABC10"
+        ]
+      },
+      {
+        "trend": "public health",
         "market_code": "NL",
         "category": "Europe Health",
-        "score": 1,
-        "examples": []
+        "score": 7,
+        "examples": [
+          "Public health investigation into tuberculosis at Aurora detention center at standstill as deadline looms - Colorado Public Radio",
+          "Lincoln’s wastewater is a public health gem; how is the health department using it? - KOLN | Nebraska Local News, Weather, Sports | Lincoln, NE",
+          "MPH student unravels complexities of public health at Fairfax County Health Department internship - George Mason University"
+        ]
       },
       {
-        "trend": "drug approval",
+        "trend": "outbreak",
         "market_code": "NL",
-        "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
+        "category": "Outbreaks",
+        "score": 7,
+        "examples": [
+          "Department of Public Health confirms measles outbreak in Kentucky - WKYT",
+          "Ramona Salmonella Outbreak Grows - San Diego County News Center",
+          "Ebola outbreak now deadliest ever in DR Congo as death rate reaches 46% - CIDRAP"
+        ]
       },
       {
-        "trend": "diet wellness",
+        "trend": "infection",
         "market_code": "NL",
-        "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "category": "Outbreaks",
+        "score": 7,
+        "examples": [
+          "White House Executive Order Reshapes Childhood Vaccine Recommendations, Drawing Public Health Concerns - Infection Control Today",
+          "Southwest Idaho resident contracts meningitis from West Nile Virus infection, health officials say - Idaho Capital Sun",
+          "Southwest Idaho resident contracts meningitis from West Nile Virus infection, health officials say - Idaho Capital Sun"
+        ]
+      },
+      {
+        "trend": "cancer",
+        "market_code": "NL",
+        "category": "Chronic Disease",
+        "score": 6,
+        "examples": [
+          "Clara Maass Medical Center Attains National Accreditation from the American College of Surgeons Commission on Cancer - RWJBarnabas Health",
+          "FDA Expands Clinical Trial Eligibility for Cancer Patients - Oncology News Central",
+          "FDA Expands Approval of Pluvicto® for Metastatic Prostate Cancer: Targets a Protein Called PSMA - Memorial Sloan Kettering Cancer Center"
+        ]
       }
     ],
     "Finland": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "FI",
         "category": "Europe Health",
-        "score": 1,
-        "examples": []
+        "score": 66,
+        "examples": [
+          "Ventura County nurses and health care professionals to hold speak out to save Santa Paula Hospital - National Nurses United",
+          "Kentucky Gov. Beshear Says He's 'Heard Absolutely Nothing Back' About McConnell’s Health - Time Magazine",
+          "Cone Health Names Chief Value-Based Care Officer - Cone Health"
+        ]
       },
       {
-        "trend": "outbreak",
+        "trend": "healthcare",
         "market_code": "FI",
-        "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "category": "Europe Health",
+        "score": 15,
+        "examples": [
+          "The Use of AI by Government Healthcare Agencies: Is It in the Public Interest? - Petrie-Flom Center",
+          "Patients Wary of Governments, Companies Pushing AI as a Rural Healthcare Solution - KFF Health News",
+          "Abridge expands AI decision support to more clinicians in bid to become healthcare's copilot - Fierce Healthcare"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "FI",
+        "category": "Mental Health",
+        "score": 14,
+        "examples": [
+          "Oregon congresswoman proposes program to support first responder mental health - Oregon Capital Chronicle",
+          "A group of attorneys general is suing Meta over mental health risks for youths - npr.org",
+          "A group of attorneys general is suing Meta over mental health risks for youths - npr.org"
+        ]
+      },
+      {
+        "trend": "medical",
+        "market_code": "FI",
+        "category": "Europe Health",
+        "score": 14,
+        "examples": [
+          "Here’s what we know about the police presence at Intermountain Medical Center - The Salt Lake Tribune",
+          "Intermountain Medical Center in Murray on restricted access, ambulances being diverted - ABC4 Utah",
+          "Reclassification eases taxes and banking for medical cannabis, but leaves state with questions - southdakotasearchlight.com"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "FI",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
+        "score": 13,
+        "examples": [
+          "Oregon congresswoman proposes program to support first responder mental health - Oregon Capital Chronicle",
+          "A group of attorneys general is suing Meta over mental health risks for youths - npr.org",
+          "A group of attorneys general is suing Meta over mental health risks for youths - npr.org"
+        ]
       },
       {
-        "trend": "medical research",
+        "trend": "virus",
+        "market_code": "FI",
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "Southwest Idaho resident contracts meningitis from West Nile Virus infection, health officials say - Idaho Capital Sun",
+          "West Nile virus activity spreads across San Joaquin County as positive mosquito samples climb to 74 - Stocktonia",
+          "Sutter County reports first human West Nile Virus case of the year - ABC10"
+        ]
+      },
+      {
+        "trend": "nile virus",
+        "market_code": "FI",
+        "category": "Outbreaks",
+        "score": 8,
+        "examples": [
+          "Southwest Idaho resident contracts meningitis from West Nile Virus infection, health officials say - Idaho Capital Sun",
+          "West Nile virus activity spreads across San Joaquin County as positive mosquito samples climb to 74 - Stocktonia",
+          "Sutter County reports first human West Nile Virus case of the year - ABC10"
+        ]
+      },
+      {
+        "trend": "west nile virus",
+        "market_code": "FI",
+        "category": "Outbreaks",
+        "score": 8,
+        "examples": [
+          "Southwest Idaho resident contracts meningitis from West Nile Virus infection, health officials say - Idaho Capital Sun",
+          "West Nile virus activity spreads across San Joaquin County as positive mosquito samples climb to 74 - Stocktonia",
+          "Sutter County reports first human West Nile Virus case of the year - ABC10"
+        ]
+      },
+      {
+        "trend": "public health",
         "market_code": "FI",
         "category": "Europe Health",
-        "score": 1,
-        "examples": []
+        "score": 7,
+        "examples": [
+          "Public health investigation into tuberculosis at Aurora detention center at standstill as deadline looms - Colorado Public Radio",
+          "Lincoln’s wastewater is a public health gem; how is the health department using it? - KOLN | Nebraska Local News, Weather, Sports | Lincoln, NE",
+          "MPH student unravels complexities of public health at Fairfax County Health Department internship - George Mason University"
+        ]
       },
       {
-        "trend": "drug approval",
+        "trend": "outbreak",
         "market_code": "FI",
-        "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
+        "category": "Outbreaks",
+        "score": 7,
+        "examples": [
+          "Department of Public Health confirms measles outbreak in Kentucky - WKYT",
+          "Ramona Salmonella Outbreak Grows - San Diego County News Center",
+          "Ebola outbreak now deadliest ever in DR Congo as death rate reaches 46% - CIDRAP"
+        ]
       },
       {
-        "trend": "diet wellness",
+        "trend": "infection",
         "market_code": "FI",
-        "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "category": "Outbreaks",
+        "score": 7,
+        "examples": [
+          "White House Executive Order Reshapes Childhood Vaccine Recommendations, Drawing Public Health Concerns - Infection Control Today",
+          "Southwest Idaho resident contracts meningitis from West Nile Virus infection, health officials say - Idaho Capital Sun",
+          "Southwest Idaho resident contracts meningitis from West Nile Virus infection, health officials say - Idaho Capital Sun"
+        ]
+      },
+      {
+        "trend": "cancer",
+        "market_code": "FI",
+        "category": "Chronic Disease",
+        "score": 6,
+        "examples": [
+          "Clara Maass Medical Center Attains National Accreditation from the American College of Surgeons Commission on Cancer - RWJBarnabas Health",
+          "FDA Expands Clinical Trial Eligibility for Cancer Patients - Oncology News Central",
+          "FDA Expands Approval of Pluvicto® for Metastatic Prostate Cancer: Targets a Protein Called PSMA - Memorial Sloan Kettering Cancer Center"
+        ]
       }
     ],
     "Norway": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "NO",
         "category": "Europe Health",
-        "score": 1,
-        "examples": []
+        "score": 66,
+        "examples": [
+          "Ventura County nurses and health care professionals to hold speak out to save Santa Paula Hospital - National Nurses United",
+          "Kentucky Gov. Beshear Says He's 'Heard Absolutely Nothing Back' About McConnell’s Health - Time Magazine",
+          "Cone Health Names Chief Value-Based Care Officer - Cone Health"
+        ]
       },
       {
-        "trend": "outbreak",
+        "trend": "healthcare",
         "market_code": "NO",
-        "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "category": "Europe Health",
+        "score": 15,
+        "examples": [
+          "The Use of AI by Government Healthcare Agencies: Is It in the Public Interest? - Petrie-Flom Center",
+          "Patients Wary of Governments, Companies Pushing AI as a Rural Healthcare Solution - KFF Health News",
+          "Abridge expands AI decision support to more clinicians in bid to become healthcare's copilot - Fierce Healthcare"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "NO",
+        "category": "Mental Health",
+        "score": 14,
+        "examples": [
+          "Oregon congresswoman proposes program to support first responder mental health - Oregon Capital Chronicle",
+          "A group of attorneys general is suing Meta over mental health risks for youths - npr.org",
+          "A group of attorneys general is suing Meta over mental health risks for youths - npr.org"
+        ]
+      },
+      {
+        "trend": "medical",
+        "market_code": "NO",
+        "category": "Europe Health",
+        "score": 14,
+        "examples": [
+          "Here’s what we know about the police presence at Intermountain Medical Center - The Salt Lake Tribune",
+          "Intermountain Medical Center in Murray on restricted access, ambulances being diverted - ABC4 Utah",
+          "Reclassification eases taxes and banking for medical cannabis, but leaves state with questions - southdakotasearchlight.com"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "NO",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
+        "score": 13,
+        "examples": [
+          "Oregon congresswoman proposes program to support first responder mental health - Oregon Capital Chronicle",
+          "A group of attorneys general is suing Meta over mental health risks for youths - npr.org",
+          "A group of attorneys general is suing Meta over mental health risks for youths - npr.org"
+        ]
       },
       {
-        "trend": "medical research",
+        "trend": "virus",
+        "market_code": "NO",
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "Southwest Idaho resident contracts meningitis from West Nile Virus infection, health officials say - Idaho Capital Sun",
+          "West Nile virus activity spreads across San Joaquin County as positive mosquito samples climb to 74 - Stocktonia",
+          "Sutter County reports first human West Nile Virus case of the year - ABC10"
+        ]
+      },
+      {
+        "trend": "nile virus",
+        "market_code": "NO",
+        "category": "Outbreaks",
+        "score": 8,
+        "examples": [
+          "Southwest Idaho resident contracts meningitis from West Nile Virus infection, health officials say - Idaho Capital Sun",
+          "West Nile virus activity spreads across San Joaquin County as positive mosquito samples climb to 74 - Stocktonia",
+          "Sutter County reports first human West Nile Virus case of the year - ABC10"
+        ]
+      },
+      {
+        "trend": "west nile virus",
+        "market_code": "NO",
+        "category": "Outbreaks",
+        "score": 8,
+        "examples": [
+          "Southwest Idaho resident contracts meningitis from West Nile Virus infection, health officials say - Idaho Capital Sun",
+          "West Nile virus activity spreads across San Joaquin County as positive mosquito samples climb to 74 - Stocktonia",
+          "Sutter County reports first human West Nile Virus case of the year - ABC10"
+        ]
+      },
+      {
+        "trend": "public health",
         "market_code": "NO",
         "category": "Europe Health",
-        "score": 1,
-        "examples": []
+        "score": 7,
+        "examples": [
+          "Public health investigation into tuberculosis at Aurora detention center at standstill as deadline looms - Colorado Public Radio",
+          "Lincoln’s wastewater is a public health gem; how is the health department using it? - KOLN | Nebraska Local News, Weather, Sports | Lincoln, NE",
+          "MPH student unravels complexities of public health at Fairfax County Health Department internship - George Mason University"
+        ]
       },
       {
-        "trend": "drug approval",
+        "trend": "outbreak",
         "market_code": "NO",
-        "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
+        "category": "Outbreaks",
+        "score": 7,
+        "examples": [
+          "Department of Public Health confirms measles outbreak in Kentucky - WKYT",
+          "Ramona Salmonella Outbreak Grows - San Diego County News Center",
+          "Ebola outbreak now deadliest ever in DR Congo as death rate reaches 46% - CIDRAP"
+        ]
       },
       {
-        "trend": "diet wellness",
+        "trend": "infection",
         "market_code": "NO",
-        "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "category": "Outbreaks",
+        "score": 7,
+        "examples": [
+          "White House Executive Order Reshapes Childhood Vaccine Recommendations, Drawing Public Health Concerns - Infection Control Today",
+          "Southwest Idaho resident contracts meningitis from West Nile Virus infection, health officials say - Idaho Capital Sun",
+          "Southwest Idaho resident contracts meningitis from West Nile Virus infection, health officials say - Idaho Capital Sun"
+        ]
+      },
+      {
+        "trend": "cancer",
+        "market_code": "NO",
+        "category": "Chronic Disease",
+        "score": 6,
+        "examples": [
+          "Clara Maass Medical Center Attains National Accreditation from the American College of Surgeons Commission on Cancer - RWJBarnabas Health",
+          "FDA Expands Clinical Trial Eligibility for Cancer Patients - Oncology News Central",
+          "FDA Expands Approval of Pluvicto® for Metastatic Prostate Cancer: Targets a Protein Called PSMA - Memorial Sloan Kettering Cancer Center"
+        ]
       }
     ],
     "Japan": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "JP",
         "category": "Asia Health",
-        "score": 1,
-        "examples": []
+        "score": 66,
+        "examples": [
+          "Ventura County nurses and health care professionals to hold speak out to save Santa Paula Hospital - National Nurses United",
+          "Kentucky Gov. Beshear Says He's 'Heard Absolutely Nothing Back' About McConnell’s Health - Time Magazine",
+          "Cone Health Names Chief Value-Based Care Officer - Cone Health"
+        ]
       },
       {
-        "trend": "outbreak",
+        "trend": "healthcare",
         "market_code": "JP",
-        "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "category": "Asia Health",
+        "score": 15,
+        "examples": [
+          "The Use of AI by Government Healthcare Agencies: Is It in the Public Interest? - Petrie-Flom Center",
+          "Patients Wary of Governments, Companies Pushing AI as a Rural Healthcare Solution - KFF Health News",
+          "Abridge expands AI decision support to more clinicians in bid to become healthcare's copilot - Fierce Healthcare"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "JP",
+        "category": "Mental Health",
+        "score": 14,
+        "examples": [
+          "Oregon congresswoman proposes program to support first responder mental health - Oregon Capital Chronicle",
+          "A group of attorneys general is suing Meta over mental health risks for youths - npr.org",
+          "A group of attorneys general is suing Meta over mental health risks for youths - npr.org"
+        ]
+      },
+      {
+        "trend": "medical",
+        "market_code": "JP",
+        "category": "Asia Health",
+        "score": 14,
+        "examples": [
+          "Here’s what we know about the police presence at Intermountain Medical Center - The Salt Lake Tribune",
+          "Intermountain Medical Center in Murray on restricted access, ambulances being diverted - ABC4 Utah",
+          "Reclassification eases taxes and banking for medical cannabis, but leaves state with questions - southdakotasearchlight.com"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "JP",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
+        "score": 13,
+        "examples": [
+          "Oregon congresswoman proposes program to support first responder mental health - Oregon Capital Chronicle",
+          "A group of attorneys general is suing Meta over mental health risks for youths - npr.org",
+          "A group of attorneys general is suing Meta over mental health risks for youths - npr.org"
+        ]
       },
       {
-        "trend": "medical research",
+        "trend": "virus",
+        "market_code": "JP",
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "Southwest Idaho resident contracts meningitis from West Nile Virus infection, health officials say - Idaho Capital Sun",
+          "West Nile virus activity spreads across San Joaquin County as positive mosquito samples climb to 74 - Stocktonia",
+          "Sutter County reports first human West Nile Virus case of the year - ABC10"
+        ]
+      },
+      {
+        "trend": "nile virus",
+        "market_code": "JP",
+        "category": "Outbreaks",
+        "score": 8,
+        "examples": [
+          "Southwest Idaho resident contracts meningitis from West Nile Virus infection, health officials say - Idaho Capital Sun",
+          "West Nile virus activity spreads across San Joaquin County as positive mosquito samples climb to 74 - Stocktonia",
+          "Sutter County reports first human West Nile Virus case of the year - ABC10"
+        ]
+      },
+      {
+        "trend": "west nile virus",
+        "market_code": "JP",
+        "category": "Outbreaks",
+        "score": 8,
+        "examples": [
+          "Southwest Idaho resident contracts meningitis from West Nile Virus infection, health officials say - Idaho Capital Sun",
+          "West Nile virus activity spreads across San Joaquin County as positive mosquito samples climb to 74 - Stocktonia",
+          "Sutter County reports first human West Nile Virus case of the year - ABC10"
+        ]
+      },
+      {
+        "trend": "public health",
         "market_code": "JP",
         "category": "Asia Health",
-        "score": 1,
-        "examples": []
+        "score": 7,
+        "examples": [
+          "Public health investigation into tuberculosis at Aurora detention center at standstill as deadline looms - Colorado Public Radio",
+          "Lincoln’s wastewater is a public health gem; how is the health department using it? - KOLN | Nebraska Local News, Weather, Sports | Lincoln, NE",
+          "MPH student unravels complexities of public health at Fairfax County Health Department internship - George Mason University"
+        ]
       },
       {
-        "trend": "drug approval",
+        "trend": "outbreak",
         "market_code": "JP",
-        "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
+        "category": "Outbreaks",
+        "score": 7,
+        "examples": [
+          "Department of Public Health confirms measles outbreak in Kentucky - WKYT",
+          "Ramona Salmonella Outbreak Grows - San Diego County News Center",
+          "Ebola outbreak now deadliest ever in DR Congo as death rate reaches 46% - CIDRAP"
+        ]
       },
       {
-        "trend": "diet wellness",
+        "trend": "infection",
         "market_code": "JP",
-        "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "category": "Outbreaks",
+        "score": 7,
+        "examples": [
+          "White House Executive Order Reshapes Childhood Vaccine Recommendations, Drawing Public Health Concerns - Infection Control Today",
+          "Southwest Idaho resident contracts meningitis from West Nile Virus infection, health officials say - Idaho Capital Sun",
+          "Southwest Idaho resident contracts meningitis from West Nile Virus infection, health officials say - Idaho Capital Sun"
+        ]
+      },
+      {
+        "trend": "cancer",
+        "market_code": "JP",
+        "category": "Chronic Disease",
+        "score": 6,
+        "examples": [
+          "Clara Maass Medical Center Attains National Accreditation from the American College of Surgeons Commission on Cancer - RWJBarnabas Health",
+          "FDA Expands Clinical Trial Eligibility for Cancer Patients - Oncology News Central",
+          "FDA Expands Approval of Pluvicto® for Metastatic Prostate Cancer: Targets a Protein Called PSMA - Memorial Sloan Kettering Cancer Center"
+        ]
       }
     ],
     "China": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "CN",
         "category": "Asia Health",
-        "score": 1,
-        "examples": []
+        "score": 66,
+        "examples": [
+          "Ventura County nurses and health care professionals to hold speak out to save Santa Paula Hospital - National Nurses United",
+          "Kentucky Gov. Beshear Says He's 'Heard Absolutely Nothing Back' About McConnell’s Health - Time Magazine",
+          "Cone Health Names Chief Value-Based Care Officer - Cone Health"
+        ]
       },
       {
-        "trend": "outbreak",
+        "trend": "healthcare",
         "market_code": "CN",
-        "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "category": "Asia Health",
+        "score": 15,
+        "examples": [
+          "The Use of AI by Government Healthcare Agencies: Is It in the Public Interest? - Petrie-Flom Center",
+          "Patients Wary of Governments, Companies Pushing AI as a Rural Healthcare Solution - KFF Health News",
+          "Abridge expands AI decision support to more clinicians in bid to become healthcare's copilot - Fierce Healthcare"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "CN",
+        "category": "Mental Health",
+        "score": 14,
+        "examples": [
+          "Oregon congresswoman proposes program to support first responder mental health - Oregon Capital Chronicle",
+          "A group of attorneys general is suing Meta over mental health risks for youths - npr.org",
+          "A group of attorneys general is suing Meta over mental health risks for youths - npr.org"
+        ]
+      },
+      {
+        "trend": "medical",
+        "market_code": "CN",
+        "category": "Asia Health",
+        "score": 14,
+        "examples": [
+          "Here’s what we know about the police presence at Intermountain Medical Center - The Salt Lake Tribune",
+          "Intermountain Medical Center in Murray on restricted access, ambulances being diverted - ABC4 Utah",
+          "Reclassification eases taxes and banking for medical cannabis, but leaves state with questions - southdakotasearchlight.com"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "CN",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
+        "score": 13,
+        "examples": [
+          "Oregon congresswoman proposes program to support first responder mental health - Oregon Capital Chronicle",
+          "A group of attorneys general is suing Meta over mental health risks for youths - npr.org",
+          "A group of attorneys general is suing Meta over mental health risks for youths - npr.org"
+        ]
       },
       {
-        "trend": "medical research",
+        "trend": "virus",
+        "market_code": "CN",
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "Southwest Idaho resident contracts meningitis from West Nile Virus infection, health officials say - Idaho Capital Sun",
+          "West Nile virus activity spreads across San Joaquin County as positive mosquito samples climb to 74 - Stocktonia",
+          "Sutter County reports first human West Nile Virus case of the year - ABC10"
+        ]
+      },
+      {
+        "trend": "nile virus",
+        "market_code": "CN",
+        "category": "Outbreaks",
+        "score": 8,
+        "examples": [
+          "Southwest Idaho resident contracts meningitis from West Nile Virus infection, health officials say - Idaho Capital Sun",
+          "West Nile virus activity spreads across San Joaquin County as positive mosquito samples climb to 74 - Stocktonia",
+          "Sutter County reports first human West Nile Virus case of the year - ABC10"
+        ]
+      },
+      {
+        "trend": "west nile virus",
+        "market_code": "CN",
+        "category": "Outbreaks",
+        "score": 8,
+        "examples": [
+          "Southwest Idaho resident contracts meningitis from West Nile Virus infection, health officials say - Idaho Capital Sun",
+          "West Nile virus activity spreads across San Joaquin County as positive mosquito samples climb to 74 - Stocktonia",
+          "Sutter County reports first human West Nile Virus case of the year - ABC10"
+        ]
+      },
+      {
+        "trend": "public health",
         "market_code": "CN",
         "category": "Asia Health",
-        "score": 1,
-        "examples": []
+        "score": 7,
+        "examples": [
+          "Public health investigation into tuberculosis at Aurora detention center at standstill as deadline looms - Colorado Public Radio",
+          "Lincoln’s wastewater is a public health gem; how is the health department using it? - KOLN | Nebraska Local News, Weather, Sports | Lincoln, NE",
+          "MPH student unravels complexities of public health at Fairfax County Health Department internship - George Mason University"
+        ]
       },
       {
-        "trend": "drug approval",
+        "trend": "outbreak",
         "market_code": "CN",
-        "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
+        "category": "Outbreaks",
+        "score": 7,
+        "examples": [
+          "Department of Public Health confirms measles outbreak in Kentucky - WKYT",
+          "Ramona Salmonella Outbreak Grows - San Diego County News Center",
+          "Ebola outbreak now deadliest ever in DR Congo as death rate reaches 46% - CIDRAP"
+        ]
       },
       {
-        "trend": "diet wellness",
+        "trend": "infection",
         "market_code": "CN",
-        "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "category": "Outbreaks",
+        "score": 7,
+        "examples": [
+          "White House Executive Order Reshapes Childhood Vaccine Recommendations, Drawing Public Health Concerns - Infection Control Today",
+          "Southwest Idaho resident contracts meningitis from West Nile Virus infection, health officials say - Idaho Capital Sun",
+          "Southwest Idaho resident contracts meningitis from West Nile Virus infection, health officials say - Idaho Capital Sun"
+        ]
+      },
+      {
+        "trend": "cancer",
+        "market_code": "CN",
+        "category": "Chronic Disease",
+        "score": 6,
+        "examples": [
+          "Clara Maass Medical Center Attains National Accreditation from the American College of Surgeons Commission on Cancer - RWJBarnabas Health",
+          "FDA Expands Clinical Trial Eligibility for Cancer Patients - Oncology News Central",
+          "FDA Expands Approval of Pluvicto® for Metastatic Prostate Cancer: Targets a Protein Called PSMA - Memorial Sloan Kettering Cancer Center"
+        ]
       }
     ],
     "South Korea": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "KR",
         "category": "Asia Health",
-        "score": 1,
-        "examples": []
+        "score": 66,
+        "examples": [
+          "Ventura County nurses and health care professionals to hold speak out to save Santa Paula Hospital - National Nurses United",
+          "Kentucky Gov. Beshear Says He's 'Heard Absolutely Nothing Back' About McConnell’s Health - Time Magazine",
+          "Cone Health Names Chief Value-Based Care Officer - Cone Health"
+        ]
       },
       {
-        "trend": "outbreak",
+        "trend": "healthcare",
         "market_code": "KR",
-        "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "category": "Asia Health",
+        "score": 15,
+        "examples": [
+          "The Use of AI by Government Healthcare Agencies: Is It in the Public Interest? - Petrie-Flom Center",
+          "Patients Wary of Governments, Companies Pushing AI as a Rural Healthcare Solution - KFF Health News",
+          "Abridge expands AI decision support to more clinicians in bid to become healthcare's copilot - Fierce Healthcare"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "KR",
+        "category": "Mental Health",
+        "score": 14,
+        "examples": [
+          "Oregon congresswoman proposes program to support first responder mental health - Oregon Capital Chronicle",
+          "A group of attorneys general is suing Meta over mental health risks for youths - npr.org",
+          "A group of attorneys general is suing Meta over mental health risks for youths - npr.org"
+        ]
+      },
+      {
+        "trend": "medical",
+        "market_code": "KR",
+        "category": "Asia Health",
+        "score": 14,
+        "examples": [
+          "Here’s what we know about the police presence at Intermountain Medical Center - The Salt Lake Tribune",
+          "Intermountain Medical Center in Murray on restricted access, ambulances being diverted - ABC4 Utah",
+          "Reclassification eases taxes and banking for medical cannabis, but leaves state with questions - southdakotasearchlight.com"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "KR",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
+        "score": 13,
+        "examples": [
+          "Oregon congresswoman proposes program to support first responder mental health - Oregon Capital Chronicle",
+          "A group of attorneys general is suing Meta over mental health risks for youths - npr.org",
+          "A group of attorneys general is suing Meta over mental health risks for youths - npr.org"
+        ]
       },
       {
-        "trend": "medical research",
+        "trend": "virus",
+        "market_code": "KR",
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "Southwest Idaho resident contracts meningitis from West Nile Virus infection, health officials say - Idaho Capital Sun",
+          "West Nile virus activity spreads across San Joaquin County as positive mosquito samples climb to 74 - Stocktonia",
+          "Sutter County reports first human West Nile Virus case of the year - ABC10"
+        ]
+      },
+      {
+        "trend": "nile virus",
+        "market_code": "KR",
+        "category": "Outbreaks",
+        "score": 8,
+        "examples": [
+          "Southwest Idaho resident contracts meningitis from West Nile Virus infection, health officials say - Idaho Capital Sun",
+          "West Nile virus activity spreads across San Joaquin County as positive mosquito samples climb to 74 - Stocktonia",
+          "Sutter County reports first human West Nile Virus case of the year - ABC10"
+        ]
+      },
+      {
+        "trend": "west nile virus",
+        "market_code": "KR",
+        "category": "Outbreaks",
+        "score": 8,
+        "examples": [
+          "Southwest Idaho resident contracts meningitis from West Nile Virus infection, health officials say - Idaho Capital Sun",
+          "West Nile virus activity spreads across San Joaquin County as positive mosquito samples climb to 74 - Stocktonia",
+          "Sutter County reports first human West Nile Virus case of the year - ABC10"
+        ]
+      },
+      {
+        "trend": "public health",
         "market_code": "KR",
         "category": "Asia Health",
-        "score": 1,
-        "examples": []
+        "score": 7,
+        "examples": [
+          "Public health investigation into tuberculosis at Aurora detention center at standstill as deadline looms - Colorado Public Radio",
+          "Lincoln’s wastewater is a public health gem; how is the health department using it? - KOLN | Nebraska Local News, Weather, Sports | Lincoln, NE",
+          "MPH student unravels complexities of public health at Fairfax County Health Department internship - George Mason University"
+        ]
       },
       {
-        "trend": "drug approval",
+        "trend": "outbreak",
         "market_code": "KR",
-        "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
+        "category": "Outbreaks",
+        "score": 7,
+        "examples": [
+          "Department of Public Health confirms measles outbreak in Kentucky - WKYT",
+          "Ramona Salmonella Outbreak Grows - San Diego County News Center",
+          "Ebola outbreak now deadliest ever in DR Congo as death rate reaches 46% - CIDRAP"
+        ]
       },
       {
-        "trend": "diet wellness",
+        "trend": "infection",
         "market_code": "KR",
-        "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "category": "Outbreaks",
+        "score": 7,
+        "examples": [
+          "White House Executive Order Reshapes Childhood Vaccine Recommendations, Drawing Public Health Concerns - Infection Control Today",
+          "Southwest Idaho resident contracts meningitis from West Nile Virus infection, health officials say - Idaho Capital Sun",
+          "Southwest Idaho resident contracts meningitis from West Nile Virus infection, health officials say - Idaho Capital Sun"
+        ]
+      },
+      {
+        "trend": "cancer",
+        "market_code": "KR",
+        "category": "Chronic Disease",
+        "score": 6,
+        "examples": [
+          "Clara Maass Medical Center Attains National Accreditation from the American College of Surgeons Commission on Cancer - RWJBarnabas Health",
+          "FDA Expands Clinical Trial Eligibility for Cancer Patients - Oncology News Central",
+          "FDA Expands Approval of Pluvicto® for Metastatic Prostate Cancer: Targets a Protein Called PSMA - Memorial Sloan Kettering Cancer Center"
+        ]
       }
     ],
     "India": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "IN",
         "category": "Asia Health",
-        "score": 1,
-        "examples": []
+        "score": 62,
+        "examples": [
+          "UNESCO shares international experience to advance school health and nutrition in Viet Nam - UNESCO",
+          "Abbott and NACHC launch nationwide Food for Health initiative to make nutritious food a core part of healthcare - PR Newswire",
+          "T.N. government to launch health insurance for the elderly - thehindu.com"
+        ]
+      },
+      {
+        "trend": "healthcare",
+        "market_code": "IN",
+        "category": "Asia Health",
+        "score": 18,
+        "examples": [
+          "Abbott and NACHC launch nationwide Food for Health initiative to make nutritious food a core part of healthcare - PR Newswire",
+          "Chutes & Ladders—Centene CFO stepping down; Humana names new Medicaid chief - Fierce Healthcare",
+          "AI will be better than doctors at some medical tasks, healthcare and VC experts predict - Endpoints News"
+        ]
       },
       {
         "trend": "outbreak",
         "market_code": "IN",
         "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "score": 12,
+        "examples": [
+          "How Congo's Ebola outbreak became the second-most lethal on record - thehindu.com",
+          "What is Ebola and why is the outbreak in DRC causing so much concern? - The Guardian",
+          "Ebola outbreak becomes DR Congo’s deadliest - Financial Times"
+        ]
+      },
+      {
+        "trend": "ebola outbreak",
+        "market_code": "IN",
+        "category": "Outbreaks",
+        "score": 12,
+        "examples": [
+          "How Congo's Ebola outbreak became the second-most lethal on record - thehindu.com",
+          "What is Ebola and why is the outbreak in DRC causing so much concern? - The Guardian",
+          "Ebola outbreak becomes DR Congo’s deadliest - Financial Times"
+        ]
+      },
+      {
+        "trend": "medical",
+        "market_code": "IN",
+        "category": "Asia Health",
+        "score": 11,
+        "examples": [
+          "A Medical Large Language Model-Based System Improves History-Taking Performance Among Medical Students - cureus.com",
+          "A Medical Large Language Model-Based System Improves History-Taking Performance Among Medical Students - cureus.com",
+          "AI will be better than doctors at some medical tasks, healthcare and VC experts predict - Endpoints News"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "IN",
+        "category": "Mental Health",
+        "score": 9,
+        "examples": [
+          "A group of attorneys general is suing Meta over mental health risks for youths - NPR",
+          "Can science museums help us talk about mental health? - The Conversation",
+          "Mental health in individuals who have undergone metabolic bariatric surgery: a cross-sectional study using mediation analysis - Nature"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "IN",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
+        "score": 8,
+        "examples": [
+          "A group of attorneys general is suing Meta over mental health risks for youths - NPR",
+          "Can science museums help us talk about mental health? - The Conversation",
+          "Mental health in individuals who have undergone metabolic bariatric surgery: a cross-sectional study using mediation analysis - Nature"
+        ]
       },
       {
-        "trend": "medical research",
+        "trend": "virus",
+        "market_code": "IN",
+        "category": "Outbreaks",
+        "score": 8,
+        "examples": [
+          "DRC faces its deadliest ebola outbreak as virus spreads to 6th province - Down To Earth",
+          "WHO Director-General's opening remarks at the High-level cross-border consultative meeting on Bundibugyo virus disease risk – 17 August 2026 - World Health Organization (WHO)",
+          "What is the potentially deadly bluetongue virus in the UK? - BBC"
+        ]
+      },
+      {
+        "trend": "hospitals",
         "market_code": "IN",
         "category": "Asia Health",
-        "score": 1,
-        "examples": []
+        "score": 6,
+        "examples": [
+          "Extreme Heat Is Overwhelming Hospitals in the UK - Bloomberg.com",
+          "Extreme Heat Is Overwhelming Hospitals in the UK - Bloomberg.com",
+          "Display clear signages in hospitals: Keralam Health Minister - thehindu.com"
+        ]
       },
       {
-        "trend": "drug approval",
+        "trend": "hospital",
+        "market_code": "IN",
+        "category": "Asia Health",
+        "score": 5,
+        "examples": [
+          "India’s top private hospital operators have raised concerns over a parliamentary panel report proposing price caps on room rents and surgical procedures. Fortis Healthcare MD & CEO Ashutosh Raghuvanshi said the proposals could stifle the growth. Max He - LinkedIn",
+          "What Is Lifestyle Medicine? - HSS | Hospital for Special Surgery",
+          "Wellstar Health System acquires 12th hospital, prepares to open another - Chief Healthcare Executive"
+        ]
+      },
+      {
+        "trend": "public health",
+        "market_code": "IN",
+        "category": "Asia Health",
+        "score": 5,
+        "examples": [
+          "TN govt announces elderly insurance, medicity, to enact Public Health Act - ThePrint",
+          "NGT Hears Plaint Of Public Health Risk From 'Informal' E-Waste Disposal In Bhopal, Redirects Case To Central Zone Bench - ETV Bharat",
+          "Rethinking Sex Differences in Disease: Lessons from Migraine on Biology, Measurement, and Classification - Harvard T.H. Chan School of Public Health"
+        ]
+      },
+      {
+        "trend": "drug",
         "market_code": "IN",
         "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
-      },
-      {
-        "trend": "diet wellness",
-        "market_code": "IN",
-        "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "score": 5,
+        "examples": [
+          "NHS Rolls Out Trailblazing Treatment for Drug Resistant HIV - EMJ",
+          "Calla Lily joins $50M program targeting antibiotic resistance - Drug Discovery News",
+          "Kroger Health president Colleen Lindholz to keynote GLP-1 Shopper Summit - Drug Store News"
+        ]
       }
     ],
     "Australia": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "AU",
         "category": "Global Health",
-        "score": 1,
-        "examples": []
+        "score": 57,
+        "examples": [
+          "Championing ethical research across Metro South - Metro South Health",
+          "For Indigenous people, connection to Country can be a preventive health measure - The Conversation",
+          "Women’s physical and mental health 'inseparable', new endometreosis research finds - SBS"
+        ]
       },
       {
-        "trend": "outbreak",
+        "trend": "mental",
         "market_code": "AU",
-        "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "category": "Mental Health",
+        "score": 14,
+        "examples": [
+          "Women’s physical and mental health 'inseparable', new endometreosis research finds - SBS",
+          "Study reveals hidden mental health toll on women with endometriosis and PMOS - retailpharmacymagazine.com.au",
+          "Can science museums help us talk about mental health? - The Conversation"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "AU",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
+        "score": 14,
+        "examples": [
+          "Women’s physical and mental health 'inseparable', new endometreosis research finds - SBS",
+          "Study reveals hidden mental health toll on women with endometriosis and PMOS - retailpharmacymagazine.com.au",
+          "Can science museums help us talk about mental health? - The Conversation"
+        ]
       },
       {
-        "trend": "medical research",
+        "trend": "healthcare",
         "market_code": "AU",
         "category": "Global Health",
-        "score": 1,
-        "examples": []
+        "score": 14,
+        "examples": [
+          "Gender gap in healthcare for female users of performance and image-enhancing drugs - UQ News",
+          "AI will be better than doctors at some medical tasks, healthcare and VC experts predict - Endpoints News",
+          "Nolla Health Expands Medical Advisory Board and Clinical Leadership to Help Shape the Future of AI-Powered Healthcare - Yahoo Finance Australia"
+        ]
       },
       {
-        "trend": "drug approval",
+        "trend": "medical",
+        "market_code": "AU",
+        "category": "Global Health",
+        "score": 14,
+        "examples": [
+          "US government is pushing to gain unprecedented access to your medical records – as data protections are weakening - The Conversation",
+          "Medical Neutrality as a Contested Legal Concept in the 1899-1902 South African War - Lieber Institute West Point",
+          "The new frontier in diabetes care - Medical Republic"
+        ]
+      },
+      {
+        "trend": "outbreak",
+        "market_code": "AU",
+        "category": "Outbreaks",
+        "score": 10,
+        "examples": [
+          "What is Ebola and why is the outbreak in DRC causing so much concern? - theguardian.com",
+          "Ebola outbreak becomes DR Congo’s deadliest - Financial Times",
+          "Ebola outbreak now deadliest ever in DR Congo as death rate reaches 46% - CIDRAP"
+        ]
+      },
+      {
+        "trend": "ebola outbreak",
+        "market_code": "AU",
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "What is Ebola and why is the outbreak in DRC causing so much concern? - theguardian.com",
+          "Ebola outbreak becomes DR Congo’s deadliest - Financial Times",
+          "Ebola outbreak now deadliest ever in DR Congo as death rate reaches 46% - CIDRAP"
+        ]
+      },
+      {
+        "trend": "virus",
+        "market_code": "AU",
+        "category": "Outbreaks",
+        "score": 7,
+        "examples": [
+          "As Ebola kills thousands in DRC, a perfect storm is making the virus hard to stop | Devi Sridhar - theguardian.com",
+          "What is the potentially deadly bluetongue virus in the UK? - BBC",
+          "Common carp relatives could help stop virus spreading - Lab + Life Scientist"
+        ]
+      },
+      {
+        "trend": "research",
+        "market_code": "AU",
+        "category": "Global Health",
+        "score": 6,
+        "examples": [
+          "Championing ethical research across Metro South - Metro South Health",
+          "Women’s physical and mental health 'inseparable', new endometreosis research finds - SBS",
+          "National facility to deliver life-changing medical treatments and research - Murdoch University"
+        ]
+      },
+      {
+        "trend": "warning",
+        "market_code": "AU",
+        "category": "Global Health",
+        "score": 5,
+        "examples": [
+          "Consumer Reports Safety Warning: Counterfeit squishy toys - wtsp.com",
+          "Yellow heat health warning issued after heatwave - aol.com",
+          "Yellow heat health warning issued after heatwave - aol.com"
+        ]
+      },
+      {
+        "trend": "vaccine",
         "market_code": "AU",
         "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
+        "score": 5,
+        "examples": [
+          "FDA fast-tracks experimental vaccine aiming to slow early Parkinson’s - Parkinson's News Today",
+          "RNA researcher on F.D.A. approval of first mRNA influenza vaccine - UC Santa Cruz - News",
+          "TB Vaccine Pipeline Enters Most Promising Phase in Decades - medscape.com"
+        ]
       },
       {
-        "trend": "diet wellness",
+        "trend": "hospital",
         "market_code": "AU",
-        "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "category": "Global Health",
+        "score": 4,
+        "examples": [
+          "EXCLUSIVE: Next rollout of SDPR cut to one hospital only, rest delayed - Health Services Daily",
+          "Inquest into patient suicides hears hospital's mental health facility 'over capacity' - abc.net.au",
+          "What Is Lifestyle Medicine? - HSS | Hospital for Special Surgery"
+        ]
       }
     ],
     "Canada": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "CA",
         "category": "Global Health",
-        "score": 1,
-        "examples": []
+        "score": 60,
+        "examples": [
+          "Heart to heart – August 17, 2026 - Fraser Health",
+          "New energy centre will power the future of health care in Delta - BC Gov News",
+          "As Dr. Sonja Wicklum's tenure comes to an end, the Cumming School of Medicine is pleased to welcome Dr. Stephen Wilton as the director of planetary health - University of Calgary"
+        ]
+      },
+      {
+        "trend": "medical",
+        "market_code": "CA",
+        "category": "Global Health",
+        "score": 15,
+        "examples": [
+          "Dr. Yassen Tcholakov - Canadian Medical Association | CMA",
+          "Huron Perth Public Health appoints Associate Medical Officer of Health - StratfordToday.ca",
+          "Helix BioPharma Corp. Appoints Markus Loeffler, MD, MBA, as Chief Medical Officer to Support Next Phase of Clinical Development - TheNewswire"
+        ]
       },
       {
         "trend": "outbreak",
         "market_code": "CA",
         "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "score": 15,
+        "examples": [
+          "Toronto Public Health investigating legionnaires’ disease outbreak near downtown core - globalnews.ca",
+          "Legionnaires’ disease outbreak reported by Toronto Public Health - CityNews Toronto",
+          "Toronto Public Health investigating legionnaires’ disease outbreak - Durham Radio News"
+        ]
+      },
+      {
+        "trend": "disease",
+        "market_code": "CA",
+        "category": "Global Health",
+        "score": 14,
+        "examples": [
+          "Toronto Public Health confirms 6 cases of legionnaires' disease in Bathurst, Dupont area - cbc.ca",
+          "Toronto Public Health confirms 6 cases of legionnaires' disease in Bathurst, Dupont area - cbc.ca",
+          "Toronto Public Health investigating legionnaires’ disease outbreak near downtown core - globalnews.ca"
+        ]
+      },
+      {
+        "trend": "healthcare",
+        "market_code": "CA",
+        "category": "Global Health",
+        "score": 13,
+        "examples": [
+          "3 AI Healthcare Stocks Helping Investors Find The Next Breakthrough In Cancer Care - simplywall.st",
+          "The Use of AI by Government Healthcare Agencies: Is It in the Public Interest? - Petrie-Flom Center",
+          "Patients Wary of Governments, Companies Pushing AI as a Rural Healthcare Solution - KFF Health News"
+        ]
+      },
+      {
+        "trend": "public health",
+        "market_code": "CA",
+        "category": "Global Health",
+        "score": 12,
+        "examples": [
+          "Toronto Public Health confirms 6 cases of legionnaires' disease in Bathurst, Dupont area - cbc.ca",
+          "Huron Perth Public Health appoints Associate Medical Officer of Health - StratfordToday.ca",
+          "Huron Perth Public Health names associate medical officer of health - CKNX News Today"
+        ]
+      },
+      {
+        "trend": "legionnaires disease",
+        "market_code": "CA",
+        "category": "Medical Technology",
+        "score": 11,
+        "examples": [
+          "Toronto Public Health confirms 6 cases of legionnaires' disease in Bathurst, Dupont area - cbc.ca",
+          "Toronto Public Health confirms 6 cases of legionnaires' disease in Bathurst, Dupont area - cbc.ca",
+          "Toronto Public Health investigating legionnaires’ disease outbreak near downtown core - globalnews.ca"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "CA",
+        "category": "Mental Health",
+        "score": 8,
+        "examples": [
+          "A group of attorneys general is suing Meta over mental health risks for youths - NPR",
+          "Opinion: Vancouver's public safety plebiscite is a chance to show where municipal candidates stand on mental illness - Daily Hive",
+          "Can science museums help us talk about mental health? - The Conversation"
+        ]
+      },
+      {
+        "trend": "toronto public health",
+        "market_code": "CA",
+        "category": "Global Health",
+        "score": 7,
+        "examples": [
+          "Toronto Public Health confirms 6 cases of legionnaires' disease in Bathurst, Dupont area - cbc.ca",
+          "Toronto Public Health confirms 6 cases of legionnaires' disease in Bathurst, Dupont area - cbc.ca",
+          "Toronto Public Health investigating legionnaires’ disease outbreak near downtown core - globalnews.ca"
+        ]
+      },
+      {
+        "trend": "disease outbreak",
+        "market_code": "CA",
+        "category": "Outbreaks",
+        "score": 7,
+        "examples": [
+          "Toronto Public Health investigating legionnaires’ disease outbreak near downtown core - globalnews.ca",
+          "Legionnaires’ disease outbreak reported by Toronto Public Health - CityNews Toronto",
+          "Toronto Public Health investigating legionnaires’ disease outbreak - Durham Radio News"
+        ]
+      },
+      {
+        "trend": "legionnaires disease outbreak",
+        "market_code": "CA",
+        "category": "Outbreaks",
+        "score": 7,
+        "examples": [
+          "Toronto Public Health investigating legionnaires’ disease outbreak near downtown core - globalnews.ca",
+          "Legionnaires’ disease outbreak reported by Toronto Public Health - CityNews Toronto",
+          "Toronto Public Health investigating legionnaires’ disease outbreak - Durham Radio News"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "CA",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
-      },
-      {
-        "trend": "medical research",
-        "market_code": "CA",
-        "category": "Global Health",
-        "score": 1,
-        "examples": []
-      },
-      {
-        "trend": "drug approval",
-        "market_code": "CA",
-        "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
-      },
-      {
-        "trend": "diet wellness",
-        "market_code": "CA",
-        "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "score": 7,
+        "examples": [
+          "A group of attorneys general is suing Meta over mental health risks for youths - NPR",
+          "Can science museums help us talk about mental health? - The Conversation",
+          "Mental health in individuals who have undergone metabolic bariatric surgery: a cross-sectional study using mediation analysis - Nature"
+        ]
       }
     ],
     "United Arab Emirates": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "AE",
         "category": "Arab Health",
-        "score": 1,
-        "examples": []
+        "score": 66,
+        "examples": [
+          "Ventura County nurses and health care professionals to hold speak out to save Santa Paula Hospital - National Nurses United",
+          "Kentucky Gov. Beshear Says He's 'Heard Absolutely Nothing Back' About McConnell’s Health - Time Magazine",
+          "Cone Health Names Chief Value-Based Care Officer - Cone Health"
+        ]
       },
       {
-        "trend": "outbreak",
+        "trend": "healthcare",
         "market_code": "AE",
-        "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "category": "Arab Health",
+        "score": 15,
+        "examples": [
+          "The Use of AI by Government Healthcare Agencies: Is It in the Public Interest? - Petrie-Flom Center",
+          "Patients Wary of Governments, Companies Pushing AI as a Rural Healthcare Solution - KFF Health News",
+          "Abridge expands AI decision support to more clinicians in bid to become healthcare's copilot - Fierce Healthcare"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "AE",
+        "category": "Mental Health",
+        "score": 14,
+        "examples": [
+          "Oregon congresswoman proposes program to support first responder mental health - Oregon Capital Chronicle",
+          "A group of attorneys general is suing Meta over mental health risks for youths - npr.org",
+          "A group of attorneys general is suing Meta over mental health risks for youths - npr.org"
+        ]
+      },
+      {
+        "trend": "medical",
+        "market_code": "AE",
+        "category": "Arab Health",
+        "score": 14,
+        "examples": [
+          "Here’s what we know about the police presence at Intermountain Medical Center - The Salt Lake Tribune",
+          "Intermountain Medical Center in Murray on restricted access, ambulances being diverted - ABC4 Utah",
+          "Reclassification eases taxes and banking for medical cannabis, but leaves state with questions - southdakotasearchlight.com"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "AE",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
+        "score": 13,
+        "examples": [
+          "Oregon congresswoman proposes program to support first responder mental health - Oregon Capital Chronicle",
+          "A group of attorneys general is suing Meta over mental health risks for youths - npr.org",
+          "A group of attorneys general is suing Meta over mental health risks for youths - npr.org"
+        ]
       },
       {
-        "trend": "medical research",
+        "trend": "virus",
+        "market_code": "AE",
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "Southwest Idaho resident contracts meningitis from West Nile Virus infection, health officials say - Idaho Capital Sun",
+          "West Nile virus activity spreads across San Joaquin County as positive mosquito samples climb to 74 - Stocktonia",
+          "Sutter County reports first human West Nile Virus case of the year - ABC10"
+        ]
+      },
+      {
+        "trend": "nile virus",
+        "market_code": "AE",
+        "category": "Outbreaks",
+        "score": 8,
+        "examples": [
+          "Southwest Idaho resident contracts meningitis from West Nile Virus infection, health officials say - Idaho Capital Sun",
+          "West Nile virus activity spreads across San Joaquin County as positive mosquito samples climb to 74 - Stocktonia",
+          "Sutter County reports first human West Nile Virus case of the year - ABC10"
+        ]
+      },
+      {
+        "trend": "west nile virus",
+        "market_code": "AE",
+        "category": "Outbreaks",
+        "score": 8,
+        "examples": [
+          "Southwest Idaho resident contracts meningitis from West Nile Virus infection, health officials say - Idaho Capital Sun",
+          "West Nile virus activity spreads across San Joaquin County as positive mosquito samples climb to 74 - Stocktonia",
+          "Sutter County reports first human West Nile Virus case of the year - ABC10"
+        ]
+      },
+      {
+        "trend": "public health",
         "market_code": "AE",
         "category": "Arab Health",
-        "score": 1,
-        "examples": []
+        "score": 7,
+        "examples": [
+          "Public health investigation into tuberculosis at Aurora detention center at standstill as deadline looms - Colorado Public Radio",
+          "Lincoln’s wastewater is a public health gem; how is the health department using it? - KOLN | Nebraska Local News, Weather, Sports | Lincoln, NE",
+          "MPH student unravels complexities of public health at Fairfax County Health Department internship - George Mason University"
+        ]
       },
       {
-        "trend": "drug approval",
+        "trend": "outbreak",
         "market_code": "AE",
-        "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
+        "category": "Outbreaks",
+        "score": 7,
+        "examples": [
+          "Department of Public Health confirms measles outbreak in Kentucky - WKYT",
+          "Ramona Salmonella Outbreak Grows - San Diego County News Center",
+          "Ebola outbreak now deadliest ever in DR Congo as death rate reaches 46% - CIDRAP"
+        ]
       },
       {
-        "trend": "diet wellness",
+        "trend": "infection",
         "market_code": "AE",
-        "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "category": "Outbreaks",
+        "score": 7,
+        "examples": [
+          "White House Executive Order Reshapes Childhood Vaccine Recommendations, Drawing Public Health Concerns - Infection Control Today",
+          "Southwest Idaho resident contracts meningitis from West Nile Virus infection, health officials say - Idaho Capital Sun",
+          "Southwest Idaho resident contracts meningitis from West Nile Virus infection, health officials say - Idaho Capital Sun"
+        ]
+      },
+      {
+        "trend": "cancer",
+        "market_code": "AE",
+        "category": "Chronic Disease",
+        "score": 6,
+        "examples": [
+          "Clara Maass Medical Center Attains National Accreditation from the American College of Surgeons Commission on Cancer - RWJBarnabas Health",
+          "FDA Expands Clinical Trial Eligibility for Cancer Patients - Oncology News Central",
+          "FDA Expands Approval of Pluvicto® for Metastatic Prostate Cancer: Targets a Protein Called PSMA - Memorial Sloan Kettering Cancer Center"
+        ]
       }
     ],
     "Saudi Arabia": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "SA",
         "category": "Arab Health",
-        "score": 1,
-        "examples": []
+        "score": 66,
+        "examples": [
+          "Ventura County nurses and health care professionals to hold speak out to save Santa Paula Hospital - National Nurses United",
+          "Kentucky Gov. Beshear Says He's 'Heard Absolutely Nothing Back' About McConnell’s Health - Time Magazine",
+          "Cone Health Names Chief Value-Based Care Officer - Cone Health"
+        ]
       },
       {
-        "trend": "outbreak",
+        "trend": "healthcare",
         "market_code": "SA",
-        "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "category": "Arab Health",
+        "score": 15,
+        "examples": [
+          "The Use of AI by Government Healthcare Agencies: Is It in the Public Interest? - Petrie-Flom Center",
+          "Patients Wary of Governments, Companies Pushing AI as a Rural Healthcare Solution - KFF Health News",
+          "Abridge expands AI decision support to more clinicians in bid to become healthcare's copilot - Fierce Healthcare"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "SA",
+        "category": "Mental Health",
+        "score": 14,
+        "examples": [
+          "Oregon congresswoman proposes program to support first responder mental health - Oregon Capital Chronicle",
+          "A group of attorneys general is suing Meta over mental health risks for youths - npr.org",
+          "A group of attorneys general is suing Meta over mental health risks for youths - npr.org"
+        ]
+      },
+      {
+        "trend": "medical",
+        "market_code": "SA",
+        "category": "Arab Health",
+        "score": 14,
+        "examples": [
+          "Here’s what we know about the police presence at Intermountain Medical Center - The Salt Lake Tribune",
+          "Intermountain Medical Center in Murray on restricted access, ambulances being diverted - ABC4 Utah",
+          "Reclassification eases taxes and banking for medical cannabis, but leaves state with questions - southdakotasearchlight.com"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "SA",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
+        "score": 13,
+        "examples": [
+          "Oregon congresswoman proposes program to support first responder mental health - Oregon Capital Chronicle",
+          "A group of attorneys general is suing Meta over mental health risks for youths - npr.org",
+          "A group of attorneys general is suing Meta over mental health risks for youths - npr.org"
+        ]
       },
       {
-        "trend": "medical research",
+        "trend": "virus",
+        "market_code": "SA",
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "Southwest Idaho resident contracts meningitis from West Nile Virus infection, health officials say - Idaho Capital Sun",
+          "West Nile virus activity spreads across San Joaquin County as positive mosquito samples climb to 74 - Stocktonia",
+          "Sutter County reports first human West Nile Virus case of the year - ABC10"
+        ]
+      },
+      {
+        "trend": "nile virus",
+        "market_code": "SA",
+        "category": "Outbreaks",
+        "score": 8,
+        "examples": [
+          "Southwest Idaho resident contracts meningitis from West Nile Virus infection, health officials say - Idaho Capital Sun",
+          "West Nile virus activity spreads across San Joaquin County as positive mosquito samples climb to 74 - Stocktonia",
+          "Sutter County reports first human West Nile Virus case of the year - ABC10"
+        ]
+      },
+      {
+        "trend": "west nile virus",
+        "market_code": "SA",
+        "category": "Outbreaks",
+        "score": 8,
+        "examples": [
+          "Southwest Idaho resident contracts meningitis from West Nile Virus infection, health officials say - Idaho Capital Sun",
+          "West Nile virus activity spreads across San Joaquin County as positive mosquito samples climb to 74 - Stocktonia",
+          "Sutter County reports first human West Nile Virus case of the year - ABC10"
+        ]
+      },
+      {
+        "trend": "public health",
         "market_code": "SA",
         "category": "Arab Health",
-        "score": 1,
-        "examples": []
+        "score": 7,
+        "examples": [
+          "Public health investigation into tuberculosis at Aurora detention center at standstill as deadline looms - Colorado Public Radio",
+          "Lincoln’s wastewater is a public health gem; how is the health department using it? - KOLN | Nebraska Local News, Weather, Sports | Lincoln, NE",
+          "MPH student unravels complexities of public health at Fairfax County Health Department internship - George Mason University"
+        ]
       },
       {
-        "trend": "drug approval",
+        "trend": "outbreak",
         "market_code": "SA",
-        "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
+        "category": "Outbreaks",
+        "score": 7,
+        "examples": [
+          "Department of Public Health confirms measles outbreak in Kentucky - WKYT",
+          "Ramona Salmonella Outbreak Grows - San Diego County News Center",
+          "Ebola outbreak now deadliest ever in DR Congo as death rate reaches 46% - CIDRAP"
+        ]
       },
       {
-        "trend": "diet wellness",
+        "trend": "infection",
         "market_code": "SA",
-        "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "category": "Outbreaks",
+        "score": 7,
+        "examples": [
+          "White House Executive Order Reshapes Childhood Vaccine Recommendations, Drawing Public Health Concerns - Infection Control Today",
+          "Southwest Idaho resident contracts meningitis from West Nile Virus infection, health officials say - Idaho Capital Sun",
+          "Southwest Idaho resident contracts meningitis from West Nile Virus infection, health officials say - Idaho Capital Sun"
+        ]
+      },
+      {
+        "trend": "cancer",
+        "market_code": "SA",
+        "category": "Chronic Disease",
+        "score": 6,
+        "examples": [
+          "Clara Maass Medical Center Attains National Accreditation from the American College of Surgeons Commission on Cancer - RWJBarnabas Health",
+          "FDA Expands Clinical Trial Eligibility for Cancer Patients - Oncology News Central",
+          "FDA Expands Approval of Pluvicto® for Metastatic Prostate Cancer: Targets a Protein Called PSMA - Memorial Sloan Kettering Cancer Center"
+        ]
       }
     ],
     "Qatar": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "QA",
         "category": "Arab Health",
-        "score": 1,
-        "examples": []
+        "score": 66,
+        "examples": [
+          "Ventura County nurses and health care professionals to hold speak out to save Santa Paula Hospital - National Nurses United",
+          "Kentucky Gov. Beshear Says He's 'Heard Absolutely Nothing Back' About McConnell’s Health - Time Magazine",
+          "Cone Health Names Chief Value-Based Care Officer - Cone Health"
+        ]
       },
       {
-        "trend": "outbreak",
+        "trend": "healthcare",
         "market_code": "QA",
-        "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "category": "Arab Health",
+        "score": 15,
+        "examples": [
+          "The Use of AI by Government Healthcare Agencies: Is It in the Public Interest? - Petrie-Flom Center",
+          "Patients Wary of Governments, Companies Pushing AI as a Rural Healthcare Solution - KFF Health News",
+          "Abridge expands AI decision support to more clinicians in bid to become healthcare's copilot - Fierce Healthcare"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "QA",
+        "category": "Mental Health",
+        "score": 14,
+        "examples": [
+          "Oregon congresswoman proposes program to support first responder mental health - Oregon Capital Chronicle",
+          "A group of attorneys general is suing Meta over mental health risks for youths - npr.org",
+          "A group of attorneys general is suing Meta over mental health risks for youths - npr.org"
+        ]
+      },
+      {
+        "trend": "medical",
+        "market_code": "QA",
+        "category": "Arab Health",
+        "score": 14,
+        "examples": [
+          "Here’s what we know about the police presence at Intermountain Medical Center - The Salt Lake Tribune",
+          "Intermountain Medical Center in Murray on restricted access, ambulances being diverted - ABC4 Utah",
+          "Reclassification eases taxes and banking for medical cannabis, but leaves state with questions - southdakotasearchlight.com"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "QA",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
+        "score": 13,
+        "examples": [
+          "Oregon congresswoman proposes program to support first responder mental health - Oregon Capital Chronicle",
+          "A group of attorneys general is suing Meta over mental health risks for youths - npr.org",
+          "A group of attorneys general is suing Meta over mental health risks for youths - npr.org"
+        ]
       },
       {
-        "trend": "medical research",
+        "trend": "virus",
+        "market_code": "QA",
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "Southwest Idaho resident contracts meningitis from West Nile Virus infection, health officials say - Idaho Capital Sun",
+          "West Nile virus activity spreads across San Joaquin County as positive mosquito samples climb to 74 - Stocktonia",
+          "Sutter County reports first human West Nile Virus case of the year - ABC10"
+        ]
+      },
+      {
+        "trend": "nile virus",
+        "market_code": "QA",
+        "category": "Outbreaks",
+        "score": 8,
+        "examples": [
+          "Southwest Idaho resident contracts meningitis from West Nile Virus infection, health officials say - Idaho Capital Sun",
+          "West Nile virus activity spreads across San Joaquin County as positive mosquito samples climb to 74 - Stocktonia",
+          "Sutter County reports first human West Nile Virus case of the year - ABC10"
+        ]
+      },
+      {
+        "trend": "west nile virus",
+        "market_code": "QA",
+        "category": "Outbreaks",
+        "score": 8,
+        "examples": [
+          "Southwest Idaho resident contracts meningitis from West Nile Virus infection, health officials say - Idaho Capital Sun",
+          "West Nile virus activity spreads across San Joaquin County as positive mosquito samples climb to 74 - Stocktonia",
+          "Sutter County reports first human West Nile Virus case of the year - ABC10"
+        ]
+      },
+      {
+        "trend": "public health",
         "market_code": "QA",
         "category": "Arab Health",
-        "score": 1,
-        "examples": []
+        "score": 7,
+        "examples": [
+          "Public health investigation into tuberculosis at Aurora detention center at standstill as deadline looms - Colorado Public Radio",
+          "Lincoln’s wastewater is a public health gem; how is the health department using it? - KOLN | Nebraska Local News, Weather, Sports | Lincoln, NE",
+          "MPH student unravels complexities of public health at Fairfax County Health Department internship - George Mason University"
+        ]
       },
       {
-        "trend": "drug approval",
+        "trend": "outbreak",
         "market_code": "QA",
-        "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
+        "category": "Outbreaks",
+        "score": 7,
+        "examples": [
+          "Department of Public Health confirms measles outbreak in Kentucky - WKYT",
+          "Ramona Salmonella Outbreak Grows - San Diego County News Center",
+          "Ebola outbreak now deadliest ever in DR Congo as death rate reaches 46% - CIDRAP"
+        ]
       },
       {
-        "trend": "diet wellness",
+        "trend": "infection",
         "market_code": "QA",
-        "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "category": "Outbreaks",
+        "score": 7,
+        "examples": [
+          "White House Executive Order Reshapes Childhood Vaccine Recommendations, Drawing Public Health Concerns - Infection Control Today",
+          "Southwest Idaho resident contracts meningitis from West Nile Virus infection, health officials say - Idaho Capital Sun",
+          "Southwest Idaho resident contracts meningitis from West Nile Virus infection, health officials say - Idaho Capital Sun"
+        ]
+      },
+      {
+        "trend": "cancer",
+        "market_code": "QA",
+        "category": "Chronic Disease",
+        "score": 6,
+        "examples": [
+          "Clara Maass Medical Center Attains National Accreditation from the American College of Surgeons Commission on Cancer - RWJBarnabas Health",
+          "FDA Expands Clinical Trial Eligibility for Cancer Patients - Oncology News Central",
+          "FDA Expands Approval of Pluvicto® for Metastatic Prostate Cancer: Targets a Protein Called PSMA - Memorial Sloan Kettering Cancer Center"
+        ]
       }
     ],
     "Jordan": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "JO",
         "category": "Arab Health",
-        "score": 1,
-        "examples": []
+        "score": 66,
+        "examples": [
+          "Ventura County nurses and health care professionals to hold speak out to save Santa Paula Hospital - National Nurses United",
+          "Kentucky Gov. Beshear Says He's 'Heard Absolutely Nothing Back' About McConnell’s Health - Time Magazine",
+          "Cone Health Names Chief Value-Based Care Officer - Cone Health"
+        ]
       },
       {
-        "trend": "outbreak",
+        "trend": "healthcare",
         "market_code": "JO",
-        "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "category": "Arab Health",
+        "score": 15,
+        "examples": [
+          "The Use of AI by Government Healthcare Agencies: Is It in the Public Interest? - Petrie-Flom Center",
+          "Patients Wary of Governments, Companies Pushing AI as a Rural Healthcare Solution - KFF Health News",
+          "Abridge expands AI decision support to more clinicians in bid to become healthcare's copilot - Fierce Healthcare"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "JO",
+        "category": "Mental Health",
+        "score": 14,
+        "examples": [
+          "Oregon congresswoman proposes program to support first responder mental health - Oregon Capital Chronicle",
+          "A group of attorneys general is suing Meta over mental health risks for youths - npr.org",
+          "A group of attorneys general is suing Meta over mental health risks for youths - npr.org"
+        ]
+      },
+      {
+        "trend": "medical",
+        "market_code": "JO",
+        "category": "Arab Health",
+        "score": 14,
+        "examples": [
+          "Here’s what we know about the police presence at Intermountain Medical Center - The Salt Lake Tribune",
+          "Intermountain Medical Center in Murray on restricted access, ambulances being diverted - ABC4 Utah",
+          "Reclassification eases taxes and banking for medical cannabis, but leaves state with questions - southdakotasearchlight.com"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "JO",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
+        "score": 13,
+        "examples": [
+          "Oregon congresswoman proposes program to support first responder mental health - Oregon Capital Chronicle",
+          "A group of attorneys general is suing Meta over mental health risks for youths - npr.org",
+          "A group of attorneys general is suing Meta over mental health risks for youths - npr.org"
+        ]
       },
       {
-        "trend": "medical research",
+        "trend": "virus",
+        "market_code": "JO",
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "Southwest Idaho resident contracts meningitis from West Nile Virus infection, health officials say - Idaho Capital Sun",
+          "West Nile virus activity spreads across San Joaquin County as positive mosquito samples climb to 74 - Stocktonia",
+          "Sutter County reports first human West Nile Virus case of the year - ABC10"
+        ]
+      },
+      {
+        "trend": "nile virus",
+        "market_code": "JO",
+        "category": "Outbreaks",
+        "score": 8,
+        "examples": [
+          "Southwest Idaho resident contracts meningitis from West Nile Virus infection, health officials say - Idaho Capital Sun",
+          "West Nile virus activity spreads across San Joaquin County as positive mosquito samples climb to 74 - Stocktonia",
+          "Sutter County reports first human West Nile Virus case of the year - ABC10"
+        ]
+      },
+      {
+        "trend": "west nile virus",
+        "market_code": "JO",
+        "category": "Outbreaks",
+        "score": 8,
+        "examples": [
+          "Southwest Idaho resident contracts meningitis from West Nile Virus infection, health officials say - Idaho Capital Sun",
+          "West Nile virus activity spreads across San Joaquin County as positive mosquito samples climb to 74 - Stocktonia",
+          "Sutter County reports first human West Nile Virus case of the year - ABC10"
+        ]
+      },
+      {
+        "trend": "public health",
         "market_code": "JO",
         "category": "Arab Health",
-        "score": 1,
-        "examples": []
+        "score": 7,
+        "examples": [
+          "Public health investigation into tuberculosis at Aurora detention center at standstill as deadline looms - Colorado Public Radio",
+          "Lincoln’s wastewater is a public health gem; how is the health department using it? - KOLN | Nebraska Local News, Weather, Sports | Lincoln, NE",
+          "MPH student unravels complexities of public health at Fairfax County Health Department internship - George Mason University"
+        ]
       },
       {
-        "trend": "drug approval",
+        "trend": "outbreak",
         "market_code": "JO",
-        "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
+        "category": "Outbreaks",
+        "score": 7,
+        "examples": [
+          "Department of Public Health confirms measles outbreak in Kentucky - WKYT",
+          "Ramona Salmonella Outbreak Grows - San Diego County News Center",
+          "Ebola outbreak now deadliest ever in DR Congo as death rate reaches 46% - CIDRAP"
+        ]
       },
       {
-        "trend": "diet wellness",
+        "trend": "infection",
         "market_code": "JO",
-        "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "category": "Outbreaks",
+        "score": 7,
+        "examples": [
+          "White House Executive Order Reshapes Childhood Vaccine Recommendations, Drawing Public Health Concerns - Infection Control Today",
+          "Southwest Idaho resident contracts meningitis from West Nile Virus infection, health officials say - Idaho Capital Sun",
+          "Southwest Idaho resident contracts meningitis from West Nile Virus infection, health officials say - Idaho Capital Sun"
+        ]
+      },
+      {
+        "trend": "cancer",
+        "market_code": "JO",
+        "category": "Chronic Disease",
+        "score": 6,
+        "examples": [
+          "Clara Maass Medical Center Attains National Accreditation from the American College of Surgeons Commission on Cancer - RWJBarnabas Health",
+          "FDA Expands Clinical Trial Eligibility for Cancer Patients - Oncology News Central",
+          "FDA Expands Approval of Pluvicto® for Metastatic Prostate Cancer: Targets a Protein Called PSMA - Memorial Sloan Kettering Cancer Center"
+        ]
       }
     ],
     "Lebanon": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "LB",
         "category": "Arab Health",
-        "score": 1,
-        "examples": []
+        "score": 66,
+        "examples": [
+          "Ventura County nurses and health care professionals to hold speak out to save Santa Paula Hospital - National Nurses United",
+          "Kentucky Gov. Beshear Says He's 'Heard Absolutely Nothing Back' About McConnell’s Health - Time Magazine",
+          "Cone Health Names Chief Value-Based Care Officer - Cone Health"
+        ]
       },
       {
-        "trend": "outbreak",
+        "trend": "healthcare",
         "market_code": "LB",
-        "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "category": "Arab Health",
+        "score": 15,
+        "examples": [
+          "The Use of AI by Government Healthcare Agencies: Is It in the Public Interest? - Petrie-Flom Center",
+          "Patients Wary of Governments, Companies Pushing AI as a Rural Healthcare Solution - KFF Health News",
+          "Abridge expands AI decision support to more clinicians in bid to become healthcare's copilot - Fierce Healthcare"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "LB",
+        "category": "Mental Health",
+        "score": 14,
+        "examples": [
+          "Oregon congresswoman proposes program to support first responder mental health - Oregon Capital Chronicle",
+          "A group of attorneys general is suing Meta over mental health risks for youths - npr.org",
+          "A group of attorneys general is suing Meta over mental health risks for youths - npr.org"
+        ]
+      },
+      {
+        "trend": "medical",
+        "market_code": "LB",
+        "category": "Arab Health",
+        "score": 14,
+        "examples": [
+          "Here’s what we know about the police presence at Intermountain Medical Center - The Salt Lake Tribune",
+          "Intermountain Medical Center in Murray on restricted access, ambulances being diverted - ABC4 Utah",
+          "Reclassification eases taxes and banking for medical cannabis, but leaves state with questions - southdakotasearchlight.com"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "LB",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
+        "score": 13,
+        "examples": [
+          "Oregon congresswoman proposes program to support first responder mental health - Oregon Capital Chronicle",
+          "A group of attorneys general is suing Meta over mental health risks for youths - npr.org",
+          "A group of attorneys general is suing Meta over mental health risks for youths - npr.org"
+        ]
       },
       {
-        "trend": "medical research",
+        "trend": "virus",
+        "market_code": "LB",
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "Southwest Idaho resident contracts meningitis from West Nile Virus infection, health officials say - Idaho Capital Sun",
+          "West Nile virus activity spreads across San Joaquin County as positive mosquito samples climb to 74 - Stocktonia",
+          "Sutter County reports first human West Nile Virus case of the year - ABC10"
+        ]
+      },
+      {
+        "trend": "nile virus",
+        "market_code": "LB",
+        "category": "Outbreaks",
+        "score": 8,
+        "examples": [
+          "Southwest Idaho resident contracts meningitis from West Nile Virus infection, health officials say - Idaho Capital Sun",
+          "West Nile virus activity spreads across San Joaquin County as positive mosquito samples climb to 74 - Stocktonia",
+          "Sutter County reports first human West Nile Virus case of the year - ABC10"
+        ]
+      },
+      {
+        "trend": "west nile virus",
+        "market_code": "LB",
+        "category": "Outbreaks",
+        "score": 8,
+        "examples": [
+          "Southwest Idaho resident contracts meningitis from West Nile Virus infection, health officials say - Idaho Capital Sun",
+          "West Nile virus activity spreads across San Joaquin County as positive mosquito samples climb to 74 - Stocktonia",
+          "Sutter County reports first human West Nile Virus case of the year - ABC10"
+        ]
+      },
+      {
+        "trend": "public health",
         "market_code": "LB",
         "category": "Arab Health",
-        "score": 1,
-        "examples": []
+        "score": 7,
+        "examples": [
+          "Public health investigation into tuberculosis at Aurora detention center at standstill as deadline looms - Colorado Public Radio",
+          "Lincoln’s wastewater is a public health gem; how is the health department using it? - KOLN | Nebraska Local News, Weather, Sports | Lincoln, NE",
+          "MPH student unravels complexities of public health at Fairfax County Health Department internship - George Mason University"
+        ]
       },
       {
-        "trend": "drug approval",
+        "trend": "outbreak",
         "market_code": "LB",
-        "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
+        "category": "Outbreaks",
+        "score": 7,
+        "examples": [
+          "Department of Public Health confirms measles outbreak in Kentucky - WKYT",
+          "Ramona Salmonella Outbreak Grows - San Diego County News Center",
+          "Ebola outbreak now deadliest ever in DR Congo as death rate reaches 46% - CIDRAP"
+        ]
       },
       {
-        "trend": "diet wellness",
+        "trend": "infection",
         "market_code": "LB",
-        "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "category": "Outbreaks",
+        "score": 7,
+        "examples": [
+          "White House Executive Order Reshapes Childhood Vaccine Recommendations, Drawing Public Health Concerns - Infection Control Today",
+          "Southwest Idaho resident contracts meningitis from West Nile Virus infection, health officials say - Idaho Capital Sun",
+          "Southwest Idaho resident contracts meningitis from West Nile Virus infection, health officials say - Idaho Capital Sun"
+        ]
+      },
+      {
+        "trend": "cancer",
+        "market_code": "LB",
+        "category": "Chronic Disease",
+        "score": 6,
+        "examples": [
+          "Clara Maass Medical Center Attains National Accreditation from the American College of Surgeons Commission on Cancer - RWJBarnabas Health",
+          "FDA Expands Clinical Trial Eligibility for Cancer Patients - Oncology News Central",
+          "FDA Expands Approval of Pluvicto® for Metastatic Prostate Cancer: Targets a Protein Called PSMA - Memorial Sloan Kettering Cancer Center"
+        ]
       }
     ]
   }
