@@ -1,0 +1,68 @@
+---
+title: "South Asia has largest health workforce shortage in achieving universal health coverage: Study"
+description: "South Asia has largest health workforce shortage in achieving universal health coverage: Study Deccan Herald"
+slug: "south-asia-has-largest-health-workforce-shortage-in-achieving-universal-health-coverage-study-01d499ce6e"
+category: "Asia Health"
+region: "India"
+source: "Google News / India"
+source_url: "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOOVNWcXdReUdmY3BpdUVwa3RmcnhxYkF3OURqenJqOW5HRVNENm5tWWk3YWVXVVFCYmxJUndueFpFV3I4Y1ZMczlTRVpmMXd0NGhRaVlDajV1Y21Zal9kNk1XMzdXNnZRQzNSbFlGYmgxdndDY2RSSWlpajJodVZTMFNfSkwta3dEWnFwY1V6T2x4b25YQmRRbDRld1JLVWlXM1k3RnNCVGtaN1JlYnRTakN1TXZJWktXa0pJbFY3Tk1MSlZTZVJaWVpPNUxyTHdRdkd2b2VUTzQ3UDhtUVN3T2FB?oc=5"
+source_confidence: "medium"
+published_at: "Wed, 19 Aug 2026 02:03:05 GMT"
+generated_at: "2026-08-19T06:22:08.285539+00:00"
+image_url: "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+trend: "healthcare"
+keywords:
+  - "healthcare"
+  - "asia health"
+  - "india health news"
+  - "health trends"
+  - "medical news"
+  - "public health"
+  - "south"
+  - "asia"
+  - "largest"
+  - "health"
+  - "workforce"
+  - "shortage"
+  - "achieving"
+  - "universal"
+  - "coverage"
+  - "deccan"
+  - "herald"
+---
+
+# South Asia has largest health workforce shortage in achieving universal health coverage: Study
+
+South Asia has largest health workforce shortage in achieving universal health coverage: Study Deccan Herald
+
+## Why this topic is trending
+
+This update was selected because it is connected to a detected health trend in **India**.
+
+Tracked trend: **healthcare**.
+
+## What happened
+
+This update is part of a wider health signal being monitored from public sources and regional news feeds. It may relate to public health, medical research, symptoms, outbreaks, treatments, wellness, healthcare systems, or health technology.
+
+## Why it matters
+
+- It may affect public awareness or online health searches.
+- It may be connected to health policy, disease monitoring, treatment updates, or scientific research.
+- The original source should be reviewed for full details and context.
+
+## Region
+
+**India**
+
+## Category
+
+**Asia Health**
+
+## Source context
+
+This article summarizes a public health signal from **Google News / India**. HantaUpdates links to the original source so readers can verify details directly.
+
+## Medical disclaimer
+
+HantaUpdates does not provide medical advice, diagnosis, or treatment. Always follow guidance from your local health authority or a qualified medical professional.
