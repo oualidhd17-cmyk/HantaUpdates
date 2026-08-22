@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-22T00:27:50.442264+00:00",
+  "updated_at": "2026-08-22T06:17:22.160269+00:00",
   "total_trends": 252,
   "markets": {
     "United States": [
@@ -7,11 +7,11 @@
         "trend": "health",
         "market_code": "US",
         "category": "US Health",
-        "score": 75,
+        "score": 79,
         "examples": [
           "Confirmed Detections of New World Screwworm | Animal and Plant Health Inspection Service - aphis.usda.gov",
           "In partnership with Morehouse School of Medicine, Atrium Health commits more than $700 million to a new teaching hospital and care network - City Of Atlanta, Ga (.gov)",
-          "Nebraska’s Growing Role in Health Initiatives Highlighted During Visit by HHS Secretary Kennedy - Nebraska Governor's Office (.gov)"
+          "Coroner: Man found dead hours before 911 call at Danville behavioral health facility - fox56.com"
         ]
       },
       {
@@ -21,52 +21,30 @@
         "score": 19,
         "examples": [
           "Disney will cut medical insurance for employees' spouses who can get coverage through their own jobs - Business Insider",
-          "Carlos Baleba set for Manchester United medical after £70m deal agreed with Brighton - The Athletic - The New York Times",
-          "Cellular Bodyguards Protect Lung Cancer - Columbia University Irving Medical Center"
+          "Family visiting St. Louis for medical care awakened by volleys of gunfire outside a short-term rental - First Alert 4",
+          "New UMSOP Graduate Certificate in Medical Cannabis Clinical Science - The University of Maryland, Baltimore"
         ]
       },
       {
         "trend": "outbreak",
         "market_code": "US",
         "category": "Outbreaks",
-        "score": 13,
+        "score": 16,
         "examples": [
-          "Where People Got Sick: E. coli and Salmonella Outbreak, August 2026 - Centers for Disease Control and Prevention | CDC (.gov)",
-          "E. coli and Salmonella Outbreak Linked to Alfalfa Sprouts - Centers for Disease Control and Prevention | CDC (.gov)",
-          "At least 55 sickened in salmonella, E. coli outbreak linked to alfalfa sprouts - ABC News - Breaking News, Latest News and Videos"
+          "San Francisco Department of Public Health officials report 10 cyclosporiasis cases so far in 2026; no known outbreak in the city - ABC7 Bay Area",
+          "San Francisco Department of Public Health officials report 10 cyclosporiasis cases so far in 2026; no known outbreak in the city - ABC7 Bay Area",
+          "Cyclospora Outbreak: Cases Approach 16,000 Across 47 States - Healthline"
         ]
       },
       {
         "trend": "mental",
         "market_code": "US",
         "category": "Mental Health",
-        "score": 12,
-        "examples": [
-          "As USS Lincoln heads home, mental health experts tally the stressors of life at sea - NPR",
-          "As USS Lincoln heads home, mental health experts tally the stressors of life at sea - NPR",
-          "The Professor Who Turned the Camera on Mental Health in College Sports - The Catholic University of America"
-        ]
-      },
-      {
-        "trend": "mental health",
-        "market_code": "US",
-        "category": "Mental Health",
         "score": 11,
         "examples": [
-          "As USS Lincoln heads home, mental health experts tally the stressors of life at sea - NPR",
-          "As USS Lincoln heads home, mental health experts tally the stressors of life at sea - NPR",
-          "The Professor Who Turned the Camera on Mental Health in College Sports - The Catholic University of America"
-        ]
-      },
-      {
-        "trend": "healthcare",
-        "market_code": "US",
-        "category": "US Health",
-        "score": 10,
-        "examples": [
-          "Jersey City mom turns to 7 On Your Side for help with son's healthcare coverage as he fights cancer - ABC7 New York",
-          "Epic MyChart phishing scam prompts hospital warnings - Modern Healthcare",
-          "Early Alert for GE Healthcare Portrait Mobile Monitoring Software - respiratory-therapy.com"
+          "The Professor Who Turned the Camera on Mental Health in College Sports - The Catholic University of America",
+          "Colts and Falcons join forces in Kicking the Stigma around mental health - Colts.com",
+          "Sen. Kolkhorst celebrates $35M mental health facility for Texas foster youth - KBTX News 3"
         ]
       },
       {
@@ -75,9 +53,20 @@
         "category": "Outbreaks",
         "score": 10,
         "examples": [
-          "Michigan reports 2 swine flu, influenza A(H1N2) variant virus cases - Outbreak News Today",
-          "Elderly woman's death related to West Nile virus, Montgomery County officials say - ABC13 Houston",
+          "Los Angeles County reports first West Nile virus death of 2026 - ABC7 Los Angeles",
+          "First West Nile virus death of 2026 reported in Los Angeles County - KTLA",
           "VDH reports 6 human West Nile virus cases in Virginia - WAVY.com"
+        ]
+      },
+      {
+        "trend": "mental health",
+        "market_code": "US",
+        "category": "Mental Health",
+        "score": 10,
+        "examples": [
+          "The Professor Who Turned the Camera on Mental Health in College Sports - The Catholic University of America",
+          "Colts and Falcons join forces in Kicking the Stigma around mental health - Colts.com",
+          "Sen. Kolkhorst celebrates $35M mental health facility for Texas foster youth - KBTX News 3"
         ]
       },
       {
@@ -92,14 +81,36 @@
         ]
       },
       {
-        "trend": "cancer",
+        "trend": "nile virus",
         "market_code": "US",
-        "category": "Chronic Disease",
+        "category": "Outbreaks",
         "score": 9,
         "examples": [
-          "Jersey City mom turns to 7 On Your Side for help with son's healthcare coverage as he fights cancer - ABC7 New York",
-          "Cellular Bodyguards Protect Lung Cancer - Columbia University Irving Medical Center",
-          "County-Level Medical Debt Tied to Later-Stage Cancer Diagnosis, Worse Survival - CancerNetwork"
+          "Los Angeles County reports first West Nile virus death of 2026 - ABC7 Los Angeles",
+          "First West Nile virus death of 2026 reported in Los Angeles County - KTLA",
+          "VDH reports 6 human West Nile virus cases in Virginia - WAVY.com"
+        ]
+      },
+      {
+        "trend": "west nile virus",
+        "market_code": "US",
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "Los Angeles County reports first West Nile virus death of 2026 - ABC7 Los Angeles",
+          "First West Nile virus death of 2026 reported in Los Angeles County - KTLA",
+          "VDH reports 6 human West Nile virus cases in Virginia - WAVY.com"
+        ]
+      },
+      {
+        "trend": "public health",
+        "market_code": "US",
+        "category": "US Health",
+        "score": 8,
+        "examples": [
+          "San Francisco Department of Public Health officials report 10 cyclosporiasis cases so far in 2026; no known outbreak in the city - ABC7 Bay Area",
+          "San Francisco Department of Public Health officials report 10 cyclosporiasis cases so far in 2026; no known outbreak in the city - ABC7 Bay Area",
+          "Public health order to ban the sale of kratom in Albany County - NEWS10 ABC"
         ]
       },
       {
@@ -109,30 +120,19 @@
         "score": 8,
         "examples": [
           "Where People Got Sick: E. coli and Salmonella Outbreak, August 2026 - Centers for Disease Control and Prevention | CDC (.gov)",
-          "Backlit: Disease detective - Berkeley Inspire",
-          "E. coli and Salmonella Outbreak Linked to Alfalfa Sprouts - Centers for Disease Control and Prevention | CDC (.gov)"
+          "Investigation Update: E. coli and Salmonella Outbreak, August 2026 - Centers for Disease Control and Prevention | CDC (.gov)",
+          "Clade I Mpox Transmission Risk During Air Travel Is Low - Infectious Disease Special Edition"
         ]
       },
       {
-        "trend": "infection",
+        "trend": "healthcare",
         "market_code": "US",
-        "category": "Outbreaks",
+        "category": "US Health",
         "score": 8,
         "examples": [
-          "Video Health alert about cyclosporiasis parasitic infection - ABC News - Breaking News, Latest News and Videos",
-          "Ruston community rallies for 8-year-old fighting rare infection - KNOE",
-          "Ramona woman sues market, egg ranch as salmonella infection cases grow - San Diego Union-Tribune"
-        ]
-      },
-      {
-        "trend": "nile virus",
-        "market_code": "US",
-        "category": "Outbreaks",
-        "score": 8,
-        "examples": [
-          "Elderly woman's death related to West Nile virus, Montgomery County officials say - ABC13 Houston",
-          "VDH reports 6 human West Nile virus cases in Virginia - WAVY.com",
-          "Two Rivers: West Nile Virus detected in Dawson County mosquitos - Central Nebraska Today"
+          "Healthcare AI Must Earn Trust Before Adoption - Cisco Blogs",
+          "Abridge expands AI decision support to more clinicians in bid to become healthcare's copilot - Fierce Healthcare",
+          "Abridge expands AI decision support to more clinicians in bid to become healthcare's copilot - Fierce Healthcare"
         ]
       }
     ],
@@ -141,11 +141,11 @@
         "trend": "health",
         "market_code": "GB",
         "category": "Europe Health",
-        "score": 60,
+        "score": 62,
         "examples": [
+          "Norton Rose Fulbright advises DocGo on acquisition of Hicuity Health - Norton Rose Fulbright",
           "PM challenged to song battle by health campaigner - BBC",
-          "Help shape a new health inequalities learning resource at QVH - Queen Victoria Hospital",
-          "durex - Official Health and Wellness Partner in China - Manchester City FC"
+          "Help shape a new health inequalities learning resource at QVH - Queen Victoria Hospital"
         ]
       },
       {
@@ -154,64 +154,64 @@
         "category": "Europe Health",
         "score": 17,
         "examples": [
-          "The Duty of Care Employers Owe Medical Cannabis Patients Copy - cannabishealthnews.co.uk",
           "Interview: medical training at a crossroads - Royal College of Physicians (RCP)",
+          "Who are Scanlon and Ogunneye? Arsenal book medical for double Man Utd transfer raid - London Evening Standard",
           "Carlos Baleba set for Manchester United medical after £70m deal agreed with Brighton - The Athletic - The New York Times"
-        ]
-      },
-      {
-        "trend": "vaccine",
-        "market_code": "GB",
-        "category": "Drug & Treatment News",
-        "score": 13,
-        "examples": [
-          "Ebola in DR Congo: Vaccine trial to start as WHO warns about speed of infections - BBC",
-          "Congo gambles on ‘old’ vaccine as new Ebola virus spirals - The Telegraph",
-          "Ebola vaccine trial to start in DR Congo as warning issued over speed of infections - BBC"
-        ]
-      },
-      {
-        "trend": "mental",
-        "market_code": "GB",
-        "category": "Mental Health",
-        "score": 12,
-        "examples": [
-          "Mental health coffee morning in Huyton - Knowsley News",
-          "Cats are the only common pet linked to more mental health problems in children, study finds - The Independent",
-          "Epic Burwick to Birsay walk for mental health - The Orcadian Online"
         ]
       },
       {
         "trend": "outbreak",
         "market_code": "GB",
         "category": "Outbreaks",
-        "score": 11,
+        "score": 13,
         "examples": [
-          "Where People Got Sick: E. coli and Salmonella Outbreak, August 2026 - Centers for Disease Control and Prevention | CDC (.gov)",
-          "Second deadliest Ebola outbreak on record spreads across the eastern Congo - World Socialist Web Site",
-          "E. coli and Salmonella Outbreak Linked to Alfalfa Sprouts - Centers for Disease Control and Prevention | CDC (.gov)"
+          "San Francisco Department of Public Health officials report 10 cyclosporiasis cases so far in 2026; no known outbreak in the city - ABC7 Bay Area",
+          "Cyclospora Outbreak: Cases Approach 16,000 Across 47 States - Healthline",
+          "Where People Got Sick: E. coli and Salmonella Outbreak, August 2026 - Centers for Disease Control and Prevention | CDC (.gov)"
         ]
       },
       {
-        "trend": "mental health",
+        "trend": "vaccine",
         "market_code": "GB",
-        "category": "Mental Health",
-        "score": 10,
+        "category": "Drug & Treatment News",
+        "score": 12,
         "examples": [
-          "Mental health coffee morning in Huyton - Knowsley News",
-          "Cats are the only common pet linked to more mental health problems in children, study finds - The Independent",
-          "Epic Burwick to Birsay walk for mental health - The Orcadian Online"
+          "Congo gambles on ‘old’ vaccine as new Ebola virus spirals - The Telegraph",
+          "Ebola vaccine trial to start in DR Congo as warning issued over speed of infections - BBC",
+          "Moderna, Merck vaccine cuts recurrence and spread of melanoma, raising new treatment hope - Reuters"
         ]
       },
       {
         "trend": "healthcare",
         "market_code": "GB",
         "category": "Europe Health",
-        "score": 9,
+        "score": 10,
         "examples": [
+          "Integration of consumer AI into healthcare pathways - Nature",
           "Epic MyChart phishing scam prompts hospital warnings - Modern Healthcare",
-          "The Potential Impact of an AI Bubble Collapse and Market Correction on the European Healthcare Technology sector - healthcare.digital",
-          "The Potential Impact of an AI Bubble Collapse and Market Correction on the European Healthcare Technology sector - healthcare.digital"
+          "AI is now deciding who gets healthcare in 6 US states – and it's already harming patients - BBC Science Focus Magazine"
+        ]
+      },
+      {
+        "trend": "virus",
+        "market_code": "GB",
+        "category": "Outbreaks",
+        "score": 10,
+        "examples": [
+          "Montgomery County woman dies from West Nile virus, health officials confirm - Click2Houston",
+          "Congo gambles on ‘old’ vaccine as new Ebola virus spirals - The Telegraph",
+          "Local MP raises concern over potentially deadly farm animal virus - Yahoo News UK"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "GB",
+        "category": "Mental Health",
+        "score": 10,
+        "examples": [
+          "NHS worker suffering mental health crisis fined over drink-drive offence - Westmorland Gazette",
+          "Mental health coffee morning in Huyton - Knowsley News",
+          "Epic Burwick to Birsay walk for mental health - The Orcadian Online"
         ]
       },
       {
@@ -226,47 +226,47 @@
         ]
       },
       {
-        "trend": "disease",
+        "trend": "mental health",
         "market_code": "GB",
-        "category": "Europe Health",
+        "category": "Mental Health",
         "score": 8,
         "examples": [
-          "Where People Got Sick: E. coli and Salmonella Outbreak, August 2026 - Centers for Disease Control and Prevention | CDC (.gov)",
-          "E. coli and Salmonella Outbreak Linked to Alfalfa Sprouts - Centers for Disease Control and Prevention | CDC (.gov)",
-          "Study suggests new antibody therapy for tick-borne disease - University of California, Riverside"
+          "NHS worker suffering mental health crisis fined over drink-drive offence - Westmorland Gazette",
+          "Mental health coffee morning in Huyton - Knowsley News",
+          "Epic Burwick to Birsay walk for mental health - The Orcadian Online"
         ]
       },
       {
-        "trend": "salmonella outbreak",
+        "trend": "nile virus",
         "market_code": "GB",
         "category": "Outbreaks",
-        "score": 8,
-        "examples": [
-          "Where People Got Sick: E. coli and Salmonella Outbreak, August 2026 - Centers for Disease Control and Prevention | CDC (.gov)",
-          "E. coli and Salmonella Outbreak Linked to Alfalfa Sprouts - Centers for Disease Control and Prevention | CDC (.gov)",
-          "Salmonella outbreak: How can you stay safe? - Sky News"
-        ]
-      },
-      {
-        "trend": "virus",
-        "market_code": "GB",
-        "category": "Outbreaks",
-        "score": 8,
+        "score": 7,
         "examples": [
           "Montgomery County woman dies from West Nile virus, health officials confirm - Click2Houston",
-          "Congo gambles on ‘old’ vaccine as new Ebola virus spirals - The Telegraph",
+          "West Nile virus reported in 12 European countries: EU health agency - Medical Xpress",
           "West Nile virus deaths are climbing as US enters peak season for deadly mosquito-borne infections - The Independent"
         ]
       },
       {
-        "trend": "warning",
+        "trend": "west nile virus",
+        "market_code": "GB",
+        "category": "Outbreaks",
+        "score": 7,
+        "examples": [
+          "Montgomery County woman dies from West Nile virus, health officials confirm - Click2Houston",
+          "West Nile virus reported in 12 European countries: EU health agency - Medical Xpress",
+          "West Nile virus deaths are climbing as US enters peak season for deadly mosquito-borne infections - The Independent"
+        ]
+      },
+      {
+        "trend": "disease",
         "market_code": "GB",
         "category": "Europe Health",
         "score": 7,
         "examples": [
-          "Vet issues warning to dog owners who play fetch with sticks at the park - Wales Online",
-          "France issues warning over thousands of substandard condoms - dw.com",
-          "Vet issues warning to dog owners who play fetch with sticks at the park - Cambridge News"
+          "Where People Got Sick: E. coli and Salmonella Outbreak, August 2026 - Centers for Disease Control and Prevention | CDC (.gov)",
+          "Study suggests new antibody therapy for tick-borne disease - University of California, Riverside",
+          "Investigation Update: E. coli and Salmonella Outbreak, August 2026 - Centers for Disease Control and Prevention | CDC (.gov)"
         ]
       }
     ],
@@ -275,11 +275,11 @@
         "trend": "health",
         "market_code": "DE",
         "category": "Europe Health",
-        "score": 76,
+        "score": 79,
         "examples": [
           "Confirmed Detections of New World Screwworm | Animal and Plant Health Inspection Service - aphis.usda.gov",
           "In partnership with Morehouse School of Medicine, Atrium Health commits more than $700 million to a new teaching hospital and care network - City Of Atlanta, Ga (.gov)",
-          "Nebraska’s Growing Role in Health Initiatives Highlighted During Visit by HHS Secretary Kennedy - Nebraska Governor's Office (.gov)"
+          "Coroner: Man found dead hours before 911 call at Danville behavioral health facility - fox56.com"
         ]
       },
       {
@@ -289,52 +289,30 @@
         "score": 19,
         "examples": [
           "Disney will cut medical insurance for employees' spouses who can get coverage through their own jobs - Business Insider",
-          "Carlos Baleba set for Manchester United medical after £70m deal agreed with Brighton - The Athletic - The New York Times",
-          "Cellular Bodyguards Protect Lung Cancer - Columbia University Irving Medical Center"
+          "Family visiting St. Louis for medical care awakened by volleys of gunfire outside a short-term rental - First Alert 4",
+          "New UMSOP Graduate Certificate in Medical Cannabis Clinical Science - The University of Maryland, Baltimore"
         ]
       },
       {
         "trend": "outbreak",
         "market_code": "DE",
         "category": "Outbreaks",
-        "score": 13,
+        "score": 16,
         "examples": [
-          "Where People Got Sick: E. coli and Salmonella Outbreak, August 2026 - Centers for Disease Control and Prevention | CDC (.gov)",
-          "E. coli and Salmonella Outbreak Linked to Alfalfa Sprouts - Centers for Disease Control and Prevention | CDC (.gov)",
-          "At least 55 sickened in salmonella, E. coli outbreak linked to alfalfa sprouts - ABC News - Breaking News, Latest News and Videos"
+          "San Francisco Department of Public Health officials report 10 cyclosporiasis cases so far in 2026; no known outbreak in the city - ABC7 Bay Area",
+          "San Francisco Department of Public Health officials report 10 cyclosporiasis cases so far in 2026; no known outbreak in the city - ABC7 Bay Area",
+          "Cyclospora Outbreak: Cases Approach 16,000 Across 47 States - Healthline"
         ]
       },
       {
         "trend": "mental",
         "market_code": "DE",
         "category": "Mental Health",
-        "score": 12,
-        "examples": [
-          "As USS Lincoln heads home, mental health experts tally the stressors of life at sea - NPR",
-          "As USS Lincoln heads home, mental health experts tally the stressors of life at sea - NPR",
-          "The Professor Who Turned the Camera on Mental Health in College Sports - The Catholic University of America"
-        ]
-      },
-      {
-        "trend": "mental health",
-        "market_code": "DE",
-        "category": "Mental Health",
         "score": 11,
         "examples": [
-          "As USS Lincoln heads home, mental health experts tally the stressors of life at sea - NPR",
-          "As USS Lincoln heads home, mental health experts tally the stressors of life at sea - NPR",
-          "The Professor Who Turned the Camera on Mental Health in College Sports - The Catholic University of America"
-        ]
-      },
-      {
-        "trend": "healthcare",
-        "market_code": "DE",
-        "category": "Europe Health",
-        "score": 10,
-        "examples": [
-          "Jersey City mom turns to 7 On Your Side for help with son's healthcare coverage as he fights cancer - ABC7 New York",
-          "Epic MyChart phishing scam prompts hospital warnings - Modern Healthcare",
-          "Early Alert for GE Healthcare Portrait Mobile Monitoring Software - respiratory-therapy.com"
+          "The Professor Who Turned the Camera on Mental Health in College Sports - The Catholic University of America",
+          "Colts and Falcons join forces in Kicking the Stigma around mental health - Colts.com",
+          "Sen. Kolkhorst celebrates $35M mental health facility for Texas foster youth - KBTX News 3"
         ]
       },
       {
@@ -343,9 +321,20 @@
         "category": "Outbreaks",
         "score": 10,
         "examples": [
-          "Michigan reports 2 swine flu, influenza A(H1N2) variant virus cases - Outbreak News Today",
-          "Elderly woman's death related to West Nile virus, Montgomery County officials say - ABC13 Houston",
+          "Los Angeles County reports first West Nile virus death of 2026 - ABC7 Los Angeles",
+          "First West Nile virus death of 2026 reported in Los Angeles County - KTLA",
           "VDH reports 6 human West Nile virus cases in Virginia - WAVY.com"
+        ]
+      },
+      {
+        "trend": "mental health",
+        "market_code": "DE",
+        "category": "Mental Health",
+        "score": 10,
+        "examples": [
+          "The Professor Who Turned the Camera on Mental Health in College Sports - The Catholic University of America",
+          "Colts and Falcons join forces in Kicking the Stigma around mental health - Colts.com",
+          "Sen. Kolkhorst celebrates $35M mental health facility for Texas foster youth - KBTX News 3"
         ]
       },
       {
@@ -360,14 +349,36 @@
         ]
       },
       {
-        "trend": "cancer",
+        "trend": "nile virus",
         "market_code": "DE",
-        "category": "Chronic Disease",
+        "category": "Outbreaks",
         "score": 9,
         "examples": [
-          "Jersey City mom turns to 7 On Your Side for help with son's healthcare coverage as he fights cancer - ABC7 New York",
-          "Cellular Bodyguards Protect Lung Cancer - Columbia University Irving Medical Center",
-          "County-Level Medical Debt Tied to Later-Stage Cancer Diagnosis, Worse Survival - CancerNetwork"
+          "Los Angeles County reports first West Nile virus death of 2026 - ABC7 Los Angeles",
+          "First West Nile virus death of 2026 reported in Los Angeles County - KTLA",
+          "VDH reports 6 human West Nile virus cases in Virginia - WAVY.com"
+        ]
+      },
+      {
+        "trend": "west nile virus",
+        "market_code": "DE",
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "Los Angeles County reports first West Nile virus death of 2026 - ABC7 Los Angeles",
+          "First West Nile virus death of 2026 reported in Los Angeles County - KTLA",
+          "VDH reports 6 human West Nile virus cases in Virginia - WAVY.com"
+        ]
+      },
+      {
+        "trend": "public health",
+        "market_code": "DE",
+        "category": "Europe Health",
+        "score": 8,
+        "examples": [
+          "San Francisco Department of Public Health officials report 10 cyclosporiasis cases so far in 2026; no known outbreak in the city - ABC7 Bay Area",
+          "San Francisco Department of Public Health officials report 10 cyclosporiasis cases so far in 2026; no known outbreak in the city - ABC7 Bay Area",
+          "Public health order to ban the sale of kratom in Albany County - NEWS10 ABC"
         ]
       },
       {
@@ -377,30 +388,19 @@
         "score": 8,
         "examples": [
           "Where People Got Sick: E. coli and Salmonella Outbreak, August 2026 - Centers for Disease Control and Prevention | CDC (.gov)",
-          "Backlit: Disease detective - Berkeley Inspire",
-          "E. coli and Salmonella Outbreak Linked to Alfalfa Sprouts - Centers for Disease Control and Prevention | CDC (.gov)"
+          "Investigation Update: E. coli and Salmonella Outbreak, August 2026 - Centers for Disease Control and Prevention | CDC (.gov)",
+          "Clade I Mpox Transmission Risk During Air Travel Is Low - Infectious Disease Special Edition"
         ]
       },
       {
-        "trend": "infection",
+        "trend": "healthcare",
         "market_code": "DE",
-        "category": "Outbreaks",
+        "category": "Europe Health",
         "score": 8,
         "examples": [
-          "Video Health alert about cyclosporiasis parasitic infection - ABC News - Breaking News, Latest News and Videos",
-          "Ruston community rallies for 8-year-old fighting rare infection - KNOE",
-          "Ramona woman sues market, egg ranch as salmonella infection cases grow - San Diego Union-Tribune"
-        ]
-      },
-      {
-        "trend": "nile virus",
-        "market_code": "DE",
-        "category": "Outbreaks",
-        "score": 8,
-        "examples": [
-          "Elderly woman's death related to West Nile virus, Montgomery County officials say - ABC13 Houston",
-          "VDH reports 6 human West Nile virus cases in Virginia - WAVY.com",
-          "Two Rivers: West Nile Virus detected in Dawson County mosquitos - Central Nebraska Today"
+          "Healthcare AI Must Earn Trust Before Adoption - Cisco Blogs",
+          "Abridge expands AI decision support to more clinicians in bid to become healthcare's copilot - Fierce Healthcare",
+          "Abridge expands AI decision support to more clinicians in bid to become healthcare's copilot - Fierce Healthcare"
         ]
       }
     ],
@@ -409,11 +409,11 @@
         "trend": "health",
         "market_code": "FR",
         "category": "Europe Health",
-        "score": 76,
+        "score": 79,
         "examples": [
           "Confirmed Detections of New World Screwworm | Animal and Plant Health Inspection Service - aphis.usda.gov",
           "In partnership with Morehouse School of Medicine, Atrium Health commits more than $700 million to a new teaching hospital and care network - City Of Atlanta, Ga (.gov)",
-          "Nebraska’s Growing Role in Health Initiatives Highlighted During Visit by HHS Secretary Kennedy - Nebraska Governor's Office (.gov)"
+          "Coroner: Man found dead hours before 911 call at Danville behavioral health facility - fox56.com"
         ]
       },
       {
@@ -423,52 +423,30 @@
         "score": 19,
         "examples": [
           "Disney will cut medical insurance for employees' spouses who can get coverage through their own jobs - Business Insider",
-          "Carlos Baleba set for Manchester United medical after £70m deal agreed with Brighton - The Athletic - The New York Times",
-          "Cellular Bodyguards Protect Lung Cancer - Columbia University Irving Medical Center"
+          "Family visiting St. Louis for medical care awakened by volleys of gunfire outside a short-term rental - First Alert 4",
+          "New UMSOP Graduate Certificate in Medical Cannabis Clinical Science - The University of Maryland, Baltimore"
         ]
       },
       {
         "trend": "outbreak",
         "market_code": "FR",
         "category": "Outbreaks",
-        "score": 13,
+        "score": 16,
         "examples": [
-          "Where People Got Sick: E. coli and Salmonella Outbreak, August 2026 - Centers for Disease Control and Prevention | CDC (.gov)",
-          "E. coli and Salmonella Outbreak Linked to Alfalfa Sprouts - Centers for Disease Control and Prevention | CDC (.gov)",
-          "At least 55 sickened in salmonella, E. coli outbreak linked to alfalfa sprouts - ABC News - Breaking News, Latest News and Videos"
+          "San Francisco Department of Public Health officials report 10 cyclosporiasis cases so far in 2026; no known outbreak in the city - ABC7 Bay Area",
+          "San Francisco Department of Public Health officials report 10 cyclosporiasis cases so far in 2026; no known outbreak in the city - ABC7 Bay Area",
+          "Cyclospora Outbreak: Cases Approach 16,000 Across 47 States - Healthline"
         ]
       },
       {
         "trend": "mental",
         "market_code": "FR",
         "category": "Mental Health",
-        "score": 12,
-        "examples": [
-          "As USS Lincoln heads home, mental health experts tally the stressors of life at sea - NPR",
-          "As USS Lincoln heads home, mental health experts tally the stressors of life at sea - NPR",
-          "The Professor Who Turned the Camera on Mental Health in College Sports - The Catholic University of America"
-        ]
-      },
-      {
-        "trend": "mental health",
-        "market_code": "FR",
-        "category": "Mental Health",
         "score": 11,
         "examples": [
-          "As USS Lincoln heads home, mental health experts tally the stressors of life at sea - NPR",
-          "As USS Lincoln heads home, mental health experts tally the stressors of life at sea - NPR",
-          "The Professor Who Turned the Camera on Mental Health in College Sports - The Catholic University of America"
-        ]
-      },
-      {
-        "trend": "healthcare",
-        "market_code": "FR",
-        "category": "Europe Health",
-        "score": 10,
-        "examples": [
-          "Jersey City mom turns to 7 On Your Side for help with son's healthcare coverage as he fights cancer - ABC7 New York",
-          "Epic MyChart phishing scam prompts hospital warnings - Modern Healthcare",
-          "Early Alert for GE Healthcare Portrait Mobile Monitoring Software - respiratory-therapy.com"
+          "The Professor Who Turned the Camera on Mental Health in College Sports - The Catholic University of America",
+          "Colts and Falcons join forces in Kicking the Stigma around mental health - Colts.com",
+          "Sen. Kolkhorst celebrates $35M mental health facility for Texas foster youth - KBTX News 3"
         ]
       },
       {
@@ -477,9 +455,20 @@
         "category": "Outbreaks",
         "score": 10,
         "examples": [
-          "Michigan reports 2 swine flu, influenza A(H1N2) variant virus cases - Outbreak News Today",
-          "Elderly woman's death related to West Nile virus, Montgomery County officials say - ABC13 Houston",
+          "Los Angeles County reports first West Nile virus death of 2026 - ABC7 Los Angeles",
+          "First West Nile virus death of 2026 reported in Los Angeles County - KTLA",
           "VDH reports 6 human West Nile virus cases in Virginia - WAVY.com"
+        ]
+      },
+      {
+        "trend": "mental health",
+        "market_code": "FR",
+        "category": "Mental Health",
+        "score": 10,
+        "examples": [
+          "The Professor Who Turned the Camera on Mental Health in College Sports - The Catholic University of America",
+          "Colts and Falcons join forces in Kicking the Stigma around mental health - Colts.com",
+          "Sen. Kolkhorst celebrates $35M mental health facility for Texas foster youth - KBTX News 3"
         ]
       },
       {
@@ -494,14 +483,36 @@
         ]
       },
       {
-        "trend": "cancer",
+        "trend": "nile virus",
         "market_code": "FR",
-        "category": "Chronic Disease",
+        "category": "Outbreaks",
         "score": 9,
         "examples": [
-          "Jersey City mom turns to 7 On Your Side for help with son's healthcare coverage as he fights cancer - ABC7 New York",
-          "Cellular Bodyguards Protect Lung Cancer - Columbia University Irving Medical Center",
-          "County-Level Medical Debt Tied to Later-Stage Cancer Diagnosis, Worse Survival - CancerNetwork"
+          "Los Angeles County reports first West Nile virus death of 2026 - ABC7 Los Angeles",
+          "First West Nile virus death of 2026 reported in Los Angeles County - KTLA",
+          "VDH reports 6 human West Nile virus cases in Virginia - WAVY.com"
+        ]
+      },
+      {
+        "trend": "west nile virus",
+        "market_code": "FR",
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "Los Angeles County reports first West Nile virus death of 2026 - ABC7 Los Angeles",
+          "First West Nile virus death of 2026 reported in Los Angeles County - KTLA",
+          "VDH reports 6 human West Nile virus cases in Virginia - WAVY.com"
+        ]
+      },
+      {
+        "trend": "public health",
+        "market_code": "FR",
+        "category": "Europe Health",
+        "score": 8,
+        "examples": [
+          "San Francisco Department of Public Health officials report 10 cyclosporiasis cases so far in 2026; no known outbreak in the city - ABC7 Bay Area",
+          "San Francisco Department of Public Health officials report 10 cyclosporiasis cases so far in 2026; no known outbreak in the city - ABC7 Bay Area",
+          "Public health order to ban the sale of kratom in Albany County - NEWS10 ABC"
         ]
       },
       {
@@ -511,30 +522,19 @@
         "score": 8,
         "examples": [
           "Where People Got Sick: E. coli and Salmonella Outbreak, August 2026 - Centers for Disease Control and Prevention | CDC (.gov)",
-          "Backlit: Disease detective - Berkeley Inspire",
-          "E. coli and Salmonella Outbreak Linked to Alfalfa Sprouts - Centers for Disease Control and Prevention | CDC (.gov)"
+          "Investigation Update: E. coli and Salmonella Outbreak, August 2026 - Centers for Disease Control and Prevention | CDC (.gov)",
+          "Clade I Mpox Transmission Risk During Air Travel Is Low - Infectious Disease Special Edition"
         ]
       },
       {
-        "trend": "infection",
+        "trend": "healthcare",
         "market_code": "FR",
-        "category": "Outbreaks",
+        "category": "Europe Health",
         "score": 8,
         "examples": [
-          "Video Health alert about cyclosporiasis parasitic infection - ABC News - Breaking News, Latest News and Videos",
-          "Ruston community rallies for 8-year-old fighting rare infection - KNOE",
-          "Ramona woman sues market, egg ranch as salmonella infection cases grow - San Diego Union-Tribune"
-        ]
-      },
-      {
-        "trend": "nile virus",
-        "market_code": "FR",
-        "category": "Outbreaks",
-        "score": 8,
-        "examples": [
-          "Elderly woman's death related to West Nile virus, Montgomery County officials say - ABC13 Houston",
-          "VDH reports 6 human West Nile virus cases in Virginia - WAVY.com",
-          "Two Rivers: West Nile Virus detected in Dawson County mosquitos - Central Nebraska Today"
+          "Healthcare AI Must Earn Trust Before Adoption - Cisco Blogs",
+          "Abridge expands AI decision support to more clinicians in bid to become healthcare's copilot - Fierce Healthcare",
+          "Abridge expands AI decision support to more clinicians in bid to become healthcare's copilot - Fierce Healthcare"
         ]
       }
     ],
@@ -543,11 +543,11 @@
         "trend": "health",
         "market_code": "IT",
         "category": "Europe Health",
-        "score": 76,
+        "score": 79,
         "examples": [
           "Confirmed Detections of New World Screwworm | Animal and Plant Health Inspection Service - aphis.usda.gov",
           "In partnership with Morehouse School of Medicine, Atrium Health commits more than $700 million to a new teaching hospital and care network - City Of Atlanta, Ga (.gov)",
-          "Nebraska’s Growing Role in Health Initiatives Highlighted During Visit by HHS Secretary Kennedy - Nebraska Governor's Office (.gov)"
+          "Coroner: Man found dead hours before 911 call at Danville behavioral health facility - fox56.com"
         ]
       },
       {
@@ -557,52 +557,30 @@
         "score": 19,
         "examples": [
           "Disney will cut medical insurance for employees' spouses who can get coverage through their own jobs - Business Insider",
-          "Carlos Baleba set for Manchester United medical after £70m deal agreed with Brighton - The Athletic - The New York Times",
-          "Cellular Bodyguards Protect Lung Cancer - Columbia University Irving Medical Center"
+          "Family visiting St. Louis for medical care awakened by volleys of gunfire outside a short-term rental - First Alert 4",
+          "New UMSOP Graduate Certificate in Medical Cannabis Clinical Science - The University of Maryland, Baltimore"
         ]
       },
       {
         "trend": "outbreak",
         "market_code": "IT",
         "category": "Outbreaks",
-        "score": 13,
+        "score": 16,
         "examples": [
-          "Where People Got Sick: E. coli and Salmonella Outbreak, August 2026 - Centers for Disease Control and Prevention | CDC (.gov)",
-          "E. coli and Salmonella Outbreak Linked to Alfalfa Sprouts - Centers for Disease Control and Prevention | CDC (.gov)",
-          "At least 55 sickened in salmonella, E. coli outbreak linked to alfalfa sprouts - ABC News - Breaking News, Latest News and Videos"
+          "San Francisco Department of Public Health officials report 10 cyclosporiasis cases so far in 2026; no known outbreak in the city - ABC7 Bay Area",
+          "San Francisco Department of Public Health officials report 10 cyclosporiasis cases so far in 2026; no known outbreak in the city - ABC7 Bay Area",
+          "Cyclospora Outbreak: Cases Approach 16,000 Across 47 States - Healthline"
         ]
       },
       {
         "trend": "mental",
         "market_code": "IT",
         "category": "Mental Health",
-        "score": 12,
-        "examples": [
-          "As USS Lincoln heads home, mental health experts tally the stressors of life at sea - NPR",
-          "As USS Lincoln heads home, mental health experts tally the stressors of life at sea - NPR",
-          "The Professor Who Turned the Camera on Mental Health in College Sports - The Catholic University of America"
-        ]
-      },
-      {
-        "trend": "mental health",
-        "market_code": "IT",
-        "category": "Mental Health",
         "score": 11,
         "examples": [
-          "As USS Lincoln heads home, mental health experts tally the stressors of life at sea - NPR",
-          "As USS Lincoln heads home, mental health experts tally the stressors of life at sea - NPR",
-          "The Professor Who Turned the Camera on Mental Health in College Sports - The Catholic University of America"
-        ]
-      },
-      {
-        "trend": "healthcare",
-        "market_code": "IT",
-        "category": "Europe Health",
-        "score": 10,
-        "examples": [
-          "Jersey City mom turns to 7 On Your Side for help with son's healthcare coverage as he fights cancer - ABC7 New York",
-          "Epic MyChart phishing scam prompts hospital warnings - Modern Healthcare",
-          "Early Alert for GE Healthcare Portrait Mobile Monitoring Software - respiratory-therapy.com"
+          "The Professor Who Turned the Camera on Mental Health in College Sports - The Catholic University of America",
+          "Colts and Falcons join forces in Kicking the Stigma around mental health - Colts.com",
+          "Sen. Kolkhorst celebrates $35M mental health facility for Texas foster youth - KBTX News 3"
         ]
       },
       {
@@ -611,9 +589,20 @@
         "category": "Outbreaks",
         "score": 10,
         "examples": [
-          "Michigan reports 2 swine flu, influenza A(H1N2) variant virus cases - Outbreak News Today",
-          "Elderly woman's death related to West Nile virus, Montgomery County officials say - ABC13 Houston",
+          "Los Angeles County reports first West Nile virus death of 2026 - ABC7 Los Angeles",
+          "First West Nile virus death of 2026 reported in Los Angeles County - KTLA",
           "VDH reports 6 human West Nile virus cases in Virginia - WAVY.com"
+        ]
+      },
+      {
+        "trend": "mental health",
+        "market_code": "IT",
+        "category": "Mental Health",
+        "score": 10,
+        "examples": [
+          "The Professor Who Turned the Camera on Mental Health in College Sports - The Catholic University of America",
+          "Colts and Falcons join forces in Kicking the Stigma around mental health - Colts.com",
+          "Sen. Kolkhorst celebrates $35M mental health facility for Texas foster youth - KBTX News 3"
         ]
       },
       {
@@ -628,14 +617,36 @@
         ]
       },
       {
-        "trend": "cancer",
+        "trend": "nile virus",
         "market_code": "IT",
-        "category": "Chronic Disease",
+        "category": "Outbreaks",
         "score": 9,
         "examples": [
-          "Jersey City mom turns to 7 On Your Side for help with son's healthcare coverage as he fights cancer - ABC7 New York",
-          "Cellular Bodyguards Protect Lung Cancer - Columbia University Irving Medical Center",
-          "County-Level Medical Debt Tied to Later-Stage Cancer Diagnosis, Worse Survival - CancerNetwork"
+          "Los Angeles County reports first West Nile virus death of 2026 - ABC7 Los Angeles",
+          "First West Nile virus death of 2026 reported in Los Angeles County - KTLA",
+          "VDH reports 6 human West Nile virus cases in Virginia - WAVY.com"
+        ]
+      },
+      {
+        "trend": "west nile virus",
+        "market_code": "IT",
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "Los Angeles County reports first West Nile virus death of 2026 - ABC7 Los Angeles",
+          "First West Nile virus death of 2026 reported in Los Angeles County - KTLA",
+          "VDH reports 6 human West Nile virus cases in Virginia - WAVY.com"
+        ]
+      },
+      {
+        "trend": "public health",
+        "market_code": "IT",
+        "category": "Europe Health",
+        "score": 8,
+        "examples": [
+          "San Francisco Department of Public Health officials report 10 cyclosporiasis cases so far in 2026; no known outbreak in the city - ABC7 Bay Area",
+          "San Francisco Department of Public Health officials report 10 cyclosporiasis cases so far in 2026; no known outbreak in the city - ABC7 Bay Area",
+          "Public health order to ban the sale of kratom in Albany County - NEWS10 ABC"
         ]
       },
       {
@@ -645,30 +656,19 @@
         "score": 8,
         "examples": [
           "Where People Got Sick: E. coli and Salmonella Outbreak, August 2026 - Centers for Disease Control and Prevention | CDC (.gov)",
-          "Backlit: Disease detective - Berkeley Inspire",
-          "E. coli and Salmonella Outbreak Linked to Alfalfa Sprouts - Centers for Disease Control and Prevention | CDC (.gov)"
+          "Investigation Update: E. coli and Salmonella Outbreak, August 2026 - Centers for Disease Control and Prevention | CDC (.gov)",
+          "Clade I Mpox Transmission Risk During Air Travel Is Low - Infectious Disease Special Edition"
         ]
       },
       {
-        "trend": "infection",
+        "trend": "healthcare",
         "market_code": "IT",
-        "category": "Outbreaks",
+        "category": "Europe Health",
         "score": 8,
         "examples": [
-          "Video Health alert about cyclosporiasis parasitic infection - ABC News - Breaking News, Latest News and Videos",
-          "Ruston community rallies for 8-year-old fighting rare infection - KNOE",
-          "Ramona woman sues market, egg ranch as salmonella infection cases grow - San Diego Union-Tribune"
-        ]
-      },
-      {
-        "trend": "nile virus",
-        "market_code": "IT",
-        "category": "Outbreaks",
-        "score": 8,
-        "examples": [
-          "Elderly woman's death related to West Nile virus, Montgomery County officials say - ABC13 Houston",
-          "VDH reports 6 human West Nile virus cases in Virginia - WAVY.com",
-          "Two Rivers: West Nile Virus detected in Dawson County mosquitos - Central Nebraska Today"
+          "Healthcare AI Must Earn Trust Before Adoption - Cisco Blogs",
+          "Abridge expands AI decision support to more clinicians in bid to become healthcare's copilot - Fierce Healthcare",
+          "Abridge expands AI decision support to more clinicians in bid to become healthcare's copilot - Fierce Healthcare"
         ]
       }
     ],
@@ -677,11 +677,11 @@
         "trend": "health",
         "market_code": "ES",
         "category": "Europe Health",
-        "score": 76,
+        "score": 79,
         "examples": [
           "Confirmed Detections of New World Screwworm | Animal and Plant Health Inspection Service - aphis.usda.gov",
           "In partnership with Morehouse School of Medicine, Atrium Health commits more than $700 million to a new teaching hospital and care network - City Of Atlanta, Ga (.gov)",
-          "Nebraska’s Growing Role in Health Initiatives Highlighted During Visit by HHS Secretary Kennedy - Nebraska Governor's Office (.gov)"
+          "Coroner: Man found dead hours before 911 call at Danville behavioral health facility - fox56.com"
         ]
       },
       {
@@ -691,52 +691,30 @@
         "score": 19,
         "examples": [
           "Disney will cut medical insurance for employees' spouses who can get coverage through their own jobs - Business Insider",
-          "Carlos Baleba set for Manchester United medical after £70m deal agreed with Brighton - The Athletic - The New York Times",
-          "Cellular Bodyguards Protect Lung Cancer - Columbia University Irving Medical Center"
+          "Family visiting St. Louis for medical care awakened by volleys of gunfire outside a short-term rental - First Alert 4",
+          "New UMSOP Graduate Certificate in Medical Cannabis Clinical Science - The University of Maryland, Baltimore"
         ]
       },
       {
         "trend": "outbreak",
         "market_code": "ES",
         "category": "Outbreaks",
-        "score": 13,
+        "score": 16,
         "examples": [
-          "Where People Got Sick: E. coli and Salmonella Outbreak, August 2026 - Centers for Disease Control and Prevention | CDC (.gov)",
-          "E. coli and Salmonella Outbreak Linked to Alfalfa Sprouts - Centers for Disease Control and Prevention | CDC (.gov)",
-          "At least 55 sickened in salmonella, E. coli outbreak linked to alfalfa sprouts - ABC News - Breaking News, Latest News and Videos"
+          "San Francisco Department of Public Health officials report 10 cyclosporiasis cases so far in 2026; no known outbreak in the city - ABC7 Bay Area",
+          "San Francisco Department of Public Health officials report 10 cyclosporiasis cases so far in 2026; no known outbreak in the city - ABC7 Bay Area",
+          "Cyclospora Outbreak: Cases Approach 16,000 Across 47 States - Healthline"
         ]
       },
       {
         "trend": "mental",
         "market_code": "ES",
         "category": "Mental Health",
-        "score": 12,
-        "examples": [
-          "As USS Lincoln heads home, mental health experts tally the stressors of life at sea - NPR",
-          "As USS Lincoln heads home, mental health experts tally the stressors of life at sea - NPR",
-          "The Professor Who Turned the Camera on Mental Health in College Sports - The Catholic University of America"
-        ]
-      },
-      {
-        "trend": "mental health",
-        "market_code": "ES",
-        "category": "Mental Health",
         "score": 11,
         "examples": [
-          "As USS Lincoln heads home, mental health experts tally the stressors of life at sea - NPR",
-          "As USS Lincoln heads home, mental health experts tally the stressors of life at sea - NPR",
-          "The Professor Who Turned the Camera on Mental Health in College Sports - The Catholic University of America"
-        ]
-      },
-      {
-        "trend": "healthcare",
-        "market_code": "ES",
-        "category": "Europe Health",
-        "score": 10,
-        "examples": [
-          "Jersey City mom turns to 7 On Your Side for help with son's healthcare coverage as he fights cancer - ABC7 New York",
-          "Epic MyChart phishing scam prompts hospital warnings - Modern Healthcare",
-          "Early Alert for GE Healthcare Portrait Mobile Monitoring Software - respiratory-therapy.com"
+          "The Professor Who Turned the Camera on Mental Health in College Sports - The Catholic University of America",
+          "Colts and Falcons join forces in Kicking the Stigma around mental health - Colts.com",
+          "Sen. Kolkhorst celebrates $35M mental health facility for Texas foster youth - KBTX News 3"
         ]
       },
       {
@@ -745,9 +723,20 @@
         "category": "Outbreaks",
         "score": 10,
         "examples": [
-          "Michigan reports 2 swine flu, influenza A(H1N2) variant virus cases - Outbreak News Today",
-          "Elderly woman's death related to West Nile virus, Montgomery County officials say - ABC13 Houston",
+          "Los Angeles County reports first West Nile virus death of 2026 - ABC7 Los Angeles",
+          "First West Nile virus death of 2026 reported in Los Angeles County - KTLA",
           "VDH reports 6 human West Nile virus cases in Virginia - WAVY.com"
+        ]
+      },
+      {
+        "trend": "mental health",
+        "market_code": "ES",
+        "category": "Mental Health",
+        "score": 10,
+        "examples": [
+          "The Professor Who Turned the Camera on Mental Health in College Sports - The Catholic University of America",
+          "Colts and Falcons join forces in Kicking the Stigma around mental health - Colts.com",
+          "Sen. Kolkhorst celebrates $35M mental health facility for Texas foster youth - KBTX News 3"
         ]
       },
       {
@@ -762,14 +751,36 @@
         ]
       },
       {
-        "trend": "cancer",
+        "trend": "nile virus",
         "market_code": "ES",
-        "category": "Chronic Disease",
+        "category": "Outbreaks",
         "score": 9,
         "examples": [
-          "Jersey City mom turns to 7 On Your Side for help with son's healthcare coverage as he fights cancer - ABC7 New York",
-          "Cellular Bodyguards Protect Lung Cancer - Columbia University Irving Medical Center",
-          "County-Level Medical Debt Tied to Later-Stage Cancer Diagnosis, Worse Survival - CancerNetwork"
+          "Los Angeles County reports first West Nile virus death of 2026 - ABC7 Los Angeles",
+          "First West Nile virus death of 2026 reported in Los Angeles County - KTLA",
+          "VDH reports 6 human West Nile virus cases in Virginia - WAVY.com"
+        ]
+      },
+      {
+        "trend": "west nile virus",
+        "market_code": "ES",
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "Los Angeles County reports first West Nile virus death of 2026 - ABC7 Los Angeles",
+          "First West Nile virus death of 2026 reported in Los Angeles County - KTLA",
+          "VDH reports 6 human West Nile virus cases in Virginia - WAVY.com"
+        ]
+      },
+      {
+        "trend": "public health",
+        "market_code": "ES",
+        "category": "Europe Health",
+        "score": 8,
+        "examples": [
+          "San Francisco Department of Public Health officials report 10 cyclosporiasis cases so far in 2026; no known outbreak in the city - ABC7 Bay Area",
+          "San Francisco Department of Public Health officials report 10 cyclosporiasis cases so far in 2026; no known outbreak in the city - ABC7 Bay Area",
+          "Public health order to ban the sale of kratom in Albany County - NEWS10 ABC"
         ]
       },
       {
@@ -779,30 +790,19 @@
         "score": 8,
         "examples": [
           "Where People Got Sick: E. coli and Salmonella Outbreak, August 2026 - Centers for Disease Control and Prevention | CDC (.gov)",
-          "Backlit: Disease detective - Berkeley Inspire",
-          "E. coli and Salmonella Outbreak Linked to Alfalfa Sprouts - Centers for Disease Control and Prevention | CDC (.gov)"
+          "Investigation Update: E. coli and Salmonella Outbreak, August 2026 - Centers for Disease Control and Prevention | CDC (.gov)",
+          "Clade I Mpox Transmission Risk During Air Travel Is Low - Infectious Disease Special Edition"
         ]
       },
       {
-        "trend": "infection",
+        "trend": "healthcare",
         "market_code": "ES",
-        "category": "Outbreaks",
+        "category": "Europe Health",
         "score": 8,
         "examples": [
-          "Video Health alert about cyclosporiasis parasitic infection - ABC News - Breaking News, Latest News and Videos",
-          "Ruston community rallies for 8-year-old fighting rare infection - KNOE",
-          "Ramona woman sues market, egg ranch as salmonella infection cases grow - San Diego Union-Tribune"
-        ]
-      },
-      {
-        "trend": "nile virus",
-        "market_code": "ES",
-        "category": "Outbreaks",
-        "score": 8,
-        "examples": [
-          "Elderly woman's death related to West Nile virus, Montgomery County officials say - ABC13 Houston",
-          "VDH reports 6 human West Nile virus cases in Virginia - WAVY.com",
-          "Two Rivers: West Nile Virus detected in Dawson County mosquitos - Central Nebraska Today"
+          "Healthcare AI Must Earn Trust Before Adoption - Cisco Blogs",
+          "Abridge expands AI decision support to more clinicians in bid to become healthcare's copilot - Fierce Healthcare",
+          "Abridge expands AI decision support to more clinicians in bid to become healthcare's copilot - Fierce Healthcare"
         ]
       }
     ],
@@ -811,11 +811,11 @@
         "trend": "health",
         "market_code": "SE",
         "category": "Europe Health",
-        "score": 76,
+        "score": 79,
         "examples": [
           "Confirmed Detections of New World Screwworm | Animal and Plant Health Inspection Service - aphis.usda.gov",
           "In partnership with Morehouse School of Medicine, Atrium Health commits more than $700 million to a new teaching hospital and care network - City Of Atlanta, Ga (.gov)",
-          "Nebraska’s Growing Role in Health Initiatives Highlighted During Visit by HHS Secretary Kennedy - Nebraska Governor's Office (.gov)"
+          "Coroner: Man found dead hours before 911 call at Danville behavioral health facility - fox56.com"
         ]
       },
       {
@@ -825,52 +825,30 @@
         "score": 19,
         "examples": [
           "Disney will cut medical insurance for employees' spouses who can get coverage through their own jobs - Business Insider",
-          "Carlos Baleba set for Manchester United medical after £70m deal agreed with Brighton - The Athletic - The New York Times",
-          "Cellular Bodyguards Protect Lung Cancer - Columbia University Irving Medical Center"
+          "Family visiting St. Louis for medical care awakened by volleys of gunfire outside a short-term rental - First Alert 4",
+          "New UMSOP Graduate Certificate in Medical Cannabis Clinical Science - The University of Maryland, Baltimore"
         ]
       },
       {
         "trend": "outbreak",
         "market_code": "SE",
         "category": "Outbreaks",
-        "score": 13,
+        "score": 16,
         "examples": [
-          "Where People Got Sick: E. coli and Salmonella Outbreak, August 2026 - Centers for Disease Control and Prevention | CDC (.gov)",
-          "E. coli and Salmonella Outbreak Linked to Alfalfa Sprouts - Centers for Disease Control and Prevention | CDC (.gov)",
-          "At least 55 sickened in salmonella, E. coli outbreak linked to alfalfa sprouts - ABC News - Breaking News, Latest News and Videos"
+          "San Francisco Department of Public Health officials report 10 cyclosporiasis cases so far in 2026; no known outbreak in the city - ABC7 Bay Area",
+          "San Francisco Department of Public Health officials report 10 cyclosporiasis cases so far in 2026; no known outbreak in the city - ABC7 Bay Area",
+          "Cyclospora Outbreak: Cases Approach 16,000 Across 47 States - Healthline"
         ]
       },
       {
         "trend": "mental",
         "market_code": "SE",
         "category": "Mental Health",
-        "score": 12,
-        "examples": [
-          "As USS Lincoln heads home, mental health experts tally the stressors of life at sea - NPR",
-          "As USS Lincoln heads home, mental health experts tally the stressors of life at sea - NPR",
-          "The Professor Who Turned the Camera on Mental Health in College Sports - The Catholic University of America"
-        ]
-      },
-      {
-        "trend": "mental health",
-        "market_code": "SE",
-        "category": "Mental Health",
         "score": 11,
         "examples": [
-          "As USS Lincoln heads home, mental health experts tally the stressors of life at sea - NPR",
-          "As USS Lincoln heads home, mental health experts tally the stressors of life at sea - NPR",
-          "The Professor Who Turned the Camera on Mental Health in College Sports - The Catholic University of America"
-        ]
-      },
-      {
-        "trend": "healthcare",
-        "market_code": "SE",
-        "category": "Europe Health",
-        "score": 10,
-        "examples": [
-          "Jersey City mom turns to 7 On Your Side for help with son's healthcare coverage as he fights cancer - ABC7 New York",
-          "Epic MyChart phishing scam prompts hospital warnings - Modern Healthcare",
-          "Early Alert for GE Healthcare Portrait Mobile Monitoring Software - respiratory-therapy.com"
+          "The Professor Who Turned the Camera on Mental Health in College Sports - The Catholic University of America",
+          "Colts and Falcons join forces in Kicking the Stigma around mental health - Colts.com",
+          "Sen. Kolkhorst celebrates $35M mental health facility for Texas foster youth - KBTX News 3"
         ]
       },
       {
@@ -879,9 +857,20 @@
         "category": "Outbreaks",
         "score": 10,
         "examples": [
-          "Michigan reports 2 swine flu, influenza A(H1N2) variant virus cases - Outbreak News Today",
-          "Elderly woman's death related to West Nile virus, Montgomery County officials say - ABC13 Houston",
+          "Los Angeles County reports first West Nile virus death of 2026 - ABC7 Los Angeles",
+          "First West Nile virus death of 2026 reported in Los Angeles County - KTLA",
           "VDH reports 6 human West Nile virus cases in Virginia - WAVY.com"
+        ]
+      },
+      {
+        "trend": "mental health",
+        "market_code": "SE",
+        "category": "Mental Health",
+        "score": 10,
+        "examples": [
+          "The Professor Who Turned the Camera on Mental Health in College Sports - The Catholic University of America",
+          "Colts and Falcons join forces in Kicking the Stigma around mental health - Colts.com",
+          "Sen. Kolkhorst celebrates $35M mental health facility for Texas foster youth - KBTX News 3"
         ]
       },
       {
@@ -896,14 +885,36 @@
         ]
       },
       {
-        "trend": "cancer",
+        "trend": "nile virus",
         "market_code": "SE",
-        "category": "Chronic Disease",
+        "category": "Outbreaks",
         "score": 9,
         "examples": [
-          "Jersey City mom turns to 7 On Your Side for help with son's healthcare coverage as he fights cancer - ABC7 New York",
-          "Cellular Bodyguards Protect Lung Cancer - Columbia University Irving Medical Center",
-          "County-Level Medical Debt Tied to Later-Stage Cancer Diagnosis, Worse Survival - CancerNetwork"
+          "Los Angeles County reports first West Nile virus death of 2026 - ABC7 Los Angeles",
+          "First West Nile virus death of 2026 reported in Los Angeles County - KTLA",
+          "VDH reports 6 human West Nile virus cases in Virginia - WAVY.com"
+        ]
+      },
+      {
+        "trend": "west nile virus",
+        "market_code": "SE",
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "Los Angeles County reports first West Nile virus death of 2026 - ABC7 Los Angeles",
+          "First West Nile virus death of 2026 reported in Los Angeles County - KTLA",
+          "VDH reports 6 human West Nile virus cases in Virginia - WAVY.com"
+        ]
+      },
+      {
+        "trend": "public health",
+        "market_code": "SE",
+        "category": "Europe Health",
+        "score": 8,
+        "examples": [
+          "San Francisco Department of Public Health officials report 10 cyclosporiasis cases so far in 2026; no known outbreak in the city - ABC7 Bay Area",
+          "San Francisco Department of Public Health officials report 10 cyclosporiasis cases so far in 2026; no known outbreak in the city - ABC7 Bay Area",
+          "Public health order to ban the sale of kratom in Albany County - NEWS10 ABC"
         ]
       },
       {
@@ -913,30 +924,19 @@
         "score": 8,
         "examples": [
           "Where People Got Sick: E. coli and Salmonella Outbreak, August 2026 - Centers for Disease Control and Prevention | CDC (.gov)",
-          "Backlit: Disease detective - Berkeley Inspire",
-          "E. coli and Salmonella Outbreak Linked to Alfalfa Sprouts - Centers for Disease Control and Prevention | CDC (.gov)"
+          "Investigation Update: E. coli and Salmonella Outbreak, August 2026 - Centers for Disease Control and Prevention | CDC (.gov)",
+          "Clade I Mpox Transmission Risk During Air Travel Is Low - Infectious Disease Special Edition"
         ]
       },
       {
-        "trend": "infection",
+        "trend": "healthcare",
         "market_code": "SE",
-        "category": "Outbreaks",
+        "category": "Europe Health",
         "score": 8,
         "examples": [
-          "Video Health alert about cyclosporiasis parasitic infection - ABC News - Breaking News, Latest News and Videos",
-          "Ruston community rallies for 8-year-old fighting rare infection - KNOE",
-          "Ramona woman sues market, egg ranch as salmonella infection cases grow - San Diego Union-Tribune"
-        ]
-      },
-      {
-        "trend": "nile virus",
-        "market_code": "SE",
-        "category": "Outbreaks",
-        "score": 8,
-        "examples": [
-          "Elderly woman's death related to West Nile virus, Montgomery County officials say - ABC13 Houston",
-          "VDH reports 6 human West Nile virus cases in Virginia - WAVY.com",
-          "Two Rivers: West Nile Virus detected in Dawson County mosquitos - Central Nebraska Today"
+          "Healthcare AI Must Earn Trust Before Adoption - Cisco Blogs",
+          "Abridge expands AI decision support to more clinicians in bid to become healthcare's copilot - Fierce Healthcare",
+          "Abridge expands AI decision support to more clinicians in bid to become healthcare's copilot - Fierce Healthcare"
         ]
       }
     ],
@@ -945,11 +945,11 @@
         "trend": "health",
         "market_code": "NL",
         "category": "Europe Health",
-        "score": 76,
+        "score": 79,
         "examples": [
           "Confirmed Detections of New World Screwworm | Animal and Plant Health Inspection Service - aphis.usda.gov",
           "In partnership with Morehouse School of Medicine, Atrium Health commits more than $700 million to a new teaching hospital and care network - City Of Atlanta, Ga (.gov)",
-          "Nebraska’s Growing Role in Health Initiatives Highlighted During Visit by HHS Secretary Kennedy - Nebraska Governor's Office (.gov)"
+          "Coroner: Man found dead hours before 911 call at Danville behavioral health facility - fox56.com"
         ]
       },
       {
@@ -959,52 +959,30 @@
         "score": 19,
         "examples": [
           "Disney will cut medical insurance for employees' spouses who can get coverage through their own jobs - Business Insider",
-          "Carlos Baleba set for Manchester United medical after £70m deal agreed with Brighton - The Athletic - The New York Times",
-          "Cellular Bodyguards Protect Lung Cancer - Columbia University Irving Medical Center"
+          "Family visiting St. Louis for medical care awakened by volleys of gunfire outside a short-term rental - First Alert 4",
+          "New UMSOP Graduate Certificate in Medical Cannabis Clinical Science - The University of Maryland, Baltimore"
         ]
       },
       {
         "trend": "outbreak",
         "market_code": "NL",
         "category": "Outbreaks",
-        "score": 13,
+        "score": 16,
         "examples": [
-          "Where People Got Sick: E. coli and Salmonella Outbreak, August 2026 - Centers for Disease Control and Prevention | CDC (.gov)",
-          "E. coli and Salmonella Outbreak Linked to Alfalfa Sprouts - Centers for Disease Control and Prevention | CDC (.gov)",
-          "At least 55 sickened in salmonella, E. coli outbreak linked to alfalfa sprouts - ABC News - Breaking News, Latest News and Videos"
+          "San Francisco Department of Public Health officials report 10 cyclosporiasis cases so far in 2026; no known outbreak in the city - ABC7 Bay Area",
+          "San Francisco Department of Public Health officials report 10 cyclosporiasis cases so far in 2026; no known outbreak in the city - ABC7 Bay Area",
+          "Cyclospora Outbreak: Cases Approach 16,000 Across 47 States - Healthline"
         ]
       },
       {
         "trend": "mental",
         "market_code": "NL",
         "category": "Mental Health",
-        "score": 12,
-        "examples": [
-          "As USS Lincoln heads home, mental health experts tally the stressors of life at sea - NPR",
-          "As USS Lincoln heads home, mental health experts tally the stressors of life at sea - NPR",
-          "The Professor Who Turned the Camera on Mental Health in College Sports - The Catholic University of America"
-        ]
-      },
-      {
-        "trend": "mental health",
-        "market_code": "NL",
-        "category": "Mental Health",
         "score": 11,
         "examples": [
-          "As USS Lincoln heads home, mental health experts tally the stressors of life at sea - NPR",
-          "As USS Lincoln heads home, mental health experts tally the stressors of life at sea - NPR",
-          "The Professor Who Turned the Camera on Mental Health in College Sports - The Catholic University of America"
-        ]
-      },
-      {
-        "trend": "healthcare",
-        "market_code": "NL",
-        "category": "Europe Health",
-        "score": 10,
-        "examples": [
-          "Jersey City mom turns to 7 On Your Side for help with son's healthcare coverage as he fights cancer - ABC7 New York",
-          "Epic MyChart phishing scam prompts hospital warnings - Modern Healthcare",
-          "Early Alert for GE Healthcare Portrait Mobile Monitoring Software - respiratory-therapy.com"
+          "The Professor Who Turned the Camera on Mental Health in College Sports - The Catholic University of America",
+          "Colts and Falcons join forces in Kicking the Stigma around mental health - Colts.com",
+          "Sen. Kolkhorst celebrates $35M mental health facility for Texas foster youth - KBTX News 3"
         ]
       },
       {
@@ -1013,9 +991,20 @@
         "category": "Outbreaks",
         "score": 10,
         "examples": [
-          "Michigan reports 2 swine flu, influenza A(H1N2) variant virus cases - Outbreak News Today",
-          "Elderly woman's death related to West Nile virus, Montgomery County officials say - ABC13 Houston",
+          "Los Angeles County reports first West Nile virus death of 2026 - ABC7 Los Angeles",
+          "First West Nile virus death of 2026 reported in Los Angeles County - KTLA",
           "VDH reports 6 human West Nile virus cases in Virginia - WAVY.com"
+        ]
+      },
+      {
+        "trend": "mental health",
+        "market_code": "NL",
+        "category": "Mental Health",
+        "score": 10,
+        "examples": [
+          "The Professor Who Turned the Camera on Mental Health in College Sports - The Catholic University of America",
+          "Colts and Falcons join forces in Kicking the Stigma around mental health - Colts.com",
+          "Sen. Kolkhorst celebrates $35M mental health facility for Texas foster youth - KBTX News 3"
         ]
       },
       {
@@ -1030,14 +1019,36 @@
         ]
       },
       {
-        "trend": "cancer",
+        "trend": "nile virus",
         "market_code": "NL",
-        "category": "Chronic Disease",
+        "category": "Outbreaks",
         "score": 9,
         "examples": [
-          "Jersey City mom turns to 7 On Your Side for help with son's healthcare coverage as he fights cancer - ABC7 New York",
-          "Cellular Bodyguards Protect Lung Cancer - Columbia University Irving Medical Center",
-          "County-Level Medical Debt Tied to Later-Stage Cancer Diagnosis, Worse Survival - CancerNetwork"
+          "Los Angeles County reports first West Nile virus death of 2026 - ABC7 Los Angeles",
+          "First West Nile virus death of 2026 reported in Los Angeles County - KTLA",
+          "VDH reports 6 human West Nile virus cases in Virginia - WAVY.com"
+        ]
+      },
+      {
+        "trend": "west nile virus",
+        "market_code": "NL",
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "Los Angeles County reports first West Nile virus death of 2026 - ABC7 Los Angeles",
+          "First West Nile virus death of 2026 reported in Los Angeles County - KTLA",
+          "VDH reports 6 human West Nile virus cases in Virginia - WAVY.com"
+        ]
+      },
+      {
+        "trend": "public health",
+        "market_code": "NL",
+        "category": "Europe Health",
+        "score": 8,
+        "examples": [
+          "San Francisco Department of Public Health officials report 10 cyclosporiasis cases so far in 2026; no known outbreak in the city - ABC7 Bay Area",
+          "San Francisco Department of Public Health officials report 10 cyclosporiasis cases so far in 2026; no known outbreak in the city - ABC7 Bay Area",
+          "Public health order to ban the sale of kratom in Albany County - NEWS10 ABC"
         ]
       },
       {
@@ -1047,30 +1058,19 @@
         "score": 8,
         "examples": [
           "Where People Got Sick: E. coli and Salmonella Outbreak, August 2026 - Centers for Disease Control and Prevention | CDC (.gov)",
-          "Backlit: Disease detective - Berkeley Inspire",
-          "E. coli and Salmonella Outbreak Linked to Alfalfa Sprouts - Centers for Disease Control and Prevention | CDC (.gov)"
+          "Investigation Update: E. coli and Salmonella Outbreak, August 2026 - Centers for Disease Control and Prevention | CDC (.gov)",
+          "Clade I Mpox Transmission Risk During Air Travel Is Low - Infectious Disease Special Edition"
         ]
       },
       {
-        "trend": "infection",
+        "trend": "healthcare",
         "market_code": "NL",
-        "category": "Outbreaks",
+        "category": "Europe Health",
         "score": 8,
         "examples": [
-          "Video Health alert about cyclosporiasis parasitic infection - ABC News - Breaking News, Latest News and Videos",
-          "Ruston community rallies for 8-year-old fighting rare infection - KNOE",
-          "Ramona woman sues market, egg ranch as salmonella infection cases grow - San Diego Union-Tribune"
-        ]
-      },
-      {
-        "trend": "nile virus",
-        "market_code": "NL",
-        "category": "Outbreaks",
-        "score": 8,
-        "examples": [
-          "Elderly woman's death related to West Nile virus, Montgomery County officials say - ABC13 Houston",
-          "VDH reports 6 human West Nile virus cases in Virginia - WAVY.com",
-          "Two Rivers: West Nile Virus detected in Dawson County mosquitos - Central Nebraska Today"
+          "Healthcare AI Must Earn Trust Before Adoption - Cisco Blogs",
+          "Abridge expands AI decision support to more clinicians in bid to become healthcare's copilot - Fierce Healthcare",
+          "Abridge expands AI decision support to more clinicians in bid to become healthcare's copilot - Fierce Healthcare"
         ]
       }
     ],
@@ -1079,11 +1079,11 @@
         "trend": "health",
         "market_code": "FI",
         "category": "Europe Health",
-        "score": 76,
+        "score": 79,
         "examples": [
           "Confirmed Detections of New World Screwworm | Animal and Plant Health Inspection Service - aphis.usda.gov",
           "In partnership with Morehouse School of Medicine, Atrium Health commits more than $700 million to a new teaching hospital and care network - City Of Atlanta, Ga (.gov)",
-          "Nebraska’s Growing Role in Health Initiatives Highlighted During Visit by HHS Secretary Kennedy - Nebraska Governor's Office (.gov)"
+          "Coroner: Man found dead hours before 911 call at Danville behavioral health facility - fox56.com"
         ]
       },
       {
@@ -1093,52 +1093,30 @@
         "score": 19,
         "examples": [
           "Disney will cut medical insurance for employees' spouses who can get coverage through their own jobs - Business Insider",
-          "Carlos Baleba set for Manchester United medical after £70m deal agreed with Brighton - The Athletic - The New York Times",
-          "Cellular Bodyguards Protect Lung Cancer - Columbia University Irving Medical Center"
+          "Family visiting St. Louis for medical care awakened by volleys of gunfire outside a short-term rental - First Alert 4",
+          "New UMSOP Graduate Certificate in Medical Cannabis Clinical Science - The University of Maryland, Baltimore"
         ]
       },
       {
         "trend": "outbreak",
         "market_code": "FI",
         "category": "Outbreaks",
-        "score": 13,
+        "score": 16,
         "examples": [
-          "Where People Got Sick: E. coli and Salmonella Outbreak, August 2026 - Centers for Disease Control and Prevention | CDC (.gov)",
-          "E. coli and Salmonella Outbreak Linked to Alfalfa Sprouts - Centers for Disease Control and Prevention | CDC (.gov)",
-          "At least 55 sickened in salmonella, E. coli outbreak linked to alfalfa sprouts - ABC News - Breaking News, Latest News and Videos"
+          "San Francisco Department of Public Health officials report 10 cyclosporiasis cases so far in 2026; no known outbreak in the city - ABC7 Bay Area",
+          "San Francisco Department of Public Health officials report 10 cyclosporiasis cases so far in 2026; no known outbreak in the city - ABC7 Bay Area",
+          "Cyclospora Outbreak: Cases Approach 16,000 Across 47 States - Healthline"
         ]
       },
       {
         "trend": "mental",
         "market_code": "FI",
         "category": "Mental Health",
-        "score": 12,
-        "examples": [
-          "As USS Lincoln heads home, mental health experts tally the stressors of life at sea - NPR",
-          "As USS Lincoln heads home, mental health experts tally the stressors of life at sea - NPR",
-          "The Professor Who Turned the Camera on Mental Health in College Sports - The Catholic University of America"
-        ]
-      },
-      {
-        "trend": "mental health",
-        "market_code": "FI",
-        "category": "Mental Health",
         "score": 11,
         "examples": [
-          "As USS Lincoln heads home, mental health experts tally the stressors of life at sea - NPR",
-          "As USS Lincoln heads home, mental health experts tally the stressors of life at sea - NPR",
-          "The Professor Who Turned the Camera on Mental Health in College Sports - The Catholic University of America"
-        ]
-      },
-      {
-        "trend": "healthcare",
-        "market_code": "FI",
-        "category": "Europe Health",
-        "score": 10,
-        "examples": [
-          "Jersey City mom turns to 7 On Your Side for help with son's healthcare coverage as he fights cancer - ABC7 New York",
-          "Epic MyChart phishing scam prompts hospital warnings - Modern Healthcare",
-          "Early Alert for GE Healthcare Portrait Mobile Monitoring Software - respiratory-therapy.com"
+          "The Professor Who Turned the Camera on Mental Health in College Sports - The Catholic University of America",
+          "Colts and Falcons join forces in Kicking the Stigma around mental health - Colts.com",
+          "Sen. Kolkhorst celebrates $35M mental health facility for Texas foster youth - KBTX News 3"
         ]
       },
       {
@@ -1147,9 +1125,20 @@
         "category": "Outbreaks",
         "score": 10,
         "examples": [
-          "Michigan reports 2 swine flu, influenza A(H1N2) variant virus cases - Outbreak News Today",
-          "Elderly woman's death related to West Nile virus, Montgomery County officials say - ABC13 Houston",
+          "Los Angeles County reports first West Nile virus death of 2026 - ABC7 Los Angeles",
+          "First West Nile virus death of 2026 reported in Los Angeles County - KTLA",
           "VDH reports 6 human West Nile virus cases in Virginia - WAVY.com"
+        ]
+      },
+      {
+        "trend": "mental health",
+        "market_code": "FI",
+        "category": "Mental Health",
+        "score": 10,
+        "examples": [
+          "The Professor Who Turned the Camera on Mental Health in College Sports - The Catholic University of America",
+          "Colts and Falcons join forces in Kicking the Stigma around mental health - Colts.com",
+          "Sen. Kolkhorst celebrates $35M mental health facility for Texas foster youth - KBTX News 3"
         ]
       },
       {
@@ -1164,14 +1153,36 @@
         ]
       },
       {
-        "trend": "cancer",
+        "trend": "nile virus",
         "market_code": "FI",
-        "category": "Chronic Disease",
+        "category": "Outbreaks",
         "score": 9,
         "examples": [
-          "Jersey City mom turns to 7 On Your Side for help with son's healthcare coverage as he fights cancer - ABC7 New York",
-          "Cellular Bodyguards Protect Lung Cancer - Columbia University Irving Medical Center",
-          "County-Level Medical Debt Tied to Later-Stage Cancer Diagnosis, Worse Survival - CancerNetwork"
+          "Los Angeles County reports first West Nile virus death of 2026 - ABC7 Los Angeles",
+          "First West Nile virus death of 2026 reported in Los Angeles County - KTLA",
+          "VDH reports 6 human West Nile virus cases in Virginia - WAVY.com"
+        ]
+      },
+      {
+        "trend": "west nile virus",
+        "market_code": "FI",
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "Los Angeles County reports first West Nile virus death of 2026 - ABC7 Los Angeles",
+          "First West Nile virus death of 2026 reported in Los Angeles County - KTLA",
+          "VDH reports 6 human West Nile virus cases in Virginia - WAVY.com"
+        ]
+      },
+      {
+        "trend": "public health",
+        "market_code": "FI",
+        "category": "Europe Health",
+        "score": 8,
+        "examples": [
+          "San Francisco Department of Public Health officials report 10 cyclosporiasis cases so far in 2026; no known outbreak in the city - ABC7 Bay Area",
+          "San Francisco Department of Public Health officials report 10 cyclosporiasis cases so far in 2026; no known outbreak in the city - ABC7 Bay Area",
+          "Public health order to ban the sale of kratom in Albany County - NEWS10 ABC"
         ]
       },
       {
@@ -1181,30 +1192,19 @@
         "score": 8,
         "examples": [
           "Where People Got Sick: E. coli and Salmonella Outbreak, August 2026 - Centers for Disease Control and Prevention | CDC (.gov)",
-          "Backlit: Disease detective - Berkeley Inspire",
-          "E. coli and Salmonella Outbreak Linked to Alfalfa Sprouts - Centers for Disease Control and Prevention | CDC (.gov)"
+          "Investigation Update: E. coli and Salmonella Outbreak, August 2026 - Centers for Disease Control and Prevention | CDC (.gov)",
+          "Clade I Mpox Transmission Risk During Air Travel Is Low - Infectious Disease Special Edition"
         ]
       },
       {
-        "trend": "infection",
+        "trend": "healthcare",
         "market_code": "FI",
-        "category": "Outbreaks",
+        "category": "Europe Health",
         "score": 8,
         "examples": [
-          "Video Health alert about cyclosporiasis parasitic infection - ABC News - Breaking News, Latest News and Videos",
-          "Ruston community rallies for 8-year-old fighting rare infection - KNOE",
-          "Ramona woman sues market, egg ranch as salmonella infection cases grow - San Diego Union-Tribune"
-        ]
-      },
-      {
-        "trend": "nile virus",
-        "market_code": "FI",
-        "category": "Outbreaks",
-        "score": 8,
-        "examples": [
-          "Elderly woman's death related to West Nile virus, Montgomery County officials say - ABC13 Houston",
-          "VDH reports 6 human West Nile virus cases in Virginia - WAVY.com",
-          "Two Rivers: West Nile Virus detected in Dawson County mosquitos - Central Nebraska Today"
+          "Healthcare AI Must Earn Trust Before Adoption - Cisco Blogs",
+          "Abridge expands AI decision support to more clinicians in bid to become healthcare's copilot - Fierce Healthcare",
+          "Abridge expands AI decision support to more clinicians in bid to become healthcare's copilot - Fierce Healthcare"
         ]
       }
     ],
@@ -1213,11 +1213,11 @@
         "trend": "health",
         "market_code": "NO",
         "category": "Europe Health",
-        "score": 76,
+        "score": 79,
         "examples": [
           "Confirmed Detections of New World Screwworm | Animal and Plant Health Inspection Service - aphis.usda.gov",
           "In partnership with Morehouse School of Medicine, Atrium Health commits more than $700 million to a new teaching hospital and care network - City Of Atlanta, Ga (.gov)",
-          "Nebraska’s Growing Role in Health Initiatives Highlighted During Visit by HHS Secretary Kennedy - Nebraska Governor's Office (.gov)"
+          "Coroner: Man found dead hours before 911 call at Danville behavioral health facility - fox56.com"
         ]
       },
       {
@@ -1227,52 +1227,30 @@
         "score": 19,
         "examples": [
           "Disney will cut medical insurance for employees' spouses who can get coverage through their own jobs - Business Insider",
-          "Carlos Baleba set for Manchester United medical after £70m deal agreed with Brighton - The Athletic - The New York Times",
-          "Cellular Bodyguards Protect Lung Cancer - Columbia University Irving Medical Center"
+          "Family visiting St. Louis for medical care awakened by volleys of gunfire outside a short-term rental - First Alert 4",
+          "New UMSOP Graduate Certificate in Medical Cannabis Clinical Science - The University of Maryland, Baltimore"
         ]
       },
       {
         "trend": "outbreak",
         "market_code": "NO",
         "category": "Outbreaks",
-        "score": 13,
+        "score": 16,
         "examples": [
-          "Where People Got Sick: E. coli and Salmonella Outbreak, August 2026 - Centers for Disease Control and Prevention | CDC (.gov)",
-          "E. coli and Salmonella Outbreak Linked to Alfalfa Sprouts - Centers for Disease Control and Prevention | CDC (.gov)",
-          "At least 55 sickened in salmonella, E. coli outbreak linked to alfalfa sprouts - ABC News - Breaking News, Latest News and Videos"
+          "San Francisco Department of Public Health officials report 10 cyclosporiasis cases so far in 2026; no known outbreak in the city - ABC7 Bay Area",
+          "San Francisco Department of Public Health officials report 10 cyclosporiasis cases so far in 2026; no known outbreak in the city - ABC7 Bay Area",
+          "Cyclospora Outbreak: Cases Approach 16,000 Across 47 States - Healthline"
         ]
       },
       {
         "trend": "mental",
         "market_code": "NO",
         "category": "Mental Health",
-        "score": 12,
-        "examples": [
-          "As USS Lincoln heads home, mental health experts tally the stressors of life at sea - NPR",
-          "As USS Lincoln heads home, mental health experts tally the stressors of life at sea - NPR",
-          "The Professor Who Turned the Camera on Mental Health in College Sports - The Catholic University of America"
-        ]
-      },
-      {
-        "trend": "mental health",
-        "market_code": "NO",
-        "category": "Mental Health",
         "score": 11,
         "examples": [
-          "As USS Lincoln heads home, mental health experts tally the stressors of life at sea - NPR",
-          "As USS Lincoln heads home, mental health experts tally the stressors of life at sea - NPR",
-          "The Professor Who Turned the Camera on Mental Health in College Sports - The Catholic University of America"
-        ]
-      },
-      {
-        "trend": "healthcare",
-        "market_code": "NO",
-        "category": "Europe Health",
-        "score": 10,
-        "examples": [
-          "Jersey City mom turns to 7 On Your Side for help with son's healthcare coverage as he fights cancer - ABC7 New York",
-          "Epic MyChart phishing scam prompts hospital warnings - Modern Healthcare",
-          "Early Alert for GE Healthcare Portrait Mobile Monitoring Software - respiratory-therapy.com"
+          "The Professor Who Turned the Camera on Mental Health in College Sports - The Catholic University of America",
+          "Colts and Falcons join forces in Kicking the Stigma around mental health - Colts.com",
+          "Sen. Kolkhorst celebrates $35M mental health facility for Texas foster youth - KBTX News 3"
         ]
       },
       {
@@ -1281,9 +1259,20 @@
         "category": "Outbreaks",
         "score": 10,
         "examples": [
-          "Michigan reports 2 swine flu, influenza A(H1N2) variant virus cases - Outbreak News Today",
-          "Elderly woman's death related to West Nile virus, Montgomery County officials say - ABC13 Houston",
+          "Los Angeles County reports first West Nile virus death of 2026 - ABC7 Los Angeles",
+          "First West Nile virus death of 2026 reported in Los Angeles County - KTLA",
           "VDH reports 6 human West Nile virus cases in Virginia - WAVY.com"
+        ]
+      },
+      {
+        "trend": "mental health",
+        "market_code": "NO",
+        "category": "Mental Health",
+        "score": 10,
+        "examples": [
+          "The Professor Who Turned the Camera on Mental Health in College Sports - The Catholic University of America",
+          "Colts and Falcons join forces in Kicking the Stigma around mental health - Colts.com",
+          "Sen. Kolkhorst celebrates $35M mental health facility for Texas foster youth - KBTX News 3"
         ]
       },
       {
@@ -1298,14 +1287,36 @@
         ]
       },
       {
-        "trend": "cancer",
+        "trend": "nile virus",
         "market_code": "NO",
-        "category": "Chronic Disease",
+        "category": "Outbreaks",
         "score": 9,
         "examples": [
-          "Jersey City mom turns to 7 On Your Side for help with son's healthcare coverage as he fights cancer - ABC7 New York",
-          "Cellular Bodyguards Protect Lung Cancer - Columbia University Irving Medical Center",
-          "County-Level Medical Debt Tied to Later-Stage Cancer Diagnosis, Worse Survival - CancerNetwork"
+          "Los Angeles County reports first West Nile virus death of 2026 - ABC7 Los Angeles",
+          "First West Nile virus death of 2026 reported in Los Angeles County - KTLA",
+          "VDH reports 6 human West Nile virus cases in Virginia - WAVY.com"
+        ]
+      },
+      {
+        "trend": "west nile virus",
+        "market_code": "NO",
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "Los Angeles County reports first West Nile virus death of 2026 - ABC7 Los Angeles",
+          "First West Nile virus death of 2026 reported in Los Angeles County - KTLA",
+          "VDH reports 6 human West Nile virus cases in Virginia - WAVY.com"
+        ]
+      },
+      {
+        "trend": "public health",
+        "market_code": "NO",
+        "category": "Europe Health",
+        "score": 8,
+        "examples": [
+          "San Francisco Department of Public Health officials report 10 cyclosporiasis cases so far in 2026; no known outbreak in the city - ABC7 Bay Area",
+          "San Francisco Department of Public Health officials report 10 cyclosporiasis cases so far in 2026; no known outbreak in the city - ABC7 Bay Area",
+          "Public health order to ban the sale of kratom in Albany County - NEWS10 ABC"
         ]
       },
       {
@@ -1315,30 +1326,19 @@
         "score": 8,
         "examples": [
           "Where People Got Sick: E. coli and Salmonella Outbreak, August 2026 - Centers for Disease Control and Prevention | CDC (.gov)",
-          "Backlit: Disease detective - Berkeley Inspire",
-          "E. coli and Salmonella Outbreak Linked to Alfalfa Sprouts - Centers for Disease Control and Prevention | CDC (.gov)"
+          "Investigation Update: E. coli and Salmonella Outbreak, August 2026 - Centers for Disease Control and Prevention | CDC (.gov)",
+          "Clade I Mpox Transmission Risk During Air Travel Is Low - Infectious Disease Special Edition"
         ]
       },
       {
-        "trend": "infection",
+        "trend": "healthcare",
         "market_code": "NO",
-        "category": "Outbreaks",
+        "category": "Europe Health",
         "score": 8,
         "examples": [
-          "Video Health alert about cyclosporiasis parasitic infection - ABC News - Breaking News, Latest News and Videos",
-          "Ruston community rallies for 8-year-old fighting rare infection - KNOE",
-          "Ramona woman sues market, egg ranch as salmonella infection cases grow - San Diego Union-Tribune"
-        ]
-      },
-      {
-        "trend": "nile virus",
-        "market_code": "NO",
-        "category": "Outbreaks",
-        "score": 8,
-        "examples": [
-          "Elderly woman's death related to West Nile virus, Montgomery County officials say - ABC13 Houston",
-          "VDH reports 6 human West Nile virus cases in Virginia - WAVY.com",
-          "Two Rivers: West Nile Virus detected in Dawson County mosquitos - Central Nebraska Today"
+          "Healthcare AI Must Earn Trust Before Adoption - Cisco Blogs",
+          "Abridge expands AI decision support to more clinicians in bid to become healthcare's copilot - Fierce Healthcare",
+          "Abridge expands AI decision support to more clinicians in bid to become healthcare's copilot - Fierce Healthcare"
         ]
       }
     ],
@@ -1347,11 +1347,11 @@
         "trend": "health",
         "market_code": "JP",
         "category": "Asia Health",
-        "score": 76,
+        "score": 79,
         "examples": [
           "Confirmed Detections of New World Screwworm | Animal and Plant Health Inspection Service - aphis.usda.gov",
           "In partnership with Morehouse School of Medicine, Atrium Health commits more than $700 million to a new teaching hospital and care network - City Of Atlanta, Ga (.gov)",
-          "Nebraska’s Growing Role in Health Initiatives Highlighted During Visit by HHS Secretary Kennedy - Nebraska Governor's Office (.gov)"
+          "Coroner: Man found dead hours before 911 call at Danville behavioral health facility - fox56.com"
         ]
       },
       {
@@ -1361,52 +1361,30 @@
         "score": 19,
         "examples": [
           "Disney will cut medical insurance for employees' spouses who can get coverage through their own jobs - Business Insider",
-          "Carlos Baleba set for Manchester United medical after £70m deal agreed with Brighton - The Athletic - The New York Times",
-          "Cellular Bodyguards Protect Lung Cancer - Columbia University Irving Medical Center"
+          "Family visiting St. Louis for medical care awakened by volleys of gunfire outside a short-term rental - First Alert 4",
+          "New UMSOP Graduate Certificate in Medical Cannabis Clinical Science - The University of Maryland, Baltimore"
         ]
       },
       {
         "trend": "outbreak",
         "market_code": "JP",
         "category": "Outbreaks",
-        "score": 13,
+        "score": 16,
         "examples": [
-          "Where People Got Sick: E. coli and Salmonella Outbreak, August 2026 - Centers for Disease Control and Prevention | CDC (.gov)",
-          "E. coli and Salmonella Outbreak Linked to Alfalfa Sprouts - Centers for Disease Control and Prevention | CDC (.gov)",
-          "At least 55 sickened in salmonella, E. coli outbreak linked to alfalfa sprouts - ABC News - Breaking News, Latest News and Videos"
+          "San Francisco Department of Public Health officials report 10 cyclosporiasis cases so far in 2026; no known outbreak in the city - ABC7 Bay Area",
+          "San Francisco Department of Public Health officials report 10 cyclosporiasis cases so far in 2026; no known outbreak in the city - ABC7 Bay Area",
+          "Cyclospora Outbreak: Cases Approach 16,000 Across 47 States - Healthline"
         ]
       },
       {
         "trend": "mental",
         "market_code": "JP",
         "category": "Mental Health",
-        "score": 12,
-        "examples": [
-          "As USS Lincoln heads home, mental health experts tally the stressors of life at sea - NPR",
-          "As USS Lincoln heads home, mental health experts tally the stressors of life at sea - NPR",
-          "The Professor Who Turned the Camera on Mental Health in College Sports - The Catholic University of America"
-        ]
-      },
-      {
-        "trend": "mental health",
-        "market_code": "JP",
-        "category": "Mental Health",
         "score": 11,
         "examples": [
-          "As USS Lincoln heads home, mental health experts tally the stressors of life at sea - NPR",
-          "As USS Lincoln heads home, mental health experts tally the stressors of life at sea - NPR",
-          "The Professor Who Turned the Camera on Mental Health in College Sports - The Catholic University of America"
-        ]
-      },
-      {
-        "trend": "healthcare",
-        "market_code": "JP",
-        "category": "Asia Health",
-        "score": 10,
-        "examples": [
-          "Jersey City mom turns to 7 On Your Side for help with son's healthcare coverage as he fights cancer - ABC7 New York",
-          "Epic MyChart phishing scam prompts hospital warnings - Modern Healthcare",
-          "Early Alert for GE Healthcare Portrait Mobile Monitoring Software - respiratory-therapy.com"
+          "The Professor Who Turned the Camera on Mental Health in College Sports - The Catholic University of America",
+          "Colts and Falcons join forces in Kicking the Stigma around mental health - Colts.com",
+          "Sen. Kolkhorst celebrates $35M mental health facility for Texas foster youth - KBTX News 3"
         ]
       },
       {
@@ -1415,9 +1393,20 @@
         "category": "Outbreaks",
         "score": 10,
         "examples": [
-          "Michigan reports 2 swine flu, influenza A(H1N2) variant virus cases - Outbreak News Today",
-          "Elderly woman's death related to West Nile virus, Montgomery County officials say - ABC13 Houston",
+          "Los Angeles County reports first West Nile virus death of 2026 - ABC7 Los Angeles",
+          "First West Nile virus death of 2026 reported in Los Angeles County - KTLA",
           "VDH reports 6 human West Nile virus cases in Virginia - WAVY.com"
+        ]
+      },
+      {
+        "trend": "mental health",
+        "market_code": "JP",
+        "category": "Mental Health",
+        "score": 10,
+        "examples": [
+          "The Professor Who Turned the Camera on Mental Health in College Sports - The Catholic University of America",
+          "Colts and Falcons join forces in Kicking the Stigma around mental health - Colts.com",
+          "Sen. Kolkhorst celebrates $35M mental health facility for Texas foster youth - KBTX News 3"
         ]
       },
       {
@@ -1432,14 +1421,36 @@
         ]
       },
       {
-        "trend": "cancer",
+        "trend": "nile virus",
         "market_code": "JP",
-        "category": "Chronic Disease",
+        "category": "Outbreaks",
         "score": 9,
         "examples": [
-          "Jersey City mom turns to 7 On Your Side for help with son's healthcare coverage as he fights cancer - ABC7 New York",
-          "Cellular Bodyguards Protect Lung Cancer - Columbia University Irving Medical Center",
-          "County-Level Medical Debt Tied to Later-Stage Cancer Diagnosis, Worse Survival - CancerNetwork"
+          "Los Angeles County reports first West Nile virus death of 2026 - ABC7 Los Angeles",
+          "First West Nile virus death of 2026 reported in Los Angeles County - KTLA",
+          "VDH reports 6 human West Nile virus cases in Virginia - WAVY.com"
+        ]
+      },
+      {
+        "trend": "west nile virus",
+        "market_code": "JP",
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "Los Angeles County reports first West Nile virus death of 2026 - ABC7 Los Angeles",
+          "First West Nile virus death of 2026 reported in Los Angeles County - KTLA",
+          "VDH reports 6 human West Nile virus cases in Virginia - WAVY.com"
+        ]
+      },
+      {
+        "trend": "public health",
+        "market_code": "JP",
+        "category": "Asia Health",
+        "score": 8,
+        "examples": [
+          "San Francisco Department of Public Health officials report 10 cyclosporiasis cases so far in 2026; no known outbreak in the city - ABC7 Bay Area",
+          "San Francisco Department of Public Health officials report 10 cyclosporiasis cases so far in 2026; no known outbreak in the city - ABC7 Bay Area",
+          "Public health order to ban the sale of kratom in Albany County - NEWS10 ABC"
         ]
       },
       {
@@ -1449,30 +1460,19 @@
         "score": 8,
         "examples": [
           "Where People Got Sick: E. coli and Salmonella Outbreak, August 2026 - Centers for Disease Control and Prevention | CDC (.gov)",
-          "Backlit: Disease detective - Berkeley Inspire",
-          "E. coli and Salmonella Outbreak Linked to Alfalfa Sprouts - Centers for Disease Control and Prevention | CDC (.gov)"
+          "Investigation Update: E. coli and Salmonella Outbreak, August 2026 - Centers for Disease Control and Prevention | CDC (.gov)",
+          "Clade I Mpox Transmission Risk During Air Travel Is Low - Infectious Disease Special Edition"
         ]
       },
       {
-        "trend": "infection",
+        "trend": "healthcare",
         "market_code": "JP",
-        "category": "Outbreaks",
+        "category": "Asia Health",
         "score": 8,
         "examples": [
-          "Video Health alert about cyclosporiasis parasitic infection - ABC News - Breaking News, Latest News and Videos",
-          "Ruston community rallies for 8-year-old fighting rare infection - KNOE",
-          "Ramona woman sues market, egg ranch as salmonella infection cases grow - San Diego Union-Tribune"
-        ]
-      },
-      {
-        "trend": "nile virus",
-        "market_code": "JP",
-        "category": "Outbreaks",
-        "score": 8,
-        "examples": [
-          "Elderly woman's death related to West Nile virus, Montgomery County officials say - ABC13 Houston",
-          "VDH reports 6 human West Nile virus cases in Virginia - WAVY.com",
-          "Two Rivers: West Nile Virus detected in Dawson County mosquitos - Central Nebraska Today"
+          "Healthcare AI Must Earn Trust Before Adoption - Cisco Blogs",
+          "Abridge expands AI decision support to more clinicians in bid to become healthcare's copilot - Fierce Healthcare",
+          "Abridge expands AI decision support to more clinicians in bid to become healthcare's copilot - Fierce Healthcare"
         ]
       }
     ],
@@ -1481,11 +1481,11 @@
         "trend": "health",
         "market_code": "CN",
         "category": "Asia Health",
-        "score": 76,
+        "score": 79,
         "examples": [
           "Confirmed Detections of New World Screwworm | Animal and Plant Health Inspection Service - aphis.usda.gov",
           "In partnership with Morehouse School of Medicine, Atrium Health commits more than $700 million to a new teaching hospital and care network - City Of Atlanta, Ga (.gov)",
-          "Nebraska’s Growing Role in Health Initiatives Highlighted During Visit by HHS Secretary Kennedy - Nebraska Governor's Office (.gov)"
+          "Coroner: Man found dead hours before 911 call at Danville behavioral health facility - fox56.com"
         ]
       },
       {
@@ -1495,52 +1495,30 @@
         "score": 19,
         "examples": [
           "Disney will cut medical insurance for employees' spouses who can get coverage through their own jobs - Business Insider",
-          "Carlos Baleba set for Manchester United medical after £70m deal agreed with Brighton - The Athletic - The New York Times",
-          "Cellular Bodyguards Protect Lung Cancer - Columbia University Irving Medical Center"
+          "Family visiting St. Louis for medical care awakened by volleys of gunfire outside a short-term rental - First Alert 4",
+          "New UMSOP Graduate Certificate in Medical Cannabis Clinical Science - The University of Maryland, Baltimore"
         ]
       },
       {
         "trend": "outbreak",
         "market_code": "CN",
         "category": "Outbreaks",
-        "score": 13,
+        "score": 16,
         "examples": [
-          "Where People Got Sick: E. coli and Salmonella Outbreak, August 2026 - Centers for Disease Control and Prevention | CDC (.gov)",
-          "E. coli and Salmonella Outbreak Linked to Alfalfa Sprouts - Centers for Disease Control and Prevention | CDC (.gov)",
-          "At least 55 sickened in salmonella, E. coli outbreak linked to alfalfa sprouts - ABC News - Breaking News, Latest News and Videos"
+          "San Francisco Department of Public Health officials report 10 cyclosporiasis cases so far in 2026; no known outbreak in the city - ABC7 Bay Area",
+          "San Francisco Department of Public Health officials report 10 cyclosporiasis cases so far in 2026; no known outbreak in the city - ABC7 Bay Area",
+          "Cyclospora Outbreak: Cases Approach 16,000 Across 47 States - Healthline"
         ]
       },
       {
         "trend": "mental",
         "market_code": "CN",
         "category": "Mental Health",
-        "score": 12,
-        "examples": [
-          "As USS Lincoln heads home, mental health experts tally the stressors of life at sea - NPR",
-          "As USS Lincoln heads home, mental health experts tally the stressors of life at sea - NPR",
-          "The Professor Who Turned the Camera on Mental Health in College Sports - The Catholic University of America"
-        ]
-      },
-      {
-        "trend": "mental health",
-        "market_code": "CN",
-        "category": "Mental Health",
         "score": 11,
         "examples": [
-          "As USS Lincoln heads home, mental health experts tally the stressors of life at sea - NPR",
-          "As USS Lincoln heads home, mental health experts tally the stressors of life at sea - NPR",
-          "The Professor Who Turned the Camera on Mental Health in College Sports - The Catholic University of America"
-        ]
-      },
-      {
-        "trend": "healthcare",
-        "market_code": "CN",
-        "category": "Asia Health",
-        "score": 10,
-        "examples": [
-          "Jersey City mom turns to 7 On Your Side for help with son's healthcare coverage as he fights cancer - ABC7 New York",
-          "Epic MyChart phishing scam prompts hospital warnings - Modern Healthcare",
-          "Early Alert for GE Healthcare Portrait Mobile Monitoring Software - respiratory-therapy.com"
+          "The Professor Who Turned the Camera on Mental Health in College Sports - The Catholic University of America",
+          "Colts and Falcons join forces in Kicking the Stigma around mental health - Colts.com",
+          "Sen. Kolkhorst celebrates $35M mental health facility for Texas foster youth - KBTX News 3"
         ]
       },
       {
@@ -1549,9 +1527,20 @@
         "category": "Outbreaks",
         "score": 10,
         "examples": [
-          "Michigan reports 2 swine flu, influenza A(H1N2) variant virus cases - Outbreak News Today",
-          "Elderly woman's death related to West Nile virus, Montgomery County officials say - ABC13 Houston",
+          "Los Angeles County reports first West Nile virus death of 2026 - ABC7 Los Angeles",
+          "First West Nile virus death of 2026 reported in Los Angeles County - KTLA",
           "VDH reports 6 human West Nile virus cases in Virginia - WAVY.com"
+        ]
+      },
+      {
+        "trend": "mental health",
+        "market_code": "CN",
+        "category": "Mental Health",
+        "score": 10,
+        "examples": [
+          "The Professor Who Turned the Camera on Mental Health in College Sports - The Catholic University of America",
+          "Colts and Falcons join forces in Kicking the Stigma around mental health - Colts.com",
+          "Sen. Kolkhorst celebrates $35M mental health facility for Texas foster youth - KBTX News 3"
         ]
       },
       {
@@ -1566,14 +1555,36 @@
         ]
       },
       {
-        "trend": "cancer",
+        "trend": "nile virus",
         "market_code": "CN",
-        "category": "Chronic Disease",
+        "category": "Outbreaks",
         "score": 9,
         "examples": [
-          "Jersey City mom turns to 7 On Your Side for help with son's healthcare coverage as he fights cancer - ABC7 New York",
-          "Cellular Bodyguards Protect Lung Cancer - Columbia University Irving Medical Center",
-          "County-Level Medical Debt Tied to Later-Stage Cancer Diagnosis, Worse Survival - CancerNetwork"
+          "Los Angeles County reports first West Nile virus death of 2026 - ABC7 Los Angeles",
+          "First West Nile virus death of 2026 reported in Los Angeles County - KTLA",
+          "VDH reports 6 human West Nile virus cases in Virginia - WAVY.com"
+        ]
+      },
+      {
+        "trend": "west nile virus",
+        "market_code": "CN",
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "Los Angeles County reports first West Nile virus death of 2026 - ABC7 Los Angeles",
+          "First West Nile virus death of 2026 reported in Los Angeles County - KTLA",
+          "VDH reports 6 human West Nile virus cases in Virginia - WAVY.com"
+        ]
+      },
+      {
+        "trend": "public health",
+        "market_code": "CN",
+        "category": "Asia Health",
+        "score": 8,
+        "examples": [
+          "San Francisco Department of Public Health officials report 10 cyclosporiasis cases so far in 2026; no known outbreak in the city - ABC7 Bay Area",
+          "San Francisco Department of Public Health officials report 10 cyclosporiasis cases so far in 2026; no known outbreak in the city - ABC7 Bay Area",
+          "Public health order to ban the sale of kratom in Albany County - NEWS10 ABC"
         ]
       },
       {
@@ -1583,30 +1594,19 @@
         "score": 8,
         "examples": [
           "Where People Got Sick: E. coli and Salmonella Outbreak, August 2026 - Centers for Disease Control and Prevention | CDC (.gov)",
-          "Backlit: Disease detective - Berkeley Inspire",
-          "E. coli and Salmonella Outbreak Linked to Alfalfa Sprouts - Centers for Disease Control and Prevention | CDC (.gov)"
+          "Investigation Update: E. coli and Salmonella Outbreak, August 2026 - Centers for Disease Control and Prevention | CDC (.gov)",
+          "Clade I Mpox Transmission Risk During Air Travel Is Low - Infectious Disease Special Edition"
         ]
       },
       {
-        "trend": "infection",
+        "trend": "healthcare",
         "market_code": "CN",
-        "category": "Outbreaks",
+        "category": "Asia Health",
         "score": 8,
         "examples": [
-          "Video Health alert about cyclosporiasis parasitic infection - ABC News - Breaking News, Latest News and Videos",
-          "Ruston community rallies for 8-year-old fighting rare infection - KNOE",
-          "Ramona woman sues market, egg ranch as salmonella infection cases grow - San Diego Union-Tribune"
-        ]
-      },
-      {
-        "trend": "nile virus",
-        "market_code": "CN",
-        "category": "Outbreaks",
-        "score": 8,
-        "examples": [
-          "Elderly woman's death related to West Nile virus, Montgomery County officials say - ABC13 Houston",
-          "VDH reports 6 human West Nile virus cases in Virginia - WAVY.com",
-          "Two Rivers: West Nile Virus detected in Dawson County mosquitos - Central Nebraska Today"
+          "Healthcare AI Must Earn Trust Before Adoption - Cisco Blogs",
+          "Abridge expands AI decision support to more clinicians in bid to become healthcare's copilot - Fierce Healthcare",
+          "Abridge expands AI decision support to more clinicians in bid to become healthcare's copilot - Fierce Healthcare"
         ]
       }
     ],
@@ -1615,11 +1615,11 @@
         "trend": "health",
         "market_code": "KR",
         "category": "Asia Health",
-        "score": 76,
+        "score": 79,
         "examples": [
           "Confirmed Detections of New World Screwworm | Animal and Plant Health Inspection Service - aphis.usda.gov",
           "In partnership with Morehouse School of Medicine, Atrium Health commits more than $700 million to a new teaching hospital and care network - City Of Atlanta, Ga (.gov)",
-          "Nebraska’s Growing Role in Health Initiatives Highlighted During Visit by HHS Secretary Kennedy - Nebraska Governor's Office (.gov)"
+          "Coroner: Man found dead hours before 911 call at Danville behavioral health facility - fox56.com"
         ]
       },
       {
@@ -1629,52 +1629,30 @@
         "score": 19,
         "examples": [
           "Disney will cut medical insurance for employees' spouses who can get coverage through their own jobs - Business Insider",
-          "Carlos Baleba set for Manchester United medical after £70m deal agreed with Brighton - The Athletic - The New York Times",
-          "Cellular Bodyguards Protect Lung Cancer - Columbia University Irving Medical Center"
+          "Family visiting St. Louis for medical care awakened by volleys of gunfire outside a short-term rental - First Alert 4",
+          "New UMSOP Graduate Certificate in Medical Cannabis Clinical Science - The University of Maryland, Baltimore"
         ]
       },
       {
         "trend": "outbreak",
         "market_code": "KR",
         "category": "Outbreaks",
-        "score": 13,
+        "score": 16,
         "examples": [
-          "Where People Got Sick: E. coli and Salmonella Outbreak, August 2026 - Centers for Disease Control and Prevention | CDC (.gov)",
-          "E. coli and Salmonella Outbreak Linked to Alfalfa Sprouts - Centers for Disease Control and Prevention | CDC (.gov)",
-          "At least 55 sickened in salmonella, E. coli outbreak linked to alfalfa sprouts - ABC News - Breaking News, Latest News and Videos"
+          "San Francisco Department of Public Health officials report 10 cyclosporiasis cases so far in 2026; no known outbreak in the city - ABC7 Bay Area",
+          "San Francisco Department of Public Health officials report 10 cyclosporiasis cases so far in 2026; no known outbreak in the city - ABC7 Bay Area",
+          "Cyclospora Outbreak: Cases Approach 16,000 Across 47 States - Healthline"
         ]
       },
       {
         "trend": "mental",
         "market_code": "KR",
         "category": "Mental Health",
-        "score": 12,
-        "examples": [
-          "As USS Lincoln heads home, mental health experts tally the stressors of life at sea - NPR",
-          "As USS Lincoln heads home, mental health experts tally the stressors of life at sea - NPR",
-          "The Professor Who Turned the Camera on Mental Health in College Sports - The Catholic University of America"
-        ]
-      },
-      {
-        "trend": "mental health",
-        "market_code": "KR",
-        "category": "Mental Health",
         "score": 11,
         "examples": [
-          "As USS Lincoln heads home, mental health experts tally the stressors of life at sea - NPR",
-          "As USS Lincoln heads home, mental health experts tally the stressors of life at sea - NPR",
-          "The Professor Who Turned the Camera on Mental Health in College Sports - The Catholic University of America"
-        ]
-      },
-      {
-        "trend": "healthcare",
-        "market_code": "KR",
-        "category": "Asia Health",
-        "score": 10,
-        "examples": [
-          "Jersey City mom turns to 7 On Your Side for help with son's healthcare coverage as he fights cancer - ABC7 New York",
-          "Epic MyChart phishing scam prompts hospital warnings - Modern Healthcare",
-          "Early Alert for GE Healthcare Portrait Mobile Monitoring Software - respiratory-therapy.com"
+          "The Professor Who Turned the Camera on Mental Health in College Sports - The Catholic University of America",
+          "Colts and Falcons join forces in Kicking the Stigma around mental health - Colts.com",
+          "Sen. Kolkhorst celebrates $35M mental health facility for Texas foster youth - KBTX News 3"
         ]
       },
       {
@@ -1683,9 +1661,20 @@
         "category": "Outbreaks",
         "score": 10,
         "examples": [
-          "Michigan reports 2 swine flu, influenza A(H1N2) variant virus cases - Outbreak News Today",
-          "Elderly woman's death related to West Nile virus, Montgomery County officials say - ABC13 Houston",
+          "Los Angeles County reports first West Nile virus death of 2026 - ABC7 Los Angeles",
+          "First West Nile virus death of 2026 reported in Los Angeles County - KTLA",
           "VDH reports 6 human West Nile virus cases in Virginia - WAVY.com"
+        ]
+      },
+      {
+        "trend": "mental health",
+        "market_code": "KR",
+        "category": "Mental Health",
+        "score": 10,
+        "examples": [
+          "The Professor Who Turned the Camera on Mental Health in College Sports - The Catholic University of America",
+          "Colts and Falcons join forces in Kicking the Stigma around mental health - Colts.com",
+          "Sen. Kolkhorst celebrates $35M mental health facility for Texas foster youth - KBTX News 3"
         ]
       },
       {
@@ -1700,14 +1689,36 @@
         ]
       },
       {
-        "trend": "cancer",
+        "trend": "nile virus",
         "market_code": "KR",
-        "category": "Chronic Disease",
+        "category": "Outbreaks",
         "score": 9,
         "examples": [
-          "Jersey City mom turns to 7 On Your Side for help with son's healthcare coverage as he fights cancer - ABC7 New York",
-          "Cellular Bodyguards Protect Lung Cancer - Columbia University Irving Medical Center",
-          "County-Level Medical Debt Tied to Later-Stage Cancer Diagnosis, Worse Survival - CancerNetwork"
+          "Los Angeles County reports first West Nile virus death of 2026 - ABC7 Los Angeles",
+          "First West Nile virus death of 2026 reported in Los Angeles County - KTLA",
+          "VDH reports 6 human West Nile virus cases in Virginia - WAVY.com"
+        ]
+      },
+      {
+        "trend": "west nile virus",
+        "market_code": "KR",
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "Los Angeles County reports first West Nile virus death of 2026 - ABC7 Los Angeles",
+          "First West Nile virus death of 2026 reported in Los Angeles County - KTLA",
+          "VDH reports 6 human West Nile virus cases in Virginia - WAVY.com"
+        ]
+      },
+      {
+        "trend": "public health",
+        "market_code": "KR",
+        "category": "Asia Health",
+        "score": 8,
+        "examples": [
+          "San Francisco Department of Public Health officials report 10 cyclosporiasis cases so far in 2026; no known outbreak in the city - ABC7 Bay Area",
+          "San Francisco Department of Public Health officials report 10 cyclosporiasis cases so far in 2026; no known outbreak in the city - ABC7 Bay Area",
+          "Public health order to ban the sale of kratom in Albany County - NEWS10 ABC"
         ]
       },
       {
@@ -1717,30 +1728,19 @@
         "score": 8,
         "examples": [
           "Where People Got Sick: E. coli and Salmonella Outbreak, August 2026 - Centers for Disease Control and Prevention | CDC (.gov)",
-          "Backlit: Disease detective - Berkeley Inspire",
-          "E. coli and Salmonella Outbreak Linked to Alfalfa Sprouts - Centers for Disease Control and Prevention | CDC (.gov)"
+          "Investigation Update: E. coli and Salmonella Outbreak, August 2026 - Centers for Disease Control and Prevention | CDC (.gov)",
+          "Clade I Mpox Transmission Risk During Air Travel Is Low - Infectious Disease Special Edition"
         ]
       },
       {
-        "trend": "infection",
+        "trend": "healthcare",
         "market_code": "KR",
-        "category": "Outbreaks",
+        "category": "Asia Health",
         "score": 8,
         "examples": [
-          "Video Health alert about cyclosporiasis parasitic infection - ABC News - Breaking News, Latest News and Videos",
-          "Ruston community rallies for 8-year-old fighting rare infection - KNOE",
-          "Ramona woman sues market, egg ranch as salmonella infection cases grow - San Diego Union-Tribune"
-        ]
-      },
-      {
-        "trend": "nile virus",
-        "market_code": "KR",
-        "category": "Outbreaks",
-        "score": 8,
-        "examples": [
-          "Elderly woman's death related to West Nile virus, Montgomery County officials say - ABC13 Houston",
-          "VDH reports 6 human West Nile virus cases in Virginia - WAVY.com",
-          "Two Rivers: West Nile Virus detected in Dawson County mosquitos - Central Nebraska Today"
+          "Healthcare AI Must Earn Trust Before Adoption - Cisco Blogs",
+          "Abridge expands AI decision support to more clinicians in bid to become healthcare's copilot - Fierce Healthcare",
+          "Abridge expands AI decision support to more clinicians in bid to become healthcare's copilot - Fierce Healthcare"
         ]
       }
     ],
@@ -1749,66 +1749,33 @@
         "trend": "health",
         "market_code": "IN",
         "category": "Asia Health",
-        "score": 71,
+        "score": 70,
         "examples": [
-          "Experts discuss integrative mental health - The Hindu",
-          "Department of Health Concludes Telemedicine Programme in Changthang, Ladakh - Central Tibetan Administration",
-          "Union Health Ministry Organises Two-Day National Conference of MDOs in collaboration with National Institute of Health and Family Welfare (NIHFW) , Capacity Building Commission (CBC) and Karmayogi Bharat to Strengthen Organisational Capacity for Mis - PIB"
+          "Pre-Existing Health Conditions Can Increase Risk Of Miscarriage By 20%, Lancet Study Warns - NDTV",
+          "Norton Rose Fulbright advises DocGo on acquisition of Hicuity Health - Norton Rose Fulbright",
+          "IGAD Calls for a New Era of Health Sovereignty at 13th East Africa Healthcare Conference - IGAD"
         ]
       },
       {
         "trend": "medical",
         "market_code": "IN",
         "category": "Asia Health",
-        "score": 20,
+        "score": 19,
         "examples": [
-          "India delivers medicines and medical supplies to government hospital in Kabul - News On AIR",
-          "Interview: medical training at a crossroads - Royal College of Physicians (RCP)",
-          "₹221-crore boost to medical infrastructure in Andhra Pradesh - The Hindu"
+          "Govt to strengthen medical infra across AP with Rs 221.67 crore - The New Indian Express",
+          "Medical device components supplier Qosina expands into regulatory services - Today's Medical Developments",
+          "Medical device components supplier Qosina expands into regulatory services - Today's Medical Developments"
         ]
       },
       {
         "trend": "outbreak",
         "market_code": "IN",
         "category": "Outbreaks",
-        "score": 15,
+        "score": 14,
         "examples": [
           "Where People Got Sick: E. coli and Salmonella Outbreak, August 2026 - Centers for Disease Control and Prevention | CDC (.gov)",
-          "E. coli and Salmonella Outbreak Linked to Alfalfa Sprouts - Centers for Disease Control and Prevention | CDC (.gov)",
-          "Ebola outbreak: five big questions - The Guardian"
-        ]
-      },
-      {
-        "trend": "mental",
-        "market_code": "IN",
-        "category": "Mental Health",
-        "score": 12,
-        "examples": [
-          "Experts discuss integrative mental health - The Hindu",
-          "Experts discuss integrative mental health - The Hindu",
-          "Yes Machines: The Mental Health Minefield of AI Chatbots - Medscape"
-        ]
-      },
-      {
-        "trend": "vaccine",
-        "market_code": "IN",
-        "category": "Drug & Treatment News",
-        "score": 12,
-        "examples": [
-          "US health department seeks public feedback on vaccine guidelines after Trump order - Reuters",
-          "\"H1N1 vaccine can help decrease severity of infection\": DGHS Dr Loveneesh G Krishna - ANI News",
-          "Moderna, Merck vaccine cuts recurrence and spread of melanoma, raising new treatment hope - Reuters"
-        ]
-      },
-      {
-        "trend": "mental health",
-        "market_code": "IN",
-        "category": "Mental Health",
-        "score": 11,
-        "examples": [
-          "Experts discuss integrative mental health - The Hindu",
-          "Experts discuss integrative mental health - The Hindu",
-          "Yes Machines: The Mental Health Minefield of AI Chatbots - Medscape"
+          "Cyclospora Outbreak: Cases Approach 16,000 Across 47 States - Healthline",
+          "Where People Got Sick: E. coli and Salmonella Outbreak, August 2026 - Centers for Disease Control and Prevention | CDC (.gov)"
         ]
       },
       {
@@ -1817,64 +1784,97 @@
         "category": "Asia Health",
         "score": 11,
         "examples": [
-          "Rural hospitals face high stakes in allocating AI investments - Healthcare IT News",
+          "IGAD Calls for a New Era of Health Sovereignty at 13th East Africa Healthcare Conference - IGAD",
           "Epic MyChart phishing scam prompts hospital warnings - Modern Healthcare",
           "How AI can be optimised for better healthcare - The Hindu"
-        ]
-      },
-      {
-        "trend": "cancer",
-        "market_code": "IN",
-        "category": "Chronic Disease",
-        "score": 10,
-        "examples": [
-          "Union Health Minister JP Nadda Reaffirms India’s Commitment to Eliminate Cervical Cancer - News On AIR",
-          "World-first virus therapy for esophageal cancer debuts in Japan - Nikkei Asia",
-          "Moderna and Merck say mRNA cancer vaccine succeeded in late-stage melanoma trial - STAT"
-        ]
-      },
-      {
-        "trend": "disease",
-        "market_code": "IN",
-        "category": "Asia Health",
-        "score": 10,
-        "examples": [
-          "Where People Got Sick: E. coli and Salmonella Outbreak, August 2026 - Centers for Disease Control and Prevention | CDC (.gov)",
-          "E. coli and Salmonella Outbreak Linked to Alfalfa Sprouts - Centers for Disease Control and Prevention | CDC (.gov)",
-          "WHO: 'The current Bundibugyo virus disease (BVD) is the largest Ebola disease outbreak ever recorded in the Democratic Republic of the Congo (DRC), irrespective of Ebola virus species. On 17 May 2026, WHO declared the Bundibugyo virus disease outbre - news.cgtn.com"
         ]
       },
       {
         "trend": "virus",
         "market_code": "IN",
         "category": "Outbreaks",
+        "score": 11,
+        "examples": [
+          "‘Cyber crime is like silent virus’: Allahabad High Court denies bail in Rs 16 crore cyber fraud case - The Indian Express",
+          "Is mpox here to stay? CDC study says virus is likely becoming endemic - CIDRAP",
+          "World-first virus therapy for esophageal cancer debuts in Japan - Nikkei Asia"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "IN",
+        "category": "Mental Health",
         "score": 10,
         "examples": [
-          "Is mpox here to stay? CDC study says virus is likely becoming endemic - CIDRAP",
-          "Michigan reports 2 swine flu, influenza A(H1N2) variant virus cases - Outbreak News Today",
-          "Bhilwara farmers face crop loss as yellow mosaic virus hits pulses - The Times of India"
+          "Kerala High Court flags poor conditions at Kuthiravattom mental health centre - The Hindu",
+          "Experts discuss integrative mental health - The Hindu",
+          "Yes Machines: The Mental Health Minefield of AI Chatbots - Medscape"
         ]
       },
       {
-        "trend": "infection",
+        "trend": "vaccine",
         "market_code": "IN",
-        "category": "Outbreaks",
-        "score": 9,
+        "category": "Drug & Treatment News",
+        "score": 10,
         "examples": [
-          "Video Health alert about cyclosporiasis parasitic infection - ABC News - Breaking News, Latest News and Videos",
-          "CCMB study reveals new pathway to disarm dangerous fungal infection - The Hindu",
-          "Malware in car infotainment systems: how infection occurs - Kaspersky"
-        ]
-      },
-      {
-        "trend": "trial",
-        "market_code": "IN",
-        "category": "Asia Health",
-        "score": 7,
-        "examples": [
-          "Ochsner Health, Paradigm Health Partnership Expands Clinical Trial Access Across the Gulf South - The American Journal of Managed Care",
+          "Moderna, Merck vaccine cuts recurrence and spread of melanoma, raising new treatment hope - Reuters",
           "Moderna and Merck say mRNA cancer vaccine succeeded in late-stage melanoma trial - STAT",
           "Cancer vaccine from Moderna, Merck shows promise in late-stage trial; both stocks soar - CNBC"
+        ]
+      },
+      {
+        "trend": "mental health",
+        "market_code": "IN",
+        "category": "Mental Health",
+        "score": 9,
+        "examples": [
+          "Kerala High Court flags poor conditions at Kuthiravattom mental health centre - The Hindu",
+          "Experts discuss integrative mental health - The Hindu",
+          "Yes Machines: The Mental Health Minefield of AI Chatbots - Medscape"
+        ]
+      },
+      {
+        "trend": "disease",
+        "market_code": "IN",
+        "category": "Asia Health",
+        "score": 9,
+        "examples": [
+          "Where People Got Sick: E. coli and Salmonella Outbreak, August 2026 - Centers for Disease Control and Prevention | CDC (.gov)",
+          "Where People Got Sick: E. coli and Salmonella Outbreak, August 2026 - Centers for Disease Control and Prevention | CDC (.gov)",
+          "WHO: 'The current Bundibugyo virus disease (BVD) is the largest Ebola disease outbreak ever recorded in the Democratic Republic of the Congo (DRC), irrespective of Ebola virus species. On 17 May 2026, WHO declared the Bundibugyo virus disease outbre - news.cgtn.com"
+        ]
+      },
+      {
+        "trend": "cancer",
+        "market_code": "IN",
+        "category": "Chronic Disease",
+        "score": 9,
+        "examples": [
+          "World-first virus therapy for esophageal cancer debuts in Japan - Nikkei Asia",
+          "AI-powered “virtual patient” to advance personalised cancer treatment - healthcare-in-europe.com",
+          "Moderna and Merck say mRNA cancer vaccine succeeded in late-stage melanoma trial - STAT"
+        ]
+      },
+      {
+        "trend": "hospital",
+        "market_code": "IN",
+        "category": "Asia Health",
+        "score": 6,
+        "examples": [
+          "Sri Ramakrishna Hospital Specialists Emphasize Early Detection of Anemia for Better Health Outcomes in Urban Populations - TheWire.in",
+          "Epic MyChart phishing scam prompts hospital warnings - Modern Healthcare",
+          "Manipal Hospital Millers Road Unveils Momstory, Consolidating Maternity and Women's Health Services - Quarterly Earnings - vinanet.vn"
+        ]
+      },
+      {
+        "trend": "heart",
+        "market_code": "IN",
+        "category": "Chronic Disease",
+        "score": 6,
+        "examples": [
+          "Health Warnings on Wearables Often Ignored, Doctors Identify Signs of Heart Problems - VOI.ID",
+          "You Don’t Need 10,000 Steps to Help Your Heart - Time Magazine",
+          "What 3,600 adults with diabetes revealed about lifestyle and heart health - News-Medical"
         ]
       }
     ],
@@ -1883,29 +1883,18 @@
         "trend": "health",
         "market_code": "AU",
         "category": "Global Health",
-        "score": 60,
+        "score": 66,
         "examples": [
-          "Confirmed Detections of New World Screwworm | Animal and Plant Health Inspection Service - aphis.usda.gov",
-          "Press conference with Minister Butler, Adelaide – 21 August 2026 - Australian Government Department of Health, Disability and Ageing",
-          "Continuing to improve cultural capabilities across our organisation - WA Country Health Service"
-        ]
-      },
-      {
-        "trend": "outbreak",
-        "market_code": "AU",
-        "category": "Outbreaks",
-        "score": 20,
-        "examples": [
-          "Second deadliest Ebola outbreak on record spreads across the eastern Congo - World Socialist Web Site",
-          "Where People Got Sick: E. coli and Salmonella Outbreak, August 2026 - Centers for Disease Control and Prevention | CDC (.gov)",
-          "E. coli, salmonella outbreak linked to alfalfa sprouts, CDC says - The Washington Post"
+          "Westmead Centre for Mental Health reaches new heights - NSW Government",
+          "Norton Rose Fulbright advises DocGo on acquisition of Hicuity Health - Norton Rose Fulbright",
+          "Parton still healing after 'hard times' with health - The Canberra Times"
         ]
       },
       {
         "trend": "medical",
         "market_code": "AU",
         "category": "Global Health",
-        "score": 16,
+        "score": 17,
         "examples": [
           "Carlos Baleba set for Manchester United medical after £70m deal agreed with Brighton - The Athletic - The New York Times",
           "Harvesting the tall poppies - Medical Republic",
@@ -1913,58 +1902,47 @@
         ]
       },
       {
+        "trend": "outbreak",
+        "market_code": "AU",
+        "category": "Outbreaks",
+        "score": 15,
+        "examples": [
+          "Second deadliest Ebola outbreak on record spreads across the eastern Congo - World Socialist Web Site",
+          "E. coli, salmonella outbreak linked to alfalfa sprouts, CDC says - The Washington Post",
+          "Where People Got Sick: E. coli and Salmonella Outbreak, August 2026 - Centers for Disease Control and Prevention | CDC (.gov)"
+        ]
+      },
+      {
         "trend": "mental",
         "market_code": "AU",
         "category": "Mental Health",
-        "score": 15,
+        "score": 12,
         "examples": [
-          "Dr TikTok: Mental health moves from consulting rooms to social media - Al Jazeera",
-          "Tribunal condemns former mental health nurse for inappropriate patient relationship - Ferntree Gully Star Mail",
-          "Free mental health support extended for thousands of SA small businesses - Glam Adelaide"
+          "Westmead Centre for Mental Health reaches new heights - NSW Government",
+          "Westmead Centre for Mental Health reaches new heights - NSW Government",
+          "Tribunal condemns former mental health nurse for inappropriate patient relationship - Ranges Trader Star Mail"
         ]
       },
       {
         "trend": "mental health",
         "market_code": "AU",
         "category": "Mental Health",
-        "score": 14,
-        "examples": [
-          "Dr TikTok: Mental health moves from consulting rooms to social media - Al Jazeera",
-          "Tribunal condemns former mental health nurse for inappropriate patient relationship - Ferntree Gully Star Mail",
-          "Free mental health support extended for thousands of SA small businesses - Glam Adelaide"
-        ]
-      },
-      {
-        "trend": "disease",
-        "market_code": "AU",
-        "category": "Global Health",
         "score": 11,
         "examples": [
-          "Where People Got Sick: E. coli and Salmonella Outbreak, August 2026 - Centers for Disease Control and Prevention | CDC (.gov)",
-          "E. coli and Salmonella Outbreak Linked to Alfalfa Sprouts - Centers for Disease Control and Prevention | CDC (.gov)",
-          "WHO: 'The current Bundibugyo virus disease (BVD) is the largest Ebola disease outbreak ever recorded in the Democratic Republic of the Congo (DRC), irrespective of Ebola virus species. On 17 May 2026, WHO declared the Bundibugyo virus disease outbre - news.cgtn.com"
-        ]
-      },
-      {
-        "trend": "virus",
-        "market_code": "AU",
-        "category": "Outbreaks",
-        "score": 11,
-        "examples": [
-          "Montgomery County woman dies from West Nile virus, health officials confirm - Click2Houston",
-          "Is mpox here to stay? CDC study says virus is likely becoming endemic - CIDRAP",
-          "What you need to know about West Nile virus - Scientific American"
+          "Westmead Centre for Mental Health reaches new heights - NSW Government",
+          "Westmead Centre for Mental Health reaches new heights - NSW Government",
+          "Tribunal condemns former mental health nurse for inappropriate patient relationship - Ranges Trader Star Mail"
         ]
       },
       {
         "trend": "cancer",
         "market_code": "AU",
         "category": "Chronic Disease",
-        "score": 10,
+        "score": 11,
         "examples": [
           "Cellular Bodyguards Protect Lung Cancer - Columbia University Irving Medical Center",
-          "World-first virus therapy for esophageal cancer debuts in Japan - Nikkei Asia",
-          "AI-powered “virtual patient” to advance personalised cancer treatment - healthcare-in-europe.com"
+          "County-Level Medical Debt Tied to Later-Stage Cancer Diagnosis, Worse Survival - CancerNetwork",
+          "World-first virus therapy for esophageal cancer debuts in Japan - Nikkei Asia"
         ]
       },
       {
@@ -1974,19 +1952,19 @@
         "score": 10,
         "examples": [
           "Moderna, Merck vaccine cuts recurrence and spread of melanoma, raising new treatment hope - Reuters",
-          "Drug giants reveal promising new melanoma vaccine - The Australian",
-          "EXPERT REACTION: Moderna announce results of Phase 3 trial of personalized mRNA cancer vaccine - Scimex"
+          "Moderna and Merck say mRNA cancer vaccine succeeded in late-stage melanoma trial - STAT",
+          "Drug giants reveal promising new melanoma vaccine - The Australian"
         ]
       },
       {
-        "trend": "ebola outbreak",
+        "trend": "virus",
         "market_code": "AU",
         "category": "Outbreaks",
-        "score": 8,
+        "score": 9,
         "examples": [
-          "Second deadliest Ebola outbreak on record spreads across the eastern Congo - World Socialist Web Site",
-          "Second deadliest Ebola outbreak on record spreads across the eastern Congo - World Socialist Web Site",
-          "Ebola outbreak ‘growing faster, ⁠⁠wider’ as DRC death toll passes 2,500: UN - Al Jazeera"
+          "Montgomery County woman dies from West Nile virus, health officials confirm - Click2Houston",
+          "Bird flu hits King Island hard as virus declared ‘here to stay' - Tasmanian Country",
+          "Is mpox here to stay? CDC study says virus is likely becoming endemic - CIDRAP"
         ]
       },
       {
@@ -2001,14 +1979,36 @@
         ]
       },
       {
-        "trend": "salmonella outbreak",
+        "trend": "ebola outbreak",
         "market_code": "AU",
         "category": "Outbreaks",
         "score": 7,
         "examples": [
-          "Where People Got Sick: E. coli and Salmonella Outbreak, August 2026 - Centers for Disease Control and Prevention | CDC (.gov)",
-          "E. coli, salmonella outbreak linked to alfalfa sprouts, CDC says - The Washington Post",
-          "E. coli and Salmonella Outbreak Linked to Alfalfa Sprouts - Centers for Disease Control and Prevention | CDC (.gov)"
+          "Second deadliest Ebola outbreak on record spreads across the eastern Congo - World Socialist Web Site",
+          "Ebola outbreak ‘growing faster, ⁠⁠wider’ as DRC death toll passes 2,500: UN - Al Jazeera",
+          "DR Congo Ebola outbreak spreading exponentially, UN responders warn - UN News"
+        ]
+      },
+      {
+        "trend": "heart",
+        "market_code": "AU",
+        "category": "Chronic Disease",
+        "score": 6,
+        "examples": [
+          "The four visible signs of heart problems - SMH.com.au",
+          "You Don’t Need 10,000 Steps to Help Your Heart - Time Magazine",
+          "What 3,600 adults with diabetes revealed about lifestyle and heart health - News-Medical"
+        ]
+      },
+      {
+        "trend": "health alert",
+        "market_code": "AU",
+        "category": "Global Health",
+        "score": 6,
+        "examples": [
+          "Officials issue new health alert about contaminated alfalfa sprouts - WUSA9",
+          "Officials issue new health alert about contaminated alfalfa sprouts - WUSA9",
+          "Video Health alert about cyclosporiasis parasitic infection - ABC News - Breaking News, Latest News and Videos"
         ]
       }
     ],
@@ -2017,33 +2017,33 @@
         "trend": "health",
         "market_code": "CA",
         "category": "Global Health",
-        "score": 59,
+        "score": 60,
         "examples": [
-          "Summer’s sweet arrivals: Niagara Health celebrates wave of births during unit’s busiest time of year - Niagara Health",
-          "Summer’s sweet arrivals: Niagara Health celebrates wave of births during unit’s busiest time of year - Niagara Health",
-          "SLCan Conference: Realizing the Scarborough Academy of Medicine and Integrated Health - Diamond Schmitt"
+          "Norton Rose Fulbright advises DocGo on acquisition of Hicuity Health - Norton Rose Fulbright",
+          "Alberta health cards now have expiration dates. Here’s what you need to know - CBC",
+          "Summer’s sweet arrivals: Niagara Health celebrates wave of births during unit’s busiest time of year - Niagara Health"
         ]
       },
       {
         "trend": "medical",
         "market_code": "CA",
         "category": "Global Health",
-        "score": 19,
+        "score": 20,
         "examples": [
           "Public alert issued over alleged unlicensed medical services in Edmonton area - CityNews Edmonton",
           "Carlos Baleba set for Manchester United medical after £70m deal agreed with Brighton - The Athletic - The New York Times",
-          "Public at risk of blood-borne pathogens, injury from Edmonton home business offering ‘esthetic medical services’ - Edmonton Journal"
+          "Medical supplies stolen from delivery truck at Halton Hills mall - Halton Hills News"
         ]
       },
       {
         "trend": "outbreak",
         "market_code": "CA",
         "category": "Outbreaks",
-        "score": 14,
+        "score": 11,
         "examples": [
+          "Cyclospora Outbreak: Cases Approach 16,000 Across 47 States - Healthline",
           "Where People Got Sick: E. coli and Salmonella Outbreak, August 2026 - Centers for Disease Control and Prevention | CDC (.gov)",
-          "Where People Got Sick: E. coli and Salmonella Outbreak, August 2026 - Centers for Disease Control and Prevention | CDC (.gov)",
-          "E. coli and Salmonella Outbreak Linked to Alfalfa Sprouts - Centers for Disease Control and Prevention | CDC (.gov)"
+          "DR Congo Ebola outbreak spreading exponentially, UN responders warn - UN News"
         ]
       },
       {
@@ -2054,62 +2054,62 @@
         "examples": [
           "Manitoba reports 4th case of West Nile virus as province to ramp up fogging in hot spot areas - CBC",
           "West Nile virus detected in west-end London mosquito trap - London Free Press",
-          "West Nile virus reported in 12 European countries: EU health agency - CP24"
+          "West Nile Virus Bulletin #3 alert Manitobans to above normal rates continue - DiscoverWestman"
         ]
       },
       {
         "trend": "mental",
         "market_code": "CA",
         "category": "Mental Health",
-        "score": 10,
+        "score": 11,
         "examples": [
+          "Tickle Swim for Mental Health Set for Tomorrow Morning - VOCM",
           "McDonald’s to Do More for farmer mental health - The Western Producer",
-          "Annual golf tournament will raise awareness about mental health - SooToday.com",
-          "Sudbury mayor renews call for involuntary care for severe addictions, mental health crisis - TimminsToday.com"
-        ]
-      },
-      {
-        "trend": "disease",
-        "market_code": "CA",
-        "category": "Global Health",
-        "score": 9,
-        "examples": [
-          "Where People Got Sick: E. coli and Salmonella Outbreak, August 2026 - Centers for Disease Control and Prevention | CDC (.gov)",
-          "Where People Got Sick: E. coli and Salmonella Outbreak, August 2026 - Centers for Disease Control and Prevention | CDC (.gov)",
-          "E. coli and Salmonella Outbreak Linked to Alfalfa Sprouts - Centers for Disease Control and Prevention | CDC (.gov)"
-        ]
-      },
-      {
-        "trend": "cancer",
-        "market_code": "CA",
-        "category": "Chronic Disease",
-        "score": 9,
-        "examples": [
-          "Cellular Bodyguards Protect Lung Cancer - Columbia University Irving Medical Center",
-          "County-Level Medical Debt Tied to Later-Stage Cancer Diagnosis, Worse Survival - CancerNetwork",
-          "Moderna and Merck say mRNA cancer vaccine succeeded in late-stage melanoma trial - STAT"
+          "Annual golf tournament will raise awareness about mental health - SooToday.com"
         ]
       },
       {
         "trend": "nile virus",
         "market_code": "CA",
         "category": "Outbreaks",
-        "score": 9,
+        "score": 10,
         "examples": [
           "Manitoba reports 4th case of West Nile virus as province to ramp up fogging in hot spot areas - CBC",
           "West Nile virus detected in west-end London mosquito trap - London Free Press",
-          "West Nile virus reported in 12 European countries: EU health agency - CP24"
+          "West Nile Virus Bulletin #3 alert Manitobans to above normal rates continue - DiscoverWestman"
         ]
       },
       {
         "trend": "west nile virus",
         "market_code": "CA",
         "category": "Outbreaks",
-        "score": 9,
+        "score": 10,
         "examples": [
           "Manitoba reports 4th case of West Nile virus as province to ramp up fogging in hot spot areas - CBC",
           "West Nile virus detected in west-end London mosquito trap - London Free Press",
-          "West Nile virus reported in 12 European countries: EU health agency - CP24"
+          "West Nile Virus Bulletin #3 alert Manitobans to above normal rates continue - DiscoverWestman"
+        ]
+      },
+      {
+        "trend": "mental health",
+        "market_code": "CA",
+        "category": "Mental Health",
+        "score": 10,
+        "examples": [
+          "Tickle Swim for Mental Health Set for Tomorrow Morning - VOCM",
+          "McDonald’s to Do More for farmer mental health - The Western Producer",
+          "Annual golf tournament will raise awareness about mental health - SooToday.com"
+        ]
+      },
+      {
+        "trend": "healthcare",
+        "market_code": "CA",
+        "category": "Global Health",
+        "score": 9,
+        "examples": [
+          "3 AI Healthcare Stocks Tackling Hospital Costs Investors May Want To Watch - simplywall.st",
+          "The Rise of Agentic AI in Healthcare Information Management - Mexico Business News",
+          "AI is now deciding who gets healthcare in 6 US states – and it's already harming patients - BBC Science Focus Magazine"
         ]
       },
       {
@@ -2124,25 +2124,25 @@
         ]
       },
       {
-        "trend": "mental health",
-        "market_code": "CA",
-        "category": "Mental Health",
-        "score": 8,
-        "examples": [
-          "McDonald’s to Do More for farmer mental health - The Western Producer",
-          "Annual golf tournament will raise awareness about mental health - SooToday.com",
-          "Sudbury mayor renews call for involuntary care for severe addictions, mental health crisis - TimminsToday.com"
-        ]
-      },
-      {
-        "trend": "salmonella outbreak",
+        "trend": "infection",
         "market_code": "CA",
         "category": "Outbreaks",
         "score": 7,
         "examples": [
-          "Where People Got Sick: E. coli and Salmonella Outbreak, August 2026 - Centers for Disease Control and Prevention | CDC (.gov)",
-          "Where People Got Sick: E. coli and Salmonella Outbreak, August 2026 - Centers for Disease Control and Prevention | CDC (.gov)",
-          "E. coli and Salmonella Outbreak Linked to Alfalfa Sprouts - Centers for Disease Control and Prevention | CDC (.gov)"
+          "Video Health alert about cyclosporiasis parasitic infection - ABC News - Breaking News, Latest News and Videos",
+          "Study links past COVID infection to stronger breathing response after brief arousals from sleep - News-Medical",
+          "Disease tolerance research points to treatments that limit infection damage instead of killing microbes - Medical Xpress"
+        ]
+      },
+      {
+        "trend": "health alert",
+        "market_code": "CA",
+        "category": "Global Health",
+        "score": 6,
+        "examples": [
+          "Officials issue new health alert about contaminated alfalfa sprouts - WUSA9",
+          "Blue-green algae health alert issued in Clay County - Yahoo",
+          "DOH-Hillsborough Lifts Blue-Green Algae Health Alert for Lake Thonotosassa - Florida Department of Health in Hillsborough County (.gov)"
         ]
       }
     ],
@@ -2151,11 +2151,11 @@
         "trend": "health",
         "market_code": "AE",
         "category": "Arab Health",
-        "score": 76,
+        "score": 79,
         "examples": [
           "Confirmed Detections of New World Screwworm | Animal and Plant Health Inspection Service - aphis.usda.gov",
           "In partnership with Morehouse School of Medicine, Atrium Health commits more than $700 million to a new teaching hospital and care network - City Of Atlanta, Ga (.gov)",
-          "Nebraska’s Growing Role in Health Initiatives Highlighted During Visit by HHS Secretary Kennedy - Nebraska Governor's Office (.gov)"
+          "Coroner: Man found dead hours before 911 call at Danville behavioral health facility - fox56.com"
         ]
       },
       {
@@ -2165,52 +2165,30 @@
         "score": 19,
         "examples": [
           "Disney will cut medical insurance for employees' spouses who can get coverage through their own jobs - Business Insider",
-          "Carlos Baleba set for Manchester United medical after £70m deal agreed with Brighton - The Athletic - The New York Times",
-          "Cellular Bodyguards Protect Lung Cancer - Columbia University Irving Medical Center"
+          "Family visiting St. Louis for medical care awakened by volleys of gunfire outside a short-term rental - First Alert 4",
+          "New UMSOP Graduate Certificate in Medical Cannabis Clinical Science - The University of Maryland, Baltimore"
         ]
       },
       {
         "trend": "outbreak",
         "market_code": "AE",
         "category": "Outbreaks",
-        "score": 13,
+        "score": 16,
         "examples": [
-          "Where People Got Sick: E. coli and Salmonella Outbreak, August 2026 - Centers for Disease Control and Prevention | CDC (.gov)",
-          "E. coli and Salmonella Outbreak Linked to Alfalfa Sprouts - Centers for Disease Control and Prevention | CDC (.gov)",
-          "At least 55 sickened in salmonella, E. coli outbreak linked to alfalfa sprouts - ABC News - Breaking News, Latest News and Videos"
+          "San Francisco Department of Public Health officials report 10 cyclosporiasis cases so far in 2026; no known outbreak in the city - ABC7 Bay Area",
+          "San Francisco Department of Public Health officials report 10 cyclosporiasis cases so far in 2026; no known outbreak in the city - ABC7 Bay Area",
+          "Cyclospora Outbreak: Cases Approach 16,000 Across 47 States - Healthline"
         ]
       },
       {
         "trend": "mental",
         "market_code": "AE",
         "category": "Mental Health",
-        "score": 12,
-        "examples": [
-          "As USS Lincoln heads home, mental health experts tally the stressors of life at sea - NPR",
-          "As USS Lincoln heads home, mental health experts tally the stressors of life at sea - NPR",
-          "The Professor Who Turned the Camera on Mental Health in College Sports - The Catholic University of America"
-        ]
-      },
-      {
-        "trend": "mental health",
-        "market_code": "AE",
-        "category": "Mental Health",
         "score": 11,
         "examples": [
-          "As USS Lincoln heads home, mental health experts tally the stressors of life at sea - NPR",
-          "As USS Lincoln heads home, mental health experts tally the stressors of life at sea - NPR",
-          "The Professor Who Turned the Camera on Mental Health in College Sports - The Catholic University of America"
-        ]
-      },
-      {
-        "trend": "healthcare",
-        "market_code": "AE",
-        "category": "Arab Health",
-        "score": 10,
-        "examples": [
-          "Jersey City mom turns to 7 On Your Side for help with son's healthcare coverage as he fights cancer - ABC7 New York",
-          "Epic MyChart phishing scam prompts hospital warnings - Modern Healthcare",
-          "Early Alert for GE Healthcare Portrait Mobile Monitoring Software - respiratory-therapy.com"
+          "The Professor Who Turned the Camera on Mental Health in College Sports - The Catholic University of America",
+          "Colts and Falcons join forces in Kicking the Stigma around mental health - Colts.com",
+          "Sen. Kolkhorst celebrates $35M mental health facility for Texas foster youth - KBTX News 3"
         ]
       },
       {
@@ -2219,9 +2197,20 @@
         "category": "Outbreaks",
         "score": 10,
         "examples": [
-          "Michigan reports 2 swine flu, influenza A(H1N2) variant virus cases - Outbreak News Today",
-          "Elderly woman's death related to West Nile virus, Montgomery County officials say - ABC13 Houston",
+          "Los Angeles County reports first West Nile virus death of 2026 - ABC7 Los Angeles",
+          "First West Nile virus death of 2026 reported in Los Angeles County - KTLA",
           "VDH reports 6 human West Nile virus cases in Virginia - WAVY.com"
+        ]
+      },
+      {
+        "trend": "mental health",
+        "market_code": "AE",
+        "category": "Mental Health",
+        "score": 10,
+        "examples": [
+          "The Professor Who Turned the Camera on Mental Health in College Sports - The Catholic University of America",
+          "Colts and Falcons join forces in Kicking the Stigma around mental health - Colts.com",
+          "Sen. Kolkhorst celebrates $35M mental health facility for Texas foster youth - KBTX News 3"
         ]
       },
       {
@@ -2236,14 +2225,36 @@
         ]
       },
       {
-        "trend": "cancer",
+        "trend": "nile virus",
         "market_code": "AE",
-        "category": "Chronic Disease",
+        "category": "Outbreaks",
         "score": 9,
         "examples": [
-          "Jersey City mom turns to 7 On Your Side for help with son's healthcare coverage as he fights cancer - ABC7 New York",
-          "Cellular Bodyguards Protect Lung Cancer - Columbia University Irving Medical Center",
-          "County-Level Medical Debt Tied to Later-Stage Cancer Diagnosis, Worse Survival - CancerNetwork"
+          "Los Angeles County reports first West Nile virus death of 2026 - ABC7 Los Angeles",
+          "First West Nile virus death of 2026 reported in Los Angeles County - KTLA",
+          "VDH reports 6 human West Nile virus cases in Virginia - WAVY.com"
+        ]
+      },
+      {
+        "trend": "west nile virus",
+        "market_code": "AE",
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "Los Angeles County reports first West Nile virus death of 2026 - ABC7 Los Angeles",
+          "First West Nile virus death of 2026 reported in Los Angeles County - KTLA",
+          "VDH reports 6 human West Nile virus cases in Virginia - WAVY.com"
+        ]
+      },
+      {
+        "trend": "public health",
+        "market_code": "AE",
+        "category": "Arab Health",
+        "score": 8,
+        "examples": [
+          "San Francisco Department of Public Health officials report 10 cyclosporiasis cases so far in 2026; no known outbreak in the city - ABC7 Bay Area",
+          "San Francisco Department of Public Health officials report 10 cyclosporiasis cases so far in 2026; no known outbreak in the city - ABC7 Bay Area",
+          "Public health order to ban the sale of kratom in Albany County - NEWS10 ABC"
         ]
       },
       {
@@ -2253,30 +2264,19 @@
         "score": 8,
         "examples": [
           "Where People Got Sick: E. coli and Salmonella Outbreak, August 2026 - Centers for Disease Control and Prevention | CDC (.gov)",
-          "Backlit: Disease detective - Berkeley Inspire",
-          "E. coli and Salmonella Outbreak Linked to Alfalfa Sprouts - Centers for Disease Control and Prevention | CDC (.gov)"
+          "Investigation Update: E. coli and Salmonella Outbreak, August 2026 - Centers for Disease Control and Prevention | CDC (.gov)",
+          "Clade I Mpox Transmission Risk During Air Travel Is Low - Infectious Disease Special Edition"
         ]
       },
       {
-        "trend": "infection",
+        "trend": "healthcare",
         "market_code": "AE",
-        "category": "Outbreaks",
+        "category": "Arab Health",
         "score": 8,
         "examples": [
-          "Video Health alert about cyclosporiasis parasitic infection - ABC News - Breaking News, Latest News and Videos",
-          "Ruston community rallies for 8-year-old fighting rare infection - KNOE",
-          "Ramona woman sues market, egg ranch as salmonella infection cases grow - San Diego Union-Tribune"
-        ]
-      },
-      {
-        "trend": "nile virus",
-        "market_code": "AE",
-        "category": "Outbreaks",
-        "score": 8,
-        "examples": [
-          "Elderly woman's death related to West Nile virus, Montgomery County officials say - ABC13 Houston",
-          "VDH reports 6 human West Nile virus cases in Virginia - WAVY.com",
-          "Two Rivers: West Nile Virus detected in Dawson County mosquitos - Central Nebraska Today"
+          "Healthcare AI Must Earn Trust Before Adoption - Cisco Blogs",
+          "Abridge expands AI decision support to more clinicians in bid to become healthcare's copilot - Fierce Healthcare",
+          "Abridge expands AI decision support to more clinicians in bid to become healthcare's copilot - Fierce Healthcare"
         ]
       }
     ],
@@ -2285,11 +2285,11 @@
         "trend": "health",
         "market_code": "SA",
         "category": "Arab Health",
-        "score": 76,
+        "score": 79,
         "examples": [
           "Confirmed Detections of New World Screwworm | Animal and Plant Health Inspection Service - aphis.usda.gov",
           "In partnership with Morehouse School of Medicine, Atrium Health commits more than $700 million to a new teaching hospital and care network - City Of Atlanta, Ga (.gov)",
-          "Nebraska’s Growing Role in Health Initiatives Highlighted During Visit by HHS Secretary Kennedy - Nebraska Governor's Office (.gov)"
+          "Coroner: Man found dead hours before 911 call at Danville behavioral health facility - fox56.com"
         ]
       },
       {
@@ -2299,52 +2299,30 @@
         "score": 19,
         "examples": [
           "Disney will cut medical insurance for employees' spouses who can get coverage through their own jobs - Business Insider",
-          "Carlos Baleba set for Manchester United medical after £70m deal agreed with Brighton - The Athletic - The New York Times",
-          "Cellular Bodyguards Protect Lung Cancer - Columbia University Irving Medical Center"
+          "Family visiting St. Louis for medical care awakened by volleys of gunfire outside a short-term rental - First Alert 4",
+          "New UMSOP Graduate Certificate in Medical Cannabis Clinical Science - The University of Maryland, Baltimore"
         ]
       },
       {
         "trend": "outbreak",
         "market_code": "SA",
         "category": "Outbreaks",
-        "score": 13,
+        "score": 16,
         "examples": [
-          "Where People Got Sick: E. coli and Salmonella Outbreak, August 2026 - Centers for Disease Control and Prevention | CDC (.gov)",
-          "E. coli and Salmonella Outbreak Linked to Alfalfa Sprouts - Centers for Disease Control and Prevention | CDC (.gov)",
-          "At least 55 sickened in salmonella, E. coli outbreak linked to alfalfa sprouts - ABC News - Breaking News, Latest News and Videos"
+          "San Francisco Department of Public Health officials report 10 cyclosporiasis cases so far in 2026; no known outbreak in the city - ABC7 Bay Area",
+          "San Francisco Department of Public Health officials report 10 cyclosporiasis cases so far in 2026; no known outbreak in the city - ABC7 Bay Area",
+          "Cyclospora Outbreak: Cases Approach 16,000 Across 47 States - Healthline"
         ]
       },
       {
         "trend": "mental",
         "market_code": "SA",
         "category": "Mental Health",
-        "score": 12,
-        "examples": [
-          "As USS Lincoln heads home, mental health experts tally the stressors of life at sea - NPR",
-          "As USS Lincoln heads home, mental health experts tally the stressors of life at sea - NPR",
-          "The Professor Who Turned the Camera on Mental Health in College Sports - The Catholic University of America"
-        ]
-      },
-      {
-        "trend": "mental health",
-        "market_code": "SA",
-        "category": "Mental Health",
         "score": 11,
         "examples": [
-          "As USS Lincoln heads home, mental health experts tally the stressors of life at sea - NPR",
-          "As USS Lincoln heads home, mental health experts tally the stressors of life at sea - NPR",
-          "The Professor Who Turned the Camera on Mental Health in College Sports - The Catholic University of America"
-        ]
-      },
-      {
-        "trend": "healthcare",
-        "market_code": "SA",
-        "category": "Arab Health",
-        "score": 10,
-        "examples": [
-          "Jersey City mom turns to 7 On Your Side for help with son's healthcare coverage as he fights cancer - ABC7 New York",
-          "Epic MyChart phishing scam prompts hospital warnings - Modern Healthcare",
-          "Early Alert for GE Healthcare Portrait Mobile Monitoring Software - respiratory-therapy.com"
+          "The Professor Who Turned the Camera on Mental Health in College Sports - The Catholic University of America",
+          "Colts and Falcons join forces in Kicking the Stigma around mental health - Colts.com",
+          "Sen. Kolkhorst celebrates $35M mental health facility for Texas foster youth - KBTX News 3"
         ]
       },
       {
@@ -2353,9 +2331,20 @@
         "category": "Outbreaks",
         "score": 10,
         "examples": [
-          "Michigan reports 2 swine flu, influenza A(H1N2) variant virus cases - Outbreak News Today",
-          "Elderly woman's death related to West Nile virus, Montgomery County officials say - ABC13 Houston",
+          "Los Angeles County reports first West Nile virus death of 2026 - ABC7 Los Angeles",
+          "First West Nile virus death of 2026 reported in Los Angeles County - KTLA",
           "VDH reports 6 human West Nile virus cases in Virginia - WAVY.com"
+        ]
+      },
+      {
+        "trend": "mental health",
+        "market_code": "SA",
+        "category": "Mental Health",
+        "score": 10,
+        "examples": [
+          "The Professor Who Turned the Camera on Mental Health in College Sports - The Catholic University of America",
+          "Colts and Falcons join forces in Kicking the Stigma around mental health - Colts.com",
+          "Sen. Kolkhorst celebrates $35M mental health facility for Texas foster youth - KBTX News 3"
         ]
       },
       {
@@ -2370,14 +2359,36 @@
         ]
       },
       {
-        "trend": "cancer",
+        "trend": "nile virus",
         "market_code": "SA",
-        "category": "Chronic Disease",
+        "category": "Outbreaks",
         "score": 9,
         "examples": [
-          "Jersey City mom turns to 7 On Your Side for help with son's healthcare coverage as he fights cancer - ABC7 New York",
-          "Cellular Bodyguards Protect Lung Cancer - Columbia University Irving Medical Center",
-          "County-Level Medical Debt Tied to Later-Stage Cancer Diagnosis, Worse Survival - CancerNetwork"
+          "Los Angeles County reports first West Nile virus death of 2026 - ABC7 Los Angeles",
+          "First West Nile virus death of 2026 reported in Los Angeles County - KTLA",
+          "VDH reports 6 human West Nile virus cases in Virginia - WAVY.com"
+        ]
+      },
+      {
+        "trend": "west nile virus",
+        "market_code": "SA",
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "Los Angeles County reports first West Nile virus death of 2026 - ABC7 Los Angeles",
+          "First West Nile virus death of 2026 reported in Los Angeles County - KTLA",
+          "VDH reports 6 human West Nile virus cases in Virginia - WAVY.com"
+        ]
+      },
+      {
+        "trend": "public health",
+        "market_code": "SA",
+        "category": "Arab Health",
+        "score": 8,
+        "examples": [
+          "San Francisco Department of Public Health officials report 10 cyclosporiasis cases so far in 2026; no known outbreak in the city - ABC7 Bay Area",
+          "San Francisco Department of Public Health officials report 10 cyclosporiasis cases so far in 2026; no known outbreak in the city - ABC7 Bay Area",
+          "Public health order to ban the sale of kratom in Albany County - NEWS10 ABC"
         ]
       },
       {
@@ -2387,30 +2398,19 @@
         "score": 8,
         "examples": [
           "Where People Got Sick: E. coli and Salmonella Outbreak, August 2026 - Centers for Disease Control and Prevention | CDC (.gov)",
-          "Backlit: Disease detective - Berkeley Inspire",
-          "E. coli and Salmonella Outbreak Linked to Alfalfa Sprouts - Centers for Disease Control and Prevention | CDC (.gov)"
+          "Investigation Update: E. coli and Salmonella Outbreak, August 2026 - Centers for Disease Control and Prevention | CDC (.gov)",
+          "Clade I Mpox Transmission Risk During Air Travel Is Low - Infectious Disease Special Edition"
         ]
       },
       {
-        "trend": "infection",
+        "trend": "healthcare",
         "market_code": "SA",
-        "category": "Outbreaks",
+        "category": "Arab Health",
         "score": 8,
         "examples": [
-          "Video Health alert about cyclosporiasis parasitic infection - ABC News - Breaking News, Latest News and Videos",
-          "Ruston community rallies for 8-year-old fighting rare infection - KNOE",
-          "Ramona woman sues market, egg ranch as salmonella infection cases grow - San Diego Union-Tribune"
-        ]
-      },
-      {
-        "trend": "nile virus",
-        "market_code": "SA",
-        "category": "Outbreaks",
-        "score": 8,
-        "examples": [
-          "Elderly woman's death related to West Nile virus, Montgomery County officials say - ABC13 Houston",
-          "VDH reports 6 human West Nile virus cases in Virginia - WAVY.com",
-          "Two Rivers: West Nile Virus detected in Dawson County mosquitos - Central Nebraska Today"
+          "Healthcare AI Must Earn Trust Before Adoption - Cisco Blogs",
+          "Abridge expands AI decision support to more clinicians in bid to become healthcare's copilot - Fierce Healthcare",
+          "Abridge expands AI decision support to more clinicians in bid to become healthcare's copilot - Fierce Healthcare"
         ]
       }
     ],
@@ -2419,11 +2419,11 @@
         "trend": "health",
         "market_code": "QA",
         "category": "Arab Health",
-        "score": 76,
+        "score": 79,
         "examples": [
           "Confirmed Detections of New World Screwworm | Animal and Plant Health Inspection Service - aphis.usda.gov",
           "In partnership with Morehouse School of Medicine, Atrium Health commits more than $700 million to a new teaching hospital and care network - City Of Atlanta, Ga (.gov)",
-          "Nebraska’s Growing Role in Health Initiatives Highlighted During Visit by HHS Secretary Kennedy - Nebraska Governor's Office (.gov)"
+          "Coroner: Man found dead hours before 911 call at Danville behavioral health facility - fox56.com"
         ]
       },
       {
@@ -2433,52 +2433,30 @@
         "score": 19,
         "examples": [
           "Disney will cut medical insurance for employees' spouses who can get coverage through their own jobs - Business Insider",
-          "Carlos Baleba set for Manchester United medical after £70m deal agreed with Brighton - The Athletic - The New York Times",
-          "Cellular Bodyguards Protect Lung Cancer - Columbia University Irving Medical Center"
+          "Family visiting St. Louis for medical care awakened by volleys of gunfire outside a short-term rental - First Alert 4",
+          "New UMSOP Graduate Certificate in Medical Cannabis Clinical Science - The University of Maryland, Baltimore"
         ]
       },
       {
         "trend": "outbreak",
         "market_code": "QA",
         "category": "Outbreaks",
-        "score": 13,
+        "score": 16,
         "examples": [
-          "Where People Got Sick: E. coli and Salmonella Outbreak, August 2026 - Centers for Disease Control and Prevention | CDC (.gov)",
-          "E. coli and Salmonella Outbreak Linked to Alfalfa Sprouts - Centers for Disease Control and Prevention | CDC (.gov)",
-          "At least 55 sickened in salmonella, E. coli outbreak linked to alfalfa sprouts - ABC News - Breaking News, Latest News and Videos"
+          "San Francisco Department of Public Health officials report 10 cyclosporiasis cases so far in 2026; no known outbreak in the city - ABC7 Bay Area",
+          "San Francisco Department of Public Health officials report 10 cyclosporiasis cases so far in 2026; no known outbreak in the city - ABC7 Bay Area",
+          "Cyclospora Outbreak: Cases Approach 16,000 Across 47 States - Healthline"
         ]
       },
       {
         "trend": "mental",
         "market_code": "QA",
         "category": "Mental Health",
-        "score": 12,
-        "examples": [
-          "As USS Lincoln heads home, mental health experts tally the stressors of life at sea - NPR",
-          "As USS Lincoln heads home, mental health experts tally the stressors of life at sea - NPR",
-          "The Professor Who Turned the Camera on Mental Health in College Sports - The Catholic University of America"
-        ]
-      },
-      {
-        "trend": "mental health",
-        "market_code": "QA",
-        "category": "Mental Health",
         "score": 11,
         "examples": [
-          "As USS Lincoln heads home, mental health experts tally the stressors of life at sea - NPR",
-          "As USS Lincoln heads home, mental health experts tally the stressors of life at sea - NPR",
-          "The Professor Who Turned the Camera on Mental Health in College Sports - The Catholic University of America"
-        ]
-      },
-      {
-        "trend": "healthcare",
-        "market_code": "QA",
-        "category": "Arab Health",
-        "score": 10,
-        "examples": [
-          "Jersey City mom turns to 7 On Your Side for help with son's healthcare coverage as he fights cancer - ABC7 New York",
-          "Epic MyChart phishing scam prompts hospital warnings - Modern Healthcare",
-          "Early Alert for GE Healthcare Portrait Mobile Monitoring Software - respiratory-therapy.com"
+          "The Professor Who Turned the Camera on Mental Health in College Sports - The Catholic University of America",
+          "Colts and Falcons join forces in Kicking the Stigma around mental health - Colts.com",
+          "Sen. Kolkhorst celebrates $35M mental health facility for Texas foster youth - KBTX News 3"
         ]
       },
       {
@@ -2487,9 +2465,20 @@
         "category": "Outbreaks",
         "score": 10,
         "examples": [
-          "Michigan reports 2 swine flu, influenza A(H1N2) variant virus cases - Outbreak News Today",
-          "Elderly woman's death related to West Nile virus, Montgomery County officials say - ABC13 Houston",
+          "Los Angeles County reports first West Nile virus death of 2026 - ABC7 Los Angeles",
+          "First West Nile virus death of 2026 reported in Los Angeles County - KTLA",
           "VDH reports 6 human West Nile virus cases in Virginia - WAVY.com"
+        ]
+      },
+      {
+        "trend": "mental health",
+        "market_code": "QA",
+        "category": "Mental Health",
+        "score": 10,
+        "examples": [
+          "The Professor Who Turned the Camera on Mental Health in College Sports - The Catholic University of America",
+          "Colts and Falcons join forces in Kicking the Stigma around mental health - Colts.com",
+          "Sen. Kolkhorst celebrates $35M mental health facility for Texas foster youth - KBTX News 3"
         ]
       },
       {
@@ -2504,14 +2493,36 @@
         ]
       },
       {
-        "trend": "cancer",
+        "trend": "nile virus",
         "market_code": "QA",
-        "category": "Chronic Disease",
+        "category": "Outbreaks",
         "score": 9,
         "examples": [
-          "Jersey City mom turns to 7 On Your Side for help with son's healthcare coverage as he fights cancer - ABC7 New York",
-          "Cellular Bodyguards Protect Lung Cancer - Columbia University Irving Medical Center",
-          "County-Level Medical Debt Tied to Later-Stage Cancer Diagnosis, Worse Survival - CancerNetwork"
+          "Los Angeles County reports first West Nile virus death of 2026 - ABC7 Los Angeles",
+          "First West Nile virus death of 2026 reported in Los Angeles County - KTLA",
+          "VDH reports 6 human West Nile virus cases in Virginia - WAVY.com"
+        ]
+      },
+      {
+        "trend": "west nile virus",
+        "market_code": "QA",
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "Los Angeles County reports first West Nile virus death of 2026 - ABC7 Los Angeles",
+          "First West Nile virus death of 2026 reported in Los Angeles County - KTLA",
+          "VDH reports 6 human West Nile virus cases in Virginia - WAVY.com"
+        ]
+      },
+      {
+        "trend": "public health",
+        "market_code": "QA",
+        "category": "Arab Health",
+        "score": 8,
+        "examples": [
+          "San Francisco Department of Public Health officials report 10 cyclosporiasis cases so far in 2026; no known outbreak in the city - ABC7 Bay Area",
+          "San Francisco Department of Public Health officials report 10 cyclosporiasis cases so far in 2026; no known outbreak in the city - ABC7 Bay Area",
+          "Public health order to ban the sale of kratom in Albany County - NEWS10 ABC"
         ]
       },
       {
@@ -2521,30 +2532,19 @@
         "score": 8,
         "examples": [
           "Where People Got Sick: E. coli and Salmonella Outbreak, August 2026 - Centers for Disease Control and Prevention | CDC (.gov)",
-          "Backlit: Disease detective - Berkeley Inspire",
-          "E. coli and Salmonella Outbreak Linked to Alfalfa Sprouts - Centers for Disease Control and Prevention | CDC (.gov)"
+          "Investigation Update: E. coli and Salmonella Outbreak, August 2026 - Centers for Disease Control and Prevention | CDC (.gov)",
+          "Clade I Mpox Transmission Risk During Air Travel Is Low - Infectious Disease Special Edition"
         ]
       },
       {
-        "trend": "infection",
+        "trend": "healthcare",
         "market_code": "QA",
-        "category": "Outbreaks",
+        "category": "Arab Health",
         "score": 8,
         "examples": [
-          "Video Health alert about cyclosporiasis parasitic infection - ABC News - Breaking News, Latest News and Videos",
-          "Ruston community rallies for 8-year-old fighting rare infection - KNOE",
-          "Ramona woman sues market, egg ranch as salmonella infection cases grow - San Diego Union-Tribune"
-        ]
-      },
-      {
-        "trend": "nile virus",
-        "market_code": "QA",
-        "category": "Outbreaks",
-        "score": 8,
-        "examples": [
-          "Elderly woman's death related to West Nile virus, Montgomery County officials say - ABC13 Houston",
-          "VDH reports 6 human West Nile virus cases in Virginia - WAVY.com",
-          "Two Rivers: West Nile Virus detected in Dawson County mosquitos - Central Nebraska Today"
+          "Healthcare AI Must Earn Trust Before Adoption - Cisco Blogs",
+          "Abridge expands AI decision support to more clinicians in bid to become healthcare's copilot - Fierce Healthcare",
+          "Abridge expands AI decision support to more clinicians in bid to become healthcare's copilot - Fierce Healthcare"
         ]
       }
     ],
@@ -2553,11 +2553,11 @@
         "trend": "health",
         "market_code": "JO",
         "category": "Arab Health",
-        "score": 76,
+        "score": 79,
         "examples": [
           "Confirmed Detections of New World Screwworm | Animal and Plant Health Inspection Service - aphis.usda.gov",
           "In partnership with Morehouse School of Medicine, Atrium Health commits more than $700 million to a new teaching hospital and care network - City Of Atlanta, Ga (.gov)",
-          "Nebraska’s Growing Role in Health Initiatives Highlighted During Visit by HHS Secretary Kennedy - Nebraska Governor's Office (.gov)"
+          "Coroner: Man found dead hours before 911 call at Danville behavioral health facility - fox56.com"
         ]
       },
       {
@@ -2567,52 +2567,30 @@
         "score": 19,
         "examples": [
           "Disney will cut medical insurance for employees' spouses who can get coverage through their own jobs - Business Insider",
-          "Carlos Baleba set for Manchester United medical after £70m deal agreed with Brighton - The Athletic - The New York Times",
-          "Cellular Bodyguards Protect Lung Cancer - Columbia University Irving Medical Center"
+          "Family visiting St. Louis for medical care awakened by volleys of gunfire outside a short-term rental - First Alert 4",
+          "New UMSOP Graduate Certificate in Medical Cannabis Clinical Science - The University of Maryland, Baltimore"
         ]
       },
       {
         "trend": "outbreak",
         "market_code": "JO",
         "category": "Outbreaks",
-        "score": 13,
+        "score": 16,
         "examples": [
-          "Where People Got Sick: E. coli and Salmonella Outbreak, August 2026 - Centers for Disease Control and Prevention | CDC (.gov)",
-          "E. coli and Salmonella Outbreak Linked to Alfalfa Sprouts - Centers for Disease Control and Prevention | CDC (.gov)",
-          "At least 55 sickened in salmonella, E. coli outbreak linked to alfalfa sprouts - ABC News - Breaking News, Latest News and Videos"
+          "San Francisco Department of Public Health officials report 10 cyclosporiasis cases so far in 2026; no known outbreak in the city - ABC7 Bay Area",
+          "San Francisco Department of Public Health officials report 10 cyclosporiasis cases so far in 2026; no known outbreak in the city - ABC7 Bay Area",
+          "Cyclospora Outbreak: Cases Approach 16,000 Across 47 States - Healthline"
         ]
       },
       {
         "trend": "mental",
         "market_code": "JO",
         "category": "Mental Health",
-        "score": 12,
-        "examples": [
-          "As USS Lincoln heads home, mental health experts tally the stressors of life at sea - NPR",
-          "As USS Lincoln heads home, mental health experts tally the stressors of life at sea - NPR",
-          "The Professor Who Turned the Camera on Mental Health in College Sports - The Catholic University of America"
-        ]
-      },
-      {
-        "trend": "mental health",
-        "market_code": "JO",
-        "category": "Mental Health",
         "score": 11,
         "examples": [
-          "As USS Lincoln heads home, mental health experts tally the stressors of life at sea - NPR",
-          "As USS Lincoln heads home, mental health experts tally the stressors of life at sea - NPR",
-          "The Professor Who Turned the Camera on Mental Health in College Sports - The Catholic University of America"
-        ]
-      },
-      {
-        "trend": "healthcare",
-        "market_code": "JO",
-        "category": "Arab Health",
-        "score": 10,
-        "examples": [
-          "Jersey City mom turns to 7 On Your Side for help with son's healthcare coverage as he fights cancer - ABC7 New York",
-          "Epic MyChart phishing scam prompts hospital warnings - Modern Healthcare",
-          "Early Alert for GE Healthcare Portrait Mobile Monitoring Software - respiratory-therapy.com"
+          "The Professor Who Turned the Camera on Mental Health in College Sports - The Catholic University of America",
+          "Colts and Falcons join forces in Kicking the Stigma around mental health - Colts.com",
+          "Sen. Kolkhorst celebrates $35M mental health facility for Texas foster youth - KBTX News 3"
         ]
       },
       {
@@ -2621,9 +2599,20 @@
         "category": "Outbreaks",
         "score": 10,
         "examples": [
-          "Michigan reports 2 swine flu, influenza A(H1N2) variant virus cases - Outbreak News Today",
-          "Elderly woman's death related to West Nile virus, Montgomery County officials say - ABC13 Houston",
+          "Los Angeles County reports first West Nile virus death of 2026 - ABC7 Los Angeles",
+          "First West Nile virus death of 2026 reported in Los Angeles County - KTLA",
           "VDH reports 6 human West Nile virus cases in Virginia - WAVY.com"
+        ]
+      },
+      {
+        "trend": "mental health",
+        "market_code": "JO",
+        "category": "Mental Health",
+        "score": 10,
+        "examples": [
+          "The Professor Who Turned the Camera on Mental Health in College Sports - The Catholic University of America",
+          "Colts and Falcons join forces in Kicking the Stigma around mental health - Colts.com",
+          "Sen. Kolkhorst celebrates $35M mental health facility for Texas foster youth - KBTX News 3"
         ]
       },
       {
@@ -2638,14 +2627,36 @@
         ]
       },
       {
-        "trend": "cancer",
+        "trend": "nile virus",
         "market_code": "JO",
-        "category": "Chronic Disease",
+        "category": "Outbreaks",
         "score": 9,
         "examples": [
-          "Jersey City mom turns to 7 On Your Side for help with son's healthcare coverage as he fights cancer - ABC7 New York",
-          "Cellular Bodyguards Protect Lung Cancer - Columbia University Irving Medical Center",
-          "County-Level Medical Debt Tied to Later-Stage Cancer Diagnosis, Worse Survival - CancerNetwork"
+          "Los Angeles County reports first West Nile virus death of 2026 - ABC7 Los Angeles",
+          "First West Nile virus death of 2026 reported in Los Angeles County - KTLA",
+          "VDH reports 6 human West Nile virus cases in Virginia - WAVY.com"
+        ]
+      },
+      {
+        "trend": "west nile virus",
+        "market_code": "JO",
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "Los Angeles County reports first West Nile virus death of 2026 - ABC7 Los Angeles",
+          "First West Nile virus death of 2026 reported in Los Angeles County - KTLA",
+          "VDH reports 6 human West Nile virus cases in Virginia - WAVY.com"
+        ]
+      },
+      {
+        "trend": "public health",
+        "market_code": "JO",
+        "category": "Arab Health",
+        "score": 8,
+        "examples": [
+          "San Francisco Department of Public Health officials report 10 cyclosporiasis cases so far in 2026; no known outbreak in the city - ABC7 Bay Area",
+          "San Francisco Department of Public Health officials report 10 cyclosporiasis cases so far in 2026; no known outbreak in the city - ABC7 Bay Area",
+          "Public health order to ban the sale of kratom in Albany County - NEWS10 ABC"
         ]
       },
       {
@@ -2655,30 +2666,19 @@
         "score": 8,
         "examples": [
           "Where People Got Sick: E. coli and Salmonella Outbreak, August 2026 - Centers for Disease Control and Prevention | CDC (.gov)",
-          "Backlit: Disease detective - Berkeley Inspire",
-          "E. coli and Salmonella Outbreak Linked to Alfalfa Sprouts - Centers for Disease Control and Prevention | CDC (.gov)"
+          "Investigation Update: E. coli and Salmonella Outbreak, August 2026 - Centers for Disease Control and Prevention | CDC (.gov)",
+          "Clade I Mpox Transmission Risk During Air Travel Is Low - Infectious Disease Special Edition"
         ]
       },
       {
-        "trend": "infection",
+        "trend": "healthcare",
         "market_code": "JO",
-        "category": "Outbreaks",
+        "category": "Arab Health",
         "score": 8,
         "examples": [
-          "Video Health alert about cyclosporiasis parasitic infection - ABC News - Breaking News, Latest News and Videos",
-          "Ruston community rallies for 8-year-old fighting rare infection - KNOE",
-          "Ramona woman sues market, egg ranch as salmonella infection cases grow - San Diego Union-Tribune"
-        ]
-      },
-      {
-        "trend": "nile virus",
-        "market_code": "JO",
-        "category": "Outbreaks",
-        "score": 8,
-        "examples": [
-          "Elderly woman's death related to West Nile virus, Montgomery County officials say - ABC13 Houston",
-          "VDH reports 6 human West Nile virus cases in Virginia - WAVY.com",
-          "Two Rivers: West Nile Virus detected in Dawson County mosquitos - Central Nebraska Today"
+          "Healthcare AI Must Earn Trust Before Adoption - Cisco Blogs",
+          "Abridge expands AI decision support to more clinicians in bid to become healthcare's copilot - Fierce Healthcare",
+          "Abridge expands AI decision support to more clinicians in bid to become healthcare's copilot - Fierce Healthcare"
         ]
       }
     ],
@@ -2687,11 +2687,11 @@
         "trend": "health",
         "market_code": "LB",
         "category": "Arab Health",
-        "score": 76,
+        "score": 79,
         "examples": [
           "Confirmed Detections of New World Screwworm | Animal and Plant Health Inspection Service - aphis.usda.gov",
           "In partnership with Morehouse School of Medicine, Atrium Health commits more than $700 million to a new teaching hospital and care network - City Of Atlanta, Ga (.gov)",
-          "Nebraska’s Growing Role in Health Initiatives Highlighted During Visit by HHS Secretary Kennedy - Nebraska Governor's Office (.gov)"
+          "Coroner: Man found dead hours before 911 call at Danville behavioral health facility - fox56.com"
         ]
       },
       {
@@ -2701,52 +2701,30 @@
         "score": 19,
         "examples": [
           "Disney will cut medical insurance for employees' spouses who can get coverage through their own jobs - Business Insider",
-          "Carlos Baleba set for Manchester United medical after £70m deal agreed with Brighton - The Athletic - The New York Times",
-          "Cellular Bodyguards Protect Lung Cancer - Columbia University Irving Medical Center"
+          "Family visiting St. Louis for medical care awakened by volleys of gunfire outside a short-term rental - First Alert 4",
+          "New UMSOP Graduate Certificate in Medical Cannabis Clinical Science - The University of Maryland, Baltimore"
         ]
       },
       {
         "trend": "outbreak",
         "market_code": "LB",
         "category": "Outbreaks",
-        "score": 13,
+        "score": 16,
         "examples": [
-          "Where People Got Sick: E. coli and Salmonella Outbreak, August 2026 - Centers for Disease Control and Prevention | CDC (.gov)",
-          "E. coli and Salmonella Outbreak Linked to Alfalfa Sprouts - Centers for Disease Control and Prevention | CDC (.gov)",
-          "At least 55 sickened in salmonella, E. coli outbreak linked to alfalfa sprouts - ABC News - Breaking News, Latest News and Videos"
+          "San Francisco Department of Public Health officials report 10 cyclosporiasis cases so far in 2026; no known outbreak in the city - ABC7 Bay Area",
+          "San Francisco Department of Public Health officials report 10 cyclosporiasis cases so far in 2026; no known outbreak in the city - ABC7 Bay Area",
+          "Cyclospora Outbreak: Cases Approach 16,000 Across 47 States - Healthline"
         ]
       },
       {
         "trend": "mental",
         "market_code": "LB",
         "category": "Mental Health",
-        "score": 12,
-        "examples": [
-          "As USS Lincoln heads home, mental health experts tally the stressors of life at sea - NPR",
-          "As USS Lincoln heads home, mental health experts tally the stressors of life at sea - NPR",
-          "The Professor Who Turned the Camera on Mental Health in College Sports - The Catholic University of America"
-        ]
-      },
-      {
-        "trend": "mental health",
-        "market_code": "LB",
-        "category": "Mental Health",
         "score": 11,
         "examples": [
-          "As USS Lincoln heads home, mental health experts tally the stressors of life at sea - NPR",
-          "As USS Lincoln heads home, mental health experts tally the stressors of life at sea - NPR",
-          "The Professor Who Turned the Camera on Mental Health in College Sports - The Catholic University of America"
-        ]
-      },
-      {
-        "trend": "healthcare",
-        "market_code": "LB",
-        "category": "Arab Health",
-        "score": 10,
-        "examples": [
-          "Jersey City mom turns to 7 On Your Side for help with son's healthcare coverage as he fights cancer - ABC7 New York",
-          "Epic MyChart phishing scam prompts hospital warnings - Modern Healthcare",
-          "Early Alert for GE Healthcare Portrait Mobile Monitoring Software - respiratory-therapy.com"
+          "The Professor Who Turned the Camera on Mental Health in College Sports - The Catholic University of America",
+          "Colts and Falcons join forces in Kicking the Stigma around mental health - Colts.com",
+          "Sen. Kolkhorst celebrates $35M mental health facility for Texas foster youth - KBTX News 3"
         ]
       },
       {
@@ -2755,9 +2733,20 @@
         "category": "Outbreaks",
         "score": 10,
         "examples": [
-          "Michigan reports 2 swine flu, influenza A(H1N2) variant virus cases - Outbreak News Today",
-          "Elderly woman's death related to West Nile virus, Montgomery County officials say - ABC13 Houston",
+          "Los Angeles County reports first West Nile virus death of 2026 - ABC7 Los Angeles",
+          "First West Nile virus death of 2026 reported in Los Angeles County - KTLA",
           "VDH reports 6 human West Nile virus cases in Virginia - WAVY.com"
+        ]
+      },
+      {
+        "trend": "mental health",
+        "market_code": "LB",
+        "category": "Mental Health",
+        "score": 10,
+        "examples": [
+          "The Professor Who Turned the Camera on Mental Health in College Sports - The Catholic University of America",
+          "Colts and Falcons join forces in Kicking the Stigma around mental health - Colts.com",
+          "Sen. Kolkhorst celebrates $35M mental health facility for Texas foster youth - KBTX News 3"
         ]
       },
       {
@@ -2772,14 +2761,36 @@
         ]
       },
       {
-        "trend": "cancer",
+        "trend": "nile virus",
         "market_code": "LB",
-        "category": "Chronic Disease",
+        "category": "Outbreaks",
         "score": 9,
         "examples": [
-          "Jersey City mom turns to 7 On Your Side for help with son's healthcare coverage as he fights cancer - ABC7 New York",
-          "Cellular Bodyguards Protect Lung Cancer - Columbia University Irving Medical Center",
-          "County-Level Medical Debt Tied to Later-Stage Cancer Diagnosis, Worse Survival - CancerNetwork"
+          "Los Angeles County reports first West Nile virus death of 2026 - ABC7 Los Angeles",
+          "First West Nile virus death of 2026 reported in Los Angeles County - KTLA",
+          "VDH reports 6 human West Nile virus cases in Virginia - WAVY.com"
+        ]
+      },
+      {
+        "trend": "west nile virus",
+        "market_code": "LB",
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "Los Angeles County reports first West Nile virus death of 2026 - ABC7 Los Angeles",
+          "First West Nile virus death of 2026 reported in Los Angeles County - KTLA",
+          "VDH reports 6 human West Nile virus cases in Virginia - WAVY.com"
+        ]
+      },
+      {
+        "trend": "public health",
+        "market_code": "LB",
+        "category": "Arab Health",
+        "score": 8,
+        "examples": [
+          "San Francisco Department of Public Health officials report 10 cyclosporiasis cases so far in 2026; no known outbreak in the city - ABC7 Bay Area",
+          "San Francisco Department of Public Health officials report 10 cyclosporiasis cases so far in 2026; no known outbreak in the city - ABC7 Bay Area",
+          "Public health order to ban the sale of kratom in Albany County - NEWS10 ABC"
         ]
       },
       {
@@ -2789,30 +2800,19 @@
         "score": 8,
         "examples": [
           "Where People Got Sick: E. coli and Salmonella Outbreak, August 2026 - Centers for Disease Control and Prevention | CDC (.gov)",
-          "Backlit: Disease detective - Berkeley Inspire",
-          "E. coli and Salmonella Outbreak Linked to Alfalfa Sprouts - Centers for Disease Control and Prevention | CDC (.gov)"
+          "Investigation Update: E. coli and Salmonella Outbreak, August 2026 - Centers for Disease Control and Prevention | CDC (.gov)",
+          "Clade I Mpox Transmission Risk During Air Travel Is Low - Infectious Disease Special Edition"
         ]
       },
       {
-        "trend": "infection",
+        "trend": "healthcare",
         "market_code": "LB",
-        "category": "Outbreaks",
+        "category": "Arab Health",
         "score": 8,
         "examples": [
-          "Video Health alert about cyclosporiasis parasitic infection - ABC News - Breaking News, Latest News and Videos",
-          "Ruston community rallies for 8-year-old fighting rare infection - KNOE",
-          "Ramona woman sues market, egg ranch as salmonella infection cases grow - San Diego Union-Tribune"
-        ]
-      },
-      {
-        "trend": "nile virus",
-        "market_code": "LB",
-        "category": "Outbreaks",
-        "score": 8,
-        "examples": [
-          "Elderly woman's death related to West Nile virus, Montgomery County officials say - ABC13 Houston",
-          "VDH reports 6 human West Nile virus cases in Virginia - WAVY.com",
-          "Two Rivers: West Nile Virus detected in Dawson County mosquitos - Central Nebraska Today"
+          "Healthcare AI Must Earn Trust Before Adoption - Cisco Blogs",
+          "Abridge expands AI decision support to more clinicians in bid to become healthcare's copilot - Fierce Healthcare",
+          "Abridge expands AI decision support to more clinicians in bid to become healthcare's copilot - Fierce Healthcare"
         ]
       }
     ]
