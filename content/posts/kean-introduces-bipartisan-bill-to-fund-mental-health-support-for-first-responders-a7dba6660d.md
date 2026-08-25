@@ -1,0 +1,66 @@
+---
+title: "Kean Introduces Bipartisan Bill to Fund Mental Health Support for First Responders"
+description: "Kean Introduces Bipartisan Bill to Fund Mental Health Support for First Responders House.gov"
+slug: "kean-introduces-bipartisan-bill-to-fund-mental-health-support-for-first-responders-a7dba6660d"
+category: "Mental Health"
+region: "United States"
+source: "Google News / United States"
+source_url: "https://news.google.com/rss/articles/CBMiugFBVV95cUxNclV3MjdUYmE5U2ZMWmNSQklxY0MyUlR4RWxsY3lTa2llVHF5MnVQeGtvd3FGMV8ybUYwc2VCZV9YMGFjTmJBTldfeE1USTE2WUpUbkZrTWdjV0V2cUJHSVVSWENFSU5RdnlmMUZ2MkU1WlFwVkp4ak1PVVpuSElpYXVLOVFGeVJSTGdtYlozQXBza0ZkV1NnZnNBdFQ3T0pxYVc5VVJBbnpjLXB5aF82ZHdwX2IxSThzR3c?oc=5"
+source_confidence: "medium"
+published_at: "Mon, 24 Aug 2026 17:25:44 GMT"
+generated_at: "2026-08-25T00:30:12.728544+00:00"
+image_url: "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+trend: "mental health"
+keywords:
+  - "mental health"
+  - "united states health news"
+  - "health trends"
+  - "medical news"
+  - "public health"
+  - "kean"
+  - "introduces"
+  - "bipartisan"
+  - "bill"
+  - "fund"
+  - "mental"
+  - "health"
+  - "support"
+  - "responders"
+  - "house"
+---
+
+# Kean Introduces Bipartisan Bill to Fund Mental Health Support for First Responders
+
+Kean Introduces Bipartisan Bill to Fund Mental Health Support for First Responders House.gov
+
+## Why this topic is trending
+
+This update was selected because it is connected to a detected health trend in **United States**.
+
+Tracked trend: **mental health**.
+
+## What happened
+
+This update is part of a wider health signal being monitored from public sources and regional news feeds. It may relate to public health, medical research, symptoms, outbreaks, treatments, wellness, healthcare systems, or health technology.
+
+## Why it matters
+
+- It may affect public awareness or online health searches.
+- It may be connected to health policy, disease monitoring, treatment updates, or scientific research.
+- The original source should be reviewed for full details and context.
+
+## Region
+
+**United States**
+
+## Category
+
+**Mental Health**
+
+## Source context
+
+This article summarizes a public health signal from **Google News / United States**. HantaUpdates links to the original source so readers can verify details directly.
+
+## Medical disclaimer
+
+HantaUpdates does not provide medical advice, diagnosis, or treatment. Always follow guidance from your local health authority or a qualified medical professional.
