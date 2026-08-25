@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-25T00:29:13.377627+00:00",
+  "updated_at": "2026-08-25T06:22:20.819204+00:00",
   "total_trends": 252,
   "markets": {
     "United States": [
@@ -7,22 +7,22 @@
         "trend": "health",
         "market_code": "US",
         "category": "US Health",
-        "score": 72,
+        "score": 75,
         "examples": [
           "Pages - Maryland Department of Health declares measles outbreak in three Maryland counties - Maryland.gov",
-          "Unregulated food vendors can pose health threat - Coconino.az.gov",
-          "Las Vegas Raiders announce $25 million game-changing gift to Intermountain Health to help build Nevada's first stand-alone children's hospital - Raiders.com"
+          "Health systems warn of coordinated phishing targeting Epic’s patient portal - Health Exec",
+          "Health systems warn of coordinated phishing targeting Epic’s patient portal - Health Exec"
         ]
       },
       {
         "trend": "medical",
         "market_code": "US",
         "category": "US Health",
-        "score": 18,
+        "score": 19,
         "examples": [
-          "The winding paths to Medical School - University of Minnesota Twin Cities",
           "Mayor Mamdani and Office of Chief Medical Examiner Announce New Identification of World Trade Center Victim Using Breakthrough Forensic Technique - NYC.gov",
-          "UVM's Larner College of Medicine welcomes medical class of 2030 - Vermont Business Magazine"
+          "Cook County medical examiner takes ABC7 inside process to ID decomposing bodies found at funeral home South Chicago Chapel - ABC7 Chicago",
+          "SkyDrive to Evaluate Potential Routes for eVTOL Medical Logistics in India in Partnership with Air India and Suzuki - Yahoo Finance"
         ]
       },
       {
@@ -31,8 +31,8 @@
         "category": "Outbreaks",
         "score": 16,
         "examples": [
-          "Pages - Maryland Department of Health declares measles outbreak in three Maryland counties - Maryland.gov",
           "Ebola disease outbreak in the Democratic Republic of the Congo and Uganda - European Centre for Disease Prevention and Control (ECDC)",
+          "Pages - Maryland Department of Health declares measles outbreak in three Maryland counties - Maryland.gov",
           "Pages - Maryland Department of Health declares measles outbreak in three Maryland counties - Maryland.gov"
         ]
       },
@@ -48,25 +48,25 @@
         ]
       },
       {
-        "trend": "healthcare",
-        "market_code": "US",
-        "category": "US Health",
-        "score": 12,
-        "examples": [
-          "Health systems warn patients of MyChart phishing scam - Healthcare Dive",
-          "Healthcare AI Must Earn Trust Before Adoption - Cisco Blogs",
-          "FDA seeks feedback on generative AI regulations - Healthcare Dive"
-        ]
-      },
-      {
         "trend": "mental",
         "market_code": "US",
         "category": "Mental Health",
         "score": 11,
         "examples": [
+          "Fort Worth mental health nonprofit launches youth trauma and grief collaborative - Fort Worth Report",
           "Meta questions psychologist’s testimony in teen mental health harms trial - Courthouse News",
-          "Kean Introduces Bipartisan Bill to Fund Mental Health Support for First Responders - House.gov",
-          "New Shawnee County Jail mental health wing opens to provide inmates a ‘path forward’ - WIBW"
+          "Kean Introduces Bipartisan Bill to Fund Mental Health Support for First Responders - House.gov"
+        ]
+      },
+      {
+        "trend": "healthcare",
+        "market_code": "US",
+        "category": "US Health",
+        "score": 10,
+        "examples": [
+          "Chutes & Ladders—Elevance Health taps new behavioral health leader; Providence names new CFO - Fierce Healthcare",
+          "Health systems warn patients of MyChart phishing scam - Healthcare Dive",
+          "FDA seeks feedback on generative AI regulations - Healthcare Dive"
         ]
       },
       {
@@ -75,9 +75,9 @@
         "category": "Mental Health",
         "score": 10,
         "examples": [
+          "Fort Worth mental health nonprofit launches youth trauma and grief collaborative - Fort Worth Report",
           "Meta questions psychologist’s testimony in teen mental health harms trial - Courthouse News",
-          "Kean Introduces Bipartisan Bill to Fund Mental Health Support for First Responders - House.gov",
-          "New Shawnee County Jail mental health wing opens to provide inmates a ‘path forward’ - WIBW"
+          "Kean Introduces Bipartisan Bill to Fund Mental Health Support for First Responders - House.gov"
         ]
       },
       {
@@ -92,47 +92,47 @@
         ]
       },
       {
-        "trend": "public health",
-        "market_code": "US",
-        "category": "US Health",
-        "score": 9,
-        "examples": [
-          "Johns Hopkins Center for School Health Joins National Initiative to Address Chronic School Absence - Johns Hopkins Bloomberg School of Public Health",
-          "Opening doors when people are ready - Public Health Insider",
-          "New 'Immunize Minnesota' coalition hopes to break down public health silos around vaccines - MPR News"
-        ]
-      },
-      {
         "trend": "virus",
         "market_code": "US",
         "category": "Outbreaks",
         "score": 9,
         "examples": [
-          "Bali Dismisses Zika Virus Fears Amid US Health Alert - Jakarta Globe",
-          "Second case of West Nile virus reported in Mass., also in Middlesex County - Boston.com",
-          "Second West Nile virus case reported in Mass. - Axios"
+          "Second West Nile virus case reported in Massachusetts - Axios",
+          "West Nile virus found in 6 human cases; experts explain how it's spread - 13newsnow.com",
+          "Mosquitos test positive for West Nile virus in 9 Louisville neighborhoods - WLKY"
         ]
       },
       {
-        "trend": "health alert",
+        "trend": "nile virus",
+        "market_code": "US",
+        "category": "Outbreaks",
+        "score": 8,
+        "examples": [
+          "Second West Nile virus case reported in Massachusetts - Axios",
+          "West Nile virus found in 6 human cases; experts explain how it's spread - 13newsnow.com",
+          "Mosquitos test positive for West Nile virus in 9 Louisville neighborhoods - WLKY"
+        ]
+      },
+      {
+        "trend": "west nile virus",
+        "market_code": "US",
+        "category": "Outbreaks",
+        "score": 8,
+        "examples": [
+          "Second West Nile virus case reported in Massachusetts - Axios",
+          "West Nile virus found in 6 human cases; experts explain how it's spread - 13newsnow.com",
+          "Mosquitos test positive for West Nile virus in 9 Louisville neighborhoods - WLKY"
+        ]
+      },
+      {
+        "trend": "trial",
         "market_code": "US",
         "category": "US Health",
         "score": 8,
         "examples": [
-          "Health alert issued for harmful blue-green algae toxins in Lake Howell - WFTV",
-          "DOH-Seminole Issues Blue Green Algae Health Alert for Lake Howell - mysanfordherald.com",
-          "Health alert issued for harmful blue-green algae toxins in Lake Howell - WFTV"
-        ]
-      },
-      {
-        "trend": "cancer",
-        "market_code": "US",
-        "category": "Chronic Disease",
-        "score": 8,
-        "examples": [
+          "Meta questions psychologist’s testimony in teen mental health harms trial - Courthouse News",
           "Moderna and Merck say mRNA cancer vaccine succeeded in late-stage melanoma trial - STAT",
-          "Cancer vaccine from Moderna, Merck shows promise in late-stage trial; both stocks soar - CNBC",
-          "Personalized cancer vaccine shows promise in late-stage clinical trial - Spectrum News"
+          "Cancer vaccine from Moderna, Merck shows promise in late-stage trial; both stocks soar - CNBC"
         ]
       }
     ],
@@ -143,42 +143,42 @@
         "category": "Europe Health",
         "score": 71,
         "examples": [
-          "Using football to talk about mental health - BBC",
-          "Lior's honest review of studying MSc Health Data Science at LSHTM - The London School of Hygiene & Tropical Medicine",
-          "The best smart rings for health and fitness - Luxury London"
-        ]
-      },
-      {
-        "trend": "medical",
-        "market_code": "GB",
-        "category": "Europe Health",
-        "score": 20,
-        "examples": [
-          "‘Routine’ medical treatments are not risk free. Patients should ask questions before consenting | Ranjana Srivastava - The Guardian",
-          "Man Utd transfer 'confirmed' after medical as Carrick gets major boost - London Evening Standard",
-          "Imran Khan must get 'humane treatment and proper medical care' in prison, ex-cricket captains urge Pakistan - Sky News"
+          "NHS mental health system failing staff and patients, warns Mind - Mind",
+          "Decision due on Blackpool church mental health centre plan - BBC",
+          "One Health Policy requires access to medicines and environmental sustainability. The Commission must not sacrifice one to achieve the other. - euractiv.com"
         ]
       },
       {
         "trend": "mental",
         "market_code": "GB",
         "category": "Mental Health",
-        "score": 15,
+        "score": 17,
         "examples": [
-          "Using football to talk about mental health - BBC",
-          "I found myself in mental health crisis struggling with multiple-health conditions related to kidney disease - Kidney Research UK",
-          "Grow Therapy Reframes Mental Health Care as a Practice for Progress - Little Black Book | LBBOnline"
+          "NHS mental health system failing staff and patients, warns Mind - Mind",
+          "Decision due on Blackpool church mental health centre plan - BBC",
+          "Using football to talk about mental health - BBC"
         ]
       },
       {
-        "trend": "disease",
+        "trend": "medical",
         "market_code": "GB",
         "category": "Europe Health",
-        "score": 14,
+        "score": 17,
         "examples": [
-          "Ebola disease outbreak in the Democratic Republic of the Congo and Uganda - European Centre for Disease Prevention and Control (ECDC)",
-          "Ebola disease outbreak in the Democratic Republic of the Congo and Uganda - European Centre for Disease Prevention and Control (ECDC)",
-          "I found myself in mental health crisis struggling with multiple-health conditions related to kidney disease - Kidney Research UK"
+          "‘Routine’ medical treatments are not risk free. Patients should ask questions before consenting | Ranjana Srivastava - The Guardian",
+          "Guy Carpenter hires medical malpractice reinsurance specialist - Insurance Business",
+          "Imran Khan must get 'humane treatment and proper medical care' in prison, ex-cricket captains urge Pakistan - Sky News"
+        ]
+      },
+      {
+        "trend": "mental health",
+        "market_code": "GB",
+        "category": "Mental Health",
+        "score": 15,
+        "examples": [
+          "NHS mental health system failing staff and patients, warns Mind - Mind",
+          "Decision due on Blackpool church mental health centre plan - BBC",
+          "Using football to talk about mental health - BBC"
         ]
       },
       {
@@ -188,29 +188,29 @@
         "score": 14,
         "examples": [
           "Ebola disease outbreak in the Democratic Republic of the Congo and Uganda - European Centre for Disease Prevention and Control (ECDC)",
-          "Ebola disease outbreak in the Democratic Republic of the Congo and Uganda - European Centre for Disease Prevention and Control (ECDC)",
-          "Where People Got Sick: E. coli and Salmonella Outbreak, August 2026 - Centers for Disease Control and Prevention | CDC (.gov)"
+          "Australia battling largest outbreak of diphtheria since records began - ABC News & Headlines – Australian Broadcasting Corporation",
+          "Ebola disease outbreak in the Democratic Republic of the Congo and Uganda - European Centre for Disease Prevention and Control (ECDC)"
         ]
       },
       {
-        "trend": "mental health",
+        "trend": "disease",
         "market_code": "GB",
-        "category": "Mental Health",
+        "category": "Europe Health",
         "score": 13,
         "examples": [
-          "Using football to talk about mental health - BBC",
-          "I found myself in mental health crisis struggling with multiple-health conditions related to kidney disease - Kidney Research UK",
-          "Grow Therapy Reframes Mental Health Care as a Practice for Progress - Little Black Book | LBBOnline"
+          "Ebola disease outbreak in the Democratic Republic of the Congo and Uganda - European Centre for Disease Prevention and Control (ECDC)",
+          "Ebola disease outbreak in the Democratic Republic of the Congo and Uganda - European Centre for Disease Prevention and Control (ECDC)",
+          "I found myself in mental health crisis struggling with multiple-health conditions related to kidney disease - Kidney Research UK"
         ]
       },
       {
         "trend": "vaccine",
         "market_code": "GB",
         "category": "Drug & Treatment News",
-        "score": 11,
+        "score": 12,
         "examples": [
+          "Universal Flu Vaccine Strategy Takes Aim at a Century-Old Viral Target - Inside Precision Medicine",
           "Vaccine breakthrough stops cancer returning in trial - BBC",
-          "Moderna and Merck say mRNA cancer vaccine succeeded in late-stage melanoma trial - STAT",
           "Cancer breakthrough as personalised mRNA vaccine stops melanoma returning - Gavi, the Vaccine Alliance"
         ]
       },
@@ -232,41 +232,41 @@
         "score": 9,
         "examples": [
           "Vaccine breakthrough stops cancer returning in trial - BBC",
-          "Moderna and Merck say mRNA cancer vaccine succeeded in late-stage melanoma trial - STAT",
-          "Cancer breakthrough as personalised mRNA vaccine stops melanoma returning - Gavi, the Vaccine Alliance"
+          "Cancer breakthrough as personalised mRNA vaccine stops melanoma returning - Gavi, the Vaccine Alliance",
+          "Moderna and Merck say mRNA cancer vaccine succeeded in late-stage melanoma trial - STAT"
         ]
       },
       {
         "trend": "medicine",
         "market_code": "GB",
         "category": "Europe Health",
-        "score": 7,
+        "score": 8,
         "examples": [
           "Lior's honest review of studying MSc Health Data Science at LSHTM - The London School of Hygiene & Tropical Medicine",
           "Lior's honest review of studying MSc Health Data Science at LSHTM - The London School of Hygiene & Tropical Medicine",
-          "Long-term study reveals hidden threat of schistosomiasis in endangered chimpanzees - Liverpool School of Tropical Medicine"
+          "Universal Flu Vaccine Strategy Takes Aim at a Century-Old Viral Target - Inside Precision Medicine"
         ]
       },
       {
-        "trend": "health alert",
+        "trend": "trial",
         "market_code": "GB",
         "category": "Europe Health",
-        "score": 7,
+        "score": 6,
         "examples": [
-          "Health Alert: Health officials say tobacco ads target teens - WBKO",
-          "Health alert issued for harmful blue-green algae toxins in Lake Howell - WFTV",
-          "DOH-Seminole Issues Blue Green Algae Health Alert for Lake Howell - mysanfordherald.com"
+          "Lindsay Clancy trial: psychologist says he doubts claim she was hallucinating - The Guardian",
+          "Vaccine breakthrough stops cancer returning in trial - BBC",
+          "Moderna and Merck say mRNA cancer vaccine succeeded in late-stage melanoma trial - STAT"
         ]
       },
       {
-        "trend": "virus",
+        "trend": "cancer vaccine",
         "market_code": "GB",
-        "category": "Outbreaks",
+        "category": "Drug & Treatment News",
         "score": 6,
         "examples": [
-          "Bali Dismisses Zika Virus Fears Amid US Health Alert - Jakarta Globe",
-          "New midge-borne virus infecting cattle across Europe - Agriland UK",
-          "Identification and characterization of anti-chikungunya virus compounds using a biosafe toolkit - EurekAlert!"
+          "Moderna and Merck say mRNA cancer vaccine succeeded in late-stage melanoma trial - STAT",
+          "Cancer vaccine from Moderna, Merck shows promise in late-stage trial; both stocks soar - CNBC",
+          "Moderna and Merck say personalized melanoma cancer vaccine worked in late-stage trial - Drug Discovery News"
         ]
       }
     ],
@@ -275,22 +275,11 @@
         "trend": "health",
         "market_code": "DE",
         "category": "Europe Health",
-        "score": 72,
+        "score": 76,
         "examples": [
           "Pages - Maryland Department of Health declares measles outbreak in three Maryland counties - Maryland.gov",
-          "Unregulated food vendors can pose health threat - Coconino.az.gov",
-          "Las Vegas Raiders announce $25 million game-changing gift to Intermountain Health to help build Nevada's first stand-alone children's hospital - Raiders.com"
-        ]
-      },
-      {
-        "trend": "medical",
-        "market_code": "DE",
-        "category": "Europe Health",
-        "score": 18,
-        "examples": [
-          "The winding paths to Medical School - University of Minnesota Twin Cities",
-          "Mayor Mamdani and Office of Chief Medical Examiner Announce New Identification of World Trade Center Victim Using Breakthrough Forensic Technique - NYC.gov",
-          "UVM's Larner College of Medicine welcomes medical class of 2030 - Vermont Business Magazine"
+          "Health systems warn of coordinated phishing targeting Epic’s patient portal - Health Exec",
+          "Health systems warn of coordinated phishing targeting Epic’s patient portal - Health Exec"
         ]
       },
       {
@@ -299,9 +288,20 @@
         "category": "Outbreaks",
         "score": 16,
         "examples": [
-          "Pages - Maryland Department of Health declares measles outbreak in three Maryland counties - Maryland.gov",
           "Ebola disease outbreak in the Democratic Republic of the Congo and Uganda - European Centre for Disease Prevention and Control (ECDC)",
+          "Pages - Maryland Department of Health declares measles outbreak in three Maryland counties - Maryland.gov",
           "Pages - Maryland Department of Health declares measles outbreak in three Maryland counties - Maryland.gov"
+        ]
+      },
+      {
+        "trend": "medical",
+        "market_code": "DE",
+        "category": "Europe Health",
+        "score": 16,
+        "examples": [
+          "Mayor Mamdani and Office of Chief Medical Examiner Announce New Identification of World Trade Center Victim Using Breakthrough Forensic Technique - NYC.gov",
+          "Cook County medical examiner takes ABC7 inside process to ID decomposing bodies found at funeral home South Chicago Chapel - ABC7 Chicago",
+          "UVM's Larner College of Medicine welcomes medical class of 2030 - Vermont Business Magazine"
         ]
       },
       {
@@ -319,11 +319,11 @@
         "trend": "healthcare",
         "market_code": "DE",
         "category": "Europe Health",
-        "score": 12,
+        "score": 11,
         "examples": [
+          "Chutes & Ladders—Elevance Health taps new behavioral health leader; Providence names new CFO - Fierce Healthcare",
           "Health systems warn patients of MyChart phishing scam - Healthcare Dive",
-          "Healthcare AI Must Earn Trust Before Adoption - Cisco Blogs",
-          "FDA seeks feedback on generative AI regulations - Healthcare Dive"
+          "Healthcare AI Must Earn Trust Before Adoption - Cisco Blogs"
         ]
       },
       {
@@ -332,9 +332,9 @@
         "category": "Mental Health",
         "score": 11,
         "examples": [
+          "Fort Worth mental health nonprofit launches youth trauma and grief collaborative - Fort Worth Report",
           "Meta questions psychologist’s testimony in teen mental health harms trial - Courthouse News",
-          "Kean Introduces Bipartisan Bill to Fund Mental Health Support for First Responders - House.gov",
-          "New Shawnee County Jail mental health wing opens to provide inmates a ‘path forward’ - WIBW"
+          "Kean Introduces Bipartisan Bill to Fund Mental Health Support for First Responders - House.gov"
         ]
       },
       {
@@ -343,9 +343,9 @@
         "category": "Mental Health",
         "score": 10,
         "examples": [
+          "Fort Worth mental health nonprofit launches youth trauma and grief collaborative - Fort Worth Report",
           "Meta questions psychologist’s testimony in teen mental health harms trial - Courthouse News",
-          "Kean Introduces Bipartisan Bill to Fund Mental Health Support for First Responders - House.gov",
-          "New Shawnee County Jail mental health wing opens to provide inmates a ‘path forward’ - WIBW"
+          "Kean Introduces Bipartisan Bill to Fund Mental Health Support for First Responders - House.gov"
         ]
       },
       {
@@ -360,36 +360,14 @@
         ]
       },
       {
-        "trend": "public health",
-        "market_code": "DE",
-        "category": "Europe Health",
-        "score": 9,
-        "examples": [
-          "Johns Hopkins Center for School Health Joins National Initiative to Address Chronic School Absence - Johns Hopkins Bloomberg School of Public Health",
-          "Opening doors when people are ready - Public Health Insider",
-          "New 'Immunize Minnesota' coalition hopes to break down public health silos around vaccines - MPR News"
-        ]
-      },
-      {
         "trend": "virus",
         "market_code": "DE",
         "category": "Outbreaks",
         "score": 9,
         "examples": [
-          "Bali Dismisses Zika Virus Fears Amid US Health Alert - Jakarta Globe",
-          "Second case of West Nile virus reported in Mass., also in Middlesex County - Boston.com",
-          "Second West Nile virus case reported in Mass. - Axios"
-        ]
-      },
-      {
-        "trend": "health alert",
-        "market_code": "DE",
-        "category": "Europe Health",
-        "score": 8,
-        "examples": [
-          "Health alert issued for harmful blue-green algae toxins in Lake Howell - WFTV",
-          "Health Alert: Health officials say tobacco ads target teens - WBKO",
-          "DOH-Seminole Issues Blue Green Algae Health Alert for Lake Howell - mysanfordherald.com"
+          "Second West Nile virus case reported in Massachusetts - Axios",
+          "West Nile virus found in 6 human cases; experts explain how it's spread - 13newsnow.com",
+          "Mosquitos test positive for West Nile virus in 9 Louisville neighborhoods - WLKY"
         ]
       },
       {
@@ -398,9 +376,31 @@
         "category": "Outbreaks",
         "score": 8,
         "examples": [
-          "Second case of West Nile virus reported in Mass., also in Middlesex County - Boston.com",
-          "Second West Nile virus case reported in Mass. - Axios",
-          "Three West Nile virus cases confirmed in Montrose County - KJCT"
+          "Second West Nile virus case reported in Massachusetts - Axios",
+          "West Nile virus found in 6 human cases; experts explain how it's spread - 13newsnow.com",
+          "Mosquitos test positive for West Nile virus in 9 Louisville neighborhoods - WLKY"
+        ]
+      },
+      {
+        "trend": "west nile virus",
+        "market_code": "DE",
+        "category": "Outbreaks",
+        "score": 8,
+        "examples": [
+          "Second West Nile virus case reported in Massachusetts - Axios",
+          "West Nile virus found in 6 human cases; experts explain how it's spread - 13newsnow.com",
+          "Mosquitos test positive for West Nile virus in 9 Louisville neighborhoods - WLKY"
+        ]
+      },
+      {
+        "trend": "trial",
+        "market_code": "DE",
+        "category": "Europe Health",
+        "score": 8,
+        "examples": [
+          "Meta questions psychologist’s testimony in teen mental health harms trial - Courthouse News",
+          "Moderna and Merck say mRNA cancer vaccine succeeded in late-stage melanoma trial - STAT",
+          "Cancer vaccine from Moderna, Merck shows promise in late-stage trial; both stocks soar - CNBC"
         ]
       }
     ],
@@ -409,22 +409,11 @@
         "trend": "health",
         "market_code": "FR",
         "category": "Europe Health",
-        "score": 72,
+        "score": 76,
         "examples": [
           "Pages - Maryland Department of Health declares measles outbreak in three Maryland counties - Maryland.gov",
-          "Unregulated food vendors can pose health threat - Coconino.az.gov",
-          "Las Vegas Raiders announce $25 million game-changing gift to Intermountain Health to help build Nevada's first stand-alone children's hospital - Raiders.com"
-        ]
-      },
-      {
-        "trend": "medical",
-        "market_code": "FR",
-        "category": "Europe Health",
-        "score": 18,
-        "examples": [
-          "The winding paths to Medical School - University of Minnesota Twin Cities",
-          "Mayor Mamdani and Office of Chief Medical Examiner Announce New Identification of World Trade Center Victim Using Breakthrough Forensic Technique - NYC.gov",
-          "UVM's Larner College of Medicine welcomes medical class of 2030 - Vermont Business Magazine"
+          "Health systems warn of coordinated phishing targeting Epic’s patient portal - Health Exec",
+          "Health systems warn of coordinated phishing targeting Epic’s patient portal - Health Exec"
         ]
       },
       {
@@ -433,9 +422,20 @@
         "category": "Outbreaks",
         "score": 16,
         "examples": [
-          "Pages - Maryland Department of Health declares measles outbreak in three Maryland counties - Maryland.gov",
           "Ebola disease outbreak in the Democratic Republic of the Congo and Uganda - European Centre for Disease Prevention and Control (ECDC)",
+          "Pages - Maryland Department of Health declares measles outbreak in three Maryland counties - Maryland.gov",
           "Pages - Maryland Department of Health declares measles outbreak in three Maryland counties - Maryland.gov"
+        ]
+      },
+      {
+        "trend": "medical",
+        "market_code": "FR",
+        "category": "Europe Health",
+        "score": 16,
+        "examples": [
+          "Mayor Mamdani and Office of Chief Medical Examiner Announce New Identification of World Trade Center Victim Using Breakthrough Forensic Technique - NYC.gov",
+          "Cook County medical examiner takes ABC7 inside process to ID decomposing bodies found at funeral home South Chicago Chapel - ABC7 Chicago",
+          "UVM's Larner College of Medicine welcomes medical class of 2030 - Vermont Business Magazine"
         ]
       },
       {
@@ -453,11 +453,11 @@
         "trend": "healthcare",
         "market_code": "FR",
         "category": "Europe Health",
-        "score": 12,
+        "score": 11,
         "examples": [
+          "Chutes & Ladders—Elevance Health taps new behavioral health leader; Providence names new CFO - Fierce Healthcare",
           "Health systems warn patients of MyChart phishing scam - Healthcare Dive",
-          "Healthcare AI Must Earn Trust Before Adoption - Cisco Blogs",
-          "FDA seeks feedback on generative AI regulations - Healthcare Dive"
+          "Healthcare AI Must Earn Trust Before Adoption - Cisco Blogs"
         ]
       },
       {
@@ -466,9 +466,9 @@
         "category": "Mental Health",
         "score": 11,
         "examples": [
+          "Fort Worth mental health nonprofit launches youth trauma and grief collaborative - Fort Worth Report",
           "Meta questions psychologist’s testimony in teen mental health harms trial - Courthouse News",
-          "Kean Introduces Bipartisan Bill to Fund Mental Health Support for First Responders - House.gov",
-          "New Shawnee County Jail mental health wing opens to provide inmates a ‘path forward’ - WIBW"
+          "Kean Introduces Bipartisan Bill to Fund Mental Health Support for First Responders - House.gov"
         ]
       },
       {
@@ -477,9 +477,9 @@
         "category": "Mental Health",
         "score": 10,
         "examples": [
+          "Fort Worth mental health nonprofit launches youth trauma and grief collaborative - Fort Worth Report",
           "Meta questions psychologist’s testimony in teen mental health harms trial - Courthouse News",
-          "Kean Introduces Bipartisan Bill to Fund Mental Health Support for First Responders - House.gov",
-          "New Shawnee County Jail mental health wing opens to provide inmates a ‘path forward’ - WIBW"
+          "Kean Introduces Bipartisan Bill to Fund Mental Health Support for First Responders - House.gov"
         ]
       },
       {
@@ -494,36 +494,14 @@
         ]
       },
       {
-        "trend": "public health",
-        "market_code": "FR",
-        "category": "Europe Health",
-        "score": 9,
-        "examples": [
-          "Johns Hopkins Center for School Health Joins National Initiative to Address Chronic School Absence - Johns Hopkins Bloomberg School of Public Health",
-          "Opening doors when people are ready - Public Health Insider",
-          "New 'Immunize Minnesota' coalition hopes to break down public health silos around vaccines - MPR News"
-        ]
-      },
-      {
         "trend": "virus",
         "market_code": "FR",
         "category": "Outbreaks",
         "score": 9,
         "examples": [
-          "Bali Dismisses Zika Virus Fears Amid US Health Alert - Jakarta Globe",
-          "Second case of West Nile virus reported in Mass., also in Middlesex County - Boston.com",
-          "Second West Nile virus case reported in Mass. - Axios"
-        ]
-      },
-      {
-        "trend": "health alert",
-        "market_code": "FR",
-        "category": "Europe Health",
-        "score": 8,
-        "examples": [
-          "Health alert issued for harmful blue-green algae toxins in Lake Howell - WFTV",
-          "Health Alert: Health officials say tobacco ads target teens - WBKO",
-          "DOH-Seminole Issues Blue Green Algae Health Alert for Lake Howell - mysanfordherald.com"
+          "Second West Nile virus case reported in Massachusetts - Axios",
+          "West Nile virus found in 6 human cases; experts explain how it's spread - 13newsnow.com",
+          "Mosquitos test positive for West Nile virus in 9 Louisville neighborhoods - WLKY"
         ]
       },
       {
@@ -532,9 +510,31 @@
         "category": "Outbreaks",
         "score": 8,
         "examples": [
-          "Second case of West Nile virus reported in Mass., also in Middlesex County - Boston.com",
-          "Second West Nile virus case reported in Mass. - Axios",
-          "Three West Nile virus cases confirmed in Montrose County - KJCT"
+          "Second West Nile virus case reported in Massachusetts - Axios",
+          "West Nile virus found in 6 human cases; experts explain how it's spread - 13newsnow.com",
+          "Mosquitos test positive for West Nile virus in 9 Louisville neighborhoods - WLKY"
+        ]
+      },
+      {
+        "trend": "west nile virus",
+        "market_code": "FR",
+        "category": "Outbreaks",
+        "score": 8,
+        "examples": [
+          "Second West Nile virus case reported in Massachusetts - Axios",
+          "West Nile virus found in 6 human cases; experts explain how it's spread - 13newsnow.com",
+          "Mosquitos test positive for West Nile virus in 9 Louisville neighborhoods - WLKY"
+        ]
+      },
+      {
+        "trend": "trial",
+        "market_code": "FR",
+        "category": "Europe Health",
+        "score": 8,
+        "examples": [
+          "Meta questions psychologist’s testimony in teen mental health harms trial - Courthouse News",
+          "Moderna and Merck say mRNA cancer vaccine succeeded in late-stage melanoma trial - STAT",
+          "Cancer vaccine from Moderna, Merck shows promise in late-stage trial; both stocks soar - CNBC"
         ]
       }
     ],
@@ -543,22 +543,11 @@
         "trend": "health",
         "market_code": "IT",
         "category": "Europe Health",
-        "score": 72,
+        "score": 76,
         "examples": [
           "Pages - Maryland Department of Health declares measles outbreak in three Maryland counties - Maryland.gov",
-          "Unregulated food vendors can pose health threat - Coconino.az.gov",
-          "Las Vegas Raiders announce $25 million game-changing gift to Intermountain Health to help build Nevada's first stand-alone children's hospital - Raiders.com"
-        ]
-      },
-      {
-        "trend": "medical",
-        "market_code": "IT",
-        "category": "Europe Health",
-        "score": 18,
-        "examples": [
-          "The winding paths to Medical School - University of Minnesota Twin Cities",
-          "Mayor Mamdani and Office of Chief Medical Examiner Announce New Identification of World Trade Center Victim Using Breakthrough Forensic Technique - NYC.gov",
-          "UVM's Larner College of Medicine welcomes medical class of 2030 - Vermont Business Magazine"
+          "Health systems warn of coordinated phishing targeting Epic’s patient portal - Health Exec",
+          "Health systems warn of coordinated phishing targeting Epic’s patient portal - Health Exec"
         ]
       },
       {
@@ -567,9 +556,20 @@
         "category": "Outbreaks",
         "score": 16,
         "examples": [
-          "Pages - Maryland Department of Health declares measles outbreak in three Maryland counties - Maryland.gov",
           "Ebola disease outbreak in the Democratic Republic of the Congo and Uganda - European Centre for Disease Prevention and Control (ECDC)",
+          "Pages - Maryland Department of Health declares measles outbreak in three Maryland counties - Maryland.gov",
           "Pages - Maryland Department of Health declares measles outbreak in three Maryland counties - Maryland.gov"
+        ]
+      },
+      {
+        "trend": "medical",
+        "market_code": "IT",
+        "category": "Europe Health",
+        "score": 16,
+        "examples": [
+          "Mayor Mamdani and Office of Chief Medical Examiner Announce New Identification of World Trade Center Victim Using Breakthrough Forensic Technique - NYC.gov",
+          "Cook County medical examiner takes ABC7 inside process to ID decomposing bodies found at funeral home South Chicago Chapel - ABC7 Chicago",
+          "UVM's Larner College of Medicine welcomes medical class of 2030 - Vermont Business Magazine"
         ]
       },
       {
@@ -587,11 +587,11 @@
         "trend": "healthcare",
         "market_code": "IT",
         "category": "Europe Health",
-        "score": 12,
+        "score": 11,
         "examples": [
+          "Chutes & Ladders—Elevance Health taps new behavioral health leader; Providence names new CFO - Fierce Healthcare",
           "Health systems warn patients of MyChart phishing scam - Healthcare Dive",
-          "Healthcare AI Must Earn Trust Before Adoption - Cisco Blogs",
-          "FDA seeks feedback on generative AI regulations - Healthcare Dive"
+          "Healthcare AI Must Earn Trust Before Adoption - Cisco Blogs"
         ]
       },
       {
@@ -600,9 +600,9 @@
         "category": "Mental Health",
         "score": 11,
         "examples": [
+          "Fort Worth mental health nonprofit launches youth trauma and grief collaborative - Fort Worth Report",
           "Meta questions psychologist’s testimony in teen mental health harms trial - Courthouse News",
-          "Kean Introduces Bipartisan Bill to Fund Mental Health Support for First Responders - House.gov",
-          "New Shawnee County Jail mental health wing opens to provide inmates a ‘path forward’ - WIBW"
+          "Kean Introduces Bipartisan Bill to Fund Mental Health Support for First Responders - House.gov"
         ]
       },
       {
@@ -611,9 +611,9 @@
         "category": "Mental Health",
         "score": 10,
         "examples": [
+          "Fort Worth mental health nonprofit launches youth trauma and grief collaborative - Fort Worth Report",
           "Meta questions psychologist’s testimony in teen mental health harms trial - Courthouse News",
-          "Kean Introduces Bipartisan Bill to Fund Mental Health Support for First Responders - House.gov",
-          "New Shawnee County Jail mental health wing opens to provide inmates a ‘path forward’ - WIBW"
+          "Kean Introduces Bipartisan Bill to Fund Mental Health Support for First Responders - House.gov"
         ]
       },
       {
@@ -628,36 +628,14 @@
         ]
       },
       {
-        "trend": "public health",
-        "market_code": "IT",
-        "category": "Europe Health",
-        "score": 9,
-        "examples": [
-          "Johns Hopkins Center for School Health Joins National Initiative to Address Chronic School Absence - Johns Hopkins Bloomberg School of Public Health",
-          "Opening doors when people are ready - Public Health Insider",
-          "New 'Immunize Minnesota' coalition hopes to break down public health silos around vaccines - MPR News"
-        ]
-      },
-      {
         "trend": "virus",
         "market_code": "IT",
         "category": "Outbreaks",
         "score": 9,
         "examples": [
-          "Bali Dismisses Zika Virus Fears Amid US Health Alert - Jakarta Globe",
-          "Second case of West Nile virus reported in Mass., also in Middlesex County - Boston.com",
-          "Second West Nile virus case reported in Mass. - Axios"
-        ]
-      },
-      {
-        "trend": "health alert",
-        "market_code": "IT",
-        "category": "Europe Health",
-        "score": 8,
-        "examples": [
-          "Health alert issued for harmful blue-green algae toxins in Lake Howell - WFTV",
-          "Health Alert: Health officials say tobacco ads target teens - WBKO",
-          "DOH-Seminole Issues Blue Green Algae Health Alert for Lake Howell - mysanfordherald.com"
+          "Second West Nile virus case reported in Massachusetts - Axios",
+          "West Nile virus found in 6 human cases; experts explain how it's spread - 13newsnow.com",
+          "Mosquitos test positive for West Nile virus in 9 Louisville neighborhoods - WLKY"
         ]
       },
       {
@@ -666,9 +644,31 @@
         "category": "Outbreaks",
         "score": 8,
         "examples": [
-          "Second case of West Nile virus reported in Mass., also in Middlesex County - Boston.com",
-          "Second West Nile virus case reported in Mass. - Axios",
-          "Three West Nile virus cases confirmed in Montrose County - KJCT"
+          "Second West Nile virus case reported in Massachusetts - Axios",
+          "West Nile virus found in 6 human cases; experts explain how it's spread - 13newsnow.com",
+          "Mosquitos test positive for West Nile virus in 9 Louisville neighborhoods - WLKY"
+        ]
+      },
+      {
+        "trend": "west nile virus",
+        "market_code": "IT",
+        "category": "Outbreaks",
+        "score": 8,
+        "examples": [
+          "Second West Nile virus case reported in Massachusetts - Axios",
+          "West Nile virus found in 6 human cases; experts explain how it's spread - 13newsnow.com",
+          "Mosquitos test positive for West Nile virus in 9 Louisville neighborhoods - WLKY"
+        ]
+      },
+      {
+        "trend": "trial",
+        "market_code": "IT",
+        "category": "Europe Health",
+        "score": 8,
+        "examples": [
+          "Meta questions psychologist’s testimony in teen mental health harms trial - Courthouse News",
+          "Moderna and Merck say mRNA cancer vaccine succeeded in late-stage melanoma trial - STAT",
+          "Cancer vaccine from Moderna, Merck shows promise in late-stage trial; both stocks soar - CNBC"
         ]
       }
     ],
@@ -677,22 +677,11 @@
         "trend": "health",
         "market_code": "ES",
         "category": "Europe Health",
-        "score": 72,
+        "score": 76,
         "examples": [
           "Pages - Maryland Department of Health declares measles outbreak in three Maryland counties - Maryland.gov",
-          "Unregulated food vendors can pose health threat - Coconino.az.gov",
-          "Las Vegas Raiders announce $25 million game-changing gift to Intermountain Health to help build Nevada's first stand-alone children's hospital - Raiders.com"
-        ]
-      },
-      {
-        "trend": "medical",
-        "market_code": "ES",
-        "category": "Europe Health",
-        "score": 18,
-        "examples": [
-          "The winding paths to Medical School - University of Minnesota Twin Cities",
-          "Mayor Mamdani and Office of Chief Medical Examiner Announce New Identification of World Trade Center Victim Using Breakthrough Forensic Technique - NYC.gov",
-          "UVM's Larner College of Medicine welcomes medical class of 2030 - Vermont Business Magazine"
+          "Health systems warn of coordinated phishing targeting Epic’s patient portal - Health Exec",
+          "Health systems warn of coordinated phishing targeting Epic’s patient portal - Health Exec"
         ]
       },
       {
@@ -701,9 +690,20 @@
         "category": "Outbreaks",
         "score": 16,
         "examples": [
-          "Pages - Maryland Department of Health declares measles outbreak in three Maryland counties - Maryland.gov",
           "Ebola disease outbreak in the Democratic Republic of the Congo and Uganda - European Centre for Disease Prevention and Control (ECDC)",
+          "Pages - Maryland Department of Health declares measles outbreak in three Maryland counties - Maryland.gov",
           "Pages - Maryland Department of Health declares measles outbreak in three Maryland counties - Maryland.gov"
+        ]
+      },
+      {
+        "trend": "medical",
+        "market_code": "ES",
+        "category": "Europe Health",
+        "score": 16,
+        "examples": [
+          "Mayor Mamdani and Office of Chief Medical Examiner Announce New Identification of World Trade Center Victim Using Breakthrough Forensic Technique - NYC.gov",
+          "Cook County medical examiner takes ABC7 inside process to ID decomposing bodies found at funeral home South Chicago Chapel - ABC7 Chicago",
+          "UVM's Larner College of Medicine welcomes medical class of 2030 - Vermont Business Magazine"
         ]
       },
       {
@@ -721,11 +721,11 @@
         "trend": "healthcare",
         "market_code": "ES",
         "category": "Europe Health",
-        "score": 12,
+        "score": 11,
         "examples": [
+          "Chutes & Ladders—Elevance Health taps new behavioral health leader; Providence names new CFO - Fierce Healthcare",
           "Health systems warn patients of MyChart phishing scam - Healthcare Dive",
-          "Healthcare AI Must Earn Trust Before Adoption - Cisco Blogs",
-          "FDA seeks feedback on generative AI regulations - Healthcare Dive"
+          "Healthcare AI Must Earn Trust Before Adoption - Cisco Blogs"
         ]
       },
       {
@@ -734,9 +734,9 @@
         "category": "Mental Health",
         "score": 11,
         "examples": [
+          "Fort Worth mental health nonprofit launches youth trauma and grief collaborative - Fort Worth Report",
           "Meta questions psychologist’s testimony in teen mental health harms trial - Courthouse News",
-          "Kean Introduces Bipartisan Bill to Fund Mental Health Support for First Responders - House.gov",
-          "New Shawnee County Jail mental health wing opens to provide inmates a ‘path forward’ - WIBW"
+          "Kean Introduces Bipartisan Bill to Fund Mental Health Support for First Responders - House.gov"
         ]
       },
       {
@@ -745,9 +745,9 @@
         "category": "Mental Health",
         "score": 10,
         "examples": [
+          "Fort Worth mental health nonprofit launches youth trauma and grief collaborative - Fort Worth Report",
           "Meta questions psychologist’s testimony in teen mental health harms trial - Courthouse News",
-          "Kean Introduces Bipartisan Bill to Fund Mental Health Support for First Responders - House.gov",
-          "New Shawnee County Jail mental health wing opens to provide inmates a ‘path forward’ - WIBW"
+          "Kean Introduces Bipartisan Bill to Fund Mental Health Support for First Responders - House.gov"
         ]
       },
       {
@@ -762,36 +762,14 @@
         ]
       },
       {
-        "trend": "public health",
-        "market_code": "ES",
-        "category": "Europe Health",
-        "score": 9,
-        "examples": [
-          "Johns Hopkins Center for School Health Joins National Initiative to Address Chronic School Absence - Johns Hopkins Bloomberg School of Public Health",
-          "Opening doors when people are ready - Public Health Insider",
-          "New 'Immunize Minnesota' coalition hopes to break down public health silos around vaccines - MPR News"
-        ]
-      },
-      {
         "trend": "virus",
         "market_code": "ES",
         "category": "Outbreaks",
         "score": 9,
         "examples": [
-          "Bali Dismisses Zika Virus Fears Amid US Health Alert - Jakarta Globe",
-          "Second case of West Nile virus reported in Mass., also in Middlesex County - Boston.com",
-          "Second West Nile virus case reported in Mass. - Axios"
-        ]
-      },
-      {
-        "trend": "health alert",
-        "market_code": "ES",
-        "category": "Europe Health",
-        "score": 8,
-        "examples": [
-          "Health alert issued for harmful blue-green algae toxins in Lake Howell - WFTV",
-          "Health Alert: Health officials say tobacco ads target teens - WBKO",
-          "DOH-Seminole Issues Blue Green Algae Health Alert for Lake Howell - mysanfordherald.com"
+          "Second West Nile virus case reported in Massachusetts - Axios",
+          "West Nile virus found in 6 human cases; experts explain how it's spread - 13newsnow.com",
+          "Mosquitos test positive for West Nile virus in 9 Louisville neighborhoods - WLKY"
         ]
       },
       {
@@ -800,9 +778,31 @@
         "category": "Outbreaks",
         "score": 8,
         "examples": [
-          "Second case of West Nile virus reported in Mass., also in Middlesex County - Boston.com",
-          "Second West Nile virus case reported in Mass. - Axios",
-          "Three West Nile virus cases confirmed in Montrose County - KJCT"
+          "Second West Nile virus case reported in Massachusetts - Axios",
+          "West Nile virus found in 6 human cases; experts explain how it's spread - 13newsnow.com",
+          "Mosquitos test positive for West Nile virus in 9 Louisville neighborhoods - WLKY"
+        ]
+      },
+      {
+        "trend": "west nile virus",
+        "market_code": "ES",
+        "category": "Outbreaks",
+        "score": 8,
+        "examples": [
+          "Second West Nile virus case reported in Massachusetts - Axios",
+          "West Nile virus found in 6 human cases; experts explain how it's spread - 13newsnow.com",
+          "Mosquitos test positive for West Nile virus in 9 Louisville neighborhoods - WLKY"
+        ]
+      },
+      {
+        "trend": "trial",
+        "market_code": "ES",
+        "category": "Europe Health",
+        "score": 8,
+        "examples": [
+          "Meta questions psychologist’s testimony in teen mental health harms trial - Courthouse News",
+          "Moderna and Merck say mRNA cancer vaccine succeeded in late-stage melanoma trial - STAT",
+          "Cancer vaccine from Moderna, Merck shows promise in late-stage trial; both stocks soar - CNBC"
         ]
       }
     ],
@@ -811,22 +811,11 @@
         "trend": "health",
         "market_code": "SE",
         "category": "Europe Health",
-        "score": 72,
+        "score": 76,
         "examples": [
           "Pages - Maryland Department of Health declares measles outbreak in three Maryland counties - Maryland.gov",
-          "Unregulated food vendors can pose health threat - Coconino.az.gov",
-          "Las Vegas Raiders announce $25 million game-changing gift to Intermountain Health to help build Nevada's first stand-alone children's hospital - Raiders.com"
-        ]
-      },
-      {
-        "trend": "medical",
-        "market_code": "SE",
-        "category": "Europe Health",
-        "score": 18,
-        "examples": [
-          "The winding paths to Medical School - University of Minnesota Twin Cities",
-          "Mayor Mamdani and Office of Chief Medical Examiner Announce New Identification of World Trade Center Victim Using Breakthrough Forensic Technique - NYC.gov",
-          "UVM's Larner College of Medicine welcomes medical class of 2030 - Vermont Business Magazine"
+          "Health systems warn of coordinated phishing targeting Epic’s patient portal - Health Exec",
+          "Health systems warn of coordinated phishing targeting Epic’s patient portal - Health Exec"
         ]
       },
       {
@@ -835,9 +824,20 @@
         "category": "Outbreaks",
         "score": 16,
         "examples": [
-          "Pages - Maryland Department of Health declares measles outbreak in three Maryland counties - Maryland.gov",
           "Ebola disease outbreak in the Democratic Republic of the Congo and Uganda - European Centre for Disease Prevention and Control (ECDC)",
+          "Pages - Maryland Department of Health declares measles outbreak in three Maryland counties - Maryland.gov",
           "Pages - Maryland Department of Health declares measles outbreak in three Maryland counties - Maryland.gov"
+        ]
+      },
+      {
+        "trend": "medical",
+        "market_code": "SE",
+        "category": "Europe Health",
+        "score": 16,
+        "examples": [
+          "Mayor Mamdani and Office of Chief Medical Examiner Announce New Identification of World Trade Center Victim Using Breakthrough Forensic Technique - NYC.gov",
+          "Cook County medical examiner takes ABC7 inside process to ID decomposing bodies found at funeral home South Chicago Chapel - ABC7 Chicago",
+          "UVM's Larner College of Medicine welcomes medical class of 2030 - Vermont Business Magazine"
         ]
       },
       {
@@ -855,11 +855,11 @@
         "trend": "healthcare",
         "market_code": "SE",
         "category": "Europe Health",
-        "score": 12,
+        "score": 11,
         "examples": [
+          "Chutes & Ladders—Elevance Health taps new behavioral health leader; Providence names new CFO - Fierce Healthcare",
           "Health systems warn patients of MyChart phishing scam - Healthcare Dive",
-          "Healthcare AI Must Earn Trust Before Adoption - Cisco Blogs",
-          "FDA seeks feedback on generative AI regulations - Healthcare Dive"
+          "Healthcare AI Must Earn Trust Before Adoption - Cisco Blogs"
         ]
       },
       {
@@ -868,9 +868,9 @@
         "category": "Mental Health",
         "score": 11,
         "examples": [
+          "Fort Worth mental health nonprofit launches youth trauma and grief collaborative - Fort Worth Report",
           "Meta questions psychologist’s testimony in teen mental health harms trial - Courthouse News",
-          "Kean Introduces Bipartisan Bill to Fund Mental Health Support for First Responders - House.gov",
-          "New Shawnee County Jail mental health wing opens to provide inmates a ‘path forward’ - WIBW"
+          "Kean Introduces Bipartisan Bill to Fund Mental Health Support for First Responders - House.gov"
         ]
       },
       {
@@ -879,9 +879,9 @@
         "category": "Mental Health",
         "score": 10,
         "examples": [
+          "Fort Worth mental health nonprofit launches youth trauma and grief collaborative - Fort Worth Report",
           "Meta questions psychologist’s testimony in teen mental health harms trial - Courthouse News",
-          "Kean Introduces Bipartisan Bill to Fund Mental Health Support for First Responders - House.gov",
-          "New Shawnee County Jail mental health wing opens to provide inmates a ‘path forward’ - WIBW"
+          "Kean Introduces Bipartisan Bill to Fund Mental Health Support for First Responders - House.gov"
         ]
       },
       {
@@ -896,36 +896,14 @@
         ]
       },
       {
-        "trend": "public health",
-        "market_code": "SE",
-        "category": "Europe Health",
-        "score": 9,
-        "examples": [
-          "Johns Hopkins Center for School Health Joins National Initiative to Address Chronic School Absence - Johns Hopkins Bloomberg School of Public Health",
-          "Opening doors when people are ready - Public Health Insider",
-          "New 'Immunize Minnesota' coalition hopes to break down public health silos around vaccines - MPR News"
-        ]
-      },
-      {
         "trend": "virus",
         "market_code": "SE",
         "category": "Outbreaks",
         "score": 9,
         "examples": [
-          "Bali Dismisses Zika Virus Fears Amid US Health Alert - Jakarta Globe",
-          "Second case of West Nile virus reported in Mass., also in Middlesex County - Boston.com",
-          "Second West Nile virus case reported in Mass. - Axios"
-        ]
-      },
-      {
-        "trend": "health alert",
-        "market_code": "SE",
-        "category": "Europe Health",
-        "score": 8,
-        "examples": [
-          "Health alert issued for harmful blue-green algae toxins in Lake Howell - WFTV",
-          "Health Alert: Health officials say tobacco ads target teens - WBKO",
-          "DOH-Seminole Issues Blue Green Algae Health Alert for Lake Howell - mysanfordherald.com"
+          "Second West Nile virus case reported in Massachusetts - Axios",
+          "West Nile virus found in 6 human cases; experts explain how it's spread - 13newsnow.com",
+          "Mosquitos test positive for West Nile virus in 9 Louisville neighborhoods - WLKY"
         ]
       },
       {
@@ -934,9 +912,31 @@
         "category": "Outbreaks",
         "score": 8,
         "examples": [
-          "Second case of West Nile virus reported in Mass., also in Middlesex County - Boston.com",
-          "Second West Nile virus case reported in Mass. - Axios",
-          "Three West Nile virus cases confirmed in Montrose County - KJCT"
+          "Second West Nile virus case reported in Massachusetts - Axios",
+          "West Nile virus found in 6 human cases; experts explain how it's spread - 13newsnow.com",
+          "Mosquitos test positive for West Nile virus in 9 Louisville neighborhoods - WLKY"
+        ]
+      },
+      {
+        "trend": "west nile virus",
+        "market_code": "SE",
+        "category": "Outbreaks",
+        "score": 8,
+        "examples": [
+          "Second West Nile virus case reported in Massachusetts - Axios",
+          "West Nile virus found in 6 human cases; experts explain how it's spread - 13newsnow.com",
+          "Mosquitos test positive for West Nile virus in 9 Louisville neighborhoods - WLKY"
+        ]
+      },
+      {
+        "trend": "trial",
+        "market_code": "SE",
+        "category": "Europe Health",
+        "score": 8,
+        "examples": [
+          "Meta questions psychologist’s testimony in teen mental health harms trial - Courthouse News",
+          "Moderna and Merck say mRNA cancer vaccine succeeded in late-stage melanoma trial - STAT",
+          "Cancer vaccine from Moderna, Merck shows promise in late-stage trial; both stocks soar - CNBC"
         ]
       }
     ],
@@ -945,22 +945,11 @@
         "trend": "health",
         "market_code": "NL",
         "category": "Europe Health",
-        "score": 72,
+        "score": 76,
         "examples": [
           "Pages - Maryland Department of Health declares measles outbreak in three Maryland counties - Maryland.gov",
-          "Unregulated food vendors can pose health threat - Coconino.az.gov",
-          "Las Vegas Raiders announce $25 million game-changing gift to Intermountain Health to help build Nevada's first stand-alone children's hospital - Raiders.com"
-        ]
-      },
-      {
-        "trend": "medical",
-        "market_code": "NL",
-        "category": "Europe Health",
-        "score": 18,
-        "examples": [
-          "The winding paths to Medical School - University of Minnesota Twin Cities",
-          "Mayor Mamdani and Office of Chief Medical Examiner Announce New Identification of World Trade Center Victim Using Breakthrough Forensic Technique - NYC.gov",
-          "UVM's Larner College of Medicine welcomes medical class of 2030 - Vermont Business Magazine"
+          "Health systems warn of coordinated phishing targeting Epic’s patient portal - Health Exec",
+          "Health systems warn of coordinated phishing targeting Epic’s patient portal - Health Exec"
         ]
       },
       {
@@ -969,9 +958,20 @@
         "category": "Outbreaks",
         "score": 16,
         "examples": [
-          "Pages - Maryland Department of Health declares measles outbreak in three Maryland counties - Maryland.gov",
           "Ebola disease outbreak in the Democratic Republic of the Congo and Uganda - European Centre for Disease Prevention and Control (ECDC)",
+          "Pages - Maryland Department of Health declares measles outbreak in three Maryland counties - Maryland.gov",
           "Pages - Maryland Department of Health declares measles outbreak in three Maryland counties - Maryland.gov"
+        ]
+      },
+      {
+        "trend": "medical",
+        "market_code": "NL",
+        "category": "Europe Health",
+        "score": 16,
+        "examples": [
+          "Mayor Mamdani and Office of Chief Medical Examiner Announce New Identification of World Trade Center Victim Using Breakthrough Forensic Technique - NYC.gov",
+          "Cook County medical examiner takes ABC7 inside process to ID decomposing bodies found at funeral home South Chicago Chapel - ABC7 Chicago",
+          "UVM's Larner College of Medicine welcomes medical class of 2030 - Vermont Business Magazine"
         ]
       },
       {
@@ -989,11 +989,11 @@
         "trend": "healthcare",
         "market_code": "NL",
         "category": "Europe Health",
-        "score": 12,
+        "score": 11,
         "examples": [
+          "Chutes & Ladders—Elevance Health taps new behavioral health leader; Providence names new CFO - Fierce Healthcare",
           "Health systems warn patients of MyChart phishing scam - Healthcare Dive",
-          "Healthcare AI Must Earn Trust Before Adoption - Cisco Blogs",
-          "FDA seeks feedback on generative AI regulations - Healthcare Dive"
+          "Healthcare AI Must Earn Trust Before Adoption - Cisco Blogs"
         ]
       },
       {
@@ -1002,9 +1002,9 @@
         "category": "Mental Health",
         "score": 11,
         "examples": [
+          "Fort Worth mental health nonprofit launches youth trauma and grief collaborative - Fort Worth Report",
           "Meta questions psychologist’s testimony in teen mental health harms trial - Courthouse News",
-          "Kean Introduces Bipartisan Bill to Fund Mental Health Support for First Responders - House.gov",
-          "New Shawnee County Jail mental health wing opens to provide inmates a ‘path forward’ - WIBW"
+          "Kean Introduces Bipartisan Bill to Fund Mental Health Support for First Responders - House.gov"
         ]
       },
       {
@@ -1013,9 +1013,9 @@
         "category": "Mental Health",
         "score": 10,
         "examples": [
+          "Fort Worth mental health nonprofit launches youth trauma and grief collaborative - Fort Worth Report",
           "Meta questions psychologist’s testimony in teen mental health harms trial - Courthouse News",
-          "Kean Introduces Bipartisan Bill to Fund Mental Health Support for First Responders - House.gov",
-          "New Shawnee County Jail mental health wing opens to provide inmates a ‘path forward’ - WIBW"
+          "Kean Introduces Bipartisan Bill to Fund Mental Health Support for First Responders - House.gov"
         ]
       },
       {
@@ -1030,36 +1030,14 @@
         ]
       },
       {
-        "trend": "public health",
-        "market_code": "NL",
-        "category": "Europe Health",
-        "score": 9,
-        "examples": [
-          "Johns Hopkins Center for School Health Joins National Initiative to Address Chronic School Absence - Johns Hopkins Bloomberg School of Public Health",
-          "Opening doors when people are ready - Public Health Insider",
-          "New 'Immunize Minnesota' coalition hopes to break down public health silos around vaccines - MPR News"
-        ]
-      },
-      {
         "trend": "virus",
         "market_code": "NL",
         "category": "Outbreaks",
         "score": 9,
         "examples": [
-          "Bali Dismisses Zika Virus Fears Amid US Health Alert - Jakarta Globe",
-          "Second case of West Nile virus reported in Mass., also in Middlesex County - Boston.com",
-          "Second West Nile virus case reported in Mass. - Axios"
-        ]
-      },
-      {
-        "trend": "health alert",
-        "market_code": "NL",
-        "category": "Europe Health",
-        "score": 8,
-        "examples": [
-          "Health alert issued for harmful blue-green algae toxins in Lake Howell - WFTV",
-          "Health Alert: Health officials say tobacco ads target teens - WBKO",
-          "DOH-Seminole Issues Blue Green Algae Health Alert for Lake Howell - mysanfordherald.com"
+          "Second West Nile virus case reported in Massachusetts - Axios",
+          "West Nile virus found in 6 human cases; experts explain how it's spread - 13newsnow.com",
+          "Mosquitos test positive for West Nile virus in 9 Louisville neighborhoods - WLKY"
         ]
       },
       {
@@ -1068,9 +1046,31 @@
         "category": "Outbreaks",
         "score": 8,
         "examples": [
-          "Second case of West Nile virus reported in Mass., also in Middlesex County - Boston.com",
-          "Second West Nile virus case reported in Mass. - Axios",
-          "Three West Nile virus cases confirmed in Montrose County - KJCT"
+          "Second West Nile virus case reported in Massachusetts - Axios",
+          "West Nile virus found in 6 human cases; experts explain how it's spread - 13newsnow.com",
+          "Mosquitos test positive for West Nile virus in 9 Louisville neighborhoods - WLKY"
+        ]
+      },
+      {
+        "trend": "west nile virus",
+        "market_code": "NL",
+        "category": "Outbreaks",
+        "score": 8,
+        "examples": [
+          "Second West Nile virus case reported in Massachusetts - Axios",
+          "West Nile virus found in 6 human cases; experts explain how it's spread - 13newsnow.com",
+          "Mosquitos test positive for West Nile virus in 9 Louisville neighborhoods - WLKY"
+        ]
+      },
+      {
+        "trend": "trial",
+        "market_code": "NL",
+        "category": "Europe Health",
+        "score": 8,
+        "examples": [
+          "Meta questions psychologist’s testimony in teen mental health harms trial - Courthouse News",
+          "Moderna and Merck say mRNA cancer vaccine succeeded in late-stage melanoma trial - STAT",
+          "Cancer vaccine from Moderna, Merck shows promise in late-stage trial; both stocks soar - CNBC"
         ]
       }
     ],
@@ -1079,22 +1079,11 @@
         "trend": "health",
         "market_code": "FI",
         "category": "Europe Health",
-        "score": 72,
+        "score": 76,
         "examples": [
           "Pages - Maryland Department of Health declares measles outbreak in three Maryland counties - Maryland.gov",
-          "Unregulated food vendors can pose health threat - Coconino.az.gov",
-          "Las Vegas Raiders announce $25 million game-changing gift to Intermountain Health to help build Nevada's first stand-alone children's hospital - Raiders.com"
-        ]
-      },
-      {
-        "trend": "medical",
-        "market_code": "FI",
-        "category": "Europe Health",
-        "score": 18,
-        "examples": [
-          "The winding paths to Medical School - University of Minnesota Twin Cities",
-          "Mayor Mamdani and Office of Chief Medical Examiner Announce New Identification of World Trade Center Victim Using Breakthrough Forensic Technique - NYC.gov",
-          "UVM's Larner College of Medicine welcomes medical class of 2030 - Vermont Business Magazine"
+          "Health systems warn of coordinated phishing targeting Epic’s patient portal - Health Exec",
+          "Health systems warn of coordinated phishing targeting Epic’s patient portal - Health Exec"
         ]
       },
       {
@@ -1103,9 +1092,20 @@
         "category": "Outbreaks",
         "score": 16,
         "examples": [
-          "Pages - Maryland Department of Health declares measles outbreak in three Maryland counties - Maryland.gov",
           "Ebola disease outbreak in the Democratic Republic of the Congo and Uganda - European Centre for Disease Prevention and Control (ECDC)",
+          "Pages - Maryland Department of Health declares measles outbreak in three Maryland counties - Maryland.gov",
           "Pages - Maryland Department of Health declares measles outbreak in three Maryland counties - Maryland.gov"
+        ]
+      },
+      {
+        "trend": "medical",
+        "market_code": "FI",
+        "category": "Europe Health",
+        "score": 16,
+        "examples": [
+          "Mayor Mamdani and Office of Chief Medical Examiner Announce New Identification of World Trade Center Victim Using Breakthrough Forensic Technique - NYC.gov",
+          "Cook County medical examiner takes ABC7 inside process to ID decomposing bodies found at funeral home South Chicago Chapel - ABC7 Chicago",
+          "UVM's Larner College of Medicine welcomes medical class of 2030 - Vermont Business Magazine"
         ]
       },
       {
@@ -1123,11 +1123,11 @@
         "trend": "healthcare",
         "market_code": "FI",
         "category": "Europe Health",
-        "score": 12,
+        "score": 11,
         "examples": [
+          "Chutes & Ladders—Elevance Health taps new behavioral health leader; Providence names new CFO - Fierce Healthcare",
           "Health systems warn patients of MyChart phishing scam - Healthcare Dive",
-          "Healthcare AI Must Earn Trust Before Adoption - Cisco Blogs",
-          "FDA seeks feedback on generative AI regulations - Healthcare Dive"
+          "Healthcare AI Must Earn Trust Before Adoption - Cisco Blogs"
         ]
       },
       {
@@ -1136,9 +1136,9 @@
         "category": "Mental Health",
         "score": 11,
         "examples": [
+          "Fort Worth mental health nonprofit launches youth trauma and grief collaborative - Fort Worth Report",
           "Meta questions psychologist’s testimony in teen mental health harms trial - Courthouse News",
-          "Kean Introduces Bipartisan Bill to Fund Mental Health Support for First Responders - House.gov",
-          "New Shawnee County Jail mental health wing opens to provide inmates a ‘path forward’ - WIBW"
+          "Kean Introduces Bipartisan Bill to Fund Mental Health Support for First Responders - House.gov"
         ]
       },
       {
@@ -1147,9 +1147,9 @@
         "category": "Mental Health",
         "score": 10,
         "examples": [
+          "Fort Worth mental health nonprofit launches youth trauma and grief collaborative - Fort Worth Report",
           "Meta questions psychologist’s testimony in teen mental health harms trial - Courthouse News",
-          "Kean Introduces Bipartisan Bill to Fund Mental Health Support for First Responders - House.gov",
-          "New Shawnee County Jail mental health wing opens to provide inmates a ‘path forward’ - WIBW"
+          "Kean Introduces Bipartisan Bill to Fund Mental Health Support for First Responders - House.gov"
         ]
       },
       {
@@ -1164,36 +1164,14 @@
         ]
       },
       {
-        "trend": "public health",
-        "market_code": "FI",
-        "category": "Europe Health",
-        "score": 9,
-        "examples": [
-          "Johns Hopkins Center for School Health Joins National Initiative to Address Chronic School Absence - Johns Hopkins Bloomberg School of Public Health",
-          "Opening doors when people are ready - Public Health Insider",
-          "New 'Immunize Minnesota' coalition hopes to break down public health silos around vaccines - MPR News"
-        ]
-      },
-      {
         "trend": "virus",
         "market_code": "FI",
         "category": "Outbreaks",
         "score": 9,
         "examples": [
-          "Bali Dismisses Zika Virus Fears Amid US Health Alert - Jakarta Globe",
-          "Second case of West Nile virus reported in Mass., also in Middlesex County - Boston.com",
-          "Second West Nile virus case reported in Mass. - Axios"
-        ]
-      },
-      {
-        "trend": "health alert",
-        "market_code": "FI",
-        "category": "Europe Health",
-        "score": 8,
-        "examples": [
-          "Health alert issued for harmful blue-green algae toxins in Lake Howell - WFTV",
-          "Health Alert: Health officials say tobacco ads target teens - WBKO",
-          "DOH-Seminole Issues Blue Green Algae Health Alert for Lake Howell - mysanfordherald.com"
+          "Second West Nile virus case reported in Massachusetts - Axios",
+          "West Nile virus found in 6 human cases; experts explain how it's spread - 13newsnow.com",
+          "Mosquitos test positive for West Nile virus in 9 Louisville neighborhoods - WLKY"
         ]
       },
       {
@@ -1202,9 +1180,31 @@
         "category": "Outbreaks",
         "score": 8,
         "examples": [
-          "Second case of West Nile virus reported in Mass., also in Middlesex County - Boston.com",
-          "Second West Nile virus case reported in Mass. - Axios",
-          "Three West Nile virus cases confirmed in Montrose County - KJCT"
+          "Second West Nile virus case reported in Massachusetts - Axios",
+          "West Nile virus found in 6 human cases; experts explain how it's spread - 13newsnow.com",
+          "Mosquitos test positive for West Nile virus in 9 Louisville neighborhoods - WLKY"
+        ]
+      },
+      {
+        "trend": "west nile virus",
+        "market_code": "FI",
+        "category": "Outbreaks",
+        "score": 8,
+        "examples": [
+          "Second West Nile virus case reported in Massachusetts - Axios",
+          "West Nile virus found in 6 human cases; experts explain how it's spread - 13newsnow.com",
+          "Mosquitos test positive for West Nile virus in 9 Louisville neighborhoods - WLKY"
+        ]
+      },
+      {
+        "trend": "trial",
+        "market_code": "FI",
+        "category": "Europe Health",
+        "score": 8,
+        "examples": [
+          "Meta questions psychologist’s testimony in teen mental health harms trial - Courthouse News",
+          "Moderna and Merck say mRNA cancer vaccine succeeded in late-stage melanoma trial - STAT",
+          "Cancer vaccine from Moderna, Merck shows promise in late-stage trial; both stocks soar - CNBC"
         ]
       }
     ],
@@ -1213,22 +1213,11 @@
         "trend": "health",
         "market_code": "NO",
         "category": "Europe Health",
-        "score": 71,
+        "score": 76,
         "examples": [
           "Pages - Maryland Department of Health declares measles outbreak in three Maryland counties - Maryland.gov",
-          "Unregulated food vendors can pose health threat - Coconino.az.gov",
-          "Las Vegas Raiders announce $25 million game-changing gift to Intermountain Health to help build Nevada's first stand-alone children's hospital - Raiders.com"
-        ]
-      },
-      {
-        "trend": "medical",
-        "market_code": "NO",
-        "category": "Europe Health",
-        "score": 18,
-        "examples": [
-          "The winding paths to Medical School - University of Minnesota Twin Cities",
-          "Mayor Mamdani and Office of Chief Medical Examiner Announce New Identification of World Trade Center Victim Using Breakthrough Forensic Technique - NYC.gov",
-          "UVM's Larner College of Medicine welcomes medical class of 2030 - Vermont Business Magazine"
+          "Health systems warn of coordinated phishing targeting Epic’s patient portal - Health Exec",
+          "Health systems warn of coordinated phishing targeting Epic’s patient portal - Health Exec"
         ]
       },
       {
@@ -1237,9 +1226,20 @@
         "category": "Outbreaks",
         "score": 16,
         "examples": [
-          "Pages - Maryland Department of Health declares measles outbreak in three Maryland counties - Maryland.gov",
           "Ebola disease outbreak in the Democratic Republic of the Congo and Uganda - European Centre for Disease Prevention and Control (ECDC)",
+          "Pages - Maryland Department of Health declares measles outbreak in three Maryland counties - Maryland.gov",
           "Pages - Maryland Department of Health declares measles outbreak in three Maryland counties - Maryland.gov"
+        ]
+      },
+      {
+        "trend": "medical",
+        "market_code": "NO",
+        "category": "Europe Health",
+        "score": 16,
+        "examples": [
+          "Mayor Mamdani and Office of Chief Medical Examiner Announce New Identification of World Trade Center Victim Using Breakthrough Forensic Technique - NYC.gov",
+          "Cook County medical examiner takes ABC7 inside process to ID decomposing bodies found at funeral home South Chicago Chapel - ABC7 Chicago",
+          "UVM's Larner College of Medicine welcomes medical class of 2030 - Vermont Business Magazine"
         ]
       },
       {
@@ -1257,11 +1257,11 @@
         "trend": "healthcare",
         "market_code": "NO",
         "category": "Europe Health",
-        "score": 12,
+        "score": 11,
         "examples": [
+          "Chutes & Ladders—Elevance Health taps new behavioral health leader; Providence names new CFO - Fierce Healthcare",
           "Health systems warn patients of MyChart phishing scam - Healthcare Dive",
-          "Healthcare AI Must Earn Trust Before Adoption - Cisco Blogs",
-          "FDA seeks feedback on generative AI regulations - Healthcare Dive"
+          "Healthcare AI Must Earn Trust Before Adoption - Cisco Blogs"
         ]
       },
       {
@@ -1270,9 +1270,9 @@
         "category": "Mental Health",
         "score": 11,
         "examples": [
+          "Fort Worth mental health nonprofit launches youth trauma and grief collaborative - Fort Worth Report",
           "Meta questions psychologist’s testimony in teen mental health harms trial - Courthouse News",
-          "Kean Introduces Bipartisan Bill to Fund Mental Health Support for First Responders - House.gov",
-          "New Shawnee County Jail mental health wing opens to provide inmates a ‘path forward’ - WIBW"
+          "Kean Introduces Bipartisan Bill to Fund Mental Health Support for First Responders - House.gov"
         ]
       },
       {
@@ -1281,9 +1281,9 @@
         "category": "Mental Health",
         "score": 10,
         "examples": [
+          "Fort Worth mental health nonprofit launches youth trauma and grief collaborative - Fort Worth Report",
           "Meta questions psychologist’s testimony in teen mental health harms trial - Courthouse News",
-          "Kean Introduces Bipartisan Bill to Fund Mental Health Support for First Responders - House.gov",
-          "New Shawnee County Jail mental health wing opens to provide inmates a ‘path forward’ - WIBW"
+          "Kean Introduces Bipartisan Bill to Fund Mental Health Support for First Responders - House.gov"
         ]
       },
       {
@@ -1298,36 +1298,14 @@
         ]
       },
       {
-        "trend": "public health",
-        "market_code": "NO",
-        "category": "Europe Health",
-        "score": 9,
-        "examples": [
-          "Johns Hopkins Center for School Health Joins National Initiative to Address Chronic School Absence - Johns Hopkins Bloomberg School of Public Health",
-          "Opening doors when people are ready - Public Health Insider",
-          "New 'Immunize Minnesota' coalition hopes to break down public health silos around vaccines - MPR News"
-        ]
-      },
-      {
         "trend": "virus",
         "market_code": "NO",
         "category": "Outbreaks",
         "score": 9,
         "examples": [
-          "Bali Dismisses Zika Virus Fears Amid US Health Alert - Jakarta Globe",
-          "Second case of West Nile virus reported in Mass., also in Middlesex County - Boston.com",
-          "Second West Nile virus case reported in Mass. - Axios"
-        ]
-      },
-      {
-        "trend": "health alert",
-        "market_code": "NO",
-        "category": "Europe Health",
-        "score": 8,
-        "examples": [
-          "Health alert issued for harmful blue-green algae toxins in Lake Howell - WFTV",
-          "Health Alert: Health officials say tobacco ads target teens - WBKO",
-          "DOH-Seminole Issues Blue Green Algae Health Alert for Lake Howell - mysanfordherald.com"
+          "Second West Nile virus case reported in Massachusetts - Axios",
+          "West Nile virus found in 6 human cases; experts explain how it's spread - 13newsnow.com",
+          "Mosquitos test positive for West Nile virus in 9 Louisville neighborhoods - WLKY"
         ]
       },
       {
@@ -1336,9 +1314,31 @@
         "category": "Outbreaks",
         "score": 8,
         "examples": [
-          "Second case of West Nile virus reported in Mass., also in Middlesex County - Boston.com",
-          "Second West Nile virus case reported in Mass. - Axios",
-          "Three West Nile virus cases confirmed in Montrose County - KJCT"
+          "Second West Nile virus case reported in Massachusetts - Axios",
+          "West Nile virus found in 6 human cases; experts explain how it's spread - 13newsnow.com",
+          "Mosquitos test positive for West Nile virus in 9 Louisville neighborhoods - WLKY"
+        ]
+      },
+      {
+        "trend": "west nile virus",
+        "market_code": "NO",
+        "category": "Outbreaks",
+        "score": 8,
+        "examples": [
+          "Second West Nile virus case reported in Massachusetts - Axios",
+          "West Nile virus found in 6 human cases; experts explain how it's spread - 13newsnow.com",
+          "Mosquitos test positive for West Nile virus in 9 Louisville neighborhoods - WLKY"
+        ]
+      },
+      {
+        "trend": "trial",
+        "market_code": "NO",
+        "category": "Europe Health",
+        "score": 8,
+        "examples": [
+          "Meta questions psychologist’s testimony in teen mental health harms trial - Courthouse News",
+          "Moderna and Merck say mRNA cancer vaccine succeeded in late-stage melanoma trial - STAT",
+          "Cancer vaccine from Moderna, Merck shows promise in late-stage trial; both stocks soar - CNBC"
         ]
       }
     ],
@@ -1347,22 +1347,11 @@
         "trend": "health",
         "market_code": "JP",
         "category": "Asia Health",
-        "score": 72,
+        "score": 76,
         "examples": [
           "Pages - Maryland Department of Health declares measles outbreak in three Maryland counties - Maryland.gov",
-          "Unregulated food vendors can pose health threat - Coconino.az.gov",
-          "Las Vegas Raiders announce $25 million game-changing gift to Intermountain Health to help build Nevada's first stand-alone children's hospital - Raiders.com"
-        ]
-      },
-      {
-        "trend": "medical",
-        "market_code": "JP",
-        "category": "Asia Health",
-        "score": 18,
-        "examples": [
-          "The winding paths to Medical School - University of Minnesota Twin Cities",
-          "Mayor Mamdani and Office of Chief Medical Examiner Announce New Identification of World Trade Center Victim Using Breakthrough Forensic Technique - NYC.gov",
-          "UVM's Larner College of Medicine welcomes medical class of 2030 - Vermont Business Magazine"
+          "Health systems warn of coordinated phishing targeting Epic’s patient portal - Health Exec",
+          "Health systems warn of coordinated phishing targeting Epic’s patient portal - Health Exec"
         ]
       },
       {
@@ -1371,9 +1360,20 @@
         "category": "Outbreaks",
         "score": 16,
         "examples": [
-          "Pages - Maryland Department of Health declares measles outbreak in three Maryland counties - Maryland.gov",
           "Ebola disease outbreak in the Democratic Republic of the Congo and Uganda - European Centre for Disease Prevention and Control (ECDC)",
+          "Pages - Maryland Department of Health declares measles outbreak in three Maryland counties - Maryland.gov",
           "Pages - Maryland Department of Health declares measles outbreak in three Maryland counties - Maryland.gov"
+        ]
+      },
+      {
+        "trend": "medical",
+        "market_code": "JP",
+        "category": "Asia Health",
+        "score": 16,
+        "examples": [
+          "Mayor Mamdani and Office of Chief Medical Examiner Announce New Identification of World Trade Center Victim Using Breakthrough Forensic Technique - NYC.gov",
+          "Cook County medical examiner takes ABC7 inside process to ID decomposing bodies found at funeral home South Chicago Chapel - ABC7 Chicago",
+          "UVM's Larner College of Medicine welcomes medical class of 2030 - Vermont Business Magazine"
         ]
       },
       {
@@ -1391,11 +1391,11 @@
         "trend": "healthcare",
         "market_code": "JP",
         "category": "Asia Health",
-        "score": 12,
+        "score": 11,
         "examples": [
+          "Chutes & Ladders—Elevance Health taps new behavioral health leader; Providence names new CFO - Fierce Healthcare",
           "Health systems warn patients of MyChart phishing scam - Healthcare Dive",
-          "Healthcare AI Must Earn Trust Before Adoption - Cisco Blogs",
-          "FDA seeks feedback on generative AI regulations - Healthcare Dive"
+          "Healthcare AI Must Earn Trust Before Adoption - Cisco Blogs"
         ]
       },
       {
@@ -1404,9 +1404,9 @@
         "category": "Mental Health",
         "score": 11,
         "examples": [
+          "Fort Worth mental health nonprofit launches youth trauma and grief collaborative - Fort Worth Report",
           "Meta questions psychologist’s testimony in teen mental health harms trial - Courthouse News",
-          "Kean Introduces Bipartisan Bill to Fund Mental Health Support for First Responders - House.gov",
-          "New Shawnee County Jail mental health wing opens to provide inmates a ‘path forward’ - WIBW"
+          "Kean Introduces Bipartisan Bill to Fund Mental Health Support for First Responders - House.gov"
         ]
       },
       {
@@ -1415,9 +1415,9 @@
         "category": "Mental Health",
         "score": 10,
         "examples": [
+          "Fort Worth mental health nonprofit launches youth trauma and grief collaborative - Fort Worth Report",
           "Meta questions psychologist’s testimony in teen mental health harms trial - Courthouse News",
-          "Kean Introduces Bipartisan Bill to Fund Mental Health Support for First Responders - House.gov",
-          "New Shawnee County Jail mental health wing opens to provide inmates a ‘path forward’ - WIBW"
+          "Kean Introduces Bipartisan Bill to Fund Mental Health Support for First Responders - House.gov"
         ]
       },
       {
@@ -1432,36 +1432,14 @@
         ]
       },
       {
-        "trend": "public health",
-        "market_code": "JP",
-        "category": "Asia Health",
-        "score": 9,
-        "examples": [
-          "Johns Hopkins Center for School Health Joins National Initiative to Address Chronic School Absence - Johns Hopkins Bloomberg School of Public Health",
-          "Opening doors when people are ready - Public Health Insider",
-          "New 'Immunize Minnesota' coalition hopes to break down public health silos around vaccines - MPR News"
-        ]
-      },
-      {
         "trend": "virus",
         "market_code": "JP",
         "category": "Outbreaks",
         "score": 9,
         "examples": [
-          "Bali Dismisses Zika Virus Fears Amid US Health Alert - Jakarta Globe",
-          "Second case of West Nile virus reported in Mass., also in Middlesex County - Boston.com",
-          "Second West Nile virus case reported in Mass. - Axios"
-        ]
-      },
-      {
-        "trend": "health alert",
-        "market_code": "JP",
-        "category": "Asia Health",
-        "score": 8,
-        "examples": [
-          "Health alert issued for harmful blue-green algae toxins in Lake Howell - WFTV",
-          "Health Alert: Health officials say tobacco ads target teens - WBKO",
-          "DOH-Seminole Issues Blue Green Algae Health Alert for Lake Howell - mysanfordherald.com"
+          "Second West Nile virus case reported in Massachusetts - Axios",
+          "West Nile virus found in 6 human cases; experts explain how it's spread - 13newsnow.com",
+          "Mosquitos test positive for West Nile virus in 9 Louisville neighborhoods - WLKY"
         ]
       },
       {
@@ -1470,9 +1448,31 @@
         "category": "Outbreaks",
         "score": 8,
         "examples": [
-          "Second case of West Nile virus reported in Mass., also in Middlesex County - Boston.com",
-          "Second West Nile virus case reported in Mass. - Axios",
-          "Three West Nile virus cases confirmed in Montrose County - KJCT"
+          "Second West Nile virus case reported in Massachusetts - Axios",
+          "West Nile virus found in 6 human cases; experts explain how it's spread - 13newsnow.com",
+          "Mosquitos test positive for West Nile virus in 9 Louisville neighborhoods - WLKY"
+        ]
+      },
+      {
+        "trend": "west nile virus",
+        "market_code": "JP",
+        "category": "Outbreaks",
+        "score": 8,
+        "examples": [
+          "Second West Nile virus case reported in Massachusetts - Axios",
+          "West Nile virus found in 6 human cases; experts explain how it's spread - 13newsnow.com",
+          "Mosquitos test positive for West Nile virus in 9 Louisville neighborhoods - WLKY"
+        ]
+      },
+      {
+        "trend": "trial",
+        "market_code": "JP",
+        "category": "Asia Health",
+        "score": 8,
+        "examples": [
+          "Meta questions psychologist’s testimony in teen mental health harms trial - Courthouse News",
+          "Moderna and Merck say mRNA cancer vaccine succeeded in late-stage melanoma trial - STAT",
+          "Cancer vaccine from Moderna, Merck shows promise in late-stage trial; both stocks soar - CNBC"
         ]
       }
     ],
@@ -1481,22 +1481,11 @@
         "trend": "health",
         "market_code": "CN",
         "category": "Asia Health",
-        "score": 72,
+        "score": 76,
         "examples": [
           "Pages - Maryland Department of Health declares measles outbreak in three Maryland counties - Maryland.gov",
-          "Unregulated food vendors can pose health threat - Coconino.az.gov",
-          "Las Vegas Raiders announce $25 million game-changing gift to Intermountain Health to help build Nevada's first stand-alone children's hospital - Raiders.com"
-        ]
-      },
-      {
-        "trend": "medical",
-        "market_code": "CN",
-        "category": "Asia Health",
-        "score": 18,
-        "examples": [
-          "The winding paths to Medical School - University of Minnesota Twin Cities",
-          "Mayor Mamdani and Office of Chief Medical Examiner Announce New Identification of World Trade Center Victim Using Breakthrough Forensic Technique - NYC.gov",
-          "UVM's Larner College of Medicine welcomes medical class of 2030 - Vermont Business Magazine"
+          "Health systems warn of coordinated phishing targeting Epic’s patient portal - Health Exec",
+          "Health systems warn of coordinated phishing targeting Epic’s patient portal - Health Exec"
         ]
       },
       {
@@ -1505,9 +1494,20 @@
         "category": "Outbreaks",
         "score": 16,
         "examples": [
-          "Pages - Maryland Department of Health declares measles outbreak in three Maryland counties - Maryland.gov",
           "Ebola disease outbreak in the Democratic Republic of the Congo and Uganda - European Centre for Disease Prevention and Control (ECDC)",
+          "Pages - Maryland Department of Health declares measles outbreak in three Maryland counties - Maryland.gov",
           "Pages - Maryland Department of Health declares measles outbreak in three Maryland counties - Maryland.gov"
+        ]
+      },
+      {
+        "trend": "medical",
+        "market_code": "CN",
+        "category": "Asia Health",
+        "score": 16,
+        "examples": [
+          "Mayor Mamdani and Office of Chief Medical Examiner Announce New Identification of World Trade Center Victim Using Breakthrough Forensic Technique - NYC.gov",
+          "Cook County medical examiner takes ABC7 inside process to ID decomposing bodies found at funeral home South Chicago Chapel - ABC7 Chicago",
+          "UVM's Larner College of Medicine welcomes medical class of 2030 - Vermont Business Magazine"
         ]
       },
       {
@@ -1525,11 +1525,11 @@
         "trend": "healthcare",
         "market_code": "CN",
         "category": "Asia Health",
-        "score": 12,
+        "score": 11,
         "examples": [
+          "Chutes & Ladders—Elevance Health taps new behavioral health leader; Providence names new CFO - Fierce Healthcare",
           "Health systems warn patients of MyChart phishing scam - Healthcare Dive",
-          "Healthcare AI Must Earn Trust Before Adoption - Cisco Blogs",
-          "FDA seeks feedback on generative AI regulations - Healthcare Dive"
+          "Healthcare AI Must Earn Trust Before Adoption - Cisco Blogs"
         ]
       },
       {
@@ -1538,9 +1538,9 @@
         "category": "Mental Health",
         "score": 11,
         "examples": [
+          "Fort Worth mental health nonprofit launches youth trauma and grief collaborative - Fort Worth Report",
           "Meta questions psychologist’s testimony in teen mental health harms trial - Courthouse News",
-          "Kean Introduces Bipartisan Bill to Fund Mental Health Support for First Responders - House.gov",
-          "New Shawnee County Jail mental health wing opens to provide inmates a ‘path forward’ - WIBW"
+          "Kean Introduces Bipartisan Bill to Fund Mental Health Support for First Responders - House.gov"
         ]
       },
       {
@@ -1549,9 +1549,9 @@
         "category": "Mental Health",
         "score": 10,
         "examples": [
+          "Fort Worth mental health nonprofit launches youth trauma and grief collaborative - Fort Worth Report",
           "Meta questions psychologist’s testimony in teen mental health harms trial - Courthouse News",
-          "Kean Introduces Bipartisan Bill to Fund Mental Health Support for First Responders - House.gov",
-          "New Shawnee County Jail mental health wing opens to provide inmates a ‘path forward’ - WIBW"
+          "Kean Introduces Bipartisan Bill to Fund Mental Health Support for First Responders - House.gov"
         ]
       },
       {
@@ -1566,36 +1566,14 @@
         ]
       },
       {
-        "trend": "public health",
-        "market_code": "CN",
-        "category": "Asia Health",
-        "score": 9,
-        "examples": [
-          "Johns Hopkins Center for School Health Joins National Initiative to Address Chronic School Absence - Johns Hopkins Bloomberg School of Public Health",
-          "Opening doors when people are ready - Public Health Insider",
-          "New 'Immunize Minnesota' coalition hopes to break down public health silos around vaccines - MPR News"
-        ]
-      },
-      {
         "trend": "virus",
         "market_code": "CN",
         "category": "Outbreaks",
         "score": 9,
         "examples": [
-          "Bali Dismisses Zika Virus Fears Amid US Health Alert - Jakarta Globe",
-          "Second case of West Nile virus reported in Mass., also in Middlesex County - Boston.com",
-          "Second West Nile virus case reported in Mass. - Axios"
-        ]
-      },
-      {
-        "trend": "health alert",
-        "market_code": "CN",
-        "category": "Asia Health",
-        "score": 8,
-        "examples": [
-          "Health alert issued for harmful blue-green algae toxins in Lake Howell - WFTV",
-          "Health Alert: Health officials say tobacco ads target teens - WBKO",
-          "DOH-Seminole Issues Blue Green Algae Health Alert for Lake Howell - mysanfordherald.com"
+          "Second West Nile virus case reported in Massachusetts - Axios",
+          "West Nile virus found in 6 human cases; experts explain how it's spread - 13newsnow.com",
+          "Mosquitos test positive for West Nile virus in 9 Louisville neighborhoods - WLKY"
         ]
       },
       {
@@ -1604,9 +1582,31 @@
         "category": "Outbreaks",
         "score": 8,
         "examples": [
-          "Second case of West Nile virus reported in Mass., also in Middlesex County - Boston.com",
-          "Second West Nile virus case reported in Mass. - Axios",
-          "Three West Nile virus cases confirmed in Montrose County - KJCT"
+          "Second West Nile virus case reported in Massachusetts - Axios",
+          "West Nile virus found in 6 human cases; experts explain how it's spread - 13newsnow.com",
+          "Mosquitos test positive for West Nile virus in 9 Louisville neighborhoods - WLKY"
+        ]
+      },
+      {
+        "trend": "west nile virus",
+        "market_code": "CN",
+        "category": "Outbreaks",
+        "score": 8,
+        "examples": [
+          "Second West Nile virus case reported in Massachusetts - Axios",
+          "West Nile virus found in 6 human cases; experts explain how it's spread - 13newsnow.com",
+          "Mosquitos test positive for West Nile virus in 9 Louisville neighborhoods - WLKY"
+        ]
+      },
+      {
+        "trend": "trial",
+        "market_code": "CN",
+        "category": "Asia Health",
+        "score": 8,
+        "examples": [
+          "Meta questions psychologist’s testimony in teen mental health harms trial - Courthouse News",
+          "Moderna and Merck say mRNA cancer vaccine succeeded in late-stage melanoma trial - STAT",
+          "Cancer vaccine from Moderna, Merck shows promise in late-stage trial; both stocks soar - CNBC"
         ]
       }
     ],
@@ -1615,22 +1615,11 @@
         "trend": "health",
         "market_code": "KR",
         "category": "Asia Health",
-        "score": 72,
+        "score": 76,
         "examples": [
           "Pages - Maryland Department of Health declares measles outbreak in three Maryland counties - Maryland.gov",
-          "Unregulated food vendors can pose health threat - Coconino.az.gov",
-          "Las Vegas Raiders announce $25 million game-changing gift to Intermountain Health to help build Nevada's first stand-alone children's hospital - Raiders.com"
-        ]
-      },
-      {
-        "trend": "medical",
-        "market_code": "KR",
-        "category": "Asia Health",
-        "score": 18,
-        "examples": [
-          "The winding paths to Medical School - University of Minnesota Twin Cities",
-          "Mayor Mamdani and Office of Chief Medical Examiner Announce New Identification of World Trade Center Victim Using Breakthrough Forensic Technique - NYC.gov",
-          "UVM's Larner College of Medicine welcomes medical class of 2030 - Vermont Business Magazine"
+          "Health systems warn of coordinated phishing targeting Epic’s patient portal - Health Exec",
+          "Health systems warn of coordinated phishing targeting Epic’s patient portal - Health Exec"
         ]
       },
       {
@@ -1639,9 +1628,20 @@
         "category": "Outbreaks",
         "score": 16,
         "examples": [
-          "Pages - Maryland Department of Health declares measles outbreak in three Maryland counties - Maryland.gov",
           "Ebola disease outbreak in the Democratic Republic of the Congo and Uganda - European Centre for Disease Prevention and Control (ECDC)",
+          "Pages - Maryland Department of Health declares measles outbreak in three Maryland counties - Maryland.gov",
           "Pages - Maryland Department of Health declares measles outbreak in three Maryland counties - Maryland.gov"
+        ]
+      },
+      {
+        "trend": "medical",
+        "market_code": "KR",
+        "category": "Asia Health",
+        "score": 16,
+        "examples": [
+          "Mayor Mamdani and Office of Chief Medical Examiner Announce New Identification of World Trade Center Victim Using Breakthrough Forensic Technique - NYC.gov",
+          "Cook County medical examiner takes ABC7 inside process to ID decomposing bodies found at funeral home South Chicago Chapel - ABC7 Chicago",
+          "UVM's Larner College of Medicine welcomes medical class of 2030 - Vermont Business Magazine"
         ]
       },
       {
@@ -1659,11 +1659,11 @@
         "trend": "healthcare",
         "market_code": "KR",
         "category": "Asia Health",
-        "score": 12,
+        "score": 11,
         "examples": [
+          "Chutes & Ladders—Elevance Health taps new behavioral health leader; Providence names new CFO - Fierce Healthcare",
           "Health systems warn patients of MyChart phishing scam - Healthcare Dive",
-          "Healthcare AI Must Earn Trust Before Adoption - Cisco Blogs",
-          "FDA seeks feedback on generative AI regulations - Healthcare Dive"
+          "Healthcare AI Must Earn Trust Before Adoption - Cisco Blogs"
         ]
       },
       {
@@ -1672,9 +1672,9 @@
         "category": "Mental Health",
         "score": 11,
         "examples": [
+          "Fort Worth mental health nonprofit launches youth trauma and grief collaborative - Fort Worth Report",
           "Meta questions psychologist’s testimony in teen mental health harms trial - Courthouse News",
-          "Kean Introduces Bipartisan Bill to Fund Mental Health Support for First Responders - House.gov",
-          "New Shawnee County Jail mental health wing opens to provide inmates a ‘path forward’ - WIBW"
+          "Kean Introduces Bipartisan Bill to Fund Mental Health Support for First Responders - House.gov"
         ]
       },
       {
@@ -1683,9 +1683,9 @@
         "category": "Mental Health",
         "score": 10,
         "examples": [
+          "Fort Worth mental health nonprofit launches youth trauma and grief collaborative - Fort Worth Report",
           "Meta questions psychologist’s testimony in teen mental health harms trial - Courthouse News",
-          "Kean Introduces Bipartisan Bill to Fund Mental Health Support for First Responders - House.gov",
-          "New Shawnee County Jail mental health wing opens to provide inmates a ‘path forward’ - WIBW"
+          "Kean Introduces Bipartisan Bill to Fund Mental Health Support for First Responders - House.gov"
         ]
       },
       {
@@ -1700,36 +1700,14 @@
         ]
       },
       {
-        "trend": "public health",
-        "market_code": "KR",
-        "category": "Asia Health",
-        "score": 9,
-        "examples": [
-          "Johns Hopkins Center for School Health Joins National Initiative to Address Chronic School Absence - Johns Hopkins Bloomberg School of Public Health",
-          "Opening doors when people are ready - Public Health Insider",
-          "New 'Immunize Minnesota' coalition hopes to break down public health silos around vaccines - MPR News"
-        ]
-      },
-      {
         "trend": "virus",
         "market_code": "KR",
         "category": "Outbreaks",
         "score": 9,
         "examples": [
-          "Bali Dismisses Zika Virus Fears Amid US Health Alert - Jakarta Globe",
-          "Second case of West Nile virus reported in Mass., also in Middlesex County - Boston.com",
-          "Second West Nile virus case reported in Mass. - Axios"
-        ]
-      },
-      {
-        "trend": "health alert",
-        "market_code": "KR",
-        "category": "Asia Health",
-        "score": 8,
-        "examples": [
-          "Health alert issued for harmful blue-green algae toxins in Lake Howell - WFTV",
-          "Health Alert: Health officials say tobacco ads target teens - WBKO",
-          "DOH-Seminole Issues Blue Green Algae Health Alert for Lake Howell - mysanfordherald.com"
+          "Second West Nile virus case reported in Massachusetts - Axios",
+          "West Nile virus found in 6 human cases; experts explain how it's spread - 13newsnow.com",
+          "Mosquitos test positive for West Nile virus in 9 Louisville neighborhoods - WLKY"
         ]
       },
       {
@@ -1738,9 +1716,31 @@
         "category": "Outbreaks",
         "score": 8,
         "examples": [
-          "Second case of West Nile virus reported in Mass., also in Middlesex County - Boston.com",
-          "Second West Nile virus case reported in Mass. - Axios",
-          "Three West Nile virus cases confirmed in Montrose County - KJCT"
+          "Second West Nile virus case reported in Massachusetts - Axios",
+          "West Nile virus found in 6 human cases; experts explain how it's spread - 13newsnow.com",
+          "Mosquitos test positive for West Nile virus in 9 Louisville neighborhoods - WLKY"
+        ]
+      },
+      {
+        "trend": "west nile virus",
+        "market_code": "KR",
+        "category": "Outbreaks",
+        "score": 8,
+        "examples": [
+          "Second West Nile virus case reported in Massachusetts - Axios",
+          "West Nile virus found in 6 human cases; experts explain how it's spread - 13newsnow.com",
+          "Mosquitos test positive for West Nile virus in 9 Louisville neighborhoods - WLKY"
+        ]
+      },
+      {
+        "trend": "trial",
+        "market_code": "KR",
+        "category": "Asia Health",
+        "score": 8,
+        "examples": [
+          "Meta questions psychologist’s testimony in teen mental health harms trial - Courthouse News",
+          "Moderna and Merck say mRNA cancer vaccine succeeded in late-stage melanoma trial - STAT",
+          "Cancer vaccine from Moderna, Merck shows promise in late-stage trial; both stocks soar - CNBC"
         ]
       }
     ],
@@ -1749,44 +1749,44 @@
         "trend": "health",
         "market_code": "IN",
         "category": "Asia Health",
-        "score": 76,
+        "score": 79,
         "examples": [
-          "Mozambique strengthens regulation of medicines and imported vaccines, boosting health protection - World Health Organization (WHO)",
-          "Mozambique strengthens regulation of medicines and imported vaccines, boosting health protection - World Health Organization (WHO)",
-          "Health Care Roundup: Market Talk - WSJ"
+          "5 Powerful Herbs for Eye Health: Benefits, Uses & Precautions - Netmeds",
+          "Mojtaba Khamenei seen, heard in rare video amid health concerns - The Times of India",
+          "Fast-track recruitment across depts: Health Minister Satya Kumar Yadav - The New Indian Express"
         ]
       },
       {
         "trend": "medical",
         "market_code": "IN",
         "category": "Asia Health",
-        "score": 18,
+        "score": 20,
         "examples": [
-          "Union Minister Anupriya Patel addresses inaugural session of Medical Colleges Research Connect 2026 - News On AIR",
-          "Chief Secretary Inaugurates Free Medical Camp at BVN School, Choglamsar. - Administration of Union Territory of Ladakh",
-          "‘Routine’ medical treatments are not risk free. Patients should ask questions before consenting | Ranjana Srivastava - The Guardian"
-        ]
-      },
-      {
-        "trend": "healthcare",
-        "market_code": "IN",
-        "category": "Asia Health",
-        "score": 16,
-        "examples": [
-          "Chutes & Ladders—Elevance Health taps new behavioral health leader; Providence names new CFO - Fierce Healthcare",
-          "Always Open. Always Here: Apollo Hospitals Commits to Healthcare Access Seven Days a Week - Apollo Hospitals",
-          "Cybersecurity in the Healthcare Sector - Stiftung Wissenschaft und Politik (SWP)"
+          "A Study of Nutritional Knowledge, Awareness, and Food Habits Among Indian Medical Professionals in the Context of the National Institute of Nutrition Guidelines, 2024 - Cureus",
+          "Uttar Pradesh, Japan explore collaboration in healthcare, medical education and robotics - Medical Dialogues",
+          "Uttar Pradesh, Japan explore collaboration in healthcare, medical education and robotics - Medical Dialogues"
         ]
       },
       {
         "trend": "disease",
         "market_code": "IN",
         "category": "Asia Health",
-        "score": 13,
+        "score": 15,
         "examples": [
           "Ebola disease outbreak in the Democratic Republic of the Congo and Uganda - European Centre for Disease Prevention and Control (ECDC)",
           "Ebola disease outbreak in the Democratic Republic of the Congo and Uganda - European Centre for Disease Prevention and Control (ECDC)",
-          "Ebola disease outbreak in the Democratic Republic of the Congo and Uganda - European Centre for Disease Prevention and Control (ECDC)"
+          "Journal Club: Non-alcoholic fatty liver disease: Clinical and public health perspectives - Medical Dialogues"
+        ]
+      },
+      {
+        "trend": "healthcare",
+        "market_code": "IN",
+        "category": "Asia Health",
+        "score": 15,
+        "examples": [
+          "Healthify Expands to US With Berry Street Merger to Bring AI-Powered Healthcare - analyticsindiamag.com",
+          "Uttar Pradesh, Japan explore collaboration in healthcare, medical education and robotics - Medical Dialogues",
+          "Health systems warn patients of MyChart phishing scam - Healthcare Dive"
         ]
       },
       {
@@ -1801,14 +1801,14 @@
         ]
       },
       {
-        "trend": "mental",
+        "trend": "cancer",
         "market_code": "IN",
-        "category": "Mental Health",
+        "category": "Chronic Disease",
         "score": 12,
         "examples": [
-          "Kerala High Court directs State to consider renaming ‘Mental Health Centres’, citing concerns of stigma - The Hindu",
-          "Kerala High Court directs State to consider renaming ‘Mental Health Centres’, citing concerns of stigma - The Hindu",
-          "Kerala High Court Seeks State's Response On Suggestion To Rename 'Mental Health Centres' To Remove Stigma - Live Law"
+          "Union Health Minister JP Nadda Reaffirms India’s Commitment to Eliminate Cervical Cancer - News On AIR",
+          "‘Sunscreen Is A Health Essential’: UK Skin Cancer Survivor Urges Govt To Scrap Tax - Health and Me",
+          "Taalo Mat Pehchaano Campaign Highlights Early Oral Cancer Warning Signs in India - Prittle Prattle News"
         ]
       },
       {
@@ -1817,9 +1817,20 @@
         "category": "Drug & Treatment News",
         "score": 12,
         "examples": [
-          "H1N1 Virus Surge In Delhi : Should You Get A Flu Vaccine Now?|Explained - Health and Me",
+          "Universal Flu Vaccine Strategy Takes Aim at a Century-Old Viral Target - Inside Precision Medicine",
           "Cancer breakthrough as personalised mRNA vaccine stops melanoma returning - Gavi, the Vaccine Alliance",
           "Cancer breakthrough as personalised mRNA vaccine stops melanoma returning - Gavi, the Vaccine Alliance"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "IN",
+        "category": "Mental Health",
+        "score": 12,
+        "examples": [
+          "Kerala High Court directs State to consider renaming ‘Mental Health Centres’, citing concerns of stigma - The Hindu",
+          "Ministry to expand budget for mental health program - Taipei Times",
+          "Decision due on Blackpool church mental health centre plan - BBC"
         ]
       },
       {
@@ -1829,41 +1840,19 @@
         "score": 11,
         "examples": [
           "Kerala High Court directs State to consider renaming ‘Mental Health Centres’, citing concerns of stigma - The Hindu",
-          "Kerala High Court directs State to consider renaming ‘Mental Health Centres’, citing concerns of stigma - The Hindu",
-          "Kerala High Court Seeks State's Response On Suggestion To Rename 'Mental Health Centres' To Remove Stigma - Live Law"
+          "Ministry to expand budget for mental health program - Taipei Times",
+          "Decision due on Blackpool church mental health centre plan - BBC"
         ]
       },
       {
-        "trend": "cancer",
+        "trend": "hospitals",
         "market_code": "IN",
-        "category": "Chronic Disease",
-        "score": 11,
+        "category": "Asia Health",
+        "score": 7,
         "examples": [
-          "Union Health Minister JP Nadda Reaffirms India’s Commitment to Eliminate Cervical Cancer - News On AIR",
-          "Taalo Mat Pehchaano Campaign Highlights Early Oral Cancer Warning Signs in India - Prittle Prattle News",
-          "Cancer breakthrough as personalised mRNA vaccine stops melanoma returning - Gavi, the Vaccine Alliance"
-        ]
-      },
-      {
-        "trend": "virus",
-        "market_code": "IN",
-        "category": "Outbreaks",
-        "score": 10,
-        "examples": [
-          "Bali Issues Important Update For Tourists About Zika Virus - The Bali Sun",
-          "Bali Dismisses Zika Virus Fears Amid US Health Alert - Jakarta Globe",
-          "Second meeting of the IHR Emergency Committee on the epidemic of Ebola Bundibugyo virus disease in the Democratic Republic of the Congo – Temporary recommendations - World Health Organization (WHO)"
-        ]
-      },
-      {
-        "trend": "children",
-        "market_code": "IN",
-        "category": "Children Health",
-        "score": 8,
-        "examples": [
-          "India restricts sale of Chlorpheniramine and Phenylephrine drugs for children below four - Deccan Herald",
-          "India restricts sale of Chlorpheniramine and Phenylephrine drugs for children below four - Deccan Herald",
-          "Bangladesh: Measles outbreak claims 21 children in March - News On AIR"
+          "24×7 specialty care services in General, district hospitals in Keralam set to stir up a hornets’ nest - The Hindu",
+          "24×7 specialty care services in General, district hospitals in Keralam set to stir up a hornets’ nest - The Hindu",
+          "Orange-white complaint boards go up at private hospitals after health regulatory commission notice - Telegraph India"
         ]
       },
       {
@@ -1872,9 +1861,20 @@
         "category": "Diet & Wellness",
         "score": 7,
         "examples": [
-          "Is a wellness drink worth it? Decoding functional beverage labels - UCLA Health",
+          "Plant-Based Wellness Pioneer Organic Traditions Bags $10.5M to Plug North America’s Fibre Gap - Green Queen Media",
           "9th International Health & Wellness Expo 2026 Concludes with Focus on AYUSH, Integrated Healthcare and Healthy Living - India Education Diary",
-          "Naturhotel Lüsnerhof to wellness retreat about the science of fermentation - spabusiness.com"
+          "Naturhotel Lüsnerhof to launch wellness retreat about the science of fermentation - spabusiness.com"
+        ]
+      },
+      {
+        "trend": "cancer vaccine",
+        "market_code": "IN",
+        "category": "Drug & Treatment News",
+        "score": 7,
+        "examples": [
+          "Cancer vaccine from Moderna, Merck shows promise in late-stage trial; both stocks soar - CNBC",
+          "Moderna and Merck say mRNA cancer vaccine succeeded in late-stage melanoma trial - STAT",
+          "Moderna and Merck say personalized melanoma cancer vaccine worked in late-stage trial - Drug Discovery News"
         ]
       }
     ],
@@ -1885,42 +1885,31 @@
         "category": "Global Health",
         "score": 62,
         "examples": [
-          "Clinical roundtable to focus on women's cardiovascular health - Australian Government Department of Health, Disability and Ageing",
-          "Clinical roundtable to focus on women's cardiovascular health - Australian Government Department of Health, Disability and Ageing",
-          "'Can't pick up your kids': Veterans living with lifelong health impacts of service concerned about $5000 cap - The Canberra Times"
+          "Two PhDs, one big celebration for Metro South Health dietitians - Metro South Health",
+          "Two PhDs, one big celebration for Metro South Health dietitians - Metro South Health",
+          "newsGP - Health matters brought into heart of WA politics - Royal Australian College of General Practitioners (RACGP)"
         ]
       },
       {
         "trend": "medical",
         "market_code": "AU",
         "category": "Global Health",
-        "score": 17,
+        "score": 18,
         "examples": [
+          "Private health reforms a chance to address referrals: RACGP - Medical Republic",
           "‘Routine’ medical treatments are not risk free. Patients should ask questions before consenting | Ranjana Srivastava - The Guardian",
-          "The Block 2026 Episode 14 recap: A medical episode shocks the girls - realestate.com.au",
-          "Blockhead has an on-site medical episode - Nine.com.au"
-        ]
-      },
-      {
-        "trend": "mental",
-        "market_code": "AU",
-        "category": "Mental Health",
-        "score": 13,
-        "examples": [
-          "Melbourne youth suicide clusters: Deaths of 10 young people put eastern suburbs mental health services on alert - The Age",
-          "Universities Have a Mental Health Problem. International Students Are Showing Us Where It Starts - Higher Education Digest",
-          "Melbourne youth suicide clusters: Deaths of 10 young people put eastern suburbs mental health services on alert - The Age"
+          "Private health reforms a chance to address referrals: RACGP - Medical Republic"
         ]
       },
       {
         "trend": "disease",
         "market_code": "AU",
         "category": "Global Health",
-        "score": 12,
+        "score": 13,
         "examples": [
           "Ebola disease outbreak in the Democratic Republic of the Congo and Uganda - European Centre for Disease Prevention and Control (ECDC)",
           "Ebola disease outbreak in the Democratic Republic of the Congo and Uganda - European Centre for Disease Prevention and Control (ECDC)",
-          "Ebola disease outbreak in the Democratic Republic of the Congo and Uganda - European Centre for Disease Prevention and Control (ECDC)"
+          "Second meeting of the IHR Emergency Committee on the epidemic of Ebola Bundibugyo virus disease in the Democratic Republic of the Congo – Temporary recommendations - World Health Organization (WHO)"
         ]
       },
       {
@@ -1930,30 +1919,52 @@
         "score": 12,
         "examples": [
           "Ebola disease outbreak in the Democratic Republic of the Congo and Uganda - European Centre for Disease Prevention and Control (ECDC)",
-          "Ebola disease outbreak in the Democratic Republic of the Congo and Uganda - European Centre for Disease Prevention and Control (ECDC)",
-          "Where People Got Sick: E. coli and Salmonella Outbreak, August 2026 - Centers for Disease Control and Prevention | CDC (.gov)"
-        ]
-      },
-      {
-        "trend": "mental health",
-        "market_code": "AU",
-        "category": "Mental Health",
-        "score": 12,
-        "examples": [
-          "Melbourne youth suicide clusters: Deaths of 10 young people put eastern suburbs mental health services on alert - The Age",
-          "Universities Have a Mental Health Problem. International Students Are Showing Us Where It Starts - Higher Education Digest",
-          "Melbourne youth suicide clusters: Deaths of 10 young people put eastern suburbs mental health services on alert - The Age"
+          "Where People Got Sick: E. coli and Salmonella Outbreak, August 2026 - Centers for Disease Control and Prevention | CDC (.gov)",
+          "Ebola disease outbreak in the Democratic Republic of the Congo and Uganda - European Centre for Disease Prevention and Control (ECDC)"
         ]
       },
       {
         "trend": "healthcare",
         "market_code": "AU",
         "category": "Global Health",
+        "score": 10,
+        "examples": [
+          "Ageing creates healthcare opportunities - The Australian",
+          "Health systems warn patients of MyChart phishing scam - Healthcare Dive",
+          "AI is now deciding who gets healthcare in 6 US states – and it's already harming patients - BBC Science Focus Magazine"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "AU",
+        "category": "Mental Health",
+        "score": 10,
+        "examples": [
+          "legalsuper expands mental health support across legal profession - superreview.com.au",
+          "Melbourne youth suicide clusters: Deaths of 10 young people put eastern suburbs mental health services on alert - The Age",
+          "legalsuper expands mental health support across legal profession - superreview.com.au"
+        ]
+      },
+      {
+        "trend": "mental health",
+        "market_code": "AU",
+        "category": "Mental Health",
         "score": 9,
         "examples": [
-          "Health systems warn patients of MyChart phishing scam - Healthcare Dive",
-          "AI is now deciding who gets healthcare in 6 US states – and it's already harming patients - BBC Science Focus Magazine",
-          "AI Healthcare: A Trillion-Yuan Track – Key Market Leaders, Growth Trends & Industry Race Insights - 36 Kr"
+          "legalsuper expands mental health support across legal profession - superreview.com.au",
+          "Melbourne youth suicide clusters: Deaths of 10 young people put eastern suburbs mental health services on alert - The Age",
+          "legalsuper expands mental health support across legal profession - superreview.com.au"
+        ]
+      },
+      {
+        "trend": "cancer",
+        "market_code": "AU",
+        "category": "Chronic Disease",
+        "score": 8,
+        "examples": [
+          "Ultra-Processed Foods Linked to 30% Higher Prostate Cancer Risk - SciTechDaily",
+          "EXPERT REACTION: Moderna announce results of Phase 3 trial of personalized mRNA cancer vaccine - Scimex",
+          "Cancer breakthrough as personalised mRNA vaccine stops melanoma returning - Gavi, the Vaccine Alliance"
         ]
       },
       {
@@ -1962,20 +1973,9 @@
         "category": "Drug & Treatment News",
         "score": 8,
         "examples": [
-          "Trump vaccine order an arrow through heart of trust in science - The Australian",
           "Drug giants reveal promising new melanoma vaccine - The Australian",
-          "EXPERT REACTION: Moderna announce results of Phase 3 trial of personalized mRNA cancer vaccine - Scimex"
-        ]
-      },
-      {
-        "trend": "infection",
-        "market_code": "AU",
-        "category": "Outbreaks",
-        "score": 8,
-        "examples": [
-          "Australia assesses human H5N1 infection risk as low - UA.NEWS",
-          "CDC characterizes changing epidemiology of mpox infection - Medical Xpress",
-          "Australia assesses human H5N1 infection risk as low - UA.NEWS"
+          "EXPERT REACTION: Moderna announce results of Phase 3 trial of personalized mRNA cancer vaccine - Scimex",
+          "Cancer breakthrough as personalised mRNA vaccine stops melanoma returning - Gavi, the Vaccine Alliance"
         ]
       },
       {
@@ -1984,31 +1984,31 @@
         "category": "Chronic Disease",
         "score": 6,
         "examples": [
-          "Trump vaccine order an arrow through heart of trust in science - The Australian",
+          "newsGP - Health matters brought into heart of WA politics - Royal Australian College of General Practitioners (RACGP)",
           "Health Warnings on Wearables Often Ignored, Doctors Identify Signs of Heart Problems - VOI.ID",
-          "Testosterone therapy without evidence of deficiency may boost heart risk - Harvard Health"
+          "Eat these foods to promote heart health - The Globe and Mail"
         ]
       },
       {
-        "trend": "health alert",
+        "trend": "medicine",
         "market_code": "AU",
         "category": "Global Health",
         "score": 6,
         "examples": [
-          "Health Alert: Health officials say tobacco ads target teens - WBKO",
-          "Bali Dismisses Zika Virus Fears Amid US Health Alert - Jakarta Globe",
-          "Health alert issued for harmful blue-green algae toxins in Lake Howell - WFTV"
+          "From the coasts to the plains, bird flu could threaten not just birds – but their homes - ANU College of Science and Medicine",
+          "Food as Medicine Market to Reach USD 400.81 Billion by 2031, Growing at a CAGR of 9.5% — MarketsandMarkets™ - GlobeNewswire",
+          "AI in Medicine: Study Weighs Risks, Safe Use Strategies - Mirage News"
         ]
       },
       {
-        "trend": "cancer",
+        "trend": "virus",
         "market_code": "AU",
-        "category": "Chronic Disease",
-        "score": 6,
+        "category": "Outbreaks",
+        "score": 5,
         "examples": [
-          "EXPERT REACTION: Moderna announce results of Phase 3 trial of personalized mRNA cancer vaccine - Scimex",
-          "Moderna and Merck say mRNA cancer vaccine succeeded in late-stage melanoma trial - STAT",
-          "Cancer breakthrough as personalised mRNA vaccine stops melanoma returning - Gavi, the Vaccine Alliance"
+          "Second meeting of the IHR Emergency Committee on the epidemic of Ebola Bundibugyo virus disease in the Democratic Republic of the Congo – Temporary recommendations - World Health Organization (WHO)",
+          "Bali Issues Important Update For Tourists About Zika Virus - The Bali Sun",
+          "Scheffler hit by children’s virus as US Open winner slams betting culture - The Australian"
         ]
       }
     ],
@@ -2017,22 +2017,44 @@
         "trend": "health",
         "market_code": "CA",
         "category": "Global Health",
-        "score": 66,
+        "score": 67,
         "examples": [
+          "Mental health survey of 10,000 Ontario students shows signs of progress - CBC",
           "Heart to heart – August 24, 2026 - Fraser Health",
-          "New Stollery surgery clinic opens - Alberta Health Services",
-          "Winnipeg researcher hopes to get to the heart of cardiac health disparities facing women in new role - CBC"
+          "New Stollery surgery clinic opens - Alberta Health Services"
         ]
       },
       {
         "trend": "medical",
         "market_code": "CA",
         "category": "Global Health",
-        "score": 18,
+        "score": 20,
         "examples": [
           "Medical Students Begin Classes in New Cape Breton Medical Sciences Building - Government of Nova Scotia",
           "Medical Students Begin Classes in New Cape Breton Medical Sciences Building - Government of Nova Scotia",
           "‘Routine’ medical treatments are not risk free. Patients should ask questions before consenting | Ranjana Srivastava - The Guardian"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "CA",
+        "category": "Mental Health",
+        "score": 15,
+        "examples": [
+          "Mental health survey of 10,000 Ontario students shows signs of progress - CBC",
+          "Decision due on church mental health centre plan - Yahoo News Canada",
+          "Percentage of Ontario youth struggling with mental health back to pre-COVID level, survey suggests - Toronto Star"
+        ]
+      },
+      {
+        "trend": "disease",
+        "market_code": "CA",
+        "category": "Global Health",
+        "score": 14,
+        "examples": [
+          "Ebola disease outbreak in the Democratic Republic of the Congo and Uganda - European Centre for Disease Prevention and Control (ECDC)",
+          "Ebola disease outbreak in the Democratic Republic of the Congo and Uganda - European Centre for Disease Prevention and Control (ECDC)",
+          "Where People Got Sick: E. coli and Salmonella Outbreak, August 2026 - Centers for Disease Control and Prevention | CDC (.gov)"
         ]
       },
       {
@@ -2042,48 +2064,26 @@
         "score": 14,
         "examples": [
           "Ebola disease outbreak in the Democratic Republic of the Congo and Uganda - European Centre for Disease Prevention and Control (ECDC)",
-          "Ebola disease outbreak in the Democratic Republic of the Congo and Uganda - European Centre for Disease Prevention and Control (ECDC)",
-          "Where People Got Sick: E. coli and Salmonella Outbreak, August 2026 - Centers for Disease Control and Prevention | CDC (.gov)"
-        ]
-      },
-      {
-        "trend": "mental",
-        "market_code": "CA",
-        "category": "Mental Health",
-        "score": 14,
-        "examples": [
-          "Youth reporting improved mental health post-pandemic, but issues still remain: doctor - CP24",
-          "Percentage of Ontario youth struggling with mental health back to pre-COVID level, survey suggests - Toronto Star",
-          "The Lindsay Clancy trial and maternal mental health - CBC"
-        ]
-      },
-      {
-        "trend": "disease",
-        "market_code": "CA",
-        "category": "Global Health",
-        "score": 11,
-        "examples": [
-          "Ebola disease outbreak in the Democratic Republic of the Congo and Uganda - European Centre for Disease Prevention and Control (ECDC)",
-          "Ebola disease outbreak in the Democratic Republic of the Congo and Uganda - European Centre for Disease Prevention and Control (ECDC)",
-          "Ebola disease outbreak in the Democratic Republic of the Congo and Uganda - European Centre for Disease Prevention and Control (ECDC)"
+          "Where People Got Sick: E. coli and Salmonella Outbreak, August 2026 - Centers for Disease Control and Prevention | CDC (.gov)",
+          "Australia battling largest outbreak of diphtheria since records began - ABC News & Headlines – Australian Broadcasting Corporation"
         ]
       },
       {
         "trend": "mental health",
         "market_code": "CA",
         "category": "Mental Health",
-        "score": 11,
+        "score": 13,
         "examples": [
-          "Youth reporting improved mental health post-pandemic, but issues still remain: doctor - CP24",
-          "Percentage of Ontario youth struggling with mental health back to pre-COVID level, survey suggests - Toronto Star",
-          "The Lindsay Clancy trial and maternal mental health - CBC"
+          "Mental health survey of 10,000 Ontario students shows signs of progress - CBC",
+          "Decision due on church mental health centre plan - Yahoo News Canada",
+          "Percentage of Ontario youth struggling with mental health back to pre-COVID level, survey suggests - Toronto Star"
         ]
       },
       {
         "trend": "healthcare",
         "market_code": "CA",
         "category": "Global Health",
-        "score": 10,
+        "score": 11,
         "examples": [
           "Health systems warn patients of MyChart phishing scam - Healthcare Dive",
           "3 AI Healthcare Stocks Tackling Hospital Costs Investors May Want To Watch - simplywall.st",
@@ -2102,21 +2102,10 @@
         ]
       },
       {
-        "trend": "virus",
-        "market_code": "CA",
-        "category": "Outbreaks",
-        "score": 9,
-        "examples": [
-          "Mosquito Traps In Lindsay Tested Positive For West Nile Virus - Kawartha 411",
-          "Bali Dismisses Zika Virus Fears Amid US Health Alert - Jakarta Globe",
-          "Five mosquito traps test positive for West Nile virus near these Brampton, Mississauga intersections - Brampton Guardian"
-        ]
-      },
-      {
         "trend": "cancer",
         "market_code": "CA",
         "category": "Chronic Disease",
-        "score": 9,
+        "score": 8,
         "examples": [
           "Moderna and Merck say mRNA cancer vaccine succeeded in late-stage melanoma trial - STAT",
           "Cancer treatment could face landmark moment with promising vaccine - The Washington Post",
@@ -2127,7 +2116,7 @@
         "trend": "heart",
         "market_code": "CA",
         "category": "Chronic Disease",
-        "score": 8,
+        "score": 7,
         "examples": [
           "Heart to heart – August 24, 2026 - Fraser Health",
           "Heart to heart – August 24, 2026 - Fraser Health",
@@ -2135,14 +2124,25 @@
         ]
       },
       {
-        "trend": "health alert",
+        "trend": "health care",
         "market_code": "CA",
         "category": "Global Health",
         "score": 7,
         "examples": [
-          "Health alert issued for harmful blue-green algae toxins in Lake Howell - WFTV",
-          "Health alert issued for harmful blue-green algae toxins in Lake Howell - WFTV",
-          "DOH-Seminole Issues Blue Green Algae Health Alert for Lake Howell - mysanfordherald.com"
+          "New U of T Scarborough complex training health care professional looks to fill delivery gaps in eastern GTA - CP24",
+          "OKANAGAN COLLEGE New health care programs looking for students to start in one year - Education News Canada",
+          "Private spending on health care skyrockets - Surrey Citizen"
+        ]
+      },
+      {
+        "trend": "virus",
+        "market_code": "CA",
+        "category": "Outbreaks",
+        "score": 7,
+        "examples": [
+          "5 mosquito traps in Peel Region test positive for West Nile virus - Brampton Guardian",
+          "West Nile virus found in mosquitoes trapped in Listowel - StratfordToday.ca",
+          "West Nile Virus confirmed in North Perth - CKNX News Today"
         ]
       }
     ],
@@ -2151,22 +2151,11 @@
         "trend": "health",
         "market_code": "AE",
         "category": "Arab Health",
-        "score": 72,
+        "score": 76,
         "examples": [
           "Pages - Maryland Department of Health declares measles outbreak in three Maryland counties - Maryland.gov",
-          "Unregulated food vendors can pose health threat - Coconino.az.gov",
-          "Las Vegas Raiders announce $25 million game-changing gift to Intermountain Health to help build Nevada's first stand-alone children's hospital - Raiders.com"
-        ]
-      },
-      {
-        "trend": "medical",
-        "market_code": "AE",
-        "category": "Arab Health",
-        "score": 18,
-        "examples": [
-          "The winding paths to Medical School - University of Minnesota Twin Cities",
-          "Mayor Mamdani and Office of Chief Medical Examiner Announce New Identification of World Trade Center Victim Using Breakthrough Forensic Technique - NYC.gov",
-          "UVM's Larner College of Medicine welcomes medical class of 2030 - Vermont Business Magazine"
+          "Health systems warn of coordinated phishing targeting Epic’s patient portal - Health Exec",
+          "Health systems warn of coordinated phishing targeting Epic’s patient portal - Health Exec"
         ]
       },
       {
@@ -2175,9 +2164,20 @@
         "category": "Outbreaks",
         "score": 16,
         "examples": [
-          "Pages - Maryland Department of Health declares measles outbreak in three Maryland counties - Maryland.gov",
           "Ebola disease outbreak in the Democratic Republic of the Congo and Uganda - European Centre for Disease Prevention and Control (ECDC)",
+          "Pages - Maryland Department of Health declares measles outbreak in three Maryland counties - Maryland.gov",
           "Pages - Maryland Department of Health declares measles outbreak in three Maryland counties - Maryland.gov"
+        ]
+      },
+      {
+        "trend": "medical",
+        "market_code": "AE",
+        "category": "Arab Health",
+        "score": 16,
+        "examples": [
+          "Mayor Mamdani and Office of Chief Medical Examiner Announce New Identification of World Trade Center Victim Using Breakthrough Forensic Technique - NYC.gov",
+          "Cook County medical examiner takes ABC7 inside process to ID decomposing bodies found at funeral home South Chicago Chapel - ABC7 Chicago",
+          "UVM's Larner College of Medicine welcomes medical class of 2030 - Vermont Business Magazine"
         ]
       },
       {
@@ -2195,11 +2195,11 @@
         "trend": "healthcare",
         "market_code": "AE",
         "category": "Arab Health",
-        "score": 12,
+        "score": 11,
         "examples": [
+          "Chutes & Ladders—Elevance Health taps new behavioral health leader; Providence names new CFO - Fierce Healthcare",
           "Health systems warn patients of MyChart phishing scam - Healthcare Dive",
-          "Healthcare AI Must Earn Trust Before Adoption - Cisco Blogs",
-          "FDA seeks feedback on generative AI regulations - Healthcare Dive"
+          "Healthcare AI Must Earn Trust Before Adoption - Cisco Blogs"
         ]
       },
       {
@@ -2208,9 +2208,9 @@
         "category": "Mental Health",
         "score": 11,
         "examples": [
+          "Fort Worth mental health nonprofit launches youth trauma and grief collaborative - Fort Worth Report",
           "Meta questions psychologist’s testimony in teen mental health harms trial - Courthouse News",
-          "Kean Introduces Bipartisan Bill to Fund Mental Health Support for First Responders - House.gov",
-          "New Shawnee County Jail mental health wing opens to provide inmates a ‘path forward’ - WIBW"
+          "Kean Introduces Bipartisan Bill to Fund Mental Health Support for First Responders - House.gov"
         ]
       },
       {
@@ -2219,9 +2219,9 @@
         "category": "Mental Health",
         "score": 10,
         "examples": [
+          "Fort Worth mental health nonprofit launches youth trauma and grief collaborative - Fort Worth Report",
           "Meta questions psychologist’s testimony in teen mental health harms trial - Courthouse News",
-          "Kean Introduces Bipartisan Bill to Fund Mental Health Support for First Responders - House.gov",
-          "New Shawnee County Jail mental health wing opens to provide inmates a ‘path forward’ - WIBW"
+          "Kean Introduces Bipartisan Bill to Fund Mental Health Support for First Responders - House.gov"
         ]
       },
       {
@@ -2236,36 +2236,14 @@
         ]
       },
       {
-        "trend": "public health",
-        "market_code": "AE",
-        "category": "Arab Health",
-        "score": 9,
-        "examples": [
-          "Johns Hopkins Center for School Health Joins National Initiative to Address Chronic School Absence - Johns Hopkins Bloomberg School of Public Health",
-          "Opening doors when people are ready - Public Health Insider",
-          "New 'Immunize Minnesota' coalition hopes to break down public health silos around vaccines - MPR News"
-        ]
-      },
-      {
         "trend": "virus",
         "market_code": "AE",
         "category": "Outbreaks",
         "score": 9,
         "examples": [
-          "Bali Dismisses Zika Virus Fears Amid US Health Alert - Jakarta Globe",
-          "Second case of West Nile virus reported in Mass., also in Middlesex County - Boston.com",
-          "Second West Nile virus case reported in Mass. - Axios"
-        ]
-      },
-      {
-        "trend": "health alert",
-        "market_code": "AE",
-        "category": "Arab Health",
-        "score": 8,
-        "examples": [
-          "Health alert issued for harmful blue-green algae toxins in Lake Howell - WFTV",
-          "Health Alert: Health officials say tobacco ads target teens - WBKO",
-          "DOH-Seminole Issues Blue Green Algae Health Alert for Lake Howell - mysanfordherald.com"
+          "Second West Nile virus case reported in Massachusetts - Axios",
+          "West Nile virus found in 6 human cases; experts explain how it's spread - 13newsnow.com",
+          "Mosquitos test positive for West Nile virus in 9 Louisville neighborhoods - WLKY"
         ]
       },
       {
@@ -2274,9 +2252,31 @@
         "category": "Outbreaks",
         "score": 8,
         "examples": [
-          "Second case of West Nile virus reported in Mass., also in Middlesex County - Boston.com",
-          "Second West Nile virus case reported in Mass. - Axios",
-          "Three West Nile virus cases confirmed in Montrose County - KJCT"
+          "Second West Nile virus case reported in Massachusetts - Axios",
+          "West Nile virus found in 6 human cases; experts explain how it's spread - 13newsnow.com",
+          "Mosquitos test positive for West Nile virus in 9 Louisville neighborhoods - WLKY"
+        ]
+      },
+      {
+        "trend": "west nile virus",
+        "market_code": "AE",
+        "category": "Outbreaks",
+        "score": 8,
+        "examples": [
+          "Second West Nile virus case reported in Massachusetts - Axios",
+          "West Nile virus found in 6 human cases; experts explain how it's spread - 13newsnow.com",
+          "Mosquitos test positive for West Nile virus in 9 Louisville neighborhoods - WLKY"
+        ]
+      },
+      {
+        "trend": "trial",
+        "market_code": "AE",
+        "category": "Arab Health",
+        "score": 8,
+        "examples": [
+          "Meta questions psychologist’s testimony in teen mental health harms trial - Courthouse News",
+          "Moderna and Merck say mRNA cancer vaccine succeeded in late-stage melanoma trial - STAT",
+          "Cancer vaccine from Moderna, Merck shows promise in late-stage trial; both stocks soar - CNBC"
         ]
       }
     ],
@@ -2285,22 +2285,11 @@
         "trend": "health",
         "market_code": "SA",
         "category": "Arab Health",
-        "score": 72,
+        "score": 76,
         "examples": [
           "Pages - Maryland Department of Health declares measles outbreak in three Maryland counties - Maryland.gov",
-          "Unregulated food vendors can pose health threat - Coconino.az.gov",
-          "Las Vegas Raiders announce $25 million game-changing gift to Intermountain Health to help build Nevada's first stand-alone children's hospital - Raiders.com"
-        ]
-      },
-      {
-        "trend": "medical",
-        "market_code": "SA",
-        "category": "Arab Health",
-        "score": 18,
-        "examples": [
-          "The winding paths to Medical School - University of Minnesota Twin Cities",
-          "Mayor Mamdani and Office of Chief Medical Examiner Announce New Identification of World Trade Center Victim Using Breakthrough Forensic Technique - NYC.gov",
-          "UVM's Larner College of Medicine welcomes medical class of 2030 - Vermont Business Magazine"
+          "Health systems warn of coordinated phishing targeting Epic’s patient portal - Health Exec",
+          "Health systems warn of coordinated phishing targeting Epic’s patient portal - Health Exec"
         ]
       },
       {
@@ -2309,9 +2298,20 @@
         "category": "Outbreaks",
         "score": 16,
         "examples": [
-          "Pages - Maryland Department of Health declares measles outbreak in three Maryland counties - Maryland.gov",
           "Ebola disease outbreak in the Democratic Republic of the Congo and Uganda - European Centre for Disease Prevention and Control (ECDC)",
+          "Pages - Maryland Department of Health declares measles outbreak in three Maryland counties - Maryland.gov",
           "Pages - Maryland Department of Health declares measles outbreak in three Maryland counties - Maryland.gov"
+        ]
+      },
+      {
+        "trend": "medical",
+        "market_code": "SA",
+        "category": "Arab Health",
+        "score": 16,
+        "examples": [
+          "Mayor Mamdani and Office of Chief Medical Examiner Announce New Identification of World Trade Center Victim Using Breakthrough Forensic Technique - NYC.gov",
+          "Cook County medical examiner takes ABC7 inside process to ID decomposing bodies found at funeral home South Chicago Chapel - ABC7 Chicago",
+          "UVM's Larner College of Medicine welcomes medical class of 2030 - Vermont Business Magazine"
         ]
       },
       {
@@ -2329,11 +2329,11 @@
         "trend": "healthcare",
         "market_code": "SA",
         "category": "Arab Health",
-        "score": 12,
+        "score": 11,
         "examples": [
+          "Chutes & Ladders—Elevance Health taps new behavioral health leader; Providence names new CFO - Fierce Healthcare",
           "Health systems warn patients of MyChart phishing scam - Healthcare Dive",
-          "Healthcare AI Must Earn Trust Before Adoption - Cisco Blogs",
-          "FDA seeks feedback on generative AI regulations - Healthcare Dive"
+          "Healthcare AI Must Earn Trust Before Adoption - Cisco Blogs"
         ]
       },
       {
@@ -2342,9 +2342,9 @@
         "category": "Mental Health",
         "score": 11,
         "examples": [
+          "Fort Worth mental health nonprofit launches youth trauma and grief collaborative - Fort Worth Report",
           "Meta questions psychologist’s testimony in teen mental health harms trial - Courthouse News",
-          "Kean Introduces Bipartisan Bill to Fund Mental Health Support for First Responders - House.gov",
-          "New Shawnee County Jail mental health wing opens to provide inmates a ‘path forward’ - WIBW"
+          "Kean Introduces Bipartisan Bill to Fund Mental Health Support for First Responders - House.gov"
         ]
       },
       {
@@ -2353,9 +2353,9 @@
         "category": "Mental Health",
         "score": 10,
         "examples": [
+          "Fort Worth mental health nonprofit launches youth trauma and grief collaborative - Fort Worth Report",
           "Meta questions psychologist’s testimony in teen mental health harms trial - Courthouse News",
-          "Kean Introduces Bipartisan Bill to Fund Mental Health Support for First Responders - House.gov",
-          "New Shawnee County Jail mental health wing opens to provide inmates a ‘path forward’ - WIBW"
+          "Kean Introduces Bipartisan Bill to Fund Mental Health Support for First Responders - House.gov"
         ]
       },
       {
@@ -2370,36 +2370,14 @@
         ]
       },
       {
-        "trend": "public health",
-        "market_code": "SA",
-        "category": "Arab Health",
-        "score": 9,
-        "examples": [
-          "Johns Hopkins Center for School Health Joins National Initiative to Address Chronic School Absence - Johns Hopkins Bloomberg School of Public Health",
-          "Opening doors when people are ready - Public Health Insider",
-          "New 'Immunize Minnesota' coalition hopes to break down public health silos around vaccines - MPR News"
-        ]
-      },
-      {
         "trend": "virus",
         "market_code": "SA",
         "category": "Outbreaks",
         "score": 9,
         "examples": [
-          "Bali Dismisses Zika Virus Fears Amid US Health Alert - Jakarta Globe",
-          "Second case of West Nile virus reported in Mass., also in Middlesex County - Boston.com",
-          "Second West Nile virus case reported in Mass. - Axios"
-        ]
-      },
-      {
-        "trend": "health alert",
-        "market_code": "SA",
-        "category": "Arab Health",
-        "score": 8,
-        "examples": [
-          "Health alert issued for harmful blue-green algae toxins in Lake Howell - WFTV",
-          "Health Alert: Health officials say tobacco ads target teens - WBKO",
-          "DOH-Seminole Issues Blue Green Algae Health Alert for Lake Howell - mysanfordherald.com"
+          "Second West Nile virus case reported in Massachusetts - Axios",
+          "West Nile virus found in 6 human cases; experts explain how it's spread - 13newsnow.com",
+          "Mosquitos test positive for West Nile virus in 9 Louisville neighborhoods - WLKY"
         ]
       },
       {
@@ -2408,9 +2386,31 @@
         "category": "Outbreaks",
         "score": 8,
         "examples": [
-          "Second case of West Nile virus reported in Mass., also in Middlesex County - Boston.com",
-          "Second West Nile virus case reported in Mass. - Axios",
-          "Three West Nile virus cases confirmed in Montrose County - KJCT"
+          "Second West Nile virus case reported in Massachusetts - Axios",
+          "West Nile virus found in 6 human cases; experts explain how it's spread - 13newsnow.com",
+          "Mosquitos test positive for West Nile virus in 9 Louisville neighborhoods - WLKY"
+        ]
+      },
+      {
+        "trend": "west nile virus",
+        "market_code": "SA",
+        "category": "Outbreaks",
+        "score": 8,
+        "examples": [
+          "Second West Nile virus case reported in Massachusetts - Axios",
+          "West Nile virus found in 6 human cases; experts explain how it's spread - 13newsnow.com",
+          "Mosquitos test positive for West Nile virus in 9 Louisville neighborhoods - WLKY"
+        ]
+      },
+      {
+        "trend": "trial",
+        "market_code": "SA",
+        "category": "Arab Health",
+        "score": 8,
+        "examples": [
+          "Meta questions psychologist’s testimony in teen mental health harms trial - Courthouse News",
+          "Moderna and Merck say mRNA cancer vaccine succeeded in late-stage melanoma trial - STAT",
+          "Cancer vaccine from Moderna, Merck shows promise in late-stage trial; both stocks soar - CNBC"
         ]
       }
     ],
@@ -2419,22 +2419,11 @@
         "trend": "health",
         "market_code": "QA",
         "category": "Arab Health",
-        "score": 72,
+        "score": 76,
         "examples": [
           "Pages - Maryland Department of Health declares measles outbreak in three Maryland counties - Maryland.gov",
-          "Unregulated food vendors can pose health threat - Coconino.az.gov",
-          "Las Vegas Raiders announce $25 million game-changing gift to Intermountain Health to help build Nevada's first stand-alone children's hospital - Raiders.com"
-        ]
-      },
-      {
-        "trend": "medical",
-        "market_code": "QA",
-        "category": "Arab Health",
-        "score": 18,
-        "examples": [
-          "The winding paths to Medical School - University of Minnesota Twin Cities",
-          "Mayor Mamdani and Office of Chief Medical Examiner Announce New Identification of World Trade Center Victim Using Breakthrough Forensic Technique - NYC.gov",
-          "UVM's Larner College of Medicine welcomes medical class of 2030 - Vermont Business Magazine"
+          "Health systems warn of coordinated phishing targeting Epic’s patient portal - Health Exec",
+          "Health systems warn of coordinated phishing targeting Epic’s patient portal - Health Exec"
         ]
       },
       {
@@ -2443,9 +2432,20 @@
         "category": "Outbreaks",
         "score": 16,
         "examples": [
-          "Pages - Maryland Department of Health declares measles outbreak in three Maryland counties - Maryland.gov",
           "Ebola disease outbreak in the Democratic Republic of the Congo and Uganda - European Centre for Disease Prevention and Control (ECDC)",
+          "Pages - Maryland Department of Health declares measles outbreak in three Maryland counties - Maryland.gov",
           "Pages - Maryland Department of Health declares measles outbreak in three Maryland counties - Maryland.gov"
+        ]
+      },
+      {
+        "trend": "medical",
+        "market_code": "QA",
+        "category": "Arab Health",
+        "score": 16,
+        "examples": [
+          "Mayor Mamdani and Office of Chief Medical Examiner Announce New Identification of World Trade Center Victim Using Breakthrough Forensic Technique - NYC.gov",
+          "Cook County medical examiner takes ABC7 inside process to ID decomposing bodies found at funeral home South Chicago Chapel - ABC7 Chicago",
+          "UVM's Larner College of Medicine welcomes medical class of 2030 - Vermont Business Magazine"
         ]
       },
       {
@@ -2463,11 +2463,11 @@
         "trend": "healthcare",
         "market_code": "QA",
         "category": "Arab Health",
-        "score": 12,
+        "score": 11,
         "examples": [
+          "Chutes & Ladders—Elevance Health taps new behavioral health leader; Providence names new CFO - Fierce Healthcare",
           "Health systems warn patients of MyChart phishing scam - Healthcare Dive",
-          "Healthcare AI Must Earn Trust Before Adoption - Cisco Blogs",
-          "FDA seeks feedback on generative AI regulations - Healthcare Dive"
+          "Healthcare AI Must Earn Trust Before Adoption - Cisco Blogs"
         ]
       },
       {
@@ -2476,9 +2476,9 @@
         "category": "Mental Health",
         "score": 11,
         "examples": [
+          "Fort Worth mental health nonprofit launches youth trauma and grief collaborative - Fort Worth Report",
           "Meta questions psychologist’s testimony in teen mental health harms trial - Courthouse News",
-          "Kean Introduces Bipartisan Bill to Fund Mental Health Support for First Responders - House.gov",
-          "New Shawnee County Jail mental health wing opens to provide inmates a ‘path forward’ - WIBW"
+          "Kean Introduces Bipartisan Bill to Fund Mental Health Support for First Responders - House.gov"
         ]
       },
       {
@@ -2487,9 +2487,9 @@
         "category": "Mental Health",
         "score": 10,
         "examples": [
+          "Fort Worth mental health nonprofit launches youth trauma and grief collaborative - Fort Worth Report",
           "Meta questions psychologist’s testimony in teen mental health harms trial - Courthouse News",
-          "Kean Introduces Bipartisan Bill to Fund Mental Health Support for First Responders - House.gov",
-          "New Shawnee County Jail mental health wing opens to provide inmates a ‘path forward’ - WIBW"
+          "Kean Introduces Bipartisan Bill to Fund Mental Health Support for First Responders - House.gov"
         ]
       },
       {
@@ -2504,36 +2504,14 @@
         ]
       },
       {
-        "trend": "public health",
-        "market_code": "QA",
-        "category": "Arab Health",
-        "score": 9,
-        "examples": [
-          "Johns Hopkins Center for School Health Joins National Initiative to Address Chronic School Absence - Johns Hopkins Bloomberg School of Public Health",
-          "Opening doors when people are ready - Public Health Insider",
-          "New 'Immunize Minnesota' coalition hopes to break down public health silos around vaccines - MPR News"
-        ]
-      },
-      {
         "trend": "virus",
         "market_code": "QA",
         "category": "Outbreaks",
         "score": 9,
         "examples": [
-          "Bali Dismisses Zika Virus Fears Amid US Health Alert - Jakarta Globe",
-          "Second case of West Nile virus reported in Mass., also in Middlesex County - Boston.com",
-          "Second West Nile virus case reported in Mass. - Axios"
-        ]
-      },
-      {
-        "trend": "health alert",
-        "market_code": "QA",
-        "category": "Arab Health",
-        "score": 8,
-        "examples": [
-          "Health alert issued for harmful blue-green algae toxins in Lake Howell - WFTV",
-          "Health Alert: Health officials say tobacco ads target teens - WBKO",
-          "DOH-Seminole Issues Blue Green Algae Health Alert for Lake Howell - mysanfordherald.com"
+          "Second West Nile virus case reported in Massachusetts - Axios",
+          "West Nile virus found in 6 human cases; experts explain how it's spread - 13newsnow.com",
+          "Mosquitos test positive for West Nile virus in 9 Louisville neighborhoods - WLKY"
         ]
       },
       {
@@ -2542,9 +2520,31 @@
         "category": "Outbreaks",
         "score": 8,
         "examples": [
-          "Second case of West Nile virus reported in Mass., also in Middlesex County - Boston.com",
-          "Second West Nile virus case reported in Mass. - Axios",
-          "Three West Nile virus cases confirmed in Montrose County - KJCT"
+          "Second West Nile virus case reported in Massachusetts - Axios",
+          "West Nile virus found in 6 human cases; experts explain how it's spread - 13newsnow.com",
+          "Mosquitos test positive for West Nile virus in 9 Louisville neighborhoods - WLKY"
+        ]
+      },
+      {
+        "trend": "west nile virus",
+        "market_code": "QA",
+        "category": "Outbreaks",
+        "score": 8,
+        "examples": [
+          "Second West Nile virus case reported in Massachusetts - Axios",
+          "West Nile virus found in 6 human cases; experts explain how it's spread - 13newsnow.com",
+          "Mosquitos test positive for West Nile virus in 9 Louisville neighborhoods - WLKY"
+        ]
+      },
+      {
+        "trend": "trial",
+        "market_code": "QA",
+        "category": "Arab Health",
+        "score": 8,
+        "examples": [
+          "Meta questions psychologist’s testimony in teen mental health harms trial - Courthouse News",
+          "Moderna and Merck say mRNA cancer vaccine succeeded in late-stage melanoma trial - STAT",
+          "Cancer vaccine from Moderna, Merck shows promise in late-stage trial; both stocks soar - CNBC"
         ]
       }
     ],
@@ -2553,22 +2553,11 @@
         "trend": "health",
         "market_code": "JO",
         "category": "Arab Health",
-        "score": 72,
+        "score": 76,
         "examples": [
           "Pages - Maryland Department of Health declares measles outbreak in three Maryland counties - Maryland.gov",
-          "Unregulated food vendors can pose health threat - Coconino.az.gov",
-          "Las Vegas Raiders announce $25 million game-changing gift to Intermountain Health to help build Nevada's first stand-alone children's hospital - Raiders.com"
-        ]
-      },
-      {
-        "trend": "medical",
-        "market_code": "JO",
-        "category": "Arab Health",
-        "score": 18,
-        "examples": [
-          "The winding paths to Medical School - University of Minnesota Twin Cities",
-          "Mayor Mamdani and Office of Chief Medical Examiner Announce New Identification of World Trade Center Victim Using Breakthrough Forensic Technique - NYC.gov",
-          "UVM's Larner College of Medicine welcomes medical class of 2030 - Vermont Business Magazine"
+          "Health systems warn of coordinated phishing targeting Epic’s patient portal - Health Exec",
+          "Health systems warn of coordinated phishing targeting Epic’s patient portal - Health Exec"
         ]
       },
       {
@@ -2577,9 +2566,20 @@
         "category": "Outbreaks",
         "score": 16,
         "examples": [
-          "Pages - Maryland Department of Health declares measles outbreak in three Maryland counties - Maryland.gov",
           "Ebola disease outbreak in the Democratic Republic of the Congo and Uganda - European Centre for Disease Prevention and Control (ECDC)",
+          "Pages - Maryland Department of Health declares measles outbreak in three Maryland counties - Maryland.gov",
           "Pages - Maryland Department of Health declares measles outbreak in three Maryland counties - Maryland.gov"
+        ]
+      },
+      {
+        "trend": "medical",
+        "market_code": "JO",
+        "category": "Arab Health",
+        "score": 16,
+        "examples": [
+          "Mayor Mamdani and Office of Chief Medical Examiner Announce New Identification of World Trade Center Victim Using Breakthrough Forensic Technique - NYC.gov",
+          "Cook County medical examiner takes ABC7 inside process to ID decomposing bodies found at funeral home South Chicago Chapel - ABC7 Chicago",
+          "UVM's Larner College of Medicine welcomes medical class of 2030 - Vermont Business Magazine"
         ]
       },
       {
@@ -2597,11 +2597,11 @@
         "trend": "healthcare",
         "market_code": "JO",
         "category": "Arab Health",
-        "score": 12,
+        "score": 11,
         "examples": [
+          "Chutes & Ladders—Elevance Health taps new behavioral health leader; Providence names new CFO - Fierce Healthcare",
           "Health systems warn patients of MyChart phishing scam - Healthcare Dive",
-          "Healthcare AI Must Earn Trust Before Adoption - Cisco Blogs",
-          "FDA seeks feedback on generative AI regulations - Healthcare Dive"
+          "Healthcare AI Must Earn Trust Before Adoption - Cisco Blogs"
         ]
       },
       {
@@ -2610,9 +2610,9 @@
         "category": "Mental Health",
         "score": 11,
         "examples": [
+          "Fort Worth mental health nonprofit launches youth trauma and grief collaborative - Fort Worth Report",
           "Meta questions psychologist’s testimony in teen mental health harms trial - Courthouse News",
-          "Kean Introduces Bipartisan Bill to Fund Mental Health Support for First Responders - House.gov",
-          "New Shawnee County Jail mental health wing opens to provide inmates a ‘path forward’ - WIBW"
+          "Kean Introduces Bipartisan Bill to Fund Mental Health Support for First Responders - House.gov"
         ]
       },
       {
@@ -2621,9 +2621,9 @@
         "category": "Mental Health",
         "score": 10,
         "examples": [
+          "Fort Worth mental health nonprofit launches youth trauma and grief collaborative - Fort Worth Report",
           "Meta questions psychologist’s testimony in teen mental health harms trial - Courthouse News",
-          "Kean Introduces Bipartisan Bill to Fund Mental Health Support for First Responders - House.gov",
-          "New Shawnee County Jail mental health wing opens to provide inmates a ‘path forward’ - WIBW"
+          "Kean Introduces Bipartisan Bill to Fund Mental Health Support for First Responders - House.gov"
         ]
       },
       {
@@ -2638,36 +2638,14 @@
         ]
       },
       {
-        "trend": "public health",
-        "market_code": "JO",
-        "category": "Arab Health",
-        "score": 9,
-        "examples": [
-          "Johns Hopkins Center for School Health Joins National Initiative to Address Chronic School Absence - Johns Hopkins Bloomberg School of Public Health",
-          "Opening doors when people are ready - Public Health Insider",
-          "New 'Immunize Minnesota' coalition hopes to break down public health silos around vaccines - MPR News"
-        ]
-      },
-      {
         "trend": "virus",
         "market_code": "JO",
         "category": "Outbreaks",
         "score": 9,
         "examples": [
-          "Bali Dismisses Zika Virus Fears Amid US Health Alert - Jakarta Globe",
-          "Second case of West Nile virus reported in Mass., also in Middlesex County - Boston.com",
-          "Second West Nile virus case reported in Mass. - Axios"
-        ]
-      },
-      {
-        "trend": "health alert",
-        "market_code": "JO",
-        "category": "Arab Health",
-        "score": 8,
-        "examples": [
-          "Health alert issued for harmful blue-green algae toxins in Lake Howell - WFTV",
-          "Health Alert: Health officials say tobacco ads target teens - WBKO",
-          "DOH-Seminole Issues Blue Green Algae Health Alert for Lake Howell - mysanfordherald.com"
+          "Second West Nile virus case reported in Massachusetts - Axios",
+          "West Nile virus found in 6 human cases; experts explain how it's spread - 13newsnow.com",
+          "Mosquitos test positive for West Nile virus in 9 Louisville neighborhoods - WLKY"
         ]
       },
       {
@@ -2676,9 +2654,31 @@
         "category": "Outbreaks",
         "score": 8,
         "examples": [
-          "Second case of West Nile virus reported in Mass., also in Middlesex County - Boston.com",
-          "Second West Nile virus case reported in Mass. - Axios",
-          "Three West Nile virus cases confirmed in Montrose County - KJCT"
+          "Second West Nile virus case reported in Massachusetts - Axios",
+          "West Nile virus found in 6 human cases; experts explain how it's spread - 13newsnow.com",
+          "Mosquitos test positive for West Nile virus in 9 Louisville neighborhoods - WLKY"
+        ]
+      },
+      {
+        "trend": "west nile virus",
+        "market_code": "JO",
+        "category": "Outbreaks",
+        "score": 8,
+        "examples": [
+          "Second West Nile virus case reported in Massachusetts - Axios",
+          "West Nile virus found in 6 human cases; experts explain how it's spread - 13newsnow.com",
+          "Mosquitos test positive for West Nile virus in 9 Louisville neighborhoods - WLKY"
+        ]
+      },
+      {
+        "trend": "trial",
+        "market_code": "JO",
+        "category": "Arab Health",
+        "score": 8,
+        "examples": [
+          "Meta questions psychologist’s testimony in teen mental health harms trial - Courthouse News",
+          "Moderna and Merck say mRNA cancer vaccine succeeded in late-stage melanoma trial - STAT",
+          "Cancer vaccine from Moderna, Merck shows promise in late-stage trial; both stocks soar - CNBC"
         ]
       }
     ],
@@ -2687,22 +2687,11 @@
         "trend": "health",
         "market_code": "LB",
         "category": "Arab Health",
-        "score": 72,
+        "score": 76,
         "examples": [
           "Pages - Maryland Department of Health declares measles outbreak in three Maryland counties - Maryland.gov",
-          "Unregulated food vendors can pose health threat - Coconino.az.gov",
-          "Las Vegas Raiders announce $25 million game-changing gift to Intermountain Health to help build Nevada's first stand-alone children's hospital - Raiders.com"
-        ]
-      },
-      {
-        "trend": "medical",
-        "market_code": "LB",
-        "category": "Arab Health",
-        "score": 18,
-        "examples": [
-          "The winding paths to Medical School - University of Minnesota Twin Cities",
-          "Mayor Mamdani and Office of Chief Medical Examiner Announce New Identification of World Trade Center Victim Using Breakthrough Forensic Technique - NYC.gov",
-          "UVM's Larner College of Medicine welcomes medical class of 2030 - Vermont Business Magazine"
+          "Health systems warn of coordinated phishing targeting Epic’s patient portal - Health Exec",
+          "Health systems warn of coordinated phishing targeting Epic’s patient portal - Health Exec"
         ]
       },
       {
@@ -2711,9 +2700,20 @@
         "category": "Outbreaks",
         "score": 16,
         "examples": [
-          "Pages - Maryland Department of Health declares measles outbreak in three Maryland counties - Maryland.gov",
           "Ebola disease outbreak in the Democratic Republic of the Congo and Uganda - European Centre for Disease Prevention and Control (ECDC)",
+          "Pages - Maryland Department of Health declares measles outbreak in three Maryland counties - Maryland.gov",
           "Pages - Maryland Department of Health declares measles outbreak in three Maryland counties - Maryland.gov"
+        ]
+      },
+      {
+        "trend": "medical",
+        "market_code": "LB",
+        "category": "Arab Health",
+        "score": 16,
+        "examples": [
+          "Mayor Mamdani and Office of Chief Medical Examiner Announce New Identification of World Trade Center Victim Using Breakthrough Forensic Technique - NYC.gov",
+          "Cook County medical examiner takes ABC7 inside process to ID decomposing bodies found at funeral home South Chicago Chapel - ABC7 Chicago",
+          "UVM's Larner College of Medicine welcomes medical class of 2030 - Vermont Business Magazine"
         ]
       },
       {
@@ -2731,11 +2731,11 @@
         "trend": "healthcare",
         "market_code": "LB",
         "category": "Arab Health",
-        "score": 12,
+        "score": 11,
         "examples": [
+          "Chutes & Ladders—Elevance Health taps new behavioral health leader; Providence names new CFO - Fierce Healthcare",
           "Health systems warn patients of MyChart phishing scam - Healthcare Dive",
-          "Healthcare AI Must Earn Trust Before Adoption - Cisco Blogs",
-          "FDA seeks feedback on generative AI regulations - Healthcare Dive"
+          "Healthcare AI Must Earn Trust Before Adoption - Cisco Blogs"
         ]
       },
       {
@@ -2744,9 +2744,9 @@
         "category": "Mental Health",
         "score": 11,
         "examples": [
+          "Fort Worth mental health nonprofit launches youth trauma and grief collaborative - Fort Worth Report",
           "Meta questions psychologist’s testimony in teen mental health harms trial - Courthouse News",
-          "Kean Introduces Bipartisan Bill to Fund Mental Health Support for First Responders - House.gov",
-          "New Shawnee County Jail mental health wing opens to provide inmates a ‘path forward’ - WIBW"
+          "Kean Introduces Bipartisan Bill to Fund Mental Health Support for First Responders - House.gov"
         ]
       },
       {
@@ -2755,9 +2755,9 @@
         "category": "Mental Health",
         "score": 10,
         "examples": [
+          "Fort Worth mental health nonprofit launches youth trauma and grief collaborative - Fort Worth Report",
           "Meta questions psychologist’s testimony in teen mental health harms trial - Courthouse News",
-          "Kean Introduces Bipartisan Bill to Fund Mental Health Support for First Responders - House.gov",
-          "New Shawnee County Jail mental health wing opens to provide inmates a ‘path forward’ - WIBW"
+          "Kean Introduces Bipartisan Bill to Fund Mental Health Support for First Responders - House.gov"
         ]
       },
       {
@@ -2772,36 +2772,14 @@
         ]
       },
       {
-        "trend": "public health",
-        "market_code": "LB",
-        "category": "Arab Health",
-        "score": 9,
-        "examples": [
-          "Johns Hopkins Center for School Health Joins National Initiative to Address Chronic School Absence - Johns Hopkins Bloomberg School of Public Health",
-          "Opening doors when people are ready - Public Health Insider",
-          "New 'Immunize Minnesota' coalition hopes to break down public health silos around vaccines - MPR News"
-        ]
-      },
-      {
         "trend": "virus",
         "market_code": "LB",
         "category": "Outbreaks",
         "score": 9,
         "examples": [
-          "Bali Dismisses Zika Virus Fears Amid US Health Alert - Jakarta Globe",
-          "Second case of West Nile virus reported in Mass., also in Middlesex County - Boston.com",
-          "Second West Nile virus case reported in Mass. - Axios"
-        ]
-      },
-      {
-        "trend": "health alert",
-        "market_code": "LB",
-        "category": "Arab Health",
-        "score": 8,
-        "examples": [
-          "Health alert issued for harmful blue-green algae toxins in Lake Howell - WFTV",
-          "Health Alert: Health officials say tobacco ads target teens - WBKO",
-          "DOH-Seminole Issues Blue Green Algae Health Alert for Lake Howell - mysanfordherald.com"
+          "Second West Nile virus case reported in Massachusetts - Axios",
+          "West Nile virus found in 6 human cases; experts explain how it's spread - 13newsnow.com",
+          "Mosquitos test positive for West Nile virus in 9 Louisville neighborhoods - WLKY"
         ]
       },
       {
@@ -2810,9 +2788,31 @@
         "category": "Outbreaks",
         "score": 8,
         "examples": [
-          "Second case of West Nile virus reported in Mass., also in Middlesex County - Boston.com",
-          "Second West Nile virus case reported in Mass. - Axios",
-          "Three West Nile virus cases confirmed in Montrose County - KJCT"
+          "Second West Nile virus case reported in Massachusetts - Axios",
+          "West Nile virus found in 6 human cases; experts explain how it's spread - 13newsnow.com",
+          "Mosquitos test positive for West Nile virus in 9 Louisville neighborhoods - WLKY"
+        ]
+      },
+      {
+        "trend": "west nile virus",
+        "market_code": "LB",
+        "category": "Outbreaks",
+        "score": 8,
+        "examples": [
+          "Second West Nile virus case reported in Massachusetts - Axios",
+          "West Nile virus found in 6 human cases; experts explain how it's spread - 13newsnow.com",
+          "Mosquitos test positive for West Nile virus in 9 Louisville neighborhoods - WLKY"
+        ]
+      },
+      {
+        "trend": "trial",
+        "market_code": "LB",
+        "category": "Arab Health",
+        "score": 8,
+        "examples": [
+          "Meta questions psychologist’s testimony in teen mental health harms trial - Courthouse News",
+          "Moderna and Merck say mRNA cancer vaccine succeeded in late-stage melanoma trial - STAT",
+          "Cancer vaccine from Moderna, Merck shows promise in late-stage trial; both stocks soar - CNBC"
         ]
       }
     ]
