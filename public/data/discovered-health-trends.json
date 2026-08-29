@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-29T15:48:31.525188+00:00",
+  "updated_at": "2026-08-29T20:03:49.356110+00:00",
   "total_trends": 252,
   "markets": {
     "United States": [
@@ -10,37 +10,37 @@
         "score": 66,
         "examples": [
           "Player status report, presented by Orlando Health: Orlando City SC at Minnesota United - Orlando City",
-          "8 Supplements for Women to Support Healthy Aging, Recommended By a Pharmacist - health.com",
-          "When the Nation’s Top Health Official Becomes the Outbreak’s Biggest Obstacle - Global Biodefense"
+          "UNK students ‘find their fit’ in health and physical education program - UNK NEWS",
+          "Arisa Health names new chief financial officer - Talk Business & Politics"
         ]
       },
       {
         "trend": "medical",
         "market_code": "US",
         "category": "US Health",
-        "score": 18,
+        "score": 17,
         "examples": [
-          "Plans Announced for NYU Langone Health Medical Center in Melville, Long Island - New York YIMBY",
-          "As People With HIV Age, Who is the Best Medical Provider for Them? - Contagion Live",
-          "Former detainees with medical conditions detail fear of getting tuberculosis in Colorado ICE facility - NBC News"
+          "Peroxisome structure can help protect insulin and maintain beta cell health - Medical Xpress",
+          "Official Vuelta a España Medical Report Lists Possible Fracture, Head Injury for Tadej Pogačar - Outside Magazine",
+          "Murfreesboro police searching for missing woman who has ‘several medical conditions’ - WSMV"
         ]
       },
       {
         "trend": "outbreak",
         "market_code": "US",
         "category": "Outbreaks",
-        "score": 16,
+        "score": 15,
         "examples": [
-          "Ebola disease outbreak in the Democratic Republic of the Congo and Uganda - European Centre for Disease Prevention and Control (ECDC)",
           "When the Nation’s Top Health Official Becomes the Outbreak’s Biggest Obstacle - Global Biodefense",
-          "When the Nation’s Top Health Official Becomes the Outbreak’s Biggest Obstacle - Global Biodefense"
+          "When the Nation’s Top Health Official Becomes the Outbreak’s Biggest Obstacle - Global Biodefense",
+          "Rabies outbreak at North Carolina mobile petting zoo triggers health warning - WBTV"
         ]
       },
       {
         "trend": "cancer",
         "market_code": "US",
         "category": "Chronic Disease",
-        "score": 11,
+        "score": 12,
         "examples": [
           "From hostile territory to safe home: how lymph nodes evolve during M. tuberculosis infection - Fred Hutchinson Cancer Center",
           "F.D.A. Approves Drug Poised to Transform Care for Pancreatic Cancer - The New York Times",
@@ -48,14 +48,14 @@
         ]
       },
       {
-        "trend": "infection",
+        "trend": "mental",
         "market_code": "US",
-        "category": "Outbreaks",
-        "score": 10,
+        "category": "Mental Health",
+        "score": 9,
         "examples": [
-          "NC teen has rare brain infection likely caused by swimming. Where did exposure happen? Are you safe? - WRAL",
-          "Teen's rare brain infection prompts NC water safety warning - ABC11 News",
-          "NC teen has rare brain infection likely caused by swimming. Where did exposure happen? Are you safe? - WRAL"
+          "Will Meta settlement reduce physical, mental health risks for young users? - Harvard Gazette",
+          "One Of Linus Ullmark's Biggest Mental Health Supporters Opens Up About His Own Struggles - Yahoo Sports",
+          "Security Guard Says Ye’s Mental Health Irrelevant in Employment Trial - MyNewsLA.com"
         ]
       },
       {
@@ -70,17 +70,6 @@
         ]
       },
       {
-        "trend": "mental",
-        "market_code": "US",
-        "category": "Mental Health",
-        "score": 8,
-        "examples": [
-          "Will Meta settlement reduce physical, mental health risks for young users? - Harvard Gazette",
-          "One Of Linus Ullmark's Biggest Mental Health Supporters Opens Up About His Own Struggles - Yahoo Sports",
-          "New Mexico advocates push for stronger maternal mental health support amid Lindsay Clancy trial - KOB 4"
-        ]
-      },
-      {
         "trend": "mental health",
         "market_code": "US",
         "category": "Mental Health",
@@ -88,7 +77,7 @@
         "examples": [
           "Will Meta settlement reduce physical, mental health risks for young users? - Harvard Gazette",
           "One Of Linus Ullmark's Biggest Mental Health Supporters Opens Up About His Own Struggles - Yahoo Sports",
-          "New Mexico advocates push for stronger maternal mental health support amid Lindsay Clancy trial - KOB 4"
+          "Security Guard Says Ye’s Mental Health Irrelevant in Employment Trial - MyNewsLA.com"
         ]
       },
       {
@@ -97,20 +86,31 @@
         "category": "Outbreaks",
         "score": 8,
         "examples": [
+          "Ebola disease caused by Bundibugyo virus - Democratic Republic of the Congo - World Health Organization (WHO)",
           "Scientists investigate if a herpes virus is behind the mass deaths of sardines off South Africa - ABC News - Breaking News, Latest News and Videos",
-          "First West Nile Virus Cases Reported in Suburban Cook County - Cook County Department of Public Health",
-          "VDH confirms 2 West Nile virus cases in VB residents - WAVY.com"
+          "Human case of West Nile virus detected in Allen Co. - WPTA | 21Alive | Fort Wayne, IN"
         ]
       },
       {
-        "trend": "measles",
+        "trend": "infection",
         "market_code": "US",
         "category": "Outbreaks",
         "score": 7,
         "examples": [
-          "Wisconsin measles outbreak puts Winona County on alert - KIMT",
-          "Measles cases continue to climb in Pennsylvania outbreak, as other states report new cases - CIDRAP",
-          "Almost 100 measles cases now tied to southwest Wisconsin outbreak - Milwaukee Journal Sentinel"
+          "NC teen has rare brain infection likely caused by swimming. Where did exposure happen? Are you safe? - WRAL",
+          "Teen's rare brain infection prompts NC water safety warning - ABC11 News",
+          "NC teen has rare brain infection likely caused by swimming. Where did exposure happen? Are you safe? - WRAL"
+        ]
+      },
+      {
+        "trend": "warning",
+        "market_code": "US",
+        "category": "US Health",
+        "score": 7,
+        "examples": [
+          "Rabies outbreak at North Carolina mobile petting zoo triggers health warning - WBTV",
+          "Rabies outbreak at North Carolina mobile petting zoo triggers health warning - WBTV",
+          "Teen's rare brain infection prompts NC water safety warning - ABC11 News"
         ]
       },
       {
@@ -119,20 +119,20 @@
         "category": "Drug & Treatment News",
         "score": 7,
         "examples": [
-          "Triple drug therapy could clear HIV in infected newborns - Drug Discovery News",
-          "Triple drug therapy could clear HIV in infected newborns - Drug Discovery News",
-          "F.D.A. Approves Drug Poised to Transform Care for Pancreatic Cancer - The New York Times"
+          "Study Finds Dormant Viruses Reactivate During COVID-19 - Drug Topics",
+          "F.D.A. Approves Drug Poised to Transform Care for Pancreatic Cancer - The New York Times",
+          "New Targeted Drug Offers Hope in Pancreatic Cancer Treatment - University of Utah Health"
         ]
       },
       {
-        "trend": "wellness",
+        "trend": "public health",
         "market_code": "US",
-        "category": "Diet & Wellness",
+        "category": "US Health",
         "score": 6,
         "examples": [
-          "Wellness stacking: why psychologists say it beats willpower for building healthy habits - Yahoo Creators",
-          "MCCTC Opens New Medical Wellness and Education Center - Business Journal Daily",
-          "FACTS FOR FAMILIES: Extension launches health and community wellness program - Journal Gazette & Times-Courier"
+          "Fossil Fuel Companies Worsen Water Crisis - Public Health Watch",
+          "‘Extremely high’ bacteria levels in Arkansas River after raw sewage spill, Colorado public health officials say - The Denver Post",
+          "Digital technologies reshape clinical research and public health - News-Medical"
         ]
       }
     ],
@@ -141,73 +141,51 @@
         "trend": "health",
         "market_code": "GB",
         "category": "Europe Health",
-        "score": 59,
+        "score": 64,
         "examples": [
           "Jersey private patients pay more but health misses income targets - BBC",
-          "Dutch health institute issues 'red alert' over Trump-shaped ecstasy pills - BBC",
-          "Middlesbrough knife gangs given mental health support instead of jail time - The Telegraph"
+          "Middlesbrough knife gangs given mental health support instead of jail time - The Telegraph",
+          "How to get enough fibre: catch up on the latest health craze - The Times"
         ]
       },
       {
         "trend": "medical",
         "market_code": "GB",
         "category": "Europe Health",
-        "score": 17,
+        "score": 20,
         "examples": [
+          "New philosophical framework reframes moral distress in health care - Medical Xpress",
           "Bradley Barcola due for medical as Liverpool finalise £123m deal for winger - The Guardian",
-          "Medical shows & dramas to watch on Disney+ | Explore Disney+ - Disney Plus",
           "Bradley Barcola 'set for Liverpool medical' as debut date decided - London Evening Standard"
-        ]
-      },
-      {
-        "trend": "outbreak",
-        "market_code": "GB",
-        "category": "Outbreaks",
-        "score": 12,
-        "examples": [
-          "Ebola disease outbreak in the Democratic Republic of the Congo and Uganda - European Centre for Disease Prevention and Control (ECDC)",
-          "'Everyone is at risk...Children in my constituency are dying' - Prof. Usman raises alarm over Diphtheria outbreak Watch full interview: https://youtu.be/iTfgjgoAjjk #trusttvnews #diphtheria #diseaseoutbreak - instagram.com",
-          "When the Nation’s Top Health Official Becomes the Outbreak’s Biggest Obstacle - Global Biodefense"
         ]
       },
       {
         "trend": "mental",
         "market_code": "GB",
         "category": "Mental Health",
-        "score": 12,
+        "score": 13,
         "examples": [
           "Middlesbrough knife gangs given mental health support instead of jail time - The Telegraph",
-          "Will Meta settlement reduce physical, mental health risks for young users? - Harvard Gazette",
-          "Dutch Mental Health Institute Issues 'Red Alert' Over Trump-Shaped Ecstasy Pills - HuffPost"
+          "Knife-wielding thugs in Middlesbrough 'can avoid jail by claiming mental health support' - lbc.co.uk",
+          "TikTok whistleblower warns AI moderation risks a 'generation’s mental health' - as millions still able to watch Perez Hilton self-harm livestream - lbc.co.uk"
         ]
       },
       {
         "trend": "mental health",
         "market_code": "GB",
         "category": "Mental Health",
-        "score": 12,
+        "score": 13,
         "examples": [
           "Middlesbrough knife gangs given mental health support instead of jail time - The Telegraph",
-          "Will Meta settlement reduce physical, mental health risks for young users? - Harvard Gazette",
-          "Dutch Mental Health Institute Issues 'Red Alert' Over Trump-Shaped Ecstasy Pills - HuffPost"
-        ]
-      },
-      {
-        "trend": "cancer",
-        "market_code": "GB",
-        "category": "Chronic Disease",
-        "score": 11,
-        "examples": [
-          "Inside Dolly Parton's health battles following country legend's death with cancer - London Evening Standard",
-          "From hostile territory to safe home: how lymph nodes evolve during M. tuberculosis infection - Fred Hutchinson Cancer Center",
-          "New Targeted Drug Offers Hope in Pancreatic Cancer Treatment - University of Utah Health"
+          "Knife-wielding thugs in Middlesbrough 'can avoid jail by claiming mental health support' - lbc.co.uk",
+          "TikTok whistleblower warns AI moderation risks a 'generation’s mental health' - as millions still able to watch Perez Hilton self-harm livestream - lbc.co.uk"
         ]
       },
       {
         "trend": "healthcare",
         "market_code": "GB",
         "category": "Europe Health",
-        "score": 11,
+        "score": 12,
         "examples": [
           "This Week in European HealthTech, MedTech and Health AI: 28th August 2026 - healthcare.digital",
           "Americans Want to Know When Their Healthcare Providers Use AI - CNET",
@@ -215,25 +193,58 @@
         ]
       },
       {
+        "trend": "outbreak",
+        "market_code": "GB",
+        "category": "Outbreaks",
+        "score": 10,
+        "examples": [
+          "Rabies outbreak at North Carolina mobile petting zoo triggers health warning - WBTV",
+          "Rabies outbreak at North Carolina mobile petting zoo triggers health warning - WBTV",
+          "DR Congo begins vaccinating against largest and deadliest Ebola outbreak - Al Jazeera"
+        ]
+      },
+      {
+        "trend": "cancer",
+        "market_code": "GB",
+        "category": "Chronic Disease",
+        "score": 10,
+        "examples": [
+          "From hostile territory to safe home: how lymph nodes evolve during M. tuberculosis infection - Fred Hutchinson Cancer Center",
+          "New Targeted Drug Offers Hope in Pancreatic Cancer Treatment - University of Utah Health",
+          "F.D.A. Approves Drug Poised to Transform Care for Pancreatic Cancer - The New York Times"
+        ]
+      },
+      {
         "trend": "infection",
         "market_code": "GB",
         "category": "Outbreaks",
-        "score": 8,
+        "score": 7,
         "examples": [
           "Teen's rare brain infection prompts NC water safety warning - ABC11 News",
-          "Health experts warn of infection risks in Bhote Koshi flood zones as bodies decay - NepalNews",
+          "Seegene announces comprehensive PCR-based reproductive tract infection testing strategy - SelectScience",
           "Characteristics of Chlamydia pneumoniae infection in 141 children with respiratory tract infection and risk factors for severe pneumonia - Frontiers"
         ]
       },
       {
-        "trend": "disease",
+        "trend": "virus",
+        "market_code": "GB",
+        "category": "Outbreaks",
+        "score": 7,
+        "examples": [
+          "Ebola disease caused by Bundibugyo virus - Democratic Republic of the Congo - World Health Organization (WHO)",
+          "How Devon and Cornwall became bluetongue virus hotspot - BBC",
+          "Ebola disease caused by Bundibugyo virus - Democratic Republic of the Congo - World Health Organization (WHO)"
+        ]
+      },
+      {
+        "trend": "clinical",
         "market_code": "GB",
         "category": "Europe Health",
         "score": 6,
         "examples": [
-          "Ebola disease outbreak in the Democratic Republic of the Congo and Uganda - European Centre for Disease Prevention and Control (ECDC)",
-          "Ebola disease outbreak in the Democratic Republic of the Congo and Uganda - European Centre for Disease Prevention and Control (ECDC)",
-          "Ebola disease outbreak in the Democratic Republic of the Congo and Uganda - European Centre for Disease Prevention and Control (ECDC)"
+          "Welsh Gender Service surgical referrals paused for clinical review - BBC",
+          "Statins can safely cut risk of heart attacks or strokes in healthy people aged over 70, world-first clinical trial shows - The Guardian",
+          "Digital technologies reshape clinical research and public health - News-Medical"
         ]
       },
       {
@@ -242,31 +253,20 @@
         "category": "Children Health",
         "score": 6,
         "examples": [
-          "'Everyone is at risk...Children in my constituency are dying' - Prof. Usman raises alarm over Diphtheria outbreak Watch full interview: https://youtu.be/iTfgjgoAjjk #trusttvnews #diphtheria #diseaseoutbreak - instagram.com",
+          "New campaign to help children and young people learn the facts about vaping and nicotine - The Leamington Observer",
           "Warning signs to look for as one in three children short-sighted - Derbyshire Live",
           "Characteristics of Chlamydia pneumoniae infection in 141 children with respiratory tract infection and risk factors for severe pneumonia - Frontiers"
         ]
       },
       {
-        "trend": "heart",
-        "market_code": "GB",
-        "category": "Chronic Disease",
-        "score": 5,
-        "examples": [
-          "Statins can safely cut risk of heart attacks or strokes in healthy people aged over 70, world-first clinical trial shows - The Guardian",
-          "Statins can safely cut risk of heart attacks or strokes in healthy people aged over 70, world-first clinical trial shows - The Guardian",
-          "Sweetener used in chewing gum and jam linked to strokes and heart attacks - The Guardian"
-        ]
-      },
-      {
-        "trend": "clinical",
+        "trend": "warning",
         "market_code": "GB",
         "category": "Europe Health",
-        "score": 5,
+        "score": 6,
         "examples": [
-          "Statins can safely cut risk of heart attacks or strokes in healthy people aged over 70, world-first clinical trial shows - The Guardian",
-          "Digital technologies reshape clinical research and public health - News-Medical",
-          "Statins can safely cut risk of heart attacks or strokes in healthy people aged over 70, world-first clinical trial shows - The Guardian"
+          "Rabies outbreak at North Carolina mobile petting zoo triggers health warning - WBTV",
+          "Warning signs to look for as one in three children short-sighted - Derbyshire Live",
+          "Teen's rare brain infection prompts NC water safety warning - ABC11 News"
         ]
       }
     ],
@@ -278,19 +278,19 @@
         "score": 67,
         "examples": [
           "Player status report, presented by Orlando Health: Orlando City SC at Minnesota United - Orlando City",
-          "8 Supplements for Women to Support Healthy Aging, Recommended By a Pharmacist - health.com",
-          "When the Nation’s Top Health Official Becomes the Outbreak’s Biggest Obstacle - Global Biodefense"
+          "UNK students ‘find their fit’ in health and physical education program - UNK NEWS",
+          "Arisa Health names new chief financial officer - Talk Business & Politics"
         ]
       },
       {
         "trend": "medical",
         "market_code": "DE",
         "category": "Europe Health",
-        "score": 18,
+        "score": 17,
         "examples": [
-          "Plans Announced for NYU Langone Health Medical Center in Melville, Long Island - New York YIMBY",
-          "As People With HIV Age, Who is the Best Medical Provider for Them? - Contagion Live",
-          "Former detainees with medical conditions detail fear of getting tuberculosis in Colorado ICE facility - NBC News"
+          "Peroxisome structure can help protect insulin and maintain beta cell health - Medical Xpress",
+          "Official Vuelta a España Medical Report Lists Possible Fracture, Head Injury for Tadej Pogačar - Outside Magazine",
+          "Murfreesboro police searching for missing woman who has ‘several medical conditions’ - WSMV"
         ]
       },
       {
@@ -299,8 +299,8 @@
         "category": "Outbreaks",
         "score": 16,
         "examples": [
-          "Ebola disease outbreak in the Democratic Republic of the Congo and Uganda - European Centre for Disease Prevention and Control (ECDC)",
           "When the Nation’s Top Health Official Becomes the Outbreak’s Biggest Obstacle - Global Biodefense",
+          "Rabies outbreak at North Carolina mobile petting zoo triggers health warning - WBTV",
           "When the Nation’s Top Health Official Becomes the Outbreak’s Biggest Obstacle - Global Biodefense"
         ]
       },
@@ -316,14 +316,14 @@
         ]
       },
       {
-        "trend": "infection",
+        "trend": "mental",
         "market_code": "DE",
-        "category": "Outbreaks",
-        "score": 10,
+        "category": "Mental Health",
+        "score": 9,
         "examples": [
-          "NC teen has rare brain infection likely caused by swimming. Where did exposure happen? Are you safe? - WRAL",
-          "Teen's rare brain infection prompts NC water safety warning - ABC11 News",
-          "NC teen has rare brain infection likely caused by swimming. Where did exposure happen? Are you safe? - WRAL"
+          "Will Meta settlement reduce physical, mental health risks for young users? - Harvard Gazette",
+          "One Of Linus Ullmark's Biggest Mental Health Supporters Opens Up About His Own Struggles - Yahoo Sports",
+          "Security Guard Says Ye’s Mental Health Irrelevant in Employment Trial - MyNewsLA.com"
         ]
       },
       {
@@ -338,14 +338,25 @@
         ]
       },
       {
-        "trend": "mental",
+        "trend": "warning",
         "market_code": "DE",
-        "category": "Mental Health",
+        "category": "Europe Health",
         "score": 8,
         "examples": [
-          "Will Meta settlement reduce physical, mental health risks for young users? - Harvard Gazette",
-          "One Of Linus Ullmark's Biggest Mental Health Supporters Opens Up About His Own Struggles - Yahoo Sports",
-          "New Mexico advocates push for stronger maternal mental health support amid Lindsay Clancy trial - KOB 4"
+          "Rabies outbreak at North Carolina mobile petting zoo triggers health warning - WBTV",
+          "Rabies outbreak at North Carolina mobile petting zoo triggers health warning - WBTV",
+          "Rabies outbreak at North Carolina mobile petting zoo triggers health warning - WBTV"
+        ]
+      },
+      {
+        "trend": "infection",
+        "market_code": "DE",
+        "category": "Outbreaks",
+        "score": 8,
+        "examples": [
+          "NC teen has rare brain infection likely caused by swimming. Where did exposure happen? Are you safe? - WRAL",
+          "Teen's rare brain infection prompts NC water safety warning - ABC11 News",
+          "NC teen has rare brain infection likely caused by swimming. Where did exposure happen? Are you safe? - WRAL"
         ]
       },
       {
@@ -356,7 +367,7 @@
         "examples": [
           "Will Meta settlement reduce physical, mental health risks for young users? - Harvard Gazette",
           "One Of Linus Ullmark's Biggest Mental Health Supporters Opens Up About His Own Struggles - Yahoo Sports",
-          "New Mexico advocates push for stronger maternal mental health support amid Lindsay Clancy trial - KOB 4"
+          "Security Guard Says Ye’s Mental Health Irrelevant in Employment Trial - MyNewsLA.com"
         ]
       },
       {
@@ -365,42 +376,31 @@
         "category": "Outbreaks",
         "score": 8,
         "examples": [
+          "Ebola disease caused by Bundibugyo virus - Democratic Republic of the Congo - World Health Organization (WHO)",
           "Scientists investigate if a herpes virus is behind the mass deaths of sardines off South Africa - ABC News - Breaking News, Latest News and Videos",
-          "First West Nile Virus Cases Reported in Suburban Cook County - Cook County Department of Public Health",
-          "VDH confirms 2 West Nile virus cases in VB residents - WAVY.com"
+          "Human case of West Nile virus detected in Allen Co. - WPTA | 21Alive | Fort Wayne, IN"
         ]
       },
       {
         "trend": "drug",
         "market_code": "DE",
         "category": "Drug & Treatment News",
-        "score": 8,
-        "examples": [
-          "Triple drug therapy could clear HIV in infected newborns - Drug Discovery News",
-          "Triple drug therapy could clear HIV in infected newborns - Drug Discovery News",
-          "F.D.A. Approves Drug Poised to Transform Care for Pancreatic Cancer - The New York Times"
-        ]
-      },
-      {
-        "trend": "measles",
-        "market_code": "DE",
-        "category": "Outbreaks",
         "score": 7,
         "examples": [
-          "Wisconsin measles outbreak puts Winona County on alert - KIMT",
-          "Measles cases continue to climb in Pennsylvania outbreak, as other states report new cases - CIDRAP",
-          "Almost 100 measles cases now tied to southwest Wisconsin outbreak - Milwaukee Journal Sentinel"
+          "Study Finds Dormant Viruses Reactivate During COVID-19 - Drug Topics",
+          "F.D.A. Approves Drug Poised to Transform Care for Pancreatic Cancer - The New York Times",
+          "New Targeted Drug Offers Hope in Pancreatic Cancer Treatment - University of Utah Health"
         ]
       },
       {
-        "trend": "wellness",
+        "trend": "public health",
         "market_code": "DE",
-        "category": "Diet & Wellness",
+        "category": "Europe Health",
         "score": 6,
         "examples": [
-          "Wellness stacking: why psychologists say it beats willpower for building healthy habits - Yahoo Creators",
-          "MCCTC Opens New Medical Wellness and Education Center - Business Journal Daily",
-          "FACTS FOR FAMILIES: Extension launches health and community wellness program - Journal Gazette & Times-Courier"
+          "Fossil Fuel Companies Worsen Water Crisis - Public Health Watch",
+          "‘Extremely high’ bacteria levels in Arkansas River after raw sewage spill, Colorado public health officials say - The Denver Post",
+          "Digital technologies reshape clinical research and public health - News-Medical"
         ]
       }
     ],
@@ -412,19 +412,19 @@
         "score": 67,
         "examples": [
           "Player status report, presented by Orlando Health: Orlando City SC at Minnesota United - Orlando City",
-          "8 Supplements for Women to Support Healthy Aging, Recommended By a Pharmacist - health.com",
-          "When the Nation’s Top Health Official Becomes the Outbreak’s Biggest Obstacle - Global Biodefense"
+          "UNK students ‘find their fit’ in health and physical education program - UNK NEWS",
+          "Arisa Health names new chief financial officer - Talk Business & Politics"
         ]
       },
       {
         "trend": "medical",
         "market_code": "FR",
         "category": "Europe Health",
-        "score": 18,
+        "score": 17,
         "examples": [
-          "Plans Announced for NYU Langone Health Medical Center in Melville, Long Island - New York YIMBY",
-          "As People With HIV Age, Who is the Best Medical Provider for Them? - Contagion Live",
-          "Former detainees with medical conditions detail fear of getting tuberculosis in Colorado ICE facility - NBC News"
+          "Peroxisome structure can help protect insulin and maintain beta cell health - Medical Xpress",
+          "Official Vuelta a España Medical Report Lists Possible Fracture, Head Injury for Tadej Pogačar - Outside Magazine",
+          "Murfreesboro police searching for missing woman who has ‘several medical conditions’ - WSMV"
         ]
       },
       {
@@ -433,8 +433,8 @@
         "category": "Outbreaks",
         "score": 16,
         "examples": [
-          "Ebola disease outbreak in the Democratic Republic of the Congo and Uganda - European Centre for Disease Prevention and Control (ECDC)",
           "When the Nation’s Top Health Official Becomes the Outbreak’s Biggest Obstacle - Global Biodefense",
+          "Rabies outbreak at North Carolina mobile petting zoo triggers health warning - WBTV",
           "When the Nation’s Top Health Official Becomes the Outbreak’s Biggest Obstacle - Global Biodefense"
         ]
       },
@@ -450,14 +450,14 @@
         ]
       },
       {
-        "trend": "infection",
+        "trend": "mental",
         "market_code": "FR",
-        "category": "Outbreaks",
-        "score": 10,
+        "category": "Mental Health",
+        "score": 9,
         "examples": [
-          "NC teen has rare brain infection likely caused by swimming. Where did exposure happen? Are you safe? - WRAL",
-          "Teen's rare brain infection prompts NC water safety warning - ABC11 News",
-          "NC teen has rare brain infection likely caused by swimming. Where did exposure happen? Are you safe? - WRAL"
+          "Will Meta settlement reduce physical, mental health risks for young users? - Harvard Gazette",
+          "One Of Linus Ullmark's Biggest Mental Health Supporters Opens Up About His Own Struggles - Yahoo Sports",
+          "Security Guard Says Ye’s Mental Health Irrelevant in Employment Trial - MyNewsLA.com"
         ]
       },
       {
@@ -472,14 +472,25 @@
         ]
       },
       {
-        "trend": "mental",
+        "trend": "warning",
         "market_code": "FR",
-        "category": "Mental Health",
+        "category": "Europe Health",
         "score": 8,
         "examples": [
-          "Will Meta settlement reduce physical, mental health risks for young users? - Harvard Gazette",
-          "One Of Linus Ullmark's Biggest Mental Health Supporters Opens Up About His Own Struggles - Yahoo Sports",
-          "New Mexico advocates push for stronger maternal mental health support amid Lindsay Clancy trial - KOB 4"
+          "Rabies outbreak at North Carolina mobile petting zoo triggers health warning - WBTV",
+          "Rabies outbreak at North Carolina mobile petting zoo triggers health warning - WBTV",
+          "Rabies outbreak at North Carolina mobile petting zoo triggers health warning - WBTV"
+        ]
+      },
+      {
+        "trend": "infection",
+        "market_code": "FR",
+        "category": "Outbreaks",
+        "score": 8,
+        "examples": [
+          "NC teen has rare brain infection likely caused by swimming. Where did exposure happen? Are you safe? - WRAL",
+          "Teen's rare brain infection prompts NC water safety warning - ABC11 News",
+          "NC teen has rare brain infection likely caused by swimming. Where did exposure happen? Are you safe? - WRAL"
         ]
       },
       {
@@ -490,7 +501,7 @@
         "examples": [
           "Will Meta settlement reduce physical, mental health risks for young users? - Harvard Gazette",
           "One Of Linus Ullmark's Biggest Mental Health Supporters Opens Up About His Own Struggles - Yahoo Sports",
-          "New Mexico advocates push for stronger maternal mental health support amid Lindsay Clancy trial - KOB 4"
+          "Security Guard Says Ye’s Mental Health Irrelevant in Employment Trial - MyNewsLA.com"
         ]
       },
       {
@@ -499,42 +510,31 @@
         "category": "Outbreaks",
         "score": 8,
         "examples": [
+          "Ebola disease caused by Bundibugyo virus - Democratic Republic of the Congo - World Health Organization (WHO)",
           "Scientists investigate if a herpes virus is behind the mass deaths of sardines off South Africa - ABC News - Breaking News, Latest News and Videos",
-          "First West Nile Virus Cases Reported in Suburban Cook County - Cook County Department of Public Health",
-          "VDH confirms 2 West Nile virus cases in VB residents - WAVY.com"
+          "Human case of West Nile virus detected in Allen Co. - WPTA | 21Alive | Fort Wayne, IN"
         ]
       },
       {
         "trend": "drug",
         "market_code": "FR",
         "category": "Drug & Treatment News",
-        "score": 8,
-        "examples": [
-          "Triple drug therapy could clear HIV in infected newborns - Drug Discovery News",
-          "Triple drug therapy could clear HIV in infected newborns - Drug Discovery News",
-          "F.D.A. Approves Drug Poised to Transform Care for Pancreatic Cancer - The New York Times"
-        ]
-      },
-      {
-        "trend": "measles",
-        "market_code": "FR",
-        "category": "Outbreaks",
         "score": 7,
         "examples": [
-          "Wisconsin measles outbreak puts Winona County on alert - KIMT",
-          "Measles cases continue to climb in Pennsylvania outbreak, as other states report new cases - CIDRAP",
-          "Almost 100 measles cases now tied to southwest Wisconsin outbreak - Milwaukee Journal Sentinel"
+          "Study Finds Dormant Viruses Reactivate During COVID-19 - Drug Topics",
+          "F.D.A. Approves Drug Poised to Transform Care for Pancreatic Cancer - The New York Times",
+          "New Targeted Drug Offers Hope in Pancreatic Cancer Treatment - University of Utah Health"
         ]
       },
       {
-        "trend": "wellness",
+        "trend": "public health",
         "market_code": "FR",
-        "category": "Diet & Wellness",
+        "category": "Europe Health",
         "score": 6,
         "examples": [
-          "Wellness stacking: why psychologists say it beats willpower for building healthy habits - Yahoo Creators",
-          "MCCTC Opens New Medical Wellness and Education Center - Business Journal Daily",
-          "FACTS FOR FAMILIES: Extension launches health and community wellness program - Journal Gazette & Times-Courier"
+          "Fossil Fuel Companies Worsen Water Crisis - Public Health Watch",
+          "‘Extremely high’ bacteria levels in Arkansas River after raw sewage spill, Colorado public health officials say - The Denver Post",
+          "Digital technologies reshape clinical research and public health - News-Medical"
         ]
       }
     ],
@@ -546,19 +546,19 @@
         "score": 67,
         "examples": [
           "Player status report, presented by Orlando Health: Orlando City SC at Minnesota United - Orlando City",
-          "8 Supplements for Women to Support Healthy Aging, Recommended By a Pharmacist - health.com",
-          "When the Nation’s Top Health Official Becomes the Outbreak’s Biggest Obstacle - Global Biodefense"
+          "UNK students ‘find their fit’ in health and physical education program - UNK NEWS",
+          "Arisa Health names new chief financial officer - Talk Business & Politics"
         ]
       },
       {
         "trend": "medical",
         "market_code": "IT",
         "category": "Europe Health",
-        "score": 18,
+        "score": 17,
         "examples": [
-          "Plans Announced for NYU Langone Health Medical Center in Melville, Long Island - New York YIMBY",
-          "As People With HIV Age, Who is the Best Medical Provider for Them? - Contagion Live",
-          "Former detainees with medical conditions detail fear of getting tuberculosis in Colorado ICE facility - NBC News"
+          "Peroxisome structure can help protect insulin and maintain beta cell health - Medical Xpress",
+          "Official Vuelta a España Medical Report Lists Possible Fracture, Head Injury for Tadej Pogačar - Outside Magazine",
+          "Murfreesboro police searching for missing woman who has ‘several medical conditions’ - WSMV"
         ]
       },
       {
@@ -567,8 +567,8 @@
         "category": "Outbreaks",
         "score": 16,
         "examples": [
-          "Ebola disease outbreak in the Democratic Republic of the Congo and Uganda - European Centre for Disease Prevention and Control (ECDC)",
           "When the Nation’s Top Health Official Becomes the Outbreak’s Biggest Obstacle - Global Biodefense",
+          "Rabies outbreak at North Carolina mobile petting zoo triggers health warning - WBTV",
           "When the Nation’s Top Health Official Becomes the Outbreak’s Biggest Obstacle - Global Biodefense"
         ]
       },
@@ -584,14 +584,14 @@
         ]
       },
       {
-        "trend": "infection",
+        "trend": "mental",
         "market_code": "IT",
-        "category": "Outbreaks",
-        "score": 10,
+        "category": "Mental Health",
+        "score": 9,
         "examples": [
-          "NC teen has rare brain infection likely caused by swimming. Where did exposure happen? Are you safe? - WRAL",
-          "Teen's rare brain infection prompts NC water safety warning - ABC11 News",
-          "NC teen has rare brain infection likely caused by swimming. Where did exposure happen? Are you safe? - WRAL"
+          "Will Meta settlement reduce physical, mental health risks for young users? - Harvard Gazette",
+          "One Of Linus Ullmark's Biggest Mental Health Supporters Opens Up About His Own Struggles - Yahoo Sports",
+          "Security Guard Says Ye’s Mental Health Irrelevant in Employment Trial - MyNewsLA.com"
         ]
       },
       {
@@ -606,14 +606,25 @@
         ]
       },
       {
-        "trend": "mental",
+        "trend": "warning",
         "market_code": "IT",
-        "category": "Mental Health",
+        "category": "Europe Health",
         "score": 8,
         "examples": [
-          "Will Meta settlement reduce physical, mental health risks for young users? - Harvard Gazette",
-          "One Of Linus Ullmark's Biggest Mental Health Supporters Opens Up About His Own Struggles - Yahoo Sports",
-          "New Mexico advocates push for stronger maternal mental health support amid Lindsay Clancy trial - KOB 4"
+          "Rabies outbreak at North Carolina mobile petting zoo triggers health warning - WBTV",
+          "Rabies outbreak at North Carolina mobile petting zoo triggers health warning - WBTV",
+          "Rabies outbreak at North Carolina mobile petting zoo triggers health warning - WBTV"
+        ]
+      },
+      {
+        "trend": "infection",
+        "market_code": "IT",
+        "category": "Outbreaks",
+        "score": 8,
+        "examples": [
+          "NC teen has rare brain infection likely caused by swimming. Where did exposure happen? Are you safe? - WRAL",
+          "Teen's rare brain infection prompts NC water safety warning - ABC11 News",
+          "NC teen has rare brain infection likely caused by swimming. Where did exposure happen? Are you safe? - WRAL"
         ]
       },
       {
@@ -624,7 +635,7 @@
         "examples": [
           "Will Meta settlement reduce physical, mental health risks for young users? - Harvard Gazette",
           "One Of Linus Ullmark's Biggest Mental Health Supporters Opens Up About His Own Struggles - Yahoo Sports",
-          "New Mexico advocates push for stronger maternal mental health support amid Lindsay Clancy trial - KOB 4"
+          "Security Guard Says Ye’s Mental Health Irrelevant in Employment Trial - MyNewsLA.com"
         ]
       },
       {
@@ -633,42 +644,31 @@
         "category": "Outbreaks",
         "score": 8,
         "examples": [
+          "Ebola disease caused by Bundibugyo virus - Democratic Republic of the Congo - World Health Organization (WHO)",
           "Scientists investigate if a herpes virus is behind the mass deaths of sardines off South Africa - ABC News - Breaking News, Latest News and Videos",
-          "First West Nile Virus Cases Reported in Suburban Cook County - Cook County Department of Public Health",
-          "VDH confirms 2 West Nile virus cases in VB residents - WAVY.com"
+          "Human case of West Nile virus detected in Allen Co. - WPTA | 21Alive | Fort Wayne, IN"
         ]
       },
       {
         "trend": "drug",
         "market_code": "IT",
         "category": "Drug & Treatment News",
-        "score": 8,
-        "examples": [
-          "Triple drug therapy could clear HIV in infected newborns - Drug Discovery News",
-          "Triple drug therapy could clear HIV in infected newborns - Drug Discovery News",
-          "F.D.A. Approves Drug Poised to Transform Care for Pancreatic Cancer - The New York Times"
-        ]
-      },
-      {
-        "trend": "measles",
-        "market_code": "IT",
-        "category": "Outbreaks",
         "score": 7,
         "examples": [
-          "Wisconsin measles outbreak puts Winona County on alert - KIMT",
-          "Measles cases continue to climb in Pennsylvania outbreak, as other states report new cases - CIDRAP",
-          "Almost 100 measles cases now tied to southwest Wisconsin outbreak - Milwaukee Journal Sentinel"
+          "Study Finds Dormant Viruses Reactivate During COVID-19 - Drug Topics",
+          "F.D.A. Approves Drug Poised to Transform Care for Pancreatic Cancer - The New York Times",
+          "New Targeted Drug Offers Hope in Pancreatic Cancer Treatment - University of Utah Health"
         ]
       },
       {
-        "trend": "wellness",
+        "trend": "public health",
         "market_code": "IT",
-        "category": "Diet & Wellness",
+        "category": "Europe Health",
         "score": 6,
         "examples": [
-          "Wellness stacking: why psychologists say it beats willpower for building healthy habits - Yahoo Creators",
-          "MCCTC Opens New Medical Wellness and Education Center - Business Journal Daily",
-          "FACTS FOR FAMILIES: Extension launches health and community wellness program - Journal Gazette & Times-Courier"
+          "Fossil Fuel Companies Worsen Water Crisis - Public Health Watch",
+          "‘Extremely high’ bacteria levels in Arkansas River after raw sewage spill, Colorado public health officials say - The Denver Post",
+          "Digital technologies reshape clinical research and public health - News-Medical"
         ]
       }
     ],
@@ -680,19 +680,19 @@
         "score": 67,
         "examples": [
           "Player status report, presented by Orlando Health: Orlando City SC at Minnesota United - Orlando City",
-          "8 Supplements for Women to Support Healthy Aging, Recommended By a Pharmacist - health.com",
-          "When the Nation’s Top Health Official Becomes the Outbreak’s Biggest Obstacle - Global Biodefense"
+          "UNK students ‘find their fit’ in health and physical education program - UNK NEWS",
+          "Arisa Health names new chief financial officer - Talk Business & Politics"
         ]
       },
       {
         "trend": "medical",
         "market_code": "ES",
         "category": "Europe Health",
-        "score": 18,
+        "score": 17,
         "examples": [
-          "Plans Announced for NYU Langone Health Medical Center in Melville, Long Island - New York YIMBY",
-          "As People With HIV Age, Who is the Best Medical Provider for Them? - Contagion Live",
-          "Former detainees with medical conditions detail fear of getting tuberculosis in Colorado ICE facility - NBC News"
+          "Peroxisome structure can help protect insulin and maintain beta cell health - Medical Xpress",
+          "Official Vuelta a España Medical Report Lists Possible Fracture, Head Injury for Tadej Pogačar - Outside Magazine",
+          "Murfreesboro police searching for missing woman who has ‘several medical conditions’ - WSMV"
         ]
       },
       {
@@ -701,8 +701,8 @@
         "category": "Outbreaks",
         "score": 16,
         "examples": [
-          "Ebola disease outbreak in the Democratic Republic of the Congo and Uganda - European Centre for Disease Prevention and Control (ECDC)",
           "When the Nation’s Top Health Official Becomes the Outbreak’s Biggest Obstacle - Global Biodefense",
+          "Rabies outbreak at North Carolina mobile petting zoo triggers health warning - WBTV",
           "When the Nation’s Top Health Official Becomes the Outbreak’s Biggest Obstacle - Global Biodefense"
         ]
       },
@@ -718,14 +718,14 @@
         ]
       },
       {
-        "trend": "infection",
+        "trend": "mental",
         "market_code": "ES",
-        "category": "Outbreaks",
-        "score": 10,
+        "category": "Mental Health",
+        "score": 9,
         "examples": [
-          "NC teen has rare brain infection likely caused by swimming. Where did exposure happen? Are you safe? - WRAL",
-          "Teen's rare brain infection prompts NC water safety warning - ABC11 News",
-          "NC teen has rare brain infection likely caused by swimming. Where did exposure happen? Are you safe? - WRAL"
+          "Will Meta settlement reduce physical, mental health risks for young users? - Harvard Gazette",
+          "One Of Linus Ullmark's Biggest Mental Health Supporters Opens Up About His Own Struggles - Yahoo Sports",
+          "Security Guard Says Ye’s Mental Health Irrelevant in Employment Trial - MyNewsLA.com"
         ]
       },
       {
@@ -740,14 +740,25 @@
         ]
       },
       {
-        "trend": "mental",
+        "trend": "warning",
         "market_code": "ES",
-        "category": "Mental Health",
+        "category": "Europe Health",
         "score": 8,
         "examples": [
-          "Will Meta settlement reduce physical, mental health risks for young users? - Harvard Gazette",
-          "One Of Linus Ullmark's Biggest Mental Health Supporters Opens Up About His Own Struggles - Yahoo Sports",
-          "New Mexico advocates push for stronger maternal mental health support amid Lindsay Clancy trial - KOB 4"
+          "Rabies outbreak at North Carolina mobile petting zoo triggers health warning - WBTV",
+          "Rabies outbreak at North Carolina mobile petting zoo triggers health warning - WBTV",
+          "Rabies outbreak at North Carolina mobile petting zoo triggers health warning - WBTV"
+        ]
+      },
+      {
+        "trend": "infection",
+        "market_code": "ES",
+        "category": "Outbreaks",
+        "score": 8,
+        "examples": [
+          "NC teen has rare brain infection likely caused by swimming. Where did exposure happen? Are you safe? - WRAL",
+          "Teen's rare brain infection prompts NC water safety warning - ABC11 News",
+          "NC teen has rare brain infection likely caused by swimming. Where did exposure happen? Are you safe? - WRAL"
         ]
       },
       {
@@ -758,7 +769,7 @@
         "examples": [
           "Will Meta settlement reduce physical, mental health risks for young users? - Harvard Gazette",
           "One Of Linus Ullmark's Biggest Mental Health Supporters Opens Up About His Own Struggles - Yahoo Sports",
-          "New Mexico advocates push for stronger maternal mental health support amid Lindsay Clancy trial - KOB 4"
+          "Security Guard Says Ye’s Mental Health Irrelevant in Employment Trial - MyNewsLA.com"
         ]
       },
       {
@@ -767,42 +778,31 @@
         "category": "Outbreaks",
         "score": 8,
         "examples": [
+          "Ebola disease caused by Bundibugyo virus - Democratic Republic of the Congo - World Health Organization (WHO)",
           "Scientists investigate if a herpes virus is behind the mass deaths of sardines off South Africa - ABC News - Breaking News, Latest News and Videos",
-          "First West Nile Virus Cases Reported in Suburban Cook County - Cook County Department of Public Health",
-          "VDH confirms 2 West Nile virus cases in VB residents - WAVY.com"
+          "Human case of West Nile virus detected in Allen Co. - WPTA | 21Alive | Fort Wayne, IN"
         ]
       },
       {
         "trend": "drug",
         "market_code": "ES",
         "category": "Drug & Treatment News",
-        "score": 8,
-        "examples": [
-          "Triple drug therapy could clear HIV in infected newborns - Drug Discovery News",
-          "Triple drug therapy could clear HIV in infected newborns - Drug Discovery News",
-          "F.D.A. Approves Drug Poised to Transform Care for Pancreatic Cancer - The New York Times"
-        ]
-      },
-      {
-        "trend": "measles",
-        "market_code": "ES",
-        "category": "Outbreaks",
         "score": 7,
         "examples": [
-          "Wisconsin measles outbreak puts Winona County on alert - KIMT",
-          "Measles cases continue to climb in Pennsylvania outbreak, as other states report new cases - CIDRAP",
-          "Almost 100 measles cases now tied to southwest Wisconsin outbreak - Milwaukee Journal Sentinel"
+          "Study Finds Dormant Viruses Reactivate During COVID-19 - Drug Topics",
+          "F.D.A. Approves Drug Poised to Transform Care for Pancreatic Cancer - The New York Times",
+          "New Targeted Drug Offers Hope in Pancreatic Cancer Treatment - University of Utah Health"
         ]
       },
       {
-        "trend": "wellness",
+        "trend": "public health",
         "market_code": "ES",
-        "category": "Diet & Wellness",
+        "category": "Europe Health",
         "score": 6,
         "examples": [
-          "Wellness stacking: why psychologists say it beats willpower for building healthy habits - Yahoo Creators",
-          "MCCTC Opens New Medical Wellness and Education Center - Business Journal Daily",
-          "FACTS FOR FAMILIES: Extension launches health and community wellness program - Journal Gazette & Times-Courier"
+          "Fossil Fuel Companies Worsen Water Crisis - Public Health Watch",
+          "‘Extremely high’ bacteria levels in Arkansas River after raw sewage spill, Colorado public health officials say - The Denver Post",
+          "Digital technologies reshape clinical research and public health - News-Medical"
         ]
       }
     ],
@@ -814,19 +814,19 @@
         "score": 67,
         "examples": [
           "Player status report, presented by Orlando Health: Orlando City SC at Minnesota United - Orlando City",
-          "8 Supplements for Women to Support Healthy Aging, Recommended By a Pharmacist - health.com",
-          "When the Nation’s Top Health Official Becomes the Outbreak’s Biggest Obstacle - Global Biodefense"
+          "UNK students ‘find their fit’ in health and physical education program - UNK NEWS",
+          "Arisa Health names new chief financial officer - Talk Business & Politics"
         ]
       },
       {
         "trend": "medical",
         "market_code": "SE",
         "category": "Europe Health",
-        "score": 18,
+        "score": 17,
         "examples": [
-          "Plans Announced for NYU Langone Health Medical Center in Melville, Long Island - New York YIMBY",
-          "As People With HIV Age, Who is the Best Medical Provider for Them? - Contagion Live",
-          "Former detainees with medical conditions detail fear of getting tuberculosis in Colorado ICE facility - NBC News"
+          "Peroxisome structure can help protect insulin and maintain beta cell health - Medical Xpress",
+          "Official Vuelta a España Medical Report Lists Possible Fracture, Head Injury for Tadej Pogačar - Outside Magazine",
+          "Murfreesboro police searching for missing woman who has ‘several medical conditions’ - WSMV"
         ]
       },
       {
@@ -835,8 +835,8 @@
         "category": "Outbreaks",
         "score": 16,
         "examples": [
-          "Ebola disease outbreak in the Democratic Republic of the Congo and Uganda - European Centre for Disease Prevention and Control (ECDC)",
           "When the Nation’s Top Health Official Becomes the Outbreak’s Biggest Obstacle - Global Biodefense",
+          "Rabies outbreak at North Carolina mobile petting zoo triggers health warning - WBTV",
           "When the Nation’s Top Health Official Becomes the Outbreak’s Biggest Obstacle - Global Biodefense"
         ]
       },
@@ -852,14 +852,14 @@
         ]
       },
       {
-        "trend": "infection",
+        "trend": "mental",
         "market_code": "SE",
-        "category": "Outbreaks",
-        "score": 10,
+        "category": "Mental Health",
+        "score": 9,
         "examples": [
-          "NC teen has rare brain infection likely caused by swimming. Where did exposure happen? Are you safe? - WRAL",
-          "Teen's rare brain infection prompts NC water safety warning - ABC11 News",
-          "NC teen has rare brain infection likely caused by swimming. Where did exposure happen? Are you safe? - WRAL"
+          "Will Meta settlement reduce physical, mental health risks for young users? - Harvard Gazette",
+          "One Of Linus Ullmark's Biggest Mental Health Supporters Opens Up About His Own Struggles - Yahoo Sports",
+          "Security Guard Says Ye’s Mental Health Irrelevant in Employment Trial - MyNewsLA.com"
         ]
       },
       {
@@ -874,14 +874,25 @@
         ]
       },
       {
-        "trend": "mental",
+        "trend": "warning",
         "market_code": "SE",
-        "category": "Mental Health",
+        "category": "Europe Health",
         "score": 8,
         "examples": [
-          "Will Meta settlement reduce physical, mental health risks for young users? - Harvard Gazette",
-          "One Of Linus Ullmark's Biggest Mental Health Supporters Opens Up About His Own Struggles - Yahoo Sports",
-          "New Mexico advocates push for stronger maternal mental health support amid Lindsay Clancy trial - KOB 4"
+          "Rabies outbreak at North Carolina mobile petting zoo triggers health warning - WBTV",
+          "Rabies outbreak at North Carolina mobile petting zoo triggers health warning - WBTV",
+          "Rabies outbreak at North Carolina mobile petting zoo triggers health warning - WBTV"
+        ]
+      },
+      {
+        "trend": "infection",
+        "market_code": "SE",
+        "category": "Outbreaks",
+        "score": 8,
+        "examples": [
+          "NC teen has rare brain infection likely caused by swimming. Where did exposure happen? Are you safe? - WRAL",
+          "Teen's rare brain infection prompts NC water safety warning - ABC11 News",
+          "NC teen has rare brain infection likely caused by swimming. Where did exposure happen? Are you safe? - WRAL"
         ]
       },
       {
@@ -892,7 +903,7 @@
         "examples": [
           "Will Meta settlement reduce physical, mental health risks for young users? - Harvard Gazette",
           "One Of Linus Ullmark's Biggest Mental Health Supporters Opens Up About His Own Struggles - Yahoo Sports",
-          "New Mexico advocates push for stronger maternal mental health support amid Lindsay Clancy trial - KOB 4"
+          "Security Guard Says Ye’s Mental Health Irrelevant in Employment Trial - MyNewsLA.com"
         ]
       },
       {
@@ -901,42 +912,31 @@
         "category": "Outbreaks",
         "score": 8,
         "examples": [
+          "Ebola disease caused by Bundibugyo virus - Democratic Republic of the Congo - World Health Organization (WHO)",
           "Scientists investigate if a herpes virus is behind the mass deaths of sardines off South Africa - ABC News - Breaking News, Latest News and Videos",
-          "First West Nile Virus Cases Reported in Suburban Cook County - Cook County Department of Public Health",
-          "VDH confirms 2 West Nile virus cases in VB residents - WAVY.com"
+          "Human case of West Nile virus detected in Allen Co. - WPTA | 21Alive | Fort Wayne, IN"
         ]
       },
       {
         "trend": "drug",
         "market_code": "SE",
         "category": "Drug & Treatment News",
-        "score": 8,
-        "examples": [
-          "Triple drug therapy could clear HIV in infected newborns - Drug Discovery News",
-          "Triple drug therapy could clear HIV in infected newborns - Drug Discovery News",
-          "F.D.A. Approves Drug Poised to Transform Care for Pancreatic Cancer - The New York Times"
-        ]
-      },
-      {
-        "trend": "measles",
-        "market_code": "SE",
-        "category": "Outbreaks",
         "score": 7,
         "examples": [
-          "Wisconsin measles outbreak puts Winona County on alert - KIMT",
-          "Measles cases continue to climb in Pennsylvania outbreak, as other states report new cases - CIDRAP",
-          "Almost 100 measles cases now tied to southwest Wisconsin outbreak - Milwaukee Journal Sentinel"
+          "Study Finds Dormant Viruses Reactivate During COVID-19 - Drug Topics",
+          "F.D.A. Approves Drug Poised to Transform Care for Pancreatic Cancer - The New York Times",
+          "New Targeted Drug Offers Hope in Pancreatic Cancer Treatment - University of Utah Health"
         ]
       },
       {
-        "trend": "wellness",
+        "trend": "public health",
         "market_code": "SE",
-        "category": "Diet & Wellness",
+        "category": "Europe Health",
         "score": 6,
         "examples": [
-          "Wellness stacking: why psychologists say it beats willpower for building healthy habits - Yahoo Creators",
-          "MCCTC Opens New Medical Wellness and Education Center - Business Journal Daily",
-          "FACTS FOR FAMILIES: Extension launches health and community wellness program - Journal Gazette & Times-Courier"
+          "Fossil Fuel Companies Worsen Water Crisis - Public Health Watch",
+          "‘Extremely high’ bacteria levels in Arkansas River after raw sewage spill, Colorado public health officials say - The Denver Post",
+          "Digital technologies reshape clinical research and public health - News-Medical"
         ]
       }
     ],
@@ -948,19 +948,19 @@
         "score": 67,
         "examples": [
           "Player status report, presented by Orlando Health: Orlando City SC at Minnesota United - Orlando City",
-          "8 Supplements for Women to Support Healthy Aging, Recommended By a Pharmacist - health.com",
-          "When the Nation’s Top Health Official Becomes the Outbreak’s Biggest Obstacle - Global Biodefense"
+          "UNK students ‘find their fit’ in health and physical education program - UNK NEWS",
+          "Arisa Health names new chief financial officer - Talk Business & Politics"
         ]
       },
       {
         "trend": "medical",
         "market_code": "NL",
         "category": "Europe Health",
-        "score": 18,
+        "score": 17,
         "examples": [
-          "Plans Announced for NYU Langone Health Medical Center in Melville, Long Island - New York YIMBY",
-          "As People With HIV Age, Who is the Best Medical Provider for Them? - Contagion Live",
-          "Former detainees with medical conditions detail fear of getting tuberculosis in Colorado ICE facility - NBC News"
+          "Peroxisome structure can help protect insulin and maintain beta cell health - Medical Xpress",
+          "Official Vuelta a España Medical Report Lists Possible Fracture, Head Injury for Tadej Pogačar - Outside Magazine",
+          "Murfreesboro police searching for missing woman who has ‘several medical conditions’ - WSMV"
         ]
       },
       {
@@ -969,8 +969,8 @@
         "category": "Outbreaks",
         "score": 16,
         "examples": [
-          "Ebola disease outbreak in the Democratic Republic of the Congo and Uganda - European Centre for Disease Prevention and Control (ECDC)",
           "When the Nation’s Top Health Official Becomes the Outbreak’s Biggest Obstacle - Global Biodefense",
+          "Rabies outbreak at North Carolina mobile petting zoo triggers health warning - WBTV",
           "When the Nation’s Top Health Official Becomes the Outbreak’s Biggest Obstacle - Global Biodefense"
         ]
       },
@@ -986,14 +986,14 @@
         ]
       },
       {
-        "trend": "infection",
+        "trend": "mental",
         "market_code": "NL",
-        "category": "Outbreaks",
-        "score": 10,
+        "category": "Mental Health",
+        "score": 9,
         "examples": [
-          "NC teen has rare brain infection likely caused by swimming. Where did exposure happen? Are you safe? - WRAL",
-          "Teen's rare brain infection prompts NC water safety warning - ABC11 News",
-          "NC teen has rare brain infection likely caused by swimming. Where did exposure happen? Are you safe? - WRAL"
+          "Will Meta settlement reduce physical, mental health risks for young users? - Harvard Gazette",
+          "One Of Linus Ullmark's Biggest Mental Health Supporters Opens Up About His Own Struggles - Yahoo Sports",
+          "Security Guard Says Ye’s Mental Health Irrelevant in Employment Trial - MyNewsLA.com"
         ]
       },
       {
@@ -1008,14 +1008,25 @@
         ]
       },
       {
-        "trend": "mental",
+        "trend": "warning",
         "market_code": "NL",
-        "category": "Mental Health",
+        "category": "Europe Health",
         "score": 8,
         "examples": [
-          "Will Meta settlement reduce physical, mental health risks for young users? - Harvard Gazette",
-          "One Of Linus Ullmark's Biggest Mental Health Supporters Opens Up About His Own Struggles - Yahoo Sports",
-          "New Mexico advocates push for stronger maternal mental health support amid Lindsay Clancy trial - KOB 4"
+          "Rabies outbreak at North Carolina mobile petting zoo triggers health warning - WBTV",
+          "Rabies outbreak at North Carolina mobile petting zoo triggers health warning - WBTV",
+          "Rabies outbreak at North Carolina mobile petting zoo triggers health warning - WBTV"
+        ]
+      },
+      {
+        "trend": "infection",
+        "market_code": "NL",
+        "category": "Outbreaks",
+        "score": 8,
+        "examples": [
+          "NC teen has rare brain infection likely caused by swimming. Where did exposure happen? Are you safe? - WRAL",
+          "Teen's rare brain infection prompts NC water safety warning - ABC11 News",
+          "NC teen has rare brain infection likely caused by swimming. Where did exposure happen? Are you safe? - WRAL"
         ]
       },
       {
@@ -1026,7 +1037,7 @@
         "examples": [
           "Will Meta settlement reduce physical, mental health risks for young users? - Harvard Gazette",
           "One Of Linus Ullmark's Biggest Mental Health Supporters Opens Up About His Own Struggles - Yahoo Sports",
-          "New Mexico advocates push for stronger maternal mental health support amid Lindsay Clancy trial - KOB 4"
+          "Security Guard Says Ye’s Mental Health Irrelevant in Employment Trial - MyNewsLA.com"
         ]
       },
       {
@@ -1035,42 +1046,31 @@
         "category": "Outbreaks",
         "score": 8,
         "examples": [
+          "Ebola disease caused by Bundibugyo virus - Democratic Republic of the Congo - World Health Organization (WHO)",
           "Scientists investigate if a herpes virus is behind the mass deaths of sardines off South Africa - ABC News - Breaking News, Latest News and Videos",
-          "First West Nile Virus Cases Reported in Suburban Cook County - Cook County Department of Public Health",
-          "VDH confirms 2 West Nile virus cases in VB residents - WAVY.com"
+          "Human case of West Nile virus detected in Allen Co. - WPTA | 21Alive | Fort Wayne, IN"
         ]
       },
       {
         "trend": "drug",
         "market_code": "NL",
         "category": "Drug & Treatment News",
-        "score": 8,
-        "examples": [
-          "Triple drug therapy could clear HIV in infected newborns - Drug Discovery News",
-          "Triple drug therapy could clear HIV in infected newborns - Drug Discovery News",
-          "F.D.A. Approves Drug Poised to Transform Care for Pancreatic Cancer - The New York Times"
-        ]
-      },
-      {
-        "trend": "measles",
-        "market_code": "NL",
-        "category": "Outbreaks",
         "score": 7,
         "examples": [
-          "Wisconsin measles outbreak puts Winona County on alert - KIMT",
-          "Measles cases continue to climb in Pennsylvania outbreak, as other states report new cases - CIDRAP",
-          "Almost 100 measles cases now tied to southwest Wisconsin outbreak - Milwaukee Journal Sentinel"
+          "Study Finds Dormant Viruses Reactivate During COVID-19 - Drug Topics",
+          "F.D.A. Approves Drug Poised to Transform Care for Pancreatic Cancer - The New York Times",
+          "New Targeted Drug Offers Hope in Pancreatic Cancer Treatment - University of Utah Health"
         ]
       },
       {
-        "trend": "wellness",
+        "trend": "public health",
         "market_code": "NL",
-        "category": "Diet & Wellness",
+        "category": "Europe Health",
         "score": 6,
         "examples": [
-          "Wellness stacking: why psychologists say it beats willpower for building healthy habits - Yahoo Creators",
-          "MCCTC Opens New Medical Wellness and Education Center - Business Journal Daily",
-          "FACTS FOR FAMILIES: Extension launches health and community wellness program - Journal Gazette & Times-Courier"
+          "Fossil Fuel Companies Worsen Water Crisis - Public Health Watch",
+          "‘Extremely high’ bacteria levels in Arkansas River after raw sewage spill, Colorado public health officials say - The Denver Post",
+          "Digital technologies reshape clinical research and public health - News-Medical"
         ]
       }
     ],
@@ -1082,19 +1082,19 @@
         "score": 67,
         "examples": [
           "Player status report, presented by Orlando Health: Orlando City SC at Minnesota United - Orlando City",
-          "8 Supplements for Women to Support Healthy Aging, Recommended By a Pharmacist - health.com",
-          "When the Nation’s Top Health Official Becomes the Outbreak’s Biggest Obstacle - Global Biodefense"
+          "UNK students ‘find their fit’ in health and physical education program - UNK NEWS",
+          "Arisa Health names new chief financial officer - Talk Business & Politics"
         ]
       },
       {
         "trend": "medical",
         "market_code": "FI",
         "category": "Europe Health",
-        "score": 18,
+        "score": 17,
         "examples": [
-          "Plans Announced for NYU Langone Health Medical Center in Melville, Long Island - New York YIMBY",
-          "As People With HIV Age, Who is the Best Medical Provider for Them? - Contagion Live",
-          "Former detainees with medical conditions detail fear of getting tuberculosis in Colorado ICE facility - NBC News"
+          "Peroxisome structure can help protect insulin and maintain beta cell health - Medical Xpress",
+          "Official Vuelta a España Medical Report Lists Possible Fracture, Head Injury for Tadej Pogačar - Outside Magazine",
+          "Murfreesboro police searching for missing woman who has ‘several medical conditions’ - WSMV"
         ]
       },
       {
@@ -1103,8 +1103,8 @@
         "category": "Outbreaks",
         "score": 16,
         "examples": [
-          "Ebola disease outbreak in the Democratic Republic of the Congo and Uganda - European Centre for Disease Prevention and Control (ECDC)",
           "When the Nation’s Top Health Official Becomes the Outbreak’s Biggest Obstacle - Global Biodefense",
+          "Rabies outbreak at North Carolina mobile petting zoo triggers health warning - WBTV",
           "When the Nation’s Top Health Official Becomes the Outbreak’s Biggest Obstacle - Global Biodefense"
         ]
       },
@@ -1120,14 +1120,14 @@
         ]
       },
       {
-        "trend": "infection",
+        "trend": "mental",
         "market_code": "FI",
-        "category": "Outbreaks",
-        "score": 10,
+        "category": "Mental Health",
+        "score": 9,
         "examples": [
-          "NC teen has rare brain infection likely caused by swimming. Where did exposure happen? Are you safe? - WRAL",
-          "Teen's rare brain infection prompts NC water safety warning - ABC11 News",
-          "NC teen has rare brain infection likely caused by swimming. Where did exposure happen? Are you safe? - WRAL"
+          "Will Meta settlement reduce physical, mental health risks for young users? - Harvard Gazette",
+          "One Of Linus Ullmark's Biggest Mental Health Supporters Opens Up About His Own Struggles - Yahoo Sports",
+          "Security Guard Says Ye’s Mental Health Irrelevant in Employment Trial - MyNewsLA.com"
         ]
       },
       {
@@ -1142,14 +1142,25 @@
         ]
       },
       {
-        "trend": "mental",
+        "trend": "warning",
         "market_code": "FI",
-        "category": "Mental Health",
+        "category": "Europe Health",
         "score": 8,
         "examples": [
-          "Will Meta settlement reduce physical, mental health risks for young users? - Harvard Gazette",
-          "One Of Linus Ullmark's Biggest Mental Health Supporters Opens Up About His Own Struggles - Yahoo Sports",
-          "New Mexico advocates push for stronger maternal mental health support amid Lindsay Clancy trial - KOB 4"
+          "Rabies outbreak at North Carolina mobile petting zoo triggers health warning - WBTV",
+          "Rabies outbreak at North Carolina mobile petting zoo triggers health warning - WBTV",
+          "Rabies outbreak at North Carolina mobile petting zoo triggers health warning - WBTV"
+        ]
+      },
+      {
+        "trend": "infection",
+        "market_code": "FI",
+        "category": "Outbreaks",
+        "score": 8,
+        "examples": [
+          "NC teen has rare brain infection likely caused by swimming. Where did exposure happen? Are you safe? - WRAL",
+          "Teen's rare brain infection prompts NC water safety warning - ABC11 News",
+          "NC teen has rare brain infection likely caused by swimming. Where did exposure happen? Are you safe? - WRAL"
         ]
       },
       {
@@ -1160,7 +1171,7 @@
         "examples": [
           "Will Meta settlement reduce physical, mental health risks for young users? - Harvard Gazette",
           "One Of Linus Ullmark's Biggest Mental Health Supporters Opens Up About His Own Struggles - Yahoo Sports",
-          "New Mexico advocates push for stronger maternal mental health support amid Lindsay Clancy trial - KOB 4"
+          "Security Guard Says Ye’s Mental Health Irrelevant in Employment Trial - MyNewsLA.com"
         ]
       },
       {
@@ -1169,42 +1180,31 @@
         "category": "Outbreaks",
         "score": 8,
         "examples": [
+          "Ebola disease caused by Bundibugyo virus - Democratic Republic of the Congo - World Health Organization (WHO)",
           "Scientists investigate if a herpes virus is behind the mass deaths of sardines off South Africa - ABC News - Breaking News, Latest News and Videos",
-          "First West Nile Virus Cases Reported in Suburban Cook County - Cook County Department of Public Health",
-          "VDH confirms 2 West Nile virus cases in VB residents - WAVY.com"
+          "Human case of West Nile virus detected in Allen Co. - WPTA | 21Alive | Fort Wayne, IN"
         ]
       },
       {
         "trend": "drug",
         "market_code": "FI",
         "category": "Drug & Treatment News",
-        "score": 8,
-        "examples": [
-          "Triple drug therapy could clear HIV in infected newborns - Drug Discovery News",
-          "Triple drug therapy could clear HIV in infected newborns - Drug Discovery News",
-          "F.D.A. Approves Drug Poised to Transform Care for Pancreatic Cancer - The New York Times"
-        ]
-      },
-      {
-        "trend": "measles",
-        "market_code": "FI",
-        "category": "Outbreaks",
         "score": 7,
         "examples": [
-          "Wisconsin measles outbreak puts Winona County on alert - KIMT",
-          "Measles cases continue to climb in Pennsylvania outbreak, as other states report new cases - CIDRAP",
-          "Almost 100 measles cases now tied to southwest Wisconsin outbreak - Milwaukee Journal Sentinel"
+          "Study Finds Dormant Viruses Reactivate During COVID-19 - Drug Topics",
+          "F.D.A. Approves Drug Poised to Transform Care for Pancreatic Cancer - The New York Times",
+          "New Targeted Drug Offers Hope in Pancreatic Cancer Treatment - University of Utah Health"
         ]
       },
       {
-        "trend": "wellness",
+        "trend": "public health",
         "market_code": "FI",
-        "category": "Diet & Wellness",
+        "category": "Europe Health",
         "score": 6,
         "examples": [
-          "Wellness stacking: why psychologists say it beats willpower for building healthy habits - Yahoo Creators",
-          "MCCTC Opens New Medical Wellness and Education Center - Business Journal Daily",
-          "FACTS FOR FAMILIES: Extension launches health and community wellness program - Journal Gazette & Times-Courier"
+          "Fossil Fuel Companies Worsen Water Crisis - Public Health Watch",
+          "‘Extremely high’ bacteria levels in Arkansas River after raw sewage spill, Colorado public health officials say - The Denver Post",
+          "Digital technologies reshape clinical research and public health - News-Medical"
         ]
       }
     ],
@@ -1216,19 +1216,19 @@
         "score": 67,
         "examples": [
           "Player status report, presented by Orlando Health: Orlando City SC at Minnesota United - Orlando City",
-          "8 Supplements for Women to Support Healthy Aging, Recommended By a Pharmacist - health.com",
-          "When the Nation’s Top Health Official Becomes the Outbreak’s Biggest Obstacle - Global Biodefense"
+          "UNK students ‘find their fit’ in health and physical education program - UNK NEWS",
+          "Arisa Health names new chief financial officer - Talk Business & Politics"
         ]
       },
       {
         "trend": "medical",
         "market_code": "NO",
         "category": "Europe Health",
-        "score": 18,
+        "score": 17,
         "examples": [
-          "Plans Announced for NYU Langone Health Medical Center in Melville, Long Island - New York YIMBY",
-          "As People With HIV Age, Who is the Best Medical Provider for Them? - Contagion Live",
-          "Former detainees with medical conditions detail fear of getting tuberculosis in Colorado ICE facility - NBC News"
+          "Peroxisome structure can help protect insulin and maintain beta cell health - Medical Xpress",
+          "Official Vuelta a España Medical Report Lists Possible Fracture, Head Injury for Tadej Pogačar - Outside Magazine",
+          "Murfreesboro police searching for missing woman who has ‘several medical conditions’ - WSMV"
         ]
       },
       {
@@ -1237,8 +1237,8 @@
         "category": "Outbreaks",
         "score": 16,
         "examples": [
-          "Ebola disease outbreak in the Democratic Republic of the Congo and Uganda - European Centre for Disease Prevention and Control (ECDC)",
           "When the Nation’s Top Health Official Becomes the Outbreak’s Biggest Obstacle - Global Biodefense",
+          "Rabies outbreak at North Carolina mobile petting zoo triggers health warning - WBTV",
           "When the Nation’s Top Health Official Becomes the Outbreak’s Biggest Obstacle - Global Biodefense"
         ]
       },
@@ -1254,14 +1254,14 @@
         ]
       },
       {
-        "trend": "infection",
+        "trend": "mental",
         "market_code": "NO",
-        "category": "Outbreaks",
-        "score": 10,
+        "category": "Mental Health",
+        "score": 9,
         "examples": [
-          "NC teen has rare brain infection likely caused by swimming. Where did exposure happen? Are you safe? - WRAL",
-          "Teen's rare brain infection prompts NC water safety warning - ABC11 News",
-          "NC teen has rare brain infection likely caused by swimming. Where did exposure happen? Are you safe? - WRAL"
+          "Will Meta settlement reduce physical, mental health risks for young users? - Harvard Gazette",
+          "One Of Linus Ullmark's Biggest Mental Health Supporters Opens Up About His Own Struggles - Yahoo Sports",
+          "Security Guard Says Ye’s Mental Health Irrelevant in Employment Trial - MyNewsLA.com"
         ]
       },
       {
@@ -1276,14 +1276,25 @@
         ]
       },
       {
-        "trend": "mental",
+        "trend": "warning",
         "market_code": "NO",
-        "category": "Mental Health",
+        "category": "Europe Health",
         "score": 8,
         "examples": [
-          "Will Meta settlement reduce physical, mental health risks for young users? - Harvard Gazette",
-          "One Of Linus Ullmark's Biggest Mental Health Supporters Opens Up About His Own Struggles - Yahoo Sports",
-          "New Mexico advocates push for stronger maternal mental health support amid Lindsay Clancy trial - KOB 4"
+          "Rabies outbreak at North Carolina mobile petting zoo triggers health warning - WBTV",
+          "Rabies outbreak at North Carolina mobile petting zoo triggers health warning - WBTV",
+          "Rabies outbreak at North Carolina mobile petting zoo triggers health warning - WBTV"
+        ]
+      },
+      {
+        "trend": "infection",
+        "market_code": "NO",
+        "category": "Outbreaks",
+        "score": 8,
+        "examples": [
+          "NC teen has rare brain infection likely caused by swimming. Where did exposure happen? Are you safe? - WRAL",
+          "Teen's rare brain infection prompts NC water safety warning - ABC11 News",
+          "NC teen has rare brain infection likely caused by swimming. Where did exposure happen? Are you safe? - WRAL"
         ]
       },
       {
@@ -1294,7 +1305,7 @@
         "examples": [
           "Will Meta settlement reduce physical, mental health risks for young users? - Harvard Gazette",
           "One Of Linus Ullmark's Biggest Mental Health Supporters Opens Up About His Own Struggles - Yahoo Sports",
-          "New Mexico advocates push for stronger maternal mental health support amid Lindsay Clancy trial - KOB 4"
+          "Security Guard Says Ye’s Mental Health Irrelevant in Employment Trial - MyNewsLA.com"
         ]
       },
       {
@@ -1303,42 +1314,31 @@
         "category": "Outbreaks",
         "score": 8,
         "examples": [
+          "Ebola disease caused by Bundibugyo virus - Democratic Republic of the Congo - World Health Organization (WHO)",
           "Scientists investigate if a herpes virus is behind the mass deaths of sardines off South Africa - ABC News - Breaking News, Latest News and Videos",
-          "First West Nile Virus Cases Reported in Suburban Cook County - Cook County Department of Public Health",
-          "VDH confirms 2 West Nile virus cases in VB residents - WAVY.com"
+          "Human case of West Nile virus detected in Allen Co. - WPTA | 21Alive | Fort Wayne, IN"
         ]
       },
       {
         "trend": "drug",
         "market_code": "NO",
         "category": "Drug & Treatment News",
-        "score": 8,
-        "examples": [
-          "Triple drug therapy could clear HIV in infected newborns - Drug Discovery News",
-          "Triple drug therapy could clear HIV in infected newborns - Drug Discovery News",
-          "F.D.A. Approves Drug Poised to Transform Care for Pancreatic Cancer - The New York Times"
-        ]
-      },
-      {
-        "trend": "measles",
-        "market_code": "NO",
-        "category": "Outbreaks",
         "score": 7,
         "examples": [
-          "Wisconsin measles outbreak puts Winona County on alert - KIMT",
-          "Measles cases continue to climb in Pennsylvania outbreak, as other states report new cases - CIDRAP",
-          "Almost 100 measles cases now tied to southwest Wisconsin outbreak - Milwaukee Journal Sentinel"
+          "Study Finds Dormant Viruses Reactivate During COVID-19 - Drug Topics",
+          "F.D.A. Approves Drug Poised to Transform Care for Pancreatic Cancer - The New York Times",
+          "New Targeted Drug Offers Hope in Pancreatic Cancer Treatment - University of Utah Health"
         ]
       },
       {
-        "trend": "wellness",
+        "trend": "public health",
         "market_code": "NO",
-        "category": "Diet & Wellness",
+        "category": "Europe Health",
         "score": 6,
         "examples": [
-          "Wellness stacking: why psychologists say it beats willpower for building healthy habits - Yahoo Creators",
-          "MCCTC Opens New Medical Wellness and Education Center - Business Journal Daily",
-          "FACTS FOR FAMILIES: Extension launches health and community wellness program - Journal Gazette & Times-Courier"
+          "Fossil Fuel Companies Worsen Water Crisis - Public Health Watch",
+          "‘Extremely high’ bacteria levels in Arkansas River after raw sewage spill, Colorado public health officials say - The Denver Post",
+          "Digital technologies reshape clinical research and public health - News-Medical"
         ]
       }
     ],
@@ -1350,19 +1350,19 @@
         "score": 67,
         "examples": [
           "Player status report, presented by Orlando Health: Orlando City SC at Minnesota United - Orlando City",
-          "8 Supplements for Women to Support Healthy Aging, Recommended By a Pharmacist - health.com",
-          "When the Nation’s Top Health Official Becomes the Outbreak’s Biggest Obstacle - Global Biodefense"
+          "UNK students ‘find their fit’ in health and physical education program - UNK NEWS",
+          "Arisa Health names new chief financial officer - Talk Business & Politics"
         ]
       },
       {
         "trend": "medical",
         "market_code": "JP",
         "category": "Asia Health",
-        "score": 18,
+        "score": 17,
         "examples": [
-          "Plans Announced for NYU Langone Health Medical Center in Melville, Long Island - New York YIMBY",
-          "As People With HIV Age, Who is the Best Medical Provider for Them? - Contagion Live",
-          "Former detainees with medical conditions detail fear of getting tuberculosis in Colorado ICE facility - NBC News"
+          "Peroxisome structure can help protect insulin and maintain beta cell health - Medical Xpress",
+          "Official Vuelta a España Medical Report Lists Possible Fracture, Head Injury for Tadej Pogačar - Outside Magazine",
+          "Murfreesboro police searching for missing woman who has ‘several medical conditions’ - WSMV"
         ]
       },
       {
@@ -1371,8 +1371,8 @@
         "category": "Outbreaks",
         "score": 16,
         "examples": [
-          "Ebola disease outbreak in the Democratic Republic of the Congo and Uganda - European Centre for Disease Prevention and Control (ECDC)",
           "When the Nation’s Top Health Official Becomes the Outbreak’s Biggest Obstacle - Global Biodefense",
+          "Rabies outbreak at North Carolina mobile petting zoo triggers health warning - WBTV",
           "When the Nation’s Top Health Official Becomes the Outbreak’s Biggest Obstacle - Global Biodefense"
         ]
       },
@@ -1388,14 +1388,14 @@
         ]
       },
       {
-        "trend": "infection",
+        "trend": "mental",
         "market_code": "JP",
-        "category": "Outbreaks",
-        "score": 10,
+        "category": "Mental Health",
+        "score": 9,
         "examples": [
-          "NC teen has rare brain infection likely caused by swimming. Where did exposure happen? Are you safe? - WRAL",
-          "Teen's rare brain infection prompts NC water safety warning - ABC11 News",
-          "NC teen has rare brain infection likely caused by swimming. Where did exposure happen? Are you safe? - WRAL"
+          "Will Meta settlement reduce physical, mental health risks for young users? - Harvard Gazette",
+          "One Of Linus Ullmark's Biggest Mental Health Supporters Opens Up About His Own Struggles - Yahoo Sports",
+          "Security Guard Says Ye’s Mental Health Irrelevant in Employment Trial - MyNewsLA.com"
         ]
       },
       {
@@ -1410,14 +1410,25 @@
         ]
       },
       {
-        "trend": "mental",
+        "trend": "warning",
         "market_code": "JP",
-        "category": "Mental Health",
+        "category": "Asia Health",
         "score": 8,
         "examples": [
-          "Will Meta settlement reduce physical, mental health risks for young users? - Harvard Gazette",
-          "One Of Linus Ullmark's Biggest Mental Health Supporters Opens Up About His Own Struggles - Yahoo Sports",
-          "New Mexico advocates push for stronger maternal mental health support amid Lindsay Clancy trial - KOB 4"
+          "Rabies outbreak at North Carolina mobile petting zoo triggers health warning - WBTV",
+          "Rabies outbreak at North Carolina mobile petting zoo triggers health warning - WBTV",
+          "Rabies outbreak at North Carolina mobile petting zoo triggers health warning - WBTV"
+        ]
+      },
+      {
+        "trend": "infection",
+        "market_code": "JP",
+        "category": "Outbreaks",
+        "score": 8,
+        "examples": [
+          "NC teen has rare brain infection likely caused by swimming. Where did exposure happen? Are you safe? - WRAL",
+          "Teen's rare brain infection prompts NC water safety warning - ABC11 News",
+          "NC teen has rare brain infection likely caused by swimming. Where did exposure happen? Are you safe? - WRAL"
         ]
       },
       {
@@ -1428,7 +1439,7 @@
         "examples": [
           "Will Meta settlement reduce physical, mental health risks for young users? - Harvard Gazette",
           "One Of Linus Ullmark's Biggest Mental Health Supporters Opens Up About His Own Struggles - Yahoo Sports",
-          "New Mexico advocates push for stronger maternal mental health support amid Lindsay Clancy trial - KOB 4"
+          "Security Guard Says Ye’s Mental Health Irrelevant in Employment Trial - MyNewsLA.com"
         ]
       },
       {
@@ -1437,42 +1448,31 @@
         "category": "Outbreaks",
         "score": 8,
         "examples": [
+          "Ebola disease caused by Bundibugyo virus - Democratic Republic of the Congo - World Health Organization (WHO)",
           "Scientists investigate if a herpes virus is behind the mass deaths of sardines off South Africa - ABC News - Breaking News, Latest News and Videos",
-          "First West Nile Virus Cases Reported in Suburban Cook County - Cook County Department of Public Health",
-          "VDH confirms 2 West Nile virus cases in VB residents - WAVY.com"
+          "Human case of West Nile virus detected in Allen Co. - WPTA | 21Alive | Fort Wayne, IN"
         ]
       },
       {
         "trend": "drug",
         "market_code": "JP",
         "category": "Drug & Treatment News",
-        "score": 8,
-        "examples": [
-          "Triple drug therapy could clear HIV in infected newborns - Drug Discovery News",
-          "Triple drug therapy could clear HIV in infected newborns - Drug Discovery News",
-          "F.D.A. Approves Drug Poised to Transform Care for Pancreatic Cancer - The New York Times"
-        ]
-      },
-      {
-        "trend": "measles",
-        "market_code": "JP",
-        "category": "Outbreaks",
         "score": 7,
         "examples": [
-          "Wisconsin measles outbreak puts Winona County on alert - KIMT",
-          "Measles cases continue to climb in Pennsylvania outbreak, as other states report new cases - CIDRAP",
-          "Almost 100 measles cases now tied to southwest Wisconsin outbreak - Milwaukee Journal Sentinel"
+          "Study Finds Dormant Viruses Reactivate During COVID-19 - Drug Topics",
+          "F.D.A. Approves Drug Poised to Transform Care for Pancreatic Cancer - The New York Times",
+          "New Targeted Drug Offers Hope in Pancreatic Cancer Treatment - University of Utah Health"
         ]
       },
       {
-        "trend": "wellness",
+        "trend": "public health",
         "market_code": "JP",
-        "category": "Diet & Wellness",
+        "category": "Asia Health",
         "score": 6,
         "examples": [
-          "Wellness stacking: why psychologists say it beats willpower for building healthy habits - Yahoo Creators",
-          "MCCTC Opens New Medical Wellness and Education Center - Business Journal Daily",
-          "FACTS FOR FAMILIES: Extension launches health and community wellness program - Journal Gazette & Times-Courier"
+          "Fossil Fuel Companies Worsen Water Crisis - Public Health Watch",
+          "‘Extremely high’ bacteria levels in Arkansas River after raw sewage spill, Colorado public health officials say - The Denver Post",
+          "Digital technologies reshape clinical research and public health - News-Medical"
         ]
       }
     ],
@@ -1484,19 +1484,19 @@
         "score": 67,
         "examples": [
           "Player status report, presented by Orlando Health: Orlando City SC at Minnesota United - Orlando City",
-          "8 Supplements for Women to Support Healthy Aging, Recommended By a Pharmacist - health.com",
-          "When the Nation’s Top Health Official Becomes the Outbreak’s Biggest Obstacle - Global Biodefense"
+          "UNK students ‘find their fit’ in health and physical education program - UNK NEWS",
+          "Arisa Health names new chief financial officer - Talk Business & Politics"
         ]
       },
       {
         "trend": "medical",
         "market_code": "CN",
         "category": "Asia Health",
-        "score": 18,
+        "score": 17,
         "examples": [
-          "Plans Announced for NYU Langone Health Medical Center in Melville, Long Island - New York YIMBY",
-          "As People With HIV Age, Who is the Best Medical Provider for Them? - Contagion Live",
-          "Former detainees with medical conditions detail fear of getting tuberculosis in Colorado ICE facility - NBC News"
+          "Peroxisome structure can help protect insulin and maintain beta cell health - Medical Xpress",
+          "Official Vuelta a España Medical Report Lists Possible Fracture, Head Injury for Tadej Pogačar - Outside Magazine",
+          "Murfreesboro police searching for missing woman who has ‘several medical conditions’ - WSMV"
         ]
       },
       {
@@ -1505,8 +1505,8 @@
         "category": "Outbreaks",
         "score": 16,
         "examples": [
-          "Ebola disease outbreak in the Democratic Republic of the Congo and Uganda - European Centre for Disease Prevention and Control (ECDC)",
           "When the Nation’s Top Health Official Becomes the Outbreak’s Biggest Obstacle - Global Biodefense",
+          "Rabies outbreak at North Carolina mobile petting zoo triggers health warning - WBTV",
           "When the Nation’s Top Health Official Becomes the Outbreak’s Biggest Obstacle - Global Biodefense"
         ]
       },
@@ -1522,14 +1522,14 @@
         ]
       },
       {
-        "trend": "infection",
+        "trend": "mental",
         "market_code": "CN",
-        "category": "Outbreaks",
-        "score": 10,
+        "category": "Mental Health",
+        "score": 9,
         "examples": [
-          "NC teen has rare brain infection likely caused by swimming. Where did exposure happen? Are you safe? - WRAL",
-          "Teen's rare brain infection prompts NC water safety warning - ABC11 News",
-          "NC teen has rare brain infection likely caused by swimming. Where did exposure happen? Are you safe? - WRAL"
+          "Will Meta settlement reduce physical, mental health risks for young users? - Harvard Gazette",
+          "One Of Linus Ullmark's Biggest Mental Health Supporters Opens Up About His Own Struggles - Yahoo Sports",
+          "Security Guard Says Ye’s Mental Health Irrelevant in Employment Trial - MyNewsLA.com"
         ]
       },
       {
@@ -1544,14 +1544,25 @@
         ]
       },
       {
-        "trend": "mental",
+        "trend": "warning",
         "market_code": "CN",
-        "category": "Mental Health",
+        "category": "Asia Health",
         "score": 8,
         "examples": [
-          "Will Meta settlement reduce physical, mental health risks for young users? - Harvard Gazette",
-          "One Of Linus Ullmark's Biggest Mental Health Supporters Opens Up About His Own Struggles - Yahoo Sports",
-          "New Mexico advocates push for stronger maternal mental health support amid Lindsay Clancy trial - KOB 4"
+          "Rabies outbreak at North Carolina mobile petting zoo triggers health warning - WBTV",
+          "Rabies outbreak at North Carolina mobile petting zoo triggers health warning - WBTV",
+          "Rabies outbreak at North Carolina mobile petting zoo triggers health warning - WBTV"
+        ]
+      },
+      {
+        "trend": "infection",
+        "market_code": "CN",
+        "category": "Outbreaks",
+        "score": 8,
+        "examples": [
+          "NC teen has rare brain infection likely caused by swimming. Where did exposure happen? Are you safe? - WRAL",
+          "Teen's rare brain infection prompts NC water safety warning - ABC11 News",
+          "NC teen has rare brain infection likely caused by swimming. Where did exposure happen? Are you safe? - WRAL"
         ]
       },
       {
@@ -1562,7 +1573,7 @@
         "examples": [
           "Will Meta settlement reduce physical, mental health risks for young users? - Harvard Gazette",
           "One Of Linus Ullmark's Biggest Mental Health Supporters Opens Up About His Own Struggles - Yahoo Sports",
-          "New Mexico advocates push for stronger maternal mental health support amid Lindsay Clancy trial - KOB 4"
+          "Security Guard Says Ye’s Mental Health Irrelevant in Employment Trial - MyNewsLA.com"
         ]
       },
       {
@@ -1571,42 +1582,31 @@
         "category": "Outbreaks",
         "score": 8,
         "examples": [
+          "Ebola disease caused by Bundibugyo virus - Democratic Republic of the Congo - World Health Organization (WHO)",
           "Scientists investigate if a herpes virus is behind the mass deaths of sardines off South Africa - ABC News - Breaking News, Latest News and Videos",
-          "First West Nile Virus Cases Reported in Suburban Cook County - Cook County Department of Public Health",
-          "VDH confirms 2 West Nile virus cases in VB residents - WAVY.com"
+          "Human case of West Nile virus detected in Allen Co. - WPTA | 21Alive | Fort Wayne, IN"
         ]
       },
       {
         "trend": "drug",
         "market_code": "CN",
         "category": "Drug & Treatment News",
-        "score": 8,
-        "examples": [
-          "Triple drug therapy could clear HIV in infected newborns - Drug Discovery News",
-          "Triple drug therapy could clear HIV in infected newborns - Drug Discovery News",
-          "F.D.A. Approves Drug Poised to Transform Care for Pancreatic Cancer - The New York Times"
-        ]
-      },
-      {
-        "trend": "measles",
-        "market_code": "CN",
-        "category": "Outbreaks",
         "score": 7,
         "examples": [
-          "Wisconsin measles outbreak puts Winona County on alert - KIMT",
-          "Measles cases continue to climb in Pennsylvania outbreak, as other states report new cases - CIDRAP",
-          "Almost 100 measles cases now tied to southwest Wisconsin outbreak - Milwaukee Journal Sentinel"
+          "Study Finds Dormant Viruses Reactivate During COVID-19 - Drug Topics",
+          "F.D.A. Approves Drug Poised to Transform Care for Pancreatic Cancer - The New York Times",
+          "New Targeted Drug Offers Hope in Pancreatic Cancer Treatment - University of Utah Health"
         ]
       },
       {
-        "trend": "wellness",
+        "trend": "public health",
         "market_code": "CN",
-        "category": "Diet & Wellness",
+        "category": "Asia Health",
         "score": 6,
         "examples": [
-          "Wellness stacking: why psychologists say it beats willpower for building healthy habits - Yahoo Creators",
-          "MCCTC Opens New Medical Wellness and Education Center - Business Journal Daily",
-          "FACTS FOR FAMILIES: Extension launches health and community wellness program - Journal Gazette & Times-Courier"
+          "Fossil Fuel Companies Worsen Water Crisis - Public Health Watch",
+          "‘Extremely high’ bacteria levels in Arkansas River after raw sewage spill, Colorado public health officials say - The Denver Post",
+          "Digital technologies reshape clinical research and public health - News-Medical"
         ]
       }
     ],
@@ -1618,19 +1618,19 @@
         "score": 67,
         "examples": [
           "Player status report, presented by Orlando Health: Orlando City SC at Minnesota United - Orlando City",
-          "8 Supplements for Women to Support Healthy Aging, Recommended By a Pharmacist - health.com",
-          "When the Nation’s Top Health Official Becomes the Outbreak’s Biggest Obstacle - Global Biodefense"
+          "UNK students ‘find their fit’ in health and physical education program - UNK NEWS",
+          "Arisa Health names new chief financial officer - Talk Business & Politics"
         ]
       },
       {
         "trend": "medical",
         "market_code": "KR",
         "category": "Asia Health",
-        "score": 18,
+        "score": 17,
         "examples": [
-          "Plans Announced for NYU Langone Health Medical Center in Melville, Long Island - New York YIMBY",
-          "As People With HIV Age, Who is the Best Medical Provider for Them? - Contagion Live",
-          "Former detainees with medical conditions detail fear of getting tuberculosis in Colorado ICE facility - NBC News"
+          "Peroxisome structure can help protect insulin and maintain beta cell health - Medical Xpress",
+          "Official Vuelta a España Medical Report Lists Possible Fracture, Head Injury for Tadej Pogačar - Outside Magazine",
+          "Murfreesboro police searching for missing woman who has ‘several medical conditions’ - WSMV"
         ]
       },
       {
@@ -1639,8 +1639,8 @@
         "category": "Outbreaks",
         "score": 16,
         "examples": [
-          "Ebola disease outbreak in the Democratic Republic of the Congo and Uganda - European Centre for Disease Prevention and Control (ECDC)",
           "When the Nation’s Top Health Official Becomes the Outbreak’s Biggest Obstacle - Global Biodefense",
+          "Rabies outbreak at North Carolina mobile petting zoo triggers health warning - WBTV",
           "When the Nation’s Top Health Official Becomes the Outbreak’s Biggest Obstacle - Global Biodefense"
         ]
       },
@@ -1656,14 +1656,14 @@
         ]
       },
       {
-        "trend": "infection",
+        "trend": "mental",
         "market_code": "KR",
-        "category": "Outbreaks",
-        "score": 10,
+        "category": "Mental Health",
+        "score": 9,
         "examples": [
-          "NC teen has rare brain infection likely caused by swimming. Where did exposure happen? Are you safe? - WRAL",
-          "Teen's rare brain infection prompts NC water safety warning - ABC11 News",
-          "NC teen has rare brain infection likely caused by swimming. Where did exposure happen? Are you safe? - WRAL"
+          "Will Meta settlement reduce physical, mental health risks for young users? - Harvard Gazette",
+          "One Of Linus Ullmark's Biggest Mental Health Supporters Opens Up About His Own Struggles - Yahoo Sports",
+          "Security Guard Says Ye’s Mental Health Irrelevant in Employment Trial - MyNewsLA.com"
         ]
       },
       {
@@ -1678,14 +1678,25 @@
         ]
       },
       {
-        "trend": "mental",
+        "trend": "warning",
         "market_code": "KR",
-        "category": "Mental Health",
+        "category": "Asia Health",
         "score": 8,
         "examples": [
-          "Will Meta settlement reduce physical, mental health risks for young users? - Harvard Gazette",
-          "One Of Linus Ullmark's Biggest Mental Health Supporters Opens Up About His Own Struggles - Yahoo Sports",
-          "New Mexico advocates push for stronger maternal mental health support amid Lindsay Clancy trial - KOB 4"
+          "Rabies outbreak at North Carolina mobile petting zoo triggers health warning - WBTV",
+          "Rabies outbreak at North Carolina mobile petting zoo triggers health warning - WBTV",
+          "Rabies outbreak at North Carolina mobile petting zoo triggers health warning - WBTV"
+        ]
+      },
+      {
+        "trend": "infection",
+        "market_code": "KR",
+        "category": "Outbreaks",
+        "score": 8,
+        "examples": [
+          "NC teen has rare brain infection likely caused by swimming. Where did exposure happen? Are you safe? - WRAL",
+          "Teen's rare brain infection prompts NC water safety warning - ABC11 News",
+          "NC teen has rare brain infection likely caused by swimming. Where did exposure happen? Are you safe? - WRAL"
         ]
       },
       {
@@ -1696,7 +1707,7 @@
         "examples": [
           "Will Meta settlement reduce physical, mental health risks for young users? - Harvard Gazette",
           "One Of Linus Ullmark's Biggest Mental Health Supporters Opens Up About His Own Struggles - Yahoo Sports",
-          "New Mexico advocates push for stronger maternal mental health support amid Lindsay Clancy trial - KOB 4"
+          "Security Guard Says Ye’s Mental Health Irrelevant in Employment Trial - MyNewsLA.com"
         ]
       },
       {
@@ -1705,42 +1716,31 @@
         "category": "Outbreaks",
         "score": 8,
         "examples": [
+          "Ebola disease caused by Bundibugyo virus - Democratic Republic of the Congo - World Health Organization (WHO)",
           "Scientists investigate if a herpes virus is behind the mass deaths of sardines off South Africa - ABC News - Breaking News, Latest News and Videos",
-          "First West Nile Virus Cases Reported in Suburban Cook County - Cook County Department of Public Health",
-          "VDH confirms 2 West Nile virus cases in VB residents - WAVY.com"
+          "Human case of West Nile virus detected in Allen Co. - WPTA | 21Alive | Fort Wayne, IN"
         ]
       },
       {
         "trend": "drug",
         "market_code": "KR",
         "category": "Drug & Treatment News",
-        "score": 8,
-        "examples": [
-          "Triple drug therapy could clear HIV in infected newborns - Drug Discovery News",
-          "Triple drug therapy could clear HIV in infected newborns - Drug Discovery News",
-          "F.D.A. Approves Drug Poised to Transform Care for Pancreatic Cancer - The New York Times"
-        ]
-      },
-      {
-        "trend": "measles",
-        "market_code": "KR",
-        "category": "Outbreaks",
         "score": 7,
         "examples": [
-          "Wisconsin measles outbreak puts Winona County on alert - KIMT",
-          "Measles cases continue to climb in Pennsylvania outbreak, as other states report new cases - CIDRAP",
-          "Almost 100 measles cases now tied to southwest Wisconsin outbreak - Milwaukee Journal Sentinel"
+          "Study Finds Dormant Viruses Reactivate During COVID-19 - Drug Topics",
+          "F.D.A. Approves Drug Poised to Transform Care for Pancreatic Cancer - The New York Times",
+          "New Targeted Drug Offers Hope in Pancreatic Cancer Treatment - University of Utah Health"
         ]
       },
       {
-        "trend": "wellness",
+        "trend": "public health",
         "market_code": "KR",
-        "category": "Diet & Wellness",
+        "category": "Asia Health",
         "score": 6,
         "examples": [
-          "Wellness stacking: why psychologists say it beats willpower for building healthy habits - Yahoo Creators",
-          "MCCTC Opens New Medical Wellness and Education Center - Business Journal Daily",
-          "FACTS FOR FAMILIES: Extension launches health and community wellness program - Journal Gazette & Times-Courier"
+          "Fossil Fuel Companies Worsen Water Crisis - Public Health Watch",
+          "‘Extremely high’ bacteria levels in Arkansas River after raw sewage spill, Colorado public health officials say - The Denver Post",
+          "Digital technologies reshape clinical research and public health - News-Medical"
         ]
       }
     ],
@@ -1749,11 +1749,22 @@
         "trend": "health",
         "market_code": "IN",
         "category": "Asia Health",
-        "score": 59,
+        "score": 56,
         "examples": [
           "IRDAI panel calls for simpler, transparent, easier-to-use health covers - The Hindu",
-          "Integrated pollution and carbon mitigation delivers major health and economic cobenefits in China - Climate and Clean Air Coalition (CCAC)",
-          "Health Bulletin 29/August/2026 - Medical Dialogues"
+          "Sakeena calls for public-private health partnerships - Rising Kashmir",
+          "Javed Miandad and Moin Khan express concern over Imran Khan's health - Cricinfo"
+        ]
+      },
+      {
+        "trend": "medical",
+        "market_code": "IN",
+        "category": "Asia Health",
+        "score": 19,
+        "examples": [
+          "Andhra Pradesh government notifies interim fee structure for private medical, dental colleges - The Hindu",
+          "Army holds free medical camp in Langate - Rising Kashmir",
+          "Modern medicine: Top medical innovations - Medical News Today"
         ]
       },
       {
@@ -1762,42 +1773,20 @@
         "category": "Asia Health",
         "score": 17,
         "examples": [
-          "India does not need more private healthcare; it needs better healthcare - The Times of India",
-          "India does not need more private healthcare; it needs better healthcare - The Times of India",
-          "Nadda Reviews Health Budget Projects, 160 District Hospitals Set For Upgrade By March 2027 - BW Healthcare World"
-        ]
-      },
-      {
-        "trend": "medical",
-        "market_code": "IN",
-        "category": "Asia Health",
-        "score": 15,
-        "examples": [
-          "Health Bulletin 29/August/2026 - Medical Dialogues",
-          "Govt. to ensure equal priority for all medical systems: Kerala Health Minister - The Hindu",
-          "Bradley Barcola due for medical as Liverpool finalise £123m deal for winger - The Guardian"
+          "Linking Healthcare Quality and Knowledge Management in Traditional and Ethnomedicine-Oriented Hospitals: A Scoping Review and Implementation Framework - Cureus",
+          "Nadda Reviews Health Budget Projects, 160 District Hospitals Set For Upgrade By March 2027 - BW Healthcare World",
+          "Linking Healthcare Quality and Knowledge Management in Traditional and Ethnomedicine-Oriented Hospitals: A Scoping Review and Implementation Framework - Cureus"
         ]
       },
       {
         "trend": "cancer",
         "market_code": "IN",
         "category": "Chronic Disease",
-        "score": 12,
+        "score": 13,
         "examples": [
+          "Union Health Minister JP Nadda Reaffirms India’s Commitment to Eliminate Cervical Cancer - News On AIR",
           "MutAIverse Could Open New Business Frontier In AI-Powered Cancer Research - BW Healthcare World",
-          "From hostile territory to safe home: how lymph nodes evolve during M. tuberculosis infection - Fred Hutchinson Cancer Center",
-          "MutAIverse Could Open New Business Frontier In AI-Powered Cancer Research - BW Healthcare World"
-        ]
-      },
-      {
-        "trend": "outbreak",
-        "market_code": "IN",
-        "category": "Outbreaks",
-        "score": 11,
-        "examples": [
-          "Ebola disease outbreak in the Democratic Republic of the Congo and Uganda - European Centre for Disease Prevention and Control (ECDC)",
-          "'Everyone is at risk...Children in my constituency are dying' - Prof. Usman raises alarm over Diphtheria outbreak Watch full interview: https://youtu.be/iTfgjgoAjjk #trusttvnews #diphtheria #diseaseoutbreak - instagram.com",
-          "Ebola disease outbreak in the Democratic Republic of the Congo and Uganda - European Centre for Disease Prevention and Control (ECDC)"
+          "From hostile territory to safe home: how lymph nodes evolve during M. tuberculosis infection - Fred Hutchinson Cancer Center"
         ]
       },
       {
@@ -1807,30 +1796,41 @@
         "score": 10,
         "examples": [
           "FSSAI to introduce red warning labels on chips, sugary drinks and packaged foods - The Indian Express",
-          "Remember Swine Flu? The Virus That Once Shut Schools Is Back. Doctors Have a New Warning - Open Magazine",
-          "India proposes front-of-pack warning labels for packaged foods after public outcry - ET HealthWorld"
+          "FSSAI proposes junk food warning labels, but loopholes remain - India Today",
+          "Remember Swine Flu? The Virus That Once Shut Schools Is Back. Doctors Have a New Warning - Open Magazine"
+        ]
+      },
+      {
+        "trend": "outbreak",
+        "market_code": "IN",
+        "category": "Outbreaks",
+        "score": 10,
+        "examples": [
+          "Rabies outbreak at North Carolina mobile petting zoo triggers health warning - WBTV",
+          "Bangladesh: Measles outbreak claims 21 children in March | Akashvani News - News On AIR",
+          "DR Congo begins vaccinating against largest and deadliest Ebola outbreak - Al Jazeera"
         ]
       },
       {
         "trend": "hospitals",
         "market_code": "IN",
         "category": "Asia Health",
-        "score": 8,
+        "score": 9,
         "examples": [
+          "Linking Healthcare Quality and Knowledge Management in Traditional and Ethnomedicine-Oriented Hospitals: A Scoping Review and Implementation Framework - Cureus",
           "National Media Covers Apollo's Move to Full Sunday Services - Apollo Hospitals",
-          "Nadda Reviews Health Budget Projects, 160 District Hospitals Set For Upgrade By March 2027 - BW Healthcare World",
-          "National Media Covers Apollo's Move to Full Sunday Services - Apollo Hospitals"
+          "Free, cardless treatment at hospitals once SP forms govt: Akhilesh - The Times of India"
         ]
       },
       {
-        "trend": "children",
+        "trend": "virus",
         "market_code": "IN",
-        "category": "Children Health",
+        "category": "Outbreaks",
         "score": 8,
         "examples": [
-          "'Everyone is at risk...Children in my constituency are dying' - Prof. Usman raises alarm over Diphtheria outbreak Watch full interview: https://youtu.be/iTfgjgoAjjk #trusttvnews #diphtheria #diseaseoutbreak - instagram.com",
-          "28 children die of Chandipura virus in Gujarat | Current outbreak began on June 30 | Inshorts - Inshorts",
-          "Characteristics of Chlamydia pneumoniae infection in 141 children with respiratory tract infection and risk factors for severe pneumonia - Frontiers"
+          "Remember Swine Flu? The Virus That Once Shut Schools Is Back. Doctors Have a New Warning - Open Magazine",
+          "Remember Swine Flu? The Virus That Once Shut Schools Is Back. Doctors Have a New Warning - Open Magazine",
+          "Ebola disease caused by Bundibugyo virus - Democratic Republic of the Congo - World Health Organization (WHO)"
         ]
       },
       {
@@ -1840,41 +1840,41 @@
         "score": 8,
         "examples": [
           "Will Meta settlement reduce physical, mental health risks for young users? - Harvard Gazette",
-          "Mental healthcare system: When the cure becomes the burden - Firstpost",
-          "Will Meta settlement reduce physical, mental health risks for young users? - Harvard Gazette"
+          "7 Facts About Mental Health in Guinea-Bissau - The Borgen Project",
+          "Mental healthcare system: When the cure becomes the burden - Firstpost"
         ]
       },
       {
-        "trend": "infection",
+        "trend": "children",
         "market_code": "IN",
-        "category": "Outbreaks",
+        "category": "Children Health",
         "score": 8,
         "examples": [
-          "Health experts warn of infection risks in Bhote Koshi flood zones as bodies decay - NepalNews",
-          "Teen's rare brain infection prompts NC water safety warning - ABC11 News",
-          "Man Crashed Into A Deer. Days Later, He Developed A Rare Infection - NDTV"
+          "Bangladesh: Measles outbreak claims 21 children in March | Akashvani News - News On AIR",
+          "28 children die of Chandipura virus in Gujarat | Current outbreak began on June 30 | Inshorts - Inshorts",
+          "Characteristics of Chlamydia pneumoniae infection in 141 children with respiratory tract infection and risk factors for severe pneumonia - Frontiers"
         ]
       },
       {
-        "trend": "disease",
+        "trend": "drug",
+        "market_code": "IN",
+        "category": "Drug & Treatment News",
+        "score": 8,
+        "examples": [
+          "Study Finds Dormant Viruses Reactivate During COVID-19 - Drug Topics",
+          "Triple drug therapy could clear HIV in infected newborns - Drug Discovery News",
+          "Triple drug therapy could clear HIV in infected newborns - Drug Discovery News"
+        ]
+      },
+      {
+        "trend": "research",
         "market_code": "IN",
         "category": "Asia Health",
         "score": 7,
         "examples": [
-          "Ebola disease outbreak in the Democratic Republic of the Congo and Uganda - European Centre for Disease Prevention and Control (ECDC)",
-          "Ebola disease outbreak in the Democratic Republic of the Congo and Uganda - European Centre for Disease Prevention and Control (ECDC)",
-          "Ebola disease outbreak in the Democratic Republic of the Congo and Uganda - European Centre for Disease Prevention and Control (ECDC)"
-        ]
-      },
-      {
-        "trend": "mental health",
-        "market_code": "IN",
-        "category": "Mental Health",
-        "score": 7,
-        "examples": [
-          "Will Meta settlement reduce physical, mental health risks for young users? - Harvard Gazette",
-          "Will Meta settlement reduce physical, mental health risks for young users? - Harvard Gazette",
-          "Why it can take time and effort to find the right meds to help mental health - CNN"
+          "Experts flag health data gaps, research capacity issues in NE - MorungExpress",
+          "Experts flag health data gaps, research capacity issues in NE - MorungExpress",
+          "Digital technologies reshape clinical research and public health - News-Medical"
         ]
       }
     ],
@@ -1883,44 +1883,33 @@
         "trend": "health",
         "market_code": "AU",
         "category": "Global Health",
-        "score": 56,
+        "score": 55,
         "examples": [
-          "Stella Klim opens up about health battle - Herald Sun",
-          "Integrated pollution and carbon mitigation delivers major health and economic cobenefits in China - Climate and Clean Air Coalition (CCAC)",
-          "Jersey private patients pay more but health misses income targets - BBC"
-        ]
-      },
-      {
-        "trend": "cancer",
-        "market_code": "AU",
-        "category": "Chronic Disease",
-        "score": 15,
-        "examples": [
-          "Keytruda now affordable to thousands more cancer patients - The Australian",
-          "Keytruda now affordable to thousands more cancer patients - The Australian",
-          "What four cancer experts do every day to reduce their own risk - The Australian"
-        ]
-      },
-      {
-        "trend": "outbreak",
-        "market_code": "AU",
-        "category": "Outbreaks",
-        "score": 14,
-        "examples": [
-          "Ebola disease outbreak in the Democratic Republic of the Congo and Uganda - European Centre for Disease Prevention and Control (ECDC)",
-          "When the Nation’s Top Health Official Becomes the Outbreak’s Biggest Obstacle - Global Biodefense",
-          "Ebola disease outbreak in the Democratic Republic of the Congo and Uganda - European Centre for Disease Prevention and Control (ECDC)"
+          "The health perk that helps wealthy retirees while some miss out - The Australian",
+          "Almost 130 checks at health van’s visit - narrabricourier.com.au",
+          "Putting One Step Forward for the Black Dog mental health walk - Coffs Coast News Of The Area"
         ]
       },
       {
         "trend": "medical",
         "market_code": "AU",
         "category": "Global Health",
-        "score": 14,
+        "score": 17,
         "examples": [
-          "Bradley Barcola due for medical as Liverpool finalise £123m deal for winger - The Guardian",
-          "MEDICAL REPORT | GUIDO RODRÍGUEZ - Valencia CF",
-          "Free medical care brings healthcare to Dubbo’s most vulnerable - dubbophotonews.com.au"
+          "New philosophical framework reframes moral distress in health care - Medical Xpress",
+          "Medical Reports & Withdrawals Vuelta a Espana 2026 Stage 8 - Tadej Pogacar crashes out as Vuelta peloton suffers several mass crashes - CyclingUpToDate.com",
+          "Bradley Barcola due for medical as Liverpool finalise £123m deal for winger - The Guardian"
+        ]
+      },
+      {
+        "trend": "outbreak",
+        "market_code": "AU",
+        "category": "Outbreaks",
+        "score": 13,
+        "examples": [
+          "When the Nation’s Top Health Official Becomes the Outbreak’s Biggest Obstacle - Global Biodefense",
+          "Rabies outbreak at North Carolina mobile petting zoo triggers health warning - WBTV",
+          "Rabies outbreak at North Carolina mobile petting zoo triggers health warning - WBTV"
         ]
       },
       {
@@ -1935,21 +1924,54 @@
         ]
       },
       {
-        "trend": "disease",
+        "trend": "cancer",
         "market_code": "AU",
-        "category": "Global Health",
-        "score": 7,
+        "category": "Chronic Disease",
+        "score": 11,
         "examples": [
-          "Ebola disease outbreak in the Democratic Republic of the Congo and Uganda - European Centre for Disease Prevention and Control (ECDC)",
-          "Ebola disease outbreak in the Democratic Republic of the Congo and Uganda - European Centre for Disease Prevention and Control (ECDC)",
-          "Ebola disease outbreak in the Democratic Republic of the Congo and Uganda - European Centre for Disease Prevention and Control (ECDC)"
+          "Keytruda now affordable to thousands more cancer patients - The Australian",
+          "New research could improve how brain cancer and tumors are treated - News-Medical",
+          "New Targeted Drug Offers Hope in Pancreatic Cancer Treatment - University of Utah Health"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "AU",
+        "category": "Mental Health",
+        "score": 8,
+        "examples": [
+          "Putting One Step Forward for the Black Dog mental health walk - Coffs Coast News Of The Area",
+          "Will Meta settlement reduce physical, mental health risks for young users? - Harvard Gazette",
+          "Putting One Step Forward for the Black Dog mental health walk - Coffs Coast News Of The Area"
+        ]
+      },
+      {
+        "trend": "mental health",
+        "market_code": "AU",
+        "category": "Mental Health",
+        "score": 8,
+        "examples": [
+          "Putting One Step Forward for the Black Dog mental health walk - Coffs Coast News Of The Area",
+          "Will Meta settlement reduce physical, mental health risks for young users? - Harvard Gazette",
+          "Putting One Step Forward for the Black Dog mental health walk - Coffs Coast News Of The Area"
+        ]
+      },
+      {
+        "trend": "infection",
+        "market_code": "AU",
+        "category": "Outbreaks",
+        "score": 8,
+        "examples": [
+          "Teen's rare brain infection prompts NC water safety warning - ABC11 News",
+          "Health experts warn of infection risks in Bhote Koshi flood zones as bodies decay - NepalNews",
+          "Characteristics of Chlamydia pneumoniae infection in 141 children with respiratory tract infection and risk factors for severe pneumonia - Frontiers"
         ]
       },
       {
         "trend": "heart",
         "market_code": "AU",
         "category": "Chronic Disease",
-        "score": 6,
+        "score": 7,
         "examples": [
           "Statins can safely cut risk of heart attacks or strokes in healthy people aged over 70, world-first clinical trial shows - The Guardian",
           "Statins can safely cut risk of heart attacks or strokes in healthy people aged over 70, world-first clinical trial shows - The Guardian",
@@ -1957,25 +1979,25 @@
         ]
       },
       {
-        "trend": "patients",
+        "trend": "virus",
         "market_code": "AU",
-        "category": "Global Health",
-        "score": 6,
+        "category": "Outbreaks",
+        "score": 7,
         "examples": [
-          "Keytruda now affordable to thousands more cancer patients - The Australian",
-          "Jersey private patients pay more but health misses income targets - BBC",
-          "Keytruda now affordable to thousands more cancer patients - The Australian"
+          "Ebola disease caused by Bundibugyo virus - Democratic Republic of the Congo - World Health Organization (WHO)",
+          "Ebola disease caused by Bundibugyo virus - Democratic Republic of the Congo - World Health Organization (WHO)",
+          "Ebola disease caused by Bundibugyo virus - Democratic Republic of the Congo - World Health Organization (WHO)"
         ]
       },
       {
-        "trend": "public health",
+        "trend": "research",
         "market_code": "AU",
         "category": "Global Health",
         "score": 6,
         "examples": [
+          "New research could improve how brain cancer and tumors are treated - News-Medical",
           "Digital technologies reshape clinical research and public health - News-Medical",
-          "Fossil Fuel Companies Worsen Water Crisis - Public Health Watch",
-          "The hidden public health threat from climate change - The Manila Times"
+          "The Reality of Abortion in Spain and the Messages Circling It - Human Rights Research Center | HRRC"
         ]
       },
       {
@@ -1988,28 +2010,6 @@
           "Characteristics of Chlamydia pneumoniae infection in 141 children with respiratory tract infection and risk factors for severe pneumonia - Frontiers",
           "Sex-specific associations between pubertal development and MASLD in children: evidence from the PROC study - Nature"
         ]
-      },
-      {
-        "trend": "mental",
-        "market_code": "AU",
-        "category": "Mental Health",
-        "score": 6,
-        "examples": [
-          "Will Meta settlement reduce physical, mental health risks for young users? - Harvard Gazette",
-          "Why it can take time and effort to find the right meds to help mental health - CNN",
-          "Will Meta settlement reduce physical, mental health risks for young users? - Harvard Gazette"
-        ]
-      },
-      {
-        "trend": "mental health",
-        "market_code": "AU",
-        "category": "Mental Health",
-        "score": 6,
-        "examples": [
-          "Will Meta settlement reduce physical, mental health risks for young users? - Harvard Gazette",
-          "Why it can take time and effort to find the right meds to help mental health - CNN",
-          "Will Meta settlement reduce physical, mental health risks for young users? - Harvard Gazette"
-        ]
       }
     ],
     "Canada": [
@@ -2017,11 +2017,11 @@
         "trend": "health",
         "market_code": "CA",
         "category": "Global Health",
-        "score": 71,
+        "score": 63,
         "examples": [
-          "Surge in demand for mental health support as students head back to class - Global News",
-          "Obesity Canada launches partnership aimed at improving care in health system - CBC",
-          "Six suspected drug-related deaths reported in Brantford, Brant, Haldimand, Norfolk: Public health - Brantford Expositor"
+          "Belfast council pushes Health P.E.I. for local nurse practitioner - CBC",
+          "Maple Hill Sap Run hands off cheque to North Bay Regional Health Centre Foundation - BayToday.ca",
+          "Protester sick of provincial health direction - Sault Star"
         ]
       },
       {
@@ -2030,16 +2030,16 @@
         "category": "Global Health",
         "score": 17,
         "examples": [
+          "Tadej Pogačar medical update after Vuelta a España crash - Canadian Cycling Magazine",
           "Surrey's first City-supported medical clinic provides more access to family doctors - City of Surrey",
-          "Coldstream medical student recipient of doctor bursary - Vernon Morning Star",
-          "TSB calls for stronger rail medical oversight after 2023 Wainwright collision - WestCentralOnline"
+          "Runway run in Waterloo Region helps fund medical flights to remote communities - CTV News"
         ]
       },
       {
         "trend": "cancer",
         "market_code": "CA",
         "category": "Chronic Disease",
-        "score": 14,
+        "score": 12,
         "examples": [
           "From hostile territory to safe home: how lymph nodes evolve during M. tuberculosis infection - Fred Hutchinson Cancer Center",
           "Cancer vaccines are finally showing results. Can Canada deliver them? - Canadian Affairs",
@@ -2050,44 +2050,22 @@
         "trend": "mental",
         "market_code": "CA",
         "category": "Mental Health",
-        "score": 12,
+        "score": 10,
         "examples": [
           "Surge in demand for mental health support as students head back to class - Global News",
-          "Weyburn police see spike in mental health apprehensions - DiscoverWeyburn",
-          "Will Meta settlement reduce physical, mental health risks for young users? - Harvard Gazette"
+          "Will Meta settlement reduce physical, mental health risks for young users? - Harvard Gazette",
+          "Surge in demand for mental health support as students head back to class - Global News"
         ]
       },
       {
         "trend": "mental health",
         "market_code": "CA",
         "category": "Mental Health",
-        "score": 12,
-        "examples": [
-          "Surge in demand for mental health support as students head back to class - Global News",
-          "Weyburn police see spike in mental health apprehensions - DiscoverWeyburn",
-          "Will Meta settlement reduce physical, mental health risks for young users? - Harvard Gazette"
-        ]
-      },
-      {
-        "trend": "outbreak",
-        "market_code": "CA",
-        "category": "Outbreaks",
-        "score": 11,
-        "examples": [
-          "Ebola disease outbreak in the Democratic Republic of the Congo and Uganda - European Centre for Disease Prevention and Control (ECDC)",
-          "Ebola disease outbreak in the Democratic Republic of the Congo and Uganda - European Centre for Disease Prevention and Control (ECDC)",
-          "Ebola outbreak in Congo spreads to 2 new health zones, bringing total to 60 areas affected - PBS"
-        ]
-      },
-      {
-        "trend": "infection",
-        "market_code": "CA",
-        "category": "Outbreaks",
         "score": 10,
         "examples": [
-          "Teen's rare brain infection prompts NC water safety warning - ABC11 News",
-          "Antibiotic-resistant infection outbreak in Guelph General Hospital unit - Guelph News",
-          "Antibiotic-resistant infection outbreak in Guelph General Hospital unit - Guelph News"
+          "Surge in demand for mental health support as students head back to class - Global News",
+          "Will Meta settlement reduce physical, mental health risks for young users? - Harvard Gazette",
+          "Surge in demand for mental health support as students head back to class - Global News"
         ]
       },
       {
@@ -2102,47 +2080,69 @@
         ]
       },
       {
-        "trend": "public health",
+        "trend": "outbreak",
         "market_code": "CA",
-        "category": "Global Health",
-        "score": 8,
+        "category": "Outbreaks",
+        "score": 9,
         "examples": [
-          "Six suspected drug-related deaths reported in Brantford, Brant, Haldimand, Norfolk: Public health - Brantford Expositor",
-          "Grey Bruce Public Health names permanent medical officer of health - Owen Sound Sun-Times",
-          "Six suspected drug-related deaths reported in Brantford, Brant, Haldimand, Norfolk: Public health - Brantford Expositor"
+          "Rabies outbreak at North Carolina mobile petting zoo triggers health warning - WBTV",
+          "Chile: Aflatoxin in peanuts prompt food alert - Outbreak News Today",
+          "Ebola outbreak in Congo spreads to 2 new health zones, bringing total to 60 areas affected - PBS"
         ]
       },
       {
-        "trend": "disease",
+        "trend": "infection",
         "market_code": "CA",
-        "category": "Global Health",
-        "score": 6,
+        "category": "Outbreaks",
+        "score": 9,
         "examples": [
-          "Ebola disease outbreak in the Democratic Republic of the Congo and Uganda - European Centre for Disease Prevention and Control (ECDC)",
-          "Ebola disease outbreak in the Democratic Republic of the Congo and Uganda - European Centre for Disease Prevention and Control (ECDC)",
-          "Ebola disease outbreak in the Democratic Republic of the Congo and Uganda - European Centre for Disease Prevention and Control (ECDC)"
+          "Teen's rare brain infection prompts NC water safety warning - ABC11 News",
+          "NC teen has rare brain infection likely caused by swimming. Where did exposure happen? Are you safe? - WRAL",
+          "Seegene announces comprehensive PCR-based reproductive tract infection testing strategy - SelectScience"
         ]
       },
       {
-        "trend": "hospital",
+        "trend": "virus",
         "market_code": "CA",
-        "category": "Global Health",
-        "score": 6,
+        "category": "Outbreaks",
+        "score": 7,
         "examples": [
-          "Antibiotic-resistant infection outbreak in Guelph General Hospital unit - Guelph News",
-          "Antibiotic-resistant infection outbreak in Guelph General Hospital unit - Guelph News",
-          "Ontario Breaks Ground on New Expansion at Oakville Hospital - ontario.ca"
+          "Ebola disease caused by Bundibugyo virus - Democratic Republic of the Congo - World Health Organization (WHO)",
+          "First human West Nile virus case this year confirmed in Halton Region - Oakville News",
+          "Scientists investigate if a herpes virus is behind the mass deaths of sardines off South Africa - Toronto Star"
         ]
       },
       {
         "trend": "drug",
         "market_code": "CA",
         "category": "Drug & Treatment News",
+        "score": 7,
+        "examples": [
+          "Study Finds Dormant Viruses Reactivate During COVID-19 - Drug Topics",
+          "Triple drug therapy could clear HIV in infected newborns - Drug Discovery News",
+          "Triple drug therapy could clear HIV in infected newborns - Drug Discovery News"
+        ]
+      },
+      {
+        "trend": "public health",
+        "market_code": "CA",
+        "category": "Global Health",
         "score": 6,
         "examples": [
-          "Triple drug therapy could clear HIV in infected newborns - Drug Discovery News",
-          "Triple drug therapy could clear HIV in infected newborns - Drug Discovery News",
-          "New Targeted Drug Offers Hope in Pancreatic Cancer Treatment - University of Utah Health"
+          "Six suspected drug-related deaths reported in Brantford, Brant, Haldimand, Norfolk: Public health - Brantford Expositor",
+          "Six suspected drug-related deaths reported in Brantford, Brant, Haldimand, Norfolk: Public health - Brantford Expositor",
+          "Grey Bruce Public Health appoints new Medical Officer of Health & CEO - Saugeen Times"
+        ]
+      },
+      {
+        "trend": "pancreatic cancer",
+        "market_code": "CA",
+        "category": "Chronic Disease",
+        "score": 6,
+        "examples": [
+          "New Targeted Drug Offers Hope in Pancreatic Cancer Treatment - University of Utah Health",
+          "U.S. regulators approve targeted pancreatic cancer drug shown to improve survival rates - CBC",
+          "FDA Approves Daraxonrasib for Pancreatic Cancer: What Patients Need To Know - Memorial Sloan Kettering Cancer Center"
         ]
       }
     ],
@@ -2154,19 +2154,19 @@
         "score": 67,
         "examples": [
           "Player status report, presented by Orlando Health: Orlando City SC at Minnesota United - Orlando City",
-          "8 Supplements for Women to Support Healthy Aging, Recommended By a Pharmacist - health.com",
-          "When the Nation’s Top Health Official Becomes the Outbreak’s Biggest Obstacle - Global Biodefense"
+          "UNK students ‘find their fit’ in health and physical education program - UNK NEWS",
+          "Arisa Health names new chief financial officer - Talk Business & Politics"
         ]
       },
       {
         "trend": "medical",
         "market_code": "AE",
         "category": "Arab Health",
-        "score": 18,
+        "score": 17,
         "examples": [
-          "Plans Announced for NYU Langone Health Medical Center in Melville, Long Island - New York YIMBY",
-          "As People With HIV Age, Who is the Best Medical Provider for Them? - Contagion Live",
-          "Former detainees with medical conditions detail fear of getting tuberculosis in Colorado ICE facility - NBC News"
+          "Peroxisome structure can help protect insulin and maintain beta cell health - Medical Xpress",
+          "Official Vuelta a España Medical Report Lists Possible Fracture, Head Injury for Tadej Pogačar - Outside Magazine",
+          "Murfreesboro police searching for missing woman who has ‘several medical conditions’ - WSMV"
         ]
       },
       {
@@ -2175,8 +2175,8 @@
         "category": "Outbreaks",
         "score": 16,
         "examples": [
-          "Ebola disease outbreak in the Democratic Republic of the Congo and Uganda - European Centre for Disease Prevention and Control (ECDC)",
           "When the Nation’s Top Health Official Becomes the Outbreak’s Biggest Obstacle - Global Biodefense",
+          "Rabies outbreak at North Carolina mobile petting zoo triggers health warning - WBTV",
           "When the Nation’s Top Health Official Becomes the Outbreak’s Biggest Obstacle - Global Biodefense"
         ]
       },
@@ -2192,14 +2192,14 @@
         ]
       },
       {
-        "trend": "infection",
+        "trend": "mental",
         "market_code": "AE",
-        "category": "Outbreaks",
-        "score": 10,
+        "category": "Mental Health",
+        "score": 9,
         "examples": [
-          "NC teen has rare brain infection likely caused by swimming. Where did exposure happen? Are you safe? - WRAL",
-          "Teen's rare brain infection prompts NC water safety warning - ABC11 News",
-          "NC teen has rare brain infection likely caused by swimming. Where did exposure happen? Are you safe? - WRAL"
+          "Will Meta settlement reduce physical, mental health risks for young users? - Harvard Gazette",
+          "One Of Linus Ullmark's Biggest Mental Health Supporters Opens Up About His Own Struggles - Yahoo Sports",
+          "Security Guard Says Ye’s Mental Health Irrelevant in Employment Trial - MyNewsLA.com"
         ]
       },
       {
@@ -2214,14 +2214,25 @@
         ]
       },
       {
-        "trend": "mental",
+        "trend": "warning",
         "market_code": "AE",
-        "category": "Mental Health",
+        "category": "Arab Health",
         "score": 8,
         "examples": [
-          "Will Meta settlement reduce physical, mental health risks for young users? - Harvard Gazette",
-          "One Of Linus Ullmark's Biggest Mental Health Supporters Opens Up About His Own Struggles - Yahoo Sports",
-          "New Mexico advocates push for stronger maternal mental health support amid Lindsay Clancy trial - KOB 4"
+          "Rabies outbreak at North Carolina mobile petting zoo triggers health warning - WBTV",
+          "Rabies outbreak at North Carolina mobile petting zoo triggers health warning - WBTV",
+          "Rabies outbreak at North Carolina mobile petting zoo triggers health warning - WBTV"
+        ]
+      },
+      {
+        "trend": "infection",
+        "market_code": "AE",
+        "category": "Outbreaks",
+        "score": 8,
+        "examples": [
+          "NC teen has rare brain infection likely caused by swimming. Where did exposure happen? Are you safe? - WRAL",
+          "Teen's rare brain infection prompts NC water safety warning - ABC11 News",
+          "NC teen has rare brain infection likely caused by swimming. Where did exposure happen? Are you safe? - WRAL"
         ]
       },
       {
@@ -2232,7 +2243,7 @@
         "examples": [
           "Will Meta settlement reduce physical, mental health risks for young users? - Harvard Gazette",
           "One Of Linus Ullmark's Biggest Mental Health Supporters Opens Up About His Own Struggles - Yahoo Sports",
-          "New Mexico advocates push for stronger maternal mental health support amid Lindsay Clancy trial - KOB 4"
+          "Security Guard Says Ye’s Mental Health Irrelevant in Employment Trial - MyNewsLA.com"
         ]
       },
       {
@@ -2241,42 +2252,31 @@
         "category": "Outbreaks",
         "score": 8,
         "examples": [
+          "Ebola disease caused by Bundibugyo virus - Democratic Republic of the Congo - World Health Organization (WHO)",
           "Scientists investigate if a herpes virus is behind the mass deaths of sardines off South Africa - ABC News - Breaking News, Latest News and Videos",
-          "First West Nile Virus Cases Reported in Suburban Cook County - Cook County Department of Public Health",
-          "VDH confirms 2 West Nile virus cases in VB residents - WAVY.com"
+          "Human case of West Nile virus detected in Allen Co. - WPTA | 21Alive | Fort Wayne, IN"
         ]
       },
       {
         "trend": "drug",
         "market_code": "AE",
         "category": "Drug & Treatment News",
-        "score": 8,
-        "examples": [
-          "Triple drug therapy could clear HIV in infected newborns - Drug Discovery News",
-          "Triple drug therapy could clear HIV in infected newborns - Drug Discovery News",
-          "F.D.A. Approves Drug Poised to Transform Care for Pancreatic Cancer - The New York Times"
-        ]
-      },
-      {
-        "trend": "measles",
-        "market_code": "AE",
-        "category": "Outbreaks",
         "score": 7,
         "examples": [
-          "Wisconsin measles outbreak puts Winona County on alert - KIMT",
-          "Measles cases continue to climb in Pennsylvania outbreak, as other states report new cases - CIDRAP",
-          "Almost 100 measles cases now tied to southwest Wisconsin outbreak - Milwaukee Journal Sentinel"
+          "Study Finds Dormant Viruses Reactivate During COVID-19 - Drug Topics",
+          "F.D.A. Approves Drug Poised to Transform Care for Pancreatic Cancer - The New York Times",
+          "New Targeted Drug Offers Hope in Pancreatic Cancer Treatment - University of Utah Health"
         ]
       },
       {
-        "trend": "wellness",
+        "trend": "public health",
         "market_code": "AE",
-        "category": "Diet & Wellness",
+        "category": "Arab Health",
         "score": 6,
         "examples": [
-          "Wellness stacking: why psychologists say it beats willpower for building healthy habits - Yahoo Creators",
-          "MCCTC Opens New Medical Wellness and Education Center - Business Journal Daily",
-          "FACTS FOR FAMILIES: Extension launches health and community wellness program - Journal Gazette & Times-Courier"
+          "Fossil Fuel Companies Worsen Water Crisis - Public Health Watch",
+          "‘Extremely high’ bacteria levels in Arkansas River after raw sewage spill, Colorado public health officials say - The Denver Post",
+          "Digital technologies reshape clinical research and public health - News-Medical"
         ]
       }
     ],
@@ -2288,19 +2288,19 @@
         "score": 67,
         "examples": [
           "Player status report, presented by Orlando Health: Orlando City SC at Minnesota United - Orlando City",
-          "8 Supplements for Women to Support Healthy Aging, Recommended By a Pharmacist - health.com",
-          "When the Nation’s Top Health Official Becomes the Outbreak’s Biggest Obstacle - Global Biodefense"
+          "UNK students ‘find their fit’ in health and physical education program - UNK NEWS",
+          "Arisa Health names new chief financial officer - Talk Business & Politics"
         ]
       },
       {
         "trend": "medical",
         "market_code": "SA",
         "category": "Arab Health",
-        "score": 18,
+        "score": 17,
         "examples": [
-          "Plans Announced for NYU Langone Health Medical Center in Melville, Long Island - New York YIMBY",
-          "As People With HIV Age, Who is the Best Medical Provider for Them? - Contagion Live",
-          "Former detainees with medical conditions detail fear of getting tuberculosis in Colorado ICE facility - NBC News"
+          "Peroxisome structure can help protect insulin and maintain beta cell health - Medical Xpress",
+          "Official Vuelta a España Medical Report Lists Possible Fracture, Head Injury for Tadej Pogačar - Outside Magazine",
+          "Murfreesboro police searching for missing woman who has ‘several medical conditions’ - WSMV"
         ]
       },
       {
@@ -2309,8 +2309,8 @@
         "category": "Outbreaks",
         "score": 16,
         "examples": [
-          "Ebola disease outbreak in the Democratic Republic of the Congo and Uganda - European Centre for Disease Prevention and Control (ECDC)",
           "When the Nation’s Top Health Official Becomes the Outbreak’s Biggest Obstacle - Global Biodefense",
+          "Rabies outbreak at North Carolina mobile petting zoo triggers health warning - WBTV",
           "When the Nation’s Top Health Official Becomes the Outbreak’s Biggest Obstacle - Global Biodefense"
         ]
       },
@@ -2326,14 +2326,14 @@
         ]
       },
       {
-        "trend": "infection",
+        "trend": "mental",
         "market_code": "SA",
-        "category": "Outbreaks",
-        "score": 10,
+        "category": "Mental Health",
+        "score": 9,
         "examples": [
-          "NC teen has rare brain infection likely caused by swimming. Where did exposure happen? Are you safe? - WRAL",
-          "Teen's rare brain infection prompts NC water safety warning - ABC11 News",
-          "NC teen has rare brain infection likely caused by swimming. Where did exposure happen? Are you safe? - WRAL"
+          "Will Meta settlement reduce physical, mental health risks for young users? - Harvard Gazette",
+          "One Of Linus Ullmark's Biggest Mental Health Supporters Opens Up About His Own Struggles - Yahoo Sports",
+          "Security Guard Says Ye’s Mental Health Irrelevant in Employment Trial - MyNewsLA.com"
         ]
       },
       {
@@ -2348,14 +2348,25 @@
         ]
       },
       {
-        "trend": "mental",
+        "trend": "warning",
         "market_code": "SA",
-        "category": "Mental Health",
+        "category": "Arab Health",
         "score": 8,
         "examples": [
-          "Will Meta settlement reduce physical, mental health risks for young users? - Harvard Gazette",
-          "One Of Linus Ullmark's Biggest Mental Health Supporters Opens Up About His Own Struggles - Yahoo Sports",
-          "New Mexico advocates push for stronger maternal mental health support amid Lindsay Clancy trial - KOB 4"
+          "Rabies outbreak at North Carolina mobile petting zoo triggers health warning - WBTV",
+          "Rabies outbreak at North Carolina mobile petting zoo triggers health warning - WBTV",
+          "Rabies outbreak at North Carolina mobile petting zoo triggers health warning - WBTV"
+        ]
+      },
+      {
+        "trend": "infection",
+        "market_code": "SA",
+        "category": "Outbreaks",
+        "score": 8,
+        "examples": [
+          "NC teen has rare brain infection likely caused by swimming. Where did exposure happen? Are you safe? - WRAL",
+          "Teen's rare brain infection prompts NC water safety warning - ABC11 News",
+          "NC teen has rare brain infection likely caused by swimming. Where did exposure happen? Are you safe? - WRAL"
         ]
       },
       {
@@ -2366,7 +2377,7 @@
         "examples": [
           "Will Meta settlement reduce physical, mental health risks for young users? - Harvard Gazette",
           "One Of Linus Ullmark's Biggest Mental Health Supporters Opens Up About His Own Struggles - Yahoo Sports",
-          "New Mexico advocates push for stronger maternal mental health support amid Lindsay Clancy trial - KOB 4"
+          "Security Guard Says Ye’s Mental Health Irrelevant in Employment Trial - MyNewsLA.com"
         ]
       },
       {
@@ -2375,42 +2386,31 @@
         "category": "Outbreaks",
         "score": 8,
         "examples": [
+          "Ebola disease caused by Bundibugyo virus - Democratic Republic of the Congo - World Health Organization (WHO)",
           "Scientists investigate if a herpes virus is behind the mass deaths of sardines off South Africa - ABC News - Breaking News, Latest News and Videos",
-          "First West Nile Virus Cases Reported in Suburban Cook County - Cook County Department of Public Health",
-          "VDH confirms 2 West Nile virus cases in VB residents - WAVY.com"
+          "Human case of West Nile virus detected in Allen Co. - WPTA | 21Alive | Fort Wayne, IN"
         ]
       },
       {
         "trend": "drug",
         "market_code": "SA",
         "category": "Drug & Treatment News",
-        "score": 8,
-        "examples": [
-          "Triple drug therapy could clear HIV in infected newborns - Drug Discovery News",
-          "Triple drug therapy could clear HIV in infected newborns - Drug Discovery News",
-          "F.D.A. Approves Drug Poised to Transform Care for Pancreatic Cancer - The New York Times"
-        ]
-      },
-      {
-        "trend": "measles",
-        "market_code": "SA",
-        "category": "Outbreaks",
         "score": 7,
         "examples": [
-          "Wisconsin measles outbreak puts Winona County on alert - KIMT",
-          "Measles cases continue to climb in Pennsylvania outbreak, as other states report new cases - CIDRAP",
-          "Almost 100 measles cases now tied to southwest Wisconsin outbreak - Milwaukee Journal Sentinel"
+          "Study Finds Dormant Viruses Reactivate During COVID-19 - Drug Topics",
+          "F.D.A. Approves Drug Poised to Transform Care for Pancreatic Cancer - The New York Times",
+          "New Targeted Drug Offers Hope in Pancreatic Cancer Treatment - University of Utah Health"
         ]
       },
       {
-        "trend": "wellness",
+        "trend": "public health",
         "market_code": "SA",
-        "category": "Diet & Wellness",
+        "category": "Arab Health",
         "score": 6,
         "examples": [
-          "Wellness stacking: why psychologists say it beats willpower for building healthy habits - Yahoo Creators",
-          "MCCTC Opens New Medical Wellness and Education Center - Business Journal Daily",
-          "FACTS FOR FAMILIES: Extension launches health and community wellness program - Journal Gazette & Times-Courier"
+          "Fossil Fuel Companies Worsen Water Crisis - Public Health Watch",
+          "‘Extremely high’ bacteria levels in Arkansas River after raw sewage spill, Colorado public health officials say - The Denver Post",
+          "Digital technologies reshape clinical research and public health - News-Medical"
         ]
       }
     ],
@@ -2422,19 +2422,19 @@
         "score": 67,
         "examples": [
           "Player status report, presented by Orlando Health: Orlando City SC at Minnesota United - Orlando City",
-          "8 Supplements for Women to Support Healthy Aging, Recommended By a Pharmacist - health.com",
-          "When the Nation’s Top Health Official Becomes the Outbreak’s Biggest Obstacle - Global Biodefense"
+          "UNK students ‘find their fit’ in health and physical education program - UNK NEWS",
+          "Arisa Health names new chief financial officer - Talk Business & Politics"
         ]
       },
       {
         "trend": "medical",
         "market_code": "QA",
         "category": "Arab Health",
-        "score": 18,
+        "score": 17,
         "examples": [
-          "Plans Announced for NYU Langone Health Medical Center in Melville, Long Island - New York YIMBY",
-          "As People With HIV Age, Who is the Best Medical Provider for Them? - Contagion Live",
-          "Former detainees with medical conditions detail fear of getting tuberculosis in Colorado ICE facility - NBC News"
+          "Peroxisome structure can help protect insulin and maintain beta cell health - Medical Xpress",
+          "Official Vuelta a España Medical Report Lists Possible Fracture, Head Injury for Tadej Pogačar - Outside Magazine",
+          "Murfreesboro police searching for missing woman who has ‘several medical conditions’ - WSMV"
         ]
       },
       {
@@ -2443,8 +2443,8 @@
         "category": "Outbreaks",
         "score": 16,
         "examples": [
-          "Ebola disease outbreak in the Democratic Republic of the Congo and Uganda - European Centre for Disease Prevention and Control (ECDC)",
           "When the Nation’s Top Health Official Becomes the Outbreak’s Biggest Obstacle - Global Biodefense",
+          "Rabies outbreak at North Carolina mobile petting zoo triggers health warning - WBTV",
           "When the Nation’s Top Health Official Becomes the Outbreak’s Biggest Obstacle - Global Biodefense"
         ]
       },
@@ -2460,14 +2460,14 @@
         ]
       },
       {
-        "trend": "infection",
+        "trend": "mental",
         "market_code": "QA",
-        "category": "Outbreaks",
-        "score": 10,
+        "category": "Mental Health",
+        "score": 9,
         "examples": [
-          "NC teen has rare brain infection likely caused by swimming. Where did exposure happen? Are you safe? - WRAL",
-          "Teen's rare brain infection prompts NC water safety warning - ABC11 News",
-          "NC teen has rare brain infection likely caused by swimming. Where did exposure happen? Are you safe? - WRAL"
+          "Will Meta settlement reduce physical, mental health risks for young users? - Harvard Gazette",
+          "One Of Linus Ullmark's Biggest Mental Health Supporters Opens Up About His Own Struggles - Yahoo Sports",
+          "Security Guard Says Ye’s Mental Health Irrelevant in Employment Trial - MyNewsLA.com"
         ]
       },
       {
@@ -2482,14 +2482,25 @@
         ]
       },
       {
-        "trend": "mental",
+        "trend": "warning",
         "market_code": "QA",
-        "category": "Mental Health",
+        "category": "Arab Health",
         "score": 8,
         "examples": [
-          "Will Meta settlement reduce physical, mental health risks for young users? - Harvard Gazette",
-          "One Of Linus Ullmark's Biggest Mental Health Supporters Opens Up About His Own Struggles - Yahoo Sports",
-          "New Mexico advocates push for stronger maternal mental health support amid Lindsay Clancy trial - KOB 4"
+          "Rabies outbreak at North Carolina mobile petting zoo triggers health warning - WBTV",
+          "Rabies outbreak at North Carolina mobile petting zoo triggers health warning - WBTV",
+          "Rabies outbreak at North Carolina mobile petting zoo triggers health warning - WBTV"
+        ]
+      },
+      {
+        "trend": "infection",
+        "market_code": "QA",
+        "category": "Outbreaks",
+        "score": 8,
+        "examples": [
+          "NC teen has rare brain infection likely caused by swimming. Where did exposure happen? Are you safe? - WRAL",
+          "Teen's rare brain infection prompts NC water safety warning - ABC11 News",
+          "NC teen has rare brain infection likely caused by swimming. Where did exposure happen? Are you safe? - WRAL"
         ]
       },
       {
@@ -2500,7 +2511,7 @@
         "examples": [
           "Will Meta settlement reduce physical, mental health risks for young users? - Harvard Gazette",
           "One Of Linus Ullmark's Biggest Mental Health Supporters Opens Up About His Own Struggles - Yahoo Sports",
-          "New Mexico advocates push for stronger maternal mental health support amid Lindsay Clancy trial - KOB 4"
+          "Security Guard Says Ye’s Mental Health Irrelevant in Employment Trial - MyNewsLA.com"
         ]
       },
       {
@@ -2509,42 +2520,31 @@
         "category": "Outbreaks",
         "score": 8,
         "examples": [
+          "Ebola disease caused by Bundibugyo virus - Democratic Republic of the Congo - World Health Organization (WHO)",
           "Scientists investigate if a herpes virus is behind the mass deaths of sardines off South Africa - ABC News - Breaking News, Latest News and Videos",
-          "First West Nile Virus Cases Reported in Suburban Cook County - Cook County Department of Public Health",
-          "VDH confirms 2 West Nile virus cases in VB residents - WAVY.com"
+          "Human case of West Nile virus detected in Allen Co. - WPTA | 21Alive | Fort Wayne, IN"
         ]
       },
       {
         "trend": "drug",
         "market_code": "QA",
         "category": "Drug & Treatment News",
-        "score": 8,
-        "examples": [
-          "Triple drug therapy could clear HIV in infected newborns - Drug Discovery News",
-          "Triple drug therapy could clear HIV in infected newborns - Drug Discovery News",
-          "F.D.A. Approves Drug Poised to Transform Care for Pancreatic Cancer - The New York Times"
-        ]
-      },
-      {
-        "trend": "measles",
-        "market_code": "QA",
-        "category": "Outbreaks",
         "score": 7,
         "examples": [
-          "Wisconsin measles outbreak puts Winona County on alert - KIMT",
-          "Measles cases continue to climb in Pennsylvania outbreak, as other states report new cases - CIDRAP",
-          "Almost 100 measles cases now tied to southwest Wisconsin outbreak - Milwaukee Journal Sentinel"
+          "Study Finds Dormant Viruses Reactivate During COVID-19 - Drug Topics",
+          "F.D.A. Approves Drug Poised to Transform Care for Pancreatic Cancer - The New York Times",
+          "New Targeted Drug Offers Hope in Pancreatic Cancer Treatment - University of Utah Health"
         ]
       },
       {
-        "trend": "wellness",
+        "trend": "public health",
         "market_code": "QA",
-        "category": "Diet & Wellness",
+        "category": "Arab Health",
         "score": 6,
         "examples": [
-          "Wellness stacking: why psychologists say it beats willpower for building healthy habits - Yahoo Creators",
-          "MCCTC Opens New Medical Wellness and Education Center - Business Journal Daily",
-          "FACTS FOR FAMILIES: Extension launches health and community wellness program - Journal Gazette & Times-Courier"
+          "Fossil Fuel Companies Worsen Water Crisis - Public Health Watch",
+          "‘Extremely high’ bacteria levels in Arkansas River after raw sewage spill, Colorado public health officials say - The Denver Post",
+          "Digital technologies reshape clinical research and public health - News-Medical"
         ]
       }
     ],
@@ -2556,19 +2556,19 @@
         "score": 67,
         "examples": [
           "Player status report, presented by Orlando Health: Orlando City SC at Minnesota United - Orlando City",
-          "8 Supplements for Women to Support Healthy Aging, Recommended By a Pharmacist - health.com",
-          "When the Nation’s Top Health Official Becomes the Outbreak’s Biggest Obstacle - Global Biodefense"
+          "UNK students ‘find their fit’ in health and physical education program - UNK NEWS",
+          "Arisa Health names new chief financial officer - Talk Business & Politics"
         ]
       },
       {
         "trend": "medical",
         "market_code": "JO",
         "category": "Arab Health",
-        "score": 18,
+        "score": 17,
         "examples": [
-          "Plans Announced for NYU Langone Health Medical Center in Melville, Long Island - New York YIMBY",
-          "As People With HIV Age, Who is the Best Medical Provider for Them? - Contagion Live",
-          "Former detainees with medical conditions detail fear of getting tuberculosis in Colorado ICE facility - NBC News"
+          "Peroxisome structure can help protect insulin and maintain beta cell health - Medical Xpress",
+          "Official Vuelta a España Medical Report Lists Possible Fracture, Head Injury for Tadej Pogačar - Outside Magazine",
+          "Murfreesboro police searching for missing woman who has ‘several medical conditions’ - WSMV"
         ]
       },
       {
@@ -2577,8 +2577,8 @@
         "category": "Outbreaks",
         "score": 16,
         "examples": [
-          "Ebola disease outbreak in the Democratic Republic of the Congo and Uganda - European Centre for Disease Prevention and Control (ECDC)",
           "When the Nation’s Top Health Official Becomes the Outbreak’s Biggest Obstacle - Global Biodefense",
+          "Rabies outbreak at North Carolina mobile petting zoo triggers health warning - WBTV",
           "When the Nation’s Top Health Official Becomes the Outbreak’s Biggest Obstacle - Global Biodefense"
         ]
       },
@@ -2594,14 +2594,14 @@
         ]
       },
       {
-        "trend": "infection",
+        "trend": "mental",
         "market_code": "JO",
-        "category": "Outbreaks",
-        "score": 10,
+        "category": "Mental Health",
+        "score": 9,
         "examples": [
-          "NC teen has rare brain infection likely caused by swimming. Where did exposure happen? Are you safe? - WRAL",
-          "Teen's rare brain infection prompts NC water safety warning - ABC11 News",
-          "NC teen has rare brain infection likely caused by swimming. Where did exposure happen? Are you safe? - WRAL"
+          "Will Meta settlement reduce physical, mental health risks for young users? - Harvard Gazette",
+          "One Of Linus Ullmark's Biggest Mental Health Supporters Opens Up About His Own Struggles - Yahoo Sports",
+          "Security Guard Says Ye’s Mental Health Irrelevant in Employment Trial - MyNewsLA.com"
         ]
       },
       {
@@ -2616,14 +2616,25 @@
         ]
       },
       {
-        "trend": "mental",
+        "trend": "warning",
         "market_code": "JO",
-        "category": "Mental Health",
+        "category": "Arab Health",
         "score": 8,
         "examples": [
-          "Will Meta settlement reduce physical, mental health risks for young users? - Harvard Gazette",
-          "One Of Linus Ullmark's Biggest Mental Health Supporters Opens Up About His Own Struggles - Yahoo Sports",
-          "New Mexico advocates push for stronger maternal mental health support amid Lindsay Clancy trial - KOB 4"
+          "Rabies outbreak at North Carolina mobile petting zoo triggers health warning - WBTV",
+          "Rabies outbreak at North Carolina mobile petting zoo triggers health warning - WBTV",
+          "Rabies outbreak at North Carolina mobile petting zoo triggers health warning - WBTV"
+        ]
+      },
+      {
+        "trend": "infection",
+        "market_code": "JO",
+        "category": "Outbreaks",
+        "score": 8,
+        "examples": [
+          "NC teen has rare brain infection likely caused by swimming. Where did exposure happen? Are you safe? - WRAL",
+          "Teen's rare brain infection prompts NC water safety warning - ABC11 News",
+          "NC teen has rare brain infection likely caused by swimming. Where did exposure happen? Are you safe? - WRAL"
         ]
       },
       {
@@ -2634,7 +2645,7 @@
         "examples": [
           "Will Meta settlement reduce physical, mental health risks for young users? - Harvard Gazette",
           "One Of Linus Ullmark's Biggest Mental Health Supporters Opens Up About His Own Struggles - Yahoo Sports",
-          "New Mexico advocates push for stronger maternal mental health support amid Lindsay Clancy trial - KOB 4"
+          "Security Guard Says Ye’s Mental Health Irrelevant in Employment Trial - MyNewsLA.com"
         ]
       },
       {
@@ -2643,42 +2654,31 @@
         "category": "Outbreaks",
         "score": 8,
         "examples": [
+          "Ebola disease caused by Bundibugyo virus - Democratic Republic of the Congo - World Health Organization (WHO)",
           "Scientists investigate if a herpes virus is behind the mass deaths of sardines off South Africa - ABC News - Breaking News, Latest News and Videos",
-          "First West Nile Virus Cases Reported in Suburban Cook County - Cook County Department of Public Health",
-          "VDH confirms 2 West Nile virus cases in VB residents - WAVY.com"
+          "Human case of West Nile virus detected in Allen Co. - WPTA | 21Alive | Fort Wayne, IN"
         ]
       },
       {
         "trend": "drug",
         "market_code": "JO",
         "category": "Drug & Treatment News",
-        "score": 8,
-        "examples": [
-          "Triple drug therapy could clear HIV in infected newborns - Drug Discovery News",
-          "Triple drug therapy could clear HIV in infected newborns - Drug Discovery News",
-          "F.D.A. Approves Drug Poised to Transform Care for Pancreatic Cancer - The New York Times"
-        ]
-      },
-      {
-        "trend": "measles",
-        "market_code": "JO",
-        "category": "Outbreaks",
         "score": 7,
         "examples": [
-          "Wisconsin measles outbreak puts Winona County on alert - KIMT",
-          "Measles cases continue to climb in Pennsylvania outbreak, as other states report new cases - CIDRAP",
-          "Almost 100 measles cases now tied to southwest Wisconsin outbreak - Milwaukee Journal Sentinel"
+          "Study Finds Dormant Viruses Reactivate During COVID-19 - Drug Topics",
+          "F.D.A. Approves Drug Poised to Transform Care for Pancreatic Cancer - The New York Times",
+          "New Targeted Drug Offers Hope in Pancreatic Cancer Treatment - University of Utah Health"
         ]
       },
       {
-        "trend": "wellness",
+        "trend": "public health",
         "market_code": "JO",
-        "category": "Diet & Wellness",
+        "category": "Arab Health",
         "score": 6,
         "examples": [
-          "Wellness stacking: why psychologists say it beats willpower for building healthy habits - Yahoo Creators",
-          "MCCTC Opens New Medical Wellness and Education Center - Business Journal Daily",
-          "FACTS FOR FAMILIES: Extension launches health and community wellness program - Journal Gazette & Times-Courier"
+          "Fossil Fuel Companies Worsen Water Crisis - Public Health Watch",
+          "‘Extremely high’ bacteria levels in Arkansas River after raw sewage spill, Colorado public health officials say - The Denver Post",
+          "Digital technologies reshape clinical research and public health - News-Medical"
         ]
       }
     ],
@@ -2690,19 +2690,19 @@
         "score": 67,
         "examples": [
           "Player status report, presented by Orlando Health: Orlando City SC at Minnesota United - Orlando City",
-          "8 Supplements for Women to Support Healthy Aging, Recommended By a Pharmacist - health.com",
-          "When the Nation’s Top Health Official Becomes the Outbreak’s Biggest Obstacle - Global Biodefense"
+          "UNK students ‘find their fit’ in health and physical education program - UNK NEWS",
+          "Arisa Health names new chief financial officer - Talk Business & Politics"
         ]
       },
       {
         "trend": "medical",
         "market_code": "LB",
         "category": "Arab Health",
-        "score": 18,
+        "score": 17,
         "examples": [
-          "Plans Announced for NYU Langone Health Medical Center in Melville, Long Island - New York YIMBY",
-          "As People With HIV Age, Who is the Best Medical Provider for Them? - Contagion Live",
-          "Former detainees with medical conditions detail fear of getting tuberculosis in Colorado ICE facility - NBC News"
+          "Peroxisome structure can help protect insulin and maintain beta cell health - Medical Xpress",
+          "Official Vuelta a España Medical Report Lists Possible Fracture, Head Injury for Tadej Pogačar - Outside Magazine",
+          "Murfreesboro police searching for missing woman who has ‘several medical conditions’ - WSMV"
         ]
       },
       {
@@ -2711,8 +2711,8 @@
         "category": "Outbreaks",
         "score": 16,
         "examples": [
-          "Ebola disease outbreak in the Democratic Republic of the Congo and Uganda - European Centre for Disease Prevention and Control (ECDC)",
           "When the Nation’s Top Health Official Becomes the Outbreak’s Biggest Obstacle - Global Biodefense",
+          "Rabies outbreak at North Carolina mobile petting zoo triggers health warning - WBTV",
           "When the Nation’s Top Health Official Becomes the Outbreak’s Biggest Obstacle - Global Biodefense"
         ]
       },
@@ -2728,14 +2728,14 @@
         ]
       },
       {
-        "trend": "infection",
+        "trend": "mental",
         "market_code": "LB",
-        "category": "Outbreaks",
-        "score": 10,
+        "category": "Mental Health",
+        "score": 9,
         "examples": [
-          "NC teen has rare brain infection likely caused by swimming. Where did exposure happen? Are you safe? - WRAL",
-          "Teen's rare brain infection prompts NC water safety warning - ABC11 News",
-          "NC teen has rare brain infection likely caused by swimming. Where did exposure happen? Are you safe? - WRAL"
+          "Will Meta settlement reduce physical, mental health risks for young users? - Harvard Gazette",
+          "One Of Linus Ullmark's Biggest Mental Health Supporters Opens Up About His Own Struggles - Yahoo Sports",
+          "Security Guard Says Ye’s Mental Health Irrelevant in Employment Trial - MyNewsLA.com"
         ]
       },
       {
@@ -2750,14 +2750,25 @@
         ]
       },
       {
-        "trend": "mental",
+        "trend": "warning",
         "market_code": "LB",
-        "category": "Mental Health",
+        "category": "Arab Health",
         "score": 8,
         "examples": [
-          "Will Meta settlement reduce physical, mental health risks for young users? - Harvard Gazette",
-          "One Of Linus Ullmark's Biggest Mental Health Supporters Opens Up About His Own Struggles - Yahoo Sports",
-          "New Mexico advocates push for stronger maternal mental health support amid Lindsay Clancy trial - KOB 4"
+          "Rabies outbreak at North Carolina mobile petting zoo triggers health warning - WBTV",
+          "Rabies outbreak at North Carolina mobile petting zoo triggers health warning - WBTV",
+          "Rabies outbreak at North Carolina mobile petting zoo triggers health warning - WBTV"
+        ]
+      },
+      {
+        "trend": "infection",
+        "market_code": "LB",
+        "category": "Outbreaks",
+        "score": 8,
+        "examples": [
+          "NC teen has rare brain infection likely caused by swimming. Where did exposure happen? Are you safe? - WRAL",
+          "Teen's rare brain infection prompts NC water safety warning - ABC11 News",
+          "NC teen has rare brain infection likely caused by swimming. Where did exposure happen? Are you safe? - WRAL"
         ]
       },
       {
@@ -2768,7 +2779,7 @@
         "examples": [
           "Will Meta settlement reduce physical, mental health risks for young users? - Harvard Gazette",
           "One Of Linus Ullmark's Biggest Mental Health Supporters Opens Up About His Own Struggles - Yahoo Sports",
-          "New Mexico advocates push for stronger maternal mental health support amid Lindsay Clancy trial - KOB 4"
+          "Security Guard Says Ye’s Mental Health Irrelevant in Employment Trial - MyNewsLA.com"
         ]
       },
       {
@@ -2777,42 +2788,31 @@
         "category": "Outbreaks",
         "score": 8,
         "examples": [
+          "Ebola disease caused by Bundibugyo virus - Democratic Republic of the Congo - World Health Organization (WHO)",
           "Scientists investigate if a herpes virus is behind the mass deaths of sardines off South Africa - ABC News - Breaking News, Latest News and Videos",
-          "First West Nile Virus Cases Reported in Suburban Cook County - Cook County Department of Public Health",
-          "VDH confirms 2 West Nile virus cases in VB residents - WAVY.com"
+          "Human case of West Nile virus detected in Allen Co. - WPTA | 21Alive | Fort Wayne, IN"
         ]
       },
       {
         "trend": "drug",
         "market_code": "LB",
         "category": "Drug & Treatment News",
-        "score": 8,
-        "examples": [
-          "Triple drug therapy could clear HIV in infected newborns - Drug Discovery News",
-          "Triple drug therapy could clear HIV in infected newborns - Drug Discovery News",
-          "F.D.A. Approves Drug Poised to Transform Care for Pancreatic Cancer - The New York Times"
-        ]
-      },
-      {
-        "trend": "measles",
-        "market_code": "LB",
-        "category": "Outbreaks",
         "score": 7,
         "examples": [
-          "Wisconsin measles outbreak puts Winona County on alert - KIMT",
-          "Measles cases continue to climb in Pennsylvania outbreak, as other states report new cases - CIDRAP",
-          "Almost 100 measles cases now tied to southwest Wisconsin outbreak - Milwaukee Journal Sentinel"
+          "Study Finds Dormant Viruses Reactivate During COVID-19 - Drug Topics",
+          "F.D.A. Approves Drug Poised to Transform Care for Pancreatic Cancer - The New York Times",
+          "New Targeted Drug Offers Hope in Pancreatic Cancer Treatment - University of Utah Health"
         ]
       },
       {
-        "trend": "wellness",
+        "trend": "public health",
         "market_code": "LB",
-        "category": "Diet & Wellness",
+        "category": "Arab Health",
         "score": 6,
         "examples": [
-          "Wellness stacking: why psychologists say it beats willpower for building healthy habits - Yahoo Creators",
-          "MCCTC Opens New Medical Wellness and Education Center - Business Journal Daily",
-          "FACTS FOR FAMILIES: Extension launches health and community wellness program - Journal Gazette & Times-Courier"
+          "Fossil Fuel Companies Worsen Water Crisis - Public Health Watch",
+          "‘Extremely high’ bacteria levels in Arkansas River after raw sewage spill, Colorado public health officials say - The Denver Post",
+          "Digital technologies reshape clinical research and public health - News-Medical"
         ]
       }
     ]
