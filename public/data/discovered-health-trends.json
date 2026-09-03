@@ -1,929 +1,2819 @@
 {
-  "updated_at": "2026-09-03T15:20:00.749664+00:00",
-  "total_trends": 126,
+  "updated_at": "2026-09-03T20:12:06.789628+00:00",
+  "total_trends": 252,
   "markets": {
     "United States": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "US",
         "category": "US Health",
-        "score": 1,
-        "examples": []
+        "score": 73,
+        "examples": [
+          "Maine Health Care Leaders Celebrate Governor Mills as \"Health Care Hero\" - Maine.gov",
+          "Maine Health Care Leaders Celebrate Governor Mills as \"Health Care Hero\" - Maine.gov",
+          "Behavioral Health Risks and State Strategies Related to Increasingly Potent and Accessible Psychoactive Products - National Governors Association"
+        ]
       },
       {
-        "trend": "outbreak",
+        "trend": "medical",
+        "market_code": "US",
+        "category": "US Health",
+        "score": 12,
+        "examples": [
+          "Luminis Health cyber-attack disrupts Anne Arundel Medical Center - WBAL-TV",
+          "Leading medical groups update flu, COVID vaccine recommendations amid confusion - thehill.com",
+          "WV Justice Wooten treated for dehydration, released after medical incident Wednesday - West Virginia Watch"
+        ]
+      },
+      {
+        "trend": "healthcare",
+        "market_code": "US",
+        "category": "US Health",
+        "score": 11,
+        "examples": [
+          "Layoff Tracker—HCA cuts corporate, support staff - Fierce Healthcare",
+          "Central Maine Medical Center nurses to march on boss in solidarity with colleagues unlawfully suspended or fired by Prime Healthcare for speaking up for patients - National Nurses United",
+          "Nurses’ strike: Healthcare associations warn of impact on student training - People Daily"
+        ]
+      },
+      {
+        "trend": "virus",
         "market_code": "US",
         "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "score": 11,
+        "examples": [
+          "Brevard County health officials issue alert over West Nile virus - Yahoo",
+          "Scientists in China discover new tick-borne virus that causes flu-like illness - CIDRAP",
+          "OSDH: 3 people infected with West Nile Virus in 2026 - KOKH"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "US",
+        "category": "Mental Health",
+        "score": 10,
+        "examples": [
+          "Division II equipping coaches, athletic trainers with Mental Health First Aid training - NCAA.org",
+          "Division II equipping coaches, athletic trainers with Mental Health First Aid training - NCAA.org",
+          "University Counseling Center partners with Mantra Health to expand virtual mental health support - The University of Utah"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "US",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
+        "score": 10,
+        "examples": [
+          "Division II equipping coaches, athletic trainers with Mental Health First Aid training - NCAA.org",
+          "Division II equipping coaches, athletic trainers with Mental Health First Aid training - NCAA.org",
+          "University Counseling Center partners with Mantra Health to expand virtual mental health support - The University of Utah"
+        ]
       },
       {
-        "trend": "medical research",
+        "trend": "health care",
         "market_code": "US",
         "category": "US Health",
-        "score": 1,
-        "examples": []
+        "score": 9,
+        "examples": [
+          "Maine Health Care Leaders Celebrate Governor Mills as \"Health Care Hero\" - Maine.gov",
+          "Maine Health Care Leaders Celebrate Governor Mills as \"Health Care Hero\" - Maine.gov",
+          "Maine Health Care Leaders Celebrate Governor Mills as \"Health Care Hero\" - Maine.gov"
+        ]
       },
       {
-        "trend": "drug approval",
+        "trend": "outbreak",
         "market_code": "US",
-        "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "Ebola disease outbreak in the Democratic Republic of the Congo and Uganda - European Centre for Disease Prevention and Control (ECDC)",
+          "Ebola disease outbreak in the Democratic Republic of the Congo and Uganda - European Centre for Disease Prevention and Control (ECDC)",
+          "Ebola case counts reach 6,250 in DR Congo outbreak - CIDRAP"
+        ]
       },
       {
-        "trend": "diet wellness",
+        "trend": "patients",
         "market_code": "US",
-        "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "category": "US Health",
+        "score": 8,
+        "examples": [
+          "Central Maine Medical Center nurses to march on boss in solidarity with colleagues unlawfully suspended or fired by Prime Healthcare for speaking up for patients - National Nurses United",
+          "FDA pilot offers generative AI medical devices a path to patients before they are authorized - STAT",
+          "FDA pilot offers generative AI medical devices a path to patients before they are authorized - STAT"
+        ]
+      },
+      {
+        "trend": "warning",
+        "market_code": "US",
+        "category": "US Health",
+        "score": 8,
+        "examples": [
+          "Glass Contamination Warning: Health department warns of Outshine Fruit Bars voluntary recall - Pasadena Weekly",
+          "MNC Firms and Health Experts Oppose India’s New Food Warning Labels. Here’s Why | Vantage - Firstpost",
+          "AI sleep data could provide one-week early warning of flu and COVID-19 - GOV.UK"
+        ]
+      },
+      {
+        "trend": "cancer",
+        "market_code": "US",
+        "category": "Chronic Disease",
+        "score": 8,
+        "examples": [
+          "A $480,000-a-Year Pill Reflects a New Normal for Cancer Drugs - nytimes.com",
+          "BioNTech halts mid-stage trial of personalized mRNA vaccine in colorectal cancer - BioSpace",
+          "Merck and Moderna’s cancer vaccine is customized for each patient’s tumor - drugdiscoverytrends.com"
+        ]
+      },
+      {
+        "trend": "public health",
+        "market_code": "US",
+        "category": "US Health",
+        "score": 7,
+        "examples": [
+          "Democrats urge consumer product agency halt public health modernization project - Nextgov/FCW",
+          "Beaumont Public Health to Reopen Friday - City of Beaumont, Texas (.gov)",
+          "Democrats urge consumer product agency halt public health modernization project - Nextgov/FCW"
+        ]
       }
     ],
     "United Kingdom": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "GB",
         "category": "Europe Health",
-        "score": 1,
-        "examples": []
+        "score": 58,
+        "examples": [
+          "Health Minister highlights gynaecology care closer to home | Department of Health - health-ni.gov.uk",
+          "Health Minister highlights gynaecology care closer to home | Department of Health - health-ni.gov.uk",
+          "Digital Health Coffee Time Briefing ☕ - Home | Digital Health"
+        ]
+      },
+      {
+        "trend": "medical",
+        "market_code": "GB",
+        "category": "Europe Health",
+        "score": 14,
+        "examples": [
+          "Medical student Alex’s campaign for better diagnosis - The Brain Tumour Charity",
+          "Balogun pulled out of Everton move over handling of his medical, claim Monaco - The Guardian",
+          "Futura Medical to go up for sale after failure to perform - The Times"
+        ]
       },
       {
         "trend": "outbreak",
         "market_code": "GB",
         "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "score": 10,
+        "examples": [
+          "Ebola disease outbreak in the Democratic Republic of the Congo and Uganda - ecdc.europa.eu",
+          "Ebola disease outbreak in the Democratic Republic of the Congo and Uganda - ecdc.europa.eu",
+          "Ebola case counts reach 6,250 in DR Congo outbreak - CIDRAP"
+        ]
+      },
+      {
+        "trend": "warning",
+        "market_code": "GB",
+        "category": "Europe Health",
+        "score": 10,
+        "examples": [
+          "AI sleep data could provide one-week early warning of flu and COVID-19 - GOV.UK",
+          "AI sleep data could provide one-week early warning of flu and COVID-19 - GOV.UK",
+          "AI sleep data could provide one-week early warning of flu and COVID-19 - GOV.UK"
+        ]
+      },
+      {
+        "trend": "children",
+        "market_code": "GB",
+        "category": "Children Health",
+        "score": 9,
+        "examples": [
+          "Hidden health risk to children from the hottest summer on record - Metro.co.uk",
+          "Measles outbreak in Sweden: most cases in unvaccinated children - VaccinesToday",
+          "Rise in children’s A&E mental health visits prompts call for nurse investment - Nursing in Practice"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "GB",
+        "category": "Mental Health",
+        "score": 8,
+        "examples": [
+          "Nobel-winning doctor joins health experts warning of Trump’s deteriorating mental state - The Independent",
+          "Rise in children’s A&E mental health visits prompts call for nurse investment - Nursing in Practice",
+          "Mental health summer surge must be paid proper attention - HSJ | Health Service Journal"
+        ]
+      },
+      {
+        "trend": "virus",
+        "market_code": "GB",
+        "category": "Outbreaks",
+        "score": 8,
+        "examples": [
+          "Brevard County health officials issue alert over West Nile virus - Yahoo",
+          "'Hitchhiking' mosquitoes that can transmit dengue and Zika virus found breeding in UK - Sky News",
+          "Rapid reaction: Mosquitoes that carry chikungunya, dengue and Zika virus breeding in UK - The London School of Hygiene & Tropical Medicine"
+        ]
+      },
+      {
+        "trend": "patients",
+        "market_code": "GB",
+        "category": "Europe Health",
+        "score": 8,
+        "examples": [
+          "Clinical Characteristics, Microbial Profile, and Factors Associated with Recurrent Urinary Tract Infections in Patients with Diabetes Mellitus: A Retrospective Cohort Study - cureus.com",
+          "How a mental health charity project is helping south Essex patients after care - Southend Echo",
+          "FDA pilot offers generative AI medical devices a path to patients before they are authorized - STAT"
+        ]
+      },
+      {
+        "trend": "cancer",
+        "market_code": "GB",
+        "category": "Chronic Disease",
+        "score": 8,
+        "examples": [
+          "Cancer drug eliminates HIV-infected cells in animal model study - News-Medical",
+          "Vara nets first CE mark for autonomous AI breast cancer screening tool - Medical Device Network",
+          "mRNA vaccine stops skin cancer from returning in patients - European Animal Research Association"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "GB",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
+        "score": 7,
+        "examples": [
+          "Rise in children’s A&E mental health visits prompts call for nurse investment - Nursing in Practice",
+          "Mental health summer surge must be paid proper attention - HSJ | Health Service Journal",
+          "Why AI in mental health care relies on human supervision - Open Access Government"
+        ]
       },
       {
-        "trend": "medical research",
+        "trend": "healthcare",
         "market_code": "GB",
         "category": "Europe Health",
-        "score": 1,
-        "examples": []
+        "score": 7,
+        "examples": [
+          "MedTech Conference 2026: The Future of Intelligent Healthcare - Tata Consultancy Services",
+          "Manchester NHS and MHRA Launch Healthcare Innovation Sandbox to Accelerate AI Adoption - politicsuk.com",
+          "IQVIA Wins Multiple Industry Awards for AI and Technology Innovation Across Life Sciences and Healthcare - Business Wire"
+        ]
       },
       {
-        "trend": "drug approval",
+        "trend": "hospital",
         "market_code": "GB",
-        "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
-      },
-      {
-        "trend": "diet wellness",
-        "market_code": "GB",
-        "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "category": "Europe Health",
+        "score": 6,
+        "examples": [
+          "From Field Epidemiology to Hospital Wards with William Schaffner - EMJ",
+          "From Field Epidemiology to Hospital Wards with William Schaffner - EMJ",
+          "Oxford hospital parking crisis sparks health impact warning - Trending Now Infrastructure"
+        ]
       }
     ],
     "Germany": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "DE",
         "category": "Europe Health",
-        "score": 1,
-        "examples": []
+        "score": 74,
+        "examples": [
+          "Maine Health Care Leaders Celebrate Governor Mills as \"Health Care Hero\" - Maine.gov",
+          "Maine Health Care Leaders Celebrate Governor Mills as \"Health Care Hero\" - Maine.gov",
+          "Atrium Health Wake Forest Baptist Names Dr. Matthew Edwards Chief Executive Officer - Atrium Health Wake Forest Baptist"
+        ]
       },
       {
-        "trend": "outbreak",
+        "trend": "medical",
         "market_code": "DE",
-        "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "category": "Europe Health",
+        "score": 11,
+        "examples": [
+          "Luminis Health cyber-attack disrupts Anne Arundel Medical Center - WBAL-TV",
+          "Leading medical groups update flu, COVID vaccine recommendations amid confusion - thehill.com",
+          "WV Justice Wooten treated for dehydration, released after medical incident Wednesday - West Virginia Watch"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "DE",
+        "category": "Mental Health",
+        "score": 10,
+        "examples": [
+          "Division II equipping coaches, athletic trainers with Mental Health First Aid training - NCAA.org",
+          "University Counseling Center partners with Mantra Health to expand virtual mental health support - The University of Utah",
+          "Division II equipping coaches, athletic trainers with Mental Health First Aid training - NCAA.org"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "DE",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
+        "score": 10,
+        "examples": [
+          "Division II equipping coaches, athletic trainers with Mental Health First Aid training - NCAA.org",
+          "University Counseling Center partners with Mantra Health to expand virtual mental health support - The University of Utah",
+          "Division II equipping coaches, athletic trainers with Mental Health First Aid training - NCAA.org"
+        ]
       },
       {
-        "trend": "medical research",
+        "trend": "healthcare",
         "market_code": "DE",
         "category": "Europe Health",
-        "score": 1,
-        "examples": []
+        "score": 10,
+        "examples": [
+          "Central Maine Medical Center nurses to march on boss in solidarity with colleagues unlawfully suspended or fired by Prime Healthcare for speaking up for patients - National Nurses United",
+          "Nurses’ strike: Healthcare associations warn of impact on student training - People Daily",
+          "What belongs in the medical record in the AI era? - Healthcare IT News"
+        ]
       },
       {
-        "trend": "drug approval",
+        "trend": "virus",
         "market_code": "DE",
-        "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
+        "category": "Outbreaks",
+        "score": 10,
+        "examples": [
+          "Brevard County health officials issue alert over West Nile virus - Yahoo",
+          "Scientists in China discover new tick-borne virus that causes flu-like illness - CIDRAP",
+          "OSDH: 3 people infected with West Nile Virus in 2026 - KOKH"
+        ]
       },
       {
-        "trend": "diet wellness",
+        "trend": "health care",
         "market_code": "DE",
-        "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "category": "Europe Health",
+        "score": 9,
+        "examples": [
+          "Maine Health Care Leaders Celebrate Governor Mills as \"Health Care Hero\" - Maine.gov",
+          "Maine Health Care Leaders Celebrate Governor Mills as \"Health Care Hero\" - Maine.gov",
+          "Maine Health Care Leaders Celebrate Governor Mills as \"Health Care Hero\" - Maine.gov"
+        ]
+      },
+      {
+        "trend": "public health",
+        "market_code": "DE",
+        "category": "Europe Health",
+        "score": 9,
+        "examples": [
+          "Beaumont Public Health to Reopen Friday - City of Beaumont, Texas (.gov)",
+          "Public Health Topic: Suicide Prevention Awareness - shrewsburyma.gov",
+          "Democrats urge consumer product agency halt public health modernization project - Nextgov/FCW"
+        ]
+      },
+      {
+        "trend": "outbreak",
+        "market_code": "DE",
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "Ebola disease outbreak in the Democratic Republic of the Congo and Uganda - European Centre for Disease Prevention and Control (ECDC)",
+          "Ebola case counts reach 6,250 in DR Congo outbreak - CIDRAP",
+          "As a measles outbreak escalates in Pennsylvania's Amish Country, exposures rattle people at risk - 6abc Philadelphia"
+        ]
+      },
+      {
+        "trend": "patients",
+        "market_code": "DE",
+        "category": "Europe Health",
+        "score": 8,
+        "examples": [
+          "Central Maine Medical Center nurses to march on boss in solidarity with colleagues unlawfully suspended or fired by Prime Healthcare for speaking up for patients - National Nurses United",
+          "FDA pilot offers generative AI medical devices a path to patients before they are authorized - STAT",
+          "FDA pilot offers generative AI medical devices a path to patients before they are authorized - STAT"
+        ]
+      },
+      {
+        "trend": "warning",
+        "market_code": "DE",
+        "category": "Europe Health",
+        "score": 8,
+        "examples": [
+          "Glass Contamination Warning: Health department warns of Outshine Fruit Bars voluntary recall - Pasadena Weekly",
+          "MNC Firms and Health Experts Oppose India’s New Food Warning Labels. Here’s Why | Vantage - Firstpost",
+          "AI sleep data could provide one-week early warning of flu and COVID-19 - GOV.UK"
+        ]
+      },
+      {
+        "trend": "cancer",
+        "market_code": "DE",
+        "category": "Chronic Disease",
+        "score": 8,
+        "examples": [
+          "A $480,000-a-Year Pill Reflects a New Normal for Cancer Drugs - nytimes.com",
+          "BioNTech halts mid-stage trial of personalized mRNA vaccine in colorectal cancer - BioSpace",
+          "Merck and Moderna’s cancer vaccine is customized for each patient’s tumor - drugdiscoverytrends.com"
+        ]
       }
     ],
     "France": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "FR",
         "category": "Europe Health",
-        "score": 1,
-        "examples": []
+        "score": 74,
+        "examples": [
+          "Maine Health Care Leaders Celebrate Governor Mills as \"Health Care Hero\" - Maine.gov",
+          "Maine Health Care Leaders Celebrate Governor Mills as \"Health Care Hero\" - Maine.gov",
+          "Atrium Health Wake Forest Baptist Names Dr. Matthew Edwards Chief Executive Officer - Atrium Health Wake Forest Baptist"
+        ]
       },
       {
-        "trend": "outbreak",
+        "trend": "medical",
         "market_code": "FR",
-        "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "category": "Europe Health",
+        "score": 11,
+        "examples": [
+          "Luminis Health cyber-attack disrupts Anne Arundel Medical Center - WBAL-TV",
+          "Leading medical groups update flu, COVID vaccine recommendations amid confusion - thehill.com",
+          "WV Justice Wooten treated for dehydration, released after medical incident Wednesday - West Virginia Watch"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "FR",
+        "category": "Mental Health",
+        "score": 10,
+        "examples": [
+          "Division II equipping coaches, athletic trainers with Mental Health First Aid training - NCAA.org",
+          "University Counseling Center partners with Mantra Health to expand virtual mental health support - The University of Utah",
+          "Division II equipping coaches, athletic trainers with Mental Health First Aid training - NCAA.org"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "FR",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
+        "score": 10,
+        "examples": [
+          "Division II equipping coaches, athletic trainers with Mental Health First Aid training - NCAA.org",
+          "University Counseling Center partners with Mantra Health to expand virtual mental health support - The University of Utah",
+          "Division II equipping coaches, athletic trainers with Mental Health First Aid training - NCAA.org"
+        ]
       },
       {
-        "trend": "medical research",
+        "trend": "healthcare",
         "market_code": "FR",
         "category": "Europe Health",
-        "score": 1,
-        "examples": []
+        "score": 10,
+        "examples": [
+          "Central Maine Medical Center nurses to march on boss in solidarity with colleagues unlawfully suspended or fired by Prime Healthcare for speaking up for patients - National Nurses United",
+          "Nurses’ strike: Healthcare associations warn of impact on student training - People Daily",
+          "What belongs in the medical record in the AI era? - Healthcare IT News"
+        ]
       },
       {
-        "trend": "drug approval",
+        "trend": "virus",
         "market_code": "FR",
-        "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
+        "category": "Outbreaks",
+        "score": 10,
+        "examples": [
+          "Brevard County health officials issue alert over West Nile virus - Yahoo",
+          "Scientists in China discover new tick-borne virus that causes flu-like illness - CIDRAP",
+          "OSDH: 3 people infected with West Nile Virus in 2026 - KOKH"
+        ]
       },
       {
-        "trend": "diet wellness",
+        "trend": "health care",
         "market_code": "FR",
-        "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "category": "Europe Health",
+        "score": 9,
+        "examples": [
+          "Maine Health Care Leaders Celebrate Governor Mills as \"Health Care Hero\" - Maine.gov",
+          "Maine Health Care Leaders Celebrate Governor Mills as \"Health Care Hero\" - Maine.gov",
+          "Maine Health Care Leaders Celebrate Governor Mills as \"Health Care Hero\" - Maine.gov"
+        ]
+      },
+      {
+        "trend": "public health",
+        "market_code": "FR",
+        "category": "Europe Health",
+        "score": 9,
+        "examples": [
+          "Beaumont Public Health to Reopen Friday - City of Beaumont, Texas (.gov)",
+          "Public Health Topic: Suicide Prevention Awareness - shrewsburyma.gov",
+          "Democrats urge consumer product agency halt public health modernization project - Nextgov/FCW"
+        ]
+      },
+      {
+        "trend": "outbreak",
+        "market_code": "FR",
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "Ebola disease outbreak in the Democratic Republic of the Congo and Uganda - European Centre for Disease Prevention and Control (ECDC)",
+          "Ebola case counts reach 6,250 in DR Congo outbreak - CIDRAP",
+          "As a measles outbreak escalates in Pennsylvania's Amish Country, exposures rattle people at risk - 6abc Philadelphia"
+        ]
+      },
+      {
+        "trend": "patients",
+        "market_code": "FR",
+        "category": "Europe Health",
+        "score": 8,
+        "examples": [
+          "Central Maine Medical Center nurses to march on boss in solidarity with colleagues unlawfully suspended or fired by Prime Healthcare for speaking up for patients - National Nurses United",
+          "FDA pilot offers generative AI medical devices a path to patients before they are authorized - STAT",
+          "FDA pilot offers generative AI medical devices a path to patients before they are authorized - STAT"
+        ]
+      },
+      {
+        "trend": "warning",
+        "market_code": "FR",
+        "category": "Europe Health",
+        "score": 8,
+        "examples": [
+          "Glass Contamination Warning: Health department warns of Outshine Fruit Bars voluntary recall - Pasadena Weekly",
+          "MNC Firms and Health Experts Oppose India’s New Food Warning Labels. Here’s Why | Vantage - Firstpost",
+          "AI sleep data could provide one-week early warning of flu and COVID-19 - GOV.UK"
+        ]
+      },
+      {
+        "trend": "cancer",
+        "market_code": "FR",
+        "category": "Chronic Disease",
+        "score": 8,
+        "examples": [
+          "A $480,000-a-Year Pill Reflects a New Normal for Cancer Drugs - nytimes.com",
+          "BioNTech halts mid-stage trial of personalized mRNA vaccine in colorectal cancer - BioSpace",
+          "Merck and Moderna’s cancer vaccine is customized for each patient’s tumor - drugdiscoverytrends.com"
+        ]
       }
     ],
     "Italy": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "IT",
         "category": "Europe Health",
-        "score": 1,
-        "examples": []
+        "score": 74,
+        "examples": [
+          "Maine Health Care Leaders Celebrate Governor Mills as \"Health Care Hero\" - Maine.gov",
+          "Maine Health Care Leaders Celebrate Governor Mills as \"Health Care Hero\" - Maine.gov",
+          "Atrium Health Wake Forest Baptist Names Dr. Matthew Edwards Chief Executive Officer - Atrium Health Wake Forest Baptist"
+        ]
       },
       {
-        "trend": "outbreak",
+        "trend": "medical",
         "market_code": "IT",
-        "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "category": "Europe Health",
+        "score": 11,
+        "examples": [
+          "Luminis Health cyber-attack disrupts Anne Arundel Medical Center - WBAL-TV",
+          "Leading medical groups update flu, COVID vaccine recommendations amid confusion - thehill.com",
+          "WV Justice Wooten treated for dehydration, released after medical incident Wednesday - West Virginia Watch"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "IT",
+        "category": "Mental Health",
+        "score": 10,
+        "examples": [
+          "Division II equipping coaches, athletic trainers with Mental Health First Aid training - NCAA.org",
+          "University Counseling Center partners with Mantra Health to expand virtual mental health support - The University of Utah",
+          "Division II equipping coaches, athletic trainers with Mental Health First Aid training - NCAA.org"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "IT",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
+        "score": 10,
+        "examples": [
+          "Division II equipping coaches, athletic trainers with Mental Health First Aid training - NCAA.org",
+          "University Counseling Center partners with Mantra Health to expand virtual mental health support - The University of Utah",
+          "Division II equipping coaches, athletic trainers with Mental Health First Aid training - NCAA.org"
+        ]
       },
       {
-        "trend": "medical research",
+        "trend": "healthcare",
         "market_code": "IT",
         "category": "Europe Health",
-        "score": 1,
-        "examples": []
+        "score": 10,
+        "examples": [
+          "Central Maine Medical Center nurses to march on boss in solidarity with colleagues unlawfully suspended or fired by Prime Healthcare for speaking up for patients - National Nurses United",
+          "Nurses’ strike: Healthcare associations warn of impact on student training - People Daily",
+          "What belongs in the medical record in the AI era? - Healthcare IT News"
+        ]
       },
       {
-        "trend": "drug approval",
+        "trend": "virus",
         "market_code": "IT",
-        "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
+        "category": "Outbreaks",
+        "score": 10,
+        "examples": [
+          "Brevard County health officials issue alert over West Nile virus - Yahoo",
+          "Scientists in China discover new tick-borne virus that causes flu-like illness - CIDRAP",
+          "OSDH: 3 people infected with West Nile Virus in 2026 - KOKH"
+        ]
       },
       {
-        "trend": "diet wellness",
+        "trend": "health care",
         "market_code": "IT",
-        "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "category": "Europe Health",
+        "score": 9,
+        "examples": [
+          "Maine Health Care Leaders Celebrate Governor Mills as \"Health Care Hero\" - Maine.gov",
+          "Maine Health Care Leaders Celebrate Governor Mills as \"Health Care Hero\" - Maine.gov",
+          "Maine Health Care Leaders Celebrate Governor Mills as \"Health Care Hero\" - Maine.gov"
+        ]
+      },
+      {
+        "trend": "public health",
+        "market_code": "IT",
+        "category": "Europe Health",
+        "score": 9,
+        "examples": [
+          "Beaumont Public Health to Reopen Friday - City of Beaumont, Texas (.gov)",
+          "Public Health Topic: Suicide Prevention Awareness - shrewsburyma.gov",
+          "Democrats urge consumer product agency halt public health modernization project - Nextgov/FCW"
+        ]
+      },
+      {
+        "trend": "outbreak",
+        "market_code": "IT",
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "Ebola disease outbreak in the Democratic Republic of the Congo and Uganda - European Centre for Disease Prevention and Control (ECDC)",
+          "Ebola case counts reach 6,250 in DR Congo outbreak - CIDRAP",
+          "As a measles outbreak escalates in Pennsylvania's Amish Country, exposures rattle people at risk - 6abc Philadelphia"
+        ]
+      },
+      {
+        "trend": "patients",
+        "market_code": "IT",
+        "category": "Europe Health",
+        "score": 8,
+        "examples": [
+          "Central Maine Medical Center nurses to march on boss in solidarity with colleagues unlawfully suspended or fired by Prime Healthcare for speaking up for patients - National Nurses United",
+          "FDA pilot offers generative AI medical devices a path to patients before they are authorized - STAT",
+          "FDA pilot offers generative AI medical devices a path to patients before they are authorized - STAT"
+        ]
+      },
+      {
+        "trend": "warning",
+        "market_code": "IT",
+        "category": "Europe Health",
+        "score": 8,
+        "examples": [
+          "Glass Contamination Warning: Health department warns of Outshine Fruit Bars voluntary recall - Pasadena Weekly",
+          "MNC Firms and Health Experts Oppose India’s New Food Warning Labels. Here’s Why | Vantage - Firstpost",
+          "AI sleep data could provide one-week early warning of flu and COVID-19 - GOV.UK"
+        ]
+      },
+      {
+        "trend": "cancer",
+        "market_code": "IT",
+        "category": "Chronic Disease",
+        "score": 8,
+        "examples": [
+          "A $480,000-a-Year Pill Reflects a New Normal for Cancer Drugs - nytimes.com",
+          "BioNTech halts mid-stage trial of personalized mRNA vaccine in colorectal cancer - BioSpace",
+          "Merck and Moderna’s cancer vaccine is customized for each patient’s tumor - drugdiscoverytrends.com"
+        ]
       }
     ],
     "Spain": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "ES",
         "category": "Europe Health",
-        "score": 1,
-        "examples": []
+        "score": 74,
+        "examples": [
+          "Maine Health Care Leaders Celebrate Governor Mills as \"Health Care Hero\" - Maine.gov",
+          "Maine Health Care Leaders Celebrate Governor Mills as \"Health Care Hero\" - Maine.gov",
+          "Atrium Health Wake Forest Baptist Names Dr. Matthew Edwards Chief Executive Officer - Atrium Health Wake Forest Baptist"
+        ]
       },
       {
-        "trend": "outbreak",
+        "trend": "medical",
         "market_code": "ES",
-        "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "category": "Europe Health",
+        "score": 11,
+        "examples": [
+          "Luminis Health cyber-attack disrupts Anne Arundel Medical Center - WBAL-TV",
+          "Leading medical groups update flu, COVID vaccine recommendations amid confusion - thehill.com",
+          "WV Justice Wooten treated for dehydration, released after medical incident Wednesday - West Virginia Watch"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "ES",
+        "category": "Mental Health",
+        "score": 10,
+        "examples": [
+          "Division II equipping coaches, athletic trainers with Mental Health First Aid training - NCAA.org",
+          "University Counseling Center partners with Mantra Health to expand virtual mental health support - The University of Utah",
+          "Division II equipping coaches, athletic trainers with Mental Health First Aid training - NCAA.org"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "ES",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
+        "score": 10,
+        "examples": [
+          "Division II equipping coaches, athletic trainers with Mental Health First Aid training - NCAA.org",
+          "University Counseling Center partners with Mantra Health to expand virtual mental health support - The University of Utah",
+          "Division II equipping coaches, athletic trainers with Mental Health First Aid training - NCAA.org"
+        ]
       },
       {
-        "trend": "medical research",
+        "trend": "healthcare",
         "market_code": "ES",
         "category": "Europe Health",
-        "score": 1,
-        "examples": []
+        "score": 10,
+        "examples": [
+          "Central Maine Medical Center nurses to march on boss in solidarity with colleagues unlawfully suspended or fired by Prime Healthcare for speaking up for patients - National Nurses United",
+          "Nurses’ strike: Healthcare associations warn of impact on student training - People Daily",
+          "What belongs in the medical record in the AI era? - Healthcare IT News"
+        ]
       },
       {
-        "trend": "drug approval",
+        "trend": "virus",
         "market_code": "ES",
-        "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
+        "category": "Outbreaks",
+        "score": 10,
+        "examples": [
+          "Brevard County health officials issue alert over West Nile virus - Yahoo",
+          "Scientists in China discover new tick-borne virus that causes flu-like illness - CIDRAP",
+          "OSDH: 3 people infected with West Nile Virus in 2026 - KOKH"
+        ]
       },
       {
-        "trend": "diet wellness",
+        "trend": "health care",
         "market_code": "ES",
-        "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "category": "Europe Health",
+        "score": 9,
+        "examples": [
+          "Maine Health Care Leaders Celebrate Governor Mills as \"Health Care Hero\" - Maine.gov",
+          "Maine Health Care Leaders Celebrate Governor Mills as \"Health Care Hero\" - Maine.gov",
+          "Maine Health Care Leaders Celebrate Governor Mills as \"Health Care Hero\" - Maine.gov"
+        ]
+      },
+      {
+        "trend": "public health",
+        "market_code": "ES",
+        "category": "Europe Health",
+        "score": 9,
+        "examples": [
+          "Beaumont Public Health to Reopen Friday - City of Beaumont, Texas (.gov)",
+          "Public Health Topic: Suicide Prevention Awareness - shrewsburyma.gov",
+          "Democrats urge consumer product agency halt public health modernization project - Nextgov/FCW"
+        ]
+      },
+      {
+        "trend": "outbreak",
+        "market_code": "ES",
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "Ebola disease outbreak in the Democratic Republic of the Congo and Uganda - European Centre for Disease Prevention and Control (ECDC)",
+          "Ebola case counts reach 6,250 in DR Congo outbreak - CIDRAP",
+          "As a measles outbreak escalates in Pennsylvania's Amish Country, exposures rattle people at risk - 6abc Philadelphia"
+        ]
+      },
+      {
+        "trend": "patients",
+        "market_code": "ES",
+        "category": "Europe Health",
+        "score": 8,
+        "examples": [
+          "Central Maine Medical Center nurses to march on boss in solidarity with colleagues unlawfully suspended or fired by Prime Healthcare for speaking up for patients - National Nurses United",
+          "FDA pilot offers generative AI medical devices a path to patients before they are authorized - STAT",
+          "FDA pilot offers generative AI medical devices a path to patients before they are authorized - STAT"
+        ]
+      },
+      {
+        "trend": "warning",
+        "market_code": "ES",
+        "category": "Europe Health",
+        "score": 8,
+        "examples": [
+          "Glass Contamination Warning: Health department warns of Outshine Fruit Bars voluntary recall - Pasadena Weekly",
+          "MNC Firms and Health Experts Oppose India’s New Food Warning Labels. Here’s Why | Vantage - Firstpost",
+          "AI sleep data could provide one-week early warning of flu and COVID-19 - GOV.UK"
+        ]
+      },
+      {
+        "trend": "cancer",
+        "market_code": "ES",
+        "category": "Chronic Disease",
+        "score": 8,
+        "examples": [
+          "A $480,000-a-Year Pill Reflects a New Normal for Cancer Drugs - nytimes.com",
+          "BioNTech halts mid-stage trial of personalized mRNA vaccine in colorectal cancer - BioSpace",
+          "Merck and Moderna’s cancer vaccine is customized for each patient’s tumor - drugdiscoverytrends.com"
+        ]
       }
     ],
     "Sweden": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "SE",
         "category": "Europe Health",
-        "score": 1,
-        "examples": []
+        "score": 74,
+        "examples": [
+          "Maine Health Care Leaders Celebrate Governor Mills as \"Health Care Hero\" - Maine.gov",
+          "Maine Health Care Leaders Celebrate Governor Mills as \"Health Care Hero\" - Maine.gov",
+          "Atrium Health Wake Forest Baptist Names Dr. Matthew Edwards Chief Executive Officer - Atrium Health Wake Forest Baptist"
+        ]
       },
       {
-        "trend": "outbreak",
+        "trend": "medical",
         "market_code": "SE",
-        "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "category": "Europe Health",
+        "score": 11,
+        "examples": [
+          "Luminis Health cyber-attack disrupts Anne Arundel Medical Center - WBAL-TV",
+          "Leading medical groups update flu, COVID vaccine recommendations amid confusion - thehill.com",
+          "WV Justice Wooten treated for dehydration, released after medical incident Wednesday - West Virginia Watch"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "SE",
+        "category": "Mental Health",
+        "score": 10,
+        "examples": [
+          "Division II equipping coaches, athletic trainers with Mental Health First Aid training - NCAA.org",
+          "University Counseling Center partners with Mantra Health to expand virtual mental health support - The University of Utah",
+          "Division II equipping coaches, athletic trainers with Mental Health First Aid training - NCAA.org"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "SE",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
+        "score": 10,
+        "examples": [
+          "Division II equipping coaches, athletic trainers with Mental Health First Aid training - NCAA.org",
+          "University Counseling Center partners with Mantra Health to expand virtual mental health support - The University of Utah",
+          "Division II equipping coaches, athletic trainers with Mental Health First Aid training - NCAA.org"
+        ]
       },
       {
-        "trend": "medical research",
+        "trend": "healthcare",
         "market_code": "SE",
         "category": "Europe Health",
-        "score": 1,
-        "examples": []
+        "score": 10,
+        "examples": [
+          "Central Maine Medical Center nurses to march on boss in solidarity with colleagues unlawfully suspended or fired by Prime Healthcare for speaking up for patients - National Nurses United",
+          "Nurses’ strike: Healthcare associations warn of impact on student training - People Daily",
+          "What belongs in the medical record in the AI era? - Healthcare IT News"
+        ]
       },
       {
-        "trend": "drug approval",
+        "trend": "virus",
         "market_code": "SE",
-        "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
+        "category": "Outbreaks",
+        "score": 10,
+        "examples": [
+          "Brevard County health officials issue alert over West Nile virus - Yahoo",
+          "Scientists in China discover new tick-borne virus that causes flu-like illness - CIDRAP",
+          "OSDH: 3 people infected with West Nile Virus in 2026 - KOKH"
+        ]
       },
       {
-        "trend": "diet wellness",
+        "trend": "health care",
         "market_code": "SE",
-        "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "category": "Europe Health",
+        "score": 9,
+        "examples": [
+          "Maine Health Care Leaders Celebrate Governor Mills as \"Health Care Hero\" - Maine.gov",
+          "Maine Health Care Leaders Celebrate Governor Mills as \"Health Care Hero\" - Maine.gov",
+          "Maine Health Care Leaders Celebrate Governor Mills as \"Health Care Hero\" - Maine.gov"
+        ]
+      },
+      {
+        "trend": "public health",
+        "market_code": "SE",
+        "category": "Europe Health",
+        "score": 9,
+        "examples": [
+          "Beaumont Public Health to Reopen Friday - City of Beaumont, Texas (.gov)",
+          "Public Health Topic: Suicide Prevention Awareness - shrewsburyma.gov",
+          "Democrats urge consumer product agency halt public health modernization project - Nextgov/FCW"
+        ]
+      },
+      {
+        "trend": "outbreak",
+        "market_code": "SE",
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "Ebola disease outbreak in the Democratic Republic of the Congo and Uganda - European Centre for Disease Prevention and Control (ECDC)",
+          "Ebola case counts reach 6,250 in DR Congo outbreak - CIDRAP",
+          "As a measles outbreak escalates in Pennsylvania's Amish Country, exposures rattle people at risk - 6abc Philadelphia"
+        ]
+      },
+      {
+        "trend": "patients",
+        "market_code": "SE",
+        "category": "Europe Health",
+        "score": 8,
+        "examples": [
+          "Central Maine Medical Center nurses to march on boss in solidarity with colleagues unlawfully suspended or fired by Prime Healthcare for speaking up for patients - National Nurses United",
+          "FDA pilot offers generative AI medical devices a path to patients before they are authorized - STAT",
+          "FDA pilot offers generative AI medical devices a path to patients before they are authorized - STAT"
+        ]
+      },
+      {
+        "trend": "warning",
+        "market_code": "SE",
+        "category": "Europe Health",
+        "score": 8,
+        "examples": [
+          "Glass Contamination Warning: Health department warns of Outshine Fruit Bars voluntary recall - Pasadena Weekly",
+          "MNC Firms and Health Experts Oppose India’s New Food Warning Labels. Here’s Why | Vantage - Firstpost",
+          "AI sleep data could provide one-week early warning of flu and COVID-19 - GOV.UK"
+        ]
+      },
+      {
+        "trend": "cancer",
+        "market_code": "SE",
+        "category": "Chronic Disease",
+        "score": 8,
+        "examples": [
+          "A $480,000-a-Year Pill Reflects a New Normal for Cancer Drugs - nytimes.com",
+          "BioNTech halts mid-stage trial of personalized mRNA vaccine in colorectal cancer - BioSpace",
+          "Merck and Moderna’s cancer vaccine is customized for each patient’s tumor - drugdiscoverytrends.com"
+        ]
       }
     ],
     "Netherlands": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "NL",
         "category": "Europe Health",
-        "score": 1,
-        "examples": []
+        "score": 74,
+        "examples": [
+          "Maine Health Care Leaders Celebrate Governor Mills as \"Health Care Hero\" - Maine.gov",
+          "Maine Health Care Leaders Celebrate Governor Mills as \"Health Care Hero\" - Maine.gov",
+          "Atrium Health Wake Forest Baptist Names Dr. Matthew Edwards Chief Executive Officer - Atrium Health Wake Forest Baptist"
+        ]
       },
       {
-        "trend": "outbreak",
+        "trend": "medical",
         "market_code": "NL",
-        "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "category": "Europe Health",
+        "score": 11,
+        "examples": [
+          "Luminis Health cyber-attack disrupts Anne Arundel Medical Center - WBAL-TV",
+          "Leading medical groups update flu, COVID vaccine recommendations amid confusion - thehill.com",
+          "WV Justice Wooten treated for dehydration, released after medical incident Wednesday - West Virginia Watch"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "NL",
+        "category": "Mental Health",
+        "score": 10,
+        "examples": [
+          "Division II equipping coaches, athletic trainers with Mental Health First Aid training - NCAA.org",
+          "University Counseling Center partners with Mantra Health to expand virtual mental health support - The University of Utah",
+          "Division II equipping coaches, athletic trainers with Mental Health First Aid training - NCAA.org"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "NL",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
+        "score": 10,
+        "examples": [
+          "Division II equipping coaches, athletic trainers with Mental Health First Aid training - NCAA.org",
+          "University Counseling Center partners with Mantra Health to expand virtual mental health support - The University of Utah",
+          "Division II equipping coaches, athletic trainers with Mental Health First Aid training - NCAA.org"
+        ]
       },
       {
-        "trend": "medical research",
+        "trend": "healthcare",
         "market_code": "NL",
         "category": "Europe Health",
-        "score": 1,
-        "examples": []
+        "score": 10,
+        "examples": [
+          "Central Maine Medical Center nurses to march on boss in solidarity with colleagues unlawfully suspended or fired by Prime Healthcare for speaking up for patients - National Nurses United",
+          "Nurses’ strike: Healthcare associations warn of impact on student training - People Daily",
+          "What belongs in the medical record in the AI era? - Healthcare IT News"
+        ]
       },
       {
-        "trend": "drug approval",
+        "trend": "virus",
         "market_code": "NL",
-        "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
+        "category": "Outbreaks",
+        "score": 10,
+        "examples": [
+          "Brevard County health officials issue alert over West Nile virus - Yahoo",
+          "Scientists in China discover new tick-borne virus that causes flu-like illness - CIDRAP",
+          "OSDH: 3 people infected with West Nile Virus in 2026 - KOKH"
+        ]
       },
       {
-        "trend": "diet wellness",
+        "trend": "health care",
         "market_code": "NL",
-        "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "category": "Europe Health",
+        "score": 9,
+        "examples": [
+          "Maine Health Care Leaders Celebrate Governor Mills as \"Health Care Hero\" - Maine.gov",
+          "Maine Health Care Leaders Celebrate Governor Mills as \"Health Care Hero\" - Maine.gov",
+          "Maine Health Care Leaders Celebrate Governor Mills as \"Health Care Hero\" - Maine.gov"
+        ]
+      },
+      {
+        "trend": "public health",
+        "market_code": "NL",
+        "category": "Europe Health",
+        "score": 9,
+        "examples": [
+          "Beaumont Public Health to Reopen Friday - City of Beaumont, Texas (.gov)",
+          "Public Health Topic: Suicide Prevention Awareness - shrewsburyma.gov",
+          "Democrats urge consumer product agency halt public health modernization project - Nextgov/FCW"
+        ]
+      },
+      {
+        "trend": "outbreak",
+        "market_code": "NL",
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "Ebola disease outbreak in the Democratic Republic of the Congo and Uganda - European Centre for Disease Prevention and Control (ECDC)",
+          "Ebola case counts reach 6,250 in DR Congo outbreak - CIDRAP",
+          "As a measles outbreak escalates in Pennsylvania's Amish Country, exposures rattle people at risk - 6abc Philadelphia"
+        ]
+      },
+      {
+        "trend": "patients",
+        "market_code": "NL",
+        "category": "Europe Health",
+        "score": 8,
+        "examples": [
+          "Central Maine Medical Center nurses to march on boss in solidarity with colleagues unlawfully suspended or fired by Prime Healthcare for speaking up for patients - National Nurses United",
+          "FDA pilot offers generative AI medical devices a path to patients before they are authorized - STAT",
+          "FDA pilot offers generative AI medical devices a path to patients before they are authorized - STAT"
+        ]
+      },
+      {
+        "trend": "warning",
+        "market_code": "NL",
+        "category": "Europe Health",
+        "score": 8,
+        "examples": [
+          "Glass Contamination Warning: Health department warns of Outshine Fruit Bars voluntary recall - Pasadena Weekly",
+          "MNC Firms and Health Experts Oppose India’s New Food Warning Labels. Here’s Why | Vantage - Firstpost",
+          "AI sleep data could provide one-week early warning of flu and COVID-19 - GOV.UK"
+        ]
+      },
+      {
+        "trend": "cancer",
+        "market_code": "NL",
+        "category": "Chronic Disease",
+        "score": 8,
+        "examples": [
+          "A $480,000-a-Year Pill Reflects a New Normal for Cancer Drugs - nytimes.com",
+          "BioNTech halts mid-stage trial of personalized mRNA vaccine in colorectal cancer - BioSpace",
+          "Merck and Moderna’s cancer vaccine is customized for each patient’s tumor - drugdiscoverytrends.com"
+        ]
       }
     ],
     "Finland": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "FI",
         "category": "Europe Health",
-        "score": 1,
-        "examples": []
+        "score": 74,
+        "examples": [
+          "Maine Health Care Leaders Celebrate Governor Mills as \"Health Care Hero\" - Maine.gov",
+          "Maine Health Care Leaders Celebrate Governor Mills as \"Health Care Hero\" - Maine.gov",
+          "Atrium Health Wake Forest Baptist Names Dr. Matthew Edwards Chief Executive Officer - Atrium Health Wake Forest Baptist"
+        ]
       },
       {
-        "trend": "outbreak",
+        "trend": "medical",
         "market_code": "FI",
-        "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "category": "Europe Health",
+        "score": 11,
+        "examples": [
+          "Luminis Health cyber-attack disrupts Anne Arundel Medical Center - WBAL-TV",
+          "Leading medical groups update flu, COVID vaccine recommendations amid confusion - thehill.com",
+          "WV Justice Wooten treated for dehydration, released after medical incident Wednesday - West Virginia Watch"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "FI",
+        "category": "Mental Health",
+        "score": 10,
+        "examples": [
+          "Division II equipping coaches, athletic trainers with Mental Health First Aid training - NCAA.org",
+          "University Counseling Center partners with Mantra Health to expand virtual mental health support - The University of Utah",
+          "Division II equipping coaches, athletic trainers with Mental Health First Aid training - NCAA.org"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "FI",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
+        "score": 10,
+        "examples": [
+          "Division II equipping coaches, athletic trainers with Mental Health First Aid training - NCAA.org",
+          "University Counseling Center partners with Mantra Health to expand virtual mental health support - The University of Utah",
+          "Division II equipping coaches, athletic trainers with Mental Health First Aid training - NCAA.org"
+        ]
       },
       {
-        "trend": "medical research",
+        "trend": "healthcare",
         "market_code": "FI",
         "category": "Europe Health",
-        "score": 1,
-        "examples": []
+        "score": 10,
+        "examples": [
+          "Central Maine Medical Center nurses to march on boss in solidarity with colleagues unlawfully suspended or fired by Prime Healthcare for speaking up for patients - National Nurses United",
+          "Nurses’ strike: Healthcare associations warn of impact on student training - People Daily",
+          "What belongs in the medical record in the AI era? - Healthcare IT News"
+        ]
       },
       {
-        "trend": "drug approval",
+        "trend": "virus",
         "market_code": "FI",
-        "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
+        "category": "Outbreaks",
+        "score": 10,
+        "examples": [
+          "Brevard County health officials issue alert over West Nile virus - Yahoo",
+          "Scientists in China discover new tick-borne virus that causes flu-like illness - CIDRAP",
+          "OSDH: 3 people infected with West Nile Virus in 2026 - KOKH"
+        ]
       },
       {
-        "trend": "diet wellness",
+        "trend": "health care",
         "market_code": "FI",
-        "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "category": "Europe Health",
+        "score": 9,
+        "examples": [
+          "Maine Health Care Leaders Celebrate Governor Mills as \"Health Care Hero\" - Maine.gov",
+          "Maine Health Care Leaders Celebrate Governor Mills as \"Health Care Hero\" - Maine.gov",
+          "Maine Health Care Leaders Celebrate Governor Mills as \"Health Care Hero\" - Maine.gov"
+        ]
+      },
+      {
+        "trend": "public health",
+        "market_code": "FI",
+        "category": "Europe Health",
+        "score": 9,
+        "examples": [
+          "Beaumont Public Health to Reopen Friday - City of Beaumont, Texas (.gov)",
+          "Public Health Topic: Suicide Prevention Awareness - shrewsburyma.gov",
+          "Democrats urge consumer product agency halt public health modernization project - Nextgov/FCW"
+        ]
+      },
+      {
+        "trend": "outbreak",
+        "market_code": "FI",
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "Ebola disease outbreak in the Democratic Republic of the Congo and Uganda - European Centre for Disease Prevention and Control (ECDC)",
+          "Ebola case counts reach 6,250 in DR Congo outbreak - CIDRAP",
+          "As a measles outbreak escalates in Pennsylvania's Amish Country, exposures rattle people at risk - 6abc Philadelphia"
+        ]
+      },
+      {
+        "trend": "patients",
+        "market_code": "FI",
+        "category": "Europe Health",
+        "score": 8,
+        "examples": [
+          "Central Maine Medical Center nurses to march on boss in solidarity with colleagues unlawfully suspended or fired by Prime Healthcare for speaking up for patients - National Nurses United",
+          "FDA pilot offers generative AI medical devices a path to patients before they are authorized - STAT",
+          "FDA pilot offers generative AI medical devices a path to patients before they are authorized - STAT"
+        ]
+      },
+      {
+        "trend": "warning",
+        "market_code": "FI",
+        "category": "Europe Health",
+        "score": 8,
+        "examples": [
+          "Glass Contamination Warning: Health department warns of Outshine Fruit Bars voluntary recall - Pasadena Weekly",
+          "MNC Firms and Health Experts Oppose India’s New Food Warning Labels. Here’s Why | Vantage - Firstpost",
+          "AI sleep data could provide one-week early warning of flu and COVID-19 - GOV.UK"
+        ]
+      },
+      {
+        "trend": "cancer",
+        "market_code": "FI",
+        "category": "Chronic Disease",
+        "score": 8,
+        "examples": [
+          "A $480,000-a-Year Pill Reflects a New Normal for Cancer Drugs - nytimes.com",
+          "BioNTech halts mid-stage trial of personalized mRNA vaccine in colorectal cancer - BioSpace",
+          "Merck and Moderna’s cancer vaccine is customized for each patient’s tumor - drugdiscoverytrends.com"
+        ]
       }
     ],
     "Norway": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "NO",
         "category": "Europe Health",
-        "score": 1,
-        "examples": []
+        "score": 74,
+        "examples": [
+          "Maine Health Care Leaders Celebrate Governor Mills as \"Health Care Hero\" - Maine.gov",
+          "Maine Health Care Leaders Celebrate Governor Mills as \"Health Care Hero\" - Maine.gov",
+          "Atrium Health Wake Forest Baptist Names Dr. Matthew Edwards Chief Executive Officer - Atrium Health Wake Forest Baptist"
+        ]
       },
       {
-        "trend": "outbreak",
+        "trend": "medical",
         "market_code": "NO",
-        "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "category": "Europe Health",
+        "score": 11,
+        "examples": [
+          "Luminis Health cyber-attack disrupts Anne Arundel Medical Center - WBAL-TV",
+          "Leading medical groups update flu, COVID vaccine recommendations amid confusion - thehill.com",
+          "WV Justice Wooten treated for dehydration, released after medical incident Wednesday - West Virginia Watch"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "NO",
+        "category": "Mental Health",
+        "score": 10,
+        "examples": [
+          "Division II equipping coaches, athletic trainers with Mental Health First Aid training - NCAA.org",
+          "University Counseling Center partners with Mantra Health to expand virtual mental health support - The University of Utah",
+          "Division II equipping coaches, athletic trainers with Mental Health First Aid training - NCAA.org"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "NO",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
+        "score": 10,
+        "examples": [
+          "Division II equipping coaches, athletic trainers with Mental Health First Aid training - NCAA.org",
+          "University Counseling Center partners with Mantra Health to expand virtual mental health support - The University of Utah",
+          "Division II equipping coaches, athletic trainers with Mental Health First Aid training - NCAA.org"
+        ]
       },
       {
-        "trend": "medical research",
+        "trend": "healthcare",
         "market_code": "NO",
         "category": "Europe Health",
-        "score": 1,
-        "examples": []
+        "score": 10,
+        "examples": [
+          "Central Maine Medical Center nurses to march on boss in solidarity with colleagues unlawfully suspended or fired by Prime Healthcare for speaking up for patients - National Nurses United",
+          "Nurses’ strike: Healthcare associations warn of impact on student training - People Daily",
+          "What belongs in the medical record in the AI era? - Healthcare IT News"
+        ]
       },
       {
-        "trend": "drug approval",
+        "trend": "virus",
         "market_code": "NO",
-        "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
+        "category": "Outbreaks",
+        "score": 10,
+        "examples": [
+          "Brevard County health officials issue alert over West Nile virus - Yahoo",
+          "Scientists in China discover new tick-borne virus that causes flu-like illness - CIDRAP",
+          "OSDH: 3 people infected with West Nile Virus in 2026 - KOKH"
+        ]
       },
       {
-        "trend": "diet wellness",
+        "trend": "health care",
         "market_code": "NO",
-        "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "category": "Europe Health",
+        "score": 9,
+        "examples": [
+          "Maine Health Care Leaders Celebrate Governor Mills as \"Health Care Hero\" - Maine.gov",
+          "Maine Health Care Leaders Celebrate Governor Mills as \"Health Care Hero\" - Maine.gov",
+          "Maine Health Care Leaders Celebrate Governor Mills as \"Health Care Hero\" - Maine.gov"
+        ]
+      },
+      {
+        "trend": "public health",
+        "market_code": "NO",
+        "category": "Europe Health",
+        "score": 9,
+        "examples": [
+          "Beaumont Public Health to Reopen Friday - City of Beaumont, Texas (.gov)",
+          "Public Health Topic: Suicide Prevention Awareness - shrewsburyma.gov",
+          "Democrats urge consumer product agency halt public health modernization project - Nextgov/FCW"
+        ]
+      },
+      {
+        "trend": "outbreak",
+        "market_code": "NO",
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "Ebola disease outbreak in the Democratic Republic of the Congo and Uganda - European Centre for Disease Prevention and Control (ECDC)",
+          "Ebola case counts reach 6,250 in DR Congo outbreak - CIDRAP",
+          "As a measles outbreak escalates in Pennsylvania's Amish Country, exposures rattle people at risk - 6abc Philadelphia"
+        ]
+      },
+      {
+        "trend": "patients",
+        "market_code": "NO",
+        "category": "Europe Health",
+        "score": 8,
+        "examples": [
+          "Central Maine Medical Center nurses to march on boss in solidarity with colleagues unlawfully suspended or fired by Prime Healthcare for speaking up for patients - National Nurses United",
+          "FDA pilot offers generative AI medical devices a path to patients before they are authorized - STAT",
+          "FDA pilot offers generative AI medical devices a path to patients before they are authorized - STAT"
+        ]
+      },
+      {
+        "trend": "warning",
+        "market_code": "NO",
+        "category": "Europe Health",
+        "score": 8,
+        "examples": [
+          "Glass Contamination Warning: Health department warns of Outshine Fruit Bars voluntary recall - Pasadena Weekly",
+          "MNC Firms and Health Experts Oppose India’s New Food Warning Labels. Here’s Why | Vantage - Firstpost",
+          "AI sleep data could provide one-week early warning of flu and COVID-19 - GOV.UK"
+        ]
+      },
+      {
+        "trend": "cancer",
+        "market_code": "NO",
+        "category": "Chronic Disease",
+        "score": 8,
+        "examples": [
+          "A $480,000-a-Year Pill Reflects a New Normal for Cancer Drugs - nytimes.com",
+          "BioNTech halts mid-stage trial of personalized mRNA vaccine in colorectal cancer - BioSpace",
+          "Merck and Moderna’s cancer vaccine is customized for each patient’s tumor - drugdiscoverytrends.com"
+        ]
       }
     ],
     "Japan": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "JP",
         "category": "Asia Health",
-        "score": 1,
-        "examples": []
+        "score": 74,
+        "examples": [
+          "Maine Health Care Leaders Celebrate Governor Mills as \"Health Care Hero\" - Maine.gov",
+          "Maine Health Care Leaders Celebrate Governor Mills as \"Health Care Hero\" - Maine.gov",
+          "Atrium Health Wake Forest Baptist Names Dr. Matthew Edwards Chief Executive Officer - Atrium Health Wake Forest Baptist"
+        ]
       },
       {
-        "trend": "outbreak",
+        "trend": "medical",
         "market_code": "JP",
-        "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "category": "Asia Health",
+        "score": 11,
+        "examples": [
+          "Luminis Health cyber-attack disrupts Anne Arundel Medical Center - WBAL-TV",
+          "Leading medical groups update flu, COVID vaccine recommendations amid confusion - thehill.com",
+          "WV Justice Wooten treated for dehydration, released after medical incident Wednesday - West Virginia Watch"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "JP",
+        "category": "Mental Health",
+        "score": 10,
+        "examples": [
+          "Division II equipping coaches, athletic trainers with Mental Health First Aid training - NCAA.org",
+          "University Counseling Center partners with Mantra Health to expand virtual mental health support - The University of Utah",
+          "Division II equipping coaches, athletic trainers with Mental Health First Aid training - NCAA.org"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "JP",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
+        "score": 10,
+        "examples": [
+          "Division II equipping coaches, athletic trainers with Mental Health First Aid training - NCAA.org",
+          "University Counseling Center partners with Mantra Health to expand virtual mental health support - The University of Utah",
+          "Division II equipping coaches, athletic trainers with Mental Health First Aid training - NCAA.org"
+        ]
       },
       {
-        "trend": "medical research",
+        "trend": "healthcare",
         "market_code": "JP",
         "category": "Asia Health",
-        "score": 1,
-        "examples": []
+        "score": 10,
+        "examples": [
+          "Central Maine Medical Center nurses to march on boss in solidarity with colleagues unlawfully suspended or fired by Prime Healthcare for speaking up for patients - National Nurses United",
+          "Nurses’ strike: Healthcare associations warn of impact on student training - People Daily",
+          "What belongs in the medical record in the AI era? - Healthcare IT News"
+        ]
       },
       {
-        "trend": "drug approval",
+        "trend": "virus",
         "market_code": "JP",
-        "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
+        "category": "Outbreaks",
+        "score": 10,
+        "examples": [
+          "Brevard County health officials issue alert over West Nile virus - Yahoo",
+          "Scientists in China discover new tick-borne virus that causes flu-like illness - CIDRAP",
+          "OSDH: 3 people infected with West Nile Virus in 2026 - KOKH"
+        ]
       },
       {
-        "trend": "diet wellness",
+        "trend": "health care",
         "market_code": "JP",
-        "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "category": "Asia Health",
+        "score": 9,
+        "examples": [
+          "Maine Health Care Leaders Celebrate Governor Mills as \"Health Care Hero\" - Maine.gov",
+          "Maine Health Care Leaders Celebrate Governor Mills as \"Health Care Hero\" - Maine.gov",
+          "Maine Health Care Leaders Celebrate Governor Mills as \"Health Care Hero\" - Maine.gov"
+        ]
+      },
+      {
+        "trend": "public health",
+        "market_code": "JP",
+        "category": "Asia Health",
+        "score": 9,
+        "examples": [
+          "Beaumont Public Health to Reopen Friday - City of Beaumont, Texas (.gov)",
+          "Public Health Topic: Suicide Prevention Awareness - shrewsburyma.gov",
+          "Democrats urge consumer product agency halt public health modernization project - Nextgov/FCW"
+        ]
+      },
+      {
+        "trend": "outbreak",
+        "market_code": "JP",
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "Ebola disease outbreak in the Democratic Republic of the Congo and Uganda - European Centre for Disease Prevention and Control (ECDC)",
+          "Ebola case counts reach 6,250 in DR Congo outbreak - CIDRAP",
+          "As a measles outbreak escalates in Pennsylvania's Amish Country, exposures rattle people at risk - 6abc Philadelphia"
+        ]
+      },
+      {
+        "trend": "patients",
+        "market_code": "JP",
+        "category": "Asia Health",
+        "score": 8,
+        "examples": [
+          "Central Maine Medical Center nurses to march on boss in solidarity with colleagues unlawfully suspended or fired by Prime Healthcare for speaking up for patients - National Nurses United",
+          "FDA pilot offers generative AI medical devices a path to patients before they are authorized - STAT",
+          "FDA pilot offers generative AI medical devices a path to patients before they are authorized - STAT"
+        ]
+      },
+      {
+        "trend": "warning",
+        "market_code": "JP",
+        "category": "Asia Health",
+        "score": 8,
+        "examples": [
+          "Glass Contamination Warning: Health department warns of Outshine Fruit Bars voluntary recall - Pasadena Weekly",
+          "MNC Firms and Health Experts Oppose India’s New Food Warning Labels. Here’s Why | Vantage - Firstpost",
+          "AI sleep data could provide one-week early warning of flu and COVID-19 - GOV.UK"
+        ]
+      },
+      {
+        "trend": "cancer",
+        "market_code": "JP",
+        "category": "Chronic Disease",
+        "score": 8,
+        "examples": [
+          "A $480,000-a-Year Pill Reflects a New Normal for Cancer Drugs - nytimes.com",
+          "BioNTech halts mid-stage trial of personalized mRNA vaccine in colorectal cancer - BioSpace",
+          "Merck and Moderna’s cancer vaccine is customized for each patient’s tumor - drugdiscoverytrends.com"
+        ]
       }
     ],
     "China": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "CN",
         "category": "Asia Health",
-        "score": 1,
-        "examples": []
+        "score": 74,
+        "examples": [
+          "Maine Health Care Leaders Celebrate Governor Mills as \"Health Care Hero\" - Maine.gov",
+          "Maine Health Care Leaders Celebrate Governor Mills as \"Health Care Hero\" - Maine.gov",
+          "Atrium Health Wake Forest Baptist Names Dr. Matthew Edwards Chief Executive Officer - Atrium Health Wake Forest Baptist"
+        ]
       },
       {
-        "trend": "outbreak",
+        "trend": "medical",
         "market_code": "CN",
-        "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "category": "Asia Health",
+        "score": 11,
+        "examples": [
+          "Luminis Health cyber-attack disrupts Anne Arundel Medical Center - WBAL-TV",
+          "Leading medical groups update flu, COVID vaccine recommendations amid confusion - thehill.com",
+          "WV Justice Wooten treated for dehydration, released after medical incident Wednesday - West Virginia Watch"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "CN",
+        "category": "Mental Health",
+        "score": 10,
+        "examples": [
+          "Division II equipping coaches, athletic trainers with Mental Health First Aid training - NCAA.org",
+          "University Counseling Center partners with Mantra Health to expand virtual mental health support - The University of Utah",
+          "Division II equipping coaches, athletic trainers with Mental Health First Aid training - NCAA.org"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "CN",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
+        "score": 10,
+        "examples": [
+          "Division II equipping coaches, athletic trainers with Mental Health First Aid training - NCAA.org",
+          "University Counseling Center partners with Mantra Health to expand virtual mental health support - The University of Utah",
+          "Division II equipping coaches, athletic trainers with Mental Health First Aid training - NCAA.org"
+        ]
       },
       {
-        "trend": "medical research",
+        "trend": "healthcare",
         "market_code": "CN",
         "category": "Asia Health",
-        "score": 1,
-        "examples": []
+        "score": 10,
+        "examples": [
+          "Central Maine Medical Center nurses to march on boss in solidarity with colleagues unlawfully suspended or fired by Prime Healthcare for speaking up for patients - National Nurses United",
+          "Nurses’ strike: Healthcare associations warn of impact on student training - People Daily",
+          "What belongs in the medical record in the AI era? - Healthcare IT News"
+        ]
       },
       {
-        "trend": "drug approval",
+        "trend": "virus",
         "market_code": "CN",
-        "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
+        "category": "Outbreaks",
+        "score": 10,
+        "examples": [
+          "Brevard County health officials issue alert over West Nile virus - Yahoo",
+          "Scientists in China discover new tick-borne virus that causes flu-like illness - CIDRAP",
+          "OSDH: 3 people infected with West Nile Virus in 2026 - KOKH"
+        ]
       },
       {
-        "trend": "diet wellness",
+        "trend": "health care",
         "market_code": "CN",
-        "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "category": "Asia Health",
+        "score": 9,
+        "examples": [
+          "Maine Health Care Leaders Celebrate Governor Mills as \"Health Care Hero\" - Maine.gov",
+          "Maine Health Care Leaders Celebrate Governor Mills as \"Health Care Hero\" - Maine.gov",
+          "Maine Health Care Leaders Celebrate Governor Mills as \"Health Care Hero\" - Maine.gov"
+        ]
+      },
+      {
+        "trend": "public health",
+        "market_code": "CN",
+        "category": "Asia Health",
+        "score": 9,
+        "examples": [
+          "Beaumont Public Health to Reopen Friday - City of Beaumont, Texas (.gov)",
+          "Public Health Topic: Suicide Prevention Awareness - shrewsburyma.gov",
+          "Democrats urge consumer product agency halt public health modernization project - Nextgov/FCW"
+        ]
+      },
+      {
+        "trend": "outbreak",
+        "market_code": "CN",
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "Ebola disease outbreak in the Democratic Republic of the Congo and Uganda - European Centre for Disease Prevention and Control (ECDC)",
+          "Ebola case counts reach 6,250 in DR Congo outbreak - CIDRAP",
+          "As a measles outbreak escalates in Pennsylvania's Amish Country, exposures rattle people at risk - 6abc Philadelphia"
+        ]
+      },
+      {
+        "trend": "patients",
+        "market_code": "CN",
+        "category": "Asia Health",
+        "score": 8,
+        "examples": [
+          "Central Maine Medical Center nurses to march on boss in solidarity with colleagues unlawfully suspended or fired by Prime Healthcare for speaking up for patients - National Nurses United",
+          "FDA pilot offers generative AI medical devices a path to patients before they are authorized - STAT",
+          "FDA pilot offers generative AI medical devices a path to patients before they are authorized - STAT"
+        ]
+      },
+      {
+        "trend": "warning",
+        "market_code": "CN",
+        "category": "Asia Health",
+        "score": 8,
+        "examples": [
+          "Glass Contamination Warning: Health department warns of Outshine Fruit Bars voluntary recall - Pasadena Weekly",
+          "MNC Firms and Health Experts Oppose India’s New Food Warning Labels. Here’s Why | Vantage - Firstpost",
+          "AI sleep data could provide one-week early warning of flu and COVID-19 - GOV.UK"
+        ]
+      },
+      {
+        "trend": "cancer",
+        "market_code": "CN",
+        "category": "Chronic Disease",
+        "score": 8,
+        "examples": [
+          "A $480,000-a-Year Pill Reflects a New Normal for Cancer Drugs - nytimes.com",
+          "BioNTech halts mid-stage trial of personalized mRNA vaccine in colorectal cancer - BioSpace",
+          "Merck and Moderna’s cancer vaccine is customized for each patient’s tumor - drugdiscoverytrends.com"
+        ]
       }
     ],
     "South Korea": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "KR",
         "category": "Asia Health",
-        "score": 1,
-        "examples": []
+        "score": 74,
+        "examples": [
+          "Maine Health Care Leaders Celebrate Governor Mills as \"Health Care Hero\" - Maine.gov",
+          "Maine Health Care Leaders Celebrate Governor Mills as \"Health Care Hero\" - Maine.gov",
+          "Atrium Health Wake Forest Baptist Names Dr. Matthew Edwards Chief Executive Officer - Atrium Health Wake Forest Baptist"
+        ]
       },
       {
-        "trend": "outbreak",
+        "trend": "medical",
         "market_code": "KR",
-        "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "category": "Asia Health",
+        "score": 11,
+        "examples": [
+          "Luminis Health cyber-attack disrupts Anne Arundel Medical Center - WBAL-TV",
+          "Leading medical groups update flu, COVID vaccine recommendations amid confusion - thehill.com",
+          "WV Justice Wooten treated for dehydration, released after medical incident Wednesday - West Virginia Watch"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "KR",
+        "category": "Mental Health",
+        "score": 10,
+        "examples": [
+          "Division II equipping coaches, athletic trainers with Mental Health First Aid training - NCAA.org",
+          "University Counseling Center partners with Mantra Health to expand virtual mental health support - The University of Utah",
+          "Division II equipping coaches, athletic trainers with Mental Health First Aid training - NCAA.org"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "KR",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
+        "score": 10,
+        "examples": [
+          "Division II equipping coaches, athletic trainers with Mental Health First Aid training - NCAA.org",
+          "University Counseling Center partners with Mantra Health to expand virtual mental health support - The University of Utah",
+          "Division II equipping coaches, athletic trainers with Mental Health First Aid training - NCAA.org"
+        ]
       },
       {
-        "trend": "medical research",
+        "trend": "healthcare",
         "market_code": "KR",
         "category": "Asia Health",
-        "score": 1,
-        "examples": []
+        "score": 10,
+        "examples": [
+          "Central Maine Medical Center nurses to march on boss in solidarity with colleagues unlawfully suspended or fired by Prime Healthcare for speaking up for patients - National Nurses United",
+          "Nurses’ strike: Healthcare associations warn of impact on student training - People Daily",
+          "What belongs in the medical record in the AI era? - Healthcare IT News"
+        ]
       },
       {
-        "trend": "drug approval",
+        "trend": "virus",
         "market_code": "KR",
-        "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
+        "category": "Outbreaks",
+        "score": 10,
+        "examples": [
+          "Brevard County health officials issue alert over West Nile virus - Yahoo",
+          "Scientists in China discover new tick-borne virus that causes flu-like illness - CIDRAP",
+          "OSDH: 3 people infected with West Nile Virus in 2026 - KOKH"
+        ]
       },
       {
-        "trend": "diet wellness",
+        "trend": "health care",
         "market_code": "KR",
-        "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "category": "Asia Health",
+        "score": 9,
+        "examples": [
+          "Maine Health Care Leaders Celebrate Governor Mills as \"Health Care Hero\" - Maine.gov",
+          "Maine Health Care Leaders Celebrate Governor Mills as \"Health Care Hero\" - Maine.gov",
+          "Maine Health Care Leaders Celebrate Governor Mills as \"Health Care Hero\" - Maine.gov"
+        ]
+      },
+      {
+        "trend": "public health",
+        "market_code": "KR",
+        "category": "Asia Health",
+        "score": 9,
+        "examples": [
+          "Beaumont Public Health to Reopen Friday - City of Beaumont, Texas (.gov)",
+          "Public Health Topic: Suicide Prevention Awareness - shrewsburyma.gov",
+          "Democrats urge consumer product agency halt public health modernization project - Nextgov/FCW"
+        ]
+      },
+      {
+        "trend": "outbreak",
+        "market_code": "KR",
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "Ebola disease outbreak in the Democratic Republic of the Congo and Uganda - European Centre for Disease Prevention and Control (ECDC)",
+          "Ebola case counts reach 6,250 in DR Congo outbreak - CIDRAP",
+          "As a measles outbreak escalates in Pennsylvania's Amish Country, exposures rattle people at risk - 6abc Philadelphia"
+        ]
+      },
+      {
+        "trend": "patients",
+        "market_code": "KR",
+        "category": "Asia Health",
+        "score": 8,
+        "examples": [
+          "Central Maine Medical Center nurses to march on boss in solidarity with colleagues unlawfully suspended or fired by Prime Healthcare for speaking up for patients - National Nurses United",
+          "FDA pilot offers generative AI medical devices a path to patients before they are authorized - STAT",
+          "FDA pilot offers generative AI medical devices a path to patients before they are authorized - STAT"
+        ]
+      },
+      {
+        "trend": "warning",
+        "market_code": "KR",
+        "category": "Asia Health",
+        "score": 8,
+        "examples": [
+          "Glass Contamination Warning: Health department warns of Outshine Fruit Bars voluntary recall - Pasadena Weekly",
+          "MNC Firms and Health Experts Oppose India’s New Food Warning Labels. Here’s Why | Vantage - Firstpost",
+          "AI sleep data could provide one-week early warning of flu and COVID-19 - GOV.UK"
+        ]
+      },
+      {
+        "trend": "cancer",
+        "market_code": "KR",
+        "category": "Chronic Disease",
+        "score": 8,
+        "examples": [
+          "A $480,000-a-Year Pill Reflects a New Normal for Cancer Drugs - nytimes.com",
+          "BioNTech halts mid-stage trial of personalized mRNA vaccine in colorectal cancer - BioSpace",
+          "Merck and Moderna’s cancer vaccine is customized for each patient’s tumor - drugdiscoverytrends.com"
+        ]
       }
     ],
     "India": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "IN",
         "category": "Asia Health",
-        "score": 1,
-        "examples": []
+        "score": 72,
+        "examples": [
+          "Kerala High Court welcomes renaming of mental health centres as ‘happiness and wellness centres’ - The Hindu",
+          "KSrelief and UNICEF partnership delivers lifesaving health and nutrition support for children and families in Gaza - Unicef",
+          "Vitality acquires digital health engagement company Icario - MobiHealthNews"
+        ]
       },
       {
-        "trend": "outbreak",
+        "trend": "medical",
         "market_code": "IN",
-        "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "category": "Asia Health",
+        "score": 16,
+        "examples": [
+          "Palakkad Medical College house surgeons call off strike - The Hindu",
+          "ESIC Sanath Nagar Emerges as a Centre of Excellence in Public Healthcare, Medical Education and Digital Health - PIB",
+          "How NML-ERMED Is Bringing the World’s Medical Knowledge Closer to Indian Healthcare - Rising Kashmir"
+        ]
+      },
+      {
+        "trend": "healthcare",
+        "market_code": "IN",
+        "category": "Asia Health",
+        "score": 14,
+        "examples": [
+          "Layoff Tracker—HCA cuts corporate, support staff - Fierce Healthcare",
+          "ESIC Sanath Nagar Emerges as a Centre of Excellence in Public Healthcare, Medical Education and Digital Health - PIB",
+          "How NML-ERMED Is Bringing the World’s Medical Knowledge Closer to Indian Healthcare - Rising Kashmir"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "IN",
+        "category": "Mental Health",
+        "score": 12,
+        "examples": [
+          "Kerala High Court welcomes renaming of mental health centres as ‘happiness and wellness centres’ - The Hindu",
+          "The Week in Health: Mental Health Strategy, Public Funding Boosts - Mexico Business News",
+          "Nobel-winning doctor joins health experts warning of Trump’s deteriorating mental state - The Independent"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "IN",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
+        "score": 11,
+        "examples": [
+          "Kerala High Court welcomes renaming of mental health centres as ‘happiness and wellness centres’ - The Hindu",
+          "The Week in Health: Mental Health Strategy, Public Funding Boosts - Mexico Business News",
+          "Kerala High Court welcomes renaming of mental health centres as ‘happiness and wellness centres’ - The Hindu"
+        ]
       },
       {
-        "trend": "medical research",
+        "trend": "outbreak",
         "market_code": "IN",
-        "category": "Asia Health",
-        "score": 1,
-        "examples": []
+        "category": "Outbreaks",
+        "score": 10,
+        "examples": [
+          "Ebola disease outbreak in the Democratic Republic of the Congo and Uganda - ecdc.europa.eu",
+          "Bangladesh: Measles outbreak claimed 9 more deaths during 24 hrs - News On AIR",
+          "Ebola Outbreak ‘Still Evolving’ as Deaths Pass 3,000 - Health Policy Watch"
+        ]
       },
       {
-        "trend": "drug approval",
+        "trend": "cancer",
+        "market_code": "IN",
+        "category": "Chronic Disease",
+        "score": 10,
+        "examples": [
+          "Cancer drug eliminates HIV-infected cells in animal model study - News-Medical",
+          "Vara nets first CE mark for autonomous AI breast cancer screening tool - Medical Device Network",
+          "Europe Cancer Vaccines Market Size, Share,Trends, Growth Analysis Report, 2029 - marketsandmarkets.com"
+        ]
+      },
+      {
+        "trend": "vaccine",
         "market_code": "IN",
         "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
+        "score": 8,
+        "examples": [
+          "Medical groups continue to diverge from CDC on fall vaccine schedule - TechTarget",
+          "Global initiative launched to improve access to mpox vaccines - Gavi, the Vaccine Alliance",
+          "How a new global mpox vaccine stockpile could help the world respond faster to outbreaks - Gavi, the Vaccine Alliance"
+        ]
       },
       {
-        "trend": "diet wellness",
+        "trend": "warning",
         "market_code": "IN",
-        "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "category": "Asia Health",
+        "score": 8,
+        "examples": [
+          "MNC Firms and Health Experts Oppose India’s New Food Warning Labels. Here’s Why | Vantage - Firstpost",
+          "Too weak, too strict: India's food warning labels draw fire from all sides - ET BrandEquity",
+          "AI sleep data could provide one-week early warning of flu and COVID-19 - GOV.UK"
+        ]
+      },
+      {
+        "trend": "virus",
+        "market_code": "IN",
+        "category": "Outbreaks",
+        "score": 8,
+        "examples": [
+          "Brevard County health officials issue alert over West Nile virus - Yahoo",
+          "Invasive mosquitoes which can spread deadly virus are found breeding in UK homes - The Sun",
+          "Rapid reaction: Mosquitoes that carry chikungunya, dengue and Zika virus breeding in UK - lshtm.ac.uk"
+        ]
+      },
+      {
+        "trend": "digital health",
+        "market_code": "IN",
+        "category": "Medical Technology",
+        "score": 7,
+        "examples": [
+          "Vitality acquires digital health engagement company Icario - MobiHealthNews",
+          "Low private-sector adoption could slow digital health mission, says ACS - The Times of India",
+          "ESIC Sanath Nagar Emerges as a Centre of Excellence in Public Healthcare, Medical Education and Digital Health - PIB"
+        ]
+      },
+      {
+        "trend": "hospital",
+        "market_code": "IN",
+        "category": "Asia Health",
+        "score": 7,
+        "examples": [
+          "From Field Epidemiology to Hospital Wards with William Schaffner - EMJ",
+          "From Field Epidemiology to Hospital Wards with William Schaffner - EMJ",
+          "From Field Epidemiology to Hospital Wards with William Schaffner - EMJ"
+        ]
       }
     ],
     "Australia": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "AU",
         "category": "Global Health",
-        "score": 1,
-        "examples": []
+        "score": 56,
+        "examples": [
+          "States fume over private health changes 'robbing Peter to pay Paul' - ABC News & Headlines – Australian Broadcasting Corporation",
+          "WHO validates Timor-Leste’s elimination of trachoma as a public health problem - who.int",
+          "Health professionals FAQ for Medicare Mental Health Check In - Hospital + Healthcare"
+        ]
       },
       {
-        "trend": "outbreak",
+        "trend": "medical",
         "market_code": "AU",
-        "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "category": "Global Health",
+        "score": 14,
+        "examples": [
+          "Eight-level development proposed for former medical site - sunshinecoastnews.com.au",
+          "How neuro-symbolic AI is redefining medical diagnostics - NTT, Inc.",
+          "Boost in Medical Imaging Precision with Hybrid Approach - Mirage News"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "AU",
+        "category": "Mental Health",
+        "score": 10,
+        "examples": [
+          "Health professionals FAQ for Medicare Mental Health Check In - Hospital + Healthcare",
+          "Earlier social media use linked to poorer teen mental health - The Educator K/12",
+          "Mental health patient died by suicide before having medication review - ABC News & Headlines – Australian Broadcasting Corporation"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "AU",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
+        "score": 10,
+        "examples": [
+          "Health professionals FAQ for Medicare Mental Health Check In - Hospital + Healthcare",
+          "Earlier social media use linked to poorer teen mental health - The Educator K/12",
+          "Mental health patient died by suicide before having medication review - ABC News & Headlines – Australian Broadcasting Corporation"
+        ]
       },
       {
-        "trend": "medical research",
+        "trend": "warning",
         "market_code": "AU",
         "category": "Global Health",
-        "score": 1,
-        "examples": []
+        "score": 10,
+        "examples": [
+          "AI sleep data could provide one-week early warning of flu and COVID-19 - GOV.UK",
+          "MNC Firms and Health Experts Oppose India’s New Food Warning Labels. Here’s Why | Vantage - Firstpost",
+          "Early flu rise prompts health warning - FBC News"
+        ]
       },
       {
-        "trend": "drug approval",
+        "trend": "virus",
         "market_code": "AU",
-        "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "Brevard County health officials issue alert over West Nile virus - Yahoo",
+          "‘Timidity is a virus’: Paul Keating fights the fading of the light as he seeks to enshrine his legacy - The Guardian",
+          "Varicella Zoster Virus Risk: More Than Pox and Shingles - Mirage News"
+        ]
       },
       {
-        "trend": "diet wellness",
+        "trend": "cancer",
         "market_code": "AU",
-        "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "category": "Chronic Disease",
+        "score": 9,
+        "examples": [
+          "Time is running out for teenage cancer patient, but 'sliver of hope' on horizon - ABC News & Headlines – Australian Broadcasting Corporation",
+          "mRNA vaccine stops skin cancer from returning in patients - eara.eu",
+          "Smart drugs can now spot the chinks in cancer’s armour - Al Majalla"
+        ]
+      },
+      {
+        "trend": "outbreak",
+        "market_code": "AU",
+        "category": "Outbreaks",
+        "score": 8,
+        "examples": [
+          "Ebola disease outbreak in the Democratic Republic of the Congo and Uganda - European Centre for Disease Prevention and Control (ECDC)",
+          "Ebola disease outbreak in the Democratic Republic of the Congo and Uganda - European Centre for Disease Prevention and Control (ECDC)",
+          "Ebola Outbreak ‘Still Evolving’ as Deaths Pass 3,000 - Health Policy Watch"
+        ]
+      },
+      {
+        "trend": "patients",
+        "market_code": "AU",
+        "category": "Global Health",
+        "score": 8,
+        "examples": [
+          "Clinical Characteristics, Microbial Profile, and Factors Associated with Recurrent Urinary Tract Infections in Patients with Diabetes Mellitus: A Retrospective Cohort Study - Cureus",
+          "FDA pilot offers generative AI medical devices a path to patients before they are authorized - STAT",
+          "ZS's Bhargav Mantha: AI Is Reshaping Patients, and Medical Device Makers Must Own the Entire Journey - finance.biggo.com"
+        ]
+      },
+      {
+        "trend": "healthcare",
+        "market_code": "AU",
+        "category": "Global Health",
+        "score": 6,
+        "examples": [
+          "Health professionals FAQ for Medicare Mental Health Check In - Hospital + Healthcare",
+          "Nurses’ strike: Healthcare associations warn of impact on student training - People Daily",
+          "Health professionals FAQ for Medicare Mental Health Check In - Hospital + Healthcare"
+        ]
+      },
+      {
+        "trend": "children",
+        "market_code": "AU",
+        "category": "Children Health",
+        "score": 6,
+        "examples": [
+          "Measles outbreak in Sweden: most cases in unvaccinated children - VaccinesToday",
+          "Children's Health: When to Keep a Child Home From School - Woman's World",
+          "Building Healthier, Safer Futures for Kids - Children's Hospital Association"
+        ]
+      },
+      {
+        "trend": "public health",
+        "market_code": "AU",
+        "category": "Global Health",
+        "score": 5,
+        "examples": [
+          "WHO validates Timor-Leste’s elimination of trachoma as a public health problem - who.int",
+          "WHO validates Timor-Leste’s elimination of trachoma as a public health problem - who.int",
+          "Coalition plan to cut tobacco excise by 80% ‘will kill people,’ Labor says amid public health alarm - The Guardian"
+        ]
       }
     ],
     "Canada": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "CA",
         "category": "Global Health",
-        "score": 1,
-        "examples": []
+        "score": 53,
+        "examples": [
+          "Kidney Health Awareness Showing Improvement - Ipsos",
+          "Back to school anxiety: Helping kids feel ready - Fraser Health",
+          "Nipigon health team receives big boost in annual funding - SNNewsWatch.com"
+        ]
+      },
+      {
+        "trend": "medical",
+        "market_code": "CA",
+        "category": "Global Health",
+        "score": 15,
+        "examples": [
+          "Claire Elyse Brosseau denied emergency relief to receive medical assistance in dying (MAID) with mental illness as the sole underlying medical condition - PR Newswire Canada",
+          "Claire Elyse Brosseau denied emergency relief to receive medical assistance in dying (MAID) with mental illness as the sole underlying medical condition - PR Newswire Canada",
+          "Minden medical student gets award - thehighlander.ca"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "CA",
+        "category": "Mental Health",
+        "score": 10,
+        "examples": [
+          "Claire Elyse Brosseau denied emergency relief to receive medical assistance in dying (MAID) with mental illness as the sole underlying medical condition - PR Newswire Canada",
+          "Claire Elyse Brosseau denied emergency relief to receive medical assistance in dying (MAID) with mental illness as the sole underlying medical condition - The Globe and Mail",
+          "Important mental health reminders as kids go back to school - Global News"
+        ]
+      },
+      {
+        "trend": "cancer",
+        "market_code": "CA",
+        "category": "Chronic Disease",
+        "score": 10,
+        "examples": [
+          "Merck and Moderna’s cancer vaccine is customized for each patient’s tumor - drugdiscoverytrends.com",
+          "How Much of a Cancer Drug Is Too Much? Patients, Researchers Challenge FDA-Approved Dosages - Cancer Therapy Advisor",
+          "How Much of a Cancer Drug Is Too Much? Patients, Researchers Challenge FDA-Approved Dosages - Cancer Therapy Advisor"
+        ]
+      },
+      {
+        "trend": "patients",
+        "market_code": "CA",
+        "category": "Global Health",
+        "score": 9,
+        "examples": [
+          "FDA pilot offers generative AI medical devices a path to patients before they are authorized - STAT",
+          "Clinical Characteristics, Microbial Profile, and Factors Associated with Recurrent Urinary Tract Infections in Patients with Diabetes Mellitus: A Retrospective Cohort Study - Cureus",
+          "FDA pilot offers generative AI medical devices a path to patients before they are authorized - STAT"
+        ]
+      },
+      {
+        "trend": "virus",
+        "market_code": "CA",
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "Brevard County health officials issue alert over West Nile virus - Yahoo",
+          "Peel Public Health confirms region's 1st human case of West Nile virus this year - Brampton Guardian",
+          "Zika virus mosquito found breeding in east London in UK first - Yahoo News Canada"
+        ]
       },
       {
         "trend": "outbreak",
         "market_code": "CA",
         "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "score": 9,
+        "examples": [
+          "Ebola disease outbreak in the Democratic Republic of the Congo and Uganda - European Centre for Disease Prevention and Control (ECDC)",
+          "Ebola case counts reach 6,250 in DR Congo outbreak - CIDRAP",
+          "5 challenges Congo faces in containing its fast-moving Ebola outbreak - Toronto Star"
+        ]
+      },
+      {
+        "trend": "healthcare",
+        "market_code": "CA",
+        "category": "Global Health",
+        "score": 8,
+        "examples": [
+          "Nurses’ strike: Healthcare associations warn of impact on student training - People Daily",
+          "OpenEvidence deepens oncology push, launches new AI model family - Fierce Healthcare",
+          "IQVIA Wins Multiple Industry Awards for AI and Technology Innovation Across Life Sciences and Healthcare - Business Wire"
+        ]
+      },
+      {
+        "trend": "vaccine",
+        "market_code": "CA",
+        "category": "Drug & Treatment News",
+        "score": 7,
+        "examples": [
+          "Leading medical groups update flu, COVID vaccine recommendations amid confusion - The Hill",
+          "How a new global mpox vaccine stockpile could help the world respond faster to outbreaks - Gavi, the Vaccine Alliance",
+          "How a new global mpox vaccine stockpile could help the world respond faster to outbreaks - Gavi, the Vaccine Alliance"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "CA",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
+        "score": 7,
+        "examples": [
+          "Important mental health reminders as kids go back to school - Global News",
+          "CMHA warns community mental health programs at risk without new federal deal - Red Deer Advocate",
+          "Cheeky Comox Valley calendar makes a splash for men’s mental health - Nanaimo News Bulletin"
+        ]
       },
       {
-        "trend": "medical research",
+        "trend": "warning",
         "market_code": "CA",
         "category": "Global Health",
-        "score": 1,
-        "examples": []
+        "score": 6,
+        "examples": [
+          "Windsor-Essex County Health Unit Issues Heat Warning for September 3 - Kingsville Times",
+          "Health unit issues heat warning as temperatures soar - Windsor News Today",
+          "AI sleep data could provide one-week early warning of flu and COVID-19 - GOV.UK"
+        ]
       },
       {
-        "trend": "drug approval",
+        "trend": "disease",
         "market_code": "CA",
-        "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
-      },
-      {
-        "trend": "diet wellness",
-        "market_code": "CA",
-        "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "category": "Global Health",
+        "score": 6,
+        "examples": [
+          "Ebola disease outbreak in the Democratic Republic of the Congo and Uganda - European Centre for Disease Prevention and Control (ECDC)",
+          "Ebola disease outbreak in the Democratic Republic of the Congo and Uganda - European Centre for Disease Prevention and Control (ECDC)",
+          "Ebola disease outbreak in the Democratic Republic of the Congo and Uganda - European Centre for Disease Prevention and Control (ECDC)"
+        ]
       }
     ],
     "United Arab Emirates": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "AE",
         "category": "Arab Health",
-        "score": 1,
-        "examples": []
+        "score": 74,
+        "examples": [
+          "Maine Health Care Leaders Celebrate Governor Mills as \"Health Care Hero\" - Maine.gov",
+          "Maine Health Care Leaders Celebrate Governor Mills as \"Health Care Hero\" - Maine.gov",
+          "Atrium Health Wake Forest Baptist Names Dr. Matthew Edwards Chief Executive Officer - Atrium Health Wake Forest Baptist"
+        ]
       },
       {
-        "trend": "outbreak",
+        "trend": "medical",
         "market_code": "AE",
-        "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "category": "Arab Health",
+        "score": 11,
+        "examples": [
+          "Luminis Health cyber-attack disrupts Anne Arundel Medical Center - WBAL-TV",
+          "Leading medical groups update flu, COVID vaccine recommendations amid confusion - thehill.com",
+          "WV Justice Wooten treated for dehydration, released after medical incident Wednesday - West Virginia Watch"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "AE",
+        "category": "Mental Health",
+        "score": 10,
+        "examples": [
+          "Division II equipping coaches, athletic trainers with Mental Health First Aid training - NCAA.org",
+          "University Counseling Center partners with Mantra Health to expand virtual mental health support - The University of Utah",
+          "Division II equipping coaches, athletic trainers with Mental Health First Aid training - NCAA.org"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "AE",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
+        "score": 10,
+        "examples": [
+          "Division II equipping coaches, athletic trainers with Mental Health First Aid training - NCAA.org",
+          "University Counseling Center partners with Mantra Health to expand virtual mental health support - The University of Utah",
+          "Division II equipping coaches, athletic trainers with Mental Health First Aid training - NCAA.org"
+        ]
       },
       {
-        "trend": "medical research",
+        "trend": "healthcare",
         "market_code": "AE",
         "category": "Arab Health",
-        "score": 1,
-        "examples": []
+        "score": 10,
+        "examples": [
+          "Central Maine Medical Center nurses to march on boss in solidarity with colleagues unlawfully suspended or fired by Prime Healthcare for speaking up for patients - National Nurses United",
+          "Nurses’ strike: Healthcare associations warn of impact on student training - People Daily",
+          "What belongs in the medical record in the AI era? - Healthcare IT News"
+        ]
       },
       {
-        "trend": "drug approval",
+        "trend": "virus",
         "market_code": "AE",
-        "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
+        "category": "Outbreaks",
+        "score": 10,
+        "examples": [
+          "Brevard County health officials issue alert over West Nile virus - Yahoo",
+          "Scientists in China discover new tick-borne virus that causes flu-like illness - CIDRAP",
+          "OSDH: 3 people infected with West Nile Virus in 2026 - KOKH"
+        ]
       },
       {
-        "trend": "diet wellness",
+        "trend": "health care",
         "market_code": "AE",
-        "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "category": "Arab Health",
+        "score": 9,
+        "examples": [
+          "Maine Health Care Leaders Celebrate Governor Mills as \"Health Care Hero\" - Maine.gov",
+          "Maine Health Care Leaders Celebrate Governor Mills as \"Health Care Hero\" - Maine.gov",
+          "Maine Health Care Leaders Celebrate Governor Mills as \"Health Care Hero\" - Maine.gov"
+        ]
+      },
+      {
+        "trend": "public health",
+        "market_code": "AE",
+        "category": "Arab Health",
+        "score": 9,
+        "examples": [
+          "Beaumont Public Health to Reopen Friday - City of Beaumont, Texas (.gov)",
+          "Public Health Topic: Suicide Prevention Awareness - shrewsburyma.gov",
+          "Democrats urge consumer product agency halt public health modernization project - Nextgov/FCW"
+        ]
+      },
+      {
+        "trend": "outbreak",
+        "market_code": "AE",
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "Ebola disease outbreak in the Democratic Republic of the Congo and Uganda - European Centre for Disease Prevention and Control (ECDC)",
+          "Ebola case counts reach 6,250 in DR Congo outbreak - CIDRAP",
+          "As a measles outbreak escalates in Pennsylvania's Amish Country, exposures rattle people at risk - 6abc Philadelphia"
+        ]
+      },
+      {
+        "trend": "patients",
+        "market_code": "AE",
+        "category": "Arab Health",
+        "score": 8,
+        "examples": [
+          "Central Maine Medical Center nurses to march on boss in solidarity with colleagues unlawfully suspended or fired by Prime Healthcare for speaking up for patients - National Nurses United",
+          "FDA pilot offers generative AI medical devices a path to patients before they are authorized - STAT",
+          "FDA pilot offers generative AI medical devices a path to patients before they are authorized - STAT"
+        ]
+      },
+      {
+        "trend": "warning",
+        "market_code": "AE",
+        "category": "Arab Health",
+        "score": 8,
+        "examples": [
+          "Glass Contamination Warning: Health department warns of Outshine Fruit Bars voluntary recall - Pasadena Weekly",
+          "MNC Firms and Health Experts Oppose India’s New Food Warning Labels. Here’s Why | Vantage - Firstpost",
+          "AI sleep data could provide one-week early warning of flu and COVID-19 - GOV.UK"
+        ]
+      },
+      {
+        "trend": "cancer",
+        "market_code": "AE",
+        "category": "Chronic Disease",
+        "score": 8,
+        "examples": [
+          "A $480,000-a-Year Pill Reflects a New Normal for Cancer Drugs - nytimes.com",
+          "BioNTech halts mid-stage trial of personalized mRNA vaccine in colorectal cancer - BioSpace",
+          "Merck and Moderna’s cancer vaccine is customized for each patient’s tumor - drugdiscoverytrends.com"
+        ]
       }
     ],
     "Saudi Arabia": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "SA",
         "category": "Arab Health",
-        "score": 1,
-        "examples": []
+        "score": 74,
+        "examples": [
+          "Maine Health Care Leaders Celebrate Governor Mills as \"Health Care Hero\" - Maine.gov",
+          "Maine Health Care Leaders Celebrate Governor Mills as \"Health Care Hero\" - Maine.gov",
+          "Atrium Health Wake Forest Baptist Names Dr. Matthew Edwards Chief Executive Officer - Atrium Health Wake Forest Baptist"
+        ]
       },
       {
-        "trend": "outbreak",
+        "trend": "medical",
         "market_code": "SA",
-        "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "category": "Arab Health",
+        "score": 11,
+        "examples": [
+          "Luminis Health cyber-attack disrupts Anne Arundel Medical Center - WBAL-TV",
+          "Leading medical groups update flu, COVID vaccine recommendations amid confusion - thehill.com",
+          "WV Justice Wooten treated for dehydration, released after medical incident Wednesday - West Virginia Watch"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "SA",
+        "category": "Mental Health",
+        "score": 10,
+        "examples": [
+          "Division II equipping coaches, athletic trainers with Mental Health First Aid training - NCAA.org",
+          "University Counseling Center partners with Mantra Health to expand virtual mental health support - The University of Utah",
+          "Division II equipping coaches, athletic trainers with Mental Health First Aid training - NCAA.org"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "SA",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
+        "score": 10,
+        "examples": [
+          "Division II equipping coaches, athletic trainers with Mental Health First Aid training - NCAA.org",
+          "University Counseling Center partners with Mantra Health to expand virtual mental health support - The University of Utah",
+          "Division II equipping coaches, athletic trainers with Mental Health First Aid training - NCAA.org"
+        ]
       },
       {
-        "trend": "medical research",
+        "trend": "healthcare",
         "market_code": "SA",
         "category": "Arab Health",
-        "score": 1,
-        "examples": []
+        "score": 10,
+        "examples": [
+          "Central Maine Medical Center nurses to march on boss in solidarity with colleagues unlawfully suspended or fired by Prime Healthcare for speaking up for patients - National Nurses United",
+          "Nurses’ strike: Healthcare associations warn of impact on student training - People Daily",
+          "What belongs in the medical record in the AI era? - Healthcare IT News"
+        ]
       },
       {
-        "trend": "drug approval",
+        "trend": "virus",
         "market_code": "SA",
-        "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
+        "category": "Outbreaks",
+        "score": 10,
+        "examples": [
+          "Brevard County health officials issue alert over West Nile virus - Yahoo",
+          "Scientists in China discover new tick-borne virus that causes flu-like illness - CIDRAP",
+          "OSDH: 3 people infected with West Nile Virus in 2026 - KOKH"
+        ]
       },
       {
-        "trend": "diet wellness",
+        "trend": "health care",
         "market_code": "SA",
-        "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "category": "Arab Health",
+        "score": 9,
+        "examples": [
+          "Maine Health Care Leaders Celebrate Governor Mills as \"Health Care Hero\" - Maine.gov",
+          "Maine Health Care Leaders Celebrate Governor Mills as \"Health Care Hero\" - Maine.gov",
+          "Maine Health Care Leaders Celebrate Governor Mills as \"Health Care Hero\" - Maine.gov"
+        ]
+      },
+      {
+        "trend": "public health",
+        "market_code": "SA",
+        "category": "Arab Health",
+        "score": 9,
+        "examples": [
+          "Beaumont Public Health to Reopen Friday - City of Beaumont, Texas (.gov)",
+          "Public Health Topic: Suicide Prevention Awareness - shrewsburyma.gov",
+          "Democrats urge consumer product agency halt public health modernization project - Nextgov/FCW"
+        ]
+      },
+      {
+        "trend": "outbreak",
+        "market_code": "SA",
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "Ebola disease outbreak in the Democratic Republic of the Congo and Uganda - European Centre for Disease Prevention and Control (ECDC)",
+          "Ebola case counts reach 6,250 in DR Congo outbreak - CIDRAP",
+          "As a measles outbreak escalates in Pennsylvania's Amish Country, exposures rattle people at risk - 6abc Philadelphia"
+        ]
+      },
+      {
+        "trend": "patients",
+        "market_code": "SA",
+        "category": "Arab Health",
+        "score": 8,
+        "examples": [
+          "Central Maine Medical Center nurses to march on boss in solidarity with colleagues unlawfully suspended or fired by Prime Healthcare for speaking up for patients - National Nurses United",
+          "FDA pilot offers generative AI medical devices a path to patients before they are authorized - STAT",
+          "FDA pilot offers generative AI medical devices a path to patients before they are authorized - STAT"
+        ]
+      },
+      {
+        "trend": "warning",
+        "market_code": "SA",
+        "category": "Arab Health",
+        "score": 8,
+        "examples": [
+          "Glass Contamination Warning: Health department warns of Outshine Fruit Bars voluntary recall - Pasadena Weekly",
+          "MNC Firms and Health Experts Oppose India’s New Food Warning Labels. Here’s Why | Vantage - Firstpost",
+          "AI sleep data could provide one-week early warning of flu and COVID-19 - GOV.UK"
+        ]
+      },
+      {
+        "trend": "cancer",
+        "market_code": "SA",
+        "category": "Chronic Disease",
+        "score": 8,
+        "examples": [
+          "A $480,000-a-Year Pill Reflects a New Normal for Cancer Drugs - nytimes.com",
+          "BioNTech halts mid-stage trial of personalized mRNA vaccine in colorectal cancer - BioSpace",
+          "Merck and Moderna’s cancer vaccine is customized for each patient’s tumor - drugdiscoverytrends.com"
+        ]
       }
     ],
     "Qatar": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "QA",
         "category": "Arab Health",
-        "score": 1,
-        "examples": []
+        "score": 74,
+        "examples": [
+          "Maine Health Care Leaders Celebrate Governor Mills as \"Health Care Hero\" - Maine.gov",
+          "Maine Health Care Leaders Celebrate Governor Mills as \"Health Care Hero\" - Maine.gov",
+          "Atrium Health Wake Forest Baptist Names Dr. Matthew Edwards Chief Executive Officer - Atrium Health Wake Forest Baptist"
+        ]
       },
       {
-        "trend": "outbreak",
+        "trend": "medical",
         "market_code": "QA",
-        "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "category": "Arab Health",
+        "score": 11,
+        "examples": [
+          "Luminis Health cyber-attack disrupts Anne Arundel Medical Center - WBAL-TV",
+          "Leading medical groups update flu, COVID vaccine recommendations amid confusion - thehill.com",
+          "WV Justice Wooten treated for dehydration, released after medical incident Wednesday - West Virginia Watch"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "QA",
+        "category": "Mental Health",
+        "score": 10,
+        "examples": [
+          "Division II equipping coaches, athletic trainers with Mental Health First Aid training - NCAA.org",
+          "University Counseling Center partners with Mantra Health to expand virtual mental health support - The University of Utah",
+          "Division II equipping coaches, athletic trainers with Mental Health First Aid training - NCAA.org"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "QA",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
+        "score": 10,
+        "examples": [
+          "Division II equipping coaches, athletic trainers with Mental Health First Aid training - NCAA.org",
+          "University Counseling Center partners with Mantra Health to expand virtual mental health support - The University of Utah",
+          "Division II equipping coaches, athletic trainers with Mental Health First Aid training - NCAA.org"
+        ]
       },
       {
-        "trend": "medical research",
+        "trend": "healthcare",
         "market_code": "QA",
         "category": "Arab Health",
-        "score": 1,
-        "examples": []
+        "score": 10,
+        "examples": [
+          "Central Maine Medical Center nurses to march on boss in solidarity with colleagues unlawfully suspended or fired by Prime Healthcare for speaking up for patients - National Nurses United",
+          "Nurses’ strike: Healthcare associations warn of impact on student training - People Daily",
+          "What belongs in the medical record in the AI era? - Healthcare IT News"
+        ]
       },
       {
-        "trend": "drug approval",
+        "trend": "virus",
         "market_code": "QA",
-        "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
+        "category": "Outbreaks",
+        "score": 10,
+        "examples": [
+          "Brevard County health officials issue alert over West Nile virus - Yahoo",
+          "Scientists in China discover new tick-borne virus that causes flu-like illness - CIDRAP",
+          "OSDH: 3 people infected with West Nile Virus in 2026 - KOKH"
+        ]
       },
       {
-        "trend": "diet wellness",
+        "trend": "health care",
         "market_code": "QA",
-        "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "category": "Arab Health",
+        "score": 9,
+        "examples": [
+          "Maine Health Care Leaders Celebrate Governor Mills as \"Health Care Hero\" - Maine.gov",
+          "Maine Health Care Leaders Celebrate Governor Mills as \"Health Care Hero\" - Maine.gov",
+          "Maine Health Care Leaders Celebrate Governor Mills as \"Health Care Hero\" - Maine.gov"
+        ]
+      },
+      {
+        "trend": "public health",
+        "market_code": "QA",
+        "category": "Arab Health",
+        "score": 9,
+        "examples": [
+          "Beaumont Public Health to Reopen Friday - City of Beaumont, Texas (.gov)",
+          "Public Health Topic: Suicide Prevention Awareness - shrewsburyma.gov",
+          "Democrats urge consumer product agency halt public health modernization project - Nextgov/FCW"
+        ]
+      },
+      {
+        "trend": "outbreak",
+        "market_code": "QA",
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "Ebola disease outbreak in the Democratic Republic of the Congo and Uganda - European Centre for Disease Prevention and Control (ECDC)",
+          "Ebola case counts reach 6,250 in DR Congo outbreak - CIDRAP",
+          "As a measles outbreak escalates in Pennsylvania's Amish Country, exposures rattle people at risk - 6abc Philadelphia"
+        ]
+      },
+      {
+        "trend": "patients",
+        "market_code": "QA",
+        "category": "Arab Health",
+        "score": 8,
+        "examples": [
+          "Central Maine Medical Center nurses to march on boss in solidarity with colleagues unlawfully suspended or fired by Prime Healthcare for speaking up for patients - National Nurses United",
+          "FDA pilot offers generative AI medical devices a path to patients before they are authorized - STAT",
+          "FDA pilot offers generative AI medical devices a path to patients before they are authorized - STAT"
+        ]
+      },
+      {
+        "trend": "warning",
+        "market_code": "QA",
+        "category": "Arab Health",
+        "score": 8,
+        "examples": [
+          "Glass Contamination Warning: Health department warns of Outshine Fruit Bars voluntary recall - Pasadena Weekly",
+          "MNC Firms and Health Experts Oppose India’s New Food Warning Labels. Here’s Why | Vantage - Firstpost",
+          "AI sleep data could provide one-week early warning of flu and COVID-19 - GOV.UK"
+        ]
+      },
+      {
+        "trend": "cancer",
+        "market_code": "QA",
+        "category": "Chronic Disease",
+        "score": 8,
+        "examples": [
+          "A $480,000-a-Year Pill Reflects a New Normal for Cancer Drugs - nytimes.com",
+          "BioNTech halts mid-stage trial of personalized mRNA vaccine in colorectal cancer - BioSpace",
+          "Merck and Moderna’s cancer vaccine is customized for each patient’s tumor - drugdiscoverytrends.com"
+        ]
       }
     ],
     "Jordan": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "JO",
         "category": "Arab Health",
-        "score": 1,
-        "examples": []
+        "score": 74,
+        "examples": [
+          "Maine Health Care Leaders Celebrate Governor Mills as \"Health Care Hero\" - Maine.gov",
+          "Maine Health Care Leaders Celebrate Governor Mills as \"Health Care Hero\" - Maine.gov",
+          "Atrium Health Wake Forest Baptist Names Dr. Matthew Edwards Chief Executive Officer - Atrium Health Wake Forest Baptist"
+        ]
       },
       {
-        "trend": "outbreak",
+        "trend": "medical",
         "market_code": "JO",
-        "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "category": "Arab Health",
+        "score": 11,
+        "examples": [
+          "Luminis Health cyber-attack disrupts Anne Arundel Medical Center - WBAL-TV",
+          "Leading medical groups update flu, COVID vaccine recommendations amid confusion - thehill.com",
+          "WV Justice Wooten treated for dehydration, released after medical incident Wednesday - West Virginia Watch"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "JO",
+        "category": "Mental Health",
+        "score": 10,
+        "examples": [
+          "Division II equipping coaches, athletic trainers with Mental Health First Aid training - NCAA.org",
+          "University Counseling Center partners with Mantra Health to expand virtual mental health support - The University of Utah",
+          "Division II equipping coaches, athletic trainers with Mental Health First Aid training - NCAA.org"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "JO",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
+        "score": 10,
+        "examples": [
+          "Division II equipping coaches, athletic trainers with Mental Health First Aid training - NCAA.org",
+          "University Counseling Center partners with Mantra Health to expand virtual mental health support - The University of Utah",
+          "Division II equipping coaches, athletic trainers with Mental Health First Aid training - NCAA.org"
+        ]
       },
       {
-        "trend": "medical research",
+        "trend": "healthcare",
         "market_code": "JO",
         "category": "Arab Health",
-        "score": 1,
-        "examples": []
+        "score": 10,
+        "examples": [
+          "Central Maine Medical Center nurses to march on boss in solidarity with colleagues unlawfully suspended or fired by Prime Healthcare for speaking up for patients - National Nurses United",
+          "Nurses’ strike: Healthcare associations warn of impact on student training - People Daily",
+          "What belongs in the medical record in the AI era? - Healthcare IT News"
+        ]
       },
       {
-        "trend": "drug approval",
+        "trend": "virus",
         "market_code": "JO",
-        "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
+        "category": "Outbreaks",
+        "score": 10,
+        "examples": [
+          "Brevard County health officials issue alert over West Nile virus - Yahoo",
+          "Scientists in China discover new tick-borne virus that causes flu-like illness - CIDRAP",
+          "OSDH: 3 people infected with West Nile Virus in 2026 - KOKH"
+        ]
       },
       {
-        "trend": "diet wellness",
+        "trend": "health care",
         "market_code": "JO",
-        "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "category": "Arab Health",
+        "score": 9,
+        "examples": [
+          "Maine Health Care Leaders Celebrate Governor Mills as \"Health Care Hero\" - Maine.gov",
+          "Maine Health Care Leaders Celebrate Governor Mills as \"Health Care Hero\" - Maine.gov",
+          "Maine Health Care Leaders Celebrate Governor Mills as \"Health Care Hero\" - Maine.gov"
+        ]
+      },
+      {
+        "trend": "public health",
+        "market_code": "JO",
+        "category": "Arab Health",
+        "score": 9,
+        "examples": [
+          "Beaumont Public Health to Reopen Friday - City of Beaumont, Texas (.gov)",
+          "Public Health Topic: Suicide Prevention Awareness - shrewsburyma.gov",
+          "Democrats urge consumer product agency halt public health modernization project - Nextgov/FCW"
+        ]
+      },
+      {
+        "trend": "outbreak",
+        "market_code": "JO",
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "Ebola disease outbreak in the Democratic Republic of the Congo and Uganda - European Centre for Disease Prevention and Control (ECDC)",
+          "Ebola case counts reach 6,250 in DR Congo outbreak - CIDRAP",
+          "As a measles outbreak escalates in Pennsylvania's Amish Country, exposures rattle people at risk - 6abc Philadelphia"
+        ]
+      },
+      {
+        "trend": "patients",
+        "market_code": "JO",
+        "category": "Arab Health",
+        "score": 8,
+        "examples": [
+          "Central Maine Medical Center nurses to march on boss in solidarity with colleagues unlawfully suspended or fired by Prime Healthcare for speaking up for patients - National Nurses United",
+          "FDA pilot offers generative AI medical devices a path to patients before they are authorized - STAT",
+          "FDA pilot offers generative AI medical devices a path to patients before they are authorized - STAT"
+        ]
+      },
+      {
+        "trend": "warning",
+        "market_code": "JO",
+        "category": "Arab Health",
+        "score": 8,
+        "examples": [
+          "Glass Contamination Warning: Health department warns of Outshine Fruit Bars voluntary recall - Pasadena Weekly",
+          "MNC Firms and Health Experts Oppose India’s New Food Warning Labels. Here’s Why | Vantage - Firstpost",
+          "AI sleep data could provide one-week early warning of flu and COVID-19 - GOV.UK"
+        ]
+      },
+      {
+        "trend": "cancer",
+        "market_code": "JO",
+        "category": "Chronic Disease",
+        "score": 8,
+        "examples": [
+          "A $480,000-a-Year Pill Reflects a New Normal for Cancer Drugs - nytimes.com",
+          "BioNTech halts mid-stage trial of personalized mRNA vaccine in colorectal cancer - BioSpace",
+          "Merck and Moderna’s cancer vaccine is customized for each patient’s tumor - drugdiscoverytrends.com"
+        ]
       }
     ],
     "Lebanon": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "LB",
         "category": "Arab Health",
-        "score": 1,
-        "examples": []
+        "score": 74,
+        "examples": [
+          "Maine Health Care Leaders Celebrate Governor Mills as \"Health Care Hero\" - Maine.gov",
+          "Maine Health Care Leaders Celebrate Governor Mills as \"Health Care Hero\" - Maine.gov",
+          "Atrium Health Wake Forest Baptist Names Dr. Matthew Edwards Chief Executive Officer - Atrium Health Wake Forest Baptist"
+        ]
       },
       {
-        "trend": "outbreak",
+        "trend": "medical",
         "market_code": "LB",
-        "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "category": "Arab Health",
+        "score": 11,
+        "examples": [
+          "Luminis Health cyber-attack disrupts Anne Arundel Medical Center - WBAL-TV",
+          "Leading medical groups update flu, COVID vaccine recommendations amid confusion - thehill.com",
+          "WV Justice Wooten treated for dehydration, released after medical incident Wednesday - West Virginia Watch"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "LB",
+        "category": "Mental Health",
+        "score": 10,
+        "examples": [
+          "Division II equipping coaches, athletic trainers with Mental Health First Aid training - NCAA.org",
+          "University Counseling Center partners with Mantra Health to expand virtual mental health support - The University of Utah",
+          "Division II equipping coaches, athletic trainers with Mental Health First Aid training - NCAA.org"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "LB",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
+        "score": 10,
+        "examples": [
+          "Division II equipping coaches, athletic trainers with Mental Health First Aid training - NCAA.org",
+          "University Counseling Center partners with Mantra Health to expand virtual mental health support - The University of Utah",
+          "Division II equipping coaches, athletic trainers with Mental Health First Aid training - NCAA.org"
+        ]
       },
       {
-        "trend": "medical research",
+        "trend": "healthcare",
         "market_code": "LB",
         "category": "Arab Health",
-        "score": 1,
-        "examples": []
+        "score": 10,
+        "examples": [
+          "Central Maine Medical Center nurses to march on boss in solidarity with colleagues unlawfully suspended or fired by Prime Healthcare for speaking up for patients - National Nurses United",
+          "Nurses’ strike: Healthcare associations warn of impact on student training - People Daily",
+          "What belongs in the medical record in the AI era? - Healthcare IT News"
+        ]
       },
       {
-        "trend": "drug approval",
+        "trend": "virus",
         "market_code": "LB",
-        "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
+        "category": "Outbreaks",
+        "score": 10,
+        "examples": [
+          "Brevard County health officials issue alert over West Nile virus - Yahoo",
+          "Scientists in China discover new tick-borne virus that causes flu-like illness - CIDRAP",
+          "OSDH: 3 people infected with West Nile Virus in 2026 - KOKH"
+        ]
       },
       {
-        "trend": "diet wellness",
+        "trend": "health care",
         "market_code": "LB",
-        "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "category": "Arab Health",
+        "score": 9,
+        "examples": [
+          "Maine Health Care Leaders Celebrate Governor Mills as \"Health Care Hero\" - Maine.gov",
+          "Maine Health Care Leaders Celebrate Governor Mills as \"Health Care Hero\" - Maine.gov",
+          "Maine Health Care Leaders Celebrate Governor Mills as \"Health Care Hero\" - Maine.gov"
+        ]
+      },
+      {
+        "trend": "public health",
+        "market_code": "LB",
+        "category": "Arab Health",
+        "score": 9,
+        "examples": [
+          "Beaumont Public Health to Reopen Friday - City of Beaumont, Texas (.gov)",
+          "Public Health Topic: Suicide Prevention Awareness - shrewsburyma.gov",
+          "Democrats urge consumer product agency halt public health modernization project - Nextgov/FCW"
+        ]
+      },
+      {
+        "trend": "outbreak",
+        "market_code": "LB",
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "Ebola disease outbreak in the Democratic Republic of the Congo and Uganda - European Centre for Disease Prevention and Control (ECDC)",
+          "Ebola case counts reach 6,250 in DR Congo outbreak - CIDRAP",
+          "As a measles outbreak escalates in Pennsylvania's Amish Country, exposures rattle people at risk - 6abc Philadelphia"
+        ]
+      },
+      {
+        "trend": "patients",
+        "market_code": "LB",
+        "category": "Arab Health",
+        "score": 8,
+        "examples": [
+          "Central Maine Medical Center nurses to march on boss in solidarity with colleagues unlawfully suspended or fired by Prime Healthcare for speaking up for patients - National Nurses United",
+          "FDA pilot offers generative AI medical devices a path to patients before they are authorized - STAT",
+          "FDA pilot offers generative AI medical devices a path to patients before they are authorized - STAT"
+        ]
+      },
+      {
+        "trend": "warning",
+        "market_code": "LB",
+        "category": "Arab Health",
+        "score": 8,
+        "examples": [
+          "Glass Contamination Warning: Health department warns of Outshine Fruit Bars voluntary recall - Pasadena Weekly",
+          "MNC Firms and Health Experts Oppose India’s New Food Warning Labels. Here’s Why | Vantage - Firstpost",
+          "AI sleep data could provide one-week early warning of flu and COVID-19 - GOV.UK"
+        ]
+      },
+      {
+        "trend": "cancer",
+        "market_code": "LB",
+        "category": "Chronic Disease",
+        "score": 8,
+        "examples": [
+          "A $480,000-a-Year Pill Reflects a New Normal for Cancer Drugs - nytimes.com",
+          "BioNTech halts mid-stage trial of personalized mRNA vaccine in colorectal cancer - BioSpace",
+          "Merck and Moderna’s cancer vaccine is customized for each patient’s tumor - drugdiscoverytrends.com"
+        ]
       }
     ]
   }
