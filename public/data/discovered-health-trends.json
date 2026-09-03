@@ -1,2819 +1,929 @@
 {
-  "updated_at": "2026-09-03T10:12:15.752573+00:00",
-  "total_trends": 252,
+  "updated_at": "2026-09-03T15:20:00.749664+00:00",
+  "total_trends": 126,
   "markets": {
     "United States": [
       {
-        "trend": "health",
+        "trend": "health alert",
         "market_code": "US",
         "category": "US Health",
-        "score": 71,
-        "examples": [
-          "Layoff Tracker—95 layoffs at Stanford Health Care cuts 95 - Fierce Healthcare",
-          "Arizona physicians unionize at Banner Health - Courthouse News",
-          "WHO highlights cybersecurity as a growing health security priority - emro.who.int"
-        ]
-      },
-      {
-        "trend": "medical",
-        "market_code": "US",
-        "category": "US Health",
-        "score": 25,
-        "examples": [
-          "FDA pilot offers generative AI medical devices a path to patients before they are authorized - statnews.com",
-          "US medical groups issue vaccine guidance, urge jabs for flu, COVID and RSV - Al Jazeera",
-          "Horizon Technology Finance Provides $15MM Loan Facility to Bioness Medical - ABF Journal"
-        ]
-      },
-      {
-        "trend": "healthcare",
-        "market_code": "US",
-        "category": "US Health",
-        "score": 14,
-        "examples": [
-          "Layoff Tracker—95 layoffs at Stanford Health Care cuts 95 - Fierce Healthcare",
-          "Whatever happened to ... children infected with HIV due to failures in healthcare? - NPR",
-          "Reading the Body’s Signals: AI’s Ultimate Healthcare Opportunity - MedCity News"
-        ]
-      },
-      {
-        "trend": "measles",
-        "market_code": "US",
-        "category": "Outbreaks",
-        "score": 12,
-        "examples": [
-          "Clackamas medical office identified as measles exposure site - KPTV",
-          "Exclusive-Kennedy Asked to Remove Pennsylvania Measles Death From CDC Tally, Sources Say - U.S. News & World Report",
-          "New Jersey Health Officials Warn of Falling Childhood Vaccination Rates as U.S. Measles Cases Climb - communitynews.org"
-        ]
-      },
-      {
-        "trend": "mental",
-        "market_code": "US",
-        "category": "Mental Health",
-        "score": 12,
-        "examples": [
-          "Students Are Turning to AI for Mental Health Advice - 5 Warning Signs Schools and Parents Should Watch - The Good Men Project",
-          "Children as young as six going to A&E in mental health crisis - BBC",
-          "Impact of Glucagon-Like Peptide-1 Receptor Agonists on Mental Health: A Systematic Review of Psychiatric Safety and Antidepressant Potential - Cureus"
-        ]
-      },
-      {
-        "trend": "mental health",
-        "market_code": "US",
-        "category": "Mental Health",
-        "score": 12,
-        "examples": [
-          "Students Are Turning to AI for Mental Health Advice - 5 Warning Signs Schools and Parents Should Watch - The Good Men Project",
-          "Children as young as six going to A&E in mental health crisis - BBC",
-          "Impact of Glucagon-Like Peptide-1 Receptor Agonists on Mental Health: A Systematic Review of Psychiatric Safety and Antidepressant Potential - Cureus"
-        ]
-      },
-      {
-        "trend": "cancer",
-        "market_code": "US",
-        "category": "Chronic Disease",
-        "score": 10,
-        "examples": [
-          "Childhood cancer patients and families target of new Ohio Department of Health program - The Statehouse News Bureau",
-          "Childhood cancer patients and families target of new Ohio Department of Health program - The Statehouse News Bureau",
-          "What’s in Merck and Moderna’s cancer vaccine algorithm? - statnews.com"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
         "trend": "outbreak",
         "market_code": "US",
         "category": "Outbreaks",
-        "score": 10,
-        "examples": [
-          "What do we know about the deaths reported in Pennsylvania’s measles outbreak? - Inquirer.com",
-          "Measles outbreak in eastern Illinois leads health officials to urge vaccinations - NBC 5 Chicago",
-          "State: Measles outbreak reported in east central Illinois - Capitol City Now"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "virus",
+        "trend": "mental health",
         "market_code": "US",
-        "category": "Outbreaks",
-        "score": 10,
-        "examples": [
-          "DNR: 700+ reports of dead deer in Washington, Waukesha Counties amid virus outbreak - WISN",
-          "Health department reports dengue virus detected in Hawaii Island wastewater samples - Hawaii News Now",
-          "Doctors united on respiratory virus vaccine recommendations - American Medical Association | AMA"
-        ]
+        "category": "Mental Health",
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "children",
-        "market_code": "US",
-        "category": "Children Health",
-        "score": 9,
-        "examples": [
-          "Children as young as six going to A&E in mental health crisis - BBC",
-          "Measles exposure at Pa. children’s hospital prompts alert - PennLive.com",
-          "Whatever happened to ... children infected with HIV due to failures in healthcare? - NPR"
-        ]
-      },
-      {
-        "trend": "public health",
+        "trend": "medical research",
         "market_code": "US",
         "category": "US Health",
-        "score": 7,
-        "examples": [
-          "Radiologists benefit from global teaching partnerships - UW School of Medicine and Public Health",
-          "Cook County Department of Public Health Launches Building Healthier Communities 2030, a Community-Driven Roadmap to Advance Health Equity Across Suburban Cook County - Cook County Department of Public Health - Cook County Department of Public Health",
-          "Cook County Department of Public Health Launches Building Healthier Communities 2030, a Community-Driven Roadmap to Advance Health Equity Across Suburban Cook County - Cook County Department of Public Health - Cook County Department of Public Health"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "health care",
+        "trend": "drug approval",
         "market_code": "US",
-        "category": "US Health",
-        "score": 6,
-        "examples": [
-          "Layoff Tracker—95 layoffs at Stanford Health Care cuts 95 - Fierce Healthcare",
-          "MiSalud Health Launches Whole-Woman Health Care for Bilingual Front-Line Workers - Yahoo Finance",
-          "Policy Options to Improve Health Care Affordability: What California Can Learn from Other States - California Health Care Foundation"
-        ]
+        "category": "Drug & Treatment News",
+        "score": 1,
+        "examples": []
+      },
+      {
+        "trend": "diet wellness",
+        "market_code": "US",
+        "category": "Diet & Wellness",
+        "score": 1,
+        "examples": []
       }
     ],
     "United Kingdom": [
       {
-        "trend": "health",
+        "trend": "health alert",
         "market_code": "GB",
         "category": "Europe Health",
-        "score": 59,
-        "examples": [
-          "Health ministers of WHO South-East Asia Region meeting next week to advance action on key health priorities - World Health Organization (WHO)",
-          "Health ministers of WHO South-East Asia Region meeting next week to advance action on key health priorities - World Health Organization (WHO)",
-          "Health ministers of WHO South-East Asia Region meeting next week to advance action on key health priorities - World Health Organization (WHO)"
-        ]
-      },
-      {
-        "trend": "medical",
-        "market_code": "GB",
-        "category": "Europe Health",
-        "score": 16,
-        "examples": [
-          "Medical Report: Betfred Championship - London Broncos",
-          "Medical Update | Khephren Thuram and Juan Cabal - Juventus.com",
-          "Pictured: New Arsenal star jets in for medical after 'deal agreed' - London Evening Standard"
-        ]
-      },
-      {
-        "trend": "children",
-        "market_code": "GB",
-        "category": "Children Health",
-        "score": 12,
-        "examples": [
-          "Children as young as six going to A&E in mental health crisis - BBC",
-          "Children as young as six going to A&E in mental health crisis - BBC",
-          "Children as young as six going to A&E in mental health crisis - BBC"
-        ]
-      },
-      {
-        "trend": "mental",
-        "market_code": "GB",
-        "category": "Mental Health",
-        "score": 12,
-        "examples": [
-          "Children as young as six going to A&E in mental health crisis - BBC",
-          "Children as young as six going to A&E in mental health crisis - BBC",
-          "Students Are Turning to AI for Mental Health Advice - 5 Warning Signs Schools and Parents Should Watch - The Good Men Project"
-        ]
-      },
-      {
-        "trend": "mental health",
-        "market_code": "GB",
-        "category": "Mental Health",
-        "score": 12,
-        "examples": [
-          "Children as young as six going to A&E in mental health crisis - BBC",
-          "Children as young as six going to A&E in mental health crisis - BBC",
-          "Students Are Turning to AI for Mental Health Advice - 5 Warning Signs Schools and Parents Should Watch - The Good Men Project"
-        ]
-      },
-      {
-        "trend": "warning",
-        "market_code": "GB",
-        "category": "Europe Health",
-        "score": 9,
-        "examples": [
-          "AI sleep data could provide one-week early warning of flu and COVID-19 - GOV.UK",
-          "AI sleep data could provide one-week early warning of flu and COVID-19 - GOV.UK",
-          "Oxford hospital parking crisis sparks health impact warning - Trending Now Infrastructure"
-        ]
-      },
-      {
-        "trend": "virus",
-        "market_code": "GB",
-        "category": "Outbreaks",
-        "score": 7,
-        "examples": [
-          "NHS issues 'serious' flu warning as virus could strike earlier than usual this winter - Manchester Evening News",
-          "Hidden DNA in medieval gospels reveals history of deadly livestock virus - Phys.org",
-          "Shamonda-like virus: What cattle farmers need to know - foodagribusiness.world"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
         "trend": "outbreak",
         "market_code": "GB",
         "category": "Outbreaks",
-        "score": 7,
-        "examples": [
-          "WHO chief warns Ebola response must ramp up to stem DRC outbreak - Al Jazeera",
-          "Vets 'shocked' by calf disease outbreak in North Uist - We love Stornoway",
-          "WHO’s Tedros says Ebola response must be scaled up to tackle Congo outbreak - CNBC Africa"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "healthcare",
+        "trend": "mental health",
+        "market_code": "GB",
+        "category": "Mental Health",
+        "score": 1,
+        "examples": []
+      },
+      {
+        "trend": "medical research",
         "market_code": "GB",
         "category": "Europe Health",
-        "score": 7,
-        "examples": [
-          "MedTech Conference 2026: The Future of Intelligent Healthcare - Tata Consultancy Services",
-          "Manchester NHS and MHRA Launch Healthcare Innovation Sand... - politicsuk.com",
-          "Agentis Health Group acquires Clinical Pharmacist Solutions to strengthen digital healthcare business - Med-Tech Insights"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "health crisis",
-        "market_code": "GB",
-        "category": "Europe Health",
-        "score": 6,
-        "examples": [
-          "Children as young as six going to A&E in mental health crisis - BBC",
-          "'Glaring public health crisis': Water firms dumped sewage for over 43,000 hours during July and August - BusinessGreen",
-          "Children as young as six going to A&E in mental health crisis - BBC"
-        ]
-      },
-      {
-        "trend": "vaccine",
+        "trend": "drug approval",
         "market_code": "GB",
         "category": "Drug & Treatment News",
-        "score": 6,
-        "examples": [
-          "US medical groups issue vaccine guidance, urge jabs for flu, COVID and RSV - Al Jazeera",
-          "Flu Protein Redesign Improves Nanoparticle Vaccine Performance - Technology Networks",
-          "Moderna begins Phase 1 clinical trial of Ebola vaccine against strain behind DRC outbreak - ABC News - Breaking News, Latest News and Videos"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "patients",
+        "trend": "diet wellness",
         "market_code": "GB",
-        "category": "Europe Health",
-        "score": 6,
-        "examples": [
-          "Patients flag AI scribe errors in drugs and diagnoses - Home | Digital Health",
-          "FDA pilot offers generative AI medical devices a path to patients before they are authorized - STAT",
-          "mRNA vaccine stops skin cancer from returning in patients - European Animal Research Association"
-        ]
+        "category": "Diet & Wellness",
+        "score": 1,
+        "examples": []
       }
     ],
     "Germany": [
       {
-        "trend": "health",
+        "trend": "health alert",
         "market_code": "DE",
         "category": "Europe Health",
-        "score": 72,
-        "examples": [
-          "Layoff Tracker—95 layoffs at Stanford Health Care cuts 95 - Fierce Healthcare",
-          "Arizona physicians unionize at Banner Health - Courthouse News",
-          "WHO highlights cybersecurity as a growing health security priority - emro.who.int"
-        ]
-      },
-      {
-        "trend": "medical",
-        "market_code": "DE",
-        "category": "Europe Health",
-        "score": 25,
-        "examples": [
-          "FDA pilot offers generative AI medical devices a path to patients before they are authorized - statnews.com",
-          "US medical groups issue vaccine guidance, urge jabs for flu, COVID and RSV - Al Jazeera",
-          "Horizon Technology Finance Provides $15MM Loan Facility to Bioness Medical - ABF Journal"
-        ]
-      },
-      {
-        "trend": "healthcare",
-        "market_code": "DE",
-        "category": "Europe Health",
-        "score": 13,
-        "examples": [
-          "Layoff Tracker—95 layoffs at Stanford Health Care cuts 95 - Fierce Healthcare",
-          "Whatever happened to ... children infected with HIV due to failures in healthcare? - NPR",
-          "Reading the Body’s Signals: AI’s Ultimate Healthcare Opportunity - MedCity News"
-        ]
-      },
-      {
-        "trend": "mental",
-        "market_code": "DE",
-        "category": "Mental Health",
-        "score": 13,
-        "examples": [
-          "Students Are Turning to AI for Mental Health Advice - 5 Warning Signs Schools and Parents Should Watch - The Good Men Project",
-          "Children as young as six going to A&E in mental health crisis - BBC",
-          "New report on mental health needs for kids in foster care, juvenile justice system - ketv.com"
-        ]
-      },
-      {
-        "trend": "mental health",
-        "market_code": "DE",
-        "category": "Mental Health",
-        "score": 13,
-        "examples": [
-          "Students Are Turning to AI for Mental Health Advice - 5 Warning Signs Schools and Parents Should Watch - The Good Men Project",
-          "Children as young as six going to A&E in mental health crisis - BBC",
-          "New report on mental health needs for kids in foster care, juvenile justice system - ketv.com"
-        ]
-      },
-      {
-        "trend": "cancer",
-        "market_code": "DE",
-        "category": "Chronic Disease",
-        "score": 10,
-        "examples": [
-          "Childhood cancer patients and families target of new Ohio Department of Health program - The Statehouse News Bureau",
-          "Childhood cancer patients and families target of new Ohio Department of Health program - The Statehouse News Bureau",
-          "What’s in Merck and Moderna’s cancer vaccine algorithm? - statnews.com"
-        ]
-      },
-      {
-        "trend": "measles",
-        "market_code": "DE",
-        "category": "Outbreaks",
-        "score": 10,
-        "examples": [
-          "Clackamas medical office identified as measles exposure site - KPTV",
-          "New Jersey Health Officials Warn of Falling Childhood Vaccination Rates as U.S. Measles Cases Climb - communitynews.org",
-          "Measles exposure at Pa. children’s hospital prompts alert - PennLive.com"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
         "trend": "outbreak",
         "market_code": "DE",
         "category": "Outbreaks",
-        "score": 10,
-        "examples": [
-          "What do we know about the deaths reported in Pennsylvania’s measles outbreak? - Inquirer.com",
-          "Measles outbreak in eastern Illinois leads health officials to urge vaccinations - NBC 5 Chicago",
-          "State: Measles outbreak reported in east central Illinois - Capitol City Now"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "virus",
+        "trend": "mental health",
         "market_code": "DE",
-        "category": "Outbreaks",
-        "score": 10,
-        "examples": [
-          "DNR: 700+ reports of dead deer in Washington, Waukesha Counties amid virus outbreak - WISN",
-          "Health department reports dengue virus detected in Hawaii Island wastewater samples - Hawaii News Now",
-          "Doctors united on respiratory virus vaccine recommendations - American Medical Association | AMA"
-        ]
+        "category": "Mental Health",
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "children",
-        "market_code": "DE",
-        "category": "Children Health",
-        "score": 9,
-        "examples": [
-          "Children as young as six going to A&E in mental health crisis - BBC",
-          "Measles exposure at Pa. children’s hospital prompts alert - PennLive.com",
-          "Whatever happened to ... children infected with HIV due to failures in healthcare? - NPR"
-        ]
-      },
-      {
-        "trend": "public health",
+        "trend": "medical research",
         "market_code": "DE",
         "category": "Europe Health",
-        "score": 8,
-        "examples": [
-          "Radiologists benefit from global teaching partnerships - UW School of Medicine and Public Health",
-          "Cook County Department of Public Health Launches Building Healthier Communities 2030, a Community-Driven Roadmap to Advance Health Equity Across Suburban Cook County - Cook County Department of Public Health - Cook County Department of Public Health",
-          "Cook County Department of Public Health Launches Building Healthier Communities 2030, a Community-Driven Roadmap to Advance Health Equity Across Suburban Cook County - Cook County Department of Public Health - Cook County Department of Public Health"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "health care",
+        "trend": "drug approval",
         "market_code": "DE",
-        "category": "Europe Health",
-        "score": 6,
-        "examples": [
-          "Layoff Tracker—95 layoffs at Stanford Health Care cuts 95 - Fierce Healthcare",
-          "MiSalud Health Launches Whole-Woman Health Care for Bilingual Front-Line Workers - Yahoo Finance",
-          "Policy Options to Improve Health Care Affordability: What California Can Learn from Other States - California Health Care Foundation"
-        ]
+        "category": "Drug & Treatment News",
+        "score": 1,
+        "examples": []
+      },
+      {
+        "trend": "diet wellness",
+        "market_code": "DE",
+        "category": "Diet & Wellness",
+        "score": 1,
+        "examples": []
       }
     ],
     "France": [
       {
-        "trend": "health",
+        "trend": "health alert",
         "market_code": "FR",
         "category": "Europe Health",
-        "score": 72,
-        "examples": [
-          "Layoff Tracker—95 layoffs at Stanford Health Care cuts 95 - Fierce Healthcare",
-          "Arizona physicians unionize at Banner Health - Courthouse News",
-          "WHO highlights cybersecurity as a growing health security priority - emro.who.int"
-        ]
-      },
-      {
-        "trend": "medical",
-        "market_code": "FR",
-        "category": "Europe Health",
-        "score": 25,
-        "examples": [
-          "FDA pilot offers generative AI medical devices a path to patients before they are authorized - statnews.com",
-          "US medical groups issue vaccine guidance, urge jabs for flu, COVID and RSV - Al Jazeera",
-          "Horizon Technology Finance Provides $15MM Loan Facility to Bioness Medical - ABF Journal"
-        ]
-      },
-      {
-        "trend": "healthcare",
-        "market_code": "FR",
-        "category": "Europe Health",
-        "score": 13,
-        "examples": [
-          "Layoff Tracker—95 layoffs at Stanford Health Care cuts 95 - Fierce Healthcare",
-          "Whatever happened to ... children infected with HIV due to failures in healthcare? - NPR",
-          "Reading the Body’s Signals: AI’s Ultimate Healthcare Opportunity - MedCity News"
-        ]
-      },
-      {
-        "trend": "mental",
-        "market_code": "FR",
-        "category": "Mental Health",
-        "score": 13,
-        "examples": [
-          "Students Are Turning to AI for Mental Health Advice - 5 Warning Signs Schools and Parents Should Watch - The Good Men Project",
-          "Children as young as six going to A&E in mental health crisis - BBC",
-          "New report on mental health needs for kids in foster care, juvenile justice system - ketv.com"
-        ]
-      },
-      {
-        "trend": "mental health",
-        "market_code": "FR",
-        "category": "Mental Health",
-        "score": 13,
-        "examples": [
-          "Students Are Turning to AI for Mental Health Advice - 5 Warning Signs Schools and Parents Should Watch - The Good Men Project",
-          "Children as young as six going to A&E in mental health crisis - BBC",
-          "New report on mental health needs for kids in foster care, juvenile justice system - ketv.com"
-        ]
-      },
-      {
-        "trend": "cancer",
-        "market_code": "FR",
-        "category": "Chronic Disease",
-        "score": 10,
-        "examples": [
-          "Childhood cancer patients and families target of new Ohio Department of Health program - The Statehouse News Bureau",
-          "Childhood cancer patients and families target of new Ohio Department of Health program - The Statehouse News Bureau",
-          "What’s in Merck and Moderna’s cancer vaccine algorithm? - statnews.com"
-        ]
-      },
-      {
-        "trend": "measles",
-        "market_code": "FR",
-        "category": "Outbreaks",
-        "score": 10,
-        "examples": [
-          "Clackamas medical office identified as measles exposure site - KPTV",
-          "New Jersey Health Officials Warn of Falling Childhood Vaccination Rates as U.S. Measles Cases Climb - communitynews.org",
-          "Measles exposure at Pa. children’s hospital prompts alert - PennLive.com"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
         "trend": "outbreak",
         "market_code": "FR",
         "category": "Outbreaks",
-        "score": 10,
-        "examples": [
-          "What do we know about the deaths reported in Pennsylvania’s measles outbreak? - Inquirer.com",
-          "Measles outbreak in eastern Illinois leads health officials to urge vaccinations - NBC 5 Chicago",
-          "State: Measles outbreak reported in east central Illinois - Capitol City Now"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "virus",
+        "trend": "mental health",
         "market_code": "FR",
-        "category": "Outbreaks",
-        "score": 10,
-        "examples": [
-          "DNR: 700+ reports of dead deer in Washington, Waukesha Counties amid virus outbreak - WISN",
-          "Health department reports dengue virus detected in Hawaii Island wastewater samples - Hawaii News Now",
-          "Doctors united on respiratory virus vaccine recommendations - American Medical Association | AMA"
-        ]
+        "category": "Mental Health",
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "children",
-        "market_code": "FR",
-        "category": "Children Health",
-        "score": 9,
-        "examples": [
-          "Children as young as six going to A&E in mental health crisis - BBC",
-          "Measles exposure at Pa. children’s hospital prompts alert - PennLive.com",
-          "Whatever happened to ... children infected with HIV due to failures in healthcare? - NPR"
-        ]
-      },
-      {
-        "trend": "public health",
+        "trend": "medical research",
         "market_code": "FR",
         "category": "Europe Health",
-        "score": 8,
-        "examples": [
-          "Radiologists benefit from global teaching partnerships - UW School of Medicine and Public Health",
-          "Cook County Department of Public Health Launches Building Healthier Communities 2030, a Community-Driven Roadmap to Advance Health Equity Across Suburban Cook County - Cook County Department of Public Health - Cook County Department of Public Health",
-          "Cook County Department of Public Health Launches Building Healthier Communities 2030, a Community-Driven Roadmap to Advance Health Equity Across Suburban Cook County - Cook County Department of Public Health - Cook County Department of Public Health"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "health care",
+        "trend": "drug approval",
         "market_code": "FR",
-        "category": "Europe Health",
-        "score": 6,
-        "examples": [
-          "Layoff Tracker—95 layoffs at Stanford Health Care cuts 95 - Fierce Healthcare",
-          "MiSalud Health Launches Whole-Woman Health Care for Bilingual Front-Line Workers - Yahoo Finance",
-          "Policy Options to Improve Health Care Affordability: What California Can Learn from Other States - California Health Care Foundation"
-        ]
+        "category": "Drug & Treatment News",
+        "score": 1,
+        "examples": []
+      },
+      {
+        "trend": "diet wellness",
+        "market_code": "FR",
+        "category": "Diet & Wellness",
+        "score": 1,
+        "examples": []
       }
     ],
     "Italy": [
       {
-        "trend": "health",
+        "trend": "health alert",
         "market_code": "IT",
         "category": "Europe Health",
-        "score": 72,
-        "examples": [
-          "Layoff Tracker—95 layoffs at Stanford Health Care cuts 95 - Fierce Healthcare",
-          "Arizona physicians unionize at Banner Health - Courthouse News",
-          "WHO highlights cybersecurity as a growing health security priority - emro.who.int"
-        ]
-      },
-      {
-        "trend": "medical",
-        "market_code": "IT",
-        "category": "Europe Health",
-        "score": 25,
-        "examples": [
-          "FDA pilot offers generative AI medical devices a path to patients before they are authorized - statnews.com",
-          "US medical groups issue vaccine guidance, urge jabs for flu, COVID and RSV - Al Jazeera",
-          "Horizon Technology Finance Provides $15MM Loan Facility to Bioness Medical - ABF Journal"
-        ]
-      },
-      {
-        "trend": "healthcare",
-        "market_code": "IT",
-        "category": "Europe Health",
-        "score": 13,
-        "examples": [
-          "Layoff Tracker—95 layoffs at Stanford Health Care cuts 95 - Fierce Healthcare",
-          "Whatever happened to ... children infected with HIV due to failures in healthcare? - NPR",
-          "Reading the Body’s Signals: AI’s Ultimate Healthcare Opportunity - MedCity News"
-        ]
-      },
-      {
-        "trend": "mental",
-        "market_code": "IT",
-        "category": "Mental Health",
-        "score": 13,
-        "examples": [
-          "Students Are Turning to AI for Mental Health Advice - 5 Warning Signs Schools and Parents Should Watch - The Good Men Project",
-          "Children as young as six going to A&E in mental health crisis - BBC",
-          "New report on mental health needs for kids in foster care, juvenile justice system - ketv.com"
-        ]
-      },
-      {
-        "trend": "mental health",
-        "market_code": "IT",
-        "category": "Mental Health",
-        "score": 13,
-        "examples": [
-          "Students Are Turning to AI for Mental Health Advice - 5 Warning Signs Schools and Parents Should Watch - The Good Men Project",
-          "Children as young as six going to A&E in mental health crisis - BBC",
-          "New report on mental health needs for kids in foster care, juvenile justice system - ketv.com"
-        ]
-      },
-      {
-        "trend": "cancer",
-        "market_code": "IT",
-        "category": "Chronic Disease",
-        "score": 10,
-        "examples": [
-          "Childhood cancer patients and families target of new Ohio Department of Health program - The Statehouse News Bureau",
-          "Childhood cancer patients and families target of new Ohio Department of Health program - The Statehouse News Bureau",
-          "What’s in Merck and Moderna’s cancer vaccine algorithm? - statnews.com"
-        ]
-      },
-      {
-        "trend": "measles",
-        "market_code": "IT",
-        "category": "Outbreaks",
-        "score": 10,
-        "examples": [
-          "Clackamas medical office identified as measles exposure site - KPTV",
-          "New Jersey Health Officials Warn of Falling Childhood Vaccination Rates as U.S. Measles Cases Climb - communitynews.org",
-          "Measles exposure at Pa. children’s hospital prompts alert - PennLive.com"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
         "trend": "outbreak",
         "market_code": "IT",
         "category": "Outbreaks",
-        "score": 10,
-        "examples": [
-          "What do we know about the deaths reported in Pennsylvania’s measles outbreak? - Inquirer.com",
-          "Measles outbreak in eastern Illinois leads health officials to urge vaccinations - NBC 5 Chicago",
-          "State: Measles outbreak reported in east central Illinois - Capitol City Now"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "virus",
+        "trend": "mental health",
         "market_code": "IT",
-        "category": "Outbreaks",
-        "score": 10,
-        "examples": [
-          "DNR: 700+ reports of dead deer in Washington, Waukesha Counties amid virus outbreak - WISN",
-          "Health department reports dengue virus detected in Hawaii Island wastewater samples - Hawaii News Now",
-          "Doctors united on respiratory virus vaccine recommendations - American Medical Association | AMA"
-        ]
+        "category": "Mental Health",
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "children",
-        "market_code": "IT",
-        "category": "Children Health",
-        "score": 9,
-        "examples": [
-          "Children as young as six going to A&E in mental health crisis - BBC",
-          "Measles exposure at Pa. children’s hospital prompts alert - PennLive.com",
-          "Whatever happened to ... children infected with HIV due to failures in healthcare? - NPR"
-        ]
-      },
-      {
-        "trend": "public health",
+        "trend": "medical research",
         "market_code": "IT",
         "category": "Europe Health",
-        "score": 8,
-        "examples": [
-          "Radiologists benefit from global teaching partnerships - UW School of Medicine and Public Health",
-          "Cook County Department of Public Health Launches Building Healthier Communities 2030, a Community-Driven Roadmap to Advance Health Equity Across Suburban Cook County - Cook County Department of Public Health - Cook County Department of Public Health",
-          "Cook County Department of Public Health Launches Building Healthier Communities 2030, a Community-Driven Roadmap to Advance Health Equity Across Suburban Cook County - Cook County Department of Public Health - Cook County Department of Public Health"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "health care",
+        "trend": "drug approval",
         "market_code": "IT",
-        "category": "Europe Health",
-        "score": 6,
-        "examples": [
-          "Layoff Tracker—95 layoffs at Stanford Health Care cuts 95 - Fierce Healthcare",
-          "MiSalud Health Launches Whole-Woman Health Care for Bilingual Front-Line Workers - Yahoo Finance",
-          "Policy Options to Improve Health Care Affordability: What California Can Learn from Other States - California Health Care Foundation"
-        ]
+        "category": "Drug & Treatment News",
+        "score": 1,
+        "examples": []
+      },
+      {
+        "trend": "diet wellness",
+        "market_code": "IT",
+        "category": "Diet & Wellness",
+        "score": 1,
+        "examples": []
       }
     ],
     "Spain": [
       {
-        "trend": "health",
+        "trend": "health alert",
         "market_code": "ES",
         "category": "Europe Health",
-        "score": 72,
-        "examples": [
-          "Layoff Tracker—95 layoffs at Stanford Health Care cuts 95 - Fierce Healthcare",
-          "Arizona physicians unionize at Banner Health - Courthouse News",
-          "WHO highlights cybersecurity as a growing health security priority - emro.who.int"
-        ]
-      },
-      {
-        "trend": "medical",
-        "market_code": "ES",
-        "category": "Europe Health",
-        "score": 25,
-        "examples": [
-          "FDA pilot offers generative AI medical devices a path to patients before they are authorized - statnews.com",
-          "US medical groups issue vaccine guidance, urge jabs for flu, COVID and RSV - Al Jazeera",
-          "Horizon Technology Finance Provides $15MM Loan Facility to Bioness Medical - ABF Journal"
-        ]
-      },
-      {
-        "trend": "healthcare",
-        "market_code": "ES",
-        "category": "Europe Health",
-        "score": 13,
-        "examples": [
-          "Layoff Tracker—95 layoffs at Stanford Health Care cuts 95 - Fierce Healthcare",
-          "Whatever happened to ... children infected with HIV due to failures in healthcare? - NPR",
-          "Reading the Body’s Signals: AI’s Ultimate Healthcare Opportunity - MedCity News"
-        ]
-      },
-      {
-        "trend": "mental",
-        "market_code": "ES",
-        "category": "Mental Health",
-        "score": 13,
-        "examples": [
-          "Students Are Turning to AI for Mental Health Advice - 5 Warning Signs Schools and Parents Should Watch - The Good Men Project",
-          "Children as young as six going to A&E in mental health crisis - BBC",
-          "New report on mental health needs for kids in foster care, juvenile justice system - ketv.com"
-        ]
-      },
-      {
-        "trend": "mental health",
-        "market_code": "ES",
-        "category": "Mental Health",
-        "score": 13,
-        "examples": [
-          "Students Are Turning to AI for Mental Health Advice - 5 Warning Signs Schools and Parents Should Watch - The Good Men Project",
-          "Children as young as six going to A&E in mental health crisis - BBC",
-          "New report on mental health needs for kids in foster care, juvenile justice system - ketv.com"
-        ]
-      },
-      {
-        "trend": "cancer",
-        "market_code": "ES",
-        "category": "Chronic Disease",
-        "score": 10,
-        "examples": [
-          "Childhood cancer patients and families target of new Ohio Department of Health program - The Statehouse News Bureau",
-          "Childhood cancer patients and families target of new Ohio Department of Health program - The Statehouse News Bureau",
-          "What’s in Merck and Moderna’s cancer vaccine algorithm? - statnews.com"
-        ]
-      },
-      {
-        "trend": "measles",
-        "market_code": "ES",
-        "category": "Outbreaks",
-        "score": 10,
-        "examples": [
-          "Clackamas medical office identified as measles exposure site - KPTV",
-          "New Jersey Health Officials Warn of Falling Childhood Vaccination Rates as U.S. Measles Cases Climb - communitynews.org",
-          "Measles exposure at Pa. children’s hospital prompts alert - PennLive.com"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
         "trend": "outbreak",
         "market_code": "ES",
         "category": "Outbreaks",
-        "score": 10,
-        "examples": [
-          "What do we know about the deaths reported in Pennsylvania’s measles outbreak? - Inquirer.com",
-          "Measles outbreak in eastern Illinois leads health officials to urge vaccinations - NBC 5 Chicago",
-          "State: Measles outbreak reported in east central Illinois - Capitol City Now"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "virus",
+        "trend": "mental health",
         "market_code": "ES",
-        "category": "Outbreaks",
-        "score": 10,
-        "examples": [
-          "DNR: 700+ reports of dead deer in Washington, Waukesha Counties amid virus outbreak - WISN",
-          "Health department reports dengue virus detected in Hawaii Island wastewater samples - Hawaii News Now",
-          "Doctors united on respiratory virus vaccine recommendations - American Medical Association | AMA"
-        ]
+        "category": "Mental Health",
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "children",
-        "market_code": "ES",
-        "category": "Children Health",
-        "score": 9,
-        "examples": [
-          "Children as young as six going to A&E in mental health crisis - BBC",
-          "Measles exposure at Pa. children’s hospital prompts alert - PennLive.com",
-          "Whatever happened to ... children infected with HIV due to failures in healthcare? - NPR"
-        ]
-      },
-      {
-        "trend": "public health",
+        "trend": "medical research",
         "market_code": "ES",
         "category": "Europe Health",
-        "score": 8,
-        "examples": [
-          "Radiologists benefit from global teaching partnerships - UW School of Medicine and Public Health",
-          "Cook County Department of Public Health Launches Building Healthier Communities 2030, a Community-Driven Roadmap to Advance Health Equity Across Suburban Cook County - Cook County Department of Public Health - Cook County Department of Public Health",
-          "Cook County Department of Public Health Launches Building Healthier Communities 2030, a Community-Driven Roadmap to Advance Health Equity Across Suburban Cook County - Cook County Department of Public Health - Cook County Department of Public Health"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "health care",
+        "trend": "drug approval",
         "market_code": "ES",
-        "category": "Europe Health",
-        "score": 6,
-        "examples": [
-          "Layoff Tracker—95 layoffs at Stanford Health Care cuts 95 - Fierce Healthcare",
-          "MiSalud Health Launches Whole-Woman Health Care for Bilingual Front-Line Workers - Yahoo Finance",
-          "Policy Options to Improve Health Care Affordability: What California Can Learn from Other States - California Health Care Foundation"
-        ]
+        "category": "Drug & Treatment News",
+        "score": 1,
+        "examples": []
+      },
+      {
+        "trend": "diet wellness",
+        "market_code": "ES",
+        "category": "Diet & Wellness",
+        "score": 1,
+        "examples": []
       }
     ],
     "Sweden": [
       {
-        "trend": "health",
+        "trend": "health alert",
         "market_code": "SE",
         "category": "Europe Health",
-        "score": 72,
-        "examples": [
-          "Layoff Tracker—95 layoffs at Stanford Health Care cuts 95 - Fierce Healthcare",
-          "Arizona physicians unionize at Banner Health - Courthouse News",
-          "WHO highlights cybersecurity as a growing health security priority - emro.who.int"
-        ]
-      },
-      {
-        "trend": "medical",
-        "market_code": "SE",
-        "category": "Europe Health",
-        "score": 25,
-        "examples": [
-          "FDA pilot offers generative AI medical devices a path to patients before they are authorized - statnews.com",
-          "US medical groups issue vaccine guidance, urge jabs for flu, COVID and RSV - Al Jazeera",
-          "Horizon Technology Finance Provides $15MM Loan Facility to Bioness Medical - ABF Journal"
-        ]
-      },
-      {
-        "trend": "healthcare",
-        "market_code": "SE",
-        "category": "Europe Health",
-        "score": 13,
-        "examples": [
-          "Layoff Tracker—95 layoffs at Stanford Health Care cuts 95 - Fierce Healthcare",
-          "Whatever happened to ... children infected with HIV due to failures in healthcare? - NPR",
-          "Reading the Body’s Signals: AI’s Ultimate Healthcare Opportunity - MedCity News"
-        ]
-      },
-      {
-        "trend": "mental",
-        "market_code": "SE",
-        "category": "Mental Health",
-        "score": 13,
-        "examples": [
-          "Students Are Turning to AI for Mental Health Advice - 5 Warning Signs Schools and Parents Should Watch - The Good Men Project",
-          "Children as young as six going to A&E in mental health crisis - BBC",
-          "New report on mental health needs for kids in foster care, juvenile justice system - ketv.com"
-        ]
-      },
-      {
-        "trend": "mental health",
-        "market_code": "SE",
-        "category": "Mental Health",
-        "score": 13,
-        "examples": [
-          "Students Are Turning to AI for Mental Health Advice - 5 Warning Signs Schools and Parents Should Watch - The Good Men Project",
-          "Children as young as six going to A&E in mental health crisis - BBC",
-          "New report on mental health needs for kids in foster care, juvenile justice system - ketv.com"
-        ]
-      },
-      {
-        "trend": "cancer",
-        "market_code": "SE",
-        "category": "Chronic Disease",
-        "score": 10,
-        "examples": [
-          "Childhood cancer patients and families target of new Ohio Department of Health program - The Statehouse News Bureau",
-          "Childhood cancer patients and families target of new Ohio Department of Health program - The Statehouse News Bureau",
-          "What’s in Merck and Moderna’s cancer vaccine algorithm? - statnews.com"
-        ]
-      },
-      {
-        "trend": "measles",
-        "market_code": "SE",
-        "category": "Outbreaks",
-        "score": 10,
-        "examples": [
-          "Clackamas medical office identified as measles exposure site - KPTV",
-          "New Jersey Health Officials Warn of Falling Childhood Vaccination Rates as U.S. Measles Cases Climb - communitynews.org",
-          "Measles exposure at Pa. children’s hospital prompts alert - PennLive.com"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
         "trend": "outbreak",
         "market_code": "SE",
         "category": "Outbreaks",
-        "score": 10,
-        "examples": [
-          "What do we know about the deaths reported in Pennsylvania’s measles outbreak? - Inquirer.com",
-          "Measles outbreak in eastern Illinois leads health officials to urge vaccinations - NBC 5 Chicago",
-          "State: Measles outbreak reported in east central Illinois - Capitol City Now"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "virus",
+        "trend": "mental health",
         "market_code": "SE",
-        "category": "Outbreaks",
-        "score": 10,
-        "examples": [
-          "DNR: 700+ reports of dead deer in Washington, Waukesha Counties amid virus outbreak - WISN",
-          "Health department reports dengue virus detected in Hawaii Island wastewater samples - Hawaii News Now",
-          "Doctors united on respiratory virus vaccine recommendations - American Medical Association | AMA"
-        ]
+        "category": "Mental Health",
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "children",
-        "market_code": "SE",
-        "category": "Children Health",
-        "score": 9,
-        "examples": [
-          "Children as young as six going to A&E in mental health crisis - BBC",
-          "Measles exposure at Pa. children’s hospital prompts alert - PennLive.com",
-          "Whatever happened to ... children infected with HIV due to failures in healthcare? - NPR"
-        ]
-      },
-      {
-        "trend": "public health",
+        "trend": "medical research",
         "market_code": "SE",
         "category": "Europe Health",
-        "score": 8,
-        "examples": [
-          "Radiologists benefit from global teaching partnerships - UW School of Medicine and Public Health",
-          "Cook County Department of Public Health Launches Building Healthier Communities 2030, a Community-Driven Roadmap to Advance Health Equity Across Suburban Cook County - Cook County Department of Public Health - Cook County Department of Public Health",
-          "Cook County Department of Public Health Launches Building Healthier Communities 2030, a Community-Driven Roadmap to Advance Health Equity Across Suburban Cook County - Cook County Department of Public Health - Cook County Department of Public Health"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "health care",
+        "trend": "drug approval",
         "market_code": "SE",
-        "category": "Europe Health",
-        "score": 6,
-        "examples": [
-          "Layoff Tracker—95 layoffs at Stanford Health Care cuts 95 - Fierce Healthcare",
-          "MiSalud Health Launches Whole-Woman Health Care for Bilingual Front-Line Workers - Yahoo Finance",
-          "Policy Options to Improve Health Care Affordability: What California Can Learn from Other States - California Health Care Foundation"
-        ]
+        "category": "Drug & Treatment News",
+        "score": 1,
+        "examples": []
+      },
+      {
+        "trend": "diet wellness",
+        "market_code": "SE",
+        "category": "Diet & Wellness",
+        "score": 1,
+        "examples": []
       }
     ],
     "Netherlands": [
       {
-        "trend": "health",
+        "trend": "health alert",
         "market_code": "NL",
         "category": "Europe Health",
-        "score": 72,
-        "examples": [
-          "Layoff Tracker—95 layoffs at Stanford Health Care cuts 95 - Fierce Healthcare",
-          "Arizona physicians unionize at Banner Health - Courthouse News",
-          "WHO highlights cybersecurity as a growing health security priority - emro.who.int"
-        ]
-      },
-      {
-        "trend": "medical",
-        "market_code": "NL",
-        "category": "Europe Health",
-        "score": 25,
-        "examples": [
-          "FDA pilot offers generative AI medical devices a path to patients before they are authorized - statnews.com",
-          "US medical groups issue vaccine guidance, urge jabs for flu, COVID and RSV - Al Jazeera",
-          "Horizon Technology Finance Provides $15MM Loan Facility to Bioness Medical - ABF Journal"
-        ]
-      },
-      {
-        "trend": "healthcare",
-        "market_code": "NL",
-        "category": "Europe Health",
-        "score": 13,
-        "examples": [
-          "Layoff Tracker—95 layoffs at Stanford Health Care cuts 95 - Fierce Healthcare",
-          "Whatever happened to ... children infected with HIV due to failures in healthcare? - NPR",
-          "Reading the Body’s Signals: AI’s Ultimate Healthcare Opportunity - MedCity News"
-        ]
-      },
-      {
-        "trend": "mental",
-        "market_code": "NL",
-        "category": "Mental Health",
-        "score": 13,
-        "examples": [
-          "Students Are Turning to AI for Mental Health Advice - 5 Warning Signs Schools and Parents Should Watch - The Good Men Project",
-          "Children as young as six going to A&E in mental health crisis - BBC",
-          "New report on mental health needs for kids in foster care, juvenile justice system - ketv.com"
-        ]
-      },
-      {
-        "trend": "mental health",
-        "market_code": "NL",
-        "category": "Mental Health",
-        "score": 13,
-        "examples": [
-          "Students Are Turning to AI for Mental Health Advice - 5 Warning Signs Schools and Parents Should Watch - The Good Men Project",
-          "Children as young as six going to A&E in mental health crisis - BBC",
-          "New report on mental health needs for kids in foster care, juvenile justice system - ketv.com"
-        ]
-      },
-      {
-        "trend": "cancer",
-        "market_code": "NL",
-        "category": "Chronic Disease",
-        "score": 10,
-        "examples": [
-          "Childhood cancer patients and families target of new Ohio Department of Health program - The Statehouse News Bureau",
-          "Childhood cancer patients and families target of new Ohio Department of Health program - The Statehouse News Bureau",
-          "What’s in Merck and Moderna’s cancer vaccine algorithm? - statnews.com"
-        ]
-      },
-      {
-        "trend": "measles",
-        "market_code": "NL",
-        "category": "Outbreaks",
-        "score": 10,
-        "examples": [
-          "Clackamas medical office identified as measles exposure site - KPTV",
-          "New Jersey Health Officials Warn of Falling Childhood Vaccination Rates as U.S. Measles Cases Climb - communitynews.org",
-          "Measles exposure at Pa. children’s hospital prompts alert - PennLive.com"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
         "trend": "outbreak",
         "market_code": "NL",
         "category": "Outbreaks",
-        "score": 10,
-        "examples": [
-          "What do we know about the deaths reported in Pennsylvania’s measles outbreak? - Inquirer.com",
-          "Measles outbreak in eastern Illinois leads health officials to urge vaccinations - NBC 5 Chicago",
-          "State: Measles outbreak reported in east central Illinois - Capitol City Now"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "virus",
+        "trend": "mental health",
         "market_code": "NL",
-        "category": "Outbreaks",
-        "score": 10,
-        "examples": [
-          "DNR: 700+ reports of dead deer in Washington, Waukesha Counties amid virus outbreak - WISN",
-          "Health department reports dengue virus detected in Hawaii Island wastewater samples - Hawaii News Now",
-          "Doctors united on respiratory virus vaccine recommendations - American Medical Association | AMA"
-        ]
+        "category": "Mental Health",
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "children",
-        "market_code": "NL",
-        "category": "Children Health",
-        "score": 9,
-        "examples": [
-          "Children as young as six going to A&E in mental health crisis - BBC",
-          "Measles exposure at Pa. children’s hospital prompts alert - PennLive.com",
-          "Whatever happened to ... children infected with HIV due to failures in healthcare? - NPR"
-        ]
-      },
-      {
-        "trend": "public health",
+        "trend": "medical research",
         "market_code": "NL",
         "category": "Europe Health",
-        "score": 8,
-        "examples": [
-          "Radiologists benefit from global teaching partnerships - UW School of Medicine and Public Health",
-          "Cook County Department of Public Health Launches Building Healthier Communities 2030, a Community-Driven Roadmap to Advance Health Equity Across Suburban Cook County - Cook County Department of Public Health - Cook County Department of Public Health",
-          "Cook County Department of Public Health Launches Building Healthier Communities 2030, a Community-Driven Roadmap to Advance Health Equity Across Suburban Cook County - Cook County Department of Public Health - Cook County Department of Public Health"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "health care",
+        "trend": "drug approval",
         "market_code": "NL",
-        "category": "Europe Health",
-        "score": 6,
-        "examples": [
-          "Layoff Tracker—95 layoffs at Stanford Health Care cuts 95 - Fierce Healthcare",
-          "MiSalud Health Launches Whole-Woman Health Care for Bilingual Front-Line Workers - Yahoo Finance",
-          "Policy Options to Improve Health Care Affordability: What California Can Learn from Other States - California Health Care Foundation"
-        ]
+        "category": "Drug & Treatment News",
+        "score": 1,
+        "examples": []
+      },
+      {
+        "trend": "diet wellness",
+        "market_code": "NL",
+        "category": "Diet & Wellness",
+        "score": 1,
+        "examples": []
       }
     ],
     "Finland": [
       {
-        "trend": "health",
+        "trend": "health alert",
         "market_code": "FI",
         "category": "Europe Health",
-        "score": 72,
-        "examples": [
-          "Layoff Tracker—95 layoffs at Stanford Health Care cuts 95 - Fierce Healthcare",
-          "Arizona physicians unionize at Banner Health - Courthouse News",
-          "WHO highlights cybersecurity as a growing health security priority - emro.who.int"
-        ]
-      },
-      {
-        "trend": "medical",
-        "market_code": "FI",
-        "category": "Europe Health",
-        "score": 25,
-        "examples": [
-          "FDA pilot offers generative AI medical devices a path to patients before they are authorized - statnews.com",
-          "US medical groups issue vaccine guidance, urge jabs for flu, COVID and RSV - Al Jazeera",
-          "Horizon Technology Finance Provides $15MM Loan Facility to Bioness Medical - ABF Journal"
-        ]
-      },
-      {
-        "trend": "healthcare",
-        "market_code": "FI",
-        "category": "Europe Health",
-        "score": 13,
-        "examples": [
-          "Layoff Tracker—95 layoffs at Stanford Health Care cuts 95 - Fierce Healthcare",
-          "Whatever happened to ... children infected with HIV due to failures in healthcare? - NPR",
-          "Reading the Body’s Signals: AI’s Ultimate Healthcare Opportunity - MedCity News"
-        ]
-      },
-      {
-        "trend": "mental",
-        "market_code": "FI",
-        "category": "Mental Health",
-        "score": 13,
-        "examples": [
-          "Students Are Turning to AI for Mental Health Advice - 5 Warning Signs Schools and Parents Should Watch - The Good Men Project",
-          "Children as young as six going to A&E in mental health crisis - BBC",
-          "New report on mental health needs for kids in foster care, juvenile justice system - ketv.com"
-        ]
-      },
-      {
-        "trend": "mental health",
-        "market_code": "FI",
-        "category": "Mental Health",
-        "score": 13,
-        "examples": [
-          "Students Are Turning to AI for Mental Health Advice - 5 Warning Signs Schools and Parents Should Watch - The Good Men Project",
-          "Children as young as six going to A&E in mental health crisis - BBC",
-          "New report on mental health needs for kids in foster care, juvenile justice system - ketv.com"
-        ]
-      },
-      {
-        "trend": "cancer",
-        "market_code": "FI",
-        "category": "Chronic Disease",
-        "score": 10,
-        "examples": [
-          "Childhood cancer patients and families target of new Ohio Department of Health program - The Statehouse News Bureau",
-          "Childhood cancer patients and families target of new Ohio Department of Health program - The Statehouse News Bureau",
-          "What’s in Merck and Moderna’s cancer vaccine algorithm? - statnews.com"
-        ]
-      },
-      {
-        "trend": "measles",
-        "market_code": "FI",
-        "category": "Outbreaks",
-        "score": 10,
-        "examples": [
-          "Clackamas medical office identified as measles exposure site - KPTV",
-          "New Jersey Health Officials Warn of Falling Childhood Vaccination Rates as U.S. Measles Cases Climb - communitynews.org",
-          "Measles exposure at Pa. children’s hospital prompts alert - PennLive.com"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
         "trend": "outbreak",
         "market_code": "FI",
         "category": "Outbreaks",
-        "score": 10,
-        "examples": [
-          "What do we know about the deaths reported in Pennsylvania’s measles outbreak? - Inquirer.com",
-          "Measles outbreak in eastern Illinois leads health officials to urge vaccinations - NBC 5 Chicago",
-          "State: Measles outbreak reported in east central Illinois - Capitol City Now"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "virus",
+        "trend": "mental health",
         "market_code": "FI",
-        "category": "Outbreaks",
-        "score": 10,
-        "examples": [
-          "DNR: 700+ reports of dead deer in Washington, Waukesha Counties amid virus outbreak - WISN",
-          "Health department reports dengue virus detected in Hawaii Island wastewater samples - Hawaii News Now",
-          "Doctors united on respiratory virus vaccine recommendations - American Medical Association | AMA"
-        ]
+        "category": "Mental Health",
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "children",
-        "market_code": "FI",
-        "category": "Children Health",
-        "score": 9,
-        "examples": [
-          "Children as young as six going to A&E in mental health crisis - BBC",
-          "Measles exposure at Pa. children’s hospital prompts alert - PennLive.com",
-          "Whatever happened to ... children infected with HIV due to failures in healthcare? - NPR"
-        ]
-      },
-      {
-        "trend": "public health",
+        "trend": "medical research",
         "market_code": "FI",
         "category": "Europe Health",
-        "score": 8,
-        "examples": [
-          "Radiologists benefit from global teaching partnerships - UW School of Medicine and Public Health",
-          "Cook County Department of Public Health Launches Building Healthier Communities 2030, a Community-Driven Roadmap to Advance Health Equity Across Suburban Cook County - Cook County Department of Public Health - Cook County Department of Public Health",
-          "Cook County Department of Public Health Launches Building Healthier Communities 2030, a Community-Driven Roadmap to Advance Health Equity Across Suburban Cook County - Cook County Department of Public Health - Cook County Department of Public Health"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "health care",
+        "trend": "drug approval",
         "market_code": "FI",
-        "category": "Europe Health",
-        "score": 6,
-        "examples": [
-          "Layoff Tracker—95 layoffs at Stanford Health Care cuts 95 - Fierce Healthcare",
-          "MiSalud Health Launches Whole-Woman Health Care for Bilingual Front-Line Workers - Yahoo Finance",
-          "Policy Options to Improve Health Care Affordability: What California Can Learn from Other States - California Health Care Foundation"
-        ]
+        "category": "Drug & Treatment News",
+        "score": 1,
+        "examples": []
+      },
+      {
+        "trend": "diet wellness",
+        "market_code": "FI",
+        "category": "Diet & Wellness",
+        "score": 1,
+        "examples": []
       }
     ],
     "Norway": [
       {
-        "trend": "health",
+        "trend": "health alert",
         "market_code": "NO",
         "category": "Europe Health",
-        "score": 72,
-        "examples": [
-          "Layoff Tracker—95 layoffs at Stanford Health Care cuts 95 - Fierce Healthcare",
-          "Arizona physicians unionize at Banner Health - Courthouse News",
-          "WHO highlights cybersecurity as a growing health security priority - emro.who.int"
-        ]
-      },
-      {
-        "trend": "medical",
-        "market_code": "NO",
-        "category": "Europe Health",
-        "score": 25,
-        "examples": [
-          "FDA pilot offers generative AI medical devices a path to patients before they are authorized - statnews.com",
-          "US medical groups issue vaccine guidance, urge jabs for flu, COVID and RSV - Al Jazeera",
-          "Horizon Technology Finance Provides $15MM Loan Facility to Bioness Medical - ABF Journal"
-        ]
-      },
-      {
-        "trend": "healthcare",
-        "market_code": "NO",
-        "category": "Europe Health",
-        "score": 13,
-        "examples": [
-          "Layoff Tracker—95 layoffs at Stanford Health Care cuts 95 - Fierce Healthcare",
-          "Whatever happened to ... children infected with HIV due to failures in healthcare? - NPR",
-          "Reading the Body’s Signals: AI’s Ultimate Healthcare Opportunity - MedCity News"
-        ]
-      },
-      {
-        "trend": "mental",
-        "market_code": "NO",
-        "category": "Mental Health",
-        "score": 13,
-        "examples": [
-          "Students Are Turning to AI for Mental Health Advice - 5 Warning Signs Schools and Parents Should Watch - The Good Men Project",
-          "Children as young as six going to A&E in mental health crisis - BBC",
-          "New report on mental health needs for kids in foster care, juvenile justice system - ketv.com"
-        ]
-      },
-      {
-        "trend": "mental health",
-        "market_code": "NO",
-        "category": "Mental Health",
-        "score": 13,
-        "examples": [
-          "Students Are Turning to AI for Mental Health Advice - 5 Warning Signs Schools and Parents Should Watch - The Good Men Project",
-          "Children as young as six going to A&E in mental health crisis - BBC",
-          "New report on mental health needs for kids in foster care, juvenile justice system - ketv.com"
-        ]
-      },
-      {
-        "trend": "cancer",
-        "market_code": "NO",
-        "category": "Chronic Disease",
-        "score": 10,
-        "examples": [
-          "Childhood cancer patients and families target of new Ohio Department of Health program - The Statehouse News Bureau",
-          "Childhood cancer patients and families target of new Ohio Department of Health program - The Statehouse News Bureau",
-          "What’s in Merck and Moderna’s cancer vaccine algorithm? - statnews.com"
-        ]
-      },
-      {
-        "trend": "measles",
-        "market_code": "NO",
-        "category": "Outbreaks",
-        "score": 10,
-        "examples": [
-          "Clackamas medical office identified as measles exposure site - KPTV",
-          "New Jersey Health Officials Warn of Falling Childhood Vaccination Rates as U.S. Measles Cases Climb - communitynews.org",
-          "Measles exposure at Pa. children’s hospital prompts alert - PennLive.com"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
         "trend": "outbreak",
         "market_code": "NO",
         "category": "Outbreaks",
-        "score": 10,
-        "examples": [
-          "What do we know about the deaths reported in Pennsylvania’s measles outbreak? - Inquirer.com",
-          "Measles outbreak in eastern Illinois leads health officials to urge vaccinations - NBC 5 Chicago",
-          "State: Measles outbreak reported in east central Illinois - Capitol City Now"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "virus",
+        "trend": "mental health",
         "market_code": "NO",
-        "category": "Outbreaks",
-        "score": 10,
-        "examples": [
-          "DNR: 700+ reports of dead deer in Washington, Waukesha Counties amid virus outbreak - WISN",
-          "Health department reports dengue virus detected in Hawaii Island wastewater samples - Hawaii News Now",
-          "Doctors united on respiratory virus vaccine recommendations - American Medical Association | AMA"
-        ]
+        "category": "Mental Health",
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "children",
-        "market_code": "NO",
-        "category": "Children Health",
-        "score": 9,
-        "examples": [
-          "Children as young as six going to A&E in mental health crisis - BBC",
-          "Measles exposure at Pa. children’s hospital prompts alert - PennLive.com",
-          "Whatever happened to ... children infected with HIV due to failures in healthcare? - NPR"
-        ]
-      },
-      {
-        "trend": "public health",
+        "trend": "medical research",
         "market_code": "NO",
         "category": "Europe Health",
-        "score": 8,
-        "examples": [
-          "Radiologists benefit from global teaching partnerships - UW School of Medicine and Public Health",
-          "Cook County Department of Public Health Launches Building Healthier Communities 2030, a Community-Driven Roadmap to Advance Health Equity Across Suburban Cook County - Cook County Department of Public Health - Cook County Department of Public Health",
-          "Cook County Department of Public Health Launches Building Healthier Communities 2030, a Community-Driven Roadmap to Advance Health Equity Across Suburban Cook County - Cook County Department of Public Health - Cook County Department of Public Health"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "health care",
+        "trend": "drug approval",
         "market_code": "NO",
-        "category": "Europe Health",
-        "score": 6,
-        "examples": [
-          "Layoff Tracker—95 layoffs at Stanford Health Care cuts 95 - Fierce Healthcare",
-          "MiSalud Health Launches Whole-Woman Health Care for Bilingual Front-Line Workers - Yahoo Finance",
-          "Policy Options to Improve Health Care Affordability: What California Can Learn from Other States - California Health Care Foundation"
-        ]
+        "category": "Drug & Treatment News",
+        "score": 1,
+        "examples": []
+      },
+      {
+        "trend": "diet wellness",
+        "market_code": "NO",
+        "category": "Diet & Wellness",
+        "score": 1,
+        "examples": []
       }
     ],
     "Japan": [
       {
-        "trend": "health",
+        "trend": "health alert",
         "market_code": "JP",
         "category": "Asia Health",
-        "score": 72,
-        "examples": [
-          "Layoff Tracker—95 layoffs at Stanford Health Care cuts 95 - Fierce Healthcare",
-          "Arizona physicians unionize at Banner Health - Courthouse News",
-          "WHO highlights cybersecurity as a growing health security priority - emro.who.int"
-        ]
-      },
-      {
-        "trend": "medical",
-        "market_code": "JP",
-        "category": "Asia Health",
-        "score": 25,
-        "examples": [
-          "FDA pilot offers generative AI medical devices a path to patients before they are authorized - statnews.com",
-          "US medical groups issue vaccine guidance, urge jabs for flu, COVID and RSV - Al Jazeera",
-          "Horizon Technology Finance Provides $15MM Loan Facility to Bioness Medical - ABF Journal"
-        ]
-      },
-      {
-        "trend": "healthcare",
-        "market_code": "JP",
-        "category": "Asia Health",
-        "score": 13,
-        "examples": [
-          "Layoff Tracker—95 layoffs at Stanford Health Care cuts 95 - Fierce Healthcare",
-          "Whatever happened to ... children infected with HIV due to failures in healthcare? - NPR",
-          "Reading the Body’s Signals: AI’s Ultimate Healthcare Opportunity - MedCity News"
-        ]
-      },
-      {
-        "trend": "mental",
-        "market_code": "JP",
-        "category": "Mental Health",
-        "score": 13,
-        "examples": [
-          "Students Are Turning to AI for Mental Health Advice - 5 Warning Signs Schools and Parents Should Watch - The Good Men Project",
-          "Children as young as six going to A&E in mental health crisis - BBC",
-          "New report on mental health needs for kids in foster care, juvenile justice system - ketv.com"
-        ]
-      },
-      {
-        "trend": "mental health",
-        "market_code": "JP",
-        "category": "Mental Health",
-        "score": 13,
-        "examples": [
-          "Students Are Turning to AI for Mental Health Advice - 5 Warning Signs Schools and Parents Should Watch - The Good Men Project",
-          "Children as young as six going to A&E in mental health crisis - BBC",
-          "New report on mental health needs for kids in foster care, juvenile justice system - ketv.com"
-        ]
-      },
-      {
-        "trend": "cancer",
-        "market_code": "JP",
-        "category": "Chronic Disease",
-        "score": 10,
-        "examples": [
-          "Childhood cancer patients and families target of new Ohio Department of Health program - The Statehouse News Bureau",
-          "Childhood cancer patients and families target of new Ohio Department of Health program - The Statehouse News Bureau",
-          "What’s in Merck and Moderna’s cancer vaccine algorithm? - statnews.com"
-        ]
-      },
-      {
-        "trend": "measles",
-        "market_code": "JP",
-        "category": "Outbreaks",
-        "score": 10,
-        "examples": [
-          "Clackamas medical office identified as measles exposure site - KPTV",
-          "New Jersey Health Officials Warn of Falling Childhood Vaccination Rates as U.S. Measles Cases Climb - communitynews.org",
-          "Measles exposure at Pa. children’s hospital prompts alert - PennLive.com"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
         "trend": "outbreak",
         "market_code": "JP",
         "category": "Outbreaks",
-        "score": 10,
-        "examples": [
-          "What do we know about the deaths reported in Pennsylvania’s measles outbreak? - Inquirer.com",
-          "Measles outbreak in eastern Illinois leads health officials to urge vaccinations - NBC 5 Chicago",
-          "State: Measles outbreak reported in east central Illinois - Capitol City Now"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "virus",
+        "trend": "mental health",
         "market_code": "JP",
-        "category": "Outbreaks",
-        "score": 10,
-        "examples": [
-          "DNR: 700+ reports of dead deer in Washington, Waukesha Counties amid virus outbreak - WISN",
-          "Health department reports dengue virus detected in Hawaii Island wastewater samples - Hawaii News Now",
-          "Doctors united on respiratory virus vaccine recommendations - American Medical Association | AMA"
-        ]
+        "category": "Mental Health",
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "children",
-        "market_code": "JP",
-        "category": "Children Health",
-        "score": 9,
-        "examples": [
-          "Children as young as six going to A&E in mental health crisis - BBC",
-          "Measles exposure at Pa. children’s hospital prompts alert - PennLive.com",
-          "Whatever happened to ... children infected with HIV due to failures in healthcare? - NPR"
-        ]
-      },
-      {
-        "trend": "public health",
+        "trend": "medical research",
         "market_code": "JP",
         "category": "Asia Health",
-        "score": 8,
-        "examples": [
-          "Radiologists benefit from global teaching partnerships - UW School of Medicine and Public Health",
-          "Cook County Department of Public Health Launches Building Healthier Communities 2030, a Community-Driven Roadmap to Advance Health Equity Across Suburban Cook County - Cook County Department of Public Health - Cook County Department of Public Health",
-          "Cook County Department of Public Health Launches Building Healthier Communities 2030, a Community-Driven Roadmap to Advance Health Equity Across Suburban Cook County - Cook County Department of Public Health - Cook County Department of Public Health"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "health care",
+        "trend": "drug approval",
         "market_code": "JP",
-        "category": "Asia Health",
-        "score": 6,
-        "examples": [
-          "Layoff Tracker—95 layoffs at Stanford Health Care cuts 95 - Fierce Healthcare",
-          "MiSalud Health Launches Whole-Woman Health Care for Bilingual Front-Line Workers - Yahoo Finance",
-          "Policy Options to Improve Health Care Affordability: What California Can Learn from Other States - California Health Care Foundation"
-        ]
+        "category": "Drug & Treatment News",
+        "score": 1,
+        "examples": []
+      },
+      {
+        "trend": "diet wellness",
+        "market_code": "JP",
+        "category": "Diet & Wellness",
+        "score": 1,
+        "examples": []
       }
     ],
     "China": [
       {
-        "trend": "health",
+        "trend": "health alert",
         "market_code": "CN",
         "category": "Asia Health",
-        "score": 72,
-        "examples": [
-          "Layoff Tracker—95 layoffs at Stanford Health Care cuts 95 - Fierce Healthcare",
-          "Arizona physicians unionize at Banner Health - Courthouse News",
-          "WHO highlights cybersecurity as a growing health security priority - emro.who.int"
-        ]
-      },
-      {
-        "trend": "medical",
-        "market_code": "CN",
-        "category": "Asia Health",
-        "score": 25,
-        "examples": [
-          "FDA pilot offers generative AI medical devices a path to patients before they are authorized - statnews.com",
-          "US medical groups issue vaccine guidance, urge jabs for flu, COVID and RSV - Al Jazeera",
-          "Horizon Technology Finance Provides $15MM Loan Facility to Bioness Medical - ABF Journal"
-        ]
-      },
-      {
-        "trend": "healthcare",
-        "market_code": "CN",
-        "category": "Asia Health",
-        "score": 13,
-        "examples": [
-          "Layoff Tracker—95 layoffs at Stanford Health Care cuts 95 - Fierce Healthcare",
-          "Whatever happened to ... children infected with HIV due to failures in healthcare? - NPR",
-          "Reading the Body’s Signals: AI’s Ultimate Healthcare Opportunity - MedCity News"
-        ]
-      },
-      {
-        "trend": "mental",
-        "market_code": "CN",
-        "category": "Mental Health",
-        "score": 13,
-        "examples": [
-          "Students Are Turning to AI for Mental Health Advice - 5 Warning Signs Schools and Parents Should Watch - The Good Men Project",
-          "Children as young as six going to A&E in mental health crisis - BBC",
-          "New report on mental health needs for kids in foster care, juvenile justice system - ketv.com"
-        ]
-      },
-      {
-        "trend": "mental health",
-        "market_code": "CN",
-        "category": "Mental Health",
-        "score": 13,
-        "examples": [
-          "Students Are Turning to AI for Mental Health Advice - 5 Warning Signs Schools and Parents Should Watch - The Good Men Project",
-          "Children as young as six going to A&E in mental health crisis - BBC",
-          "New report on mental health needs for kids in foster care, juvenile justice system - ketv.com"
-        ]
-      },
-      {
-        "trend": "cancer",
-        "market_code": "CN",
-        "category": "Chronic Disease",
-        "score": 10,
-        "examples": [
-          "Childhood cancer patients and families target of new Ohio Department of Health program - The Statehouse News Bureau",
-          "Childhood cancer patients and families target of new Ohio Department of Health program - The Statehouse News Bureau",
-          "What’s in Merck and Moderna’s cancer vaccine algorithm? - statnews.com"
-        ]
-      },
-      {
-        "trend": "measles",
-        "market_code": "CN",
-        "category": "Outbreaks",
-        "score": 10,
-        "examples": [
-          "Clackamas medical office identified as measles exposure site - KPTV",
-          "New Jersey Health Officials Warn of Falling Childhood Vaccination Rates as U.S. Measles Cases Climb - communitynews.org",
-          "Measles exposure at Pa. children’s hospital prompts alert - PennLive.com"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
         "trend": "outbreak",
         "market_code": "CN",
         "category": "Outbreaks",
-        "score": 10,
-        "examples": [
-          "What do we know about the deaths reported in Pennsylvania’s measles outbreak? - Inquirer.com",
-          "Measles outbreak in eastern Illinois leads health officials to urge vaccinations - NBC 5 Chicago",
-          "State: Measles outbreak reported in east central Illinois - Capitol City Now"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "virus",
+        "trend": "mental health",
         "market_code": "CN",
-        "category": "Outbreaks",
-        "score": 10,
-        "examples": [
-          "DNR: 700+ reports of dead deer in Washington, Waukesha Counties amid virus outbreak - WISN",
-          "Health department reports dengue virus detected in Hawaii Island wastewater samples - Hawaii News Now",
-          "Doctors united on respiratory virus vaccine recommendations - American Medical Association | AMA"
-        ]
+        "category": "Mental Health",
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "children",
-        "market_code": "CN",
-        "category": "Children Health",
-        "score": 9,
-        "examples": [
-          "Children as young as six going to A&E in mental health crisis - BBC",
-          "Measles exposure at Pa. children’s hospital prompts alert - PennLive.com",
-          "Whatever happened to ... children infected with HIV due to failures in healthcare? - NPR"
-        ]
-      },
-      {
-        "trend": "public health",
+        "trend": "medical research",
         "market_code": "CN",
         "category": "Asia Health",
-        "score": 8,
-        "examples": [
-          "Radiologists benefit from global teaching partnerships - UW School of Medicine and Public Health",
-          "Cook County Department of Public Health Launches Building Healthier Communities 2030, a Community-Driven Roadmap to Advance Health Equity Across Suburban Cook County - Cook County Department of Public Health - Cook County Department of Public Health",
-          "Cook County Department of Public Health Launches Building Healthier Communities 2030, a Community-Driven Roadmap to Advance Health Equity Across Suburban Cook County - Cook County Department of Public Health - Cook County Department of Public Health"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "health care",
+        "trend": "drug approval",
         "market_code": "CN",
-        "category": "Asia Health",
-        "score": 6,
-        "examples": [
-          "Layoff Tracker—95 layoffs at Stanford Health Care cuts 95 - Fierce Healthcare",
-          "MiSalud Health Launches Whole-Woman Health Care for Bilingual Front-Line Workers - Yahoo Finance",
-          "Policy Options to Improve Health Care Affordability: What California Can Learn from Other States - California Health Care Foundation"
-        ]
+        "category": "Drug & Treatment News",
+        "score": 1,
+        "examples": []
+      },
+      {
+        "trend": "diet wellness",
+        "market_code": "CN",
+        "category": "Diet & Wellness",
+        "score": 1,
+        "examples": []
       }
     ],
     "South Korea": [
       {
-        "trend": "health",
+        "trend": "health alert",
         "market_code": "KR",
         "category": "Asia Health",
-        "score": 72,
-        "examples": [
-          "Layoff Tracker—95 layoffs at Stanford Health Care cuts 95 - Fierce Healthcare",
-          "Arizona physicians unionize at Banner Health - Courthouse News",
-          "WHO highlights cybersecurity as a growing health security priority - emro.who.int"
-        ]
-      },
-      {
-        "trend": "medical",
-        "market_code": "KR",
-        "category": "Asia Health",
-        "score": 25,
-        "examples": [
-          "FDA pilot offers generative AI medical devices a path to patients before they are authorized - statnews.com",
-          "US medical groups issue vaccine guidance, urge jabs for flu, COVID and RSV - Al Jazeera",
-          "Horizon Technology Finance Provides $15MM Loan Facility to Bioness Medical - ABF Journal"
-        ]
-      },
-      {
-        "trend": "healthcare",
-        "market_code": "KR",
-        "category": "Asia Health",
-        "score": 13,
-        "examples": [
-          "Layoff Tracker—95 layoffs at Stanford Health Care cuts 95 - Fierce Healthcare",
-          "Whatever happened to ... children infected with HIV due to failures in healthcare? - NPR",
-          "Reading the Body’s Signals: AI’s Ultimate Healthcare Opportunity - MedCity News"
-        ]
-      },
-      {
-        "trend": "mental",
-        "market_code": "KR",
-        "category": "Mental Health",
-        "score": 13,
-        "examples": [
-          "Students Are Turning to AI for Mental Health Advice - 5 Warning Signs Schools and Parents Should Watch - The Good Men Project",
-          "Children as young as six going to A&E in mental health crisis - BBC",
-          "New report on mental health needs for kids in foster care, juvenile justice system - ketv.com"
-        ]
-      },
-      {
-        "trend": "mental health",
-        "market_code": "KR",
-        "category": "Mental Health",
-        "score": 13,
-        "examples": [
-          "Students Are Turning to AI for Mental Health Advice - 5 Warning Signs Schools and Parents Should Watch - The Good Men Project",
-          "Children as young as six going to A&E in mental health crisis - BBC",
-          "New report on mental health needs for kids in foster care, juvenile justice system - ketv.com"
-        ]
-      },
-      {
-        "trend": "cancer",
-        "market_code": "KR",
-        "category": "Chronic Disease",
-        "score": 10,
-        "examples": [
-          "Childhood cancer patients and families target of new Ohio Department of Health program - The Statehouse News Bureau",
-          "Childhood cancer patients and families target of new Ohio Department of Health program - The Statehouse News Bureau",
-          "What’s in Merck and Moderna’s cancer vaccine algorithm? - statnews.com"
-        ]
-      },
-      {
-        "trend": "measles",
-        "market_code": "KR",
-        "category": "Outbreaks",
-        "score": 10,
-        "examples": [
-          "Clackamas medical office identified as measles exposure site - KPTV",
-          "New Jersey Health Officials Warn of Falling Childhood Vaccination Rates as U.S. Measles Cases Climb - communitynews.org",
-          "Measles exposure at Pa. children’s hospital prompts alert - PennLive.com"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
         "trend": "outbreak",
         "market_code": "KR",
         "category": "Outbreaks",
-        "score": 10,
-        "examples": [
-          "What do we know about the deaths reported in Pennsylvania’s measles outbreak? - Inquirer.com",
-          "Measles outbreak in eastern Illinois leads health officials to urge vaccinations - NBC 5 Chicago",
-          "State: Measles outbreak reported in east central Illinois - Capitol City Now"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "virus",
+        "trend": "mental health",
         "market_code": "KR",
-        "category": "Outbreaks",
-        "score": 10,
-        "examples": [
-          "DNR: 700+ reports of dead deer in Washington, Waukesha Counties amid virus outbreak - WISN",
-          "Health department reports dengue virus detected in Hawaii Island wastewater samples - Hawaii News Now",
-          "Doctors united on respiratory virus vaccine recommendations - American Medical Association | AMA"
-        ]
+        "category": "Mental Health",
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "children",
-        "market_code": "KR",
-        "category": "Children Health",
-        "score": 9,
-        "examples": [
-          "Children as young as six going to A&E in mental health crisis - BBC",
-          "Measles exposure at Pa. children’s hospital prompts alert - PennLive.com",
-          "Whatever happened to ... children infected with HIV due to failures in healthcare? - NPR"
-        ]
-      },
-      {
-        "trend": "public health",
+        "trend": "medical research",
         "market_code": "KR",
         "category": "Asia Health",
-        "score": 8,
-        "examples": [
-          "Radiologists benefit from global teaching partnerships - UW School of Medicine and Public Health",
-          "Cook County Department of Public Health Launches Building Healthier Communities 2030, a Community-Driven Roadmap to Advance Health Equity Across Suburban Cook County - Cook County Department of Public Health - Cook County Department of Public Health",
-          "Cook County Department of Public Health Launches Building Healthier Communities 2030, a Community-Driven Roadmap to Advance Health Equity Across Suburban Cook County - Cook County Department of Public Health - Cook County Department of Public Health"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "health care",
+        "trend": "drug approval",
         "market_code": "KR",
-        "category": "Asia Health",
-        "score": 6,
-        "examples": [
-          "Layoff Tracker—95 layoffs at Stanford Health Care cuts 95 - Fierce Healthcare",
-          "MiSalud Health Launches Whole-Woman Health Care for Bilingual Front-Line Workers - Yahoo Finance",
-          "Policy Options to Improve Health Care Affordability: What California Can Learn from Other States - California Health Care Foundation"
-        ]
+        "category": "Drug & Treatment News",
+        "score": 1,
+        "examples": []
+      },
+      {
+        "trend": "diet wellness",
+        "market_code": "KR",
+        "category": "Diet & Wellness",
+        "score": 1,
+        "examples": []
       }
     ],
     "India": [
       {
-        "trend": "health",
+        "trend": "health alert",
         "market_code": "IN",
         "category": "Asia Health",
-        "score": 66,
-        "examples": [
-          "Health ministers of WHO South-East Asia Region meeting next week to advance action on key health priorities - World Health Organization (WHO)",
-          "Health ministers of WHO South-East Asia Region meeting next week to advance action on key health priorities - World Health Organization (WHO)",
-          "Health ministers of WHO South-East Asia Region meeting next week to advance action on key health priorities - World Health Organization (WHO)"
-        ]
-      },
-      {
-        "trend": "medical",
-        "market_code": "IN",
-        "category": "Asia Health",
-        "score": 23,
-        "examples": [
-          "NEO MBBS Students Clinical Boot Camp at GSL Medical Hospital By NEO | RTV - instagram.com",
-          "RTV Digital. Anuv Jain · Arz Kiya Hai | Coke Studio Bharat. NEO MBBS Students Clinical Boot Camp at GSL Medical Hospital By NEO | RTV - facebook.com",
-          "SkyDrive assesses eVTOL medical logistics routes in Mumbai and Delhi - airmedandrescue.com"
-        ]
-      },
-      {
-        "trend": "mental",
-        "market_code": "IN",
-        "category": "Mental Health",
-        "score": 20,
-        "examples": [
-          "Mental health must anchor public health - The Hindu",
-          "Impact of Glucagon-Like Peptide-1 Receptor Agonists on Mental Health: A Systematic Review of Psychiatric Safety and Antidepressant Potential - Cureus",
-          "Keralam Begins A New Chapter In Mental Healthcare, Renames Mental Hospitals As Happiness And Wellness Centres - ETV Bharat"
-        ]
-      },
-      {
-        "trend": "healthcare",
-        "market_code": "IN",
-        "category": "Asia Health",
-        "score": 18,
-        "examples": [
-          "ChatGPT for Healthcare unveils Epic integration as part of data consolidation strategy - HealthExec",
-          "India reviews health budget rollout, sets trauma care upgrade timeline - Healthcare Asia Magazine",
-          "Preventive healthcare,research ecosystem key to India’s future : PM Modi | Akashvani News - News On AIR"
-        ]
-      },
-      {
-        "trend": "mental health",
-        "market_code": "IN",
-        "category": "Mental Health",
-        "score": 13,
-        "examples": [
-          "Mental health must anchor public health - The Hindu",
-          "Impact of Glucagon-Like Peptide-1 Receptor Agonists on Mental Health: A Systematic Review of Psychiatric Safety and Antidepressant Potential - Cureus",
-          "Mental health must anchor public health - The Hindu"
-        ]
-      },
-      {
-        "trend": "vaccine",
-        "market_code": "IN",
-        "category": "Drug & Treatment News",
-        "score": 9,
-        "examples": [
-          "US medical groups issue vaccine guidance, urge jabs for flu, COVID and RSV - Al Jazeera",
-          "Mpox Vaccine Stockpile Creates a Permanent Emergency Buffer for Future Outbreaks - devdiscourse.com",
-          "Doctors united on respiratory virus vaccine recommendations - American Medical Association | AMA"
-        ]
-      },
-      {
-        "trend": "children",
-        "market_code": "IN",
-        "category": "Children Health",
-        "score": 8,
-        "examples": [
-          "Children as young as six going to A&E in mental health crisis - BBC",
-          "Measles exposure at Pa. children’s hospital prompts alert - PennLive.com",
-          "Bangladesh: Measles outbreak claims 21 children in March | Akashvani News - News On AIR"
-        ]
-      },
-      {
-        "trend": "hospital",
-        "market_code": "IN",
-        "category": "Asia Health",
-        "score": 7,
-        "examples": [
-          "NEO MBBS Students Clinical Boot Camp at GSL Medical Hospital By NEO | RTV - instagram.com",
-          "RTV Digital. Anuv Jain · Arz Kiya Hai | Coke Studio Bharat. NEO MBBS Students Clinical Boot Camp at GSL Medical Hospital By NEO | RTV - facebook.com",
-          "Oxford hospital parking crisis sparks health impact warning - Trending Now Infrastructure"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
         "trend": "outbreak",
         "market_code": "IN",
         "category": "Outbreaks",
-        "score": 7,
-        "examples": [
-          "Ebola Outbreak In DR Congo Surpasses 3,000 Deaths: WHO & UN Say Outbreak Is Outpacing Response - Health and Me",
-          "Ebola Outbreak In DR Congo Surpasses 3,000 Deaths: WHO & UN Say Outbreak Is Outpacing Response - Health and Me",
-          "Bangladesh: Measles outbreak claims 21 children in March | Akashvani News - News On AIR"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "cancer",
+        "trend": "mental health",
         "market_code": "IN",
-        "category": "Chronic Disease",
-        "score": 7,
-        "examples": [
-          "Europe Cancer Vaccines Market Size, Share,Trends, Growth Analysis Report, 2029 - MarketsandMarkets",
-          "How Much of a Cancer Drug Is Too Much? Patients, Researchers Challenge FDA-Approved Dosages - Cancer Therapy Advisor",
-          "How Much of a Cancer Drug Is Too Much? Patients, Researchers Challenge FDA-Approved Dosages - Cancer Therapy Advisor"
-        ]
+        "category": "Mental Health",
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "wellness",
-        "market_code": "IN",
-        "category": "Diet & Wellness",
-        "score": 6,
-        "examples": [
-          "Keralam Begins A New Chapter In Mental Healthcare, Renames Mental Hospitals As Happiness And Wellness Centres - ETV Bharat",
-          "Keralam Begins A New Chapter In Mental Healthcare, Renames Mental Hospitals As Happiness And Wellness Centres - ETV Bharat",
-          "Keralam Begins A New Chapter In Mental Healthcare, Renames Mental Hospitals As Happiness And Wellness Centres - ETV Bharat"
-        ]
-      },
-      {
-        "trend": "hospitals",
+        "trend": "medical research",
         "market_code": "IN",
         "category": "Asia Health",
-        "score": 5,
-        "examples": [
-          "Keralam Begins A New Chapter In Mental Healthcare, Renames Mental Hospitals As Happiness And Wellness Centres - ETV Bharat",
-          "Keralam Begins A New Chapter In Mental Healthcare, Renames Mental Hospitals As Happiness And Wellness Centres - ETV Bharat",
-          "Two Ebola Cases In Agra Trigger High Alert In Hospitals; Congo Returnees, Their Families In Strict Isolation - ETV Bharat"
-        ]
+        "score": 1,
+        "examples": []
+      },
+      {
+        "trend": "drug approval",
+        "market_code": "IN",
+        "category": "Drug & Treatment News",
+        "score": 1,
+        "examples": []
+      },
+      {
+        "trend": "diet wellness",
+        "market_code": "IN",
+        "category": "Diet & Wellness",
+        "score": 1,
+        "examples": []
       }
     ],
     "Australia": [
       {
-        "trend": "health",
+        "trend": "health alert",
         "market_code": "AU",
         "category": "Global Health",
-        "score": 55,
-        "examples": [
-          "AI scribe rollout benefits patient care in Metro South Health - Metro South Health",
-          "AI scribe rollout benefits patient care in Metro South Health - Metro South Health",
-          "Health ministers of WHO South-East Asia Region meeting next week to advance action on key health priorities - World Health Organization (WHO)"
-        ]
-      },
-      {
-        "trend": "medical",
-        "market_code": "AU",
-        "category": "Global Health",
-        "score": 17,
-        "examples": [
-          "Actinogen Medical (ASX:ACW) Adds 9%—Are XanaMIA Results the Next Major Test? - Kalkine",
-          "Medical Update | Khephren Thuram and Juan Cabal - Juventus.com",
-          "Statins deliver for the over-70s - Medical Republic"
-        ]
-      },
-      {
-        "trend": "cancer",
-        "market_code": "AU",
-        "category": "Chronic Disease",
-        "score": 11,
-        "examples": [
-          "Morning cancer treatment ‘may boost survival’ - The Australian",
-          "Public feedback sought on Tasmanian Cancer Strategy - Tasmanian Department of Health",
-          "Time is running out for teenage cancer patient, but 'sliver of hope' on horizon - ABC News & Headlines – Australian Broadcasting Corporation"
-        ]
-      },
-      {
-        "trend": "mental",
-        "market_code": "AU",
-        "category": "Mental Health",
-        "score": 10,
-        "examples": [
-          "Frequent Cannabis Use Tied to Poorer Mental Health - Mirage News",
-          "Ministers to discuss mental health deal despite claims of December delay - Health Services Daily",
-          "Students Are Turning to AI for Mental Health Advice - 5 Warning Signs Schools and Parents Should Watch - The Good Men Project"
-        ]
-      },
-      {
-        "trend": "mental health",
-        "market_code": "AU",
-        "category": "Mental Health",
-        "score": 10,
-        "examples": [
-          "Frequent Cannabis Use Tied to Poorer Mental Health - Mirage News",
-          "Ministers to discuss mental health deal despite claims of December delay - Health Services Daily",
-          "Students Are Turning to AI for Mental Health Advice - 5 Warning Signs Schools and Parents Should Watch - The Good Men Project"
-        ]
-      },
-      {
-        "trend": "children",
-        "market_code": "AU",
-        "category": "Children Health",
-        "score": 10,
-        "examples": [
-          "Measles exposure at Pa. children’s hospital prompts alert - PennLive.com",
-          "Surge in Young Children Seeking Emergency Mental Health Care - distilledpost.com",
-          "Australia prepares trial of mRNA vaccine for children with brain tumors - UA.NEWS"
-        ]
-      },
-      {
-        "trend": "patients",
-        "market_code": "AU",
-        "category": "Global Health",
-        "score": 7,
-        "examples": [
-          "FDA pilot offers generative AI medical devices a path to patients before they are authorized - STAT",
-          "The long-awaited report that left out the key detail patients were promised - SMH.com.au",
-          "FDA pilot offers generative AI medical devices a path to patients before they are authorized - STAT"
-        ]
-      },
-      {
-        "trend": "warning",
-        "market_code": "AU",
-        "category": "Global Health",
-        "score": 7,
-        "examples": [
-          "AI sleep data could provide one-week early warning of flu and COVID-19 - GOV.UK",
-          "Students Are Turning to AI for Mental Health Advice - 5 Warning Signs Schools and Parents Should Watch - The Good Men Project",
-          "AI sleep data could provide one-week early warning of flu and COVID-19 - GOV.UK"
-        ]
-      },
-      {
-        "trend": "heart",
-        "market_code": "AU",
-        "category": "Chronic Disease",
-        "score": 7,
-        "examples": [
-          "Kay McGrath’s devastating warning after losing fiancé to heart attack - 7NEWS",
-          "Muscle matters: Simple scan could predict heart surgery risks - News-Medical",
-          "How trauma-related mental health conditions put the heart at risk - healthcare-in-europe.com"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
         "trend": "outbreak",
         "market_code": "AU",
         "category": "Outbreaks",
-        "score": 7,
-        "examples": [
-          "Grim milestone as Ebola outbreak continues to grow - The Nightly",
-          "WHO chief warns Ebola response must ramp up to stem DRC outbreak - Al Jazeera",
-          "Millions of sterile fruit flies to be released across Adelaide’s northern suburbs to wipe out outbreak - Glam Adelaide"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "healthy",
+        "trend": "mental health",
+        "market_code": "AU",
+        "category": "Mental Health",
+        "score": 1,
+        "examples": []
+      },
+      {
+        "trend": "medical research",
         "market_code": "AU",
         "category": "Global Health",
-        "score": 6,
-        "examples": [
-          "Nestle hires Houlihan Lokey for Go Healthy vitamin sale - The Australian",
-          "Making Healthy Eating Desirable - The Tribune",
-          "RFK Jr. has a new cooking show focused on healthy, affordable meals. I put the first 2 recipes to a real-world test. - Yahoo Health"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "vaccine",
+        "trend": "drug approval",
         "market_code": "AU",
         "category": "Drug & Treatment News",
-        "score": 6,
-        "examples": [
-          "US medical groups issue vaccine guidance, urge jabs for flu, COVID and RSV - Al Jazeera",
-          "Flu Protein Redesign Improves Nanoparticle Vaccine Performance - Technology Networks",
-          "Moderna begins Phase 1 clinical trial of Ebola vaccine against strain behind DRC outbreak - ABC News - Breaking News, Latest News and Videos"
-        ]
+        "score": 1,
+        "examples": []
+      },
+      {
+        "trend": "diet wellness",
+        "market_code": "AU",
+        "category": "Diet & Wellness",
+        "score": 1,
+        "examples": []
       }
     ],
     "Canada": [
       {
-        "trend": "health",
+        "trend": "health alert",
         "market_code": "CA",
         "category": "Global Health",
-        "score": 69,
-        "examples": [
-          "Health ministers of WHO South-East Asia Region meeting next week to advance action on key health priorities - World Health Organization (WHO)",
-          "Health ministers of WHO South-East Asia Region meeting next week to advance action on key health priorities - World Health Organization (WHO)",
-          "Health ministers of WHO South-East Asia Region meeting next week to advance action on key health priorities - World Health Organization (WHO)"
-        ]
-      },
-      {
-        "trend": "medical",
-        "market_code": "CA",
-        "category": "Global Health",
-        "score": 19,
-        "examples": [
-          "PixCell Medical and Inter Medico to distribute HemoScreen across Canada - Medical Device Network",
-          "PixCell Medical and Inter Medico to distribute HemoScreen across Canada - Medical Device Network",
-          "Arsenal 25yo completes medical ahead of post-deadline exit - Yahoo Sports Canada"
-        ]
-      },
-      {
-        "trend": "virus",
-        "market_code": "CA",
-        "category": "Outbreaks",
-        "score": 14,
-        "examples": [
-          "Peel Public Health confirms 1st human case of West Nile Virus in 2026 - CBC",
-          "NHS issues 'serious' flu warning as virus could strike earlier than usual this winter - manchestereveningnews.co.uk",
-          "York Region confirms first human case of West Nile virus this year - NewmarketToday.ca"
-        ]
-      },
-      {
-        "trend": "nile virus",
-        "market_code": "CA",
-        "category": "Outbreaks",
-        "score": 11,
-        "examples": [
-          "Peel Public Health confirms 1st human case of West Nile Virus in 2026 - CBC",
-          "York Region confirms first human case of West Nile virus this year - NewmarketToday.ca",
-          "West Nile virus: 290 cases and 24 deaths in Greece — Cyprus calls for calm - Yahoo News Canada"
-        ]
-      },
-      {
-        "trend": "west nile virus",
-        "market_code": "CA",
-        "category": "Outbreaks",
-        "score": 11,
-        "examples": [
-          "Peel Public Health confirms 1st human case of West Nile Virus in 2026 - CBC",
-          "York Region confirms first human case of West Nile virus this year - NewmarketToday.ca",
-          "West Nile virus: 290 cases and 24 deaths in Greece — Cyprus calls for calm - Yahoo News Canada"
-        ]
-      },
-      {
-        "trend": "mental",
-        "market_code": "CA",
-        "category": "Mental Health",
-        "score": 11,
-        "examples": [
-          "Students Are Turning to AI for Mental Health Advice - 5 Warning Signs Schools and Parents Should Watch - The Good Men Project",
-          "Children as young as six going to A&E in mental health crisis - BBC",
-          "92% of Canadian mothers report carrying the family's 'mental load' - survey - Insurance Business"
-        ]
-      },
-      {
-        "trend": "public health",
-        "market_code": "CA",
-        "category": "Global Health",
-        "score": 10,
-        "examples": [
-          "Public Health monitoring, but no spike in cyclosporiasis cases locally - Sudbury News",
-          "Public Health monitoring, but no spike in cyclosporiasis cases locally - Sudbury News",
-          "Peel Public Health confirms 1st human case of West Nile Virus in 2026 - CBC"
-        ]
-      },
-      {
-        "trend": "mental health",
-        "market_code": "CA",
-        "category": "Mental Health",
-        "score": 10,
-        "examples": [
-          "Students Are Turning to AI for Mental Health Advice - 5 Warning Signs Schools and Parents Should Watch - The Good Men Project",
-          "Children as young as six going to A&E in mental health crisis - BBC",
-          "Impact of Glucagon-Like Peptide-1 Receptor Agonists on Mental Health: A Systematic Review of Psychiatric Safety and Antidepressant Potential - Cureus"
-        ]
-      },
-      {
-        "trend": "children",
-        "market_code": "CA",
-        "category": "Children Health",
-        "score": 8,
-        "examples": [
-          "Are your children's vaccinations up to date? - Castanet",
-          "Children as young as six going to A&E in mental health crisis - BBC",
-          "Children as young as six going to A&E in mental health crisis - BBC"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
         "trend": "outbreak",
         "market_code": "CA",
         "category": "Outbreaks",
-        "score": 8,
-        "examples": [
-          "Ebola Deaths Top 3,000 in Fastest-Growing Outbreak on Record - Yahoo News Canada",
-          "WHO chief warns Ebola response must ramp up to stem DRC outbreak - aljazeera.com",
-          "What do we know about the deaths reported in Pennsylvania’s measles outbreak? - Inquirer.com"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "vaccine",
+        "trend": "mental health",
+        "market_code": "CA",
+        "category": "Mental Health",
+        "score": 1,
+        "examples": []
+      },
+      {
+        "trend": "medical research",
+        "market_code": "CA",
+        "category": "Global Health",
+        "score": 1,
+        "examples": []
+      },
+      {
+        "trend": "drug approval",
         "market_code": "CA",
         "category": "Drug & Treatment News",
-        "score": 7,
-        "examples": [
-          "US medical groups issue vaccine guidance, urge jabs for flu, COVID and RSV - aljazeera.com",
-          "Health Matters: Chief Public Health Officer urges vaccine check before school - Yahoo News Canada",
-          "Moderna begins Phase 1 clinical trial of Ebola vaccine against strain behind DRC outbreak - ABC News - Breaking News, Latest News and Videos"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "cancer",
+        "trend": "diet wellness",
         "market_code": "CA",
-        "category": "Chronic Disease",
-        "score": 7,
-        "examples": [
-          "How Much of a Cancer Drug Is Too Much? Patients, Researchers Challenge FDA-Approved Dosages - Cancer Therapy Advisor",
-          "How Much of a Cancer Drug Is Too Much? Patients, Researchers Challenge FDA-Approved Dosages - Cancer Therapy Advisor",
-          "mRNA vaccine stops skin cancer from returning in patients - European Animal Research Association"
-        ]
+        "category": "Diet & Wellness",
+        "score": 1,
+        "examples": []
       }
     ],
     "United Arab Emirates": [
       {
-        "trend": "health",
+        "trend": "health alert",
         "market_code": "AE",
         "category": "Arab Health",
-        "score": 72,
-        "examples": [
-          "Layoff Tracker—95 layoffs at Stanford Health Care cuts 95 - Fierce Healthcare",
-          "Arizona physicians unionize at Banner Health - Courthouse News",
-          "WHO highlights cybersecurity as a growing health security priority - emro.who.int"
-        ]
-      },
-      {
-        "trend": "medical",
-        "market_code": "AE",
-        "category": "Arab Health",
-        "score": 25,
-        "examples": [
-          "FDA pilot offers generative AI medical devices a path to patients before they are authorized - statnews.com",
-          "US medical groups issue vaccine guidance, urge jabs for flu, COVID and RSV - Al Jazeera",
-          "Horizon Technology Finance Provides $15MM Loan Facility to Bioness Medical - ABF Journal"
-        ]
-      },
-      {
-        "trend": "healthcare",
-        "market_code": "AE",
-        "category": "Arab Health",
-        "score": 13,
-        "examples": [
-          "Layoff Tracker—95 layoffs at Stanford Health Care cuts 95 - Fierce Healthcare",
-          "Whatever happened to ... children infected with HIV due to failures in healthcare? - NPR",
-          "Reading the Body’s Signals: AI’s Ultimate Healthcare Opportunity - MedCity News"
-        ]
-      },
-      {
-        "trend": "mental",
-        "market_code": "AE",
-        "category": "Mental Health",
-        "score": 13,
-        "examples": [
-          "Students Are Turning to AI for Mental Health Advice - 5 Warning Signs Schools and Parents Should Watch - The Good Men Project",
-          "Children as young as six going to A&E in mental health crisis - BBC",
-          "New report on mental health needs for kids in foster care, juvenile justice system - ketv.com"
-        ]
-      },
-      {
-        "trend": "mental health",
-        "market_code": "AE",
-        "category": "Mental Health",
-        "score": 13,
-        "examples": [
-          "Students Are Turning to AI for Mental Health Advice - 5 Warning Signs Schools and Parents Should Watch - The Good Men Project",
-          "Children as young as six going to A&E in mental health crisis - BBC",
-          "New report on mental health needs for kids in foster care, juvenile justice system - ketv.com"
-        ]
-      },
-      {
-        "trend": "cancer",
-        "market_code": "AE",
-        "category": "Chronic Disease",
-        "score": 10,
-        "examples": [
-          "Childhood cancer patients and families target of new Ohio Department of Health program - The Statehouse News Bureau",
-          "Childhood cancer patients and families target of new Ohio Department of Health program - The Statehouse News Bureau",
-          "What’s in Merck and Moderna’s cancer vaccine algorithm? - statnews.com"
-        ]
-      },
-      {
-        "trend": "measles",
-        "market_code": "AE",
-        "category": "Outbreaks",
-        "score": 10,
-        "examples": [
-          "Clackamas medical office identified as measles exposure site - KPTV",
-          "New Jersey Health Officials Warn of Falling Childhood Vaccination Rates as U.S. Measles Cases Climb - communitynews.org",
-          "Measles exposure at Pa. children’s hospital prompts alert - PennLive.com"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
         "trend": "outbreak",
         "market_code": "AE",
         "category": "Outbreaks",
-        "score": 10,
-        "examples": [
-          "What do we know about the deaths reported in Pennsylvania’s measles outbreak? - Inquirer.com",
-          "Measles outbreak in eastern Illinois leads health officials to urge vaccinations - NBC 5 Chicago",
-          "State: Measles outbreak reported in east central Illinois - Capitol City Now"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "virus",
+        "trend": "mental health",
         "market_code": "AE",
-        "category": "Outbreaks",
-        "score": 10,
-        "examples": [
-          "DNR: 700+ reports of dead deer in Washington, Waukesha Counties amid virus outbreak - WISN",
-          "Health department reports dengue virus detected in Hawaii Island wastewater samples - Hawaii News Now",
-          "Doctors united on respiratory virus vaccine recommendations - American Medical Association | AMA"
-        ]
+        "category": "Mental Health",
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "children",
-        "market_code": "AE",
-        "category": "Children Health",
-        "score": 9,
-        "examples": [
-          "Children as young as six going to A&E in mental health crisis - BBC",
-          "Measles exposure at Pa. children’s hospital prompts alert - PennLive.com",
-          "Whatever happened to ... children infected with HIV due to failures in healthcare? - NPR"
-        ]
-      },
-      {
-        "trend": "public health",
+        "trend": "medical research",
         "market_code": "AE",
         "category": "Arab Health",
-        "score": 8,
-        "examples": [
-          "Radiologists benefit from global teaching partnerships - UW School of Medicine and Public Health",
-          "Cook County Department of Public Health Launches Building Healthier Communities 2030, a Community-Driven Roadmap to Advance Health Equity Across Suburban Cook County - Cook County Department of Public Health - Cook County Department of Public Health",
-          "Cook County Department of Public Health Launches Building Healthier Communities 2030, a Community-Driven Roadmap to Advance Health Equity Across Suburban Cook County - Cook County Department of Public Health - Cook County Department of Public Health"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "health care",
+        "trend": "drug approval",
         "market_code": "AE",
-        "category": "Arab Health",
-        "score": 6,
-        "examples": [
-          "Layoff Tracker—95 layoffs at Stanford Health Care cuts 95 - Fierce Healthcare",
-          "MiSalud Health Launches Whole-Woman Health Care for Bilingual Front-Line Workers - Yahoo Finance",
-          "Policy Options to Improve Health Care Affordability: What California Can Learn from Other States - California Health Care Foundation"
-        ]
+        "category": "Drug & Treatment News",
+        "score": 1,
+        "examples": []
+      },
+      {
+        "trend": "diet wellness",
+        "market_code": "AE",
+        "category": "Diet & Wellness",
+        "score": 1,
+        "examples": []
       }
     ],
     "Saudi Arabia": [
       {
-        "trend": "health",
+        "trend": "health alert",
         "market_code": "SA",
         "category": "Arab Health",
-        "score": 72,
-        "examples": [
-          "Layoff Tracker—95 layoffs at Stanford Health Care cuts 95 - Fierce Healthcare",
-          "Arizona physicians unionize at Banner Health - Courthouse News",
-          "WHO highlights cybersecurity as a growing health security priority - emro.who.int"
-        ]
-      },
-      {
-        "trend": "medical",
-        "market_code": "SA",
-        "category": "Arab Health",
-        "score": 25,
-        "examples": [
-          "FDA pilot offers generative AI medical devices a path to patients before they are authorized - statnews.com",
-          "US medical groups issue vaccine guidance, urge jabs for flu, COVID and RSV - Al Jazeera",
-          "Horizon Technology Finance Provides $15MM Loan Facility to Bioness Medical - ABF Journal"
-        ]
-      },
-      {
-        "trend": "healthcare",
-        "market_code": "SA",
-        "category": "Arab Health",
-        "score": 13,
-        "examples": [
-          "Layoff Tracker—95 layoffs at Stanford Health Care cuts 95 - Fierce Healthcare",
-          "Whatever happened to ... children infected with HIV due to failures in healthcare? - NPR",
-          "Reading the Body’s Signals: AI’s Ultimate Healthcare Opportunity - MedCity News"
-        ]
-      },
-      {
-        "trend": "mental",
-        "market_code": "SA",
-        "category": "Mental Health",
-        "score": 13,
-        "examples": [
-          "Students Are Turning to AI for Mental Health Advice - 5 Warning Signs Schools and Parents Should Watch - The Good Men Project",
-          "Children as young as six going to A&E in mental health crisis - BBC",
-          "New report on mental health needs for kids in foster care, juvenile justice system - ketv.com"
-        ]
-      },
-      {
-        "trend": "mental health",
-        "market_code": "SA",
-        "category": "Mental Health",
-        "score": 13,
-        "examples": [
-          "Students Are Turning to AI for Mental Health Advice - 5 Warning Signs Schools and Parents Should Watch - The Good Men Project",
-          "Children as young as six going to A&E in mental health crisis - BBC",
-          "New report on mental health needs for kids in foster care, juvenile justice system - ketv.com"
-        ]
-      },
-      {
-        "trend": "cancer",
-        "market_code": "SA",
-        "category": "Chronic Disease",
-        "score": 10,
-        "examples": [
-          "Childhood cancer patients and families target of new Ohio Department of Health program - The Statehouse News Bureau",
-          "Childhood cancer patients and families target of new Ohio Department of Health program - The Statehouse News Bureau",
-          "What’s in Merck and Moderna’s cancer vaccine algorithm? - statnews.com"
-        ]
-      },
-      {
-        "trend": "measles",
-        "market_code": "SA",
-        "category": "Outbreaks",
-        "score": 10,
-        "examples": [
-          "Clackamas medical office identified as measles exposure site - KPTV",
-          "New Jersey Health Officials Warn of Falling Childhood Vaccination Rates as U.S. Measles Cases Climb - communitynews.org",
-          "Measles exposure at Pa. children’s hospital prompts alert - PennLive.com"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
         "trend": "outbreak",
         "market_code": "SA",
         "category": "Outbreaks",
-        "score": 10,
-        "examples": [
-          "What do we know about the deaths reported in Pennsylvania’s measles outbreak? - Inquirer.com",
-          "Measles outbreak in eastern Illinois leads health officials to urge vaccinations - NBC 5 Chicago",
-          "State: Measles outbreak reported in east central Illinois - Capitol City Now"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "virus",
+        "trend": "mental health",
         "market_code": "SA",
-        "category": "Outbreaks",
-        "score": 10,
-        "examples": [
-          "DNR: 700+ reports of dead deer in Washington, Waukesha Counties amid virus outbreak - WISN",
-          "Health department reports dengue virus detected in Hawaii Island wastewater samples - Hawaii News Now",
-          "Doctors united on respiratory virus vaccine recommendations - American Medical Association | AMA"
-        ]
+        "category": "Mental Health",
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "children",
-        "market_code": "SA",
-        "category": "Children Health",
-        "score": 9,
-        "examples": [
-          "Children as young as six going to A&E in mental health crisis - BBC",
-          "Measles exposure at Pa. children’s hospital prompts alert - PennLive.com",
-          "Whatever happened to ... children infected with HIV due to failures in healthcare? - NPR"
-        ]
-      },
-      {
-        "trend": "public health",
+        "trend": "medical research",
         "market_code": "SA",
         "category": "Arab Health",
-        "score": 8,
-        "examples": [
-          "Radiologists benefit from global teaching partnerships - UW School of Medicine and Public Health",
-          "Cook County Department of Public Health Launches Building Healthier Communities 2030, a Community-Driven Roadmap to Advance Health Equity Across Suburban Cook County - Cook County Department of Public Health - Cook County Department of Public Health",
-          "Cook County Department of Public Health Launches Building Healthier Communities 2030, a Community-Driven Roadmap to Advance Health Equity Across Suburban Cook County - Cook County Department of Public Health - Cook County Department of Public Health"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "health care",
+        "trend": "drug approval",
         "market_code": "SA",
-        "category": "Arab Health",
-        "score": 6,
-        "examples": [
-          "Layoff Tracker—95 layoffs at Stanford Health Care cuts 95 - Fierce Healthcare",
-          "MiSalud Health Launches Whole-Woman Health Care for Bilingual Front-Line Workers - Yahoo Finance",
-          "Policy Options to Improve Health Care Affordability: What California Can Learn from Other States - California Health Care Foundation"
-        ]
+        "category": "Drug & Treatment News",
+        "score": 1,
+        "examples": []
+      },
+      {
+        "trend": "diet wellness",
+        "market_code": "SA",
+        "category": "Diet & Wellness",
+        "score": 1,
+        "examples": []
       }
     ],
     "Qatar": [
       {
-        "trend": "health",
+        "trend": "health alert",
         "market_code": "QA",
         "category": "Arab Health",
-        "score": 72,
-        "examples": [
-          "Layoff Tracker—95 layoffs at Stanford Health Care cuts 95 - Fierce Healthcare",
-          "Arizona physicians unionize at Banner Health - Courthouse News",
-          "WHO highlights cybersecurity as a growing health security priority - emro.who.int"
-        ]
-      },
-      {
-        "trend": "medical",
-        "market_code": "QA",
-        "category": "Arab Health",
-        "score": 25,
-        "examples": [
-          "FDA pilot offers generative AI medical devices a path to patients before they are authorized - statnews.com",
-          "US medical groups issue vaccine guidance, urge jabs for flu, COVID and RSV - Al Jazeera",
-          "Horizon Technology Finance Provides $15MM Loan Facility to Bioness Medical - ABF Journal"
-        ]
-      },
-      {
-        "trend": "healthcare",
-        "market_code": "QA",
-        "category": "Arab Health",
-        "score": 13,
-        "examples": [
-          "Layoff Tracker—95 layoffs at Stanford Health Care cuts 95 - Fierce Healthcare",
-          "Whatever happened to ... children infected with HIV due to failures in healthcare? - NPR",
-          "Reading the Body’s Signals: AI’s Ultimate Healthcare Opportunity - MedCity News"
-        ]
-      },
-      {
-        "trend": "mental",
-        "market_code": "QA",
-        "category": "Mental Health",
-        "score": 13,
-        "examples": [
-          "Students Are Turning to AI for Mental Health Advice - 5 Warning Signs Schools and Parents Should Watch - The Good Men Project",
-          "Children as young as six going to A&E in mental health crisis - BBC",
-          "New report on mental health needs for kids in foster care, juvenile justice system - ketv.com"
-        ]
-      },
-      {
-        "trend": "mental health",
-        "market_code": "QA",
-        "category": "Mental Health",
-        "score": 13,
-        "examples": [
-          "Students Are Turning to AI for Mental Health Advice - 5 Warning Signs Schools and Parents Should Watch - The Good Men Project",
-          "Children as young as six going to A&E in mental health crisis - BBC",
-          "New report on mental health needs for kids in foster care, juvenile justice system - ketv.com"
-        ]
-      },
-      {
-        "trend": "cancer",
-        "market_code": "QA",
-        "category": "Chronic Disease",
-        "score": 10,
-        "examples": [
-          "Childhood cancer patients and families target of new Ohio Department of Health program - The Statehouse News Bureau",
-          "Childhood cancer patients and families target of new Ohio Department of Health program - The Statehouse News Bureau",
-          "What’s in Merck and Moderna’s cancer vaccine algorithm? - statnews.com"
-        ]
-      },
-      {
-        "trend": "measles",
-        "market_code": "QA",
-        "category": "Outbreaks",
-        "score": 10,
-        "examples": [
-          "Clackamas medical office identified as measles exposure site - KPTV",
-          "New Jersey Health Officials Warn of Falling Childhood Vaccination Rates as U.S. Measles Cases Climb - communitynews.org",
-          "Measles exposure at Pa. children’s hospital prompts alert - PennLive.com"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
         "trend": "outbreak",
         "market_code": "QA",
         "category": "Outbreaks",
-        "score": 10,
-        "examples": [
-          "What do we know about the deaths reported in Pennsylvania’s measles outbreak? - Inquirer.com",
-          "Measles outbreak in eastern Illinois leads health officials to urge vaccinations - NBC 5 Chicago",
-          "State: Measles outbreak reported in east central Illinois - Capitol City Now"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "virus",
+        "trend": "mental health",
         "market_code": "QA",
-        "category": "Outbreaks",
-        "score": 10,
-        "examples": [
-          "DNR: 700+ reports of dead deer in Washington, Waukesha Counties amid virus outbreak - WISN",
-          "Health department reports dengue virus detected in Hawaii Island wastewater samples - Hawaii News Now",
-          "Doctors united on respiratory virus vaccine recommendations - American Medical Association | AMA"
-        ]
+        "category": "Mental Health",
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "children",
-        "market_code": "QA",
-        "category": "Children Health",
-        "score": 9,
-        "examples": [
-          "Children as young as six going to A&E in mental health crisis - BBC",
-          "Measles exposure at Pa. children’s hospital prompts alert - PennLive.com",
-          "Whatever happened to ... children infected with HIV due to failures in healthcare? - NPR"
-        ]
-      },
-      {
-        "trend": "public health",
+        "trend": "medical research",
         "market_code": "QA",
         "category": "Arab Health",
-        "score": 8,
-        "examples": [
-          "Radiologists benefit from global teaching partnerships - UW School of Medicine and Public Health",
-          "Cook County Department of Public Health Launches Building Healthier Communities 2030, a Community-Driven Roadmap to Advance Health Equity Across Suburban Cook County - Cook County Department of Public Health - Cook County Department of Public Health",
-          "Cook County Department of Public Health Launches Building Healthier Communities 2030, a Community-Driven Roadmap to Advance Health Equity Across Suburban Cook County - Cook County Department of Public Health - Cook County Department of Public Health"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "health care",
+        "trend": "drug approval",
         "market_code": "QA",
-        "category": "Arab Health",
-        "score": 6,
-        "examples": [
-          "Layoff Tracker—95 layoffs at Stanford Health Care cuts 95 - Fierce Healthcare",
-          "MiSalud Health Launches Whole-Woman Health Care for Bilingual Front-Line Workers - Yahoo Finance",
-          "Policy Options to Improve Health Care Affordability: What California Can Learn from Other States - California Health Care Foundation"
-        ]
+        "category": "Drug & Treatment News",
+        "score": 1,
+        "examples": []
+      },
+      {
+        "trend": "diet wellness",
+        "market_code": "QA",
+        "category": "Diet & Wellness",
+        "score": 1,
+        "examples": []
       }
     ],
     "Jordan": [
       {
-        "trend": "health",
+        "trend": "health alert",
         "market_code": "JO",
         "category": "Arab Health",
-        "score": 72,
-        "examples": [
-          "Layoff Tracker—95 layoffs at Stanford Health Care cuts 95 - Fierce Healthcare",
-          "Arizona physicians unionize at Banner Health - Courthouse News",
-          "WHO highlights cybersecurity as a growing health security priority - emro.who.int"
-        ]
-      },
-      {
-        "trend": "medical",
-        "market_code": "JO",
-        "category": "Arab Health",
-        "score": 25,
-        "examples": [
-          "FDA pilot offers generative AI medical devices a path to patients before they are authorized - statnews.com",
-          "US medical groups issue vaccine guidance, urge jabs for flu, COVID and RSV - Al Jazeera",
-          "Horizon Technology Finance Provides $15MM Loan Facility to Bioness Medical - ABF Journal"
-        ]
-      },
-      {
-        "trend": "healthcare",
-        "market_code": "JO",
-        "category": "Arab Health",
-        "score": 13,
-        "examples": [
-          "Layoff Tracker—95 layoffs at Stanford Health Care cuts 95 - Fierce Healthcare",
-          "Whatever happened to ... children infected with HIV due to failures in healthcare? - NPR",
-          "Reading the Body’s Signals: AI’s Ultimate Healthcare Opportunity - MedCity News"
-        ]
-      },
-      {
-        "trend": "mental",
-        "market_code": "JO",
-        "category": "Mental Health",
-        "score": 13,
-        "examples": [
-          "Students Are Turning to AI for Mental Health Advice - 5 Warning Signs Schools and Parents Should Watch - The Good Men Project",
-          "Children as young as six going to A&E in mental health crisis - BBC",
-          "New report on mental health needs for kids in foster care, juvenile justice system - ketv.com"
-        ]
-      },
-      {
-        "trend": "mental health",
-        "market_code": "JO",
-        "category": "Mental Health",
-        "score": 13,
-        "examples": [
-          "Students Are Turning to AI for Mental Health Advice - 5 Warning Signs Schools and Parents Should Watch - The Good Men Project",
-          "Children as young as six going to A&E in mental health crisis - BBC",
-          "New report on mental health needs for kids in foster care, juvenile justice system - ketv.com"
-        ]
-      },
-      {
-        "trend": "cancer",
-        "market_code": "JO",
-        "category": "Chronic Disease",
-        "score": 10,
-        "examples": [
-          "Childhood cancer patients and families target of new Ohio Department of Health program - The Statehouse News Bureau",
-          "Childhood cancer patients and families target of new Ohio Department of Health program - The Statehouse News Bureau",
-          "What’s in Merck and Moderna’s cancer vaccine algorithm? - statnews.com"
-        ]
-      },
-      {
-        "trend": "measles",
-        "market_code": "JO",
-        "category": "Outbreaks",
-        "score": 10,
-        "examples": [
-          "Clackamas medical office identified as measles exposure site - KPTV",
-          "New Jersey Health Officials Warn of Falling Childhood Vaccination Rates as U.S. Measles Cases Climb - communitynews.org",
-          "Measles exposure at Pa. children’s hospital prompts alert - PennLive.com"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
         "trend": "outbreak",
         "market_code": "JO",
         "category": "Outbreaks",
-        "score": 10,
-        "examples": [
-          "What do we know about the deaths reported in Pennsylvania’s measles outbreak? - Inquirer.com",
-          "Measles outbreak in eastern Illinois leads health officials to urge vaccinations - NBC 5 Chicago",
-          "State: Measles outbreak reported in east central Illinois - Capitol City Now"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "virus",
+        "trend": "mental health",
         "market_code": "JO",
-        "category": "Outbreaks",
-        "score": 10,
-        "examples": [
-          "DNR: 700+ reports of dead deer in Washington, Waukesha Counties amid virus outbreak - WISN",
-          "Health department reports dengue virus detected in Hawaii Island wastewater samples - Hawaii News Now",
-          "Doctors united on respiratory virus vaccine recommendations - American Medical Association | AMA"
-        ]
+        "category": "Mental Health",
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "children",
-        "market_code": "JO",
-        "category": "Children Health",
-        "score": 9,
-        "examples": [
-          "Children as young as six going to A&E in mental health crisis - BBC",
-          "Measles exposure at Pa. children’s hospital prompts alert - PennLive.com",
-          "Whatever happened to ... children infected with HIV due to failures in healthcare? - NPR"
-        ]
-      },
-      {
-        "trend": "public health",
+        "trend": "medical research",
         "market_code": "JO",
         "category": "Arab Health",
-        "score": 8,
-        "examples": [
-          "Radiologists benefit from global teaching partnerships - UW School of Medicine and Public Health",
-          "Cook County Department of Public Health Launches Building Healthier Communities 2030, a Community-Driven Roadmap to Advance Health Equity Across Suburban Cook County - Cook County Department of Public Health - Cook County Department of Public Health",
-          "Cook County Department of Public Health Launches Building Healthier Communities 2030, a Community-Driven Roadmap to Advance Health Equity Across Suburban Cook County - Cook County Department of Public Health - Cook County Department of Public Health"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "health care",
+        "trend": "drug approval",
         "market_code": "JO",
-        "category": "Arab Health",
-        "score": 6,
-        "examples": [
-          "Layoff Tracker—95 layoffs at Stanford Health Care cuts 95 - Fierce Healthcare",
-          "MiSalud Health Launches Whole-Woman Health Care for Bilingual Front-Line Workers - Yahoo Finance",
-          "Policy Options to Improve Health Care Affordability: What California Can Learn from Other States - California Health Care Foundation"
-        ]
+        "category": "Drug & Treatment News",
+        "score": 1,
+        "examples": []
+      },
+      {
+        "trend": "diet wellness",
+        "market_code": "JO",
+        "category": "Diet & Wellness",
+        "score": 1,
+        "examples": []
       }
     ],
     "Lebanon": [
       {
-        "trend": "health",
+        "trend": "health alert",
         "market_code": "LB",
         "category": "Arab Health",
-        "score": 72,
-        "examples": [
-          "Layoff Tracker—95 layoffs at Stanford Health Care cuts 95 - Fierce Healthcare",
-          "Arizona physicians unionize at Banner Health - Courthouse News",
-          "WHO highlights cybersecurity as a growing health security priority - emro.who.int"
-        ]
-      },
-      {
-        "trend": "medical",
-        "market_code": "LB",
-        "category": "Arab Health",
-        "score": 25,
-        "examples": [
-          "FDA pilot offers generative AI medical devices a path to patients before they are authorized - statnews.com",
-          "US medical groups issue vaccine guidance, urge jabs for flu, COVID and RSV - Al Jazeera",
-          "Horizon Technology Finance Provides $15MM Loan Facility to Bioness Medical - ABF Journal"
-        ]
-      },
-      {
-        "trend": "healthcare",
-        "market_code": "LB",
-        "category": "Arab Health",
-        "score": 13,
-        "examples": [
-          "Layoff Tracker—95 layoffs at Stanford Health Care cuts 95 - Fierce Healthcare",
-          "Whatever happened to ... children infected with HIV due to failures in healthcare? - NPR",
-          "Reading the Body’s Signals: AI’s Ultimate Healthcare Opportunity - MedCity News"
-        ]
-      },
-      {
-        "trend": "mental",
-        "market_code": "LB",
-        "category": "Mental Health",
-        "score": 13,
-        "examples": [
-          "Students Are Turning to AI for Mental Health Advice - 5 Warning Signs Schools and Parents Should Watch - The Good Men Project",
-          "Children as young as six going to A&E in mental health crisis - BBC",
-          "New report on mental health needs for kids in foster care, juvenile justice system - ketv.com"
-        ]
-      },
-      {
-        "trend": "mental health",
-        "market_code": "LB",
-        "category": "Mental Health",
-        "score": 13,
-        "examples": [
-          "Students Are Turning to AI for Mental Health Advice - 5 Warning Signs Schools and Parents Should Watch - The Good Men Project",
-          "Children as young as six going to A&E in mental health crisis - BBC",
-          "New report on mental health needs for kids in foster care, juvenile justice system - ketv.com"
-        ]
-      },
-      {
-        "trend": "cancer",
-        "market_code": "LB",
-        "category": "Chronic Disease",
-        "score": 10,
-        "examples": [
-          "Childhood cancer patients and families target of new Ohio Department of Health program - The Statehouse News Bureau",
-          "Childhood cancer patients and families target of new Ohio Department of Health program - The Statehouse News Bureau",
-          "What’s in Merck and Moderna’s cancer vaccine algorithm? - statnews.com"
-        ]
-      },
-      {
-        "trend": "measles",
-        "market_code": "LB",
-        "category": "Outbreaks",
-        "score": 10,
-        "examples": [
-          "Clackamas medical office identified as measles exposure site - KPTV",
-          "New Jersey Health Officials Warn of Falling Childhood Vaccination Rates as U.S. Measles Cases Climb - communitynews.org",
-          "Measles exposure at Pa. children’s hospital prompts alert - PennLive.com"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
         "trend": "outbreak",
         "market_code": "LB",
         "category": "Outbreaks",
-        "score": 10,
-        "examples": [
-          "What do we know about the deaths reported in Pennsylvania’s measles outbreak? - Inquirer.com",
-          "Measles outbreak in eastern Illinois leads health officials to urge vaccinations - NBC 5 Chicago",
-          "State: Measles outbreak reported in east central Illinois - Capitol City Now"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "virus",
+        "trend": "mental health",
         "market_code": "LB",
-        "category": "Outbreaks",
-        "score": 10,
-        "examples": [
-          "DNR: 700+ reports of dead deer in Washington, Waukesha Counties amid virus outbreak - WISN",
-          "Health department reports dengue virus detected in Hawaii Island wastewater samples - Hawaii News Now",
-          "Doctors united on respiratory virus vaccine recommendations - American Medical Association | AMA"
-        ]
+        "category": "Mental Health",
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "children",
-        "market_code": "LB",
-        "category": "Children Health",
-        "score": 9,
-        "examples": [
-          "Children as young as six going to A&E in mental health crisis - BBC",
-          "Measles exposure at Pa. children’s hospital prompts alert - PennLive.com",
-          "Whatever happened to ... children infected with HIV due to failures in healthcare? - NPR"
-        ]
-      },
-      {
-        "trend": "public health",
+        "trend": "medical research",
         "market_code": "LB",
         "category": "Arab Health",
-        "score": 8,
-        "examples": [
-          "Radiologists benefit from global teaching partnerships - UW School of Medicine and Public Health",
-          "Cook County Department of Public Health Launches Building Healthier Communities 2030, a Community-Driven Roadmap to Advance Health Equity Across Suburban Cook County - Cook County Department of Public Health - Cook County Department of Public Health",
-          "Cook County Department of Public Health Launches Building Healthier Communities 2030, a Community-Driven Roadmap to Advance Health Equity Across Suburban Cook County - Cook County Department of Public Health - Cook County Department of Public Health"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "health care",
+        "trend": "drug approval",
         "market_code": "LB",
-        "category": "Arab Health",
-        "score": 6,
-        "examples": [
-          "Layoff Tracker—95 layoffs at Stanford Health Care cuts 95 - Fierce Healthcare",
-          "MiSalud Health Launches Whole-Woman Health Care for Bilingual Front-Line Workers - Yahoo Finance",
-          "Policy Options to Improve Health Care Affordability: What California Can Learn from Other States - California Health Care Foundation"
-        ]
+        "category": "Drug & Treatment News",
+        "score": 1,
+        "examples": []
+      },
+      {
+        "trend": "diet wellness",
+        "market_code": "LB",
+        "category": "Diet & Wellness",
+        "score": 1,
+        "examples": []
       }
     ]
   }
