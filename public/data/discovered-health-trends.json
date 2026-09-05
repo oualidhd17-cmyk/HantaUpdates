@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-04T19:57:48.441200+00:00",
+  "updated_at": "2026-09-05T01:33:48.660208+00:00",
   "total_trends": 252,
   "markets": {
     "United States": [
@@ -7,21 +7,21 @@
         "trend": "health",
         "market_code": "US",
         "category": "US Health",
-        "score": 80,
+        "score": 81,
         "examples": [
           "Survey: Health benefit costs expected to jump 8.2% in 2027, the biggest increase since 2003 - mercer.com",
-          "Employer and worker health plan costs expected to jump in 2027 - CBS News",
-          "Join The CHAT: Clemson Health Advancement Talks - news.clemson.edu"
+          "'The health system in Nepal is not prepared for this' - npr.org",
+          "Superheroes Health Fair helps El Paso families start the school year healthy - elpasomatters.org"
         ]
       },
       {
         "trend": "medical",
         "market_code": "US",
         "category": "US Health",
-        "score": 24,
+        "score": 21,
         "examples": [
           "Nebraska Supreme Court upholds validity of state medical cannabis laws - Nebraska Examiner",
-          "HHS Awards More Than $11 Million to Expand Medical Residencies in Rural and Tribal Communities - HHS.gov",
+          "National call to action needed to strengthen primary care pipeline in medical education, argue experts - Medical Xpress",
           "National call to action needed to strengthen primary care pipeline in medical education, argue experts - Medical Xpress"
         ]
       },
@@ -29,22 +29,44 @@
         "trend": "outbreak",
         "market_code": "US",
         "category": "Outbreaks",
-        "score": 14,
+        "score": 15,
         "examples": [
-          "Cyclosporiasis outbreak exposes a weakened US public health system - Reuters",
-          "Cyclosporiasis outbreak exposes a weakened US public health system - Reuters",
-          "The behind-the-scenes effort to contain the nation’s worst ongoing measles outbreak - The Washington Post"
+          "The behind-the-scenes effort to contain the nation’s worst ongoing measles outbreak - The Washington Post",
+          "The behind-the-scenes effort to contain the nation’s worst ongoing measles outbreak - The Washington Post",
+          "Cyclosporiasis outbreak exposes a weakened US public health system - reuters.com"
         ]
       },
       {
         "trend": "virus",
         "market_code": "US",
         "category": "Outbreaks",
+        "score": 14,
+        "examples": [
+          "Lubbock Public Health confirms first human case of West Nile virus for 2026 - KCBD",
+          "Mecklenburg Public Health responds to West Nile Virus cases, anticipates more - Charlotte Observer",
+          "SAFETY ALERT: West Nile virus detected in Fort Gordon mosquitoes - wrdw.com"
+        ]
+      },
+      {
+        "trend": "nile virus",
+        "market_code": "US",
+        "category": "Outbreaks",
         "score": 12,
         "examples": [
+          "Lubbock Public Health confirms first human case of West Nile virus for 2026 - KCBD",
           "Mecklenburg Public Health responds to West Nile Virus cases, anticipates more - Charlotte Observer",
-          "Atlantic City, NJ, Health Alert: Mosquitoes Test Positive West Nile Virus - WPG Talk Radio 95.5 FM",
-          "County Urges Protection Against Mosquitoes to Prevent West Nile Virus Exposure - San Diego County News Center"
+          "SAFETY ALERT: West Nile virus detected in Fort Gordon mosquitoes - wrdw.com"
+        ]
+      },
+      {
+        "trend": "west nile virus",
+        "market_code": "US",
+        "category": "Outbreaks",
+        "score": 12,
+        "examples": [
+          "Lubbock Public Health confirms first human case of West Nile virus for 2026 - KCBD",
+          "Mecklenburg Public Health responds to West Nile Virus cases, anticipates more - Charlotte Observer",
+          "SAFETY ALERT: West Nile virus detected in Fort Gordon mosquitoes - wrdw.com"
         ]
       },
       {
@@ -54,30 +76,8 @@
         "score": 11,
         "examples": [
           "The behind-the-scenes effort to contain the nation’s worst ongoing measles outbreak - The Washington Post",
-          "SAFETY ALERT: Georgia measles outbreak spreads to 4 more cases - wrdw.com",
+          "DPH Confirms Additional Measles Cases in Georgia - Georgia Coastal Health District",
           "The behind-the-scenes effort to contain the nation’s worst ongoing measles outbreak - The Washington Post"
-        ]
-      },
-      {
-        "trend": "nile virus",
-        "market_code": "US",
-        "category": "Outbreaks",
-        "score": 10,
-        "examples": [
-          "Mecklenburg Public Health responds to West Nile Virus cases, anticipates more - Charlotte Observer",
-          "Atlantic City, NJ, Health Alert: Mosquitoes Test Positive West Nile Virus - WPG Talk Radio 95.5 FM",
-          "County Urges Protection Against Mosquitoes to Prevent West Nile Virus Exposure - San Diego County News Center"
-        ]
-      },
-      {
-        "trend": "west nile virus",
-        "market_code": "US",
-        "category": "Outbreaks",
-        "score": 10,
-        "examples": [
-          "Mecklenburg Public Health responds to West Nile Virus cases, anticipates more - Charlotte Observer",
-          "Atlantic City, NJ, Health Alert: Mosquitoes Test Positive West Nile Virus - WPG Talk Radio 95.5 FM",
-          "County Urges Protection Against Mosquitoes to Prevent West Nile Virus Exposure - San Diego County News Center"
         ]
       },
       {
@@ -86,7 +86,7 @@
         "category": "US Health",
         "score": 10,
         "examples": [
-          "The future of AI in healthcare: Moving from hype to business value | Viewpoint - rbj.net",
+          "The future of AI in healthcare: Moving from hype to business value | Viewpoint - Rochester Business Journal",
           "OpenEvidence deepens oncology push, launches new AI model family - Fierce Healthcare",
           "AI Tracker: Mount Sinai, Denver Health join new AI coalition - Modern Healthcare News"
         ]
@@ -95,33 +95,11 @@
         "trend": "public health",
         "market_code": "US",
         "category": "US Health",
-        "score": 9,
+        "score": 8,
         "examples": [
+          "Cyclosporiasis outbreak exposes a weakened US public health system - reuters.com",
           "Gifting public health on the playa at Burning Man - University of Nevada, Reno",
-          "Cyclosporiasis outbreak exposes a weakened US public health system - Reuters",
-          "Gifting public health on the playa at Burning Man - University of Nevada, Reno"
-        ]
-      },
-      {
-        "trend": "mental",
-        "market_code": "US",
-        "category": "Mental Health",
-        "score": 8,
-        "examples": [
-          "Richmond Police Officer Shot During Mental Health Crisis Call - KQED",
-          "Community Mental Health: Virtual Information Session | November 17 - New England College",
-          "CT offers mental health resources for kids. Here’s what to know - CT Mirror"
-        ]
-      },
-      {
-        "trend": "mental health",
-        "market_code": "US",
-        "category": "Mental Health",
-        "score": 8,
-        "examples": [
-          "Richmond Police Officer Shot During Mental Health Crisis Call - KQED",
-          "Community Mental Health: Virtual Information Session | November 17 - New England College",
-          "CT offers mental health resources for kids. Here’s what to know - CT Mirror"
+          "Lubbock Public Health confirms first human case of West Nile virus for 2026 - KCBD"
         ]
       },
       {
@@ -130,9 +108,31 @@
         "category": "US Health",
         "score": 7,
         "examples": [
-          "Grant supports evaluation of California’s traditional health care practices benefit - news.ucr.edu",
-          "At least 5 other states join Mass. in covering transgender kids’ health care under Medicaid - WGBH",
-          "Grant supports evaluation of California’s traditional health care practices benefit - news.ucr.edu"
+          "Grant supports evaluation of California’s traditional health care practices benefit - University of California, Riverside",
+          "Grant supports evaluation of California’s traditional health care practices benefit - University of California, Riverside",
+          "Key moments in the Lindsay Clancy case: the 911 call, mental health care, mistrial - The Seattle Times"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "US",
+        "category": "Mental Health",
+        "score": 7,
+        "examples": [
+          "Islamic Center shooter’s parents suing mental health provider for negligence, wrongful death - KPBS",
+          "Mental health counselor offers support for families during extended deployments - ABC11 News",
+          "OB-GYN on maternal mental health after mistrial declared in Lindsay Clancy case - NBC Los Angeles"
+        ]
+      },
+      {
+        "trend": "mental health",
+        "market_code": "US",
+        "category": "Mental Health",
+        "score": 7,
+        "examples": [
+          "Islamic Center shooter’s parents suing mental health provider for negligence, wrongful death - KPBS",
+          "Mental health counselor offers support for families during extended deployments - ABC11 News",
+          "OB-GYN on maternal mental health after mistrial declared in Lindsay Clancy case - NBC Los Angeles"
         ]
       }
     ],
@@ -141,22 +141,33 @@
         "trend": "health",
         "market_code": "GB",
         "category": "Europe Health",
-        "score": 70,
+        "score": 79,
         "examples": [
           "Executive approves plans for major health and care training partnership in Somerset - Somerset Council",
           "A healthy mandate? What our latest polling tells the new prime minister - The Health Foundation",
-          "University hosts fourth annual Global Consortium for Public Health Research Conference - University of Huddersfield"
+          "NI health: Minister announces expert committee to review health services - BBC"
         ]
       },
       {
         "trend": "medical",
         "market_code": "GB",
         "category": "Europe Health",
-        "score": 17,
+        "score": 18,
         "examples": [
           "Executive Director's speech at Duke-NUS Medical School in Singapore - European Medicines Agency (EMA)",
-          "Medical Cannabis and Driving in the UK: the Law, the Science and Your Rights - cannabishealthnews.co.uk",
-          "Play and Heal: \"Allowing children to be children again\" - Medical Aid for Palestinians"
+          "Play and Heal: \"Allowing children to be children again\" - Medical Aid for Palestinians",
+          "Medical Cannabis and Driving in the UK: the Law, the Science and Your Rights - cannabishealthnews.co.uk"
+        ]
+      },
+      {
+        "trend": "warning",
+        "market_code": "GB",
+        "category": "Europe Health",
+        "score": 12,
+        "examples": [
+          "NYC Issues Silicosis Health Warning for Engineered Stone Work - Bloomberg Law News",
+          "'Do not eat' warning issued to Tesco shoppers after 'health risk' recall - swanageandwarehamadvertiser.co.uk",
+          "Waitrose announces food recall with 'do not eat' warning over health risk - Glasgow Live"
         ]
       },
       {
@@ -166,8 +177,8 @@
         "score": 11,
         "examples": [
           "Thames Valley mental health partners set out priorities for 2026/27 - Oxford Health NHS Foundation Trust",
-          "‘We must be serious about supporting the mental health of the next generation’ - Healthcare Leader",
-          "Latest. New matchday mental health hub launches at St. James' Park - Newcastle United"
+          "Hawkstone Farmers Choir gives £100,000 mental health boost - Farmers Weekly",
+          "'How perimenopause affects mental health: what social workers need to know' - communitycare.co.uk"
         ]
       },
       {
@@ -177,39 +188,28 @@
         "score": 11,
         "examples": [
           "Thames Valley mental health partners set out priorities for 2026/27 - Oxford Health NHS Foundation Trust",
-          "‘We must be serious about supporting the mental health of the next generation’ - Healthcare Leader",
-          "Latest. New matchday mental health hub launches at St. James' Park - Newcastle United"
-        ]
-      },
-      {
-        "trend": "warning",
-        "market_code": "GB",
-        "category": "Europe Health",
-        "score": 10,
-        "examples": [
-          "'Do not eat' warning issued to Tesco shoppers after 'health risk' recall - Bournemouth Echo",
-          "Waitrose announces food recall with 'do not eat' warning over health risk - Glasgow Live",
-          "NYC Issues Silicosis Health Warning for Engineered Stone Work - Bloomberg Law News"
+          "Hawkstone Farmers Choir gives £100,000 mental health boost - Farmers Weekly",
+          "'How perimenopause affects mental health: what social workers need to know' - communitycare.co.uk"
         ]
       },
       {
         "trend": "virus",
         "market_code": "GB",
         "category": "Outbreaks",
-        "score": 10,
+        "score": 11,
         "examples": [
-          "Malaga province records first West Nile virus case: 69-year-old man in Clínico hospital ICU - Sur in English",
+          "SAFETY ALERT: West Nile virus detected in Fort Gordon mosquitoes - WRDW",
           "Atlantic City, NJ, Health Alert: Mosquitoes Test Positive West Nile Virus - WPG Talk Radio 95.5 FM",
-          "ICR welcomes FDA approval of ‘cancer-bursting’ virus to treat melanoma - icr.ac.uk"
+          "ICR welcomes FDA approval of ‘cancer-bursting’ virus to treat melanoma - The Institute of Cancer Research (ICR)"
         ]
       },
       {
         "trend": "cancer",
         "market_code": "GB",
         "category": "Chronic Disease",
-        "score": 9,
+        "score": 10,
         "examples": [
-          "Félix Guerrero-Ramos on Bladder Cancer Advances - EMJ",
+          "ICR welcomes FDA approval of ‘cancer-bursting’ virus to treat melanoma - The Institute of Cancer Research (ICR)",
           "Merck and Moderna’s cancer vaccine is customized for each patient’s tumor - drugdiscoverytrends.com",
           "Fighting cancer with cancer: new vaccine raises hope - Al Majalla"
         ]
@@ -218,44 +218,44 @@
         "trend": "outbreak",
         "market_code": "GB",
         "category": "Outbreaks",
-        "score": 8,
+        "score": 9,
         "examples": [
-          "Vets issue warning to horse-owners amid outbreak of deadly equine neurological disease - lbc.co.uk",
-          "Cyclospora Outbreak 2026: FAQs for Consumers - International Fresh Produce Association",
-          "Equine grass sickness outbreak hits Dumfries and Galloway, 'multiple losses' reported - The Herald"
-        ]
-      },
-      {
-        "trend": "health care",
-        "market_code": "GB",
-        "category": "Europe Health",
-        "score": 7,
-        "examples": [
-          "Executive approves plans for major health and care training partnership in Somerset - Somerset Council",
-          "Executive approves plans for major health and care training partnership in Somerset - Somerset Council",
-          "Family carers excluded from mental health care decisions - Social Care Today"
+          "Health alert issued for Gaylord Pacific Resort after stomach bug parasite outbreak - Yahoo",
+          "The behind-the-scenes effort to contain the nation’s worst ongoing measles outbreak - washingtonpost.com",
+          "Equine Grass Sickness: Warning issued after horse disease outbreak leads to multiple deaths - The Independent"
         ]
       },
       {
         "trend": "healthcare",
         "market_code": "GB",
         "category": "Europe Health",
-        "score": 7,
+        "score": 8,
         "examples": [
           "‘We must be serious about supporting the mental health of the next generation’ - Healthcare Leader",
-          "‘We must be serious about supporting the mental health of the next generation’ - Healthcare Leader",
+          "This Week in European HealthTech, MedTech and Health AI: 5th September 2026 - healthcare.digital",
           "Health tech round-up: August 2026 - Building Better Healthcare"
         ]
       },
       {
-        "trend": "patients",
+        "trend": "disease",
+        "market_code": "GB",
+        "category": "Europe Health",
+        "score": 7,
+        "examples": [
+          "Gut bacterial molecule discovered to drive serious bile duct disease - News-Medical",
+          "Equine Grass Sickness: Warning issued after horse disease outbreak leads to multiple deaths - The Independent",
+          "Disease Carrying Mosquitoes Found Breeding in London, UK - EMJ"
+        ]
+      },
+      {
+        "trend": "health care",
         "market_code": "GB",
         "category": "Europe Health",
         "score": 6,
         "examples": [
-          "Wales: Transgender surgery halted over concerns patients were not properly assessed - BBC",
-          "FDA pilot offers generative AI medical devices a path to patients before they are authorized - STAT",
-          "Cardiologist referrals improve cholesterol levels in prostate cancer patients, but may not be necessary for all - Medical Xpress"
+          "Executive approves plans for major health and care training partnership in Somerset - Somerset Council",
+          "Executive approves plans for major health and care training partnership in Somerset - Somerset Council",
+          "MiSalud Health Launches Whole-Woman Health Care for Bilingual Front-Line Workers - Business Wire"
         ]
       },
       {
@@ -278,18 +278,18 @@
         "score": 80,
         "examples": [
           "Survey: Health benefit costs expected to jump 8.2% in 2027, the biggest increase since 2003 - mercer.com",
-          "Employer and worker health plan costs expected to jump in 2027 - CBS News",
-          "Join The CHAT: Clemson Health Advancement Talks - news.clemson.edu"
+          "'The health system in Nepal is not prepared for this' - npr.org",
+          "Superheroes Health Fair helps El Paso families start the school year healthy - elpasomatters.org"
         ]
       },
       {
         "trend": "medical",
         "market_code": "DE",
         "category": "Europe Health",
-        "score": 25,
+        "score": 21,
         "examples": [
           "Nebraska Supreme Court upholds validity of state medical cannabis laws - Nebraska Examiner",
-          "HHS Awards More Than $11 Million to Expand Medical Residencies in Rural and Tribal Communities - HHS.gov",
+          "Banner-gate: Adirondack Medical Center Nurses Replace Missing Banners, Keep Up Fight for Fair Contracts - New York State Nurses Association",
           "National call to action needed to strengthen primary care pipeline in medical education, argue experts - Medical Xpress"
         ]
       },
@@ -297,55 +297,55 @@
         "trend": "outbreak",
         "market_code": "DE",
         "category": "Outbreaks",
-        "score": 14,
-        "examples": [
-          "Cyclosporiasis outbreak exposes a weakened US public health system - Reuters",
-          "Cyclosporiasis outbreak exposes a weakened US public health system - Reuters",
-          "The behind-the-scenes effort to contain the nation’s worst ongoing measles outbreak - The Washington Post"
-        ]
-      },
-      {
-        "trend": "measles",
-        "market_code": "DE",
-        "category": "Outbreaks",
-        "score": 13,
+        "score": 15,
         "examples": [
           "The behind-the-scenes effort to contain the nation’s worst ongoing measles outbreak - The Washington Post",
-          "SAFETY ALERT: Georgia measles outbreak spreads to 4 more cases - wrdw.com",
-          "Wisconsin health officials urge measles vaccination as school year begins - Hawaii News Now"
+          "The behind-the-scenes effort to contain the nation’s worst ongoing measles outbreak - The Washington Post",
+          "Cyclosporiasis outbreak exposes a weakened US public health system - reuters.com"
         ]
       },
       {
         "trend": "virus",
         "market_code": "DE",
         "category": "Outbreaks",
-        "score": 12,
+        "score": 14,
         "examples": [
+          "Lubbock Public Health confirms first human case of West Nile virus for 2026 - KCBD",
           "Mecklenburg Public Health responds to West Nile Virus cases, anticipates more - Charlotte Observer",
-          "Atlantic City, NJ, Health Alert: Mosquitoes Test Positive West Nile Virus - WPG Talk Radio 95.5 FM",
-          "County Urges Protection Against Mosquitoes to Prevent West Nile Virus Exposure - San Diego County News Center"
+          "SAFETY ALERT: West Nile virus detected in Fort Gordon mosquitoes - wrdw.com"
         ]
       },
       {
         "trend": "nile virus",
         "market_code": "DE",
         "category": "Outbreaks",
-        "score": 10,
+        "score": 12,
         "examples": [
+          "Lubbock Public Health confirms first human case of West Nile virus for 2026 - KCBD",
           "Mecklenburg Public Health responds to West Nile Virus cases, anticipates more - Charlotte Observer",
-          "Atlantic City, NJ, Health Alert: Mosquitoes Test Positive West Nile Virus - WPG Talk Radio 95.5 FM",
-          "County Urges Protection Against Mosquitoes to Prevent West Nile Virus Exposure - San Diego County News Center"
+          "SAFETY ALERT: West Nile virus detected in Fort Gordon mosquitoes - wrdw.com"
         ]
       },
       {
         "trend": "west nile virus",
         "market_code": "DE",
         "category": "Outbreaks",
-        "score": 10,
+        "score": 12,
         "examples": [
+          "Lubbock Public Health confirms first human case of West Nile virus for 2026 - KCBD",
           "Mecklenburg Public Health responds to West Nile Virus cases, anticipates more - Charlotte Observer",
-          "Atlantic City, NJ, Health Alert: Mosquitoes Test Positive West Nile Virus - WPG Talk Radio 95.5 FM",
-          "County Urges Protection Against Mosquitoes to Prevent West Nile Virus Exposure - San Diego County News Center"
+          "SAFETY ALERT: West Nile virus detected in Fort Gordon mosquitoes - wrdw.com"
+        ]
+      },
+      {
+        "trend": "measles",
+        "market_code": "DE",
+        "category": "Outbreaks",
+        "score": 11,
+        "examples": [
+          "The behind-the-scenes effort to contain the nation’s worst ongoing measles outbreak - The Washington Post",
+          "DPH Confirms Additional Measles Cases in Georgia - Georgia Coastal Health District",
+          "The behind-the-scenes effort to contain the nation’s worst ongoing measles outbreak - The Washington Post"
         ]
       },
       {
@@ -354,7 +354,7 @@
         "category": "Europe Health",
         "score": 10,
         "examples": [
-          "The future of AI in healthcare: Moving from hype to business value | Viewpoint - rbj.net",
+          "The future of AI in healthcare: Moving from hype to business value | Viewpoint - Rochester Business Journal",
           "OpenEvidence deepens oncology push, launches new AI model family - Fierce Healthcare",
           "AI Tracker: Mount Sinai, Denver Health join new AI coalition - Modern Healthcare News"
         ]
@@ -363,33 +363,11 @@
         "trend": "public health",
         "market_code": "DE",
         "category": "Europe Health",
-        "score": 9,
+        "score": 8,
         "examples": [
+          "Cyclosporiasis outbreak exposes a weakened US public health system - reuters.com",
           "Gifting public health on the playa at Burning Man - University of Nevada, Reno",
-          "Cyclosporiasis outbreak exposes a weakened US public health system - Reuters",
-          "Gifting public health on the playa at Burning Man - University of Nevada, Reno"
-        ]
-      },
-      {
-        "trend": "mental",
-        "market_code": "DE",
-        "category": "Mental Health",
-        "score": 8,
-        "examples": [
-          "Richmond Police Officer Shot During Mental Health Crisis Call - KQED",
-          "Community Mental Health: Virtual Information Session | November 17 - New England College",
-          "CT offers mental health resources for kids. Here’s what to know - CT Mirror"
-        ]
-      },
-      {
-        "trend": "mental health",
-        "market_code": "DE",
-        "category": "Mental Health",
-        "score": 8,
-        "examples": [
-          "Richmond Police Officer Shot During Mental Health Crisis Call - KQED",
-          "Community Mental Health: Virtual Information Session | November 17 - New England College",
-          "CT offers mental health resources for kids. Here’s what to know - CT Mirror"
+          "Lubbock Public Health confirms first human case of West Nile virus for 2026 - KCBD"
         ]
       },
       {
@@ -398,9 +376,31 @@
         "category": "Europe Health",
         "score": 7,
         "examples": [
-          "Grant supports evaluation of California’s traditional health care practices benefit - news.ucr.edu",
-          "At least 5 other states join Mass. in covering transgender kids’ health care under Medicaid - WGBH",
-          "Grant supports evaluation of California’s traditional health care practices benefit - news.ucr.edu"
+          "Grant supports evaluation of California’s traditional health care practices benefit - University of California, Riverside",
+          "Grant supports evaluation of California’s traditional health care practices benefit - University of California, Riverside",
+          "Key moments in the Lindsay Clancy case: the 911 call, mental health care, mistrial - The Seattle Times"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "DE",
+        "category": "Mental Health",
+        "score": 7,
+        "examples": [
+          "Islamic Center shooter’s parents suing mental health provider for negligence, wrongful death - KPBS",
+          "Mental health counselor offers support for families during extended deployments - ABC11 News",
+          "OB-GYN on maternal mental health after mistrial declared in Lindsay Clancy case - NBC Los Angeles"
+        ]
+      },
+      {
+        "trend": "mental health",
+        "market_code": "DE",
+        "category": "Mental Health",
+        "score": 7,
+        "examples": [
+          "Islamic Center shooter’s parents suing mental health provider for negligence, wrongful death - KPBS",
+          "Mental health counselor offers support for families during extended deployments - ABC11 News",
+          "OB-GYN on maternal mental health after mistrial declared in Lindsay Clancy case - NBC Los Angeles"
         ]
       }
     ],
@@ -412,18 +412,18 @@
         "score": 80,
         "examples": [
           "Survey: Health benefit costs expected to jump 8.2% in 2027, the biggest increase since 2003 - mercer.com",
-          "Employer and worker health plan costs expected to jump in 2027 - CBS News",
-          "Join The CHAT: Clemson Health Advancement Talks - news.clemson.edu"
+          "'The health system in Nepal is not prepared for this' - npr.org",
+          "Superheroes Health Fair helps El Paso families start the school year healthy - elpasomatters.org"
         ]
       },
       {
         "trend": "medical",
         "market_code": "FR",
         "category": "Europe Health",
-        "score": 25,
+        "score": 21,
         "examples": [
           "Nebraska Supreme Court upholds validity of state medical cannabis laws - Nebraska Examiner",
-          "HHS Awards More Than $11 Million to Expand Medical Residencies in Rural and Tribal Communities - HHS.gov",
+          "Banner-gate: Adirondack Medical Center Nurses Replace Missing Banners, Keep Up Fight for Fair Contracts - New York State Nurses Association",
           "National call to action needed to strengthen primary care pipeline in medical education, argue experts - Medical Xpress"
         ]
       },
@@ -431,55 +431,55 @@
         "trend": "outbreak",
         "market_code": "FR",
         "category": "Outbreaks",
-        "score": 14,
-        "examples": [
-          "Cyclosporiasis outbreak exposes a weakened US public health system - Reuters",
-          "Cyclosporiasis outbreak exposes a weakened US public health system - Reuters",
-          "The behind-the-scenes effort to contain the nation’s worst ongoing measles outbreak - The Washington Post"
-        ]
-      },
-      {
-        "trend": "measles",
-        "market_code": "FR",
-        "category": "Outbreaks",
-        "score": 13,
+        "score": 15,
         "examples": [
           "The behind-the-scenes effort to contain the nation’s worst ongoing measles outbreak - The Washington Post",
-          "SAFETY ALERT: Georgia measles outbreak spreads to 4 more cases - wrdw.com",
-          "Wisconsin health officials urge measles vaccination as school year begins - Hawaii News Now"
+          "The behind-the-scenes effort to contain the nation’s worst ongoing measles outbreak - The Washington Post",
+          "Cyclosporiasis outbreak exposes a weakened US public health system - reuters.com"
         ]
       },
       {
         "trend": "virus",
         "market_code": "FR",
         "category": "Outbreaks",
-        "score": 12,
+        "score": 14,
         "examples": [
+          "Lubbock Public Health confirms first human case of West Nile virus for 2026 - KCBD",
           "Mecklenburg Public Health responds to West Nile Virus cases, anticipates more - Charlotte Observer",
-          "Atlantic City, NJ, Health Alert: Mosquitoes Test Positive West Nile Virus - WPG Talk Radio 95.5 FM",
-          "County Urges Protection Against Mosquitoes to Prevent West Nile Virus Exposure - San Diego County News Center"
+          "SAFETY ALERT: West Nile virus detected in Fort Gordon mosquitoes - wrdw.com"
         ]
       },
       {
         "trend": "nile virus",
         "market_code": "FR",
         "category": "Outbreaks",
-        "score": 10,
+        "score": 12,
         "examples": [
+          "Lubbock Public Health confirms first human case of West Nile virus for 2026 - KCBD",
           "Mecklenburg Public Health responds to West Nile Virus cases, anticipates more - Charlotte Observer",
-          "Atlantic City, NJ, Health Alert: Mosquitoes Test Positive West Nile Virus - WPG Talk Radio 95.5 FM",
-          "County Urges Protection Against Mosquitoes to Prevent West Nile Virus Exposure - San Diego County News Center"
+          "SAFETY ALERT: West Nile virus detected in Fort Gordon mosquitoes - wrdw.com"
         ]
       },
       {
         "trend": "west nile virus",
         "market_code": "FR",
         "category": "Outbreaks",
-        "score": 10,
+        "score": 12,
         "examples": [
+          "Lubbock Public Health confirms first human case of West Nile virus for 2026 - KCBD",
           "Mecklenburg Public Health responds to West Nile Virus cases, anticipates more - Charlotte Observer",
-          "Atlantic City, NJ, Health Alert: Mosquitoes Test Positive West Nile Virus - WPG Talk Radio 95.5 FM",
-          "County Urges Protection Against Mosquitoes to Prevent West Nile Virus Exposure - San Diego County News Center"
+          "SAFETY ALERT: West Nile virus detected in Fort Gordon mosquitoes - wrdw.com"
+        ]
+      },
+      {
+        "trend": "measles",
+        "market_code": "FR",
+        "category": "Outbreaks",
+        "score": 11,
+        "examples": [
+          "The behind-the-scenes effort to contain the nation’s worst ongoing measles outbreak - The Washington Post",
+          "DPH Confirms Additional Measles Cases in Georgia - Georgia Coastal Health District",
+          "The behind-the-scenes effort to contain the nation’s worst ongoing measles outbreak - The Washington Post"
         ]
       },
       {
@@ -488,7 +488,7 @@
         "category": "Europe Health",
         "score": 10,
         "examples": [
-          "The future of AI in healthcare: Moving from hype to business value | Viewpoint - rbj.net",
+          "The future of AI in healthcare: Moving from hype to business value | Viewpoint - Rochester Business Journal",
           "OpenEvidence deepens oncology push, launches new AI model family - Fierce Healthcare",
           "AI Tracker: Mount Sinai, Denver Health join new AI coalition - Modern Healthcare News"
         ]
@@ -497,33 +497,11 @@
         "trend": "public health",
         "market_code": "FR",
         "category": "Europe Health",
-        "score": 9,
+        "score": 8,
         "examples": [
+          "Cyclosporiasis outbreak exposes a weakened US public health system - reuters.com",
           "Gifting public health on the playa at Burning Man - University of Nevada, Reno",
-          "Cyclosporiasis outbreak exposes a weakened US public health system - Reuters",
-          "Gifting public health on the playa at Burning Man - University of Nevada, Reno"
-        ]
-      },
-      {
-        "trend": "mental",
-        "market_code": "FR",
-        "category": "Mental Health",
-        "score": 8,
-        "examples": [
-          "Richmond Police Officer Shot During Mental Health Crisis Call - KQED",
-          "Community Mental Health: Virtual Information Session | November 17 - New England College",
-          "CT offers mental health resources for kids. Here’s what to know - CT Mirror"
-        ]
-      },
-      {
-        "trend": "mental health",
-        "market_code": "FR",
-        "category": "Mental Health",
-        "score": 8,
-        "examples": [
-          "Richmond Police Officer Shot During Mental Health Crisis Call - KQED",
-          "Community Mental Health: Virtual Information Session | November 17 - New England College",
-          "CT offers mental health resources for kids. Here’s what to know - CT Mirror"
+          "Lubbock Public Health confirms first human case of West Nile virus for 2026 - KCBD"
         ]
       },
       {
@@ -532,9 +510,31 @@
         "category": "Europe Health",
         "score": 7,
         "examples": [
-          "Grant supports evaluation of California’s traditional health care practices benefit - news.ucr.edu",
-          "At least 5 other states join Mass. in covering transgender kids’ health care under Medicaid - WGBH",
-          "Grant supports evaluation of California’s traditional health care practices benefit - news.ucr.edu"
+          "Grant supports evaluation of California’s traditional health care practices benefit - University of California, Riverside",
+          "Grant supports evaluation of California’s traditional health care practices benefit - University of California, Riverside",
+          "Key moments in the Lindsay Clancy case: the 911 call, mental health care, mistrial - The Seattle Times"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "FR",
+        "category": "Mental Health",
+        "score": 7,
+        "examples": [
+          "Islamic Center shooter’s parents suing mental health provider for negligence, wrongful death - KPBS",
+          "Mental health counselor offers support for families during extended deployments - ABC11 News",
+          "OB-GYN on maternal mental health after mistrial declared in Lindsay Clancy case - NBC Los Angeles"
+        ]
+      },
+      {
+        "trend": "mental health",
+        "market_code": "FR",
+        "category": "Mental Health",
+        "score": 7,
+        "examples": [
+          "Islamic Center shooter’s parents suing mental health provider for negligence, wrongful death - KPBS",
+          "Mental health counselor offers support for families during extended deployments - ABC11 News",
+          "OB-GYN on maternal mental health after mistrial declared in Lindsay Clancy case - NBC Los Angeles"
         ]
       }
     ],
@@ -546,18 +546,18 @@
         "score": 80,
         "examples": [
           "Survey: Health benefit costs expected to jump 8.2% in 2027, the biggest increase since 2003 - mercer.com",
-          "Employer and worker health plan costs expected to jump in 2027 - CBS News",
-          "Join The CHAT: Clemson Health Advancement Talks - news.clemson.edu"
+          "'The health system in Nepal is not prepared for this' - npr.org",
+          "Superheroes Health Fair helps El Paso families start the school year healthy - elpasomatters.org"
         ]
       },
       {
         "trend": "medical",
         "market_code": "IT",
         "category": "Europe Health",
-        "score": 25,
+        "score": 21,
         "examples": [
           "Nebraska Supreme Court upholds validity of state medical cannabis laws - Nebraska Examiner",
-          "HHS Awards More Than $11 Million to Expand Medical Residencies in Rural and Tribal Communities - HHS.gov",
+          "Banner-gate: Adirondack Medical Center Nurses Replace Missing Banners, Keep Up Fight for Fair Contracts - New York State Nurses Association",
           "National call to action needed to strengthen primary care pipeline in medical education, argue experts - Medical Xpress"
         ]
       },
@@ -565,55 +565,55 @@
         "trend": "outbreak",
         "market_code": "IT",
         "category": "Outbreaks",
-        "score": 14,
-        "examples": [
-          "Cyclosporiasis outbreak exposes a weakened US public health system - Reuters",
-          "Cyclosporiasis outbreak exposes a weakened US public health system - Reuters",
-          "The behind-the-scenes effort to contain the nation’s worst ongoing measles outbreak - The Washington Post"
-        ]
-      },
-      {
-        "trend": "measles",
-        "market_code": "IT",
-        "category": "Outbreaks",
-        "score": 13,
+        "score": 15,
         "examples": [
           "The behind-the-scenes effort to contain the nation’s worst ongoing measles outbreak - The Washington Post",
-          "SAFETY ALERT: Georgia measles outbreak spreads to 4 more cases - wrdw.com",
-          "Wisconsin health officials urge measles vaccination as school year begins - Hawaii News Now"
+          "The behind-the-scenes effort to contain the nation’s worst ongoing measles outbreak - The Washington Post",
+          "Cyclosporiasis outbreak exposes a weakened US public health system - reuters.com"
         ]
       },
       {
         "trend": "virus",
         "market_code": "IT",
         "category": "Outbreaks",
-        "score": 12,
+        "score": 14,
         "examples": [
+          "Lubbock Public Health confirms first human case of West Nile virus for 2026 - KCBD",
           "Mecklenburg Public Health responds to West Nile Virus cases, anticipates more - Charlotte Observer",
-          "Atlantic City, NJ, Health Alert: Mosquitoes Test Positive West Nile Virus - WPG Talk Radio 95.5 FM",
-          "County Urges Protection Against Mosquitoes to Prevent West Nile Virus Exposure - San Diego County News Center"
+          "SAFETY ALERT: West Nile virus detected in Fort Gordon mosquitoes - wrdw.com"
         ]
       },
       {
         "trend": "nile virus",
         "market_code": "IT",
         "category": "Outbreaks",
-        "score": 10,
+        "score": 12,
         "examples": [
+          "Lubbock Public Health confirms first human case of West Nile virus for 2026 - KCBD",
           "Mecklenburg Public Health responds to West Nile Virus cases, anticipates more - Charlotte Observer",
-          "Atlantic City, NJ, Health Alert: Mosquitoes Test Positive West Nile Virus - WPG Talk Radio 95.5 FM",
-          "County Urges Protection Against Mosquitoes to Prevent West Nile Virus Exposure - San Diego County News Center"
+          "SAFETY ALERT: West Nile virus detected in Fort Gordon mosquitoes - wrdw.com"
         ]
       },
       {
         "trend": "west nile virus",
         "market_code": "IT",
         "category": "Outbreaks",
-        "score": 10,
+        "score": 12,
         "examples": [
+          "Lubbock Public Health confirms first human case of West Nile virus for 2026 - KCBD",
           "Mecklenburg Public Health responds to West Nile Virus cases, anticipates more - Charlotte Observer",
-          "Atlantic City, NJ, Health Alert: Mosquitoes Test Positive West Nile Virus - WPG Talk Radio 95.5 FM",
-          "County Urges Protection Against Mosquitoes to Prevent West Nile Virus Exposure - San Diego County News Center"
+          "SAFETY ALERT: West Nile virus detected in Fort Gordon mosquitoes - wrdw.com"
+        ]
+      },
+      {
+        "trend": "measles",
+        "market_code": "IT",
+        "category": "Outbreaks",
+        "score": 11,
+        "examples": [
+          "The behind-the-scenes effort to contain the nation’s worst ongoing measles outbreak - The Washington Post",
+          "DPH Confirms Additional Measles Cases in Georgia - Georgia Coastal Health District",
+          "The behind-the-scenes effort to contain the nation’s worst ongoing measles outbreak - The Washington Post"
         ]
       },
       {
@@ -622,7 +622,7 @@
         "category": "Europe Health",
         "score": 10,
         "examples": [
-          "The future of AI in healthcare: Moving from hype to business value | Viewpoint - rbj.net",
+          "The future of AI in healthcare: Moving from hype to business value | Viewpoint - Rochester Business Journal",
           "OpenEvidence deepens oncology push, launches new AI model family - Fierce Healthcare",
           "AI Tracker: Mount Sinai, Denver Health join new AI coalition - Modern Healthcare News"
         ]
@@ -631,33 +631,11 @@
         "trend": "public health",
         "market_code": "IT",
         "category": "Europe Health",
-        "score": 9,
+        "score": 8,
         "examples": [
+          "Cyclosporiasis outbreak exposes a weakened US public health system - reuters.com",
           "Gifting public health on the playa at Burning Man - University of Nevada, Reno",
-          "Cyclosporiasis outbreak exposes a weakened US public health system - Reuters",
-          "Gifting public health on the playa at Burning Man - University of Nevada, Reno"
-        ]
-      },
-      {
-        "trend": "mental",
-        "market_code": "IT",
-        "category": "Mental Health",
-        "score": 8,
-        "examples": [
-          "Richmond Police Officer Shot During Mental Health Crisis Call - KQED",
-          "Community Mental Health: Virtual Information Session | November 17 - New England College",
-          "CT offers mental health resources for kids. Here’s what to know - CT Mirror"
-        ]
-      },
-      {
-        "trend": "mental health",
-        "market_code": "IT",
-        "category": "Mental Health",
-        "score": 8,
-        "examples": [
-          "Richmond Police Officer Shot During Mental Health Crisis Call - KQED",
-          "Community Mental Health: Virtual Information Session | November 17 - New England College",
-          "CT offers mental health resources for kids. Here’s what to know - CT Mirror"
+          "Lubbock Public Health confirms first human case of West Nile virus for 2026 - KCBD"
         ]
       },
       {
@@ -666,9 +644,31 @@
         "category": "Europe Health",
         "score": 7,
         "examples": [
-          "Grant supports evaluation of California’s traditional health care practices benefit - news.ucr.edu",
-          "At least 5 other states join Mass. in covering transgender kids’ health care under Medicaid - WGBH",
-          "Grant supports evaluation of California’s traditional health care practices benefit - news.ucr.edu"
+          "Grant supports evaluation of California’s traditional health care practices benefit - University of California, Riverside",
+          "Grant supports evaluation of California’s traditional health care practices benefit - University of California, Riverside",
+          "Key moments in the Lindsay Clancy case: the 911 call, mental health care, mistrial - The Seattle Times"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "IT",
+        "category": "Mental Health",
+        "score": 7,
+        "examples": [
+          "Islamic Center shooter’s parents suing mental health provider for negligence, wrongful death - KPBS",
+          "Mental health counselor offers support for families during extended deployments - ABC11 News",
+          "OB-GYN on maternal mental health after mistrial declared in Lindsay Clancy case - NBC Los Angeles"
+        ]
+      },
+      {
+        "trend": "mental health",
+        "market_code": "IT",
+        "category": "Mental Health",
+        "score": 7,
+        "examples": [
+          "Islamic Center shooter’s parents suing mental health provider for negligence, wrongful death - KPBS",
+          "Mental health counselor offers support for families during extended deployments - ABC11 News",
+          "OB-GYN on maternal mental health after mistrial declared in Lindsay Clancy case - NBC Los Angeles"
         ]
       }
     ],
@@ -680,18 +680,18 @@
         "score": 80,
         "examples": [
           "Survey: Health benefit costs expected to jump 8.2% in 2027, the biggest increase since 2003 - mercer.com",
-          "Employer and worker health plan costs expected to jump in 2027 - CBS News",
-          "Join The CHAT: Clemson Health Advancement Talks - news.clemson.edu"
+          "'The health system in Nepal is not prepared for this' - npr.org",
+          "Superheroes Health Fair helps El Paso families start the school year healthy - elpasomatters.org"
         ]
       },
       {
         "trend": "medical",
         "market_code": "ES",
         "category": "Europe Health",
-        "score": 25,
+        "score": 21,
         "examples": [
           "Nebraska Supreme Court upholds validity of state medical cannabis laws - Nebraska Examiner",
-          "HHS Awards More Than $11 Million to Expand Medical Residencies in Rural and Tribal Communities - HHS.gov",
+          "Banner-gate: Adirondack Medical Center Nurses Replace Missing Banners, Keep Up Fight for Fair Contracts - New York State Nurses Association",
           "National call to action needed to strengthen primary care pipeline in medical education, argue experts - Medical Xpress"
         ]
       },
@@ -699,55 +699,55 @@
         "trend": "outbreak",
         "market_code": "ES",
         "category": "Outbreaks",
-        "score": 14,
-        "examples": [
-          "Cyclosporiasis outbreak exposes a weakened US public health system - Reuters",
-          "Cyclosporiasis outbreak exposes a weakened US public health system - Reuters",
-          "The behind-the-scenes effort to contain the nation’s worst ongoing measles outbreak - The Washington Post"
-        ]
-      },
-      {
-        "trend": "measles",
-        "market_code": "ES",
-        "category": "Outbreaks",
-        "score": 13,
+        "score": 15,
         "examples": [
           "The behind-the-scenes effort to contain the nation’s worst ongoing measles outbreak - The Washington Post",
-          "SAFETY ALERT: Georgia measles outbreak spreads to 4 more cases - wrdw.com",
-          "Wisconsin health officials urge measles vaccination as school year begins - Hawaii News Now"
+          "The behind-the-scenes effort to contain the nation’s worst ongoing measles outbreak - The Washington Post",
+          "Cyclosporiasis outbreak exposes a weakened US public health system - reuters.com"
         ]
       },
       {
         "trend": "virus",
         "market_code": "ES",
         "category": "Outbreaks",
-        "score": 12,
+        "score": 14,
         "examples": [
+          "Lubbock Public Health confirms first human case of West Nile virus for 2026 - KCBD",
           "Mecklenburg Public Health responds to West Nile Virus cases, anticipates more - Charlotte Observer",
-          "Atlantic City, NJ, Health Alert: Mosquitoes Test Positive West Nile Virus - WPG Talk Radio 95.5 FM",
-          "County Urges Protection Against Mosquitoes to Prevent West Nile Virus Exposure - San Diego County News Center"
+          "SAFETY ALERT: West Nile virus detected in Fort Gordon mosquitoes - wrdw.com"
         ]
       },
       {
         "trend": "nile virus",
         "market_code": "ES",
         "category": "Outbreaks",
-        "score": 10,
+        "score": 12,
         "examples": [
+          "Lubbock Public Health confirms first human case of West Nile virus for 2026 - KCBD",
           "Mecklenburg Public Health responds to West Nile Virus cases, anticipates more - Charlotte Observer",
-          "Atlantic City, NJ, Health Alert: Mosquitoes Test Positive West Nile Virus - WPG Talk Radio 95.5 FM",
-          "County Urges Protection Against Mosquitoes to Prevent West Nile Virus Exposure - San Diego County News Center"
+          "SAFETY ALERT: West Nile virus detected in Fort Gordon mosquitoes - wrdw.com"
         ]
       },
       {
         "trend": "west nile virus",
         "market_code": "ES",
         "category": "Outbreaks",
-        "score": 10,
+        "score": 12,
         "examples": [
+          "Lubbock Public Health confirms first human case of West Nile virus for 2026 - KCBD",
           "Mecklenburg Public Health responds to West Nile Virus cases, anticipates more - Charlotte Observer",
-          "Atlantic City, NJ, Health Alert: Mosquitoes Test Positive West Nile Virus - WPG Talk Radio 95.5 FM",
-          "County Urges Protection Against Mosquitoes to Prevent West Nile Virus Exposure - San Diego County News Center"
+          "SAFETY ALERT: West Nile virus detected in Fort Gordon mosquitoes - wrdw.com"
+        ]
+      },
+      {
+        "trend": "measles",
+        "market_code": "ES",
+        "category": "Outbreaks",
+        "score": 11,
+        "examples": [
+          "The behind-the-scenes effort to contain the nation’s worst ongoing measles outbreak - The Washington Post",
+          "DPH Confirms Additional Measles Cases in Georgia - Georgia Coastal Health District",
+          "The behind-the-scenes effort to contain the nation’s worst ongoing measles outbreak - The Washington Post"
         ]
       },
       {
@@ -756,7 +756,7 @@
         "category": "Europe Health",
         "score": 10,
         "examples": [
-          "The future of AI in healthcare: Moving from hype to business value | Viewpoint - rbj.net",
+          "The future of AI in healthcare: Moving from hype to business value | Viewpoint - Rochester Business Journal",
           "OpenEvidence deepens oncology push, launches new AI model family - Fierce Healthcare",
           "AI Tracker: Mount Sinai, Denver Health join new AI coalition - Modern Healthcare News"
         ]
@@ -765,33 +765,11 @@
         "trend": "public health",
         "market_code": "ES",
         "category": "Europe Health",
-        "score": 9,
+        "score": 8,
         "examples": [
+          "Cyclosporiasis outbreak exposes a weakened US public health system - reuters.com",
           "Gifting public health on the playa at Burning Man - University of Nevada, Reno",
-          "Cyclosporiasis outbreak exposes a weakened US public health system - Reuters",
-          "Gifting public health on the playa at Burning Man - University of Nevada, Reno"
-        ]
-      },
-      {
-        "trend": "mental",
-        "market_code": "ES",
-        "category": "Mental Health",
-        "score": 8,
-        "examples": [
-          "Richmond Police Officer Shot During Mental Health Crisis Call - KQED",
-          "Community Mental Health: Virtual Information Session | November 17 - New England College",
-          "CT offers mental health resources for kids. Here’s what to know - CT Mirror"
-        ]
-      },
-      {
-        "trend": "mental health",
-        "market_code": "ES",
-        "category": "Mental Health",
-        "score": 8,
-        "examples": [
-          "Richmond Police Officer Shot During Mental Health Crisis Call - KQED",
-          "Community Mental Health: Virtual Information Session | November 17 - New England College",
-          "CT offers mental health resources for kids. Here’s what to know - CT Mirror"
+          "Lubbock Public Health confirms first human case of West Nile virus for 2026 - KCBD"
         ]
       },
       {
@@ -800,9 +778,31 @@
         "category": "Europe Health",
         "score": 7,
         "examples": [
-          "Grant supports evaluation of California’s traditional health care practices benefit - news.ucr.edu",
-          "At least 5 other states join Mass. in covering transgender kids’ health care under Medicaid - WGBH",
-          "Grant supports evaluation of California’s traditional health care practices benefit - news.ucr.edu"
+          "Grant supports evaluation of California’s traditional health care practices benefit - University of California, Riverside",
+          "Grant supports evaluation of California’s traditional health care practices benefit - University of California, Riverside",
+          "Key moments in the Lindsay Clancy case: the 911 call, mental health care, mistrial - The Seattle Times"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "ES",
+        "category": "Mental Health",
+        "score": 7,
+        "examples": [
+          "Islamic Center shooter’s parents suing mental health provider for negligence, wrongful death - KPBS",
+          "Mental health counselor offers support for families during extended deployments - ABC11 News",
+          "OB-GYN on maternal mental health after mistrial declared in Lindsay Clancy case - NBC Los Angeles"
+        ]
+      },
+      {
+        "trend": "mental health",
+        "market_code": "ES",
+        "category": "Mental Health",
+        "score": 7,
+        "examples": [
+          "Islamic Center shooter’s parents suing mental health provider for negligence, wrongful death - KPBS",
+          "Mental health counselor offers support for families during extended deployments - ABC11 News",
+          "OB-GYN on maternal mental health after mistrial declared in Lindsay Clancy case - NBC Los Angeles"
         ]
       }
     ],
@@ -814,18 +814,18 @@
         "score": 80,
         "examples": [
           "Survey: Health benefit costs expected to jump 8.2% in 2027, the biggest increase since 2003 - mercer.com",
-          "Employer and worker health plan costs expected to jump in 2027 - CBS News",
-          "Join The CHAT: Clemson Health Advancement Talks - news.clemson.edu"
+          "'The health system in Nepal is not prepared for this' - npr.org",
+          "Superheroes Health Fair helps El Paso families start the school year healthy - elpasomatters.org"
         ]
       },
       {
         "trend": "medical",
         "market_code": "SE",
         "category": "Europe Health",
-        "score": 25,
+        "score": 21,
         "examples": [
           "Nebraska Supreme Court upholds validity of state medical cannabis laws - Nebraska Examiner",
-          "HHS Awards More Than $11 Million to Expand Medical Residencies in Rural and Tribal Communities - HHS.gov",
+          "Banner-gate: Adirondack Medical Center Nurses Replace Missing Banners, Keep Up Fight for Fair Contracts - New York State Nurses Association",
           "National call to action needed to strengthen primary care pipeline in medical education, argue experts - Medical Xpress"
         ]
       },
@@ -833,55 +833,55 @@
         "trend": "outbreak",
         "market_code": "SE",
         "category": "Outbreaks",
-        "score": 14,
-        "examples": [
-          "Cyclosporiasis outbreak exposes a weakened US public health system - Reuters",
-          "Cyclosporiasis outbreak exposes a weakened US public health system - Reuters",
-          "The behind-the-scenes effort to contain the nation’s worst ongoing measles outbreak - The Washington Post"
-        ]
-      },
-      {
-        "trend": "measles",
-        "market_code": "SE",
-        "category": "Outbreaks",
-        "score": 13,
+        "score": 15,
         "examples": [
           "The behind-the-scenes effort to contain the nation’s worst ongoing measles outbreak - The Washington Post",
-          "SAFETY ALERT: Georgia measles outbreak spreads to 4 more cases - wrdw.com",
-          "Wisconsin health officials urge measles vaccination as school year begins - Hawaii News Now"
+          "The behind-the-scenes effort to contain the nation’s worst ongoing measles outbreak - The Washington Post",
+          "Cyclosporiasis outbreak exposes a weakened US public health system - reuters.com"
         ]
       },
       {
         "trend": "virus",
         "market_code": "SE",
         "category": "Outbreaks",
-        "score": 12,
+        "score": 14,
         "examples": [
+          "Lubbock Public Health confirms first human case of West Nile virus for 2026 - KCBD",
           "Mecklenburg Public Health responds to West Nile Virus cases, anticipates more - Charlotte Observer",
-          "Atlantic City, NJ, Health Alert: Mosquitoes Test Positive West Nile Virus - WPG Talk Radio 95.5 FM",
-          "County Urges Protection Against Mosquitoes to Prevent West Nile Virus Exposure - San Diego County News Center"
+          "SAFETY ALERT: West Nile virus detected in Fort Gordon mosquitoes - wrdw.com"
         ]
       },
       {
         "trend": "nile virus",
         "market_code": "SE",
         "category": "Outbreaks",
-        "score": 10,
+        "score": 12,
         "examples": [
+          "Lubbock Public Health confirms first human case of West Nile virus for 2026 - KCBD",
           "Mecklenburg Public Health responds to West Nile Virus cases, anticipates more - Charlotte Observer",
-          "Atlantic City, NJ, Health Alert: Mosquitoes Test Positive West Nile Virus - WPG Talk Radio 95.5 FM",
-          "County Urges Protection Against Mosquitoes to Prevent West Nile Virus Exposure - San Diego County News Center"
+          "SAFETY ALERT: West Nile virus detected in Fort Gordon mosquitoes - wrdw.com"
         ]
       },
       {
         "trend": "west nile virus",
         "market_code": "SE",
         "category": "Outbreaks",
-        "score": 10,
+        "score": 12,
         "examples": [
+          "Lubbock Public Health confirms first human case of West Nile virus for 2026 - KCBD",
           "Mecklenburg Public Health responds to West Nile Virus cases, anticipates more - Charlotte Observer",
-          "Atlantic City, NJ, Health Alert: Mosquitoes Test Positive West Nile Virus - WPG Talk Radio 95.5 FM",
-          "County Urges Protection Against Mosquitoes to Prevent West Nile Virus Exposure - San Diego County News Center"
+          "SAFETY ALERT: West Nile virus detected in Fort Gordon mosquitoes - wrdw.com"
+        ]
+      },
+      {
+        "trend": "measles",
+        "market_code": "SE",
+        "category": "Outbreaks",
+        "score": 11,
+        "examples": [
+          "The behind-the-scenes effort to contain the nation’s worst ongoing measles outbreak - The Washington Post",
+          "DPH Confirms Additional Measles Cases in Georgia - Georgia Coastal Health District",
+          "The behind-the-scenes effort to contain the nation’s worst ongoing measles outbreak - The Washington Post"
         ]
       },
       {
@@ -890,7 +890,7 @@
         "category": "Europe Health",
         "score": 10,
         "examples": [
-          "The future of AI in healthcare: Moving from hype to business value | Viewpoint - rbj.net",
+          "The future of AI in healthcare: Moving from hype to business value | Viewpoint - Rochester Business Journal",
           "OpenEvidence deepens oncology push, launches new AI model family - Fierce Healthcare",
           "AI Tracker: Mount Sinai, Denver Health join new AI coalition - Modern Healthcare News"
         ]
@@ -899,33 +899,11 @@
         "trend": "public health",
         "market_code": "SE",
         "category": "Europe Health",
-        "score": 9,
+        "score": 8,
         "examples": [
+          "Cyclosporiasis outbreak exposes a weakened US public health system - reuters.com",
           "Gifting public health on the playa at Burning Man - University of Nevada, Reno",
-          "Cyclosporiasis outbreak exposes a weakened US public health system - Reuters",
-          "Gifting public health on the playa at Burning Man - University of Nevada, Reno"
-        ]
-      },
-      {
-        "trend": "mental",
-        "market_code": "SE",
-        "category": "Mental Health",
-        "score": 8,
-        "examples": [
-          "Richmond Police Officer Shot During Mental Health Crisis Call - KQED",
-          "Community Mental Health: Virtual Information Session | November 17 - New England College",
-          "CT offers mental health resources for kids. Here’s what to know - CT Mirror"
-        ]
-      },
-      {
-        "trend": "mental health",
-        "market_code": "SE",
-        "category": "Mental Health",
-        "score": 8,
-        "examples": [
-          "Richmond Police Officer Shot During Mental Health Crisis Call - KQED",
-          "Community Mental Health: Virtual Information Session | November 17 - New England College",
-          "CT offers mental health resources for kids. Here’s what to know - CT Mirror"
+          "Lubbock Public Health confirms first human case of West Nile virus for 2026 - KCBD"
         ]
       },
       {
@@ -934,9 +912,31 @@
         "category": "Europe Health",
         "score": 7,
         "examples": [
-          "Grant supports evaluation of California’s traditional health care practices benefit - news.ucr.edu",
-          "At least 5 other states join Mass. in covering transgender kids’ health care under Medicaid - WGBH",
-          "Grant supports evaluation of California’s traditional health care practices benefit - news.ucr.edu"
+          "Grant supports evaluation of California’s traditional health care practices benefit - University of California, Riverside",
+          "Grant supports evaluation of California’s traditional health care practices benefit - University of California, Riverside",
+          "Key moments in the Lindsay Clancy case: the 911 call, mental health care, mistrial - The Seattle Times"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "SE",
+        "category": "Mental Health",
+        "score": 7,
+        "examples": [
+          "Islamic Center shooter’s parents suing mental health provider for negligence, wrongful death - KPBS",
+          "Mental health counselor offers support for families during extended deployments - ABC11 News",
+          "OB-GYN on maternal mental health after mistrial declared in Lindsay Clancy case - NBC Los Angeles"
+        ]
+      },
+      {
+        "trend": "mental health",
+        "market_code": "SE",
+        "category": "Mental Health",
+        "score": 7,
+        "examples": [
+          "Islamic Center shooter’s parents suing mental health provider for negligence, wrongful death - KPBS",
+          "Mental health counselor offers support for families during extended deployments - ABC11 News",
+          "OB-GYN on maternal mental health after mistrial declared in Lindsay Clancy case - NBC Los Angeles"
         ]
       }
     ],
@@ -948,18 +948,18 @@
         "score": 80,
         "examples": [
           "Survey: Health benefit costs expected to jump 8.2% in 2027, the biggest increase since 2003 - mercer.com",
-          "Employer and worker health plan costs expected to jump in 2027 - CBS News",
-          "Join The CHAT: Clemson Health Advancement Talks - news.clemson.edu"
+          "'The health system in Nepal is not prepared for this' - npr.org",
+          "Superheroes Health Fair helps El Paso families start the school year healthy - elpasomatters.org"
         ]
       },
       {
         "trend": "medical",
         "market_code": "NL",
         "category": "Europe Health",
-        "score": 25,
+        "score": 21,
         "examples": [
           "Nebraska Supreme Court upholds validity of state medical cannabis laws - Nebraska Examiner",
-          "HHS Awards More Than $11 Million to Expand Medical Residencies in Rural and Tribal Communities - HHS.gov",
+          "Banner-gate: Adirondack Medical Center Nurses Replace Missing Banners, Keep Up Fight for Fair Contracts - New York State Nurses Association",
           "National call to action needed to strengthen primary care pipeline in medical education, argue experts - Medical Xpress"
         ]
       },
@@ -967,55 +967,55 @@
         "trend": "outbreak",
         "market_code": "NL",
         "category": "Outbreaks",
-        "score": 14,
-        "examples": [
-          "Cyclosporiasis outbreak exposes a weakened US public health system - Reuters",
-          "Cyclosporiasis outbreak exposes a weakened US public health system - Reuters",
-          "The behind-the-scenes effort to contain the nation’s worst ongoing measles outbreak - The Washington Post"
-        ]
-      },
-      {
-        "trend": "measles",
-        "market_code": "NL",
-        "category": "Outbreaks",
-        "score": 13,
+        "score": 15,
         "examples": [
           "The behind-the-scenes effort to contain the nation’s worst ongoing measles outbreak - The Washington Post",
-          "SAFETY ALERT: Georgia measles outbreak spreads to 4 more cases - wrdw.com",
-          "Wisconsin health officials urge measles vaccination as school year begins - Hawaii News Now"
+          "The behind-the-scenes effort to contain the nation’s worst ongoing measles outbreak - The Washington Post",
+          "Cyclosporiasis outbreak exposes a weakened US public health system - reuters.com"
         ]
       },
       {
         "trend": "virus",
         "market_code": "NL",
         "category": "Outbreaks",
-        "score": 12,
+        "score": 14,
         "examples": [
+          "Lubbock Public Health confirms first human case of West Nile virus for 2026 - KCBD",
           "Mecklenburg Public Health responds to West Nile Virus cases, anticipates more - Charlotte Observer",
-          "Atlantic City, NJ, Health Alert: Mosquitoes Test Positive West Nile Virus - WPG Talk Radio 95.5 FM",
-          "County Urges Protection Against Mosquitoes to Prevent West Nile Virus Exposure - San Diego County News Center"
+          "SAFETY ALERT: West Nile virus detected in Fort Gordon mosquitoes - wrdw.com"
         ]
       },
       {
         "trend": "nile virus",
         "market_code": "NL",
         "category": "Outbreaks",
-        "score": 10,
+        "score": 12,
         "examples": [
+          "Lubbock Public Health confirms first human case of West Nile virus for 2026 - KCBD",
           "Mecklenburg Public Health responds to West Nile Virus cases, anticipates more - Charlotte Observer",
-          "Atlantic City, NJ, Health Alert: Mosquitoes Test Positive West Nile Virus - WPG Talk Radio 95.5 FM",
-          "County Urges Protection Against Mosquitoes to Prevent West Nile Virus Exposure - San Diego County News Center"
+          "SAFETY ALERT: West Nile virus detected in Fort Gordon mosquitoes - wrdw.com"
         ]
       },
       {
         "trend": "west nile virus",
         "market_code": "NL",
         "category": "Outbreaks",
-        "score": 10,
+        "score": 12,
         "examples": [
+          "Lubbock Public Health confirms first human case of West Nile virus for 2026 - KCBD",
           "Mecklenburg Public Health responds to West Nile Virus cases, anticipates more - Charlotte Observer",
-          "Atlantic City, NJ, Health Alert: Mosquitoes Test Positive West Nile Virus - WPG Talk Radio 95.5 FM",
-          "County Urges Protection Against Mosquitoes to Prevent West Nile Virus Exposure - San Diego County News Center"
+          "SAFETY ALERT: West Nile virus detected in Fort Gordon mosquitoes - wrdw.com"
+        ]
+      },
+      {
+        "trend": "measles",
+        "market_code": "NL",
+        "category": "Outbreaks",
+        "score": 11,
+        "examples": [
+          "The behind-the-scenes effort to contain the nation’s worst ongoing measles outbreak - The Washington Post",
+          "DPH Confirms Additional Measles Cases in Georgia - Georgia Coastal Health District",
+          "The behind-the-scenes effort to contain the nation’s worst ongoing measles outbreak - The Washington Post"
         ]
       },
       {
@@ -1024,7 +1024,7 @@
         "category": "Europe Health",
         "score": 10,
         "examples": [
-          "The future of AI in healthcare: Moving from hype to business value | Viewpoint - rbj.net",
+          "The future of AI in healthcare: Moving from hype to business value | Viewpoint - Rochester Business Journal",
           "OpenEvidence deepens oncology push, launches new AI model family - Fierce Healthcare",
           "AI Tracker: Mount Sinai, Denver Health join new AI coalition - Modern Healthcare News"
         ]
@@ -1033,33 +1033,11 @@
         "trend": "public health",
         "market_code": "NL",
         "category": "Europe Health",
-        "score": 9,
+        "score": 8,
         "examples": [
+          "Cyclosporiasis outbreak exposes a weakened US public health system - reuters.com",
           "Gifting public health on the playa at Burning Man - University of Nevada, Reno",
-          "Cyclosporiasis outbreak exposes a weakened US public health system - Reuters",
-          "Gifting public health on the playa at Burning Man - University of Nevada, Reno"
-        ]
-      },
-      {
-        "trend": "mental",
-        "market_code": "NL",
-        "category": "Mental Health",
-        "score": 8,
-        "examples": [
-          "Richmond Police Officer Shot During Mental Health Crisis Call - KQED",
-          "Community Mental Health: Virtual Information Session | November 17 - New England College",
-          "CT offers mental health resources for kids. Here’s what to know - CT Mirror"
-        ]
-      },
-      {
-        "trend": "mental health",
-        "market_code": "NL",
-        "category": "Mental Health",
-        "score": 8,
-        "examples": [
-          "Richmond Police Officer Shot During Mental Health Crisis Call - KQED",
-          "Community Mental Health: Virtual Information Session | November 17 - New England College",
-          "CT offers mental health resources for kids. Here’s what to know - CT Mirror"
+          "Lubbock Public Health confirms first human case of West Nile virus for 2026 - KCBD"
         ]
       },
       {
@@ -1068,9 +1046,31 @@
         "category": "Europe Health",
         "score": 7,
         "examples": [
-          "Grant supports evaluation of California’s traditional health care practices benefit - news.ucr.edu",
-          "At least 5 other states join Mass. in covering transgender kids’ health care under Medicaid - WGBH",
-          "Grant supports evaluation of California’s traditional health care practices benefit - news.ucr.edu"
+          "Grant supports evaluation of California’s traditional health care practices benefit - University of California, Riverside",
+          "Grant supports evaluation of California’s traditional health care practices benefit - University of California, Riverside",
+          "Key moments in the Lindsay Clancy case: the 911 call, mental health care, mistrial - The Seattle Times"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "NL",
+        "category": "Mental Health",
+        "score": 7,
+        "examples": [
+          "Islamic Center shooter’s parents suing mental health provider for negligence, wrongful death - KPBS",
+          "Mental health counselor offers support for families during extended deployments - ABC11 News",
+          "OB-GYN on maternal mental health after mistrial declared in Lindsay Clancy case - NBC Los Angeles"
+        ]
+      },
+      {
+        "trend": "mental health",
+        "market_code": "NL",
+        "category": "Mental Health",
+        "score": 7,
+        "examples": [
+          "Islamic Center shooter’s parents suing mental health provider for negligence, wrongful death - KPBS",
+          "Mental health counselor offers support for families during extended deployments - ABC11 News",
+          "OB-GYN on maternal mental health after mistrial declared in Lindsay Clancy case - NBC Los Angeles"
         ]
       }
     ],
@@ -1082,18 +1082,18 @@
         "score": 80,
         "examples": [
           "Survey: Health benefit costs expected to jump 8.2% in 2027, the biggest increase since 2003 - mercer.com",
-          "Employer and worker health plan costs expected to jump in 2027 - CBS News",
-          "Join The CHAT: Clemson Health Advancement Talks - news.clemson.edu"
+          "'The health system in Nepal is not prepared for this' - npr.org",
+          "Superheroes Health Fair helps El Paso families start the school year healthy - elpasomatters.org"
         ]
       },
       {
         "trend": "medical",
         "market_code": "FI",
         "category": "Europe Health",
-        "score": 25,
+        "score": 21,
         "examples": [
           "Nebraska Supreme Court upholds validity of state medical cannabis laws - Nebraska Examiner",
-          "HHS Awards More Than $11 Million to Expand Medical Residencies in Rural and Tribal Communities - HHS.gov",
+          "Banner-gate: Adirondack Medical Center Nurses Replace Missing Banners, Keep Up Fight for Fair Contracts - New York State Nurses Association",
           "National call to action needed to strengthen primary care pipeline in medical education, argue experts - Medical Xpress"
         ]
       },
@@ -1101,55 +1101,55 @@
         "trend": "outbreak",
         "market_code": "FI",
         "category": "Outbreaks",
-        "score": 14,
-        "examples": [
-          "Cyclosporiasis outbreak exposes a weakened US public health system - Reuters",
-          "Cyclosporiasis outbreak exposes a weakened US public health system - Reuters",
-          "The behind-the-scenes effort to contain the nation’s worst ongoing measles outbreak - The Washington Post"
-        ]
-      },
-      {
-        "trend": "measles",
-        "market_code": "FI",
-        "category": "Outbreaks",
-        "score": 13,
+        "score": 15,
         "examples": [
           "The behind-the-scenes effort to contain the nation’s worst ongoing measles outbreak - The Washington Post",
-          "SAFETY ALERT: Georgia measles outbreak spreads to 4 more cases - wrdw.com",
-          "Wisconsin health officials urge measles vaccination as school year begins - Hawaii News Now"
+          "The behind-the-scenes effort to contain the nation’s worst ongoing measles outbreak - The Washington Post",
+          "Cyclosporiasis outbreak exposes a weakened US public health system - reuters.com"
         ]
       },
       {
         "trend": "virus",
         "market_code": "FI",
         "category": "Outbreaks",
-        "score": 12,
+        "score": 14,
         "examples": [
+          "Lubbock Public Health confirms first human case of West Nile virus for 2026 - KCBD",
           "Mecklenburg Public Health responds to West Nile Virus cases, anticipates more - Charlotte Observer",
-          "Atlantic City, NJ, Health Alert: Mosquitoes Test Positive West Nile Virus - WPG Talk Radio 95.5 FM",
-          "County Urges Protection Against Mosquitoes to Prevent West Nile Virus Exposure - San Diego County News Center"
+          "SAFETY ALERT: West Nile virus detected in Fort Gordon mosquitoes - wrdw.com"
         ]
       },
       {
         "trend": "nile virus",
         "market_code": "FI",
         "category": "Outbreaks",
-        "score": 10,
+        "score": 12,
         "examples": [
+          "Lubbock Public Health confirms first human case of West Nile virus for 2026 - KCBD",
           "Mecklenburg Public Health responds to West Nile Virus cases, anticipates more - Charlotte Observer",
-          "Atlantic City, NJ, Health Alert: Mosquitoes Test Positive West Nile Virus - WPG Talk Radio 95.5 FM",
-          "County Urges Protection Against Mosquitoes to Prevent West Nile Virus Exposure - San Diego County News Center"
+          "SAFETY ALERT: West Nile virus detected in Fort Gordon mosquitoes - wrdw.com"
         ]
       },
       {
         "trend": "west nile virus",
         "market_code": "FI",
         "category": "Outbreaks",
-        "score": 10,
+        "score": 12,
         "examples": [
+          "Lubbock Public Health confirms first human case of West Nile virus for 2026 - KCBD",
           "Mecklenburg Public Health responds to West Nile Virus cases, anticipates more - Charlotte Observer",
-          "Atlantic City, NJ, Health Alert: Mosquitoes Test Positive West Nile Virus - WPG Talk Radio 95.5 FM",
-          "County Urges Protection Against Mosquitoes to Prevent West Nile Virus Exposure - San Diego County News Center"
+          "SAFETY ALERT: West Nile virus detected in Fort Gordon mosquitoes - wrdw.com"
+        ]
+      },
+      {
+        "trend": "measles",
+        "market_code": "FI",
+        "category": "Outbreaks",
+        "score": 11,
+        "examples": [
+          "The behind-the-scenes effort to contain the nation’s worst ongoing measles outbreak - The Washington Post",
+          "DPH Confirms Additional Measles Cases in Georgia - Georgia Coastal Health District",
+          "The behind-the-scenes effort to contain the nation’s worst ongoing measles outbreak - The Washington Post"
         ]
       },
       {
@@ -1158,7 +1158,7 @@
         "category": "Europe Health",
         "score": 10,
         "examples": [
-          "The future of AI in healthcare: Moving from hype to business value | Viewpoint - rbj.net",
+          "The future of AI in healthcare: Moving from hype to business value | Viewpoint - Rochester Business Journal",
           "OpenEvidence deepens oncology push, launches new AI model family - Fierce Healthcare",
           "AI Tracker: Mount Sinai, Denver Health join new AI coalition - Modern Healthcare News"
         ]
@@ -1167,33 +1167,11 @@
         "trend": "public health",
         "market_code": "FI",
         "category": "Europe Health",
-        "score": 9,
+        "score": 8,
         "examples": [
+          "Cyclosporiasis outbreak exposes a weakened US public health system - reuters.com",
           "Gifting public health on the playa at Burning Man - University of Nevada, Reno",
-          "Cyclosporiasis outbreak exposes a weakened US public health system - Reuters",
-          "Gifting public health on the playa at Burning Man - University of Nevada, Reno"
-        ]
-      },
-      {
-        "trend": "mental",
-        "market_code": "FI",
-        "category": "Mental Health",
-        "score": 8,
-        "examples": [
-          "Richmond Police Officer Shot During Mental Health Crisis Call - KQED",
-          "Community Mental Health: Virtual Information Session | November 17 - New England College",
-          "CT offers mental health resources for kids. Here’s what to know - CT Mirror"
-        ]
-      },
-      {
-        "trend": "mental health",
-        "market_code": "FI",
-        "category": "Mental Health",
-        "score": 8,
-        "examples": [
-          "Richmond Police Officer Shot During Mental Health Crisis Call - KQED",
-          "Community Mental Health: Virtual Information Session | November 17 - New England College",
-          "CT offers mental health resources for kids. Here’s what to know - CT Mirror"
+          "Lubbock Public Health confirms first human case of West Nile virus for 2026 - KCBD"
         ]
       },
       {
@@ -1202,9 +1180,31 @@
         "category": "Europe Health",
         "score": 7,
         "examples": [
-          "Grant supports evaluation of California’s traditional health care practices benefit - news.ucr.edu",
-          "At least 5 other states join Mass. in covering transgender kids’ health care under Medicaid - WGBH",
-          "Grant supports evaluation of California’s traditional health care practices benefit - news.ucr.edu"
+          "Grant supports evaluation of California’s traditional health care practices benefit - University of California, Riverside",
+          "Grant supports evaluation of California’s traditional health care practices benefit - University of California, Riverside",
+          "Key moments in the Lindsay Clancy case: the 911 call, mental health care, mistrial - The Seattle Times"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "FI",
+        "category": "Mental Health",
+        "score": 7,
+        "examples": [
+          "Islamic Center shooter’s parents suing mental health provider for negligence, wrongful death - KPBS",
+          "Mental health counselor offers support for families during extended deployments - ABC11 News",
+          "OB-GYN on maternal mental health after mistrial declared in Lindsay Clancy case - NBC Los Angeles"
+        ]
+      },
+      {
+        "trend": "mental health",
+        "market_code": "FI",
+        "category": "Mental Health",
+        "score": 7,
+        "examples": [
+          "Islamic Center shooter’s parents suing mental health provider for negligence, wrongful death - KPBS",
+          "Mental health counselor offers support for families during extended deployments - ABC11 News",
+          "OB-GYN on maternal mental health after mistrial declared in Lindsay Clancy case - NBC Los Angeles"
         ]
       }
     ],
@@ -1216,18 +1216,18 @@
         "score": 80,
         "examples": [
           "Survey: Health benefit costs expected to jump 8.2% in 2027, the biggest increase since 2003 - mercer.com",
-          "Employer and worker health plan costs expected to jump in 2027 - CBS News",
-          "Join The CHAT: Clemson Health Advancement Talks - news.clemson.edu"
+          "'The health system in Nepal is not prepared for this' - npr.org",
+          "Superheroes Health Fair helps El Paso families start the school year healthy - elpasomatters.org"
         ]
       },
       {
         "trend": "medical",
         "market_code": "NO",
         "category": "Europe Health",
-        "score": 25,
+        "score": 21,
         "examples": [
           "Nebraska Supreme Court upholds validity of state medical cannabis laws - Nebraska Examiner",
-          "HHS Awards More Than $11 Million to Expand Medical Residencies in Rural and Tribal Communities - HHS.gov",
+          "Banner-gate: Adirondack Medical Center Nurses Replace Missing Banners, Keep Up Fight for Fair Contracts - New York State Nurses Association",
           "National call to action needed to strengthen primary care pipeline in medical education, argue experts - Medical Xpress"
         ]
       },
@@ -1235,55 +1235,55 @@
         "trend": "outbreak",
         "market_code": "NO",
         "category": "Outbreaks",
-        "score": 14,
-        "examples": [
-          "Cyclosporiasis outbreak exposes a weakened US public health system - Reuters",
-          "Cyclosporiasis outbreak exposes a weakened US public health system - Reuters",
-          "The behind-the-scenes effort to contain the nation’s worst ongoing measles outbreak - The Washington Post"
-        ]
-      },
-      {
-        "trend": "measles",
-        "market_code": "NO",
-        "category": "Outbreaks",
-        "score": 13,
+        "score": 15,
         "examples": [
           "The behind-the-scenes effort to contain the nation’s worst ongoing measles outbreak - The Washington Post",
-          "SAFETY ALERT: Georgia measles outbreak spreads to 4 more cases - wrdw.com",
-          "Wisconsin health officials urge measles vaccination as school year begins - Hawaii News Now"
+          "The behind-the-scenes effort to contain the nation’s worst ongoing measles outbreak - The Washington Post",
+          "Cyclosporiasis outbreak exposes a weakened US public health system - reuters.com"
         ]
       },
       {
         "trend": "virus",
         "market_code": "NO",
         "category": "Outbreaks",
-        "score": 12,
+        "score": 14,
         "examples": [
+          "Lubbock Public Health confirms first human case of West Nile virus for 2026 - KCBD",
           "Mecklenburg Public Health responds to West Nile Virus cases, anticipates more - Charlotte Observer",
-          "Atlantic City, NJ, Health Alert: Mosquitoes Test Positive West Nile Virus - WPG Talk Radio 95.5 FM",
-          "County Urges Protection Against Mosquitoes to Prevent West Nile Virus Exposure - San Diego County News Center"
+          "SAFETY ALERT: West Nile virus detected in Fort Gordon mosquitoes - wrdw.com"
         ]
       },
       {
         "trend": "nile virus",
         "market_code": "NO",
         "category": "Outbreaks",
-        "score": 10,
+        "score": 12,
         "examples": [
+          "Lubbock Public Health confirms first human case of West Nile virus for 2026 - KCBD",
           "Mecklenburg Public Health responds to West Nile Virus cases, anticipates more - Charlotte Observer",
-          "Atlantic City, NJ, Health Alert: Mosquitoes Test Positive West Nile Virus - WPG Talk Radio 95.5 FM",
-          "County Urges Protection Against Mosquitoes to Prevent West Nile Virus Exposure - San Diego County News Center"
+          "SAFETY ALERT: West Nile virus detected in Fort Gordon mosquitoes - wrdw.com"
         ]
       },
       {
         "trend": "west nile virus",
         "market_code": "NO",
         "category": "Outbreaks",
-        "score": 10,
+        "score": 12,
         "examples": [
+          "Lubbock Public Health confirms first human case of West Nile virus for 2026 - KCBD",
           "Mecklenburg Public Health responds to West Nile Virus cases, anticipates more - Charlotte Observer",
-          "Atlantic City, NJ, Health Alert: Mosquitoes Test Positive West Nile Virus - WPG Talk Radio 95.5 FM",
-          "County Urges Protection Against Mosquitoes to Prevent West Nile Virus Exposure - San Diego County News Center"
+          "SAFETY ALERT: West Nile virus detected in Fort Gordon mosquitoes - wrdw.com"
+        ]
+      },
+      {
+        "trend": "measles",
+        "market_code": "NO",
+        "category": "Outbreaks",
+        "score": 11,
+        "examples": [
+          "The behind-the-scenes effort to contain the nation’s worst ongoing measles outbreak - The Washington Post",
+          "DPH Confirms Additional Measles Cases in Georgia - Georgia Coastal Health District",
+          "The behind-the-scenes effort to contain the nation’s worst ongoing measles outbreak - The Washington Post"
         ]
       },
       {
@@ -1292,7 +1292,7 @@
         "category": "Europe Health",
         "score": 10,
         "examples": [
-          "The future of AI in healthcare: Moving from hype to business value | Viewpoint - rbj.net",
+          "The future of AI in healthcare: Moving from hype to business value | Viewpoint - Rochester Business Journal",
           "OpenEvidence deepens oncology push, launches new AI model family - Fierce Healthcare",
           "AI Tracker: Mount Sinai, Denver Health join new AI coalition - Modern Healthcare News"
         ]
@@ -1301,33 +1301,11 @@
         "trend": "public health",
         "market_code": "NO",
         "category": "Europe Health",
-        "score": 9,
+        "score": 8,
         "examples": [
+          "Cyclosporiasis outbreak exposes a weakened US public health system - reuters.com",
           "Gifting public health on the playa at Burning Man - University of Nevada, Reno",
-          "Cyclosporiasis outbreak exposes a weakened US public health system - Reuters",
-          "Gifting public health on the playa at Burning Man - University of Nevada, Reno"
-        ]
-      },
-      {
-        "trend": "mental",
-        "market_code": "NO",
-        "category": "Mental Health",
-        "score": 8,
-        "examples": [
-          "Richmond Police Officer Shot During Mental Health Crisis Call - KQED",
-          "Community Mental Health: Virtual Information Session | November 17 - New England College",
-          "CT offers mental health resources for kids. Here’s what to know - CT Mirror"
-        ]
-      },
-      {
-        "trend": "mental health",
-        "market_code": "NO",
-        "category": "Mental Health",
-        "score": 8,
-        "examples": [
-          "Richmond Police Officer Shot During Mental Health Crisis Call - KQED",
-          "Community Mental Health: Virtual Information Session | November 17 - New England College",
-          "CT offers mental health resources for kids. Here’s what to know - CT Mirror"
+          "Lubbock Public Health confirms first human case of West Nile virus for 2026 - KCBD"
         ]
       },
       {
@@ -1336,9 +1314,31 @@
         "category": "Europe Health",
         "score": 7,
         "examples": [
-          "Grant supports evaluation of California’s traditional health care practices benefit - news.ucr.edu",
-          "At least 5 other states join Mass. in covering transgender kids’ health care under Medicaid - WGBH",
-          "Grant supports evaluation of California’s traditional health care practices benefit - news.ucr.edu"
+          "Grant supports evaluation of California’s traditional health care practices benefit - University of California, Riverside",
+          "Grant supports evaluation of California’s traditional health care practices benefit - University of California, Riverside",
+          "Key moments in the Lindsay Clancy case: the 911 call, mental health care, mistrial - The Seattle Times"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "NO",
+        "category": "Mental Health",
+        "score": 7,
+        "examples": [
+          "Islamic Center shooter’s parents suing mental health provider for negligence, wrongful death - KPBS",
+          "Mental health counselor offers support for families during extended deployments - ABC11 News",
+          "OB-GYN on maternal mental health after mistrial declared in Lindsay Clancy case - NBC Los Angeles"
+        ]
+      },
+      {
+        "trend": "mental health",
+        "market_code": "NO",
+        "category": "Mental Health",
+        "score": 7,
+        "examples": [
+          "Islamic Center shooter’s parents suing mental health provider for negligence, wrongful death - KPBS",
+          "Mental health counselor offers support for families during extended deployments - ABC11 News",
+          "OB-GYN on maternal mental health after mistrial declared in Lindsay Clancy case - NBC Los Angeles"
         ]
       }
     ],
@@ -1350,18 +1350,18 @@
         "score": 80,
         "examples": [
           "Survey: Health benefit costs expected to jump 8.2% in 2027, the biggest increase since 2003 - mercer.com",
-          "Employer and worker health plan costs expected to jump in 2027 - CBS News",
-          "Join The CHAT: Clemson Health Advancement Talks - news.clemson.edu"
+          "'The health system in Nepal is not prepared for this' - npr.org",
+          "Superheroes Health Fair helps El Paso families start the school year healthy - elpasomatters.org"
         ]
       },
       {
         "trend": "medical",
         "market_code": "JP",
         "category": "Asia Health",
-        "score": 25,
+        "score": 21,
         "examples": [
           "Nebraska Supreme Court upholds validity of state medical cannabis laws - Nebraska Examiner",
-          "HHS Awards More Than $11 Million to Expand Medical Residencies in Rural and Tribal Communities - HHS.gov",
+          "Banner-gate: Adirondack Medical Center Nurses Replace Missing Banners, Keep Up Fight for Fair Contracts - New York State Nurses Association",
           "National call to action needed to strengthen primary care pipeline in medical education, argue experts - Medical Xpress"
         ]
       },
@@ -1369,55 +1369,55 @@
         "trend": "outbreak",
         "market_code": "JP",
         "category": "Outbreaks",
-        "score": 14,
-        "examples": [
-          "Cyclosporiasis outbreak exposes a weakened US public health system - Reuters",
-          "Cyclosporiasis outbreak exposes a weakened US public health system - Reuters",
-          "The behind-the-scenes effort to contain the nation’s worst ongoing measles outbreak - The Washington Post"
-        ]
-      },
-      {
-        "trend": "measles",
-        "market_code": "JP",
-        "category": "Outbreaks",
-        "score": 13,
+        "score": 15,
         "examples": [
           "The behind-the-scenes effort to contain the nation’s worst ongoing measles outbreak - The Washington Post",
-          "SAFETY ALERT: Georgia measles outbreak spreads to 4 more cases - wrdw.com",
-          "Wisconsin health officials urge measles vaccination as school year begins - Hawaii News Now"
+          "The behind-the-scenes effort to contain the nation’s worst ongoing measles outbreak - The Washington Post",
+          "Cyclosporiasis outbreak exposes a weakened US public health system - reuters.com"
         ]
       },
       {
         "trend": "virus",
         "market_code": "JP",
         "category": "Outbreaks",
-        "score": 12,
+        "score": 14,
         "examples": [
+          "Lubbock Public Health confirms first human case of West Nile virus for 2026 - KCBD",
           "Mecklenburg Public Health responds to West Nile Virus cases, anticipates more - Charlotte Observer",
-          "Atlantic City, NJ, Health Alert: Mosquitoes Test Positive West Nile Virus - WPG Talk Radio 95.5 FM",
-          "County Urges Protection Against Mosquitoes to Prevent West Nile Virus Exposure - San Diego County News Center"
+          "SAFETY ALERT: West Nile virus detected in Fort Gordon mosquitoes - wrdw.com"
         ]
       },
       {
         "trend": "nile virus",
         "market_code": "JP",
         "category": "Outbreaks",
-        "score": 10,
+        "score": 12,
         "examples": [
+          "Lubbock Public Health confirms first human case of West Nile virus for 2026 - KCBD",
           "Mecklenburg Public Health responds to West Nile Virus cases, anticipates more - Charlotte Observer",
-          "Atlantic City, NJ, Health Alert: Mosquitoes Test Positive West Nile Virus - WPG Talk Radio 95.5 FM",
-          "County Urges Protection Against Mosquitoes to Prevent West Nile Virus Exposure - San Diego County News Center"
+          "SAFETY ALERT: West Nile virus detected in Fort Gordon mosquitoes - wrdw.com"
         ]
       },
       {
         "trend": "west nile virus",
         "market_code": "JP",
         "category": "Outbreaks",
-        "score": 10,
+        "score": 12,
         "examples": [
+          "Lubbock Public Health confirms first human case of West Nile virus for 2026 - KCBD",
           "Mecklenburg Public Health responds to West Nile Virus cases, anticipates more - Charlotte Observer",
-          "Atlantic City, NJ, Health Alert: Mosquitoes Test Positive West Nile Virus - WPG Talk Radio 95.5 FM",
-          "County Urges Protection Against Mosquitoes to Prevent West Nile Virus Exposure - San Diego County News Center"
+          "SAFETY ALERT: West Nile virus detected in Fort Gordon mosquitoes - wrdw.com"
+        ]
+      },
+      {
+        "trend": "measles",
+        "market_code": "JP",
+        "category": "Outbreaks",
+        "score": 11,
+        "examples": [
+          "The behind-the-scenes effort to contain the nation’s worst ongoing measles outbreak - The Washington Post",
+          "DPH Confirms Additional Measles Cases in Georgia - Georgia Coastal Health District",
+          "The behind-the-scenes effort to contain the nation’s worst ongoing measles outbreak - The Washington Post"
         ]
       },
       {
@@ -1426,7 +1426,7 @@
         "category": "Asia Health",
         "score": 10,
         "examples": [
-          "The future of AI in healthcare: Moving from hype to business value | Viewpoint - rbj.net",
+          "The future of AI in healthcare: Moving from hype to business value | Viewpoint - Rochester Business Journal",
           "OpenEvidence deepens oncology push, launches new AI model family - Fierce Healthcare",
           "AI Tracker: Mount Sinai, Denver Health join new AI coalition - Modern Healthcare News"
         ]
@@ -1435,33 +1435,11 @@
         "trend": "public health",
         "market_code": "JP",
         "category": "Asia Health",
-        "score": 9,
+        "score": 8,
         "examples": [
+          "Cyclosporiasis outbreak exposes a weakened US public health system - reuters.com",
           "Gifting public health on the playa at Burning Man - University of Nevada, Reno",
-          "Cyclosporiasis outbreak exposes a weakened US public health system - Reuters",
-          "Gifting public health on the playa at Burning Man - University of Nevada, Reno"
-        ]
-      },
-      {
-        "trend": "mental",
-        "market_code": "JP",
-        "category": "Mental Health",
-        "score": 8,
-        "examples": [
-          "Richmond Police Officer Shot During Mental Health Crisis Call - KQED",
-          "Community Mental Health: Virtual Information Session | November 17 - New England College",
-          "CT offers mental health resources for kids. Here’s what to know - CT Mirror"
-        ]
-      },
-      {
-        "trend": "mental health",
-        "market_code": "JP",
-        "category": "Mental Health",
-        "score": 8,
-        "examples": [
-          "Richmond Police Officer Shot During Mental Health Crisis Call - KQED",
-          "Community Mental Health: Virtual Information Session | November 17 - New England College",
-          "CT offers mental health resources for kids. Here’s what to know - CT Mirror"
+          "Lubbock Public Health confirms first human case of West Nile virus for 2026 - KCBD"
         ]
       },
       {
@@ -1470,9 +1448,31 @@
         "category": "Asia Health",
         "score": 7,
         "examples": [
-          "Grant supports evaluation of California’s traditional health care practices benefit - news.ucr.edu",
-          "At least 5 other states join Mass. in covering transgender kids’ health care under Medicaid - WGBH",
-          "Grant supports evaluation of California’s traditional health care practices benefit - news.ucr.edu"
+          "Grant supports evaluation of California’s traditional health care practices benefit - University of California, Riverside",
+          "Grant supports evaluation of California’s traditional health care practices benefit - University of California, Riverside",
+          "Key moments in the Lindsay Clancy case: the 911 call, mental health care, mistrial - The Seattle Times"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "JP",
+        "category": "Mental Health",
+        "score": 7,
+        "examples": [
+          "Islamic Center shooter’s parents suing mental health provider for negligence, wrongful death - KPBS",
+          "Mental health counselor offers support for families during extended deployments - ABC11 News",
+          "OB-GYN on maternal mental health after mistrial declared in Lindsay Clancy case - NBC Los Angeles"
+        ]
+      },
+      {
+        "trend": "mental health",
+        "market_code": "JP",
+        "category": "Mental Health",
+        "score": 7,
+        "examples": [
+          "Islamic Center shooter’s parents suing mental health provider for negligence, wrongful death - KPBS",
+          "Mental health counselor offers support for families during extended deployments - ABC11 News",
+          "OB-GYN on maternal mental health after mistrial declared in Lindsay Clancy case - NBC Los Angeles"
         ]
       }
     ],
@@ -1484,18 +1484,18 @@
         "score": 80,
         "examples": [
           "Survey: Health benefit costs expected to jump 8.2% in 2027, the biggest increase since 2003 - mercer.com",
-          "Employer and worker health plan costs expected to jump in 2027 - CBS News",
-          "Join The CHAT: Clemson Health Advancement Talks - news.clemson.edu"
+          "'The health system in Nepal is not prepared for this' - npr.org",
+          "Superheroes Health Fair helps El Paso families start the school year healthy - elpasomatters.org"
         ]
       },
       {
         "trend": "medical",
         "market_code": "CN",
         "category": "Asia Health",
-        "score": 25,
+        "score": 21,
         "examples": [
           "Nebraska Supreme Court upholds validity of state medical cannabis laws - Nebraska Examiner",
-          "HHS Awards More Than $11 Million to Expand Medical Residencies in Rural and Tribal Communities - HHS.gov",
+          "Banner-gate: Adirondack Medical Center Nurses Replace Missing Banners, Keep Up Fight for Fair Contracts - New York State Nurses Association",
           "National call to action needed to strengthen primary care pipeline in medical education, argue experts - Medical Xpress"
         ]
       },
@@ -1503,55 +1503,55 @@
         "trend": "outbreak",
         "market_code": "CN",
         "category": "Outbreaks",
-        "score": 14,
-        "examples": [
-          "Cyclosporiasis outbreak exposes a weakened US public health system - Reuters",
-          "Cyclosporiasis outbreak exposes a weakened US public health system - Reuters",
-          "The behind-the-scenes effort to contain the nation’s worst ongoing measles outbreak - The Washington Post"
-        ]
-      },
-      {
-        "trend": "measles",
-        "market_code": "CN",
-        "category": "Outbreaks",
-        "score": 13,
+        "score": 15,
         "examples": [
           "The behind-the-scenes effort to contain the nation’s worst ongoing measles outbreak - The Washington Post",
-          "SAFETY ALERT: Georgia measles outbreak spreads to 4 more cases - wrdw.com",
-          "Wisconsin health officials urge measles vaccination as school year begins - Hawaii News Now"
+          "The behind-the-scenes effort to contain the nation’s worst ongoing measles outbreak - The Washington Post",
+          "Cyclosporiasis outbreak exposes a weakened US public health system - reuters.com"
         ]
       },
       {
         "trend": "virus",
         "market_code": "CN",
         "category": "Outbreaks",
-        "score": 12,
+        "score": 14,
         "examples": [
+          "Lubbock Public Health confirms first human case of West Nile virus for 2026 - KCBD",
           "Mecklenburg Public Health responds to West Nile Virus cases, anticipates more - Charlotte Observer",
-          "Atlantic City, NJ, Health Alert: Mosquitoes Test Positive West Nile Virus - WPG Talk Radio 95.5 FM",
-          "County Urges Protection Against Mosquitoes to Prevent West Nile Virus Exposure - San Diego County News Center"
+          "SAFETY ALERT: West Nile virus detected in Fort Gordon mosquitoes - wrdw.com"
         ]
       },
       {
         "trend": "nile virus",
         "market_code": "CN",
         "category": "Outbreaks",
-        "score": 10,
+        "score": 12,
         "examples": [
+          "Lubbock Public Health confirms first human case of West Nile virus for 2026 - KCBD",
           "Mecklenburg Public Health responds to West Nile Virus cases, anticipates more - Charlotte Observer",
-          "Atlantic City, NJ, Health Alert: Mosquitoes Test Positive West Nile Virus - WPG Talk Radio 95.5 FM",
-          "County Urges Protection Against Mosquitoes to Prevent West Nile Virus Exposure - San Diego County News Center"
+          "SAFETY ALERT: West Nile virus detected in Fort Gordon mosquitoes - wrdw.com"
         ]
       },
       {
         "trend": "west nile virus",
         "market_code": "CN",
         "category": "Outbreaks",
-        "score": 10,
+        "score": 12,
         "examples": [
+          "Lubbock Public Health confirms first human case of West Nile virus for 2026 - KCBD",
           "Mecklenburg Public Health responds to West Nile Virus cases, anticipates more - Charlotte Observer",
-          "Atlantic City, NJ, Health Alert: Mosquitoes Test Positive West Nile Virus - WPG Talk Radio 95.5 FM",
-          "County Urges Protection Against Mosquitoes to Prevent West Nile Virus Exposure - San Diego County News Center"
+          "SAFETY ALERT: West Nile virus detected in Fort Gordon mosquitoes - wrdw.com"
+        ]
+      },
+      {
+        "trend": "measles",
+        "market_code": "CN",
+        "category": "Outbreaks",
+        "score": 11,
+        "examples": [
+          "The behind-the-scenes effort to contain the nation’s worst ongoing measles outbreak - The Washington Post",
+          "DPH Confirms Additional Measles Cases in Georgia - Georgia Coastal Health District",
+          "The behind-the-scenes effort to contain the nation’s worst ongoing measles outbreak - The Washington Post"
         ]
       },
       {
@@ -1560,7 +1560,7 @@
         "category": "Asia Health",
         "score": 10,
         "examples": [
-          "The future of AI in healthcare: Moving from hype to business value | Viewpoint - rbj.net",
+          "The future of AI in healthcare: Moving from hype to business value | Viewpoint - Rochester Business Journal",
           "OpenEvidence deepens oncology push, launches new AI model family - Fierce Healthcare",
           "AI Tracker: Mount Sinai, Denver Health join new AI coalition - Modern Healthcare News"
         ]
@@ -1569,33 +1569,11 @@
         "trend": "public health",
         "market_code": "CN",
         "category": "Asia Health",
-        "score": 9,
+        "score": 8,
         "examples": [
+          "Cyclosporiasis outbreak exposes a weakened US public health system - reuters.com",
           "Gifting public health on the playa at Burning Man - University of Nevada, Reno",
-          "Cyclosporiasis outbreak exposes a weakened US public health system - Reuters",
-          "Gifting public health on the playa at Burning Man - University of Nevada, Reno"
-        ]
-      },
-      {
-        "trend": "mental",
-        "market_code": "CN",
-        "category": "Mental Health",
-        "score": 8,
-        "examples": [
-          "Richmond Police Officer Shot During Mental Health Crisis Call - KQED",
-          "Community Mental Health: Virtual Information Session | November 17 - New England College",
-          "CT offers mental health resources for kids. Here’s what to know - CT Mirror"
-        ]
-      },
-      {
-        "trend": "mental health",
-        "market_code": "CN",
-        "category": "Mental Health",
-        "score": 8,
-        "examples": [
-          "Richmond Police Officer Shot During Mental Health Crisis Call - KQED",
-          "Community Mental Health: Virtual Information Session | November 17 - New England College",
-          "CT offers mental health resources for kids. Here’s what to know - CT Mirror"
+          "Lubbock Public Health confirms first human case of West Nile virus for 2026 - KCBD"
         ]
       },
       {
@@ -1604,9 +1582,31 @@
         "category": "Asia Health",
         "score": 7,
         "examples": [
-          "Grant supports evaluation of California’s traditional health care practices benefit - news.ucr.edu",
-          "At least 5 other states join Mass. in covering transgender kids’ health care under Medicaid - WGBH",
-          "Grant supports evaluation of California’s traditional health care practices benefit - news.ucr.edu"
+          "Grant supports evaluation of California’s traditional health care practices benefit - University of California, Riverside",
+          "Grant supports evaluation of California’s traditional health care practices benefit - University of California, Riverside",
+          "Key moments in the Lindsay Clancy case: the 911 call, mental health care, mistrial - The Seattle Times"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "CN",
+        "category": "Mental Health",
+        "score": 7,
+        "examples": [
+          "Islamic Center shooter’s parents suing mental health provider for negligence, wrongful death - KPBS",
+          "Mental health counselor offers support for families during extended deployments - ABC11 News",
+          "OB-GYN on maternal mental health after mistrial declared in Lindsay Clancy case - NBC Los Angeles"
+        ]
+      },
+      {
+        "trend": "mental health",
+        "market_code": "CN",
+        "category": "Mental Health",
+        "score": 7,
+        "examples": [
+          "Islamic Center shooter’s parents suing mental health provider for negligence, wrongful death - KPBS",
+          "Mental health counselor offers support for families during extended deployments - ABC11 News",
+          "OB-GYN on maternal mental health after mistrial declared in Lindsay Clancy case - NBC Los Angeles"
         ]
       }
     ],
@@ -1618,18 +1618,18 @@
         "score": 80,
         "examples": [
           "Survey: Health benefit costs expected to jump 8.2% in 2027, the biggest increase since 2003 - mercer.com",
-          "Employer and worker health plan costs expected to jump in 2027 - CBS News",
-          "Join The CHAT: Clemson Health Advancement Talks - news.clemson.edu"
+          "'The health system in Nepal is not prepared for this' - npr.org",
+          "Superheroes Health Fair helps El Paso families start the school year healthy - elpasomatters.org"
         ]
       },
       {
         "trend": "medical",
         "market_code": "KR",
         "category": "Asia Health",
-        "score": 25,
+        "score": 21,
         "examples": [
           "Nebraska Supreme Court upholds validity of state medical cannabis laws - Nebraska Examiner",
-          "HHS Awards More Than $11 Million to Expand Medical Residencies in Rural and Tribal Communities - HHS.gov",
+          "Banner-gate: Adirondack Medical Center Nurses Replace Missing Banners, Keep Up Fight for Fair Contracts - New York State Nurses Association",
           "National call to action needed to strengthen primary care pipeline in medical education, argue experts - Medical Xpress"
         ]
       },
@@ -1637,55 +1637,55 @@
         "trend": "outbreak",
         "market_code": "KR",
         "category": "Outbreaks",
-        "score": 14,
-        "examples": [
-          "Cyclosporiasis outbreak exposes a weakened US public health system - Reuters",
-          "Cyclosporiasis outbreak exposes a weakened US public health system - Reuters",
-          "The behind-the-scenes effort to contain the nation’s worst ongoing measles outbreak - The Washington Post"
-        ]
-      },
-      {
-        "trend": "measles",
-        "market_code": "KR",
-        "category": "Outbreaks",
-        "score": 13,
+        "score": 15,
         "examples": [
           "The behind-the-scenes effort to contain the nation’s worst ongoing measles outbreak - The Washington Post",
-          "SAFETY ALERT: Georgia measles outbreak spreads to 4 more cases - wrdw.com",
-          "Wisconsin health officials urge measles vaccination as school year begins - Hawaii News Now"
+          "The behind-the-scenes effort to contain the nation’s worst ongoing measles outbreak - The Washington Post",
+          "Cyclosporiasis outbreak exposes a weakened US public health system - reuters.com"
         ]
       },
       {
         "trend": "virus",
         "market_code": "KR",
         "category": "Outbreaks",
-        "score": 12,
+        "score": 14,
         "examples": [
+          "Lubbock Public Health confirms first human case of West Nile virus for 2026 - KCBD",
           "Mecklenburg Public Health responds to West Nile Virus cases, anticipates more - Charlotte Observer",
-          "Atlantic City, NJ, Health Alert: Mosquitoes Test Positive West Nile Virus - WPG Talk Radio 95.5 FM",
-          "County Urges Protection Against Mosquitoes to Prevent West Nile Virus Exposure - San Diego County News Center"
+          "SAFETY ALERT: West Nile virus detected in Fort Gordon mosquitoes - wrdw.com"
         ]
       },
       {
         "trend": "nile virus",
         "market_code": "KR",
         "category": "Outbreaks",
-        "score": 10,
+        "score": 12,
         "examples": [
+          "Lubbock Public Health confirms first human case of West Nile virus for 2026 - KCBD",
           "Mecklenburg Public Health responds to West Nile Virus cases, anticipates more - Charlotte Observer",
-          "Atlantic City, NJ, Health Alert: Mosquitoes Test Positive West Nile Virus - WPG Talk Radio 95.5 FM",
-          "County Urges Protection Against Mosquitoes to Prevent West Nile Virus Exposure - San Diego County News Center"
+          "SAFETY ALERT: West Nile virus detected in Fort Gordon mosquitoes - wrdw.com"
         ]
       },
       {
         "trend": "west nile virus",
         "market_code": "KR",
         "category": "Outbreaks",
-        "score": 10,
+        "score": 12,
         "examples": [
+          "Lubbock Public Health confirms first human case of West Nile virus for 2026 - KCBD",
           "Mecklenburg Public Health responds to West Nile Virus cases, anticipates more - Charlotte Observer",
-          "Atlantic City, NJ, Health Alert: Mosquitoes Test Positive West Nile Virus - WPG Talk Radio 95.5 FM",
-          "County Urges Protection Against Mosquitoes to Prevent West Nile Virus Exposure - San Diego County News Center"
+          "SAFETY ALERT: West Nile virus detected in Fort Gordon mosquitoes - wrdw.com"
+        ]
+      },
+      {
+        "trend": "measles",
+        "market_code": "KR",
+        "category": "Outbreaks",
+        "score": 11,
+        "examples": [
+          "The behind-the-scenes effort to contain the nation’s worst ongoing measles outbreak - The Washington Post",
+          "DPH Confirms Additional Measles Cases in Georgia - Georgia Coastal Health District",
+          "The behind-the-scenes effort to contain the nation’s worst ongoing measles outbreak - The Washington Post"
         ]
       },
       {
@@ -1694,7 +1694,7 @@
         "category": "Asia Health",
         "score": 10,
         "examples": [
-          "The future of AI in healthcare: Moving from hype to business value | Viewpoint - rbj.net",
+          "The future of AI in healthcare: Moving from hype to business value | Viewpoint - Rochester Business Journal",
           "OpenEvidence deepens oncology push, launches new AI model family - Fierce Healthcare",
           "AI Tracker: Mount Sinai, Denver Health join new AI coalition - Modern Healthcare News"
         ]
@@ -1703,33 +1703,11 @@
         "trend": "public health",
         "market_code": "KR",
         "category": "Asia Health",
-        "score": 9,
+        "score": 8,
         "examples": [
+          "Cyclosporiasis outbreak exposes a weakened US public health system - reuters.com",
           "Gifting public health on the playa at Burning Man - University of Nevada, Reno",
-          "Cyclosporiasis outbreak exposes a weakened US public health system - Reuters",
-          "Gifting public health on the playa at Burning Man - University of Nevada, Reno"
-        ]
-      },
-      {
-        "trend": "mental",
-        "market_code": "KR",
-        "category": "Mental Health",
-        "score": 8,
-        "examples": [
-          "Richmond Police Officer Shot During Mental Health Crisis Call - KQED",
-          "Community Mental Health: Virtual Information Session | November 17 - New England College",
-          "CT offers mental health resources for kids. Here’s what to know - CT Mirror"
-        ]
-      },
-      {
-        "trend": "mental health",
-        "market_code": "KR",
-        "category": "Mental Health",
-        "score": 8,
-        "examples": [
-          "Richmond Police Officer Shot During Mental Health Crisis Call - KQED",
-          "Community Mental Health: Virtual Information Session | November 17 - New England College",
-          "CT offers mental health resources for kids. Here’s what to know - CT Mirror"
+          "Lubbock Public Health confirms first human case of West Nile virus for 2026 - KCBD"
         ]
       },
       {
@@ -1738,9 +1716,31 @@
         "category": "Asia Health",
         "score": 7,
         "examples": [
-          "Grant supports evaluation of California’s traditional health care practices benefit - news.ucr.edu",
-          "At least 5 other states join Mass. in covering transgender kids’ health care under Medicaid - WGBH",
-          "Grant supports evaluation of California’s traditional health care practices benefit - news.ucr.edu"
+          "Grant supports evaluation of California’s traditional health care practices benefit - University of California, Riverside",
+          "Grant supports evaluation of California’s traditional health care practices benefit - University of California, Riverside",
+          "Key moments in the Lindsay Clancy case: the 911 call, mental health care, mistrial - The Seattle Times"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "KR",
+        "category": "Mental Health",
+        "score": 7,
+        "examples": [
+          "Islamic Center shooter’s parents suing mental health provider for negligence, wrongful death - KPBS",
+          "Mental health counselor offers support for families during extended deployments - ABC11 News",
+          "OB-GYN on maternal mental health after mistrial declared in Lindsay Clancy case - NBC Los Angeles"
+        ]
+      },
+      {
+        "trend": "mental health",
+        "market_code": "KR",
+        "category": "Mental Health",
+        "score": 7,
+        "examples": [
+          "Islamic Center shooter’s parents suing mental health provider for negligence, wrongful death - KPBS",
+          "Mental health counselor offers support for families during extended deployments - ABC11 News",
+          "OB-GYN on maternal mental health after mistrial declared in Lindsay Clancy case - NBC Los Angeles"
         ]
       }
     ],
@@ -1749,11 +1749,11 @@
         "trend": "health",
         "market_code": "IN",
         "category": "Asia Health",
-        "score": 67,
+        "score": 78,
         "examples": [
+          "Maharashtra Bill does not regulate private hospital treatment rates, says health right group - The Hindu",
           "Survey: Health benefit costs expected to jump 8.2% in 2027, the biggest increase since 2003 - mercer.com",
-          "Advancing digital health in low-middle-income countries: experiences from Armenia's health system digital transformations - Frontiers",
-          "Advancing digital health in low-middle-income countries: experiences from Armenia's health system digital transformations - Frontiers"
+          "'The health system in Nepal is not prepared for this' - NPR"
         ]
       },
       {
@@ -1762,19 +1762,19 @@
         "category": "Asia Health",
         "score": 20,
         "examples": [
+          "Medical interns meet Health Minister, refuse to end strike - Rising Kashmir",
           "Even in those days, Chennai’s medical facilities were on par with rest of the country - The Hindu",
-          "Executive Director's speech at Duke-NUS Medical School in Singapore - European Medicines Agency (EMA)",
-          "Cold Water Is Sufficient for Medical Handwashing - Medscape"
+          "Medical interns meet Health Minister, refuse to end strike - Rising Kashmir"
         ]
       },
       {
         "trend": "healthcare",
         "market_code": "IN",
         "category": "Asia Health",
-        "score": 14,
+        "score": 13,
         "examples": [
-          "Beauty pageant winner promotes healthcare awareness beyond hospitals - The Hindu",
-          "NSO Survey Highlights Significant Rise in Healthcare Access Across Country - News On AIR",
+          "NSO Survey Highlights Significant Rise in Healthcare Access Across Country - newsonair.gov.in",
+          "Korea, India outline healthcare AI strategies - Healthcare IT News",
           "Korea, India outline healthcare AI strategies - Healthcare IT News"
         ]
       },
@@ -1782,11 +1782,11 @@
         "trend": "outbreak",
         "market_code": "IN",
         "category": "Outbreaks",
-        "score": 11,
+        "score": 13,
         "examples": [
-          "Cyclosporiasis outbreak exposes a weakened US public health system - TradingView",
-          "Bangladesh: Measles outbreak claimed 9 more deaths during 24 hrs - News On AIR",
-          "The behind-the-scenes effort to contain the nation’s worst ongoing measles outbreak - washingtonpost.com"
+          "Cyclosporiasis outbreak exposes a weakened US public health system - Reuters",
+          "Health alert issued for Gaylord Pacific Resort after stomach bug parasite outbreak - Yahoo",
+          "Bangladesh: Measles outbreak claims 21 children in March | Akashvani News - newsonair.gov.in"
         ]
       },
       {
@@ -1804,31 +1804,53 @@
         "trend": "warning",
         "market_code": "IN",
         "category": "Asia Health",
-        "score": 8,
+        "score": 9,
         "examples": [
           "NYC Issues Silicosis Health Warning for Engineered Stone Work - Bloomberg Law News",
-          "Can Warning Labels On Social Media Protect Teenagers? - U.S. News & World Report",
-          "FDA Advisory No.2026-1014 || Public Health Warning Against the Purchase and Use of the Unregistered Drug Product “Anastrozole Tablets I.P. 1mg (Anashil®)” - Food and Drug Administration - fda.gov.ph"
+          "Toxic Algae Blooms Prompt Health Warning - KTVB",
+          "Can Warning Labels On Social Media Protect Teenagers? - U.S. News & World Report"
         ]
       },
       {
-        "trend": "drug",
+        "trend": "virus",
         "market_code": "IN",
-        "category": "Drug & Treatment News",
-        "score": 8,
+        "category": "Outbreaks",
+        "score": 9,
         "examples": [
-          "FDA Advisory No.2026-1014 || Public Health Warning Against the Purchase and Use of the Unregistered Drug Product “Anastrozole Tablets I.P. 1mg (Anashil®)” - Food and Drug Administration - fda.gov.ph",
-          "FDA Advisory No.2026-1014 || Public Health Warning Against the Purchase and Use of the Unregistered Drug Product “Anastrozole Tablets I.P. 1mg (Anashil®)” - Food and Drug Administration - fda.gov.ph",
-          "Grand Erie Public Health extends drug alert after spike in overdoses - chch.com"
+          "Ancient parchment reveals historical evolution of destructive sheeppox virus - News-Medical",
+          "Medieval manuscripts are \"biological time capsules\" for deadly sheeppox virus - Ars Technica",
+          "News - Sheep Pox Virus Tracked With Medieval Parchment - Archaeology Magazine"
+        ]
+      },
+      {
+        "trend": "health system",
+        "market_code": "IN",
+        "category": "Asia Health",
+        "score": 7,
+        "examples": [
+          "'The health system in Nepal is not prepared for this' - NPR",
+          "Advancing digital health in low-middle-income countries: experiences from Armenia's health system digital transformations - Frontiers",
+          "Advancing digital health in low-middle-income countries: experiences from Armenia's health system digital transformations - Frontiers"
+        ]
+      },
+      {
+        "trend": "measles",
+        "market_code": "IN",
+        "category": "Outbreaks",
+        "score": 7,
+        "examples": [
+          "The dangerous spread of measles stops with us - Public Health Insider",
+          "Bangladesh: Measles outbreak claims 21 children in March | Akashvani News - newsonair.gov.in",
+          "The behind-the-scenes effort to contain the nation’s worst ongoing measles outbreak - The Washington Post"
         ]
       },
       {
         "trend": "mental",
         "market_code": "IN",
         "category": "Mental Health",
-        "score": 8,
+        "score": 7,
         "examples": [
-          "Experts: Family ties key to mental health - The Times of India",
+          "Mental health warning labels prompt young people to limit screens - News-Medical",
           "The Silent Epidemic: Student suicides show mental health is a shared responsibility - Open Magazine",
           "Opinion | The youth mental health crisis is real. Meta’s social media restrictions could help — but won’t end it. - MS NOW"
         ]
@@ -1837,44 +1859,22 @@
         "trend": "mental health",
         "market_code": "IN",
         "category": "Mental Health",
-        "score": 8,
+        "score": 7,
         "examples": [
-          "Experts: Family ties key to mental health - The Times of India",
+          "Mental health warning labels prompt young people to limit screens - News-Medical",
           "The Silent Epidemic: Student suicides show mental health is a shared responsibility - Open Magazine",
           "Opinion | The youth mental health crisis is real. Meta’s social media restrictions could help — but won’t end it. - MS NOW"
         ]
       },
       {
-        "trend": "virus",
-        "market_code": "IN",
-        "category": "Outbreaks",
-        "score": 7,
-        "examples": [
-          "Ancient parchment reveals historical evolution of destructive sheeppox virus - News-Medical",
-          "Medieval manuscripts are \"biological time capsules\" for deadly sheeppox virus - Ars Technica",
-          "A mosquito that can transmit Zika has bred in London – but that doesn’t mean the virus is spreading in people there - theconversation.com"
-        ]
-      },
-      {
-        "trend": "digital health",
-        "market_code": "IN",
-        "category": "Medical Technology",
-        "score": 6,
-        "examples": [
-          "Advancing digital health in low-middle-income countries: experiences from Armenia's health system digital transformations - Frontiers",
-          "The Digital Health Revolution Has a People Problem - Medscape",
-          "Advancing digital health in low-middle-income countries: experiences from Armenia's health system digital transformations - Frontiers"
-        ]
-      },
-      {
-        "trend": "public health",
+        "trend": "hospital",
         "market_code": "IN",
         "category": "Asia Health",
         "score": 6,
         "examples": [
-          "Waste-to-energy plants threatening public health: Study - Deccan Herald",
-          "India, Netherlands discuss public health and explore avenues of cooperation - FM Bharat",
-          "Cyclosporiasis outbreak exposes a weakened US public health system - TradingView"
+          "Maharashtra Bill does not regulate private hospital treatment rates, says health right group - The Hindu",
+          "Maharashtra Bill does not regulate private hospital treatment rates, says health right group - The Hindu",
+          "135 doctors fall ill in salmonella outbreak at Mexico City General Hospital - UA.NEWS"
         ]
       }
     ],
@@ -1883,7 +1883,7 @@
         "trend": "health",
         "market_code": "AU",
         "category": "Global Health",
-        "score": 72,
+        "score": 73,
         "examples": [
           "TV interview with Assistant Minister White, Afternoon Agenda – 4 September 2026 - Australian Government Department of Health, Disability and Ageing",
           "The Beckham-approved health reset to feel 10 years younger - The Australian",
@@ -1898,40 +1898,29 @@
         "examples": [
           "UNSW experts awarded Eureka Prizes for sustainability and medical research - UNSW Sydney",
           "Repeated attacks on humanitarian warehouses put vital medical aid at risk in Ukraine: WHO - UN News",
-          "National call to action needed to strengthen primary care pipeline in medical education, argue experts - Medical Xpress"
+          "Medical professionals, those with chronic pain gather for talk on suffering - TheCatholicSpirit.com"
         ]
       },
       {
         "trend": "mental",
         "market_code": "AU",
         "category": "Mental Health",
-        "score": 10,
+        "score": 9,
         "examples": [
-          "No smartphone until 14 improves mental health: study - The Canberra Times",
-          "1 in 5 workers suffering a mental health injury - Australian Unions",
-          "1 in 5 workers suffering a mental health injury - Australian Unions"
-        ]
-      },
-      {
-        "trend": "mental health",
-        "market_code": "AU",
-        "category": "Mental Health",
-        "score": 10,
-        "examples": [
-          "No smartphone until 14 improves mental health: study - The Canberra Times",
-          "1 in 5 workers suffering a mental health injury - Australian Unions",
-          "1 in 5 workers suffering a mental health injury - Australian Unions"
+          "Regional patients cannot wait: time to fix Ballarat's mental health system - The Courier | Ballarat, VIC",
+          "Regional patients cannot wait: time to fix Ballarat's mental health system - The Courier | Ballarat, VIC",
+          "Mental health program offers early intervention - Times News Group"
         ]
       },
       {
         "trend": "outbreak",
         "market_code": "AU",
         "category": "Outbreaks",
-        "score": 10,
+        "score": 9,
         "examples": [
-          "Cyclospora Outbreak 2026: FAQs for Consumers - International Fresh Produce Association",
-          "Deadly horse disease outbreak confirmed in Galloway - Yahoo News Australia",
-          "Amid Ebola outbreak, DR Congo faces other urgent health needs - Doctors Without Borders"
+          "Health alert issued for Gaylord Pacific Resort after stomach bug parasite outbreak - Yahoo",
+          "The behind-the-scenes effort to contain the nation’s worst ongoing measles outbreak - washingtonpost.com",
+          "Cyclospora Outbreak 2026: FAQs for Consumers - International Fresh Produce Association"
         ]
       },
       {
@@ -1940,20 +1929,20 @@
         "category": "Outbreaks",
         "score": 9,
         "examples": [
-          "Atlantic City, NJ, Health Alert: Mosquitoes Test Positive West Nile Virus - WPG Talk Radio 95.5 FM",
-          "A mosquito that can transmit Zika has bred in London – but that doesn’t mean the virus is spreading in people there - The Conversation",
-          "News - Sheep Pox Virus Tracked With Medieval Parchment - archaeology.org"
+          "SAFETY ALERT: West Nile virus detected in Fort Gordon mosquitoes - WRDW",
+          "News - Sheep Pox Virus Tracked With Medieval Parchment - Archaeology Magazine",
+          "This virus has evolved. Australia doesn't have a new vaccine - SBS"
         ]
       },
       {
-        "trend": "cancer",
+        "trend": "mental health",
         "market_code": "AU",
-        "category": "Chronic Disease",
-        "score": 9,
+        "category": "Mental Health",
+        "score": 8,
         "examples": [
-          "Time is running out for teenage cancer patient, but 'sliver of hope' on horizon - ABC News & Headlines – Australian Broadcasting Corporation",
-          "UCSF Drug Revolutionizes Pancreatic Cancer Care - Mirage News",
-          "Smart drugs can now spot the chinks in cancer’s armour - Al Majalla"
+          "Regional patients cannot wait: time to fix Ballarat's mental health system - The Courier | Ballarat, VIC",
+          "Regional patients cannot wait: time to fix Ballarat's mental health system - The Courier | Ballarat, VIC",
+          "Mental health program offers early intervention - Times News Group"
         ]
       },
       {
@@ -1962,53 +1951,64 @@
         "category": "Global Health",
         "score": 8,
         "examples": [
-          "NYC Issues Silicosis Health Warning for Engineered Stone Work - news.bloomberglaw.com",
-          "Can Warning Labels On Social Media Protect Teenagers? - U.S. News & World Report",
-          "‘Don’t ignore the warning signs’: A message pays off in Nigeria - CNN"
+          "NYC Issues Silicosis Health Warning for Engineered Stone Work - Bloomberg Law News",
+          "Toxic Algae Blooms Prompt Health Warning - KTVB",
+          "Can Warning Labels On Social Media Protect Teenagers? - U.S. News & World Report"
         ]
       },
       {
-        "trend": "healthcare",
+        "trend": "cancer",
         "market_code": "AU",
-        "category": "Global Health",
+        "category": "Chronic Disease",
         "score": 8,
         "examples": [
-          "Health professionals FAQ for Medicare Mental Health Check In - Hospital + Healthcare",
-          "Top 3 Australian AI Healthcare Stocks To Watch In September 2026 - simplywall.st",
-          "Korea, India outline healthcare AI strategies - Healthcare IT News"
-        ]
-      },
-      {
-        "trend": "drug",
-        "market_code": "AU",
-        "category": "Drug & Treatment News",
-        "score": 7,
-        "examples": [
-          "FDA Advisory No.2026-1014 || Public Health Warning Against the Purchase and Use of the Unregistered Drug Product “Anastrozole Tablets I.P. 1mg (Anashil®)” - Food and Drug Administration - fda.gov.ph",
-          "FDA Advisory No.2026-1014 || Public Health Warning Against the Purchase and Use of the Unregistered Drug Product “Anastrozole Tablets I.P. 1mg (Anashil®)” - Food and Drug Administration - fda.gov.ph",
-          "Grand Erie Public Health extends drug alert after spike in overdoses - CHCH"
-        ]
-      },
-      {
-        "trend": "health care",
-        "market_code": "AU",
-        "category": "Global Health",
-        "score": 6,
-        "examples": [
-          "The PNEP: a missed opportunity to improve private health care? - Health Services Daily",
-          "The PNEP: a missed opportunity to improve private health care? - Health Services Daily",
-          "MiSalud Health Launches Whole-Woman Health Care for Bilingual Front-Line Workers - Business Wire"
+          "Time is running out for teenage cancer patient, but 'sliver of hope' on horizon - ABC News & Headlines – Australian Broadcasting Corporation",
+          "UCSF Drug Revolutionizes Pancreatic Cancer Care - Mirage News",
+          "Smart drugs can now spot the chinks in cancer’s armour - Al Majalla"
         ]
       },
       {
         "trend": "patients",
         "market_code": "AU",
         "category": "Global Health",
-        "score": 6,
+        "score": 7,
         "examples": [
-          "Scientists discover new tick-borne virus after testing thousands of patients with mysterious illnesses - Fox News",
-          "FDA pilot offers generative AI medical devices a path to patients before they are authorized - STAT",
-          "Cardiologist referrals improve cholesterol levels in prostate cancer patients, but may not be necessary for all - Medical Xpress"
+          "Regional patients cannot wait: time to fix Ballarat's mental health system - The Courier | Ballarat, VIC",
+          "Regional patients cannot wait: time to fix Ballarat's mental health system - The Courier | Ballarat, VIC",
+          "FDA pilot offers generative AI medical devices a path to patients before they are authorized - STAT"
+        ]
+      },
+      {
+        "trend": "measles",
+        "market_code": "AU",
+        "category": "Outbreaks",
+        "score": 7,
+        "examples": [
+          "The dangerous spread of measles stops with us - Public Health Insider",
+          "The behind-the-scenes effort to contain the nation’s worst ongoing measles outbreak - washingtonpost.com",
+          "Six-week-old child in Pennsylvania dies from measles, coroner says - The Guardian"
+        ]
+      },
+      {
+        "trend": "infection",
+        "market_code": "AU",
+        "category": "Outbreaks",
+        "score": 7,
+        "examples": [
+          "Maiduguri Residents Suffer Rising Cases Of Apollo Infection #trusttvnews #Conjunctivitis #Maiduguri #Borno #Apollo - instagram.com",
+          "Child who caught bacterial infection at petting zoo dies - Nine.com.au",
+          "‘Deadliest Catch’ Cameraman Forced to Leave Boat After Serious Infection at Sea: ‘I’ve Met My Match’ - People.com"
+        ]
+      },
+      {
+        "trend": "healthcare",
+        "market_code": "AU",
+        "category": "Global Health",
+        "score": 7,
+        "examples": [
+          "Top 3 Australian AI Healthcare Stocks To Watch In September 2026 - simplywall.st",
+          "Korea, India outline healthcare AI strategies - Healthcare IT News",
+          "Korea, India outline healthcare AI strategies - Healthcare IT News"
         ]
       }
     ],
@@ -2017,76 +2017,65 @@
         "trend": "health",
         "market_code": "CA",
         "category": "Global Health",
-        "score": 73,
+        "score": 69,
         "examples": [
-          "Beginning construction on mental-health, substance-use treatment facility in Surrey - Fraser Health",
-          "Applications Open for Community Addictions Prevention and Mental Health Promotion Grant Program - Government of Newfoundland and Labrador",
-          "Survey: Health benefit costs expected to jump 8.2% in 2027, the biggest increase since 2003 - mercer.com"
+          "Lack of attention given to ‘profound’ mental health challenges among Indigenous men, says advocacy campaign - Ha-Shilth-Sa Newspaper",
+          "Survey: Health benefit costs expected to jump 8.2% in 2027, the biggest increase since 2003 - mercer.com",
+          "Applications Open for Community Addictions Prevention and Mental Health Promotion Grant Program - Government of Newfoundland and Labrador"
         ]
       },
       {
         "trend": "medical",
         "market_code": "CA",
         "category": "Global Health",
-        "score": 21,
+        "score": 22,
         "examples": [
-          "Repeated attacks on humanitarian warehouses put vital medical aid at risk in Ukraine: WHO - news.un.org",
-          "National call to action needed to strengthen primary care pipeline in medical education, argue experts - Medical Xpress",
-          "National call to action needed to strengthen primary care pipeline in medical education, argue experts - Medical Xpress"
-        ]
-      },
-      {
-        "trend": "mental",
-        "market_code": "CA",
-        "category": "Mental Health",
-        "score": 11,
-        "examples": [
-          "Applications Open for Community Addictions Prevention and Mental Health Promotion Grant Program - Government of Newfoundland and Labrador",
-          "Ontario doctors urge families to focus on vaccines, safety and mental health as students return to class - Kingston Whig",
-          "Applications Open for Community Addictions Prevention and Mental Health Promotion Grant Program - Government of Newfoundland and Labrador"
-        ]
-      },
-      {
-        "trend": "mental health",
-        "market_code": "CA",
-        "category": "Mental Health",
-        "score": 10,
-        "examples": [
-          "Applications Open for Community Addictions Prevention and Mental Health Promotion Grant Program - Government of Newfoundland and Labrador",
-          "Ontario doctors urge families to focus on vaccines, safety and mental health as students return to class - Kingston Whig",
-          "Applications Open for Community Addictions Prevention and Mental Health Promotion Grant Program - Government of Newfoundland and Labrador"
-        ]
-      },
-      {
-        "trend": "health care",
-        "market_code": "CA",
-        "category": "Global Health",
-        "score": 10,
-        "examples": [
-          "Alberta thinks it has a health care fix. Ottawa, as always, is skeptical - National Post",
-          "Alberta health minister to visit Japan, South Korea to strengthen preventative health care - CHAT News Today",
-          "Alberta thinks it has a health care fix. Ottawa, as always, is skeptical - National Post"
-        ]
-      },
-      {
-        "trend": "drug",
-        "market_code": "CA",
-        "category": "Drug & Treatment News",
-        "score": 10,
-        "examples": [
-          "Grand Erie Public Health extends drug alert after spike in overdoses - CHCH",
-          "Public health advisory issued over discovery of new benzodiazepine in drug seizure - The Spec",
-          "Highly potent illicit drug related to Xanax triggers health advisory - Cabin Radio"
+          "Pitching in: Medical student turns health struggles into non-profit for youth facing homelessness - The Globe and Mail",
+          "Medical emergency forces closure of major Vancouver SkyTrain station - Vancouver Is Awesome",
+          "Inspire Medical Systems (INSP): Buy, Sell, or Hold Post Q2 Earnings? - Yahoo! Finance Canada"
         ]
       },
       {
         "trend": "outbreak",
         "market_code": "CA",
         "category": "Outbreaks",
-        "score": 10,
+        "score": 13,
         "examples": [
-          "Cyclospora Outbreak 2026: FAQs for Consumers - International Fresh Produce Association",
-          "Deadly horse disease outbreak confirmed in Galloway - ca.news.yahoo.com",
+          "The behind-the-scenes effort to contain the nation’s worst ongoing measles outbreak - The Washington Post",
+          "Health alert issued for Gaylord Pacific Resort after stomach bug parasite outbreak - Yahoo",
+          "The behind-the-scenes effort to contain the nation’s worst ongoing measles outbreak - The Washington Post"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "CA",
+        "category": "Mental Health",
+        "score": 8,
+        "examples": [
+          "Lack of attention given to ‘profound’ mental health challenges among Indigenous men, says advocacy campaign - Ha-Shilth-Sa Newspaper",
+          "Applications Open for Community Addictions Prevention and Mental Health Promotion Grant Program - Government of Newfoundland and Labrador",
+          "Applications Open for Community Addictions Prevention and Mental Health Promotion Grant Program - Government of Newfoundland and Labrador"
+        ]
+      },
+      {
+        "trend": "healthcare",
+        "market_code": "CA",
+        "category": "Global Health",
+        "score": 8,
+        "examples": [
+          "Canada invites 3,500 Healthcare and Social Services workers to apply for permanent residence - CIC News",
+          "3 Canadian AI Healthcare Stocks With Market Caps Up To $345 Million - simplywall.st",
+          "3 Canadian AI Healthcare Stocks With Market Caps Up To $345 Million - simplywall.st"
+        ]
+      },
+      {
+        "trend": "measles",
+        "market_code": "CA",
+        "category": "Outbreaks",
+        "score": 8,
+        "examples": [
+          "Ontario town copes with measles scare after potential exposures - INsauga",
+          "The behind-the-scenes effort to contain the nation’s worst ongoing measles outbreak - The Washington Post",
           "The behind-the-scenes effort to contain the nation’s worst ongoing measles outbreak - The Washington Post"
         ]
       },
@@ -2096,9 +2085,9 @@
         "category": "Outbreaks",
         "score": 8,
         "examples": [
-          "Atlantic City, NJ, Health Alert: Mosquitoes Test Positive West Nile Virus - WPG Talk Radio 95.5 FM",
-          "Medieval manuscripts are \"biological time capsules\" for deadly sheeppox virus - Ars Technica",
-          "Five-year-old horse tested positive for West Nile Virus - North Bay Nugget"
+          "SAFETY ALERT: West Nile virus detected in Fort Gordon mosquitoes - WRDW",
+          "News - Sheep Pox Virus Tracked With Medieval Parchment - Archaeology Magazine",
+          "Medieval manuscripts are \"biological time capsules\" for deadly sheeppox virus - Ars Technica"
         ]
       },
       {
@@ -2107,42 +2096,53 @@
         "category": "Chronic Disease",
         "score": 8,
         "examples": [
-          "ICR welcomes FDA approval of ‘cancer-bursting’ virus to treat melanoma - The Institute of Cancer Research (ICR)",
           "Merck and Moderna’s cancer vaccine is customized for each patient’s tumor - drugdiscoverytrends.com",
-          "Pioneering cancer fighter sees promise beyond melanoma breakthrough - Harvard Gazette"
+          "Pioneering cancer fighter sees promise beyond melanoma breakthrough - Harvard Gazette",
+          "Smart drugs can now spot the chinks in cancer’s armour - Al Majalla"
         ]
       },
       {
-        "trend": "healthcare",
+        "trend": "infection",
         "market_code": "CA",
-        "category": "Global Health",
+        "category": "Outbreaks",
         "score": 7,
         "examples": [
-          "Canada invites 3,500 Healthcare and Social Services workers to apply for permanent residence - CIC News",
-          "The future of AI in healthcare: Moving from hype to business value | Viewpoint - Rochester Business Journal",
-          "OpenEvidence deepens oncology push, launches new AI model family - Fierce Healthcare"
+          "Maiduguri Residents Suffer Rising Cases Of Apollo Infection #trusttvnews #Conjunctivitis #Maiduguri #Borno #Apollo - instagram.com",
+          "‘Deadliest Catch’ Cameraman Forced to Leave Boat After Serious Infection at Sea: ‘I’ve Met My Match’ - People.com",
+          "Mass. cyclospora infection cases hit highest number in a decade - wgbh.org"
         ]
       },
       {
-        "trend": "patients",
+        "trend": "mental health",
         "market_code": "CA",
-        "category": "Global Health",
-        "score": 7,
+        "category": "Mental Health",
+        "score": 6,
         "examples": [
-          "Health-care hiring has propped up Canada’s job market. Will patients see a difference? - CBC",
-          "Scientists discover new tick-borne virus after testing thousands of patients with mysterious illnesses - Fox News",
-          "FDA pilot offers generative AI medical devices a path to patients before they are authorized - STAT"
+          "Lack of attention given to ‘profound’ mental health challenges among Indigenous men, says advocacy campaign - Ha-Shilth-Sa Newspaper",
+          "Applications Open for Community Addictions Prevention and Mental Health Promotion Grant Program - Government of Newfoundland and Labrador",
+          "Applications Open for Community Addictions Prevention and Mental Health Promotion Grant Program - Government of Newfoundland and Labrador"
         ]
       },
       {
-        "trend": "public health",
+        "trend": "drug",
         "market_code": "CA",
-        "category": "Global Health",
-        "score": 7,
+        "category": "Drug & Treatment News",
+        "score": 6,
         "examples": [
-          "Niagara Region Public Health shares back-to-school health tips for families - Niagara-on-the-Lake Local",
           "Grand Erie Public Health extends drug alert after spike in overdoses - CHCH",
-          "Gifting public health on the playa at Burning Man - University of Nevada, Reno"
+          "Health unit extends community drug alert as drug-related deaths, hospital visits climb - Brantford Expositor",
+          "Grand Erie Public Health extends drug alert after spike in overdoses - CHCH"
+        ]
+      },
+      {
+        "trend": "warning",
+        "market_code": "CA",
+        "category": "Global Health",
+        "score": 6,
+        "examples": [
+          "Health officials issue strong warning to stay out of river water in Tri-Cities - Tri-City Herald",
+          "Toxic Algae Blooms Prompt Health Warning - KTVB",
+          "NYC Issues Silicosis Health Warning for Engineered Stone Work - Bloomberg Law News"
         ]
       }
     ],
@@ -2154,18 +2154,18 @@
         "score": 80,
         "examples": [
           "Survey: Health benefit costs expected to jump 8.2% in 2027, the biggest increase since 2003 - mercer.com",
-          "Employer and worker health plan costs expected to jump in 2027 - CBS News",
-          "Join The CHAT: Clemson Health Advancement Talks - news.clemson.edu"
+          "'The health system in Nepal is not prepared for this' - npr.org",
+          "Superheroes Health Fair helps El Paso families start the school year healthy - elpasomatters.org"
         ]
       },
       {
         "trend": "medical",
         "market_code": "AE",
         "category": "Arab Health",
-        "score": 25,
+        "score": 21,
         "examples": [
           "Nebraska Supreme Court upholds validity of state medical cannabis laws - Nebraska Examiner",
-          "HHS Awards More Than $11 Million to Expand Medical Residencies in Rural and Tribal Communities - HHS.gov",
+          "Banner-gate: Adirondack Medical Center Nurses Replace Missing Banners, Keep Up Fight for Fair Contracts - New York State Nurses Association",
           "National call to action needed to strengthen primary care pipeline in medical education, argue experts - Medical Xpress"
         ]
       },
@@ -2173,55 +2173,55 @@
         "trend": "outbreak",
         "market_code": "AE",
         "category": "Outbreaks",
-        "score": 14,
-        "examples": [
-          "Cyclosporiasis outbreak exposes a weakened US public health system - Reuters",
-          "Cyclosporiasis outbreak exposes a weakened US public health system - Reuters",
-          "The behind-the-scenes effort to contain the nation’s worst ongoing measles outbreak - The Washington Post"
-        ]
-      },
-      {
-        "trend": "measles",
-        "market_code": "AE",
-        "category": "Outbreaks",
-        "score": 13,
+        "score": 15,
         "examples": [
           "The behind-the-scenes effort to contain the nation’s worst ongoing measles outbreak - The Washington Post",
-          "SAFETY ALERT: Georgia measles outbreak spreads to 4 more cases - wrdw.com",
-          "Wisconsin health officials urge measles vaccination as school year begins - Hawaii News Now"
+          "The behind-the-scenes effort to contain the nation’s worst ongoing measles outbreak - The Washington Post",
+          "Cyclosporiasis outbreak exposes a weakened US public health system - reuters.com"
         ]
       },
       {
         "trend": "virus",
         "market_code": "AE",
         "category": "Outbreaks",
-        "score": 12,
+        "score": 14,
         "examples": [
+          "Lubbock Public Health confirms first human case of West Nile virus for 2026 - KCBD",
           "Mecklenburg Public Health responds to West Nile Virus cases, anticipates more - Charlotte Observer",
-          "Atlantic City, NJ, Health Alert: Mosquitoes Test Positive West Nile Virus - WPG Talk Radio 95.5 FM",
-          "County Urges Protection Against Mosquitoes to Prevent West Nile Virus Exposure - San Diego County News Center"
+          "SAFETY ALERT: West Nile virus detected in Fort Gordon mosquitoes - wrdw.com"
         ]
       },
       {
         "trend": "nile virus",
         "market_code": "AE",
         "category": "Outbreaks",
-        "score": 10,
+        "score": 12,
         "examples": [
+          "Lubbock Public Health confirms first human case of West Nile virus for 2026 - KCBD",
           "Mecklenburg Public Health responds to West Nile Virus cases, anticipates more - Charlotte Observer",
-          "Atlantic City, NJ, Health Alert: Mosquitoes Test Positive West Nile Virus - WPG Talk Radio 95.5 FM",
-          "County Urges Protection Against Mosquitoes to Prevent West Nile Virus Exposure - San Diego County News Center"
+          "SAFETY ALERT: West Nile virus detected in Fort Gordon mosquitoes - wrdw.com"
         ]
       },
       {
         "trend": "west nile virus",
         "market_code": "AE",
         "category": "Outbreaks",
-        "score": 10,
+        "score": 12,
         "examples": [
+          "Lubbock Public Health confirms first human case of West Nile virus for 2026 - KCBD",
           "Mecklenburg Public Health responds to West Nile Virus cases, anticipates more - Charlotte Observer",
-          "Atlantic City, NJ, Health Alert: Mosquitoes Test Positive West Nile Virus - WPG Talk Radio 95.5 FM",
-          "County Urges Protection Against Mosquitoes to Prevent West Nile Virus Exposure - San Diego County News Center"
+          "SAFETY ALERT: West Nile virus detected in Fort Gordon mosquitoes - wrdw.com"
+        ]
+      },
+      {
+        "trend": "measles",
+        "market_code": "AE",
+        "category": "Outbreaks",
+        "score": 11,
+        "examples": [
+          "The behind-the-scenes effort to contain the nation’s worst ongoing measles outbreak - The Washington Post",
+          "DPH Confirms Additional Measles Cases in Georgia - Georgia Coastal Health District",
+          "The behind-the-scenes effort to contain the nation’s worst ongoing measles outbreak - The Washington Post"
         ]
       },
       {
@@ -2230,7 +2230,7 @@
         "category": "Arab Health",
         "score": 10,
         "examples": [
-          "The future of AI in healthcare: Moving from hype to business value | Viewpoint - rbj.net",
+          "The future of AI in healthcare: Moving from hype to business value | Viewpoint - Rochester Business Journal",
           "OpenEvidence deepens oncology push, launches new AI model family - Fierce Healthcare",
           "AI Tracker: Mount Sinai, Denver Health join new AI coalition - Modern Healthcare News"
         ]
@@ -2239,33 +2239,11 @@
         "trend": "public health",
         "market_code": "AE",
         "category": "Arab Health",
-        "score": 9,
+        "score": 8,
         "examples": [
+          "Cyclosporiasis outbreak exposes a weakened US public health system - reuters.com",
           "Gifting public health on the playa at Burning Man - University of Nevada, Reno",
-          "Cyclosporiasis outbreak exposes a weakened US public health system - Reuters",
-          "Gifting public health on the playa at Burning Man - University of Nevada, Reno"
-        ]
-      },
-      {
-        "trend": "mental",
-        "market_code": "AE",
-        "category": "Mental Health",
-        "score": 8,
-        "examples": [
-          "Richmond Police Officer Shot During Mental Health Crisis Call - KQED",
-          "Community Mental Health: Virtual Information Session | November 17 - New England College",
-          "CT offers mental health resources for kids. Here’s what to know - CT Mirror"
-        ]
-      },
-      {
-        "trend": "mental health",
-        "market_code": "AE",
-        "category": "Mental Health",
-        "score": 8,
-        "examples": [
-          "Richmond Police Officer Shot During Mental Health Crisis Call - KQED",
-          "Community Mental Health: Virtual Information Session | November 17 - New England College",
-          "CT offers mental health resources for kids. Here’s what to know - CT Mirror"
+          "Lubbock Public Health confirms first human case of West Nile virus for 2026 - KCBD"
         ]
       },
       {
@@ -2274,9 +2252,31 @@
         "category": "Arab Health",
         "score": 7,
         "examples": [
-          "Grant supports evaluation of California’s traditional health care practices benefit - news.ucr.edu",
-          "At least 5 other states join Mass. in covering transgender kids’ health care under Medicaid - WGBH",
-          "Grant supports evaluation of California’s traditional health care practices benefit - news.ucr.edu"
+          "Grant supports evaluation of California’s traditional health care practices benefit - University of California, Riverside",
+          "Grant supports evaluation of California’s traditional health care practices benefit - University of California, Riverside",
+          "Key moments in the Lindsay Clancy case: the 911 call, mental health care, mistrial - The Seattle Times"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "AE",
+        "category": "Mental Health",
+        "score": 7,
+        "examples": [
+          "Islamic Center shooter’s parents suing mental health provider for negligence, wrongful death - KPBS",
+          "Mental health counselor offers support for families during extended deployments - ABC11 News",
+          "OB-GYN on maternal mental health after mistrial declared in Lindsay Clancy case - NBC Los Angeles"
+        ]
+      },
+      {
+        "trend": "mental health",
+        "market_code": "AE",
+        "category": "Mental Health",
+        "score": 7,
+        "examples": [
+          "Islamic Center shooter’s parents suing mental health provider for negligence, wrongful death - KPBS",
+          "Mental health counselor offers support for families during extended deployments - ABC11 News",
+          "OB-GYN on maternal mental health after mistrial declared in Lindsay Clancy case - NBC Los Angeles"
         ]
       }
     ],
@@ -2288,18 +2288,18 @@
         "score": 80,
         "examples": [
           "Survey: Health benefit costs expected to jump 8.2% in 2027, the biggest increase since 2003 - mercer.com",
-          "Employer and worker health plan costs expected to jump in 2027 - CBS News",
-          "Join The CHAT: Clemson Health Advancement Talks - news.clemson.edu"
+          "'The health system in Nepal is not prepared for this' - npr.org",
+          "Superheroes Health Fair helps El Paso families start the school year healthy - elpasomatters.org"
         ]
       },
       {
         "trend": "medical",
         "market_code": "SA",
         "category": "Arab Health",
-        "score": 25,
+        "score": 21,
         "examples": [
           "Nebraska Supreme Court upholds validity of state medical cannabis laws - Nebraska Examiner",
-          "HHS Awards More Than $11 Million to Expand Medical Residencies in Rural and Tribal Communities - HHS.gov",
+          "Banner-gate: Adirondack Medical Center Nurses Replace Missing Banners, Keep Up Fight for Fair Contracts - New York State Nurses Association",
           "National call to action needed to strengthen primary care pipeline in medical education, argue experts - Medical Xpress"
         ]
       },
@@ -2307,55 +2307,55 @@
         "trend": "outbreak",
         "market_code": "SA",
         "category": "Outbreaks",
-        "score": 14,
-        "examples": [
-          "Cyclosporiasis outbreak exposes a weakened US public health system - Reuters",
-          "Cyclosporiasis outbreak exposes a weakened US public health system - Reuters",
-          "The behind-the-scenes effort to contain the nation’s worst ongoing measles outbreak - The Washington Post"
-        ]
-      },
-      {
-        "trend": "measles",
-        "market_code": "SA",
-        "category": "Outbreaks",
-        "score": 13,
+        "score": 15,
         "examples": [
           "The behind-the-scenes effort to contain the nation’s worst ongoing measles outbreak - The Washington Post",
-          "SAFETY ALERT: Georgia measles outbreak spreads to 4 more cases - wrdw.com",
-          "Wisconsin health officials urge measles vaccination as school year begins - Hawaii News Now"
+          "The behind-the-scenes effort to contain the nation’s worst ongoing measles outbreak - The Washington Post",
+          "Cyclosporiasis outbreak exposes a weakened US public health system - reuters.com"
         ]
       },
       {
         "trend": "virus",
         "market_code": "SA",
         "category": "Outbreaks",
-        "score": 12,
+        "score": 14,
         "examples": [
+          "Lubbock Public Health confirms first human case of West Nile virus for 2026 - KCBD",
           "Mecklenburg Public Health responds to West Nile Virus cases, anticipates more - Charlotte Observer",
-          "Atlantic City, NJ, Health Alert: Mosquitoes Test Positive West Nile Virus - WPG Talk Radio 95.5 FM",
-          "County Urges Protection Against Mosquitoes to Prevent West Nile Virus Exposure - San Diego County News Center"
+          "SAFETY ALERT: West Nile virus detected in Fort Gordon mosquitoes - wrdw.com"
         ]
       },
       {
         "trend": "nile virus",
         "market_code": "SA",
         "category": "Outbreaks",
-        "score": 10,
+        "score": 12,
         "examples": [
+          "Lubbock Public Health confirms first human case of West Nile virus for 2026 - KCBD",
           "Mecklenburg Public Health responds to West Nile Virus cases, anticipates more - Charlotte Observer",
-          "Atlantic City, NJ, Health Alert: Mosquitoes Test Positive West Nile Virus - WPG Talk Radio 95.5 FM",
-          "County Urges Protection Against Mosquitoes to Prevent West Nile Virus Exposure - San Diego County News Center"
+          "SAFETY ALERT: West Nile virus detected in Fort Gordon mosquitoes - wrdw.com"
         ]
       },
       {
         "trend": "west nile virus",
         "market_code": "SA",
         "category": "Outbreaks",
-        "score": 10,
+        "score": 12,
         "examples": [
+          "Lubbock Public Health confirms first human case of West Nile virus for 2026 - KCBD",
           "Mecklenburg Public Health responds to West Nile Virus cases, anticipates more - Charlotte Observer",
-          "Atlantic City, NJ, Health Alert: Mosquitoes Test Positive West Nile Virus - WPG Talk Radio 95.5 FM",
-          "County Urges Protection Against Mosquitoes to Prevent West Nile Virus Exposure - San Diego County News Center"
+          "SAFETY ALERT: West Nile virus detected in Fort Gordon mosquitoes - wrdw.com"
+        ]
+      },
+      {
+        "trend": "measles",
+        "market_code": "SA",
+        "category": "Outbreaks",
+        "score": 11,
+        "examples": [
+          "The behind-the-scenes effort to contain the nation’s worst ongoing measles outbreak - The Washington Post",
+          "DPH Confirms Additional Measles Cases in Georgia - Georgia Coastal Health District",
+          "The behind-the-scenes effort to contain the nation’s worst ongoing measles outbreak - The Washington Post"
         ]
       },
       {
@@ -2364,7 +2364,7 @@
         "category": "Arab Health",
         "score": 10,
         "examples": [
-          "The future of AI in healthcare: Moving from hype to business value | Viewpoint - rbj.net",
+          "The future of AI in healthcare: Moving from hype to business value | Viewpoint - Rochester Business Journal",
           "OpenEvidence deepens oncology push, launches new AI model family - Fierce Healthcare",
           "AI Tracker: Mount Sinai, Denver Health join new AI coalition - Modern Healthcare News"
         ]
@@ -2373,33 +2373,11 @@
         "trend": "public health",
         "market_code": "SA",
         "category": "Arab Health",
-        "score": 9,
+        "score": 8,
         "examples": [
+          "Cyclosporiasis outbreak exposes a weakened US public health system - reuters.com",
           "Gifting public health on the playa at Burning Man - University of Nevada, Reno",
-          "Cyclosporiasis outbreak exposes a weakened US public health system - Reuters",
-          "Gifting public health on the playa at Burning Man - University of Nevada, Reno"
-        ]
-      },
-      {
-        "trend": "mental",
-        "market_code": "SA",
-        "category": "Mental Health",
-        "score": 8,
-        "examples": [
-          "Richmond Police Officer Shot During Mental Health Crisis Call - KQED",
-          "Community Mental Health: Virtual Information Session | November 17 - New England College",
-          "CT offers mental health resources for kids. Here’s what to know - CT Mirror"
-        ]
-      },
-      {
-        "trend": "mental health",
-        "market_code": "SA",
-        "category": "Mental Health",
-        "score": 8,
-        "examples": [
-          "Richmond Police Officer Shot During Mental Health Crisis Call - KQED",
-          "Community Mental Health: Virtual Information Session | November 17 - New England College",
-          "CT offers mental health resources for kids. Here’s what to know - CT Mirror"
+          "Lubbock Public Health confirms first human case of West Nile virus for 2026 - KCBD"
         ]
       },
       {
@@ -2408,9 +2386,31 @@
         "category": "Arab Health",
         "score": 7,
         "examples": [
-          "Grant supports evaluation of California’s traditional health care practices benefit - news.ucr.edu",
-          "At least 5 other states join Mass. in covering transgender kids’ health care under Medicaid - WGBH",
-          "Grant supports evaluation of California’s traditional health care practices benefit - news.ucr.edu"
+          "Grant supports evaluation of California’s traditional health care practices benefit - University of California, Riverside",
+          "Grant supports evaluation of California’s traditional health care practices benefit - University of California, Riverside",
+          "Key moments in the Lindsay Clancy case: the 911 call, mental health care, mistrial - The Seattle Times"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "SA",
+        "category": "Mental Health",
+        "score": 7,
+        "examples": [
+          "Islamic Center shooter’s parents suing mental health provider for negligence, wrongful death - KPBS",
+          "Mental health counselor offers support for families during extended deployments - ABC11 News",
+          "OB-GYN on maternal mental health after mistrial declared in Lindsay Clancy case - NBC Los Angeles"
+        ]
+      },
+      {
+        "trend": "mental health",
+        "market_code": "SA",
+        "category": "Mental Health",
+        "score": 7,
+        "examples": [
+          "Islamic Center shooter’s parents suing mental health provider for negligence, wrongful death - KPBS",
+          "Mental health counselor offers support for families during extended deployments - ABC11 News",
+          "OB-GYN on maternal mental health after mistrial declared in Lindsay Clancy case - NBC Los Angeles"
         ]
       }
     ],
@@ -2422,18 +2422,18 @@
         "score": 80,
         "examples": [
           "Survey: Health benefit costs expected to jump 8.2% in 2027, the biggest increase since 2003 - mercer.com",
-          "Employer and worker health plan costs expected to jump in 2027 - CBS News",
-          "Join The CHAT: Clemson Health Advancement Talks - news.clemson.edu"
+          "'The health system in Nepal is not prepared for this' - npr.org",
+          "Superheroes Health Fair helps El Paso families start the school year healthy - elpasomatters.org"
         ]
       },
       {
         "trend": "medical",
         "market_code": "QA",
         "category": "Arab Health",
-        "score": 25,
+        "score": 21,
         "examples": [
           "Nebraska Supreme Court upholds validity of state medical cannabis laws - Nebraska Examiner",
-          "HHS Awards More Than $11 Million to Expand Medical Residencies in Rural and Tribal Communities - HHS.gov",
+          "Banner-gate: Adirondack Medical Center Nurses Replace Missing Banners, Keep Up Fight for Fair Contracts - New York State Nurses Association",
           "National call to action needed to strengthen primary care pipeline in medical education, argue experts - Medical Xpress"
         ]
       },
@@ -2441,55 +2441,55 @@
         "trend": "outbreak",
         "market_code": "QA",
         "category": "Outbreaks",
-        "score": 14,
-        "examples": [
-          "Cyclosporiasis outbreak exposes a weakened US public health system - Reuters",
-          "Cyclosporiasis outbreak exposes a weakened US public health system - Reuters",
-          "The behind-the-scenes effort to contain the nation’s worst ongoing measles outbreak - The Washington Post"
-        ]
-      },
-      {
-        "trend": "measles",
-        "market_code": "QA",
-        "category": "Outbreaks",
-        "score": 13,
+        "score": 15,
         "examples": [
           "The behind-the-scenes effort to contain the nation’s worst ongoing measles outbreak - The Washington Post",
-          "SAFETY ALERT: Georgia measles outbreak spreads to 4 more cases - wrdw.com",
-          "Wisconsin health officials urge measles vaccination as school year begins - Hawaii News Now"
+          "The behind-the-scenes effort to contain the nation’s worst ongoing measles outbreak - The Washington Post",
+          "Cyclosporiasis outbreak exposes a weakened US public health system - reuters.com"
         ]
       },
       {
         "trend": "virus",
         "market_code": "QA",
         "category": "Outbreaks",
-        "score": 12,
+        "score": 14,
         "examples": [
+          "Lubbock Public Health confirms first human case of West Nile virus for 2026 - KCBD",
           "Mecklenburg Public Health responds to West Nile Virus cases, anticipates more - Charlotte Observer",
-          "Atlantic City, NJ, Health Alert: Mosquitoes Test Positive West Nile Virus - WPG Talk Radio 95.5 FM",
-          "County Urges Protection Against Mosquitoes to Prevent West Nile Virus Exposure - San Diego County News Center"
+          "SAFETY ALERT: West Nile virus detected in Fort Gordon mosquitoes - wrdw.com"
         ]
       },
       {
         "trend": "nile virus",
         "market_code": "QA",
         "category": "Outbreaks",
-        "score": 10,
+        "score": 12,
         "examples": [
+          "Lubbock Public Health confirms first human case of West Nile virus for 2026 - KCBD",
           "Mecklenburg Public Health responds to West Nile Virus cases, anticipates more - Charlotte Observer",
-          "Atlantic City, NJ, Health Alert: Mosquitoes Test Positive West Nile Virus - WPG Talk Radio 95.5 FM",
-          "County Urges Protection Against Mosquitoes to Prevent West Nile Virus Exposure - San Diego County News Center"
+          "SAFETY ALERT: West Nile virus detected in Fort Gordon mosquitoes - wrdw.com"
         ]
       },
       {
         "trend": "west nile virus",
         "market_code": "QA",
         "category": "Outbreaks",
-        "score": 10,
+        "score": 12,
         "examples": [
+          "Lubbock Public Health confirms first human case of West Nile virus for 2026 - KCBD",
           "Mecklenburg Public Health responds to West Nile Virus cases, anticipates more - Charlotte Observer",
-          "Atlantic City, NJ, Health Alert: Mosquitoes Test Positive West Nile Virus - WPG Talk Radio 95.5 FM",
-          "County Urges Protection Against Mosquitoes to Prevent West Nile Virus Exposure - San Diego County News Center"
+          "SAFETY ALERT: West Nile virus detected in Fort Gordon mosquitoes - wrdw.com"
+        ]
+      },
+      {
+        "trend": "measles",
+        "market_code": "QA",
+        "category": "Outbreaks",
+        "score": 11,
+        "examples": [
+          "The behind-the-scenes effort to contain the nation’s worst ongoing measles outbreak - The Washington Post",
+          "DPH Confirms Additional Measles Cases in Georgia - Georgia Coastal Health District",
+          "The behind-the-scenes effort to contain the nation’s worst ongoing measles outbreak - The Washington Post"
         ]
       },
       {
@@ -2498,7 +2498,7 @@
         "category": "Arab Health",
         "score": 10,
         "examples": [
-          "The future of AI in healthcare: Moving from hype to business value | Viewpoint - rbj.net",
+          "The future of AI in healthcare: Moving from hype to business value | Viewpoint - Rochester Business Journal",
           "OpenEvidence deepens oncology push, launches new AI model family - Fierce Healthcare",
           "AI Tracker: Mount Sinai, Denver Health join new AI coalition - Modern Healthcare News"
         ]
@@ -2507,33 +2507,11 @@
         "trend": "public health",
         "market_code": "QA",
         "category": "Arab Health",
-        "score": 9,
+        "score": 8,
         "examples": [
+          "Cyclosporiasis outbreak exposes a weakened US public health system - reuters.com",
           "Gifting public health on the playa at Burning Man - University of Nevada, Reno",
-          "Cyclosporiasis outbreak exposes a weakened US public health system - Reuters",
-          "Gifting public health on the playa at Burning Man - University of Nevada, Reno"
-        ]
-      },
-      {
-        "trend": "mental",
-        "market_code": "QA",
-        "category": "Mental Health",
-        "score": 8,
-        "examples": [
-          "Richmond Police Officer Shot During Mental Health Crisis Call - KQED",
-          "Community Mental Health: Virtual Information Session | November 17 - New England College",
-          "CT offers mental health resources for kids. Here’s what to know - CT Mirror"
-        ]
-      },
-      {
-        "trend": "mental health",
-        "market_code": "QA",
-        "category": "Mental Health",
-        "score": 8,
-        "examples": [
-          "Richmond Police Officer Shot During Mental Health Crisis Call - KQED",
-          "Community Mental Health: Virtual Information Session | November 17 - New England College",
-          "CT offers mental health resources for kids. Here’s what to know - CT Mirror"
+          "Lubbock Public Health confirms first human case of West Nile virus for 2026 - KCBD"
         ]
       },
       {
@@ -2542,9 +2520,31 @@
         "category": "Arab Health",
         "score": 7,
         "examples": [
-          "Grant supports evaluation of California’s traditional health care practices benefit - news.ucr.edu",
-          "At least 5 other states join Mass. in covering transgender kids’ health care under Medicaid - WGBH",
-          "Grant supports evaluation of California’s traditional health care practices benefit - news.ucr.edu"
+          "Grant supports evaluation of California’s traditional health care practices benefit - University of California, Riverside",
+          "Grant supports evaluation of California’s traditional health care practices benefit - University of California, Riverside",
+          "Key moments in the Lindsay Clancy case: the 911 call, mental health care, mistrial - The Seattle Times"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "QA",
+        "category": "Mental Health",
+        "score": 7,
+        "examples": [
+          "Islamic Center shooter’s parents suing mental health provider for negligence, wrongful death - KPBS",
+          "Mental health counselor offers support for families during extended deployments - ABC11 News",
+          "OB-GYN on maternal mental health after mistrial declared in Lindsay Clancy case - NBC Los Angeles"
+        ]
+      },
+      {
+        "trend": "mental health",
+        "market_code": "QA",
+        "category": "Mental Health",
+        "score": 7,
+        "examples": [
+          "Islamic Center shooter’s parents suing mental health provider for negligence, wrongful death - KPBS",
+          "Mental health counselor offers support for families during extended deployments - ABC11 News",
+          "OB-GYN on maternal mental health after mistrial declared in Lindsay Clancy case - NBC Los Angeles"
         ]
       }
     ],
@@ -2556,18 +2556,18 @@
         "score": 80,
         "examples": [
           "Survey: Health benefit costs expected to jump 8.2% in 2027, the biggest increase since 2003 - mercer.com",
-          "Employer and worker health plan costs expected to jump in 2027 - CBS News",
-          "Join The CHAT: Clemson Health Advancement Talks - news.clemson.edu"
+          "'The health system in Nepal is not prepared for this' - npr.org",
+          "Superheroes Health Fair helps El Paso families start the school year healthy - elpasomatters.org"
         ]
       },
       {
         "trend": "medical",
         "market_code": "JO",
         "category": "Arab Health",
-        "score": 25,
+        "score": 21,
         "examples": [
           "Nebraska Supreme Court upholds validity of state medical cannabis laws - Nebraska Examiner",
-          "HHS Awards More Than $11 Million to Expand Medical Residencies in Rural and Tribal Communities - HHS.gov",
+          "Banner-gate: Adirondack Medical Center Nurses Replace Missing Banners, Keep Up Fight for Fair Contracts - New York State Nurses Association",
           "National call to action needed to strengthen primary care pipeline in medical education, argue experts - Medical Xpress"
         ]
       },
@@ -2575,55 +2575,55 @@
         "trend": "outbreak",
         "market_code": "JO",
         "category": "Outbreaks",
-        "score": 14,
-        "examples": [
-          "Cyclosporiasis outbreak exposes a weakened US public health system - Reuters",
-          "Cyclosporiasis outbreak exposes a weakened US public health system - Reuters",
-          "The behind-the-scenes effort to contain the nation’s worst ongoing measles outbreak - The Washington Post"
-        ]
-      },
-      {
-        "trend": "measles",
-        "market_code": "JO",
-        "category": "Outbreaks",
-        "score": 13,
+        "score": 15,
         "examples": [
           "The behind-the-scenes effort to contain the nation’s worst ongoing measles outbreak - The Washington Post",
-          "SAFETY ALERT: Georgia measles outbreak spreads to 4 more cases - wrdw.com",
-          "Wisconsin health officials urge measles vaccination as school year begins - Hawaii News Now"
+          "The behind-the-scenes effort to contain the nation’s worst ongoing measles outbreak - The Washington Post",
+          "Cyclosporiasis outbreak exposes a weakened US public health system - reuters.com"
         ]
       },
       {
         "trend": "virus",
         "market_code": "JO",
         "category": "Outbreaks",
-        "score": 12,
+        "score": 14,
         "examples": [
+          "Lubbock Public Health confirms first human case of West Nile virus for 2026 - KCBD",
           "Mecklenburg Public Health responds to West Nile Virus cases, anticipates more - Charlotte Observer",
-          "Atlantic City, NJ, Health Alert: Mosquitoes Test Positive West Nile Virus - WPG Talk Radio 95.5 FM",
-          "County Urges Protection Against Mosquitoes to Prevent West Nile Virus Exposure - San Diego County News Center"
+          "SAFETY ALERT: West Nile virus detected in Fort Gordon mosquitoes - wrdw.com"
         ]
       },
       {
         "trend": "nile virus",
         "market_code": "JO",
         "category": "Outbreaks",
-        "score": 10,
+        "score": 12,
         "examples": [
+          "Lubbock Public Health confirms first human case of West Nile virus for 2026 - KCBD",
           "Mecklenburg Public Health responds to West Nile Virus cases, anticipates more - Charlotte Observer",
-          "Atlantic City, NJ, Health Alert: Mosquitoes Test Positive West Nile Virus - WPG Talk Radio 95.5 FM",
-          "County Urges Protection Against Mosquitoes to Prevent West Nile Virus Exposure - San Diego County News Center"
+          "SAFETY ALERT: West Nile virus detected in Fort Gordon mosquitoes - wrdw.com"
         ]
       },
       {
         "trend": "west nile virus",
         "market_code": "JO",
         "category": "Outbreaks",
-        "score": 10,
+        "score": 12,
         "examples": [
+          "Lubbock Public Health confirms first human case of West Nile virus for 2026 - KCBD",
           "Mecklenburg Public Health responds to West Nile Virus cases, anticipates more - Charlotte Observer",
-          "Atlantic City, NJ, Health Alert: Mosquitoes Test Positive West Nile Virus - WPG Talk Radio 95.5 FM",
-          "County Urges Protection Against Mosquitoes to Prevent West Nile Virus Exposure - San Diego County News Center"
+          "SAFETY ALERT: West Nile virus detected in Fort Gordon mosquitoes - wrdw.com"
+        ]
+      },
+      {
+        "trend": "measles",
+        "market_code": "JO",
+        "category": "Outbreaks",
+        "score": 11,
+        "examples": [
+          "The behind-the-scenes effort to contain the nation’s worst ongoing measles outbreak - The Washington Post",
+          "DPH Confirms Additional Measles Cases in Georgia - Georgia Coastal Health District",
+          "The behind-the-scenes effort to contain the nation’s worst ongoing measles outbreak - The Washington Post"
         ]
       },
       {
@@ -2632,7 +2632,7 @@
         "category": "Arab Health",
         "score": 10,
         "examples": [
-          "The future of AI in healthcare: Moving from hype to business value | Viewpoint - rbj.net",
+          "The future of AI in healthcare: Moving from hype to business value | Viewpoint - Rochester Business Journal",
           "OpenEvidence deepens oncology push, launches new AI model family - Fierce Healthcare",
           "AI Tracker: Mount Sinai, Denver Health join new AI coalition - Modern Healthcare News"
         ]
@@ -2641,33 +2641,11 @@
         "trend": "public health",
         "market_code": "JO",
         "category": "Arab Health",
-        "score": 9,
+        "score": 8,
         "examples": [
+          "Cyclosporiasis outbreak exposes a weakened US public health system - reuters.com",
           "Gifting public health on the playa at Burning Man - University of Nevada, Reno",
-          "Cyclosporiasis outbreak exposes a weakened US public health system - Reuters",
-          "Gifting public health on the playa at Burning Man - University of Nevada, Reno"
-        ]
-      },
-      {
-        "trend": "mental",
-        "market_code": "JO",
-        "category": "Mental Health",
-        "score": 8,
-        "examples": [
-          "Richmond Police Officer Shot During Mental Health Crisis Call - KQED",
-          "Community Mental Health: Virtual Information Session | November 17 - New England College",
-          "CT offers mental health resources for kids. Here’s what to know - CT Mirror"
-        ]
-      },
-      {
-        "trend": "mental health",
-        "market_code": "JO",
-        "category": "Mental Health",
-        "score": 8,
-        "examples": [
-          "Richmond Police Officer Shot During Mental Health Crisis Call - KQED",
-          "Community Mental Health: Virtual Information Session | November 17 - New England College",
-          "CT offers mental health resources for kids. Here’s what to know - CT Mirror"
+          "Lubbock Public Health confirms first human case of West Nile virus for 2026 - KCBD"
         ]
       },
       {
@@ -2676,9 +2654,31 @@
         "category": "Arab Health",
         "score": 7,
         "examples": [
-          "Grant supports evaluation of California’s traditional health care practices benefit - news.ucr.edu",
-          "At least 5 other states join Mass. in covering transgender kids’ health care under Medicaid - WGBH",
-          "Grant supports evaluation of California’s traditional health care practices benefit - news.ucr.edu"
+          "Grant supports evaluation of California’s traditional health care practices benefit - University of California, Riverside",
+          "Grant supports evaluation of California’s traditional health care practices benefit - University of California, Riverside",
+          "Key moments in the Lindsay Clancy case: the 911 call, mental health care, mistrial - The Seattle Times"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "JO",
+        "category": "Mental Health",
+        "score": 7,
+        "examples": [
+          "Islamic Center shooter’s parents suing mental health provider for negligence, wrongful death - KPBS",
+          "Mental health counselor offers support for families during extended deployments - ABC11 News",
+          "OB-GYN on maternal mental health after mistrial declared in Lindsay Clancy case - NBC Los Angeles"
+        ]
+      },
+      {
+        "trend": "mental health",
+        "market_code": "JO",
+        "category": "Mental Health",
+        "score": 7,
+        "examples": [
+          "Islamic Center shooter’s parents suing mental health provider for negligence, wrongful death - KPBS",
+          "Mental health counselor offers support for families during extended deployments - ABC11 News",
+          "OB-GYN on maternal mental health after mistrial declared in Lindsay Clancy case - NBC Los Angeles"
         ]
       }
     ],
@@ -2690,18 +2690,18 @@
         "score": 80,
         "examples": [
           "Survey: Health benefit costs expected to jump 8.2% in 2027, the biggest increase since 2003 - mercer.com",
-          "Employer and worker health plan costs expected to jump in 2027 - CBS News",
-          "Join The CHAT: Clemson Health Advancement Talks - news.clemson.edu"
+          "'The health system in Nepal is not prepared for this' - npr.org",
+          "Superheroes Health Fair helps El Paso families start the school year healthy - elpasomatters.org"
         ]
       },
       {
         "trend": "medical",
         "market_code": "LB",
         "category": "Arab Health",
-        "score": 25,
+        "score": 21,
         "examples": [
           "Nebraska Supreme Court upholds validity of state medical cannabis laws - Nebraska Examiner",
-          "HHS Awards More Than $11 Million to Expand Medical Residencies in Rural and Tribal Communities - HHS.gov",
+          "Banner-gate: Adirondack Medical Center Nurses Replace Missing Banners, Keep Up Fight for Fair Contracts - New York State Nurses Association",
           "National call to action needed to strengthen primary care pipeline in medical education, argue experts - Medical Xpress"
         ]
       },
@@ -2709,55 +2709,55 @@
         "trend": "outbreak",
         "market_code": "LB",
         "category": "Outbreaks",
-        "score": 14,
-        "examples": [
-          "Cyclosporiasis outbreak exposes a weakened US public health system - Reuters",
-          "Cyclosporiasis outbreak exposes a weakened US public health system - Reuters",
-          "The behind-the-scenes effort to contain the nation’s worst ongoing measles outbreak - The Washington Post"
-        ]
-      },
-      {
-        "trend": "measles",
-        "market_code": "LB",
-        "category": "Outbreaks",
-        "score": 13,
+        "score": 15,
         "examples": [
           "The behind-the-scenes effort to contain the nation’s worst ongoing measles outbreak - The Washington Post",
-          "SAFETY ALERT: Georgia measles outbreak spreads to 4 more cases - wrdw.com",
-          "Wisconsin health officials urge measles vaccination as school year begins - Hawaii News Now"
+          "The behind-the-scenes effort to contain the nation’s worst ongoing measles outbreak - The Washington Post",
+          "Cyclosporiasis outbreak exposes a weakened US public health system - reuters.com"
         ]
       },
       {
         "trend": "virus",
         "market_code": "LB",
         "category": "Outbreaks",
-        "score": 12,
+        "score": 14,
         "examples": [
+          "Lubbock Public Health confirms first human case of West Nile virus for 2026 - KCBD",
           "Mecklenburg Public Health responds to West Nile Virus cases, anticipates more - Charlotte Observer",
-          "Atlantic City, NJ, Health Alert: Mosquitoes Test Positive West Nile Virus - WPG Talk Radio 95.5 FM",
-          "County Urges Protection Against Mosquitoes to Prevent West Nile Virus Exposure - San Diego County News Center"
+          "SAFETY ALERT: West Nile virus detected in Fort Gordon mosquitoes - wrdw.com"
         ]
       },
       {
         "trend": "nile virus",
         "market_code": "LB",
         "category": "Outbreaks",
-        "score": 10,
+        "score": 12,
         "examples": [
+          "Lubbock Public Health confirms first human case of West Nile virus for 2026 - KCBD",
           "Mecklenburg Public Health responds to West Nile Virus cases, anticipates more - Charlotte Observer",
-          "Atlantic City, NJ, Health Alert: Mosquitoes Test Positive West Nile Virus - WPG Talk Radio 95.5 FM",
-          "County Urges Protection Against Mosquitoes to Prevent West Nile Virus Exposure - San Diego County News Center"
+          "SAFETY ALERT: West Nile virus detected in Fort Gordon mosquitoes - wrdw.com"
         ]
       },
       {
         "trend": "west nile virus",
         "market_code": "LB",
         "category": "Outbreaks",
-        "score": 10,
+        "score": 12,
         "examples": [
+          "Lubbock Public Health confirms first human case of West Nile virus for 2026 - KCBD",
           "Mecklenburg Public Health responds to West Nile Virus cases, anticipates more - Charlotte Observer",
-          "Atlantic City, NJ, Health Alert: Mosquitoes Test Positive West Nile Virus - WPG Talk Radio 95.5 FM",
-          "County Urges Protection Against Mosquitoes to Prevent West Nile Virus Exposure - San Diego County News Center"
+          "SAFETY ALERT: West Nile virus detected in Fort Gordon mosquitoes - wrdw.com"
+        ]
+      },
+      {
+        "trend": "measles",
+        "market_code": "LB",
+        "category": "Outbreaks",
+        "score": 11,
+        "examples": [
+          "The behind-the-scenes effort to contain the nation’s worst ongoing measles outbreak - The Washington Post",
+          "DPH Confirms Additional Measles Cases in Georgia - Georgia Coastal Health District",
+          "The behind-the-scenes effort to contain the nation’s worst ongoing measles outbreak - The Washington Post"
         ]
       },
       {
@@ -2766,7 +2766,7 @@
         "category": "Arab Health",
         "score": 10,
         "examples": [
-          "The future of AI in healthcare: Moving from hype to business value | Viewpoint - rbj.net",
+          "The future of AI in healthcare: Moving from hype to business value | Viewpoint - Rochester Business Journal",
           "OpenEvidence deepens oncology push, launches new AI model family - Fierce Healthcare",
           "AI Tracker: Mount Sinai, Denver Health join new AI coalition - Modern Healthcare News"
         ]
@@ -2775,33 +2775,11 @@
         "trend": "public health",
         "market_code": "LB",
         "category": "Arab Health",
-        "score": 9,
+        "score": 8,
         "examples": [
+          "Cyclosporiasis outbreak exposes a weakened US public health system - reuters.com",
           "Gifting public health on the playa at Burning Man - University of Nevada, Reno",
-          "Cyclosporiasis outbreak exposes a weakened US public health system - Reuters",
-          "Gifting public health on the playa at Burning Man - University of Nevada, Reno"
-        ]
-      },
-      {
-        "trend": "mental",
-        "market_code": "LB",
-        "category": "Mental Health",
-        "score": 8,
-        "examples": [
-          "Richmond Police Officer Shot During Mental Health Crisis Call - KQED",
-          "Community Mental Health: Virtual Information Session | November 17 - New England College",
-          "CT offers mental health resources for kids. Here’s what to know - CT Mirror"
-        ]
-      },
-      {
-        "trend": "mental health",
-        "market_code": "LB",
-        "category": "Mental Health",
-        "score": 8,
-        "examples": [
-          "Richmond Police Officer Shot During Mental Health Crisis Call - KQED",
-          "Community Mental Health: Virtual Information Session | November 17 - New England College",
-          "CT offers mental health resources for kids. Here’s what to know - CT Mirror"
+          "Lubbock Public Health confirms first human case of West Nile virus for 2026 - KCBD"
         ]
       },
       {
@@ -2810,9 +2788,31 @@
         "category": "Arab Health",
         "score": 7,
         "examples": [
-          "Grant supports evaluation of California’s traditional health care practices benefit - news.ucr.edu",
-          "At least 5 other states join Mass. in covering transgender kids’ health care under Medicaid - WGBH",
-          "Grant supports evaluation of California’s traditional health care practices benefit - news.ucr.edu"
+          "Grant supports evaluation of California’s traditional health care practices benefit - University of California, Riverside",
+          "Grant supports evaluation of California’s traditional health care practices benefit - University of California, Riverside",
+          "Key moments in the Lindsay Clancy case: the 911 call, mental health care, mistrial - The Seattle Times"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "LB",
+        "category": "Mental Health",
+        "score": 7,
+        "examples": [
+          "Islamic Center shooter’s parents suing mental health provider for negligence, wrongful death - KPBS",
+          "Mental health counselor offers support for families during extended deployments - ABC11 News",
+          "OB-GYN on maternal mental health after mistrial declared in Lindsay Clancy case - NBC Los Angeles"
+        ]
+      },
+      {
+        "trend": "mental health",
+        "market_code": "LB",
+        "category": "Mental Health",
+        "score": 7,
+        "examples": [
+          "Islamic Center shooter’s parents suing mental health provider for negligence, wrongful death - KPBS",
+          "Mental health counselor offers support for families during extended deployments - ABC11 News",
+          "OB-GYN on maternal mental health after mistrial declared in Lindsay Clancy case - NBC Los Angeles"
         ]
       }
     ]
