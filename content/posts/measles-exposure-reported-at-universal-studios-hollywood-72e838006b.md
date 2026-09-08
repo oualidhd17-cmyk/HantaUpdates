@@ -1,0 +1,65 @@
+---
+title: "Measles exposure reported at Universal Studios Hollywood"
+description: "Measles exposure reported at Universal Studios Hollywood ABC7 New York"
+slug: "measles-exposure-reported-at-universal-studios-hollywood-72e838006b"
+category: "Outbreaks"
+region: "United States"
+source: "Google News / United States"
+source_url: "https://news.google.com/rss/articles/CBMiyhFBVV95cUxPaXVwOC1MeTNNSmlLZ2FtRW9FcGJJWGlSZjY1bDlacEdhZHBhd1Q4SWNKTmpITHdkSjhNZkx4YWFIbkotUkhrLWJmMFZ4c3dkQ1ZXSEg4NkpLakhaMXBab2Vtclh4ZGIxVnVpQXBZcGMwZ1BZNTVNQzFFQXRpOEphQXUySU0wVFZmTXBFZjlFUWl2ZU1BN0Z2cVdCc3lsME96SV9zNm5XamhEUUN4SE1JMFFRM28tRUdjVzJjWXB4NjE5TFg5MVhtUGJlMzk1eEtUWElHeUVqeGZTSi1LOWRvQ2N5a1ZLOXdfMjQ4RXM5Tzl3SWtGSzlyVFBFcmhydnNudExEMHRnWnFkZ2JRQVg2amRWQklmY0hRa1RueTFvcXpacVl1UkRLMVlkZlhISktxWjNzNFE0TUtJbk41VDJaVDVQN3loeUR6aWE2NXB0eFdmV0xtNENKLVZFSWs4bFlMQ09uUGlCYUl4Z1FDNW1UTTMweWNXeGtuVVhpX3l5Um1wdlRPZUtWN2EzZUlLNEVSRHVFYW9XcnFzc3gtSFNBSXBzODVWMTlyN2VkckZuNTZjU1lyOWtZUkNSd2hOaDhIbzNKcjF1cjhIS3h4NmE3WVpadmxBWWl0aHFjaVBERS14dkJocXY2amd5RlEyVkExZ0RxeE84UjlWX1o0RlZUZXo1WHdQcmcxc3YzSWVXMVYxY1hiOTEyY3RCVkxRSFJCYXN3cUh5UDhEcGE5VVdRRGh2VWJmYl9FTGVrSXhRNmx0Y3JmYnB4VWw0cnJXMFpEWFpPNjl4NE5UT3VFemVHTXExUVN1N09yOW5QTk5xTmUxc1R5WjFJRmI1UG5nYUlmcmFnWGF1dU5VcWpfVTlOUkhacmdxSVhOaF94ZHFkWGtoUV9Na0RzVXJnVGM0cEs3dzZrd0VaSlRLXzhRY0UtVjdubzJKbHpiS016djBiYy1lc1MzZDRxYWtPNTlYN0FYQms0OEI1cWFXNWx1SU5zLURzX19SSmFHT2xaaUlyUDNBOEk2NzFmM0tIbmhwcHNvWGJ3UGJGQVhTV2gzYjNlNTF1dV9wR0UyMmRNM1ZPZkxrc3RUZkZITDljUlVtUU1QVjNmaFhBejV3TUFMVlRNQU94S2U4d0tESHJuZjhmQ1hJelR4RGtIOUxXcVJzMEFpYkEwUk9Nejl2cTYxQnR2SEg0U3loM3JMSzk5TEtRR2VqdnJNQmtDWU5pUzFNSk1UbVZGb0ZlaGlUdzlabXhfaHB5ZVhpS19zT3JzalBPaFpTdGdxZ2cyZURpaWpET05WYmZWUkNnYzl1UjZ5M0c4UlkwdFhFY1pqU2VoTThmaks1djNwUTBNZmFSWGh4ZXYxeW10RWJ5TERZeHQ1N1dYU1Rnc2sxYTBsQmMwRGpVVXc3VjBrQ0haeWFmNEZrY2V6UUo2TDFoalJoT3lNVmpJLUhwdTZwZUgwSmpGZGRkTWFCbTFEQ1EtbXIwV1dhbS00S2k1dHZZSFJvRF83T2ZVdVEyX0NIYlB6RndQOXQ1WmE2X3NRbWFaang2U2QzaWRmQ05HUDFLbzd0WExMSW9sTU1KWE1PYVVVMHBrejh1Y0VmbWJLSmE0RXBzOEZnazhxWjNPV2tMTmdhODJUQ1pOSkVpelRmR0FZdE8tTW9lVkVneGt4THJwUjh4bTkxX203eThxMGk1N0ZsTXRRNFRYcEV6N2hNYTFRNEhwRElJRVVMWVRTVi1vVXlESHFld3BUdlpDV0ZIaU1JNGVER0lfSG1jYjZwUG9NbWNpM05zNHQ3dmJtY2plNmhLdTBsYjhrVVlDeU1wbGVJRW5SdHhiaFJZOXVJMVpjdGNqdUJsb1dqbHZsUFpmVzltWkR3ZE5SYWpaT0hVWF9oNTlmVGNTTDRSaGV0Z3UzeGlBY0tUeDl4QWc2dzItcUlMNFM3UUkxNFZvVU9sRFdtbV9HUndNM3JEUkoybXhtaXhELVN2TGZJbWNyZ05VelBubVJUekxMblBJLWxYNDZJVEJlbHpabDFNdVVtenYwSW5seVFHWVNBNTJxal9yMXJhZEd5OGtGMExFN2dQSnhtNGZ3dHJJMlJ5UmFtQmpiMlJYb0Z3a0plWlNNZEF5NmZfSE9scnk4Tzh5S1lMdGlpdGwyMmh6ZkxLMkVtUk1NekhBMkwzMDIwMWhmRlFNb2hIcGNvMDNqRXRZSUVvUFNmbTR5VGVkNFpoSl9pQUR0bTc1VGFIOU1JcHltN2MyQjNsX19sOU43SUFnZVZQSVBRVDY2eXZCcnc1UzFtUVc4bVF3SkJnUWtBb0xZa3BReWN4cUNKanN4SGtyTG8wRXZJZTd1S0JHV2FrOTZFQXNoaGp0OTQ3ZDR4bS1lNmVIMHM0UnE2VlNSaEF0MGljY0l3YnBLd3FxVzZLV05EUmdlWV9CZ1RTTE9IbUwyY2o3czEzaWtHekZNSHZXdkIwZ3ltNWRHYVZUZzZNOU95cjMyQjU0Z1ZILXFpTVhaNjFSbFRsbHlmbDRKNEppSkMxYlJQbVlqU0ZrNGpaZU5zUENfa19hcG9oOXJ0a1c4U2JaOEVqSU1yUW5DY2J1bjNONWs3RUZpSmEtMnp4NFp0MlhYZVpxcUhGZUwyMlF6NXllYmJZRS13aHZLQzdDVnlfeXAxMG1MdndLRk9uTEhHeXd4allMOXdHZEdpWVZaek0zbnlQeWJ6LXRrWUN0R2VNMThaZHRJNVc5X2xoM0kzXy1zeDRyZXlPeE9zVlFzUHN6WXNOVFF6T3JSSVBnN1pMWS14N1lydzRUeWpsQmNiVDc1Z3EzTGQ4Vzc1aWF2VjhzcDhBa0xvQ2s1bTBhajE1OTJrZFJ1V3UtSEdFeWI4RzNKR2w5OWxGOFN6Z2prcHRxWDY4UFFiWFo0QXZrblNmV19XU0lna2R6RV93ZThGRkY0Q1c5MnBJUnptLUI2Y2kyWHd5aE1XeXlTVF9hSkF4aVA2U2JTZ3VRUFUxR2loTnYtQ0E?oc=5"
+source_confidence: "medium"
+published_at: "Tue, 08 Sep 2026 08:32:45 GMT"
+generated_at: "2026-09-08T15:27:51.717461+00:00"
+image_url: "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+trend: "virus"
+keywords:
+  - "virus"
+  - "outbreaks"
+  - "united states health news"
+  - "health trends"
+  - "medical news"
+  - "public health"
+  - "measles"
+  - "exposure"
+  - "reported"
+  - "universal"
+  - "studios"
+  - "hollywood"
+  - "abc7"
+  - "york"
+---
+
+# Measles exposure reported at Universal Studios Hollywood
+
+Measles exposure reported at Universal Studios Hollywood ABC7 New York
+
+## Why this topic is trending
+
+This update was selected because it is connected to a detected health trend in **United States**.
+
+Tracked trend: **virus**.
+
+## What happened
+
+This update is part of a wider health signal being monitored from public sources and regional news feeds. It may relate to public health, medical research, symptoms, outbreaks, treatments, wellness, healthcare systems, or health technology.
+
+## Why it matters
+
+- It may affect public awareness or online health searches.
+- It may be connected to health policy, disease monitoring, treatment updates, or scientific research.
+- The original source should be reviewed for full details and context.
+
+## Region
+
+**United States**
+
+## Category
+
+**Outbreaks**
+
+## Source context
+
+This article summarizes a public health signal from **Google News / United States**. HantaUpdates links to the original source so readers can verify details directly.
+
+## Medical disclaimer
+
+HantaUpdates does not provide medical advice, diagnosis, or treatment. Always follow guidance from your local health authority or a qualified medical professional.
