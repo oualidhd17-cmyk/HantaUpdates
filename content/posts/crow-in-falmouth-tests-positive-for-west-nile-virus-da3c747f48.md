@@ -1,0 +1,66 @@
+---
+title: "Crow in Falmouth tests positive for West Nile virus"
+description: "Crow in Falmouth tests positive for West Nile virus The Portland Press Herald"
+slug: "crow-in-falmouth-tests-positive-for-west-nile-virus-da3c747f48"
+category: "Outbreaks"
+region: "United States"
+source: "Google News / United States"
+source_url: "https://news.google.com/rss/articles/CBMilgFBVV95cUxQa24tT1g5VHFGc0R5ZUhhT0ZHbnZFck02cVJ5TVQ4aXRUWWowUkpnaTRHN2sxUG8tSjU0amZCazlFdlVnUDl4RTZibl9xMUMwR1YtbzJDOWtONUJzczdIOWNRWGJPQ2puWXhYb0F6RUFWVVBjR0djZ3VmRy1feXlSWmN0d0lsZF9nVGdwU2VOTl9ZVHJZaUE?oc=5"
+source_confidence: "medium"
+published_at: "Wed, 09 Sep 2026 14:52:35 GMT"
+generated_at: "2026-09-09T15:25:07.697693+00:00"
+image_url: "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+trend: "virus"
+keywords:
+  - "virus"
+  - "outbreaks"
+  - "united states health news"
+  - "health trends"
+  - "medical news"
+  - "public health"
+  - "crow"
+  - "falmouth"
+  - "tests"
+  - "positive"
+  - "west"
+  - "nile"
+  - "portland"
+  - "press"
+  - "herald"
+---
+
+# Crow in Falmouth tests positive for West Nile virus
+
+Crow in Falmouth tests positive for West Nile virus The Portland Press Herald
+
+## Why this topic is trending
+
+This update was selected because it is connected to a detected health trend in **United States**.
+
+Tracked trend: **virus**.
+
+## What happened
+
+This update is part of a wider health signal being monitored from public sources and regional news feeds. It may relate to public health, medical research, symptoms, outbreaks, treatments, wellness, healthcare systems, or health technology.
+
+## Why it matters
+
+- It may affect public awareness or online health searches.
+- It may be connected to health policy, disease monitoring, treatment updates, or scientific research.
+- The original source should be reviewed for full details and context.
+
+## Region
+
+**United States**
+
+## Category
+
+**Outbreaks**
+
+## Source context
+
+This article summarizes a public health signal from **Google News / United States**. HantaUpdates links to the original source so readers can verify details directly.
+
+## Medical disclaimer
+
+HantaUpdates does not provide medical advice, diagnosis, or treatment. Always follow guidance from your local health authority or a qualified medical professional.
