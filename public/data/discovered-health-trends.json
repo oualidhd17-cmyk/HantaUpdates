@@ -1,2819 +1,929 @@
 {
-  "updated_at": "2026-09-11T01:37:47.496414+00:00",
-  "total_trends": 252,
+  "updated_at": "2026-09-11T10:48:41.714493+00:00",
+  "total_trends": 126,
   "markets": {
     "United States": [
       {
-        "trend": "health",
+        "trend": "health alert",
         "market_code": "US",
         "category": "US Health",
-        "score": 68,
-        "examples": [
-          "Brain aging may be detected decades before symptoms appear, with links to gut health - uclahealth.org",
-          "September 16, 2026 - Florida Department of Health in Charlotte County (.gov)",
-          "Vermont awards first batch of $195 million in federal rural health funds - VTDigger"
-        ]
-      },
-      {
-        "trend": "medical",
-        "market_code": "US",
-        "category": "US Health",
-        "score": 21,
-        "examples": [
-          "Three newly endowed chair holders join the Benning Medical Society - The University of Utah",
-          "nuEra Champaign adds medical cannabis to the menu - Smile Politely",
-          "Newark Beth Israel Medical Center Opens Hybrid Cardiac Cath Lab - RWJBarnabas Health"
-        ]
-      },
-      {
-        "trend": "disease",
-        "market_code": "US",
-        "category": "US Health",
-        "score": 14,
-        "examples": [
-          "Ebola disease outbreak in the Democratic Republic of the Congo - European Centre for Disease Prevention and Control (ECDC)",
-          "Ebola disease outbreak in the Democratic Republic of the Congo - European Centre for Disease Prevention and Control (ECDC)",
-          "Nationwide Increase in Reported Human Rabies Exposures: Rabies Post-exposure Prophylaxis Administration - Centers for Disease Control and Prevention | CDC (.gov)"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
         "trend": "outbreak",
         "market_code": "US",
         "category": "Outbreaks",
-        "score": 14,
-        "examples": [
-          "Ebola disease outbreak in the Democratic Republic of the Congo - European Centre for Disease Prevention and Control (ECDC)",
-          "Ebola disease outbreak in the Democratic Republic of the Congo - European Centre for Disease Prevention and Control (ECDC)",
-          "Federal officials poised to declare end of U.S.’s largest known cyclosporiasis outbreak - The Washington Post"
-        ]
-      },
-      {
-        "trend": "mental",
-        "market_code": "US",
-        "category": "Mental Health",
-        "score": 14,
-        "examples": [
-          "Texas Health Resources mental health program integrates faith with therapy care - Fort Worth Report",
-          "Program focuses on mental health of WTC first responders - Spectrum News NY1",
-          "Back-to-school mental health & warning signs - FOX 7 Austin"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
         "trend": "mental health",
         "market_code": "US",
         "category": "Mental Health",
-        "score": 13,
-        "examples": [
-          "Texas Health Resources mental health program integrates faith with therapy care - Fort Worth Report",
-          "Program focuses on mental health of WTC first responders - Spectrum News NY1",
-          "Back-to-school mental health & warning signs - FOX 7 Austin"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "cancer",
+        "trend": "medical research",
         "market_code": "US",
-        "category": "Chronic Disease",
-        "score": 9,
-        "examples": [
-          "Ask Anthony: Jacksonville woman disputes nearly $178K medical bill after breast cancer treatment - firstcoastnews.com",
-          "Clinical trials: New mRNA cancer vaccine plus Keytruda sharply improves melanoma survival - UCHealth",
-          "Opinion | This Is the Biggest Obstacle to New Cancer Cures - The New York Times"
-        ]
+        "category": "US Health",
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "virus",
-        "market_code": "US",
-        "category": "Outbreaks",
-        "score": 8,
-        "examples": [
-          "Dengue virus cases nearly double in Hillsborough County - Bay News 9",
-          "Cochise County reports two confirmed cases of West Nile virus - kold.com",
-          "Fourth neuroinvasive form of West Nile virus case reported in Denton County - Denton Record-Chronicle"
-        ]
-      },
-      {
-        "trend": "treatment",
+        "trend": "drug approval",
         "market_code": "US",
         "category": "Drug & Treatment News",
-        "score": 7,
-        "examples": [
-          "Ask Anthony: Jacksonville woman disputes nearly $178K medical bill after breast cancer treatment - firstcoastnews.com",
-          "HIV i-Base | Macaque study eradicates simian HIV (SHIV) with combination treatment in very early infection - European AIDS Treatment Group",
-          "HIV i-Base | Macaque study eradicates simian HIV (SHIV) with combination treatment in very early infection - European AIDS Treatment Group"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "children",
+        "trend": "diet wellness",
         "market_code": "US",
-        "category": "Children Health",
-        "score": 7,
-        "examples": [
-          "Recognizing suicide warning signs in children and teens - Sanford Health News",
-          "Study highlights disparities in access to new pediatric food allergy treatment, omalizumab - Children's National",
-          "Children’s suicide-related emergency visits spiked by 74% in the US between 2016-2022 - Northwestern Now News"
-        ]
-      },
-      {
-        "trend": "clinical",
-        "market_code": "US",
-        "category": "US Health",
-        "score": 7,
-        "examples": [
-          "Clinical Management of an Odontogenic Infection With an Extraoral Sinus Tract in an 11-Year-Old Child: A Case Report - Cureus",
-          "Less than 1% of FDA-cleared AI devices tested for clinical benefits - TechTarget",
-          "Moderna begins Phase 1 clinical trial of Ebola vaccine against strain behind DRC outbreak - ABC News - Breaking News, Latest News and Videos"
-        ]
-      },
-      {
-        "trend": "healthcare",
-        "market_code": "US",
-        "category": "US Health",
-        "score": 7,
-        "examples": [
-          "Profound Medical Stock And 2 Canadian AI Healthcare Stocks To Watch - Yahoo Finance",
-          "Roundup: Using AI to better integrate virtual modalities into care delivery - Healthcare IT News",
-          "NHS doctor-led commission issues blueprint for AI’s safe adoption in healthcare - Medical Device Network"
-        ]
+        "category": "Diet & Wellness",
+        "score": 1,
+        "examples": []
       }
     ],
     "United Kingdom": [
       {
-        "trend": "health",
+        "trend": "health alert",
         "market_code": "GB",
         "category": "Europe Health",
-        "score": 65,
-        "examples": [
-          "Does your partner's snoring keep you up? It could be impacting your health - BBC",
-          "British divers get behind new Royal Foundation mental health toolkit - Team GB",
-          "Lincolnshire’s pilot Soil Health Clinic plans to unearth new growth - Lincolnshire County Council"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
         "trend": "outbreak",
         "market_code": "GB",
         "category": "Outbreaks",
-        "score": 15,
-        "examples": [
-          "Ebola disease outbreak in the Democratic Republic of the Congo - European Centre for Disease Prevention and Control (ECDC)",
-          "Ebola disease outbreak in the Democratic Republic of the Congo - European Centre for Disease Prevention and Control (ECDC)",
-          "Ebola outbreak in DR Congo expands to new health zone, bringing total to 61: WHO - Anadolu Ajansı"
-        ]
-      },
-      {
-        "trend": "medical",
-        "market_code": "GB",
-        "category": "Europe Health",
-        "score": 15,
-        "examples": [
-          "BBC challenges former Nottingham medical director - BBC",
-          "Queen's Medical Centre entrance and parking get £3.7m facelift - BBC",
-          "AI in Virtual Medical Assistant Market to Reach US$ 12.3 Bn by 2031, Growing at 36.5% CAGR, New Report by Wissen Research - Yahoo Finance UK"
-        ]
-      },
-      {
-        "trend": "mental",
-        "market_code": "GB",
-        "category": "Mental Health",
-        "score": 14,
-        "examples": [
-          "British divers get behind new Royal Foundation mental health toolkit - Team GB",
-          "Kids face a cliff edge in independence which can impact mental health - University of Exeter News",
-          "Prince’s mental health warning: We don’t see what’s happening behind closed doors - The Telegraph"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
         "trend": "mental health",
         "market_code": "GB",
         "category": "Mental Health",
-        "score": 14,
-        "examples": [
-          "British divers get behind new Royal Foundation mental health toolkit - Team GB",
-          "Kids face a cliff edge in independence which can impact mental health - University of Exeter News",
-          "Prince’s mental health warning: We don’t see what’s happening behind closed doors - The Telegraph"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "disease",
+        "trend": "medical research",
         "market_code": "GB",
         "category": "Europe Health",
-        "score": 13,
-        "examples": [
-          "Ebola disease outbreak in the Democratic Republic of the Congo - European Centre for Disease Prevention and Control (ECDC)",
-          "Ebola disease outbreak in the Democratic Republic of the Congo - European Centre for Disease Prevention and Control (ECDC)",
-          "Phenomic profiles and disease patterns of 1.9 million participants from Our Future Health - Nature"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "cancer",
+        "trend": "drug approval",
         "market_code": "GB",
-        "category": "Chronic Disease",
-        "score": 11,
-        "examples": [
-          "Health Minister announces £1.25 million for community cancer support - health-ni.gov.uk",
-          "Health Minister announces £1.25 million for community cancer support - health-ni.gov.uk",
-          "Piping Hot Drinks & Esophagus Cancer; Belching Disorder in GERD; Outbreak Sickens 22 - MedPage Today"
-        ]
+        "category": "Drug & Treatment News",
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "healthcare",
+        "trend": "diet wellness",
         "market_code": "GB",
-        "category": "Europe Health",
-        "score": 11,
-        "examples": [
-          "MHRA and Manchester trust launch medical technology testing programme for the NHS - Building Better Healthcare",
-          "Government agrees online harm should be public health issue - Healthcare Management Magazine",
-          "Mueller Europe launches copper device to reduce hospital sink infection risk - Building Better Healthcare"
-        ]
-      },
-      {
-        "trend": "virus",
-        "market_code": "GB",
-        "category": "Outbreaks",
-        "score": 11,
-        "examples": [
-          "West Nile virus hits Europe as temperatures climb - The Telegraph",
-          "Protein shape shift reveals how the mpox virus begins replicating - Medical Xpress",
-          "Temporal lymphatic tissue destruction and impairment of de novo T cell responses after an acute virus infection - Nature"
-        ]
-      },
-      {
-        "trend": "infection",
-        "market_code": "GB",
-        "category": "Outbreaks",
-        "score": 8,
-        "examples": [
-          "Temporal lymphatic tissue destruction and impairment of de novo T cell responses after an acute virus infection - Nature",
-          "IgA monoclonal antibodies as a prophylactic and therapeutic treatment for dengue virus infection - eurekalert.org",
-          "HIV i-Base | Macaque study eradicates simian HIV (SHIV) with combination treatment in very early infection - European AIDS Treatment Group"
-        ]
-      },
-      {
-        "trend": "warning",
-        "market_code": "GB",
-        "category": "Europe Health",
-        "score": 7,
-        "examples": [
-          "Prince’s mental health warning: We don’t see what’s happening behind closed doors - The Telegraph",
-          "Wales children’s health warning raises fresh questions for Rhondda Cynon Taf - aberdareonline.co.uk",
-          "Is The Pink Gelatin Trick Legit? Evidence, Reviews And Warning Signs - Cal Poly Pomona"
-        ]
-      },
-      {
-        "trend": "children",
-        "market_code": "GB",
-        "category": "Children Health",
-        "score": 7,
-        "examples": [
-          "Wales children’s health warning raises fresh questions for Rhondda Cynon Taf - aberdareonline.co.uk",
-          "Recognizing suicide warning signs in children and teens - Sanford Health News",
-          "Oral drug offers promising advance for children with achondroplasia - News-Medical"
-        ]
+        "category": "Diet & Wellness",
+        "score": 1,
+        "examples": []
       }
     ],
     "Germany": [
       {
-        "trend": "health",
+        "trend": "health alert",
         "market_code": "DE",
         "category": "Europe Health",
-        "score": 68,
-        "examples": [
-          "Brain aging may be detected decades before symptoms appear, with links to gut health - uclahealth.org",
-          "September 16, 2026 - Florida Department of Health in Charlotte County (.gov)",
-          "Vermont awards first batch of $195 million in federal rural health funds - VTDigger"
-        ]
-      },
-      {
-        "trend": "medical",
-        "market_code": "DE",
-        "category": "Europe Health",
-        "score": 21,
-        "examples": [
-          "Three newly endowed chair holders join the Benning Medical Society - The University of Utah",
-          "nuEra Champaign adds medical cannabis to the menu - Smile Politely",
-          "Newark Beth Israel Medical Center Opens Hybrid Cardiac Cath Lab - RWJBarnabas Health"
-        ]
-      },
-      {
-        "trend": "disease",
-        "market_code": "DE",
-        "category": "Europe Health",
-        "score": 14,
-        "examples": [
-          "Ebola disease outbreak in the Democratic Republic of the Congo - European Centre for Disease Prevention and Control (ECDC)",
-          "Ebola disease outbreak in the Democratic Republic of the Congo - European Centre for Disease Prevention and Control (ECDC)",
-          "Nationwide Increase in Reported Human Rabies Exposures: Rabies Post-exposure Prophylaxis Administration - Centers for Disease Control and Prevention | CDC (.gov)"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
         "trend": "outbreak",
         "market_code": "DE",
         "category": "Outbreaks",
-        "score": 14,
-        "examples": [
-          "Ebola disease outbreak in the Democratic Republic of the Congo - European Centre for Disease Prevention and Control (ECDC)",
-          "Ebola disease outbreak in the Democratic Republic of the Congo - European Centre for Disease Prevention and Control (ECDC)",
-          "Federal officials poised to declare end of U.S.’s largest known cyclosporiasis outbreak - The Washington Post"
-        ]
-      },
-      {
-        "trend": "mental",
-        "market_code": "DE",
-        "category": "Mental Health",
-        "score": 14,
-        "examples": [
-          "Texas Health Resources mental health program integrates faith with therapy care - Fort Worth Report",
-          "Program focuses on mental health of WTC first responders - Spectrum News NY1",
-          "Back-to-school mental health & warning signs - FOX 7 Austin"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
         "trend": "mental health",
         "market_code": "DE",
         "category": "Mental Health",
-        "score": 13,
-        "examples": [
-          "Texas Health Resources mental health program integrates faith with therapy care - Fort Worth Report",
-          "Program focuses on mental health of WTC first responders - Spectrum News NY1",
-          "Back-to-school mental health & warning signs - FOX 7 Austin"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "cancer",
+        "trend": "medical research",
         "market_code": "DE",
-        "category": "Chronic Disease",
-        "score": 9,
-        "examples": [
-          "Ask Anthony: Jacksonville woman disputes nearly $178K medical bill after breast cancer treatment - firstcoastnews.com",
-          "Clinical trials: New mRNA cancer vaccine plus Keytruda sharply improves melanoma survival - UCHealth",
-          "Opinion | This Is the Biggest Obstacle to New Cancer Cures - The New York Times"
-        ]
+        "category": "Europe Health",
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "virus",
-        "market_code": "DE",
-        "category": "Outbreaks",
-        "score": 8,
-        "examples": [
-          "Dengue virus cases nearly double in Hillsborough County - Bay News 9",
-          "Cochise County reports two confirmed cases of West Nile virus - kold.com",
-          "Fourth neuroinvasive form of West Nile virus case reported in Denton County - Denton Record-Chronicle"
-        ]
-      },
-      {
-        "trend": "treatment",
+        "trend": "drug approval",
         "market_code": "DE",
         "category": "Drug & Treatment News",
-        "score": 7,
-        "examples": [
-          "Ask Anthony: Jacksonville woman disputes nearly $178K medical bill after breast cancer treatment - firstcoastnews.com",
-          "HIV i-Base | Macaque study eradicates simian HIV (SHIV) with combination treatment in very early infection - European AIDS Treatment Group",
-          "HIV i-Base | Macaque study eradicates simian HIV (SHIV) with combination treatment in very early infection - European AIDS Treatment Group"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "children",
+        "trend": "diet wellness",
         "market_code": "DE",
-        "category": "Children Health",
-        "score": 7,
-        "examples": [
-          "Recognizing suicide warning signs in children and teens - Sanford Health News",
-          "Study highlights disparities in access to new pediatric food allergy treatment, omalizumab - Children's National",
-          "Children’s suicide-related emergency visits spiked by 74% in the US between 2016-2022 - Northwestern Now News"
-        ]
-      },
-      {
-        "trend": "clinical",
-        "market_code": "DE",
-        "category": "Europe Health",
-        "score": 7,
-        "examples": [
-          "Clinical Management of an Odontogenic Infection With an Extraoral Sinus Tract in an 11-Year-Old Child: A Case Report - Cureus",
-          "Less than 1% of FDA-cleared AI devices tested for clinical benefits - TechTarget",
-          "Moderna begins Phase 1 clinical trial of Ebola vaccine against strain behind DRC outbreak - ABC News - Breaking News, Latest News and Videos"
-        ]
-      },
-      {
-        "trend": "healthcare",
-        "market_code": "DE",
-        "category": "Europe Health",
-        "score": 7,
-        "examples": [
-          "Profound Medical Stock And 2 Canadian AI Healthcare Stocks To Watch - Yahoo Finance",
-          "Roundup: Using AI to better integrate virtual modalities into care delivery - Healthcare IT News",
-          "NHS doctor-led commission issues blueprint for AI’s safe adoption in healthcare - Medical Device Network"
-        ]
+        "category": "Diet & Wellness",
+        "score": 1,
+        "examples": []
       }
     ],
     "France": [
       {
-        "trend": "health",
+        "trend": "health alert",
         "market_code": "FR",
         "category": "Europe Health",
-        "score": 68,
-        "examples": [
-          "Brain aging may be detected decades before symptoms appear, with links to gut health - uclahealth.org",
-          "September 16, 2026 - Florida Department of Health in Charlotte County (.gov)",
-          "Vermont awards first batch of $195 million in federal rural health funds - VTDigger"
-        ]
-      },
-      {
-        "trend": "medical",
-        "market_code": "FR",
-        "category": "Europe Health",
-        "score": 21,
-        "examples": [
-          "Three newly endowed chair holders join the Benning Medical Society - The University of Utah",
-          "nuEra Champaign adds medical cannabis to the menu - Smile Politely",
-          "Newark Beth Israel Medical Center Opens Hybrid Cardiac Cath Lab - RWJBarnabas Health"
-        ]
-      },
-      {
-        "trend": "disease",
-        "market_code": "FR",
-        "category": "Europe Health",
-        "score": 14,
-        "examples": [
-          "Ebola disease outbreak in the Democratic Republic of the Congo - European Centre for Disease Prevention and Control (ECDC)",
-          "Ebola disease outbreak in the Democratic Republic of the Congo - European Centre for Disease Prevention and Control (ECDC)",
-          "Nationwide Increase in Reported Human Rabies Exposures: Rabies Post-exposure Prophylaxis Administration - Centers for Disease Control and Prevention | CDC (.gov)"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
         "trend": "outbreak",
         "market_code": "FR",
         "category": "Outbreaks",
-        "score": 14,
-        "examples": [
-          "Ebola disease outbreak in the Democratic Republic of the Congo - European Centre for Disease Prevention and Control (ECDC)",
-          "Ebola disease outbreak in the Democratic Republic of the Congo - European Centre for Disease Prevention and Control (ECDC)",
-          "Federal officials poised to declare end of U.S.’s largest known cyclosporiasis outbreak - The Washington Post"
-        ]
-      },
-      {
-        "trend": "mental",
-        "market_code": "FR",
-        "category": "Mental Health",
-        "score": 14,
-        "examples": [
-          "Texas Health Resources mental health program integrates faith with therapy care - Fort Worth Report",
-          "Program focuses on mental health of WTC first responders - Spectrum News NY1",
-          "Back-to-school mental health & warning signs - FOX 7 Austin"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
         "trend": "mental health",
         "market_code": "FR",
         "category": "Mental Health",
-        "score": 13,
-        "examples": [
-          "Texas Health Resources mental health program integrates faith with therapy care - Fort Worth Report",
-          "Program focuses on mental health of WTC first responders - Spectrum News NY1",
-          "Back-to-school mental health & warning signs - FOX 7 Austin"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "cancer",
+        "trend": "medical research",
         "market_code": "FR",
-        "category": "Chronic Disease",
-        "score": 9,
-        "examples": [
-          "Ask Anthony: Jacksonville woman disputes nearly $178K medical bill after breast cancer treatment - firstcoastnews.com",
-          "Clinical trials: New mRNA cancer vaccine plus Keytruda sharply improves melanoma survival - UCHealth",
-          "Opinion | This Is the Biggest Obstacle to New Cancer Cures - The New York Times"
-        ]
+        "category": "Europe Health",
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "virus",
-        "market_code": "FR",
-        "category": "Outbreaks",
-        "score": 8,
-        "examples": [
-          "Dengue virus cases nearly double in Hillsborough County - Bay News 9",
-          "Cochise County reports two confirmed cases of West Nile virus - kold.com",
-          "Fourth neuroinvasive form of West Nile virus case reported in Denton County - Denton Record-Chronicle"
-        ]
-      },
-      {
-        "trend": "treatment",
+        "trend": "drug approval",
         "market_code": "FR",
         "category": "Drug & Treatment News",
-        "score": 7,
-        "examples": [
-          "Ask Anthony: Jacksonville woman disputes nearly $178K medical bill after breast cancer treatment - firstcoastnews.com",
-          "HIV i-Base | Macaque study eradicates simian HIV (SHIV) with combination treatment in very early infection - European AIDS Treatment Group",
-          "HIV i-Base | Macaque study eradicates simian HIV (SHIV) with combination treatment in very early infection - European AIDS Treatment Group"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "children",
+        "trend": "diet wellness",
         "market_code": "FR",
-        "category": "Children Health",
-        "score": 7,
-        "examples": [
-          "Recognizing suicide warning signs in children and teens - Sanford Health News",
-          "Study highlights disparities in access to new pediatric food allergy treatment, omalizumab - Children's National",
-          "Children’s suicide-related emergency visits spiked by 74% in the US between 2016-2022 - Northwestern Now News"
-        ]
-      },
-      {
-        "trend": "clinical",
-        "market_code": "FR",
-        "category": "Europe Health",
-        "score": 7,
-        "examples": [
-          "Clinical Management of an Odontogenic Infection With an Extraoral Sinus Tract in an 11-Year-Old Child: A Case Report - Cureus",
-          "Less than 1% of FDA-cleared AI devices tested for clinical benefits - TechTarget",
-          "Moderna begins Phase 1 clinical trial of Ebola vaccine against strain behind DRC outbreak - ABC News - Breaking News, Latest News and Videos"
-        ]
-      },
-      {
-        "trend": "healthcare",
-        "market_code": "FR",
-        "category": "Europe Health",
-        "score": 7,
-        "examples": [
-          "Profound Medical Stock And 2 Canadian AI Healthcare Stocks To Watch - Yahoo Finance",
-          "Roundup: Using AI to better integrate virtual modalities into care delivery - Healthcare IT News",
-          "NHS doctor-led commission issues blueprint for AI’s safe adoption in healthcare - Medical Device Network"
-        ]
+        "category": "Diet & Wellness",
+        "score": 1,
+        "examples": []
       }
     ],
     "Italy": [
       {
-        "trend": "health",
+        "trend": "health alert",
         "market_code": "IT",
         "category": "Europe Health",
-        "score": 68,
-        "examples": [
-          "Brain aging may be detected decades before symptoms appear, with links to gut health - uclahealth.org",
-          "September 16, 2026 - Florida Department of Health in Charlotte County (.gov)",
-          "Vermont awards first batch of $195 million in federal rural health funds - VTDigger"
-        ]
-      },
-      {
-        "trend": "medical",
-        "market_code": "IT",
-        "category": "Europe Health",
-        "score": 21,
-        "examples": [
-          "Three newly endowed chair holders join the Benning Medical Society - The University of Utah",
-          "nuEra Champaign adds medical cannabis to the menu - Smile Politely",
-          "Newark Beth Israel Medical Center Opens Hybrid Cardiac Cath Lab - RWJBarnabas Health"
-        ]
-      },
-      {
-        "trend": "disease",
-        "market_code": "IT",
-        "category": "Europe Health",
-        "score": 14,
-        "examples": [
-          "Ebola disease outbreak in the Democratic Republic of the Congo - European Centre for Disease Prevention and Control (ECDC)",
-          "Ebola disease outbreak in the Democratic Republic of the Congo - European Centre for Disease Prevention and Control (ECDC)",
-          "Nationwide Increase in Reported Human Rabies Exposures: Rabies Post-exposure Prophylaxis Administration - Centers for Disease Control and Prevention | CDC (.gov)"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
         "trend": "outbreak",
         "market_code": "IT",
         "category": "Outbreaks",
-        "score": 14,
-        "examples": [
-          "Ebola disease outbreak in the Democratic Republic of the Congo - European Centre for Disease Prevention and Control (ECDC)",
-          "Ebola disease outbreak in the Democratic Republic of the Congo - European Centre for Disease Prevention and Control (ECDC)",
-          "Federal officials poised to declare end of U.S.’s largest known cyclosporiasis outbreak - The Washington Post"
-        ]
-      },
-      {
-        "trend": "mental",
-        "market_code": "IT",
-        "category": "Mental Health",
-        "score": 14,
-        "examples": [
-          "Texas Health Resources mental health program integrates faith with therapy care - Fort Worth Report",
-          "Program focuses on mental health of WTC first responders - Spectrum News NY1",
-          "Back-to-school mental health & warning signs - FOX 7 Austin"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
         "trend": "mental health",
         "market_code": "IT",
         "category": "Mental Health",
-        "score": 13,
-        "examples": [
-          "Texas Health Resources mental health program integrates faith with therapy care - Fort Worth Report",
-          "Program focuses on mental health of WTC first responders - Spectrum News NY1",
-          "Back-to-school mental health & warning signs - FOX 7 Austin"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "cancer",
+        "trend": "medical research",
         "market_code": "IT",
-        "category": "Chronic Disease",
-        "score": 9,
-        "examples": [
-          "Ask Anthony: Jacksonville woman disputes nearly $178K medical bill after breast cancer treatment - firstcoastnews.com",
-          "Clinical trials: New mRNA cancer vaccine plus Keytruda sharply improves melanoma survival - UCHealth",
-          "Opinion | This Is the Biggest Obstacle to New Cancer Cures - The New York Times"
-        ]
+        "category": "Europe Health",
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "virus",
-        "market_code": "IT",
-        "category": "Outbreaks",
-        "score": 8,
-        "examples": [
-          "Dengue virus cases nearly double in Hillsborough County - Bay News 9",
-          "Cochise County reports two confirmed cases of West Nile virus - kold.com",
-          "Fourth neuroinvasive form of West Nile virus case reported in Denton County - Denton Record-Chronicle"
-        ]
-      },
-      {
-        "trend": "treatment",
+        "trend": "drug approval",
         "market_code": "IT",
         "category": "Drug & Treatment News",
-        "score": 7,
-        "examples": [
-          "Ask Anthony: Jacksonville woman disputes nearly $178K medical bill after breast cancer treatment - firstcoastnews.com",
-          "HIV i-Base | Macaque study eradicates simian HIV (SHIV) with combination treatment in very early infection - European AIDS Treatment Group",
-          "HIV i-Base | Macaque study eradicates simian HIV (SHIV) with combination treatment in very early infection - European AIDS Treatment Group"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "children",
+        "trend": "diet wellness",
         "market_code": "IT",
-        "category": "Children Health",
-        "score": 7,
-        "examples": [
-          "Recognizing suicide warning signs in children and teens - Sanford Health News",
-          "Study highlights disparities in access to new pediatric food allergy treatment, omalizumab - Children's National",
-          "Children’s suicide-related emergency visits spiked by 74% in the US between 2016-2022 - Northwestern Now News"
-        ]
-      },
-      {
-        "trend": "clinical",
-        "market_code": "IT",
-        "category": "Europe Health",
-        "score": 7,
-        "examples": [
-          "Clinical Management of an Odontogenic Infection With an Extraoral Sinus Tract in an 11-Year-Old Child: A Case Report - Cureus",
-          "Less than 1% of FDA-cleared AI devices tested for clinical benefits - TechTarget",
-          "Moderna begins Phase 1 clinical trial of Ebola vaccine against strain behind DRC outbreak - ABC News - Breaking News, Latest News and Videos"
-        ]
-      },
-      {
-        "trend": "healthcare",
-        "market_code": "IT",
-        "category": "Europe Health",
-        "score": 7,
-        "examples": [
-          "Profound Medical Stock And 2 Canadian AI Healthcare Stocks To Watch - Yahoo Finance",
-          "Roundup: Using AI to better integrate virtual modalities into care delivery - Healthcare IT News",
-          "NHS doctor-led commission issues blueprint for AI’s safe adoption in healthcare - Medical Device Network"
-        ]
+        "category": "Diet & Wellness",
+        "score": 1,
+        "examples": []
       }
     ],
     "Spain": [
       {
-        "trend": "health",
+        "trend": "health alert",
         "market_code": "ES",
         "category": "Europe Health",
-        "score": 68,
-        "examples": [
-          "Brain aging may be detected decades before symptoms appear, with links to gut health - uclahealth.org",
-          "September 16, 2026 - Florida Department of Health in Charlotte County (.gov)",
-          "Vermont awards first batch of $195 million in federal rural health funds - VTDigger"
-        ]
-      },
-      {
-        "trend": "medical",
-        "market_code": "ES",
-        "category": "Europe Health",
-        "score": 21,
-        "examples": [
-          "Three newly endowed chair holders join the Benning Medical Society - The University of Utah",
-          "nuEra Champaign adds medical cannabis to the menu - Smile Politely",
-          "Newark Beth Israel Medical Center Opens Hybrid Cardiac Cath Lab - RWJBarnabas Health"
-        ]
-      },
-      {
-        "trend": "disease",
-        "market_code": "ES",
-        "category": "Europe Health",
-        "score": 14,
-        "examples": [
-          "Ebola disease outbreak in the Democratic Republic of the Congo - European Centre for Disease Prevention and Control (ECDC)",
-          "Ebola disease outbreak in the Democratic Republic of the Congo - European Centre for Disease Prevention and Control (ECDC)",
-          "Nationwide Increase in Reported Human Rabies Exposures: Rabies Post-exposure Prophylaxis Administration - Centers for Disease Control and Prevention | CDC (.gov)"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
         "trend": "outbreak",
         "market_code": "ES",
         "category": "Outbreaks",
-        "score": 14,
-        "examples": [
-          "Ebola disease outbreak in the Democratic Republic of the Congo - European Centre for Disease Prevention and Control (ECDC)",
-          "Ebola disease outbreak in the Democratic Republic of the Congo - European Centre for Disease Prevention and Control (ECDC)",
-          "Federal officials poised to declare end of U.S.’s largest known cyclosporiasis outbreak - The Washington Post"
-        ]
-      },
-      {
-        "trend": "mental",
-        "market_code": "ES",
-        "category": "Mental Health",
-        "score": 14,
-        "examples": [
-          "Texas Health Resources mental health program integrates faith with therapy care - Fort Worth Report",
-          "Program focuses on mental health of WTC first responders - Spectrum News NY1",
-          "Back-to-school mental health & warning signs - FOX 7 Austin"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
         "trend": "mental health",
         "market_code": "ES",
         "category": "Mental Health",
-        "score": 13,
-        "examples": [
-          "Texas Health Resources mental health program integrates faith with therapy care - Fort Worth Report",
-          "Program focuses on mental health of WTC first responders - Spectrum News NY1",
-          "Back-to-school mental health & warning signs - FOX 7 Austin"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "cancer",
+        "trend": "medical research",
         "market_code": "ES",
-        "category": "Chronic Disease",
-        "score": 9,
-        "examples": [
-          "Ask Anthony: Jacksonville woman disputes nearly $178K medical bill after breast cancer treatment - firstcoastnews.com",
-          "Clinical trials: New mRNA cancer vaccine plus Keytruda sharply improves melanoma survival - UCHealth",
-          "Opinion | This Is the Biggest Obstacle to New Cancer Cures - The New York Times"
-        ]
+        "category": "Europe Health",
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "virus",
-        "market_code": "ES",
-        "category": "Outbreaks",
-        "score": 8,
-        "examples": [
-          "Dengue virus cases nearly double in Hillsborough County - Bay News 9",
-          "Cochise County reports two confirmed cases of West Nile virus - kold.com",
-          "Fourth neuroinvasive form of West Nile virus case reported in Denton County - Denton Record-Chronicle"
-        ]
-      },
-      {
-        "trend": "treatment",
+        "trend": "drug approval",
         "market_code": "ES",
         "category": "Drug & Treatment News",
-        "score": 7,
-        "examples": [
-          "Ask Anthony: Jacksonville woman disputes nearly $178K medical bill after breast cancer treatment - firstcoastnews.com",
-          "HIV i-Base | Macaque study eradicates simian HIV (SHIV) with combination treatment in very early infection - European AIDS Treatment Group",
-          "HIV i-Base | Macaque study eradicates simian HIV (SHIV) with combination treatment in very early infection - European AIDS Treatment Group"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "children",
+        "trend": "diet wellness",
         "market_code": "ES",
-        "category": "Children Health",
-        "score": 7,
-        "examples": [
-          "Recognizing suicide warning signs in children and teens - Sanford Health News",
-          "Study highlights disparities in access to new pediatric food allergy treatment, omalizumab - Children's National",
-          "Children’s suicide-related emergency visits spiked by 74% in the US between 2016-2022 - Northwestern Now News"
-        ]
-      },
-      {
-        "trend": "clinical",
-        "market_code": "ES",
-        "category": "Europe Health",
-        "score": 7,
-        "examples": [
-          "Clinical Management of an Odontogenic Infection With an Extraoral Sinus Tract in an 11-Year-Old Child: A Case Report - Cureus",
-          "Less than 1% of FDA-cleared AI devices tested for clinical benefits - TechTarget",
-          "Moderna begins Phase 1 clinical trial of Ebola vaccine against strain behind DRC outbreak - ABC News - Breaking News, Latest News and Videos"
-        ]
-      },
-      {
-        "trend": "healthcare",
-        "market_code": "ES",
-        "category": "Europe Health",
-        "score": 7,
-        "examples": [
-          "Profound Medical Stock And 2 Canadian AI Healthcare Stocks To Watch - Yahoo Finance",
-          "Roundup: Using AI to better integrate virtual modalities into care delivery - Healthcare IT News",
-          "NHS doctor-led commission issues blueprint for AI’s safe adoption in healthcare - Medical Device Network"
-        ]
+        "category": "Diet & Wellness",
+        "score": 1,
+        "examples": []
       }
     ],
     "Sweden": [
       {
-        "trend": "health",
+        "trend": "health alert",
         "market_code": "SE",
         "category": "Europe Health",
-        "score": 68,
-        "examples": [
-          "Brain aging may be detected decades before symptoms appear, with links to gut health - uclahealth.org",
-          "September 16, 2026 - Florida Department of Health in Charlotte County (.gov)",
-          "Vermont awards first batch of $195 million in federal rural health funds - VTDigger"
-        ]
-      },
-      {
-        "trend": "medical",
-        "market_code": "SE",
-        "category": "Europe Health",
-        "score": 21,
-        "examples": [
-          "Three newly endowed chair holders join the Benning Medical Society - The University of Utah",
-          "nuEra Champaign adds medical cannabis to the menu - Smile Politely",
-          "Newark Beth Israel Medical Center Opens Hybrid Cardiac Cath Lab - RWJBarnabas Health"
-        ]
-      },
-      {
-        "trend": "disease",
-        "market_code": "SE",
-        "category": "Europe Health",
-        "score": 14,
-        "examples": [
-          "Ebola disease outbreak in the Democratic Republic of the Congo - European Centre for Disease Prevention and Control (ECDC)",
-          "Ebola disease outbreak in the Democratic Republic of the Congo - European Centre for Disease Prevention and Control (ECDC)",
-          "Nationwide Increase in Reported Human Rabies Exposures: Rabies Post-exposure Prophylaxis Administration - Centers for Disease Control and Prevention | CDC (.gov)"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
         "trend": "outbreak",
         "market_code": "SE",
         "category": "Outbreaks",
-        "score": 14,
-        "examples": [
-          "Ebola disease outbreak in the Democratic Republic of the Congo - European Centre for Disease Prevention and Control (ECDC)",
-          "Ebola disease outbreak in the Democratic Republic of the Congo - European Centre for Disease Prevention and Control (ECDC)",
-          "Federal officials poised to declare end of U.S.’s largest known cyclosporiasis outbreak - The Washington Post"
-        ]
-      },
-      {
-        "trend": "mental",
-        "market_code": "SE",
-        "category": "Mental Health",
-        "score": 14,
-        "examples": [
-          "Texas Health Resources mental health program integrates faith with therapy care - Fort Worth Report",
-          "Program focuses on mental health of WTC first responders - Spectrum News NY1",
-          "Back-to-school mental health & warning signs - FOX 7 Austin"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
         "trend": "mental health",
         "market_code": "SE",
         "category": "Mental Health",
-        "score": 13,
-        "examples": [
-          "Texas Health Resources mental health program integrates faith with therapy care - Fort Worth Report",
-          "Program focuses on mental health of WTC first responders - Spectrum News NY1",
-          "Back-to-school mental health & warning signs - FOX 7 Austin"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "cancer",
+        "trend": "medical research",
         "market_code": "SE",
-        "category": "Chronic Disease",
-        "score": 9,
-        "examples": [
-          "Ask Anthony: Jacksonville woman disputes nearly $178K medical bill after breast cancer treatment - firstcoastnews.com",
-          "Clinical trials: New mRNA cancer vaccine plus Keytruda sharply improves melanoma survival - UCHealth",
-          "Opinion | This Is the Biggest Obstacle to New Cancer Cures - The New York Times"
-        ]
+        "category": "Europe Health",
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "virus",
-        "market_code": "SE",
-        "category": "Outbreaks",
-        "score": 8,
-        "examples": [
-          "Dengue virus cases nearly double in Hillsborough County - Bay News 9",
-          "Cochise County reports two confirmed cases of West Nile virus - kold.com",
-          "Fourth neuroinvasive form of West Nile virus case reported in Denton County - Denton Record-Chronicle"
-        ]
-      },
-      {
-        "trend": "treatment",
+        "trend": "drug approval",
         "market_code": "SE",
         "category": "Drug & Treatment News",
-        "score": 7,
-        "examples": [
-          "Ask Anthony: Jacksonville woman disputes nearly $178K medical bill after breast cancer treatment - firstcoastnews.com",
-          "HIV i-Base | Macaque study eradicates simian HIV (SHIV) with combination treatment in very early infection - European AIDS Treatment Group",
-          "HIV i-Base | Macaque study eradicates simian HIV (SHIV) with combination treatment in very early infection - European AIDS Treatment Group"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "children",
+        "trend": "diet wellness",
         "market_code": "SE",
-        "category": "Children Health",
-        "score": 7,
-        "examples": [
-          "Recognizing suicide warning signs in children and teens - Sanford Health News",
-          "Study highlights disparities in access to new pediatric food allergy treatment, omalizumab - Children's National",
-          "Children’s suicide-related emergency visits spiked by 74% in the US between 2016-2022 - Northwestern Now News"
-        ]
-      },
-      {
-        "trend": "clinical",
-        "market_code": "SE",
-        "category": "Europe Health",
-        "score": 7,
-        "examples": [
-          "Clinical Management of an Odontogenic Infection With an Extraoral Sinus Tract in an 11-Year-Old Child: A Case Report - Cureus",
-          "Less than 1% of FDA-cleared AI devices tested for clinical benefits - TechTarget",
-          "Moderna begins Phase 1 clinical trial of Ebola vaccine against strain behind DRC outbreak - ABC News - Breaking News, Latest News and Videos"
-        ]
-      },
-      {
-        "trend": "healthcare",
-        "market_code": "SE",
-        "category": "Europe Health",
-        "score": 7,
-        "examples": [
-          "Profound Medical Stock And 2 Canadian AI Healthcare Stocks To Watch - Yahoo Finance",
-          "Roundup: Using AI to better integrate virtual modalities into care delivery - Healthcare IT News",
-          "NHS doctor-led commission issues blueprint for AI’s safe adoption in healthcare - Medical Device Network"
-        ]
+        "category": "Diet & Wellness",
+        "score": 1,
+        "examples": []
       }
     ],
     "Netherlands": [
       {
-        "trend": "health",
+        "trend": "health alert",
         "market_code": "NL",
         "category": "Europe Health",
-        "score": 68,
-        "examples": [
-          "Brain aging may be detected decades before symptoms appear, with links to gut health - uclahealth.org",
-          "September 16, 2026 - Florida Department of Health in Charlotte County (.gov)",
-          "Vermont awards first batch of $195 million in federal rural health funds - VTDigger"
-        ]
-      },
-      {
-        "trend": "medical",
-        "market_code": "NL",
-        "category": "Europe Health",
-        "score": 21,
-        "examples": [
-          "Three newly endowed chair holders join the Benning Medical Society - The University of Utah",
-          "nuEra Champaign adds medical cannabis to the menu - Smile Politely",
-          "Newark Beth Israel Medical Center Opens Hybrid Cardiac Cath Lab - RWJBarnabas Health"
-        ]
-      },
-      {
-        "trend": "disease",
-        "market_code": "NL",
-        "category": "Europe Health",
-        "score": 14,
-        "examples": [
-          "Ebola disease outbreak in the Democratic Republic of the Congo - European Centre for Disease Prevention and Control (ECDC)",
-          "Ebola disease outbreak in the Democratic Republic of the Congo - European Centre for Disease Prevention and Control (ECDC)",
-          "Nationwide Increase in Reported Human Rabies Exposures: Rabies Post-exposure Prophylaxis Administration - Centers for Disease Control and Prevention | CDC (.gov)"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
         "trend": "outbreak",
         "market_code": "NL",
         "category": "Outbreaks",
-        "score": 14,
-        "examples": [
-          "Ebola disease outbreak in the Democratic Republic of the Congo - European Centre for Disease Prevention and Control (ECDC)",
-          "Ebola disease outbreak in the Democratic Republic of the Congo - European Centre for Disease Prevention and Control (ECDC)",
-          "Federal officials poised to declare end of U.S.’s largest known cyclosporiasis outbreak - The Washington Post"
-        ]
-      },
-      {
-        "trend": "mental",
-        "market_code": "NL",
-        "category": "Mental Health",
-        "score": 14,
-        "examples": [
-          "Texas Health Resources mental health program integrates faith with therapy care - Fort Worth Report",
-          "Program focuses on mental health of WTC first responders - Spectrum News NY1",
-          "Back-to-school mental health & warning signs - FOX 7 Austin"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
         "trend": "mental health",
         "market_code": "NL",
         "category": "Mental Health",
-        "score": 13,
-        "examples": [
-          "Texas Health Resources mental health program integrates faith with therapy care - Fort Worth Report",
-          "Program focuses on mental health of WTC first responders - Spectrum News NY1",
-          "Back-to-school mental health & warning signs - FOX 7 Austin"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "cancer",
+        "trend": "medical research",
         "market_code": "NL",
-        "category": "Chronic Disease",
-        "score": 9,
-        "examples": [
-          "Ask Anthony: Jacksonville woman disputes nearly $178K medical bill after breast cancer treatment - firstcoastnews.com",
-          "Clinical trials: New mRNA cancer vaccine plus Keytruda sharply improves melanoma survival - UCHealth",
-          "Opinion | This Is the Biggest Obstacle to New Cancer Cures - The New York Times"
-        ]
+        "category": "Europe Health",
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "virus",
-        "market_code": "NL",
-        "category": "Outbreaks",
-        "score": 8,
-        "examples": [
-          "Dengue virus cases nearly double in Hillsborough County - Bay News 9",
-          "Cochise County reports two confirmed cases of West Nile virus - kold.com",
-          "Fourth neuroinvasive form of West Nile virus case reported in Denton County - Denton Record-Chronicle"
-        ]
-      },
-      {
-        "trend": "treatment",
+        "trend": "drug approval",
         "market_code": "NL",
         "category": "Drug & Treatment News",
-        "score": 7,
-        "examples": [
-          "Ask Anthony: Jacksonville woman disputes nearly $178K medical bill after breast cancer treatment - firstcoastnews.com",
-          "HIV i-Base | Macaque study eradicates simian HIV (SHIV) with combination treatment in very early infection - European AIDS Treatment Group",
-          "HIV i-Base | Macaque study eradicates simian HIV (SHIV) with combination treatment in very early infection - European AIDS Treatment Group"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "children",
+        "trend": "diet wellness",
         "market_code": "NL",
-        "category": "Children Health",
-        "score": 7,
-        "examples": [
-          "Recognizing suicide warning signs in children and teens - Sanford Health News",
-          "Study highlights disparities in access to new pediatric food allergy treatment, omalizumab - Children's National",
-          "Children’s suicide-related emergency visits spiked by 74% in the US between 2016-2022 - Northwestern Now News"
-        ]
-      },
-      {
-        "trend": "clinical",
-        "market_code": "NL",
-        "category": "Europe Health",
-        "score": 7,
-        "examples": [
-          "Clinical Management of an Odontogenic Infection With an Extraoral Sinus Tract in an 11-Year-Old Child: A Case Report - Cureus",
-          "Less than 1% of FDA-cleared AI devices tested for clinical benefits - TechTarget",
-          "Moderna begins Phase 1 clinical trial of Ebola vaccine against strain behind DRC outbreak - ABC News - Breaking News, Latest News and Videos"
-        ]
-      },
-      {
-        "trend": "healthcare",
-        "market_code": "NL",
-        "category": "Europe Health",
-        "score": 7,
-        "examples": [
-          "Profound Medical Stock And 2 Canadian AI Healthcare Stocks To Watch - Yahoo Finance",
-          "Roundup: Using AI to better integrate virtual modalities into care delivery - Healthcare IT News",
-          "NHS doctor-led commission issues blueprint for AI’s safe adoption in healthcare - Medical Device Network"
-        ]
+        "category": "Diet & Wellness",
+        "score": 1,
+        "examples": []
       }
     ],
     "Finland": [
       {
-        "trend": "health",
+        "trend": "health alert",
         "market_code": "FI",
         "category": "Europe Health",
-        "score": 68,
-        "examples": [
-          "Brain aging may be detected decades before symptoms appear, with links to gut health - uclahealth.org",
-          "September 16, 2026 - Florida Department of Health in Charlotte County (.gov)",
-          "Vermont awards first batch of $195 million in federal rural health funds - VTDigger"
-        ]
-      },
-      {
-        "trend": "medical",
-        "market_code": "FI",
-        "category": "Europe Health",
-        "score": 21,
-        "examples": [
-          "Three newly endowed chair holders join the Benning Medical Society - The University of Utah",
-          "nuEra Champaign adds medical cannabis to the menu - Smile Politely",
-          "Newark Beth Israel Medical Center Opens Hybrid Cardiac Cath Lab - RWJBarnabas Health"
-        ]
-      },
-      {
-        "trend": "disease",
-        "market_code": "FI",
-        "category": "Europe Health",
-        "score": 14,
-        "examples": [
-          "Ebola disease outbreak in the Democratic Republic of the Congo - European Centre for Disease Prevention and Control (ECDC)",
-          "Ebola disease outbreak in the Democratic Republic of the Congo - European Centre for Disease Prevention and Control (ECDC)",
-          "Nationwide Increase in Reported Human Rabies Exposures: Rabies Post-exposure Prophylaxis Administration - Centers for Disease Control and Prevention | CDC (.gov)"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
         "trend": "outbreak",
         "market_code": "FI",
         "category": "Outbreaks",
-        "score": 14,
-        "examples": [
-          "Ebola disease outbreak in the Democratic Republic of the Congo - European Centre for Disease Prevention and Control (ECDC)",
-          "Ebola disease outbreak in the Democratic Republic of the Congo - European Centre for Disease Prevention and Control (ECDC)",
-          "Federal officials poised to declare end of U.S.’s largest known cyclosporiasis outbreak - The Washington Post"
-        ]
-      },
-      {
-        "trend": "mental",
-        "market_code": "FI",
-        "category": "Mental Health",
-        "score": 14,
-        "examples": [
-          "Texas Health Resources mental health program integrates faith with therapy care - Fort Worth Report",
-          "Program focuses on mental health of WTC first responders - Spectrum News NY1",
-          "Back-to-school mental health & warning signs - FOX 7 Austin"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
         "trend": "mental health",
         "market_code": "FI",
         "category": "Mental Health",
-        "score": 13,
-        "examples": [
-          "Texas Health Resources mental health program integrates faith with therapy care - Fort Worth Report",
-          "Program focuses on mental health of WTC first responders - Spectrum News NY1",
-          "Back-to-school mental health & warning signs - FOX 7 Austin"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "cancer",
+        "trend": "medical research",
         "market_code": "FI",
-        "category": "Chronic Disease",
-        "score": 9,
-        "examples": [
-          "Ask Anthony: Jacksonville woman disputes nearly $178K medical bill after breast cancer treatment - firstcoastnews.com",
-          "Clinical trials: New mRNA cancer vaccine plus Keytruda sharply improves melanoma survival - UCHealth",
-          "Opinion | This Is the Biggest Obstacle to New Cancer Cures - The New York Times"
-        ]
+        "category": "Europe Health",
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "virus",
-        "market_code": "FI",
-        "category": "Outbreaks",
-        "score": 8,
-        "examples": [
-          "Dengue virus cases nearly double in Hillsborough County - Bay News 9",
-          "Cochise County reports two confirmed cases of West Nile virus - kold.com",
-          "Fourth neuroinvasive form of West Nile virus case reported in Denton County - Denton Record-Chronicle"
-        ]
-      },
-      {
-        "trend": "treatment",
+        "trend": "drug approval",
         "market_code": "FI",
         "category": "Drug & Treatment News",
-        "score": 7,
-        "examples": [
-          "Ask Anthony: Jacksonville woman disputes nearly $178K medical bill after breast cancer treatment - firstcoastnews.com",
-          "HIV i-Base | Macaque study eradicates simian HIV (SHIV) with combination treatment in very early infection - European AIDS Treatment Group",
-          "HIV i-Base | Macaque study eradicates simian HIV (SHIV) with combination treatment in very early infection - European AIDS Treatment Group"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "children",
+        "trend": "diet wellness",
         "market_code": "FI",
-        "category": "Children Health",
-        "score": 7,
-        "examples": [
-          "Recognizing suicide warning signs in children and teens - Sanford Health News",
-          "Study highlights disparities in access to new pediatric food allergy treatment, omalizumab - Children's National",
-          "Children’s suicide-related emergency visits spiked by 74% in the US between 2016-2022 - Northwestern Now News"
-        ]
-      },
-      {
-        "trend": "clinical",
-        "market_code": "FI",
-        "category": "Europe Health",
-        "score": 7,
-        "examples": [
-          "Clinical Management of an Odontogenic Infection With an Extraoral Sinus Tract in an 11-Year-Old Child: A Case Report - Cureus",
-          "Less than 1% of FDA-cleared AI devices tested for clinical benefits - TechTarget",
-          "Moderna begins Phase 1 clinical trial of Ebola vaccine against strain behind DRC outbreak - ABC News - Breaking News, Latest News and Videos"
-        ]
-      },
-      {
-        "trend": "healthcare",
-        "market_code": "FI",
-        "category": "Europe Health",
-        "score": 7,
-        "examples": [
-          "Profound Medical Stock And 2 Canadian AI Healthcare Stocks To Watch - Yahoo Finance",
-          "Roundup: Using AI to better integrate virtual modalities into care delivery - Healthcare IT News",
-          "NHS doctor-led commission issues blueprint for AI’s safe adoption in healthcare - Medical Device Network"
-        ]
+        "category": "Diet & Wellness",
+        "score": 1,
+        "examples": []
       }
     ],
     "Norway": [
       {
-        "trend": "health",
+        "trend": "health alert",
         "market_code": "NO",
         "category": "Europe Health",
-        "score": 68,
-        "examples": [
-          "Brain aging may be detected decades before symptoms appear, with links to gut health - uclahealth.org",
-          "September 16, 2026 - Florida Department of Health in Charlotte County (.gov)",
-          "Vermont awards first batch of $195 million in federal rural health funds - VTDigger"
-        ]
-      },
-      {
-        "trend": "medical",
-        "market_code": "NO",
-        "category": "Europe Health",
-        "score": 21,
-        "examples": [
-          "Three newly endowed chair holders join the Benning Medical Society - The University of Utah",
-          "nuEra Champaign adds medical cannabis to the menu - Smile Politely",
-          "Newark Beth Israel Medical Center Opens Hybrid Cardiac Cath Lab - RWJBarnabas Health"
-        ]
-      },
-      {
-        "trend": "disease",
-        "market_code": "NO",
-        "category": "Europe Health",
-        "score": 14,
-        "examples": [
-          "Ebola disease outbreak in the Democratic Republic of the Congo - European Centre for Disease Prevention and Control (ECDC)",
-          "Ebola disease outbreak in the Democratic Republic of the Congo - European Centre for Disease Prevention and Control (ECDC)",
-          "Nationwide Increase in Reported Human Rabies Exposures: Rabies Post-exposure Prophylaxis Administration - Centers for Disease Control and Prevention | CDC (.gov)"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
         "trend": "outbreak",
         "market_code": "NO",
         "category": "Outbreaks",
-        "score": 14,
-        "examples": [
-          "Ebola disease outbreak in the Democratic Republic of the Congo - European Centre for Disease Prevention and Control (ECDC)",
-          "Ebola disease outbreak in the Democratic Republic of the Congo - European Centre for Disease Prevention and Control (ECDC)",
-          "Federal officials poised to declare end of U.S.’s largest known cyclosporiasis outbreak - The Washington Post"
-        ]
-      },
-      {
-        "trend": "mental",
-        "market_code": "NO",
-        "category": "Mental Health",
-        "score": 14,
-        "examples": [
-          "Texas Health Resources mental health program integrates faith with therapy care - Fort Worth Report",
-          "Program focuses on mental health of WTC first responders - Spectrum News NY1",
-          "Back-to-school mental health & warning signs - FOX 7 Austin"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
         "trend": "mental health",
         "market_code": "NO",
         "category": "Mental Health",
-        "score": 13,
-        "examples": [
-          "Texas Health Resources mental health program integrates faith with therapy care - Fort Worth Report",
-          "Program focuses on mental health of WTC first responders - Spectrum News NY1",
-          "Back-to-school mental health & warning signs - FOX 7 Austin"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "cancer",
+        "trend": "medical research",
         "market_code": "NO",
-        "category": "Chronic Disease",
-        "score": 9,
-        "examples": [
-          "Ask Anthony: Jacksonville woman disputes nearly $178K medical bill after breast cancer treatment - firstcoastnews.com",
-          "Clinical trials: New mRNA cancer vaccine plus Keytruda sharply improves melanoma survival - UCHealth",
-          "Opinion | This Is the Biggest Obstacle to New Cancer Cures - The New York Times"
-        ]
+        "category": "Europe Health",
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "virus",
-        "market_code": "NO",
-        "category": "Outbreaks",
-        "score": 8,
-        "examples": [
-          "Dengue virus cases nearly double in Hillsborough County - Bay News 9",
-          "Cochise County reports two confirmed cases of West Nile virus - kold.com",
-          "Fourth neuroinvasive form of West Nile virus case reported in Denton County - Denton Record-Chronicle"
-        ]
-      },
-      {
-        "trend": "treatment",
+        "trend": "drug approval",
         "market_code": "NO",
         "category": "Drug & Treatment News",
-        "score": 7,
-        "examples": [
-          "Ask Anthony: Jacksonville woman disputes nearly $178K medical bill after breast cancer treatment - firstcoastnews.com",
-          "HIV i-Base | Macaque study eradicates simian HIV (SHIV) with combination treatment in very early infection - European AIDS Treatment Group",
-          "HIV i-Base | Macaque study eradicates simian HIV (SHIV) with combination treatment in very early infection - European AIDS Treatment Group"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "children",
+        "trend": "diet wellness",
         "market_code": "NO",
-        "category": "Children Health",
-        "score": 7,
-        "examples": [
-          "Recognizing suicide warning signs in children and teens - Sanford Health News",
-          "Study highlights disparities in access to new pediatric food allergy treatment, omalizumab - Children's National",
-          "Children’s suicide-related emergency visits spiked by 74% in the US between 2016-2022 - Northwestern Now News"
-        ]
-      },
-      {
-        "trend": "clinical",
-        "market_code": "NO",
-        "category": "Europe Health",
-        "score": 7,
-        "examples": [
-          "Clinical Management of an Odontogenic Infection With an Extraoral Sinus Tract in an 11-Year-Old Child: A Case Report - Cureus",
-          "Less than 1% of FDA-cleared AI devices tested for clinical benefits - TechTarget",
-          "Moderna begins Phase 1 clinical trial of Ebola vaccine against strain behind DRC outbreak - ABC News - Breaking News, Latest News and Videos"
-        ]
-      },
-      {
-        "trend": "healthcare",
-        "market_code": "NO",
-        "category": "Europe Health",
-        "score": 7,
-        "examples": [
-          "Profound Medical Stock And 2 Canadian AI Healthcare Stocks To Watch - Yahoo Finance",
-          "Roundup: Using AI to better integrate virtual modalities into care delivery - Healthcare IT News",
-          "NHS doctor-led commission issues blueprint for AI’s safe adoption in healthcare - Medical Device Network"
-        ]
+        "category": "Diet & Wellness",
+        "score": 1,
+        "examples": []
       }
     ],
     "Japan": [
       {
-        "trend": "health",
+        "trend": "health alert",
         "market_code": "JP",
         "category": "Asia Health",
-        "score": 68,
-        "examples": [
-          "Brain aging may be detected decades before symptoms appear, with links to gut health - uclahealth.org",
-          "September 16, 2026 - Florida Department of Health in Charlotte County (.gov)",
-          "Vermont awards first batch of $195 million in federal rural health funds - VTDigger"
-        ]
-      },
-      {
-        "trend": "medical",
-        "market_code": "JP",
-        "category": "Asia Health",
-        "score": 21,
-        "examples": [
-          "Three newly endowed chair holders join the Benning Medical Society - The University of Utah",
-          "nuEra Champaign adds medical cannabis to the menu - Smile Politely",
-          "Newark Beth Israel Medical Center Opens Hybrid Cardiac Cath Lab - RWJBarnabas Health"
-        ]
-      },
-      {
-        "trend": "disease",
-        "market_code": "JP",
-        "category": "Asia Health",
-        "score": 14,
-        "examples": [
-          "Ebola disease outbreak in the Democratic Republic of the Congo - European Centre for Disease Prevention and Control (ECDC)",
-          "Ebola disease outbreak in the Democratic Republic of the Congo - European Centre for Disease Prevention and Control (ECDC)",
-          "Nationwide Increase in Reported Human Rabies Exposures: Rabies Post-exposure Prophylaxis Administration - Centers for Disease Control and Prevention | CDC (.gov)"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
         "trend": "outbreak",
         "market_code": "JP",
         "category": "Outbreaks",
-        "score": 14,
-        "examples": [
-          "Ebola disease outbreak in the Democratic Republic of the Congo - European Centre for Disease Prevention and Control (ECDC)",
-          "Ebola disease outbreak in the Democratic Republic of the Congo - European Centre for Disease Prevention and Control (ECDC)",
-          "Federal officials poised to declare end of U.S.’s largest known cyclosporiasis outbreak - The Washington Post"
-        ]
-      },
-      {
-        "trend": "mental",
-        "market_code": "JP",
-        "category": "Mental Health",
-        "score": 14,
-        "examples": [
-          "Texas Health Resources mental health program integrates faith with therapy care - Fort Worth Report",
-          "Program focuses on mental health of WTC first responders - Spectrum News NY1",
-          "Back-to-school mental health & warning signs - FOX 7 Austin"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
         "trend": "mental health",
         "market_code": "JP",
         "category": "Mental Health",
-        "score": 13,
-        "examples": [
-          "Texas Health Resources mental health program integrates faith with therapy care - Fort Worth Report",
-          "Program focuses on mental health of WTC first responders - Spectrum News NY1",
-          "Back-to-school mental health & warning signs - FOX 7 Austin"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "cancer",
+        "trend": "medical research",
         "market_code": "JP",
-        "category": "Chronic Disease",
-        "score": 9,
-        "examples": [
-          "Ask Anthony: Jacksonville woman disputes nearly $178K medical bill after breast cancer treatment - firstcoastnews.com",
-          "Clinical trials: New mRNA cancer vaccine plus Keytruda sharply improves melanoma survival - UCHealth",
-          "Opinion | This Is the Biggest Obstacle to New Cancer Cures - The New York Times"
-        ]
+        "category": "Asia Health",
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "virus",
-        "market_code": "JP",
-        "category": "Outbreaks",
-        "score": 8,
-        "examples": [
-          "Dengue virus cases nearly double in Hillsborough County - Bay News 9",
-          "Cochise County reports two confirmed cases of West Nile virus - kold.com",
-          "Fourth neuroinvasive form of West Nile virus case reported in Denton County - Denton Record-Chronicle"
-        ]
-      },
-      {
-        "trend": "treatment",
+        "trend": "drug approval",
         "market_code": "JP",
         "category": "Drug & Treatment News",
-        "score": 7,
-        "examples": [
-          "Ask Anthony: Jacksonville woman disputes nearly $178K medical bill after breast cancer treatment - firstcoastnews.com",
-          "HIV i-Base | Macaque study eradicates simian HIV (SHIV) with combination treatment in very early infection - European AIDS Treatment Group",
-          "HIV i-Base | Macaque study eradicates simian HIV (SHIV) with combination treatment in very early infection - European AIDS Treatment Group"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "children",
+        "trend": "diet wellness",
         "market_code": "JP",
-        "category": "Children Health",
-        "score": 7,
-        "examples": [
-          "Recognizing suicide warning signs in children and teens - Sanford Health News",
-          "Study highlights disparities in access to new pediatric food allergy treatment, omalizumab - Children's National",
-          "Children’s suicide-related emergency visits spiked by 74% in the US between 2016-2022 - Northwestern Now News"
-        ]
-      },
-      {
-        "trend": "clinical",
-        "market_code": "JP",
-        "category": "Asia Health",
-        "score": 7,
-        "examples": [
-          "Clinical Management of an Odontogenic Infection With an Extraoral Sinus Tract in an 11-Year-Old Child: A Case Report - Cureus",
-          "Less than 1% of FDA-cleared AI devices tested for clinical benefits - TechTarget",
-          "Moderna begins Phase 1 clinical trial of Ebola vaccine against strain behind DRC outbreak - ABC News - Breaking News, Latest News and Videos"
-        ]
-      },
-      {
-        "trend": "healthcare",
-        "market_code": "JP",
-        "category": "Asia Health",
-        "score": 7,
-        "examples": [
-          "Profound Medical Stock And 2 Canadian AI Healthcare Stocks To Watch - Yahoo Finance",
-          "Roundup: Using AI to better integrate virtual modalities into care delivery - Healthcare IT News",
-          "NHS doctor-led commission issues blueprint for AI’s safe adoption in healthcare - Medical Device Network"
-        ]
+        "category": "Diet & Wellness",
+        "score": 1,
+        "examples": []
       }
     ],
     "China": [
       {
-        "trend": "health",
+        "trend": "health alert",
         "market_code": "CN",
         "category": "Asia Health",
-        "score": 68,
-        "examples": [
-          "Brain aging may be detected decades before symptoms appear, with links to gut health - uclahealth.org",
-          "September 16, 2026 - Florida Department of Health in Charlotte County (.gov)",
-          "Vermont awards first batch of $195 million in federal rural health funds - VTDigger"
-        ]
-      },
-      {
-        "trend": "medical",
-        "market_code": "CN",
-        "category": "Asia Health",
-        "score": 21,
-        "examples": [
-          "Three newly endowed chair holders join the Benning Medical Society - The University of Utah",
-          "nuEra Champaign adds medical cannabis to the menu - Smile Politely",
-          "Newark Beth Israel Medical Center Opens Hybrid Cardiac Cath Lab - RWJBarnabas Health"
-        ]
-      },
-      {
-        "trend": "disease",
-        "market_code": "CN",
-        "category": "Asia Health",
-        "score": 14,
-        "examples": [
-          "Ebola disease outbreak in the Democratic Republic of the Congo - European Centre for Disease Prevention and Control (ECDC)",
-          "Ebola disease outbreak in the Democratic Republic of the Congo - European Centre for Disease Prevention and Control (ECDC)",
-          "Nationwide Increase in Reported Human Rabies Exposures: Rabies Post-exposure Prophylaxis Administration - Centers for Disease Control and Prevention | CDC (.gov)"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
         "trend": "outbreak",
         "market_code": "CN",
         "category": "Outbreaks",
-        "score": 14,
-        "examples": [
-          "Ebola disease outbreak in the Democratic Republic of the Congo - European Centre for Disease Prevention and Control (ECDC)",
-          "Ebola disease outbreak in the Democratic Republic of the Congo - European Centre for Disease Prevention and Control (ECDC)",
-          "Federal officials poised to declare end of U.S.’s largest known cyclosporiasis outbreak - The Washington Post"
-        ]
-      },
-      {
-        "trend": "mental",
-        "market_code": "CN",
-        "category": "Mental Health",
-        "score": 14,
-        "examples": [
-          "Texas Health Resources mental health program integrates faith with therapy care - Fort Worth Report",
-          "Program focuses on mental health of WTC first responders - Spectrum News NY1",
-          "Back-to-school mental health & warning signs - FOX 7 Austin"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
         "trend": "mental health",
         "market_code": "CN",
         "category": "Mental Health",
-        "score": 13,
-        "examples": [
-          "Texas Health Resources mental health program integrates faith with therapy care - Fort Worth Report",
-          "Program focuses on mental health of WTC first responders - Spectrum News NY1",
-          "Back-to-school mental health & warning signs - FOX 7 Austin"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "cancer",
+        "trend": "medical research",
         "market_code": "CN",
-        "category": "Chronic Disease",
-        "score": 9,
-        "examples": [
-          "Ask Anthony: Jacksonville woman disputes nearly $178K medical bill after breast cancer treatment - firstcoastnews.com",
-          "Clinical trials: New mRNA cancer vaccine plus Keytruda sharply improves melanoma survival - UCHealth",
-          "Opinion | This Is the Biggest Obstacle to New Cancer Cures - The New York Times"
-        ]
+        "category": "Asia Health",
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "virus",
-        "market_code": "CN",
-        "category": "Outbreaks",
-        "score": 8,
-        "examples": [
-          "Dengue virus cases nearly double in Hillsborough County - Bay News 9",
-          "Cochise County reports two confirmed cases of West Nile virus - kold.com",
-          "Fourth neuroinvasive form of West Nile virus case reported in Denton County - Denton Record-Chronicle"
-        ]
-      },
-      {
-        "trend": "treatment",
+        "trend": "drug approval",
         "market_code": "CN",
         "category": "Drug & Treatment News",
-        "score": 7,
-        "examples": [
-          "Ask Anthony: Jacksonville woman disputes nearly $178K medical bill after breast cancer treatment - firstcoastnews.com",
-          "HIV i-Base | Macaque study eradicates simian HIV (SHIV) with combination treatment in very early infection - European AIDS Treatment Group",
-          "HIV i-Base | Macaque study eradicates simian HIV (SHIV) with combination treatment in very early infection - European AIDS Treatment Group"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "children",
+        "trend": "diet wellness",
         "market_code": "CN",
-        "category": "Children Health",
-        "score": 7,
-        "examples": [
-          "Recognizing suicide warning signs in children and teens - Sanford Health News",
-          "Study highlights disparities in access to new pediatric food allergy treatment, omalizumab - Children's National",
-          "Children’s suicide-related emergency visits spiked by 74% in the US between 2016-2022 - Northwestern Now News"
-        ]
-      },
-      {
-        "trend": "clinical",
-        "market_code": "CN",
-        "category": "Asia Health",
-        "score": 7,
-        "examples": [
-          "Clinical Management of an Odontogenic Infection With an Extraoral Sinus Tract in an 11-Year-Old Child: A Case Report - Cureus",
-          "Less than 1% of FDA-cleared AI devices tested for clinical benefits - TechTarget",
-          "Moderna begins Phase 1 clinical trial of Ebola vaccine against strain behind DRC outbreak - ABC News - Breaking News, Latest News and Videos"
-        ]
-      },
-      {
-        "trend": "healthcare",
-        "market_code": "CN",
-        "category": "Asia Health",
-        "score": 7,
-        "examples": [
-          "Profound Medical Stock And 2 Canadian AI Healthcare Stocks To Watch - Yahoo Finance",
-          "Roundup: Using AI to better integrate virtual modalities into care delivery - Healthcare IT News",
-          "NHS doctor-led commission issues blueprint for AI’s safe adoption in healthcare - Medical Device Network"
-        ]
+        "category": "Diet & Wellness",
+        "score": 1,
+        "examples": []
       }
     ],
     "South Korea": [
       {
-        "trend": "health",
+        "trend": "health alert",
         "market_code": "KR",
         "category": "Asia Health",
-        "score": 68,
-        "examples": [
-          "Brain aging may be detected decades before symptoms appear, with links to gut health - uclahealth.org",
-          "September 16, 2026 - Florida Department of Health in Charlotte County (.gov)",
-          "Vermont awards first batch of $195 million in federal rural health funds - VTDigger"
-        ]
-      },
-      {
-        "trend": "medical",
-        "market_code": "KR",
-        "category": "Asia Health",
-        "score": 21,
-        "examples": [
-          "Three newly endowed chair holders join the Benning Medical Society - The University of Utah",
-          "nuEra Champaign adds medical cannabis to the menu - Smile Politely",
-          "Newark Beth Israel Medical Center Opens Hybrid Cardiac Cath Lab - RWJBarnabas Health"
-        ]
-      },
-      {
-        "trend": "disease",
-        "market_code": "KR",
-        "category": "Asia Health",
-        "score": 14,
-        "examples": [
-          "Ebola disease outbreak in the Democratic Republic of the Congo - European Centre for Disease Prevention and Control (ECDC)",
-          "Ebola disease outbreak in the Democratic Republic of the Congo - European Centre for Disease Prevention and Control (ECDC)",
-          "Nationwide Increase in Reported Human Rabies Exposures: Rabies Post-exposure Prophylaxis Administration - Centers for Disease Control and Prevention | CDC (.gov)"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
         "trend": "outbreak",
         "market_code": "KR",
         "category": "Outbreaks",
-        "score": 14,
-        "examples": [
-          "Ebola disease outbreak in the Democratic Republic of the Congo - European Centre for Disease Prevention and Control (ECDC)",
-          "Ebola disease outbreak in the Democratic Republic of the Congo - European Centre for Disease Prevention and Control (ECDC)",
-          "Federal officials poised to declare end of U.S.’s largest known cyclosporiasis outbreak - The Washington Post"
-        ]
-      },
-      {
-        "trend": "mental",
-        "market_code": "KR",
-        "category": "Mental Health",
-        "score": 14,
-        "examples": [
-          "Texas Health Resources mental health program integrates faith with therapy care - Fort Worth Report",
-          "Program focuses on mental health of WTC first responders - Spectrum News NY1",
-          "Back-to-school mental health & warning signs - FOX 7 Austin"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
         "trend": "mental health",
         "market_code": "KR",
         "category": "Mental Health",
-        "score": 13,
-        "examples": [
-          "Texas Health Resources mental health program integrates faith with therapy care - Fort Worth Report",
-          "Program focuses on mental health of WTC first responders - Spectrum News NY1",
-          "Back-to-school mental health & warning signs - FOX 7 Austin"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "cancer",
+        "trend": "medical research",
         "market_code": "KR",
-        "category": "Chronic Disease",
-        "score": 9,
-        "examples": [
-          "Ask Anthony: Jacksonville woman disputes nearly $178K medical bill after breast cancer treatment - firstcoastnews.com",
-          "Clinical trials: New mRNA cancer vaccine plus Keytruda sharply improves melanoma survival - UCHealth",
-          "Opinion | This Is the Biggest Obstacle to New Cancer Cures - The New York Times"
-        ]
+        "category": "Asia Health",
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "virus",
-        "market_code": "KR",
-        "category": "Outbreaks",
-        "score": 8,
-        "examples": [
-          "Dengue virus cases nearly double in Hillsborough County - Bay News 9",
-          "Cochise County reports two confirmed cases of West Nile virus - kold.com",
-          "Fourth neuroinvasive form of West Nile virus case reported in Denton County - Denton Record-Chronicle"
-        ]
-      },
-      {
-        "trend": "treatment",
+        "trend": "drug approval",
         "market_code": "KR",
         "category": "Drug & Treatment News",
-        "score": 7,
-        "examples": [
-          "Ask Anthony: Jacksonville woman disputes nearly $178K medical bill after breast cancer treatment - firstcoastnews.com",
-          "HIV i-Base | Macaque study eradicates simian HIV (SHIV) with combination treatment in very early infection - European AIDS Treatment Group",
-          "HIV i-Base | Macaque study eradicates simian HIV (SHIV) with combination treatment in very early infection - European AIDS Treatment Group"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "children",
+        "trend": "diet wellness",
         "market_code": "KR",
-        "category": "Children Health",
-        "score": 7,
-        "examples": [
-          "Recognizing suicide warning signs in children and teens - Sanford Health News",
-          "Study highlights disparities in access to new pediatric food allergy treatment, omalizumab - Children's National",
-          "Children’s suicide-related emergency visits spiked by 74% in the US between 2016-2022 - Northwestern Now News"
-        ]
-      },
-      {
-        "trend": "clinical",
-        "market_code": "KR",
-        "category": "Asia Health",
-        "score": 7,
-        "examples": [
-          "Clinical Management of an Odontogenic Infection With an Extraoral Sinus Tract in an 11-Year-Old Child: A Case Report - Cureus",
-          "Less than 1% of FDA-cleared AI devices tested for clinical benefits - TechTarget",
-          "Moderna begins Phase 1 clinical trial of Ebola vaccine against strain behind DRC outbreak - ABC News - Breaking News, Latest News and Videos"
-        ]
-      },
-      {
-        "trend": "healthcare",
-        "market_code": "KR",
-        "category": "Asia Health",
-        "score": 7,
-        "examples": [
-          "Profound Medical Stock And 2 Canadian AI Healthcare Stocks To Watch - Yahoo Finance",
-          "Roundup: Using AI to better integrate virtual modalities into care delivery - Healthcare IT News",
-          "NHS doctor-led commission issues blueprint for AI’s safe adoption in healthcare - Medical Device Network"
-        ]
+        "category": "Diet & Wellness",
+        "score": 1,
+        "examples": []
       }
     ],
     "India": [
       {
-        "trend": "health",
+        "trend": "health alert",
         "market_code": "IN",
         "category": "Asia Health",
-        "score": 56,
-        "examples": [
-          "What happens when AI becomes the first confidant in a mental health crisis? - The Hindu",
-          "Apple Launches Watch Series 12 and Ultra 4: New Chip Powers Health and AI Features - Counterpoint Research",
-          "The curio cabinet of medieval mental health - aeon.co"
-        ]
-      },
-      {
-        "trend": "disease",
-        "market_code": "IN",
-        "category": "Asia Health",
-        "score": 17,
-        "examples": [
-          "Ebola disease outbreak in the Democratic Republic of the Congo - European Centre for Disease Prevention and Control (ECDC)",
-          "Ebola disease outbreak in the Democratic Republic of the Congo - European Centre for Disease Prevention and Control (ECDC)",
-          "Phenomic profiles and disease patterns of 1.9 million participants from Our Future Health - Nature"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
         "trend": "outbreak",
         "market_code": "IN",
         "category": "Outbreaks",
-        "score": 15,
-        "examples": [
-          "Ebola disease outbreak in the Democratic Republic of the Congo - European Centre for Disease Prevention and Control (ECDC)",
-          "Ebola disease outbreak in the Democratic Republic of the Congo - European Centre for Disease Prevention and Control (ECDC)",
-          "1,000+ Deaths from Bangladesh Measles Outbreak - respiratory-therapy.com"
-        ]
-      },
-      {
-        "trend": "medical",
-        "market_code": "IN",
-        "category": "Asia Health",
-        "score": 13,
-        "examples": [
-          "The innovation tax: rethinking the economics of connected medical device data - Oracle Blogs",
-          "WHO South-East Asia Region to improve access to medical devices, in vitro diagnostics and assistive technologies - World Health Organization (WHO)",
-          "NMC to automate NMR registration for fresh medical graduates, waive fee - The New Indian Express"
-        ]
-      },
-      {
-        "trend": "mental",
-        "market_code": "IN",
-        "category": "Mental Health",
-        "score": 12,
-        "examples": [
-          "What happens when AI becomes the first confidant in a mental health crisis? - The Hindu",
-          "The curio cabinet of medieval mental health - aeon.co",
-          "RFAs: Youth-led Audio Mental Health Challenge and WASH in Schools (Mongolia) - fundsforNGOs"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
         "trend": "mental health",
         "market_code": "IN",
         "category": "Mental Health",
-        "score": 12,
-        "examples": [
-          "What happens when AI becomes the first confidant in a mental health crisis? - The Hindu",
-          "The curio cabinet of medieval mental health - aeon.co",
-          "RFAs: Youth-led Audio Mental Health Challenge and WASH in Schools (Mongolia) - fundsforNGOs"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "healthcare",
+        "trend": "medical research",
         "market_code": "IN",
         "category": "Asia Health",
-        "score": 11,
-        "examples": [
-          "India Health 2026 Concludes Successfully, Showcasing India’s Expanding MedTech Manufacturing and Healthcare Innovation Landscape - healthcareexecutive.in",
-          "NHS doctor-led commission issues blueprint for AI’s safe adoption in healthcare - Medical Device Network",
-          "Roundup: Using AI to better integrate virtual modalities into care delivery - Healthcare IT News"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "virus",
+        "trend": "drug approval",
         "market_code": "IN",
-        "category": "Outbreaks",
-        "score": 10,
-        "examples": [
-          "Disease Outbreak News: Ebola disease caused by Bundibugyo virus, Democratic Republic of the Congo (10 September 2026) - reliefweb.int",
-          "Temporal lymphatic tissue destruction and impairment of de novo T cell responses after an acute virus infection - Nature",
-          "IgA monoclonal antibodies as a prophylactic and therapeutic treatment for dengue virus infection - EurekAlert!"
-        ]
+        "category": "Drug & Treatment News",
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "infection",
+        "trend": "diet wellness",
         "market_code": "IN",
-        "category": "Outbreaks",
-        "score": 9,
-        "examples": [
-          "Temporal lymphatic tissue destruction and impairment of de novo T cell responses after an acute virus infection - Nature",
-          "IgA monoclonal antibodies as a prophylactic and therapeutic treatment for dengue virus infection - EurekAlert!",
-          "Temporal lymphatic tissue destruction and impairment of de novo T cell responses after an acute virus infection - Nature"
-        ]
-      },
-      {
-        "trend": "children",
-        "market_code": "IN",
-        "category": "Children Health",
-        "score": 8,
-        "examples": [
-          "'Concerned about the health of people, especially growing children': Supreme Court seeks warning labels o - The Times of India",
-          "Need Front‑Of‑Pack Warnings On Packaged Food; Children's Health Of National Interest: Supreme Court - ETV Bharat",
-          "Concerned about health of children: Supreme Court seeks warnings on junk food packs - India Today"
-        ]
-      },
-      {
-        "trend": "clinical",
-        "market_code": "IN",
-        "category": "Asia Health",
-        "score": 8,
-        "examples": [
-          "Multicenter Lab Network Evaluates Four Bundibugyo Virus PCR Assays in Two Weeks - Clinical Lab Products",
-          "Clinical Management of an Odontogenic Infection With an Extraoral Sinus Tract in an 11-Year-Old Child: A Case Report - Cureus",
-          "Less than 1% of FDA-cleared AI devices tested for clinical benefits - techtarget.com"
-        ]
-      },
-      {
-        "trend": "hospitals",
-        "market_code": "IN",
-        "category": "Asia Health",
-        "score": 7,
-        "examples": [
-          "Gaza hospitals ration power as fuel shortages deepen - aljazeera.com",
-          "Self-harm care initiative in all 37 government hospitals in Bengaluru - bangaloremirror.indiatimes.com",
-          "Gaza hospitals ration power as fuel shortages deepen - aljazeera.com"
-        ]
+        "category": "Diet & Wellness",
+        "score": 1,
+        "examples": []
       }
     ],
     "Australia": [
       {
-        "trend": "health",
+        "trend": "health alert",
         "market_code": "AU",
         "category": "Global Health",
-        "score": 62,
-        "examples": [
-          "TV interview with Minister Butler, Sunrise – 11 September 2026 - Australian Government Department of Health, Disability and Ageing",
-          "Aboriginal Study Day brings culture, truth and connection - Northern Health",
-          "President’s update: Health Minister meeting, PHI, scope of practice, MRAC, IMGs, and more - ama.com.au"
-        ]
-      },
-      {
-        "trend": "medical",
-        "market_code": "AU",
-        "category": "Global Health",
-        "score": 17,
-        "examples": [
-          "Medical law much more than litigation says Sarah Vallance - qlsproctor.com.au",
-          "Pacific Medical Teams Boost Auckland Coordination - Mirage News",
-          "Federal Court dismisses appeal over Metro Trains medical incapacity sacking - hcamag.com"
-        ]
-      },
-      {
-        "trend": "disease",
-        "market_code": "AU",
-        "category": "Global Health",
-        "score": 14,
-        "examples": [
-          "Ebola disease outbreak in the Democratic Republic of the Congo - European Centre for Disease Prevention and Control (ECDC)",
-          "Ebola disease outbreak in the Democratic Republic of the Congo - European Centre for Disease Prevention and Control (ECDC)",
-          "Nationwide Increase in Reported Human Rabies Exposures: Rabies Post-exposure Prophylaxis Administration - Centers for Disease Control and Prevention | CDC (.gov)"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
         "trend": "outbreak",
         "market_code": "AU",
         "category": "Outbreaks",
-        "score": 14,
-        "examples": [
-          "Ebola disease outbreak in the Democratic Republic of the Congo - European Centre for Disease Prevention and Control (ECDC)",
-          "Ebola disease outbreak in the Democratic Republic of the Congo - European Centre for Disease Prevention and Control (ECDC)",
-          "Africa's top health body warns Congo’s Ebola outbreak is rapidly spreading beyond epicenter - ABC News - Breaking News, Latest News and Videos"
-        ]
-      },
-      {
-        "trend": "mental",
-        "market_code": "AU",
-        "category": "Mental Health",
-        "score": 11,
-        "examples": [
-          "Prince’s mental health warning: We don’t see what’s happening behind closed doors - The Telegraph",
-          "Back-to-school mental health & warning signs - FOX 7 Austin",
-          "Prediabetes linked to substantial burden of mental health conditions - News-Medical"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
         "trend": "mental health",
         "market_code": "AU",
         "category": "Mental Health",
-        "score": 10,
-        "examples": [
-          "Prince’s mental health warning: We don’t see what’s happening behind closed doors - The Telegraph",
-          "Back-to-school mental health & warning signs - FOX 7 Austin",
-          "Prediabetes linked to substantial burden of mental health conditions - News-Medical"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "warning",
+        "trend": "medical research",
         "market_code": "AU",
         "category": "Global Health",
-        "score": 9,
-        "examples": [
-          "Prince’s mental health warning: We don’t see what’s happening behind closed doors - The Telegraph",
-          "Is The Pink Gelatin Trick Legit? Evidence, Reviews And Warning Signs - Cal Poly Pomona",
-          "Recognizing suicide warning signs in children and teens - Sanford Health News"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "virus",
+        "trend": "drug approval",
         "market_code": "AU",
-        "category": "Outbreaks",
-        "score": 9,
-        "examples": [
-          "Disease Outbreak News: Ebola disease caused by Bundibugyo virus, Democratic Republic of the Congo (10 September 2026) - reliefweb.int",
-          "Temporal lymphatic tissue destruction and impairment of de novo T cell responses after an acute virus infection - Nature",
-          "Protein shape shift reveals how the mpox virus begins replicating - Medical Xpress"
-        ]
+        "category": "Drug & Treatment News",
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "cancer",
+        "trend": "diet wellness",
         "market_code": "AU",
-        "category": "Chronic Disease",
-        "score": 7,
-        "examples": [
-          "Piping Hot Drinks & Esophagus Cancer; Belching Disorder in GERD; Outbreak Sickens 22 - MedPage Today",
-          "Clinical trials: New mRNA cancer vaccine plus Keytruda sharply improves melanoma survival - UCHealth",
-          "Why Novel Cancer Vaccine Tested at UCSF Marks New Treatment Era - Cancer Health"
-        ]
-      },
-      {
-        "trend": "infection",
-        "market_code": "AU",
-        "category": "Outbreaks",
-        "score": 7,
-        "examples": [
-          "Temporal lymphatic tissue destruction and impairment of de novo T cell responses after an acute virus infection - Nature",
-          "IgA monoclonal antibodies as a prophylactic and therapeutic treatment for dengue virus infection - EurekAlert!",
-          "Temporal lymphatic tissue destruction and impairment of de novo T cell responses after an acute virus infection - Nature"
-        ]
-      },
-      {
-        "trend": "healthcare",
-        "market_code": "AU",
-        "category": "Global Health",
-        "score": 7,
-        "examples": [
-          "Top 3 Australian AI Healthcare Stocks To Watch In September 2026 - simplywall.st",
-          "NHS doctor-led commission issues blueprint for AI’s safe adoption in healthcare - Medical Device Network",
-          "UK needs new laws for AI in healthcare, says watchdog - BBC"
-        ]
-      },
-      {
-        "trend": "medicine",
-        "market_code": "AU",
-        "category": "Global Health",
-        "score": 6,
-        "examples": [
-          "Nuclear medicine: New EU framework to secure Europe’s supply of medical radioisotopes and reduce dependence on Russia - energy.ec.europa.eu",
-          "U.K. unveils recommendations for regulation of AI in medicine - STAT",
-          "2 Minute Medicine Rewind September 7, 2026 - 2 Minute Medicine"
-        ]
+        "category": "Diet & Wellness",
+        "score": 1,
+        "examples": []
       }
     ],
     "Canada": [
       {
-        "trend": "health",
+        "trend": "health alert",
         "market_code": "CA",
         "category": "Global Health",
-        "score": 64,
-        "examples": [
-          "NDP Rx for fractured health care: One health ministry to end the chaos - Edmonton Journal",
-          "NDP Rx for fractured health care: One health ministry to end the chaos - Edmonton Journal",
-          "Message from Nancy Baxter, Vice-President & Dean, Faculty of Health Sciences - Faculty of Health Sciences - McMaster University"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
         "trend": "outbreak",
         "market_code": "CA",
         "category": "Outbreaks",
-        "score": 16,
-        "examples": [
-          "Ebola disease outbreak in the Democratic Republic of the Congo - European Centre for Disease Prevention and Control (ECDC)",
-          "Ebola disease outbreak in the Democratic Republic of the Congo - European Centre for Disease Prevention and Control (ECDC)",
-          "Bangladesh in grips of world’s worst measles outbreak, with 1,000 dead in last 6 months - Radio-Canada"
-        ]
-      },
-      {
-        "trend": "medical",
-        "market_code": "CA",
-        "category": "Global Health",
-        "score": 13,
-        "examples": [
-          "Medical transportation benefit updates: Extension to the temporary mileage rate - fnha.ca",
-          "Medical cannabis linked to fewer absences: study - Canadian HR Reporter",
-          "Kazakhstan: Detained activists in need of urgent medical care - Amnesty International Canada"
-        ]
-      },
-      {
-        "trend": "disease",
-        "market_code": "CA",
-        "category": "Global Health",
-        "score": 10,
-        "examples": [
-          "Ebola disease outbreak in the Democratic Republic of the Congo - European Centre for Disease Prevention and Control (ECDC)",
-          "Ebola disease outbreak in the Democratic Republic of the Congo - European Centre for Disease Prevention and Control (ECDC)",
-          "Nationwide Increase in Reported Human Rabies Exposures: Rabies Post-exposure Prophylaxis Administration - Centers for Disease Control and Prevention | CDC (.gov)"
-        ]
-      },
-      {
-        "trend": "virus",
-        "market_code": "CA",
-        "category": "Outbreaks",
-        "score": 10,
-        "examples": [
-          "Niagara Public Health warns virus is circulating after first human West Nile case - PelhamToday.ca",
-          "Niagara Public Health warns virus is circulating after first human West Nile case - PelhamToday.ca",
-          "ND records its first West Nile Virus fatality for 2026 - Prairie Public Broadcasting"
-        ]
-      },
-      {
-        "trend": "mental",
-        "market_code": "CA",
-        "category": "Mental Health",
-        "score": 9,
-        "examples": [
-          "Prince’s mental health warning: We don’t see what’s happening behind closed doors - The Telegraph",
-          "Accused in Moncton shelter killing seeks mental health assessment - CBC",
-          "Prediabetes linked to substantial burden of mental health conditions - News-Medical"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
         "trend": "mental health",
         "market_code": "CA",
         "category": "Mental Health",
-        "score": 9,
-        "examples": [
-          "Prince’s mental health warning: We don’t see what’s happening behind closed doors - The Telegraph",
-          "Accused in Moncton shelter killing seeks mental health assessment - CBC",
-          "Prediabetes linked to substantial burden of mental health conditions - News-Medical"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "healthcare",
+        "trend": "medical research",
         "market_code": "CA",
         "category": "Global Health",
-        "score": 9,
-        "examples": [
-          "Profound Medical Stock And 2 Canadian AI Healthcare Stocks To Watch - Yahoo Finance",
-          "3 Canadian AI Healthcare Stocks With Market Caps Up To $345 Million - simplywall.st",
-          "GuideAI Health Corp. (CN:GDAI) Advances as AI-Powered Healthcare Innovation Drives Investor Attention and Growth Expectations - kalkine.ca"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "public health",
-        "market_code": "CA",
-        "category": "Global Health",
-        "score": 7,
-        "examples": [
-          "Niagara Public Health warns virus is circulating after first human West Nile case - PelhamToday.ca",
-          "First Influenza Case of 2026/27 Respiratory Season Confirmed - Lakelands Public Health",
-          "P.E.I. chief public health officer reassures there is no danger from ongoing battery fire in Summerside and recommends schools open - PNI Atlantic News"
-        ]
-      },
-      {
-        "trend": "warning",
-        "market_code": "CA",
-        "category": "Global Health",
-        "score": 7,
-        "examples": [
-          "Recognizing suicide warning signs in children and teens - Sanford Health News",
-          "Is The Pink Gelatin Trick Legit? Evidence, Reviews And Warning Signs - Cal Poly Pomona",
-          "Prince’s mental health warning: We don’t see what’s happening behind closed doors - The Telegraph"
-        ]
-      },
-      {
-        "trend": "cancer",
-        "market_code": "CA",
-        "category": "Chronic Disease",
-        "score": 7,
-        "examples": [
-          "Clinical trials: New mRNA cancer vaccine plus Keytruda sharply improves melanoma survival - uchealth.org",
-          "Opinion | This Is the Biggest Obstacle to New Cancer Cures - The New York Times",
-          "Why Novel Cancer Vaccine Tested at UCSF Marks New Treatment Era - Cancer Health"
-        ]
-      },
-      {
-        "trend": "drug",
+        "trend": "drug approval",
         "market_code": "CA",
         "category": "Drug & Treatment News",
-        "score": 6,
-        "examples": [
-          "Hot drinks, child drug exposures and memory warning signs: Today's top health headlines - WKYC",
-          "Novartis pauses autoimmune CAR T trials following three deaths - Drug Discovery News",
-          "Clinical Trial for an Oral Drug to Treat Ebola is Registered in the Pan African Clinical Trials Database and is Ready to Go, As the Largest Ebola Outbreak Continues to Expand in DR Congo - ACCESS Newswire"
-        ]
+        "score": 1,
+        "examples": []
+      },
+      {
+        "trend": "diet wellness",
+        "market_code": "CA",
+        "category": "Diet & Wellness",
+        "score": 1,
+        "examples": []
       }
     ],
     "United Arab Emirates": [
       {
-        "trend": "health",
+        "trend": "health alert",
         "market_code": "AE",
         "category": "Arab Health",
-        "score": 68,
-        "examples": [
-          "Brain aging may be detected decades before symptoms appear, with links to gut health - uclahealth.org",
-          "September 16, 2026 - Florida Department of Health in Charlotte County (.gov)",
-          "Vermont awards first batch of $195 million in federal rural health funds - VTDigger"
-        ]
-      },
-      {
-        "trend": "medical",
-        "market_code": "AE",
-        "category": "Arab Health",
-        "score": 21,
-        "examples": [
-          "Three newly endowed chair holders join the Benning Medical Society - The University of Utah",
-          "nuEra Champaign adds medical cannabis to the menu - Smile Politely",
-          "Newark Beth Israel Medical Center Opens Hybrid Cardiac Cath Lab - RWJBarnabas Health"
-        ]
-      },
-      {
-        "trend": "disease",
-        "market_code": "AE",
-        "category": "Arab Health",
-        "score": 14,
-        "examples": [
-          "Ebola disease outbreak in the Democratic Republic of the Congo - European Centre for Disease Prevention and Control (ECDC)",
-          "Ebola disease outbreak in the Democratic Republic of the Congo - European Centre for Disease Prevention and Control (ECDC)",
-          "Nationwide Increase in Reported Human Rabies Exposures: Rabies Post-exposure Prophylaxis Administration - Centers for Disease Control and Prevention | CDC (.gov)"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
         "trend": "outbreak",
         "market_code": "AE",
         "category": "Outbreaks",
-        "score": 14,
-        "examples": [
-          "Ebola disease outbreak in the Democratic Republic of the Congo - European Centre for Disease Prevention and Control (ECDC)",
-          "Ebola disease outbreak in the Democratic Republic of the Congo - European Centre for Disease Prevention and Control (ECDC)",
-          "Federal officials poised to declare end of U.S.’s largest known cyclosporiasis outbreak - The Washington Post"
-        ]
-      },
-      {
-        "trend": "mental",
-        "market_code": "AE",
-        "category": "Mental Health",
-        "score": 14,
-        "examples": [
-          "Texas Health Resources mental health program integrates faith with therapy care - Fort Worth Report",
-          "Program focuses on mental health of WTC first responders - Spectrum News NY1",
-          "Back-to-school mental health & warning signs - FOX 7 Austin"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
         "trend": "mental health",
         "market_code": "AE",
         "category": "Mental Health",
-        "score": 13,
-        "examples": [
-          "Texas Health Resources mental health program integrates faith with therapy care - Fort Worth Report",
-          "Program focuses on mental health of WTC first responders - Spectrum News NY1",
-          "Back-to-school mental health & warning signs - FOX 7 Austin"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "cancer",
+        "trend": "medical research",
         "market_code": "AE",
-        "category": "Chronic Disease",
-        "score": 9,
-        "examples": [
-          "Ask Anthony: Jacksonville woman disputes nearly $178K medical bill after breast cancer treatment - firstcoastnews.com",
-          "Clinical trials: New mRNA cancer vaccine plus Keytruda sharply improves melanoma survival - UCHealth",
-          "Opinion | This Is the Biggest Obstacle to New Cancer Cures - The New York Times"
-        ]
+        "category": "Arab Health",
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "virus",
-        "market_code": "AE",
-        "category": "Outbreaks",
-        "score": 8,
-        "examples": [
-          "Dengue virus cases nearly double in Hillsborough County - Bay News 9",
-          "Cochise County reports two confirmed cases of West Nile virus - kold.com",
-          "Fourth neuroinvasive form of West Nile virus case reported in Denton County - Denton Record-Chronicle"
-        ]
-      },
-      {
-        "trend": "treatment",
+        "trend": "drug approval",
         "market_code": "AE",
         "category": "Drug & Treatment News",
-        "score": 7,
-        "examples": [
-          "Ask Anthony: Jacksonville woman disputes nearly $178K medical bill after breast cancer treatment - firstcoastnews.com",
-          "HIV i-Base | Macaque study eradicates simian HIV (SHIV) with combination treatment in very early infection - European AIDS Treatment Group",
-          "HIV i-Base | Macaque study eradicates simian HIV (SHIV) with combination treatment in very early infection - European AIDS Treatment Group"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "children",
+        "trend": "diet wellness",
         "market_code": "AE",
-        "category": "Children Health",
-        "score": 7,
-        "examples": [
-          "Recognizing suicide warning signs in children and teens - Sanford Health News",
-          "Study highlights disparities in access to new pediatric food allergy treatment, omalizumab - Children's National",
-          "Children’s suicide-related emergency visits spiked by 74% in the US between 2016-2022 - Northwestern Now News"
-        ]
-      },
-      {
-        "trend": "clinical",
-        "market_code": "AE",
-        "category": "Arab Health",
-        "score": 7,
-        "examples": [
-          "Clinical Management of an Odontogenic Infection With an Extraoral Sinus Tract in an 11-Year-Old Child: A Case Report - Cureus",
-          "Less than 1% of FDA-cleared AI devices tested for clinical benefits - TechTarget",
-          "Moderna begins Phase 1 clinical trial of Ebola vaccine against strain behind DRC outbreak - ABC News - Breaking News, Latest News and Videos"
-        ]
-      },
-      {
-        "trend": "healthcare",
-        "market_code": "AE",
-        "category": "Arab Health",
-        "score": 7,
-        "examples": [
-          "Profound Medical Stock And 2 Canadian AI Healthcare Stocks To Watch - Yahoo Finance",
-          "Roundup: Using AI to better integrate virtual modalities into care delivery - Healthcare IT News",
-          "NHS doctor-led commission issues blueprint for AI’s safe adoption in healthcare - Medical Device Network"
-        ]
+        "category": "Diet & Wellness",
+        "score": 1,
+        "examples": []
       }
     ],
     "Saudi Arabia": [
       {
-        "trend": "health",
+        "trend": "health alert",
         "market_code": "SA",
         "category": "Arab Health",
-        "score": 68,
-        "examples": [
-          "Brain aging may be detected decades before symptoms appear, with links to gut health - uclahealth.org",
-          "September 16, 2026 - Florida Department of Health in Charlotte County (.gov)",
-          "Vermont awards first batch of $195 million in federal rural health funds - VTDigger"
-        ]
-      },
-      {
-        "trend": "medical",
-        "market_code": "SA",
-        "category": "Arab Health",
-        "score": 21,
-        "examples": [
-          "Three newly endowed chair holders join the Benning Medical Society - The University of Utah",
-          "nuEra Champaign adds medical cannabis to the menu - Smile Politely",
-          "Newark Beth Israel Medical Center Opens Hybrid Cardiac Cath Lab - RWJBarnabas Health"
-        ]
-      },
-      {
-        "trend": "disease",
-        "market_code": "SA",
-        "category": "Arab Health",
-        "score": 14,
-        "examples": [
-          "Ebola disease outbreak in the Democratic Republic of the Congo - European Centre for Disease Prevention and Control (ECDC)",
-          "Ebola disease outbreak in the Democratic Republic of the Congo - European Centre for Disease Prevention and Control (ECDC)",
-          "Nationwide Increase in Reported Human Rabies Exposures: Rabies Post-exposure Prophylaxis Administration - Centers for Disease Control and Prevention | CDC (.gov)"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
         "trend": "outbreak",
         "market_code": "SA",
         "category": "Outbreaks",
-        "score": 14,
-        "examples": [
-          "Ebola disease outbreak in the Democratic Republic of the Congo - European Centre for Disease Prevention and Control (ECDC)",
-          "Ebola disease outbreak in the Democratic Republic of the Congo - European Centre for Disease Prevention and Control (ECDC)",
-          "Federal officials poised to declare end of U.S.’s largest known cyclosporiasis outbreak - The Washington Post"
-        ]
-      },
-      {
-        "trend": "mental",
-        "market_code": "SA",
-        "category": "Mental Health",
-        "score": 14,
-        "examples": [
-          "Texas Health Resources mental health program integrates faith with therapy care - Fort Worth Report",
-          "Program focuses on mental health of WTC first responders - Spectrum News NY1",
-          "Back-to-school mental health & warning signs - FOX 7 Austin"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
         "trend": "mental health",
         "market_code": "SA",
         "category": "Mental Health",
-        "score": 13,
-        "examples": [
-          "Texas Health Resources mental health program integrates faith with therapy care - Fort Worth Report",
-          "Program focuses on mental health of WTC first responders - Spectrum News NY1",
-          "Back-to-school mental health & warning signs - FOX 7 Austin"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "cancer",
+        "trend": "medical research",
         "market_code": "SA",
-        "category": "Chronic Disease",
-        "score": 9,
-        "examples": [
-          "Ask Anthony: Jacksonville woman disputes nearly $178K medical bill after breast cancer treatment - firstcoastnews.com",
-          "Clinical trials: New mRNA cancer vaccine plus Keytruda sharply improves melanoma survival - UCHealth",
-          "Opinion | This Is the Biggest Obstacle to New Cancer Cures - The New York Times"
-        ]
+        "category": "Arab Health",
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "virus",
-        "market_code": "SA",
-        "category": "Outbreaks",
-        "score": 8,
-        "examples": [
-          "Dengue virus cases nearly double in Hillsborough County - Bay News 9",
-          "Cochise County reports two confirmed cases of West Nile virus - kold.com",
-          "Fourth neuroinvasive form of West Nile virus case reported in Denton County - Denton Record-Chronicle"
-        ]
-      },
-      {
-        "trend": "treatment",
+        "trend": "drug approval",
         "market_code": "SA",
         "category": "Drug & Treatment News",
-        "score": 7,
-        "examples": [
-          "Ask Anthony: Jacksonville woman disputes nearly $178K medical bill after breast cancer treatment - firstcoastnews.com",
-          "HIV i-Base | Macaque study eradicates simian HIV (SHIV) with combination treatment in very early infection - European AIDS Treatment Group",
-          "HIV i-Base | Macaque study eradicates simian HIV (SHIV) with combination treatment in very early infection - European AIDS Treatment Group"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "children",
+        "trend": "diet wellness",
         "market_code": "SA",
-        "category": "Children Health",
-        "score": 7,
-        "examples": [
-          "Recognizing suicide warning signs in children and teens - Sanford Health News",
-          "Study highlights disparities in access to new pediatric food allergy treatment, omalizumab - Children's National",
-          "Children’s suicide-related emergency visits spiked by 74% in the US between 2016-2022 - Northwestern Now News"
-        ]
-      },
-      {
-        "trend": "clinical",
-        "market_code": "SA",
-        "category": "Arab Health",
-        "score": 7,
-        "examples": [
-          "Clinical Management of an Odontogenic Infection With an Extraoral Sinus Tract in an 11-Year-Old Child: A Case Report - Cureus",
-          "Less than 1% of FDA-cleared AI devices tested for clinical benefits - TechTarget",
-          "Moderna begins Phase 1 clinical trial of Ebola vaccine against strain behind DRC outbreak - ABC News - Breaking News, Latest News and Videos"
-        ]
-      },
-      {
-        "trend": "healthcare",
-        "market_code": "SA",
-        "category": "Arab Health",
-        "score": 7,
-        "examples": [
-          "Profound Medical Stock And 2 Canadian AI Healthcare Stocks To Watch - Yahoo Finance",
-          "Roundup: Using AI to better integrate virtual modalities into care delivery - Healthcare IT News",
-          "NHS doctor-led commission issues blueprint for AI’s safe adoption in healthcare - Medical Device Network"
-        ]
+        "category": "Diet & Wellness",
+        "score": 1,
+        "examples": []
       }
     ],
     "Qatar": [
       {
-        "trend": "health",
+        "trend": "health alert",
         "market_code": "QA",
         "category": "Arab Health",
-        "score": 68,
-        "examples": [
-          "Brain aging may be detected decades before symptoms appear, with links to gut health - uclahealth.org",
-          "September 16, 2026 - Florida Department of Health in Charlotte County (.gov)",
-          "Vermont awards first batch of $195 million in federal rural health funds - VTDigger"
-        ]
-      },
-      {
-        "trend": "medical",
-        "market_code": "QA",
-        "category": "Arab Health",
-        "score": 21,
-        "examples": [
-          "Three newly endowed chair holders join the Benning Medical Society - The University of Utah",
-          "nuEra Champaign adds medical cannabis to the menu - Smile Politely",
-          "Newark Beth Israel Medical Center Opens Hybrid Cardiac Cath Lab - RWJBarnabas Health"
-        ]
-      },
-      {
-        "trend": "disease",
-        "market_code": "QA",
-        "category": "Arab Health",
-        "score": 14,
-        "examples": [
-          "Ebola disease outbreak in the Democratic Republic of the Congo - European Centre for Disease Prevention and Control (ECDC)",
-          "Ebola disease outbreak in the Democratic Republic of the Congo - European Centre for Disease Prevention and Control (ECDC)",
-          "Nationwide Increase in Reported Human Rabies Exposures: Rabies Post-exposure Prophylaxis Administration - Centers for Disease Control and Prevention | CDC (.gov)"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
         "trend": "outbreak",
         "market_code": "QA",
         "category": "Outbreaks",
-        "score": 14,
-        "examples": [
-          "Ebola disease outbreak in the Democratic Republic of the Congo - European Centre for Disease Prevention and Control (ECDC)",
-          "Ebola disease outbreak in the Democratic Republic of the Congo - European Centre for Disease Prevention and Control (ECDC)",
-          "Federal officials poised to declare end of U.S.’s largest known cyclosporiasis outbreak - The Washington Post"
-        ]
-      },
-      {
-        "trend": "mental",
-        "market_code": "QA",
-        "category": "Mental Health",
-        "score": 14,
-        "examples": [
-          "Texas Health Resources mental health program integrates faith with therapy care - Fort Worth Report",
-          "Program focuses on mental health of WTC first responders - Spectrum News NY1",
-          "Back-to-school mental health & warning signs - FOX 7 Austin"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
         "trend": "mental health",
         "market_code": "QA",
         "category": "Mental Health",
-        "score": 13,
-        "examples": [
-          "Texas Health Resources mental health program integrates faith with therapy care - Fort Worth Report",
-          "Program focuses on mental health of WTC first responders - Spectrum News NY1",
-          "Back-to-school mental health & warning signs - FOX 7 Austin"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "cancer",
+        "trend": "medical research",
         "market_code": "QA",
-        "category": "Chronic Disease",
-        "score": 9,
-        "examples": [
-          "Ask Anthony: Jacksonville woman disputes nearly $178K medical bill after breast cancer treatment - firstcoastnews.com",
-          "Clinical trials: New mRNA cancer vaccine plus Keytruda sharply improves melanoma survival - UCHealth",
-          "Opinion | This Is the Biggest Obstacle to New Cancer Cures - The New York Times"
-        ]
+        "category": "Arab Health",
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "virus",
-        "market_code": "QA",
-        "category": "Outbreaks",
-        "score": 8,
-        "examples": [
-          "Dengue virus cases nearly double in Hillsborough County - Bay News 9",
-          "Cochise County reports two confirmed cases of West Nile virus - kold.com",
-          "Fourth neuroinvasive form of West Nile virus case reported in Denton County - Denton Record-Chronicle"
-        ]
-      },
-      {
-        "trend": "treatment",
+        "trend": "drug approval",
         "market_code": "QA",
         "category": "Drug & Treatment News",
-        "score": 7,
-        "examples": [
-          "Ask Anthony: Jacksonville woman disputes nearly $178K medical bill after breast cancer treatment - firstcoastnews.com",
-          "HIV i-Base | Macaque study eradicates simian HIV (SHIV) with combination treatment in very early infection - European AIDS Treatment Group",
-          "HIV i-Base | Macaque study eradicates simian HIV (SHIV) with combination treatment in very early infection - European AIDS Treatment Group"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "children",
+        "trend": "diet wellness",
         "market_code": "QA",
-        "category": "Children Health",
-        "score": 7,
-        "examples": [
-          "Recognizing suicide warning signs in children and teens - Sanford Health News",
-          "Study highlights disparities in access to new pediatric food allergy treatment, omalizumab - Children's National",
-          "Children’s suicide-related emergency visits spiked by 74% in the US between 2016-2022 - Northwestern Now News"
-        ]
-      },
-      {
-        "trend": "clinical",
-        "market_code": "QA",
-        "category": "Arab Health",
-        "score": 7,
-        "examples": [
-          "Clinical Management of an Odontogenic Infection With an Extraoral Sinus Tract in an 11-Year-Old Child: A Case Report - Cureus",
-          "Less than 1% of FDA-cleared AI devices tested for clinical benefits - TechTarget",
-          "Moderna begins Phase 1 clinical trial of Ebola vaccine against strain behind DRC outbreak - ABC News - Breaking News, Latest News and Videos"
-        ]
-      },
-      {
-        "trend": "healthcare",
-        "market_code": "QA",
-        "category": "Arab Health",
-        "score": 7,
-        "examples": [
-          "Profound Medical Stock And 2 Canadian AI Healthcare Stocks To Watch - Yahoo Finance",
-          "Roundup: Using AI to better integrate virtual modalities into care delivery - Healthcare IT News",
-          "NHS doctor-led commission issues blueprint for AI’s safe adoption in healthcare - Medical Device Network"
-        ]
+        "category": "Diet & Wellness",
+        "score": 1,
+        "examples": []
       }
     ],
     "Jordan": [
       {
-        "trend": "health",
+        "trend": "health alert",
         "market_code": "JO",
         "category": "Arab Health",
-        "score": 68,
-        "examples": [
-          "Brain aging may be detected decades before symptoms appear, with links to gut health - uclahealth.org",
-          "September 16, 2026 - Florida Department of Health in Charlotte County (.gov)",
-          "Vermont awards first batch of $195 million in federal rural health funds - VTDigger"
-        ]
-      },
-      {
-        "trend": "medical",
-        "market_code": "JO",
-        "category": "Arab Health",
-        "score": 21,
-        "examples": [
-          "Three newly endowed chair holders join the Benning Medical Society - The University of Utah",
-          "nuEra Champaign adds medical cannabis to the menu - Smile Politely",
-          "Newark Beth Israel Medical Center Opens Hybrid Cardiac Cath Lab - RWJBarnabas Health"
-        ]
-      },
-      {
-        "trend": "disease",
-        "market_code": "JO",
-        "category": "Arab Health",
-        "score": 14,
-        "examples": [
-          "Ebola disease outbreak in the Democratic Republic of the Congo - European Centre for Disease Prevention and Control (ECDC)",
-          "Ebola disease outbreak in the Democratic Republic of the Congo - European Centre for Disease Prevention and Control (ECDC)",
-          "Nationwide Increase in Reported Human Rabies Exposures: Rabies Post-exposure Prophylaxis Administration - Centers for Disease Control and Prevention | CDC (.gov)"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
         "trend": "outbreak",
         "market_code": "JO",
         "category": "Outbreaks",
-        "score": 14,
-        "examples": [
-          "Ebola disease outbreak in the Democratic Republic of the Congo - European Centre for Disease Prevention and Control (ECDC)",
-          "Ebola disease outbreak in the Democratic Republic of the Congo - European Centre for Disease Prevention and Control (ECDC)",
-          "Federal officials poised to declare end of U.S.’s largest known cyclosporiasis outbreak - The Washington Post"
-        ]
-      },
-      {
-        "trend": "mental",
-        "market_code": "JO",
-        "category": "Mental Health",
-        "score": 14,
-        "examples": [
-          "Texas Health Resources mental health program integrates faith with therapy care - Fort Worth Report",
-          "Program focuses on mental health of WTC first responders - Spectrum News NY1",
-          "Back-to-school mental health & warning signs - FOX 7 Austin"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
         "trend": "mental health",
         "market_code": "JO",
         "category": "Mental Health",
-        "score": 13,
-        "examples": [
-          "Texas Health Resources mental health program integrates faith with therapy care - Fort Worth Report",
-          "Program focuses on mental health of WTC first responders - Spectrum News NY1",
-          "Back-to-school mental health & warning signs - FOX 7 Austin"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "cancer",
+        "trend": "medical research",
         "market_code": "JO",
-        "category": "Chronic Disease",
-        "score": 9,
-        "examples": [
-          "Ask Anthony: Jacksonville woman disputes nearly $178K medical bill after breast cancer treatment - firstcoastnews.com",
-          "Clinical trials: New mRNA cancer vaccine plus Keytruda sharply improves melanoma survival - UCHealth",
-          "Opinion | This Is the Biggest Obstacle to New Cancer Cures - The New York Times"
-        ]
+        "category": "Arab Health",
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "virus",
-        "market_code": "JO",
-        "category": "Outbreaks",
-        "score": 8,
-        "examples": [
-          "Dengue virus cases nearly double in Hillsborough County - Bay News 9",
-          "Cochise County reports two confirmed cases of West Nile virus - kold.com",
-          "Fourth neuroinvasive form of West Nile virus case reported in Denton County - Denton Record-Chronicle"
-        ]
-      },
-      {
-        "trend": "treatment",
+        "trend": "drug approval",
         "market_code": "JO",
         "category": "Drug & Treatment News",
-        "score": 7,
-        "examples": [
-          "Ask Anthony: Jacksonville woman disputes nearly $178K medical bill after breast cancer treatment - firstcoastnews.com",
-          "HIV i-Base | Macaque study eradicates simian HIV (SHIV) with combination treatment in very early infection - European AIDS Treatment Group",
-          "HIV i-Base | Macaque study eradicates simian HIV (SHIV) with combination treatment in very early infection - European AIDS Treatment Group"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "children",
+        "trend": "diet wellness",
         "market_code": "JO",
-        "category": "Children Health",
-        "score": 7,
-        "examples": [
-          "Recognizing suicide warning signs in children and teens - Sanford Health News",
-          "Study highlights disparities in access to new pediatric food allergy treatment, omalizumab - Children's National",
-          "Children’s suicide-related emergency visits spiked by 74% in the US between 2016-2022 - Northwestern Now News"
-        ]
-      },
-      {
-        "trend": "clinical",
-        "market_code": "JO",
-        "category": "Arab Health",
-        "score": 7,
-        "examples": [
-          "Clinical Management of an Odontogenic Infection With an Extraoral Sinus Tract in an 11-Year-Old Child: A Case Report - Cureus",
-          "Less than 1% of FDA-cleared AI devices tested for clinical benefits - TechTarget",
-          "Moderna begins Phase 1 clinical trial of Ebola vaccine against strain behind DRC outbreak - ABC News - Breaking News, Latest News and Videos"
-        ]
-      },
-      {
-        "trend": "healthcare",
-        "market_code": "JO",
-        "category": "Arab Health",
-        "score": 7,
-        "examples": [
-          "Profound Medical Stock And 2 Canadian AI Healthcare Stocks To Watch - Yahoo Finance",
-          "Roundup: Using AI to better integrate virtual modalities into care delivery - Healthcare IT News",
-          "NHS doctor-led commission issues blueprint for AI’s safe adoption in healthcare - Medical Device Network"
-        ]
+        "category": "Diet & Wellness",
+        "score": 1,
+        "examples": []
       }
     ],
     "Lebanon": [
       {
-        "trend": "health",
+        "trend": "health alert",
         "market_code": "LB",
         "category": "Arab Health",
-        "score": 68,
-        "examples": [
-          "Brain aging may be detected decades before symptoms appear, with links to gut health - uclahealth.org",
-          "September 16, 2026 - Florida Department of Health in Charlotte County (.gov)",
-          "Vermont awards first batch of $195 million in federal rural health funds - VTDigger"
-        ]
-      },
-      {
-        "trend": "medical",
-        "market_code": "LB",
-        "category": "Arab Health",
-        "score": 21,
-        "examples": [
-          "Three newly endowed chair holders join the Benning Medical Society - The University of Utah",
-          "nuEra Champaign adds medical cannabis to the menu - Smile Politely",
-          "Newark Beth Israel Medical Center Opens Hybrid Cardiac Cath Lab - RWJBarnabas Health"
-        ]
-      },
-      {
-        "trend": "disease",
-        "market_code": "LB",
-        "category": "Arab Health",
-        "score": 14,
-        "examples": [
-          "Ebola disease outbreak in the Democratic Republic of the Congo - European Centre for Disease Prevention and Control (ECDC)",
-          "Ebola disease outbreak in the Democratic Republic of the Congo - European Centre for Disease Prevention and Control (ECDC)",
-          "Nationwide Increase in Reported Human Rabies Exposures: Rabies Post-exposure Prophylaxis Administration - Centers for Disease Control and Prevention | CDC (.gov)"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
         "trend": "outbreak",
         "market_code": "LB",
         "category": "Outbreaks",
-        "score": 14,
-        "examples": [
-          "Ebola disease outbreak in the Democratic Republic of the Congo - European Centre for Disease Prevention and Control (ECDC)",
-          "Ebola disease outbreak in the Democratic Republic of the Congo - European Centre for Disease Prevention and Control (ECDC)",
-          "Federal officials poised to declare end of U.S.’s largest known cyclosporiasis outbreak - The Washington Post"
-        ]
-      },
-      {
-        "trend": "mental",
-        "market_code": "LB",
-        "category": "Mental Health",
-        "score": 14,
-        "examples": [
-          "Texas Health Resources mental health program integrates faith with therapy care - Fort Worth Report",
-          "Program focuses on mental health of WTC first responders - Spectrum News NY1",
-          "Back-to-school mental health & warning signs - FOX 7 Austin"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
         "trend": "mental health",
         "market_code": "LB",
         "category": "Mental Health",
-        "score": 13,
-        "examples": [
-          "Texas Health Resources mental health program integrates faith with therapy care - Fort Worth Report",
-          "Program focuses on mental health of WTC first responders - Spectrum News NY1",
-          "Back-to-school mental health & warning signs - FOX 7 Austin"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "cancer",
+        "trend": "medical research",
         "market_code": "LB",
-        "category": "Chronic Disease",
-        "score": 9,
-        "examples": [
-          "Ask Anthony: Jacksonville woman disputes nearly $178K medical bill after breast cancer treatment - firstcoastnews.com",
-          "Clinical trials: New mRNA cancer vaccine plus Keytruda sharply improves melanoma survival - UCHealth",
-          "Opinion | This Is the Biggest Obstacle to New Cancer Cures - The New York Times"
-        ]
+        "category": "Arab Health",
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "virus",
-        "market_code": "LB",
-        "category": "Outbreaks",
-        "score": 8,
-        "examples": [
-          "Dengue virus cases nearly double in Hillsborough County - Bay News 9",
-          "Cochise County reports two confirmed cases of West Nile virus - kold.com",
-          "Fourth neuroinvasive form of West Nile virus case reported in Denton County - Denton Record-Chronicle"
-        ]
-      },
-      {
-        "trend": "treatment",
+        "trend": "drug approval",
         "market_code": "LB",
         "category": "Drug & Treatment News",
-        "score": 7,
-        "examples": [
-          "Ask Anthony: Jacksonville woman disputes nearly $178K medical bill after breast cancer treatment - firstcoastnews.com",
-          "HIV i-Base | Macaque study eradicates simian HIV (SHIV) with combination treatment in very early infection - European AIDS Treatment Group",
-          "HIV i-Base | Macaque study eradicates simian HIV (SHIV) with combination treatment in very early infection - European AIDS Treatment Group"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "children",
+        "trend": "diet wellness",
         "market_code": "LB",
-        "category": "Children Health",
-        "score": 7,
-        "examples": [
-          "Recognizing suicide warning signs in children and teens - Sanford Health News",
-          "Study highlights disparities in access to new pediatric food allergy treatment, omalizumab - Children's National",
-          "Children’s suicide-related emergency visits spiked by 74% in the US between 2016-2022 - Northwestern Now News"
-        ]
-      },
-      {
-        "trend": "clinical",
-        "market_code": "LB",
-        "category": "Arab Health",
-        "score": 7,
-        "examples": [
-          "Clinical Management of an Odontogenic Infection With an Extraoral Sinus Tract in an 11-Year-Old Child: A Case Report - Cureus",
-          "Less than 1% of FDA-cleared AI devices tested for clinical benefits - TechTarget",
-          "Moderna begins Phase 1 clinical trial of Ebola vaccine against strain behind DRC outbreak - ABC News - Breaking News, Latest News and Videos"
-        ]
-      },
-      {
-        "trend": "healthcare",
-        "market_code": "LB",
-        "category": "Arab Health",
-        "score": 7,
-        "examples": [
-          "Profound Medical Stock And 2 Canadian AI Healthcare Stocks To Watch - Yahoo Finance",
-          "Roundup: Using AI to better integrate virtual modalities into care delivery - Healthcare IT News",
-          "NHS doctor-led commission issues blueprint for AI’s safe adoption in healthcare - Medical Device Network"
-        ]
+        "category": "Diet & Wellness",
+        "score": 1,
+        "examples": []
       }
     ]
   }
