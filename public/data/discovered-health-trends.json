@@ -1,929 +1,2819 @@
 {
-  "updated_at": "2026-09-11T10:48:41.714493+00:00",
-  "total_trends": 126,
+  "updated_at": "2026-09-11T15:19:44.204841+00:00",
+  "total_trends": 252,
   "markets": {
     "United States": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "US",
         "category": "US Health",
-        "score": 1,
-        "examples": []
+        "score": 75,
+        "examples": [
+          "New Jersey Health Care Service Firm Registration Requirements - Holland & Knight",
+          "Urban exposures, frailty, and mental illness in World Trade Center Health Program responders - Nature",
+          "After thousands of deaths, first responders are still navigating health effects 25 years post-9/11 - abcnews.com"
+        ]
+      },
+      {
+        "trend": "medical",
+        "market_code": "US",
+        "category": "US Health",
+        "score": 19,
+        "examples": [
+          "Medical plan members with severe medical conditions should reach out for financial help by Sept. 30 - Marquette Today",
+          "Medical plan members with severe medical conditions should reach out for financial help by Sept. 30 - Marquette Today",
+          "Pedestrian hit and killed on Fannin Street near Texas Medical Center, Houston police say - ABC13 Houston"
+        ]
       },
       {
         "trend": "outbreak",
         "market_code": "US",
         "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "score": 13,
+        "examples": [
+          "Broccoli Sprouts Are Recalled Over Link to Salmonella Outbreak - The New York Times",
+          "Legionnaires’ Outbreak in the Bronx Kills One and Infects 4 Others - The New York Times",
+          "Record U.S. cyclosporiasis outbreak is over, CDC says - CNBC"
+        ]
       },
       {
-        "trend": "mental health",
+        "trend": "mental",
         "market_code": "US",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
+        "score": 9,
+        "examples": [
+          "Urban exposures, frailty, and mental illness in World Trade Center Health Program responders - Nature",
+          "Back-to-school mental health & warning signs - FOX 7 Austin",
+          "Urban exposures, frailty, and mental illness in World Trade Center Health Program responders - Nature"
+        ]
       },
       {
-        "trend": "medical research",
+        "trend": "state health",
         "market_code": "US",
         "category": "US Health",
-        "score": 1,
-        "examples": []
+        "score": 9,
+        "examples": [
+          "Penn State Health notifies public of potential measles exposure at Penn State Health Golisano Children’s Hospital - Penn State Health News",
+          "Penn State Health notifies public of potential measles exposure at Penn State Health Golisano Children’s Hospital - Penn State Health News",
+          "Penn State Health notifies public of potential measles exposure at Penn State Health Golisano Children’s Hospital - Penn State Health News"
+        ]
       },
       {
-        "trend": "drug approval",
+        "trend": "penn state health",
         "market_code": "US",
-        "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
+        "category": "US Health",
+        "score": 9,
+        "examples": [
+          "Penn State Health notifies public of potential measles exposure at Penn State Health Golisano Children’s Hospital - Penn State Health News",
+          "Penn State Health notifies public of potential measles exposure at Penn State Health Golisano Children’s Hospital - Penn State Health News",
+          "Penn State Health notifies public of potential measles exposure at Penn State Health Golisano Children’s Hospital - Penn State Health News"
+        ]
       },
       {
-        "trend": "diet wellness",
+        "trend": "warning",
+        "market_code": "US",
+        "category": "US Health",
+        "score": 9,
+        "examples": [
+          "Scanning the horizon together: how the Western Pacific collectively strengthens public health intelligence and early warning systems - World Health Organization (WHO)",
+          "Scanning the horizon together: how the Western Pacific collectively strengthens public health intelligence and early warning systems - World Health Organization (WHO)",
+          "Is The Pink Gelatin Trick Legit? Evidence, Reviews And Warning Signs - Cal Poly Pomona"
+        ]
+      },
+      {
+        "trend": "virus",
+        "market_code": "US",
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "Stay Healthy This Respiratory Virus Season - Ohio Department of Health (.gov)",
+          "Virus outbreak spurs 'horrendous' deer die-off in Michigan - Detroit Free Press",
+          "Scientists Create New Antibody For Virus That Infects 95% of People - sciencealert.com"
+        ]
+      },
+      {
+        "trend": "children",
+        "market_code": "US",
+        "category": "Children Health",
+        "score": 8,
+        "examples": [
+          "Penn State Health notifies public of potential measles exposure at Penn State Health Golisano Children’s Hospital - Penn State Health News",
+          "Penn State Health notifies public of potential measles exposure at Penn State Health Golisano Children’s Hospital - Penn State Health News",
+          "Recognizing suicide warning signs in children and teens - Sanford Health News"
+        ]
+      },
+      {
+        "trend": "cancer",
+        "market_code": "US",
+        "category": "Chronic Disease",
+        "score": 8,
+        "examples": [
+          "A common stomach infection may be linked to bowel cancer – here’s what we know - theconversation.com",
+          "Overall infection risk similar with CAR T, bispecific antibody therapy - Rare Cancer News",
+          "Clinical trials: New mRNA cancer vaccine plus Keytruda sharply improves melanoma survival - UCHealth"
+        ]
+      },
+      {
+        "trend": "weight",
         "market_code": "US",
         "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "score": 8,
+        "examples": [
+          "Wynonna Judd’s Wellness And Weight Loss Journey For Autumn 2026 [BL6VJz7CRpi] - Cal Poly Pomona",
+          "Wynonna Judd’s Wellness And Weight Loss Journey For Autumn 2026 [BL6VJz7CRpi] - Cal Poly Pomona",
+          "Melissa Mccarthy’s 6 Weight Loss Steps This Fall 2026 [BP17VS8CNjY] - Cal Poly Pomona"
+        ]
+      },
+      {
+        "trend": "health care",
+        "market_code": "US",
+        "category": "US Health",
+        "score": 7,
+        "examples": [
+          "New Jersey Health Care Service Firm Registration Requirements - Holland & Knight",
+          "Vice Chair of Health Care leads year-round campaign to improve health in the Twin Cities - www.heart.org",
+          "Vice Chair of Health Care leads year-round campaign to improve health in the Twin Cities - www.heart.org"
+        ]
       }
     ],
     "United Kingdom": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "GB",
         "category": "Europe Health",
-        "score": 1,
-        "examples": []
+        "score": 64,
+        "examples": [
+          "Residents attend first Charnwood Community Health and Wellbeing event - Latest News - News Updates - charnwood.gov.uk",
+          "Join us this World Mental Health Day 2026 - nelincs.gov.uk",
+          "Plans for future ethnic minority health and wellbeing services to be considered by councillors - | Wirral View"
+        ]
       },
       {
-        "trend": "outbreak",
+        "trend": "mental",
         "market_code": "GB",
-        "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "category": "Mental Health",
+        "score": 15,
+        "examples": [
+          "Join us this World Mental Health Day 2026 - nelincs.gov.uk",
+          "Patients felt 'hopeless' on inadequate mental health ward - BBC",
+          "Premier League Backs Continued Mental Health Support Across Southampton - Southampton FC Official Site"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "GB",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
+        "score": 14,
+        "examples": [
+          "Join us this World Mental Health Day 2026 - nelincs.gov.uk",
+          "Patients felt 'hopeless' on inadequate mental health ward - BBC",
+          "Premier League Backs Continued Mental Health Support Across Southampton - Southampton FC Official Site"
+        ]
       },
       {
-        "trend": "medical research",
+        "trend": "medical",
         "market_code": "GB",
         "category": "Europe Health",
-        "score": 1,
-        "examples": []
+        "score": 13,
+        "examples": [
+          "University Hospitals Trust Plymouth renew Antarctic medical contract - British Antarctic Survey",
+          "Training the next generation of clinical academics in Medical Mycology - University of Exeter News",
+          "‘I want to cry’: Afghan medical students in Pakistan face expulsion fear - aljazeera.com"
+        ]
       },
       {
-        "trend": "drug approval",
+        "trend": "warning",
+        "market_code": "GB",
+        "category": "Europe Health",
+        "score": 13,
+        "examples": [
+          "Scanning the horizon together: how the Western Pacific collectively strengthens public health intelligence and early warning systems - World Health Organization (WHO)",
+          "Public health expert issues major warning about Scotland's AI data centre boom - The National Scot",
+          "Public health expert issues major warning about Scotland's AI data centre boom - The National Scot"
+        ]
+      },
+      {
+        "trend": "outbreak",
+        "market_code": "GB",
+        "category": "Outbreaks",
+        "score": 13,
+        "examples": [
+          "Bouncy castle play linked to largest outbreak of common superbug in Ireland - The Irish Times",
+          "Council calls for faster help for Northumberland farmers after livestock virus outbreak - Northumberland Gazette",
+          "Stroke ward at Raigmore Hospital reopens following Covid outbreak - Ross-shire Journal"
+        ]
+      },
+      {
+        "trend": "cancer",
+        "market_code": "GB",
+        "category": "Chronic Disease",
+        "score": 10,
+        "examples": [
+          "A common stomach infection may be linked to bowel cancer – here’s what we know - theconversation.com",
+          "Overall infection risk similar with CAR T, bispecific antibody therapy - Rare Cancer News",
+          "Clinical trials: New mRNA cancer vaccine plus Keytruda sharply improves melanoma survival - UCHealth"
+        ]
+      },
+      {
+        "trend": "healthcare",
+        "market_code": "GB",
+        "category": "Europe Health",
+        "score": 8,
+        "examples": [
+          "Safe use of AI in healthcare - our response - Healthwatch",
+          "Germany: Labcorp acquires MLM Medical Labs from Great Point Partners - Investors in Healthcare",
+          "National Commission into the Regulation of AI in Healthcare: Recommendations for a future regulatory framework - GOV.UK"
+        ]
+      },
+      {
+        "trend": "virus",
+        "market_code": "GB",
+        "category": "Outbreaks",
+        "score": 8,
+        "examples": [
+          "Council calls for faster help for Northumberland farmers after livestock virus outbreak - Northumberland Gazette",
+          "Dormant chickenpox virus is an under-recognised cause of serious disease - Labmate Online",
+          "Council calls for faster help for Northumberland farmers after livestock virus outbreak - Northumberland Gazette"
+        ]
+      },
+      {
+        "trend": "vaccine",
         "market_code": "GB",
         "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
+        "score": 6,
+        "examples": [
+          "What is RSV and who is eligible for the vaccine? - ukhsa.blog.gov.uk",
+          "What is RSV and who is eligible for the vaccine? - ukhsa.blog.gov.uk",
+          "What is RSV and who is eligible for the vaccine? - ukhsa.blog.gov.uk"
+        ]
       },
       {
-        "trend": "diet wellness",
+        "trend": "hospital",
         "market_code": "GB",
-        "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "category": "Europe Health",
+        "score": 6,
+        "examples": [
+          "Professor Denise Thiruchelvam joins Royal Papworth Hospital as non-executive director - Royal Papworth Hospital",
+          "Professor Denise Thiruchelvam joins Royal Papworth Hospital as non-executive director - Royal Papworth Hospital",
+          "Stroke ward at Raigmore Hospital reopens following Covid outbreak - Ross-shire Journal"
+        ]
+      },
+      {
+        "trend": "infection",
+        "market_code": "GB",
+        "category": "Outbreaks",
+        "score": 6,
+        "examples": [
+          "A common stomach infection may be linked to bowel cancer – here’s what we know - theconversation.com",
+          "Texas reports first equine infection of New World screwworm on ranch horse - The Guardian",
+          "Ex-Ryder Cup man details harrowing recovery from life-threatening infection - bunkered.co.uk"
+        ]
       }
     ],
     "Germany": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "DE",
         "category": "Europe Health",
-        "score": 1,
-        "examples": []
+        "score": 74,
+        "examples": [
+          "New Jersey Health Care Service Firm Registration Requirements - Holland & Knight",
+          "Urban exposures, frailty, and mental illness in World Trade Center Health Program responders - Nature",
+          "After thousands of deaths, first responders are still navigating health effects 25 years post-9/11 - abcnews.com"
+        ]
+      },
+      {
+        "trend": "medical",
+        "market_code": "DE",
+        "category": "Europe Health",
+        "score": 19,
+        "examples": [
+          "Medical plan members with severe medical conditions should reach out for financial help by Sept. 30 - Marquette Today",
+          "Medical plan members with severe medical conditions should reach out for financial help by Sept. 30 - Marquette Today",
+          "Pedestrian hit and killed on Fannin Street near Texas Medical Center, Houston police say - ABC13 Houston"
+        ]
       },
       {
         "trend": "outbreak",
         "market_code": "DE",
         "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "score": 13,
+        "examples": [
+          "Broccoli Sprouts Are Recalled Over Link to Salmonella Outbreak - The New York Times",
+          "Legionnaires’ Outbreak in the Bronx Kills One and Infects 4 Others - The New York Times",
+          "Record U.S. cyclosporiasis outbreak is over, CDC says - CNBC"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "DE",
+        "category": "Mental Health",
+        "score": 9,
+        "examples": [
+          "Urban exposures, frailty, and mental illness in World Trade Center Health Program responders - Nature",
+          "Back-to-school mental health & warning signs - FOX 7 Austin",
+          "Urban exposures, frailty, and mental illness in World Trade Center Health Program responders - Nature"
+        ]
+      },
+      {
+        "trend": "state health",
+        "market_code": "DE",
+        "category": "Europe Health",
+        "score": 9,
+        "examples": [
+          "Penn State Health notifies public of potential measles exposure at Penn State Health Golisano Children’s Hospital - Penn State Health News",
+          "Penn State Health notifies public of potential measles exposure at Penn State Health Golisano Children’s Hospital - Penn State Health News",
+          "Penn State Health notifies public of potential measles exposure at Penn State Health Golisano Children’s Hospital - Penn State Health News"
+        ]
+      },
+      {
+        "trend": "penn state health",
+        "market_code": "DE",
+        "category": "Europe Health",
+        "score": 9,
+        "examples": [
+          "Penn State Health notifies public of potential measles exposure at Penn State Health Golisano Children’s Hospital - Penn State Health News",
+          "Penn State Health notifies public of potential measles exposure at Penn State Health Golisano Children’s Hospital - Penn State Health News",
+          "Penn State Health notifies public of potential measles exposure at Penn State Health Golisano Children’s Hospital - Penn State Health News"
+        ]
+      },
+      {
+        "trend": "warning",
+        "market_code": "DE",
+        "category": "Europe Health",
+        "score": 9,
+        "examples": [
+          "Scanning the horizon together: how the Western Pacific collectively strengthens public health intelligence and early warning systems - World Health Organization (WHO)",
+          "Scanning the horizon together: how the Western Pacific collectively strengthens public health intelligence and early warning systems - World Health Organization (WHO)",
+          "Is The Pink Gelatin Trick Legit? Evidence, Reviews And Warning Signs - Cal Poly Pomona"
+        ]
+      },
+      {
+        "trend": "virus",
+        "market_code": "DE",
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "Stay Healthy This Respiratory Virus Season - Ohio Department of Health (.gov)",
+          "Virus outbreak spurs 'horrendous' deer die-off in Michigan - Detroit Free Press",
+          "Scientists Create New Antibody For Virus That Infects 95% of People - sciencealert.com"
+        ]
+      },
+      {
+        "trend": "children",
+        "market_code": "DE",
+        "category": "Children Health",
+        "score": 8,
+        "examples": [
+          "Penn State Health notifies public of potential measles exposure at Penn State Health Golisano Children’s Hospital - Penn State Health News",
+          "Penn State Health notifies public of potential measles exposure at Penn State Health Golisano Children’s Hospital - Penn State Health News",
+          "Recognizing suicide warning signs in children and teens - Sanford Health News"
+        ]
+      },
+      {
+        "trend": "cancer",
+        "market_code": "DE",
+        "category": "Chronic Disease",
+        "score": 8,
+        "examples": [
+          "A common stomach infection may be linked to bowel cancer – here’s what we know - theconversation.com",
+          "Overall infection risk similar with CAR T, bispecific antibody therapy - Rare Cancer News",
+          "Clinical trials: New mRNA cancer vaccine plus Keytruda sharply improves melanoma survival - UCHealth"
+        ]
+      },
+      {
+        "trend": "health care",
+        "market_code": "DE",
+        "category": "Europe Health",
+        "score": 7,
+        "examples": [
+          "New Jersey Health Care Service Firm Registration Requirements - Holland & Knight",
+          "Vice Chair of Health Care leads year-round campaign to improve health in the Twin Cities - www.heart.org",
+          "Vice Chair of Health Care leads year-round campaign to improve health in the Twin Cities - www.heart.org"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "DE",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
-      },
-      {
-        "trend": "medical research",
-        "market_code": "DE",
-        "category": "Europe Health",
-        "score": 1,
-        "examples": []
-      },
-      {
-        "trend": "drug approval",
-        "market_code": "DE",
-        "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
-      },
-      {
-        "trend": "diet wellness",
-        "market_code": "DE",
-        "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "score": 7,
+        "examples": [
+          "Back-to-school mental health & warning signs - FOX 7 Austin",
+          "3 takeaways from stories on teens’ reliance on AI for mental health support - edsource.org",
+          "Laps of Hope helps children with mental health issues - WSMV"
+        ]
       }
     ],
     "France": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "FR",
         "category": "Europe Health",
-        "score": 1,
-        "examples": []
+        "score": 74,
+        "examples": [
+          "New Jersey Health Care Service Firm Registration Requirements - Holland & Knight",
+          "Urban exposures, frailty, and mental illness in World Trade Center Health Program responders - Nature",
+          "After thousands of deaths, first responders are still navigating health effects 25 years post-9/11 - abcnews.com"
+        ]
+      },
+      {
+        "trend": "medical",
+        "market_code": "FR",
+        "category": "Europe Health",
+        "score": 19,
+        "examples": [
+          "Medical plan members with severe medical conditions should reach out for financial help by Sept. 30 - Marquette Today",
+          "Medical plan members with severe medical conditions should reach out for financial help by Sept. 30 - Marquette Today",
+          "Pedestrian hit and killed on Fannin Street near Texas Medical Center, Houston police say - ABC13 Houston"
+        ]
       },
       {
         "trend": "outbreak",
         "market_code": "FR",
         "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "score": 13,
+        "examples": [
+          "Broccoli Sprouts Are Recalled Over Link to Salmonella Outbreak - The New York Times",
+          "Legionnaires’ Outbreak in the Bronx Kills One and Infects 4 Others - The New York Times",
+          "Record U.S. cyclosporiasis outbreak is over, CDC says - CNBC"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "FR",
+        "category": "Mental Health",
+        "score": 9,
+        "examples": [
+          "Urban exposures, frailty, and mental illness in World Trade Center Health Program responders - Nature",
+          "Back-to-school mental health & warning signs - FOX 7 Austin",
+          "Urban exposures, frailty, and mental illness in World Trade Center Health Program responders - Nature"
+        ]
+      },
+      {
+        "trend": "state health",
+        "market_code": "FR",
+        "category": "Europe Health",
+        "score": 9,
+        "examples": [
+          "Penn State Health notifies public of potential measles exposure at Penn State Health Golisano Children’s Hospital - Penn State Health News",
+          "Penn State Health notifies public of potential measles exposure at Penn State Health Golisano Children’s Hospital - Penn State Health News",
+          "Penn State Health notifies public of potential measles exposure at Penn State Health Golisano Children’s Hospital - Penn State Health News"
+        ]
+      },
+      {
+        "trend": "penn state health",
+        "market_code": "FR",
+        "category": "Europe Health",
+        "score": 9,
+        "examples": [
+          "Penn State Health notifies public of potential measles exposure at Penn State Health Golisano Children’s Hospital - Penn State Health News",
+          "Penn State Health notifies public of potential measles exposure at Penn State Health Golisano Children’s Hospital - Penn State Health News",
+          "Penn State Health notifies public of potential measles exposure at Penn State Health Golisano Children’s Hospital - Penn State Health News"
+        ]
+      },
+      {
+        "trend": "warning",
+        "market_code": "FR",
+        "category": "Europe Health",
+        "score": 9,
+        "examples": [
+          "Scanning the horizon together: how the Western Pacific collectively strengthens public health intelligence and early warning systems - World Health Organization (WHO)",
+          "Scanning the horizon together: how the Western Pacific collectively strengthens public health intelligence and early warning systems - World Health Organization (WHO)",
+          "Is The Pink Gelatin Trick Legit? Evidence, Reviews And Warning Signs - Cal Poly Pomona"
+        ]
+      },
+      {
+        "trend": "virus",
+        "market_code": "FR",
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "Stay Healthy This Respiratory Virus Season - Ohio Department of Health (.gov)",
+          "Virus outbreak spurs 'horrendous' deer die-off in Michigan - Detroit Free Press",
+          "Scientists Create New Antibody For Virus That Infects 95% of People - sciencealert.com"
+        ]
+      },
+      {
+        "trend": "children",
+        "market_code": "FR",
+        "category": "Children Health",
+        "score": 8,
+        "examples": [
+          "Penn State Health notifies public of potential measles exposure at Penn State Health Golisano Children’s Hospital - Penn State Health News",
+          "Penn State Health notifies public of potential measles exposure at Penn State Health Golisano Children’s Hospital - Penn State Health News",
+          "Recognizing suicide warning signs in children and teens - Sanford Health News"
+        ]
+      },
+      {
+        "trend": "cancer",
+        "market_code": "FR",
+        "category": "Chronic Disease",
+        "score": 8,
+        "examples": [
+          "A common stomach infection may be linked to bowel cancer – here’s what we know - theconversation.com",
+          "Overall infection risk similar with CAR T, bispecific antibody therapy - Rare Cancer News",
+          "Clinical trials: New mRNA cancer vaccine plus Keytruda sharply improves melanoma survival - UCHealth"
+        ]
+      },
+      {
+        "trend": "health care",
+        "market_code": "FR",
+        "category": "Europe Health",
+        "score": 7,
+        "examples": [
+          "New Jersey Health Care Service Firm Registration Requirements - Holland & Knight",
+          "Vice Chair of Health Care leads year-round campaign to improve health in the Twin Cities - www.heart.org",
+          "Vice Chair of Health Care leads year-round campaign to improve health in the Twin Cities - www.heart.org"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "FR",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
-      },
-      {
-        "trend": "medical research",
-        "market_code": "FR",
-        "category": "Europe Health",
-        "score": 1,
-        "examples": []
-      },
-      {
-        "trend": "drug approval",
-        "market_code": "FR",
-        "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
-      },
-      {
-        "trend": "diet wellness",
-        "market_code": "FR",
-        "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "score": 7,
+        "examples": [
+          "Back-to-school mental health & warning signs - FOX 7 Austin",
+          "3 takeaways from stories on teens’ reliance on AI for mental health support - edsource.org",
+          "Laps of Hope helps children with mental health issues - WSMV"
+        ]
       }
     ],
     "Italy": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "IT",
         "category": "Europe Health",
-        "score": 1,
-        "examples": []
+        "score": 74,
+        "examples": [
+          "New Jersey Health Care Service Firm Registration Requirements - Holland & Knight",
+          "Urban exposures, frailty, and mental illness in World Trade Center Health Program responders - Nature",
+          "After thousands of deaths, first responders are still navigating health effects 25 years post-9/11 - abcnews.com"
+        ]
+      },
+      {
+        "trend": "medical",
+        "market_code": "IT",
+        "category": "Europe Health",
+        "score": 19,
+        "examples": [
+          "Medical plan members with severe medical conditions should reach out for financial help by Sept. 30 - Marquette Today",
+          "Medical plan members with severe medical conditions should reach out for financial help by Sept. 30 - Marquette Today",
+          "Pedestrian hit and killed on Fannin Street near Texas Medical Center, Houston police say - ABC13 Houston"
+        ]
       },
       {
         "trend": "outbreak",
         "market_code": "IT",
         "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "score": 13,
+        "examples": [
+          "Broccoli Sprouts Are Recalled Over Link to Salmonella Outbreak - The New York Times",
+          "Legionnaires’ Outbreak in the Bronx Kills One and Infects 4 Others - The New York Times",
+          "Record U.S. cyclosporiasis outbreak is over, CDC says - CNBC"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "IT",
+        "category": "Mental Health",
+        "score": 9,
+        "examples": [
+          "Urban exposures, frailty, and mental illness in World Trade Center Health Program responders - Nature",
+          "Back-to-school mental health & warning signs - FOX 7 Austin",
+          "Urban exposures, frailty, and mental illness in World Trade Center Health Program responders - Nature"
+        ]
+      },
+      {
+        "trend": "state health",
+        "market_code": "IT",
+        "category": "Europe Health",
+        "score": 9,
+        "examples": [
+          "Penn State Health notifies public of potential measles exposure at Penn State Health Golisano Children’s Hospital - Penn State Health News",
+          "Penn State Health notifies public of potential measles exposure at Penn State Health Golisano Children’s Hospital - Penn State Health News",
+          "Penn State Health notifies public of potential measles exposure at Penn State Health Golisano Children’s Hospital - Penn State Health News"
+        ]
+      },
+      {
+        "trend": "penn state health",
+        "market_code": "IT",
+        "category": "Europe Health",
+        "score": 9,
+        "examples": [
+          "Penn State Health notifies public of potential measles exposure at Penn State Health Golisano Children’s Hospital - Penn State Health News",
+          "Penn State Health notifies public of potential measles exposure at Penn State Health Golisano Children’s Hospital - Penn State Health News",
+          "Penn State Health notifies public of potential measles exposure at Penn State Health Golisano Children’s Hospital - Penn State Health News"
+        ]
+      },
+      {
+        "trend": "warning",
+        "market_code": "IT",
+        "category": "Europe Health",
+        "score": 9,
+        "examples": [
+          "Scanning the horizon together: how the Western Pacific collectively strengthens public health intelligence and early warning systems - World Health Organization (WHO)",
+          "Scanning the horizon together: how the Western Pacific collectively strengthens public health intelligence and early warning systems - World Health Organization (WHO)",
+          "Is The Pink Gelatin Trick Legit? Evidence, Reviews And Warning Signs - Cal Poly Pomona"
+        ]
+      },
+      {
+        "trend": "virus",
+        "market_code": "IT",
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "Stay Healthy This Respiratory Virus Season - Ohio Department of Health (.gov)",
+          "Virus outbreak spurs 'horrendous' deer die-off in Michigan - Detroit Free Press",
+          "Scientists Create New Antibody For Virus That Infects 95% of People - sciencealert.com"
+        ]
+      },
+      {
+        "trend": "children",
+        "market_code": "IT",
+        "category": "Children Health",
+        "score": 8,
+        "examples": [
+          "Penn State Health notifies public of potential measles exposure at Penn State Health Golisano Children’s Hospital - Penn State Health News",
+          "Penn State Health notifies public of potential measles exposure at Penn State Health Golisano Children’s Hospital - Penn State Health News",
+          "Recognizing suicide warning signs in children and teens - Sanford Health News"
+        ]
+      },
+      {
+        "trend": "cancer",
+        "market_code": "IT",
+        "category": "Chronic Disease",
+        "score": 8,
+        "examples": [
+          "A common stomach infection may be linked to bowel cancer – here’s what we know - theconversation.com",
+          "Overall infection risk similar with CAR T, bispecific antibody therapy - Rare Cancer News",
+          "Clinical trials: New mRNA cancer vaccine plus Keytruda sharply improves melanoma survival - UCHealth"
+        ]
+      },
+      {
+        "trend": "health care",
+        "market_code": "IT",
+        "category": "Europe Health",
+        "score": 7,
+        "examples": [
+          "New Jersey Health Care Service Firm Registration Requirements - Holland & Knight",
+          "Vice Chair of Health Care leads year-round campaign to improve health in the Twin Cities - www.heart.org",
+          "Vice Chair of Health Care leads year-round campaign to improve health in the Twin Cities - www.heart.org"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "IT",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
-      },
-      {
-        "trend": "medical research",
-        "market_code": "IT",
-        "category": "Europe Health",
-        "score": 1,
-        "examples": []
-      },
-      {
-        "trend": "drug approval",
-        "market_code": "IT",
-        "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
-      },
-      {
-        "trend": "diet wellness",
-        "market_code": "IT",
-        "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "score": 7,
+        "examples": [
+          "Back-to-school mental health & warning signs - FOX 7 Austin",
+          "3 takeaways from stories on teens’ reliance on AI for mental health support - edsource.org",
+          "Laps of Hope helps children with mental health issues - WSMV"
+        ]
       }
     ],
     "Spain": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "ES",
         "category": "Europe Health",
-        "score": 1,
-        "examples": []
+        "score": 74,
+        "examples": [
+          "New Jersey Health Care Service Firm Registration Requirements - Holland & Knight",
+          "Urban exposures, frailty, and mental illness in World Trade Center Health Program responders - Nature",
+          "After thousands of deaths, first responders are still navigating health effects 25 years post-9/11 - abcnews.com"
+        ]
+      },
+      {
+        "trend": "medical",
+        "market_code": "ES",
+        "category": "Europe Health",
+        "score": 19,
+        "examples": [
+          "Medical plan members with severe medical conditions should reach out for financial help by Sept. 30 - Marquette Today",
+          "Medical plan members with severe medical conditions should reach out for financial help by Sept. 30 - Marquette Today",
+          "Pedestrian hit and killed on Fannin Street near Texas Medical Center, Houston police say - ABC13 Houston"
+        ]
       },
       {
         "trend": "outbreak",
         "market_code": "ES",
         "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "score": 13,
+        "examples": [
+          "Broccoli Sprouts Are Recalled Over Link to Salmonella Outbreak - The New York Times",
+          "Legionnaires’ Outbreak in the Bronx Kills One and Infects 4 Others - The New York Times",
+          "Record U.S. cyclosporiasis outbreak is over, CDC says - CNBC"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "ES",
+        "category": "Mental Health",
+        "score": 9,
+        "examples": [
+          "Urban exposures, frailty, and mental illness in World Trade Center Health Program responders - Nature",
+          "Back-to-school mental health & warning signs - FOX 7 Austin",
+          "Urban exposures, frailty, and mental illness in World Trade Center Health Program responders - Nature"
+        ]
+      },
+      {
+        "trend": "state health",
+        "market_code": "ES",
+        "category": "Europe Health",
+        "score": 9,
+        "examples": [
+          "Penn State Health notifies public of potential measles exposure at Penn State Health Golisano Children’s Hospital - Penn State Health News",
+          "Penn State Health notifies public of potential measles exposure at Penn State Health Golisano Children’s Hospital - Penn State Health News",
+          "Penn State Health notifies public of potential measles exposure at Penn State Health Golisano Children’s Hospital - Penn State Health News"
+        ]
+      },
+      {
+        "trend": "penn state health",
+        "market_code": "ES",
+        "category": "Europe Health",
+        "score": 9,
+        "examples": [
+          "Penn State Health notifies public of potential measles exposure at Penn State Health Golisano Children’s Hospital - Penn State Health News",
+          "Penn State Health notifies public of potential measles exposure at Penn State Health Golisano Children’s Hospital - Penn State Health News",
+          "Penn State Health notifies public of potential measles exposure at Penn State Health Golisano Children’s Hospital - Penn State Health News"
+        ]
+      },
+      {
+        "trend": "warning",
+        "market_code": "ES",
+        "category": "Europe Health",
+        "score": 9,
+        "examples": [
+          "Scanning the horizon together: how the Western Pacific collectively strengthens public health intelligence and early warning systems - World Health Organization (WHO)",
+          "Scanning the horizon together: how the Western Pacific collectively strengthens public health intelligence and early warning systems - World Health Organization (WHO)",
+          "Is The Pink Gelatin Trick Legit? Evidence, Reviews And Warning Signs - Cal Poly Pomona"
+        ]
+      },
+      {
+        "trend": "virus",
+        "market_code": "ES",
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "Stay Healthy This Respiratory Virus Season - Ohio Department of Health (.gov)",
+          "Virus outbreak spurs 'horrendous' deer die-off in Michigan - Detroit Free Press",
+          "Scientists Create New Antibody For Virus That Infects 95% of People - sciencealert.com"
+        ]
+      },
+      {
+        "trend": "children",
+        "market_code": "ES",
+        "category": "Children Health",
+        "score": 8,
+        "examples": [
+          "Penn State Health notifies public of potential measles exposure at Penn State Health Golisano Children’s Hospital - Penn State Health News",
+          "Penn State Health notifies public of potential measles exposure at Penn State Health Golisano Children’s Hospital - Penn State Health News",
+          "Recognizing suicide warning signs in children and teens - Sanford Health News"
+        ]
+      },
+      {
+        "trend": "cancer",
+        "market_code": "ES",
+        "category": "Chronic Disease",
+        "score": 8,
+        "examples": [
+          "A common stomach infection may be linked to bowel cancer – here’s what we know - theconversation.com",
+          "Overall infection risk similar with CAR T, bispecific antibody therapy - Rare Cancer News",
+          "Clinical trials: New mRNA cancer vaccine plus Keytruda sharply improves melanoma survival - UCHealth"
+        ]
+      },
+      {
+        "trend": "health care",
+        "market_code": "ES",
+        "category": "Europe Health",
+        "score": 7,
+        "examples": [
+          "New Jersey Health Care Service Firm Registration Requirements - Holland & Knight",
+          "Vice Chair of Health Care leads year-round campaign to improve health in the Twin Cities - www.heart.org",
+          "Vice Chair of Health Care leads year-round campaign to improve health in the Twin Cities - www.heart.org"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "ES",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
-      },
-      {
-        "trend": "medical research",
-        "market_code": "ES",
-        "category": "Europe Health",
-        "score": 1,
-        "examples": []
-      },
-      {
-        "trend": "drug approval",
-        "market_code": "ES",
-        "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
-      },
-      {
-        "trend": "diet wellness",
-        "market_code": "ES",
-        "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "score": 7,
+        "examples": [
+          "Back-to-school mental health & warning signs - FOX 7 Austin",
+          "3 takeaways from stories on teens’ reliance on AI for mental health support - edsource.org",
+          "Laps of Hope helps children with mental health issues - WSMV"
+        ]
       }
     ],
     "Sweden": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "SE",
         "category": "Europe Health",
-        "score": 1,
-        "examples": []
+        "score": 74,
+        "examples": [
+          "New Jersey Health Care Service Firm Registration Requirements - Holland & Knight",
+          "Urban exposures, frailty, and mental illness in World Trade Center Health Program responders - Nature",
+          "After thousands of deaths, first responders are still navigating health effects 25 years post-9/11 - abcnews.com"
+        ]
+      },
+      {
+        "trend": "medical",
+        "market_code": "SE",
+        "category": "Europe Health",
+        "score": 19,
+        "examples": [
+          "Medical plan members with severe medical conditions should reach out for financial help by Sept. 30 - Marquette Today",
+          "Medical plan members with severe medical conditions should reach out for financial help by Sept. 30 - Marquette Today",
+          "Pedestrian hit and killed on Fannin Street near Texas Medical Center, Houston police say - ABC13 Houston"
+        ]
       },
       {
         "trend": "outbreak",
         "market_code": "SE",
         "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "score": 13,
+        "examples": [
+          "Broccoli Sprouts Are Recalled Over Link to Salmonella Outbreak - The New York Times",
+          "Legionnaires’ Outbreak in the Bronx Kills One and Infects 4 Others - The New York Times",
+          "Record U.S. cyclosporiasis outbreak is over, CDC says - CNBC"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "SE",
+        "category": "Mental Health",
+        "score": 9,
+        "examples": [
+          "Urban exposures, frailty, and mental illness in World Trade Center Health Program responders - Nature",
+          "Back-to-school mental health & warning signs - FOX 7 Austin",
+          "Urban exposures, frailty, and mental illness in World Trade Center Health Program responders - Nature"
+        ]
+      },
+      {
+        "trend": "state health",
+        "market_code": "SE",
+        "category": "Europe Health",
+        "score": 9,
+        "examples": [
+          "Penn State Health notifies public of potential measles exposure at Penn State Health Golisano Children’s Hospital - Penn State Health News",
+          "Penn State Health notifies public of potential measles exposure at Penn State Health Golisano Children’s Hospital - Penn State Health News",
+          "Penn State Health notifies public of potential measles exposure at Penn State Health Golisano Children’s Hospital - Penn State Health News"
+        ]
+      },
+      {
+        "trend": "penn state health",
+        "market_code": "SE",
+        "category": "Europe Health",
+        "score": 9,
+        "examples": [
+          "Penn State Health notifies public of potential measles exposure at Penn State Health Golisano Children’s Hospital - Penn State Health News",
+          "Penn State Health notifies public of potential measles exposure at Penn State Health Golisano Children’s Hospital - Penn State Health News",
+          "Penn State Health notifies public of potential measles exposure at Penn State Health Golisano Children’s Hospital - Penn State Health News"
+        ]
+      },
+      {
+        "trend": "warning",
+        "market_code": "SE",
+        "category": "Europe Health",
+        "score": 9,
+        "examples": [
+          "Scanning the horizon together: how the Western Pacific collectively strengthens public health intelligence and early warning systems - World Health Organization (WHO)",
+          "Scanning the horizon together: how the Western Pacific collectively strengthens public health intelligence and early warning systems - World Health Organization (WHO)",
+          "Is The Pink Gelatin Trick Legit? Evidence, Reviews And Warning Signs - Cal Poly Pomona"
+        ]
+      },
+      {
+        "trend": "virus",
+        "market_code": "SE",
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "Stay Healthy This Respiratory Virus Season - Ohio Department of Health (.gov)",
+          "Virus outbreak spurs 'horrendous' deer die-off in Michigan - Detroit Free Press",
+          "Scientists Create New Antibody For Virus That Infects 95% of People - sciencealert.com"
+        ]
+      },
+      {
+        "trend": "children",
+        "market_code": "SE",
+        "category": "Children Health",
+        "score": 8,
+        "examples": [
+          "Penn State Health notifies public of potential measles exposure at Penn State Health Golisano Children’s Hospital - Penn State Health News",
+          "Penn State Health notifies public of potential measles exposure at Penn State Health Golisano Children’s Hospital - Penn State Health News",
+          "Recognizing suicide warning signs in children and teens - Sanford Health News"
+        ]
+      },
+      {
+        "trend": "cancer",
+        "market_code": "SE",
+        "category": "Chronic Disease",
+        "score": 8,
+        "examples": [
+          "A common stomach infection may be linked to bowel cancer – here’s what we know - theconversation.com",
+          "Overall infection risk similar with CAR T, bispecific antibody therapy - Rare Cancer News",
+          "Clinical trials: New mRNA cancer vaccine plus Keytruda sharply improves melanoma survival - UCHealth"
+        ]
+      },
+      {
+        "trend": "health care",
+        "market_code": "SE",
+        "category": "Europe Health",
+        "score": 7,
+        "examples": [
+          "New Jersey Health Care Service Firm Registration Requirements - Holland & Knight",
+          "Vice Chair of Health Care leads year-round campaign to improve health in the Twin Cities - www.heart.org",
+          "Vice Chair of Health Care leads year-round campaign to improve health in the Twin Cities - www.heart.org"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "SE",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
-      },
-      {
-        "trend": "medical research",
-        "market_code": "SE",
-        "category": "Europe Health",
-        "score": 1,
-        "examples": []
-      },
-      {
-        "trend": "drug approval",
-        "market_code": "SE",
-        "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
-      },
-      {
-        "trend": "diet wellness",
-        "market_code": "SE",
-        "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "score": 7,
+        "examples": [
+          "Back-to-school mental health & warning signs - FOX 7 Austin",
+          "3 takeaways from stories on teens’ reliance on AI for mental health support - edsource.org",
+          "Laps of Hope helps children with mental health issues - WSMV"
+        ]
       }
     ],
     "Netherlands": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "NL",
         "category": "Europe Health",
-        "score": 1,
-        "examples": []
+        "score": 74,
+        "examples": [
+          "New Jersey Health Care Service Firm Registration Requirements - Holland & Knight",
+          "Urban exposures, frailty, and mental illness in World Trade Center Health Program responders - Nature",
+          "After thousands of deaths, first responders are still navigating health effects 25 years post-9/11 - abcnews.com"
+        ]
+      },
+      {
+        "trend": "medical",
+        "market_code": "NL",
+        "category": "Europe Health",
+        "score": 19,
+        "examples": [
+          "Medical plan members with severe medical conditions should reach out for financial help by Sept. 30 - Marquette Today",
+          "Medical plan members with severe medical conditions should reach out for financial help by Sept. 30 - Marquette Today",
+          "Pedestrian hit and killed on Fannin Street near Texas Medical Center, Houston police say - ABC13 Houston"
+        ]
       },
       {
         "trend": "outbreak",
         "market_code": "NL",
         "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "score": 13,
+        "examples": [
+          "Broccoli Sprouts Are Recalled Over Link to Salmonella Outbreak - The New York Times",
+          "Legionnaires’ Outbreak in the Bronx Kills One and Infects 4 Others - The New York Times",
+          "Record U.S. cyclosporiasis outbreak is over, CDC says - CNBC"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "NL",
+        "category": "Mental Health",
+        "score": 9,
+        "examples": [
+          "Urban exposures, frailty, and mental illness in World Trade Center Health Program responders - Nature",
+          "Back-to-school mental health & warning signs - FOX 7 Austin",
+          "Urban exposures, frailty, and mental illness in World Trade Center Health Program responders - Nature"
+        ]
+      },
+      {
+        "trend": "state health",
+        "market_code": "NL",
+        "category": "Europe Health",
+        "score": 9,
+        "examples": [
+          "Penn State Health notifies public of potential measles exposure at Penn State Health Golisano Children’s Hospital - Penn State Health News",
+          "Penn State Health notifies public of potential measles exposure at Penn State Health Golisano Children’s Hospital - Penn State Health News",
+          "Penn State Health notifies public of potential measles exposure at Penn State Health Golisano Children’s Hospital - Penn State Health News"
+        ]
+      },
+      {
+        "trend": "penn state health",
+        "market_code": "NL",
+        "category": "Europe Health",
+        "score": 9,
+        "examples": [
+          "Penn State Health notifies public of potential measles exposure at Penn State Health Golisano Children’s Hospital - Penn State Health News",
+          "Penn State Health notifies public of potential measles exposure at Penn State Health Golisano Children’s Hospital - Penn State Health News",
+          "Penn State Health notifies public of potential measles exposure at Penn State Health Golisano Children’s Hospital - Penn State Health News"
+        ]
+      },
+      {
+        "trend": "warning",
+        "market_code": "NL",
+        "category": "Europe Health",
+        "score": 9,
+        "examples": [
+          "Scanning the horizon together: how the Western Pacific collectively strengthens public health intelligence and early warning systems - World Health Organization (WHO)",
+          "Scanning the horizon together: how the Western Pacific collectively strengthens public health intelligence and early warning systems - World Health Organization (WHO)",
+          "Is The Pink Gelatin Trick Legit? Evidence, Reviews And Warning Signs - Cal Poly Pomona"
+        ]
+      },
+      {
+        "trend": "virus",
+        "market_code": "NL",
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "Stay Healthy This Respiratory Virus Season - Ohio Department of Health (.gov)",
+          "Virus outbreak spurs 'horrendous' deer die-off in Michigan - Detroit Free Press",
+          "Scientists Create New Antibody For Virus That Infects 95% of People - sciencealert.com"
+        ]
+      },
+      {
+        "trend": "children",
+        "market_code": "NL",
+        "category": "Children Health",
+        "score": 8,
+        "examples": [
+          "Penn State Health notifies public of potential measles exposure at Penn State Health Golisano Children’s Hospital - Penn State Health News",
+          "Penn State Health notifies public of potential measles exposure at Penn State Health Golisano Children’s Hospital - Penn State Health News",
+          "Recognizing suicide warning signs in children and teens - Sanford Health News"
+        ]
+      },
+      {
+        "trend": "cancer",
+        "market_code": "NL",
+        "category": "Chronic Disease",
+        "score": 8,
+        "examples": [
+          "A common stomach infection may be linked to bowel cancer – here’s what we know - theconversation.com",
+          "Overall infection risk similar with CAR T, bispecific antibody therapy - Rare Cancer News",
+          "Clinical trials: New mRNA cancer vaccine plus Keytruda sharply improves melanoma survival - UCHealth"
+        ]
+      },
+      {
+        "trend": "health care",
+        "market_code": "NL",
+        "category": "Europe Health",
+        "score": 7,
+        "examples": [
+          "New Jersey Health Care Service Firm Registration Requirements - Holland & Knight",
+          "Vice Chair of Health Care leads year-round campaign to improve health in the Twin Cities - www.heart.org",
+          "Vice Chair of Health Care leads year-round campaign to improve health in the Twin Cities - www.heart.org"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "NL",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
-      },
-      {
-        "trend": "medical research",
-        "market_code": "NL",
-        "category": "Europe Health",
-        "score": 1,
-        "examples": []
-      },
-      {
-        "trend": "drug approval",
-        "market_code": "NL",
-        "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
-      },
-      {
-        "trend": "diet wellness",
-        "market_code": "NL",
-        "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "score": 7,
+        "examples": [
+          "Back-to-school mental health & warning signs - FOX 7 Austin",
+          "3 takeaways from stories on teens’ reliance on AI for mental health support - edsource.org",
+          "Laps of Hope helps children with mental health issues - WSMV"
+        ]
       }
     ],
     "Finland": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "FI",
         "category": "Europe Health",
-        "score": 1,
-        "examples": []
+        "score": 74,
+        "examples": [
+          "New Jersey Health Care Service Firm Registration Requirements - Holland & Knight",
+          "Urban exposures, frailty, and mental illness in World Trade Center Health Program responders - Nature",
+          "After thousands of deaths, first responders are still navigating health effects 25 years post-9/11 - abcnews.com"
+        ]
+      },
+      {
+        "trend": "medical",
+        "market_code": "FI",
+        "category": "Europe Health",
+        "score": 19,
+        "examples": [
+          "Medical plan members with severe medical conditions should reach out for financial help by Sept. 30 - Marquette Today",
+          "Medical plan members with severe medical conditions should reach out for financial help by Sept. 30 - Marquette Today",
+          "Pedestrian hit and killed on Fannin Street near Texas Medical Center, Houston police say - ABC13 Houston"
+        ]
       },
       {
         "trend": "outbreak",
         "market_code": "FI",
         "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "score": 13,
+        "examples": [
+          "Broccoli Sprouts Are Recalled Over Link to Salmonella Outbreak - The New York Times",
+          "Legionnaires’ Outbreak in the Bronx Kills One and Infects 4 Others - The New York Times",
+          "Record U.S. cyclosporiasis outbreak is over, CDC says - CNBC"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "FI",
+        "category": "Mental Health",
+        "score": 9,
+        "examples": [
+          "Urban exposures, frailty, and mental illness in World Trade Center Health Program responders - Nature",
+          "Back-to-school mental health & warning signs - FOX 7 Austin",
+          "Urban exposures, frailty, and mental illness in World Trade Center Health Program responders - Nature"
+        ]
+      },
+      {
+        "trend": "state health",
+        "market_code": "FI",
+        "category": "Europe Health",
+        "score": 9,
+        "examples": [
+          "Penn State Health notifies public of potential measles exposure at Penn State Health Golisano Children’s Hospital - Penn State Health News",
+          "Penn State Health notifies public of potential measles exposure at Penn State Health Golisano Children’s Hospital - Penn State Health News",
+          "Penn State Health notifies public of potential measles exposure at Penn State Health Golisano Children’s Hospital - Penn State Health News"
+        ]
+      },
+      {
+        "trend": "penn state health",
+        "market_code": "FI",
+        "category": "Europe Health",
+        "score": 9,
+        "examples": [
+          "Penn State Health notifies public of potential measles exposure at Penn State Health Golisano Children’s Hospital - Penn State Health News",
+          "Penn State Health notifies public of potential measles exposure at Penn State Health Golisano Children’s Hospital - Penn State Health News",
+          "Penn State Health notifies public of potential measles exposure at Penn State Health Golisano Children’s Hospital - Penn State Health News"
+        ]
+      },
+      {
+        "trend": "warning",
+        "market_code": "FI",
+        "category": "Europe Health",
+        "score": 9,
+        "examples": [
+          "Scanning the horizon together: how the Western Pacific collectively strengthens public health intelligence and early warning systems - World Health Organization (WHO)",
+          "Scanning the horizon together: how the Western Pacific collectively strengthens public health intelligence and early warning systems - World Health Organization (WHO)",
+          "Is The Pink Gelatin Trick Legit? Evidence, Reviews And Warning Signs - Cal Poly Pomona"
+        ]
+      },
+      {
+        "trend": "virus",
+        "market_code": "FI",
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "Stay Healthy This Respiratory Virus Season - Ohio Department of Health (.gov)",
+          "Virus outbreak spurs 'horrendous' deer die-off in Michigan - Detroit Free Press",
+          "Scientists Create New Antibody For Virus That Infects 95% of People - sciencealert.com"
+        ]
+      },
+      {
+        "trend": "children",
+        "market_code": "FI",
+        "category": "Children Health",
+        "score": 8,
+        "examples": [
+          "Penn State Health notifies public of potential measles exposure at Penn State Health Golisano Children’s Hospital - Penn State Health News",
+          "Penn State Health notifies public of potential measles exposure at Penn State Health Golisano Children’s Hospital - Penn State Health News",
+          "Recognizing suicide warning signs in children and teens - Sanford Health News"
+        ]
+      },
+      {
+        "trend": "cancer",
+        "market_code": "FI",
+        "category": "Chronic Disease",
+        "score": 8,
+        "examples": [
+          "A common stomach infection may be linked to bowel cancer – here’s what we know - theconversation.com",
+          "Overall infection risk similar with CAR T, bispecific antibody therapy - Rare Cancer News",
+          "Clinical trials: New mRNA cancer vaccine plus Keytruda sharply improves melanoma survival - UCHealth"
+        ]
+      },
+      {
+        "trend": "health care",
+        "market_code": "FI",
+        "category": "Europe Health",
+        "score": 7,
+        "examples": [
+          "New Jersey Health Care Service Firm Registration Requirements - Holland & Knight",
+          "Vice Chair of Health Care leads year-round campaign to improve health in the Twin Cities - www.heart.org",
+          "Vice Chair of Health Care leads year-round campaign to improve health in the Twin Cities - www.heart.org"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "FI",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
-      },
-      {
-        "trend": "medical research",
-        "market_code": "FI",
-        "category": "Europe Health",
-        "score": 1,
-        "examples": []
-      },
-      {
-        "trend": "drug approval",
-        "market_code": "FI",
-        "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
-      },
-      {
-        "trend": "diet wellness",
-        "market_code": "FI",
-        "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "score": 7,
+        "examples": [
+          "Back-to-school mental health & warning signs - FOX 7 Austin",
+          "3 takeaways from stories on teens’ reliance on AI for mental health support - edsource.org",
+          "Laps of Hope helps children with mental health issues - WSMV"
+        ]
       }
     ],
     "Norway": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "NO",
         "category": "Europe Health",
-        "score": 1,
-        "examples": []
+        "score": 74,
+        "examples": [
+          "New Jersey Health Care Service Firm Registration Requirements - Holland & Knight",
+          "Urban exposures, frailty, and mental illness in World Trade Center Health Program responders - Nature",
+          "After thousands of deaths, first responders are still navigating health effects 25 years post-9/11 - abcnews.com"
+        ]
+      },
+      {
+        "trend": "medical",
+        "market_code": "NO",
+        "category": "Europe Health",
+        "score": 19,
+        "examples": [
+          "Medical plan members with severe medical conditions should reach out for financial help by Sept. 30 - Marquette Today",
+          "Medical plan members with severe medical conditions should reach out for financial help by Sept. 30 - Marquette Today",
+          "Pedestrian hit and killed on Fannin Street near Texas Medical Center, Houston police say - ABC13 Houston"
+        ]
       },
       {
         "trend": "outbreak",
         "market_code": "NO",
         "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "score": 13,
+        "examples": [
+          "Broccoli Sprouts Are Recalled Over Link to Salmonella Outbreak - The New York Times",
+          "Legionnaires’ Outbreak in the Bronx Kills One and Infects 4 Others - The New York Times",
+          "Record U.S. cyclosporiasis outbreak is over, CDC says - CNBC"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "NO",
+        "category": "Mental Health",
+        "score": 9,
+        "examples": [
+          "Urban exposures, frailty, and mental illness in World Trade Center Health Program responders - Nature",
+          "Back-to-school mental health & warning signs - FOX 7 Austin",
+          "Urban exposures, frailty, and mental illness in World Trade Center Health Program responders - Nature"
+        ]
+      },
+      {
+        "trend": "state health",
+        "market_code": "NO",
+        "category": "Europe Health",
+        "score": 9,
+        "examples": [
+          "Penn State Health notifies public of potential measles exposure at Penn State Health Golisano Children’s Hospital - Penn State Health News",
+          "Penn State Health notifies public of potential measles exposure at Penn State Health Golisano Children’s Hospital - Penn State Health News",
+          "Penn State Health notifies public of potential measles exposure at Penn State Health Golisano Children’s Hospital - Penn State Health News"
+        ]
+      },
+      {
+        "trend": "penn state health",
+        "market_code": "NO",
+        "category": "Europe Health",
+        "score": 9,
+        "examples": [
+          "Penn State Health notifies public of potential measles exposure at Penn State Health Golisano Children’s Hospital - Penn State Health News",
+          "Penn State Health notifies public of potential measles exposure at Penn State Health Golisano Children’s Hospital - Penn State Health News",
+          "Penn State Health notifies public of potential measles exposure at Penn State Health Golisano Children’s Hospital - Penn State Health News"
+        ]
+      },
+      {
+        "trend": "warning",
+        "market_code": "NO",
+        "category": "Europe Health",
+        "score": 9,
+        "examples": [
+          "Scanning the horizon together: how the Western Pacific collectively strengthens public health intelligence and early warning systems - World Health Organization (WHO)",
+          "Scanning the horizon together: how the Western Pacific collectively strengthens public health intelligence and early warning systems - World Health Organization (WHO)",
+          "Is The Pink Gelatin Trick Legit? Evidence, Reviews And Warning Signs - Cal Poly Pomona"
+        ]
+      },
+      {
+        "trend": "virus",
+        "market_code": "NO",
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "Stay Healthy This Respiratory Virus Season - Ohio Department of Health (.gov)",
+          "Virus outbreak spurs 'horrendous' deer die-off in Michigan - Detroit Free Press",
+          "Scientists Create New Antibody For Virus That Infects 95% of People - sciencealert.com"
+        ]
+      },
+      {
+        "trend": "children",
+        "market_code": "NO",
+        "category": "Children Health",
+        "score": 8,
+        "examples": [
+          "Penn State Health notifies public of potential measles exposure at Penn State Health Golisano Children’s Hospital - Penn State Health News",
+          "Penn State Health notifies public of potential measles exposure at Penn State Health Golisano Children’s Hospital - Penn State Health News",
+          "Recognizing suicide warning signs in children and teens - Sanford Health News"
+        ]
+      },
+      {
+        "trend": "cancer",
+        "market_code": "NO",
+        "category": "Chronic Disease",
+        "score": 8,
+        "examples": [
+          "A common stomach infection may be linked to bowel cancer – here’s what we know - theconversation.com",
+          "Overall infection risk similar with CAR T, bispecific antibody therapy - Rare Cancer News",
+          "Clinical trials: New mRNA cancer vaccine plus Keytruda sharply improves melanoma survival - UCHealth"
+        ]
+      },
+      {
+        "trend": "health care",
+        "market_code": "NO",
+        "category": "Europe Health",
+        "score": 7,
+        "examples": [
+          "New Jersey Health Care Service Firm Registration Requirements - Holland & Knight",
+          "Vice Chair of Health Care leads year-round campaign to improve health in the Twin Cities - www.heart.org",
+          "Vice Chair of Health Care leads year-round campaign to improve health in the Twin Cities - www.heart.org"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "NO",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
-      },
-      {
-        "trend": "medical research",
-        "market_code": "NO",
-        "category": "Europe Health",
-        "score": 1,
-        "examples": []
-      },
-      {
-        "trend": "drug approval",
-        "market_code": "NO",
-        "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
-      },
-      {
-        "trend": "diet wellness",
-        "market_code": "NO",
-        "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "score": 7,
+        "examples": [
+          "Back-to-school mental health & warning signs - FOX 7 Austin",
+          "3 takeaways from stories on teens’ reliance on AI for mental health support - edsource.org",
+          "Laps of Hope helps children with mental health issues - WSMV"
+        ]
       }
     ],
     "Japan": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "JP",
         "category": "Asia Health",
-        "score": 1,
-        "examples": []
+        "score": 74,
+        "examples": [
+          "New Jersey Health Care Service Firm Registration Requirements - Holland & Knight",
+          "Urban exposures, frailty, and mental illness in World Trade Center Health Program responders - Nature",
+          "After thousands of deaths, first responders are still navigating health effects 25 years post-9/11 - abcnews.com"
+        ]
+      },
+      {
+        "trend": "medical",
+        "market_code": "JP",
+        "category": "Asia Health",
+        "score": 19,
+        "examples": [
+          "Medical plan members with severe medical conditions should reach out for financial help by Sept. 30 - Marquette Today",
+          "Medical plan members with severe medical conditions should reach out for financial help by Sept. 30 - Marquette Today",
+          "Pedestrian hit and killed on Fannin Street near Texas Medical Center, Houston police say - ABC13 Houston"
+        ]
       },
       {
         "trend": "outbreak",
         "market_code": "JP",
         "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "score": 13,
+        "examples": [
+          "Broccoli Sprouts Are Recalled Over Link to Salmonella Outbreak - The New York Times",
+          "Legionnaires’ Outbreak in the Bronx Kills One and Infects 4 Others - The New York Times",
+          "Record U.S. cyclosporiasis outbreak is over, CDC says - CNBC"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "JP",
+        "category": "Mental Health",
+        "score": 9,
+        "examples": [
+          "Urban exposures, frailty, and mental illness in World Trade Center Health Program responders - Nature",
+          "Back-to-school mental health & warning signs - FOX 7 Austin",
+          "Urban exposures, frailty, and mental illness in World Trade Center Health Program responders - Nature"
+        ]
+      },
+      {
+        "trend": "state health",
+        "market_code": "JP",
+        "category": "Asia Health",
+        "score": 9,
+        "examples": [
+          "Penn State Health notifies public of potential measles exposure at Penn State Health Golisano Children’s Hospital - Penn State Health News",
+          "Penn State Health notifies public of potential measles exposure at Penn State Health Golisano Children’s Hospital - Penn State Health News",
+          "Penn State Health notifies public of potential measles exposure at Penn State Health Golisano Children’s Hospital - Penn State Health News"
+        ]
+      },
+      {
+        "trend": "penn state health",
+        "market_code": "JP",
+        "category": "Asia Health",
+        "score": 9,
+        "examples": [
+          "Penn State Health notifies public of potential measles exposure at Penn State Health Golisano Children’s Hospital - Penn State Health News",
+          "Penn State Health notifies public of potential measles exposure at Penn State Health Golisano Children’s Hospital - Penn State Health News",
+          "Penn State Health notifies public of potential measles exposure at Penn State Health Golisano Children’s Hospital - Penn State Health News"
+        ]
+      },
+      {
+        "trend": "warning",
+        "market_code": "JP",
+        "category": "Asia Health",
+        "score": 9,
+        "examples": [
+          "Scanning the horizon together: how the Western Pacific collectively strengthens public health intelligence and early warning systems - World Health Organization (WHO)",
+          "Scanning the horizon together: how the Western Pacific collectively strengthens public health intelligence and early warning systems - World Health Organization (WHO)",
+          "Is The Pink Gelatin Trick Legit? Evidence, Reviews And Warning Signs - Cal Poly Pomona"
+        ]
+      },
+      {
+        "trend": "virus",
+        "market_code": "JP",
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "Stay Healthy This Respiratory Virus Season - Ohio Department of Health (.gov)",
+          "Virus outbreak spurs 'horrendous' deer die-off in Michigan - Detroit Free Press",
+          "Scientists Create New Antibody For Virus That Infects 95% of People - sciencealert.com"
+        ]
+      },
+      {
+        "trend": "children",
+        "market_code": "JP",
+        "category": "Children Health",
+        "score": 8,
+        "examples": [
+          "Penn State Health notifies public of potential measles exposure at Penn State Health Golisano Children’s Hospital - Penn State Health News",
+          "Penn State Health notifies public of potential measles exposure at Penn State Health Golisano Children’s Hospital - Penn State Health News",
+          "Recognizing suicide warning signs in children and teens - Sanford Health News"
+        ]
+      },
+      {
+        "trend": "cancer",
+        "market_code": "JP",
+        "category": "Chronic Disease",
+        "score": 8,
+        "examples": [
+          "A common stomach infection may be linked to bowel cancer – here’s what we know - theconversation.com",
+          "Overall infection risk similar with CAR T, bispecific antibody therapy - Rare Cancer News",
+          "Clinical trials: New mRNA cancer vaccine plus Keytruda sharply improves melanoma survival - UCHealth"
+        ]
+      },
+      {
+        "trend": "health care",
+        "market_code": "JP",
+        "category": "Asia Health",
+        "score": 7,
+        "examples": [
+          "New Jersey Health Care Service Firm Registration Requirements - Holland & Knight",
+          "Vice Chair of Health Care leads year-round campaign to improve health in the Twin Cities - www.heart.org",
+          "Vice Chair of Health Care leads year-round campaign to improve health in the Twin Cities - www.heart.org"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "JP",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
-      },
-      {
-        "trend": "medical research",
-        "market_code": "JP",
-        "category": "Asia Health",
-        "score": 1,
-        "examples": []
-      },
-      {
-        "trend": "drug approval",
-        "market_code": "JP",
-        "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
-      },
-      {
-        "trend": "diet wellness",
-        "market_code": "JP",
-        "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "score": 7,
+        "examples": [
+          "Back-to-school mental health & warning signs - FOX 7 Austin",
+          "3 takeaways from stories on teens’ reliance on AI for mental health support - edsource.org",
+          "Laps of Hope helps children with mental health issues - WSMV"
+        ]
       }
     ],
     "China": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "CN",
         "category": "Asia Health",
-        "score": 1,
-        "examples": []
+        "score": 74,
+        "examples": [
+          "New Jersey Health Care Service Firm Registration Requirements - Holland & Knight",
+          "Urban exposures, frailty, and mental illness in World Trade Center Health Program responders - Nature",
+          "After thousands of deaths, first responders are still navigating health effects 25 years post-9/11 - abcnews.com"
+        ]
+      },
+      {
+        "trend": "medical",
+        "market_code": "CN",
+        "category": "Asia Health",
+        "score": 19,
+        "examples": [
+          "Medical plan members with severe medical conditions should reach out for financial help by Sept. 30 - Marquette Today",
+          "Medical plan members with severe medical conditions should reach out for financial help by Sept. 30 - Marquette Today",
+          "Pedestrian hit and killed on Fannin Street near Texas Medical Center, Houston police say - ABC13 Houston"
+        ]
       },
       {
         "trend": "outbreak",
         "market_code": "CN",
         "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "score": 13,
+        "examples": [
+          "Broccoli Sprouts Are Recalled Over Link to Salmonella Outbreak - The New York Times",
+          "Legionnaires’ Outbreak in the Bronx Kills One and Infects 4 Others - The New York Times",
+          "Record U.S. cyclosporiasis outbreak is over, CDC says - CNBC"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "CN",
+        "category": "Mental Health",
+        "score": 9,
+        "examples": [
+          "Urban exposures, frailty, and mental illness in World Trade Center Health Program responders - Nature",
+          "Back-to-school mental health & warning signs - FOX 7 Austin",
+          "Urban exposures, frailty, and mental illness in World Trade Center Health Program responders - Nature"
+        ]
+      },
+      {
+        "trend": "state health",
+        "market_code": "CN",
+        "category": "Asia Health",
+        "score": 9,
+        "examples": [
+          "Penn State Health notifies public of potential measles exposure at Penn State Health Golisano Children’s Hospital - Penn State Health News",
+          "Penn State Health notifies public of potential measles exposure at Penn State Health Golisano Children’s Hospital - Penn State Health News",
+          "Penn State Health notifies public of potential measles exposure at Penn State Health Golisano Children’s Hospital - Penn State Health News"
+        ]
+      },
+      {
+        "trend": "penn state health",
+        "market_code": "CN",
+        "category": "Asia Health",
+        "score": 9,
+        "examples": [
+          "Penn State Health notifies public of potential measles exposure at Penn State Health Golisano Children’s Hospital - Penn State Health News",
+          "Penn State Health notifies public of potential measles exposure at Penn State Health Golisano Children’s Hospital - Penn State Health News",
+          "Penn State Health notifies public of potential measles exposure at Penn State Health Golisano Children’s Hospital - Penn State Health News"
+        ]
+      },
+      {
+        "trend": "warning",
+        "market_code": "CN",
+        "category": "Asia Health",
+        "score": 9,
+        "examples": [
+          "Scanning the horizon together: how the Western Pacific collectively strengthens public health intelligence and early warning systems - World Health Organization (WHO)",
+          "Scanning the horizon together: how the Western Pacific collectively strengthens public health intelligence and early warning systems - World Health Organization (WHO)",
+          "Is The Pink Gelatin Trick Legit? Evidence, Reviews And Warning Signs - Cal Poly Pomona"
+        ]
+      },
+      {
+        "trend": "virus",
+        "market_code": "CN",
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "Stay Healthy This Respiratory Virus Season - Ohio Department of Health (.gov)",
+          "Virus outbreak spurs 'horrendous' deer die-off in Michigan - Detroit Free Press",
+          "Scientists Create New Antibody For Virus That Infects 95% of People - sciencealert.com"
+        ]
+      },
+      {
+        "trend": "children",
+        "market_code": "CN",
+        "category": "Children Health",
+        "score": 8,
+        "examples": [
+          "Penn State Health notifies public of potential measles exposure at Penn State Health Golisano Children’s Hospital - Penn State Health News",
+          "Penn State Health notifies public of potential measles exposure at Penn State Health Golisano Children’s Hospital - Penn State Health News",
+          "Recognizing suicide warning signs in children and teens - Sanford Health News"
+        ]
+      },
+      {
+        "trend": "cancer",
+        "market_code": "CN",
+        "category": "Chronic Disease",
+        "score": 8,
+        "examples": [
+          "A common stomach infection may be linked to bowel cancer – here’s what we know - theconversation.com",
+          "Overall infection risk similar with CAR T, bispecific antibody therapy - Rare Cancer News",
+          "Clinical trials: New mRNA cancer vaccine plus Keytruda sharply improves melanoma survival - UCHealth"
+        ]
+      },
+      {
+        "trend": "health care",
+        "market_code": "CN",
+        "category": "Asia Health",
+        "score": 7,
+        "examples": [
+          "New Jersey Health Care Service Firm Registration Requirements - Holland & Knight",
+          "Vice Chair of Health Care leads year-round campaign to improve health in the Twin Cities - www.heart.org",
+          "Vice Chair of Health Care leads year-round campaign to improve health in the Twin Cities - www.heart.org"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "CN",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
-      },
-      {
-        "trend": "medical research",
-        "market_code": "CN",
-        "category": "Asia Health",
-        "score": 1,
-        "examples": []
-      },
-      {
-        "trend": "drug approval",
-        "market_code": "CN",
-        "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
-      },
-      {
-        "trend": "diet wellness",
-        "market_code": "CN",
-        "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "score": 7,
+        "examples": [
+          "Back-to-school mental health & warning signs - FOX 7 Austin",
+          "3 takeaways from stories on teens’ reliance on AI for mental health support - edsource.org",
+          "Laps of Hope helps children with mental health issues - WSMV"
+        ]
       }
     ],
     "South Korea": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "KR",
         "category": "Asia Health",
-        "score": 1,
-        "examples": []
+        "score": 74,
+        "examples": [
+          "New Jersey Health Care Service Firm Registration Requirements - Holland & Knight",
+          "Urban exposures, frailty, and mental illness in World Trade Center Health Program responders - Nature",
+          "After thousands of deaths, first responders are still navigating health effects 25 years post-9/11 - abcnews.com"
+        ]
+      },
+      {
+        "trend": "medical",
+        "market_code": "KR",
+        "category": "Asia Health",
+        "score": 19,
+        "examples": [
+          "Medical plan members with severe medical conditions should reach out for financial help by Sept. 30 - Marquette Today",
+          "Medical plan members with severe medical conditions should reach out for financial help by Sept. 30 - Marquette Today",
+          "Pedestrian hit and killed on Fannin Street near Texas Medical Center, Houston police say - ABC13 Houston"
+        ]
       },
       {
         "trend": "outbreak",
         "market_code": "KR",
         "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "score": 13,
+        "examples": [
+          "Broccoli Sprouts Are Recalled Over Link to Salmonella Outbreak - The New York Times",
+          "Legionnaires’ Outbreak in the Bronx Kills One and Infects 4 Others - The New York Times",
+          "Record U.S. cyclosporiasis outbreak is over, CDC says - CNBC"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "KR",
+        "category": "Mental Health",
+        "score": 9,
+        "examples": [
+          "Urban exposures, frailty, and mental illness in World Trade Center Health Program responders - Nature",
+          "Back-to-school mental health & warning signs - FOX 7 Austin",
+          "Urban exposures, frailty, and mental illness in World Trade Center Health Program responders - Nature"
+        ]
+      },
+      {
+        "trend": "state health",
+        "market_code": "KR",
+        "category": "Asia Health",
+        "score": 9,
+        "examples": [
+          "Penn State Health notifies public of potential measles exposure at Penn State Health Golisano Children’s Hospital - Penn State Health News",
+          "Penn State Health notifies public of potential measles exposure at Penn State Health Golisano Children’s Hospital - Penn State Health News",
+          "Penn State Health notifies public of potential measles exposure at Penn State Health Golisano Children’s Hospital - Penn State Health News"
+        ]
+      },
+      {
+        "trend": "penn state health",
+        "market_code": "KR",
+        "category": "Asia Health",
+        "score": 9,
+        "examples": [
+          "Penn State Health notifies public of potential measles exposure at Penn State Health Golisano Children’s Hospital - Penn State Health News",
+          "Penn State Health notifies public of potential measles exposure at Penn State Health Golisano Children’s Hospital - Penn State Health News",
+          "Penn State Health notifies public of potential measles exposure at Penn State Health Golisano Children’s Hospital - Penn State Health News"
+        ]
+      },
+      {
+        "trend": "warning",
+        "market_code": "KR",
+        "category": "Asia Health",
+        "score": 9,
+        "examples": [
+          "Scanning the horizon together: how the Western Pacific collectively strengthens public health intelligence and early warning systems - World Health Organization (WHO)",
+          "Scanning the horizon together: how the Western Pacific collectively strengthens public health intelligence and early warning systems - World Health Organization (WHO)",
+          "Is The Pink Gelatin Trick Legit? Evidence, Reviews And Warning Signs - Cal Poly Pomona"
+        ]
+      },
+      {
+        "trend": "virus",
+        "market_code": "KR",
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "Stay Healthy This Respiratory Virus Season - Ohio Department of Health (.gov)",
+          "Virus outbreak spurs 'horrendous' deer die-off in Michigan - Detroit Free Press",
+          "Scientists Create New Antibody For Virus That Infects 95% of People - sciencealert.com"
+        ]
+      },
+      {
+        "trend": "children",
+        "market_code": "KR",
+        "category": "Children Health",
+        "score": 8,
+        "examples": [
+          "Penn State Health notifies public of potential measles exposure at Penn State Health Golisano Children’s Hospital - Penn State Health News",
+          "Penn State Health notifies public of potential measles exposure at Penn State Health Golisano Children’s Hospital - Penn State Health News",
+          "Recognizing suicide warning signs in children and teens - Sanford Health News"
+        ]
+      },
+      {
+        "trend": "cancer",
+        "market_code": "KR",
+        "category": "Chronic Disease",
+        "score": 8,
+        "examples": [
+          "A common stomach infection may be linked to bowel cancer – here’s what we know - theconversation.com",
+          "Overall infection risk similar with CAR T, bispecific antibody therapy - Rare Cancer News",
+          "Clinical trials: New mRNA cancer vaccine plus Keytruda sharply improves melanoma survival - UCHealth"
+        ]
+      },
+      {
+        "trend": "health care",
+        "market_code": "KR",
+        "category": "Asia Health",
+        "score": 7,
+        "examples": [
+          "New Jersey Health Care Service Firm Registration Requirements - Holland & Knight",
+          "Vice Chair of Health Care leads year-round campaign to improve health in the Twin Cities - www.heart.org",
+          "Vice Chair of Health Care leads year-round campaign to improve health in the Twin Cities - www.heart.org"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "KR",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
-      },
-      {
-        "trend": "medical research",
-        "market_code": "KR",
-        "category": "Asia Health",
-        "score": 1,
-        "examples": []
-      },
-      {
-        "trend": "drug approval",
-        "market_code": "KR",
-        "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
-      },
-      {
-        "trend": "diet wellness",
-        "market_code": "KR",
-        "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "score": 7,
+        "examples": [
+          "Back-to-school mental health & warning signs - FOX 7 Austin",
+          "3 takeaways from stories on teens’ reliance on AI for mental health support - edsource.org",
+          "Laps of Hope helps children with mental health issues - WSMV"
+        ]
       }
     ],
     "India": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "IN",
         "category": "Asia Health",
-        "score": 1,
-        "examples": []
+        "score": 59,
+        "examples": [
+          "A global digital navigator of human health for precision medicine - Nature",
+          "Record wildfires in Indonesia trigger health crisis as haze spreads across South East Asia - Down To Earth",
+          "Scanning the horizon together: how the Western Pacific collectively strengthens public health intelligence and early warning systems - World Health Organization (WHO)"
+        ]
+      },
+      {
+        "trend": "medical",
+        "market_code": "IN",
+        "category": "Asia Health",
+        "score": 14,
+        "examples": [
+          "A resource to help hospitals build the business case for diagnostic stewardship - Medical Xpress",
+          "‘I want to cry’: Afghan medical students in Pakistan face expulsion fear - Al Jazeera",
+          "DMK president Stalin urges PM Modi to intervene over 1,857 vacant super-speciality medical seats - thehindu.com"
+        ]
       },
       {
         "trend": "outbreak",
         "market_code": "IN",
         "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "score": 13,
+        "examples": [
+          "US health officials declare end to largest cyclosporiasis outbreak - Investing.com India",
+          "Record U.S. cyclosporiasis outbreak is over, CDC says - CNBC",
+          "Melioidosis outbreak after record rainfall reinforces emergency care guidance - Medical Xpress"
+        ]
+      },
+      {
+        "trend": "warning",
+        "market_code": "IN",
+        "category": "Asia Health",
+        "score": 11,
+        "examples": [
+          "Scanning the horizon together: how the Western Pacific collectively strengthens public health intelligence and early warning systems - World Health Organization (WHO)",
+          "Scanning the horizon together: how the Western Pacific collectively strengthens public health intelligence and early warning systems - World Health Organization (WHO)",
+          "Scanning the horizon together: how the Western Pacific collectively strengthens public health intelligence and early warning systems - World Health Organization (WHO)"
+        ]
+      },
+      {
+        "trend": "healthcare",
+        "market_code": "IN",
+        "category": "Asia Health",
+        "score": 11,
+        "examples": [
+          "Healthcare projects worth ₹806.9 cr. in the pipeline for Madurai, says Health Minister - thehindu.com",
+          "India Health 2026 Concludes Successfully, Showcasing India’s Expanding MedTech Manufacturing and Healthcare Innovation Landscape - healthcareexecutive.in",
+          "NHS doctor-led commission issues blueprint for AI’s safe adoption in healthcare - Medical Device Network"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "IN",
+        "category": "Mental Health",
+        "score": 11,
+        "examples": [
+          "U.S. Chatbot Based Mental Health Apps Industry Insights: AI Trends & Growth Outlook - SNS Insider",
+          "U.S. Chatbot Based Mental Health Apps Industry Insights: AI Trends & Growth Outlook - SNS Insider",
+          "Urban exposures, frailty, and mental illness in World Trade Center Health Program responders - Nature"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "IN",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
+        "score": 10,
+        "examples": [
+          "U.S. Chatbot Based Mental Health Apps Industry Insights: AI Trends & Growth Outlook - SNS Insider",
+          "U.S. Chatbot Based Mental Health Apps Industry Insights: AI Trends & Growth Outlook - SNS Insider",
+          "Lilly completes acquisition of AtaiBeckley to advance therapies for treatment-resistant depression and other mental health conditions - PR Newswire"
+        ]
       },
       {
-        "trend": "medical research",
+        "trend": "cancer",
+        "market_code": "IN",
+        "category": "Chronic Disease",
+        "score": 10,
+        "examples": [
+          "India Administers 80 Lakh HPV Vaccine Doses, Marking Major Milestone in Cervical Cancer Prevention - PIB",
+          "India crosses over 80 lakh HPV vaccinations in its fight against cervical cancer - The New Indian Express",
+          "A common stomach infection may be linked to bowel cancer – here’s what we know - The Conversation"
+        ]
+      },
+      {
+        "trend": "hospitals",
         "market_code": "IN",
         "category": "Asia Health",
-        "score": 1,
-        "examples": []
+        "score": 9,
+        "examples": [
+          "A resource to help hospitals build the business case for diagnostic stewardship - Medical Xpress",
+          "Manipal Hospitals explores eVTOL air ambulances for faster emergency transfers - AirMed&Rescue",
+          "Manipal Hospitals explores eVTOL air ambulances for faster emergency transfers - AirMed&Rescue"
+        ]
       },
       {
-        "trend": "drug approval",
+        "trend": "disease",
         "market_code": "IN",
-        "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
+        "category": "Asia Health",
+        "score": 8,
+        "examples": [
+          "Risk factors for cardiovascular-kidney-metabolic disease can be identified in young children - News-Medical",
+          "Nationwide Increase in Reported Human Rabies Exposures: Rabies Post-exposure Prophylaxis Administration - Centers for Disease Control and Prevention | CDC (.gov)",
+          "Nationwide Increase in Reported Human Rabies Exposures: Rabies Post-exposure Prophylaxis Administration - Centers for Disease Control and Prevention | CDC (.gov)"
+        ]
       },
       {
-        "trend": "diet wellness",
+        "trend": "virus",
         "market_code": "IN",
-        "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "category": "Outbreaks",
+        "score": 8,
+        "examples": [
+          "Dormant chickenpox virus is an under-recognised cause of serious disease - Labmate Online",
+          "Every City Showed a Unique RNA Virus Fingerprint - technologynetworks.com",
+          "Respiratory virus surveillance in the WHO African Region Epidemiological Week 43, October 20 to 26 2025 - WHO | Regional Office for Africa"
+        ]
+      },
+      {
+        "trend": "public health",
+        "market_code": "IN",
+        "category": "Asia Health",
+        "score": 6,
+        "examples": [
+          "Scanning the horizon together: how the Western Pacific collectively strengthens public health intelligence and early warning systems - World Health Organization (WHO)",
+          "CDC vs. Pennsylvania: Why conflicting public health messages jeopardize public safety - The Conversation",
+          "Scanning the horizon together: how the Western Pacific collectively strengthens public health intelligence and early warning systems - World Health Organization (WHO)"
+        ]
       }
     ],
     "Australia": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "AU",
         "category": "Global Health",
-        "score": 1,
-        "examples": []
+        "score": 58,
+        "examples": [
+          "Women's health Week 2026 - Heart Foundation",
+          "Doorstop interview with Assistant Minister White, Hobart – 11 September 2026 - Australian Government Department of Health, Disability and Ageing",
+          "CDC vs. Pennsylvania: Why conflicting public health messages jeopardize public safety - The Conversation"
+        ]
+      },
+      {
+        "trend": "medical",
+        "market_code": "AU",
+        "category": "Global Health",
+        "score": 19,
+        "examples": [
+          "‘I want to cry’: Afghan medical students in Pakistan face expulsion fear - Al Jazeera",
+          "Medical law much more than litigation says Sarah Vallance - qlsproctor.com.au",
+          "WA expands medical capability on its rescue helicopters - Australian Aviation"
+        ]
       },
       {
         "trend": "outbreak",
         "market_code": "AU",
         "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "score": 12,
+        "examples": [
+          "US health officials declare end to largest cyclosporiasis outbreak By Investing.com - Investing.com Australia",
+          "Bouncy castle play linked to largest outbreak of common superbug in Ireland - The Irish Times",
+          "Record U.S. cyclosporiasis outbreak is over, CDC says - CNBC"
+        ]
+      },
+      {
+        "trend": "healthcare",
+        "market_code": "AU",
+        "category": "Global Health",
+        "score": 11,
+        "examples": [
+          "13 test positive in new healthcare facility outbreak - Geelong Advertiser",
+          "Clancy case highlights need for perinatal mental healthcare, says WashU psychiatrist - STLPR",
+          "UK needs new laws for AI in healthcare, says watchdog - BBC"
+        ]
+      },
+      {
+        "trend": "warning",
+        "market_code": "AU",
+        "category": "Global Health",
+        "score": 10,
+        "examples": [
+          "Scanning the horizon together: how the Western Pacific collectively strengthens public health intelligence and early warning systems - World Health Organization (WHO)",
+          "Scanning the horizon together: how the Western Pacific collectively strengthens public health intelligence and early warning systems - World Health Organization (WHO)",
+          "Scanning the horizon together: how the Western Pacific collectively strengthens public health intelligence and early warning systems - World Health Organization (WHO)"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "AU",
+        "category": "Mental Health",
+        "score": 10,
+        "examples": [
+          "Prince’s mental health warning: We don’t see what’s happening behind closed doors - The Telegraph",
+          "Urban exposures, frailty, and mental illness in World Trade Center Health Program responders - Nature",
+          "Lilly completes acquisition of AtaiBeckley to advance therapies for treatment-resistant depression and other mental health conditions - Yahoo Finance Australia"
+        ]
+      },
+      {
+        "trend": "virus",
+        "market_code": "AU",
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "West Nile Virus Infections in Horses on Rise - Mirage News",
+          "Scientists Create New Antibody For Virus That Infects 95% of People - sciencealert.com",
+          "Dormant chickenpox virus is an under-recognised cause of serious disease - Labmate Online"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "AU",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
+        "score": 8,
+        "examples": [
+          "Prince’s mental health warning: We don’t see what’s happening behind closed doors - The Telegraph",
+          "Lilly completes acquisition of AtaiBeckley to advance therapies for treatment-resistant depression and other mental health conditions - Yahoo Finance Australia",
+          "New book revitalises language, equips young people to talk about mental health, and asks: Are You OK Today? - nit.com.au"
+        ]
       },
       {
-        "trend": "medical research",
+        "trend": "cancer",
+        "market_code": "AU",
+        "category": "Chronic Disease",
+        "score": 8,
+        "examples": [
+          "A common stomach infection may be linked to bowel cancer – here’s what we know - The Conversation",
+          "Overall infection risk similar with CAR T, bispecific antibody therapy - Rare Cancer News",
+          "Clinical trials: New mRNA cancer vaccine plus Keytruda sharply improves melanoma survival - UCHealth"
+        ]
+      },
+      {
+        "trend": "public health",
         "market_code": "AU",
         "category": "Global Health",
-        "score": 1,
-        "examples": []
+        "score": 7,
+        "examples": [
+          "CDC vs. Pennsylvania: Why conflicting public health messages jeopardize public safety - The Conversation",
+          "Scanning the horizon together: how the Western Pacific collectively strengthens public health intelligence and early warning systems - World Health Organization (WHO)",
+          "CDC vs. Pennsylvania: Why conflicting public health messages jeopardize public safety - The Conversation"
+        ]
       },
       {
-        "trend": "drug approval",
+        "trend": "health insurance",
         "market_code": "AU",
-        "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
+        "category": "Global Health",
+        "score": 6,
+        "examples": [
+          "Removing extra subsidies for older Australians with private health insurance would improve health system - submission - The Australia Institute",
+          "Removing extra subsidies for older Australians with private health insurance would improve health system - submission - The Australia Institute",
+          "$12 billion in private health insurance subsidies do little to ease pressure on the public health system - thepoint.com.au"
+        ]
       },
       {
-        "trend": "diet wellness",
+        "trend": "disease",
         "market_code": "AU",
-        "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "category": "Global Health",
+        "score": 6,
+        "examples": [
+          "Risk factors for cardiovascular-kidney-metabolic disease can be identified in young children - News-Medical",
+          "Nationwide Increase in Reported Human Rabies Exposures: Rabies Post-exposure Prophylaxis Administration - Centers for Disease Control and Prevention | CDC (.gov)",
+          "Nationwide Increase in Reported Human Rabies Exposures: Rabies Post-exposure Prophylaxis Administration - Centers for Disease Control and Prevention | CDC (.gov)"
+        ]
       }
     ],
     "Canada": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "CA",
         "category": "Global Health",
-        "score": 1,
-        "examples": []
+        "score": 66,
+        "examples": [
+          "Nanaimo couple raises concerns after 3 home care visits cancelled by Island Health - CBC",
+          "Doctor Calls For Psychological Support For Ebola Survivors And Families - Health Policy Watch",
+          "76% of Canadians say mental health impacted by work, financial stress: survey - Benefits Canada.com"
+        ]
+      },
+      {
+        "trend": "medical",
+        "market_code": "CA",
+        "category": "Global Health",
+        "score": 13,
+        "examples": [
+          "Qualicum Beach earmarks $400K for medical equipment for new clinic - CHEK News",
+          "Mavrik Turnbull's legacy will help fund medical trips - Prince George Citizen",
+          "Medical transportation benefit updates: Extension to the temporary mileage rate - First Nations Health Authority"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "CA",
+        "category": "Mental Health",
+        "score": 12,
+        "examples": [
+          "76% of Canadians say mental health impacted by work, financial stress: survey - Benefits Canada.com",
+          "Urban exposures, frailty, and mental illness in World Trade Center Health Program responders - Nature",
+          "Canadian Construction Safety Council launches mental health campaign - ReNew Canada Magazine"
+        ]
       },
       {
         "trend": "outbreak",
         "market_code": "CA",
         "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "score": 12,
+        "examples": [
+          "U.S. declares end of largest recorded cyclosporiasis outbreak - CP24",
+          "Ebola outbreak in eastern Congo has now spread to the country's seventh province, officials say - CTV News",
+          "US declares end of largest recorded cyclosporiasis outbreak - The Detroit News"
+        ]
+      },
+      {
+        "trend": "healthcare",
+        "market_code": "CA",
+        "category": "Global Health",
+        "score": 11,
+        "examples": [
+          "Profound Medical Stock And 2 Canadian AI Healthcare Stocks To Watch - finance.yahoo.com",
+          "3 Canadian AI Healthcare Stocks With Market Caps Up To $345 Million - simplywall.st",
+          "GuideAI Health Corp. (CN:GDAI) Advances as AI-Powered Healthcare Innovation Drives Investor Attention and Growth Expectations - kalkine.ca"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "CA",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
+        "score": 10,
+        "examples": [
+          "76% of Canadians say mental health impacted by work, financial stress: survey - Benefits Canada.com",
+          "Canadian Construction Safety Council launches mental health campaign - ReNew Canada Magazine",
+          "76% of Canadians say mental health impacted by work, financial stress: survey - Benefits Canada.com"
+        ]
       },
       {
-        "trend": "medical research",
+        "trend": "warning",
         "market_code": "CA",
         "category": "Global Health",
-        "score": 1,
-        "examples": []
+        "score": 10,
+        "examples": [
+          "Scanning the horizon together: how the Western Pacific collectively strengthens public health intelligence and early warning systems - World Health Organization (WHO)",
+          "Scanning the horizon together: how the Western Pacific collectively strengthens public health intelligence and early warning systems - World Health Organization (WHO)",
+          "Scanning the horizon together: how the Western Pacific collectively strengthens public health intelligence and early warning systems - World Health Organization (WHO)"
+        ]
       },
       {
-        "trend": "drug approval",
+        "trend": "virus",
         "market_code": "CA",
-        "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
+        "category": "Outbreaks",
+        "score": 10,
+        "examples": [
+          "Niagara Public Health warns virus is circulating after first human West Nile case - Niagara-on-the-Lake Local",
+          "Scientists Create New Antibody For Virus That Infects 95% of People - ScienceAlert",
+          "Respiratory virus surveillance in the WHO African Region Epidemiological Week 43, October 20 to 26 2025 - WHO | Regional Office for Africa"
+        ]
       },
       {
-        "trend": "diet wellness",
+        "trend": "cancer",
         "market_code": "CA",
-        "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "category": "Chronic Disease",
+        "score": 9,
+        "examples": [
+          "A common stomach infection may be linked to bowel cancer – here’s what we know - The Conversation",
+          "Overall infection risk similar with CAR T, bispecific antibody therapy - Rare Cancer News",
+          "Clinical trials: New mRNA cancer vaccine plus Keytruda sharply improves melanoma survival - UCHealth"
+        ]
+      },
+      {
+        "trend": "public health",
+        "market_code": "CA",
+        "category": "Global Health",
+        "score": 8,
+        "examples": [
+          "Scanning the horizon together: how the Western Pacific collectively strengthens public health intelligence and early warning systems - World Health Organization (WHO)",
+          "Scanning the horizon together: how the Western Pacific collectively strengthens public health intelligence and early warning systems - World Health Organization (WHO)",
+          "CDC vs. Pennsylvania: Why conflicting public health messages jeopardize public safety - The Conversation"
+        ]
+      },
+      {
+        "trend": "disease",
+        "market_code": "CA",
+        "category": "Global Health",
+        "score": 7,
+        "examples": [
+          "Risk factors for cardiovascular-kidney-metabolic disease can be identified in young children - News-Medical",
+          "Nationwide Increase in Reported Human Rabies Exposures: Rabies Post-exposure Prophylaxis Administration - Centers for Disease Control and Prevention | CDC (.gov)",
+          "Nationwide Increase in Reported Human Rabies Exposures: Rabies Post-exposure Prophylaxis Administration - Centers for Disease Control and Prevention | CDC (.gov)"
+        ]
+      },
+      {
+        "trend": "infection",
+        "market_code": "CA",
+        "category": "Outbreaks",
+        "score": 6,
+        "examples": [
+          "A common stomach infection may be linked to bowel cancer – here’s what we know - The Conversation",
+          "Acute Otitis Media: The Cost of a Common Childhood Infection - Medscape",
+          "Overall infection risk similar with CAR T, bispecific antibody therapy - Rare Cancer News"
+        ]
       }
     ],
     "United Arab Emirates": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "AE",
         "category": "Arab Health",
-        "score": 1,
-        "examples": []
+        "score": 74,
+        "examples": [
+          "New Jersey Health Care Service Firm Registration Requirements - Holland & Knight",
+          "Urban exposures, frailty, and mental illness in World Trade Center Health Program responders - Nature",
+          "After thousands of deaths, first responders are still navigating health effects 25 years post-9/11 - abcnews.com"
+        ]
+      },
+      {
+        "trend": "medical",
+        "market_code": "AE",
+        "category": "Arab Health",
+        "score": 19,
+        "examples": [
+          "Medical plan members with severe medical conditions should reach out for financial help by Sept. 30 - Marquette Today",
+          "Medical plan members with severe medical conditions should reach out for financial help by Sept. 30 - Marquette Today",
+          "Pedestrian hit and killed on Fannin Street near Texas Medical Center, Houston police say - ABC13 Houston"
+        ]
       },
       {
         "trend": "outbreak",
         "market_code": "AE",
         "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "score": 13,
+        "examples": [
+          "Broccoli Sprouts Are Recalled Over Link to Salmonella Outbreak - The New York Times",
+          "Legionnaires’ Outbreak in the Bronx Kills One and Infects 4 Others - The New York Times",
+          "Record U.S. cyclosporiasis outbreak is over, CDC says - CNBC"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "AE",
+        "category": "Mental Health",
+        "score": 9,
+        "examples": [
+          "Urban exposures, frailty, and mental illness in World Trade Center Health Program responders - Nature",
+          "Back-to-school mental health & warning signs - FOX 7 Austin",
+          "Urban exposures, frailty, and mental illness in World Trade Center Health Program responders - Nature"
+        ]
+      },
+      {
+        "trend": "state health",
+        "market_code": "AE",
+        "category": "Arab Health",
+        "score": 9,
+        "examples": [
+          "Penn State Health notifies public of potential measles exposure at Penn State Health Golisano Children’s Hospital - Penn State Health News",
+          "Penn State Health notifies public of potential measles exposure at Penn State Health Golisano Children’s Hospital - Penn State Health News",
+          "Penn State Health notifies public of potential measles exposure at Penn State Health Golisano Children’s Hospital - Penn State Health News"
+        ]
+      },
+      {
+        "trend": "penn state health",
+        "market_code": "AE",
+        "category": "Arab Health",
+        "score": 9,
+        "examples": [
+          "Penn State Health notifies public of potential measles exposure at Penn State Health Golisano Children’s Hospital - Penn State Health News",
+          "Penn State Health notifies public of potential measles exposure at Penn State Health Golisano Children’s Hospital - Penn State Health News",
+          "Penn State Health notifies public of potential measles exposure at Penn State Health Golisano Children’s Hospital - Penn State Health News"
+        ]
+      },
+      {
+        "trend": "warning",
+        "market_code": "AE",
+        "category": "Arab Health",
+        "score": 9,
+        "examples": [
+          "Scanning the horizon together: how the Western Pacific collectively strengthens public health intelligence and early warning systems - World Health Organization (WHO)",
+          "Scanning the horizon together: how the Western Pacific collectively strengthens public health intelligence and early warning systems - World Health Organization (WHO)",
+          "Is The Pink Gelatin Trick Legit? Evidence, Reviews And Warning Signs - Cal Poly Pomona"
+        ]
+      },
+      {
+        "trend": "virus",
+        "market_code": "AE",
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "Stay Healthy This Respiratory Virus Season - Ohio Department of Health (.gov)",
+          "Virus outbreak spurs 'horrendous' deer die-off in Michigan - Detroit Free Press",
+          "Scientists Create New Antibody For Virus That Infects 95% of People - sciencealert.com"
+        ]
+      },
+      {
+        "trend": "children",
+        "market_code": "AE",
+        "category": "Children Health",
+        "score": 8,
+        "examples": [
+          "Penn State Health notifies public of potential measles exposure at Penn State Health Golisano Children’s Hospital - Penn State Health News",
+          "Penn State Health notifies public of potential measles exposure at Penn State Health Golisano Children’s Hospital - Penn State Health News",
+          "Recognizing suicide warning signs in children and teens - Sanford Health News"
+        ]
+      },
+      {
+        "trend": "cancer",
+        "market_code": "AE",
+        "category": "Chronic Disease",
+        "score": 8,
+        "examples": [
+          "A common stomach infection may be linked to bowel cancer – here’s what we know - theconversation.com",
+          "Overall infection risk similar with CAR T, bispecific antibody therapy - Rare Cancer News",
+          "Clinical trials: New mRNA cancer vaccine plus Keytruda sharply improves melanoma survival - UCHealth"
+        ]
+      },
+      {
+        "trend": "health care",
+        "market_code": "AE",
+        "category": "Arab Health",
+        "score": 7,
+        "examples": [
+          "New Jersey Health Care Service Firm Registration Requirements - Holland & Knight",
+          "Vice Chair of Health Care leads year-round campaign to improve health in the Twin Cities - www.heart.org",
+          "Vice Chair of Health Care leads year-round campaign to improve health in the Twin Cities - www.heart.org"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "AE",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
-      },
-      {
-        "trend": "medical research",
-        "market_code": "AE",
-        "category": "Arab Health",
-        "score": 1,
-        "examples": []
-      },
-      {
-        "trend": "drug approval",
-        "market_code": "AE",
-        "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
-      },
-      {
-        "trend": "diet wellness",
-        "market_code": "AE",
-        "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "score": 7,
+        "examples": [
+          "Back-to-school mental health & warning signs - FOX 7 Austin",
+          "3 takeaways from stories on teens’ reliance on AI for mental health support - edsource.org",
+          "Laps of Hope helps children with mental health issues - WSMV"
+        ]
       }
     ],
     "Saudi Arabia": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "SA",
         "category": "Arab Health",
-        "score": 1,
-        "examples": []
+        "score": 74,
+        "examples": [
+          "New Jersey Health Care Service Firm Registration Requirements - Holland & Knight",
+          "Urban exposures, frailty, and mental illness in World Trade Center Health Program responders - Nature",
+          "After thousands of deaths, first responders are still navigating health effects 25 years post-9/11 - abcnews.com"
+        ]
+      },
+      {
+        "trend": "medical",
+        "market_code": "SA",
+        "category": "Arab Health",
+        "score": 19,
+        "examples": [
+          "Medical plan members with severe medical conditions should reach out for financial help by Sept. 30 - Marquette Today",
+          "Medical plan members with severe medical conditions should reach out for financial help by Sept. 30 - Marquette Today",
+          "Pedestrian hit and killed on Fannin Street near Texas Medical Center, Houston police say - ABC13 Houston"
+        ]
       },
       {
         "trend": "outbreak",
         "market_code": "SA",
         "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "score": 13,
+        "examples": [
+          "Broccoli Sprouts Are Recalled Over Link to Salmonella Outbreak - The New York Times",
+          "Legionnaires’ Outbreak in the Bronx Kills One and Infects 4 Others - The New York Times",
+          "Record U.S. cyclosporiasis outbreak is over, CDC says - CNBC"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "SA",
+        "category": "Mental Health",
+        "score": 9,
+        "examples": [
+          "Urban exposures, frailty, and mental illness in World Trade Center Health Program responders - Nature",
+          "Back-to-school mental health & warning signs - FOX 7 Austin",
+          "Urban exposures, frailty, and mental illness in World Trade Center Health Program responders - Nature"
+        ]
+      },
+      {
+        "trend": "state health",
+        "market_code": "SA",
+        "category": "Arab Health",
+        "score": 9,
+        "examples": [
+          "Penn State Health notifies public of potential measles exposure at Penn State Health Golisano Children’s Hospital - Penn State Health News",
+          "Penn State Health notifies public of potential measles exposure at Penn State Health Golisano Children’s Hospital - Penn State Health News",
+          "Penn State Health notifies public of potential measles exposure at Penn State Health Golisano Children’s Hospital - Penn State Health News"
+        ]
+      },
+      {
+        "trend": "penn state health",
+        "market_code": "SA",
+        "category": "Arab Health",
+        "score": 9,
+        "examples": [
+          "Penn State Health notifies public of potential measles exposure at Penn State Health Golisano Children’s Hospital - Penn State Health News",
+          "Penn State Health notifies public of potential measles exposure at Penn State Health Golisano Children’s Hospital - Penn State Health News",
+          "Penn State Health notifies public of potential measles exposure at Penn State Health Golisano Children’s Hospital - Penn State Health News"
+        ]
+      },
+      {
+        "trend": "warning",
+        "market_code": "SA",
+        "category": "Arab Health",
+        "score": 9,
+        "examples": [
+          "Scanning the horizon together: how the Western Pacific collectively strengthens public health intelligence and early warning systems - World Health Organization (WHO)",
+          "Scanning the horizon together: how the Western Pacific collectively strengthens public health intelligence and early warning systems - World Health Organization (WHO)",
+          "Is The Pink Gelatin Trick Legit? Evidence, Reviews And Warning Signs - Cal Poly Pomona"
+        ]
+      },
+      {
+        "trend": "virus",
+        "market_code": "SA",
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "Stay Healthy This Respiratory Virus Season - Ohio Department of Health (.gov)",
+          "Virus outbreak spurs 'horrendous' deer die-off in Michigan - Detroit Free Press",
+          "Scientists Create New Antibody For Virus That Infects 95% of People - sciencealert.com"
+        ]
+      },
+      {
+        "trend": "children",
+        "market_code": "SA",
+        "category": "Children Health",
+        "score": 8,
+        "examples": [
+          "Penn State Health notifies public of potential measles exposure at Penn State Health Golisano Children’s Hospital - Penn State Health News",
+          "Penn State Health notifies public of potential measles exposure at Penn State Health Golisano Children’s Hospital - Penn State Health News",
+          "Recognizing suicide warning signs in children and teens - Sanford Health News"
+        ]
+      },
+      {
+        "trend": "cancer",
+        "market_code": "SA",
+        "category": "Chronic Disease",
+        "score": 8,
+        "examples": [
+          "A common stomach infection may be linked to bowel cancer – here’s what we know - theconversation.com",
+          "Overall infection risk similar with CAR T, bispecific antibody therapy - Rare Cancer News",
+          "Clinical trials: New mRNA cancer vaccine plus Keytruda sharply improves melanoma survival - UCHealth"
+        ]
+      },
+      {
+        "trend": "health care",
+        "market_code": "SA",
+        "category": "Arab Health",
+        "score": 7,
+        "examples": [
+          "New Jersey Health Care Service Firm Registration Requirements - Holland & Knight",
+          "Vice Chair of Health Care leads year-round campaign to improve health in the Twin Cities - www.heart.org",
+          "Vice Chair of Health Care leads year-round campaign to improve health in the Twin Cities - www.heart.org"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "SA",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
-      },
-      {
-        "trend": "medical research",
-        "market_code": "SA",
-        "category": "Arab Health",
-        "score": 1,
-        "examples": []
-      },
-      {
-        "trend": "drug approval",
-        "market_code": "SA",
-        "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
-      },
-      {
-        "trend": "diet wellness",
-        "market_code": "SA",
-        "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "score": 7,
+        "examples": [
+          "Back-to-school mental health & warning signs - FOX 7 Austin",
+          "3 takeaways from stories on teens’ reliance on AI for mental health support - edsource.org",
+          "Laps of Hope helps children with mental health issues - WSMV"
+        ]
       }
     ],
     "Qatar": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "QA",
         "category": "Arab Health",
-        "score": 1,
-        "examples": []
+        "score": 74,
+        "examples": [
+          "New Jersey Health Care Service Firm Registration Requirements - Holland & Knight",
+          "Urban exposures, frailty, and mental illness in World Trade Center Health Program responders - Nature",
+          "After thousands of deaths, first responders are still navigating health effects 25 years post-9/11 - abcnews.com"
+        ]
+      },
+      {
+        "trend": "medical",
+        "market_code": "QA",
+        "category": "Arab Health",
+        "score": 19,
+        "examples": [
+          "Medical plan members with severe medical conditions should reach out for financial help by Sept. 30 - Marquette Today",
+          "Medical plan members with severe medical conditions should reach out for financial help by Sept. 30 - Marquette Today",
+          "Pedestrian hit and killed on Fannin Street near Texas Medical Center, Houston police say - ABC13 Houston"
+        ]
       },
       {
         "trend": "outbreak",
         "market_code": "QA",
         "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "score": 13,
+        "examples": [
+          "Broccoli Sprouts Are Recalled Over Link to Salmonella Outbreak - The New York Times",
+          "Legionnaires’ Outbreak in the Bronx Kills One and Infects 4 Others - The New York Times",
+          "Record U.S. cyclosporiasis outbreak is over, CDC says - CNBC"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "QA",
+        "category": "Mental Health",
+        "score": 9,
+        "examples": [
+          "Urban exposures, frailty, and mental illness in World Trade Center Health Program responders - Nature",
+          "Back-to-school mental health & warning signs - FOX 7 Austin",
+          "Urban exposures, frailty, and mental illness in World Trade Center Health Program responders - Nature"
+        ]
+      },
+      {
+        "trend": "state health",
+        "market_code": "QA",
+        "category": "Arab Health",
+        "score": 9,
+        "examples": [
+          "Penn State Health notifies public of potential measles exposure at Penn State Health Golisano Children’s Hospital - Penn State Health News",
+          "Penn State Health notifies public of potential measles exposure at Penn State Health Golisano Children’s Hospital - Penn State Health News",
+          "Penn State Health notifies public of potential measles exposure at Penn State Health Golisano Children’s Hospital - Penn State Health News"
+        ]
+      },
+      {
+        "trend": "penn state health",
+        "market_code": "QA",
+        "category": "Arab Health",
+        "score": 9,
+        "examples": [
+          "Penn State Health notifies public of potential measles exposure at Penn State Health Golisano Children’s Hospital - Penn State Health News",
+          "Penn State Health notifies public of potential measles exposure at Penn State Health Golisano Children’s Hospital - Penn State Health News",
+          "Penn State Health notifies public of potential measles exposure at Penn State Health Golisano Children’s Hospital - Penn State Health News"
+        ]
+      },
+      {
+        "trend": "warning",
+        "market_code": "QA",
+        "category": "Arab Health",
+        "score": 9,
+        "examples": [
+          "Scanning the horizon together: how the Western Pacific collectively strengthens public health intelligence and early warning systems - World Health Organization (WHO)",
+          "Scanning the horizon together: how the Western Pacific collectively strengthens public health intelligence and early warning systems - World Health Organization (WHO)",
+          "Is The Pink Gelatin Trick Legit? Evidence, Reviews And Warning Signs - Cal Poly Pomona"
+        ]
+      },
+      {
+        "trend": "virus",
+        "market_code": "QA",
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "Stay Healthy This Respiratory Virus Season - Ohio Department of Health (.gov)",
+          "Virus outbreak spurs 'horrendous' deer die-off in Michigan - Detroit Free Press",
+          "Scientists Create New Antibody For Virus That Infects 95% of People - sciencealert.com"
+        ]
+      },
+      {
+        "trend": "children",
+        "market_code": "QA",
+        "category": "Children Health",
+        "score": 8,
+        "examples": [
+          "Penn State Health notifies public of potential measles exposure at Penn State Health Golisano Children’s Hospital - Penn State Health News",
+          "Penn State Health notifies public of potential measles exposure at Penn State Health Golisano Children’s Hospital - Penn State Health News",
+          "Recognizing suicide warning signs in children and teens - Sanford Health News"
+        ]
+      },
+      {
+        "trend": "cancer",
+        "market_code": "QA",
+        "category": "Chronic Disease",
+        "score": 8,
+        "examples": [
+          "A common stomach infection may be linked to bowel cancer – here’s what we know - theconversation.com",
+          "Overall infection risk similar with CAR T, bispecific antibody therapy - Rare Cancer News",
+          "Clinical trials: New mRNA cancer vaccine plus Keytruda sharply improves melanoma survival - UCHealth"
+        ]
+      },
+      {
+        "trend": "health care",
+        "market_code": "QA",
+        "category": "Arab Health",
+        "score": 7,
+        "examples": [
+          "New Jersey Health Care Service Firm Registration Requirements - Holland & Knight",
+          "Vice Chair of Health Care leads year-round campaign to improve health in the Twin Cities - www.heart.org",
+          "Vice Chair of Health Care leads year-round campaign to improve health in the Twin Cities - www.heart.org"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "QA",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
-      },
-      {
-        "trend": "medical research",
-        "market_code": "QA",
-        "category": "Arab Health",
-        "score": 1,
-        "examples": []
-      },
-      {
-        "trend": "drug approval",
-        "market_code": "QA",
-        "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
-      },
-      {
-        "trend": "diet wellness",
-        "market_code": "QA",
-        "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "score": 7,
+        "examples": [
+          "Back-to-school mental health & warning signs - FOX 7 Austin",
+          "3 takeaways from stories on teens’ reliance on AI for mental health support - edsource.org",
+          "Laps of Hope helps children with mental health issues - WSMV"
+        ]
       }
     ],
     "Jordan": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "JO",
         "category": "Arab Health",
-        "score": 1,
-        "examples": []
+        "score": 74,
+        "examples": [
+          "New Jersey Health Care Service Firm Registration Requirements - Holland & Knight",
+          "Urban exposures, frailty, and mental illness in World Trade Center Health Program responders - Nature",
+          "After thousands of deaths, first responders are still navigating health effects 25 years post-9/11 - abcnews.com"
+        ]
+      },
+      {
+        "trend": "medical",
+        "market_code": "JO",
+        "category": "Arab Health",
+        "score": 19,
+        "examples": [
+          "Medical plan members with severe medical conditions should reach out for financial help by Sept. 30 - Marquette Today",
+          "Medical plan members with severe medical conditions should reach out for financial help by Sept. 30 - Marquette Today",
+          "Pedestrian hit and killed on Fannin Street near Texas Medical Center, Houston police say - ABC13 Houston"
+        ]
       },
       {
         "trend": "outbreak",
         "market_code": "JO",
         "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "score": 13,
+        "examples": [
+          "Broccoli Sprouts Are Recalled Over Link to Salmonella Outbreak - The New York Times",
+          "Legionnaires’ Outbreak in the Bronx Kills One and Infects 4 Others - The New York Times",
+          "Record U.S. cyclosporiasis outbreak is over, CDC says - CNBC"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "JO",
+        "category": "Mental Health",
+        "score": 9,
+        "examples": [
+          "Urban exposures, frailty, and mental illness in World Trade Center Health Program responders - Nature",
+          "Back-to-school mental health & warning signs - FOX 7 Austin",
+          "Urban exposures, frailty, and mental illness in World Trade Center Health Program responders - Nature"
+        ]
+      },
+      {
+        "trend": "state health",
+        "market_code": "JO",
+        "category": "Arab Health",
+        "score": 9,
+        "examples": [
+          "Penn State Health notifies public of potential measles exposure at Penn State Health Golisano Children’s Hospital - Penn State Health News",
+          "Penn State Health notifies public of potential measles exposure at Penn State Health Golisano Children’s Hospital - Penn State Health News",
+          "Penn State Health notifies public of potential measles exposure at Penn State Health Golisano Children’s Hospital - Penn State Health News"
+        ]
+      },
+      {
+        "trend": "penn state health",
+        "market_code": "JO",
+        "category": "Arab Health",
+        "score": 9,
+        "examples": [
+          "Penn State Health notifies public of potential measles exposure at Penn State Health Golisano Children’s Hospital - Penn State Health News",
+          "Penn State Health notifies public of potential measles exposure at Penn State Health Golisano Children’s Hospital - Penn State Health News",
+          "Penn State Health notifies public of potential measles exposure at Penn State Health Golisano Children’s Hospital - Penn State Health News"
+        ]
+      },
+      {
+        "trend": "warning",
+        "market_code": "JO",
+        "category": "Arab Health",
+        "score": 9,
+        "examples": [
+          "Scanning the horizon together: how the Western Pacific collectively strengthens public health intelligence and early warning systems - World Health Organization (WHO)",
+          "Scanning the horizon together: how the Western Pacific collectively strengthens public health intelligence and early warning systems - World Health Organization (WHO)",
+          "Is The Pink Gelatin Trick Legit? Evidence, Reviews And Warning Signs - Cal Poly Pomona"
+        ]
+      },
+      {
+        "trend": "virus",
+        "market_code": "JO",
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "Stay Healthy This Respiratory Virus Season - Ohio Department of Health (.gov)",
+          "Virus outbreak spurs 'horrendous' deer die-off in Michigan - Detroit Free Press",
+          "Scientists Create New Antibody For Virus That Infects 95% of People - sciencealert.com"
+        ]
+      },
+      {
+        "trend": "children",
+        "market_code": "JO",
+        "category": "Children Health",
+        "score": 8,
+        "examples": [
+          "Penn State Health notifies public of potential measles exposure at Penn State Health Golisano Children’s Hospital - Penn State Health News",
+          "Penn State Health notifies public of potential measles exposure at Penn State Health Golisano Children’s Hospital - Penn State Health News",
+          "Recognizing suicide warning signs in children and teens - Sanford Health News"
+        ]
+      },
+      {
+        "trend": "cancer",
+        "market_code": "JO",
+        "category": "Chronic Disease",
+        "score": 8,
+        "examples": [
+          "A common stomach infection may be linked to bowel cancer – here’s what we know - theconversation.com",
+          "Overall infection risk similar with CAR T, bispecific antibody therapy - Rare Cancer News",
+          "Clinical trials: New mRNA cancer vaccine plus Keytruda sharply improves melanoma survival - UCHealth"
+        ]
+      },
+      {
+        "trend": "health care",
+        "market_code": "JO",
+        "category": "Arab Health",
+        "score": 7,
+        "examples": [
+          "New Jersey Health Care Service Firm Registration Requirements - Holland & Knight",
+          "Vice Chair of Health Care leads year-round campaign to improve health in the Twin Cities - www.heart.org",
+          "Vice Chair of Health Care leads year-round campaign to improve health in the Twin Cities - www.heart.org"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "JO",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
-      },
-      {
-        "trend": "medical research",
-        "market_code": "JO",
-        "category": "Arab Health",
-        "score": 1,
-        "examples": []
-      },
-      {
-        "trend": "drug approval",
-        "market_code": "JO",
-        "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
-      },
-      {
-        "trend": "diet wellness",
-        "market_code": "JO",
-        "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "score": 7,
+        "examples": [
+          "Back-to-school mental health & warning signs - FOX 7 Austin",
+          "3 takeaways from stories on teens’ reliance on AI for mental health support - edsource.org",
+          "Laps of Hope helps children with mental health issues - WSMV"
+        ]
       }
     ],
     "Lebanon": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "LB",
         "category": "Arab Health",
-        "score": 1,
-        "examples": []
+        "score": 74,
+        "examples": [
+          "New Jersey Health Care Service Firm Registration Requirements - Holland & Knight",
+          "Urban exposures, frailty, and mental illness in World Trade Center Health Program responders - Nature",
+          "After thousands of deaths, first responders are still navigating health effects 25 years post-9/11 - abcnews.com"
+        ]
+      },
+      {
+        "trend": "medical",
+        "market_code": "LB",
+        "category": "Arab Health",
+        "score": 19,
+        "examples": [
+          "Medical plan members with severe medical conditions should reach out for financial help by Sept. 30 - Marquette Today",
+          "Medical plan members with severe medical conditions should reach out for financial help by Sept. 30 - Marquette Today",
+          "Pedestrian hit and killed on Fannin Street near Texas Medical Center, Houston police say - ABC13 Houston"
+        ]
       },
       {
         "trend": "outbreak",
         "market_code": "LB",
         "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "score": 13,
+        "examples": [
+          "Broccoli Sprouts Are Recalled Over Link to Salmonella Outbreak - The New York Times",
+          "Legionnaires’ Outbreak in the Bronx Kills One and Infects 4 Others - The New York Times",
+          "Record U.S. cyclosporiasis outbreak is over, CDC says - CNBC"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "LB",
+        "category": "Mental Health",
+        "score": 9,
+        "examples": [
+          "Urban exposures, frailty, and mental illness in World Trade Center Health Program responders - Nature",
+          "Back-to-school mental health & warning signs - FOX 7 Austin",
+          "Urban exposures, frailty, and mental illness in World Trade Center Health Program responders - Nature"
+        ]
+      },
+      {
+        "trend": "state health",
+        "market_code": "LB",
+        "category": "Arab Health",
+        "score": 9,
+        "examples": [
+          "Penn State Health notifies public of potential measles exposure at Penn State Health Golisano Children’s Hospital - Penn State Health News",
+          "Penn State Health notifies public of potential measles exposure at Penn State Health Golisano Children’s Hospital - Penn State Health News",
+          "Penn State Health notifies public of potential measles exposure at Penn State Health Golisano Children’s Hospital - Penn State Health News"
+        ]
+      },
+      {
+        "trend": "penn state health",
+        "market_code": "LB",
+        "category": "Arab Health",
+        "score": 9,
+        "examples": [
+          "Penn State Health notifies public of potential measles exposure at Penn State Health Golisano Children’s Hospital - Penn State Health News",
+          "Penn State Health notifies public of potential measles exposure at Penn State Health Golisano Children’s Hospital - Penn State Health News",
+          "Penn State Health notifies public of potential measles exposure at Penn State Health Golisano Children’s Hospital - Penn State Health News"
+        ]
+      },
+      {
+        "trend": "warning",
+        "market_code": "LB",
+        "category": "Arab Health",
+        "score": 9,
+        "examples": [
+          "Scanning the horizon together: how the Western Pacific collectively strengthens public health intelligence and early warning systems - World Health Organization (WHO)",
+          "Scanning the horizon together: how the Western Pacific collectively strengthens public health intelligence and early warning systems - World Health Organization (WHO)",
+          "Is The Pink Gelatin Trick Legit? Evidence, Reviews And Warning Signs - Cal Poly Pomona"
+        ]
+      },
+      {
+        "trend": "virus",
+        "market_code": "LB",
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "Stay Healthy This Respiratory Virus Season - Ohio Department of Health (.gov)",
+          "Virus outbreak spurs 'horrendous' deer die-off in Michigan - Detroit Free Press",
+          "Scientists Create New Antibody For Virus That Infects 95% of People - sciencealert.com"
+        ]
+      },
+      {
+        "trend": "children",
+        "market_code": "LB",
+        "category": "Children Health",
+        "score": 8,
+        "examples": [
+          "Penn State Health notifies public of potential measles exposure at Penn State Health Golisano Children’s Hospital - Penn State Health News",
+          "Penn State Health notifies public of potential measles exposure at Penn State Health Golisano Children’s Hospital - Penn State Health News",
+          "Recognizing suicide warning signs in children and teens - Sanford Health News"
+        ]
+      },
+      {
+        "trend": "cancer",
+        "market_code": "LB",
+        "category": "Chronic Disease",
+        "score": 8,
+        "examples": [
+          "A common stomach infection may be linked to bowel cancer – here’s what we know - theconversation.com",
+          "Overall infection risk similar with CAR T, bispecific antibody therapy - Rare Cancer News",
+          "Clinical trials: New mRNA cancer vaccine plus Keytruda sharply improves melanoma survival - UCHealth"
+        ]
+      },
+      {
+        "trend": "health care",
+        "market_code": "LB",
+        "category": "Arab Health",
+        "score": 7,
+        "examples": [
+          "New Jersey Health Care Service Firm Registration Requirements - Holland & Knight",
+          "Vice Chair of Health Care leads year-round campaign to improve health in the Twin Cities - www.heart.org",
+          "Vice Chair of Health Care leads year-round campaign to improve health in the Twin Cities - www.heart.org"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "LB",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
-      },
-      {
-        "trend": "medical research",
-        "market_code": "LB",
-        "category": "Arab Health",
-        "score": 1,
-        "examples": []
-      },
-      {
-        "trend": "drug approval",
-        "market_code": "LB",
-        "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
-      },
-      {
-        "trend": "diet wellness",
-        "market_code": "LB",
-        "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "score": 7,
+        "examples": [
+          "Back-to-school mental health & warning signs - FOX 7 Austin",
+          "3 takeaways from stories on teens’ reliance on AI for mental health support - edsource.org",
+          "Laps of Hope helps children with mental health issues - WSMV"
+        ]
       }
     ]
   }
