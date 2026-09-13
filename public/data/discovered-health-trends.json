@@ -1,929 +1,2819 @@
 {
-  "updated_at": "2026-09-13T11:25:23.700200+00:00",
-  "total_trends": 126,
+  "updated_at": "2026-09-13T15:09:12.014741+00:00",
+  "total_trends": 252,
   "markets": {
     "United States": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "US",
         "category": "US Health",
-        "score": 1,
-        "examples": []
+        "score": 57,
+        "examples": [
+          "Actor Tatyana Ali advocating for Black and Indigenous maternal health - NPR",
+          "A year without pain is a reminder of health struggles we can’t see - Arkansas Advocate",
+          "Laramie County health and food inspections (9/4/26–9/10/26) - Cap City News"
+        ]
+      },
+      {
+        "trend": "medical",
+        "market_code": "US",
+        "category": "US Health",
+        "score": 21,
+        "examples": [
+          "Athlete dies after medical emergency during Ironman 70.3 - wwnytv.com",
+          "Two Medical Device Dividend Giants, One Better Buy: Medtronic vs. Abbott - 24/7 Wall St.",
+          "Boston Medical Center nurses vote to authorize three-day strike over wages, short staffing - Boston.com"
+        ]
       },
       {
         "trend": "outbreak",
         "market_code": "US",
         "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "score": 13,
+        "examples": [
+          "Measles Outbreak Prompts Warning For Northern IL Travelers: Health Officials - Patch",
+          "Zambia reports anthrax outbreak, Dozens of animals and people affected - Outbreak News Today",
+          "Zambia reports anthrax outbreak, Dozens of animals and people affected - Outbreak News Today"
+        ]
+      },
+      {
+        "trend": "cancer",
+        "market_code": "US",
+        "category": "Chronic Disease",
+        "score": 11,
+        "examples": [
+          "The Viral Side of Bladder Cancer: BK Polyomavirus, HPV, and Urothelial Carcinoma - oncodaily.com",
+          "Clinical trials: New mRNA cancer vaccine plus Keytruda sharply improves melanoma survival - UCHealth",
+          "The data from Moderna and Merck’s trial have yet to be presented - The Cancer Letter"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "US",
+        "category": "Mental Health",
+        "score": 10,
+        "examples": [
+          "Mental health is health - Capitol City Now",
+          "Mental Health Warrior Film Festival brings stories of hope, anxiety and healing to Madison - WMTV 15 NEWS",
+          "Mental health is health - Capitol City Now"
+        ]
+      },
+      {
+        "trend": "measles",
+        "market_code": "US",
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "Health officials urge measles vaccine as school starts - bendbulletin.com",
+          "Two measles cases confirmed in Wayne County - 13wham.com",
+          "Wayne County Public Health confirms 2 measles cases on Saturday - whec.com"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "US",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
+        "score": 9,
+        "examples": [
+          "Mental health is health - Capitol City Now",
+          "Mental Health Warrior Film Festival brings stories of hope, anxiety and healing to Madison - WMTV 15 NEWS",
+          "Mental health is health - Capitol City Now"
+        ]
       },
       {
-        "trend": "medical research",
+        "trend": "health officials",
         "market_code": "US",
         "category": "US Health",
-        "score": 1,
-        "examples": []
+        "score": 6,
+        "examples": [
+          "Health officials urge measles vaccine as school starts - bendbulletin.com",
+          "Health officials issue warning after possibly rabid bat found at New England zoo - Boston 25 News",
+          "Health officials issue warning after possibly rabid bat found at New England zoo - yahoo.com"
+        ]
       },
       {
-        "trend": "drug approval",
+        "trend": "healthcare",
         "market_code": "US",
-        "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
+        "category": "US Health",
+        "score": 5,
+        "examples": [
+          "Mobile integrated healthcare continues to expand in Johnson County - thegazette.com",
+          "At CTA event, federal health officials outline AI ambitions as clinicians debate risks - Fierce Healthcare",
+          "NHS doctor-led commission issues blueprint for AI’s safe adoption in healthcare - Medical Device Network"
+        ]
       },
       {
-        "trend": "diet wellness",
+        "trend": "warning",
         "market_code": "US",
-        "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "category": "US Health",
+        "score": 5,
+        "examples": [
+          "‘I still don’t have my MRI’: My health insurer canceled my plan without warning. Is that legal? - MarketWatch",
+          "Health officials issue warning after possibly rabid bat found at New England zoo - Boston 25 News",
+          "Health officials issue warning after possibly rabid bat found at New England zoo - yahoo.com"
+        ]
+      },
+      {
+        "trend": "children",
+        "market_code": "US",
+        "category": "Children Health",
+        "score": 4,
+        "examples": [
+          "Dartmouth Health renames children's hospital following $30 million donation - Valley News",
+          "Study highlights disparities in access to new pediatric food allergy treatment, omalizumab - Children's National",
+          "Children’s suicide-related emergency visits spiked by 74% in the US between 2016-2022 - Northwestern Now News"
+        ]
+      },
+      {
+        "trend": "heart",
+        "market_code": "US",
+        "category": "Chronic Disease",
+        "score": 4,
+        "examples": [
+          "Medical Minute: Sept. 29 is World Heart Day - News On 6",
+          "Popular chewing gum sweetener linked to higher heart attack risk, study finds - Medical News Today",
+          "Even Low Light Exposure During Sleep May Raise Your Risk of Heart Failure, AFib - Healthline"
+        ]
       }
     ],
     "United Kingdom": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "GB",
         "category": "Europe Health",
-        "score": 1,
-        "examples": []
+        "score": 47,
+        "examples": [
+          "€5bn EU venture fund backs AI medical assistant Tandem Health - Sky News",
+          "Is The Health Insurer Rebound Complete? Some Seem To Think So - uk.finance.yahoo.com",
+          "Chris Kamara health latest after diagnosis left him 'not the same person' as he enters Great North Run - The Mirror"
+        ]
+      },
+      {
+        "trend": "medical",
+        "market_code": "GB",
+        "category": "Europe Health",
+        "score": 15,
+        "examples": [
+          "€5bn EU venture fund backs AI medical assistant Tandem Health - Sky News",
+          "€5bn EU venture fund backs AI medical assistant Tandem Health - Sky News",
+          "Europe built its medical science around male bodies – and women are paying the price - EUobserver"
+        ]
+      },
+      {
+        "trend": "cancer",
+        "market_code": "GB",
+        "category": "Chronic Disease",
+        "score": 13,
+        "examples": [
+          "GE HealthCare in talks over $1bn deal for maker of cancer scan chemicals - Financial Times",
+          "The Viral Side of Bladder Cancer: BK Polyomavirus, HPV, and Urothelial Carcinoma - Oncodaily",
+          "Clinical trials: New mRNA cancer vaccine plus Keytruda sharply improves melanoma survival - uchealth.org"
+        ]
       },
       {
         "trend": "outbreak",
         "market_code": "GB",
         "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "score": 12,
+        "examples": [
+          "Zambia anthrax outbreak kills 60 wild animals, infects 12 people - eastleighvoice.co.ke",
+          "Scottish hotel closes as staff and guests fall ill following virus outbreak - The National Scot",
+          "Zambia reports anthrax outbreak, Dozens of animals and people affected - Outbreak News Today"
+        ]
       },
       {
-        "trend": "mental health",
+        "trend": "virus",
         "market_code": "GB",
-        "category": "Mental Health",
-        "score": 1,
-        "examples": []
+        "category": "Outbreaks",
+        "score": 8,
+        "examples": [
+          "Moldova confirms two West Nile virus cases, one locally acquired - Moldova 1",
+          "Scottish hotel closes as staff and guests fall ill following virus outbreak - The National Scot",
+          "How Rabies Virus Infection Triggers Fatal Brain Immune Failure - EMJ"
+        ]
       },
       {
-        "trend": "medical research",
+        "trend": "healthcare",
         "market_code": "GB",
         "category": "Europe Health",
-        "score": 1,
-        "examples": []
+        "score": 7,
+        "examples": [
+          "GE HealthCare in talks over $1bn deal for maker of cancer scan chemicals - Financial Times",
+          "National Commission into the Regulation of AI in Healthcare: Recommendations for a future regulatory framework - GOV.UK",
+          "UK needs new laws for AI in healthcare, says watchdog - bbc.com"
+        ]
       },
       {
-        "trend": "drug approval",
+        "trend": "warning",
+        "market_code": "GB",
+        "category": "Europe Health",
+        "score": 6,
+        "examples": [
+          "Isle of Man nitazene warning after drugs seized on island - BBC",
+          "‘I still don’t have my MRI’: My health insurer canceled my plan without warning. Is that legal? - MarketWatch",
+          "Isle of Man nitazene warning after drugs seized on island - BBC"
+        ]
+      },
+      {
+        "trend": "pregnancy",
+        "market_code": "GB",
+        "category": "Women Health",
+        "score": 6,
+        "examples": [
+          "Paracetamol use during pregnancy is linked to changed reproductive development in daughters - EurekAlert!",
+          "Study finds paracetamol in pregnancy linked to reproductive changes in girls - AnewZ",
+          "Tylenol use in pregnancy may be linked with uterus, ovary changes in daughters - Reuters"
+        ]
+      },
+      {
+        "trend": "hospital",
+        "market_code": "GB",
+        "category": "Europe Health",
+        "score": 5,
+        "examples": [
+          "Gaza hospital generators stop operating amid shortages of fuel, oil: Health Ministry - Anadolu Ajansı",
+          "‘L’AUTRE’ Review: A Paranoid Medical Satire Highlights Hospital Horrors [TIFF 2026] - Bloody Disgusting",
+          "NFU Mutual donates nearly £37,000 to fund Hampshire hospital equipment - Basingstoke Gazette"
+        ]
+      },
+      {
+        "trend": "measles",
+        "market_code": "GB",
+        "category": "Outbreaks",
+        "score": 5,
+        "examples": [
+          "Bangladesh races to vaccinate 19.7 million children as measles, dengue test health system - The Cool Down",
+          "Boone County prepares for measles amid statewide health alert - KOMU 8",
+          "Measles outbreak: Death toll reaches 1,022 as three die in 24 hours - Dhaka Tribune"
+        ]
+      },
+      {
+        "trend": "drug",
         "market_code": "GB",
         "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
+        "score": 5,
+        "examples": [
+          "NAFDAC Boss Urges Safer Drug Storage, Distribution System in Markets - Real Broadcasting Network",
+          "NAFDAC urges safer drug storage, distribution system in markets - Peoples Gazette Nigeria",
+          "NEWSLETTER: AstraZeneca drug reduces lung disease flare-ups in late-stage trials - Reuters"
+        ]
       },
       {
-        "trend": "diet wellness",
+        "trend": "infection",
         "market_code": "GB",
-        "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "category": "Outbreaks",
+        "score": 5,
+        "examples": [
+          "How Rabies Virus Infection Triggers Fatal Brain Immune Failure - EMJ",
+          "How Rabies Virus Infection Triggers Fatal Brain Immune Failure - EMJ",
+          "Aidan OBrien reveals low-grade infection has affected some horses in his yard - Sporting Life"
+        ]
       }
     ],
     "Germany": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "DE",
         "category": "Europe Health",
-        "score": 1,
-        "examples": []
+        "score": 57,
+        "examples": [
+          "Actor Tatyana Ali advocating for Black and Indigenous maternal health - NPR",
+          "A year without pain is a reminder of health struggles we can’t see - Arkansas Advocate",
+          "Laramie County health and food inspections (9/4/26–9/10/26) - Cap City News"
+        ]
+      },
+      {
+        "trend": "medical",
+        "market_code": "DE",
+        "category": "Europe Health",
+        "score": 21,
+        "examples": [
+          "Athlete dies after medical emergency during Ironman 70.3 - wwnytv.com",
+          "Two Medical Device Dividend Giants, One Better Buy: Medtronic vs. Abbott - 24/7 Wall St.",
+          "Boston Medical Center nurses vote to authorize three-day strike over wages, short staffing - Boston.com"
+        ]
       },
       {
         "trend": "outbreak",
         "market_code": "DE",
         "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "score": 13,
+        "examples": [
+          "Measles Outbreak Prompts Warning For Northern IL Travelers: Health Officials - Patch",
+          "Zambia reports anthrax outbreak, Dozens of animals and people affected - Outbreak News Today",
+          "Zambia reports anthrax outbreak, Dozens of animals and people affected - Outbreak News Today"
+        ]
+      },
+      {
+        "trend": "cancer",
+        "market_code": "DE",
+        "category": "Chronic Disease",
+        "score": 11,
+        "examples": [
+          "The Viral Side of Bladder Cancer: BK Polyomavirus, HPV, and Urothelial Carcinoma - oncodaily.com",
+          "Clinical trials: New mRNA cancer vaccine plus Keytruda sharply improves melanoma survival - UCHealth",
+          "The data from Moderna and Merck’s trial have yet to be presented - The Cancer Letter"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "DE",
+        "category": "Mental Health",
+        "score": 10,
+        "examples": [
+          "Mental health is health - Capitol City Now",
+          "Mental Health Warrior Film Festival brings stories of hope, anxiety and healing to Madison - WMTV 15 NEWS",
+          "Mental health is health - Capitol City Now"
+        ]
+      },
+      {
+        "trend": "measles",
+        "market_code": "DE",
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "Health officials urge measles vaccine as school starts - bendbulletin.com",
+          "Two measles cases confirmed in Wayne County - 13wham.com",
+          "Wayne County Public Health confirms 2 measles cases on Saturday - whec.com"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "DE",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
+        "score": 9,
+        "examples": [
+          "Mental health is health - Capitol City Now",
+          "Mental Health Warrior Film Festival brings stories of hope, anxiety and healing to Madison - WMTV 15 NEWS",
+          "Mental health is health - Capitol City Now"
+        ]
       },
       {
-        "trend": "medical research",
+        "trend": "health officials",
         "market_code": "DE",
         "category": "Europe Health",
-        "score": 1,
-        "examples": []
+        "score": 6,
+        "examples": [
+          "Health officials urge measles vaccine as school starts - bendbulletin.com",
+          "Health officials issue warning after possibly rabid bat found at New England zoo - Boston 25 News",
+          "Health officials issue warning after possibly rabid bat found at New England zoo - yahoo.com"
+        ]
       },
       {
-        "trend": "drug approval",
+        "trend": "healthcare",
         "market_code": "DE",
-        "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
+        "category": "Europe Health",
+        "score": 6,
+        "examples": [
+          "Mobile integrated healthcare continues to expand in Johnson County - thegazette.com",
+          "At CTA event, federal health officials outline AI ambitions as clinicians debate risks - Fierce Healthcare",
+          "Roundup: Using AI to better integrate virtual modalities into care delivery - Healthcare IT News"
+        ]
       },
       {
-        "trend": "diet wellness",
+        "trend": "warning",
         "market_code": "DE",
-        "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "category": "Europe Health",
+        "score": 5,
+        "examples": [
+          "‘I still don’t have my MRI’: My health insurer canceled my plan without warning. Is that legal? - MarketWatch",
+          "Health officials issue warning after possibly rabid bat found at New England zoo - Boston 25 News",
+          "Health officials issue warning after possibly rabid bat found at New England zoo - yahoo.com"
+        ]
+      },
+      {
+        "trend": "children",
+        "market_code": "DE",
+        "category": "Children Health",
+        "score": 4,
+        "examples": [
+          "Dartmouth Health renames children's hospital following $30 million donation - Valley News",
+          "Study highlights disparities in access to new pediatric food allergy treatment, omalizumab - Children's National",
+          "Children’s suicide-related emergency visits spiked by 74% in the US between 2016-2022 - Northwestern Now News"
+        ]
+      },
+      {
+        "trend": "heart",
+        "market_code": "DE",
+        "category": "Chronic Disease",
+        "score": 4,
+        "examples": [
+          "Medical Minute: Sept. 29 is World Heart Day - News On 6",
+          "Popular chewing gum sweetener linked to higher heart attack risk, study finds - Medical News Today",
+          "Even Low Light Exposure During Sleep May Raise Your Risk of Heart Failure, AFib - Healthline"
+        ]
       }
     ],
     "France": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "FR",
         "category": "Europe Health",
-        "score": 1,
-        "examples": []
+        "score": 57,
+        "examples": [
+          "Actor Tatyana Ali advocating for Black and Indigenous maternal health - NPR",
+          "A year without pain is a reminder of health struggles we can’t see - Arkansas Advocate",
+          "Laramie County health and food inspections (9/4/26–9/10/26) - Cap City News"
+        ]
+      },
+      {
+        "trend": "medical",
+        "market_code": "FR",
+        "category": "Europe Health",
+        "score": 21,
+        "examples": [
+          "Athlete dies after medical emergency during Ironman 70.3 - wwnytv.com",
+          "Two Medical Device Dividend Giants, One Better Buy: Medtronic vs. Abbott - 24/7 Wall St.",
+          "Boston Medical Center nurses vote to authorize three-day strike over wages, short staffing - Boston.com"
+        ]
       },
       {
         "trend": "outbreak",
         "market_code": "FR",
         "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "score": 13,
+        "examples": [
+          "Measles Outbreak Prompts Warning For Northern IL Travelers: Health Officials - Patch",
+          "Zambia reports anthrax outbreak, Dozens of animals and people affected - Outbreak News Today",
+          "Zambia reports anthrax outbreak, Dozens of animals and people affected - Outbreak News Today"
+        ]
+      },
+      {
+        "trend": "cancer",
+        "market_code": "FR",
+        "category": "Chronic Disease",
+        "score": 11,
+        "examples": [
+          "The Viral Side of Bladder Cancer: BK Polyomavirus, HPV, and Urothelial Carcinoma - oncodaily.com",
+          "Clinical trials: New mRNA cancer vaccine plus Keytruda sharply improves melanoma survival - UCHealth",
+          "The data from Moderna and Merck’s trial have yet to be presented - The Cancer Letter"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "FR",
+        "category": "Mental Health",
+        "score": 10,
+        "examples": [
+          "Mental health is health - Capitol City Now",
+          "Mental Health Warrior Film Festival brings stories of hope, anxiety and healing to Madison - WMTV 15 NEWS",
+          "Mental health is health - Capitol City Now"
+        ]
+      },
+      {
+        "trend": "measles",
+        "market_code": "FR",
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "Health officials urge measles vaccine as school starts - bendbulletin.com",
+          "Two measles cases confirmed in Wayne County - 13wham.com",
+          "Wayne County Public Health confirms 2 measles cases on Saturday - whec.com"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "FR",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
+        "score": 9,
+        "examples": [
+          "Mental health is health - Capitol City Now",
+          "Mental Health Warrior Film Festival brings stories of hope, anxiety and healing to Madison - WMTV 15 NEWS",
+          "Mental health is health - Capitol City Now"
+        ]
       },
       {
-        "trend": "medical research",
+        "trend": "health officials",
         "market_code": "FR",
         "category": "Europe Health",
-        "score": 1,
-        "examples": []
+        "score": 6,
+        "examples": [
+          "Health officials urge measles vaccine as school starts - bendbulletin.com",
+          "Health officials issue warning after possibly rabid bat found at New England zoo - Boston 25 News",
+          "Health officials issue warning after possibly rabid bat found at New England zoo - yahoo.com"
+        ]
       },
       {
-        "trend": "drug approval",
+        "trend": "healthcare",
         "market_code": "FR",
-        "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
+        "category": "Europe Health",
+        "score": 6,
+        "examples": [
+          "Mobile integrated healthcare continues to expand in Johnson County - thegazette.com",
+          "At CTA event, federal health officials outline AI ambitions as clinicians debate risks - Fierce Healthcare",
+          "Roundup: Using AI to better integrate virtual modalities into care delivery - Healthcare IT News"
+        ]
       },
       {
-        "trend": "diet wellness",
+        "trend": "warning",
         "market_code": "FR",
-        "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "category": "Europe Health",
+        "score": 5,
+        "examples": [
+          "‘I still don’t have my MRI’: My health insurer canceled my plan without warning. Is that legal? - MarketWatch",
+          "Health officials issue warning after possibly rabid bat found at New England zoo - Boston 25 News",
+          "Health officials issue warning after possibly rabid bat found at New England zoo - yahoo.com"
+        ]
+      },
+      {
+        "trend": "children",
+        "market_code": "FR",
+        "category": "Children Health",
+        "score": 4,
+        "examples": [
+          "Dartmouth Health renames children's hospital following $30 million donation - Valley News",
+          "Study highlights disparities in access to new pediatric food allergy treatment, omalizumab - Children's National",
+          "Children’s suicide-related emergency visits spiked by 74% in the US between 2016-2022 - Northwestern Now News"
+        ]
+      },
+      {
+        "trend": "heart",
+        "market_code": "FR",
+        "category": "Chronic Disease",
+        "score": 4,
+        "examples": [
+          "Medical Minute: Sept. 29 is World Heart Day - News On 6",
+          "Popular chewing gum sweetener linked to higher heart attack risk, study finds - Medical News Today",
+          "Even Low Light Exposure During Sleep May Raise Your Risk of Heart Failure, AFib - Healthline"
+        ]
       }
     ],
     "Italy": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "IT",
         "category": "Europe Health",
-        "score": 1,
-        "examples": []
+        "score": 57,
+        "examples": [
+          "Actor Tatyana Ali advocating for Black and Indigenous maternal health - NPR",
+          "A year without pain is a reminder of health struggles we can’t see - Arkansas Advocate",
+          "Laramie County health and food inspections (9/4/26–9/10/26) - Cap City News"
+        ]
+      },
+      {
+        "trend": "medical",
+        "market_code": "IT",
+        "category": "Europe Health",
+        "score": 21,
+        "examples": [
+          "Athlete dies after medical emergency during Ironman 70.3 - wwnytv.com",
+          "Two Medical Device Dividend Giants, One Better Buy: Medtronic vs. Abbott - 24/7 Wall St.",
+          "Boston Medical Center nurses vote to authorize three-day strike over wages, short staffing - Boston.com"
+        ]
       },
       {
         "trend": "outbreak",
         "market_code": "IT",
         "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "score": 13,
+        "examples": [
+          "Measles Outbreak Prompts Warning For Northern IL Travelers: Health Officials - Patch",
+          "Zambia reports anthrax outbreak, Dozens of animals and people affected - Outbreak News Today",
+          "Zambia reports anthrax outbreak, Dozens of animals and people affected - Outbreak News Today"
+        ]
+      },
+      {
+        "trend": "cancer",
+        "market_code": "IT",
+        "category": "Chronic Disease",
+        "score": 11,
+        "examples": [
+          "The Viral Side of Bladder Cancer: BK Polyomavirus, HPV, and Urothelial Carcinoma - oncodaily.com",
+          "Clinical trials: New mRNA cancer vaccine plus Keytruda sharply improves melanoma survival - UCHealth",
+          "The data from Moderna and Merck’s trial have yet to be presented - The Cancer Letter"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "IT",
+        "category": "Mental Health",
+        "score": 10,
+        "examples": [
+          "Mental health is health - Capitol City Now",
+          "Mental Health Warrior Film Festival brings stories of hope, anxiety and healing to Madison - WMTV 15 NEWS",
+          "Mental health is health - Capitol City Now"
+        ]
+      },
+      {
+        "trend": "measles",
+        "market_code": "IT",
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "Health officials urge measles vaccine as school starts - bendbulletin.com",
+          "Two measles cases confirmed in Wayne County - 13wham.com",
+          "Wayne County Public Health confirms 2 measles cases on Saturday - whec.com"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "IT",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
+        "score": 9,
+        "examples": [
+          "Mental health is health - Capitol City Now",
+          "Mental Health Warrior Film Festival brings stories of hope, anxiety and healing to Madison - WMTV 15 NEWS",
+          "Mental health is health - Capitol City Now"
+        ]
       },
       {
-        "trend": "medical research",
+        "trend": "health officials",
         "market_code": "IT",
         "category": "Europe Health",
-        "score": 1,
-        "examples": []
+        "score": 6,
+        "examples": [
+          "Health officials urge measles vaccine as school starts - bendbulletin.com",
+          "Health officials issue warning after possibly rabid bat found at New England zoo - Boston 25 News",
+          "Health officials issue warning after possibly rabid bat found at New England zoo - yahoo.com"
+        ]
       },
       {
-        "trend": "drug approval",
+        "trend": "healthcare",
         "market_code": "IT",
-        "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
+        "category": "Europe Health",
+        "score": 6,
+        "examples": [
+          "Mobile integrated healthcare continues to expand in Johnson County - thegazette.com",
+          "At CTA event, federal health officials outline AI ambitions as clinicians debate risks - Fierce Healthcare",
+          "Roundup: Using AI to better integrate virtual modalities into care delivery - Healthcare IT News"
+        ]
       },
       {
-        "trend": "diet wellness",
+        "trend": "warning",
         "market_code": "IT",
-        "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "category": "Europe Health",
+        "score": 5,
+        "examples": [
+          "‘I still don’t have my MRI’: My health insurer canceled my plan without warning. Is that legal? - MarketWatch",
+          "Health officials issue warning after possibly rabid bat found at New England zoo - Boston 25 News",
+          "Health officials issue warning after possibly rabid bat found at New England zoo - yahoo.com"
+        ]
+      },
+      {
+        "trend": "children",
+        "market_code": "IT",
+        "category": "Children Health",
+        "score": 4,
+        "examples": [
+          "Dartmouth Health renames children's hospital following $30 million donation - Valley News",
+          "Study highlights disparities in access to new pediatric food allergy treatment, omalizumab - Children's National",
+          "Children’s suicide-related emergency visits spiked by 74% in the US between 2016-2022 - Northwestern Now News"
+        ]
+      },
+      {
+        "trend": "heart",
+        "market_code": "IT",
+        "category": "Chronic Disease",
+        "score": 4,
+        "examples": [
+          "Medical Minute: Sept. 29 is World Heart Day - News On 6",
+          "Popular chewing gum sweetener linked to higher heart attack risk, study finds - Medical News Today",
+          "Even Low Light Exposure During Sleep May Raise Your Risk of Heart Failure, AFib - Healthline"
+        ]
       }
     ],
     "Spain": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "ES",
         "category": "Europe Health",
-        "score": 1,
-        "examples": []
+        "score": 57,
+        "examples": [
+          "Actor Tatyana Ali advocating for Black and Indigenous maternal health - NPR",
+          "A year without pain is a reminder of health struggles we can’t see - Arkansas Advocate",
+          "Laramie County health and food inspections (9/4/26–9/10/26) - Cap City News"
+        ]
+      },
+      {
+        "trend": "medical",
+        "market_code": "ES",
+        "category": "Europe Health",
+        "score": 21,
+        "examples": [
+          "Athlete dies after medical emergency during Ironman 70.3 - wwnytv.com",
+          "Two Medical Device Dividend Giants, One Better Buy: Medtronic vs. Abbott - 24/7 Wall St.",
+          "Boston Medical Center nurses vote to authorize three-day strike over wages, short staffing - Boston.com"
+        ]
       },
       {
         "trend": "outbreak",
         "market_code": "ES",
         "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "score": 13,
+        "examples": [
+          "Measles Outbreak Prompts Warning For Northern IL Travelers: Health Officials - Patch",
+          "Zambia reports anthrax outbreak, Dozens of animals and people affected - Outbreak News Today",
+          "Zambia reports anthrax outbreak, Dozens of animals and people affected - Outbreak News Today"
+        ]
+      },
+      {
+        "trend": "cancer",
+        "market_code": "ES",
+        "category": "Chronic Disease",
+        "score": 11,
+        "examples": [
+          "The Viral Side of Bladder Cancer: BK Polyomavirus, HPV, and Urothelial Carcinoma - oncodaily.com",
+          "Clinical trials: New mRNA cancer vaccine plus Keytruda sharply improves melanoma survival - UCHealth",
+          "The data from Moderna and Merck’s trial have yet to be presented - The Cancer Letter"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "ES",
+        "category": "Mental Health",
+        "score": 10,
+        "examples": [
+          "Mental health is health - Capitol City Now",
+          "Mental Health Warrior Film Festival brings stories of hope, anxiety and healing to Madison - WMTV 15 NEWS",
+          "Mental health is health - Capitol City Now"
+        ]
+      },
+      {
+        "trend": "measles",
+        "market_code": "ES",
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "Health officials urge measles vaccine as school starts - bendbulletin.com",
+          "Two measles cases confirmed in Wayne County - 13wham.com",
+          "Wayne County Public Health confirms 2 measles cases on Saturday - whec.com"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "ES",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
+        "score": 9,
+        "examples": [
+          "Mental health is health - Capitol City Now",
+          "Mental Health Warrior Film Festival brings stories of hope, anxiety and healing to Madison - WMTV 15 NEWS",
+          "Mental health is health - Capitol City Now"
+        ]
       },
       {
-        "trend": "medical research",
+        "trend": "health officials",
         "market_code": "ES",
         "category": "Europe Health",
-        "score": 1,
-        "examples": []
+        "score": 6,
+        "examples": [
+          "Health officials urge measles vaccine as school starts - bendbulletin.com",
+          "Health officials issue warning after possibly rabid bat found at New England zoo - Boston 25 News",
+          "Health officials issue warning after possibly rabid bat found at New England zoo - yahoo.com"
+        ]
       },
       {
-        "trend": "drug approval",
+        "trend": "healthcare",
         "market_code": "ES",
-        "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
+        "category": "Europe Health",
+        "score": 6,
+        "examples": [
+          "Mobile integrated healthcare continues to expand in Johnson County - thegazette.com",
+          "At CTA event, federal health officials outline AI ambitions as clinicians debate risks - Fierce Healthcare",
+          "Roundup: Using AI to better integrate virtual modalities into care delivery - Healthcare IT News"
+        ]
       },
       {
-        "trend": "diet wellness",
+        "trend": "warning",
         "market_code": "ES",
-        "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "category": "Europe Health",
+        "score": 5,
+        "examples": [
+          "‘I still don’t have my MRI’: My health insurer canceled my plan without warning. Is that legal? - MarketWatch",
+          "Health officials issue warning after possibly rabid bat found at New England zoo - Boston 25 News",
+          "Health officials issue warning after possibly rabid bat found at New England zoo - yahoo.com"
+        ]
+      },
+      {
+        "trend": "children",
+        "market_code": "ES",
+        "category": "Children Health",
+        "score": 4,
+        "examples": [
+          "Dartmouth Health renames children's hospital following $30 million donation - Valley News",
+          "Study highlights disparities in access to new pediatric food allergy treatment, omalizumab - Children's National",
+          "Children’s suicide-related emergency visits spiked by 74% in the US between 2016-2022 - Northwestern Now News"
+        ]
+      },
+      {
+        "trend": "heart",
+        "market_code": "ES",
+        "category": "Chronic Disease",
+        "score": 4,
+        "examples": [
+          "Medical Minute: Sept. 29 is World Heart Day - News On 6",
+          "Popular chewing gum sweetener linked to higher heart attack risk, study finds - Medical News Today",
+          "Even Low Light Exposure During Sleep May Raise Your Risk of Heart Failure, AFib - Healthline"
+        ]
       }
     ],
     "Sweden": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "SE",
         "category": "Europe Health",
-        "score": 1,
-        "examples": []
+        "score": 57,
+        "examples": [
+          "Actor Tatyana Ali advocating for Black and Indigenous maternal health - NPR",
+          "A year without pain is a reminder of health struggles we can’t see - Arkansas Advocate",
+          "Laramie County health and food inspections (9/4/26–9/10/26) - Cap City News"
+        ]
+      },
+      {
+        "trend": "medical",
+        "market_code": "SE",
+        "category": "Europe Health",
+        "score": 21,
+        "examples": [
+          "Athlete dies after medical emergency during Ironman 70.3 - wwnytv.com",
+          "Two Medical Device Dividend Giants, One Better Buy: Medtronic vs. Abbott - 24/7 Wall St.",
+          "Boston Medical Center nurses vote to authorize three-day strike over wages, short staffing - Boston.com"
+        ]
       },
       {
         "trend": "outbreak",
         "market_code": "SE",
         "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "score": 13,
+        "examples": [
+          "Measles Outbreak Prompts Warning For Northern IL Travelers: Health Officials - Patch",
+          "Zambia reports anthrax outbreak, Dozens of animals and people affected - Outbreak News Today",
+          "Zambia reports anthrax outbreak, Dozens of animals and people affected - Outbreak News Today"
+        ]
+      },
+      {
+        "trend": "cancer",
+        "market_code": "SE",
+        "category": "Chronic Disease",
+        "score": 11,
+        "examples": [
+          "The Viral Side of Bladder Cancer: BK Polyomavirus, HPV, and Urothelial Carcinoma - oncodaily.com",
+          "Clinical trials: New mRNA cancer vaccine plus Keytruda sharply improves melanoma survival - UCHealth",
+          "The data from Moderna and Merck’s trial have yet to be presented - The Cancer Letter"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "SE",
+        "category": "Mental Health",
+        "score": 10,
+        "examples": [
+          "Mental health is health - Capitol City Now",
+          "Mental Health Warrior Film Festival brings stories of hope, anxiety and healing to Madison - WMTV 15 NEWS",
+          "Mental health is health - Capitol City Now"
+        ]
+      },
+      {
+        "trend": "measles",
+        "market_code": "SE",
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "Health officials urge measles vaccine as school starts - bendbulletin.com",
+          "Two measles cases confirmed in Wayne County - 13wham.com",
+          "Wayne County Public Health confirms 2 measles cases on Saturday - whec.com"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "SE",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
+        "score": 9,
+        "examples": [
+          "Mental health is health - Capitol City Now",
+          "Mental Health Warrior Film Festival brings stories of hope, anxiety and healing to Madison - WMTV 15 NEWS",
+          "Mental health is health - Capitol City Now"
+        ]
       },
       {
-        "trend": "medical research",
+        "trend": "health officials",
         "market_code": "SE",
         "category": "Europe Health",
-        "score": 1,
-        "examples": []
+        "score": 6,
+        "examples": [
+          "Health officials urge measles vaccine as school starts - bendbulletin.com",
+          "Health officials issue warning after possibly rabid bat found at New England zoo - Boston 25 News",
+          "Health officials issue warning after possibly rabid bat found at New England zoo - yahoo.com"
+        ]
       },
       {
-        "trend": "drug approval",
+        "trend": "healthcare",
         "market_code": "SE",
-        "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
+        "category": "Europe Health",
+        "score": 6,
+        "examples": [
+          "Mobile integrated healthcare continues to expand in Johnson County - thegazette.com",
+          "At CTA event, federal health officials outline AI ambitions as clinicians debate risks - Fierce Healthcare",
+          "Roundup: Using AI to better integrate virtual modalities into care delivery - Healthcare IT News"
+        ]
       },
       {
-        "trend": "diet wellness",
+        "trend": "warning",
         "market_code": "SE",
-        "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "category": "Europe Health",
+        "score": 5,
+        "examples": [
+          "‘I still don’t have my MRI’: My health insurer canceled my plan without warning. Is that legal? - MarketWatch",
+          "Health officials issue warning after possibly rabid bat found at New England zoo - Boston 25 News",
+          "Health officials issue warning after possibly rabid bat found at New England zoo - yahoo.com"
+        ]
+      },
+      {
+        "trend": "children",
+        "market_code": "SE",
+        "category": "Children Health",
+        "score": 4,
+        "examples": [
+          "Dartmouth Health renames children's hospital following $30 million donation - Valley News",
+          "Study highlights disparities in access to new pediatric food allergy treatment, omalizumab - Children's National",
+          "Children’s suicide-related emergency visits spiked by 74% in the US between 2016-2022 - Northwestern Now News"
+        ]
+      },
+      {
+        "trend": "heart",
+        "market_code": "SE",
+        "category": "Chronic Disease",
+        "score": 4,
+        "examples": [
+          "Medical Minute: Sept. 29 is World Heart Day - News On 6",
+          "Popular chewing gum sweetener linked to higher heart attack risk, study finds - Medical News Today",
+          "Even Low Light Exposure During Sleep May Raise Your Risk of Heart Failure, AFib - Healthline"
+        ]
       }
     ],
     "Netherlands": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "NL",
         "category": "Europe Health",
-        "score": 1,
-        "examples": []
+        "score": 57,
+        "examples": [
+          "Actor Tatyana Ali advocating for Black and Indigenous maternal health - NPR",
+          "A year without pain is a reminder of health struggles we can’t see - Arkansas Advocate",
+          "Laramie County health and food inspections (9/4/26–9/10/26) - Cap City News"
+        ]
+      },
+      {
+        "trend": "medical",
+        "market_code": "NL",
+        "category": "Europe Health",
+        "score": 21,
+        "examples": [
+          "Athlete dies after medical emergency during Ironman 70.3 - wwnytv.com",
+          "Two Medical Device Dividend Giants, One Better Buy: Medtronic vs. Abbott - 24/7 Wall St.",
+          "Boston Medical Center nurses vote to authorize three-day strike over wages, short staffing - Boston.com"
+        ]
       },
       {
         "trend": "outbreak",
         "market_code": "NL",
         "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "score": 13,
+        "examples": [
+          "Measles Outbreak Prompts Warning For Northern IL Travelers: Health Officials - Patch",
+          "Zambia reports anthrax outbreak, Dozens of animals and people affected - Outbreak News Today",
+          "Zambia reports anthrax outbreak, Dozens of animals and people affected - Outbreak News Today"
+        ]
+      },
+      {
+        "trend": "cancer",
+        "market_code": "NL",
+        "category": "Chronic Disease",
+        "score": 11,
+        "examples": [
+          "The Viral Side of Bladder Cancer: BK Polyomavirus, HPV, and Urothelial Carcinoma - oncodaily.com",
+          "Clinical trials: New mRNA cancer vaccine plus Keytruda sharply improves melanoma survival - UCHealth",
+          "The data from Moderna and Merck’s trial have yet to be presented - The Cancer Letter"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "NL",
+        "category": "Mental Health",
+        "score": 10,
+        "examples": [
+          "Mental health is health - Capitol City Now",
+          "Mental Health Warrior Film Festival brings stories of hope, anxiety and healing to Madison - WMTV 15 NEWS",
+          "Mental health is health - Capitol City Now"
+        ]
+      },
+      {
+        "trend": "measles",
+        "market_code": "NL",
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "Health officials urge measles vaccine as school starts - bendbulletin.com",
+          "Two measles cases confirmed in Wayne County - 13wham.com",
+          "Wayne County Public Health confirms 2 measles cases on Saturday - whec.com"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "NL",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
+        "score": 9,
+        "examples": [
+          "Mental health is health - Capitol City Now",
+          "Mental Health Warrior Film Festival brings stories of hope, anxiety and healing to Madison - WMTV 15 NEWS",
+          "Mental health is health - Capitol City Now"
+        ]
       },
       {
-        "trend": "medical research",
+        "trend": "health officials",
         "market_code": "NL",
         "category": "Europe Health",
-        "score": 1,
-        "examples": []
+        "score": 6,
+        "examples": [
+          "Health officials urge measles vaccine as school starts - bendbulletin.com",
+          "Health officials issue warning after possibly rabid bat found at New England zoo - Boston 25 News",
+          "Health officials issue warning after possibly rabid bat found at New England zoo - yahoo.com"
+        ]
       },
       {
-        "trend": "drug approval",
+        "trend": "healthcare",
         "market_code": "NL",
-        "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
+        "category": "Europe Health",
+        "score": 6,
+        "examples": [
+          "Mobile integrated healthcare continues to expand in Johnson County - thegazette.com",
+          "At CTA event, federal health officials outline AI ambitions as clinicians debate risks - Fierce Healthcare",
+          "Roundup: Using AI to better integrate virtual modalities into care delivery - Healthcare IT News"
+        ]
       },
       {
-        "trend": "diet wellness",
+        "trend": "warning",
         "market_code": "NL",
-        "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "category": "Europe Health",
+        "score": 5,
+        "examples": [
+          "‘I still don’t have my MRI’: My health insurer canceled my plan without warning. Is that legal? - MarketWatch",
+          "Health officials issue warning after possibly rabid bat found at New England zoo - Boston 25 News",
+          "Health officials issue warning after possibly rabid bat found at New England zoo - yahoo.com"
+        ]
+      },
+      {
+        "trend": "children",
+        "market_code": "NL",
+        "category": "Children Health",
+        "score": 4,
+        "examples": [
+          "Dartmouth Health renames children's hospital following $30 million donation - Valley News",
+          "Study highlights disparities in access to new pediatric food allergy treatment, omalizumab - Children's National",
+          "Children’s suicide-related emergency visits spiked by 74% in the US between 2016-2022 - Northwestern Now News"
+        ]
+      },
+      {
+        "trend": "heart",
+        "market_code": "NL",
+        "category": "Chronic Disease",
+        "score": 4,
+        "examples": [
+          "Medical Minute: Sept. 29 is World Heart Day - News On 6",
+          "Popular chewing gum sweetener linked to higher heart attack risk, study finds - Medical News Today",
+          "Even Low Light Exposure During Sleep May Raise Your Risk of Heart Failure, AFib - Healthline"
+        ]
       }
     ],
     "Finland": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "FI",
         "category": "Europe Health",
-        "score": 1,
-        "examples": []
+        "score": 57,
+        "examples": [
+          "Actor Tatyana Ali advocating for Black and Indigenous maternal health - NPR",
+          "A year without pain is a reminder of health struggles we can’t see - Arkansas Advocate",
+          "Laramie County health and food inspections (9/4/26–9/10/26) - Cap City News"
+        ]
+      },
+      {
+        "trend": "medical",
+        "market_code": "FI",
+        "category": "Europe Health",
+        "score": 21,
+        "examples": [
+          "Athlete dies after medical emergency during Ironman 70.3 - wwnytv.com",
+          "Two Medical Device Dividend Giants, One Better Buy: Medtronic vs. Abbott - 24/7 Wall St.",
+          "Boston Medical Center nurses vote to authorize three-day strike over wages, short staffing - Boston.com"
+        ]
       },
       {
         "trend": "outbreak",
         "market_code": "FI",
         "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "score": 13,
+        "examples": [
+          "Measles Outbreak Prompts Warning For Northern IL Travelers: Health Officials - Patch",
+          "Zambia reports anthrax outbreak, Dozens of animals and people affected - Outbreak News Today",
+          "Zambia reports anthrax outbreak, Dozens of animals and people affected - Outbreak News Today"
+        ]
+      },
+      {
+        "trend": "cancer",
+        "market_code": "FI",
+        "category": "Chronic Disease",
+        "score": 11,
+        "examples": [
+          "The Viral Side of Bladder Cancer: BK Polyomavirus, HPV, and Urothelial Carcinoma - oncodaily.com",
+          "Clinical trials: New mRNA cancer vaccine plus Keytruda sharply improves melanoma survival - UCHealth",
+          "The data from Moderna and Merck’s trial have yet to be presented - The Cancer Letter"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "FI",
+        "category": "Mental Health",
+        "score": 10,
+        "examples": [
+          "Mental health is health - Capitol City Now",
+          "Mental Health Warrior Film Festival brings stories of hope, anxiety and healing to Madison - WMTV 15 NEWS",
+          "Mental health is health - Capitol City Now"
+        ]
+      },
+      {
+        "trend": "measles",
+        "market_code": "FI",
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "Health officials urge measles vaccine as school starts - bendbulletin.com",
+          "Two measles cases confirmed in Wayne County - 13wham.com",
+          "Wayne County Public Health confirms 2 measles cases on Saturday - whec.com"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "FI",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
+        "score": 9,
+        "examples": [
+          "Mental health is health - Capitol City Now",
+          "Mental Health Warrior Film Festival brings stories of hope, anxiety and healing to Madison - WMTV 15 NEWS",
+          "Mental health is health - Capitol City Now"
+        ]
       },
       {
-        "trend": "medical research",
+        "trend": "health officials",
         "market_code": "FI",
         "category": "Europe Health",
-        "score": 1,
-        "examples": []
+        "score": 6,
+        "examples": [
+          "Health officials urge measles vaccine as school starts - bendbulletin.com",
+          "Health officials issue warning after possibly rabid bat found at New England zoo - Boston 25 News",
+          "Health officials issue warning after possibly rabid bat found at New England zoo - yahoo.com"
+        ]
       },
       {
-        "trend": "drug approval",
+        "trend": "healthcare",
         "market_code": "FI",
-        "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
+        "category": "Europe Health",
+        "score": 6,
+        "examples": [
+          "Mobile integrated healthcare continues to expand in Johnson County - thegazette.com",
+          "At CTA event, federal health officials outline AI ambitions as clinicians debate risks - Fierce Healthcare",
+          "Roundup: Using AI to better integrate virtual modalities into care delivery - Healthcare IT News"
+        ]
       },
       {
-        "trend": "diet wellness",
+        "trend": "warning",
         "market_code": "FI",
-        "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "category": "Europe Health",
+        "score": 5,
+        "examples": [
+          "‘I still don’t have my MRI’: My health insurer canceled my plan without warning. Is that legal? - MarketWatch",
+          "Health officials issue warning after possibly rabid bat found at New England zoo - Boston 25 News",
+          "Health officials issue warning after possibly rabid bat found at New England zoo - yahoo.com"
+        ]
+      },
+      {
+        "trend": "children",
+        "market_code": "FI",
+        "category": "Children Health",
+        "score": 4,
+        "examples": [
+          "Dartmouth Health renames children's hospital following $30 million donation - Valley News",
+          "Study highlights disparities in access to new pediatric food allergy treatment, omalizumab - Children's National",
+          "Children’s suicide-related emergency visits spiked by 74% in the US between 2016-2022 - Northwestern Now News"
+        ]
+      },
+      {
+        "trend": "heart",
+        "market_code": "FI",
+        "category": "Chronic Disease",
+        "score": 4,
+        "examples": [
+          "Medical Minute: Sept. 29 is World Heart Day - News On 6",
+          "Popular chewing gum sweetener linked to higher heart attack risk, study finds - Medical News Today",
+          "Even Low Light Exposure During Sleep May Raise Your Risk of Heart Failure, AFib - Healthline"
+        ]
       }
     ],
     "Norway": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "NO",
         "category": "Europe Health",
-        "score": 1,
-        "examples": []
+        "score": 57,
+        "examples": [
+          "Actor Tatyana Ali advocating for Black and Indigenous maternal health - NPR",
+          "A year without pain is a reminder of health struggles we can’t see - Arkansas Advocate",
+          "Laramie County health and food inspections (9/4/26–9/10/26) - Cap City News"
+        ]
+      },
+      {
+        "trend": "medical",
+        "market_code": "NO",
+        "category": "Europe Health",
+        "score": 21,
+        "examples": [
+          "Athlete dies after medical emergency during Ironman 70.3 - wwnytv.com",
+          "Two Medical Device Dividend Giants, One Better Buy: Medtronic vs. Abbott - 24/7 Wall St.",
+          "Boston Medical Center nurses vote to authorize three-day strike over wages, short staffing - Boston.com"
+        ]
       },
       {
         "trend": "outbreak",
         "market_code": "NO",
         "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "score": 13,
+        "examples": [
+          "Measles Outbreak Prompts Warning For Northern IL Travelers: Health Officials - Patch",
+          "Zambia reports anthrax outbreak, Dozens of animals and people affected - Outbreak News Today",
+          "Zambia reports anthrax outbreak, Dozens of animals and people affected - Outbreak News Today"
+        ]
+      },
+      {
+        "trend": "cancer",
+        "market_code": "NO",
+        "category": "Chronic Disease",
+        "score": 11,
+        "examples": [
+          "The Viral Side of Bladder Cancer: BK Polyomavirus, HPV, and Urothelial Carcinoma - oncodaily.com",
+          "Clinical trials: New mRNA cancer vaccine plus Keytruda sharply improves melanoma survival - UCHealth",
+          "The data from Moderna and Merck’s trial have yet to be presented - The Cancer Letter"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "NO",
+        "category": "Mental Health",
+        "score": 10,
+        "examples": [
+          "Mental health is health - Capitol City Now",
+          "Mental Health Warrior Film Festival brings stories of hope, anxiety and healing to Madison - WMTV 15 NEWS",
+          "Mental health is health - Capitol City Now"
+        ]
+      },
+      {
+        "trend": "measles",
+        "market_code": "NO",
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "Health officials urge measles vaccine as school starts - bendbulletin.com",
+          "Two measles cases confirmed in Wayne County - 13wham.com",
+          "Wayne County Public Health confirms 2 measles cases on Saturday - whec.com"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "NO",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
+        "score": 9,
+        "examples": [
+          "Mental health is health - Capitol City Now",
+          "Mental Health Warrior Film Festival brings stories of hope, anxiety and healing to Madison - WMTV 15 NEWS",
+          "Mental health is health - Capitol City Now"
+        ]
       },
       {
-        "trend": "medical research",
+        "trend": "health officials",
         "market_code": "NO",
         "category": "Europe Health",
-        "score": 1,
-        "examples": []
+        "score": 6,
+        "examples": [
+          "Health officials urge measles vaccine as school starts - bendbulletin.com",
+          "Health officials issue warning after possibly rabid bat found at New England zoo - Boston 25 News",
+          "Health officials issue warning after possibly rabid bat found at New England zoo - yahoo.com"
+        ]
       },
       {
-        "trend": "drug approval",
+        "trend": "healthcare",
         "market_code": "NO",
-        "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
+        "category": "Europe Health",
+        "score": 6,
+        "examples": [
+          "Mobile integrated healthcare continues to expand in Johnson County - thegazette.com",
+          "At CTA event, federal health officials outline AI ambitions as clinicians debate risks - Fierce Healthcare",
+          "Roundup: Using AI to better integrate virtual modalities into care delivery - Healthcare IT News"
+        ]
       },
       {
-        "trend": "diet wellness",
+        "trend": "warning",
         "market_code": "NO",
-        "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "category": "Europe Health",
+        "score": 5,
+        "examples": [
+          "‘I still don’t have my MRI’: My health insurer canceled my plan without warning. Is that legal? - MarketWatch",
+          "Health officials issue warning after possibly rabid bat found at New England zoo - Boston 25 News",
+          "Health officials issue warning after possibly rabid bat found at New England zoo - yahoo.com"
+        ]
+      },
+      {
+        "trend": "children",
+        "market_code": "NO",
+        "category": "Children Health",
+        "score": 4,
+        "examples": [
+          "Dartmouth Health renames children's hospital following $30 million donation - Valley News",
+          "Study highlights disparities in access to new pediatric food allergy treatment, omalizumab - Children's National",
+          "Children’s suicide-related emergency visits spiked by 74% in the US between 2016-2022 - Northwestern Now News"
+        ]
+      },
+      {
+        "trend": "heart",
+        "market_code": "NO",
+        "category": "Chronic Disease",
+        "score": 4,
+        "examples": [
+          "Medical Minute: Sept. 29 is World Heart Day - News On 6",
+          "Popular chewing gum sweetener linked to higher heart attack risk, study finds - Medical News Today",
+          "Even Low Light Exposure During Sleep May Raise Your Risk of Heart Failure, AFib - Healthline"
+        ]
       }
     ],
     "Japan": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "JP",
         "category": "Asia Health",
-        "score": 1,
-        "examples": []
+        "score": 57,
+        "examples": [
+          "Actor Tatyana Ali advocating for Black and Indigenous maternal health - NPR",
+          "A year without pain is a reminder of health struggles we can’t see - Arkansas Advocate",
+          "Laramie County health and food inspections (9/4/26–9/10/26) - Cap City News"
+        ]
+      },
+      {
+        "trend": "medical",
+        "market_code": "JP",
+        "category": "Asia Health",
+        "score": 21,
+        "examples": [
+          "Athlete dies after medical emergency during Ironman 70.3 - wwnytv.com",
+          "Two Medical Device Dividend Giants, One Better Buy: Medtronic vs. Abbott - 24/7 Wall St.",
+          "Boston Medical Center nurses vote to authorize three-day strike over wages, short staffing - Boston.com"
+        ]
       },
       {
         "trend": "outbreak",
         "market_code": "JP",
         "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "score": 13,
+        "examples": [
+          "Measles Outbreak Prompts Warning For Northern IL Travelers: Health Officials - Patch",
+          "Zambia reports anthrax outbreak, Dozens of animals and people affected - Outbreak News Today",
+          "Zambia reports anthrax outbreak, Dozens of animals and people affected - Outbreak News Today"
+        ]
+      },
+      {
+        "trend": "cancer",
+        "market_code": "JP",
+        "category": "Chronic Disease",
+        "score": 11,
+        "examples": [
+          "The Viral Side of Bladder Cancer: BK Polyomavirus, HPV, and Urothelial Carcinoma - oncodaily.com",
+          "Clinical trials: New mRNA cancer vaccine plus Keytruda sharply improves melanoma survival - UCHealth",
+          "The data from Moderna and Merck’s trial have yet to be presented - The Cancer Letter"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "JP",
+        "category": "Mental Health",
+        "score": 10,
+        "examples": [
+          "Mental health is health - Capitol City Now",
+          "Mental Health Warrior Film Festival brings stories of hope, anxiety and healing to Madison - WMTV 15 NEWS",
+          "Mental health is health - Capitol City Now"
+        ]
+      },
+      {
+        "trend": "measles",
+        "market_code": "JP",
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "Health officials urge measles vaccine as school starts - bendbulletin.com",
+          "Two measles cases confirmed in Wayne County - 13wham.com",
+          "Wayne County Public Health confirms 2 measles cases on Saturday - whec.com"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "JP",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
+        "score": 9,
+        "examples": [
+          "Mental health is health - Capitol City Now",
+          "Mental Health Warrior Film Festival brings stories of hope, anxiety and healing to Madison - WMTV 15 NEWS",
+          "Mental health is health - Capitol City Now"
+        ]
       },
       {
-        "trend": "medical research",
+        "trend": "health officials",
         "market_code": "JP",
         "category": "Asia Health",
-        "score": 1,
-        "examples": []
+        "score": 6,
+        "examples": [
+          "Health officials urge measles vaccine as school starts - bendbulletin.com",
+          "Health officials issue warning after possibly rabid bat found at New England zoo - Boston 25 News",
+          "Health officials issue warning after possibly rabid bat found at New England zoo - yahoo.com"
+        ]
       },
       {
-        "trend": "drug approval",
+        "trend": "healthcare",
         "market_code": "JP",
-        "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
+        "category": "Asia Health",
+        "score": 6,
+        "examples": [
+          "Mobile integrated healthcare continues to expand in Johnson County - thegazette.com",
+          "At CTA event, federal health officials outline AI ambitions as clinicians debate risks - Fierce Healthcare",
+          "Roundup: Using AI to better integrate virtual modalities into care delivery - Healthcare IT News"
+        ]
       },
       {
-        "trend": "diet wellness",
+        "trend": "warning",
         "market_code": "JP",
-        "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "category": "Asia Health",
+        "score": 5,
+        "examples": [
+          "‘I still don’t have my MRI’: My health insurer canceled my plan without warning. Is that legal? - MarketWatch",
+          "Health officials issue warning after possibly rabid bat found at New England zoo - Boston 25 News",
+          "Health officials issue warning after possibly rabid bat found at New England zoo - yahoo.com"
+        ]
+      },
+      {
+        "trend": "children",
+        "market_code": "JP",
+        "category": "Children Health",
+        "score": 4,
+        "examples": [
+          "Dartmouth Health renames children's hospital following $30 million donation - Valley News",
+          "Study highlights disparities in access to new pediatric food allergy treatment, omalizumab - Children's National",
+          "Children’s suicide-related emergency visits spiked by 74% in the US between 2016-2022 - Northwestern Now News"
+        ]
+      },
+      {
+        "trend": "heart",
+        "market_code": "JP",
+        "category": "Chronic Disease",
+        "score": 4,
+        "examples": [
+          "Medical Minute: Sept. 29 is World Heart Day - News On 6",
+          "Popular chewing gum sweetener linked to higher heart attack risk, study finds - Medical News Today",
+          "Even Low Light Exposure During Sleep May Raise Your Risk of Heart Failure, AFib - Healthline"
+        ]
       }
     ],
     "China": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "CN",
         "category": "Asia Health",
-        "score": 1,
-        "examples": []
+        "score": 57,
+        "examples": [
+          "Actor Tatyana Ali advocating for Black and Indigenous maternal health - NPR",
+          "A year without pain is a reminder of health struggles we can’t see - Arkansas Advocate",
+          "Laramie County health and food inspections (9/4/26–9/10/26) - Cap City News"
+        ]
+      },
+      {
+        "trend": "medical",
+        "market_code": "CN",
+        "category": "Asia Health",
+        "score": 21,
+        "examples": [
+          "Athlete dies after medical emergency during Ironman 70.3 - wwnytv.com",
+          "Two Medical Device Dividend Giants, One Better Buy: Medtronic vs. Abbott - 24/7 Wall St.",
+          "Boston Medical Center nurses vote to authorize three-day strike over wages, short staffing - Boston.com"
+        ]
       },
       {
         "trend": "outbreak",
         "market_code": "CN",
         "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "score": 13,
+        "examples": [
+          "Measles Outbreak Prompts Warning For Northern IL Travelers: Health Officials - Patch",
+          "Zambia reports anthrax outbreak, Dozens of animals and people affected - Outbreak News Today",
+          "Zambia reports anthrax outbreak, Dozens of animals and people affected - Outbreak News Today"
+        ]
+      },
+      {
+        "trend": "cancer",
+        "market_code": "CN",
+        "category": "Chronic Disease",
+        "score": 11,
+        "examples": [
+          "The Viral Side of Bladder Cancer: BK Polyomavirus, HPV, and Urothelial Carcinoma - oncodaily.com",
+          "Clinical trials: New mRNA cancer vaccine plus Keytruda sharply improves melanoma survival - UCHealth",
+          "The data from Moderna and Merck’s trial have yet to be presented - The Cancer Letter"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "CN",
+        "category": "Mental Health",
+        "score": 10,
+        "examples": [
+          "Mental health is health - Capitol City Now",
+          "Mental Health Warrior Film Festival brings stories of hope, anxiety and healing to Madison - WMTV 15 NEWS",
+          "Mental health is health - Capitol City Now"
+        ]
+      },
+      {
+        "trend": "measles",
+        "market_code": "CN",
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "Health officials urge measles vaccine as school starts - bendbulletin.com",
+          "Two measles cases confirmed in Wayne County - 13wham.com",
+          "Wayne County Public Health confirms 2 measles cases on Saturday - whec.com"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "CN",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
+        "score": 9,
+        "examples": [
+          "Mental health is health - Capitol City Now",
+          "Mental Health Warrior Film Festival brings stories of hope, anxiety and healing to Madison - WMTV 15 NEWS",
+          "Mental health is health - Capitol City Now"
+        ]
       },
       {
-        "trend": "medical research",
+        "trend": "health officials",
         "market_code": "CN",
         "category": "Asia Health",
-        "score": 1,
-        "examples": []
+        "score": 6,
+        "examples": [
+          "Health officials urge measles vaccine as school starts - bendbulletin.com",
+          "Health officials issue warning after possibly rabid bat found at New England zoo - Boston 25 News",
+          "Health officials issue warning after possibly rabid bat found at New England zoo - yahoo.com"
+        ]
       },
       {
-        "trend": "drug approval",
+        "trend": "healthcare",
         "market_code": "CN",
-        "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
+        "category": "Asia Health",
+        "score": 6,
+        "examples": [
+          "Mobile integrated healthcare continues to expand in Johnson County - thegazette.com",
+          "At CTA event, federal health officials outline AI ambitions as clinicians debate risks - Fierce Healthcare",
+          "Roundup: Using AI to better integrate virtual modalities into care delivery - Healthcare IT News"
+        ]
       },
       {
-        "trend": "diet wellness",
+        "trend": "warning",
         "market_code": "CN",
-        "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "category": "Asia Health",
+        "score": 5,
+        "examples": [
+          "‘I still don’t have my MRI’: My health insurer canceled my plan without warning. Is that legal? - MarketWatch",
+          "Health officials issue warning after possibly rabid bat found at New England zoo - Boston 25 News",
+          "Health officials issue warning after possibly rabid bat found at New England zoo - yahoo.com"
+        ]
+      },
+      {
+        "trend": "children",
+        "market_code": "CN",
+        "category": "Children Health",
+        "score": 4,
+        "examples": [
+          "Dartmouth Health renames children's hospital following $30 million donation - Valley News",
+          "Study highlights disparities in access to new pediatric food allergy treatment, omalizumab - Children's National",
+          "Children’s suicide-related emergency visits spiked by 74% in the US between 2016-2022 - Northwestern Now News"
+        ]
+      },
+      {
+        "trend": "heart",
+        "market_code": "CN",
+        "category": "Chronic Disease",
+        "score": 4,
+        "examples": [
+          "Medical Minute: Sept. 29 is World Heart Day - News On 6",
+          "Popular chewing gum sweetener linked to higher heart attack risk, study finds - Medical News Today",
+          "Even Low Light Exposure During Sleep May Raise Your Risk of Heart Failure, AFib - Healthline"
+        ]
       }
     ],
     "South Korea": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "KR",
         "category": "Asia Health",
-        "score": 1,
-        "examples": []
+        "score": 57,
+        "examples": [
+          "Actor Tatyana Ali advocating for Black and Indigenous maternal health - NPR",
+          "A year without pain is a reminder of health struggles we can’t see - Arkansas Advocate",
+          "Laramie County health and food inspections (9/4/26–9/10/26) - Cap City News"
+        ]
+      },
+      {
+        "trend": "medical",
+        "market_code": "KR",
+        "category": "Asia Health",
+        "score": 21,
+        "examples": [
+          "Athlete dies after medical emergency during Ironman 70.3 - wwnytv.com",
+          "Two Medical Device Dividend Giants, One Better Buy: Medtronic vs. Abbott - 24/7 Wall St.",
+          "Boston Medical Center nurses vote to authorize three-day strike over wages, short staffing - Boston.com"
+        ]
       },
       {
         "trend": "outbreak",
         "market_code": "KR",
         "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "score": 13,
+        "examples": [
+          "Measles Outbreak Prompts Warning For Northern IL Travelers: Health Officials - Patch",
+          "Zambia reports anthrax outbreak, Dozens of animals and people affected - Outbreak News Today",
+          "Zambia reports anthrax outbreak, Dozens of animals and people affected - Outbreak News Today"
+        ]
+      },
+      {
+        "trend": "cancer",
+        "market_code": "KR",
+        "category": "Chronic Disease",
+        "score": 11,
+        "examples": [
+          "The Viral Side of Bladder Cancer: BK Polyomavirus, HPV, and Urothelial Carcinoma - oncodaily.com",
+          "Clinical trials: New mRNA cancer vaccine plus Keytruda sharply improves melanoma survival - UCHealth",
+          "The data from Moderna and Merck’s trial have yet to be presented - The Cancer Letter"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "KR",
+        "category": "Mental Health",
+        "score": 10,
+        "examples": [
+          "Mental health is health - Capitol City Now",
+          "Mental Health Warrior Film Festival brings stories of hope, anxiety and healing to Madison - WMTV 15 NEWS",
+          "Mental health is health - Capitol City Now"
+        ]
+      },
+      {
+        "trend": "measles",
+        "market_code": "KR",
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "Health officials urge measles vaccine as school starts - bendbulletin.com",
+          "Two measles cases confirmed in Wayne County - 13wham.com",
+          "Wayne County Public Health confirms 2 measles cases on Saturday - whec.com"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "KR",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
+        "score": 9,
+        "examples": [
+          "Mental health is health - Capitol City Now",
+          "Mental Health Warrior Film Festival brings stories of hope, anxiety and healing to Madison - WMTV 15 NEWS",
+          "Mental health is health - Capitol City Now"
+        ]
       },
       {
-        "trend": "medical research",
+        "trend": "health officials",
         "market_code": "KR",
         "category": "Asia Health",
-        "score": 1,
-        "examples": []
+        "score": 6,
+        "examples": [
+          "Health officials urge measles vaccine as school starts - bendbulletin.com",
+          "Health officials issue warning after possibly rabid bat found at New England zoo - Boston 25 News",
+          "Health officials issue warning after possibly rabid bat found at New England zoo - yahoo.com"
+        ]
       },
       {
-        "trend": "drug approval",
+        "trend": "healthcare",
         "market_code": "KR",
-        "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
+        "category": "Asia Health",
+        "score": 6,
+        "examples": [
+          "Mobile integrated healthcare continues to expand in Johnson County - thegazette.com",
+          "At CTA event, federal health officials outline AI ambitions as clinicians debate risks - Fierce Healthcare",
+          "Roundup: Using AI to better integrate virtual modalities into care delivery - Healthcare IT News"
+        ]
       },
       {
-        "trend": "diet wellness",
+        "trend": "warning",
         "market_code": "KR",
-        "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "category": "Asia Health",
+        "score": 5,
+        "examples": [
+          "‘I still don’t have my MRI’: My health insurer canceled my plan without warning. Is that legal? - MarketWatch",
+          "Health officials issue warning after possibly rabid bat found at New England zoo - Boston 25 News",
+          "Health officials issue warning after possibly rabid bat found at New England zoo - yahoo.com"
+        ]
+      },
+      {
+        "trend": "children",
+        "market_code": "KR",
+        "category": "Children Health",
+        "score": 4,
+        "examples": [
+          "Dartmouth Health renames children's hospital following $30 million donation - Valley News",
+          "Study highlights disparities in access to new pediatric food allergy treatment, omalizumab - Children's National",
+          "Children’s suicide-related emergency visits spiked by 74% in the US between 2016-2022 - Northwestern Now News"
+        ]
+      },
+      {
+        "trend": "heart",
+        "market_code": "KR",
+        "category": "Chronic Disease",
+        "score": 4,
+        "examples": [
+          "Medical Minute: Sept. 29 is World Heart Day - News On 6",
+          "Popular chewing gum sweetener linked to higher heart attack risk, study finds - Medical News Today",
+          "Even Low Light Exposure During Sleep May Raise Your Risk of Heart Failure, AFib - Healthline"
+        ]
       }
     ],
     "India": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "IN",
         "category": "Asia Health",
-        "score": 1,
-        "examples": []
+        "score": 58,
+        "examples": [
+          "Health Wrap Episode 50 discusses healthy ageing, longevity and racquet sports - The Hindu",
+          "Brics is rewriting the Global South’s health playbook - Firstpost",
+          "BRICS Leaders On Obesity: Why The Growing Health Crisis Needs Urgent Action - NDTV"
+        ]
       },
       {
-        "trend": "outbreak",
+        "trend": "medical",
         "market_code": "IN",
-        "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "category": "Asia Health",
+        "score": 17,
+        "examples": [
+          "Elaborate medical facilities to be provided for devotees during Meenakshi Sundareswarar Temple consecration on September 17 - The Hindu",
+          "Upgrade research, treatment, diagnostic capabilities: UP CM Yogi Adityanath to medical experts - ThePrint",
+          "Cabinet approves stipend hike for medical interns, fee revision for govt lawyers - garhwalpost.in"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "IN",
+        "category": "Mental Health",
+        "score": 11,
+        "examples": [
+          "Beyond 'seek help': What happens when students reach out for mental health support? - The Times of India",
+          "Tripura detects 19 illegal de-addiction, mental health rehabilitation centres - The Hindu",
+          "Tripura detects 19 illegal de-addiction, mental health rehabilitation centres - The Hindu"
+        ]
+      },
+      {
+        "trend": "cancer",
+        "market_code": "IN",
+        "category": "Chronic Disease",
+        "score": 11,
+        "examples": [
+          "The Viral Side of Bladder Cancer: BK Polyomavirus, HPV, and Urothelial Carcinoma - Oncodaily",
+          "Clinical trials: New mRNA cancer vaccine plus Keytruda sharply improves melanoma survival - UCHealth",
+          "mRNA cancer vaccines’ biggest barriers to market - BioPharma Dive"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "IN",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
+        "score": 10,
+        "examples": [
+          "Beyond 'seek help': What happens when students reach out for mental health support? - The Times of India",
+          "Tripura detects 19 illegal de-addiction, mental health rehabilitation centres - The Hindu",
+          "Tripura detects 19 illegal de-addiction, mental health rehabilitation centres - The Hindu"
+        ]
       },
       {
-        "trend": "medical research",
+        "trend": "outbreak",
+        "market_code": "IN",
+        "category": "Outbreaks",
+        "score": 10,
+        "examples": [
+          "Bangladesh fights world’s worst measles outbreak as vaccination gaps fuel spread - ddindia.co.in",
+          "Zambia reports anthrax outbreak, Dozens of animals and people affected - outbreaknewstoday.substack.com",
+          "Outbreak Detection Is a Test We Order. It Should Be a Signal We Monitor - the-scientist.com"
+        ]
+      },
+      {
+        "trend": "healthcare",
         "market_code": "IN",
         "category": "Asia Health",
-        "score": 1,
-        "examples": []
+        "score": 9,
+        "examples": [
+          "Beyond the Hospital: How Paras Health Is Reimagining India’s Healthcare Story - Rising Kashmir",
+          "India Health 2026 Concludes Successfully, Showcasing India’s Expanding MedTech Manufacturing and Healthcare Innovation Landscape - healthcareexecutive.in",
+          "NHS doctor-led commission issues blueprint for AI’s safe adoption in healthcare - medicaldevice-network.com"
+        ]
       },
       {
-        "trend": "drug approval",
+        "trend": "virus",
         "market_code": "IN",
-        "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
+        "category": "Outbreaks",
+        "score": 8,
+        "examples": [
+          "DR Congo Says Ebola Outbreak Is ‘Under Control’, But WHO Warns Virus Is Still Spreading: 7,000 Cases, 3,398 Dead - Health and Me",
+          "West Nile virus infections cause three deaths in the Netherlands - ddindia.co.in",
+          "Rabies Virus Glycoprotein Directs CAR-T Cells to Attack Glioma - EMJ"
+        ]
       },
       {
-        "trend": "diet wellness",
+        "trend": "pregnancy",
+        "market_code": "IN",
+        "category": "Women Health",
+        "score": 7,
+        "examples": [
+          "Paracetamol use during pregnancy is linked to changed reproductive development in daughters - EurekAlert!",
+          "Paracetamol in pregnancy may affect daughters’ ovarian development and future fertility, new study sugges - The Times of India",
+          "Tylenol use in pregnancy may be linked with uterus, ovary changes in daughters - Reuters"
+        ]
+      },
+      {
+        "trend": "warning",
+        "market_code": "IN",
+        "category": "Asia Health",
+        "score": 6,
+        "examples": [
+          "Global nutrition experts back FSSAI warning labels, seek stricter rules - The Times of India",
+          "‘I still don’t have my MRI’: My health insurer canceled my plan without warning. Is that legal? - MarketWatch",
+          "BRICS warning on obesity and NCDs: Here's how India's desk workers can beat sedentary risks - theweek.in"
+        ]
+      },
+      {
+        "trend": "medicine",
+        "market_code": "IN",
+        "category": "Asia Health",
+        "score": 5,
+        "examples": [
+          "BRICS Backs Expert Group on Traditional Medicine, Calls for Evidence-Based Global Cooperation - pib.gov.in",
+          "U.K. unveils recommendations for regulation of AI in medicine - STAT",
+          "Guardant360 CDx Test Approved for Early, ‘Serial’ Use in Breast Cancer - Inside Precision Medicine"
+        ]
+      },
+      {
+        "trend": "obesity",
         "market_code": "IN",
         "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "score": 5,
+        "examples": [
+          "BRICS Leaders On Obesity: Why The Growing Health Crisis Needs Urgent Action - NDTV",
+          "BRICS Leaders On Obesity: Why The Growing Health Crisis Needs Urgent Action - NDTV",
+          "BRICS warning on obesity and NCDs: Here's how India's desk workers can beat sedentary risks - theweek.in"
+        ]
       }
     ],
     "Australia": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "AU",
         "category": "Global Health",
-        "score": 1,
-        "examples": []
+        "score": 50,
+        "examples": [
+          "Canada’s new strategy won’t solve food insecurity or the health issues it creates - The Conversation",
+          "Private health insurance cuts risk elderly hearing help - The Australian",
+          "HRC 63 | From resolution to reality: Ending harmful health care practices against intersex persons - ILGA World"
+        ]
+      },
+      {
+        "trend": "medical",
+        "market_code": "AU",
+        "category": "Global Health",
+        "score": 17,
+        "examples": [
+          "Europe built its medical science around male bodies – and women are paying the price - EUobserver",
+          "Public gave CPR to dying man after medical centre refused to help - 1News",
+          "India expands medical, nursing and allied health workforce to boost equitable access to specialised care - DD India"
+        ]
+      },
+      {
+        "trend": "healthcare",
+        "market_code": "AU",
+        "category": "Global Health",
+        "score": 11,
+        "examples": [
+          "Dr Vanessa Kerry Named WHO Health Resilience Envoy - Healthcare Digital",
+          "Australian-first women's pain standard for healthcare - aapnews.aap.com.au",
+          "Dr Vanessa Kerry Named WHO Health Resilience Envoy - Healthcare Digital"
+        ]
       },
       {
         "trend": "outbreak",
         "market_code": "AU",
         "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "score": 11,
+        "examples": [
+          "Zambia reports anthrax outbreak, Dozens of animals and people affected - Outbreak News Today",
+          "Zambia reports anthrax outbreak, Dozens of animals and people affected - Outbreak News Today",
+          "Outbreak Detection Is a Test We Order. It Should Be a Signal We Monitor - the-scientist.com"
+        ]
+      },
+      {
+        "trend": "cancer",
+        "market_code": "AU",
+        "category": "Chronic Disease",
+        "score": 9,
+        "examples": [
+          "Clinical trials: New mRNA cancer vaccine plus Keytruda sharply improves melanoma survival - UCHealth",
+          "mRNA cancer vaccines’ biggest barriers to market - BioPharma Dive",
+          "Pancreatic cancer drug may also help fight treatment-resistant lung cancer - Medical News Today"
+        ]
+      },
+      {
+        "trend": "warning",
+        "market_code": "AU",
+        "category": "Global Health",
+        "score": 8,
+        "examples": [
+          "‘I still don’t have my MRI’: My health insurer canceled my plan without warning. Is that legal? - MarketWatch",
+          "Health officials issue warning after possibly rabid bat found at New England zoo - Boston 25 News",
+          "Self-employed man in the US says health insurance ended without warning - UA.NEWS"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "AU",
+        "category": "Mental Health",
+        "score": 7,
+        "examples": [
+          "Are jurors prepared for the mental health risks of serving on trials? - ABC News & Headlines – Australian Broadcasting Corporation",
+          "Are jurors prepared for the mental health risks of serving on trials? - ABC News & Headlines – Australian Broadcasting Corporation",
+          "Apply Now: Mental Health Services for Adults and Older People (Australia) - fundsforNGOs"
+        ]
+      },
+      {
+        "trend": "virus",
+        "market_code": "AU",
+        "category": "Outbreaks",
+        "score": 7,
+        "examples": [
+          "Scottish hotel closes as staff and guests fall ill following virus outbreak - The National Scot",
+          "DR Congo’s Ebola outbreak surpasses 7,000 cases as virus spreads to seventh province - İlke Haber Ajansı",
+          "How Rabies Virus Infection Triggers Fatal Brain Immune Failure - EMJ"
+        ]
+      },
+      {
+        "trend": "health insurance",
+        "market_code": "AU",
+        "category": "Global Health",
+        "score": 6,
+        "examples": [
+          "Private health insurance cuts risk elderly hearing help - The Australian",
+          "Private health insurance cuts risk elderly hearing help - The Australian",
+          "Self-employed man in the US says health insurance ended without warning - UA.NEWS"
+        ]
+      },
+      {
+        "trend": "trials",
+        "market_code": "AU",
+        "category": "Global Health",
+        "score": 6,
+        "examples": [
+          "Are jurors prepared for the mental health risks of serving on trials? - ABC News & Headlines – Australian Broadcasting Corporation",
+          "Are jurors prepared for the mental health risks of serving on trials? - ABC News & Headlines – Australian Broadcasting Corporation",
+          "AI-enabled clinical trials - Nature"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "AU",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
+        "score": 6,
+        "examples": [
+          "Are jurors prepared for the mental health risks of serving on trials? - ABC News & Headlines – Australian Broadcasting Corporation",
+          "Are jurors prepared for the mental health risks of serving on trials? - ABC News & Headlines – Australian Broadcasting Corporation",
+          "Apply Now: Mental Health Services for Adults and Older People (Australia) - fundsforNGOs"
+        ]
       },
       {
-        "trend": "medical research",
+        "trend": "infection",
         "market_code": "AU",
-        "category": "Global Health",
-        "score": 1,
-        "examples": []
-      },
-      {
-        "trend": "drug approval",
-        "market_code": "AU",
-        "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
-      },
-      {
-        "trend": "diet wellness",
-        "market_code": "AU",
-        "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "category": "Outbreaks",
+        "score": 5,
+        "examples": [
+          "When a Simple Infection Turns Life-Threatening: Recognising the Warning Signs of Sepsis - NDTV",
+          "How Rabies Virus Infection Triggers Fatal Brain Immune Failure - EMJ",
+          "How Rabies Virus Infection Triggers Fatal Brain Immune Failure - EMJ"
+        ]
       }
     ],
     "Canada": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "CA",
         "category": "Global Health",
-        "score": 1,
-        "examples": []
+        "score": 46,
+        "examples": [
+          "Canada’s new strategy won’t solve food insecurity or the health issues it creates - The Conversation",
+          "Actor Tatyana Ali advocating for Black and Indigenous maternal health - NPR",
+          "I'm Calling It: Hims & Hers Health Will Soar 56% by the End of 2026 - The Globe and Mail"
+        ]
+      },
+      {
+        "trend": "medical",
+        "market_code": "CA",
+        "category": "Global Health",
+        "score": 17,
+        "examples": [
+          "COLUMN: 'Old Oak' provided medical knowledge for isolated neighbours - InnisfilToday.ca",
+          "Urška Žigart medical update after brutal Faun Tour crash - Canadian Cycling Magazine",
+          "InvestingPro’s Fair Value spotted 65% gain in Inspire Medical stock By Investing.com - Investing.com Canada"
+        ]
       },
       {
         "trend": "outbreak",
         "market_code": "CA",
         "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "score": 13,
+        "examples": [
+          "Zambia reports anthrax outbreak, Dozens of animals and people affected - Outbreak News Today",
+          "Zambia reports anthrax outbreak, Dozens of animals and people affected - Outbreak News Today",
+          "Outbreak Detection Is a Test We Order. It Should Be a Signal We Monitor - the-scientist.com"
+        ]
+      },
+      {
+        "trend": "cancer",
+        "market_code": "CA",
+        "category": "Chronic Disease",
+        "score": 11,
+        "examples": [
+          "This cancer drug is saving lives. It’s also threatening to break Canadian health-care budgets - thestar.com",
+          "The Viral Side of Bladder Cancer: BK Polyomavirus, HPV, and Urothelial Carcinoma - Oncodaily",
+          "Clinical trials: New mRNA cancer vaccine plus Keytruda sharply improves melanoma survival - UCHealth"
+        ]
+      },
+      {
+        "trend": "healthcare",
+        "market_code": "CA",
+        "category": "Global Health",
+        "score": 10,
+        "examples": [
+          "Dr Vanessa Kerry Named WHO Health Resilience Envoy - Healthcare Digital",
+          "Dr Vanessa Kerry Named WHO Health Resilience Envoy - Healthcare Digital",
+          "Online mental healthcare is here to stay: Here’s how to navigate your options and find the right clinician - Japan Today"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "CA",
+        "category": "Mental Health",
+        "score": 6,
+        "examples": [
+          "Mental Health Warrior Film Festival brings stories of hope, anxiety and healing to Madison - WMTV 15 NEWS",
+          "Parachutes for Pet's hosts Paws for Mental Health Gala - CityNews Calgary",
+          "Young minds in distress: Exploring the global rise in youth mental health diagnoses - Nature"
+        ]
+      },
+      {
+        "trend": "virus",
+        "market_code": "CA",
+        "category": "Outbreaks",
+        "score": 6,
+        "examples": [
+          "Scottish hotel closes as staff and guests fall ill following virus outbreak - The National Scot",
+          "How Rabies Virus Infection Triggers Fatal Brain Immune Failure - EMJ",
+          "Ebola in the DRC : the virus gains ground, the response under pressure - SOS Médias Burundi"
+        ]
+      },
+      {
+        "trend": "drug",
+        "market_code": "CA",
+        "category": "Drug & Treatment News",
+        "score": 5,
+        "examples": [
+          "This cancer drug is saving lives. It’s also threatening to break Canadian health-care budgets - thestar.com",
+          "NAFDAC Boss Urges Safer Drug Storage, Distribution System in Markets - Real Broadcasting Network",
+          "Pancreatic cancer drug may also help fight treatment-resistant lung cancer - Medical News Today"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "CA",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
+        "score": 5,
+        "examples": [
+          "Mental Health Warrior Film Festival brings stories of hope, anxiety and healing to Madison - WMTV 15 NEWS",
+          "Parachutes for Pet's hosts Paws for Mental Health Gala - CityNews Calgary",
+          "Young minds in distress: Exploring the global rise in youth mental health diagnoses - Nature"
+        ]
       },
       {
-        "trend": "medical research",
+        "trend": "hospital",
         "market_code": "CA",
         "category": "Global Health",
-        "score": 1,
-        "examples": []
+        "score": 4,
+        "examples": [
+          "‘L’AUTRE’ Review: A Paranoid Medical Satire Highlights Hospital Horrors [TIFF 2026] - Bloody Disgusting",
+          "Open Dialogue Approach Cuts Psychiatric Hospital Use in Major Trial - Mad In America",
+          "This Children’s Hospital Is Screening Kids for Literacy at the Doctor’s Office - Health US News"
+        ]
       },
       {
-        "trend": "drug approval",
+        "trend": "doctor",
         "market_code": "CA",
-        "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
+        "category": "Global Health",
+        "score": 4,
+        "examples": [
+          "Rise in e-scooter injuries in Guelph concerns area’s top doctor - BayToday.ca",
+          "BRICS flags obesity risk: Doctor explains what should a healthy lifestyle look like in India? - firstpost.com",
+          "Back-to-school health: When should kids stay home or see a doctor? - Yahoo Health"
+        ]
       },
       {
-        "trend": "diet wellness",
+        "trend": "warning",
         "market_code": "CA",
-        "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "category": "Global Health",
+        "score": 4,
+        "examples": [
+          "‘I still don’t have my MRI’: My health insurer canceled my plan without warning. Is that legal? - MarketWatch",
+          "Health officials issue warning after possibly rabid bat found at New England zoo - Boston 25 News",
+          "Self-employed man in the US says health insurance ended without warning - UA.NEWS"
+        ]
       }
     ],
     "United Arab Emirates": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "AE",
         "category": "Arab Health",
-        "score": 1,
-        "examples": []
+        "score": 57,
+        "examples": [
+          "Actor Tatyana Ali advocating for Black and Indigenous maternal health - NPR",
+          "A year without pain is a reminder of health struggles we can’t see - Arkansas Advocate",
+          "Laramie County health and food inspections (9/4/26–9/10/26) - Cap City News"
+        ]
+      },
+      {
+        "trend": "medical",
+        "market_code": "AE",
+        "category": "Arab Health",
+        "score": 21,
+        "examples": [
+          "Athlete dies after medical emergency during Ironman 70.3 - wwnytv.com",
+          "Two Medical Device Dividend Giants, One Better Buy: Medtronic vs. Abbott - 24/7 Wall St.",
+          "Boston Medical Center nurses vote to authorize three-day strike over wages, short staffing - Boston.com"
+        ]
       },
       {
         "trend": "outbreak",
         "market_code": "AE",
         "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "score": 13,
+        "examples": [
+          "Measles Outbreak Prompts Warning For Northern IL Travelers: Health Officials - Patch",
+          "Zambia reports anthrax outbreak, Dozens of animals and people affected - Outbreak News Today",
+          "Zambia reports anthrax outbreak, Dozens of animals and people affected - Outbreak News Today"
+        ]
+      },
+      {
+        "trend": "cancer",
+        "market_code": "AE",
+        "category": "Chronic Disease",
+        "score": 11,
+        "examples": [
+          "The Viral Side of Bladder Cancer: BK Polyomavirus, HPV, and Urothelial Carcinoma - oncodaily.com",
+          "Clinical trials: New mRNA cancer vaccine plus Keytruda sharply improves melanoma survival - UCHealth",
+          "The data from Moderna and Merck’s trial have yet to be presented - The Cancer Letter"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "AE",
+        "category": "Mental Health",
+        "score": 10,
+        "examples": [
+          "Mental health is health - Capitol City Now",
+          "Mental Health Warrior Film Festival brings stories of hope, anxiety and healing to Madison - WMTV 15 NEWS",
+          "Mental health is health - Capitol City Now"
+        ]
+      },
+      {
+        "trend": "measles",
+        "market_code": "AE",
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "Health officials urge measles vaccine as school starts - bendbulletin.com",
+          "Two measles cases confirmed in Wayne County - 13wham.com",
+          "Wayne County Public Health confirms 2 measles cases on Saturday - whec.com"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "AE",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
+        "score": 9,
+        "examples": [
+          "Mental health is health - Capitol City Now",
+          "Mental Health Warrior Film Festival brings stories of hope, anxiety and healing to Madison - WMTV 15 NEWS",
+          "Mental health is health - Capitol City Now"
+        ]
       },
       {
-        "trend": "medical research",
+        "trend": "health officials",
         "market_code": "AE",
         "category": "Arab Health",
-        "score": 1,
-        "examples": []
+        "score": 6,
+        "examples": [
+          "Health officials urge measles vaccine as school starts - bendbulletin.com",
+          "Health officials issue warning after possibly rabid bat found at New England zoo - Boston 25 News",
+          "Health officials issue warning after possibly rabid bat found at New England zoo - yahoo.com"
+        ]
       },
       {
-        "trend": "drug approval",
+        "trend": "healthcare",
         "market_code": "AE",
-        "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
+        "category": "Arab Health",
+        "score": 6,
+        "examples": [
+          "Mobile integrated healthcare continues to expand in Johnson County - thegazette.com",
+          "At CTA event, federal health officials outline AI ambitions as clinicians debate risks - Fierce Healthcare",
+          "Roundup: Using AI to better integrate virtual modalities into care delivery - Healthcare IT News"
+        ]
       },
       {
-        "trend": "diet wellness",
+        "trend": "warning",
         "market_code": "AE",
-        "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "category": "Arab Health",
+        "score": 5,
+        "examples": [
+          "‘I still don’t have my MRI’: My health insurer canceled my plan without warning. Is that legal? - MarketWatch",
+          "Health officials issue warning after possibly rabid bat found at New England zoo - Boston 25 News",
+          "Health officials issue warning after possibly rabid bat found at New England zoo - yahoo.com"
+        ]
+      },
+      {
+        "trend": "children",
+        "market_code": "AE",
+        "category": "Children Health",
+        "score": 4,
+        "examples": [
+          "Dartmouth Health renames children's hospital following $30 million donation - Valley News",
+          "Study highlights disparities in access to new pediatric food allergy treatment, omalizumab - Children's National",
+          "Children’s suicide-related emergency visits spiked by 74% in the US between 2016-2022 - Northwestern Now News"
+        ]
+      },
+      {
+        "trend": "heart",
+        "market_code": "AE",
+        "category": "Chronic Disease",
+        "score": 4,
+        "examples": [
+          "Medical Minute: Sept. 29 is World Heart Day - News On 6",
+          "Popular chewing gum sweetener linked to higher heart attack risk, study finds - Medical News Today",
+          "Even Low Light Exposure During Sleep May Raise Your Risk of Heart Failure, AFib - Healthline"
+        ]
       }
     ],
     "Saudi Arabia": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "SA",
         "category": "Arab Health",
-        "score": 1,
-        "examples": []
+        "score": 57,
+        "examples": [
+          "Actor Tatyana Ali advocating for Black and Indigenous maternal health - NPR",
+          "A year without pain is a reminder of health struggles we can’t see - Arkansas Advocate",
+          "Laramie County health and food inspections (9/4/26–9/10/26) - Cap City News"
+        ]
+      },
+      {
+        "trend": "medical",
+        "market_code": "SA",
+        "category": "Arab Health",
+        "score": 21,
+        "examples": [
+          "Athlete dies after medical emergency during Ironman 70.3 - wwnytv.com",
+          "Two Medical Device Dividend Giants, One Better Buy: Medtronic vs. Abbott - 24/7 Wall St.",
+          "Boston Medical Center nurses vote to authorize three-day strike over wages, short staffing - Boston.com"
+        ]
       },
       {
         "trend": "outbreak",
         "market_code": "SA",
         "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "score": 13,
+        "examples": [
+          "Measles Outbreak Prompts Warning For Northern IL Travelers: Health Officials - Patch",
+          "Zambia reports anthrax outbreak, Dozens of animals and people affected - Outbreak News Today",
+          "Zambia reports anthrax outbreak, Dozens of animals and people affected - Outbreak News Today"
+        ]
+      },
+      {
+        "trend": "cancer",
+        "market_code": "SA",
+        "category": "Chronic Disease",
+        "score": 11,
+        "examples": [
+          "The Viral Side of Bladder Cancer: BK Polyomavirus, HPV, and Urothelial Carcinoma - oncodaily.com",
+          "Clinical trials: New mRNA cancer vaccine plus Keytruda sharply improves melanoma survival - UCHealth",
+          "The data from Moderna and Merck’s trial have yet to be presented - The Cancer Letter"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "SA",
+        "category": "Mental Health",
+        "score": 10,
+        "examples": [
+          "Mental health is health - Capitol City Now",
+          "Mental Health Warrior Film Festival brings stories of hope, anxiety and healing to Madison - WMTV 15 NEWS",
+          "Mental health is health - Capitol City Now"
+        ]
+      },
+      {
+        "trend": "measles",
+        "market_code": "SA",
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "Health officials urge measles vaccine as school starts - bendbulletin.com",
+          "Two measles cases confirmed in Wayne County - 13wham.com",
+          "Wayne County Public Health confirms 2 measles cases on Saturday - whec.com"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "SA",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
+        "score": 9,
+        "examples": [
+          "Mental health is health - Capitol City Now",
+          "Mental Health Warrior Film Festival brings stories of hope, anxiety and healing to Madison - WMTV 15 NEWS",
+          "Mental health is health - Capitol City Now"
+        ]
       },
       {
-        "trend": "medical research",
+        "trend": "health officials",
         "market_code": "SA",
         "category": "Arab Health",
-        "score": 1,
-        "examples": []
+        "score": 6,
+        "examples": [
+          "Health officials urge measles vaccine as school starts - bendbulletin.com",
+          "Health officials issue warning after possibly rabid bat found at New England zoo - Boston 25 News",
+          "Health officials issue warning after possibly rabid bat found at New England zoo - yahoo.com"
+        ]
       },
       {
-        "trend": "drug approval",
+        "trend": "healthcare",
         "market_code": "SA",
-        "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
+        "category": "Arab Health",
+        "score": 6,
+        "examples": [
+          "Mobile integrated healthcare continues to expand in Johnson County - thegazette.com",
+          "At CTA event, federal health officials outline AI ambitions as clinicians debate risks - Fierce Healthcare",
+          "Roundup: Using AI to better integrate virtual modalities into care delivery - Healthcare IT News"
+        ]
       },
       {
-        "trend": "diet wellness",
+        "trend": "warning",
         "market_code": "SA",
-        "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "category": "Arab Health",
+        "score": 5,
+        "examples": [
+          "‘I still don’t have my MRI’: My health insurer canceled my plan without warning. Is that legal? - MarketWatch",
+          "Health officials issue warning after possibly rabid bat found at New England zoo - Boston 25 News",
+          "Health officials issue warning after possibly rabid bat found at New England zoo - yahoo.com"
+        ]
+      },
+      {
+        "trend": "children",
+        "market_code": "SA",
+        "category": "Children Health",
+        "score": 4,
+        "examples": [
+          "Dartmouth Health renames children's hospital following $30 million donation - Valley News",
+          "Study highlights disparities in access to new pediatric food allergy treatment, omalizumab - Children's National",
+          "Children’s suicide-related emergency visits spiked by 74% in the US between 2016-2022 - Northwestern Now News"
+        ]
+      },
+      {
+        "trend": "heart",
+        "market_code": "SA",
+        "category": "Chronic Disease",
+        "score": 4,
+        "examples": [
+          "Medical Minute: Sept. 29 is World Heart Day - News On 6",
+          "Popular chewing gum sweetener linked to higher heart attack risk, study finds - Medical News Today",
+          "Even Low Light Exposure During Sleep May Raise Your Risk of Heart Failure, AFib - Healthline"
+        ]
       }
     ],
     "Qatar": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "QA",
         "category": "Arab Health",
-        "score": 1,
-        "examples": []
+        "score": 57,
+        "examples": [
+          "Actor Tatyana Ali advocating for Black and Indigenous maternal health - NPR",
+          "A year without pain is a reminder of health struggles we can’t see - Arkansas Advocate",
+          "Laramie County health and food inspections (9/4/26–9/10/26) - Cap City News"
+        ]
+      },
+      {
+        "trend": "medical",
+        "market_code": "QA",
+        "category": "Arab Health",
+        "score": 21,
+        "examples": [
+          "Athlete dies after medical emergency during Ironman 70.3 - wwnytv.com",
+          "Two Medical Device Dividend Giants, One Better Buy: Medtronic vs. Abbott - 24/7 Wall St.",
+          "Boston Medical Center nurses vote to authorize three-day strike over wages, short staffing - Boston.com"
+        ]
       },
       {
         "trend": "outbreak",
         "market_code": "QA",
         "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "score": 13,
+        "examples": [
+          "Measles Outbreak Prompts Warning For Northern IL Travelers: Health Officials - Patch",
+          "Zambia reports anthrax outbreak, Dozens of animals and people affected - Outbreak News Today",
+          "Zambia reports anthrax outbreak, Dozens of animals and people affected - Outbreak News Today"
+        ]
+      },
+      {
+        "trend": "cancer",
+        "market_code": "QA",
+        "category": "Chronic Disease",
+        "score": 11,
+        "examples": [
+          "The Viral Side of Bladder Cancer: BK Polyomavirus, HPV, and Urothelial Carcinoma - oncodaily.com",
+          "Clinical trials: New mRNA cancer vaccine plus Keytruda sharply improves melanoma survival - UCHealth",
+          "The data from Moderna and Merck’s trial have yet to be presented - The Cancer Letter"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "QA",
+        "category": "Mental Health",
+        "score": 10,
+        "examples": [
+          "Mental health is health - Capitol City Now",
+          "Mental Health Warrior Film Festival brings stories of hope, anxiety and healing to Madison - WMTV 15 NEWS",
+          "Mental health is health - Capitol City Now"
+        ]
+      },
+      {
+        "trend": "measles",
+        "market_code": "QA",
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "Health officials urge measles vaccine as school starts - bendbulletin.com",
+          "Two measles cases confirmed in Wayne County - 13wham.com",
+          "Wayne County Public Health confirms 2 measles cases on Saturday - whec.com"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "QA",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
+        "score": 9,
+        "examples": [
+          "Mental health is health - Capitol City Now",
+          "Mental Health Warrior Film Festival brings stories of hope, anxiety and healing to Madison - WMTV 15 NEWS",
+          "Mental health is health - Capitol City Now"
+        ]
       },
       {
-        "trend": "medical research",
+        "trend": "health officials",
         "market_code": "QA",
         "category": "Arab Health",
-        "score": 1,
-        "examples": []
+        "score": 6,
+        "examples": [
+          "Health officials urge measles vaccine as school starts - bendbulletin.com",
+          "Health officials issue warning after possibly rabid bat found at New England zoo - Boston 25 News",
+          "Health officials issue warning after possibly rabid bat found at New England zoo - yahoo.com"
+        ]
       },
       {
-        "trend": "drug approval",
+        "trend": "healthcare",
         "market_code": "QA",
-        "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
+        "category": "Arab Health",
+        "score": 6,
+        "examples": [
+          "Mobile integrated healthcare continues to expand in Johnson County - thegazette.com",
+          "At CTA event, federal health officials outline AI ambitions as clinicians debate risks - Fierce Healthcare",
+          "Roundup: Using AI to better integrate virtual modalities into care delivery - Healthcare IT News"
+        ]
       },
       {
-        "trend": "diet wellness",
+        "trend": "warning",
         "market_code": "QA",
-        "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "category": "Arab Health",
+        "score": 5,
+        "examples": [
+          "‘I still don’t have my MRI’: My health insurer canceled my plan without warning. Is that legal? - MarketWatch",
+          "Health officials issue warning after possibly rabid bat found at New England zoo - Boston 25 News",
+          "Health officials issue warning after possibly rabid bat found at New England zoo - yahoo.com"
+        ]
+      },
+      {
+        "trend": "children",
+        "market_code": "QA",
+        "category": "Children Health",
+        "score": 4,
+        "examples": [
+          "Dartmouth Health renames children's hospital following $30 million donation - Valley News",
+          "Study highlights disparities in access to new pediatric food allergy treatment, omalizumab - Children's National",
+          "Children’s suicide-related emergency visits spiked by 74% in the US between 2016-2022 - Northwestern Now News"
+        ]
+      },
+      {
+        "trend": "heart",
+        "market_code": "QA",
+        "category": "Chronic Disease",
+        "score": 4,
+        "examples": [
+          "Medical Minute: Sept. 29 is World Heart Day - News On 6",
+          "Popular chewing gum sweetener linked to higher heart attack risk, study finds - Medical News Today",
+          "Even Low Light Exposure During Sleep May Raise Your Risk of Heart Failure, AFib - Healthline"
+        ]
       }
     ],
     "Jordan": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "JO",
         "category": "Arab Health",
-        "score": 1,
-        "examples": []
+        "score": 57,
+        "examples": [
+          "Actor Tatyana Ali advocating for Black and Indigenous maternal health - NPR",
+          "A year without pain is a reminder of health struggles we can’t see - Arkansas Advocate",
+          "Laramie County health and food inspections (9/4/26–9/10/26) - Cap City News"
+        ]
+      },
+      {
+        "trend": "medical",
+        "market_code": "JO",
+        "category": "Arab Health",
+        "score": 21,
+        "examples": [
+          "Athlete dies after medical emergency during Ironman 70.3 - wwnytv.com",
+          "Two Medical Device Dividend Giants, One Better Buy: Medtronic vs. Abbott - 24/7 Wall St.",
+          "Boston Medical Center nurses vote to authorize three-day strike over wages, short staffing - Boston.com"
+        ]
       },
       {
         "trend": "outbreak",
         "market_code": "JO",
         "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "score": 13,
+        "examples": [
+          "Measles Outbreak Prompts Warning For Northern IL Travelers: Health Officials - Patch",
+          "Zambia reports anthrax outbreak, Dozens of animals and people affected - Outbreak News Today",
+          "Zambia reports anthrax outbreak, Dozens of animals and people affected - Outbreak News Today"
+        ]
+      },
+      {
+        "trend": "cancer",
+        "market_code": "JO",
+        "category": "Chronic Disease",
+        "score": 11,
+        "examples": [
+          "The Viral Side of Bladder Cancer: BK Polyomavirus, HPV, and Urothelial Carcinoma - oncodaily.com",
+          "Clinical trials: New mRNA cancer vaccine plus Keytruda sharply improves melanoma survival - UCHealth",
+          "The data from Moderna and Merck’s trial have yet to be presented - The Cancer Letter"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "JO",
+        "category": "Mental Health",
+        "score": 10,
+        "examples": [
+          "Mental health is health - Capitol City Now",
+          "Mental Health Warrior Film Festival brings stories of hope, anxiety and healing to Madison - WMTV 15 NEWS",
+          "Mental health is health - Capitol City Now"
+        ]
+      },
+      {
+        "trend": "measles",
+        "market_code": "JO",
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "Health officials urge measles vaccine as school starts - bendbulletin.com",
+          "Two measles cases confirmed in Wayne County - 13wham.com",
+          "Wayne County Public Health confirms 2 measles cases on Saturday - whec.com"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "JO",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
+        "score": 9,
+        "examples": [
+          "Mental health is health - Capitol City Now",
+          "Mental Health Warrior Film Festival brings stories of hope, anxiety and healing to Madison - WMTV 15 NEWS",
+          "Mental health is health - Capitol City Now"
+        ]
       },
       {
-        "trend": "medical research",
+        "trend": "health officials",
         "market_code": "JO",
         "category": "Arab Health",
-        "score": 1,
-        "examples": []
+        "score": 6,
+        "examples": [
+          "Health officials urge measles vaccine as school starts - bendbulletin.com",
+          "Health officials issue warning after possibly rabid bat found at New England zoo - Boston 25 News",
+          "Health officials issue warning after possibly rabid bat found at New England zoo - yahoo.com"
+        ]
       },
       {
-        "trend": "drug approval",
+        "trend": "healthcare",
         "market_code": "JO",
-        "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
+        "category": "Arab Health",
+        "score": 6,
+        "examples": [
+          "Mobile integrated healthcare continues to expand in Johnson County - thegazette.com",
+          "At CTA event, federal health officials outline AI ambitions as clinicians debate risks - Fierce Healthcare",
+          "Roundup: Using AI to better integrate virtual modalities into care delivery - Healthcare IT News"
+        ]
       },
       {
-        "trend": "diet wellness",
+        "trend": "warning",
         "market_code": "JO",
-        "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "category": "Arab Health",
+        "score": 5,
+        "examples": [
+          "‘I still don’t have my MRI’: My health insurer canceled my plan without warning. Is that legal? - MarketWatch",
+          "Health officials issue warning after possibly rabid bat found at New England zoo - Boston 25 News",
+          "Health officials issue warning after possibly rabid bat found at New England zoo - yahoo.com"
+        ]
+      },
+      {
+        "trend": "children",
+        "market_code": "JO",
+        "category": "Children Health",
+        "score": 4,
+        "examples": [
+          "Dartmouth Health renames children's hospital following $30 million donation - Valley News",
+          "Study highlights disparities in access to new pediatric food allergy treatment, omalizumab - Children's National",
+          "Children’s suicide-related emergency visits spiked by 74% in the US between 2016-2022 - Northwestern Now News"
+        ]
+      },
+      {
+        "trend": "heart",
+        "market_code": "JO",
+        "category": "Chronic Disease",
+        "score": 4,
+        "examples": [
+          "Medical Minute: Sept. 29 is World Heart Day - News On 6",
+          "Popular chewing gum sweetener linked to higher heart attack risk, study finds - Medical News Today",
+          "Even Low Light Exposure During Sleep May Raise Your Risk of Heart Failure, AFib - Healthline"
+        ]
       }
     ],
     "Lebanon": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "LB",
         "category": "Arab Health",
-        "score": 1,
-        "examples": []
+        "score": 57,
+        "examples": [
+          "Actor Tatyana Ali advocating for Black and Indigenous maternal health - NPR",
+          "A year without pain is a reminder of health struggles we can’t see - Arkansas Advocate",
+          "Laramie County health and food inspections (9/4/26–9/10/26) - Cap City News"
+        ]
+      },
+      {
+        "trend": "medical",
+        "market_code": "LB",
+        "category": "Arab Health",
+        "score": 21,
+        "examples": [
+          "Athlete dies after medical emergency during Ironman 70.3 - wwnytv.com",
+          "Two Medical Device Dividend Giants, One Better Buy: Medtronic vs. Abbott - 24/7 Wall St.",
+          "Boston Medical Center nurses vote to authorize three-day strike over wages, short staffing - Boston.com"
+        ]
       },
       {
         "trend": "outbreak",
         "market_code": "LB",
         "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "score": 13,
+        "examples": [
+          "Measles Outbreak Prompts Warning For Northern IL Travelers: Health Officials - Patch",
+          "Zambia reports anthrax outbreak, Dozens of animals and people affected - Outbreak News Today",
+          "Zambia reports anthrax outbreak, Dozens of animals and people affected - Outbreak News Today"
+        ]
+      },
+      {
+        "trend": "cancer",
+        "market_code": "LB",
+        "category": "Chronic Disease",
+        "score": 11,
+        "examples": [
+          "The Viral Side of Bladder Cancer: BK Polyomavirus, HPV, and Urothelial Carcinoma - oncodaily.com",
+          "Clinical trials: New mRNA cancer vaccine plus Keytruda sharply improves melanoma survival - UCHealth",
+          "The data from Moderna and Merck’s trial have yet to be presented - The Cancer Letter"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "LB",
+        "category": "Mental Health",
+        "score": 10,
+        "examples": [
+          "Mental health is health - Capitol City Now",
+          "Mental Health Warrior Film Festival brings stories of hope, anxiety and healing to Madison - WMTV 15 NEWS",
+          "Mental health is health - Capitol City Now"
+        ]
+      },
+      {
+        "trend": "measles",
+        "market_code": "LB",
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "Health officials urge measles vaccine as school starts - bendbulletin.com",
+          "Two measles cases confirmed in Wayne County - 13wham.com",
+          "Wayne County Public Health confirms 2 measles cases on Saturday - whec.com"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "LB",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
+        "score": 9,
+        "examples": [
+          "Mental health is health - Capitol City Now",
+          "Mental Health Warrior Film Festival brings stories of hope, anxiety and healing to Madison - WMTV 15 NEWS",
+          "Mental health is health - Capitol City Now"
+        ]
       },
       {
-        "trend": "medical research",
+        "trend": "health officials",
         "market_code": "LB",
         "category": "Arab Health",
-        "score": 1,
-        "examples": []
+        "score": 6,
+        "examples": [
+          "Health officials urge measles vaccine as school starts - bendbulletin.com",
+          "Health officials issue warning after possibly rabid bat found at New England zoo - Boston 25 News",
+          "Health officials issue warning after possibly rabid bat found at New England zoo - yahoo.com"
+        ]
       },
       {
-        "trend": "drug approval",
+        "trend": "healthcare",
         "market_code": "LB",
-        "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
+        "category": "Arab Health",
+        "score": 6,
+        "examples": [
+          "Mobile integrated healthcare continues to expand in Johnson County - thegazette.com",
+          "At CTA event, federal health officials outline AI ambitions as clinicians debate risks - Fierce Healthcare",
+          "Roundup: Using AI to better integrate virtual modalities into care delivery - Healthcare IT News"
+        ]
       },
       {
-        "trend": "diet wellness",
+        "trend": "warning",
         "market_code": "LB",
-        "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "category": "Arab Health",
+        "score": 5,
+        "examples": [
+          "‘I still don’t have my MRI’: My health insurer canceled my plan without warning. Is that legal? - MarketWatch",
+          "Health officials issue warning after possibly rabid bat found at New England zoo - Boston 25 News",
+          "Health officials issue warning after possibly rabid bat found at New England zoo - yahoo.com"
+        ]
+      },
+      {
+        "trend": "children",
+        "market_code": "LB",
+        "category": "Children Health",
+        "score": 4,
+        "examples": [
+          "Dartmouth Health renames children's hospital following $30 million donation - Valley News",
+          "Study highlights disparities in access to new pediatric food allergy treatment, omalizumab - Children's National",
+          "Children’s suicide-related emergency visits spiked by 74% in the US between 2016-2022 - Northwestern Now News"
+        ]
+      },
+      {
+        "trend": "heart",
+        "market_code": "LB",
+        "category": "Chronic Disease",
+        "score": 4,
+        "examples": [
+          "Medical Minute: Sept. 29 is World Heart Day - News On 6",
+          "Popular chewing gum sweetener linked to higher heart attack risk, study finds - Medical News Today",
+          "Even Low Light Exposure During Sleep May Raise Your Risk of Heart Failure, AFib - Healthline"
+        ]
       }
     ]
   }
