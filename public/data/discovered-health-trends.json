@@ -1,2819 +1,929 @@
 {
-  "updated_at": "2026-09-13T01:34:39.593108+00:00",
-  "total_trends": 252,
+  "updated_at": "2026-09-13T11:25:23.700200+00:00",
+  "total_trends": 126,
   "markets": {
     "United States": [
       {
-        "trend": "health",
+        "trend": "health alert",
         "market_code": "US",
         "category": "US Health",
-        "score": 67,
-        "examples": [
-          "Michigan health officials say people can resume regular lettuce-eating habits as new cases of cyclosporiasis slow - ABC7 Chicago",
-          "UNDP warns Russian drone attacks on Chernobyl endangers the health and safety of millions - Jurist.org",
-          "Health fair at Jefferson Elementary offers free medical services - KTTC"
-        ]
-      },
-      {
-        "trend": "medical",
-        "market_code": "US",
-        "category": "US Health",
-        "score": 20,
-        "examples": [
-          "Health fair at Jefferson Elementary offers free medical services - KTTC",
-          "Health fair at Jefferson Elementary offers free medical services - KTTC",
-          "Know Your Rights: Medical Aid in Dying - aclu-il.org"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
         "trend": "outbreak",
         "market_code": "US",
         "category": "Outbreaks",
-        "score": 13,
-        "examples": [
-          "Measles Outbreak Prompts Warning For Northern IL Travelers: Health Officials - Patch",
-          "CDC declares cyclospora outbreak over - Axios",
-          "DRC Ebola outbreak 'growing exponentially,' UN says - DW.com"
-        ]
-      },
-      {
-        "trend": "healthcare",
-        "market_code": "US",
-        "category": "US Health",
-        "score": 11,
-        "examples": [
-          "The Watch: Uninsured Americans Still Pay Heavily Into U.S. Healthcare - publichealthwatch.org",
-          "The Watch: Uninsured Americans Still Pay Heavily Into U.S. Healthcare - publichealthwatch.org",
-          "At CTA event, federal health officials outline AI ambitions as clinicians debate risks - Fierce Healthcare"
-        ]
-      },
-      {
-        "trend": "mental",
-        "market_code": "US",
-        "category": "Mental Health",
-        "score": 10,
-        "examples": [
-          "Colorado author to host talk about mental health and a 500-mile long hike across the state - VailDaily.com",
-          "Agawam golfers tee off for mental health awareness - WWLP",
-          "Common genetic variants are associated with increased likelihood of latent co-occurring neurodevelopmental and mental health factors among autistic individuals - Nature"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
         "trend": "mental health",
         "market_code": "US",
         "category": "Mental Health",
-        "score": 9,
-        "examples": [
-          "Colorado author to host talk about mental health and a 500-mile long hike across the state - VailDaily.com",
-          "Agawam golfers tee off for mental health awareness - WWLP",
-          "Common genetic variants are associated with increased likelihood of latent co-occurring neurodevelopmental and mental health factors among autistic individuals - Nature"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "virus",
-        "market_code": "US",
-        "category": "Outbreaks",
-        "score": 8,
-        "examples": [
-          "Illinois Department Of Public Health Urges Public To Get Vaccinated Ahead Of Respiratory Virus Season - Effingham Radio",
-          "New virus detected in a tick invasive to the US. Should we be concerned? - NewsNation",
-          "2 more mosquito traps test positive for West Nile virus in Ga. - WRDW"
-        ]
-      },
-      {
-        "trend": "warning",
+        "trend": "medical research",
         "market_code": "US",
         "category": "US Health",
-        "score": 8,
-        "examples": [
-          "Health warning issued for Galveston beaches during red tide - Houston Chronicle",
-          "Health officials provide warning after possibly rabid bat found at New England zoo - Boston 25 News",
-          "‘I still don’t have my MRI’: My health insurer canceled my plan without warning. Is that legal? - MarketWatch"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "cancer",
+        "trend": "drug approval",
         "market_code": "US",
-        "category": "Chronic Disease",
-        "score": 8,
-        "examples": [
-          "Clinical trials: New mRNA cancer vaccine plus Keytruda sharply improves melanoma survival - UCHealth",
-          "The data from Moderna and Merck’s trial have yet to be presented - The Cancer Letter",
-          "mRNA cancer vaccines’ biggest barriers to market - BioPharma Dive"
-        ]
+        "category": "Drug & Treatment News",
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "health officials",
+        "trend": "diet wellness",
         "market_code": "US",
-        "category": "US Health",
-        "score": 7,
-        "examples": [
-          "Michigan health officials say people can resume regular lettuce-eating habits as new cases of cyclosporiasis slow - ABC7 Chicago",
-          "Health officials confirm presence of ricin at Southwest Michigan apartment complex - CBS News",
-          "Health officials provide warning after possibly rabid bat found at New England zoo - Boston 25 News"
-        ]
-      },
-      {
-        "trend": "children",
-        "market_code": "US",
-        "category": "Children Health",
-        "score": 5,
-        "examples": [
-          "Children's Health patient wins annual Volleman's Dairy milk bottle design contest - NBC 5 Dallas-Fort Worth",
-          "T.J. Regional Health to host ‘Capes & Crowns’ Fundraiser for WHAS Crusade for Children - WBKO",
-          "Study highlights disparities in access to new pediatric food allergy treatment, omalizumab - Children's National"
-        ]
-      },
-      {
-        "trend": "clinical",
-        "market_code": "US",
-        "category": "US Health",
-        "score": 5,
-        "examples": [
-          "How Will AI Impact the Future of the Clinical Workforce? - WCM Newsroom",
-          "Clinical trials: New mRNA cancer vaccine plus Keytruda sharply improves melanoma survival - UCHealth",
-          "AI-enabled clinical trials - Nature"
-        ]
+        "category": "Diet & Wellness",
+        "score": 1,
+        "examples": []
       }
     ],
     "United Kingdom": [
       {
-        "trend": "health",
+        "trend": "health alert",
         "market_code": "GB",
         "category": "Europe Health",
-        "score": 56,
-        "examples": [
-          "Hector, Health Inspector - EA",
-          "Ireland – Fórsa health workers’ strike - Counterfire",
-          "Apple makes power play for preventive health with lab tests and longevity tracking - spabusiness.com"
-        ]
-      },
-      {
-        "trend": "medical",
-        "market_code": "GB",
-        "category": "Europe Health",
-        "score": 16,
-        "examples": [
-          "Digital Footprint and Audience Engagement Among Infectious Diseases Medical Educators on TikTok - Cureus",
-          "Medical journals have chosen activism over science - UnHerd",
-          "Lumibird Medical Launches Astral Contactless SLT Platform with Integrated OCT at ESCRS - Eyewire+"
-        ]
-      },
-      {
-        "trend": "mental",
-        "market_code": "GB",
-        "category": "Mental Health",
-        "score": 12,
-        "examples": [
-          "Listening, Learning and Leading: Commonwealth Secretary-General engages young people on mental health - thecommonwealth.org",
-          "BGT choir to tour farmers' mental health message - BBC",
-          "Listening, Learning and Leading: Commonwealth Secretary-General engages young people on mental health - thecommonwealth.org"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
         "trend": "outbreak",
         "market_code": "GB",
         "category": "Outbreaks",
-        "score": 12,
-        "examples": [
-          "Zambia anthrax outbreak kills 60 wild animals, infects 12 people - The Eastleigh Voice",
-          "Largest US outbreak of explosive diarrhoea parasite is over, officials say - BBC",
-          "PHV outbreak in South Africa may affect fish supplies - UA.NEWS"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
         "trend": "mental health",
         "market_code": "GB",
         "category": "Mental Health",
-        "score": 11,
-        "examples": [
-          "Listening, Learning and Leading: Commonwealth Secretary-General engages young people on mental health - thecommonwealth.org",
-          "BGT choir to tour farmers' mental health message - BBC",
-          "Listening, Learning and Leading: Commonwealth Secretary-General engages young people on mental health - thecommonwealth.org"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "healthcare",
+        "trend": "medical research",
         "market_code": "GB",
         "category": "Europe Health",
-        "score": 10,
-        "examples": [
-          "How AI Is Fueling A New Generation Of Healthcare Startups - Forbes",
-          "The Watch: Uninsured Americans Still Pay Heavily Into U.S. Healthcare - Public Health Watch",
-          "Online mental healthcare is here to stay: Here’s how to navigate your options and find the right clinician - Japan Today"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "cancer",
-        "market_code": "GB",
-        "category": "Chronic Disease",
-        "score": 10,
-        "examples": [
-          "Clinical trials: New mRNA cancer vaccine plus Keytruda sharply improves melanoma survival - UCHealth",
-          "mRNA cancer vaccines’ biggest barriers to market - BioPharma Dive",
-          "The data from Moderna and Merck’s trial have yet to be presented - The Cancer Letter"
-        ]
-      },
-      {
-        "trend": "warning",
-        "market_code": "GB",
-        "category": "Europe Health",
-        "score": 8,
-        "examples": [
-          "Isle of Man nitazene warning after drugs seized on island - BBC",
-          "‘Services on their knees’: Glasgow warning over Scotland’s health care crisis - The Herald",
-          "‘I still don’t have my MRI’: My health insurer canceled my plan without warning. Is that legal? - marketwatch.com"
-        ]
-      },
-      {
-        "trend": "pregnancy",
-        "market_code": "GB",
-        "category": "Women Health",
-        "score": 6,
-        "examples": [
-          "Paracetamol use during pregnancy is linked to changed reproductive development in daughters - EurekAlert!",
-          "Study finds paracetamol in pregnancy linked to reproductive changes in girls - AnewZ",
-          "Tylenol use in pregnancy may be linked with uterus, ovary changes in daughters - Reuters"
-        ]
-      },
-      {
-        "trend": "pregnancy linked",
-        "market_code": "GB",
-        "category": "Women Health",
-        "score": 5,
-        "examples": [
-          "Paracetamol use during pregnancy is linked to changed reproductive development in daughters - EurekAlert!",
-          "Study finds paracetamol in pregnancy linked to reproductive changes in girls - AnewZ",
-          "Tylenol use in pregnancy may be linked with uterus, ovary changes in daughters - Reuters"
-        ]
-      },
-      {
-        "trend": "drug",
+        "trend": "drug approval",
         "market_code": "GB",
         "category": "Drug & Treatment News",
-        "score": 4,
-        "examples": [
-          "Drug trafficking behind bars in southern Gran Canaria: Man arrested for smuggling drugs into Juan Grande prison - maspalomas24h.uk",
-          "NEWSLETTER: AstraZeneca drug reduces lung disease flare-ups in late-stage trials - Reuters",
-          "Pancreatic cancer drug may also help fight treatment-resistant lung cancer - Medical News Today"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "disease",
+        "trend": "diet wellness",
         "market_code": "GB",
-        "category": "Europe Health",
-        "score": 4,
-        "examples": [
-          "Africa eyes initiative in disease control - China Daily Global Edition",
-          "Locoregional Surgery for Infected Penile Squamous Cell Carcinoma With Bulky Nodal Disease: A Case Report - Cureus",
-          "NEWSLETTER: AstraZeneca drug reduces lung disease flare-ups in late-stage trials - Reuters"
-        ]
+        "category": "Diet & Wellness",
+        "score": 1,
+        "examples": []
       }
     ],
     "Germany": [
       {
-        "trend": "health",
+        "trend": "health alert",
         "market_code": "DE",
         "category": "Europe Health",
-        "score": 67,
-        "examples": [
-          "Michigan health officials say people can resume regular lettuce-eating habits as new cases of cyclosporiasis slow - ABC7 Chicago",
-          "UNDP warns Russian drone attacks on Chernobyl endangers the health and safety of millions - Jurist.org",
-          "Health fair at Jefferson Elementary offers free medical services - KTTC"
-        ]
-      },
-      {
-        "trend": "medical",
-        "market_code": "DE",
-        "category": "Europe Health",
-        "score": 20,
-        "examples": [
-          "Health fair at Jefferson Elementary offers free medical services - KTTC",
-          "Health fair at Jefferson Elementary offers free medical services - KTTC",
-          "Know Your Rights: Medical Aid in Dying - aclu-il.org"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
         "trend": "outbreak",
         "market_code": "DE",
         "category": "Outbreaks",
-        "score": 13,
-        "examples": [
-          "Measles Outbreak Prompts Warning For Northern IL Travelers: Health Officials - Patch",
-          "CDC declares cyclospora outbreak over - Axios",
-          "DRC Ebola outbreak 'growing exponentially,' UN says - DW.com"
-        ]
-      },
-      {
-        "trend": "healthcare",
-        "market_code": "DE",
-        "category": "Europe Health",
-        "score": 11,
-        "examples": [
-          "The Watch: Uninsured Americans Still Pay Heavily Into U.S. Healthcare - publichealthwatch.org",
-          "The Watch: Uninsured Americans Still Pay Heavily Into U.S. Healthcare - publichealthwatch.org",
-          "At CTA event, federal health officials outline AI ambitions as clinicians debate risks - Fierce Healthcare"
-        ]
-      },
-      {
-        "trend": "mental",
-        "market_code": "DE",
-        "category": "Mental Health",
-        "score": 10,
-        "examples": [
-          "Colorado author to host talk about mental health and a 500-mile long hike across the state - VailDaily.com",
-          "Agawam golfers tee off for mental health awareness - WWLP",
-          "Common genetic variants are associated with increased likelihood of latent co-occurring neurodevelopmental and mental health factors among autistic individuals - Nature"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
         "trend": "mental health",
         "market_code": "DE",
         "category": "Mental Health",
-        "score": 9,
-        "examples": [
-          "Colorado author to host talk about mental health and a 500-mile long hike across the state - VailDaily.com",
-          "Agawam golfers tee off for mental health awareness - WWLP",
-          "Common genetic variants are associated with increased likelihood of latent co-occurring neurodevelopmental and mental health factors among autistic individuals - Nature"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "virus",
-        "market_code": "DE",
-        "category": "Outbreaks",
-        "score": 8,
-        "examples": [
-          "Illinois Department Of Public Health Urges Public To Get Vaccinated Ahead Of Respiratory Virus Season - Effingham Radio",
-          "New virus detected in a tick invasive to the US. Should we be concerned? - NewsNation",
-          "2 more mosquito traps test positive for West Nile virus in Ga. - WRDW"
-        ]
-      },
-      {
-        "trend": "warning",
+        "trend": "medical research",
         "market_code": "DE",
         "category": "Europe Health",
-        "score": 8,
-        "examples": [
-          "Health warning issued for Galveston beaches during red tide - Houston Chronicle",
-          "Health officials provide warning after possibly rabid bat found at New England zoo - Boston 25 News",
-          "‘I still don’t have my MRI’: My health insurer canceled my plan without warning. Is that legal? - MarketWatch"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "cancer",
+        "trend": "drug approval",
         "market_code": "DE",
-        "category": "Chronic Disease",
-        "score": 8,
-        "examples": [
-          "Clinical trials: New mRNA cancer vaccine plus Keytruda sharply improves melanoma survival - UCHealth",
-          "The data from Moderna and Merck’s trial have yet to be presented - The Cancer Letter",
-          "mRNA cancer vaccines’ biggest barriers to market - BioPharma Dive"
-        ]
+        "category": "Drug & Treatment News",
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "health officials",
+        "trend": "diet wellness",
         "market_code": "DE",
-        "category": "Europe Health",
-        "score": 7,
-        "examples": [
-          "Michigan health officials say people can resume regular lettuce-eating habits as new cases of cyclosporiasis slow - ABC7 Chicago",
-          "Health officials confirm presence of ricin at Southwest Michigan apartment complex - CBS News",
-          "Health officials provide warning after possibly rabid bat found at New England zoo - Boston 25 News"
-        ]
-      },
-      {
-        "trend": "children",
-        "market_code": "DE",
-        "category": "Children Health",
-        "score": 5,
-        "examples": [
-          "Children's Health patient wins annual Volleman's Dairy milk bottle design contest - NBC 5 Dallas-Fort Worth",
-          "T.J. Regional Health to host ‘Capes & Crowns’ Fundraiser for WHAS Crusade for Children - WBKO",
-          "Study highlights disparities in access to new pediatric food allergy treatment, omalizumab - Children's National"
-        ]
-      },
-      {
-        "trend": "clinical",
-        "market_code": "DE",
-        "category": "Europe Health",
-        "score": 5,
-        "examples": [
-          "How Will AI Impact the Future of the Clinical Workforce? - WCM Newsroom",
-          "Clinical trials: New mRNA cancer vaccine plus Keytruda sharply improves melanoma survival - UCHealth",
-          "AI-enabled clinical trials - Nature"
-        ]
+        "category": "Diet & Wellness",
+        "score": 1,
+        "examples": []
       }
     ],
     "France": [
       {
-        "trend": "health",
+        "trend": "health alert",
         "market_code": "FR",
         "category": "Europe Health",
-        "score": 67,
-        "examples": [
-          "Michigan health officials say people can resume regular lettuce-eating habits as new cases of cyclosporiasis slow - ABC7 Chicago",
-          "UNDP warns Russian drone attacks on Chernobyl endangers the health and safety of millions - Jurist.org",
-          "Health fair at Jefferson Elementary offers free medical services - KTTC"
-        ]
-      },
-      {
-        "trend": "medical",
-        "market_code": "FR",
-        "category": "Europe Health",
-        "score": 20,
-        "examples": [
-          "Health fair at Jefferson Elementary offers free medical services - KTTC",
-          "Health fair at Jefferson Elementary offers free medical services - KTTC",
-          "Know Your Rights: Medical Aid in Dying - aclu-il.org"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
         "trend": "outbreak",
         "market_code": "FR",
         "category": "Outbreaks",
-        "score": 13,
-        "examples": [
-          "Measles Outbreak Prompts Warning For Northern IL Travelers: Health Officials - Patch",
-          "CDC declares cyclospora outbreak over - Axios",
-          "DRC Ebola outbreak 'growing exponentially,' UN says - DW.com"
-        ]
-      },
-      {
-        "trend": "healthcare",
-        "market_code": "FR",
-        "category": "Europe Health",
-        "score": 11,
-        "examples": [
-          "The Watch: Uninsured Americans Still Pay Heavily Into U.S. Healthcare - publichealthwatch.org",
-          "The Watch: Uninsured Americans Still Pay Heavily Into U.S. Healthcare - publichealthwatch.org",
-          "At CTA event, federal health officials outline AI ambitions as clinicians debate risks - Fierce Healthcare"
-        ]
-      },
-      {
-        "trend": "mental",
-        "market_code": "FR",
-        "category": "Mental Health",
-        "score": 10,
-        "examples": [
-          "Colorado author to host talk about mental health and a 500-mile long hike across the state - VailDaily.com",
-          "Agawam golfers tee off for mental health awareness - WWLP",
-          "Common genetic variants are associated with increased likelihood of latent co-occurring neurodevelopmental and mental health factors among autistic individuals - Nature"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
         "trend": "mental health",
         "market_code": "FR",
         "category": "Mental Health",
-        "score": 9,
-        "examples": [
-          "Colorado author to host talk about mental health and a 500-mile long hike across the state - VailDaily.com",
-          "Agawam golfers tee off for mental health awareness - WWLP",
-          "Common genetic variants are associated with increased likelihood of latent co-occurring neurodevelopmental and mental health factors among autistic individuals - Nature"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "virus",
-        "market_code": "FR",
-        "category": "Outbreaks",
-        "score": 8,
-        "examples": [
-          "Illinois Department Of Public Health Urges Public To Get Vaccinated Ahead Of Respiratory Virus Season - Effingham Radio",
-          "New virus detected in a tick invasive to the US. Should we be concerned? - NewsNation",
-          "2 more mosquito traps test positive for West Nile virus in Ga. - WRDW"
-        ]
-      },
-      {
-        "trend": "warning",
+        "trend": "medical research",
         "market_code": "FR",
         "category": "Europe Health",
-        "score": 8,
-        "examples": [
-          "Health warning issued for Galveston beaches during red tide - Houston Chronicle",
-          "Health officials provide warning after possibly rabid bat found at New England zoo - Boston 25 News",
-          "‘I still don’t have my MRI’: My health insurer canceled my plan without warning. Is that legal? - MarketWatch"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "cancer",
+        "trend": "drug approval",
         "market_code": "FR",
-        "category": "Chronic Disease",
-        "score": 8,
-        "examples": [
-          "Clinical trials: New mRNA cancer vaccine plus Keytruda sharply improves melanoma survival - UCHealth",
-          "The data from Moderna and Merck’s trial have yet to be presented - The Cancer Letter",
-          "mRNA cancer vaccines’ biggest barriers to market - BioPharma Dive"
-        ]
+        "category": "Drug & Treatment News",
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "health officials",
+        "trend": "diet wellness",
         "market_code": "FR",
-        "category": "Europe Health",
-        "score": 7,
-        "examples": [
-          "Michigan health officials say people can resume regular lettuce-eating habits as new cases of cyclosporiasis slow - ABC7 Chicago",
-          "Health officials confirm presence of ricin at Southwest Michigan apartment complex - CBS News",
-          "Health officials provide warning after possibly rabid bat found at New England zoo - Boston 25 News"
-        ]
-      },
-      {
-        "trend": "children",
-        "market_code": "FR",
-        "category": "Children Health",
-        "score": 5,
-        "examples": [
-          "Children's Health patient wins annual Volleman's Dairy milk bottle design contest - NBC 5 Dallas-Fort Worth",
-          "T.J. Regional Health to host ‘Capes & Crowns’ Fundraiser for WHAS Crusade for Children - WBKO",
-          "Study highlights disparities in access to new pediatric food allergy treatment, omalizumab - Children's National"
-        ]
-      },
-      {
-        "trend": "clinical",
-        "market_code": "FR",
-        "category": "Europe Health",
-        "score": 5,
-        "examples": [
-          "How Will AI Impact the Future of the Clinical Workforce? - WCM Newsroom",
-          "Clinical trials: New mRNA cancer vaccine plus Keytruda sharply improves melanoma survival - UCHealth",
-          "AI-enabled clinical trials - Nature"
-        ]
+        "category": "Diet & Wellness",
+        "score": 1,
+        "examples": []
       }
     ],
     "Italy": [
       {
-        "trend": "health",
+        "trend": "health alert",
         "market_code": "IT",
         "category": "Europe Health",
-        "score": 67,
-        "examples": [
-          "Michigan health officials say people can resume regular lettuce-eating habits as new cases of cyclosporiasis slow - ABC7 Chicago",
-          "UNDP warns Russian drone attacks on Chernobyl endangers the health and safety of millions - Jurist.org",
-          "Health fair at Jefferson Elementary offers free medical services - KTTC"
-        ]
-      },
-      {
-        "trend": "medical",
-        "market_code": "IT",
-        "category": "Europe Health",
-        "score": 20,
-        "examples": [
-          "Health fair at Jefferson Elementary offers free medical services - KTTC",
-          "Health fair at Jefferson Elementary offers free medical services - KTTC",
-          "Know Your Rights: Medical Aid in Dying - aclu-il.org"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
         "trend": "outbreak",
         "market_code": "IT",
         "category": "Outbreaks",
-        "score": 13,
-        "examples": [
-          "Measles Outbreak Prompts Warning For Northern IL Travelers: Health Officials - Patch",
-          "CDC declares cyclospora outbreak over - Axios",
-          "DRC Ebola outbreak 'growing exponentially,' UN says - DW.com"
-        ]
-      },
-      {
-        "trend": "healthcare",
-        "market_code": "IT",
-        "category": "Europe Health",
-        "score": 11,
-        "examples": [
-          "The Watch: Uninsured Americans Still Pay Heavily Into U.S. Healthcare - publichealthwatch.org",
-          "The Watch: Uninsured Americans Still Pay Heavily Into U.S. Healthcare - publichealthwatch.org",
-          "At CTA event, federal health officials outline AI ambitions as clinicians debate risks - Fierce Healthcare"
-        ]
-      },
-      {
-        "trend": "mental",
-        "market_code": "IT",
-        "category": "Mental Health",
-        "score": 10,
-        "examples": [
-          "Colorado author to host talk about mental health and a 500-mile long hike across the state - VailDaily.com",
-          "Agawam golfers tee off for mental health awareness - WWLP",
-          "Common genetic variants are associated with increased likelihood of latent co-occurring neurodevelopmental and mental health factors among autistic individuals - Nature"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
         "trend": "mental health",
         "market_code": "IT",
         "category": "Mental Health",
-        "score": 9,
-        "examples": [
-          "Colorado author to host talk about mental health and a 500-mile long hike across the state - VailDaily.com",
-          "Agawam golfers tee off for mental health awareness - WWLP",
-          "Common genetic variants are associated with increased likelihood of latent co-occurring neurodevelopmental and mental health factors among autistic individuals - Nature"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "virus",
-        "market_code": "IT",
-        "category": "Outbreaks",
-        "score": 8,
-        "examples": [
-          "Illinois Department Of Public Health Urges Public To Get Vaccinated Ahead Of Respiratory Virus Season - Effingham Radio",
-          "New virus detected in a tick invasive to the US. Should we be concerned? - NewsNation",
-          "2 more mosquito traps test positive for West Nile virus in Ga. - WRDW"
-        ]
-      },
-      {
-        "trend": "warning",
+        "trend": "medical research",
         "market_code": "IT",
         "category": "Europe Health",
-        "score": 8,
-        "examples": [
-          "Health warning issued for Galveston beaches during red tide - Houston Chronicle",
-          "Health officials provide warning after possibly rabid bat found at New England zoo - Boston 25 News",
-          "‘I still don’t have my MRI’: My health insurer canceled my plan without warning. Is that legal? - MarketWatch"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "cancer",
+        "trend": "drug approval",
         "market_code": "IT",
-        "category": "Chronic Disease",
-        "score": 8,
-        "examples": [
-          "Clinical trials: New mRNA cancer vaccine plus Keytruda sharply improves melanoma survival - UCHealth",
-          "The data from Moderna and Merck’s trial have yet to be presented - The Cancer Letter",
-          "mRNA cancer vaccines’ biggest barriers to market - BioPharma Dive"
-        ]
+        "category": "Drug & Treatment News",
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "health officials",
+        "trend": "diet wellness",
         "market_code": "IT",
-        "category": "Europe Health",
-        "score": 7,
-        "examples": [
-          "Michigan health officials say people can resume regular lettuce-eating habits as new cases of cyclosporiasis slow - ABC7 Chicago",
-          "Health officials confirm presence of ricin at Southwest Michigan apartment complex - CBS News",
-          "Health officials provide warning after possibly rabid bat found at New England zoo - Boston 25 News"
-        ]
-      },
-      {
-        "trend": "children",
-        "market_code": "IT",
-        "category": "Children Health",
-        "score": 5,
-        "examples": [
-          "Children's Health patient wins annual Volleman's Dairy milk bottle design contest - NBC 5 Dallas-Fort Worth",
-          "T.J. Regional Health to host ‘Capes & Crowns’ Fundraiser for WHAS Crusade for Children - WBKO",
-          "Study highlights disparities in access to new pediatric food allergy treatment, omalizumab - Children's National"
-        ]
-      },
-      {
-        "trend": "clinical",
-        "market_code": "IT",
-        "category": "Europe Health",
-        "score": 5,
-        "examples": [
-          "How Will AI Impact the Future of the Clinical Workforce? - WCM Newsroom",
-          "Clinical trials: New mRNA cancer vaccine plus Keytruda sharply improves melanoma survival - UCHealth",
-          "AI-enabled clinical trials - Nature"
-        ]
+        "category": "Diet & Wellness",
+        "score": 1,
+        "examples": []
       }
     ],
     "Spain": [
       {
-        "trend": "health",
+        "trend": "health alert",
         "market_code": "ES",
         "category": "Europe Health",
-        "score": 67,
-        "examples": [
-          "Michigan health officials say people can resume regular lettuce-eating habits as new cases of cyclosporiasis slow - ABC7 Chicago",
-          "UNDP warns Russian drone attacks on Chernobyl endangers the health and safety of millions - Jurist.org",
-          "Health fair at Jefferson Elementary offers free medical services - KTTC"
-        ]
-      },
-      {
-        "trend": "medical",
-        "market_code": "ES",
-        "category": "Europe Health",
-        "score": 20,
-        "examples": [
-          "Health fair at Jefferson Elementary offers free medical services - KTTC",
-          "Health fair at Jefferson Elementary offers free medical services - KTTC",
-          "Know Your Rights: Medical Aid in Dying - aclu-il.org"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
         "trend": "outbreak",
         "market_code": "ES",
         "category": "Outbreaks",
-        "score": 13,
-        "examples": [
-          "Measles Outbreak Prompts Warning For Northern IL Travelers: Health Officials - Patch",
-          "CDC declares cyclospora outbreak over - Axios",
-          "DRC Ebola outbreak 'growing exponentially,' UN says - DW.com"
-        ]
-      },
-      {
-        "trend": "healthcare",
-        "market_code": "ES",
-        "category": "Europe Health",
-        "score": 11,
-        "examples": [
-          "The Watch: Uninsured Americans Still Pay Heavily Into U.S. Healthcare - publichealthwatch.org",
-          "The Watch: Uninsured Americans Still Pay Heavily Into U.S. Healthcare - publichealthwatch.org",
-          "At CTA event, federal health officials outline AI ambitions as clinicians debate risks - Fierce Healthcare"
-        ]
-      },
-      {
-        "trend": "mental",
-        "market_code": "ES",
-        "category": "Mental Health",
-        "score": 10,
-        "examples": [
-          "Colorado author to host talk about mental health and a 500-mile long hike across the state - VailDaily.com",
-          "Agawam golfers tee off for mental health awareness - WWLP",
-          "Common genetic variants are associated with increased likelihood of latent co-occurring neurodevelopmental and mental health factors among autistic individuals - Nature"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
         "trend": "mental health",
         "market_code": "ES",
         "category": "Mental Health",
-        "score": 9,
-        "examples": [
-          "Colorado author to host talk about mental health and a 500-mile long hike across the state - VailDaily.com",
-          "Agawam golfers tee off for mental health awareness - WWLP",
-          "Common genetic variants are associated with increased likelihood of latent co-occurring neurodevelopmental and mental health factors among autistic individuals - Nature"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "virus",
-        "market_code": "ES",
-        "category": "Outbreaks",
-        "score": 8,
-        "examples": [
-          "Illinois Department Of Public Health Urges Public To Get Vaccinated Ahead Of Respiratory Virus Season - Effingham Radio",
-          "New virus detected in a tick invasive to the US. Should we be concerned? - NewsNation",
-          "2 more mosquito traps test positive for West Nile virus in Ga. - WRDW"
-        ]
-      },
-      {
-        "trend": "warning",
+        "trend": "medical research",
         "market_code": "ES",
         "category": "Europe Health",
-        "score": 8,
-        "examples": [
-          "Health warning issued for Galveston beaches during red tide - Houston Chronicle",
-          "Health officials provide warning after possibly rabid bat found at New England zoo - Boston 25 News",
-          "‘I still don’t have my MRI’: My health insurer canceled my plan without warning. Is that legal? - MarketWatch"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "cancer",
+        "trend": "drug approval",
         "market_code": "ES",
-        "category": "Chronic Disease",
-        "score": 8,
-        "examples": [
-          "Clinical trials: New mRNA cancer vaccine plus Keytruda sharply improves melanoma survival - UCHealth",
-          "The data from Moderna and Merck’s trial have yet to be presented - The Cancer Letter",
-          "mRNA cancer vaccines’ biggest barriers to market - BioPharma Dive"
-        ]
+        "category": "Drug & Treatment News",
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "health officials",
+        "trend": "diet wellness",
         "market_code": "ES",
-        "category": "Europe Health",
-        "score": 7,
-        "examples": [
-          "Michigan health officials say people can resume regular lettuce-eating habits as new cases of cyclosporiasis slow - ABC7 Chicago",
-          "Health officials confirm presence of ricin at Southwest Michigan apartment complex - CBS News",
-          "Health officials provide warning after possibly rabid bat found at New England zoo - Boston 25 News"
-        ]
-      },
-      {
-        "trend": "children",
-        "market_code": "ES",
-        "category": "Children Health",
-        "score": 5,
-        "examples": [
-          "Children's Health patient wins annual Volleman's Dairy milk bottle design contest - NBC 5 Dallas-Fort Worth",
-          "T.J. Regional Health to host ‘Capes & Crowns’ Fundraiser for WHAS Crusade for Children - WBKO",
-          "Study highlights disparities in access to new pediatric food allergy treatment, omalizumab - Children's National"
-        ]
-      },
-      {
-        "trend": "clinical",
-        "market_code": "ES",
-        "category": "Europe Health",
-        "score": 5,
-        "examples": [
-          "How Will AI Impact the Future of the Clinical Workforce? - WCM Newsroom",
-          "Clinical trials: New mRNA cancer vaccine plus Keytruda sharply improves melanoma survival - UCHealth",
-          "AI-enabled clinical trials - Nature"
-        ]
+        "category": "Diet & Wellness",
+        "score": 1,
+        "examples": []
       }
     ],
     "Sweden": [
       {
-        "trend": "health",
+        "trend": "health alert",
         "market_code": "SE",
         "category": "Europe Health",
-        "score": 67,
-        "examples": [
-          "Michigan health officials say people can resume regular lettuce-eating habits as new cases of cyclosporiasis slow - ABC7 Chicago",
-          "UNDP warns Russian drone attacks on Chernobyl endangers the health and safety of millions - Jurist.org",
-          "Health fair at Jefferson Elementary offers free medical services - KTTC"
-        ]
-      },
-      {
-        "trend": "medical",
-        "market_code": "SE",
-        "category": "Europe Health",
-        "score": 20,
-        "examples": [
-          "Health fair at Jefferson Elementary offers free medical services - KTTC",
-          "Health fair at Jefferson Elementary offers free medical services - KTTC",
-          "Know Your Rights: Medical Aid in Dying - aclu-il.org"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
         "trend": "outbreak",
         "market_code": "SE",
         "category": "Outbreaks",
-        "score": 13,
-        "examples": [
-          "Measles Outbreak Prompts Warning For Northern IL Travelers: Health Officials - Patch",
-          "CDC declares cyclospora outbreak over - Axios",
-          "DRC Ebola outbreak 'growing exponentially,' UN says - DW.com"
-        ]
-      },
-      {
-        "trend": "healthcare",
-        "market_code": "SE",
-        "category": "Europe Health",
-        "score": 11,
-        "examples": [
-          "The Watch: Uninsured Americans Still Pay Heavily Into U.S. Healthcare - publichealthwatch.org",
-          "The Watch: Uninsured Americans Still Pay Heavily Into U.S. Healthcare - publichealthwatch.org",
-          "At CTA event, federal health officials outline AI ambitions as clinicians debate risks - Fierce Healthcare"
-        ]
-      },
-      {
-        "trend": "mental",
-        "market_code": "SE",
-        "category": "Mental Health",
-        "score": 10,
-        "examples": [
-          "Colorado author to host talk about mental health and a 500-mile long hike across the state - VailDaily.com",
-          "Agawam golfers tee off for mental health awareness - WWLP",
-          "Common genetic variants are associated with increased likelihood of latent co-occurring neurodevelopmental and mental health factors among autistic individuals - Nature"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
         "trend": "mental health",
         "market_code": "SE",
         "category": "Mental Health",
-        "score": 9,
-        "examples": [
-          "Colorado author to host talk about mental health and a 500-mile long hike across the state - VailDaily.com",
-          "Agawam golfers tee off for mental health awareness - WWLP",
-          "Common genetic variants are associated with increased likelihood of latent co-occurring neurodevelopmental and mental health factors among autistic individuals - Nature"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "virus",
-        "market_code": "SE",
-        "category": "Outbreaks",
-        "score": 8,
-        "examples": [
-          "Illinois Department Of Public Health Urges Public To Get Vaccinated Ahead Of Respiratory Virus Season - Effingham Radio",
-          "New virus detected in a tick invasive to the US. Should we be concerned? - NewsNation",
-          "2 more mosquito traps test positive for West Nile virus in Ga. - WRDW"
-        ]
-      },
-      {
-        "trend": "warning",
+        "trend": "medical research",
         "market_code": "SE",
         "category": "Europe Health",
-        "score": 8,
-        "examples": [
-          "Health warning issued for Galveston beaches during red tide - Houston Chronicle",
-          "Health officials provide warning after possibly rabid bat found at New England zoo - Boston 25 News",
-          "‘I still don’t have my MRI’: My health insurer canceled my plan without warning. Is that legal? - MarketWatch"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "cancer",
+        "trend": "drug approval",
         "market_code": "SE",
-        "category": "Chronic Disease",
-        "score": 8,
-        "examples": [
-          "Clinical trials: New mRNA cancer vaccine plus Keytruda sharply improves melanoma survival - UCHealth",
-          "The data from Moderna and Merck’s trial have yet to be presented - The Cancer Letter",
-          "mRNA cancer vaccines’ biggest barriers to market - BioPharma Dive"
-        ]
+        "category": "Drug & Treatment News",
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "health officials",
+        "trend": "diet wellness",
         "market_code": "SE",
-        "category": "Europe Health",
-        "score": 7,
-        "examples": [
-          "Michigan health officials say people can resume regular lettuce-eating habits as new cases of cyclosporiasis slow - ABC7 Chicago",
-          "Health officials confirm presence of ricin at Southwest Michigan apartment complex - CBS News",
-          "Health officials provide warning after possibly rabid bat found at New England zoo - Boston 25 News"
-        ]
-      },
-      {
-        "trend": "children",
-        "market_code": "SE",
-        "category": "Children Health",
-        "score": 5,
-        "examples": [
-          "Children's Health patient wins annual Volleman's Dairy milk bottle design contest - NBC 5 Dallas-Fort Worth",
-          "T.J. Regional Health to host ‘Capes & Crowns’ Fundraiser for WHAS Crusade for Children - WBKO",
-          "Study highlights disparities in access to new pediatric food allergy treatment, omalizumab - Children's National"
-        ]
-      },
-      {
-        "trend": "clinical",
-        "market_code": "SE",
-        "category": "Europe Health",
-        "score": 5,
-        "examples": [
-          "How Will AI Impact the Future of the Clinical Workforce? - WCM Newsroom",
-          "Clinical trials: New mRNA cancer vaccine plus Keytruda sharply improves melanoma survival - UCHealth",
-          "AI-enabled clinical trials - Nature"
-        ]
+        "category": "Diet & Wellness",
+        "score": 1,
+        "examples": []
       }
     ],
     "Netherlands": [
       {
-        "trend": "health",
+        "trend": "health alert",
         "market_code": "NL",
         "category": "Europe Health",
-        "score": 67,
-        "examples": [
-          "Michigan health officials say people can resume regular lettuce-eating habits as new cases of cyclosporiasis slow - ABC7 Chicago",
-          "UNDP warns Russian drone attacks on Chernobyl endangers the health and safety of millions - Jurist.org",
-          "Health fair at Jefferson Elementary offers free medical services - KTTC"
-        ]
-      },
-      {
-        "trend": "medical",
-        "market_code": "NL",
-        "category": "Europe Health",
-        "score": 20,
-        "examples": [
-          "Health fair at Jefferson Elementary offers free medical services - KTTC",
-          "Health fair at Jefferson Elementary offers free medical services - KTTC",
-          "Know Your Rights: Medical Aid in Dying - aclu-il.org"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
         "trend": "outbreak",
         "market_code": "NL",
         "category": "Outbreaks",
-        "score": 13,
-        "examples": [
-          "Measles Outbreak Prompts Warning For Northern IL Travelers: Health Officials - Patch",
-          "CDC declares cyclospora outbreak over - Axios",
-          "DRC Ebola outbreak 'growing exponentially,' UN says - DW.com"
-        ]
-      },
-      {
-        "trend": "healthcare",
-        "market_code": "NL",
-        "category": "Europe Health",
-        "score": 11,
-        "examples": [
-          "The Watch: Uninsured Americans Still Pay Heavily Into U.S. Healthcare - publichealthwatch.org",
-          "The Watch: Uninsured Americans Still Pay Heavily Into U.S. Healthcare - publichealthwatch.org",
-          "At CTA event, federal health officials outline AI ambitions as clinicians debate risks - Fierce Healthcare"
-        ]
-      },
-      {
-        "trend": "mental",
-        "market_code": "NL",
-        "category": "Mental Health",
-        "score": 10,
-        "examples": [
-          "Colorado author to host talk about mental health and a 500-mile long hike across the state - VailDaily.com",
-          "Agawam golfers tee off for mental health awareness - WWLP",
-          "Common genetic variants are associated with increased likelihood of latent co-occurring neurodevelopmental and mental health factors among autistic individuals - Nature"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
         "trend": "mental health",
         "market_code": "NL",
         "category": "Mental Health",
-        "score": 9,
-        "examples": [
-          "Colorado author to host talk about mental health and a 500-mile long hike across the state - VailDaily.com",
-          "Agawam golfers tee off for mental health awareness - WWLP",
-          "Common genetic variants are associated with increased likelihood of latent co-occurring neurodevelopmental and mental health factors among autistic individuals - Nature"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "virus",
-        "market_code": "NL",
-        "category": "Outbreaks",
-        "score": 8,
-        "examples": [
-          "Illinois Department Of Public Health Urges Public To Get Vaccinated Ahead Of Respiratory Virus Season - Effingham Radio",
-          "New virus detected in a tick invasive to the US. Should we be concerned? - NewsNation",
-          "2 more mosquito traps test positive for West Nile virus in Ga. - WRDW"
-        ]
-      },
-      {
-        "trend": "warning",
+        "trend": "medical research",
         "market_code": "NL",
         "category": "Europe Health",
-        "score": 8,
-        "examples": [
-          "Health warning issued for Galveston beaches during red tide - Houston Chronicle",
-          "Health officials provide warning after possibly rabid bat found at New England zoo - Boston 25 News",
-          "‘I still don’t have my MRI’: My health insurer canceled my plan without warning. Is that legal? - MarketWatch"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "cancer",
+        "trend": "drug approval",
         "market_code": "NL",
-        "category": "Chronic Disease",
-        "score": 8,
-        "examples": [
-          "Clinical trials: New mRNA cancer vaccine plus Keytruda sharply improves melanoma survival - UCHealth",
-          "The data from Moderna and Merck’s trial have yet to be presented - The Cancer Letter",
-          "mRNA cancer vaccines’ biggest barriers to market - BioPharma Dive"
-        ]
+        "category": "Drug & Treatment News",
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "health officials",
+        "trend": "diet wellness",
         "market_code": "NL",
-        "category": "Europe Health",
-        "score": 7,
-        "examples": [
-          "Michigan health officials say people can resume regular lettuce-eating habits as new cases of cyclosporiasis slow - ABC7 Chicago",
-          "Health officials confirm presence of ricin at Southwest Michigan apartment complex - CBS News",
-          "Health officials provide warning after possibly rabid bat found at New England zoo - Boston 25 News"
-        ]
-      },
-      {
-        "trend": "children",
-        "market_code": "NL",
-        "category": "Children Health",
-        "score": 5,
-        "examples": [
-          "Children's Health patient wins annual Volleman's Dairy milk bottle design contest - NBC 5 Dallas-Fort Worth",
-          "T.J. Regional Health to host ‘Capes & Crowns’ Fundraiser for WHAS Crusade for Children - WBKO",
-          "Study highlights disparities in access to new pediatric food allergy treatment, omalizumab - Children's National"
-        ]
-      },
-      {
-        "trend": "clinical",
-        "market_code": "NL",
-        "category": "Europe Health",
-        "score": 5,
-        "examples": [
-          "How Will AI Impact the Future of the Clinical Workforce? - WCM Newsroom",
-          "Clinical trials: New mRNA cancer vaccine plus Keytruda sharply improves melanoma survival - UCHealth",
-          "AI-enabled clinical trials - Nature"
-        ]
+        "category": "Diet & Wellness",
+        "score": 1,
+        "examples": []
       }
     ],
     "Finland": [
       {
-        "trend": "health",
+        "trend": "health alert",
         "market_code": "FI",
         "category": "Europe Health",
-        "score": 67,
-        "examples": [
-          "Michigan health officials say people can resume regular lettuce-eating habits as new cases of cyclosporiasis slow - ABC7 Chicago",
-          "UNDP warns Russian drone attacks on Chernobyl endangers the health and safety of millions - Jurist.org",
-          "Health fair at Jefferson Elementary offers free medical services - KTTC"
-        ]
-      },
-      {
-        "trend": "medical",
-        "market_code": "FI",
-        "category": "Europe Health",
-        "score": 20,
-        "examples": [
-          "Health fair at Jefferson Elementary offers free medical services - KTTC",
-          "Health fair at Jefferson Elementary offers free medical services - KTTC",
-          "Know Your Rights: Medical Aid in Dying - aclu-il.org"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
         "trend": "outbreak",
         "market_code": "FI",
         "category": "Outbreaks",
-        "score": 13,
-        "examples": [
-          "Measles Outbreak Prompts Warning For Northern IL Travelers: Health Officials - Patch",
-          "CDC declares cyclospora outbreak over - Axios",
-          "DRC Ebola outbreak 'growing exponentially,' UN says - DW.com"
-        ]
-      },
-      {
-        "trend": "healthcare",
-        "market_code": "FI",
-        "category": "Europe Health",
-        "score": 11,
-        "examples": [
-          "The Watch: Uninsured Americans Still Pay Heavily Into U.S. Healthcare - publichealthwatch.org",
-          "The Watch: Uninsured Americans Still Pay Heavily Into U.S. Healthcare - publichealthwatch.org",
-          "At CTA event, federal health officials outline AI ambitions as clinicians debate risks - Fierce Healthcare"
-        ]
-      },
-      {
-        "trend": "mental",
-        "market_code": "FI",
-        "category": "Mental Health",
-        "score": 10,
-        "examples": [
-          "Colorado author to host talk about mental health and a 500-mile long hike across the state - VailDaily.com",
-          "Agawam golfers tee off for mental health awareness - WWLP",
-          "Common genetic variants are associated with increased likelihood of latent co-occurring neurodevelopmental and mental health factors among autistic individuals - Nature"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
         "trend": "mental health",
         "market_code": "FI",
         "category": "Mental Health",
-        "score": 9,
-        "examples": [
-          "Colorado author to host talk about mental health and a 500-mile long hike across the state - VailDaily.com",
-          "Agawam golfers tee off for mental health awareness - WWLP",
-          "Common genetic variants are associated with increased likelihood of latent co-occurring neurodevelopmental and mental health factors among autistic individuals - Nature"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "virus",
-        "market_code": "FI",
-        "category": "Outbreaks",
-        "score": 8,
-        "examples": [
-          "Illinois Department Of Public Health Urges Public To Get Vaccinated Ahead Of Respiratory Virus Season - Effingham Radio",
-          "New virus detected in a tick invasive to the US. Should we be concerned? - NewsNation",
-          "2 more mosquito traps test positive for West Nile virus in Ga. - WRDW"
-        ]
-      },
-      {
-        "trend": "warning",
+        "trend": "medical research",
         "market_code": "FI",
         "category": "Europe Health",
-        "score": 8,
-        "examples": [
-          "Health warning issued for Galveston beaches during red tide - Houston Chronicle",
-          "Health officials provide warning after possibly rabid bat found at New England zoo - Boston 25 News",
-          "‘I still don’t have my MRI’: My health insurer canceled my plan without warning. Is that legal? - MarketWatch"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "cancer",
+        "trend": "drug approval",
         "market_code": "FI",
-        "category": "Chronic Disease",
-        "score": 8,
-        "examples": [
-          "Clinical trials: New mRNA cancer vaccine plus Keytruda sharply improves melanoma survival - UCHealth",
-          "The data from Moderna and Merck’s trial have yet to be presented - The Cancer Letter",
-          "mRNA cancer vaccines’ biggest barriers to market - BioPharma Dive"
-        ]
+        "category": "Drug & Treatment News",
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "health officials",
+        "trend": "diet wellness",
         "market_code": "FI",
-        "category": "Europe Health",
-        "score": 7,
-        "examples": [
-          "Michigan health officials say people can resume regular lettuce-eating habits as new cases of cyclosporiasis slow - ABC7 Chicago",
-          "Health officials confirm presence of ricin at Southwest Michigan apartment complex - CBS News",
-          "Health officials provide warning after possibly rabid bat found at New England zoo - Boston 25 News"
-        ]
-      },
-      {
-        "trend": "children",
-        "market_code": "FI",
-        "category": "Children Health",
-        "score": 5,
-        "examples": [
-          "Children's Health patient wins annual Volleman's Dairy milk bottle design contest - NBC 5 Dallas-Fort Worth",
-          "T.J. Regional Health to host ‘Capes & Crowns’ Fundraiser for WHAS Crusade for Children - WBKO",
-          "Study highlights disparities in access to new pediatric food allergy treatment, omalizumab - Children's National"
-        ]
-      },
-      {
-        "trend": "clinical",
-        "market_code": "FI",
-        "category": "Europe Health",
-        "score": 5,
-        "examples": [
-          "How Will AI Impact the Future of the Clinical Workforce? - WCM Newsroom",
-          "Clinical trials: New mRNA cancer vaccine plus Keytruda sharply improves melanoma survival - UCHealth",
-          "AI-enabled clinical trials - Nature"
-        ]
+        "category": "Diet & Wellness",
+        "score": 1,
+        "examples": []
       }
     ],
     "Norway": [
       {
-        "trend": "health",
+        "trend": "health alert",
         "market_code": "NO",
         "category": "Europe Health",
-        "score": 67,
-        "examples": [
-          "Michigan health officials say people can resume regular lettuce-eating habits as new cases of cyclosporiasis slow - ABC7 Chicago",
-          "UNDP warns Russian drone attacks on Chernobyl endangers the health and safety of millions - Jurist.org",
-          "Health fair at Jefferson Elementary offers free medical services - KTTC"
-        ]
-      },
-      {
-        "trend": "medical",
-        "market_code": "NO",
-        "category": "Europe Health",
-        "score": 20,
-        "examples": [
-          "Health fair at Jefferson Elementary offers free medical services - KTTC",
-          "Health fair at Jefferson Elementary offers free medical services - KTTC",
-          "Know Your Rights: Medical Aid in Dying - aclu-il.org"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
         "trend": "outbreak",
         "market_code": "NO",
         "category": "Outbreaks",
-        "score": 13,
-        "examples": [
-          "Measles Outbreak Prompts Warning For Northern IL Travelers: Health Officials - Patch",
-          "CDC declares cyclospora outbreak over - Axios",
-          "DRC Ebola outbreak 'growing exponentially,' UN says - DW.com"
-        ]
-      },
-      {
-        "trend": "healthcare",
-        "market_code": "NO",
-        "category": "Europe Health",
-        "score": 11,
-        "examples": [
-          "The Watch: Uninsured Americans Still Pay Heavily Into U.S. Healthcare - publichealthwatch.org",
-          "The Watch: Uninsured Americans Still Pay Heavily Into U.S. Healthcare - publichealthwatch.org",
-          "At CTA event, federal health officials outline AI ambitions as clinicians debate risks - Fierce Healthcare"
-        ]
-      },
-      {
-        "trend": "mental",
-        "market_code": "NO",
-        "category": "Mental Health",
-        "score": 10,
-        "examples": [
-          "Colorado author to host talk about mental health and a 500-mile long hike across the state - VailDaily.com",
-          "Agawam golfers tee off for mental health awareness - WWLP",
-          "Common genetic variants are associated with increased likelihood of latent co-occurring neurodevelopmental and mental health factors among autistic individuals - Nature"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
         "trend": "mental health",
         "market_code": "NO",
         "category": "Mental Health",
-        "score": 9,
-        "examples": [
-          "Colorado author to host talk about mental health and a 500-mile long hike across the state - VailDaily.com",
-          "Agawam golfers tee off for mental health awareness - WWLP",
-          "Common genetic variants are associated with increased likelihood of latent co-occurring neurodevelopmental and mental health factors among autistic individuals - Nature"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "virus",
-        "market_code": "NO",
-        "category": "Outbreaks",
-        "score": 8,
-        "examples": [
-          "Illinois Department Of Public Health Urges Public To Get Vaccinated Ahead Of Respiratory Virus Season - Effingham Radio",
-          "New virus detected in a tick invasive to the US. Should we be concerned? - NewsNation",
-          "2 more mosquito traps test positive for West Nile virus in Ga. - WRDW"
-        ]
-      },
-      {
-        "trend": "warning",
+        "trend": "medical research",
         "market_code": "NO",
         "category": "Europe Health",
-        "score": 8,
-        "examples": [
-          "Health warning issued for Galveston beaches during red tide - Houston Chronicle",
-          "Health officials provide warning after possibly rabid bat found at New England zoo - Boston 25 News",
-          "‘I still don’t have my MRI’: My health insurer canceled my plan without warning. Is that legal? - MarketWatch"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "cancer",
+        "trend": "drug approval",
         "market_code": "NO",
-        "category": "Chronic Disease",
-        "score": 8,
-        "examples": [
-          "Clinical trials: New mRNA cancer vaccine plus Keytruda sharply improves melanoma survival - UCHealth",
-          "The data from Moderna and Merck’s trial have yet to be presented - The Cancer Letter",
-          "mRNA cancer vaccines’ biggest barriers to market - BioPharma Dive"
-        ]
+        "category": "Drug & Treatment News",
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "health officials",
+        "trend": "diet wellness",
         "market_code": "NO",
-        "category": "Europe Health",
-        "score": 7,
-        "examples": [
-          "Michigan health officials say people can resume regular lettuce-eating habits as new cases of cyclosporiasis slow - ABC7 Chicago",
-          "Health officials confirm presence of ricin at Southwest Michigan apartment complex - CBS News",
-          "Health officials provide warning after possibly rabid bat found at New England zoo - Boston 25 News"
-        ]
-      },
-      {
-        "trend": "children",
-        "market_code": "NO",
-        "category": "Children Health",
-        "score": 5,
-        "examples": [
-          "Children's Health patient wins annual Volleman's Dairy milk bottle design contest - NBC 5 Dallas-Fort Worth",
-          "T.J. Regional Health to host ‘Capes & Crowns’ Fundraiser for WHAS Crusade for Children - WBKO",
-          "Study highlights disparities in access to new pediatric food allergy treatment, omalizumab - Children's National"
-        ]
-      },
-      {
-        "trend": "clinical",
-        "market_code": "NO",
-        "category": "Europe Health",
-        "score": 5,
-        "examples": [
-          "How Will AI Impact the Future of the Clinical Workforce? - WCM Newsroom",
-          "Clinical trials: New mRNA cancer vaccine plus Keytruda sharply improves melanoma survival - UCHealth",
-          "AI-enabled clinical trials - Nature"
-        ]
+        "category": "Diet & Wellness",
+        "score": 1,
+        "examples": []
       }
     ],
     "Japan": [
       {
-        "trend": "health",
+        "trend": "health alert",
         "market_code": "JP",
         "category": "Asia Health",
-        "score": 67,
-        "examples": [
-          "Michigan health officials say people can resume regular lettuce-eating habits as new cases of cyclosporiasis slow - ABC7 Chicago",
-          "UNDP warns Russian drone attacks on Chernobyl endangers the health and safety of millions - Jurist.org",
-          "Health fair at Jefferson Elementary offers free medical services - KTTC"
-        ]
-      },
-      {
-        "trend": "medical",
-        "market_code": "JP",
-        "category": "Asia Health",
-        "score": 20,
-        "examples": [
-          "Health fair at Jefferson Elementary offers free medical services - KTTC",
-          "Health fair at Jefferson Elementary offers free medical services - KTTC",
-          "Know Your Rights: Medical Aid in Dying - aclu-il.org"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
         "trend": "outbreak",
         "market_code": "JP",
         "category": "Outbreaks",
-        "score": 13,
-        "examples": [
-          "Measles Outbreak Prompts Warning For Northern IL Travelers: Health Officials - Patch",
-          "CDC declares cyclospora outbreak over - Axios",
-          "DRC Ebola outbreak 'growing exponentially,' UN says - DW.com"
-        ]
-      },
-      {
-        "trend": "healthcare",
-        "market_code": "JP",
-        "category": "Asia Health",
-        "score": 11,
-        "examples": [
-          "The Watch: Uninsured Americans Still Pay Heavily Into U.S. Healthcare - publichealthwatch.org",
-          "The Watch: Uninsured Americans Still Pay Heavily Into U.S. Healthcare - publichealthwatch.org",
-          "At CTA event, federal health officials outline AI ambitions as clinicians debate risks - Fierce Healthcare"
-        ]
-      },
-      {
-        "trend": "mental",
-        "market_code": "JP",
-        "category": "Mental Health",
-        "score": 10,
-        "examples": [
-          "Colorado author to host talk about mental health and a 500-mile long hike across the state - VailDaily.com",
-          "Agawam golfers tee off for mental health awareness - WWLP",
-          "Common genetic variants are associated with increased likelihood of latent co-occurring neurodevelopmental and mental health factors among autistic individuals - Nature"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
         "trend": "mental health",
         "market_code": "JP",
         "category": "Mental Health",
-        "score": 9,
-        "examples": [
-          "Colorado author to host talk about mental health and a 500-mile long hike across the state - VailDaily.com",
-          "Agawam golfers tee off for mental health awareness - WWLP",
-          "Common genetic variants are associated with increased likelihood of latent co-occurring neurodevelopmental and mental health factors among autistic individuals - Nature"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "virus",
-        "market_code": "JP",
-        "category": "Outbreaks",
-        "score": 8,
-        "examples": [
-          "Illinois Department Of Public Health Urges Public To Get Vaccinated Ahead Of Respiratory Virus Season - Effingham Radio",
-          "New virus detected in a tick invasive to the US. Should we be concerned? - NewsNation",
-          "2 more mosquito traps test positive for West Nile virus in Ga. - WRDW"
-        ]
-      },
-      {
-        "trend": "warning",
+        "trend": "medical research",
         "market_code": "JP",
         "category": "Asia Health",
-        "score": 8,
-        "examples": [
-          "Health warning issued for Galveston beaches during red tide - Houston Chronicle",
-          "Health officials provide warning after possibly rabid bat found at New England zoo - Boston 25 News",
-          "‘I still don’t have my MRI’: My health insurer canceled my plan without warning. Is that legal? - MarketWatch"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "cancer",
+        "trend": "drug approval",
         "market_code": "JP",
-        "category": "Chronic Disease",
-        "score": 8,
-        "examples": [
-          "Clinical trials: New mRNA cancer vaccine plus Keytruda sharply improves melanoma survival - UCHealth",
-          "The data from Moderna and Merck’s trial have yet to be presented - The Cancer Letter",
-          "mRNA cancer vaccines’ biggest barriers to market - BioPharma Dive"
-        ]
+        "category": "Drug & Treatment News",
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "health officials",
+        "trend": "diet wellness",
         "market_code": "JP",
-        "category": "Asia Health",
-        "score": 7,
-        "examples": [
-          "Michigan health officials say people can resume regular lettuce-eating habits as new cases of cyclosporiasis slow - ABC7 Chicago",
-          "Health officials confirm presence of ricin at Southwest Michigan apartment complex - CBS News",
-          "Health officials provide warning after possibly rabid bat found at New England zoo - Boston 25 News"
-        ]
-      },
-      {
-        "trend": "children",
-        "market_code": "JP",
-        "category": "Children Health",
-        "score": 5,
-        "examples": [
-          "Children's Health patient wins annual Volleman's Dairy milk bottle design contest - NBC 5 Dallas-Fort Worth",
-          "T.J. Regional Health to host ‘Capes & Crowns’ Fundraiser for WHAS Crusade for Children - WBKO",
-          "Study highlights disparities in access to new pediatric food allergy treatment, omalizumab - Children's National"
-        ]
-      },
-      {
-        "trend": "clinical",
-        "market_code": "JP",
-        "category": "Asia Health",
-        "score": 5,
-        "examples": [
-          "How Will AI Impact the Future of the Clinical Workforce? - WCM Newsroom",
-          "Clinical trials: New mRNA cancer vaccine plus Keytruda sharply improves melanoma survival - UCHealth",
-          "AI-enabled clinical trials - Nature"
-        ]
+        "category": "Diet & Wellness",
+        "score": 1,
+        "examples": []
       }
     ],
     "China": [
       {
-        "trend": "health",
+        "trend": "health alert",
         "market_code": "CN",
         "category": "Asia Health",
-        "score": 67,
-        "examples": [
-          "Michigan health officials say people can resume regular lettuce-eating habits as new cases of cyclosporiasis slow - ABC7 Chicago",
-          "UNDP warns Russian drone attacks on Chernobyl endangers the health and safety of millions - Jurist.org",
-          "Health fair at Jefferson Elementary offers free medical services - KTTC"
-        ]
-      },
-      {
-        "trend": "medical",
-        "market_code": "CN",
-        "category": "Asia Health",
-        "score": 20,
-        "examples": [
-          "Health fair at Jefferson Elementary offers free medical services - KTTC",
-          "Health fair at Jefferson Elementary offers free medical services - KTTC",
-          "Know Your Rights: Medical Aid in Dying - aclu-il.org"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
         "trend": "outbreak",
         "market_code": "CN",
         "category": "Outbreaks",
-        "score": 13,
-        "examples": [
-          "Measles Outbreak Prompts Warning For Northern IL Travelers: Health Officials - Patch",
-          "CDC declares cyclospora outbreak over - Axios",
-          "DRC Ebola outbreak 'growing exponentially,' UN says - DW.com"
-        ]
-      },
-      {
-        "trend": "healthcare",
-        "market_code": "CN",
-        "category": "Asia Health",
-        "score": 11,
-        "examples": [
-          "The Watch: Uninsured Americans Still Pay Heavily Into U.S. Healthcare - publichealthwatch.org",
-          "The Watch: Uninsured Americans Still Pay Heavily Into U.S. Healthcare - publichealthwatch.org",
-          "At CTA event, federal health officials outline AI ambitions as clinicians debate risks - Fierce Healthcare"
-        ]
-      },
-      {
-        "trend": "mental",
-        "market_code": "CN",
-        "category": "Mental Health",
-        "score": 10,
-        "examples": [
-          "Colorado author to host talk about mental health and a 500-mile long hike across the state - VailDaily.com",
-          "Agawam golfers tee off for mental health awareness - WWLP",
-          "Common genetic variants are associated with increased likelihood of latent co-occurring neurodevelopmental and mental health factors among autistic individuals - Nature"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
         "trend": "mental health",
         "market_code": "CN",
         "category": "Mental Health",
-        "score": 9,
-        "examples": [
-          "Colorado author to host talk about mental health and a 500-mile long hike across the state - VailDaily.com",
-          "Agawam golfers tee off for mental health awareness - WWLP",
-          "Common genetic variants are associated with increased likelihood of latent co-occurring neurodevelopmental and mental health factors among autistic individuals - Nature"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "virus",
-        "market_code": "CN",
-        "category": "Outbreaks",
-        "score": 8,
-        "examples": [
-          "Illinois Department Of Public Health Urges Public To Get Vaccinated Ahead Of Respiratory Virus Season - Effingham Radio",
-          "New virus detected in a tick invasive to the US. Should we be concerned? - NewsNation",
-          "2 more mosquito traps test positive for West Nile virus in Ga. - WRDW"
-        ]
-      },
-      {
-        "trend": "warning",
+        "trend": "medical research",
         "market_code": "CN",
         "category": "Asia Health",
-        "score": 8,
-        "examples": [
-          "Health warning issued for Galveston beaches during red tide - Houston Chronicle",
-          "Health officials provide warning after possibly rabid bat found at New England zoo - Boston 25 News",
-          "‘I still don’t have my MRI’: My health insurer canceled my plan without warning. Is that legal? - MarketWatch"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "cancer",
+        "trend": "drug approval",
         "market_code": "CN",
-        "category": "Chronic Disease",
-        "score": 8,
-        "examples": [
-          "Clinical trials: New mRNA cancer vaccine plus Keytruda sharply improves melanoma survival - UCHealth",
-          "The data from Moderna and Merck’s trial have yet to be presented - The Cancer Letter",
-          "mRNA cancer vaccines’ biggest barriers to market - BioPharma Dive"
-        ]
+        "category": "Drug & Treatment News",
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "health officials",
+        "trend": "diet wellness",
         "market_code": "CN",
-        "category": "Asia Health",
-        "score": 7,
-        "examples": [
-          "Michigan health officials say people can resume regular lettuce-eating habits as new cases of cyclosporiasis slow - ABC7 Chicago",
-          "Health officials confirm presence of ricin at Southwest Michigan apartment complex - CBS News",
-          "Health officials provide warning after possibly rabid bat found at New England zoo - Boston 25 News"
-        ]
-      },
-      {
-        "trend": "children",
-        "market_code": "CN",
-        "category": "Children Health",
-        "score": 5,
-        "examples": [
-          "Children's Health patient wins annual Volleman's Dairy milk bottle design contest - NBC 5 Dallas-Fort Worth",
-          "T.J. Regional Health to host ‘Capes & Crowns’ Fundraiser for WHAS Crusade for Children - WBKO",
-          "Study highlights disparities in access to new pediatric food allergy treatment, omalizumab - Children's National"
-        ]
-      },
-      {
-        "trend": "clinical",
-        "market_code": "CN",
-        "category": "Asia Health",
-        "score": 5,
-        "examples": [
-          "How Will AI Impact the Future of the Clinical Workforce? - WCM Newsroom",
-          "Clinical trials: New mRNA cancer vaccine plus Keytruda sharply improves melanoma survival - UCHealth",
-          "AI-enabled clinical trials - Nature"
-        ]
+        "category": "Diet & Wellness",
+        "score": 1,
+        "examples": []
       }
     ],
     "South Korea": [
       {
-        "trend": "health",
+        "trend": "health alert",
         "market_code": "KR",
         "category": "Asia Health",
-        "score": 67,
-        "examples": [
-          "Michigan health officials say people can resume regular lettuce-eating habits as new cases of cyclosporiasis slow - ABC7 Chicago",
-          "UNDP warns Russian drone attacks on Chernobyl endangers the health and safety of millions - Jurist.org",
-          "Health fair at Jefferson Elementary offers free medical services - KTTC"
-        ]
-      },
-      {
-        "trend": "medical",
-        "market_code": "KR",
-        "category": "Asia Health",
-        "score": 20,
-        "examples": [
-          "Health fair at Jefferson Elementary offers free medical services - KTTC",
-          "Health fair at Jefferson Elementary offers free medical services - KTTC",
-          "Know Your Rights: Medical Aid in Dying - aclu-il.org"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
         "trend": "outbreak",
         "market_code": "KR",
         "category": "Outbreaks",
-        "score": 13,
-        "examples": [
-          "Measles Outbreak Prompts Warning For Northern IL Travelers: Health Officials - Patch",
-          "CDC declares cyclospora outbreak over - Axios",
-          "DRC Ebola outbreak 'growing exponentially,' UN says - DW.com"
-        ]
-      },
-      {
-        "trend": "healthcare",
-        "market_code": "KR",
-        "category": "Asia Health",
-        "score": 11,
-        "examples": [
-          "The Watch: Uninsured Americans Still Pay Heavily Into U.S. Healthcare - publichealthwatch.org",
-          "The Watch: Uninsured Americans Still Pay Heavily Into U.S. Healthcare - publichealthwatch.org",
-          "At CTA event, federal health officials outline AI ambitions as clinicians debate risks - Fierce Healthcare"
-        ]
-      },
-      {
-        "trend": "mental",
-        "market_code": "KR",
-        "category": "Mental Health",
-        "score": 10,
-        "examples": [
-          "Colorado author to host talk about mental health and a 500-mile long hike across the state - VailDaily.com",
-          "Agawam golfers tee off for mental health awareness - WWLP",
-          "Common genetic variants are associated with increased likelihood of latent co-occurring neurodevelopmental and mental health factors among autistic individuals - Nature"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
         "trend": "mental health",
         "market_code": "KR",
         "category": "Mental Health",
-        "score": 9,
-        "examples": [
-          "Colorado author to host talk about mental health and a 500-mile long hike across the state - VailDaily.com",
-          "Agawam golfers tee off for mental health awareness - WWLP",
-          "Common genetic variants are associated with increased likelihood of latent co-occurring neurodevelopmental and mental health factors among autistic individuals - Nature"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "virus",
-        "market_code": "KR",
-        "category": "Outbreaks",
-        "score": 8,
-        "examples": [
-          "Illinois Department Of Public Health Urges Public To Get Vaccinated Ahead Of Respiratory Virus Season - Effingham Radio",
-          "New virus detected in a tick invasive to the US. Should we be concerned? - NewsNation",
-          "2 more mosquito traps test positive for West Nile virus in Ga. - WRDW"
-        ]
-      },
-      {
-        "trend": "warning",
+        "trend": "medical research",
         "market_code": "KR",
         "category": "Asia Health",
-        "score": 8,
-        "examples": [
-          "Health warning issued for Galveston beaches during red tide - Houston Chronicle",
-          "Health officials provide warning after possibly rabid bat found at New England zoo - Boston 25 News",
-          "‘I still don’t have my MRI’: My health insurer canceled my plan without warning. Is that legal? - MarketWatch"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "cancer",
+        "trend": "drug approval",
         "market_code": "KR",
-        "category": "Chronic Disease",
-        "score": 8,
-        "examples": [
-          "Clinical trials: New mRNA cancer vaccine plus Keytruda sharply improves melanoma survival - UCHealth",
-          "The data from Moderna and Merck’s trial have yet to be presented - The Cancer Letter",
-          "mRNA cancer vaccines’ biggest barriers to market - BioPharma Dive"
-        ]
+        "category": "Drug & Treatment News",
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "health officials",
+        "trend": "diet wellness",
         "market_code": "KR",
-        "category": "Asia Health",
-        "score": 7,
-        "examples": [
-          "Michigan health officials say people can resume regular lettuce-eating habits as new cases of cyclosporiasis slow - ABC7 Chicago",
-          "Health officials confirm presence of ricin at Southwest Michigan apartment complex - CBS News",
-          "Health officials provide warning after possibly rabid bat found at New England zoo - Boston 25 News"
-        ]
-      },
-      {
-        "trend": "children",
-        "market_code": "KR",
-        "category": "Children Health",
-        "score": 5,
-        "examples": [
-          "Children's Health patient wins annual Volleman's Dairy milk bottle design contest - NBC 5 Dallas-Fort Worth",
-          "T.J. Regional Health to host ‘Capes & Crowns’ Fundraiser for WHAS Crusade for Children - WBKO",
-          "Study highlights disparities in access to new pediatric food allergy treatment, omalizumab - Children's National"
-        ]
-      },
-      {
-        "trend": "clinical",
-        "market_code": "KR",
-        "category": "Asia Health",
-        "score": 5,
-        "examples": [
-          "How Will AI Impact the Future of the Clinical Workforce? - WCM Newsroom",
-          "Clinical trials: New mRNA cancer vaccine plus Keytruda sharply improves melanoma survival - UCHealth",
-          "AI-enabled clinical trials - Nature"
-        ]
+        "category": "Diet & Wellness",
+        "score": 1,
+        "examples": []
       }
     ],
     "India": [
       {
-        "trend": "health",
+        "trend": "health alert",
         "market_code": "IN",
         "category": "Asia Health",
-        "score": 61,
-        "examples": [
-          "Government, private medical colleges to adopt health centres across Karnataka - The Hindu",
-          "Safeguarding public health is essential for national security: JP Nadda - News On AIR",
-          "Karnataka medical colleges to adopt rural health centres - Deccan Herald"
-        ]
-      },
-      {
-        "trend": "medical",
-        "market_code": "IN",
-        "category": "Asia Health",
-        "score": 21,
-        "examples": [
-          "Karnataka Medical colleges told to adopt taluk hospitals, CHCs, PHCs - The New Indian Express",
-          "Government, private medical colleges to adopt health centres across Karnataka - The Hindu",
-          "Karnataka medical colleges to adopt rural health centres - Deccan Herald"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
         "trend": "outbreak",
         "market_code": "IN",
         "category": "Outbreaks",
-        "score": 11,
-        "examples": [
-          "Zambia anthrax outbreak kills 60 wild animals, infects 12 people - The Eastleigh Voice",
-          "Bangladesh: Measles outbreak claimed 9 more deaths during 24 hrs - News On AIR",
-          "DRC Ebola outbreak 'growing exponentially,' UN says - DW.com"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "healthcare",
-        "market_code": "IN",
-        "category": "Asia Health",
-        "score": 10,
-        "examples": [
-          "How AI Is Fueling A New Generation Of Healthcare Startups - Forbes",
-          "Online mental healthcare is here to stay: Here’s how to navigate your options and find the right clinician - japantoday.com",
-          "India Health 2026 Concludes Successfully, Showcasing India’s Expanding MedTech Manufacturing and Healthcare Innovation Landscape - healthcareexecutive.in"
-        ]
-      },
-      {
-        "trend": "cancer",
-        "market_code": "IN",
-        "category": "Chronic Disease",
-        "score": 10,
-        "examples": [
-          "Clinical trials: New mRNA cancer vaccine plus Keytruda sharply improves melanoma survival - UCHealth",
-          "mRNA cancer vaccines’ biggest barriers to market - BioPharma Dive",
-          "Pancreatic cancer drug may also help fight treatment-resistant lung cancer - Medical News Today"
-        ]
-      },
-      {
-        "trend": "pregnancy",
-        "market_code": "IN",
-        "category": "Women Health",
-        "score": 8,
-        "examples": [
-          "SC to adjudicate PIL seeking amendments to Medical Termination of Pregnancy Act on Sept 15 - The New Indian Express",
-          "Paracetamol use during pregnancy is linked to changed reproductive development in daughters - eurekalert.org",
-          "Paracetamol in pregnancy may affect daughters’ ovarian development and future fertility, new study sugges - The Times of India"
-        ]
-      },
-      {
-        "trend": "warning",
-        "market_code": "IN",
-        "category": "Asia Health",
-        "score": 8,
-        "examples": [
-          "A Common Indian Bird Is Carrying Drug-Resistant Bacteria: Study Flags New Health Warning - News18",
-          "‘I still don’t have my MRI’: My health insurer canceled my plan without warning. Is that legal? - MarketWatch",
-          "Self-employed man in the US says health insurance ended without warning - UA.NEWS"
-        ]
-      },
-      {
-        "trend": "hospitals",
-        "market_code": "IN",
-        "category": "Asia Health",
-        "score": 7,
-        "examples": [
-          "Karnataka Medical colleges told to adopt taluk hospitals, CHCs, PHCs - The New Indian Express",
-          "The Five Assumptions That Fail Hospitals During a Chemical Disaster - Global Biodefense",
-          "Karnataka Medical colleges told to adopt taluk hospitals, CHCs, PHCs - The New Indian Express"
-        ]
-      },
-      {
-        "trend": "medical colleges",
-        "market_code": "IN",
-        "category": "Asia Health",
-        "score": 7,
-        "examples": [
-          "Karnataka Medical colleges told to adopt taluk hospitals, CHCs, PHCs - The New Indian Express",
-          "Government, private medical colleges to adopt health centres across Karnataka - The Hindu",
-          "Karnataka medical colleges to adopt rural health centres - Deccan Herald"
-        ]
-      },
-      {
-        "trend": "mental",
+        "trend": "mental health",
         "market_code": "IN",
         "category": "Mental Health",
-        "score": 7,
-        "examples": [
-          "Mental wellness: NIMHANS to be nodal body for BRICS Centres of Excellence - indianexpress.com",
-          "Common genetic variants are associated with increased likelihood of latent co-occurring neurodevelopmental and mental health factors among autistic individuals - nature.com",
-          "Mental Health in the Age of Artificial Intelligence - Mad In America"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "public health",
+        "trend": "medical research",
         "market_code": "IN",
         "category": "Asia Health",
-        "score": 6,
-        "examples": [
-          "Safeguarding public health is essential for national security: JP Nadda - News On AIR",
-          "One Health mission focuses on national preparedness against emerging public health threats - News On AIR",
-          "Andhra Pradesh Expands Critical Care and Public Health Lab Network - OpenGov Asia"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "medicine",
+        "trend": "drug approval",
         "market_code": "IN",
-        "category": "Asia Health",
-        "score": 6,
-        "examples": [
-          "BRICS leaders call obesity major global health challenge; seek stronger traditional medicine ties - ThePrint",
-          "U.K. unveils recommendations for regulation of AI in medicine - statnews.com",
-          "Guardant360 CDx Test Approved for Early, ‘Serial’ Use in Breast Cancer - Inside Precision Medicine"
-        ]
+        "category": "Drug & Treatment News",
+        "score": 1,
+        "examples": []
+      },
+      {
+        "trend": "diet wellness",
+        "market_code": "IN",
+        "category": "Diet & Wellness",
+        "score": 1,
+        "examples": []
       }
     ],
     "Australia": [
       {
-        "trend": "health",
+        "trend": "health alert",
         "market_code": "AU",
         "category": "Global Health",
-        "score": 57,
-        "examples": [
-          "Are jurors prepared for the mental health risks of serving on trials? - ABC News & Headlines – Australian Broadcasting Corporation",
-          "Canberra's new health precinct is ready but demand for services already growing - Region Canberra",
-          "Women urged to ‘do it anyway’ this Women’s Health Week - northern.starweekly.com.au"
-        ]
-      },
-      {
-        "trend": "medical",
-        "market_code": "AU",
-        "category": "Global Health",
-        "score": 15,
-        "examples": [
-          "‘It’s exhausting’: How an inquiry into women’s pain exposed a systemic culture of medical bias - SMH.com.au",
-          "Public gave CPR to dying man after medical centre refused to help - 1news.co.nz",
-          "Digital Footprint and Audience Engagement Among Infectious Diseases Medical Educators on TikTok - Cureus"
-        ]
-      },
-      {
-        "trend": "mental",
-        "market_code": "AU",
-        "category": "Mental Health",
-        "score": 12,
-        "examples": [
-          "Are jurors prepared for the mental health risks of serving on trials? - ABC News & Headlines – Australian Broadcasting Corporation",
-          "Those with lived experience know the gaps in Ballarat's mental health care - The Courier | Ballarat, VIC",
-          "Listening, Learning and Leading: Commonwealth Secretary-General engages young people on mental health - thecommonwealth.org"
-        ]
-      },
-      {
-        "trend": "mental health",
-        "market_code": "AU",
-        "category": "Mental Health",
-        "score": 11,
-        "examples": [
-          "Are jurors prepared for the mental health risks of serving on trials? - ABC News & Headlines – Australian Broadcasting Corporation",
-          "Those with lived experience know the gaps in Ballarat's mental health care - The Courier | Ballarat, VIC",
-          "Listening, Learning and Leading: Commonwealth Secretary-General engages young people on mental health - thecommonwealth.org"
-        ]
-      },
-      {
-        "trend": "healthcare",
-        "market_code": "AU",
-        "category": "Global Health",
-        "score": 10,
-        "examples": [
-          "How AI Is Fueling A New Generation Of Healthcare Startups - Forbes",
-          "The Watch: Uninsured Americans Still Pay Heavily Into U.S. Healthcare - Public Health Watch",
-          "Online mental healthcare is here to stay: Here’s how to navigate your options and find the right clinician - Japan Today"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
         "trend": "outbreak",
         "market_code": "AU",
         "category": "Outbreaks",
-        "score": 10,
-        "examples": [
-          "PHV outbreak in South Africa may affect fish supplies - UA.NEWS",
-          "DRC Ebola outbreak 'growing exponentially,' UN says - DW.com",
-          "Anthrax outbreak in Zambia kills wildlife, infects humans - Qazinform"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "warning",
+        "trend": "mental health",
+        "market_code": "AU",
+        "category": "Mental Health",
+        "score": 1,
+        "examples": []
+      },
+      {
+        "trend": "medical research",
         "market_code": "AU",
         "category": "Global Health",
-        "score": 8,
-        "examples": [
-          "Self-employed man in the US says health insurance ended without warning - UA.NEWS",
-          "‘I still don’t have my MRI’: My health insurer canceled my plan without warning. Is that legal? - marketwatch.com",
-          "Health warning issued for Galveston beaches during red tide - Houston Chronicle"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "cancer",
+        "trend": "drug approval",
         "market_code": "AU",
-        "category": "Chronic Disease",
-        "score": 8,
-        "examples": [
-          "Clinical trials: New mRNA cancer vaccine plus Keytruda sharply improves melanoma survival - UCHealth",
-          "mRNA cancer vaccines’ biggest barriers to market - BioPharma Dive",
-          "Pancreatic cancer drug may also help fight treatment-resistant lung cancer - Medical News Today"
-        ]
+        "category": "Drug & Treatment News",
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "trials",
+        "trend": "diet wellness",
         "market_code": "AU",
-        "category": "Global Health",
-        "score": 6,
-        "examples": [
-          "Are jurors prepared for the mental health risks of serving on trials? - ABC News & Headlines – Australian Broadcasting Corporation",
-          "Are jurors prepared for the mental health risks of serving on trials? - ABC News & Headlines – Australian Broadcasting Corporation",
-          "AI-enabled clinical trials - Nature"
-        ]
-      },
-      {
-        "trend": "disease",
-        "market_code": "AU",
-        "category": "Global Health",
-        "score": 5,
-        "examples": [
-          "Africa eyes initiative in disease control - China Daily",
-          "From Evidence to Action: Preventing Vaccine-Preventable Disease (VPD) Outbreaks and Protecting Hard-Won Immunization Gains in WHO South-East Asia - World Health Organization (WHO)",
-          "Locoregional Surgery for Infected Penile Squamous Cell Carcinoma With Bulky Nodal Disease: A Case Report - Cureus"
-        ]
-      },
-      {
-        "trend": "virus",
-        "market_code": "AU",
-        "category": "Outbreaks",
-        "score": 5,
-        "examples": [
-          "Ebola infections top 7,000 in Congo as virus spreads to new province - The Times of Israel",
-          "US to help Congo stop the spread of Ebola virus as cases surpass 7,000 - News.com.au",
-          "New Tick-Borne Virus May Explain Mysterious Cases of Severe Illness - SciTechDaily"
-        ]
-      },
-      {
-        "trend": "infection",
-        "market_code": "AU",
-        "category": "Outbreaks",
-        "score": 5,
-        "examples": [
-          "Comparison of new and recurring post-acute infection syndrome – results from a German population-based cohort - Nature",
-          "Urgent recall over popular product’s serious infection risk - The Nightly",
-          "How We Eradicated Cholera in Weeks - Infection Control Today"
-        ]
+        "category": "Diet & Wellness",
+        "score": 1,
+        "examples": []
       }
     ],
     "Canada": [
       {
-        "trend": "health",
+        "trend": "health alert",
         "market_code": "CA",
         "category": "Global Health",
-        "score": 57,
-        "examples": [
-          "As 1st election debate approaches, Quebec party leaders talk transport, health - CBC",
-          "How The Alex is Changing the Face of Community Health for Vulnerable Populations - Avenue Calgary",
-          "Quebec party leaders talk transport, health care on campaign trail as first debate looms - The Globe and Mail"
-        ]
-      },
-      {
-        "trend": "medical",
-        "market_code": "CA",
-        "category": "Global Health",
-        "score": 14,
-        "examples": [
-          "Led Zeppelin tribute show scheduled for tonight cancelled due to medical emergency - SooToday.com",
-          "Qualicum Beach provides $400,000 for new medical equipment - nanaimonewsnow.com",
-          "Wellston firefighter honored after fatal medical emergency during wildfire - Yahoo News Canada"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
         "trend": "outbreak",
         "market_code": "CA",
         "category": "Outbreaks",
-        "score": 10,
-        "examples": [
-          "Measles Outbreak Prompts Warning For Northern IL Travelers: Health Officials - Patch",
-          "DRC Ebola outbreak 'growing exponentially,' UN says - DW.com",
-          "U.S. federal officials declare end to cyclospora outbreak that sickened thousands in 21 states - CBC"
-        ]
-      },
-      {
-        "trend": "healthcare",
-        "market_code": "CA",
-        "category": "Global Health",
-        "score": 9,
-        "examples": [
-          "How AI Is Fueling A New Generation Of Healthcare Startups - Forbes",
-          "The Watch: Uninsured Americans Still Pay Heavily Into U.S. Healthcare - Public Health Watch",
-          "Online mental healthcare is here to stay: Here’s how to navigate your options and find the right clinician - Japan Today"
-        ]
-      },
-      {
-        "trend": "warning",
-        "market_code": "CA",
-        "category": "Global Health",
-        "score": 8,
-        "examples": [
-          "Health officials provide warning after possibly rabid bat found at New England zoo - Boston 25 News",
-          "Self-employed man in the US says health insurance ended without warning - UA.NEWS",
-          "Health warning issued for Galveston beaches during red tide - houstonchronicle.com"
-        ]
-      },
-      {
-        "trend": "cancer",
-        "market_code": "CA",
-        "category": "Chronic Disease",
-        "score": 8,
-        "examples": [
-          "Clinical trials: New mRNA cancer vaccine plus Keytruda sharply improves melanoma survival - UCHealth",
-          "mRNA cancer vaccines’ biggest barriers to market - BioPharma Dive",
-          "The data from Moderna and Merck’s trial have yet to be presented - The Cancer Letter"
-        ]
-      },
-      {
-        "trend": "health care",
-        "market_code": "CA",
-        "category": "Global Health",
-        "score": 6,
-        "examples": [
-          "Quebec party leaders talk transport, health care on campaign trail as first debate looms - The Globe and Mail",
-          "Nenshi delivers health care pitch days before Calgary-Shaw by-election - Substack",
-          "Quebec party leaders talk transport, health care on campaign trail as first debate looms - The Globe and Mail"
-        ]
-      },
-      {
-        "trend": "mental",
-        "market_code": "CA",
-        "category": "Mental Health",
-        "score": 6,
-        "examples": [
-          "SLC Faculty Lead Federally Funded Research to Support Families in Mental Health Care Decisions - theseeker.ca",
-          "Online mental healthcare is here to stay: Here’s how to navigate your options and find the right clinician - Japan Today",
-          "Mental Health in the Age of Artificial Intelligence - Mad In America"
-        ]
-      },
-      {
-        "trend": "measles",
-        "market_code": "CA",
-        "category": "Outbreaks",
-        "score": 5,
-        "examples": [
-          "HRPH confirms second case of measles in Milton - burlingtontoday.com",
-          "Measles Outbreak Prompts Warning For Northern IL Travelers: Health Officials - Patch",
-          "Boone County prepares for measles amid statewide health alert - KOMU 8"
-        ]
-      },
-      {
-        "trend": "health officials",
-        "market_code": "CA",
-        "category": "Global Health",
-        "score": 5,
-        "examples": [
-          "Health officials provide warning after possibly rabid bat found at New England zoo - Boston 25 News",
-          "Bat at Providence zoo prompts rabies warning from RI health officials - NBC Boston",
-          "Measles Outbreak Prompts Warning For Northern IL Travelers: Health Officials - Patch"
-        ]
-      },
-      {
-        "trend": "infection",
-        "market_code": "CA",
-        "category": "Outbreaks",
-        "score": 5,
-        "examples": [
-          "Your Good Health: Pneumonia patient most likely has a Legionella infection - Times Colonist",
-          "Comparison of new and recurring post-acute infection syndrome – results from a German population-based cohort - nature.com",
-          "Fight over Asante infection records further delays Schofield's trial - NPR for Oregonians"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
         "trend": "mental health",
         "market_code": "CA",
         "category": "Mental Health",
-        "score": 5,
-        "examples": [
-          "SLC Faculty Lead Federally Funded Research to Support Families in Mental Health Care Decisions - theseeker.ca",
-          "Mental Health in the Age of Artificial Intelligence - Mad In America",
-          "Common genetic variants are associated with increased likelihood of latent co-occurring neurodevelopmental and mental health factors among autistic individuals - nature.com"
-        ]
+        "score": 1,
+        "examples": []
+      },
+      {
+        "trend": "medical research",
+        "market_code": "CA",
+        "category": "Global Health",
+        "score": 1,
+        "examples": []
+      },
+      {
+        "trend": "drug approval",
+        "market_code": "CA",
+        "category": "Drug & Treatment News",
+        "score": 1,
+        "examples": []
+      },
+      {
+        "trend": "diet wellness",
+        "market_code": "CA",
+        "category": "Diet & Wellness",
+        "score": 1,
+        "examples": []
       }
     ],
     "United Arab Emirates": [
       {
-        "trend": "health",
+        "trend": "health alert",
         "market_code": "AE",
         "category": "Arab Health",
-        "score": 67,
-        "examples": [
-          "Michigan health officials say people can resume regular lettuce-eating habits as new cases of cyclosporiasis slow - ABC7 Chicago",
-          "UNDP warns Russian drone attacks on Chernobyl endangers the health and safety of millions - Jurist.org",
-          "Health fair at Jefferson Elementary offers free medical services - KTTC"
-        ]
-      },
-      {
-        "trend": "medical",
-        "market_code": "AE",
-        "category": "Arab Health",
-        "score": 20,
-        "examples": [
-          "Health fair at Jefferson Elementary offers free medical services - KTTC",
-          "Health fair at Jefferson Elementary offers free medical services - KTTC",
-          "Know Your Rights: Medical Aid in Dying - aclu-il.org"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
         "trend": "outbreak",
         "market_code": "AE",
         "category": "Outbreaks",
-        "score": 13,
-        "examples": [
-          "Measles Outbreak Prompts Warning For Northern IL Travelers: Health Officials - Patch",
-          "CDC declares cyclospora outbreak over - Axios",
-          "DRC Ebola outbreak 'growing exponentially,' UN says - DW.com"
-        ]
-      },
-      {
-        "trend": "healthcare",
-        "market_code": "AE",
-        "category": "Arab Health",
-        "score": 11,
-        "examples": [
-          "The Watch: Uninsured Americans Still Pay Heavily Into U.S. Healthcare - publichealthwatch.org",
-          "The Watch: Uninsured Americans Still Pay Heavily Into U.S. Healthcare - publichealthwatch.org",
-          "At CTA event, federal health officials outline AI ambitions as clinicians debate risks - Fierce Healthcare"
-        ]
-      },
-      {
-        "trend": "mental",
-        "market_code": "AE",
-        "category": "Mental Health",
-        "score": 10,
-        "examples": [
-          "Colorado author to host talk about mental health and a 500-mile long hike across the state - VailDaily.com",
-          "Agawam golfers tee off for mental health awareness - WWLP",
-          "Common genetic variants are associated with increased likelihood of latent co-occurring neurodevelopmental and mental health factors among autistic individuals - Nature"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
         "trend": "mental health",
         "market_code": "AE",
         "category": "Mental Health",
-        "score": 9,
-        "examples": [
-          "Colorado author to host talk about mental health and a 500-mile long hike across the state - VailDaily.com",
-          "Agawam golfers tee off for mental health awareness - WWLP",
-          "Common genetic variants are associated with increased likelihood of latent co-occurring neurodevelopmental and mental health factors among autistic individuals - Nature"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "virus",
-        "market_code": "AE",
-        "category": "Outbreaks",
-        "score": 8,
-        "examples": [
-          "Illinois Department Of Public Health Urges Public To Get Vaccinated Ahead Of Respiratory Virus Season - Effingham Radio",
-          "New virus detected in a tick invasive to the US. Should we be concerned? - NewsNation",
-          "2 more mosquito traps test positive for West Nile virus in Ga. - WRDW"
-        ]
-      },
-      {
-        "trend": "warning",
+        "trend": "medical research",
         "market_code": "AE",
         "category": "Arab Health",
-        "score": 8,
-        "examples": [
-          "Health warning issued for Galveston beaches during red tide - Houston Chronicle",
-          "Health officials provide warning after possibly rabid bat found at New England zoo - Boston 25 News",
-          "‘I still don’t have my MRI’: My health insurer canceled my plan without warning. Is that legal? - MarketWatch"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "cancer",
+        "trend": "drug approval",
         "market_code": "AE",
-        "category": "Chronic Disease",
-        "score": 8,
-        "examples": [
-          "Clinical trials: New mRNA cancer vaccine plus Keytruda sharply improves melanoma survival - UCHealth",
-          "The data from Moderna and Merck’s trial have yet to be presented - The Cancer Letter",
-          "mRNA cancer vaccines’ biggest barriers to market - BioPharma Dive"
-        ]
+        "category": "Drug & Treatment News",
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "health officials",
+        "trend": "diet wellness",
         "market_code": "AE",
-        "category": "Arab Health",
-        "score": 7,
-        "examples": [
-          "Michigan health officials say people can resume regular lettuce-eating habits as new cases of cyclosporiasis slow - ABC7 Chicago",
-          "Health officials confirm presence of ricin at Southwest Michigan apartment complex - CBS News",
-          "Health officials provide warning after possibly rabid bat found at New England zoo - Boston 25 News"
-        ]
-      },
-      {
-        "trend": "children",
-        "market_code": "AE",
-        "category": "Children Health",
-        "score": 5,
-        "examples": [
-          "Children's Health patient wins annual Volleman's Dairy milk bottle design contest - NBC 5 Dallas-Fort Worth",
-          "T.J. Regional Health to host ‘Capes & Crowns’ Fundraiser for WHAS Crusade for Children - WBKO",
-          "Study highlights disparities in access to new pediatric food allergy treatment, omalizumab - Children's National"
-        ]
-      },
-      {
-        "trend": "clinical",
-        "market_code": "AE",
-        "category": "Arab Health",
-        "score": 5,
-        "examples": [
-          "How Will AI Impact the Future of the Clinical Workforce? - WCM Newsroom",
-          "Clinical trials: New mRNA cancer vaccine plus Keytruda sharply improves melanoma survival - UCHealth",
-          "AI-enabled clinical trials - Nature"
-        ]
+        "category": "Diet & Wellness",
+        "score": 1,
+        "examples": []
       }
     ],
     "Saudi Arabia": [
       {
-        "trend": "health",
+        "trend": "health alert",
         "market_code": "SA",
         "category": "Arab Health",
-        "score": 67,
-        "examples": [
-          "Michigan health officials say people can resume regular lettuce-eating habits as new cases of cyclosporiasis slow - ABC7 Chicago",
-          "UNDP warns Russian drone attacks on Chernobyl endangers the health and safety of millions - Jurist.org",
-          "Health fair at Jefferson Elementary offers free medical services - KTTC"
-        ]
-      },
-      {
-        "trend": "medical",
-        "market_code": "SA",
-        "category": "Arab Health",
-        "score": 20,
-        "examples": [
-          "Health fair at Jefferson Elementary offers free medical services - KTTC",
-          "Health fair at Jefferson Elementary offers free medical services - KTTC",
-          "Know Your Rights: Medical Aid in Dying - aclu-il.org"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
         "trend": "outbreak",
         "market_code": "SA",
         "category": "Outbreaks",
-        "score": 13,
-        "examples": [
-          "Measles Outbreak Prompts Warning For Northern IL Travelers: Health Officials - Patch",
-          "CDC declares cyclospora outbreak over - Axios",
-          "DRC Ebola outbreak 'growing exponentially,' UN says - DW.com"
-        ]
-      },
-      {
-        "trend": "healthcare",
-        "market_code": "SA",
-        "category": "Arab Health",
-        "score": 11,
-        "examples": [
-          "The Watch: Uninsured Americans Still Pay Heavily Into U.S. Healthcare - publichealthwatch.org",
-          "The Watch: Uninsured Americans Still Pay Heavily Into U.S. Healthcare - publichealthwatch.org",
-          "At CTA event, federal health officials outline AI ambitions as clinicians debate risks - Fierce Healthcare"
-        ]
-      },
-      {
-        "trend": "mental",
-        "market_code": "SA",
-        "category": "Mental Health",
-        "score": 10,
-        "examples": [
-          "Colorado author to host talk about mental health and a 500-mile long hike across the state - VailDaily.com",
-          "Agawam golfers tee off for mental health awareness - WWLP",
-          "Common genetic variants are associated with increased likelihood of latent co-occurring neurodevelopmental and mental health factors among autistic individuals - Nature"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
         "trend": "mental health",
         "market_code": "SA",
         "category": "Mental Health",
-        "score": 9,
-        "examples": [
-          "Colorado author to host talk about mental health and a 500-mile long hike across the state - VailDaily.com",
-          "Agawam golfers tee off for mental health awareness - WWLP",
-          "Common genetic variants are associated with increased likelihood of latent co-occurring neurodevelopmental and mental health factors among autistic individuals - Nature"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "virus",
-        "market_code": "SA",
-        "category": "Outbreaks",
-        "score": 8,
-        "examples": [
-          "Illinois Department Of Public Health Urges Public To Get Vaccinated Ahead Of Respiratory Virus Season - Effingham Radio",
-          "New virus detected in a tick invasive to the US. Should we be concerned? - NewsNation",
-          "2 more mosquito traps test positive for West Nile virus in Ga. - WRDW"
-        ]
-      },
-      {
-        "trend": "warning",
+        "trend": "medical research",
         "market_code": "SA",
         "category": "Arab Health",
-        "score": 8,
-        "examples": [
-          "Health warning issued for Galveston beaches during red tide - Houston Chronicle",
-          "Health officials provide warning after possibly rabid bat found at New England zoo - Boston 25 News",
-          "‘I still don’t have my MRI’: My health insurer canceled my plan without warning. Is that legal? - MarketWatch"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "cancer",
+        "trend": "drug approval",
         "market_code": "SA",
-        "category": "Chronic Disease",
-        "score": 8,
-        "examples": [
-          "Clinical trials: New mRNA cancer vaccine plus Keytruda sharply improves melanoma survival - UCHealth",
-          "The data from Moderna and Merck’s trial have yet to be presented - The Cancer Letter",
-          "mRNA cancer vaccines’ biggest barriers to market - BioPharma Dive"
-        ]
+        "category": "Drug & Treatment News",
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "health officials",
+        "trend": "diet wellness",
         "market_code": "SA",
-        "category": "Arab Health",
-        "score": 7,
-        "examples": [
-          "Michigan health officials say people can resume regular lettuce-eating habits as new cases of cyclosporiasis slow - ABC7 Chicago",
-          "Health officials confirm presence of ricin at Southwest Michigan apartment complex - CBS News",
-          "Health officials provide warning after possibly rabid bat found at New England zoo - Boston 25 News"
-        ]
-      },
-      {
-        "trend": "children",
-        "market_code": "SA",
-        "category": "Children Health",
-        "score": 5,
-        "examples": [
-          "Children's Health patient wins annual Volleman's Dairy milk bottle design contest - NBC 5 Dallas-Fort Worth",
-          "T.J. Regional Health to host ‘Capes & Crowns’ Fundraiser for WHAS Crusade for Children - WBKO",
-          "Study highlights disparities in access to new pediatric food allergy treatment, omalizumab - Children's National"
-        ]
-      },
-      {
-        "trend": "clinical",
-        "market_code": "SA",
-        "category": "Arab Health",
-        "score": 5,
-        "examples": [
-          "How Will AI Impact the Future of the Clinical Workforce? - WCM Newsroom",
-          "Clinical trials: New mRNA cancer vaccine plus Keytruda sharply improves melanoma survival - UCHealth",
-          "AI-enabled clinical trials - Nature"
-        ]
+        "category": "Diet & Wellness",
+        "score": 1,
+        "examples": []
       }
     ],
     "Qatar": [
       {
-        "trend": "health",
+        "trend": "health alert",
         "market_code": "QA",
         "category": "Arab Health",
-        "score": 67,
-        "examples": [
-          "Michigan health officials say people can resume regular lettuce-eating habits as new cases of cyclosporiasis slow - ABC7 Chicago",
-          "UNDP warns Russian drone attacks on Chernobyl endangers the health and safety of millions - Jurist.org",
-          "Health fair at Jefferson Elementary offers free medical services - KTTC"
-        ]
-      },
-      {
-        "trend": "medical",
-        "market_code": "QA",
-        "category": "Arab Health",
-        "score": 20,
-        "examples": [
-          "Health fair at Jefferson Elementary offers free medical services - KTTC",
-          "Health fair at Jefferson Elementary offers free medical services - KTTC",
-          "Know Your Rights: Medical Aid in Dying - aclu-il.org"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
         "trend": "outbreak",
         "market_code": "QA",
         "category": "Outbreaks",
-        "score": 13,
-        "examples": [
-          "Measles Outbreak Prompts Warning For Northern IL Travelers: Health Officials - Patch",
-          "CDC declares cyclospora outbreak over - Axios",
-          "DRC Ebola outbreak 'growing exponentially,' UN says - DW.com"
-        ]
-      },
-      {
-        "trend": "healthcare",
-        "market_code": "QA",
-        "category": "Arab Health",
-        "score": 11,
-        "examples": [
-          "The Watch: Uninsured Americans Still Pay Heavily Into U.S. Healthcare - publichealthwatch.org",
-          "The Watch: Uninsured Americans Still Pay Heavily Into U.S. Healthcare - publichealthwatch.org",
-          "At CTA event, federal health officials outline AI ambitions as clinicians debate risks - Fierce Healthcare"
-        ]
-      },
-      {
-        "trend": "mental",
-        "market_code": "QA",
-        "category": "Mental Health",
-        "score": 10,
-        "examples": [
-          "Colorado author to host talk about mental health and a 500-mile long hike across the state - VailDaily.com",
-          "Agawam golfers tee off for mental health awareness - WWLP",
-          "Common genetic variants are associated with increased likelihood of latent co-occurring neurodevelopmental and mental health factors among autistic individuals - Nature"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
         "trend": "mental health",
         "market_code": "QA",
         "category": "Mental Health",
-        "score": 9,
-        "examples": [
-          "Colorado author to host talk about mental health and a 500-mile long hike across the state - VailDaily.com",
-          "Agawam golfers tee off for mental health awareness - WWLP",
-          "Common genetic variants are associated with increased likelihood of latent co-occurring neurodevelopmental and mental health factors among autistic individuals - Nature"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "virus",
-        "market_code": "QA",
-        "category": "Outbreaks",
-        "score": 8,
-        "examples": [
-          "Illinois Department Of Public Health Urges Public To Get Vaccinated Ahead Of Respiratory Virus Season - Effingham Radio",
-          "New virus detected in a tick invasive to the US. Should we be concerned? - NewsNation",
-          "2 more mosquito traps test positive for West Nile virus in Ga. - WRDW"
-        ]
-      },
-      {
-        "trend": "warning",
+        "trend": "medical research",
         "market_code": "QA",
         "category": "Arab Health",
-        "score": 8,
-        "examples": [
-          "Health warning issued for Galveston beaches during red tide - Houston Chronicle",
-          "Health officials provide warning after possibly rabid bat found at New England zoo - Boston 25 News",
-          "‘I still don’t have my MRI’: My health insurer canceled my plan without warning. Is that legal? - MarketWatch"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "cancer",
+        "trend": "drug approval",
         "market_code": "QA",
-        "category": "Chronic Disease",
-        "score": 8,
-        "examples": [
-          "Clinical trials: New mRNA cancer vaccine plus Keytruda sharply improves melanoma survival - UCHealth",
-          "The data from Moderna and Merck’s trial have yet to be presented - The Cancer Letter",
-          "mRNA cancer vaccines’ biggest barriers to market - BioPharma Dive"
-        ]
+        "category": "Drug & Treatment News",
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "health officials",
+        "trend": "diet wellness",
         "market_code": "QA",
-        "category": "Arab Health",
-        "score": 7,
-        "examples": [
-          "Michigan health officials say people can resume regular lettuce-eating habits as new cases of cyclosporiasis slow - ABC7 Chicago",
-          "Health officials confirm presence of ricin at Southwest Michigan apartment complex - CBS News",
-          "Health officials provide warning after possibly rabid bat found at New England zoo - Boston 25 News"
-        ]
-      },
-      {
-        "trend": "children",
-        "market_code": "QA",
-        "category": "Children Health",
-        "score": 5,
-        "examples": [
-          "Children's Health patient wins annual Volleman's Dairy milk bottle design contest - NBC 5 Dallas-Fort Worth",
-          "T.J. Regional Health to host ‘Capes & Crowns’ Fundraiser for WHAS Crusade for Children - WBKO",
-          "Study highlights disparities in access to new pediatric food allergy treatment, omalizumab - Children's National"
-        ]
-      },
-      {
-        "trend": "clinical",
-        "market_code": "QA",
-        "category": "Arab Health",
-        "score": 5,
-        "examples": [
-          "How Will AI Impact the Future of the Clinical Workforce? - WCM Newsroom",
-          "Clinical trials: New mRNA cancer vaccine plus Keytruda sharply improves melanoma survival - UCHealth",
-          "AI-enabled clinical trials - Nature"
-        ]
+        "category": "Diet & Wellness",
+        "score": 1,
+        "examples": []
       }
     ],
     "Jordan": [
       {
-        "trend": "health",
+        "trend": "health alert",
         "market_code": "JO",
         "category": "Arab Health",
-        "score": 67,
-        "examples": [
-          "Michigan health officials say people can resume regular lettuce-eating habits as new cases of cyclosporiasis slow - ABC7 Chicago",
-          "UNDP warns Russian drone attacks on Chernobyl endangers the health and safety of millions - Jurist.org",
-          "Health fair at Jefferson Elementary offers free medical services - KTTC"
-        ]
-      },
-      {
-        "trend": "medical",
-        "market_code": "JO",
-        "category": "Arab Health",
-        "score": 20,
-        "examples": [
-          "Health fair at Jefferson Elementary offers free medical services - KTTC",
-          "Health fair at Jefferson Elementary offers free medical services - KTTC",
-          "Know Your Rights: Medical Aid in Dying - aclu-il.org"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
         "trend": "outbreak",
         "market_code": "JO",
         "category": "Outbreaks",
-        "score": 13,
-        "examples": [
-          "Measles Outbreak Prompts Warning For Northern IL Travelers: Health Officials - Patch",
-          "CDC declares cyclospora outbreak over - Axios",
-          "DRC Ebola outbreak 'growing exponentially,' UN says - DW.com"
-        ]
-      },
-      {
-        "trend": "healthcare",
-        "market_code": "JO",
-        "category": "Arab Health",
-        "score": 11,
-        "examples": [
-          "The Watch: Uninsured Americans Still Pay Heavily Into U.S. Healthcare - publichealthwatch.org",
-          "The Watch: Uninsured Americans Still Pay Heavily Into U.S. Healthcare - publichealthwatch.org",
-          "At CTA event, federal health officials outline AI ambitions as clinicians debate risks - Fierce Healthcare"
-        ]
-      },
-      {
-        "trend": "mental",
-        "market_code": "JO",
-        "category": "Mental Health",
-        "score": 10,
-        "examples": [
-          "Colorado author to host talk about mental health and a 500-mile long hike across the state - VailDaily.com",
-          "Agawam golfers tee off for mental health awareness - WWLP",
-          "Common genetic variants are associated with increased likelihood of latent co-occurring neurodevelopmental and mental health factors among autistic individuals - Nature"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
         "trend": "mental health",
         "market_code": "JO",
         "category": "Mental Health",
-        "score": 9,
-        "examples": [
-          "Colorado author to host talk about mental health and a 500-mile long hike across the state - VailDaily.com",
-          "Agawam golfers tee off for mental health awareness - WWLP",
-          "Common genetic variants are associated with increased likelihood of latent co-occurring neurodevelopmental and mental health factors among autistic individuals - Nature"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "virus",
-        "market_code": "JO",
-        "category": "Outbreaks",
-        "score": 8,
-        "examples": [
-          "Illinois Department Of Public Health Urges Public To Get Vaccinated Ahead Of Respiratory Virus Season - Effingham Radio",
-          "New virus detected in a tick invasive to the US. Should we be concerned? - NewsNation",
-          "2 more mosquito traps test positive for West Nile virus in Ga. - WRDW"
-        ]
-      },
-      {
-        "trend": "warning",
+        "trend": "medical research",
         "market_code": "JO",
         "category": "Arab Health",
-        "score": 8,
-        "examples": [
-          "Health warning issued for Galveston beaches during red tide - Houston Chronicle",
-          "Health officials provide warning after possibly rabid bat found at New England zoo - Boston 25 News",
-          "‘I still don’t have my MRI’: My health insurer canceled my plan without warning. Is that legal? - MarketWatch"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "cancer",
+        "trend": "drug approval",
         "market_code": "JO",
-        "category": "Chronic Disease",
-        "score": 8,
-        "examples": [
-          "Clinical trials: New mRNA cancer vaccine plus Keytruda sharply improves melanoma survival - UCHealth",
-          "The data from Moderna and Merck’s trial have yet to be presented - The Cancer Letter",
-          "mRNA cancer vaccines’ biggest barriers to market - BioPharma Dive"
-        ]
+        "category": "Drug & Treatment News",
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "health officials",
+        "trend": "diet wellness",
         "market_code": "JO",
-        "category": "Arab Health",
-        "score": 7,
-        "examples": [
-          "Michigan health officials say people can resume regular lettuce-eating habits as new cases of cyclosporiasis slow - ABC7 Chicago",
-          "Health officials confirm presence of ricin at Southwest Michigan apartment complex - CBS News",
-          "Health officials provide warning after possibly rabid bat found at New England zoo - Boston 25 News"
-        ]
-      },
-      {
-        "trend": "children",
-        "market_code": "JO",
-        "category": "Children Health",
-        "score": 5,
-        "examples": [
-          "Children's Health patient wins annual Volleman's Dairy milk bottle design contest - NBC 5 Dallas-Fort Worth",
-          "T.J. Regional Health to host ‘Capes & Crowns’ Fundraiser for WHAS Crusade for Children - WBKO",
-          "Study highlights disparities in access to new pediatric food allergy treatment, omalizumab - Children's National"
-        ]
-      },
-      {
-        "trend": "clinical",
-        "market_code": "JO",
-        "category": "Arab Health",
-        "score": 5,
-        "examples": [
-          "How Will AI Impact the Future of the Clinical Workforce? - WCM Newsroom",
-          "Clinical trials: New mRNA cancer vaccine plus Keytruda sharply improves melanoma survival - UCHealth",
-          "AI-enabled clinical trials - Nature"
-        ]
+        "category": "Diet & Wellness",
+        "score": 1,
+        "examples": []
       }
     ],
     "Lebanon": [
       {
-        "trend": "health",
+        "trend": "health alert",
         "market_code": "LB",
         "category": "Arab Health",
-        "score": 67,
-        "examples": [
-          "Michigan health officials say people can resume regular lettuce-eating habits as new cases of cyclosporiasis slow - ABC7 Chicago",
-          "UNDP warns Russian drone attacks on Chernobyl endangers the health and safety of millions - Jurist.org",
-          "Health fair at Jefferson Elementary offers free medical services - KTTC"
-        ]
-      },
-      {
-        "trend": "medical",
-        "market_code": "LB",
-        "category": "Arab Health",
-        "score": 20,
-        "examples": [
-          "Health fair at Jefferson Elementary offers free medical services - KTTC",
-          "Health fair at Jefferson Elementary offers free medical services - KTTC",
-          "Know Your Rights: Medical Aid in Dying - aclu-il.org"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
         "trend": "outbreak",
         "market_code": "LB",
         "category": "Outbreaks",
-        "score": 13,
-        "examples": [
-          "Measles Outbreak Prompts Warning For Northern IL Travelers: Health Officials - Patch",
-          "CDC declares cyclospora outbreak over - Axios",
-          "DRC Ebola outbreak 'growing exponentially,' UN says - DW.com"
-        ]
-      },
-      {
-        "trend": "healthcare",
-        "market_code": "LB",
-        "category": "Arab Health",
-        "score": 11,
-        "examples": [
-          "The Watch: Uninsured Americans Still Pay Heavily Into U.S. Healthcare - publichealthwatch.org",
-          "The Watch: Uninsured Americans Still Pay Heavily Into U.S. Healthcare - publichealthwatch.org",
-          "At CTA event, federal health officials outline AI ambitions as clinicians debate risks - Fierce Healthcare"
-        ]
-      },
-      {
-        "trend": "mental",
-        "market_code": "LB",
-        "category": "Mental Health",
-        "score": 10,
-        "examples": [
-          "Colorado author to host talk about mental health and a 500-mile long hike across the state - VailDaily.com",
-          "Agawam golfers tee off for mental health awareness - WWLP",
-          "Common genetic variants are associated with increased likelihood of latent co-occurring neurodevelopmental and mental health factors among autistic individuals - Nature"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
         "trend": "mental health",
         "market_code": "LB",
         "category": "Mental Health",
-        "score": 9,
-        "examples": [
-          "Colorado author to host talk about mental health and a 500-mile long hike across the state - VailDaily.com",
-          "Agawam golfers tee off for mental health awareness - WWLP",
-          "Common genetic variants are associated with increased likelihood of latent co-occurring neurodevelopmental and mental health factors among autistic individuals - Nature"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "virus",
-        "market_code": "LB",
-        "category": "Outbreaks",
-        "score": 8,
-        "examples": [
-          "Illinois Department Of Public Health Urges Public To Get Vaccinated Ahead Of Respiratory Virus Season - Effingham Radio",
-          "New virus detected in a tick invasive to the US. Should we be concerned? - NewsNation",
-          "2 more mosquito traps test positive for West Nile virus in Ga. - WRDW"
-        ]
-      },
-      {
-        "trend": "warning",
+        "trend": "medical research",
         "market_code": "LB",
         "category": "Arab Health",
-        "score": 8,
-        "examples": [
-          "Health warning issued for Galveston beaches during red tide - Houston Chronicle",
-          "Health officials provide warning after possibly rabid bat found at New England zoo - Boston 25 News",
-          "‘I still don’t have my MRI’: My health insurer canceled my plan without warning. Is that legal? - MarketWatch"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "cancer",
+        "trend": "drug approval",
         "market_code": "LB",
-        "category": "Chronic Disease",
-        "score": 8,
-        "examples": [
-          "Clinical trials: New mRNA cancer vaccine plus Keytruda sharply improves melanoma survival - UCHealth",
-          "The data from Moderna and Merck’s trial have yet to be presented - The Cancer Letter",
-          "mRNA cancer vaccines’ biggest barriers to market - BioPharma Dive"
-        ]
+        "category": "Drug & Treatment News",
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "health officials",
+        "trend": "diet wellness",
         "market_code": "LB",
-        "category": "Arab Health",
-        "score": 7,
-        "examples": [
-          "Michigan health officials say people can resume regular lettuce-eating habits as new cases of cyclosporiasis slow - ABC7 Chicago",
-          "Health officials confirm presence of ricin at Southwest Michigan apartment complex - CBS News",
-          "Health officials provide warning after possibly rabid bat found at New England zoo - Boston 25 News"
-        ]
-      },
-      {
-        "trend": "children",
-        "market_code": "LB",
-        "category": "Children Health",
-        "score": 5,
-        "examples": [
-          "Children's Health patient wins annual Volleman's Dairy milk bottle design contest - NBC 5 Dallas-Fort Worth",
-          "T.J. Regional Health to host ‘Capes & Crowns’ Fundraiser for WHAS Crusade for Children - WBKO",
-          "Study highlights disparities in access to new pediatric food allergy treatment, omalizumab - Children's National"
-        ]
-      },
-      {
-        "trend": "clinical",
-        "market_code": "LB",
-        "category": "Arab Health",
-        "score": 5,
-        "examples": [
-          "How Will AI Impact the Future of the Clinical Workforce? - WCM Newsroom",
-          "Clinical trials: New mRNA cancer vaccine plus Keytruda sharply improves melanoma survival - UCHealth",
-          "AI-enabled clinical trials - Nature"
-        ]
+        "category": "Diet & Wellness",
+        "score": 1,
+        "examples": []
       }
     ]
   }
