@@ -1,2819 +1,929 @@
 {
-  "updated_at": "2026-09-21T17:16:08.544182+00:00",
-  "total_trends": 252,
+  "updated_at": "2026-09-21T22:00:54.755186+00:00",
+  "total_trends": 126,
   "markets": {
     "United States": [
       {
-        "trend": "health",
+        "trend": "health alert",
         "market_code": "US",
         "category": "US Health",
-        "score": 80,
-        "examples": [
-          "5 Breakfast Foods Dietitians Recommend for Better Brain Health - health.com",
-          "5 Breakfast Foods Dietitians Recommend for Better Brain Health - health.com",
-          "Health Care Roundup: Market Talk - WSJ"
-        ]
-      },
-      {
-        "trend": "medical",
-        "market_code": "US",
-        "category": "US Health",
-        "score": 20,
-        "examples": [
-          "Sharp Tri-City Medical Center nurses to hold informational picket demanding accountability to Measure H promises - National Nurses United",
-          "Medical Devices: FDA Should Strengthen Policies Guiding Audits of Third Party Review Organizations - U.S. Government Accountability Office (.gov)",
-          "Former ECU Health Medical Center patient credits rehabilitation team and determination for remarkable recovery from paralysis - ECU Health"
-        ]
-      },
-      {
-        "trend": "mental",
-        "market_code": "US",
-        "category": "Mental Health",
-        "score": 15,
-        "examples": [
-          "Presley Gerber Had Mental Health Struggles Before Death. What He Said About Depression and Alcohol - TODAY.com",
-          "Garden Grove Replaces Be Well OC’s Mental Health Services - Voice of OC",
-          "Jessie Diggins, Olympic gold medalist and mental health advocate, to speak Oct. 29 at Montana State University - montana.edu"
-        ]
-      },
-      {
-        "trend": "mental health",
-        "market_code": "US",
-        "category": "Mental Health",
-        "score": 13,
-        "examples": [
-          "Presley Gerber Had Mental Health Struggles Before Death. What He Said About Depression and Alcohol - TODAY.com",
-          "Garden Grove Replaces Be Well OC’s Mental Health Services - Voice of OC",
-          "Jessie Diggins, Olympic gold medalist and mental health advocate, to speak Oct. 29 at Montana State University - montana.edu"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
         "trend": "outbreak",
         "market_code": "US",
         "category": "Outbreaks",
-        "score": 12,
-        "examples": [
-          "3 dead in suspected hantavirus outbreak aboard a cruise ship: What to know - ABC News - Breaking News, Latest News and Videos",
-          "DRC’s Ebola Outbreak: The Vast Mobilisation That Doesn’t Measure Itself (Part II) - Health Policy Watch",
-          "Congo faces unprecedented Ebola outbreak without approved vaccine protection - News-Medical"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "disease",
+        "trend": "mental health",
+        "market_code": "US",
+        "category": "Mental Health",
+        "score": 1,
+        "examples": []
+      },
+      {
+        "trend": "medical research",
         "market_code": "US",
         "category": "US Health",
-        "score": 11,
-        "examples": [
-          "From detection to action: Why collaboration is key to disease outbreak and pandemic response - The World Economic Forum",
-          "Smallpox Military Policy and Decisive Actions of George Washington - Centers for Disease Control and Prevention | CDC (.gov)",
-          "Highlighting Mental Health Disparities in Indigenous Communities Affected by Huntington’s Disease - HDBuzz"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "warning",
+        "trend": "drug approval",
         "market_code": "US",
-        "category": "US Health",
-        "score": 9,
-        "examples": [
-          "Chileno Fire Prompts Sonoma County Health Warning - Patch",
-          "‘Do not touch.’ Health officials issue warning after fiery F-16 crash in Northern Michigan - MLive.com",
-          "Experts issue health warning ahead of early autumn clock change - Discover SWNS"
-        ]
+        "category": "Drug & Treatment News",
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "heart",
+        "trend": "diet wellness",
         "market_code": "US",
-        "category": "Chronic Disease",
-        "score": 8,
-        "examples": [
-          "Cardiovascular disease tops cancer as leading cause of death among Hispanic adults in U.S. - www.heart.org",
-          "Roundup: Heart Disease Surpasses Cancer as Top Cause of Death Among U.S. Hispanics; and More News - Baptist Health",
-          "Chronic stress may be quietly reshaping your heart - ScienceDaily"
-        ]
-      },
-      {
-        "trend": "health care",
-        "market_code": "US",
-        "category": "US Health",
-        "score": 7,
-        "examples": [
-          "Health Care Roundup: Market Talk - WSJ",
-          "NYC Health + Hospitals/Metropolitan Convenes Eight Latin American Consulates for Health Care Summit - nychealthandhospitals.org",
-          "WHO launches new primary health care course to strengthen health systems globally - World Health Organization (WHO)"
-        ]
-      },
-      {
-        "trend": "public health",
-        "market_code": "US",
-        "category": "US Health",
-        "score": 7,
-        "examples": [
-          "Making Capitol Hill Connections for Public Health Advocacy - Association of State and Territorial Health Officials | ASTHO",
-          "Making Capitol Hill Connections for Public Health Advocacy - Association of State and Territorial Health Officials | ASTHO",
-          "Noise pollution is a serious but often forgotten public health problem - The Conversation"
-        ]
-      },
-      {
-        "trend": "measles",
-        "market_code": "US",
-        "category": "Outbreaks",
-        "score": 7,
-        "examples": [
-          "Flathead County health officials warn of measles exposure sites - nbcmontana.com",
-          "Second Measles Warning Issued as Airport Travelers Told to Check Vaccination Status - Northeast Times",
-          "Public health alert: Measles patient traveled by bus through Oroville - Action News Now"
-        ]
-      },
-      {
-        "trend": "children",
-        "market_code": "US",
-        "category": "Children Health",
-        "score": 7,
-        "examples": [
-          "Cleveland Clinic Children’s Expands Newborn Screening to Identify Virus that Can Lead to Hearing Loss and Developmental Delays - Cleveland Clinic",
-          "Cleveland Clinic Children's expands newborn screening for virus that causes hearing loss, de­vel­op­mental delays - Spectrum News",
-          "Author writes children’s book to help families navigate mental health challenges - ABC7 WWSB"
-        ]
+        "category": "Diet & Wellness",
+        "score": 1,
+        "examples": []
       }
     ],
     "United Kingdom": [
       {
-        "trend": "health",
+        "trend": "health alert",
         "market_code": "GB",
         "category": "Europe Health",
-        "score": 77,
-        "examples": [
-          "Health Minister welcomes Lagan Valley milestone - health-ni.gov.uk",
-          "'Other generations just buried it' - Youths share their mental health concerns - BBC",
-          "Willingness to seek help may explain rising mental health demand among young people - Pulse Today"
-        ]
-      },
-      {
-        "trend": "mental",
-        "market_code": "GB",
-        "category": "Mental Health",
-        "score": 15,
-        "examples": [
-          "'Other generations just buried it' - Youths share their mental health concerns - BBC",
-          "Willingness to seek help may explain rising mental health demand among young people - Pulse Today",
-          "Documentary screening showcases the lasting impact of arts project on mental health patients - Betsi Cadwaladr University Health Board"
-        ]
-      },
-      {
-        "trend": "medical",
-        "market_code": "GB",
-        "category": "Europe Health",
-        "score": 13,
-        "examples": [
-          "Afghan medical students face expulsion from Pakistan - The Telegraph",
-          "Medical Update | Kolo Muani - Juventus.com",
-          "Pharmacies gain access to patient medical records - Bailiwick Express"
-        ]
-      },
-      {
-        "trend": "mental health",
-        "market_code": "GB",
-        "category": "Mental Health",
-        "score": 12,
-        "examples": [
-          "'Other generations just buried it' - Youths share their mental health concerns - BBC",
-          "Willingness to seek help may explain rising mental health demand among young people - Pulse Today",
-          "Documentary screening showcases the lasting impact of arts project on mental health patients - Betsi Cadwaladr University Health Board"
-        ]
-      },
-      {
-        "trend": "disease",
-        "market_code": "GB",
-        "category": "Europe Health",
-        "score": 11,
-        "examples": [
-          "Highlighting Mental Health Disparities in Indigenous Communities Affected by Huntington’s Disease - HDBuzz",
-          "From detection to action: Why collaboration is key to disease outbreak and pandemic response - The World Economic Forum",
-          "MSF starts an important vaccination study among frontline workers against Ebola disease - prezly.msf.org.uk"
-        ]
-      },
-      {
-        "trend": "healthcare",
-        "market_code": "GB",
-        "category": "Europe Health",
-        "score": 10,
-        "examples": [
-          "NHS leaders pressed for answers over future of healthcare in North Lincolnshire - northlincs.gov.uk",
-          "Neighbourhoods the ‘engine room’ for delivering population health priorities - Healthcare Leader",
-          "This Week in European HealthTech, MedTech and Health AI: 18th September 2026 - healthcare.digital"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
         "trend": "outbreak",
         "market_code": "GB",
         "category": "Outbreaks",
-        "score": 10,
-        "examples": [
-          "Congo faces unprecedented Ebola outbreak without approved vaccine protection - News-Medical",
-          "DRC’s Ebola Outbreak: The Vast Mobilisation That Doesn’t Measure Itself (Part II) - Health Policy Watch",
-          "Mumps outbreak at California college linked to student athletes - independent.co.uk"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "warning",
+        "trend": "mental health",
+        "market_code": "GB",
+        "category": "Mental Health",
+        "score": 1,
+        "examples": []
+      },
+      {
+        "trend": "medical research",
         "market_code": "GB",
         "category": "Europe Health",
-        "score": 9,
-        "examples": [
-          "Experts issue health warning ahead of early autumn clock change - Discover SWNS",
-          "Warning to everyone who uses common lightbulbs over deadly illness - Cambridge News",
-          "Health warning issued for mushrooms sold in Harrop due to possible misidentification - Castanet Kamloops"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "health care",
-        "market_code": "GB",
-        "category": "Europe Health",
-        "score": 6,
-        "examples": [
-          "WHO Health Emergencies EPI-WIN webinar: from framework to action: operationalizing emergency ready primary health care for community protection and resilient health systems - World Health Organization (WHO)",
-          "Health and care sector latest developments - The NHS Alliance",
-          "There’s finally momentum to fix Australia’s health care system - AFR"
-        ]
-      },
-      {
-        "trend": "drug",
+        "trend": "drug approval",
         "market_code": "GB",
         "category": "Drug & Treatment News",
-        "score": 6,
-        "examples": [
-          "FDA Advisory No.2026-1059 || Public Health Warning Against the Purchase and Consumption of the Unregistered Food Product “FOODMAN Butter Toast” - Food and Drug Administration - fda.gov.ph",
-          "Experts Urge Students to Stay Alert to Drug Misuse at CBSE Health Talkathon - boldnewsonline.com",
-          "Experts Urge Students to Stay Alert to Drug Misuse at CBSE Health Talkathon - boldnewsonline.com"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "infection",
+        "trend": "diet wellness",
         "market_code": "GB",
-        "category": "Outbreaks",
-        "score": 6,
-        "examples": [
-          "Sainsbury’s and Waitrose 'do not use' warning over item that may cause infection - Chronicle Live",
-          "iiCON launches next phase to accelerate pioneering infection R&D - Growth Platform - Liverpool City Region Growth Company",
-          "Pioneering consortium iiCON launches next phase to accelerate infection R&D - TheBusinessDesk.com"
-        ]
-      },
-      {
-        "trend": "vaccine",
-        "market_code": "GB",
-        "category": "Drug & Treatment News",
-        "score": 6,
-        "examples": [
-          "Congo faces unprecedented Ebola outbreak without approved vaccine protection - News-Medical",
-          "Ebola vaccine trial begins in DR Congo - UN News",
-          "Ebola vaccine trial begins in DR Congo - UN News"
-        ]
+        "category": "Diet & Wellness",
+        "score": 1,
+        "examples": []
       }
     ],
     "Germany": [
       {
-        "trend": "health",
+        "trend": "health alert",
         "market_code": "DE",
         "category": "Europe Health",
-        "score": 81,
-        "examples": [
-          "5 Breakfast Foods Dietitians Recommend for Better Brain Health - health.com",
-          "5 Breakfast Foods Dietitians Recommend for Better Brain Health - health.com",
-          "Health Care Roundup: Market Talk - WSJ"
-        ]
-      },
-      {
-        "trend": "medical",
-        "market_code": "DE",
-        "category": "Europe Health",
-        "score": 20,
-        "examples": [
-          "Sharp Tri-City Medical Center nurses to hold informational picket demanding accountability to Measure H promises - National Nurses United",
-          "Medical Devices: FDA Should Strengthen Policies Guiding Audits of Third Party Review Organizations - U.S. Government Accountability Office (.gov)",
-          "Reducing medical claims review time with AI on AWS: The EXL Medical IDP solution - Amazon Web Services (AWS)"
-        ]
-      },
-      {
-        "trend": "mental",
-        "market_code": "DE",
-        "category": "Mental Health",
-        "score": 15,
-        "examples": [
-          "Presley Gerber Had Mental Health Struggles Before Death. What He Said About Depression and Alcohol - TODAY.com",
-          "Garden Grove Replaces Be Well OC’s Mental Health Services - Voice of OC",
-          "Jessie Diggins, Olympic gold medalist and mental health advocate, to speak Oct. 29 at Montana State University - montana.edu"
-        ]
-      },
-      {
-        "trend": "mental health",
-        "market_code": "DE",
-        "category": "Mental Health",
-        "score": 13,
-        "examples": [
-          "Presley Gerber Had Mental Health Struggles Before Death. What He Said About Depression and Alcohol - TODAY.com",
-          "Garden Grove Replaces Be Well OC’s Mental Health Services - Voice of OC",
-          "Jessie Diggins, Olympic gold medalist and mental health advocate, to speak Oct. 29 at Montana State University - montana.edu"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
         "trend": "outbreak",
         "market_code": "DE",
         "category": "Outbreaks",
-        "score": 12,
-        "examples": [
-          "3 dead in suspected hantavirus outbreak aboard a cruise ship: What to know - ABC News - Breaking News, Latest News and Videos",
-          "DRC’s Ebola Outbreak: The Vast Mobilisation That Doesn’t Measure Itself (Part II) - Health Policy Watch",
-          "Congo faces unprecedented Ebola outbreak without approved vaccine protection - News-Medical"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "disease",
+        "trend": "mental health",
+        "market_code": "DE",
+        "category": "Mental Health",
+        "score": 1,
+        "examples": []
+      },
+      {
+        "trend": "medical research",
         "market_code": "DE",
         "category": "Europe Health",
-        "score": 11,
-        "examples": [
-          "From detection to action: Why collaboration is key to disease outbreak and pandemic response - The World Economic Forum",
-          "Smallpox Military Policy and Decisive Actions of George Washington - Centers for Disease Control and Prevention | CDC (.gov)",
-          "Highlighting Mental Health Disparities in Indigenous Communities Affected by Huntington’s Disease - HDBuzz"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "warning",
+        "trend": "drug approval",
         "market_code": "DE",
-        "category": "Europe Health",
-        "score": 9,
-        "examples": [
-          "Chileno Fire Prompts Sonoma County Health Warning - Patch",
-          "‘Do not touch.’ Health officials issue warning after fiery F-16 crash in Northern Michigan - MLive.com",
-          "Experts issue health warning ahead of early autumn clock change - Discover SWNS"
-        ]
+        "category": "Drug & Treatment News",
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "heart",
+        "trend": "diet wellness",
         "market_code": "DE",
-        "category": "Chronic Disease",
-        "score": 8,
-        "examples": [
-          "Cardiovascular disease tops cancer as leading cause of death among Hispanic adults in U.S. - www.heart.org",
-          "Roundup: Heart Disease Surpasses Cancer as Top Cause of Death Among U.S. Hispanics; and More News - Baptist Health",
-          "Chronic stress may be quietly reshaping your heart - ScienceDaily"
-        ]
-      },
-      {
-        "trend": "public health",
-        "market_code": "DE",
-        "category": "Europe Health",
-        "score": 7,
-        "examples": [
-          "Making Capitol Hill Connections for Public Health Advocacy - Association of State and Territorial Health Officials | ASTHO",
-          "Making Capitol Hill Connections for Public Health Advocacy - Association of State and Territorial Health Officials | ASTHO",
-          "Noise pollution is a serious but often forgotten public health problem - The Conversation"
-        ]
-      },
-      {
-        "trend": "measles",
-        "market_code": "DE",
-        "category": "Outbreaks",
-        "score": 7,
-        "examples": [
-          "Flathead County health officials warn of measles exposure sites - nbcmontana.com",
-          "Second Measles Warning Issued as Airport Travelers Told to Check Vaccination Status - Northeast Times",
-          "Public health alert: Measles patient traveled by bus through Oroville - Action News Now"
-        ]
-      },
-      {
-        "trend": "children",
-        "market_code": "DE",
-        "category": "Children Health",
-        "score": 7,
-        "examples": [
-          "Cleveland Clinic Children’s Expands Newborn Screening to Identify Virus that Can Lead to Hearing Loss and Developmental Delays - Cleveland Clinic",
-          "Cleveland Clinic Children's expands newborn screening for virus that causes hearing loss, de­vel­op­mental delays - Spectrum News",
-          "Author writes children’s book to help families navigate mental health challenges - ABC7 WWSB"
-        ]
-      },
-      {
-        "trend": "health care",
-        "market_code": "DE",
-        "category": "Europe Health",
-        "score": 6,
-        "examples": [
-          "Health Care Roundup: Market Talk - WSJ",
-          "NYC Health + Hospitals/Metropolitan Convenes Eight Latin American Consulates for Health Care Summit - nychealthandhospitals.org",
-          "Pressing health care issues should be fodder for Wisconsin candidates - Isthmus | Madison, Wisconsin"
-        ]
+        "category": "Diet & Wellness",
+        "score": 1,
+        "examples": []
       }
     ],
     "France": [
       {
-        "trend": "health",
+        "trend": "health alert",
         "market_code": "FR",
         "category": "Europe Health",
-        "score": 81,
-        "examples": [
-          "5 Breakfast Foods Dietitians Recommend for Better Brain Health - health.com",
-          "5 Breakfast Foods Dietitians Recommend for Better Brain Health - health.com",
-          "Health Care Roundup: Market Talk - WSJ"
-        ]
-      },
-      {
-        "trend": "medical",
-        "market_code": "FR",
-        "category": "Europe Health",
-        "score": 20,
-        "examples": [
-          "Sharp Tri-City Medical Center nurses to hold informational picket demanding accountability to Measure H promises - National Nurses United",
-          "Medical Devices: FDA Should Strengthen Policies Guiding Audits of Third Party Review Organizations - U.S. Government Accountability Office (.gov)",
-          "Reducing medical claims review time with AI on AWS: The EXL Medical IDP solution - Amazon Web Services (AWS)"
-        ]
-      },
-      {
-        "trend": "mental",
-        "market_code": "FR",
-        "category": "Mental Health",
-        "score": 15,
-        "examples": [
-          "Presley Gerber Had Mental Health Struggles Before Death. What He Said About Depression and Alcohol - TODAY.com",
-          "Garden Grove Replaces Be Well OC’s Mental Health Services - Voice of OC",
-          "Jessie Diggins, Olympic gold medalist and mental health advocate, to speak Oct. 29 at Montana State University - montana.edu"
-        ]
-      },
-      {
-        "trend": "mental health",
-        "market_code": "FR",
-        "category": "Mental Health",
-        "score": 13,
-        "examples": [
-          "Presley Gerber Had Mental Health Struggles Before Death. What He Said About Depression and Alcohol - TODAY.com",
-          "Garden Grove Replaces Be Well OC’s Mental Health Services - Voice of OC",
-          "Jessie Diggins, Olympic gold medalist and mental health advocate, to speak Oct. 29 at Montana State University - montana.edu"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
         "trend": "outbreak",
         "market_code": "FR",
         "category": "Outbreaks",
-        "score": 12,
-        "examples": [
-          "3 dead in suspected hantavirus outbreak aboard a cruise ship: What to know - ABC News - Breaking News, Latest News and Videos",
-          "DRC’s Ebola Outbreak: The Vast Mobilisation That Doesn’t Measure Itself (Part II) - Health Policy Watch",
-          "Congo faces unprecedented Ebola outbreak without approved vaccine protection - News-Medical"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "disease",
+        "trend": "mental health",
+        "market_code": "FR",
+        "category": "Mental Health",
+        "score": 1,
+        "examples": []
+      },
+      {
+        "trend": "medical research",
         "market_code": "FR",
         "category": "Europe Health",
-        "score": 11,
-        "examples": [
-          "From detection to action: Why collaboration is key to disease outbreak and pandemic response - The World Economic Forum",
-          "Smallpox Military Policy and Decisive Actions of George Washington - Centers for Disease Control and Prevention | CDC (.gov)",
-          "Highlighting Mental Health Disparities in Indigenous Communities Affected by Huntington’s Disease - HDBuzz"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "warning",
+        "trend": "drug approval",
         "market_code": "FR",
-        "category": "Europe Health",
-        "score": 9,
-        "examples": [
-          "Chileno Fire Prompts Sonoma County Health Warning - Patch",
-          "‘Do not touch.’ Health officials issue warning after fiery F-16 crash in Northern Michigan - MLive.com",
-          "Experts issue health warning ahead of early autumn clock change - Discover SWNS"
-        ]
+        "category": "Drug & Treatment News",
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "heart",
+        "trend": "diet wellness",
         "market_code": "FR",
-        "category": "Chronic Disease",
-        "score": 8,
-        "examples": [
-          "Cardiovascular disease tops cancer as leading cause of death among Hispanic adults in U.S. - www.heart.org",
-          "Roundup: Heart Disease Surpasses Cancer as Top Cause of Death Among U.S. Hispanics; and More News - Baptist Health",
-          "Chronic stress may be quietly reshaping your heart - ScienceDaily"
-        ]
-      },
-      {
-        "trend": "public health",
-        "market_code": "FR",
-        "category": "Europe Health",
-        "score": 7,
-        "examples": [
-          "Making Capitol Hill Connections for Public Health Advocacy - Association of State and Territorial Health Officials | ASTHO",
-          "Making Capitol Hill Connections for Public Health Advocacy - Association of State and Territorial Health Officials | ASTHO",
-          "Noise pollution is a serious but often forgotten public health problem - The Conversation"
-        ]
-      },
-      {
-        "trend": "measles",
-        "market_code": "FR",
-        "category": "Outbreaks",
-        "score": 7,
-        "examples": [
-          "Flathead County health officials warn of measles exposure sites - nbcmontana.com",
-          "Second Measles Warning Issued as Airport Travelers Told to Check Vaccination Status - Northeast Times",
-          "Public health alert: Measles patient traveled by bus through Oroville - Action News Now"
-        ]
-      },
-      {
-        "trend": "children",
-        "market_code": "FR",
-        "category": "Children Health",
-        "score": 7,
-        "examples": [
-          "Cleveland Clinic Children’s Expands Newborn Screening to Identify Virus that Can Lead to Hearing Loss and Developmental Delays - Cleveland Clinic",
-          "Cleveland Clinic Children's expands newborn screening for virus that causes hearing loss, de­vel­op­mental delays - Spectrum News",
-          "Author writes children’s book to help families navigate mental health challenges - ABC7 WWSB"
-        ]
-      },
-      {
-        "trend": "health care",
-        "market_code": "FR",
-        "category": "Europe Health",
-        "score": 6,
-        "examples": [
-          "Health Care Roundup: Market Talk - WSJ",
-          "NYC Health + Hospitals/Metropolitan Convenes Eight Latin American Consulates for Health Care Summit - nychealthandhospitals.org",
-          "Pressing health care issues should be fodder for Wisconsin candidates - Isthmus | Madison, Wisconsin"
-        ]
+        "category": "Diet & Wellness",
+        "score": 1,
+        "examples": []
       }
     ],
     "Italy": [
       {
-        "trend": "health",
+        "trend": "health alert",
         "market_code": "IT",
         "category": "Europe Health",
-        "score": 81,
-        "examples": [
-          "5 Breakfast Foods Dietitians Recommend for Better Brain Health - health.com",
-          "5 Breakfast Foods Dietitians Recommend for Better Brain Health - health.com",
-          "Health Care Roundup: Market Talk - WSJ"
-        ]
-      },
-      {
-        "trend": "medical",
-        "market_code": "IT",
-        "category": "Europe Health",
-        "score": 20,
-        "examples": [
-          "Sharp Tri-City Medical Center nurses to hold informational picket demanding accountability to Measure H promises - National Nurses United",
-          "Medical Devices: FDA Should Strengthen Policies Guiding Audits of Third Party Review Organizations - U.S. Government Accountability Office (.gov)",
-          "Reducing medical claims review time with AI on AWS: The EXL Medical IDP solution - Amazon Web Services (AWS)"
-        ]
-      },
-      {
-        "trend": "mental",
-        "market_code": "IT",
-        "category": "Mental Health",
-        "score": 15,
-        "examples": [
-          "Presley Gerber Had Mental Health Struggles Before Death. What He Said About Depression and Alcohol - TODAY.com",
-          "Garden Grove Replaces Be Well OC’s Mental Health Services - Voice of OC",
-          "Jessie Diggins, Olympic gold medalist and mental health advocate, to speak Oct. 29 at Montana State University - montana.edu"
-        ]
-      },
-      {
-        "trend": "mental health",
-        "market_code": "IT",
-        "category": "Mental Health",
-        "score": 13,
-        "examples": [
-          "Presley Gerber Had Mental Health Struggles Before Death. What He Said About Depression and Alcohol - TODAY.com",
-          "Garden Grove Replaces Be Well OC’s Mental Health Services - Voice of OC",
-          "Jessie Diggins, Olympic gold medalist and mental health advocate, to speak Oct. 29 at Montana State University - montana.edu"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
         "trend": "outbreak",
         "market_code": "IT",
         "category": "Outbreaks",
-        "score": 12,
-        "examples": [
-          "3 dead in suspected hantavirus outbreak aboard a cruise ship: What to know - ABC News - Breaking News, Latest News and Videos",
-          "DRC’s Ebola Outbreak: The Vast Mobilisation That Doesn’t Measure Itself (Part II) - Health Policy Watch",
-          "Congo faces unprecedented Ebola outbreak without approved vaccine protection - News-Medical"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "disease",
+        "trend": "mental health",
+        "market_code": "IT",
+        "category": "Mental Health",
+        "score": 1,
+        "examples": []
+      },
+      {
+        "trend": "medical research",
         "market_code": "IT",
         "category": "Europe Health",
-        "score": 11,
-        "examples": [
-          "From detection to action: Why collaboration is key to disease outbreak and pandemic response - The World Economic Forum",
-          "Smallpox Military Policy and Decisive Actions of George Washington - Centers for Disease Control and Prevention | CDC (.gov)",
-          "Highlighting Mental Health Disparities in Indigenous Communities Affected by Huntington’s Disease - HDBuzz"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "warning",
+        "trend": "drug approval",
         "market_code": "IT",
-        "category": "Europe Health",
-        "score": 9,
-        "examples": [
-          "Chileno Fire Prompts Sonoma County Health Warning - Patch",
-          "‘Do not touch.’ Health officials issue warning after fiery F-16 crash in Northern Michigan - MLive.com",
-          "Experts issue health warning ahead of early autumn clock change - Discover SWNS"
-        ]
+        "category": "Drug & Treatment News",
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "heart",
+        "trend": "diet wellness",
         "market_code": "IT",
-        "category": "Chronic Disease",
-        "score": 8,
-        "examples": [
-          "Cardiovascular disease tops cancer as leading cause of death among Hispanic adults in U.S. - www.heart.org",
-          "Roundup: Heart Disease Surpasses Cancer as Top Cause of Death Among U.S. Hispanics; and More News - Baptist Health",
-          "Chronic stress may be quietly reshaping your heart - ScienceDaily"
-        ]
-      },
-      {
-        "trend": "public health",
-        "market_code": "IT",
-        "category": "Europe Health",
-        "score": 7,
-        "examples": [
-          "Making Capitol Hill Connections for Public Health Advocacy - Association of State and Territorial Health Officials | ASTHO",
-          "Making Capitol Hill Connections for Public Health Advocacy - Association of State and Territorial Health Officials | ASTHO",
-          "Noise pollution is a serious but often forgotten public health problem - The Conversation"
-        ]
-      },
-      {
-        "trend": "measles",
-        "market_code": "IT",
-        "category": "Outbreaks",
-        "score": 7,
-        "examples": [
-          "Flathead County health officials warn of measles exposure sites - nbcmontana.com",
-          "Second Measles Warning Issued as Airport Travelers Told to Check Vaccination Status - Northeast Times",
-          "Public health alert: Measles patient traveled by bus through Oroville - Action News Now"
-        ]
-      },
-      {
-        "trend": "children",
-        "market_code": "IT",
-        "category": "Children Health",
-        "score": 7,
-        "examples": [
-          "Cleveland Clinic Children’s Expands Newborn Screening to Identify Virus that Can Lead to Hearing Loss and Developmental Delays - Cleveland Clinic",
-          "Cleveland Clinic Children's expands newborn screening for virus that causes hearing loss, de­vel­op­mental delays - Spectrum News",
-          "Author writes children’s book to help families navigate mental health challenges - ABC7 WWSB"
-        ]
-      },
-      {
-        "trend": "health care",
-        "market_code": "IT",
-        "category": "Europe Health",
-        "score": 6,
-        "examples": [
-          "Health Care Roundup: Market Talk - WSJ",
-          "NYC Health + Hospitals/Metropolitan Convenes Eight Latin American Consulates for Health Care Summit - nychealthandhospitals.org",
-          "Pressing health care issues should be fodder for Wisconsin candidates - Isthmus | Madison, Wisconsin"
-        ]
+        "category": "Diet & Wellness",
+        "score": 1,
+        "examples": []
       }
     ],
     "Spain": [
       {
-        "trend": "health",
+        "trend": "health alert",
         "market_code": "ES",
         "category": "Europe Health",
-        "score": 81,
-        "examples": [
-          "5 Breakfast Foods Dietitians Recommend for Better Brain Health - health.com",
-          "5 Breakfast Foods Dietitians Recommend for Better Brain Health - health.com",
-          "Health Care Roundup: Market Talk - WSJ"
-        ]
-      },
-      {
-        "trend": "medical",
-        "market_code": "ES",
-        "category": "Europe Health",
-        "score": 20,
-        "examples": [
-          "Sharp Tri-City Medical Center nurses to hold informational picket demanding accountability to Measure H promises - National Nurses United",
-          "Medical Devices: FDA Should Strengthen Policies Guiding Audits of Third Party Review Organizations - U.S. Government Accountability Office (.gov)",
-          "Reducing medical claims review time with AI on AWS: The EXL Medical IDP solution - Amazon Web Services (AWS)"
-        ]
-      },
-      {
-        "trend": "mental",
-        "market_code": "ES",
-        "category": "Mental Health",
-        "score": 15,
-        "examples": [
-          "Presley Gerber Had Mental Health Struggles Before Death. What He Said About Depression and Alcohol - TODAY.com",
-          "Garden Grove Replaces Be Well OC’s Mental Health Services - Voice of OC",
-          "Jessie Diggins, Olympic gold medalist and mental health advocate, to speak Oct. 29 at Montana State University - montana.edu"
-        ]
-      },
-      {
-        "trend": "mental health",
-        "market_code": "ES",
-        "category": "Mental Health",
-        "score": 13,
-        "examples": [
-          "Presley Gerber Had Mental Health Struggles Before Death. What He Said About Depression and Alcohol - TODAY.com",
-          "Garden Grove Replaces Be Well OC’s Mental Health Services - Voice of OC",
-          "Jessie Diggins, Olympic gold medalist and mental health advocate, to speak Oct. 29 at Montana State University - montana.edu"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
         "trend": "outbreak",
         "market_code": "ES",
         "category": "Outbreaks",
-        "score": 12,
-        "examples": [
-          "3 dead in suspected hantavirus outbreak aboard a cruise ship: What to know - ABC News - Breaking News, Latest News and Videos",
-          "DRC’s Ebola Outbreak: The Vast Mobilisation That Doesn’t Measure Itself (Part II) - Health Policy Watch",
-          "Congo faces unprecedented Ebola outbreak without approved vaccine protection - News-Medical"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "disease",
+        "trend": "mental health",
+        "market_code": "ES",
+        "category": "Mental Health",
+        "score": 1,
+        "examples": []
+      },
+      {
+        "trend": "medical research",
         "market_code": "ES",
         "category": "Europe Health",
-        "score": 11,
-        "examples": [
-          "From detection to action: Why collaboration is key to disease outbreak and pandemic response - The World Economic Forum",
-          "Smallpox Military Policy and Decisive Actions of George Washington - Centers for Disease Control and Prevention | CDC (.gov)",
-          "Highlighting Mental Health Disparities in Indigenous Communities Affected by Huntington’s Disease - HDBuzz"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "warning",
+        "trend": "drug approval",
         "market_code": "ES",
-        "category": "Europe Health",
-        "score": 9,
-        "examples": [
-          "Chileno Fire Prompts Sonoma County Health Warning - Patch",
-          "‘Do not touch.’ Health officials issue warning after fiery F-16 crash in Northern Michigan - MLive.com",
-          "Experts issue health warning ahead of early autumn clock change - Discover SWNS"
-        ]
+        "category": "Drug & Treatment News",
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "heart",
+        "trend": "diet wellness",
         "market_code": "ES",
-        "category": "Chronic Disease",
-        "score": 8,
-        "examples": [
-          "Cardiovascular disease tops cancer as leading cause of death among Hispanic adults in U.S. - www.heart.org",
-          "Roundup: Heart Disease Surpasses Cancer as Top Cause of Death Among U.S. Hispanics; and More News - Baptist Health",
-          "Chronic stress may be quietly reshaping your heart - ScienceDaily"
-        ]
-      },
-      {
-        "trend": "public health",
-        "market_code": "ES",
-        "category": "Europe Health",
-        "score": 7,
-        "examples": [
-          "Making Capitol Hill Connections for Public Health Advocacy - Association of State and Territorial Health Officials | ASTHO",
-          "Making Capitol Hill Connections for Public Health Advocacy - Association of State and Territorial Health Officials | ASTHO",
-          "Noise pollution is a serious but often forgotten public health problem - The Conversation"
-        ]
-      },
-      {
-        "trend": "measles",
-        "market_code": "ES",
-        "category": "Outbreaks",
-        "score": 7,
-        "examples": [
-          "Flathead County health officials warn of measles exposure sites - nbcmontana.com",
-          "Second Measles Warning Issued as Airport Travelers Told to Check Vaccination Status - Northeast Times",
-          "Public health alert: Measles patient traveled by bus through Oroville - Action News Now"
-        ]
-      },
-      {
-        "trend": "children",
-        "market_code": "ES",
-        "category": "Children Health",
-        "score": 7,
-        "examples": [
-          "Cleveland Clinic Children’s Expands Newborn Screening to Identify Virus that Can Lead to Hearing Loss and Developmental Delays - Cleveland Clinic",
-          "Cleveland Clinic Children's expands newborn screening for virus that causes hearing loss, de­vel­op­mental delays - Spectrum News",
-          "Author writes children’s book to help families navigate mental health challenges - ABC7 WWSB"
-        ]
-      },
-      {
-        "trend": "health care",
-        "market_code": "ES",
-        "category": "Europe Health",
-        "score": 6,
-        "examples": [
-          "Health Care Roundup: Market Talk - WSJ",
-          "NYC Health + Hospitals/Metropolitan Convenes Eight Latin American Consulates for Health Care Summit - nychealthandhospitals.org",
-          "Pressing health care issues should be fodder for Wisconsin candidates - Isthmus | Madison, Wisconsin"
-        ]
+        "category": "Diet & Wellness",
+        "score": 1,
+        "examples": []
       }
     ],
     "Sweden": [
       {
-        "trend": "health",
+        "trend": "health alert",
         "market_code": "SE",
         "category": "Europe Health",
-        "score": 81,
-        "examples": [
-          "5 Breakfast Foods Dietitians Recommend for Better Brain Health - health.com",
-          "5 Breakfast Foods Dietitians Recommend for Better Brain Health - health.com",
-          "Health Care Roundup: Market Talk - WSJ"
-        ]
-      },
-      {
-        "trend": "medical",
-        "market_code": "SE",
-        "category": "Europe Health",
-        "score": 20,
-        "examples": [
-          "Sharp Tri-City Medical Center nurses to hold informational picket demanding accountability to Measure H promises - National Nurses United",
-          "Medical Devices: FDA Should Strengthen Policies Guiding Audits of Third Party Review Organizations - U.S. Government Accountability Office (.gov)",
-          "Reducing medical claims review time with AI on AWS: The EXL Medical IDP solution - Amazon Web Services (AWS)"
-        ]
-      },
-      {
-        "trend": "mental",
-        "market_code": "SE",
-        "category": "Mental Health",
-        "score": 15,
-        "examples": [
-          "Presley Gerber Had Mental Health Struggles Before Death. What He Said About Depression and Alcohol - TODAY.com",
-          "Garden Grove Replaces Be Well OC’s Mental Health Services - Voice of OC",
-          "Jessie Diggins, Olympic gold medalist and mental health advocate, to speak Oct. 29 at Montana State University - montana.edu"
-        ]
-      },
-      {
-        "trend": "mental health",
-        "market_code": "SE",
-        "category": "Mental Health",
-        "score": 13,
-        "examples": [
-          "Presley Gerber Had Mental Health Struggles Before Death. What He Said About Depression and Alcohol - TODAY.com",
-          "Garden Grove Replaces Be Well OC’s Mental Health Services - Voice of OC",
-          "Jessie Diggins, Olympic gold medalist and mental health advocate, to speak Oct. 29 at Montana State University - montana.edu"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
         "trend": "outbreak",
         "market_code": "SE",
         "category": "Outbreaks",
-        "score": 12,
-        "examples": [
-          "3 dead in suspected hantavirus outbreak aboard a cruise ship: What to know - ABC News - Breaking News, Latest News and Videos",
-          "DRC’s Ebola Outbreak: The Vast Mobilisation That Doesn’t Measure Itself (Part II) - Health Policy Watch",
-          "Congo faces unprecedented Ebola outbreak without approved vaccine protection - News-Medical"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "disease",
+        "trend": "mental health",
+        "market_code": "SE",
+        "category": "Mental Health",
+        "score": 1,
+        "examples": []
+      },
+      {
+        "trend": "medical research",
         "market_code": "SE",
         "category": "Europe Health",
-        "score": 11,
-        "examples": [
-          "From detection to action: Why collaboration is key to disease outbreak and pandemic response - The World Economic Forum",
-          "Smallpox Military Policy and Decisive Actions of George Washington - Centers for Disease Control and Prevention | CDC (.gov)",
-          "Highlighting Mental Health Disparities in Indigenous Communities Affected by Huntington’s Disease - HDBuzz"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "warning",
+        "trend": "drug approval",
         "market_code": "SE",
-        "category": "Europe Health",
-        "score": 9,
-        "examples": [
-          "Chileno Fire Prompts Sonoma County Health Warning - Patch",
-          "‘Do not touch.’ Health officials issue warning after fiery F-16 crash in Northern Michigan - MLive.com",
-          "Experts issue health warning ahead of early autumn clock change - Discover SWNS"
-        ]
+        "category": "Drug & Treatment News",
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "heart",
+        "trend": "diet wellness",
         "market_code": "SE",
-        "category": "Chronic Disease",
-        "score": 8,
-        "examples": [
-          "Cardiovascular disease tops cancer as leading cause of death among Hispanic adults in U.S. - www.heart.org",
-          "Roundup: Heart Disease Surpasses Cancer as Top Cause of Death Among U.S. Hispanics; and More News - Baptist Health",
-          "Chronic stress may be quietly reshaping your heart - ScienceDaily"
-        ]
-      },
-      {
-        "trend": "public health",
-        "market_code": "SE",
-        "category": "Europe Health",
-        "score": 7,
-        "examples": [
-          "Making Capitol Hill Connections for Public Health Advocacy - Association of State and Territorial Health Officials | ASTHO",
-          "Making Capitol Hill Connections for Public Health Advocacy - Association of State and Territorial Health Officials | ASTHO",
-          "Noise pollution is a serious but often forgotten public health problem - The Conversation"
-        ]
-      },
-      {
-        "trend": "measles",
-        "market_code": "SE",
-        "category": "Outbreaks",
-        "score": 7,
-        "examples": [
-          "Flathead County health officials warn of measles exposure sites - nbcmontana.com",
-          "Second Measles Warning Issued as Airport Travelers Told to Check Vaccination Status - Northeast Times",
-          "Public health alert: Measles patient traveled by bus through Oroville - Action News Now"
-        ]
-      },
-      {
-        "trend": "children",
-        "market_code": "SE",
-        "category": "Children Health",
-        "score": 7,
-        "examples": [
-          "Cleveland Clinic Children’s Expands Newborn Screening to Identify Virus that Can Lead to Hearing Loss and Developmental Delays - Cleveland Clinic",
-          "Cleveland Clinic Children's expands newborn screening for virus that causes hearing loss, de­vel­op­mental delays - Spectrum News",
-          "Author writes children’s book to help families navigate mental health challenges - ABC7 WWSB"
-        ]
-      },
-      {
-        "trend": "health care",
-        "market_code": "SE",
-        "category": "Europe Health",
-        "score": 6,
-        "examples": [
-          "Health Care Roundup: Market Talk - WSJ",
-          "NYC Health + Hospitals/Metropolitan Convenes Eight Latin American Consulates for Health Care Summit - nychealthandhospitals.org",
-          "Pressing health care issues should be fodder for Wisconsin candidates - Isthmus | Madison, Wisconsin"
-        ]
+        "category": "Diet & Wellness",
+        "score": 1,
+        "examples": []
       }
     ],
     "Netherlands": [
       {
-        "trend": "health",
+        "trend": "health alert",
         "market_code": "NL",
         "category": "Europe Health",
-        "score": 81,
-        "examples": [
-          "5 Breakfast Foods Dietitians Recommend for Better Brain Health - health.com",
-          "5 Breakfast Foods Dietitians Recommend for Better Brain Health - health.com",
-          "Health Care Roundup: Market Talk - WSJ"
-        ]
-      },
-      {
-        "trend": "medical",
-        "market_code": "NL",
-        "category": "Europe Health",
-        "score": 20,
-        "examples": [
-          "Sharp Tri-City Medical Center nurses to hold informational picket demanding accountability to Measure H promises - National Nurses United",
-          "Medical Devices: FDA Should Strengthen Policies Guiding Audits of Third Party Review Organizations - U.S. Government Accountability Office (.gov)",
-          "Reducing medical claims review time with AI on AWS: The EXL Medical IDP solution - Amazon Web Services (AWS)"
-        ]
-      },
-      {
-        "trend": "mental",
-        "market_code": "NL",
-        "category": "Mental Health",
-        "score": 15,
-        "examples": [
-          "Presley Gerber Had Mental Health Struggles Before Death. What He Said About Depression and Alcohol - TODAY.com",
-          "Garden Grove Replaces Be Well OC’s Mental Health Services - Voice of OC",
-          "Jessie Diggins, Olympic gold medalist and mental health advocate, to speak Oct. 29 at Montana State University - montana.edu"
-        ]
-      },
-      {
-        "trend": "mental health",
-        "market_code": "NL",
-        "category": "Mental Health",
-        "score": 13,
-        "examples": [
-          "Presley Gerber Had Mental Health Struggles Before Death. What He Said About Depression and Alcohol - TODAY.com",
-          "Garden Grove Replaces Be Well OC’s Mental Health Services - Voice of OC",
-          "Jessie Diggins, Olympic gold medalist and mental health advocate, to speak Oct. 29 at Montana State University - montana.edu"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
         "trend": "outbreak",
         "market_code": "NL",
         "category": "Outbreaks",
-        "score": 12,
-        "examples": [
-          "3 dead in suspected hantavirus outbreak aboard a cruise ship: What to know - ABC News - Breaking News, Latest News and Videos",
-          "DRC’s Ebola Outbreak: The Vast Mobilisation That Doesn’t Measure Itself (Part II) - Health Policy Watch",
-          "Congo faces unprecedented Ebola outbreak without approved vaccine protection - News-Medical"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "disease",
+        "trend": "mental health",
+        "market_code": "NL",
+        "category": "Mental Health",
+        "score": 1,
+        "examples": []
+      },
+      {
+        "trend": "medical research",
         "market_code": "NL",
         "category": "Europe Health",
-        "score": 11,
-        "examples": [
-          "From detection to action: Why collaboration is key to disease outbreak and pandemic response - The World Economic Forum",
-          "Smallpox Military Policy and Decisive Actions of George Washington - Centers for Disease Control and Prevention | CDC (.gov)",
-          "Highlighting Mental Health Disparities in Indigenous Communities Affected by Huntington’s Disease - HDBuzz"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "warning",
+        "trend": "drug approval",
         "market_code": "NL",
-        "category": "Europe Health",
-        "score": 9,
-        "examples": [
-          "Chileno Fire Prompts Sonoma County Health Warning - Patch",
-          "‘Do not touch.’ Health officials issue warning after fiery F-16 crash in Northern Michigan - MLive.com",
-          "Experts issue health warning ahead of early autumn clock change - Discover SWNS"
-        ]
+        "category": "Drug & Treatment News",
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "heart",
+        "trend": "diet wellness",
         "market_code": "NL",
-        "category": "Chronic Disease",
-        "score": 8,
-        "examples": [
-          "Cardiovascular disease tops cancer as leading cause of death among Hispanic adults in U.S. - www.heart.org",
-          "Roundup: Heart Disease Surpasses Cancer as Top Cause of Death Among U.S. Hispanics; and More News - Baptist Health",
-          "Chronic stress may be quietly reshaping your heart - ScienceDaily"
-        ]
-      },
-      {
-        "trend": "public health",
-        "market_code": "NL",
-        "category": "Europe Health",
-        "score": 7,
-        "examples": [
-          "Making Capitol Hill Connections for Public Health Advocacy - Association of State and Territorial Health Officials | ASTHO",
-          "Making Capitol Hill Connections for Public Health Advocacy - Association of State and Territorial Health Officials | ASTHO",
-          "Noise pollution is a serious but often forgotten public health problem - The Conversation"
-        ]
-      },
-      {
-        "trend": "measles",
-        "market_code": "NL",
-        "category": "Outbreaks",
-        "score": 7,
-        "examples": [
-          "Flathead County health officials warn of measles exposure sites - nbcmontana.com",
-          "Second Measles Warning Issued as Airport Travelers Told to Check Vaccination Status - Northeast Times",
-          "Public health alert: Measles patient traveled by bus through Oroville - Action News Now"
-        ]
-      },
-      {
-        "trend": "children",
-        "market_code": "NL",
-        "category": "Children Health",
-        "score": 7,
-        "examples": [
-          "Cleveland Clinic Children’s Expands Newborn Screening to Identify Virus that Can Lead to Hearing Loss and Developmental Delays - Cleveland Clinic",
-          "Cleveland Clinic Children's expands newborn screening for virus that causes hearing loss, de­vel­op­mental delays - Spectrum News",
-          "Author writes children’s book to help families navigate mental health challenges - ABC7 WWSB"
-        ]
-      },
-      {
-        "trend": "health care",
-        "market_code": "NL",
-        "category": "Europe Health",
-        "score": 6,
-        "examples": [
-          "Health Care Roundup: Market Talk - WSJ",
-          "NYC Health + Hospitals/Metropolitan Convenes Eight Latin American Consulates for Health Care Summit - nychealthandhospitals.org",
-          "Pressing health care issues should be fodder for Wisconsin candidates - Isthmus | Madison, Wisconsin"
-        ]
+        "category": "Diet & Wellness",
+        "score": 1,
+        "examples": []
       }
     ],
     "Finland": [
       {
-        "trend": "health",
+        "trend": "health alert",
         "market_code": "FI",
         "category": "Europe Health",
-        "score": 81,
-        "examples": [
-          "5 Breakfast Foods Dietitians Recommend for Better Brain Health - health.com",
-          "5 Breakfast Foods Dietitians Recommend for Better Brain Health - health.com",
-          "Health Care Roundup: Market Talk - WSJ"
-        ]
-      },
-      {
-        "trend": "medical",
-        "market_code": "FI",
-        "category": "Europe Health",
-        "score": 20,
-        "examples": [
-          "Sharp Tri-City Medical Center nurses to hold informational picket demanding accountability to Measure H promises - National Nurses United",
-          "Medical Devices: FDA Should Strengthen Policies Guiding Audits of Third Party Review Organizations - U.S. Government Accountability Office (.gov)",
-          "Reducing medical claims review time with AI on AWS: The EXL Medical IDP solution - Amazon Web Services (AWS)"
-        ]
-      },
-      {
-        "trend": "mental",
-        "market_code": "FI",
-        "category": "Mental Health",
-        "score": 15,
-        "examples": [
-          "Presley Gerber Had Mental Health Struggles Before Death. What He Said About Depression and Alcohol - TODAY.com",
-          "Garden Grove Replaces Be Well OC’s Mental Health Services - Voice of OC",
-          "Jessie Diggins, Olympic gold medalist and mental health advocate, to speak Oct. 29 at Montana State University - montana.edu"
-        ]
-      },
-      {
-        "trend": "mental health",
-        "market_code": "FI",
-        "category": "Mental Health",
-        "score": 13,
-        "examples": [
-          "Presley Gerber Had Mental Health Struggles Before Death. What He Said About Depression and Alcohol - TODAY.com",
-          "Garden Grove Replaces Be Well OC’s Mental Health Services - Voice of OC",
-          "Jessie Diggins, Olympic gold medalist and mental health advocate, to speak Oct. 29 at Montana State University - montana.edu"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
         "trend": "outbreak",
         "market_code": "FI",
         "category": "Outbreaks",
-        "score": 12,
-        "examples": [
-          "3 dead in suspected hantavirus outbreak aboard a cruise ship: What to know - ABC News - Breaking News, Latest News and Videos",
-          "DRC’s Ebola Outbreak: The Vast Mobilisation That Doesn’t Measure Itself (Part II) - Health Policy Watch",
-          "Congo faces unprecedented Ebola outbreak without approved vaccine protection - News-Medical"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "disease",
+        "trend": "mental health",
+        "market_code": "FI",
+        "category": "Mental Health",
+        "score": 1,
+        "examples": []
+      },
+      {
+        "trend": "medical research",
         "market_code": "FI",
         "category": "Europe Health",
-        "score": 11,
-        "examples": [
-          "From detection to action: Why collaboration is key to disease outbreak and pandemic response - The World Economic Forum",
-          "Smallpox Military Policy and Decisive Actions of George Washington - Centers for Disease Control and Prevention | CDC (.gov)",
-          "Highlighting Mental Health Disparities in Indigenous Communities Affected by Huntington’s Disease - HDBuzz"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "warning",
+        "trend": "drug approval",
         "market_code": "FI",
-        "category": "Europe Health",
-        "score": 9,
-        "examples": [
-          "Chileno Fire Prompts Sonoma County Health Warning - Patch",
-          "‘Do not touch.’ Health officials issue warning after fiery F-16 crash in Northern Michigan - MLive.com",
-          "Experts issue health warning ahead of early autumn clock change - Discover SWNS"
-        ]
+        "category": "Drug & Treatment News",
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "heart",
+        "trend": "diet wellness",
         "market_code": "FI",
-        "category": "Chronic Disease",
-        "score": 8,
-        "examples": [
-          "Cardiovascular disease tops cancer as leading cause of death among Hispanic adults in U.S. - www.heart.org",
-          "Roundup: Heart Disease Surpasses Cancer as Top Cause of Death Among U.S. Hispanics; and More News - Baptist Health",
-          "Chronic stress may be quietly reshaping your heart - ScienceDaily"
-        ]
-      },
-      {
-        "trend": "public health",
-        "market_code": "FI",
-        "category": "Europe Health",
-        "score": 7,
-        "examples": [
-          "Making Capitol Hill Connections for Public Health Advocacy - Association of State and Territorial Health Officials | ASTHO",
-          "Making Capitol Hill Connections for Public Health Advocacy - Association of State and Territorial Health Officials | ASTHO",
-          "Noise pollution is a serious but often forgotten public health problem - The Conversation"
-        ]
-      },
-      {
-        "trend": "measles",
-        "market_code": "FI",
-        "category": "Outbreaks",
-        "score": 7,
-        "examples": [
-          "Flathead County health officials warn of measles exposure sites - nbcmontana.com",
-          "Second Measles Warning Issued as Airport Travelers Told to Check Vaccination Status - Northeast Times",
-          "Public health alert: Measles patient traveled by bus through Oroville - Action News Now"
-        ]
-      },
-      {
-        "trend": "children",
-        "market_code": "FI",
-        "category": "Children Health",
-        "score": 7,
-        "examples": [
-          "Cleveland Clinic Children’s Expands Newborn Screening to Identify Virus that Can Lead to Hearing Loss and Developmental Delays - Cleveland Clinic",
-          "Cleveland Clinic Children's expands newborn screening for virus that causes hearing loss, de­vel­op­mental delays - Spectrum News",
-          "Author writes children’s book to help families navigate mental health challenges - ABC7 WWSB"
-        ]
-      },
-      {
-        "trend": "health care",
-        "market_code": "FI",
-        "category": "Europe Health",
-        "score": 6,
-        "examples": [
-          "Health Care Roundup: Market Talk - WSJ",
-          "NYC Health + Hospitals/Metropolitan Convenes Eight Latin American Consulates for Health Care Summit - nychealthandhospitals.org",
-          "Pressing health care issues should be fodder for Wisconsin candidates - Isthmus | Madison, Wisconsin"
-        ]
+        "category": "Diet & Wellness",
+        "score": 1,
+        "examples": []
       }
     ],
     "Norway": [
       {
-        "trend": "health",
+        "trend": "health alert",
         "market_code": "NO",
         "category": "Europe Health",
-        "score": 81,
-        "examples": [
-          "5 Breakfast Foods Dietitians Recommend for Better Brain Health - health.com",
-          "5 Breakfast Foods Dietitians Recommend for Better Brain Health - health.com",
-          "Health Care Roundup: Market Talk - WSJ"
-        ]
-      },
-      {
-        "trend": "medical",
-        "market_code": "NO",
-        "category": "Europe Health",
-        "score": 20,
-        "examples": [
-          "Sharp Tri-City Medical Center nurses to hold informational picket demanding accountability to Measure H promises - National Nurses United",
-          "Medical Devices: FDA Should Strengthen Policies Guiding Audits of Third Party Review Organizations - U.S. Government Accountability Office (.gov)",
-          "Reducing medical claims review time with AI on AWS: The EXL Medical IDP solution - Amazon Web Services (AWS)"
-        ]
-      },
-      {
-        "trend": "mental",
-        "market_code": "NO",
-        "category": "Mental Health",
-        "score": 15,
-        "examples": [
-          "Presley Gerber Had Mental Health Struggles Before Death. What He Said About Depression and Alcohol - TODAY.com",
-          "Garden Grove Replaces Be Well OC’s Mental Health Services - Voice of OC",
-          "Jessie Diggins, Olympic gold medalist and mental health advocate, to speak Oct. 29 at Montana State University - montana.edu"
-        ]
-      },
-      {
-        "trend": "mental health",
-        "market_code": "NO",
-        "category": "Mental Health",
-        "score": 13,
-        "examples": [
-          "Presley Gerber Had Mental Health Struggles Before Death. What He Said About Depression and Alcohol - TODAY.com",
-          "Garden Grove Replaces Be Well OC’s Mental Health Services - Voice of OC",
-          "Jessie Diggins, Olympic gold medalist and mental health advocate, to speak Oct. 29 at Montana State University - montana.edu"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
         "trend": "outbreak",
         "market_code": "NO",
         "category": "Outbreaks",
-        "score": 12,
-        "examples": [
-          "3 dead in suspected hantavirus outbreak aboard a cruise ship: What to know - ABC News - Breaking News, Latest News and Videos",
-          "DRC’s Ebola Outbreak: The Vast Mobilisation That Doesn’t Measure Itself (Part II) - Health Policy Watch",
-          "Congo faces unprecedented Ebola outbreak without approved vaccine protection - News-Medical"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "disease",
+        "trend": "mental health",
+        "market_code": "NO",
+        "category": "Mental Health",
+        "score": 1,
+        "examples": []
+      },
+      {
+        "trend": "medical research",
         "market_code": "NO",
         "category": "Europe Health",
-        "score": 11,
-        "examples": [
-          "From detection to action: Why collaboration is key to disease outbreak and pandemic response - The World Economic Forum",
-          "Smallpox Military Policy and Decisive Actions of George Washington - Centers for Disease Control and Prevention | CDC (.gov)",
-          "Highlighting Mental Health Disparities in Indigenous Communities Affected by Huntington’s Disease - HDBuzz"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "warning",
+        "trend": "drug approval",
         "market_code": "NO",
-        "category": "Europe Health",
-        "score": 9,
-        "examples": [
-          "Chileno Fire Prompts Sonoma County Health Warning - Patch",
-          "‘Do not touch.’ Health officials issue warning after fiery F-16 crash in Northern Michigan - MLive.com",
-          "Experts issue health warning ahead of early autumn clock change - Discover SWNS"
-        ]
+        "category": "Drug & Treatment News",
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "heart",
+        "trend": "diet wellness",
         "market_code": "NO",
-        "category": "Chronic Disease",
-        "score": 8,
-        "examples": [
-          "Cardiovascular disease tops cancer as leading cause of death among Hispanic adults in U.S. - www.heart.org",
-          "Roundup: Heart Disease Surpasses Cancer as Top Cause of Death Among U.S. Hispanics; and More News - Baptist Health",
-          "Chronic stress may be quietly reshaping your heart - ScienceDaily"
-        ]
-      },
-      {
-        "trend": "public health",
-        "market_code": "NO",
-        "category": "Europe Health",
-        "score": 7,
-        "examples": [
-          "Making Capitol Hill Connections for Public Health Advocacy - Association of State and Territorial Health Officials | ASTHO",
-          "Making Capitol Hill Connections for Public Health Advocacy - Association of State and Territorial Health Officials | ASTHO",
-          "Noise pollution is a serious but often forgotten public health problem - The Conversation"
-        ]
-      },
-      {
-        "trend": "measles",
-        "market_code": "NO",
-        "category": "Outbreaks",
-        "score": 7,
-        "examples": [
-          "Flathead County health officials warn of measles exposure sites - nbcmontana.com",
-          "Second Measles Warning Issued as Airport Travelers Told to Check Vaccination Status - Northeast Times",
-          "Public health alert: Measles patient traveled by bus through Oroville - Action News Now"
-        ]
-      },
-      {
-        "trend": "children",
-        "market_code": "NO",
-        "category": "Children Health",
-        "score": 7,
-        "examples": [
-          "Cleveland Clinic Children’s Expands Newborn Screening to Identify Virus that Can Lead to Hearing Loss and Developmental Delays - Cleveland Clinic",
-          "Cleveland Clinic Children's expands newborn screening for virus that causes hearing loss, de­vel­op­mental delays - Spectrum News",
-          "Author writes children’s book to help families navigate mental health challenges - ABC7 WWSB"
-        ]
-      },
-      {
-        "trend": "health care",
-        "market_code": "NO",
-        "category": "Europe Health",
-        "score": 6,
-        "examples": [
-          "Health Care Roundup: Market Talk - WSJ",
-          "NYC Health + Hospitals/Metropolitan Convenes Eight Latin American Consulates for Health Care Summit - nychealthandhospitals.org",
-          "Pressing health care issues should be fodder for Wisconsin candidates - Isthmus | Madison, Wisconsin"
-        ]
+        "category": "Diet & Wellness",
+        "score": 1,
+        "examples": []
       }
     ],
     "Japan": [
       {
-        "trend": "health",
+        "trend": "health alert",
         "market_code": "JP",
         "category": "Asia Health",
-        "score": 81,
-        "examples": [
-          "5 Breakfast Foods Dietitians Recommend for Better Brain Health - health.com",
-          "5 Breakfast Foods Dietitians Recommend for Better Brain Health - health.com",
-          "Health Care Roundup: Market Talk - WSJ"
-        ]
-      },
-      {
-        "trend": "medical",
-        "market_code": "JP",
-        "category": "Asia Health",
-        "score": 20,
-        "examples": [
-          "Sharp Tri-City Medical Center nurses to hold informational picket demanding accountability to Measure H promises - National Nurses United",
-          "Medical Devices: FDA Should Strengthen Policies Guiding Audits of Third Party Review Organizations - U.S. Government Accountability Office (.gov)",
-          "Reducing medical claims review time with AI on AWS: The EXL Medical IDP solution - Amazon Web Services (AWS)"
-        ]
-      },
-      {
-        "trend": "mental",
-        "market_code": "JP",
-        "category": "Mental Health",
-        "score": 15,
-        "examples": [
-          "Presley Gerber Had Mental Health Struggles Before Death. What He Said About Depression and Alcohol - TODAY.com",
-          "Garden Grove Replaces Be Well OC’s Mental Health Services - Voice of OC",
-          "Jessie Diggins, Olympic gold medalist and mental health advocate, to speak Oct. 29 at Montana State University - montana.edu"
-        ]
-      },
-      {
-        "trend": "mental health",
-        "market_code": "JP",
-        "category": "Mental Health",
-        "score": 13,
-        "examples": [
-          "Presley Gerber Had Mental Health Struggles Before Death. What He Said About Depression and Alcohol - TODAY.com",
-          "Garden Grove Replaces Be Well OC’s Mental Health Services - Voice of OC",
-          "Jessie Diggins, Olympic gold medalist and mental health advocate, to speak Oct. 29 at Montana State University - montana.edu"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
         "trend": "outbreak",
         "market_code": "JP",
         "category": "Outbreaks",
-        "score": 12,
-        "examples": [
-          "3 dead in suspected hantavirus outbreak aboard a cruise ship: What to know - ABC News - Breaking News, Latest News and Videos",
-          "DRC’s Ebola Outbreak: The Vast Mobilisation That Doesn’t Measure Itself (Part II) - Health Policy Watch",
-          "Congo faces unprecedented Ebola outbreak without approved vaccine protection - News-Medical"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "disease",
+        "trend": "mental health",
+        "market_code": "JP",
+        "category": "Mental Health",
+        "score": 1,
+        "examples": []
+      },
+      {
+        "trend": "medical research",
         "market_code": "JP",
         "category": "Asia Health",
-        "score": 11,
-        "examples": [
-          "From detection to action: Why collaboration is key to disease outbreak and pandemic response - The World Economic Forum",
-          "Smallpox Military Policy and Decisive Actions of George Washington - Centers for Disease Control and Prevention | CDC (.gov)",
-          "Highlighting Mental Health Disparities in Indigenous Communities Affected by Huntington’s Disease - HDBuzz"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "warning",
+        "trend": "drug approval",
         "market_code": "JP",
-        "category": "Asia Health",
-        "score": 9,
-        "examples": [
-          "Chileno Fire Prompts Sonoma County Health Warning - Patch",
-          "‘Do not touch.’ Health officials issue warning after fiery F-16 crash in Northern Michigan - MLive.com",
-          "Experts issue health warning ahead of early autumn clock change - Discover SWNS"
-        ]
+        "category": "Drug & Treatment News",
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "heart",
+        "trend": "diet wellness",
         "market_code": "JP",
-        "category": "Chronic Disease",
-        "score": 8,
-        "examples": [
-          "Cardiovascular disease tops cancer as leading cause of death among Hispanic adults in U.S. - www.heart.org",
-          "Roundup: Heart Disease Surpasses Cancer as Top Cause of Death Among U.S. Hispanics; and More News - Baptist Health",
-          "Chronic stress may be quietly reshaping your heart - ScienceDaily"
-        ]
-      },
-      {
-        "trend": "public health",
-        "market_code": "JP",
-        "category": "Asia Health",
-        "score": 7,
-        "examples": [
-          "Making Capitol Hill Connections for Public Health Advocacy - Association of State and Territorial Health Officials | ASTHO",
-          "Making Capitol Hill Connections for Public Health Advocacy - Association of State and Territorial Health Officials | ASTHO",
-          "Noise pollution is a serious but often forgotten public health problem - The Conversation"
-        ]
-      },
-      {
-        "trend": "measles",
-        "market_code": "JP",
-        "category": "Outbreaks",
-        "score": 7,
-        "examples": [
-          "Flathead County health officials warn of measles exposure sites - nbcmontana.com",
-          "Second Measles Warning Issued as Airport Travelers Told to Check Vaccination Status - Northeast Times",
-          "Public health alert: Measles patient traveled by bus through Oroville - Action News Now"
-        ]
-      },
-      {
-        "trend": "children",
-        "market_code": "JP",
-        "category": "Children Health",
-        "score": 7,
-        "examples": [
-          "Cleveland Clinic Children’s Expands Newborn Screening to Identify Virus that Can Lead to Hearing Loss and Developmental Delays - Cleveland Clinic",
-          "Cleveland Clinic Children's expands newborn screening for virus that causes hearing loss, de­vel­op­mental delays - Spectrum News",
-          "Author writes children’s book to help families navigate mental health challenges - ABC7 WWSB"
-        ]
-      },
-      {
-        "trend": "health care",
-        "market_code": "JP",
-        "category": "Asia Health",
-        "score": 6,
-        "examples": [
-          "Health Care Roundup: Market Talk - WSJ",
-          "NYC Health + Hospitals/Metropolitan Convenes Eight Latin American Consulates for Health Care Summit - nychealthandhospitals.org",
-          "Pressing health care issues should be fodder for Wisconsin candidates - Isthmus | Madison, Wisconsin"
-        ]
+        "category": "Diet & Wellness",
+        "score": 1,
+        "examples": []
       }
     ],
     "China": [
       {
-        "trend": "health",
+        "trend": "health alert",
         "market_code": "CN",
         "category": "Asia Health",
-        "score": 81,
-        "examples": [
-          "5 Breakfast Foods Dietitians Recommend for Better Brain Health - health.com",
-          "5 Breakfast Foods Dietitians Recommend for Better Brain Health - health.com",
-          "Health Care Roundup: Market Talk - WSJ"
-        ]
-      },
-      {
-        "trend": "medical",
-        "market_code": "CN",
-        "category": "Asia Health",
-        "score": 20,
-        "examples": [
-          "Sharp Tri-City Medical Center nurses to hold informational picket demanding accountability to Measure H promises - National Nurses United",
-          "Medical Devices: FDA Should Strengthen Policies Guiding Audits of Third Party Review Organizations - U.S. Government Accountability Office (.gov)",
-          "Reducing medical claims review time with AI on AWS: The EXL Medical IDP solution - Amazon Web Services (AWS)"
-        ]
-      },
-      {
-        "trend": "mental",
-        "market_code": "CN",
-        "category": "Mental Health",
-        "score": 15,
-        "examples": [
-          "Presley Gerber Had Mental Health Struggles Before Death. What He Said About Depression and Alcohol - TODAY.com",
-          "Garden Grove Replaces Be Well OC’s Mental Health Services - Voice of OC",
-          "Jessie Diggins, Olympic gold medalist and mental health advocate, to speak Oct. 29 at Montana State University - montana.edu"
-        ]
-      },
-      {
-        "trend": "mental health",
-        "market_code": "CN",
-        "category": "Mental Health",
-        "score": 13,
-        "examples": [
-          "Presley Gerber Had Mental Health Struggles Before Death. What He Said About Depression and Alcohol - TODAY.com",
-          "Garden Grove Replaces Be Well OC’s Mental Health Services - Voice of OC",
-          "Jessie Diggins, Olympic gold medalist and mental health advocate, to speak Oct. 29 at Montana State University - montana.edu"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
         "trend": "outbreak",
         "market_code": "CN",
         "category": "Outbreaks",
-        "score": 12,
-        "examples": [
-          "3 dead in suspected hantavirus outbreak aboard a cruise ship: What to know - ABC News - Breaking News, Latest News and Videos",
-          "DRC’s Ebola Outbreak: The Vast Mobilisation That Doesn’t Measure Itself (Part II) - Health Policy Watch",
-          "Congo faces unprecedented Ebola outbreak without approved vaccine protection - News-Medical"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "disease",
+        "trend": "mental health",
+        "market_code": "CN",
+        "category": "Mental Health",
+        "score": 1,
+        "examples": []
+      },
+      {
+        "trend": "medical research",
         "market_code": "CN",
         "category": "Asia Health",
-        "score": 11,
-        "examples": [
-          "From detection to action: Why collaboration is key to disease outbreak and pandemic response - The World Economic Forum",
-          "Smallpox Military Policy and Decisive Actions of George Washington - Centers for Disease Control and Prevention | CDC (.gov)",
-          "Highlighting Mental Health Disparities in Indigenous Communities Affected by Huntington’s Disease - HDBuzz"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "warning",
+        "trend": "drug approval",
         "market_code": "CN",
-        "category": "Asia Health",
-        "score": 9,
-        "examples": [
-          "Chileno Fire Prompts Sonoma County Health Warning - Patch",
-          "‘Do not touch.’ Health officials issue warning after fiery F-16 crash in Northern Michigan - MLive.com",
-          "Experts issue health warning ahead of early autumn clock change - Discover SWNS"
-        ]
+        "category": "Drug & Treatment News",
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "heart",
+        "trend": "diet wellness",
         "market_code": "CN",
-        "category": "Chronic Disease",
-        "score": 8,
-        "examples": [
-          "Cardiovascular disease tops cancer as leading cause of death among Hispanic adults in U.S. - www.heart.org",
-          "Roundup: Heart Disease Surpasses Cancer as Top Cause of Death Among U.S. Hispanics; and More News - Baptist Health",
-          "Chronic stress may be quietly reshaping your heart - ScienceDaily"
-        ]
-      },
-      {
-        "trend": "public health",
-        "market_code": "CN",
-        "category": "Asia Health",
-        "score": 7,
-        "examples": [
-          "Making Capitol Hill Connections for Public Health Advocacy - Association of State and Territorial Health Officials | ASTHO",
-          "Making Capitol Hill Connections for Public Health Advocacy - Association of State and Territorial Health Officials | ASTHO",
-          "Noise pollution is a serious but often forgotten public health problem - The Conversation"
-        ]
-      },
-      {
-        "trend": "measles",
-        "market_code": "CN",
-        "category": "Outbreaks",
-        "score": 7,
-        "examples": [
-          "Flathead County health officials warn of measles exposure sites - nbcmontana.com",
-          "Second Measles Warning Issued as Airport Travelers Told to Check Vaccination Status - Northeast Times",
-          "Public health alert: Measles patient traveled by bus through Oroville - Action News Now"
-        ]
-      },
-      {
-        "trend": "children",
-        "market_code": "CN",
-        "category": "Children Health",
-        "score": 7,
-        "examples": [
-          "Cleveland Clinic Children’s Expands Newborn Screening to Identify Virus that Can Lead to Hearing Loss and Developmental Delays - Cleveland Clinic",
-          "Cleveland Clinic Children's expands newborn screening for virus that causes hearing loss, de­vel­op­mental delays - Spectrum News",
-          "Author writes children’s book to help families navigate mental health challenges - ABC7 WWSB"
-        ]
-      },
-      {
-        "trend": "health care",
-        "market_code": "CN",
-        "category": "Asia Health",
-        "score": 6,
-        "examples": [
-          "Health Care Roundup: Market Talk - WSJ",
-          "NYC Health + Hospitals/Metropolitan Convenes Eight Latin American Consulates for Health Care Summit - nychealthandhospitals.org",
-          "Pressing health care issues should be fodder for Wisconsin candidates - Isthmus | Madison, Wisconsin"
-        ]
+        "category": "Diet & Wellness",
+        "score": 1,
+        "examples": []
       }
     ],
     "South Korea": [
       {
-        "trend": "health",
+        "trend": "health alert",
         "market_code": "KR",
         "category": "Asia Health",
-        "score": 81,
-        "examples": [
-          "5 Breakfast Foods Dietitians Recommend for Better Brain Health - health.com",
-          "5 Breakfast Foods Dietitians Recommend for Better Brain Health - health.com",
-          "Health Care Roundup: Market Talk - WSJ"
-        ]
-      },
-      {
-        "trend": "medical",
-        "market_code": "KR",
-        "category": "Asia Health",
-        "score": 20,
-        "examples": [
-          "Sharp Tri-City Medical Center nurses to hold informational picket demanding accountability to Measure H promises - National Nurses United",
-          "Medical Devices: FDA Should Strengthen Policies Guiding Audits of Third Party Review Organizations - U.S. Government Accountability Office (.gov)",
-          "Reducing medical claims review time with AI on AWS: The EXL Medical IDP solution - Amazon Web Services (AWS)"
-        ]
-      },
-      {
-        "trend": "mental",
-        "market_code": "KR",
-        "category": "Mental Health",
-        "score": 15,
-        "examples": [
-          "Presley Gerber Had Mental Health Struggles Before Death. What He Said About Depression and Alcohol - TODAY.com",
-          "Garden Grove Replaces Be Well OC’s Mental Health Services - Voice of OC",
-          "Jessie Diggins, Olympic gold medalist and mental health advocate, to speak Oct. 29 at Montana State University - montana.edu"
-        ]
-      },
-      {
-        "trend": "mental health",
-        "market_code": "KR",
-        "category": "Mental Health",
-        "score": 13,
-        "examples": [
-          "Presley Gerber Had Mental Health Struggles Before Death. What He Said About Depression and Alcohol - TODAY.com",
-          "Garden Grove Replaces Be Well OC’s Mental Health Services - Voice of OC",
-          "Jessie Diggins, Olympic gold medalist and mental health advocate, to speak Oct. 29 at Montana State University - montana.edu"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
         "trend": "outbreak",
         "market_code": "KR",
         "category": "Outbreaks",
-        "score": 12,
-        "examples": [
-          "3 dead in suspected hantavirus outbreak aboard a cruise ship: What to know - ABC News - Breaking News, Latest News and Videos",
-          "DRC’s Ebola Outbreak: The Vast Mobilisation That Doesn’t Measure Itself (Part II) - Health Policy Watch",
-          "Congo faces unprecedented Ebola outbreak without approved vaccine protection - News-Medical"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "disease",
+        "trend": "mental health",
+        "market_code": "KR",
+        "category": "Mental Health",
+        "score": 1,
+        "examples": []
+      },
+      {
+        "trend": "medical research",
         "market_code": "KR",
         "category": "Asia Health",
-        "score": 11,
-        "examples": [
-          "From detection to action: Why collaboration is key to disease outbreak and pandemic response - The World Economic Forum",
-          "Smallpox Military Policy and Decisive Actions of George Washington - Centers for Disease Control and Prevention | CDC (.gov)",
-          "Highlighting Mental Health Disparities in Indigenous Communities Affected by Huntington’s Disease - HDBuzz"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "warning",
+        "trend": "drug approval",
         "market_code": "KR",
-        "category": "Asia Health",
-        "score": 9,
-        "examples": [
-          "Chileno Fire Prompts Sonoma County Health Warning - Patch",
-          "‘Do not touch.’ Health officials issue warning after fiery F-16 crash in Northern Michigan - MLive.com",
-          "Experts issue health warning ahead of early autumn clock change - Discover SWNS"
-        ]
+        "category": "Drug & Treatment News",
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "heart",
+        "trend": "diet wellness",
         "market_code": "KR",
-        "category": "Chronic Disease",
-        "score": 8,
-        "examples": [
-          "Cardiovascular disease tops cancer as leading cause of death among Hispanic adults in U.S. - www.heart.org",
-          "Roundup: Heart Disease Surpasses Cancer as Top Cause of Death Among U.S. Hispanics; and More News - Baptist Health",
-          "Chronic stress may be quietly reshaping your heart - ScienceDaily"
-        ]
-      },
-      {
-        "trend": "public health",
-        "market_code": "KR",
-        "category": "Asia Health",
-        "score": 7,
-        "examples": [
-          "Making Capitol Hill Connections for Public Health Advocacy - Association of State and Territorial Health Officials | ASTHO",
-          "Making Capitol Hill Connections for Public Health Advocacy - Association of State and Territorial Health Officials | ASTHO",
-          "Noise pollution is a serious but often forgotten public health problem - The Conversation"
-        ]
-      },
-      {
-        "trend": "measles",
-        "market_code": "KR",
-        "category": "Outbreaks",
-        "score": 7,
-        "examples": [
-          "Flathead County health officials warn of measles exposure sites - nbcmontana.com",
-          "Second Measles Warning Issued as Airport Travelers Told to Check Vaccination Status - Northeast Times",
-          "Public health alert: Measles patient traveled by bus through Oroville - Action News Now"
-        ]
-      },
-      {
-        "trend": "children",
-        "market_code": "KR",
-        "category": "Children Health",
-        "score": 7,
-        "examples": [
-          "Cleveland Clinic Children’s Expands Newborn Screening to Identify Virus that Can Lead to Hearing Loss and Developmental Delays - Cleveland Clinic",
-          "Cleveland Clinic Children's expands newborn screening for virus that causes hearing loss, de­vel­op­mental delays - Spectrum News",
-          "Author writes children’s book to help families navigate mental health challenges - ABC7 WWSB"
-        ]
-      },
-      {
-        "trend": "health care",
-        "market_code": "KR",
-        "category": "Asia Health",
-        "score": 6,
-        "examples": [
-          "Health Care Roundup: Market Talk - WSJ",
-          "NYC Health + Hospitals/Metropolitan Convenes Eight Latin American Consulates for Health Care Summit - nychealthandhospitals.org",
-          "Pressing health care issues should be fodder for Wisconsin candidates - Isthmus | Madison, Wisconsin"
-        ]
+        "category": "Diet & Wellness",
+        "score": 1,
+        "examples": []
       }
     ],
     "India": [
       {
-        "trend": "health",
+        "trend": "health alert",
         "market_code": "IN",
         "category": "Asia Health",
-        "score": 78,
-        "examples": [
-          "WHO welcomes strong health commitments at the 2026 BRICS Summit - World Health Organization (WHO)",
-          "WHO welcomes strong health commitments at the 2026 BRICS Summit - World Health Organization (WHO)",
-          "New international standard creates unified health data across Europe - News-Medical"
-        ]
-      },
-      {
-        "trend": "medical",
-        "market_code": "IN",
-        "category": "Asia Health",
-        "score": 14,
-        "examples": [
-          "Reducing medical claims review time with AI on AWS: The EXL Medical IDP solution - Amazon Web Services (AWS)",
-          "Reducing medical claims review time with AI on AWS: The EXL Medical IDP solution - Amazon Web Services (AWS)",
-          "NDPS Accused Cannot Manufacture Medical Ground For Bail By Delaying Treatment, Refusing Consent: J&K&L... - Live Law"
-        ]
-      },
-      {
-        "trend": "healthcare",
-        "market_code": "IN",
-        "category": "Asia Health",
-        "score": 13,
-        "examples": [
-          "Future of Egypt enters healthcare: Govt, military hospitals to serve tourist dollars - مدى مصر",
-          "AI in Indian Healthcare Delivery - Bain",
-          "India’s Healthcare Innovations Take Centre Stage at BRICS Summit- Expert View by Spherical Insights - Spherical Insights"
-        ]
-      },
-      {
-        "trend": "mental",
-        "market_code": "IN",
-        "category": "Mental Health",
-        "score": 10,
-        "examples": [
-          "Inside the Growing Use of AI Mental Health Chatbots | Neuro Therapy Today - DocWireNews",
-          "Inside the Growing Use of AI Mental Health Chatbots | Neuro Therapy Today - DocWireNews",
-          "Run for Hope 2026 raises funds for mental health initiatives in Nagaland - Nagaland Tribune"
-        ]
-      },
-      {
-        "trend": "mental health",
-        "market_code": "IN",
-        "category": "Mental Health",
-        "score": 10,
-        "examples": [
-          "Inside the Growing Use of AI Mental Health Chatbots | Neuro Therapy Today - DocWireNews",
-          "Inside the Growing Use of AI Mental Health Chatbots | Neuro Therapy Today - DocWireNews",
-          "Run for Hope 2026 raises funds for mental health initiatives in Nagaland - Nagaland Tribune"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
         "trend": "outbreak",
         "market_code": "IN",
         "category": "Outbreaks",
-        "score": 10,
-        "examples": [
-          "Over 52 thousand Indians brought back home from Gulf countries since outbreak of war, says MEA | Akashvani News - News On AIR",
-          "DRC’s Ebola Outbreak: The Vast Mobilisation That Doesn’t Measure Itself (Part II) - healthpolicy-watch.news",
-          "Congo faces unprecedented Ebola outbreak without approved vaccine protection - News-Medical"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "warning",
+        "trend": "mental health",
+        "market_code": "IN",
+        "category": "Mental Health",
+        "score": 1,
+        "examples": []
+      },
+      {
+        "trend": "medical research",
         "market_code": "IN",
         "category": "Asia Health",
-        "score": 9,
-        "examples": [
-          "FDA Advisory No.2026-1059 || Public Health Warning Against the Purchase and Consumption of the Unregistered Food Product “FOODMAN Butter Toast” - Food and Drug Administration - fda.gov.ph",
-          "Experts issue health warning ahead of early autumn clock change - Discover SWNS",
-          "Dementia warning signs every family should know - Kursiv Media"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "therapy",
-        "market_code": "IN",
-        "category": "Asia Health",
-        "score": 8,
-        "examples": [
-          "Inside the Growing Use of AI Mental Health Chatbots | Neuro Therapy Today - DocWireNews",
-          "Development of an investigational epigenetic silencer therapy to transcriptionally inactivate viral DNA in chronic hepatitis B - nature.com",
-          "Akums announces DCGI-approved triple therapy for H. pylori infection - Express Pharma"
-        ]
-      },
-      {
-        "trend": "vaccine",
+        "trend": "drug approval",
         "market_code": "IN",
         "category": "Drug & Treatment News",
-        "score": 7,
-        "examples": [
-          "Measles vaccine push urged in Americas after World Cup - Gavi, the Vaccine Alliance",
-          "Measles vaccine push urged in Americas after World Cup - Gavi, the Vaccine Alliance",
-          "Congo faces unprecedented Ebola outbreak without approved vaccine protection - News-Medical"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "disease",
+        "trend": "diet wellness",
         "market_code": "IN",
-        "category": "Asia Health",
-        "score": 7,
-        "examples": [
-          "From detection to action: Why collaboration is key to disease outbreak and pandemic response - The World Economic Forum",
-          "Highlighting Mental Health Disparities in Indigenous Communities Affected by Huntington’s Disease - HDBuzz",
-          "Bayer’s Kerendia secures FDA nod as first drug in 30 years for Type 1 diabetes-associated kidney disease - Fierce Pharma"
-        ]
-      },
-      {
-        "trend": "public health",
-        "market_code": "IN",
-        "category": "Asia Health",
-        "score": 6,
-        "examples": [
-          "Noise pollution is a serious but often forgotten public health problem - The Conversation",
-          "Noise pollution is a serious but often forgotten public health problem - The Conversation",
-          "'It's A Public Health Issue': Cardiologist Flags Food Safety Risks After JW Marriott Cockroach Incident - NDTV"
-        ]
-      },
-      {
-        "trend": "hospitals",
-        "market_code": "IN",
-        "category": "Asia Health",
-        "score": 6,
-        "examples": [
-          "Why treat hospitals that bought and used the fake drugs as innocent? - The Times of India",
-          "Future of Egypt enters healthcare: Govt, military hospitals to serve tourist dollars - مدى مصر",
-          "New hospitals, digital care & early screening: Maharashtra cabinet clears Rs 4,250-crore Pragati health r - The Times of India"
-        ]
+        "category": "Diet & Wellness",
+        "score": 1,
+        "examples": []
       }
     ],
     "Australia": [
       {
-        "trend": "health",
+        "trend": "health alert",
         "market_code": "AU",
         "category": "Global Health",
-        "score": 75,
-        "examples": [
-          "WHO welcomes strong health commitments at the 2026 BRICS Summit - who.int",
-          "Health, wealth and housing: here’s what forecasters think Australia will look like in 2066 - The Guardian",
-          "Making mental health chatbots more culturally sensitive won’t necessarily make them safer - The Conversation"
-        ]
-      },
-      {
-        "trend": "medical",
-        "market_code": "AU",
-        "category": "Global Health",
-        "score": 22,
-        "examples": [
-          "What’s making news in health and medical research - Medical Republic",
-          "What’s making news in health and medical research - Medical Republic",
-          "Rainwater tanks may be harboring hidden health risks - Medical Xpress"
-        ]
-      },
-      {
-        "trend": "mental",
-        "market_code": "AU",
-        "category": "Mental Health",
-        "score": 14,
-        "examples": [
-          "Making mental health chatbots more culturally sensitive won’t necessarily make them safer - The Conversation",
-          "Highlighting Mental Health Disparities in Indigenous Communities Affected by Huntington’s Disease - HDBuzz",
-          "'Not enough' mental health beds in Tasmania after arson attack, union warns - ABC News & Headlines – Australian Broadcasting Corporation"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
         "trend": "outbreak",
         "market_code": "AU",
         "category": "Outbreaks",
-        "score": 12,
-        "examples": [
-          "DRC’s Ebola Outbreak: The Vast Mobilisation That Doesn’t Measure Itself (Part II) - Health Policy Watch",
-          "Congo faces unprecedented Ebola outbreak without approved vaccine protection - News-Medical",
-          "From detection to action: Why collaboration is key to disease outbreak and pandemic response - The World Economic Forum"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
         "trend": "mental health",
         "market_code": "AU",
         "category": "Mental Health",
-        "score": 11,
-        "examples": [
-          "Making mental health chatbots more culturally sensitive won’t necessarily make them safer - The Conversation",
-          "Highlighting Mental Health Disparities in Indigenous Communities Affected by Huntington’s Disease - HDBuzz",
-          "'Not enough' mental health beds in Tasmania after arson attack, union warns - ABC News & Headlines – Australian Broadcasting Corporation"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "disease",
+        "trend": "medical research",
         "market_code": "AU",
         "category": "Global Health",
-        "score": 10,
-        "examples": [
-          "Highlighting Mental Health Disparities in Indigenous Communities Affected by Huntington’s Disease - HDBuzz",
-          "From detection to action: Why collaboration is key to disease outbreak and pandemic response - The World Economic Forum",
-          "Highlighting Mental Health Disparities in Indigenous Communities Affected by Huntington’s Disease - HDBuzz"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "healthcare",
-        "market_code": "AU",
-        "category": "Global Health",
-        "score": 10,
-        "examples": [
-          "ImExHS And 2 Other Australian AI Healthcare Stocks To Watch - simplywall.st",
-          "AI in Indian Healthcare Delivery - Bain",
-          "Agentic AI trust gap slowing healthcare provider adoption, survey reveals - Medical Device Network"
-        ]
-      },
-      {
-        "trend": "vaccine",
+        "trend": "drug approval",
         "market_code": "AU",
         "category": "Drug & Treatment News",
-        "score": 8,
-        "examples": [
-          "Measles vaccine push urged in Americas after World Cup - Gavi, the Vaccine Alliance",
-          "Measles vaccine push urged in Americas after World Cup - Gavi, the Vaccine Alliance",
-          "Congo faces unprecedented Ebola outbreak without approved vaccine protection - News-Medical"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "warning",
+        "trend": "diet wellness",
         "market_code": "AU",
-        "category": "Global Health",
-        "score": 8,
-        "examples": [
-          "FDA Advisory No.2026-1059 || Public Health Warning Against the Purchase and Consumption of the Unregistered Food Product “FOODMAN Butter Toast” - Food and Drug Administration - fda.gov.ph",
-          "Experts issue health warning ahead of early autumn clock change - Discover SWNS",
-          "Health warning issued for mushrooms sold in Harrop due to possible misidentification - Castanet Kamloops"
-        ]
-      },
-      {
-        "trend": "heart",
-        "market_code": "AU",
-        "category": "Chronic Disease",
-        "score": 7,
-        "examples": [
-          "This Pink October, MGallery redefines hospitality with care at its heart, launching the - Accor Group",
-          "Chronic stress may be quietly reshaping your heart - ScienceDaily",
-          "Cardiovascular disease tops cancer as leading cause of death among Hispanic adults in U.S. - www.heart.org"
-        ]
-      },
-      {
-        "trend": "cancer",
-        "market_code": "AU",
-        "category": "Chronic Disease",
-        "score": 7,
-        "examples": [
-          "Sugary drinks stood out in this stomach cancer study, but diet drinks did not - News-Medical",
-          "Adults with severe mental illness die 15 to 20 years earlier from diseases such as cancer - The Guardian",
-          "Transcript in the machine: How AI paved the way for customized mRNA cancer treatments - BioXconomy"
-        ]
-      },
-      {
-        "trend": "news-medical",
-        "market_code": "AU",
-        "category": "Global Health",
-        "score": 6,
-        "examples": [
-          "New international standard creates unified health data across Europe - News-Medical",
-          "Sugary drinks stood out in this stomach cancer study, but diet drinks did not - News-Medical",
-          "New international standard creates unified health data across Europe - News-Medical"
-        ]
+        "category": "Diet & Wellness",
+        "score": 1,
+        "examples": []
       }
     ],
     "Canada": [
       {
-        "trend": "health",
+        "trend": "health alert",
         "market_code": "CA",
         "category": "Global Health",
-        "score": 72,
-        "examples": [
-          "Two health innovation programs move into campus’ new building - Faculty of Health Sciences - McMaster University",
-          "Two health innovation programs move into campus’ new building - Faculty of Health Sciences - McMaster University",
-          "How UBC expanded student health and wellbeing to meet growing demand - UBC News"
-        ]
-      },
-      {
-        "trend": "medical",
-        "market_code": "CA",
-        "category": "Global Health",
-        "score": 17,
-        "examples": [
-          "Ottawa Warns Travellers About the Risks of Medical Tourism Abroad - TravelPulse Canada",
-          "Red Sea Global and Dr. Sulaiman Al Habib Medical Group Inaugurate The Red Sea Hospital - PR Newswire Canada",
-          "Medical Update | Kolo Muani - Juventus.com"
-        ]
-      },
-      {
-        "trend": "warning",
-        "market_code": "CA",
-        "category": "Global Health",
-        "score": 11,
-        "examples": [
-          "Health warning issued for mushrooms sold in Harrop due to possible misidentification - Castanet",
-          "Health officials issue rabies warning after skunk tests positive in B.C. Interior - winnipegfreepress.com",
-          "‘Do not touch.’ Health officials issue warning after fiery F-16 crash in Northern Michigan - MLive.com"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
         "trend": "outbreak",
         "market_code": "CA",
         "category": "Outbreaks",
-        "score": 10,
-        "examples": [
-          "COVID-19 Outbreak declared on 4 West - Guelph General Hospital",
-          "DRC’s Ebola Outbreak: The Vast Mobilisation That Doesn’t Measure Itself (Part II) - Health Policy Watch",
-          "Congo faces unprecedented Ebola outbreak without approved vaccine protection - News-Medical"
-        ]
-      },
-      {
-        "trend": "healthcare",
-        "market_code": "CA",
-        "category": "Global Health",
-        "score": 9,
-        "examples": [
-          "Profound Medical And 2 Other Canadian AI Healthcare Stocks To Own - simplywall.st",
-          "GuideAI Health Stock Under Pressure: Is Early-Stage AI Healthcare Momentum Losing Steam? - kalkine.ca",
-          "AI in Indian Healthcare Delivery - Bain"
-        ]
-      },
-      {
-        "trend": "cancer",
-        "market_code": "CA",
-        "category": "Chronic Disease",
-        "score": 8,
-        "examples": [
-          "A string of rare childhood cancer cases in this California suburb has the community on edge - CTV News",
-          "Moderna's COVID Vaccine Was a Historic Success. Could Its Cancer Vaccine Be Even Bigger? - The Globe and Mail",
-          "Transcript in the machine: How AI paved the way for customized mRNA cancer treatments - BioXconomy"
-        ]
-      },
-      {
-        "trend": "vaccine",
-        "market_code": "CA",
-        "category": "Drug & Treatment News",
-        "score": 8,
-        "examples": [
-          "Congo faces unprecedented Ebola outbreak without approved vaccine protection - News-Medical",
-          "Ebola vaccine trial begins in DR Congo - UN News",
-          "Ebola vaccine trial begins in DR Congo - UN News"
-        ]
-      },
-      {
-        "trend": "disease",
-        "market_code": "CA",
-        "category": "Global Health",
-        "score": 8,
-        "examples": [
-          "From detection to action: Why collaboration is key to disease outbreak and pandemic response - The World Economic Forum",
-          "Highlighting Mental Health Disparities in Indigenous Communities Affected by Huntington’s Disease - HDBuzz",
-          "Cardiovascular disease tops cancer as leading cause of death among Hispanic adults in U.S. - www.heart.org"
-        ]
-      },
-      {
-        "trend": "health care",
-        "market_code": "CA",
-        "category": "Global Health",
-        "score": 7,
-        "examples": [
-          "Webinar: Find out what Canadians think about health care - Canadian Health Coalition",
-          "Webinar: Find out what Canadians think about health care - Canadian Health Coalition",
-          "St. Anthony’s Hospital Foundation hosting second annual gala for health care in Esterhazy - World-Spectator - Moosomin"
-        ]
-      },
-      {
-        "trend": "mental",
-        "market_code": "CA",
-        "category": "Mental Health",
-        "score": 7,
-        "examples": [
-          "Making mental health chatbots more culturally sensitive won’t necessarily make them safer - The Conversation",
-          "Highlighting Mental Health Disparities in Indigenous Communities Affected by Huntington’s Disease - HDBuzz",
-          "Mental health tips offered to Ontario election candidates for ‘challenging’ campaigns - INsauga"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
         "trend": "mental health",
         "market_code": "CA",
         "category": "Mental Health",
-        "score": 7,
-        "examples": [
-          "Making mental health chatbots more culturally sensitive won’t necessarily make them safer - The Conversation",
-          "Highlighting Mental Health Disparities in Indigenous Communities Affected by Huntington’s Disease - HDBuzz",
-          "Mental health tips offered to Ontario election candidates for ‘challenging’ campaigns - INsauga"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "heart",
+        "trend": "medical research",
         "market_code": "CA",
-        "category": "Chronic Disease",
-        "score": 7,
-        "examples": [
-          "Stopping Ozempic may raise heart attack and stroke risk - ScienceDaily",
-          "Cardiovascular disease tops cancer as leading cause of death among Hispanic adults in U.S. - www.heart.org",
-          "Could Everyday Stress Be Damaging Your Heart? - technologynetworks.com"
-        ]
+        "category": "Global Health",
+        "score": 1,
+        "examples": []
+      },
+      {
+        "trend": "drug approval",
+        "market_code": "CA",
+        "category": "Drug & Treatment News",
+        "score": 1,
+        "examples": []
+      },
+      {
+        "trend": "diet wellness",
+        "market_code": "CA",
+        "category": "Diet & Wellness",
+        "score": 1,
+        "examples": []
       }
     ],
     "United Arab Emirates": [
       {
-        "trend": "health",
+        "trend": "health alert",
         "market_code": "AE",
         "category": "Arab Health",
-        "score": 81,
-        "examples": [
-          "5 Breakfast Foods Dietitians Recommend for Better Brain Health - health.com",
-          "5 Breakfast Foods Dietitians Recommend for Better Brain Health - health.com",
-          "Health Care Roundup: Market Talk - WSJ"
-        ]
-      },
-      {
-        "trend": "medical",
-        "market_code": "AE",
-        "category": "Arab Health",
-        "score": 20,
-        "examples": [
-          "Sharp Tri-City Medical Center nurses to hold informational picket demanding accountability to Measure H promises - National Nurses United",
-          "Medical Devices: FDA Should Strengthen Policies Guiding Audits of Third Party Review Organizations - U.S. Government Accountability Office (.gov)",
-          "Reducing medical claims review time with AI on AWS: The EXL Medical IDP solution - Amazon Web Services (AWS)"
-        ]
-      },
-      {
-        "trend": "mental",
-        "market_code": "AE",
-        "category": "Mental Health",
-        "score": 15,
-        "examples": [
-          "Presley Gerber Had Mental Health Struggles Before Death. What He Said About Depression and Alcohol - TODAY.com",
-          "Garden Grove Replaces Be Well OC’s Mental Health Services - Voice of OC",
-          "Jessie Diggins, Olympic gold medalist and mental health advocate, to speak Oct. 29 at Montana State University - montana.edu"
-        ]
-      },
-      {
-        "trend": "mental health",
-        "market_code": "AE",
-        "category": "Mental Health",
-        "score": 13,
-        "examples": [
-          "Presley Gerber Had Mental Health Struggles Before Death. What He Said About Depression and Alcohol - TODAY.com",
-          "Garden Grove Replaces Be Well OC’s Mental Health Services - Voice of OC",
-          "Jessie Diggins, Olympic gold medalist and mental health advocate, to speak Oct. 29 at Montana State University - montana.edu"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
         "trend": "outbreak",
         "market_code": "AE",
         "category": "Outbreaks",
-        "score": 12,
-        "examples": [
-          "3 dead in suspected hantavirus outbreak aboard a cruise ship: What to know - ABC News - Breaking News, Latest News and Videos",
-          "DRC’s Ebola Outbreak: The Vast Mobilisation That Doesn’t Measure Itself (Part II) - Health Policy Watch",
-          "Congo faces unprecedented Ebola outbreak without approved vaccine protection - News-Medical"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "disease",
+        "trend": "mental health",
+        "market_code": "AE",
+        "category": "Mental Health",
+        "score": 1,
+        "examples": []
+      },
+      {
+        "trend": "medical research",
         "market_code": "AE",
         "category": "Arab Health",
-        "score": 11,
-        "examples": [
-          "From detection to action: Why collaboration is key to disease outbreak and pandemic response - The World Economic Forum",
-          "Smallpox Military Policy and Decisive Actions of George Washington - Centers for Disease Control and Prevention | CDC (.gov)",
-          "Highlighting Mental Health Disparities in Indigenous Communities Affected by Huntington’s Disease - HDBuzz"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "warning",
+        "trend": "drug approval",
         "market_code": "AE",
-        "category": "Arab Health",
-        "score": 9,
-        "examples": [
-          "Chileno Fire Prompts Sonoma County Health Warning - Patch",
-          "‘Do not touch.’ Health officials issue warning after fiery F-16 crash in Northern Michigan - MLive.com",
-          "Experts issue health warning ahead of early autumn clock change - Discover SWNS"
-        ]
+        "category": "Drug & Treatment News",
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "heart",
+        "trend": "diet wellness",
         "market_code": "AE",
-        "category": "Chronic Disease",
-        "score": 8,
-        "examples": [
-          "Cardiovascular disease tops cancer as leading cause of death among Hispanic adults in U.S. - www.heart.org",
-          "Roundup: Heart Disease Surpasses Cancer as Top Cause of Death Among U.S. Hispanics; and More News - Baptist Health",
-          "Chronic stress may be quietly reshaping your heart - ScienceDaily"
-        ]
-      },
-      {
-        "trend": "public health",
-        "market_code": "AE",
-        "category": "Arab Health",
-        "score": 7,
-        "examples": [
-          "Making Capitol Hill Connections for Public Health Advocacy - Association of State and Territorial Health Officials | ASTHO",
-          "Making Capitol Hill Connections for Public Health Advocacy - Association of State and Territorial Health Officials | ASTHO",
-          "Noise pollution is a serious but often forgotten public health problem - The Conversation"
-        ]
-      },
-      {
-        "trend": "measles",
-        "market_code": "AE",
-        "category": "Outbreaks",
-        "score": 7,
-        "examples": [
-          "Flathead County health officials warn of measles exposure sites - nbcmontana.com",
-          "Second Measles Warning Issued as Airport Travelers Told to Check Vaccination Status - Northeast Times",
-          "Public health alert: Measles patient traveled by bus through Oroville - Action News Now"
-        ]
-      },
-      {
-        "trend": "children",
-        "market_code": "AE",
-        "category": "Children Health",
-        "score": 7,
-        "examples": [
-          "Cleveland Clinic Children’s Expands Newborn Screening to Identify Virus that Can Lead to Hearing Loss and Developmental Delays - Cleveland Clinic",
-          "Cleveland Clinic Children's expands newborn screening for virus that causes hearing loss, de­vel­op­mental delays - Spectrum News",
-          "Author writes children’s book to help families navigate mental health challenges - ABC7 WWSB"
-        ]
-      },
-      {
-        "trend": "health care",
-        "market_code": "AE",
-        "category": "Arab Health",
-        "score": 6,
-        "examples": [
-          "Health Care Roundup: Market Talk - WSJ",
-          "NYC Health + Hospitals/Metropolitan Convenes Eight Latin American Consulates for Health Care Summit - nychealthandhospitals.org",
-          "Pressing health care issues should be fodder for Wisconsin candidates - Isthmus | Madison, Wisconsin"
-        ]
+        "category": "Diet & Wellness",
+        "score": 1,
+        "examples": []
       }
     ],
     "Saudi Arabia": [
       {
-        "trend": "health",
+        "trend": "health alert",
         "market_code": "SA",
         "category": "Arab Health",
-        "score": 81,
-        "examples": [
-          "5 Breakfast Foods Dietitians Recommend for Better Brain Health - health.com",
-          "5 Breakfast Foods Dietitians Recommend for Better Brain Health - health.com",
-          "Health Care Roundup: Market Talk - WSJ"
-        ]
-      },
-      {
-        "trend": "medical",
-        "market_code": "SA",
-        "category": "Arab Health",
-        "score": 20,
-        "examples": [
-          "Sharp Tri-City Medical Center nurses to hold informational picket demanding accountability to Measure H promises - National Nurses United",
-          "Medical Devices: FDA Should Strengthen Policies Guiding Audits of Third Party Review Organizations - U.S. Government Accountability Office (.gov)",
-          "Reducing medical claims review time with AI on AWS: The EXL Medical IDP solution - Amazon Web Services (AWS)"
-        ]
-      },
-      {
-        "trend": "mental",
-        "market_code": "SA",
-        "category": "Mental Health",
-        "score": 15,
-        "examples": [
-          "Presley Gerber Had Mental Health Struggles Before Death. What He Said About Depression and Alcohol - TODAY.com",
-          "Garden Grove Replaces Be Well OC’s Mental Health Services - Voice of OC",
-          "Jessie Diggins, Olympic gold medalist and mental health advocate, to speak Oct. 29 at Montana State University - montana.edu"
-        ]
-      },
-      {
-        "trend": "mental health",
-        "market_code": "SA",
-        "category": "Mental Health",
-        "score": 13,
-        "examples": [
-          "Presley Gerber Had Mental Health Struggles Before Death. What He Said About Depression and Alcohol - TODAY.com",
-          "Garden Grove Replaces Be Well OC’s Mental Health Services - Voice of OC",
-          "Jessie Diggins, Olympic gold medalist and mental health advocate, to speak Oct. 29 at Montana State University - montana.edu"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
         "trend": "outbreak",
         "market_code": "SA",
         "category": "Outbreaks",
-        "score": 12,
-        "examples": [
-          "3 dead in suspected hantavirus outbreak aboard a cruise ship: What to know - ABC News - Breaking News, Latest News and Videos",
-          "DRC’s Ebola Outbreak: The Vast Mobilisation That Doesn’t Measure Itself (Part II) - Health Policy Watch",
-          "Congo faces unprecedented Ebola outbreak without approved vaccine protection - News-Medical"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "disease",
+        "trend": "mental health",
+        "market_code": "SA",
+        "category": "Mental Health",
+        "score": 1,
+        "examples": []
+      },
+      {
+        "trend": "medical research",
         "market_code": "SA",
         "category": "Arab Health",
-        "score": 11,
-        "examples": [
-          "From detection to action: Why collaboration is key to disease outbreak and pandemic response - The World Economic Forum",
-          "Smallpox Military Policy and Decisive Actions of George Washington - Centers for Disease Control and Prevention | CDC (.gov)",
-          "Highlighting Mental Health Disparities in Indigenous Communities Affected by Huntington’s Disease - HDBuzz"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "warning",
+        "trend": "drug approval",
         "market_code": "SA",
-        "category": "Arab Health",
-        "score": 9,
-        "examples": [
-          "Chileno Fire Prompts Sonoma County Health Warning - Patch",
-          "‘Do not touch.’ Health officials issue warning after fiery F-16 crash in Northern Michigan - MLive.com",
-          "Experts issue health warning ahead of early autumn clock change - Discover SWNS"
-        ]
+        "category": "Drug & Treatment News",
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "heart",
+        "trend": "diet wellness",
         "market_code": "SA",
-        "category": "Chronic Disease",
-        "score": 8,
-        "examples": [
-          "Cardiovascular disease tops cancer as leading cause of death among Hispanic adults in U.S. - www.heart.org",
-          "Roundup: Heart Disease Surpasses Cancer as Top Cause of Death Among U.S. Hispanics; and More News - Baptist Health",
-          "Chronic stress may be quietly reshaping your heart - ScienceDaily"
-        ]
-      },
-      {
-        "trend": "public health",
-        "market_code": "SA",
-        "category": "Arab Health",
-        "score": 7,
-        "examples": [
-          "Making Capitol Hill Connections for Public Health Advocacy - Association of State and Territorial Health Officials | ASTHO",
-          "Making Capitol Hill Connections for Public Health Advocacy - Association of State and Territorial Health Officials | ASTHO",
-          "Noise pollution is a serious but often forgotten public health problem - The Conversation"
-        ]
-      },
-      {
-        "trend": "measles",
-        "market_code": "SA",
-        "category": "Outbreaks",
-        "score": 7,
-        "examples": [
-          "Flathead County health officials warn of measles exposure sites - nbcmontana.com",
-          "Second Measles Warning Issued as Airport Travelers Told to Check Vaccination Status - Northeast Times",
-          "Public health alert: Measles patient traveled by bus through Oroville - Action News Now"
-        ]
-      },
-      {
-        "trend": "children",
-        "market_code": "SA",
-        "category": "Children Health",
-        "score": 7,
-        "examples": [
-          "Cleveland Clinic Children’s Expands Newborn Screening to Identify Virus that Can Lead to Hearing Loss and Developmental Delays - Cleveland Clinic",
-          "Cleveland Clinic Children's expands newborn screening for virus that causes hearing loss, de­vel­op­mental delays - Spectrum News",
-          "Author writes children’s book to help families navigate mental health challenges - ABC7 WWSB"
-        ]
-      },
-      {
-        "trend": "health care",
-        "market_code": "SA",
-        "category": "Arab Health",
-        "score": 6,
-        "examples": [
-          "Health Care Roundup: Market Talk - WSJ",
-          "NYC Health + Hospitals/Metropolitan Convenes Eight Latin American Consulates for Health Care Summit - nychealthandhospitals.org",
-          "Pressing health care issues should be fodder for Wisconsin candidates - Isthmus | Madison, Wisconsin"
-        ]
+        "category": "Diet & Wellness",
+        "score": 1,
+        "examples": []
       }
     ],
     "Qatar": [
       {
-        "trend": "health",
+        "trend": "health alert",
         "market_code": "QA",
         "category": "Arab Health",
-        "score": 81,
-        "examples": [
-          "5 Breakfast Foods Dietitians Recommend for Better Brain Health - health.com",
-          "5 Breakfast Foods Dietitians Recommend for Better Brain Health - health.com",
-          "Health Care Roundup: Market Talk - WSJ"
-        ]
-      },
-      {
-        "trend": "medical",
-        "market_code": "QA",
-        "category": "Arab Health",
-        "score": 20,
-        "examples": [
-          "Sharp Tri-City Medical Center nurses to hold informational picket demanding accountability to Measure H promises - National Nurses United",
-          "Medical Devices: FDA Should Strengthen Policies Guiding Audits of Third Party Review Organizations - U.S. Government Accountability Office (.gov)",
-          "Reducing medical claims review time with AI on AWS: The EXL Medical IDP solution - Amazon Web Services (AWS)"
-        ]
-      },
-      {
-        "trend": "mental",
-        "market_code": "QA",
-        "category": "Mental Health",
-        "score": 15,
-        "examples": [
-          "Presley Gerber Had Mental Health Struggles Before Death. What He Said About Depression and Alcohol - TODAY.com",
-          "Garden Grove Replaces Be Well OC’s Mental Health Services - Voice of OC",
-          "Jessie Diggins, Olympic gold medalist and mental health advocate, to speak Oct. 29 at Montana State University - montana.edu"
-        ]
-      },
-      {
-        "trend": "mental health",
-        "market_code": "QA",
-        "category": "Mental Health",
-        "score": 13,
-        "examples": [
-          "Presley Gerber Had Mental Health Struggles Before Death. What He Said About Depression and Alcohol - TODAY.com",
-          "Garden Grove Replaces Be Well OC’s Mental Health Services - Voice of OC",
-          "Jessie Diggins, Olympic gold medalist and mental health advocate, to speak Oct. 29 at Montana State University - montana.edu"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
         "trend": "outbreak",
         "market_code": "QA",
         "category": "Outbreaks",
-        "score": 12,
-        "examples": [
-          "3 dead in suspected hantavirus outbreak aboard a cruise ship: What to know - ABC News - Breaking News, Latest News and Videos",
-          "DRC’s Ebola Outbreak: The Vast Mobilisation That Doesn’t Measure Itself (Part II) - Health Policy Watch",
-          "Congo faces unprecedented Ebola outbreak without approved vaccine protection - News-Medical"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "disease",
+        "trend": "mental health",
+        "market_code": "QA",
+        "category": "Mental Health",
+        "score": 1,
+        "examples": []
+      },
+      {
+        "trend": "medical research",
         "market_code": "QA",
         "category": "Arab Health",
-        "score": 11,
-        "examples": [
-          "From detection to action: Why collaboration is key to disease outbreak and pandemic response - The World Economic Forum",
-          "Smallpox Military Policy and Decisive Actions of George Washington - Centers for Disease Control and Prevention | CDC (.gov)",
-          "Highlighting Mental Health Disparities in Indigenous Communities Affected by Huntington’s Disease - HDBuzz"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "warning",
+        "trend": "drug approval",
         "market_code": "QA",
-        "category": "Arab Health",
-        "score": 9,
-        "examples": [
-          "Chileno Fire Prompts Sonoma County Health Warning - Patch",
-          "‘Do not touch.’ Health officials issue warning after fiery F-16 crash in Northern Michigan - MLive.com",
-          "Experts issue health warning ahead of early autumn clock change - Discover SWNS"
-        ]
+        "category": "Drug & Treatment News",
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "heart",
+        "trend": "diet wellness",
         "market_code": "QA",
-        "category": "Chronic Disease",
-        "score": 8,
-        "examples": [
-          "Cardiovascular disease tops cancer as leading cause of death among Hispanic adults in U.S. - www.heart.org",
-          "Roundup: Heart Disease Surpasses Cancer as Top Cause of Death Among U.S. Hispanics; and More News - Baptist Health",
-          "Chronic stress may be quietly reshaping your heart - ScienceDaily"
-        ]
-      },
-      {
-        "trend": "public health",
-        "market_code": "QA",
-        "category": "Arab Health",
-        "score": 7,
-        "examples": [
-          "Making Capitol Hill Connections for Public Health Advocacy - Association of State and Territorial Health Officials | ASTHO",
-          "Making Capitol Hill Connections for Public Health Advocacy - Association of State and Territorial Health Officials | ASTHO",
-          "Noise pollution is a serious but often forgotten public health problem - The Conversation"
-        ]
-      },
-      {
-        "trend": "measles",
-        "market_code": "QA",
-        "category": "Outbreaks",
-        "score": 7,
-        "examples": [
-          "Flathead County health officials warn of measles exposure sites - nbcmontana.com",
-          "Second Measles Warning Issued as Airport Travelers Told to Check Vaccination Status - Northeast Times",
-          "Public health alert: Measles patient traveled by bus through Oroville - Action News Now"
-        ]
-      },
-      {
-        "trend": "children",
-        "market_code": "QA",
-        "category": "Children Health",
-        "score": 7,
-        "examples": [
-          "Cleveland Clinic Children’s Expands Newborn Screening to Identify Virus that Can Lead to Hearing Loss and Developmental Delays - Cleveland Clinic",
-          "Cleveland Clinic Children's expands newborn screening for virus that causes hearing loss, de­vel­op­mental delays - Spectrum News",
-          "Author writes children’s book to help families navigate mental health challenges - ABC7 WWSB"
-        ]
-      },
-      {
-        "trend": "health care",
-        "market_code": "QA",
-        "category": "Arab Health",
-        "score": 6,
-        "examples": [
-          "Health Care Roundup: Market Talk - WSJ",
-          "NYC Health + Hospitals/Metropolitan Convenes Eight Latin American Consulates for Health Care Summit - nychealthandhospitals.org",
-          "Pressing health care issues should be fodder for Wisconsin candidates - Isthmus | Madison, Wisconsin"
-        ]
+        "category": "Diet & Wellness",
+        "score": 1,
+        "examples": []
       }
     ],
     "Jordan": [
       {
-        "trend": "health",
+        "trend": "health alert",
         "market_code": "JO",
         "category": "Arab Health",
-        "score": 81,
-        "examples": [
-          "5 Breakfast Foods Dietitians Recommend for Better Brain Health - health.com",
-          "5 Breakfast Foods Dietitians Recommend for Better Brain Health - health.com",
-          "Health Care Roundup: Market Talk - WSJ"
-        ]
-      },
-      {
-        "trend": "medical",
-        "market_code": "JO",
-        "category": "Arab Health",
-        "score": 20,
-        "examples": [
-          "Sharp Tri-City Medical Center nurses to hold informational picket demanding accountability to Measure H promises - National Nurses United",
-          "Medical Devices: FDA Should Strengthen Policies Guiding Audits of Third Party Review Organizations - U.S. Government Accountability Office (.gov)",
-          "Reducing medical claims review time with AI on AWS: The EXL Medical IDP solution - Amazon Web Services (AWS)"
-        ]
-      },
-      {
-        "trend": "mental",
-        "market_code": "JO",
-        "category": "Mental Health",
-        "score": 15,
-        "examples": [
-          "Presley Gerber Had Mental Health Struggles Before Death. What He Said About Depression and Alcohol - TODAY.com",
-          "Garden Grove Replaces Be Well OC’s Mental Health Services - Voice of OC",
-          "Jessie Diggins, Olympic gold medalist and mental health advocate, to speak Oct. 29 at Montana State University - montana.edu"
-        ]
-      },
-      {
-        "trend": "mental health",
-        "market_code": "JO",
-        "category": "Mental Health",
-        "score": 13,
-        "examples": [
-          "Presley Gerber Had Mental Health Struggles Before Death. What He Said About Depression and Alcohol - TODAY.com",
-          "Garden Grove Replaces Be Well OC’s Mental Health Services - Voice of OC",
-          "Jessie Diggins, Olympic gold medalist and mental health advocate, to speak Oct. 29 at Montana State University - montana.edu"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
         "trend": "outbreak",
         "market_code": "JO",
         "category": "Outbreaks",
-        "score": 12,
-        "examples": [
-          "3 dead in suspected hantavirus outbreak aboard a cruise ship: What to know - ABC News - Breaking News, Latest News and Videos",
-          "DRC’s Ebola Outbreak: The Vast Mobilisation That Doesn’t Measure Itself (Part II) - Health Policy Watch",
-          "Congo faces unprecedented Ebola outbreak without approved vaccine protection - News-Medical"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "disease",
+        "trend": "mental health",
+        "market_code": "JO",
+        "category": "Mental Health",
+        "score": 1,
+        "examples": []
+      },
+      {
+        "trend": "medical research",
         "market_code": "JO",
         "category": "Arab Health",
-        "score": 11,
-        "examples": [
-          "From detection to action: Why collaboration is key to disease outbreak and pandemic response - The World Economic Forum",
-          "Smallpox Military Policy and Decisive Actions of George Washington - Centers for Disease Control and Prevention | CDC (.gov)",
-          "Highlighting Mental Health Disparities in Indigenous Communities Affected by Huntington’s Disease - HDBuzz"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "warning",
+        "trend": "drug approval",
         "market_code": "JO",
-        "category": "Arab Health",
-        "score": 9,
-        "examples": [
-          "Chileno Fire Prompts Sonoma County Health Warning - Patch",
-          "‘Do not touch.’ Health officials issue warning after fiery F-16 crash in Northern Michigan - MLive.com",
-          "Experts issue health warning ahead of early autumn clock change - Discover SWNS"
-        ]
+        "category": "Drug & Treatment News",
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "heart",
+        "trend": "diet wellness",
         "market_code": "JO",
-        "category": "Chronic Disease",
-        "score": 8,
-        "examples": [
-          "Cardiovascular disease tops cancer as leading cause of death among Hispanic adults in U.S. - www.heart.org",
-          "Roundup: Heart Disease Surpasses Cancer as Top Cause of Death Among U.S. Hispanics; and More News - Baptist Health",
-          "Chronic stress may be quietly reshaping your heart - ScienceDaily"
-        ]
-      },
-      {
-        "trend": "public health",
-        "market_code": "JO",
-        "category": "Arab Health",
-        "score": 7,
-        "examples": [
-          "Making Capitol Hill Connections for Public Health Advocacy - Association of State and Territorial Health Officials | ASTHO",
-          "Making Capitol Hill Connections for Public Health Advocacy - Association of State and Territorial Health Officials | ASTHO",
-          "Noise pollution is a serious but often forgotten public health problem - The Conversation"
-        ]
-      },
-      {
-        "trend": "measles",
-        "market_code": "JO",
-        "category": "Outbreaks",
-        "score": 7,
-        "examples": [
-          "Flathead County health officials warn of measles exposure sites - nbcmontana.com",
-          "Second Measles Warning Issued as Airport Travelers Told to Check Vaccination Status - Northeast Times",
-          "Public health alert: Measles patient traveled by bus through Oroville - Action News Now"
-        ]
-      },
-      {
-        "trend": "children",
-        "market_code": "JO",
-        "category": "Children Health",
-        "score": 7,
-        "examples": [
-          "Cleveland Clinic Children’s Expands Newborn Screening to Identify Virus that Can Lead to Hearing Loss and Developmental Delays - Cleveland Clinic",
-          "Cleveland Clinic Children's expands newborn screening for virus that causes hearing loss, de­vel­op­mental delays - Spectrum News",
-          "Author writes children’s book to help families navigate mental health challenges - ABC7 WWSB"
-        ]
-      },
-      {
-        "trend": "health care",
-        "market_code": "JO",
-        "category": "Arab Health",
-        "score": 6,
-        "examples": [
-          "Health Care Roundup: Market Talk - WSJ",
-          "NYC Health + Hospitals/Metropolitan Convenes Eight Latin American Consulates for Health Care Summit - nychealthandhospitals.org",
-          "Pressing health care issues should be fodder for Wisconsin candidates - Isthmus | Madison, Wisconsin"
-        ]
+        "category": "Diet & Wellness",
+        "score": 1,
+        "examples": []
       }
     ],
     "Lebanon": [
       {
-        "trend": "health",
+        "trend": "health alert",
         "market_code": "LB",
         "category": "Arab Health",
-        "score": 81,
-        "examples": [
-          "5 Breakfast Foods Dietitians Recommend for Better Brain Health - health.com",
-          "5 Breakfast Foods Dietitians Recommend for Better Brain Health - health.com",
-          "Health Care Roundup: Market Talk - WSJ"
-        ]
-      },
-      {
-        "trend": "medical",
-        "market_code": "LB",
-        "category": "Arab Health",
-        "score": 20,
-        "examples": [
-          "Sharp Tri-City Medical Center nurses to hold informational picket demanding accountability to Measure H promises - National Nurses United",
-          "Medical Devices: FDA Should Strengthen Policies Guiding Audits of Third Party Review Organizations - U.S. Government Accountability Office (.gov)",
-          "Reducing medical claims review time with AI on AWS: The EXL Medical IDP solution - Amazon Web Services (AWS)"
-        ]
-      },
-      {
-        "trend": "mental",
-        "market_code": "LB",
-        "category": "Mental Health",
-        "score": 15,
-        "examples": [
-          "Presley Gerber Had Mental Health Struggles Before Death. What He Said About Depression and Alcohol - TODAY.com",
-          "Garden Grove Replaces Be Well OC’s Mental Health Services - Voice of OC",
-          "Jessie Diggins, Olympic gold medalist and mental health advocate, to speak Oct. 29 at Montana State University - montana.edu"
-        ]
-      },
-      {
-        "trend": "mental health",
-        "market_code": "LB",
-        "category": "Mental Health",
-        "score": 13,
-        "examples": [
-          "Presley Gerber Had Mental Health Struggles Before Death. What He Said About Depression and Alcohol - TODAY.com",
-          "Garden Grove Replaces Be Well OC’s Mental Health Services - Voice of OC",
-          "Jessie Diggins, Olympic gold medalist and mental health advocate, to speak Oct. 29 at Montana State University - montana.edu"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
         "trend": "outbreak",
         "market_code": "LB",
         "category": "Outbreaks",
-        "score": 12,
-        "examples": [
-          "3 dead in suspected hantavirus outbreak aboard a cruise ship: What to know - ABC News - Breaking News, Latest News and Videos",
-          "DRC’s Ebola Outbreak: The Vast Mobilisation That Doesn’t Measure Itself (Part II) - Health Policy Watch",
-          "Congo faces unprecedented Ebola outbreak without approved vaccine protection - News-Medical"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "disease",
+        "trend": "mental health",
+        "market_code": "LB",
+        "category": "Mental Health",
+        "score": 1,
+        "examples": []
+      },
+      {
+        "trend": "medical research",
         "market_code": "LB",
         "category": "Arab Health",
-        "score": 11,
-        "examples": [
-          "From detection to action: Why collaboration is key to disease outbreak and pandemic response - The World Economic Forum",
-          "Smallpox Military Policy and Decisive Actions of George Washington - Centers for Disease Control and Prevention | CDC (.gov)",
-          "Highlighting Mental Health Disparities in Indigenous Communities Affected by Huntington’s Disease - HDBuzz"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "warning",
+        "trend": "drug approval",
         "market_code": "LB",
-        "category": "Arab Health",
-        "score": 9,
-        "examples": [
-          "Chileno Fire Prompts Sonoma County Health Warning - Patch",
-          "‘Do not touch.’ Health officials issue warning after fiery F-16 crash in Northern Michigan - MLive.com",
-          "Experts issue health warning ahead of early autumn clock change - Discover SWNS"
-        ]
+        "category": "Drug & Treatment News",
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "heart",
+        "trend": "diet wellness",
         "market_code": "LB",
-        "category": "Chronic Disease",
-        "score": 8,
-        "examples": [
-          "Cardiovascular disease tops cancer as leading cause of death among Hispanic adults in U.S. - www.heart.org",
-          "Roundup: Heart Disease Surpasses Cancer as Top Cause of Death Among U.S. Hispanics; and More News - Baptist Health",
-          "Chronic stress may be quietly reshaping your heart - ScienceDaily"
-        ]
-      },
-      {
-        "trend": "public health",
-        "market_code": "LB",
-        "category": "Arab Health",
-        "score": 7,
-        "examples": [
-          "Making Capitol Hill Connections for Public Health Advocacy - Association of State and Territorial Health Officials | ASTHO",
-          "Making Capitol Hill Connections for Public Health Advocacy - Association of State and Territorial Health Officials | ASTHO",
-          "Noise pollution is a serious but often forgotten public health problem - The Conversation"
-        ]
-      },
-      {
-        "trend": "measles",
-        "market_code": "LB",
-        "category": "Outbreaks",
-        "score": 7,
-        "examples": [
-          "Flathead County health officials warn of measles exposure sites - nbcmontana.com",
-          "Second Measles Warning Issued as Airport Travelers Told to Check Vaccination Status - Northeast Times",
-          "Public health alert: Measles patient traveled by bus through Oroville - Action News Now"
-        ]
-      },
-      {
-        "trend": "children",
-        "market_code": "LB",
-        "category": "Children Health",
-        "score": 7,
-        "examples": [
-          "Cleveland Clinic Children’s Expands Newborn Screening to Identify Virus that Can Lead to Hearing Loss and Developmental Delays - Cleveland Clinic",
-          "Cleveland Clinic Children's expands newborn screening for virus that causes hearing loss, de­vel­op­mental delays - Spectrum News",
-          "Author writes children’s book to help families navigate mental health challenges - ABC7 WWSB"
-        ]
-      },
-      {
-        "trend": "health care",
-        "market_code": "LB",
-        "category": "Arab Health",
-        "score": 6,
-        "examples": [
-          "Health Care Roundup: Market Talk - WSJ",
-          "NYC Health + Hospitals/Metropolitan Convenes Eight Latin American Consulates for Health Care Summit - nychealthandhospitals.org",
-          "Pressing health care issues should be fodder for Wisconsin candidates - Isthmus | Madison, Wisconsin"
-        ]
+        "category": "Diet & Wellness",
+        "score": 1,
+        "examples": []
       }
     ]
   }
