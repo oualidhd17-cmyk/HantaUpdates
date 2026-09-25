@@ -1,0 +1,68 @@
+---
+title: "$31M in federal grants target Oklahoma tribal nations' mental health, substance abuse prevention"
+description: "$31M in federal grants target Oklahoma tribal nations' mental health, substance abuse prevention KOSU"
+slug: "31m-in-federal-grants-target-oklahoma-tribal-nations-mental-health-substance-abuse-prevention-8edc89363b"
+category: "Mental Health"
+region: "United States"
+source: "Google News / United States"
+source_url: "https://news.google.com/rss/articles/CBMic0FVX3lxTFBUT0lmdy1NWkRIZWFvS1lNSVVCc3ZxcnY4LTZGXzg2cGZnaUpLNEtJZmN0VjJUWFdVcjAyaHl2T1N1amZ6VFRRNFF0ZExpcVNTRUI2RUVKT3RySzZnbEkxNmFlUnVnVEFJcG5TV0pLQmlNYkk?oc=5"
+source_confidence: "medium"
+published_at: "Fri, 25 Sep 2026 09:00:00 GMT"
+generated_at: "2026-09-25T10:39:55.101632+00:00"
+image_url: "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+trend: "mental health"
+keywords:
+  - "mental health"
+  - "united states health news"
+  - "health trends"
+  - "medical news"
+  - "public health"
+  - "federal"
+  - "grants"
+  - "target"
+  - "oklahoma"
+  - "tribal"
+  - "nations"
+  - "mental"
+  - "health"
+  - "substance"
+  - "abuse"
+  - "prevention"
+  - "kosu"
+---
+
+# $31M in federal grants target Oklahoma tribal nations' mental health, substance abuse prevention
+
+$31M in federal grants target Oklahoma tribal nations' mental health, substance abuse prevention KOSU
+
+## Why this topic is trending
+
+This update was selected because it is connected to a detected health trend in **United States**.
+
+Tracked trend: **mental health**.
+
+## What happened
+
+This update is part of a wider health signal being monitored from public sources and regional news feeds. It may relate to public health, medical research, symptoms, outbreaks, treatments, wellness, healthcare systems, or health technology.
+
+## Why it matters
+
+- It may affect public awareness or online health searches.
+- It may be connected to health policy, disease monitoring, treatment updates, or scientific research.
+- The original source should be reviewed for full details and context.
+
+## Region
+
+**United States**
+
+## Category
+
+**Mental Health**
+
+## Source context
+
+This article summarizes a public health signal from **Google News / United States**. HantaUpdates links to the original source so readers can verify details directly.
+
+## Medical disclaimer
+
+HantaUpdates does not provide medical advice, diagnosis, or treatment. Always follow guidance from your local health authority or a qualified medical professional.
