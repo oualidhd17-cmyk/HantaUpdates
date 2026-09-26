@@ -1,0 +1,65 @@
+---
+title: "RFK Jr. says cyclosporiasis outbreak is 'under control' amid at least 1,600 cases in 5 states"
+description: "RFK Jr. says cyclosporiasis outbreak is 'under control' amid at least 1,600 cases in 5 states abc7chicago.com"
+slug: "rfk-jr-says-cyclosporiasis-outbreak-is-under-control-amid-at-least-1-600-cases-in-5-states-33de214bf9"
+category: "Outbreaks"
+region: "United States"
+source: "Google News / United States"
+source_url: "https://news.google.com/rss/articles/CBMiuxNBVV95cUxOZWVBdzJGNmI2REI0aWUtWHpubHkxVWRhUmRJdmVlSG9NRGd3cEc3YnBIV3NGX1NBeDJscHZJcmY3NWtYTmkza1p3WVBVV29NSTd5T0pzTVNiTk5JWTV4RS1KM3FVVkIyZ0hVdkRNOEg4Y0g1eU1EUWtjc0hyTGdXb2VHcVladWQ3a2I3TFh4Qk5EUzBlVUZQYU9tWnRNVVhlT1pmTmZnaHJST3I2RnZyMEJiZVI1TTY5b2FQSi1sNXdKWmpCVHViWXJxel9HZE9FZEJ5T0lVNGRVb1ZjNXJUSjVEZTBqQkZLc2ppOHo2cGtma3QyZV9OZGwyaTFQOEdUMXBWX01LMGtuTFhKMi1zQ0pydGtHQmp6aVZpNVZrTmU5MldCakEtNVh0d3pQdjhWb1JaaTFfZWtwNmRUUzB6S0k5V181TU5HeUttUjhRaC1YaDBCY29ScG5pT0pWYjI2OVhZYWI1dEQ4aUtjbVlldUVVOVN2V0d5TjljYlg5c3NjNDAwemU4cmFSd0U1NVVhbk1lSlAzSnFOYTRoOXV6cE5BNGxzc1NFY25xWS1HMGtZbTRGWU9PcnZseVh1dENFSXEwcWY4YU5jcFZhbHptUW1hczl1cUJ0d3NReU10RUNPbnBtcXliRGQyc1BxWldEYnRSU0REeGZDcVhyMTZjTG9VUmp1UHV3NHBGS1dUSTZBM1dqLXE2cTdGeDZKeExscTRNejk2b1VWWG4zZUVtWGptSTFWR005aS0tTmJuRHpHZ21uNEtsRmkxbTZfeGFmMy1UbzZLTnBianlLcVFSWWZyMEVWOHhBRVpRT3QxQ1A3elZlTjBNSFZkUEhuallUR2pRV2laV0trMlRYaFNkb3NkSTR4QlVzTWU2b3lUWVNCVUxocTB1c0libThUaUlUS0hReC14SEdhUFpfczlHS2xWQ1dabFpzT01zNVNoSUdKWTdGX1ZVaFJEMWNJbTltZExQcnFUNEdFZHlxVnNoNmFaMmFvN1R5dmF3aUlLSC1BdXZjV0laRUc3SjlXWEtCeEcxUy10aGNab0Rvb19wR0x5cE9ycTEzVXl6aktRdFlmaU9Hb1FHOUJNeENROGdPMlE5OGg5WlA1RjJMdlVUQ2U4YktMUEphYk5KRE00RHFRNWUtb211aW5KZnRTYlc0NWNqcHNCaXo4aVdvYTVELW5KOGFwcG0yZXIybW5WMzJaTjJGNHhFQTcxWV85dzBISEs1bXVfbGRrdDBtWlo2ZFh2eG1SOTFxamJ5RlRyMjEwTk5COUR1MV8tN3NXODVrQlYwcm9RMFFyWHpoY2lRNlNYeFRoVFNZS3hFaGFfUXM5SXQ0eGFTYl9GYzVnOWhiMEw4V2VZbEFkLTAySzF4ZGVyeG50TFZZRHl2aDZQWFl0c2VlazZBcExPcmlDd3Y0R21tdmxlTnFXQ00yamVLSFhqV3Bsa2JQSi1YOXdFaUZLNFU5ZW85dVZ5SUUyT05ReTZrXzgwUlZtRjRpMi1LeEZaVUFpaGs3NEUwYUhjV2lWYUw3Z0dVZl9tWi1JWkVFcy0xWVdYaW4xS29qVTVKRzFUS19IRGUxMUVHaHVHVnRhc1ZCckdRcUJ3Ulk4MVZIUEd6alFVTzBWZFdwQzZkQkZTdWtJWlBNdU1qaHdqd0EyZHp1d3RERzZMUS1YQ1U1VEx3ZlBsaGVXc1lHa0FMV0JkRHVpWVNHTm9QcW1wUzVfcHBtbnVzbFh3cnFVSUlaOGNpWC1fLXpzWTBUSDNpZTUyMDZHZlNmMVpDeGJ3SURqaEFYaFJFT1ZjY1dTcXcySjhmUXpfd1A2d0lPc1dlenRlcVRtZkczNkZybnVhekNNWTdHZnZnd1J0bWJtRFdtNC1SLVVtcXdGZVZSamJ2RTk4aUp2M0ZDeVZpMkotUzVSSG8yZkExVDdSYzdYbGE2dm5UTmlVcGc4Z05rVC0wZDl2YmZtNkt1djVQVnN1bS1weklzci1FOWE1d1RUczhCcjVhdlBQSzBQUXJsNi1DR3dkRnlMay0yRHdncURGREdKaGZ3THpRbVlTTVgwYnBPemhBM2FYT0JGZUVpd3h6dlJIblJHUVlvR0d4WnE5UzlEYks5aEFGVllReVplRGczRFJ2YklaTGc1UmNuNGZySWRibnQ0OUxULVBaMGNPTzlPSzdyMXI5dXJhNU1vVV9UVUdadms4S19VYllMQVF5Wmhwc1EweXJRekRYU2MyYmEwb0pObW5qeThvRHhJcGw0WGNPMjBoa1d5d1I2Y0wtWGs1a2VISERWQmFJenFacmxYTDN4d2xWMkRKOUNDVkp5SGo1Yjc2SktwejlfNlJKWExYYzNWVnFxR0x5WW82X1BLbVFiVUstUmZjUGpmWHRtdTBXUkdWMVgtemstQzhpUG9fb18zZVpUTXlZVU5COUx1Y2w0TlRlLXpJdjRZLWNMNmFZMFp2b0xIVElrakJRYkp4Z2lVempieUstc2poNzBSWV9ieE1nWWdfOW1iaWR0cWQwWG1COHNKSjNFbm9uVDY2b0ptY2VkTTVLaE9LRG14VVhwQlFhcG1Lbk5rTTlqUFlqSTJBQmplVldiMWQ4TmhrUXNGa2d5dDA0NGdKUTlRVWZqYzNtSVN6TU5tU0t0ZHpRTVhsUmp4OWlPUUdiWFJBeEFnZFlfdTRzbUFWWkR0cEIwbmFGNEVxUzNPUzcxMTh3cXlRbDlfY0hhSEw5eXFCV1Z6dE1yR2xFTU5PZTVwUk5xdHpQTllaUnJBcVRyWThBU3NBNUtDMGsxWjBWaHAxVXpxZEpXUWdiUE1FdWZzXzFJN3lOVUVjT0lFbV82eUVDaEpJdWliR1lrY2twNzRqS2Nzbks0MEZRb3JtQVFBQ0paMFlLVEh2VWZ6RzBoNTRUbE1YU1lsbW9ZcTlfaTl5YkZaZ0p4YUNXNnd3WElxMVo0d01WWmtZWEZ5Q3g4clFKQV9rTjFobTIza1hXaFFVNHdORC1sS1JiTElKMUFfa0dLOTZ1UnhwQ0NuWGdqMjR3cEZaMmxtV1U1bG5pa1dlenV0S1BQU2M5cjFFSzRyQjFXNjlXVF9LWjVINFg0QmZEYUV3c3RZT3BxMmJ3TFAxYWxFM0ZuZGtJdTMyWkUxRUZQYkJjeHdjYVFiMGs1Tl9EZUVoLXVmTm1rbjhfUkYyU2RaRlFLNENtWjYtbGNPN05vZ0pPOFBxYmpiSzFTMFFBcnQtdHJWUWhERTZldEVwMHRtVXZSR0kyN3ZoRnNtUFNXRDQtc0p6SjE4S1A1bGdVUjYzYXVuUEQyZ3Zqd3VxRnJWQ3FIY1lZ?oc=5"
+source_confidence: "medium"
+published_at: "Sat, 26 Sep 2026 17:32:10 GMT"
+generated_at: "2026-09-26T20:16:43.347925+00:00"
+image_url: "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+trend: "outbreak"
+keywords:
+  - "outbreak"
+  - "outbreaks"
+  - "united states health news"
+  - "health trends"
+  - "medical news"
+  - "public health"
+  - "cyclosporiasis"
+  - "under"
+  - "control"
+  - "amid"
+  - "least"
+  - "cases"
+  - "states"
+  - "abc7chicago"
+---
+
+# RFK Jr. says cyclosporiasis outbreak is 'under control' amid at least 1,600 cases in 5 states
+
+RFK Jr. says cyclosporiasis outbreak is 'under control' amid at least 1,600 cases in 5 states abc7chicago.com
+
+## Why this topic is trending
+
+This update was selected because it is connected to a detected health trend in **United States**.
+
+Tracked trend: **outbreak**.
+
+## What happened
+
+This update is part of a wider health signal being monitored from public sources and regional news feeds. It may relate to public health, medical research, symptoms, outbreaks, treatments, wellness, healthcare systems, or health technology.
+
+## Why it matters
+
+- It may affect public awareness or online health searches.
+- It may be connected to health policy, disease monitoring, treatment updates, or scientific research.
+- The original source should be reviewed for full details and context.
+
+## Region
+
+**United States**
+
+## Category
+
+**Outbreaks**
+
+## Source context
+
+This article summarizes a public health signal from **Google News / United States**. HantaUpdates links to the original source so readers can verify details directly.
+
+## Medical disclaimer
+
+HantaUpdates does not provide medical advice, diagnosis, or treatment. Always follow guidance from your local health authority or a qualified medical professional.
