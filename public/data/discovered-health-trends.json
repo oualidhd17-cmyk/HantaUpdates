@@ -1,929 +1,2819 @@
 {
-  "updated_at": "2026-09-28T23:24:28.542829+00:00",
-  "total_trends": 126,
+  "updated_at": "2026-09-29T02:53:42.641970+00:00",
+  "total_trends": 252,
   "markets": {
     "United States": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "US",
         "category": "US Health",
-        "score": 1,
-        "examples": []
+        "score": 64,
+        "examples": [
+          "NYC Health Department Celebrates Opening of New Clubhouse for Adults With Serious Mental Illness in the Bronx - NYC.gov",
+          "Governor Newsom signs legislation creating non-UPF label, other health bills advancing California’s nation-leading healthcare strategy - California State Portal | CA.gov",
+          "Arrington Celebrates $51 Million Rural Health Investment, With More to Come for Texas - Representative Jodey Arrington (.gov)"
+        ]
+      },
+      {
+        "trend": "medical",
+        "market_code": "US",
+        "category": "US Health",
+        "score": 17,
+        "examples": [
+          "Tennessee’s failed execution ignites a medical ethics debate - NPR",
+          "Eagles drive spoiled: Jalen Hurts sent to medical tent, backup Andy Dalton throws end-zone pick - The New York Times",
+          "Neurocrine Biosciences Appoints Eiry W. Roberts, M.D., as Chief Medical Officer - PR Newswire"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "US",
+        "category": "Mental Health",
+        "score": 13,
+        "examples": [
+          "NYC Health Department Celebrates Opening of New Clubhouse for Adults With Serious Mental Illness in the Bronx - NYC.gov",
+          "Mental health urgent care center coming to Brattleboro - VTDigger",
+          "NYC Health Department Celebrates Opening of New Clubhouse for Adults With Serious Mental Illness in the Bronx - NYC.gov"
+        ]
       },
       {
         "trend": "outbreak",
         "market_code": "US",
         "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "score": 12,
+        "examples": [
+          "Florida officials warn of ‘wildly unusual’ disease outbreak, declare state of emergency - New York Post",
+          "Dengue fever outbreak prompts Florida counties to declare state of emergency - The Guardian",
+          "Congo's Ebola outbreak tops 8,000 confirmed cases as disease remains out of control - ABC News - Breaking News, Latest News and Videos"
+        ]
+      },
+      {
+        "trend": "disease",
+        "market_code": "US",
+        "category": "US Health",
+        "score": 11,
+        "examples": [
+          "HHS Awards Funding to Improve Tick Control and Prevent Lyme Disease, Alpha-gal Syndrome and Other Tickborne Illnesses - HHS.gov",
+          "Florida officials warn of ‘wildly unusual’ disease outbreak, declare state of emergency - New York Post",
+          "Congo's Ebola outbreak tops 8,000 confirmed cases as disease remains out of control - ABC News - Breaking News, Latest News and Videos"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "US",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
+        "score": 11,
+        "examples": [
+          "Mental health urgent care center coming to Brattleboro - VTDigger",
+          "Reimagining the treatment of mental health: Maria Carolina Bittencourt Gonçalves - wyss.harvard.edu",
+          "ReadyKids says need for youth mental health services outpaces capacity - WVIR"
+        ]
       },
       {
-        "trend": "medical research",
+        "trend": "healthcare",
         "market_code": "US",
         "category": "US Health",
-        "score": 1,
-        "examples": []
+        "score": 10,
+        "examples": [
+          "Governor Newsom signs legislation creating non-UPF label, other health bills advancing California’s nation-leading healthcare strategy - California State Portal | CA.gov",
+          "AI will inflate healthcare costs before lowering them, Oz says - Healthcare Dive",
+          "AI will inflate healthcare costs before lowering them, Oz says - Healthcare Dive"
+        ]
       },
       {
-        "trend": "drug approval",
+        "trend": "virus",
+        "market_code": "US",
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "This Virus Stole a Human Gene and Won’t Let Go of It - The New York Times",
+          "Mirum's liver infection drug lowers virus levels in late-stage study - Reuters",
+          "Scientists find new virus behind mysterious tick illness - ScienceDaily"
+        ]
+      },
+      {
+        "trend": "infection",
+        "market_code": "US",
+        "category": "Outbreaks",
+        "score": 8,
+        "examples": [
+          "Mirum's liver infection drug lowers virus levels in late-stage study - Reuters",
+          "Airway lining fights infection by physically removing infected cells, experiments show - medicalxpress.com",
+          "Mirum's liver infection drug lowers virus levels in late-stage study - Reuters"
+        ]
+      },
+      {
+        "trend": "children",
+        "market_code": "US",
+        "category": "Children Health",
+        "score": 7,
+        "examples": [
+          "Children’s National at the 2026 American Academy of Pediatrics meeting - Children's National",
+          "Children’s National at the 2026 American Academy of Pediatrics meeting - Children's National",
+          "Children's Hospital of Philadelphia Celebrates First Anniversary of Pediatric Health Chat Initiative - PR Newswire"
+        ]
+      },
+      {
+        "trend": "drug",
         "market_code": "US",
         "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
+        "score": 6,
+        "examples": [
+          "FDA Advisory No.2026-1281 || Public Health Warning Against the Purchase and Use of the Unregistered Drug Product “Hyal Skin The Red Ampoule Solution for Face & Body Lecithin + Bromelain + Vitamin 10 ml” - Food and Drug Administration - fda.gov.ph",
+          "FDA Advisory No.2026-1281 || Public Health Warning Against the Purchase and Use of the Unregistered Drug Product “Hyal Skin The Red Ampoule Solution for Face & Body Lecithin + Bromelain + Vitamin 10 ml” - Food and Drug Administration - fda.gov.ph",
+          "Ask Dr. Nandi: 1 in 5 seniors are at risk for dangerous drug interactions - WXYZ 7 News Detroit"
+        ]
       },
       {
-        "trend": "diet wellness",
+        "trend": "public health",
         "market_code": "US",
-        "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "category": "US Health",
+        "score": 5,
+        "examples": [
+          "Rice County Public Health flu shot clinics open to public - Rice County, MN (.gov)",
+          "Let’s Talk Public Health: New On-Demand Training Helps Make Every Message Count - de Beaumont Foundation",
+          "Montana State students receive prestigious National Environmental Public Health internships - Montana State University"
+        ]
       }
     ],
     "United Kingdom": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "GB",
         "category": "Europe Health",
-        "score": 1,
-        "examples": []
+        "score": 63,
+        "examples": [
+          "“I’m changing my life”: New healthy lifestyles service helping Warwickshire residents transform their health and wellbeing - Warwickshire County Council",
+          "Residents invited to share views on preventative health information in Shropshire - Shropshire Council Newsroom",
+          "Helping people with long-term health conditions move more - Brighton & Hove City Council"
+        ]
       },
       {
-        "trend": "outbreak",
+        "trend": "mental",
         "market_code": "GB",
-        "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "category": "Mental Health",
+        "score": 20,
+        "examples": [
+          "No solid evidence daylight saving time affects mental health, researchers find - The Guardian",
+          "Could psychedelic therapy become NHS treatment for mental health? - BBC",
+          "Future Minds warns over a million children could miss out on mental health treatment by end of this Parliament - Centre for Mental Health"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "GB",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
+        "score": 20,
+        "examples": [
+          "No solid evidence daylight saving time affects mental health, researchers find - The Guardian",
+          "Could psychedelic therapy become NHS treatment for mental health? - BBC",
+          "Future Minds warns over a million children could miss out on mental health treatment by end of this Parliament - Centre for Mental Health"
+        ]
       },
       {
-        "trend": "medical research",
+        "trend": "medical",
         "market_code": "GB",
         "category": "Europe Health",
-        "score": 1,
-        "examples": []
+        "score": 19,
+        "examples": [
+          "Why the Cambridge region is becoming an increasingly important focal point for UK medical technology - Cambridge Network",
+          "The Next Decade of Medical AI: How Humans and AI Collaborate – A Conversation between Kevin Kelly and Dr. Ning Song of Diagens Tech (2526. HK) – Company Announcement - FT.com - Financial Times",
+          "Your new and improved Greenfield Medical Library is open - University of Nottingham"
+        ]
       },
       {
-        "trend": "drug approval",
+        "trend": "outbreak",
         "market_code": "GB",
-        "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
+        "category": "Outbreaks",
+        "score": 12,
+        "examples": [
+          "DRC politician beaten to death after radio appearance about Ebola outbreak - The Guardian",
+          "Scabies outbreak at hospital closes wards - BBC",
+          "Ebola cases surpass 8,000 as DRC struggles to control outbreak - Al Jazeera"
+        ]
       },
       {
-        "trend": "diet wellness",
+        "trend": "healthcare",
         "market_code": "GB",
-        "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "category": "Europe Health",
+        "score": 11,
+        "examples": [
+          "How volunteers ensure the right to healthcare - Scottish Refugee Council",
+          "Medical device fraudster given three-year suspended sentence - Healthcare Management Magazine",
+          "Halting council overhaul risks undermining neighbourhood health work, leaders warn - Healthcare Leader"
+        ]
+      },
+      {
+        "trend": "virus",
+        "market_code": "GB",
+        "category": "Outbreaks",
+        "score": 11,
+        "examples": [
+          "'Untreatable' Virus outbreak hits 16 European countries - full list - Liverpool Echo",
+          "Scientists find new virus behind mysterious tick illness - ScienceDaily",
+          "This Virus Stole a Human Gene and Won’t Let Go of It - nytimes.com"
+        ]
+      },
+      {
+        "trend": "children",
+        "market_code": "GB",
+        "category": "Children Health",
+        "score": 10,
+        "examples": [
+          "Future Minds warns over a million children could miss out on mental health treatment by end of this Parliament - Centre for Mental Health",
+          "Future Minds warns over a million children could miss out on mental health treatment by end of this Parliament - Centre for Mental Health",
+          "Understanding children’s mental health in low- and middle-income countries - Cardiff University"
+        ]
+      },
+      {
+        "trend": "cancer",
+        "market_code": "GB",
+        "category": "Chronic Disease",
+        "score": 9,
+        "examples": [
+          "Just 5 Infections Responsible For More Than 2 Million New Cancer Cases Annually - ScienceAlert",
+          "Big tech says AI can find a cure for cancer. So where is it? - The Guardian",
+          "Advances in Pancreatic Cancer Research - National Cancer Institute (.gov)"
+        ]
+      },
+      {
+        "trend": "warning",
+        "market_code": "GB",
+        "category": "Europe Health",
+        "score": 8,
+        "examples": [
+          "Public health warning after rotting meat dumped near Swindon school - Swindon Advertiser",
+          "Urgent warning issued over cardiac death risk - HSJ | Health Service Journal",
+          "New warning over fake weight loss jabs and pills as 'health at risk' - Wales Online"
+        ]
+      },
+      {
+        "trend": "disease",
+        "market_code": "GB",
+        "category": "Europe Health",
+        "score": 7,
+        "examples": [
+          "Ask Dr. Nandi: 8 common food additives linked to high blood pressure and heart disease - WXYZ 7 News Detroit",
+          "Congo's Ebola outbreak tops 8,000 confirmed cases as disease remains out of control - abcnews.com",
+          "AbbVie wins FDA nod for Parkinson’s disease drug - European Medical Journal"
+        ]
+      },
+      {
+        "trend": "infection",
+        "market_code": "GB",
+        "category": "Outbreaks",
+        "score": 7,
+        "examples": [
+          "Mirum's liver infection drug lowers virus levels in late-stage study - Reuters",
+          "New tool tracks a hidden protein involved in viral infection and cell cleanup - Phys.org",
+          "Airway lining fights infection by physically removing infected cells, experiments show - Medical Xpress"
+        ]
       }
     ],
     "Germany": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "DE",
         "category": "Europe Health",
-        "score": 1,
-        "examples": []
+        "score": 64,
+        "examples": [
+          "NYC Health Department Celebrates Opening of New Clubhouse for Adults With Serious Mental Illness in the Bronx - NYC.gov",
+          "Governor Newsom signs legislation creating non-UPF label, other health bills advancing California’s nation-leading healthcare strategy - California State Portal | CA.gov",
+          "Arrington Celebrates $51 Million Rural Health Investment, With More to Come for Texas - Representative Jodey Arrington (.gov)"
+        ]
+      },
+      {
+        "trend": "medical",
+        "market_code": "DE",
+        "category": "Europe Health",
+        "score": 17,
+        "examples": [
+          "Tennessee’s failed execution ignites a medical ethics debate - NPR",
+          "Eagles drive spoiled: Jalen Hurts sent to medical tent, backup Andy Dalton throws end-zone pick - The New York Times",
+          "Neurocrine Biosciences Appoints Eiry W. Roberts, M.D., as Chief Medical Officer - PR Newswire"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "DE",
+        "category": "Mental Health",
+        "score": 13,
+        "examples": [
+          "NYC Health Department Celebrates Opening of New Clubhouse for Adults With Serious Mental Illness in the Bronx - NYC.gov",
+          "Mental health urgent care center coming to Brattleboro - VTDigger",
+          "NYC Health Department Celebrates Opening of New Clubhouse for Adults With Serious Mental Illness in the Bronx - NYC.gov"
+        ]
+      },
+      {
+        "trend": "disease",
+        "market_code": "DE",
+        "category": "Europe Health",
+        "score": 12,
+        "examples": [
+          "HHS Awards Funding to Improve Tick Control and Prevent Lyme Disease, Alpha-gal Syndrome and Other Tickborne Illnesses - HHS.gov",
+          "Florida officials warn of ‘wildly unusual’ disease outbreak, declare state of emergency - New York Post",
+          "Congo's Ebola outbreak tops 8,000 confirmed cases as disease remains out of control - ABC News - Breaking News, Latest News and Videos"
+        ]
       },
       {
         "trend": "outbreak",
         "market_code": "DE",
         "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "score": 12,
+        "examples": [
+          "Florida officials warn of ‘wildly unusual’ disease outbreak, declare state of emergency - New York Post",
+          "Dengue fever outbreak prompts Florida counties to declare state of emergency - The Guardian",
+          "Congo's Ebola outbreak tops 8,000 confirmed cases as disease remains out of control - ABC News - Breaking News, Latest News and Videos"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "DE",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
+        "score": 10,
+        "examples": [
+          "Mental health urgent care center coming to Brattleboro - VTDigger",
+          "Reimagining the treatment of mental health: Maria Carolina Bittencourt Gonçalves - wyss.harvard.edu",
+          "ReadyKids says need for youth mental health services outpaces capacity - WVIR"
+        ]
       },
       {
-        "trend": "medical research",
+        "trend": "healthcare",
         "market_code": "DE",
         "category": "Europe Health",
-        "score": 1,
-        "examples": []
+        "score": 9,
+        "examples": [
+          "Governor Newsom signs legislation creating non-UPF label, other health bills advancing California’s nation-leading healthcare strategy - California State Portal | CA.gov",
+          "AI will inflate healthcare costs before lowering them, Oz says - Healthcare Dive",
+          "AI will inflate healthcare costs before lowering them, Oz says - Healthcare Dive"
+        ]
       },
       {
-        "trend": "drug approval",
+        "trend": "virus",
         "market_code": "DE",
-        "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "This Virus Stole a Human Gene and Won’t Let Go of It - The New York Times",
+          "Mirum's liver infection drug lowers virus levels in late-stage study - Reuters",
+          "Scientists find new virus behind mysterious tick illness - ScienceDaily"
+        ]
       },
       {
-        "trend": "diet wellness",
+        "trend": "infection",
         "market_code": "DE",
-        "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "Mirum's liver infection drug lowers virus levels in late-stage study - Reuters",
+          "Airway lining fights infection by physically removing infected cells, experiments show - medicalxpress.com",
+          "Mirum's liver infection drug lowers virus levels in late-stage study - Reuters"
+        ]
+      },
+      {
+        "trend": "children",
+        "market_code": "DE",
+        "category": "Children Health",
+        "score": 7,
+        "examples": [
+          "Children’s National at the 2026 American Academy of Pediatrics meeting - Children's National",
+          "Children’s National at the 2026 American Academy of Pediatrics meeting - Children's National",
+          "Children's Hospital of Philadelphia Celebrates First Anniversary of Pediatric Health Chat Initiative - PR Newswire"
+        ]
+      },
+      {
+        "trend": "cancer",
+        "market_code": "DE",
+        "category": "Chronic Disease",
+        "score": 6,
+        "examples": [
+          "Just 5 Infections Responsible For More Than 2 Million New Cancer Cases Annually - ScienceAlert",
+          "5 Big Cancer Advances Redefining Care and Survival - cityofhope.org",
+          "Advances in Pancreatic Cancer Research - National Cancer Institute (.gov)"
+        ]
+      },
+      {
+        "trend": "hospital",
+        "market_code": "DE",
+        "category": "Europe Health",
+        "score": 6,
+        "examples": [
+          "Battle of Hospital A.I. vs. Insurer A.I. Is Pushing Medical Costs Higher - The New York Times",
+          "Children's Hospital of Philadelphia Celebrates First Anniversary of Pediatric Health Chat Initiative - PR Newswire",
+          "A Week to Celebrate, Connect and Take Action for Better Health for Mothers and Babies - American Hospital Association"
+        ]
       }
     ],
     "France": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "FR",
         "category": "Europe Health",
-        "score": 1,
-        "examples": []
+        "score": 64,
+        "examples": [
+          "NYC Health Department Celebrates Opening of New Clubhouse for Adults With Serious Mental Illness in the Bronx - NYC.gov",
+          "Governor Newsom signs legislation creating non-UPF label, other health bills advancing California’s nation-leading healthcare strategy - California State Portal | CA.gov",
+          "Arrington Celebrates $51 Million Rural Health Investment, With More to Come for Texas - Representative Jodey Arrington (.gov)"
+        ]
+      },
+      {
+        "trend": "medical",
+        "market_code": "FR",
+        "category": "Europe Health",
+        "score": 17,
+        "examples": [
+          "Tennessee’s failed execution ignites a medical ethics debate - NPR",
+          "Eagles drive spoiled: Jalen Hurts sent to medical tent, backup Andy Dalton throws end-zone pick - The New York Times",
+          "Neurocrine Biosciences Appoints Eiry W. Roberts, M.D., as Chief Medical Officer - PR Newswire"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "FR",
+        "category": "Mental Health",
+        "score": 13,
+        "examples": [
+          "NYC Health Department Celebrates Opening of New Clubhouse for Adults With Serious Mental Illness in the Bronx - NYC.gov",
+          "Mental health urgent care center coming to Brattleboro - VTDigger",
+          "NYC Health Department Celebrates Opening of New Clubhouse for Adults With Serious Mental Illness in the Bronx - NYC.gov"
+        ]
+      },
+      {
+        "trend": "disease",
+        "market_code": "FR",
+        "category": "Europe Health",
+        "score": 12,
+        "examples": [
+          "HHS Awards Funding to Improve Tick Control and Prevent Lyme Disease, Alpha-gal Syndrome and Other Tickborne Illnesses - HHS.gov",
+          "Florida officials warn of ‘wildly unusual’ disease outbreak, declare state of emergency - New York Post",
+          "Congo's Ebola outbreak tops 8,000 confirmed cases as disease remains out of control - ABC News - Breaking News, Latest News and Videos"
+        ]
       },
       {
         "trend": "outbreak",
         "market_code": "FR",
         "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "score": 12,
+        "examples": [
+          "Florida officials warn of ‘wildly unusual’ disease outbreak, declare state of emergency - New York Post",
+          "Dengue fever outbreak prompts Florida counties to declare state of emergency - The Guardian",
+          "Congo's Ebola outbreak tops 8,000 confirmed cases as disease remains out of control - ABC News - Breaking News, Latest News and Videos"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "FR",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
+        "score": 10,
+        "examples": [
+          "Mental health urgent care center coming to Brattleboro - VTDigger",
+          "Reimagining the treatment of mental health: Maria Carolina Bittencourt Gonçalves - wyss.harvard.edu",
+          "ReadyKids says need for youth mental health services outpaces capacity - WVIR"
+        ]
       },
       {
-        "trend": "medical research",
+        "trend": "healthcare",
         "market_code": "FR",
         "category": "Europe Health",
-        "score": 1,
-        "examples": []
+        "score": 9,
+        "examples": [
+          "Governor Newsom signs legislation creating non-UPF label, other health bills advancing California’s nation-leading healthcare strategy - California State Portal | CA.gov",
+          "AI will inflate healthcare costs before lowering them, Oz says - Healthcare Dive",
+          "AI will inflate healthcare costs before lowering them, Oz says - Healthcare Dive"
+        ]
       },
       {
-        "trend": "drug approval",
+        "trend": "virus",
         "market_code": "FR",
-        "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "This Virus Stole a Human Gene and Won’t Let Go of It - The New York Times",
+          "Mirum's liver infection drug lowers virus levels in late-stage study - Reuters",
+          "Scientists find new virus behind mysterious tick illness - ScienceDaily"
+        ]
       },
       {
-        "trend": "diet wellness",
+        "trend": "infection",
         "market_code": "FR",
-        "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "Mirum's liver infection drug lowers virus levels in late-stage study - Reuters",
+          "Airway lining fights infection by physically removing infected cells, experiments show - medicalxpress.com",
+          "Mirum's liver infection drug lowers virus levels in late-stage study - Reuters"
+        ]
+      },
+      {
+        "trend": "children",
+        "market_code": "FR",
+        "category": "Children Health",
+        "score": 7,
+        "examples": [
+          "Children’s National at the 2026 American Academy of Pediatrics meeting - Children's National",
+          "Children’s National at the 2026 American Academy of Pediatrics meeting - Children's National",
+          "Children's Hospital of Philadelphia Celebrates First Anniversary of Pediatric Health Chat Initiative - PR Newswire"
+        ]
+      },
+      {
+        "trend": "cancer",
+        "market_code": "FR",
+        "category": "Chronic Disease",
+        "score": 6,
+        "examples": [
+          "Just 5 Infections Responsible For More Than 2 Million New Cancer Cases Annually - ScienceAlert",
+          "5 Big Cancer Advances Redefining Care and Survival - cityofhope.org",
+          "Advances in Pancreatic Cancer Research - National Cancer Institute (.gov)"
+        ]
+      },
+      {
+        "trend": "hospital",
+        "market_code": "FR",
+        "category": "Europe Health",
+        "score": 6,
+        "examples": [
+          "Battle of Hospital A.I. vs. Insurer A.I. Is Pushing Medical Costs Higher - The New York Times",
+          "Children's Hospital of Philadelphia Celebrates First Anniversary of Pediatric Health Chat Initiative - PR Newswire",
+          "A Week to Celebrate, Connect and Take Action for Better Health for Mothers and Babies - American Hospital Association"
+        ]
       }
     ],
     "Italy": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "IT",
         "category": "Europe Health",
-        "score": 1,
-        "examples": []
+        "score": 64,
+        "examples": [
+          "NYC Health Department Celebrates Opening of New Clubhouse for Adults With Serious Mental Illness in the Bronx - NYC.gov",
+          "Governor Newsom signs legislation creating non-UPF label, other health bills advancing California’s nation-leading healthcare strategy - California State Portal | CA.gov",
+          "Arrington Celebrates $51 Million Rural Health Investment, With More to Come for Texas - Representative Jodey Arrington (.gov)"
+        ]
+      },
+      {
+        "trend": "medical",
+        "market_code": "IT",
+        "category": "Europe Health",
+        "score": 17,
+        "examples": [
+          "Tennessee’s failed execution ignites a medical ethics debate - NPR",
+          "Eagles drive spoiled: Jalen Hurts sent to medical tent, backup Andy Dalton throws end-zone pick - The New York Times",
+          "Neurocrine Biosciences Appoints Eiry W. Roberts, M.D., as Chief Medical Officer - PR Newswire"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "IT",
+        "category": "Mental Health",
+        "score": 13,
+        "examples": [
+          "NYC Health Department Celebrates Opening of New Clubhouse for Adults With Serious Mental Illness in the Bronx - NYC.gov",
+          "Mental health urgent care center coming to Brattleboro - VTDigger",
+          "NYC Health Department Celebrates Opening of New Clubhouse for Adults With Serious Mental Illness in the Bronx - NYC.gov"
+        ]
+      },
+      {
+        "trend": "disease",
+        "market_code": "IT",
+        "category": "Europe Health",
+        "score": 12,
+        "examples": [
+          "HHS Awards Funding to Improve Tick Control and Prevent Lyme Disease, Alpha-gal Syndrome and Other Tickborne Illnesses - HHS.gov",
+          "Florida officials warn of ‘wildly unusual’ disease outbreak, declare state of emergency - New York Post",
+          "Congo's Ebola outbreak tops 8,000 confirmed cases as disease remains out of control - ABC News - Breaking News, Latest News and Videos"
+        ]
       },
       {
         "trend": "outbreak",
         "market_code": "IT",
         "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "score": 12,
+        "examples": [
+          "Florida officials warn of ‘wildly unusual’ disease outbreak, declare state of emergency - New York Post",
+          "Dengue fever outbreak prompts Florida counties to declare state of emergency - The Guardian",
+          "Congo's Ebola outbreak tops 8,000 confirmed cases as disease remains out of control - ABC News - Breaking News, Latest News and Videos"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "IT",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
+        "score": 10,
+        "examples": [
+          "Mental health urgent care center coming to Brattleboro - VTDigger",
+          "Reimagining the treatment of mental health: Maria Carolina Bittencourt Gonçalves - wyss.harvard.edu",
+          "ReadyKids says need for youth mental health services outpaces capacity - WVIR"
+        ]
       },
       {
-        "trend": "medical research",
+        "trend": "healthcare",
         "market_code": "IT",
         "category": "Europe Health",
-        "score": 1,
-        "examples": []
+        "score": 9,
+        "examples": [
+          "Governor Newsom signs legislation creating non-UPF label, other health bills advancing California’s nation-leading healthcare strategy - California State Portal | CA.gov",
+          "AI will inflate healthcare costs before lowering them, Oz says - Healthcare Dive",
+          "AI will inflate healthcare costs before lowering them, Oz says - Healthcare Dive"
+        ]
       },
       {
-        "trend": "drug approval",
+        "trend": "virus",
         "market_code": "IT",
-        "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "This Virus Stole a Human Gene and Won’t Let Go of It - The New York Times",
+          "Mirum's liver infection drug lowers virus levels in late-stage study - Reuters",
+          "Scientists find new virus behind mysterious tick illness - ScienceDaily"
+        ]
       },
       {
-        "trend": "diet wellness",
+        "trend": "infection",
         "market_code": "IT",
-        "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "Mirum's liver infection drug lowers virus levels in late-stage study - Reuters",
+          "Airway lining fights infection by physically removing infected cells, experiments show - medicalxpress.com",
+          "Mirum's liver infection drug lowers virus levels in late-stage study - Reuters"
+        ]
+      },
+      {
+        "trend": "children",
+        "market_code": "IT",
+        "category": "Children Health",
+        "score": 7,
+        "examples": [
+          "Children’s National at the 2026 American Academy of Pediatrics meeting - Children's National",
+          "Children’s National at the 2026 American Academy of Pediatrics meeting - Children's National",
+          "Children's Hospital of Philadelphia Celebrates First Anniversary of Pediatric Health Chat Initiative - PR Newswire"
+        ]
+      },
+      {
+        "trend": "cancer",
+        "market_code": "IT",
+        "category": "Chronic Disease",
+        "score": 6,
+        "examples": [
+          "Just 5 Infections Responsible For More Than 2 Million New Cancer Cases Annually - ScienceAlert",
+          "5 Big Cancer Advances Redefining Care and Survival - cityofhope.org",
+          "Advances in Pancreatic Cancer Research - National Cancer Institute (.gov)"
+        ]
+      },
+      {
+        "trend": "hospital",
+        "market_code": "IT",
+        "category": "Europe Health",
+        "score": 6,
+        "examples": [
+          "Battle of Hospital A.I. vs. Insurer A.I. Is Pushing Medical Costs Higher - The New York Times",
+          "Children's Hospital of Philadelphia Celebrates First Anniversary of Pediatric Health Chat Initiative - PR Newswire",
+          "A Week to Celebrate, Connect and Take Action for Better Health for Mothers and Babies - American Hospital Association"
+        ]
       }
     ],
     "Spain": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "ES",
         "category": "Europe Health",
-        "score": 1,
-        "examples": []
+        "score": 64,
+        "examples": [
+          "NYC Health Department Celebrates Opening of New Clubhouse for Adults With Serious Mental Illness in the Bronx - NYC.gov",
+          "Governor Newsom signs legislation creating non-UPF label, other health bills advancing California’s nation-leading healthcare strategy - California State Portal | CA.gov",
+          "Arrington Celebrates $51 Million Rural Health Investment, With More to Come for Texas - Representative Jodey Arrington (.gov)"
+        ]
+      },
+      {
+        "trend": "medical",
+        "market_code": "ES",
+        "category": "Europe Health",
+        "score": 17,
+        "examples": [
+          "Tennessee’s failed execution ignites a medical ethics debate - NPR",
+          "Eagles drive spoiled: Jalen Hurts sent to medical tent, backup Andy Dalton throws end-zone pick - The New York Times",
+          "Neurocrine Biosciences Appoints Eiry W. Roberts, M.D., as Chief Medical Officer - PR Newswire"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "ES",
+        "category": "Mental Health",
+        "score": 13,
+        "examples": [
+          "NYC Health Department Celebrates Opening of New Clubhouse for Adults With Serious Mental Illness in the Bronx - NYC.gov",
+          "Mental health urgent care center coming to Brattleboro - VTDigger",
+          "NYC Health Department Celebrates Opening of New Clubhouse for Adults With Serious Mental Illness in the Bronx - NYC.gov"
+        ]
+      },
+      {
+        "trend": "disease",
+        "market_code": "ES",
+        "category": "Europe Health",
+        "score": 12,
+        "examples": [
+          "HHS Awards Funding to Improve Tick Control and Prevent Lyme Disease, Alpha-gal Syndrome and Other Tickborne Illnesses - HHS.gov",
+          "Florida officials warn of ‘wildly unusual’ disease outbreak, declare state of emergency - New York Post",
+          "Congo's Ebola outbreak tops 8,000 confirmed cases as disease remains out of control - ABC News - Breaking News, Latest News and Videos"
+        ]
       },
       {
         "trend": "outbreak",
         "market_code": "ES",
         "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "score": 12,
+        "examples": [
+          "Florida officials warn of ‘wildly unusual’ disease outbreak, declare state of emergency - New York Post",
+          "Dengue fever outbreak prompts Florida counties to declare state of emergency - The Guardian",
+          "Congo's Ebola outbreak tops 8,000 confirmed cases as disease remains out of control - ABC News - Breaking News, Latest News and Videos"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "ES",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
+        "score": 10,
+        "examples": [
+          "Mental health urgent care center coming to Brattleboro - VTDigger",
+          "Reimagining the treatment of mental health: Maria Carolina Bittencourt Gonçalves - wyss.harvard.edu",
+          "ReadyKids says need for youth mental health services outpaces capacity - WVIR"
+        ]
       },
       {
-        "trend": "medical research",
+        "trend": "healthcare",
         "market_code": "ES",
         "category": "Europe Health",
-        "score": 1,
-        "examples": []
+        "score": 9,
+        "examples": [
+          "Governor Newsom signs legislation creating non-UPF label, other health bills advancing California’s nation-leading healthcare strategy - California State Portal | CA.gov",
+          "AI will inflate healthcare costs before lowering them, Oz says - Healthcare Dive",
+          "AI will inflate healthcare costs before lowering them, Oz says - Healthcare Dive"
+        ]
       },
       {
-        "trend": "drug approval",
+        "trend": "virus",
         "market_code": "ES",
-        "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "This Virus Stole a Human Gene and Won’t Let Go of It - The New York Times",
+          "Mirum's liver infection drug lowers virus levels in late-stage study - Reuters",
+          "Scientists find new virus behind mysterious tick illness - ScienceDaily"
+        ]
       },
       {
-        "trend": "diet wellness",
+        "trend": "infection",
         "market_code": "ES",
-        "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "Mirum's liver infection drug lowers virus levels in late-stage study - Reuters",
+          "Airway lining fights infection by physically removing infected cells, experiments show - medicalxpress.com",
+          "Mirum's liver infection drug lowers virus levels in late-stage study - Reuters"
+        ]
+      },
+      {
+        "trend": "children",
+        "market_code": "ES",
+        "category": "Children Health",
+        "score": 7,
+        "examples": [
+          "Children’s National at the 2026 American Academy of Pediatrics meeting - Children's National",
+          "Children’s National at the 2026 American Academy of Pediatrics meeting - Children's National",
+          "Children's Hospital of Philadelphia Celebrates First Anniversary of Pediatric Health Chat Initiative - PR Newswire"
+        ]
+      },
+      {
+        "trend": "cancer",
+        "market_code": "ES",
+        "category": "Chronic Disease",
+        "score": 6,
+        "examples": [
+          "Just 5 Infections Responsible For More Than 2 Million New Cancer Cases Annually - ScienceAlert",
+          "5 Big Cancer Advances Redefining Care and Survival - cityofhope.org",
+          "Advances in Pancreatic Cancer Research - National Cancer Institute (.gov)"
+        ]
+      },
+      {
+        "trend": "hospital",
+        "market_code": "ES",
+        "category": "Europe Health",
+        "score": 6,
+        "examples": [
+          "Battle of Hospital A.I. vs. Insurer A.I. Is Pushing Medical Costs Higher - The New York Times",
+          "Children's Hospital of Philadelphia Celebrates First Anniversary of Pediatric Health Chat Initiative - PR Newswire",
+          "A Week to Celebrate, Connect and Take Action for Better Health for Mothers and Babies - American Hospital Association"
+        ]
       }
     ],
     "Sweden": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "SE",
         "category": "Europe Health",
-        "score": 1,
-        "examples": []
+        "score": 64,
+        "examples": [
+          "NYC Health Department Celebrates Opening of New Clubhouse for Adults With Serious Mental Illness in the Bronx - NYC.gov",
+          "Governor Newsom signs legislation creating non-UPF label, other health bills advancing California’s nation-leading healthcare strategy - California State Portal | CA.gov",
+          "Arrington Celebrates $51 Million Rural Health Investment, With More to Come for Texas - Representative Jodey Arrington (.gov)"
+        ]
+      },
+      {
+        "trend": "medical",
+        "market_code": "SE",
+        "category": "Europe Health",
+        "score": 17,
+        "examples": [
+          "Tennessee’s failed execution ignites a medical ethics debate - NPR",
+          "Eagles drive spoiled: Jalen Hurts sent to medical tent, backup Andy Dalton throws end-zone pick - The New York Times",
+          "Neurocrine Biosciences Appoints Eiry W. Roberts, M.D., as Chief Medical Officer - PR Newswire"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "SE",
+        "category": "Mental Health",
+        "score": 13,
+        "examples": [
+          "NYC Health Department Celebrates Opening of New Clubhouse for Adults With Serious Mental Illness in the Bronx - NYC.gov",
+          "Mental health urgent care center coming to Brattleboro - VTDigger",
+          "NYC Health Department Celebrates Opening of New Clubhouse for Adults With Serious Mental Illness in the Bronx - NYC.gov"
+        ]
+      },
+      {
+        "trend": "disease",
+        "market_code": "SE",
+        "category": "Europe Health",
+        "score": 12,
+        "examples": [
+          "HHS Awards Funding to Improve Tick Control and Prevent Lyme Disease, Alpha-gal Syndrome and Other Tickborne Illnesses - HHS.gov",
+          "Florida officials warn of ‘wildly unusual’ disease outbreak, declare state of emergency - New York Post",
+          "Congo's Ebola outbreak tops 8,000 confirmed cases as disease remains out of control - ABC News - Breaking News, Latest News and Videos"
+        ]
       },
       {
         "trend": "outbreak",
         "market_code": "SE",
         "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "score": 12,
+        "examples": [
+          "Florida officials warn of ‘wildly unusual’ disease outbreak, declare state of emergency - New York Post",
+          "Dengue fever outbreak prompts Florida counties to declare state of emergency - The Guardian",
+          "Congo's Ebola outbreak tops 8,000 confirmed cases as disease remains out of control - ABC News - Breaking News, Latest News and Videos"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "SE",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
+        "score": 10,
+        "examples": [
+          "Mental health urgent care center coming to Brattleboro - VTDigger",
+          "Reimagining the treatment of mental health: Maria Carolina Bittencourt Gonçalves - wyss.harvard.edu",
+          "ReadyKids says need for youth mental health services outpaces capacity - WVIR"
+        ]
       },
       {
-        "trend": "medical research",
+        "trend": "healthcare",
         "market_code": "SE",
         "category": "Europe Health",
-        "score": 1,
-        "examples": []
+        "score": 9,
+        "examples": [
+          "Governor Newsom signs legislation creating non-UPF label, other health bills advancing California’s nation-leading healthcare strategy - California State Portal | CA.gov",
+          "AI will inflate healthcare costs before lowering them, Oz says - Healthcare Dive",
+          "AI will inflate healthcare costs before lowering them, Oz says - Healthcare Dive"
+        ]
       },
       {
-        "trend": "drug approval",
+        "trend": "virus",
         "market_code": "SE",
-        "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "This Virus Stole a Human Gene and Won’t Let Go of It - The New York Times",
+          "Mirum's liver infection drug lowers virus levels in late-stage study - Reuters",
+          "Scientists find new virus behind mysterious tick illness - ScienceDaily"
+        ]
       },
       {
-        "trend": "diet wellness",
+        "trend": "infection",
         "market_code": "SE",
-        "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "Mirum's liver infection drug lowers virus levels in late-stage study - Reuters",
+          "Airway lining fights infection by physically removing infected cells, experiments show - medicalxpress.com",
+          "Mirum's liver infection drug lowers virus levels in late-stage study - Reuters"
+        ]
+      },
+      {
+        "trend": "children",
+        "market_code": "SE",
+        "category": "Children Health",
+        "score": 7,
+        "examples": [
+          "Children’s National at the 2026 American Academy of Pediatrics meeting - Children's National",
+          "Children’s National at the 2026 American Academy of Pediatrics meeting - Children's National",
+          "Children's Hospital of Philadelphia Celebrates First Anniversary of Pediatric Health Chat Initiative - PR Newswire"
+        ]
+      },
+      {
+        "trend": "cancer",
+        "market_code": "SE",
+        "category": "Chronic Disease",
+        "score": 6,
+        "examples": [
+          "Just 5 Infections Responsible For More Than 2 Million New Cancer Cases Annually - ScienceAlert",
+          "5 Big Cancer Advances Redefining Care and Survival - cityofhope.org",
+          "Advances in Pancreatic Cancer Research - National Cancer Institute (.gov)"
+        ]
+      },
+      {
+        "trend": "hospital",
+        "market_code": "SE",
+        "category": "Europe Health",
+        "score": 6,
+        "examples": [
+          "Battle of Hospital A.I. vs. Insurer A.I. Is Pushing Medical Costs Higher - The New York Times",
+          "Children's Hospital of Philadelphia Celebrates First Anniversary of Pediatric Health Chat Initiative - PR Newswire",
+          "A Week to Celebrate, Connect and Take Action for Better Health for Mothers and Babies - American Hospital Association"
+        ]
       }
     ],
     "Netherlands": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "NL",
         "category": "Europe Health",
-        "score": 1,
-        "examples": []
+        "score": 64,
+        "examples": [
+          "NYC Health Department Celebrates Opening of New Clubhouse for Adults With Serious Mental Illness in the Bronx - NYC.gov",
+          "Governor Newsom signs legislation creating non-UPF label, other health bills advancing California’s nation-leading healthcare strategy - California State Portal | CA.gov",
+          "Arrington Celebrates $51 Million Rural Health Investment, With More to Come for Texas - Representative Jodey Arrington (.gov)"
+        ]
+      },
+      {
+        "trend": "medical",
+        "market_code": "NL",
+        "category": "Europe Health",
+        "score": 17,
+        "examples": [
+          "Tennessee’s failed execution ignites a medical ethics debate - NPR",
+          "Eagles drive spoiled: Jalen Hurts sent to medical tent, backup Andy Dalton throws end-zone pick - The New York Times",
+          "Neurocrine Biosciences Appoints Eiry W. Roberts, M.D., as Chief Medical Officer - PR Newswire"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "NL",
+        "category": "Mental Health",
+        "score": 13,
+        "examples": [
+          "NYC Health Department Celebrates Opening of New Clubhouse for Adults With Serious Mental Illness in the Bronx - NYC.gov",
+          "Mental health urgent care center coming to Brattleboro - VTDigger",
+          "NYC Health Department Celebrates Opening of New Clubhouse for Adults With Serious Mental Illness in the Bronx - NYC.gov"
+        ]
+      },
+      {
+        "trend": "disease",
+        "market_code": "NL",
+        "category": "Europe Health",
+        "score": 12,
+        "examples": [
+          "HHS Awards Funding to Improve Tick Control and Prevent Lyme Disease, Alpha-gal Syndrome and Other Tickborne Illnesses - HHS.gov",
+          "Florida officials warn of ‘wildly unusual’ disease outbreak, declare state of emergency - New York Post",
+          "Congo's Ebola outbreak tops 8,000 confirmed cases as disease remains out of control - ABC News - Breaking News, Latest News and Videos"
+        ]
       },
       {
         "trend": "outbreak",
         "market_code": "NL",
         "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "score": 12,
+        "examples": [
+          "Florida officials warn of ‘wildly unusual’ disease outbreak, declare state of emergency - New York Post",
+          "Dengue fever outbreak prompts Florida counties to declare state of emergency - The Guardian",
+          "Congo's Ebola outbreak tops 8,000 confirmed cases as disease remains out of control - ABC News - Breaking News, Latest News and Videos"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "NL",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
+        "score": 10,
+        "examples": [
+          "Mental health urgent care center coming to Brattleboro - VTDigger",
+          "Reimagining the treatment of mental health: Maria Carolina Bittencourt Gonçalves - wyss.harvard.edu",
+          "ReadyKids says need for youth mental health services outpaces capacity - WVIR"
+        ]
       },
       {
-        "trend": "medical research",
+        "trend": "healthcare",
         "market_code": "NL",
         "category": "Europe Health",
-        "score": 1,
-        "examples": []
+        "score": 9,
+        "examples": [
+          "Governor Newsom signs legislation creating non-UPF label, other health bills advancing California’s nation-leading healthcare strategy - California State Portal | CA.gov",
+          "AI will inflate healthcare costs before lowering them, Oz says - Healthcare Dive",
+          "AI will inflate healthcare costs before lowering them, Oz says - Healthcare Dive"
+        ]
       },
       {
-        "trend": "drug approval",
+        "trend": "virus",
         "market_code": "NL",
-        "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "This Virus Stole a Human Gene and Won’t Let Go of It - The New York Times",
+          "Mirum's liver infection drug lowers virus levels in late-stage study - Reuters",
+          "Scientists find new virus behind mysterious tick illness - ScienceDaily"
+        ]
       },
       {
-        "trend": "diet wellness",
+        "trend": "infection",
         "market_code": "NL",
-        "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "Mirum's liver infection drug lowers virus levels in late-stage study - Reuters",
+          "Airway lining fights infection by physically removing infected cells, experiments show - medicalxpress.com",
+          "Mirum's liver infection drug lowers virus levels in late-stage study - Reuters"
+        ]
+      },
+      {
+        "trend": "children",
+        "market_code": "NL",
+        "category": "Children Health",
+        "score": 7,
+        "examples": [
+          "Children’s National at the 2026 American Academy of Pediatrics meeting - Children's National",
+          "Children’s National at the 2026 American Academy of Pediatrics meeting - Children's National",
+          "Children's Hospital of Philadelphia Celebrates First Anniversary of Pediatric Health Chat Initiative - PR Newswire"
+        ]
+      },
+      {
+        "trend": "cancer",
+        "market_code": "NL",
+        "category": "Chronic Disease",
+        "score": 6,
+        "examples": [
+          "Just 5 Infections Responsible For More Than 2 Million New Cancer Cases Annually - ScienceAlert",
+          "5 Big Cancer Advances Redefining Care and Survival - cityofhope.org",
+          "Advances in Pancreatic Cancer Research - National Cancer Institute (.gov)"
+        ]
+      },
+      {
+        "trend": "hospital",
+        "market_code": "NL",
+        "category": "Europe Health",
+        "score": 6,
+        "examples": [
+          "Battle of Hospital A.I. vs. Insurer A.I. Is Pushing Medical Costs Higher - The New York Times",
+          "Children's Hospital of Philadelphia Celebrates First Anniversary of Pediatric Health Chat Initiative - PR Newswire",
+          "A Week to Celebrate, Connect and Take Action for Better Health for Mothers and Babies - American Hospital Association"
+        ]
       }
     ],
     "Finland": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "FI",
         "category": "Europe Health",
-        "score": 1,
-        "examples": []
+        "score": 64,
+        "examples": [
+          "NYC Health Department Celebrates Opening of New Clubhouse for Adults With Serious Mental Illness in the Bronx - NYC.gov",
+          "Governor Newsom signs legislation creating non-UPF label, other health bills advancing California’s nation-leading healthcare strategy - California State Portal | CA.gov",
+          "Arrington Celebrates $51 Million Rural Health Investment, With More to Come for Texas - Representative Jodey Arrington (.gov)"
+        ]
+      },
+      {
+        "trend": "medical",
+        "market_code": "FI",
+        "category": "Europe Health",
+        "score": 17,
+        "examples": [
+          "Tennessee’s failed execution ignites a medical ethics debate - NPR",
+          "Eagles drive spoiled: Jalen Hurts sent to medical tent, backup Andy Dalton throws end-zone pick - The New York Times",
+          "Neurocrine Biosciences Appoints Eiry W. Roberts, M.D., as Chief Medical Officer - PR Newswire"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "FI",
+        "category": "Mental Health",
+        "score": 13,
+        "examples": [
+          "NYC Health Department Celebrates Opening of New Clubhouse for Adults With Serious Mental Illness in the Bronx - NYC.gov",
+          "Mental health urgent care center coming to Brattleboro - VTDigger",
+          "NYC Health Department Celebrates Opening of New Clubhouse for Adults With Serious Mental Illness in the Bronx - NYC.gov"
+        ]
+      },
+      {
+        "trend": "disease",
+        "market_code": "FI",
+        "category": "Europe Health",
+        "score": 12,
+        "examples": [
+          "HHS Awards Funding to Improve Tick Control and Prevent Lyme Disease, Alpha-gal Syndrome and Other Tickborne Illnesses - HHS.gov",
+          "Florida officials warn of ‘wildly unusual’ disease outbreak, declare state of emergency - New York Post",
+          "Congo's Ebola outbreak tops 8,000 confirmed cases as disease remains out of control - ABC News - Breaking News, Latest News and Videos"
+        ]
       },
       {
         "trend": "outbreak",
         "market_code": "FI",
         "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "score": 12,
+        "examples": [
+          "Florida officials warn of ‘wildly unusual’ disease outbreak, declare state of emergency - New York Post",
+          "Dengue fever outbreak prompts Florida counties to declare state of emergency - The Guardian",
+          "Congo's Ebola outbreak tops 8,000 confirmed cases as disease remains out of control - ABC News - Breaking News, Latest News and Videos"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "FI",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
+        "score": 10,
+        "examples": [
+          "Mental health urgent care center coming to Brattleboro - VTDigger",
+          "Reimagining the treatment of mental health: Maria Carolina Bittencourt Gonçalves - wyss.harvard.edu",
+          "ReadyKids says need for youth mental health services outpaces capacity - WVIR"
+        ]
       },
       {
-        "trend": "medical research",
+        "trend": "healthcare",
         "market_code": "FI",
         "category": "Europe Health",
-        "score": 1,
-        "examples": []
+        "score": 9,
+        "examples": [
+          "Governor Newsom signs legislation creating non-UPF label, other health bills advancing California’s nation-leading healthcare strategy - California State Portal | CA.gov",
+          "AI will inflate healthcare costs before lowering them, Oz says - Healthcare Dive",
+          "AI will inflate healthcare costs before lowering them, Oz says - Healthcare Dive"
+        ]
       },
       {
-        "trend": "drug approval",
+        "trend": "virus",
         "market_code": "FI",
-        "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "This Virus Stole a Human Gene and Won’t Let Go of It - The New York Times",
+          "Mirum's liver infection drug lowers virus levels in late-stage study - Reuters",
+          "Scientists find new virus behind mysterious tick illness - ScienceDaily"
+        ]
       },
       {
-        "trend": "diet wellness",
+        "trend": "infection",
         "market_code": "FI",
-        "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "Mirum's liver infection drug lowers virus levels in late-stage study - Reuters",
+          "Airway lining fights infection by physically removing infected cells, experiments show - medicalxpress.com",
+          "Mirum's liver infection drug lowers virus levels in late-stage study - Reuters"
+        ]
+      },
+      {
+        "trend": "children",
+        "market_code": "FI",
+        "category": "Children Health",
+        "score": 7,
+        "examples": [
+          "Children’s National at the 2026 American Academy of Pediatrics meeting - Children's National",
+          "Children’s National at the 2026 American Academy of Pediatrics meeting - Children's National",
+          "Children's Hospital of Philadelphia Celebrates First Anniversary of Pediatric Health Chat Initiative - PR Newswire"
+        ]
+      },
+      {
+        "trend": "cancer",
+        "market_code": "FI",
+        "category": "Chronic Disease",
+        "score": 6,
+        "examples": [
+          "Just 5 Infections Responsible For More Than 2 Million New Cancer Cases Annually - ScienceAlert",
+          "5 Big Cancer Advances Redefining Care and Survival - cityofhope.org",
+          "Advances in Pancreatic Cancer Research - National Cancer Institute (.gov)"
+        ]
+      },
+      {
+        "trend": "hospital",
+        "market_code": "FI",
+        "category": "Europe Health",
+        "score": 6,
+        "examples": [
+          "Battle of Hospital A.I. vs. Insurer A.I. Is Pushing Medical Costs Higher - The New York Times",
+          "Children's Hospital of Philadelphia Celebrates First Anniversary of Pediatric Health Chat Initiative - PR Newswire",
+          "A Week to Celebrate, Connect and Take Action for Better Health for Mothers and Babies - American Hospital Association"
+        ]
       }
     ],
     "Norway": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "NO",
         "category": "Europe Health",
-        "score": 1,
-        "examples": []
+        "score": 64,
+        "examples": [
+          "NYC Health Department Celebrates Opening of New Clubhouse for Adults With Serious Mental Illness in the Bronx - NYC.gov",
+          "Governor Newsom signs legislation creating non-UPF label, other health bills advancing California’s nation-leading healthcare strategy - California State Portal | CA.gov",
+          "Arrington Celebrates $51 Million Rural Health Investment, With More to Come for Texas - Representative Jodey Arrington (.gov)"
+        ]
+      },
+      {
+        "trend": "medical",
+        "market_code": "NO",
+        "category": "Europe Health",
+        "score": 17,
+        "examples": [
+          "Tennessee’s failed execution ignites a medical ethics debate - NPR",
+          "Eagles drive spoiled: Jalen Hurts sent to medical tent, backup Andy Dalton throws end-zone pick - The New York Times",
+          "Neurocrine Biosciences Appoints Eiry W. Roberts, M.D., as Chief Medical Officer - PR Newswire"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "NO",
+        "category": "Mental Health",
+        "score": 13,
+        "examples": [
+          "NYC Health Department Celebrates Opening of New Clubhouse for Adults With Serious Mental Illness in the Bronx - NYC.gov",
+          "Mental health urgent care center coming to Brattleboro - VTDigger",
+          "NYC Health Department Celebrates Opening of New Clubhouse for Adults With Serious Mental Illness in the Bronx - NYC.gov"
+        ]
+      },
+      {
+        "trend": "disease",
+        "market_code": "NO",
+        "category": "Europe Health",
+        "score": 12,
+        "examples": [
+          "HHS Awards Funding to Improve Tick Control and Prevent Lyme Disease, Alpha-gal Syndrome and Other Tickborne Illnesses - HHS.gov",
+          "Florida officials warn of ‘wildly unusual’ disease outbreak, declare state of emergency - New York Post",
+          "Congo's Ebola outbreak tops 8,000 confirmed cases as disease remains out of control - ABC News - Breaking News, Latest News and Videos"
+        ]
       },
       {
         "trend": "outbreak",
         "market_code": "NO",
         "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "score": 12,
+        "examples": [
+          "Florida officials warn of ‘wildly unusual’ disease outbreak, declare state of emergency - New York Post",
+          "Dengue fever outbreak prompts Florida counties to declare state of emergency - The Guardian",
+          "Congo's Ebola outbreak tops 8,000 confirmed cases as disease remains out of control - ABC News - Breaking News, Latest News and Videos"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "NO",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
+        "score": 10,
+        "examples": [
+          "Mental health urgent care center coming to Brattleboro - VTDigger",
+          "Reimagining the treatment of mental health: Maria Carolina Bittencourt Gonçalves - wyss.harvard.edu",
+          "ReadyKids says need for youth mental health services outpaces capacity - WVIR"
+        ]
       },
       {
-        "trend": "medical research",
+        "trend": "healthcare",
         "market_code": "NO",
         "category": "Europe Health",
-        "score": 1,
-        "examples": []
+        "score": 9,
+        "examples": [
+          "Governor Newsom signs legislation creating non-UPF label, other health bills advancing California’s nation-leading healthcare strategy - California State Portal | CA.gov",
+          "AI will inflate healthcare costs before lowering them, Oz says - Healthcare Dive",
+          "AI will inflate healthcare costs before lowering them, Oz says - Healthcare Dive"
+        ]
       },
       {
-        "trend": "drug approval",
+        "trend": "virus",
         "market_code": "NO",
-        "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "This Virus Stole a Human Gene and Won’t Let Go of It - The New York Times",
+          "Mirum's liver infection drug lowers virus levels in late-stage study - Reuters",
+          "Scientists find new virus behind mysterious tick illness - ScienceDaily"
+        ]
       },
       {
-        "trend": "diet wellness",
+        "trend": "infection",
         "market_code": "NO",
-        "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "Mirum's liver infection drug lowers virus levels in late-stage study - Reuters",
+          "Airway lining fights infection by physically removing infected cells, experiments show - medicalxpress.com",
+          "Mirum's liver infection drug lowers virus levels in late-stage study - Reuters"
+        ]
+      },
+      {
+        "trend": "children",
+        "market_code": "NO",
+        "category": "Children Health",
+        "score": 7,
+        "examples": [
+          "Children’s National at the 2026 American Academy of Pediatrics meeting - Children's National",
+          "Children’s National at the 2026 American Academy of Pediatrics meeting - Children's National",
+          "Children's Hospital of Philadelphia Celebrates First Anniversary of Pediatric Health Chat Initiative - PR Newswire"
+        ]
+      },
+      {
+        "trend": "cancer",
+        "market_code": "NO",
+        "category": "Chronic Disease",
+        "score": 6,
+        "examples": [
+          "Just 5 Infections Responsible For More Than 2 Million New Cancer Cases Annually - ScienceAlert",
+          "5 Big Cancer Advances Redefining Care and Survival - cityofhope.org",
+          "Advances in Pancreatic Cancer Research - National Cancer Institute (.gov)"
+        ]
+      },
+      {
+        "trend": "hospital",
+        "market_code": "NO",
+        "category": "Europe Health",
+        "score": 6,
+        "examples": [
+          "Battle of Hospital A.I. vs. Insurer A.I. Is Pushing Medical Costs Higher - The New York Times",
+          "Children's Hospital of Philadelphia Celebrates First Anniversary of Pediatric Health Chat Initiative - PR Newswire",
+          "A Week to Celebrate, Connect and Take Action for Better Health for Mothers and Babies - American Hospital Association"
+        ]
       }
     ],
     "Japan": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "JP",
         "category": "Asia Health",
-        "score": 1,
-        "examples": []
+        "score": 64,
+        "examples": [
+          "NYC Health Department Celebrates Opening of New Clubhouse for Adults With Serious Mental Illness in the Bronx - NYC.gov",
+          "Governor Newsom signs legislation creating non-UPF label, other health bills advancing California’s nation-leading healthcare strategy - California State Portal | CA.gov",
+          "Arrington Celebrates $51 Million Rural Health Investment, With More to Come for Texas - Representative Jodey Arrington (.gov)"
+        ]
+      },
+      {
+        "trend": "medical",
+        "market_code": "JP",
+        "category": "Asia Health",
+        "score": 17,
+        "examples": [
+          "Tennessee’s failed execution ignites a medical ethics debate - NPR",
+          "Eagles drive spoiled: Jalen Hurts sent to medical tent, backup Andy Dalton throws end-zone pick - The New York Times",
+          "Neurocrine Biosciences Appoints Eiry W. Roberts, M.D., as Chief Medical Officer - PR Newswire"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "JP",
+        "category": "Mental Health",
+        "score": 13,
+        "examples": [
+          "NYC Health Department Celebrates Opening of New Clubhouse for Adults With Serious Mental Illness in the Bronx - NYC.gov",
+          "Mental health urgent care center coming to Brattleboro - VTDigger",
+          "NYC Health Department Celebrates Opening of New Clubhouse for Adults With Serious Mental Illness in the Bronx - NYC.gov"
+        ]
+      },
+      {
+        "trend": "disease",
+        "market_code": "JP",
+        "category": "Asia Health",
+        "score": 12,
+        "examples": [
+          "HHS Awards Funding to Improve Tick Control and Prevent Lyme Disease, Alpha-gal Syndrome and Other Tickborne Illnesses - HHS.gov",
+          "Florida officials warn of ‘wildly unusual’ disease outbreak, declare state of emergency - New York Post",
+          "Congo's Ebola outbreak tops 8,000 confirmed cases as disease remains out of control - ABC News - Breaking News, Latest News and Videos"
+        ]
       },
       {
         "trend": "outbreak",
         "market_code": "JP",
         "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "score": 12,
+        "examples": [
+          "Florida officials warn of ‘wildly unusual’ disease outbreak, declare state of emergency - New York Post",
+          "Dengue fever outbreak prompts Florida counties to declare state of emergency - The Guardian",
+          "Congo's Ebola outbreak tops 8,000 confirmed cases as disease remains out of control - ABC News - Breaking News, Latest News and Videos"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "JP",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
+        "score": 10,
+        "examples": [
+          "Mental health urgent care center coming to Brattleboro - VTDigger",
+          "Reimagining the treatment of mental health: Maria Carolina Bittencourt Gonçalves - wyss.harvard.edu",
+          "ReadyKids says need for youth mental health services outpaces capacity - WVIR"
+        ]
       },
       {
-        "trend": "medical research",
+        "trend": "healthcare",
         "market_code": "JP",
         "category": "Asia Health",
-        "score": 1,
-        "examples": []
+        "score": 9,
+        "examples": [
+          "Governor Newsom signs legislation creating non-UPF label, other health bills advancing California’s nation-leading healthcare strategy - California State Portal | CA.gov",
+          "AI will inflate healthcare costs before lowering them, Oz says - Healthcare Dive",
+          "AI will inflate healthcare costs before lowering them, Oz says - Healthcare Dive"
+        ]
       },
       {
-        "trend": "drug approval",
+        "trend": "virus",
         "market_code": "JP",
-        "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "This Virus Stole a Human Gene and Won’t Let Go of It - The New York Times",
+          "Mirum's liver infection drug lowers virus levels in late-stage study - Reuters",
+          "Scientists find new virus behind mysterious tick illness - ScienceDaily"
+        ]
       },
       {
-        "trend": "diet wellness",
+        "trend": "infection",
         "market_code": "JP",
-        "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "Mirum's liver infection drug lowers virus levels in late-stage study - Reuters",
+          "Airway lining fights infection by physically removing infected cells, experiments show - medicalxpress.com",
+          "Mirum's liver infection drug lowers virus levels in late-stage study - Reuters"
+        ]
+      },
+      {
+        "trend": "children",
+        "market_code": "JP",
+        "category": "Children Health",
+        "score": 7,
+        "examples": [
+          "Children’s National at the 2026 American Academy of Pediatrics meeting - Children's National",
+          "Children’s National at the 2026 American Academy of Pediatrics meeting - Children's National",
+          "Children's Hospital of Philadelphia Celebrates First Anniversary of Pediatric Health Chat Initiative - PR Newswire"
+        ]
+      },
+      {
+        "trend": "cancer",
+        "market_code": "JP",
+        "category": "Chronic Disease",
+        "score": 6,
+        "examples": [
+          "Just 5 Infections Responsible For More Than 2 Million New Cancer Cases Annually - ScienceAlert",
+          "5 Big Cancer Advances Redefining Care and Survival - cityofhope.org",
+          "Advances in Pancreatic Cancer Research - National Cancer Institute (.gov)"
+        ]
+      },
+      {
+        "trend": "hospital",
+        "market_code": "JP",
+        "category": "Asia Health",
+        "score": 6,
+        "examples": [
+          "Battle of Hospital A.I. vs. Insurer A.I. Is Pushing Medical Costs Higher - The New York Times",
+          "Children's Hospital of Philadelphia Celebrates First Anniversary of Pediatric Health Chat Initiative - PR Newswire",
+          "A Week to Celebrate, Connect and Take Action for Better Health for Mothers and Babies - American Hospital Association"
+        ]
       }
     ],
     "China": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "CN",
         "category": "Asia Health",
-        "score": 1,
-        "examples": []
+        "score": 64,
+        "examples": [
+          "NYC Health Department Celebrates Opening of New Clubhouse for Adults With Serious Mental Illness in the Bronx - NYC.gov",
+          "Governor Newsom signs legislation creating non-UPF label, other health bills advancing California’s nation-leading healthcare strategy - California State Portal | CA.gov",
+          "Arrington Celebrates $51 Million Rural Health Investment, With More to Come for Texas - Representative Jodey Arrington (.gov)"
+        ]
+      },
+      {
+        "trend": "medical",
+        "market_code": "CN",
+        "category": "Asia Health",
+        "score": 17,
+        "examples": [
+          "Tennessee’s failed execution ignites a medical ethics debate - NPR",
+          "Eagles drive spoiled: Jalen Hurts sent to medical tent, backup Andy Dalton throws end-zone pick - The New York Times",
+          "Neurocrine Biosciences Appoints Eiry W. Roberts, M.D., as Chief Medical Officer - PR Newswire"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "CN",
+        "category": "Mental Health",
+        "score": 13,
+        "examples": [
+          "NYC Health Department Celebrates Opening of New Clubhouse for Adults With Serious Mental Illness in the Bronx - NYC.gov",
+          "Mental health urgent care center coming to Brattleboro - VTDigger",
+          "NYC Health Department Celebrates Opening of New Clubhouse for Adults With Serious Mental Illness in the Bronx - NYC.gov"
+        ]
+      },
+      {
+        "trend": "disease",
+        "market_code": "CN",
+        "category": "Asia Health",
+        "score": 12,
+        "examples": [
+          "HHS Awards Funding to Improve Tick Control and Prevent Lyme Disease, Alpha-gal Syndrome and Other Tickborne Illnesses - HHS.gov",
+          "Florida officials warn of ‘wildly unusual’ disease outbreak, declare state of emergency - New York Post",
+          "Congo's Ebola outbreak tops 8,000 confirmed cases as disease remains out of control - ABC News - Breaking News, Latest News and Videos"
+        ]
       },
       {
         "trend": "outbreak",
         "market_code": "CN",
         "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "score": 12,
+        "examples": [
+          "Florida officials warn of ‘wildly unusual’ disease outbreak, declare state of emergency - New York Post",
+          "Dengue fever outbreak prompts Florida counties to declare state of emergency - The Guardian",
+          "Congo's Ebola outbreak tops 8,000 confirmed cases as disease remains out of control - ABC News - Breaking News, Latest News and Videos"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "CN",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
+        "score": 10,
+        "examples": [
+          "Mental health urgent care center coming to Brattleboro - VTDigger",
+          "Reimagining the treatment of mental health: Maria Carolina Bittencourt Gonçalves - wyss.harvard.edu",
+          "ReadyKids says need for youth mental health services outpaces capacity - WVIR"
+        ]
       },
       {
-        "trend": "medical research",
+        "trend": "healthcare",
         "market_code": "CN",
         "category": "Asia Health",
-        "score": 1,
-        "examples": []
+        "score": 9,
+        "examples": [
+          "Governor Newsom signs legislation creating non-UPF label, other health bills advancing California’s nation-leading healthcare strategy - California State Portal | CA.gov",
+          "AI will inflate healthcare costs before lowering them, Oz says - Healthcare Dive",
+          "AI will inflate healthcare costs before lowering them, Oz says - Healthcare Dive"
+        ]
       },
       {
-        "trend": "drug approval",
+        "trend": "virus",
         "market_code": "CN",
-        "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "This Virus Stole a Human Gene and Won’t Let Go of It - The New York Times",
+          "Mirum's liver infection drug lowers virus levels in late-stage study - Reuters",
+          "Scientists find new virus behind mysterious tick illness - ScienceDaily"
+        ]
       },
       {
-        "trend": "diet wellness",
+        "trend": "infection",
         "market_code": "CN",
-        "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "Mirum's liver infection drug lowers virus levels in late-stage study - Reuters",
+          "Airway lining fights infection by physically removing infected cells, experiments show - medicalxpress.com",
+          "Mirum's liver infection drug lowers virus levels in late-stage study - Reuters"
+        ]
+      },
+      {
+        "trend": "children",
+        "market_code": "CN",
+        "category": "Children Health",
+        "score": 7,
+        "examples": [
+          "Children’s National at the 2026 American Academy of Pediatrics meeting - Children's National",
+          "Children’s National at the 2026 American Academy of Pediatrics meeting - Children's National",
+          "Children's Hospital of Philadelphia Celebrates First Anniversary of Pediatric Health Chat Initiative - PR Newswire"
+        ]
+      },
+      {
+        "trend": "cancer",
+        "market_code": "CN",
+        "category": "Chronic Disease",
+        "score": 6,
+        "examples": [
+          "Just 5 Infections Responsible For More Than 2 Million New Cancer Cases Annually - ScienceAlert",
+          "5 Big Cancer Advances Redefining Care and Survival - cityofhope.org",
+          "Advances in Pancreatic Cancer Research - National Cancer Institute (.gov)"
+        ]
+      },
+      {
+        "trend": "hospital",
+        "market_code": "CN",
+        "category": "Asia Health",
+        "score": 6,
+        "examples": [
+          "Battle of Hospital A.I. vs. Insurer A.I. Is Pushing Medical Costs Higher - The New York Times",
+          "Children's Hospital of Philadelphia Celebrates First Anniversary of Pediatric Health Chat Initiative - PR Newswire",
+          "A Week to Celebrate, Connect and Take Action for Better Health for Mothers and Babies - American Hospital Association"
+        ]
       }
     ],
     "South Korea": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "KR",
         "category": "Asia Health",
-        "score": 1,
-        "examples": []
+        "score": 64,
+        "examples": [
+          "NYC Health Department Celebrates Opening of New Clubhouse for Adults With Serious Mental Illness in the Bronx - NYC.gov",
+          "Governor Newsom signs legislation creating non-UPF label, other health bills advancing California’s nation-leading healthcare strategy - California State Portal | CA.gov",
+          "Arrington Celebrates $51 Million Rural Health Investment, With More to Come for Texas - Representative Jodey Arrington (.gov)"
+        ]
+      },
+      {
+        "trend": "medical",
+        "market_code": "KR",
+        "category": "Asia Health",
+        "score": 17,
+        "examples": [
+          "Tennessee’s failed execution ignites a medical ethics debate - NPR",
+          "Eagles drive spoiled: Jalen Hurts sent to medical tent, backup Andy Dalton throws end-zone pick - The New York Times",
+          "Neurocrine Biosciences Appoints Eiry W. Roberts, M.D., as Chief Medical Officer - PR Newswire"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "KR",
+        "category": "Mental Health",
+        "score": 13,
+        "examples": [
+          "NYC Health Department Celebrates Opening of New Clubhouse for Adults With Serious Mental Illness in the Bronx - NYC.gov",
+          "Mental health urgent care center coming to Brattleboro - VTDigger",
+          "NYC Health Department Celebrates Opening of New Clubhouse for Adults With Serious Mental Illness in the Bronx - NYC.gov"
+        ]
+      },
+      {
+        "trend": "disease",
+        "market_code": "KR",
+        "category": "Asia Health",
+        "score": 12,
+        "examples": [
+          "HHS Awards Funding to Improve Tick Control and Prevent Lyme Disease, Alpha-gal Syndrome and Other Tickborne Illnesses - HHS.gov",
+          "Florida officials warn of ‘wildly unusual’ disease outbreak, declare state of emergency - New York Post",
+          "Congo's Ebola outbreak tops 8,000 confirmed cases as disease remains out of control - ABC News - Breaking News, Latest News and Videos"
+        ]
       },
       {
         "trend": "outbreak",
         "market_code": "KR",
         "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "score": 12,
+        "examples": [
+          "Florida officials warn of ‘wildly unusual’ disease outbreak, declare state of emergency - New York Post",
+          "Dengue fever outbreak prompts Florida counties to declare state of emergency - The Guardian",
+          "Congo's Ebola outbreak tops 8,000 confirmed cases as disease remains out of control - ABC News - Breaking News, Latest News and Videos"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "KR",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
+        "score": 10,
+        "examples": [
+          "Mental health urgent care center coming to Brattleboro - VTDigger",
+          "Reimagining the treatment of mental health: Maria Carolina Bittencourt Gonçalves - wyss.harvard.edu",
+          "ReadyKids says need for youth mental health services outpaces capacity - WVIR"
+        ]
       },
       {
-        "trend": "medical research",
+        "trend": "healthcare",
         "market_code": "KR",
         "category": "Asia Health",
-        "score": 1,
-        "examples": []
+        "score": 9,
+        "examples": [
+          "Governor Newsom signs legislation creating non-UPF label, other health bills advancing California’s nation-leading healthcare strategy - California State Portal | CA.gov",
+          "AI will inflate healthcare costs before lowering them, Oz says - Healthcare Dive",
+          "AI will inflate healthcare costs before lowering them, Oz says - Healthcare Dive"
+        ]
       },
       {
-        "trend": "drug approval",
+        "trend": "virus",
         "market_code": "KR",
-        "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "This Virus Stole a Human Gene and Won’t Let Go of It - The New York Times",
+          "Mirum's liver infection drug lowers virus levels in late-stage study - Reuters",
+          "Scientists find new virus behind mysterious tick illness - ScienceDaily"
+        ]
       },
       {
-        "trend": "diet wellness",
+        "trend": "infection",
         "market_code": "KR",
-        "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "Mirum's liver infection drug lowers virus levels in late-stage study - Reuters",
+          "Airway lining fights infection by physically removing infected cells, experiments show - medicalxpress.com",
+          "Mirum's liver infection drug lowers virus levels in late-stage study - Reuters"
+        ]
+      },
+      {
+        "trend": "children",
+        "market_code": "KR",
+        "category": "Children Health",
+        "score": 7,
+        "examples": [
+          "Children’s National at the 2026 American Academy of Pediatrics meeting - Children's National",
+          "Children’s National at the 2026 American Academy of Pediatrics meeting - Children's National",
+          "Children's Hospital of Philadelphia Celebrates First Anniversary of Pediatric Health Chat Initiative - PR Newswire"
+        ]
+      },
+      {
+        "trend": "cancer",
+        "market_code": "KR",
+        "category": "Chronic Disease",
+        "score": 6,
+        "examples": [
+          "Just 5 Infections Responsible For More Than 2 Million New Cancer Cases Annually - ScienceAlert",
+          "5 Big Cancer Advances Redefining Care and Survival - cityofhope.org",
+          "Advances in Pancreatic Cancer Research - National Cancer Institute (.gov)"
+        ]
+      },
+      {
+        "trend": "hospital",
+        "market_code": "KR",
+        "category": "Asia Health",
+        "score": 6,
+        "examples": [
+          "Battle of Hospital A.I. vs. Insurer A.I. Is Pushing Medical Costs Higher - The New York Times",
+          "Children's Hospital of Philadelphia Celebrates First Anniversary of Pediatric Health Chat Initiative - PR Newswire",
+          "A Week to Celebrate, Connect and Take Action for Better Health for Mothers and Babies - American Hospital Association"
+        ]
       }
     ],
     "India": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "IN",
         "category": "Asia Health",
-        "score": 1,
-        "examples": []
+        "score": 68,
+        "examples": [
+          "Bourla at Concordia: The Business of Better Health - Pfizer",
+          "Newgen Software Secures $5.48 Million Contract From US Health Insurer for NewgenOne CAG Solution - Sahi",
+          "PAHO marks 50 years of strengthening health emergency preparedness and response in the Americas - Pan American Health Organization (PAHO)"
+        ]
       },
       {
-        "trend": "outbreak",
+        "trend": "medical",
         "market_code": "IN",
-        "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "category": "Asia Health",
+        "score": 15,
+        "examples": [
+          "Beyond 'normal' and 'abnormal': Health checkup values show nonlinear links to future health care costs - Medical Xpress",
+          "33 medical super speciality seats go vacant in T.N. - The Hindu",
+          "Cutoff slashed, but 33 super speciality medical seats in Tamil Nadu remain vacant - The New Indian Express"
+        ]
+      },
+      {
+        "trend": "healthcare",
+        "market_code": "IN",
+        "category": "Asia Health",
+        "score": 14,
+        "examples": [
+          "ShardaCare Organises Free Mother And Child Health Camp In Greater Noida - BW Healthcare World",
+          "Are healthcare workers obligated to help you during a medical emergency? - RNZ",
+          "India Highlights UHC, Hepatitis And Sickle Cell Progress At UNGA81 - BW Healthcare World"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "IN",
+        "category": "Mental Health",
+        "score": 10,
+        "examples": [
+          "3-Day national CME on child mental health concludes in Srinagar - Greater Kashmir",
+          "CRC A&N Islands Organises Mental Health Awareness Programme-cum-General Health Check-up - andamanchronicle.net",
+          "No solid evidence daylight saving time affects mental health, researchers find - The Guardian"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "IN",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
+        "score": 10,
+        "examples": [
+          "3-Day national CME on child mental health concludes in Srinagar - Greater Kashmir",
+          "CRC A&N Islands Organises Mental Health Awareness Programme-cum-General Health Check-up - andamanchronicle.net",
+          "No solid evidence daylight saving time affects mental health, researchers find - The Guardian"
+        ]
       },
       {
-        "trend": "medical research",
-        "market_code": "IN",
-        "category": "Asia Health",
-        "score": 1,
-        "examples": []
-      },
-      {
-        "trend": "drug approval",
+        "trend": "drug",
         "market_code": "IN",
         "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
+        "score": 9,
+        "examples": [
+          "FDA Advisory No.2026-1281 || Public Health Warning Against the Purchase and Use of the Unregistered Drug Product “Hyal Skin The Red Ampoule Solution for Face & Body Lecithin + Bromelain + Vitamin 10 ml” - Food and Drug Administration - fda.gov.ph",
+          "FDA Advisory No.2026-1281 || Public Health Warning Against the Purchase and Use of the Unregistered Drug Product “Hyal Skin The Red Ampoule Solution for Face & Body Lecithin + Bromelain + Vitamin 10 ml” - Food and Drug Administration - fda.gov.ph",
+          "Ask Dr. Nandi: 1 in 5 seniors are at risk for dangerous drug interactions - WXYZ 7 News Detroit"
+        ]
       },
       {
-        "trend": "diet wellness",
+        "trend": "outbreak",
         "market_code": "IN",
-        "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "Dengue fever outbreak prompts Florida counties to declare state of emergency - The Guardian",
+          "Congo's Ebola outbreak tops 8,000 confirmed cases as disease remains out of control - ABC News - Breaking News, Latest News and Videos",
+          "DR Congo Ebola outbreak tops 8,000 cases, with 48% death rate - cidrap.umn.edu"
+        ]
+      },
+      {
+        "trend": "children",
+        "market_code": "IN",
+        "category": "Children Health",
+        "score": 9,
+        "examples": [
+          "Making Handwashing Memorable: What Cartoon Faucets Can Teach Children - Infection Control Today",
+          "School-based high-intensity interval training for children: a focused systematic review of implementation and school-relevant outcomes - Frontiers",
+          "Children's Hospital of Philadelphia Celebrates First Anniversary of Pediatric Health Chat Initiative - PR Newswire"
+        ]
+      },
+      {
+        "trend": "virus",
+        "market_code": "IN",
+        "category": "Outbreaks",
+        "score": 8,
+        "examples": [
+          "Scientists find new virus behind mysterious tick illness - ScienceDaily",
+          "Mirum's liver infection drug lowers virus levels in late-stage study - Reuters",
+          "How does a bird virus infect a person? Surprising findings from B.C.’s human case of H5N1 avian flu - The Conversation"
+        ]
+      },
+      {
+        "trend": "infection",
+        "market_code": "IN",
+        "category": "Outbreaks",
+        "score": 8,
+        "examples": [
+          "Mirum's liver infection drug lowers virus levels in late-stage study - Reuters",
+          "New tool tracks a hidden protein involved in viral infection and cell cleanup - Phys.org",
+          "One in eight cancers are likely caused by an infection worldwide – new study - The Conversation"
+        ]
+      },
+      {
+        "trend": "research",
+        "market_code": "IN",
+        "category": "Asia Health",
+        "score": 7,
+        "examples": [
+          "Advanced Health Research Begins Week as Station Awaits Crew-13 Mission - NASA (.gov)",
+          "\"We offer RNA sequencing services to hospitals, pharma, research institutions and CROs\" - BioSpectrum India",
+          "Pune city at high risk of Zika cases in future, states NIV research - The Times of India"
+        ]
+      },
+      {
+        "trend": "hospital",
+        "market_code": "IN",
+        "category": "Asia Health",
+        "score": 6,
+        "examples": [
+          "Hospital quality grading push set to reshape procurement decisions - medicalbuyer.co.in",
+          "4-day-old gravy found in private hospital canteen in Jaipur: Food colors found in kitchen; samples of dal, ... - Bhaskar English",
+          "Scabies outbreak at hospital closes wards - BBC"
+        ]
       }
     ],
     "Australia": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "AU",
         "category": "Global Health",
-        "score": 1,
-        "examples": []
+        "score": 57,
+        "examples": [
+          "No solid evidence daylight saving time affects mental health, researchers find - The Guardian",
+          "Larissa Waters steps down as Greens leader due to health reasons - theconversation.com",
+          "Why scrapping the extra private health rebate for over-65s won’t necessarily add pressure to public hospitals - thepoint.com.au"
+        ]
       },
       {
         "trend": "outbreak",
         "market_code": "AU",
         "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "score": 15,
+        "examples": [
+          "Ebola cases surpass 8,000 as DRC struggles to control outbreak - Al Jazeera",
+          "Measles outbreak sparks urgent health warning in Adelaide - 7NEWS",
+          "SA Health confirms another new case as measles outbreak grows - Adelaide Now"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "AU",
+        "category": "Mental Health",
+        "score": 13,
+        "examples": [
+          "No solid evidence daylight saving time affects mental health, researchers find - The Guardian",
+          "What role does high school play in mental health? Feeling connected to other students and staff is key - UNSW Sydney",
+          "Mental health problems are more likely to persist among adults now than a decade ago, study finds - medicalxpress.com"
+        ]
+      },
+      {
+        "trend": "medical",
+        "market_code": "AU",
+        "category": "Global Health",
+        "score": 12,
+        "examples": [
+          "Another Aussie startup looks to ride the medical AI wave; eyes US deal - AFR",
+          "Are healthcare workers obligated to help you during a medical emergency? - RNZ",
+          "Tennessee’s failed execution ignites a medical ethics debate - NPR"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "AU",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
+        "score": 11,
+        "examples": [
+          "No solid evidence daylight saving time affects mental health, researchers find - The Guardian",
+          "What role does high school play in mental health? Feeling connected to other students and staff is key - UNSW Sydney",
+          "Mental health problems are more likely to persist among adults now than a decade ago, study finds - medicalxpress.com"
+        ]
       },
       {
-        "trend": "medical research",
+        "trend": "children",
+        "market_code": "AU",
+        "category": "Children Health",
+        "score": 9,
+        "examples": [
+          "Intentional substance exposures at school rise sharply among younger children - News-Medical",
+          "Making Handwashing Memorable: What Cartoon Faucets Can Teach Children - Infection Control Today",
+          "School-based high-intensity interval training for children: a focused systematic review of implementation and school-relevant outcomes - Frontiers"
+        ]
+      },
+      {
+        "trend": "virus",
+        "market_code": "AU",
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "How does a bird virus infect a person? Surprising findings from B.C.’s human case of H5N1 avian flu - theconversation.com",
+          "How does a bird virus infect a person? Surprising findings from B.C.’s human case of H5N1 avian flu - theconversation.com",
+          "Scientists find new virus behind mysterious tick illness - ScienceDaily"
+        ]
+      },
+      {
+        "trend": "healthcare",
         "market_code": "AU",
         "category": "Global Health",
-        "score": 1,
-        "examples": []
+        "score": 8,
+        "examples": [
+          "Are healthcare workers obligated to help you during a medical emergency? - RNZ",
+          "PolyU, Fudan Launch AI Healthcare Lab for Innovation - Mirage News",
+          "Building a Competitive Advantage in the Healthcare AI Market - Harvard Business Review"
+        ]
       },
       {
-        "trend": "drug approval",
+        "trend": "infection",
         "market_code": "AU",
-        "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
+        "category": "Outbreaks",
+        "score": 8,
+        "examples": [
+          "Mirum's liver infection drug lowers virus levels in late-stage study - Reuters",
+          "Airway lining fights infection by physically removing infected cells, experiments show - medicalxpress.com",
+          "New tool tracks a hidden protein involved in viral infection and cell cleanup - Phys.org"
+        ]
       },
       {
-        "trend": "diet wellness",
+        "trend": "cancer",
+        "market_code": "AU",
+        "category": "Chronic Disease",
+        "score": 8,
+        "examples": [
+          "Just 5 Infections Responsible For More Than 2 Million New Cancer Cases Annually - sciencealert.com",
+          "Just 5 Infections Responsible For More Than 2 Million New Cancer Cases Annually - sciencealert.com",
+          "Advances in Pancreatic Cancer Research - National Cancer Institute (.gov)"
+        ]
+      },
+      {
+        "trend": "nutritional",
         "market_code": "AU",
         "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "score": 7,
+        "examples": [
+          "Nutritional Outlook Returns with the Second Annual \"The Outlook on Active Nutrition,\" Bringing Industry Leaders Together to Explore What's Next in Performance, Wellness, and Longevity | Nutritional Outlook - Supplement, Food & Beverage Manufacturing Tre - Nutritional Outlook",
+          "Nutritional Outlook Returns with the Second Annual \"The Outlook on Active Nutrition,\" Bringing Industry Leaders Together to Explore What's Next in Performance, Wellness, and Longevity | Nutritional Outlook - Supplement, Food & Beverage Manufacturing Tre - Nutritional Outlook",
+          "Nutritional Outlook Returns with the Second Annual \"The Outlook on Active Nutrition,\" Bringing Industry Leaders Together to Explore What's Next in Performance, Wellness, and Longevity | Nutritional Outlook - Supplement, Food & Beverage Manufacturing Tre - Nutritional Outlook"
+        ]
+      },
+      {
+        "trend": "medicalxpress",
+        "market_code": "AU",
+        "category": "Global Health",
+        "score": 6,
+        "examples": [
+          "Mental health problems are more likely to persist among adults now than a decade ago, study finds - medicalxpress.com",
+          "Raw milk cheese recalled nationwide after E. coli outbreak sickens 13 - medicalxpress.com",
+          "Airway lining fights infection by physically removing infected cells, experiments show - medicalxpress.com"
+        ]
       }
     ],
     "Canada": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "CA",
         "category": "Global Health",
-        "score": 1,
-        "examples": []
+        "score": 69,
+        "examples": [
+          "234,000 people may be affected in personal information breach, says Health P.E.I. - CBC",
+          "Breastfeeding and Sexual Health Clinics at the Oshawa Centre closed due to a watermain break - Region of Durham",
+          "Government of Canada announces appointment of Crystal Lennie to the Canadian Institutes of Health Research Governing Council - canada.ca"
+        ]
       },
       {
-        "trend": "outbreak",
+        "trend": "medical",
         "market_code": "CA",
-        "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "category": "Global Health",
+        "score": 16,
+        "examples": [
+          "Government Announces Major Enhancements to Medical Transportation Assistance and Improved Access to Health Care - Government of Newfoundland and Labrador",
+          "N.L. government more than doubling funds in medical travel assistance program - CBC",
+          "Study finds outsourcing medical procedures isn’t reducing wait times - Global News"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "CA",
+        "category": "Mental Health",
+        "score": 12,
+        "examples": [
+          "Mental health programs alone won’t fix psychological injury among public safety workers - Queen's University",
+          "Mental health programs alone won’t fix psychological injury among public safety workers - Queen's University",
+          "Dilkens, Francis weigh in on call for review of Ontario mental health, consent laws - CBC"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "CA",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
+        "score": 12,
+        "examples": [
+          "Mental health programs alone won’t fix psychological injury among public safety workers - Queen's University",
+          "Mental health programs alone won’t fix psychological injury among public safety workers - Queen's University",
+          "Dilkens, Francis weigh in on call for review of Ontario mental health, consent laws - CBC"
+        ]
       },
       {
-        "trend": "medical research",
+        "trend": "outbreak",
+        "market_code": "CA",
+        "category": "Outbreaks",
+        "score": 11,
+        "examples": [
+          "Government of Canada extends temporary border measures in response to Ebola disease outbreak - canada.ca",
+          "Alberta ‘failed’ Cargill workers amid COVID-19 outbreak with inaction, overconfidence: report - CBC",
+          "New report calls Alberta’s response to Cargill plant COVID-19 outbreak a ‘catastrophic failure’ - CTV News"
+        ]
+      },
+      {
+        "trend": "virus",
+        "market_code": "CA",
+        "category": "Outbreaks",
+        "score": 7,
+        "examples": [
+          "How does a bird virus infect a person? Surprising findings from B.C.’s human case of H5N1 avian flu - The Conversation",
+          "Scientists find new virus behind mysterious tick illness - ScienceDaily",
+          "This Virus Stole a Human Gene and Won’t Let Go of It - The New York Times"
+        ]
+      },
+      {
+        "trend": "cancer",
+        "market_code": "CA",
+        "category": "Chronic Disease",
+        "score": 7,
+        "examples": [
+          "Just 5 Infections Responsible For More Than 2 Million New Cancer Cases Annually - ScienceAlert",
+          "The Drugs and Devices Have Been on the Market for Years. But FDA-Ordered Studies Still Aren’t Done. - Cancer Health",
+          "Advances in Pancreatic Cancer Research - National Cancer Institute (.gov)"
+        ]
+      },
+      {
+        "trend": "healthcare",
         "market_code": "CA",
         "category": "Global Health",
-        "score": 1,
-        "examples": []
+        "score": 7,
+        "examples": [
+          "3 Canadian AI Healthcare Stocks With Market Caps Up To $296 Million - Yahoo Finance",
+          "GuideAI Health Corp. (CN:GDAI) Advances Investor Interest as AI Healthcare Innovation Drives Positive Market Momentum - kalkine.ca",
+          "Building a Competitive Advantage in the Healthcare AI Market - Harvard Business Review"
+        ]
       },
       {
-        "trend": "drug approval",
+        "trend": "covid-19",
+        "market_code": "CA",
+        "category": "Outbreaks",
+        "score": 6,
+        "examples": [
+          "Public Health encouraging residents to get flu and COVID-19 vaccines - Grand 101.1 FM",
+          "Alberta ‘failed’ Cargill workers amid COVID-19 outbreak with inaction, overconfidence: report - CBC",
+          "New report calls Alberta’s response to Cargill plant COVID-19 outbreak a ‘catastrophic failure’ - CTV News"
+        ]
+      },
+      {
+        "trend": "drug",
         "market_code": "CA",
         "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
+        "score": 6,
+        "examples": [
+          "FDA Advisory No.2026-1281 || Public Health Warning Against the Purchase and Use of the Unregistered Drug Product “Hyal Skin The Red Ampoule Solution for Face & Body Lecithin + Bromelain + Vitamin 10 ml” - Food and Drug Administration - fda.gov.ph",
+          "FDA Advisory No.2026-1281 || Public Health Warning Against the Purchase and Use of the Unregistered Drug Product “Hyal Skin The Red Ampoule Solution for Face & Body Lecithin + Bromelain + Vitamin 10 ml” - Food and Drug Administration - fda.gov.ph",
+          "Ask Dr. Nandi: 1 in 5 seniors are at risk for dangerous drug interactions - WXYZ 7 News Detroit"
+        ]
       },
       {
-        "trend": "diet wellness",
+        "trend": "infection",
         "market_code": "CA",
-        "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "category": "Outbreaks",
+        "score": 6,
+        "examples": [
+          "Mirum's liver infection drug lowers virus levels in late-stage study - Reuters",
+          "One in eight cancers are likely caused by an infection worldwide – new study - The Conversation",
+          "Airway lining fights infection by physically removing infected cells, experiments show - Medical Xpress"
+        ]
+      },
+      {
+        "trend": "children",
+        "market_code": "CA",
+        "category": "Children Health",
+        "score": 6,
+        "examples": [
+          "School-based high-intensity interval training for children: a focused systematic review of implementation and school-relevant outcomes - Frontiers",
+          "Predictability may be an overlooked factor in children's mental health - Contemporary Pediatrics",
+          "High screen time can hurt children’s learning and language skills, study suggests - The Guardian"
+        ]
       }
     ],
     "United Arab Emirates": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "AE",
         "category": "Arab Health",
-        "score": 1,
-        "examples": []
+        "score": 64,
+        "examples": [
+          "NYC Health Department Celebrates Opening of New Clubhouse for Adults With Serious Mental Illness in the Bronx - NYC.gov",
+          "Governor Newsom signs legislation creating non-UPF label, other health bills advancing California’s nation-leading healthcare strategy - California State Portal | CA.gov",
+          "Arrington Celebrates $51 Million Rural Health Investment, With More to Come for Texas - Representative Jodey Arrington (.gov)"
+        ]
+      },
+      {
+        "trend": "medical",
+        "market_code": "AE",
+        "category": "Arab Health",
+        "score": 17,
+        "examples": [
+          "Tennessee’s failed execution ignites a medical ethics debate - NPR",
+          "Eagles drive spoiled: Jalen Hurts sent to medical tent, backup Andy Dalton throws end-zone pick - The New York Times",
+          "Neurocrine Biosciences Appoints Eiry W. Roberts, M.D., as Chief Medical Officer - PR Newswire"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "AE",
+        "category": "Mental Health",
+        "score": 13,
+        "examples": [
+          "NYC Health Department Celebrates Opening of New Clubhouse for Adults With Serious Mental Illness in the Bronx - NYC.gov",
+          "Mental health urgent care center coming to Brattleboro - VTDigger",
+          "NYC Health Department Celebrates Opening of New Clubhouse for Adults With Serious Mental Illness in the Bronx - NYC.gov"
+        ]
+      },
+      {
+        "trend": "disease",
+        "market_code": "AE",
+        "category": "Arab Health",
+        "score": 12,
+        "examples": [
+          "HHS Awards Funding to Improve Tick Control and Prevent Lyme Disease, Alpha-gal Syndrome and Other Tickborne Illnesses - HHS.gov",
+          "Florida officials warn of ‘wildly unusual’ disease outbreak, declare state of emergency - New York Post",
+          "Congo's Ebola outbreak tops 8,000 confirmed cases as disease remains out of control - ABC News - Breaking News, Latest News and Videos"
+        ]
       },
       {
         "trend": "outbreak",
         "market_code": "AE",
         "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "score": 12,
+        "examples": [
+          "Florida officials warn of ‘wildly unusual’ disease outbreak, declare state of emergency - New York Post",
+          "Dengue fever outbreak prompts Florida counties to declare state of emergency - The Guardian",
+          "Congo's Ebola outbreak tops 8,000 confirmed cases as disease remains out of control - ABC News - Breaking News, Latest News and Videos"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "AE",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
+        "score": 10,
+        "examples": [
+          "Mental health urgent care center coming to Brattleboro - VTDigger",
+          "Reimagining the treatment of mental health: Maria Carolina Bittencourt Gonçalves - wyss.harvard.edu",
+          "ReadyKids says need for youth mental health services outpaces capacity - WVIR"
+        ]
       },
       {
-        "trend": "medical research",
+        "trend": "healthcare",
         "market_code": "AE",
         "category": "Arab Health",
-        "score": 1,
-        "examples": []
+        "score": 9,
+        "examples": [
+          "Governor Newsom signs legislation creating non-UPF label, other health bills advancing California’s nation-leading healthcare strategy - California State Portal | CA.gov",
+          "AI will inflate healthcare costs before lowering them, Oz says - Healthcare Dive",
+          "AI will inflate healthcare costs before lowering them, Oz says - Healthcare Dive"
+        ]
       },
       {
-        "trend": "drug approval",
+        "trend": "virus",
         "market_code": "AE",
-        "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "This Virus Stole a Human Gene and Won’t Let Go of It - The New York Times",
+          "Mirum's liver infection drug lowers virus levels in late-stage study - Reuters",
+          "Scientists find new virus behind mysterious tick illness - ScienceDaily"
+        ]
       },
       {
-        "trend": "diet wellness",
+        "trend": "infection",
         "market_code": "AE",
-        "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "Mirum's liver infection drug lowers virus levels in late-stage study - Reuters",
+          "Airway lining fights infection by physically removing infected cells, experiments show - medicalxpress.com",
+          "Mirum's liver infection drug lowers virus levels in late-stage study - Reuters"
+        ]
+      },
+      {
+        "trend": "children",
+        "market_code": "AE",
+        "category": "Children Health",
+        "score": 7,
+        "examples": [
+          "Children’s National at the 2026 American Academy of Pediatrics meeting - Children's National",
+          "Children’s National at the 2026 American Academy of Pediatrics meeting - Children's National",
+          "Children's Hospital of Philadelphia Celebrates First Anniversary of Pediatric Health Chat Initiative - PR Newswire"
+        ]
+      },
+      {
+        "trend": "cancer",
+        "market_code": "AE",
+        "category": "Chronic Disease",
+        "score": 6,
+        "examples": [
+          "Just 5 Infections Responsible For More Than 2 Million New Cancer Cases Annually - ScienceAlert",
+          "5 Big Cancer Advances Redefining Care and Survival - cityofhope.org",
+          "Advances in Pancreatic Cancer Research - National Cancer Institute (.gov)"
+        ]
+      },
+      {
+        "trend": "hospital",
+        "market_code": "AE",
+        "category": "Arab Health",
+        "score": 6,
+        "examples": [
+          "Battle of Hospital A.I. vs. Insurer A.I. Is Pushing Medical Costs Higher - The New York Times",
+          "Children's Hospital of Philadelphia Celebrates First Anniversary of Pediatric Health Chat Initiative - PR Newswire",
+          "A Week to Celebrate, Connect and Take Action for Better Health for Mothers and Babies - American Hospital Association"
+        ]
       }
     ],
     "Saudi Arabia": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "SA",
         "category": "Arab Health",
-        "score": 1,
-        "examples": []
+        "score": 64,
+        "examples": [
+          "NYC Health Department Celebrates Opening of New Clubhouse for Adults With Serious Mental Illness in the Bronx - NYC.gov",
+          "Governor Newsom signs legislation creating non-UPF label, other health bills advancing California’s nation-leading healthcare strategy - California State Portal | CA.gov",
+          "Arrington Celebrates $51 Million Rural Health Investment, With More to Come for Texas - Representative Jodey Arrington (.gov)"
+        ]
+      },
+      {
+        "trend": "medical",
+        "market_code": "SA",
+        "category": "Arab Health",
+        "score": 17,
+        "examples": [
+          "Tennessee’s failed execution ignites a medical ethics debate - NPR",
+          "Eagles drive spoiled: Jalen Hurts sent to medical tent, backup Andy Dalton throws end-zone pick - The New York Times",
+          "Neurocrine Biosciences Appoints Eiry W. Roberts, M.D., as Chief Medical Officer - PR Newswire"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "SA",
+        "category": "Mental Health",
+        "score": 13,
+        "examples": [
+          "NYC Health Department Celebrates Opening of New Clubhouse for Adults With Serious Mental Illness in the Bronx - NYC.gov",
+          "Mental health urgent care center coming to Brattleboro - VTDigger",
+          "NYC Health Department Celebrates Opening of New Clubhouse for Adults With Serious Mental Illness in the Bronx - NYC.gov"
+        ]
+      },
+      {
+        "trend": "disease",
+        "market_code": "SA",
+        "category": "Arab Health",
+        "score": 12,
+        "examples": [
+          "HHS Awards Funding to Improve Tick Control and Prevent Lyme Disease, Alpha-gal Syndrome and Other Tickborne Illnesses - HHS.gov",
+          "Florida officials warn of ‘wildly unusual’ disease outbreak, declare state of emergency - New York Post",
+          "Congo's Ebola outbreak tops 8,000 confirmed cases as disease remains out of control - ABC News - Breaking News, Latest News and Videos"
+        ]
       },
       {
         "trend": "outbreak",
         "market_code": "SA",
         "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "score": 12,
+        "examples": [
+          "Florida officials warn of ‘wildly unusual’ disease outbreak, declare state of emergency - New York Post",
+          "Dengue fever outbreak prompts Florida counties to declare state of emergency - The Guardian",
+          "Congo's Ebola outbreak tops 8,000 confirmed cases as disease remains out of control - ABC News - Breaking News, Latest News and Videos"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "SA",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
+        "score": 10,
+        "examples": [
+          "Mental health urgent care center coming to Brattleboro - VTDigger",
+          "Reimagining the treatment of mental health: Maria Carolina Bittencourt Gonçalves - wyss.harvard.edu",
+          "ReadyKids says need for youth mental health services outpaces capacity - WVIR"
+        ]
       },
       {
-        "trend": "medical research",
+        "trend": "healthcare",
         "market_code": "SA",
         "category": "Arab Health",
-        "score": 1,
-        "examples": []
+        "score": 9,
+        "examples": [
+          "Governor Newsom signs legislation creating non-UPF label, other health bills advancing California’s nation-leading healthcare strategy - California State Portal | CA.gov",
+          "AI will inflate healthcare costs before lowering them, Oz says - Healthcare Dive",
+          "AI will inflate healthcare costs before lowering them, Oz says - Healthcare Dive"
+        ]
       },
       {
-        "trend": "drug approval",
+        "trend": "virus",
         "market_code": "SA",
-        "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "This Virus Stole a Human Gene and Won’t Let Go of It - The New York Times",
+          "Mirum's liver infection drug lowers virus levels in late-stage study - Reuters",
+          "Scientists find new virus behind mysterious tick illness - ScienceDaily"
+        ]
       },
       {
-        "trend": "diet wellness",
+        "trend": "infection",
         "market_code": "SA",
-        "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "Mirum's liver infection drug lowers virus levels in late-stage study - Reuters",
+          "Airway lining fights infection by physically removing infected cells, experiments show - medicalxpress.com",
+          "Mirum's liver infection drug lowers virus levels in late-stage study - Reuters"
+        ]
+      },
+      {
+        "trend": "children",
+        "market_code": "SA",
+        "category": "Children Health",
+        "score": 7,
+        "examples": [
+          "Children’s National at the 2026 American Academy of Pediatrics meeting - Children's National",
+          "Children’s National at the 2026 American Academy of Pediatrics meeting - Children's National",
+          "Children's Hospital of Philadelphia Celebrates First Anniversary of Pediatric Health Chat Initiative - PR Newswire"
+        ]
+      },
+      {
+        "trend": "cancer",
+        "market_code": "SA",
+        "category": "Chronic Disease",
+        "score": 6,
+        "examples": [
+          "Just 5 Infections Responsible For More Than 2 Million New Cancer Cases Annually - ScienceAlert",
+          "5 Big Cancer Advances Redefining Care and Survival - cityofhope.org",
+          "Advances in Pancreatic Cancer Research - National Cancer Institute (.gov)"
+        ]
+      },
+      {
+        "trend": "hospital",
+        "market_code": "SA",
+        "category": "Arab Health",
+        "score": 6,
+        "examples": [
+          "Battle of Hospital A.I. vs. Insurer A.I. Is Pushing Medical Costs Higher - The New York Times",
+          "Children's Hospital of Philadelphia Celebrates First Anniversary of Pediatric Health Chat Initiative - PR Newswire",
+          "A Week to Celebrate, Connect and Take Action for Better Health for Mothers and Babies - American Hospital Association"
+        ]
       }
     ],
     "Qatar": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "QA",
         "category": "Arab Health",
-        "score": 1,
-        "examples": []
+        "score": 64,
+        "examples": [
+          "NYC Health Department Celebrates Opening of New Clubhouse for Adults With Serious Mental Illness in the Bronx - NYC.gov",
+          "Governor Newsom signs legislation creating non-UPF label, other health bills advancing California’s nation-leading healthcare strategy - California State Portal | CA.gov",
+          "Arrington Celebrates $51 Million Rural Health Investment, With More to Come for Texas - Representative Jodey Arrington (.gov)"
+        ]
+      },
+      {
+        "trend": "medical",
+        "market_code": "QA",
+        "category": "Arab Health",
+        "score": 17,
+        "examples": [
+          "Tennessee’s failed execution ignites a medical ethics debate - NPR",
+          "Eagles drive spoiled: Jalen Hurts sent to medical tent, backup Andy Dalton throws end-zone pick - The New York Times",
+          "Neurocrine Biosciences Appoints Eiry W. Roberts, M.D., as Chief Medical Officer - PR Newswire"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "QA",
+        "category": "Mental Health",
+        "score": 13,
+        "examples": [
+          "NYC Health Department Celebrates Opening of New Clubhouse for Adults With Serious Mental Illness in the Bronx - NYC.gov",
+          "Mental health urgent care center coming to Brattleboro - VTDigger",
+          "NYC Health Department Celebrates Opening of New Clubhouse for Adults With Serious Mental Illness in the Bronx - NYC.gov"
+        ]
+      },
+      {
+        "trend": "disease",
+        "market_code": "QA",
+        "category": "Arab Health",
+        "score": 12,
+        "examples": [
+          "HHS Awards Funding to Improve Tick Control and Prevent Lyme Disease, Alpha-gal Syndrome and Other Tickborne Illnesses - HHS.gov",
+          "Florida officials warn of ‘wildly unusual’ disease outbreak, declare state of emergency - New York Post",
+          "Congo's Ebola outbreak tops 8,000 confirmed cases as disease remains out of control - ABC News - Breaking News, Latest News and Videos"
+        ]
       },
       {
         "trend": "outbreak",
         "market_code": "QA",
         "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "score": 12,
+        "examples": [
+          "Florida officials warn of ‘wildly unusual’ disease outbreak, declare state of emergency - New York Post",
+          "Dengue fever outbreak prompts Florida counties to declare state of emergency - The Guardian",
+          "Congo's Ebola outbreak tops 8,000 confirmed cases as disease remains out of control - ABC News - Breaking News, Latest News and Videos"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "QA",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
+        "score": 10,
+        "examples": [
+          "Mental health urgent care center coming to Brattleboro - VTDigger",
+          "Reimagining the treatment of mental health: Maria Carolina Bittencourt Gonçalves - wyss.harvard.edu",
+          "ReadyKids says need for youth mental health services outpaces capacity - WVIR"
+        ]
       },
       {
-        "trend": "medical research",
+        "trend": "healthcare",
         "market_code": "QA",
         "category": "Arab Health",
-        "score": 1,
-        "examples": []
+        "score": 9,
+        "examples": [
+          "Governor Newsom signs legislation creating non-UPF label, other health bills advancing California’s nation-leading healthcare strategy - California State Portal | CA.gov",
+          "AI will inflate healthcare costs before lowering them, Oz says - Healthcare Dive",
+          "AI will inflate healthcare costs before lowering them, Oz says - Healthcare Dive"
+        ]
       },
       {
-        "trend": "drug approval",
+        "trend": "virus",
         "market_code": "QA",
-        "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "This Virus Stole a Human Gene and Won’t Let Go of It - The New York Times",
+          "Mirum's liver infection drug lowers virus levels in late-stage study - Reuters",
+          "Scientists find new virus behind mysterious tick illness - ScienceDaily"
+        ]
       },
       {
-        "trend": "diet wellness",
+        "trend": "infection",
         "market_code": "QA",
-        "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "Mirum's liver infection drug lowers virus levels in late-stage study - Reuters",
+          "Airway lining fights infection by physically removing infected cells, experiments show - medicalxpress.com",
+          "Mirum's liver infection drug lowers virus levels in late-stage study - Reuters"
+        ]
+      },
+      {
+        "trend": "children",
+        "market_code": "QA",
+        "category": "Children Health",
+        "score": 7,
+        "examples": [
+          "Children’s National at the 2026 American Academy of Pediatrics meeting - Children's National",
+          "Children’s National at the 2026 American Academy of Pediatrics meeting - Children's National",
+          "Children's Hospital of Philadelphia Celebrates First Anniversary of Pediatric Health Chat Initiative - PR Newswire"
+        ]
+      },
+      {
+        "trend": "cancer",
+        "market_code": "QA",
+        "category": "Chronic Disease",
+        "score": 6,
+        "examples": [
+          "Just 5 Infections Responsible For More Than 2 Million New Cancer Cases Annually - ScienceAlert",
+          "5 Big Cancer Advances Redefining Care and Survival - cityofhope.org",
+          "Advances in Pancreatic Cancer Research - National Cancer Institute (.gov)"
+        ]
+      },
+      {
+        "trend": "hospital",
+        "market_code": "QA",
+        "category": "Arab Health",
+        "score": 6,
+        "examples": [
+          "Battle of Hospital A.I. vs. Insurer A.I. Is Pushing Medical Costs Higher - The New York Times",
+          "Children's Hospital of Philadelphia Celebrates First Anniversary of Pediatric Health Chat Initiative - PR Newswire",
+          "A Week to Celebrate, Connect and Take Action for Better Health for Mothers and Babies - American Hospital Association"
+        ]
       }
     ],
     "Jordan": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "JO",
         "category": "Arab Health",
-        "score": 1,
-        "examples": []
+        "score": 64,
+        "examples": [
+          "NYC Health Department Celebrates Opening of New Clubhouse for Adults With Serious Mental Illness in the Bronx - NYC.gov",
+          "Governor Newsom signs legislation creating non-UPF label, other health bills advancing California’s nation-leading healthcare strategy - California State Portal | CA.gov",
+          "Arrington Celebrates $51 Million Rural Health Investment, With More to Come for Texas - Representative Jodey Arrington (.gov)"
+        ]
+      },
+      {
+        "trend": "medical",
+        "market_code": "JO",
+        "category": "Arab Health",
+        "score": 17,
+        "examples": [
+          "Tennessee’s failed execution ignites a medical ethics debate - NPR",
+          "Eagles drive spoiled: Jalen Hurts sent to medical tent, backup Andy Dalton throws end-zone pick - The New York Times",
+          "Neurocrine Biosciences Appoints Eiry W. Roberts, M.D., as Chief Medical Officer - PR Newswire"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "JO",
+        "category": "Mental Health",
+        "score": 13,
+        "examples": [
+          "NYC Health Department Celebrates Opening of New Clubhouse for Adults With Serious Mental Illness in the Bronx - NYC.gov",
+          "Mental health urgent care center coming to Brattleboro - VTDigger",
+          "NYC Health Department Celebrates Opening of New Clubhouse for Adults With Serious Mental Illness in the Bronx - NYC.gov"
+        ]
+      },
+      {
+        "trend": "disease",
+        "market_code": "JO",
+        "category": "Arab Health",
+        "score": 12,
+        "examples": [
+          "HHS Awards Funding to Improve Tick Control and Prevent Lyme Disease, Alpha-gal Syndrome and Other Tickborne Illnesses - HHS.gov",
+          "Florida officials warn of ‘wildly unusual’ disease outbreak, declare state of emergency - New York Post",
+          "Congo's Ebola outbreak tops 8,000 confirmed cases as disease remains out of control - ABC News - Breaking News, Latest News and Videos"
+        ]
       },
       {
         "trend": "outbreak",
         "market_code": "JO",
         "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "score": 12,
+        "examples": [
+          "Florida officials warn of ‘wildly unusual’ disease outbreak, declare state of emergency - New York Post",
+          "Dengue fever outbreak prompts Florida counties to declare state of emergency - The Guardian",
+          "Congo's Ebola outbreak tops 8,000 confirmed cases as disease remains out of control - ABC News - Breaking News, Latest News and Videos"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "JO",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
+        "score": 10,
+        "examples": [
+          "Mental health urgent care center coming to Brattleboro - VTDigger",
+          "Reimagining the treatment of mental health: Maria Carolina Bittencourt Gonçalves - wyss.harvard.edu",
+          "ReadyKids says need for youth mental health services outpaces capacity - WVIR"
+        ]
       },
       {
-        "trend": "medical research",
+        "trend": "healthcare",
         "market_code": "JO",
         "category": "Arab Health",
-        "score": 1,
-        "examples": []
+        "score": 9,
+        "examples": [
+          "Governor Newsom signs legislation creating non-UPF label, other health bills advancing California’s nation-leading healthcare strategy - California State Portal | CA.gov",
+          "AI will inflate healthcare costs before lowering them, Oz says - Healthcare Dive",
+          "AI will inflate healthcare costs before lowering them, Oz says - Healthcare Dive"
+        ]
       },
       {
-        "trend": "drug approval",
+        "trend": "virus",
         "market_code": "JO",
-        "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "This Virus Stole a Human Gene and Won’t Let Go of It - The New York Times",
+          "Mirum's liver infection drug lowers virus levels in late-stage study - Reuters",
+          "Scientists find new virus behind mysterious tick illness - ScienceDaily"
+        ]
       },
       {
-        "trend": "diet wellness",
+        "trend": "infection",
         "market_code": "JO",
-        "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "Mirum's liver infection drug lowers virus levels in late-stage study - Reuters",
+          "Airway lining fights infection by physically removing infected cells, experiments show - medicalxpress.com",
+          "Mirum's liver infection drug lowers virus levels in late-stage study - Reuters"
+        ]
+      },
+      {
+        "trend": "children",
+        "market_code": "JO",
+        "category": "Children Health",
+        "score": 7,
+        "examples": [
+          "Children’s National at the 2026 American Academy of Pediatrics meeting - Children's National",
+          "Children’s National at the 2026 American Academy of Pediatrics meeting - Children's National",
+          "Children's Hospital of Philadelphia Celebrates First Anniversary of Pediatric Health Chat Initiative - PR Newswire"
+        ]
+      },
+      {
+        "trend": "cancer",
+        "market_code": "JO",
+        "category": "Chronic Disease",
+        "score": 6,
+        "examples": [
+          "Just 5 Infections Responsible For More Than 2 Million New Cancer Cases Annually - ScienceAlert",
+          "5 Big Cancer Advances Redefining Care and Survival - cityofhope.org",
+          "Advances in Pancreatic Cancer Research - National Cancer Institute (.gov)"
+        ]
+      },
+      {
+        "trend": "hospital",
+        "market_code": "JO",
+        "category": "Arab Health",
+        "score": 6,
+        "examples": [
+          "Battle of Hospital A.I. vs. Insurer A.I. Is Pushing Medical Costs Higher - The New York Times",
+          "Children's Hospital of Philadelphia Celebrates First Anniversary of Pediatric Health Chat Initiative - PR Newswire",
+          "A Week to Celebrate, Connect and Take Action for Better Health for Mothers and Babies - American Hospital Association"
+        ]
       }
     ],
     "Lebanon": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "LB",
         "category": "Arab Health",
-        "score": 1,
-        "examples": []
+        "score": 64,
+        "examples": [
+          "NYC Health Department Celebrates Opening of New Clubhouse for Adults With Serious Mental Illness in the Bronx - NYC.gov",
+          "Governor Newsom signs legislation creating non-UPF label, other health bills advancing California’s nation-leading healthcare strategy - California State Portal | CA.gov",
+          "Arrington Celebrates $51 Million Rural Health Investment, With More to Come for Texas - Representative Jodey Arrington (.gov)"
+        ]
+      },
+      {
+        "trend": "medical",
+        "market_code": "LB",
+        "category": "Arab Health",
+        "score": 17,
+        "examples": [
+          "Tennessee’s failed execution ignites a medical ethics debate - NPR",
+          "Eagles drive spoiled: Jalen Hurts sent to medical tent, backup Andy Dalton throws end-zone pick - The New York Times",
+          "Neurocrine Biosciences Appoints Eiry W. Roberts, M.D., as Chief Medical Officer - PR Newswire"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "LB",
+        "category": "Mental Health",
+        "score": 13,
+        "examples": [
+          "NYC Health Department Celebrates Opening of New Clubhouse for Adults With Serious Mental Illness in the Bronx - NYC.gov",
+          "Mental health urgent care center coming to Brattleboro - VTDigger",
+          "NYC Health Department Celebrates Opening of New Clubhouse for Adults With Serious Mental Illness in the Bronx - NYC.gov"
+        ]
+      },
+      {
+        "trend": "disease",
+        "market_code": "LB",
+        "category": "Arab Health",
+        "score": 12,
+        "examples": [
+          "HHS Awards Funding to Improve Tick Control and Prevent Lyme Disease, Alpha-gal Syndrome and Other Tickborne Illnesses - HHS.gov",
+          "Florida officials warn of ‘wildly unusual’ disease outbreak, declare state of emergency - New York Post",
+          "Congo's Ebola outbreak tops 8,000 confirmed cases as disease remains out of control - ABC News - Breaking News, Latest News and Videos"
+        ]
       },
       {
         "trend": "outbreak",
         "market_code": "LB",
         "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "score": 12,
+        "examples": [
+          "Florida officials warn of ‘wildly unusual’ disease outbreak, declare state of emergency - New York Post",
+          "Dengue fever outbreak prompts Florida counties to declare state of emergency - The Guardian",
+          "Congo's Ebola outbreak tops 8,000 confirmed cases as disease remains out of control - ABC News - Breaking News, Latest News and Videos"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "LB",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
+        "score": 10,
+        "examples": [
+          "Mental health urgent care center coming to Brattleboro - VTDigger",
+          "Reimagining the treatment of mental health: Maria Carolina Bittencourt Gonçalves - wyss.harvard.edu",
+          "ReadyKids says need for youth mental health services outpaces capacity - WVIR"
+        ]
       },
       {
-        "trend": "medical research",
+        "trend": "healthcare",
         "market_code": "LB",
         "category": "Arab Health",
-        "score": 1,
-        "examples": []
+        "score": 9,
+        "examples": [
+          "Governor Newsom signs legislation creating non-UPF label, other health bills advancing California’s nation-leading healthcare strategy - California State Portal | CA.gov",
+          "AI will inflate healthcare costs before lowering them, Oz says - Healthcare Dive",
+          "AI will inflate healthcare costs before lowering them, Oz says - Healthcare Dive"
+        ]
       },
       {
-        "trend": "drug approval",
+        "trend": "virus",
         "market_code": "LB",
-        "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "This Virus Stole a Human Gene and Won’t Let Go of It - The New York Times",
+          "Mirum's liver infection drug lowers virus levels in late-stage study - Reuters",
+          "Scientists find new virus behind mysterious tick illness - ScienceDaily"
+        ]
       },
       {
-        "trend": "diet wellness",
+        "trend": "infection",
         "market_code": "LB",
-        "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "Mirum's liver infection drug lowers virus levels in late-stage study - Reuters",
+          "Airway lining fights infection by physically removing infected cells, experiments show - medicalxpress.com",
+          "Mirum's liver infection drug lowers virus levels in late-stage study - Reuters"
+        ]
+      },
+      {
+        "trend": "children",
+        "market_code": "LB",
+        "category": "Children Health",
+        "score": 7,
+        "examples": [
+          "Children’s National at the 2026 American Academy of Pediatrics meeting - Children's National",
+          "Children’s National at the 2026 American Academy of Pediatrics meeting - Children's National",
+          "Children's Hospital of Philadelphia Celebrates First Anniversary of Pediatric Health Chat Initiative - PR Newswire"
+        ]
+      },
+      {
+        "trend": "cancer",
+        "market_code": "LB",
+        "category": "Chronic Disease",
+        "score": 6,
+        "examples": [
+          "Just 5 Infections Responsible For More Than 2 Million New Cancer Cases Annually - ScienceAlert",
+          "5 Big Cancer Advances Redefining Care and Survival - cityofhope.org",
+          "Advances in Pancreatic Cancer Research - National Cancer Institute (.gov)"
+        ]
+      },
+      {
+        "trend": "hospital",
+        "market_code": "LB",
+        "category": "Arab Health",
+        "score": 6,
+        "examples": [
+          "Battle of Hospital A.I. vs. Insurer A.I. Is Pushing Medical Costs Higher - The New York Times",
+          "Children's Hospital of Philadelphia Celebrates First Anniversary of Pediatric Health Chat Initiative - PR Newswire",
+          "A Week to Celebrate, Connect and Take Action for Better Health for Mothers and Babies - American Hospital Association"
+        ]
       }
     ]
   }
