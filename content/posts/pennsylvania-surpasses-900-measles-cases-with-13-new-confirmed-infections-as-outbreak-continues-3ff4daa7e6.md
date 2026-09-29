@@ -1,0 +1,68 @@
+---
+title: "Pennsylvania surpasses 900 measles cases, with 13 new confirmed infections, as outbreak continues to s..."
+description: "Pennsylvania surpasses 900 measles cases, with 13 new confirmed infections, as outbreak continues to spread: Officials ABC7 Chicago"
+slug: "pennsylvania-surpasses-900-measles-cases-with-13-new-confirmed-infections-as-outbreak-continues-3ff4daa7e6"
+category: "Outbreaks"
+region: "United States"
+source: "Google News / United States"
+source_url: "https://news.google.com/rss/articles/CBMijhRBVV95cUxPOHJTdHk0X3F4WDZLSHRuV2l2emhDUzB0c2VPNXNVSDFucFY2NEdrellMYTFQTG9ydWc1ckE0aFRYbnc3SHVSekdNazJNUTFQNzJ1akNWaV9XZjJVRE4xX2RuM2JGdF95c2ZxalI5XzMyTXBUN0Izb0ViUGNHcFp5aFdyS3U0NDNDTW5sdU5hdFluaHB1SHRsUExHM3JsNWV6Z3dvQzBoNEtweEpqMnlHR2FSSUpmaUJLUVR2VE5NUmR0WmJGTGVXbmtRc2FYU3NQcGpMOUkzOVBWREVidTh2TnVZTzlxNTJlakhUcXFPZTFXckt6TVVTVkVDQTA4ejhwM2M5UzNzajN1QktCX202V0lLVF9Id2J5OXNJRHJRNWRZTy10OHVrSXl5M1pVSEZnVVRjMUZHNW84ZmtTajVDSjJkQUJzMDROX2JTMDZ1MmN3UC1FRnNxZ0p2RmVEVjBuenB6ekdwSXBSSUxMOVo3OFU4VmJ1dl8zcGROOW42Uy1vT19Zckh2a1ZvUGU3YnBfRXFMYkJQbGxDN05pQzQ2eXVoRXNLbGRRT3dPNXFZYmxhbzhGVzhEYk9QcDA0a25jZVhlOHZZTS1kcVRRM2RVYi14QUtaeW0tcFBkRUFWUFpLazR3dnB0eVpmbjNJaThXcnZ1dzFvLXljN0REWlVNSmR1TjNXV2RMcTdQaExxZlUyS3RkR3pBdFVBNlZzWTFzenRfMERSWDdXS01RSlpEYU5kTVlMYW9oZFRVV3FWUmtJb3JnQzVIdmNralptekVIcHZGcWIzTEtiZDlITUd2d1VabjhrdmZwT1FqZFJSQm1tdkN3b1RWZXhpWjVnVGpoNVhSU05KTUMzcXlkVF9fZGJyakQzNU5TM0pHaEtuWllGWWZsQmR0OHQ1SkJSZGF2Ul91Z2UwZk12SmNuX2NpN1I4a3B4cWNzOHg4ZVlzUWhIYmxDN05qOHpxaVBNRFpPcFpUSWRqYU1OdHhHT1Yxb3d0d09UWEZ3eWc4b3pRTnQ3VDMwQ1VBZkt4eVdQMFZfR1p2WGYwSG5zMDh0bFhXX3pXeVZ4QkJhUTZtbzgzRnpiT0hydTJlN1NHQXZDNW1YQmhFQ0JCc1pnakY2VTE2MGhGS2JIclFNMjlNMlcwRjJYb3hEQTVLSFlsRGxBczE5bEgtTFE3allEX3M2eDcwalRUd3ljZ0VjZWxpTnZKWXBSU3BFZzREX3lWOXBrei1QSzV5c2ZvS3Y3VjFIbzNFaGptUGoyaUdsRUFkcm13bmRSa3Fpb3FKWWw1M3pfZkNNTWZ3RVQxa1ZjWHV3VEczY2FXb2dQRkJoX1lGY2xsZHpBb3dvRktpSDFTcFJITnNfNVZ0MHdvbVU1SEVKaWI1MlZvcmpZSzlPUnFKcW1laGptOVRSWENURDBnYzRKZmsxeVhSeURJTXBFSG0zR0JMX3NZY1ZGeHBHM2tQdmxJME5NREk4VWt3ZFVOWUhCY0x0bHZxcnpzQ0xwWEpUSHY4cVdfMGNBQ1NQa3kxdGh4YmlYREtjNzFFV01jOUdHR18zMWFMRmVjVy1XUDN5bFdVaHo4VnBRUlQ2NVNuZkx5cGU1Y0pyQnd0WUlrdnVXcEJwMU5KZFBrTW9hOFl5NGtuVDVOVHFxV0JsY1Vod0ljZ1pockdmUnV2M2VvczdPdFdpUk0wSW8tTWQtSHBFYXR5Q0hmYm9WNGxvY3NjcWY3Q2lxdHBicmNwM203dXMtRGNYOXlMV1poQnEwcExWUWFYdUg3VlRuNmJjdUdVT3pLdFVvLXAwUGpxd2Y4OWNfcDl4R3ZvcjI5R0VTNFkxTm5fNGp3NUp2Z09ncmtrc1R4emVBU244Y1RMRDNiZUJneWZsSUx1a19yUTlmZjNJcGZ2QUpiejlXaXJWMXdKcnVlVDZ6WDh3eVA5WVRxaU5IT0MtUVRjYkpMd08ydFNjOG43d2NBNWJYb01ndWRPTHlKeUtkV2xuXzNKVUVrNVd6MVBvY29WRmlzVC03RVBnejJoUDJmRHJDTHJTMDNVNkhsdnRYRWtVTFVZZ3hWcTFjb29lRlktNFNNSDJwZlBYclpEMW5sMFRVZ0IwY1JyS3F4dHJHR1N2TFRieUhHbzNteXMyQkZocXprMHVGRHVUdm5kOU9nY0F2WWlsOG5feXdXa0F3Q2dGbTdYb25qMGFGN2U1RVBzN2N6STZJcU1lUUs4WG83cUdXOHVkLUtnQWhHamJlZGt3aVdCbzZUdXV4cmNKSDlOdlhlTEJtRF9fWWExNl91WjlYajh6UUVfLUNvME14Wk5mQ2hSdjJnSEZGTFoxUFRTWDRGV0hFUnFfVWtienM4eG9PeXJuRGk3dlMxaWJlMEk4VVZmS3U0ZjVsRzQxaHBiWFpacXU5My1ZdklRbnZ1OVR1T1BLc2N0TE1IY3V0ZDN5aGk2N2NZNmRwZ1VaNWlSUGo5YlN5azdDVlcyNE1FN2FwamRpZWdqN090eUg5elV2SDNpcG5jTWRmUVVndkNidzE1UURJd0ZuM1NZRFRjWVA4c0gtSHN3SkpmdzBlWTMtV2l6c0szbktRNHctaG9CUjVLcE53MloyT01wZGhzNjBwaUQ4MVdXM0hjOS1ZSFNPRlhtOUVqQ2JrMUJEQng3ZkRfLWFORjRzTzNTcjBxZGdGT21WRVloWU52NE5XZ3o4MTNhaTVrT2tZQnllc3dSeGVHb0VYb0VxUWpuMml5Y0pFUEJSeHJhNVo1X251TlVTczBZVUVWOS1GbFdfc3lqMlRUMWNRdnBYZ05nT2gyZHNBTVAyUUJKNWwtcjd4RUUxMXAxbFVTM1MwRHQwTWxKMFZyZXV2UmtRR1JmYW9QSmRramZRQ1RFMkRrWmdCUzZsZUt6cjBtSnpYZkowdmlvNU1RdmlPZUcyRkV1YW9pR1dVSFFsNkZCV0RiakNROVloeFU1UFVtN08yYjhyUTJUUnU4c3EwMG50UmtfU19xOXJuUVE1YWZpYzhMMk01d1pkaFhSLV9IMzllNW1mcGhWTV9sVFRFSFlvODdDaWFxbjVoYnFOMDZLQTFrdXJjblRNRUkyWDNUTThXTWlvWnNOZ2JUZUFVTmFtd2dNU1hOWkVWZG5id2hTWmVfQmkxZ1U5LS1VNWlqZWo4TDhtVGIzc1UtZ25wQTl2ZW1vSEtkcTVVUWZqUUtlTFJXaUpZZTRtOTAyS2FiYXYwR0VqSVpqdzdhb09vQ2E5NWE1Q052UGREN3RzMElFTTN1bXNSaXI5N3hxajNDSFRZYnBkSmxJV3ZkR0FUR0hrZXREbWM5RFVoa2psV0hQTnA5M2o2UmRsYUp2Ui1RdmdfT0t5cFdTUFRSRUZnMWl6QldOZ0ZObUplUnd5bEN0QUpTS1M0NWlubkN2NXZYVFNvaHN4Zm9kWXRUcDJYS09DUWc?oc=5"
+source_confidence: "medium"
+published_at: "Tue, 29 Sep 2026 14:52:17 GMT"
+generated_at: "2026-09-29T17:07:43.576257+00:00"
+image_url: "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+trend: "outbreak"
+keywords:
+  - "outbreak"
+  - "outbreaks"
+  - "united states health news"
+  - "health trends"
+  - "medical news"
+  - "public health"
+  - "pennsylvania"
+  - "surpasses"
+  - "measles"
+  - "cases"
+  - "confirmed"
+  - "infections"
+  - "continues"
+  - "spread"
+  - "officials"
+  - "abc7"
+  - "chicago"
+---
+
+# Pennsylvania surpasses 900 measles cases, with 13 new confirmed infections, as outbreak continues to s...
+
+Pennsylvania surpasses 900 measles cases, with 13 new confirmed infections, as outbreak continues to spread: Officials ABC7 Chicago
+
+## Why this topic is trending
+
+This update was selected because it is connected to a detected health trend in **United States**.
+
+Tracked trend: **outbreak**.
+
+## What happened
+
+This update is part of a wider health signal being monitored from public sources and regional news feeds. It may relate to public health, medical research, symptoms, outbreaks, treatments, wellness, healthcare systems, or health technology.
+
+## Why it matters
+
+- It may affect public awareness or online health searches.
+- It may be connected to health policy, disease monitoring, treatment updates, or scientific research.
+- The original source should be reviewed for full details and context.
+
+## Region
+
+**United States**
+
+## Category
+
+**Outbreaks**
+
+## Source context
+
+This article summarizes a public health signal from **Google News / United States**. HantaUpdates links to the original source so readers can verify details directly.
+
+## Medical disclaimer
+
+HantaUpdates does not provide medical advice, diagnosis, or treatment. Always follow guidance from your local health authority or a qualified medical professional.
