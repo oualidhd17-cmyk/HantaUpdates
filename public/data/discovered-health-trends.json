@@ -1,709 +1,2149 @@
 {
-  "updated_at": "2026-10-02T03:17:22.817152+00:00",
-  "total_trends": 156,
+  "updated_at": "2026-10-02T11:26:45.016387+00:00",
+  "total_trends": 252,
   "markets": {
     "United States": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "US",
         "category": "US Health",
-        "score": 1,
-        "examples": []
+        "score": 77,
+        "examples": [
+          "People who walk more or walk faster live longer, study finds - Harvard Health",
+          "New WHO estimates show changing global health landscape - World Health Organization (WHO)",
+          "New WHO estimates show changing global health landscape - World Health Organization (WHO)"
+        ]
       },
       {
         "trend": "outbreak",
         "market_code": "US",
         "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "score": 16,
+        "examples": [
+          "Health officials confirm mumps outbreak in San Diego - NBC News",
+          "Congo's Ebola outbreak has killed more than 4,000, government data shows - Reuters",
+          "Congo's Ebola outbreak has recorded over 4,000 deaths as authorities struggle to contain the virus - ABC News - Breaking News, Latest News and Videos"
+        ]
+      },
+      {
+        "trend": "medical",
+        "market_code": "US",
+        "category": "US Health",
+        "score": 16,
+        "examples": [
+          "3 Dead in Medical Helicopter Crash Near California Coast - The New York Times",
+          "Christa Pike is alive and receiving life-saving medical care after surviving 2 lethal injections, attorney says - Yahoo",
+          "Feasibility and expert evaluation of a medical large language model in an interdisciplinary clinical board - Nature"
+        ]
+      },
+      {
+        "trend": "virus",
+        "market_code": "US",
+        "category": "Outbreaks",
+        "score": 15,
+        "examples": [
+          "Congo's Ebola outbreak has recorded over 4,000 deaths as authorities struggle to contain the virus - ABC News - Breaking News, Latest News and Videos",
+          "Congo's Ebola outbreak records more than 4,000 deaths as authorities struggle to contain the virus - ClickOnDetroit | WDIV Local 4",
+          "Congo's Ebola outbreak records more than 4,000 deaths as authorities struggle to contain the virus - AP News"
+        ]
+      },
+      {
+        "trend": "warning",
+        "market_code": "US",
+        "category": "US Health",
+        "score": 11,
+        "examples": [
+          "Extreme Heat Warning Health Alert Issued for Santa Barbara County - independent.com",
+          "Clubhouse Hazard? PETA Health Warning Hits Phoenix-Area Golf Carts - People for the Ethical Treatment of Animals (PETA)",
+          "Santa Barbara County issues health alert during extreme heat warning - KSBY News"
+        ]
+      },
+      {
+        "trend": "ebola outbreak",
+        "market_code": "US",
+        "category": "Outbreaks",
+        "score": 11,
+        "examples": [
+          "Congo's Ebola outbreak has killed more than 4,000, government data shows - Reuters",
+          "Congo's Ebola outbreak has recorded over 4,000 deaths as authorities struggle to contain the virus - ABC News - Breaking News, Latest News and Videos",
+          "Congo's Ebola outbreak records more than 4,000 deaths as authorities struggle to contain the virus - ClickOnDetroit | WDIV Local 4"
+        ]
+      },
+      {
+        "trend": "congo ebola outbreak",
+        "market_code": "US",
+        "category": "Outbreaks",
+        "score": 11,
+        "examples": [
+          "Congo's Ebola outbreak has killed more than 4,000, government data shows - Reuters",
+          "Congo's Ebola outbreak has recorded over 4,000 deaths as authorities struggle to contain the virus - ABC News - Breaking News, Latest News and Videos",
+          "Congo's Ebola outbreak records more than 4,000 deaths as authorities struggle to contain the virus - ClickOnDetroit | WDIV Local 4"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "US",
+        "category": "Mental Health",
+        "score": 10,
+        "examples": [
+          "Cubarsi urges young players to seek mental health support without fear of judgement - Reuters",
+          "Cubarsi urges young players to seek mental health support without fear of judgement - Reuters",
+          "Column: Diagnosing your peers isn’t real mental health support - The Daily Tar Heel"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "US",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
+        "score": 10,
+        "examples": [
+          "Cubarsi urges young players to seek mental health support without fear of judgement - Reuters",
+          "Cubarsi urges young players to seek mental health support without fear of judgement - Reuters",
+          "Column: Diagnosing your peers isn’t real mental health support - The Daily Tar Heel"
+        ]
       },
       {
-        "trend": "medical research",
+        "trend": "healthcare",
         "market_code": "US",
         "category": "US Health",
-        "score": 1,
-        "examples": []
+        "score": 9,
+        "examples": [
+          "Wisconsin governor candidates offer opposing plans to address rising healthcare costs - WPR",
+          "Celebrating Hispanic Heritage Month and the Importance of Representation in Behavioral Healthcare - County of San Luis Obispo (.gov)",
+          "GE HealthCare to explore applying generative AI to radiation therapy workflows - MedTech Dive"
+        ]
       },
       {
-        "trend": "drug approval",
+        "trend": "contain virus",
         "market_code": "US",
-        "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
+        "category": "Outbreaks",
+        "score": 8,
+        "examples": [
+          "Congo's Ebola outbreak has recorded over 4,000 deaths as authorities struggle to contain the virus - ABC News - Breaking News, Latest News and Videos",
+          "Congo's Ebola outbreak records more than 4,000 deaths as authorities struggle to contain the virus - ClickOnDetroit | WDIV Local 4",
+          "Congo's Ebola outbreak records more than 4,000 deaths as authorities struggle to contain the virus - AP News"
+        ]
       },
       {
-        "trend": "diet wellness",
+        "trend": "struggle contain virus",
         "market_code": "US",
-        "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "category": "Outbreaks",
+        "score": 8,
+        "examples": [
+          "Congo's Ebola outbreak has recorded over 4,000 deaths as authorities struggle to contain the virus - ABC News - Breaking News, Latest News and Videos",
+          "Congo's Ebola outbreak records more than 4,000 deaths as authorities struggle to contain the virus - ClickOnDetroit | WDIV Local 4",
+          "Congo's Ebola outbreak records more than 4,000 deaths as authorities struggle to contain the virus - AP News"
+        ]
       }
     ],
     "United Kingdom": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "GB",
         "category": "Europe Health",
-        "score": 1,
-        "examples": []
+        "score": 68,
+        "examples": [
+          "Coroner warns of risk of future deaths at mental health unit where patient was killed - BBC",
+          "New WHO estimates show changing global health landscape - World Health Organization (WHO)",
+          "New WHO estimates show changing global health landscape - World Health Organization (WHO)"
+        ]
+      },
+      {
+        "trend": "medical",
+        "market_code": "GB",
+        "category": "Europe Health",
+        "score": 18,
+        "examples": [
+          "Driver, 91, dies after suspected medical episode in Ryedale - BBC",
+          "Partner Insight: \"The value of modern private medical insurance is changing\" - Cover Magazine",
+          "IAEA Medical Assistance Supports Ukraine’s Nuclear Workers - International Atomic Energy Agency"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "GB",
+        "category": "Mental Health",
+        "score": 15,
+        "examples": [
+          "Coroner warns of risk of future deaths at mental health unit where patient was killed - BBC",
+          "Young patient shines a light on mental health impact of kidney disease - kidneyresearchuk.org",
+          "Mental health trust announces research and medical leadership appointments - Healthcare Management Magazine"
+        ]
       },
       {
         "trend": "outbreak",
         "market_code": "GB",
         "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "score": 15,
+        "examples": [
+          "More than 4,000 deaths recorded in DR Congo Ebola outbreak - Sky News",
+          "Tracing a Mysterious Rabies Outbreak to a Surprising Source - National Geographic",
+          "More than 4,000 deaths recorded in DR Congo Ebola outbreak - The Irish News"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "GB",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
+        "score": 14,
+        "examples": [
+          "Coroner warns of risk of future deaths at mental health unit where patient was killed - BBC",
+          "Young patient shines a light on mental health impact of kidney disease - kidneyresearchuk.org",
+          "Mental health trust announces research and medical leadership appointments - Healthcare Management Magazine"
+        ]
       },
       {
-        "trend": "medical research",
+        "trend": "ebola outbreak",
+        "market_code": "GB",
+        "category": "Outbreaks",
+        "score": 13,
+        "examples": [
+          "More than 4,000 deaths recorded in DR Congo Ebola outbreak - Sky News",
+          "More than 4,000 deaths recorded in DR Congo Ebola outbreak - The Irish News",
+          "Congo's Ebola outbreak has killed more than 4,000, government data shows - Reuters"
+        ]
+      },
+      {
+        "trend": "congo ebola outbreak",
+        "market_code": "GB",
+        "category": "Outbreaks",
+        "score": 13,
+        "examples": [
+          "More than 4,000 deaths recorded in DR Congo Ebola outbreak - Sky News",
+          "More than 4,000 deaths recorded in DR Congo Ebola outbreak - The Irish News",
+          "Congo's Ebola outbreak has killed more than 4,000, government data shows - Reuters"
+        ]
+      },
+      {
+        "trend": "healthcare",
         "market_code": "GB",
         "category": "Europe Health",
-        "score": 1,
-        "examples": []
+        "score": 10,
+        "examples": [
+          "Mental health trust announces research and medical leadership appointments - Healthcare Management Magazine",
+          "Nelson Advisors: This Week in European HealthTech, MedTech and Health AI: 25th September 2026 - healthcare.digital",
+          "GE HealthCare to explore applying generative AI to radiation therapy workflows - MedTech Dive"
+        ]
       },
       {
-        "trend": "drug approval",
+        "trend": "warning",
         "market_code": "GB",
-        "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
+        "category": "Europe Health",
+        "score": 9,
+        "examples": [
+          "Reframing epidemic early warning: toward AI-native decision intelligence for public health governance - Nature",
+          "Clubhouse Hazard? PETA Health Warning Hits Phoenix-Area Golf Carts - People for the Ethical Treatment of Animals (PETA)",
+          "The early warning signals hidden in Canada's recall data - Lexology"
+        ]
       },
       {
-        "trend": "diet wellness",
+        "trend": "research",
         "market_code": "GB",
-        "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "category": "Europe Health",
+        "score": 8,
+        "examples": [
+          "New £22m London research partnership targets health inequalities and NHS pressures - Health Tech World",
+          "Mental health trust announces research and medical leadership appointments - Healthcare Management Magazine",
+          "Vienna to Budapest gallery: TAM Bike Ride 2026 raises over £171,000 for Action Medical Research - Investment Week"
+        ]
+      },
+      {
+        "trend": "virus",
+        "market_code": "GB",
+        "category": "Outbreaks",
+        "score": 8,
+        "examples": [
+          "Congo's Ebola outbreak records more than 4,000 deaths as authorities struggle to contain the virus - The Independent",
+          "New ‘atlas’ of respiratory infections suggests Covid is no longer just a winter virus - EL PAÍS English",
+          "Midge-borne Shamonda virus detected in Ireland - Agriland"
+        ]
+      },
+      {
+        "trend": "patient",
+        "market_code": "GB",
+        "category": "Europe Health",
+        "score": 7,
+        "examples": [
+          "Coroner warns of risk of future deaths at mental health unit where patient was killed - BBC",
+          "Young patient shines a light on mental health impact of kidney disease - kidneyresearchuk.org",
+          "Improving the Family Health Board governance processes at NUTH - Patient Safety Learning - the hub"
+        ]
       }
     ],
     "Germany": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "DE",
         "category": "Europe Health",
-        "score": 1,
-        "examples": []
+        "score": 78,
+        "examples": [
+          "People who walk more or walk faster live longer, study finds - Harvard Health",
+          "New WHO estimates show changing global health landscape - World Health Organization (WHO)",
+          "New WHO estimates show changing global health landscape - World Health Organization (WHO)"
+        ]
       },
       {
         "trend": "outbreak",
         "market_code": "DE",
         "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "score": 16,
+        "examples": [
+          "Health officials confirm mumps outbreak in San Diego - NBC News",
+          "Congo's Ebola outbreak has killed more than 4,000, government data shows - Reuters",
+          "Congo's Ebola outbreak has recorded over 4,000 deaths as authorities struggle to contain the virus - ABC News - Breaking News, Latest News and Videos"
+        ]
+      },
+      {
+        "trend": "medical",
+        "market_code": "DE",
+        "category": "Europe Health",
+        "score": 16,
+        "examples": [
+          "3 Dead in Medical Helicopter Crash Near California Coast - The New York Times",
+          "Christa Pike is alive and receiving life-saving medical care after surviving 2 lethal injections, attorney says - Yahoo",
+          "Feasibility and expert evaluation of a medical large language model in an interdisciplinary clinical board - Nature"
+        ]
+      },
+      {
+        "trend": "virus",
+        "market_code": "DE",
+        "category": "Outbreaks",
+        "score": 15,
+        "examples": [
+          "Congo's Ebola outbreak has recorded over 4,000 deaths as authorities struggle to contain the virus - ABC News - Breaking News, Latest News and Videos",
+          "Congo's Ebola outbreak records more than 4,000 deaths as authorities struggle to contain the virus - ClickOnDetroit | WDIV Local 4",
+          "Congo's Ebola outbreak records more than 4,000 deaths as authorities struggle to contain the virus - AP News"
+        ]
+      },
+      {
+        "trend": "warning",
+        "market_code": "DE",
+        "category": "Europe Health",
+        "score": 11,
+        "examples": [
+          "Extreme Heat Warning Health Alert Issued for Santa Barbara County - independent.com",
+          "Clubhouse Hazard? PETA Health Warning Hits Phoenix-Area Golf Carts - People for the Ethical Treatment of Animals (PETA)",
+          "Santa Barbara County issues health alert during extreme heat warning - KSBY News"
+        ]
+      },
+      {
+        "trend": "ebola outbreak",
+        "market_code": "DE",
+        "category": "Outbreaks",
+        "score": 11,
+        "examples": [
+          "Congo's Ebola outbreak has killed more than 4,000, government data shows - Reuters",
+          "Congo's Ebola outbreak has recorded over 4,000 deaths as authorities struggle to contain the virus - ABC News - Breaking News, Latest News and Videos",
+          "Congo's Ebola outbreak records more than 4,000 deaths as authorities struggle to contain the virus - ClickOnDetroit | WDIV Local 4"
+        ]
+      },
+      {
+        "trend": "congo ebola outbreak",
+        "market_code": "DE",
+        "category": "Outbreaks",
+        "score": 11,
+        "examples": [
+          "Congo's Ebola outbreak has killed more than 4,000, government data shows - Reuters",
+          "Congo's Ebola outbreak has recorded over 4,000 deaths as authorities struggle to contain the virus - ABC News - Breaking News, Latest News and Videos",
+          "Congo's Ebola outbreak records more than 4,000 deaths as authorities struggle to contain the virus - ClickOnDetroit | WDIV Local 4"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "DE",
+        "category": "Mental Health",
+        "score": 10,
+        "examples": [
+          "Cubarsi urges young players to seek mental health support without fear of judgement - Reuters",
+          "Cubarsi urges young players to seek mental health support without fear of judgement - Reuters",
+          "Column: Diagnosing your peers isn’t real mental health support - The Daily Tar Heel"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "DE",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
+        "score": 10,
+        "examples": [
+          "Cubarsi urges young players to seek mental health support without fear of judgement - Reuters",
+          "Cubarsi urges young players to seek mental health support without fear of judgement - Reuters",
+          "Column: Diagnosing your peers isn’t real mental health support - The Daily Tar Heel"
+        ]
       },
       {
-        "trend": "medical research",
+        "trend": "healthcare",
         "market_code": "DE",
         "category": "Europe Health",
-        "score": 1,
-        "examples": []
+        "score": 9,
+        "examples": [
+          "Wisconsin governor candidates offer opposing plans to address rising healthcare costs - WPR",
+          "Celebrating Hispanic Heritage Month and the Importance of Representation in Behavioral Healthcare - County of San Luis Obispo (.gov)",
+          "GE HealthCare to explore applying generative AI to radiation therapy workflows - MedTech Dive"
+        ]
       },
       {
-        "trend": "drug approval",
+        "trend": "contain virus",
         "market_code": "DE",
-        "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
+        "category": "Outbreaks",
+        "score": 8,
+        "examples": [
+          "Congo's Ebola outbreak has recorded over 4,000 deaths as authorities struggle to contain the virus - ABC News - Breaking News, Latest News and Videos",
+          "Congo's Ebola outbreak records more than 4,000 deaths as authorities struggle to contain the virus - ClickOnDetroit | WDIV Local 4",
+          "Congo's Ebola outbreak records more than 4,000 deaths as authorities struggle to contain the virus - AP News"
+        ]
       },
       {
-        "trend": "diet wellness",
+        "trend": "struggle contain virus",
         "market_code": "DE",
-        "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "category": "Outbreaks",
+        "score": 8,
+        "examples": [
+          "Congo's Ebola outbreak has recorded over 4,000 deaths as authorities struggle to contain the virus - ABC News - Breaking News, Latest News and Videos",
+          "Congo's Ebola outbreak records more than 4,000 deaths as authorities struggle to contain the virus - ClickOnDetroit | WDIV Local 4",
+          "Congo's Ebola outbreak records more than 4,000 deaths as authorities struggle to contain the virus - AP News"
+        ]
       }
     ],
     "France": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "FR",
         "category": "Europe Health",
-        "score": 1,
-        "examples": []
+        "score": 78,
+        "examples": [
+          "People who walk more or walk faster live longer, study finds - Harvard Health",
+          "New WHO estimates show changing global health landscape - World Health Organization (WHO)",
+          "New WHO estimates show changing global health landscape - World Health Organization (WHO)"
+        ]
       },
       {
         "trend": "outbreak",
         "market_code": "FR",
         "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "score": 16,
+        "examples": [
+          "Health officials confirm mumps outbreak in San Diego - NBC News",
+          "Congo's Ebola outbreak has killed more than 4,000, government data shows - Reuters",
+          "Congo's Ebola outbreak has recorded over 4,000 deaths as authorities struggle to contain the virus - ABC News - Breaking News, Latest News and Videos"
+        ]
+      },
+      {
+        "trend": "medical",
+        "market_code": "FR",
+        "category": "Europe Health",
+        "score": 16,
+        "examples": [
+          "3 Dead in Medical Helicopter Crash Near California Coast - The New York Times",
+          "Christa Pike is alive and receiving life-saving medical care after surviving 2 lethal injections, attorney says - Yahoo",
+          "Feasibility and expert evaluation of a medical large language model in an interdisciplinary clinical board - Nature"
+        ]
+      },
+      {
+        "trend": "virus",
+        "market_code": "FR",
+        "category": "Outbreaks",
+        "score": 15,
+        "examples": [
+          "Congo's Ebola outbreak has recorded over 4,000 deaths as authorities struggle to contain the virus - ABC News - Breaking News, Latest News and Videos",
+          "Congo's Ebola outbreak records more than 4,000 deaths as authorities struggle to contain the virus - ClickOnDetroit | WDIV Local 4",
+          "Congo's Ebola outbreak records more than 4,000 deaths as authorities struggle to contain the virus - AP News"
+        ]
+      },
+      {
+        "trend": "warning",
+        "market_code": "FR",
+        "category": "Europe Health",
+        "score": 11,
+        "examples": [
+          "Extreme Heat Warning Health Alert Issued for Santa Barbara County - independent.com",
+          "Clubhouse Hazard? PETA Health Warning Hits Phoenix-Area Golf Carts - People for the Ethical Treatment of Animals (PETA)",
+          "Santa Barbara County issues health alert during extreme heat warning - KSBY News"
+        ]
+      },
+      {
+        "trend": "ebola outbreak",
+        "market_code": "FR",
+        "category": "Outbreaks",
+        "score": 11,
+        "examples": [
+          "Congo's Ebola outbreak has killed more than 4,000, government data shows - Reuters",
+          "Congo's Ebola outbreak has recorded over 4,000 deaths as authorities struggle to contain the virus - ABC News - Breaking News, Latest News and Videos",
+          "Congo's Ebola outbreak records more than 4,000 deaths as authorities struggle to contain the virus - ClickOnDetroit | WDIV Local 4"
+        ]
+      },
+      {
+        "trend": "congo ebola outbreak",
+        "market_code": "FR",
+        "category": "Outbreaks",
+        "score": 11,
+        "examples": [
+          "Congo's Ebola outbreak has killed more than 4,000, government data shows - Reuters",
+          "Congo's Ebola outbreak has recorded over 4,000 deaths as authorities struggle to contain the virus - ABC News - Breaking News, Latest News and Videos",
+          "Congo's Ebola outbreak records more than 4,000 deaths as authorities struggle to contain the virus - ClickOnDetroit | WDIV Local 4"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "FR",
+        "category": "Mental Health",
+        "score": 10,
+        "examples": [
+          "Cubarsi urges young players to seek mental health support without fear of judgement - Reuters",
+          "Cubarsi urges young players to seek mental health support without fear of judgement - Reuters",
+          "Column: Diagnosing your peers isn’t real mental health support - The Daily Tar Heel"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "FR",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
+        "score": 10,
+        "examples": [
+          "Cubarsi urges young players to seek mental health support without fear of judgement - Reuters",
+          "Cubarsi urges young players to seek mental health support without fear of judgement - Reuters",
+          "Column: Diagnosing your peers isn’t real mental health support - The Daily Tar Heel"
+        ]
       },
       {
-        "trend": "medical research",
+        "trend": "healthcare",
         "market_code": "FR",
         "category": "Europe Health",
-        "score": 1,
-        "examples": []
+        "score": 9,
+        "examples": [
+          "Wisconsin governor candidates offer opposing plans to address rising healthcare costs - WPR",
+          "Celebrating Hispanic Heritage Month and the Importance of Representation in Behavioral Healthcare - County of San Luis Obispo (.gov)",
+          "GE HealthCare to explore applying generative AI to radiation therapy workflows - MedTech Dive"
+        ]
       },
       {
-        "trend": "drug approval",
+        "trend": "contain virus",
         "market_code": "FR",
-        "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
+        "category": "Outbreaks",
+        "score": 8,
+        "examples": [
+          "Congo's Ebola outbreak has recorded over 4,000 deaths as authorities struggle to contain the virus - ABC News - Breaking News, Latest News and Videos",
+          "Congo's Ebola outbreak records more than 4,000 deaths as authorities struggle to contain the virus - ClickOnDetroit | WDIV Local 4",
+          "Congo's Ebola outbreak records more than 4,000 deaths as authorities struggle to contain the virus - AP News"
+        ]
       },
       {
-        "trend": "diet wellness",
+        "trend": "struggle contain virus",
         "market_code": "FR",
-        "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "category": "Outbreaks",
+        "score": 8,
+        "examples": [
+          "Congo's Ebola outbreak has recorded over 4,000 deaths as authorities struggle to contain the virus - ABC News - Breaking News, Latest News and Videos",
+          "Congo's Ebola outbreak records more than 4,000 deaths as authorities struggle to contain the virus - ClickOnDetroit | WDIV Local 4",
+          "Congo's Ebola outbreak records more than 4,000 deaths as authorities struggle to contain the virus - AP News"
+        ]
       }
     ],
     "Italy": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "IT",
         "category": "Europe Health",
-        "score": 1,
-        "examples": []
+        "score": 78,
+        "examples": [
+          "People who walk more or walk faster live longer, study finds - Harvard Health",
+          "New WHO estimates show changing global health landscape - World Health Organization (WHO)",
+          "New WHO estimates show changing global health landscape - World Health Organization (WHO)"
+        ]
       },
       {
         "trend": "outbreak",
         "market_code": "IT",
         "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "score": 16,
+        "examples": [
+          "Health officials confirm mumps outbreak in San Diego - NBC News",
+          "Congo's Ebola outbreak has killed more than 4,000, government data shows - Reuters",
+          "Congo's Ebola outbreak has recorded over 4,000 deaths as authorities struggle to contain the virus - ABC News - Breaking News, Latest News and Videos"
+        ]
+      },
+      {
+        "trend": "medical",
+        "market_code": "IT",
+        "category": "Europe Health",
+        "score": 16,
+        "examples": [
+          "3 Dead in Medical Helicopter Crash Near California Coast - The New York Times",
+          "Christa Pike is alive and receiving life-saving medical care after surviving 2 lethal injections, attorney says - Yahoo",
+          "Feasibility and expert evaluation of a medical large language model in an interdisciplinary clinical board - Nature"
+        ]
+      },
+      {
+        "trend": "virus",
+        "market_code": "IT",
+        "category": "Outbreaks",
+        "score": 15,
+        "examples": [
+          "Congo's Ebola outbreak has recorded over 4,000 deaths as authorities struggle to contain the virus - ABC News - Breaking News, Latest News and Videos",
+          "Congo's Ebola outbreak records more than 4,000 deaths as authorities struggle to contain the virus - ClickOnDetroit | WDIV Local 4",
+          "Congo's Ebola outbreak records more than 4,000 deaths as authorities struggle to contain the virus - AP News"
+        ]
+      },
+      {
+        "trend": "warning",
+        "market_code": "IT",
+        "category": "Europe Health",
+        "score": 11,
+        "examples": [
+          "Extreme Heat Warning Health Alert Issued for Santa Barbara County - independent.com",
+          "Clubhouse Hazard? PETA Health Warning Hits Phoenix-Area Golf Carts - People for the Ethical Treatment of Animals (PETA)",
+          "Santa Barbara County issues health alert during extreme heat warning - KSBY News"
+        ]
+      },
+      {
+        "trend": "ebola outbreak",
+        "market_code": "IT",
+        "category": "Outbreaks",
+        "score": 11,
+        "examples": [
+          "Congo's Ebola outbreak has killed more than 4,000, government data shows - Reuters",
+          "Congo's Ebola outbreak has recorded over 4,000 deaths as authorities struggle to contain the virus - ABC News - Breaking News, Latest News and Videos",
+          "Congo's Ebola outbreak records more than 4,000 deaths as authorities struggle to contain the virus - ClickOnDetroit | WDIV Local 4"
+        ]
+      },
+      {
+        "trend": "congo ebola outbreak",
+        "market_code": "IT",
+        "category": "Outbreaks",
+        "score": 11,
+        "examples": [
+          "Congo's Ebola outbreak has killed more than 4,000, government data shows - Reuters",
+          "Congo's Ebola outbreak has recorded over 4,000 deaths as authorities struggle to contain the virus - ABC News - Breaking News, Latest News and Videos",
+          "Congo's Ebola outbreak records more than 4,000 deaths as authorities struggle to contain the virus - ClickOnDetroit | WDIV Local 4"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "IT",
+        "category": "Mental Health",
+        "score": 10,
+        "examples": [
+          "Cubarsi urges young players to seek mental health support without fear of judgement - Reuters",
+          "Cubarsi urges young players to seek mental health support without fear of judgement - Reuters",
+          "Column: Diagnosing your peers isn’t real mental health support - The Daily Tar Heel"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "IT",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
+        "score": 10,
+        "examples": [
+          "Cubarsi urges young players to seek mental health support without fear of judgement - Reuters",
+          "Cubarsi urges young players to seek mental health support without fear of judgement - Reuters",
+          "Column: Diagnosing your peers isn’t real mental health support - The Daily Tar Heel"
+        ]
       },
       {
-        "trend": "medical research",
+        "trend": "healthcare",
         "market_code": "IT",
         "category": "Europe Health",
-        "score": 1,
-        "examples": []
+        "score": 9,
+        "examples": [
+          "Wisconsin governor candidates offer opposing plans to address rising healthcare costs - WPR",
+          "Celebrating Hispanic Heritage Month and the Importance of Representation in Behavioral Healthcare - County of San Luis Obispo (.gov)",
+          "GE HealthCare to explore applying generative AI to radiation therapy workflows - MedTech Dive"
+        ]
       },
       {
-        "trend": "drug approval",
+        "trend": "contain virus",
         "market_code": "IT",
-        "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
+        "category": "Outbreaks",
+        "score": 8,
+        "examples": [
+          "Congo's Ebola outbreak has recorded over 4,000 deaths as authorities struggle to contain the virus - ABC News - Breaking News, Latest News and Videos",
+          "Congo's Ebola outbreak records more than 4,000 deaths as authorities struggle to contain the virus - ClickOnDetroit | WDIV Local 4",
+          "Congo's Ebola outbreak records more than 4,000 deaths as authorities struggle to contain the virus - AP News"
+        ]
       },
       {
-        "trend": "diet wellness",
+        "trend": "struggle contain virus",
         "market_code": "IT",
-        "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "category": "Outbreaks",
+        "score": 8,
+        "examples": [
+          "Congo's Ebola outbreak has recorded over 4,000 deaths as authorities struggle to contain the virus - ABC News - Breaking News, Latest News and Videos",
+          "Congo's Ebola outbreak records more than 4,000 deaths as authorities struggle to contain the virus - ClickOnDetroit | WDIV Local 4",
+          "Congo's Ebola outbreak records more than 4,000 deaths as authorities struggle to contain the virus - AP News"
+        ]
       }
     ],
     "Spain": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "ES",
         "category": "Europe Health",
-        "score": 1,
-        "examples": []
+        "score": 78,
+        "examples": [
+          "People who walk more or walk faster live longer, study finds - Harvard Health",
+          "New WHO estimates show changing global health landscape - World Health Organization (WHO)",
+          "New WHO estimates show changing global health landscape - World Health Organization (WHO)"
+        ]
       },
       {
         "trend": "outbreak",
         "market_code": "ES",
         "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "score": 16,
+        "examples": [
+          "Health officials confirm mumps outbreak in San Diego - NBC News",
+          "Congo's Ebola outbreak has killed more than 4,000, government data shows - Reuters",
+          "Congo's Ebola outbreak has recorded over 4,000 deaths as authorities struggle to contain the virus - ABC News - Breaking News, Latest News and Videos"
+        ]
+      },
+      {
+        "trend": "medical",
+        "market_code": "ES",
+        "category": "Europe Health",
+        "score": 16,
+        "examples": [
+          "3 Dead in Medical Helicopter Crash Near California Coast - The New York Times",
+          "Christa Pike is alive and receiving life-saving medical care after surviving 2 lethal injections, attorney says - Yahoo",
+          "Feasibility and expert evaluation of a medical large language model in an interdisciplinary clinical board - Nature"
+        ]
+      },
+      {
+        "trend": "virus",
+        "market_code": "ES",
+        "category": "Outbreaks",
+        "score": 15,
+        "examples": [
+          "Congo's Ebola outbreak has recorded over 4,000 deaths as authorities struggle to contain the virus - ABC News - Breaking News, Latest News and Videos",
+          "Congo's Ebola outbreak records more than 4,000 deaths as authorities struggle to contain the virus - ClickOnDetroit | WDIV Local 4",
+          "Congo's Ebola outbreak records more than 4,000 deaths as authorities struggle to contain the virus - AP News"
+        ]
+      },
+      {
+        "trend": "warning",
+        "market_code": "ES",
+        "category": "Europe Health",
+        "score": 11,
+        "examples": [
+          "Extreme Heat Warning Health Alert Issued for Santa Barbara County - independent.com",
+          "Clubhouse Hazard? PETA Health Warning Hits Phoenix-Area Golf Carts - People for the Ethical Treatment of Animals (PETA)",
+          "Santa Barbara County issues health alert during extreme heat warning - KSBY News"
+        ]
+      },
+      {
+        "trend": "ebola outbreak",
+        "market_code": "ES",
+        "category": "Outbreaks",
+        "score": 11,
+        "examples": [
+          "Congo's Ebola outbreak has killed more than 4,000, government data shows - Reuters",
+          "Congo's Ebola outbreak has recorded over 4,000 deaths as authorities struggle to contain the virus - ABC News - Breaking News, Latest News and Videos",
+          "Congo's Ebola outbreak records more than 4,000 deaths as authorities struggle to contain the virus - ClickOnDetroit | WDIV Local 4"
+        ]
+      },
+      {
+        "trend": "congo ebola outbreak",
+        "market_code": "ES",
+        "category": "Outbreaks",
+        "score": 11,
+        "examples": [
+          "Congo's Ebola outbreak has killed more than 4,000, government data shows - Reuters",
+          "Congo's Ebola outbreak has recorded over 4,000 deaths as authorities struggle to contain the virus - ABC News - Breaking News, Latest News and Videos",
+          "Congo's Ebola outbreak records more than 4,000 deaths as authorities struggle to contain the virus - ClickOnDetroit | WDIV Local 4"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "ES",
+        "category": "Mental Health",
+        "score": 10,
+        "examples": [
+          "Cubarsi urges young players to seek mental health support without fear of judgement - Reuters",
+          "Cubarsi urges young players to seek mental health support without fear of judgement - Reuters",
+          "Column: Diagnosing your peers isn’t real mental health support - The Daily Tar Heel"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "ES",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
+        "score": 10,
+        "examples": [
+          "Cubarsi urges young players to seek mental health support without fear of judgement - Reuters",
+          "Cubarsi urges young players to seek mental health support without fear of judgement - Reuters",
+          "Column: Diagnosing your peers isn’t real mental health support - The Daily Tar Heel"
+        ]
       },
       {
-        "trend": "medical research",
+        "trend": "healthcare",
         "market_code": "ES",
         "category": "Europe Health",
-        "score": 1,
-        "examples": []
+        "score": 9,
+        "examples": [
+          "Wisconsin governor candidates offer opposing plans to address rising healthcare costs - WPR",
+          "Celebrating Hispanic Heritage Month and the Importance of Representation in Behavioral Healthcare - County of San Luis Obispo (.gov)",
+          "GE HealthCare to explore applying generative AI to radiation therapy workflows - MedTech Dive"
+        ]
       },
       {
-        "trend": "drug approval",
+        "trend": "contain virus",
         "market_code": "ES",
-        "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
+        "category": "Outbreaks",
+        "score": 8,
+        "examples": [
+          "Congo's Ebola outbreak has recorded over 4,000 deaths as authorities struggle to contain the virus - ABC News - Breaking News, Latest News and Videos",
+          "Congo's Ebola outbreak records more than 4,000 deaths as authorities struggle to contain the virus - ClickOnDetroit | WDIV Local 4",
+          "Congo's Ebola outbreak records more than 4,000 deaths as authorities struggle to contain the virus - AP News"
+        ]
       },
       {
-        "trend": "diet wellness",
+        "trend": "struggle contain virus",
         "market_code": "ES",
-        "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "category": "Outbreaks",
+        "score": 8,
+        "examples": [
+          "Congo's Ebola outbreak has recorded over 4,000 deaths as authorities struggle to contain the virus - ABC News - Breaking News, Latest News and Videos",
+          "Congo's Ebola outbreak records more than 4,000 deaths as authorities struggle to contain the virus - ClickOnDetroit | WDIV Local 4",
+          "Congo's Ebola outbreak records more than 4,000 deaths as authorities struggle to contain the virus - AP News"
+        ]
       }
     ],
     "Sweden": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "SE",
         "category": "Europe Health",
-        "score": 1,
-        "examples": []
+        "score": 78,
+        "examples": [
+          "People who walk more or walk faster live longer, study finds - Harvard Health",
+          "New WHO estimates show changing global health landscape - World Health Organization (WHO)",
+          "New WHO estimates show changing global health landscape - World Health Organization (WHO)"
+        ]
       },
       {
         "trend": "outbreak",
         "market_code": "SE",
         "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "score": 16,
+        "examples": [
+          "Health officials confirm mumps outbreak in San Diego - NBC News",
+          "Congo's Ebola outbreak has killed more than 4,000, government data shows - Reuters",
+          "Congo's Ebola outbreak has recorded over 4,000 deaths as authorities struggle to contain the virus - ABC News - Breaking News, Latest News and Videos"
+        ]
+      },
+      {
+        "trend": "medical",
+        "market_code": "SE",
+        "category": "Europe Health",
+        "score": 16,
+        "examples": [
+          "3 Dead in Medical Helicopter Crash Near California Coast - The New York Times",
+          "Christa Pike is alive and receiving life-saving medical care after surviving 2 lethal injections, attorney says - Yahoo",
+          "Feasibility and expert evaluation of a medical large language model in an interdisciplinary clinical board - Nature"
+        ]
+      },
+      {
+        "trend": "virus",
+        "market_code": "SE",
+        "category": "Outbreaks",
+        "score": 15,
+        "examples": [
+          "Congo's Ebola outbreak has recorded over 4,000 deaths as authorities struggle to contain the virus - ABC News - Breaking News, Latest News and Videos",
+          "Congo's Ebola outbreak records more than 4,000 deaths as authorities struggle to contain the virus - ClickOnDetroit | WDIV Local 4",
+          "Congo's Ebola outbreak records more than 4,000 deaths as authorities struggle to contain the virus - AP News"
+        ]
+      },
+      {
+        "trend": "warning",
+        "market_code": "SE",
+        "category": "Europe Health",
+        "score": 11,
+        "examples": [
+          "Extreme Heat Warning Health Alert Issued for Santa Barbara County - independent.com",
+          "Clubhouse Hazard? PETA Health Warning Hits Phoenix-Area Golf Carts - People for the Ethical Treatment of Animals (PETA)",
+          "Santa Barbara County issues health alert during extreme heat warning - KSBY News"
+        ]
+      },
+      {
+        "trend": "ebola outbreak",
+        "market_code": "SE",
+        "category": "Outbreaks",
+        "score": 11,
+        "examples": [
+          "Congo's Ebola outbreak has killed more than 4,000, government data shows - Reuters",
+          "Congo's Ebola outbreak has recorded over 4,000 deaths as authorities struggle to contain the virus - ABC News - Breaking News, Latest News and Videos",
+          "Congo's Ebola outbreak records more than 4,000 deaths as authorities struggle to contain the virus - ClickOnDetroit | WDIV Local 4"
+        ]
+      },
+      {
+        "trend": "congo ebola outbreak",
+        "market_code": "SE",
+        "category": "Outbreaks",
+        "score": 11,
+        "examples": [
+          "Congo's Ebola outbreak has killed more than 4,000, government data shows - Reuters",
+          "Congo's Ebola outbreak has recorded over 4,000 deaths as authorities struggle to contain the virus - ABC News - Breaking News, Latest News and Videos",
+          "Congo's Ebola outbreak records more than 4,000 deaths as authorities struggle to contain the virus - ClickOnDetroit | WDIV Local 4"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "SE",
+        "category": "Mental Health",
+        "score": 10,
+        "examples": [
+          "Cubarsi urges young players to seek mental health support without fear of judgement - Reuters",
+          "Cubarsi urges young players to seek mental health support without fear of judgement - Reuters",
+          "Column: Diagnosing your peers isn’t real mental health support - The Daily Tar Heel"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "SE",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
+        "score": 10,
+        "examples": [
+          "Cubarsi urges young players to seek mental health support without fear of judgement - Reuters",
+          "Cubarsi urges young players to seek mental health support without fear of judgement - Reuters",
+          "Column: Diagnosing your peers isn’t real mental health support - The Daily Tar Heel"
+        ]
       },
       {
-        "trend": "medical research",
+        "trend": "healthcare",
         "market_code": "SE",
         "category": "Europe Health",
-        "score": 1,
-        "examples": []
+        "score": 9,
+        "examples": [
+          "Wisconsin governor candidates offer opposing plans to address rising healthcare costs - WPR",
+          "Celebrating Hispanic Heritage Month and the Importance of Representation in Behavioral Healthcare - County of San Luis Obispo (.gov)",
+          "GE HealthCare to explore applying generative AI to radiation therapy workflows - MedTech Dive"
+        ]
       },
       {
-        "trend": "drug approval",
+        "trend": "contain virus",
         "market_code": "SE",
-        "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
+        "category": "Outbreaks",
+        "score": 8,
+        "examples": [
+          "Congo's Ebola outbreak has recorded over 4,000 deaths as authorities struggle to contain the virus - ABC News - Breaking News, Latest News and Videos",
+          "Congo's Ebola outbreak records more than 4,000 deaths as authorities struggle to contain the virus - ClickOnDetroit | WDIV Local 4",
+          "Congo's Ebola outbreak records more than 4,000 deaths as authorities struggle to contain the virus - AP News"
+        ]
       },
       {
-        "trend": "diet wellness",
+        "trend": "struggle contain virus",
         "market_code": "SE",
-        "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "category": "Outbreaks",
+        "score": 8,
+        "examples": [
+          "Congo's Ebola outbreak has recorded over 4,000 deaths as authorities struggle to contain the virus - ABC News - Breaking News, Latest News and Videos",
+          "Congo's Ebola outbreak records more than 4,000 deaths as authorities struggle to contain the virus - ClickOnDetroit | WDIV Local 4",
+          "Congo's Ebola outbreak records more than 4,000 deaths as authorities struggle to contain the virus - AP News"
+        ]
       }
     ],
     "Netherlands": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "NL",
         "category": "Europe Health",
-        "score": 1,
-        "examples": []
+        "score": 78,
+        "examples": [
+          "People who walk more or walk faster live longer, study finds - Harvard Health",
+          "New WHO estimates show changing global health landscape - World Health Organization (WHO)",
+          "New WHO estimates show changing global health landscape - World Health Organization (WHO)"
+        ]
       },
       {
         "trend": "outbreak",
         "market_code": "NL",
         "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "score": 16,
+        "examples": [
+          "Health officials confirm mumps outbreak in San Diego - NBC News",
+          "Congo's Ebola outbreak has killed more than 4,000, government data shows - Reuters",
+          "Congo's Ebola outbreak has recorded over 4,000 deaths as authorities struggle to contain the virus - ABC News - Breaking News, Latest News and Videos"
+        ]
+      },
+      {
+        "trend": "medical",
+        "market_code": "NL",
+        "category": "Europe Health",
+        "score": 16,
+        "examples": [
+          "3 Dead in Medical Helicopter Crash Near California Coast - The New York Times",
+          "Christa Pike is alive and receiving life-saving medical care after surviving 2 lethal injections, attorney says - Yahoo",
+          "Feasibility and expert evaluation of a medical large language model in an interdisciplinary clinical board - Nature"
+        ]
+      },
+      {
+        "trend": "virus",
+        "market_code": "NL",
+        "category": "Outbreaks",
+        "score": 15,
+        "examples": [
+          "Congo's Ebola outbreak has recorded over 4,000 deaths as authorities struggle to contain the virus - ABC News - Breaking News, Latest News and Videos",
+          "Congo's Ebola outbreak records more than 4,000 deaths as authorities struggle to contain the virus - ClickOnDetroit | WDIV Local 4",
+          "Congo's Ebola outbreak records more than 4,000 deaths as authorities struggle to contain the virus - AP News"
+        ]
+      },
+      {
+        "trend": "warning",
+        "market_code": "NL",
+        "category": "Europe Health",
+        "score": 11,
+        "examples": [
+          "Extreme Heat Warning Health Alert Issued for Santa Barbara County - independent.com",
+          "Clubhouse Hazard? PETA Health Warning Hits Phoenix-Area Golf Carts - People for the Ethical Treatment of Animals (PETA)",
+          "Santa Barbara County issues health alert during extreme heat warning - KSBY News"
+        ]
+      },
+      {
+        "trend": "ebola outbreak",
+        "market_code": "NL",
+        "category": "Outbreaks",
+        "score": 11,
+        "examples": [
+          "Congo's Ebola outbreak has killed more than 4,000, government data shows - Reuters",
+          "Congo's Ebola outbreak has recorded over 4,000 deaths as authorities struggle to contain the virus - ABC News - Breaking News, Latest News and Videos",
+          "Congo's Ebola outbreak records more than 4,000 deaths as authorities struggle to contain the virus - ClickOnDetroit | WDIV Local 4"
+        ]
+      },
+      {
+        "trend": "congo ebola outbreak",
+        "market_code": "NL",
+        "category": "Outbreaks",
+        "score": 11,
+        "examples": [
+          "Congo's Ebola outbreak has killed more than 4,000, government data shows - Reuters",
+          "Congo's Ebola outbreak has recorded over 4,000 deaths as authorities struggle to contain the virus - ABC News - Breaking News, Latest News and Videos",
+          "Congo's Ebola outbreak records more than 4,000 deaths as authorities struggle to contain the virus - ClickOnDetroit | WDIV Local 4"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "NL",
+        "category": "Mental Health",
+        "score": 10,
+        "examples": [
+          "Cubarsi urges young players to seek mental health support without fear of judgement - Reuters",
+          "Cubarsi urges young players to seek mental health support without fear of judgement - Reuters",
+          "Column: Diagnosing your peers isn’t real mental health support - The Daily Tar Heel"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "NL",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
+        "score": 10,
+        "examples": [
+          "Cubarsi urges young players to seek mental health support without fear of judgement - Reuters",
+          "Cubarsi urges young players to seek mental health support without fear of judgement - Reuters",
+          "Column: Diagnosing your peers isn’t real mental health support - The Daily Tar Heel"
+        ]
       },
       {
-        "trend": "medical research",
+        "trend": "healthcare",
         "market_code": "NL",
         "category": "Europe Health",
-        "score": 1,
-        "examples": []
+        "score": 9,
+        "examples": [
+          "Wisconsin governor candidates offer opposing plans to address rising healthcare costs - WPR",
+          "Celebrating Hispanic Heritage Month and the Importance of Representation in Behavioral Healthcare - County of San Luis Obispo (.gov)",
+          "GE HealthCare to explore applying generative AI to radiation therapy workflows - MedTech Dive"
+        ]
       },
       {
-        "trend": "drug approval",
+        "trend": "contain virus",
         "market_code": "NL",
-        "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
+        "category": "Outbreaks",
+        "score": 8,
+        "examples": [
+          "Congo's Ebola outbreak has recorded over 4,000 deaths as authorities struggle to contain the virus - ABC News - Breaking News, Latest News and Videos",
+          "Congo's Ebola outbreak records more than 4,000 deaths as authorities struggle to contain the virus - ClickOnDetroit | WDIV Local 4",
+          "Congo's Ebola outbreak records more than 4,000 deaths as authorities struggle to contain the virus - AP News"
+        ]
       },
       {
-        "trend": "diet wellness",
+        "trend": "struggle contain virus",
         "market_code": "NL",
-        "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "category": "Outbreaks",
+        "score": 8,
+        "examples": [
+          "Congo's Ebola outbreak has recorded over 4,000 deaths as authorities struggle to contain the virus - ABC News - Breaking News, Latest News and Videos",
+          "Congo's Ebola outbreak records more than 4,000 deaths as authorities struggle to contain the virus - ClickOnDetroit | WDIV Local 4",
+          "Congo's Ebola outbreak records more than 4,000 deaths as authorities struggle to contain the virus - AP News"
+        ]
       }
     ],
     "Finland": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "FI",
         "category": "Europe Health",
-        "score": 1,
-        "examples": []
+        "score": 78,
+        "examples": [
+          "People who walk more or walk faster live longer, study finds - Harvard Health",
+          "New WHO estimates show changing global health landscape - World Health Organization (WHO)",
+          "New WHO estimates show changing global health landscape - World Health Organization (WHO)"
+        ]
       },
       {
         "trend": "outbreak",
         "market_code": "FI",
         "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "score": 16,
+        "examples": [
+          "Health officials confirm mumps outbreak in San Diego - NBC News",
+          "Congo's Ebola outbreak has killed more than 4,000, government data shows - Reuters",
+          "Congo's Ebola outbreak has recorded over 4,000 deaths as authorities struggle to contain the virus - ABC News - Breaking News, Latest News and Videos"
+        ]
+      },
+      {
+        "trend": "medical",
+        "market_code": "FI",
+        "category": "Europe Health",
+        "score": 16,
+        "examples": [
+          "3 Dead in Medical Helicopter Crash Near California Coast - The New York Times",
+          "Christa Pike is alive and receiving life-saving medical care after surviving 2 lethal injections, attorney says - Yahoo",
+          "Feasibility and expert evaluation of a medical large language model in an interdisciplinary clinical board - Nature"
+        ]
+      },
+      {
+        "trend": "virus",
+        "market_code": "FI",
+        "category": "Outbreaks",
+        "score": 15,
+        "examples": [
+          "Congo's Ebola outbreak has recorded over 4,000 deaths as authorities struggle to contain the virus - ABC News - Breaking News, Latest News and Videos",
+          "Congo's Ebola outbreak records more than 4,000 deaths as authorities struggle to contain the virus - ClickOnDetroit | WDIV Local 4",
+          "Congo's Ebola outbreak records more than 4,000 deaths as authorities struggle to contain the virus - AP News"
+        ]
+      },
+      {
+        "trend": "warning",
+        "market_code": "FI",
+        "category": "Europe Health",
+        "score": 11,
+        "examples": [
+          "Extreme Heat Warning Health Alert Issued for Santa Barbara County - independent.com",
+          "Clubhouse Hazard? PETA Health Warning Hits Phoenix-Area Golf Carts - People for the Ethical Treatment of Animals (PETA)",
+          "Santa Barbara County issues health alert during extreme heat warning - KSBY News"
+        ]
+      },
+      {
+        "trend": "ebola outbreak",
+        "market_code": "FI",
+        "category": "Outbreaks",
+        "score": 11,
+        "examples": [
+          "Congo's Ebola outbreak has killed more than 4,000, government data shows - Reuters",
+          "Congo's Ebola outbreak has recorded over 4,000 deaths as authorities struggle to contain the virus - ABC News - Breaking News, Latest News and Videos",
+          "Congo's Ebola outbreak records more than 4,000 deaths as authorities struggle to contain the virus - ClickOnDetroit | WDIV Local 4"
+        ]
+      },
+      {
+        "trend": "congo ebola outbreak",
+        "market_code": "FI",
+        "category": "Outbreaks",
+        "score": 11,
+        "examples": [
+          "Congo's Ebola outbreak has killed more than 4,000, government data shows - Reuters",
+          "Congo's Ebola outbreak has recorded over 4,000 deaths as authorities struggle to contain the virus - ABC News - Breaking News, Latest News and Videos",
+          "Congo's Ebola outbreak records more than 4,000 deaths as authorities struggle to contain the virus - ClickOnDetroit | WDIV Local 4"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "FI",
+        "category": "Mental Health",
+        "score": 10,
+        "examples": [
+          "Cubarsi urges young players to seek mental health support without fear of judgement - Reuters",
+          "Cubarsi urges young players to seek mental health support without fear of judgement - Reuters",
+          "Column: Diagnosing your peers isn’t real mental health support - The Daily Tar Heel"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "FI",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
+        "score": 10,
+        "examples": [
+          "Cubarsi urges young players to seek mental health support without fear of judgement - Reuters",
+          "Cubarsi urges young players to seek mental health support without fear of judgement - Reuters",
+          "Column: Diagnosing your peers isn’t real mental health support - The Daily Tar Heel"
+        ]
       },
       {
-        "trend": "medical research",
+        "trend": "healthcare",
         "market_code": "FI",
         "category": "Europe Health",
-        "score": 1,
-        "examples": []
+        "score": 9,
+        "examples": [
+          "Wisconsin governor candidates offer opposing plans to address rising healthcare costs - WPR",
+          "Celebrating Hispanic Heritage Month and the Importance of Representation in Behavioral Healthcare - County of San Luis Obispo (.gov)",
+          "GE HealthCare to explore applying generative AI to radiation therapy workflows - MedTech Dive"
+        ]
       },
       {
-        "trend": "drug approval",
+        "trend": "contain virus",
         "market_code": "FI",
-        "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
+        "category": "Outbreaks",
+        "score": 8,
+        "examples": [
+          "Congo's Ebola outbreak has recorded over 4,000 deaths as authorities struggle to contain the virus - ABC News - Breaking News, Latest News and Videos",
+          "Congo's Ebola outbreak records more than 4,000 deaths as authorities struggle to contain the virus - ClickOnDetroit | WDIV Local 4",
+          "Congo's Ebola outbreak records more than 4,000 deaths as authorities struggle to contain the virus - AP News"
+        ]
       },
       {
-        "trend": "diet wellness",
+        "trend": "struggle contain virus",
         "market_code": "FI",
-        "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "category": "Outbreaks",
+        "score": 8,
+        "examples": [
+          "Congo's Ebola outbreak has recorded over 4,000 deaths as authorities struggle to contain the virus - ABC News - Breaking News, Latest News and Videos",
+          "Congo's Ebola outbreak records more than 4,000 deaths as authorities struggle to contain the virus - ClickOnDetroit | WDIV Local 4",
+          "Congo's Ebola outbreak records more than 4,000 deaths as authorities struggle to contain the virus - AP News"
+        ]
       }
     ],
     "Norway": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "NO",
         "category": "Europe Health",
-        "score": 1,
-        "examples": []
+        "score": 78,
+        "examples": [
+          "People who walk more or walk faster live longer, study finds - Harvard Health",
+          "New WHO estimates show changing global health landscape - World Health Organization (WHO)",
+          "New WHO estimates show changing global health landscape - World Health Organization (WHO)"
+        ]
       },
       {
         "trend": "outbreak",
         "market_code": "NO",
         "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "score": 16,
+        "examples": [
+          "Health officials confirm mumps outbreak in San Diego - NBC News",
+          "Congo's Ebola outbreak has killed more than 4,000, government data shows - Reuters",
+          "Congo's Ebola outbreak has recorded over 4,000 deaths as authorities struggle to contain the virus - ABC News - Breaking News, Latest News and Videos"
+        ]
+      },
+      {
+        "trend": "medical",
+        "market_code": "NO",
+        "category": "Europe Health",
+        "score": 16,
+        "examples": [
+          "3 Dead in Medical Helicopter Crash Near California Coast - The New York Times",
+          "Christa Pike is alive and receiving life-saving medical care after surviving 2 lethal injections, attorney says - Yahoo",
+          "Feasibility and expert evaluation of a medical large language model in an interdisciplinary clinical board - Nature"
+        ]
+      },
+      {
+        "trend": "virus",
+        "market_code": "NO",
+        "category": "Outbreaks",
+        "score": 15,
+        "examples": [
+          "Congo's Ebola outbreak has recorded over 4,000 deaths as authorities struggle to contain the virus - ABC News - Breaking News, Latest News and Videos",
+          "Congo's Ebola outbreak records more than 4,000 deaths as authorities struggle to contain the virus - ClickOnDetroit | WDIV Local 4",
+          "Congo's Ebola outbreak records more than 4,000 deaths as authorities struggle to contain the virus - AP News"
+        ]
+      },
+      {
+        "trend": "warning",
+        "market_code": "NO",
+        "category": "Europe Health",
+        "score": 11,
+        "examples": [
+          "Extreme Heat Warning Health Alert Issued for Santa Barbara County - independent.com",
+          "Clubhouse Hazard? PETA Health Warning Hits Phoenix-Area Golf Carts - People for the Ethical Treatment of Animals (PETA)",
+          "Santa Barbara County issues health alert during extreme heat warning - KSBY News"
+        ]
+      },
+      {
+        "trend": "ebola outbreak",
+        "market_code": "NO",
+        "category": "Outbreaks",
+        "score": 11,
+        "examples": [
+          "Congo's Ebola outbreak has killed more than 4,000, government data shows - Reuters",
+          "Congo's Ebola outbreak has recorded over 4,000 deaths as authorities struggle to contain the virus - ABC News - Breaking News, Latest News and Videos",
+          "Congo's Ebola outbreak records more than 4,000 deaths as authorities struggle to contain the virus - ClickOnDetroit | WDIV Local 4"
+        ]
+      },
+      {
+        "trend": "congo ebola outbreak",
+        "market_code": "NO",
+        "category": "Outbreaks",
+        "score": 11,
+        "examples": [
+          "Congo's Ebola outbreak has killed more than 4,000, government data shows - Reuters",
+          "Congo's Ebola outbreak has recorded over 4,000 deaths as authorities struggle to contain the virus - ABC News - Breaking News, Latest News and Videos",
+          "Congo's Ebola outbreak records more than 4,000 deaths as authorities struggle to contain the virus - ClickOnDetroit | WDIV Local 4"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "NO",
+        "category": "Mental Health",
+        "score": 10,
+        "examples": [
+          "Cubarsi urges young players to seek mental health support without fear of judgement - Reuters",
+          "Cubarsi urges young players to seek mental health support without fear of judgement - Reuters",
+          "Column: Diagnosing your peers isn’t real mental health support - The Daily Tar Heel"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "NO",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
+        "score": 10,
+        "examples": [
+          "Cubarsi urges young players to seek mental health support without fear of judgement - Reuters",
+          "Cubarsi urges young players to seek mental health support without fear of judgement - Reuters",
+          "Column: Diagnosing your peers isn’t real mental health support - The Daily Tar Heel"
+        ]
       },
       {
-        "trend": "medical research",
+        "trend": "healthcare",
         "market_code": "NO",
         "category": "Europe Health",
-        "score": 1,
-        "examples": []
+        "score": 9,
+        "examples": [
+          "Wisconsin governor candidates offer opposing plans to address rising healthcare costs - WPR",
+          "Celebrating Hispanic Heritage Month and the Importance of Representation in Behavioral Healthcare - County of San Luis Obispo (.gov)",
+          "GE HealthCare to explore applying generative AI to radiation therapy workflows - MedTech Dive"
+        ]
       },
       {
-        "trend": "drug approval",
+        "trend": "contain virus",
         "market_code": "NO",
-        "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
+        "category": "Outbreaks",
+        "score": 8,
+        "examples": [
+          "Congo's Ebola outbreak has recorded over 4,000 deaths as authorities struggle to contain the virus - ABC News - Breaking News, Latest News and Videos",
+          "Congo's Ebola outbreak records more than 4,000 deaths as authorities struggle to contain the virus - ClickOnDetroit | WDIV Local 4",
+          "Congo's Ebola outbreak records more than 4,000 deaths as authorities struggle to contain the virus - AP News"
+        ]
       },
       {
-        "trend": "diet wellness",
+        "trend": "struggle contain virus",
         "market_code": "NO",
-        "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "category": "Outbreaks",
+        "score": 8,
+        "examples": [
+          "Congo's Ebola outbreak has recorded over 4,000 deaths as authorities struggle to contain the virus - ABC News - Breaking News, Latest News and Videos",
+          "Congo's Ebola outbreak records more than 4,000 deaths as authorities struggle to contain the virus - ClickOnDetroit | WDIV Local 4",
+          "Congo's Ebola outbreak records more than 4,000 deaths as authorities struggle to contain the virus - AP News"
+        ]
       }
     ],
     "Japan": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "JP",
         "category": "Asia Health",
-        "score": 1,
-        "examples": []
+        "score": 78,
+        "examples": [
+          "People who walk more or walk faster live longer, study finds - Harvard Health",
+          "New WHO estimates show changing global health landscape - World Health Organization (WHO)",
+          "New WHO estimates show changing global health landscape - World Health Organization (WHO)"
+        ]
       },
       {
         "trend": "outbreak",
         "market_code": "JP",
         "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "score": 16,
+        "examples": [
+          "Health officials confirm mumps outbreak in San Diego - NBC News",
+          "Congo's Ebola outbreak has killed more than 4,000, government data shows - Reuters",
+          "Congo's Ebola outbreak has recorded over 4,000 deaths as authorities struggle to contain the virus - ABC News - Breaking News, Latest News and Videos"
+        ]
+      },
+      {
+        "trend": "medical",
+        "market_code": "JP",
+        "category": "Asia Health",
+        "score": 16,
+        "examples": [
+          "3 Dead in Medical Helicopter Crash Near California Coast - The New York Times",
+          "Christa Pike is alive and receiving life-saving medical care after surviving 2 lethal injections, attorney says - Yahoo",
+          "Feasibility and expert evaluation of a medical large language model in an interdisciplinary clinical board - Nature"
+        ]
+      },
+      {
+        "trend": "virus",
+        "market_code": "JP",
+        "category": "Outbreaks",
+        "score": 15,
+        "examples": [
+          "Congo's Ebola outbreak has recorded over 4,000 deaths as authorities struggle to contain the virus - ABC News - Breaking News, Latest News and Videos",
+          "Congo's Ebola outbreak records more than 4,000 deaths as authorities struggle to contain the virus - ClickOnDetroit | WDIV Local 4",
+          "Congo's Ebola outbreak records more than 4,000 deaths as authorities struggle to contain the virus - AP News"
+        ]
+      },
+      {
+        "trend": "warning",
+        "market_code": "JP",
+        "category": "Asia Health",
+        "score": 11,
+        "examples": [
+          "Extreme Heat Warning Health Alert Issued for Santa Barbara County - independent.com",
+          "Clubhouse Hazard? PETA Health Warning Hits Phoenix-Area Golf Carts - People for the Ethical Treatment of Animals (PETA)",
+          "Santa Barbara County issues health alert during extreme heat warning - KSBY News"
+        ]
+      },
+      {
+        "trend": "ebola outbreak",
+        "market_code": "JP",
+        "category": "Outbreaks",
+        "score": 11,
+        "examples": [
+          "Congo's Ebola outbreak has killed more than 4,000, government data shows - Reuters",
+          "Congo's Ebola outbreak has recorded over 4,000 deaths as authorities struggle to contain the virus - ABC News - Breaking News, Latest News and Videos",
+          "Congo's Ebola outbreak records more than 4,000 deaths as authorities struggle to contain the virus - ClickOnDetroit | WDIV Local 4"
+        ]
+      },
+      {
+        "trend": "congo ebola outbreak",
+        "market_code": "JP",
+        "category": "Outbreaks",
+        "score": 11,
+        "examples": [
+          "Congo's Ebola outbreak has killed more than 4,000, government data shows - Reuters",
+          "Congo's Ebola outbreak has recorded over 4,000 deaths as authorities struggle to contain the virus - ABC News - Breaking News, Latest News and Videos",
+          "Congo's Ebola outbreak records more than 4,000 deaths as authorities struggle to contain the virus - ClickOnDetroit | WDIV Local 4"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "JP",
+        "category": "Mental Health",
+        "score": 10,
+        "examples": [
+          "Cubarsi urges young players to seek mental health support without fear of judgement - Reuters",
+          "Cubarsi urges young players to seek mental health support without fear of judgement - Reuters",
+          "Column: Diagnosing your peers isn’t real mental health support - The Daily Tar Heel"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "JP",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
+        "score": 10,
+        "examples": [
+          "Cubarsi urges young players to seek mental health support without fear of judgement - Reuters",
+          "Cubarsi urges young players to seek mental health support without fear of judgement - Reuters",
+          "Column: Diagnosing your peers isn’t real mental health support - The Daily Tar Heel"
+        ]
       },
       {
-        "trend": "medical research",
+        "trend": "healthcare",
         "market_code": "JP",
         "category": "Asia Health",
-        "score": 1,
-        "examples": []
+        "score": 9,
+        "examples": [
+          "Wisconsin governor candidates offer opposing plans to address rising healthcare costs - WPR",
+          "Celebrating Hispanic Heritage Month and the Importance of Representation in Behavioral Healthcare - County of San Luis Obispo (.gov)",
+          "GE HealthCare to explore applying generative AI to radiation therapy workflows - MedTech Dive"
+        ]
       },
       {
-        "trend": "drug approval",
+        "trend": "contain virus",
         "market_code": "JP",
-        "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
+        "category": "Outbreaks",
+        "score": 8,
+        "examples": [
+          "Congo's Ebola outbreak has recorded over 4,000 deaths as authorities struggle to contain the virus - ABC News - Breaking News, Latest News and Videos",
+          "Congo's Ebola outbreak records more than 4,000 deaths as authorities struggle to contain the virus - ClickOnDetroit | WDIV Local 4",
+          "Congo's Ebola outbreak records more than 4,000 deaths as authorities struggle to contain the virus - AP News"
+        ]
       },
       {
-        "trend": "diet wellness",
+        "trend": "struggle contain virus",
         "market_code": "JP",
-        "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "category": "Outbreaks",
+        "score": 8,
+        "examples": [
+          "Congo's Ebola outbreak has recorded over 4,000 deaths as authorities struggle to contain the virus - ABC News - Breaking News, Latest News and Videos",
+          "Congo's Ebola outbreak records more than 4,000 deaths as authorities struggle to contain the virus - ClickOnDetroit | WDIV Local 4",
+          "Congo's Ebola outbreak records more than 4,000 deaths as authorities struggle to contain the virus - AP News"
+        ]
       }
     ],
     "China": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "CN",
         "category": "Asia Health",
-        "score": 1,
-        "examples": []
+        "score": 78,
+        "examples": [
+          "People who walk more or walk faster live longer, study finds - Harvard Health",
+          "New WHO estimates show changing global health landscape - World Health Organization (WHO)",
+          "New WHO estimates show changing global health landscape - World Health Organization (WHO)"
+        ]
       },
       {
         "trend": "outbreak",
         "market_code": "CN",
         "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "score": 16,
+        "examples": [
+          "Health officials confirm mumps outbreak in San Diego - NBC News",
+          "Congo's Ebola outbreak has killed more than 4,000, government data shows - Reuters",
+          "Congo's Ebola outbreak has recorded over 4,000 deaths as authorities struggle to contain the virus - ABC News - Breaking News, Latest News and Videos"
+        ]
+      },
+      {
+        "trend": "medical",
+        "market_code": "CN",
+        "category": "Asia Health",
+        "score": 16,
+        "examples": [
+          "3 Dead in Medical Helicopter Crash Near California Coast - The New York Times",
+          "Christa Pike is alive and receiving life-saving medical care after surviving 2 lethal injections, attorney says - Yahoo",
+          "Feasibility and expert evaluation of a medical large language model in an interdisciplinary clinical board - Nature"
+        ]
+      },
+      {
+        "trend": "virus",
+        "market_code": "CN",
+        "category": "Outbreaks",
+        "score": 15,
+        "examples": [
+          "Congo's Ebola outbreak has recorded over 4,000 deaths as authorities struggle to contain the virus - ABC News - Breaking News, Latest News and Videos",
+          "Congo's Ebola outbreak records more than 4,000 deaths as authorities struggle to contain the virus - ClickOnDetroit | WDIV Local 4",
+          "Congo's Ebola outbreak records more than 4,000 deaths as authorities struggle to contain the virus - AP News"
+        ]
+      },
+      {
+        "trend": "warning",
+        "market_code": "CN",
+        "category": "Asia Health",
+        "score": 11,
+        "examples": [
+          "Extreme Heat Warning Health Alert Issued for Santa Barbara County - independent.com",
+          "Clubhouse Hazard? PETA Health Warning Hits Phoenix-Area Golf Carts - People for the Ethical Treatment of Animals (PETA)",
+          "Santa Barbara County issues health alert during extreme heat warning - KSBY News"
+        ]
+      },
+      {
+        "trend": "ebola outbreak",
+        "market_code": "CN",
+        "category": "Outbreaks",
+        "score": 11,
+        "examples": [
+          "Congo's Ebola outbreak has killed more than 4,000, government data shows - Reuters",
+          "Congo's Ebola outbreak has recorded over 4,000 deaths as authorities struggle to contain the virus - ABC News - Breaking News, Latest News and Videos",
+          "Congo's Ebola outbreak records more than 4,000 deaths as authorities struggle to contain the virus - ClickOnDetroit | WDIV Local 4"
+        ]
+      },
+      {
+        "trend": "congo ebola outbreak",
+        "market_code": "CN",
+        "category": "Outbreaks",
+        "score": 11,
+        "examples": [
+          "Congo's Ebola outbreak has killed more than 4,000, government data shows - Reuters",
+          "Congo's Ebola outbreak has recorded over 4,000 deaths as authorities struggle to contain the virus - ABC News - Breaking News, Latest News and Videos",
+          "Congo's Ebola outbreak records more than 4,000 deaths as authorities struggle to contain the virus - ClickOnDetroit | WDIV Local 4"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "CN",
+        "category": "Mental Health",
+        "score": 10,
+        "examples": [
+          "Cubarsi urges young players to seek mental health support without fear of judgement - Reuters",
+          "Cubarsi urges young players to seek mental health support without fear of judgement - Reuters",
+          "Column: Diagnosing your peers isn’t real mental health support - The Daily Tar Heel"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "CN",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
+        "score": 10,
+        "examples": [
+          "Cubarsi urges young players to seek mental health support without fear of judgement - Reuters",
+          "Cubarsi urges young players to seek mental health support without fear of judgement - Reuters",
+          "Column: Diagnosing your peers isn’t real mental health support - The Daily Tar Heel"
+        ]
       },
       {
-        "trend": "medical research",
+        "trend": "healthcare",
         "market_code": "CN",
         "category": "Asia Health",
-        "score": 1,
-        "examples": []
+        "score": 9,
+        "examples": [
+          "Wisconsin governor candidates offer opposing plans to address rising healthcare costs - WPR",
+          "Celebrating Hispanic Heritage Month and the Importance of Representation in Behavioral Healthcare - County of San Luis Obispo (.gov)",
+          "GE HealthCare to explore applying generative AI to radiation therapy workflows - MedTech Dive"
+        ]
       },
       {
-        "trend": "drug approval",
+        "trend": "contain virus",
         "market_code": "CN",
-        "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
+        "category": "Outbreaks",
+        "score": 8,
+        "examples": [
+          "Congo's Ebola outbreak has recorded over 4,000 deaths as authorities struggle to contain the virus - ABC News - Breaking News, Latest News and Videos",
+          "Congo's Ebola outbreak records more than 4,000 deaths as authorities struggle to contain the virus - ClickOnDetroit | WDIV Local 4",
+          "Congo's Ebola outbreak records more than 4,000 deaths as authorities struggle to contain the virus - AP News"
+        ]
       },
       {
-        "trend": "diet wellness",
+        "trend": "struggle contain virus",
         "market_code": "CN",
-        "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "category": "Outbreaks",
+        "score": 8,
+        "examples": [
+          "Congo's Ebola outbreak has recorded over 4,000 deaths as authorities struggle to contain the virus - ABC News - Breaking News, Latest News and Videos",
+          "Congo's Ebola outbreak records more than 4,000 deaths as authorities struggle to contain the virus - ClickOnDetroit | WDIV Local 4",
+          "Congo's Ebola outbreak records more than 4,000 deaths as authorities struggle to contain the virus - AP News"
+        ]
       }
     ],
     "South Korea": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "KR",
         "category": "Asia Health",
-        "score": 1,
-        "examples": []
+        "score": 78,
+        "examples": [
+          "People who walk more or walk faster live longer, study finds - Harvard Health",
+          "New WHO estimates show changing global health landscape - World Health Organization (WHO)",
+          "New WHO estimates show changing global health landscape - World Health Organization (WHO)"
+        ]
       },
       {
         "trend": "outbreak",
         "market_code": "KR",
         "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "score": 16,
+        "examples": [
+          "Health officials confirm mumps outbreak in San Diego - NBC News",
+          "Congo's Ebola outbreak has killed more than 4,000, government data shows - Reuters",
+          "Congo's Ebola outbreak has recorded over 4,000 deaths as authorities struggle to contain the virus - ABC News - Breaking News, Latest News and Videos"
+        ]
+      },
+      {
+        "trend": "medical",
+        "market_code": "KR",
+        "category": "Asia Health",
+        "score": 16,
+        "examples": [
+          "3 Dead in Medical Helicopter Crash Near California Coast - The New York Times",
+          "Christa Pike is alive and receiving life-saving medical care after surviving 2 lethal injections, attorney says - Yahoo",
+          "Feasibility and expert evaluation of a medical large language model in an interdisciplinary clinical board - Nature"
+        ]
+      },
+      {
+        "trend": "virus",
+        "market_code": "KR",
+        "category": "Outbreaks",
+        "score": 15,
+        "examples": [
+          "Congo's Ebola outbreak has recorded over 4,000 deaths as authorities struggle to contain the virus - ABC News - Breaking News, Latest News and Videos",
+          "Congo's Ebola outbreak records more than 4,000 deaths as authorities struggle to contain the virus - ClickOnDetroit | WDIV Local 4",
+          "Congo's Ebola outbreak records more than 4,000 deaths as authorities struggle to contain the virus - AP News"
+        ]
+      },
+      {
+        "trend": "warning",
+        "market_code": "KR",
+        "category": "Asia Health",
+        "score": 11,
+        "examples": [
+          "Extreme Heat Warning Health Alert Issued for Santa Barbara County - independent.com",
+          "Clubhouse Hazard? PETA Health Warning Hits Phoenix-Area Golf Carts - People for the Ethical Treatment of Animals (PETA)",
+          "Santa Barbara County issues health alert during extreme heat warning - KSBY News"
+        ]
+      },
+      {
+        "trend": "ebola outbreak",
+        "market_code": "KR",
+        "category": "Outbreaks",
+        "score": 11,
+        "examples": [
+          "Congo's Ebola outbreak has killed more than 4,000, government data shows - Reuters",
+          "Congo's Ebola outbreak has recorded over 4,000 deaths as authorities struggle to contain the virus - ABC News - Breaking News, Latest News and Videos",
+          "Congo's Ebola outbreak records more than 4,000 deaths as authorities struggle to contain the virus - ClickOnDetroit | WDIV Local 4"
+        ]
+      },
+      {
+        "trend": "congo ebola outbreak",
+        "market_code": "KR",
+        "category": "Outbreaks",
+        "score": 11,
+        "examples": [
+          "Congo's Ebola outbreak has killed more than 4,000, government data shows - Reuters",
+          "Congo's Ebola outbreak has recorded over 4,000 deaths as authorities struggle to contain the virus - ABC News - Breaking News, Latest News and Videos",
+          "Congo's Ebola outbreak records more than 4,000 deaths as authorities struggle to contain the virus - ClickOnDetroit | WDIV Local 4"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "KR",
+        "category": "Mental Health",
+        "score": 10,
+        "examples": [
+          "Cubarsi urges young players to seek mental health support without fear of judgement - Reuters",
+          "Cubarsi urges young players to seek mental health support without fear of judgement - Reuters",
+          "Column: Diagnosing your peers isn’t real mental health support - The Daily Tar Heel"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "KR",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
+        "score": 10,
+        "examples": [
+          "Cubarsi urges young players to seek mental health support without fear of judgement - Reuters",
+          "Cubarsi urges young players to seek mental health support without fear of judgement - Reuters",
+          "Column: Diagnosing your peers isn’t real mental health support - The Daily Tar Heel"
+        ]
       },
       {
-        "trend": "medical research",
+        "trend": "healthcare",
         "market_code": "KR",
         "category": "Asia Health",
-        "score": 1,
-        "examples": []
+        "score": 9,
+        "examples": [
+          "Wisconsin governor candidates offer opposing plans to address rising healthcare costs - WPR",
+          "Celebrating Hispanic Heritage Month and the Importance of Representation in Behavioral Healthcare - County of San Luis Obispo (.gov)",
+          "GE HealthCare to explore applying generative AI to radiation therapy workflows - MedTech Dive"
+        ]
       },
       {
-        "trend": "drug approval",
+        "trend": "contain virus",
         "market_code": "KR",
-        "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
+        "category": "Outbreaks",
+        "score": 8,
+        "examples": [
+          "Congo's Ebola outbreak has recorded over 4,000 deaths as authorities struggle to contain the virus - ABC News - Breaking News, Latest News and Videos",
+          "Congo's Ebola outbreak records more than 4,000 deaths as authorities struggle to contain the virus - ClickOnDetroit | WDIV Local 4",
+          "Congo's Ebola outbreak records more than 4,000 deaths as authorities struggle to contain the virus - AP News"
+        ]
       },
       {
-        "trend": "diet wellness",
+        "trend": "struggle contain virus",
         "market_code": "KR",
-        "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "category": "Outbreaks",
+        "score": 8,
+        "examples": [
+          "Congo's Ebola outbreak has recorded over 4,000 deaths as authorities struggle to contain the virus - ABC News - Breaking News, Latest News and Videos",
+          "Congo's Ebola outbreak records more than 4,000 deaths as authorities struggle to contain the virus - ClickOnDetroit | WDIV Local 4",
+          "Congo's Ebola outbreak records more than 4,000 deaths as authorities struggle to contain the virus - AP News"
+        ]
       }
     ],
     "India": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "IN",
         "category": "Asia Health",
-        "score": 1,
-        "examples": []
+        "score": 76,
+        "examples": [
+          "Menopause is a major health milestone, yet health records barely track it - new research - The Hindu",
+          "Menopause is a major health milestone, yet health records barely track it - new research - The Hindu",
+          "New WHO estimates show changing global health landscape - World Health Organization (WHO)"
+        ]
       },
       {
-        "trend": "outbreak",
+        "trend": "medical",
         "market_code": "IN",
-        "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "category": "Asia Health",
+        "score": 16,
+        "examples": [
+          "IAEA Medical Assistance Supports Ukraine’s Nuclear Workers - International Atomic Energy Agency",
+          "Feasibility and expert evaluation of a medical large language model in an interdisciplinary clinical board - Nature",
+          "Chandigarh administrator seeks Rs 2,000 crore for regional medical hub - Medical Dialogues"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "IN",
+        "category": "Mental Health",
+        "score": 12,
+        "examples": [
+          "The mental health of politicians is a critical issue - we should all care - The Conversation",
+          "The mental health of politicians is a critical issue - we should all care - The Conversation",
+          "Teenager Facing Mental Health Issues Kills Mother In UP; Police Begin Probe - ETV Bharat"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "IN",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
+        "score": 12,
+        "examples": [
+          "The mental health of politicians is a critical issue - we should all care - The Conversation",
+          "The mental health of politicians is a critical issue - we should all care - The Conversation",
+          "Teenager Facing Mental Health Issues Kills Mother In UP; Police Begin Probe - ETV Bharat"
+        ]
       },
       {
-        "trend": "medical research",
+        "trend": "outbreak",
+        "market_code": "IN",
+        "category": "Outbreaks",
+        "score": 12,
+        "examples": [
+          "Global Health Security Warnings Grow Amid Ebola Outbreak - ShiaWaves",
+          "Congo’s Ebola outbreak records more than 4,000 deaths - The Hindu",
+          "Tracing a Mysterious Rabies Outbreak to a Surprising Source - National Geographic"
+        ]
+      },
+      {
+        "trend": "warning",
         "market_code": "IN",
         "category": "Asia Health",
-        "score": 1,
-        "examples": []
+        "score": 10,
+        "examples": [
+          "Reframing epidemic early warning: toward AI-native decision intelligence for public health governance - Nature",
+          "Heart risks emerge early among young employees as 58.5% under 35 show warning signs: Report - Firstpost",
+          "Clubhouse Hazard? PETA Health Warning Hits Phoenix-Area Golf Carts - People for the Ethical Treatment of Animals (PETA)"
+        ]
       },
       {
-        "trend": "drug approval",
+        "trend": "healthcare",
         "market_code": "IN",
-        "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
+        "category": "Asia Health",
+        "score": 9,
+        "examples": [
+          "GE HealthCare to explore applying generative AI to radiation therapy workflows - MedTech Dive",
+          "Building a Competitive Advantage in the Healthcare AI Market - Harvard Business Review",
+          "AI And Quantum Tech Will Transform Healthcare And Medical Research - Forbes"
+        ]
       },
       {
-        "trend": "diet wellness",
+        "trend": "research",
         "market_code": "IN",
-        "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "category": "Asia Health",
+        "score": 6,
+        "examples": [
+          "Menopause is a major health milestone, yet health records barely track it - new research - The Hindu",
+          "Research uncovers how bacteria fight viruses, opening the door to better virus-based antibiotics - EurekAlert! Science News Releases",
+          "Young patient shines a light on mental health impact of kidney disease - Kidney Research UK"
+        ]
+      },
+      {
+        "trend": "global health",
+        "market_code": "IN",
+        "category": "Asia Health",
+        "score": 6,
+        "examples": [
+          "New WHO estimates show changing global health landscape - World Health Organization (WHO)",
+          "Global Health Leaders to Convene at Abu Dhabi Future Health Summit 2026 - afp.com",
+          "Global warming, global health risks - Nationale Akademie der Wissenschaften Leopoldina"
+        ]
+      },
+      {
+        "trend": "world health",
+        "market_code": "IN",
+        "category": "Asia Health",
+        "score": 6,
+        "examples": [
+          "New WHO estimates show changing global health landscape - World Health Organization (WHO)",
+          "The top 10 causes of death - World Health Organization (WHO)",
+          "New WHO estimates show changing global health landscape - World Health Organization (WHO)"
+        ]
+      },
+      {
+        "trend": "health organization",
+        "market_code": "IN",
+        "category": "Asia Health",
+        "score": 6,
+        "examples": [
+          "New WHO estimates show changing global health landscape - World Health Organization (WHO)",
+          "The top 10 causes of death - World Health Organization (WHO)",
+          "New WHO estimates show changing global health landscape - World Health Organization (WHO)"
+        ]
+      },
+      {
+        "trend": "world health organization",
+        "market_code": "IN",
+        "category": "Asia Health",
+        "score": 6,
+        "examples": [
+          "New WHO estimates show changing global health landscape - World Health Organization (WHO)",
+          "The top 10 causes of death - World Health Organization (WHO)",
+          "New WHO estimates show changing global health landscape - World Health Organization (WHO)"
+        ]
       }
     ],
     "Australia": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "AU",
         "category": "Global Health",
-        "score": 1,
-        "examples": []
+        "score": 76,
+        "examples": [
+          "New WHO estimates show changing global health landscape - World Health Organization (WHO)",
+          "New WHO estimates show changing global health landscape - World Health Organization (WHO)",
+          "National Medicines Symposium 2026 - Australian Government Department of Health, Disability and Ageing"
+        ]
       },
       {
-        "trend": "outbreak",
+        "trend": "mental",
         "market_code": "AU",
-        "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "category": "Mental Health",
+        "score": 21,
+        "examples": [
+          "The mental health of politicians is a critical issue - we should all care - The Conversation",
+          "Mental Health Month: When people feel they belong, everyone benefits - Western Australian Government",
+          "Mental health watchdog secretly puts a line through vital investigations - The Age"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "AU",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
+        "score": 21,
+        "examples": [
+          "The mental health of politicians is a critical issue - we should all care - The Conversation",
+          "Mental Health Month: When people feel they belong, everyone benefits - Western Australian Government",
+          "Mental health watchdog secretly puts a line through vital investigations - The Age"
+        ]
       },
       {
-        "trend": "medical research",
+        "trend": "medical",
         "market_code": "AU",
         "category": "Global Health",
-        "score": 1,
-        "examples": []
+        "score": 15,
+        "examples": [
+          "Pilot Medical Update – Braydon Trindall - Cronulla Sharks",
+          "Watson learns Grand Final fate after medical tests - SEN",
+          "Christa Pike: Tennessee woman in medical care after failed execution - thenightly.com.au"
+        ]
       },
       {
-        "trend": "drug approval",
+        "trend": "outbreak",
+        "market_code": "AU",
+        "category": "Outbreaks",
+        "score": 15,
+        "examples": [
+          "Global Health Security Warnings Grow Amid Ebola Outbreak - ShiaWaves",
+          "Congo's Ebola outbreak records more than 4000 deaths - The Canberra Times",
+          "Tracing a Mysterious Rabies Outbreak to a Surprising Source - National Geographic"
+        ]
+      },
+      {
+        "trend": "ebola outbreak",
+        "market_code": "AU",
+        "category": "Outbreaks",
+        "score": 11,
+        "examples": [
+          "Global Health Security Warnings Grow Amid Ebola Outbreak - ShiaWaves",
+          "Congo's Ebola outbreak records more than 4000 deaths - The Canberra Times",
+          "Congo's Ebola outbreak has killed more than 4,000, government data shows - Reuters"
+        ]
+      },
+      {
+        "trend": "virus",
+        "market_code": "AU",
+        "category": "Outbreaks",
+        "score": 11,
+        "examples": [
+          "Congo's Ebola outbreak records more than 4,000 deaths as authorities struggle to contain the virus - ClickOnDetroit | WDIV Local 4",
+          "Congo's Ebola outbreak records more than 4,000 deaths as authorities struggle to contain the virus - 巴士的報",
+          "Congo's Ebola outbreak records more than 4,000 deaths as authorities struggle to contain the virus - WKMG"
+        ]
+      },
+      {
+        "trend": "warning",
+        "market_code": "AU",
+        "category": "Global Health",
+        "score": 10,
+        "examples": [
+          "Reframing epidemic early warning: toward AI-native decision intelligence for public health governance - Nature",
+          "Clubhouse Hazard? PETA Health Warning Hits Phoenix-Area Golf Carts - People for the Ethical Treatment of Animals (PETA)",
+          "Warning On Quality Of Rainwater - Mirage News"
+        ]
+      },
+      {
+        "trend": "congo ebola outbreak",
+        "market_code": "AU",
+        "category": "Outbreaks",
+        "score": 10,
+        "examples": [
+          "Congo's Ebola outbreak records more than 4000 deaths - The Canberra Times",
+          "Congo's Ebola outbreak has killed more than 4,000, government data shows - Reuters",
+          "More than 4,000 deaths recorded in DR Congo Ebola outbreak - Sky News"
+        ]
+      },
+      {
+        "trend": "health alert",
+        "market_code": "AU",
+        "category": "Global Health",
+        "score": 7,
+        "examples": [
+          "Health alert issued as two hunters in ICU as rare infection strikes NT - NT News",
+          "Extreme Heat Warning Health Alert Issued for Santa Barbara County - The Santa Barbara Independent",
+          "Health alert issued as two hunters in ICU as rare infection strikes NT - NT News"
+        ]
+      },
+      {
+        "trend": "clinical",
+        "market_code": "AU",
+        "category": "Global Health",
+        "score": 6,
+        "examples": [
+          "Feasibility and expert evaluation of a medical large language model in an interdisciplinary clinical board - Nature",
+          "Calidi's Study Aims To Have An Oncolytic Virus Outsmart The Immune System - Clinical Leader",
+          "Moderna begins Phase 1 clinical trial of Ebola vaccine against strain behind DRC outbreak - ABC News - Breaking News, Latest News and Videos"
+        ]
+      },
+      {
+        "trend": "treatment",
         "market_code": "AU",
         "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
-      },
-      {
-        "trend": "diet wellness",
-        "market_code": "AU",
-        "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "score": 6,
+        "examples": [
+          "Clubhouse Hazard? PETA Health Warning Hits Phoenix-Area Golf Carts - People for the Ethical Treatment of Animals (PETA)",
+          "Clubhouse Hazard? PETA Health Warning Hits Phoenix-Area Golf Carts - People for the Ethical Treatment of Animals (PETA)",
+          "GUIDE-AI: A European initiative to bring guideline-directed medical treatment into the age of AI - Open Access Government"
+        ]
       }
     ],
     "Canada": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "CA",
         "category": "Global Health",
-        "score": 1,
-        "examples": []
+        "score": 69,
+        "examples": [
+          "New WHO estimates show changing global health landscape - World Health Organization (WHO)",
+          "New WHO estimates show changing global health landscape - World Health Organization (WHO)",
+          "Bringing Quality Health Care Closer to Home: Provincial Government Highlights Expansion of Long-Term Care Beds in Corner Brook - Government of Newfoundland and Labrador"
+        ]
+      },
+      {
+        "trend": "medical",
+        "market_code": "CA",
+        "category": "Global Health",
+        "score": 18,
+        "examples": [
+          "IAEA Medical Assistance Supports Ukraine’s Nuclear Workers - International Atomic Energy Agency",
+          "New Medical Arts Building Aims to Bring More Healthcare Services to Stouffville - Bullet Point News Stouffville",
+          "Medical Facilities (TSX:DR) Stock: Two Surgical Hospitals, No Corporate Debt and a 2.38% Dividend Paid Out of Just 22% of Cash - kalkine.ca"
+        ]
       },
       {
         "trend": "outbreak",
         "market_code": "CA",
         "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "score": 14,
+        "examples": [
+          "Outbreak of gastrointestinal illness linked to southeast Calgary restaurant: AHS - CTV News",
+          "Congo's Ebola outbreak records more than 4,000 deaths as authorities struggle to contain the virus - Toronto Star",
+          "Gastrointestinal illness outbreak at Calgary restaurant under investigation: AHS - cbc.ca"
+        ]
+      },
+      {
+        "trend": "healthcare",
+        "market_code": "CA",
+        "category": "Global Health",
+        "score": 12,
+        "examples": [
+          "Healthcare foundation highlights expanded role at first annual meeting - PortageOnline",
+          "New Medical Arts Building Aims to Bring More Healthcare Services to Stouffville - Bullet Point News Stouffville",
+          "AI And Quantum Tech Will Transform Healthcare And Medical Research - ca.news.yahoo.com"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "CA",
+        "category": "Mental Health",
+        "score": 12,
+        "examples": [
+          "The mental health of politicians is a critical issue - we should all care - The Conversation",
+          "Fear, Mistrust, and Harm in Police-Involved Mental Health Crises - Mad In America",
+          "Health ministers say Ottawa needs to renew mental health, home care funding - Toronto Star"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "CA",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
+        "score": 12,
+        "examples": [
+          "The mental health of politicians is a critical issue - we should all care - The Conversation",
+          "Fear, Mistrust, and Harm in Police-Involved Mental Health Crises - Mad In America",
+          "Health ministers say Ottawa needs to renew mental health, home care funding - Toronto Star"
+        ]
       },
       {
-        "trend": "medical research",
+        "trend": "warning",
         "market_code": "CA",
         "category": "Global Health",
-        "score": 1,
-        "examples": []
+        "score": 10,
+        "examples": [
+          "Clubhouse Hazard? PETA Health Warning Hits Phoenix-Area Golf Carts - People for the Ethical Treatment of Animals (PETA)",
+          "Reframing epidemic early warning: toward AI-native decision intelligence for public health governance - Nature",
+          "Extreme Heat Warning Health Alert Issued for Santa Barbara County - The Santa Barbara Independent"
+        ]
       },
       {
-        "trend": "drug approval",
+        "trend": "virus",
         "market_code": "CA",
-        "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
+        "category": "Outbreaks",
+        "score": 10,
+        "examples": [
+          "Congo's Ebola outbreak records more than 4,000 deaths as authorities struggle to contain the virus - Toronto Star",
+          "Congo's Ebola outbreak has recorded over 4,000 deaths as authorities struggle to contain the virus - ABC News - Breaking News, Latest News and Videos",
+          "Congo's Ebola outbreak records more than 4,000 deaths as authorities struggle to contain the virus - ClickOnDetroit | WDIV Local 4"
+        ]
       },
       {
-        "trend": "diet wellness",
+        "trend": "ebola outbreak",
         "market_code": "CA",
-        "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "Congo's Ebola outbreak records more than 4,000 deaths as authorities struggle to contain the virus - Toronto Star",
+          "Congo's Ebola outbreak has recorded over 4,000 deaths as authorities struggle to contain the virus - ABC News - Breaking News, Latest News and Videos",
+          "Congo's Ebola outbreak has killed more than 4,000, government data shows - Reuters"
+        ]
+      },
+      {
+        "trend": "congo ebola outbreak",
+        "market_code": "CA",
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "Congo's Ebola outbreak records more than 4,000 deaths as authorities struggle to contain the virus - Toronto Star",
+          "Congo's Ebola outbreak has recorded over 4,000 deaths as authorities struggle to contain the virus - ABC News - Breaking News, Latest News and Videos",
+          "Congo's Ebola outbreak has killed more than 4,000, government data shows - Reuters"
+        ]
+      },
+      {
+        "trend": "health care",
+        "market_code": "CA",
+        "category": "Global Health",
+        "score": 8,
+        "examples": [
+          "Bringing Quality Health Care Closer to Home: Provincial Government Highlights Expansion of Long-Term Care Beds in Corner Brook - Government of Newfoundland and Labrador",
+          "Opinion: Protecting our sovereignty means protecting our public health care - Calgary Herald",
+          "Health Care Workers Are Tired of Cleaning Up Palantir’s Mess - WIRED"
+        ]
+      },
+      {
+        "trend": "clinical",
+        "market_code": "CA",
+        "category": "Global Health",
+        "score": 6,
+        "examples": [
+          "Feasibility and expert evaluation of a medical large language model in an interdisciplinary clinical board - Nature",
+          "Calidi's Study Aims To Have An Oncolytic Virus Outsmart The Immune System - Clinical Leader",
+          "How AI Is Helping Match Patients to Clinical Trials Faster - pfizer.com"
+        ]
       }
     ],
     "United Arab Emirates": [
@@ -711,132 +2151,132 @@
         "trend": "health",
         "market_code": "AE",
         "category": "Arab Health",
-        "score": 27,
+        "score": 78,
         "examples": [
-          "Are Low-Carb Diets Wrecking Your Workouts? Look Out for This Clear Sign You Need Carbs - Yahoo Health",
-          "5 Vegetables High in Calcium for Stronger Bones - health.com",
-          "Employers increasingly tie digital health payments to outcomes, PHTI survey finds - Fierce Healthcare"
+          "People who walk more or walk faster live longer, study finds - Harvard Health",
+          "New WHO estimates show changing global health landscape - World Health Organization (WHO)",
+          "New WHO estimates show changing global health landscape - World Health Organization (WHO)"
         ]
       },
       {
-        "trend": "healthcare",
+        "trend": "outbreak",
         "market_code": "AE",
-        "category": "Arab Health",
-        "score": 8,
+        "category": "Outbreaks",
+        "score": 16,
         "examples": [
-          "GE HealthCare to explore applying generative AI to radiation therapy workflows - medtechdive.com",
-          "Employers increasingly tie digital health payments to outcomes, PHTI survey finds - Fierce Healthcare",
-          "AI And Quantum Tech Will Transform Healthcare And Medical Research - Forbes"
+          "Health officials confirm mumps outbreak in San Diego - NBC News",
+          "Congo's Ebola outbreak has killed more than 4,000, government data shows - Reuters",
+          "Congo's Ebola outbreak has recorded over 4,000 deaths as authorities struggle to contain the virus - ABC News - Breaking News, Latest News and Videos"
         ]
       },
       {
         "trend": "medical",
         "market_code": "AE",
         "category": "Arab Health",
-        "score": 6,
+        "score": 16,
         "examples": [
-          "‘Listen to your body’: Intuitive eating - The Medical University of South Carolina",
-          "AI And Quantum Tech Will Transform Healthcare And Medical Research - Forbes",
-          "MedVidU Challenge Draws Teams to Advance Healthcare AI - Medical Device and Diagnostic industry"
+          "3 Dead in Medical Helicopter Crash Near California Coast - The New York Times",
+          "Christa Pike is alive and receiving life-saving medical care after surviving 2 lethal injections, attorney says - Yahoo",
+          "Feasibility and expert evaluation of a medical large language model in an interdisciplinary clinical board - Nature"
         ]
       },
       {
-        "trend": "clinical",
+        "trend": "virus",
+        "market_code": "AE",
+        "category": "Outbreaks",
+        "score": 15,
+        "examples": [
+          "Congo's Ebola outbreak has recorded over 4,000 deaths as authorities struggle to contain the virus - ABC News - Breaking News, Latest News and Videos",
+          "Congo's Ebola outbreak records more than 4,000 deaths as authorities struggle to contain the virus - ClickOnDetroit | WDIV Local 4",
+          "Congo's Ebola outbreak records more than 4,000 deaths as authorities struggle to contain the virus - AP News"
+        ]
+      },
+      {
+        "trend": "warning",
         "market_code": "AE",
         "category": "Arab Health",
-        "score": 6,
+        "score": 11,
         "examples": [
-          "Anthropic joins ARPA-H clinical AI moonshot, will hold closed-door health care event - STAT",
-          "Moderna begins Phase 1 clinical trial of Ebola vaccine against strain behind DRC outbreak - ABC News - Breaking News, Latest News and Videos",
-          "How AI Is Helping Match Patients to Clinical Trials Faster - Pfizer"
+          "Extreme Heat Warning Health Alert Issued for Santa Barbara County - independent.com",
+          "Clubhouse Hazard? PETA Health Warning Hits Phoenix-Area Golf Carts - People for the Ethical Treatment of Animals (PETA)",
+          "Santa Barbara County issues health alert during extreme heat warning - KSBY News"
         ]
       },
       {
-        "trend": "children",
+        "trend": "ebola outbreak",
         "market_code": "AE",
-        "category": "Children Health",
-        "score": 6,
+        "category": "Outbreaks",
+        "score": 11,
         "examples": [
-          "FDA Approves Gazyva to Help Prevent Kidney Disease Relapses in Adults and Children Aged 2 or Older - WebMD",
-          "Redefining and Delivering Mental Health Care - Children's Hospital Association",
-          "Children’s National at the 2026 American Academy of Pediatrics meeting - Children's National"
+          "Congo's Ebola outbreak has killed more than 4,000, government data shows - Reuters",
+          "Congo's Ebola outbreak has recorded over 4,000 deaths as authorities struggle to contain the virus - ABC News - Breaking News, Latest News and Videos",
+          "Congo's Ebola outbreak records more than 4,000 deaths as authorities struggle to contain the virus - ClickOnDetroit | WDIV Local 4"
         ]
       },
       {
-        "trend": "hospital",
+        "trend": "congo ebola outbreak",
         "market_code": "AE",
-        "category": "Arab Health",
-        "score": 5,
+        "category": "Outbreaks",
+        "score": 11,
         "examples": [
-          "Wellness Begins with Prevention - South Florida Hospital News",
-          "Health insurer points finger at AI as nearly $1 billion in questionable hospital charges appear - CNBC",
-          "Brian Grose, M.D., Joins Baptist Health Primary Care as a Family Medicine Physician - South Florida Hospital News"
+          "Congo's Ebola outbreak has killed more than 4,000, government data shows - Reuters",
+          "Congo's Ebola outbreak has recorded over 4,000 deaths as authorities struggle to contain the virus - ABC News - Breaking News, Latest News and Videos",
+          "Congo's Ebola outbreak records more than 4,000 deaths as authorities struggle to contain the virus - ClickOnDetroit | WDIV Local 4"
         ]
       },
       {
-        "trend": "disease",
+        "trend": "mental",
         "market_code": "AE",
-        "category": "Arab Health",
-        "score": 5,
+        "category": "Mental Health",
+        "score": 10,
         "examples": [
-          "Ulefnersen slows disease progression in Phase 3 ALS trial - Drug Discovery News",
-          "FDA Approves Gazyva to Help Prevent Kidney Disease Relapses in Adults and Children Aged 2 or Older - WebMD",
-          "Why cardiovascular disease became the leading cause of death among Hispanic individuals in the US - kera.org"
+          "Cubarsi urges young players to seek mental health support without fear of judgement - Reuters",
+          "Cubarsi urges young players to seek mental health support without fear of judgement - Reuters",
+          "Column: Diagnosing your peers isn’t real mental health support - The Daily Tar Heel"
         ]
       },
       {
-        "trend": "trial",
+        "trend": "mental health",
         "market_code": "AE",
-        "category": "Arab Health",
-        "score": 4,
+        "category": "Mental Health",
+        "score": 10,
         "examples": [
-          "Creatine's Muscle and Strength Benefits May Extend to Middle-Aged and Older Adults, Trial Finds - Nutritional Outlook",
-          "Moderna begins Phase 1 clinical trial of Ebola vaccine against strain behind DRC outbreak - ABC News - Breaking News, Latest News and Videos",
-          "Ulefnersen slows disease progression in Phase 3 ALS trial - Drug Discovery News"
+          "Cubarsi urges young players to seek mental health support without fear of judgement - Reuters",
+          "Cubarsi urges young players to seek mental health support without fear of judgement - Reuters",
+          "Column: Diagnosing your peers isn’t real mental health support - The Daily Tar Heel"
         ]
       },
       {
-        "trend": "nutritional",
-        "market_code": "AE",
-        "category": "Diet & Wellness",
-        "score": 4,
-        "examples": [
-          "Creatine's Muscle and Strength Benefits May Extend to Middle-Aged and Older Adults, Trial Finds - Nutritional Outlook",
-          "Nutritional Outlook Returns with the Second Annual \"The Outlook on Active Nutrition,\" Bringing Industry Leaders Together to Explore What's Next in Performance, Wellness, and Longevity | Nutritional Outlook - Supplement, Food & Beverage Manufacturing Tre - Nutritional Outlook",
-          "Nutritional Outlook Returns with the Second Annual \"The Outlook on Active Nutrition,\" Bringing Industry Leaders Together to Explore What's Next in Performance, Wellness, and Longevity | Nutritional Outlook - Supplement, Food & Beverage Manufacturing Tre - Nutritional Outlook"
-        ]
-      },
-      {
-        "trend": "nutritional outlook",
-        "market_code": "AE",
-        "category": "Diet & Wellness",
-        "score": 4,
-        "examples": [
-          "Creatine's Muscle and Strength Benefits May Extend to Middle-Aged and Older Adults, Trial Finds - Nutritional Outlook",
-          "Nutritional Outlook Returns with the Second Annual \"The Outlook on Active Nutrition,\" Bringing Industry Leaders Together to Explore What's Next in Performance, Wellness, and Longevity | Nutritional Outlook - Supplement, Food & Beverage Manufacturing Tre - Nutritional Outlook",
-          "Nutritional Outlook Returns with the Second Annual \"The Outlook on Active Nutrition,\" Bringing Industry Leaders Together to Explore What's Next in Performance, Wellness, and Longevity | Nutritional Outlook - Supplement, Food & Beverage Manufacturing Tre - Nutritional Outlook"
-        ]
-      },
-      {
-        "trend": "wellness",
-        "market_code": "AE",
-        "category": "Diet & Wellness",
-        "score": 4,
-        "examples": [
-          "Wellness Begins with Prevention - South Florida Hospital News",
-          "Low Sugar Protein Bars Market To 2035: Wellness and Convenience Drive Growth - News and Statistics - IndexBox",
-          "Advanced Amino Formula Reviews: Advanced BioNutritionals Launches Eight Essential Amino Acid Daily Tablet Supplement for Muscle and Energy Wellness in the U.S. - USA Today"
-        ]
-      },
-      {
-        "trend": "health care",
+        "trend": "healthcare",
         "market_code": "AE",
         "category": "Arab Health",
-        "score": 4,
+        "score": 9,
         "examples": [
-          "Anthropic joins ARPA-H clinical AI moonshot, will hold closed-door health care event - STAT",
-          "Hillside Health Announces Comprehensive Women's Health Care for Every Stage of Life - The Globe and Mail",
-          "Redefining and Delivering Mental Health Care - Children's Hospital Association"
+          "Wisconsin governor candidates offer opposing plans to address rising healthcare costs - WPR",
+          "Celebrating Hispanic Heritage Month and the Importance of Representation in Behavioral Healthcare - County of San Luis Obispo (.gov)",
+          "GE HealthCare to explore applying generative AI to radiation therapy workflows - MedTech Dive"
+        ]
+      },
+      {
+        "trend": "contain virus",
+        "market_code": "AE",
+        "category": "Outbreaks",
+        "score": 8,
+        "examples": [
+          "Congo's Ebola outbreak has recorded over 4,000 deaths as authorities struggle to contain the virus - ABC News - Breaking News, Latest News and Videos",
+          "Congo's Ebola outbreak records more than 4,000 deaths as authorities struggle to contain the virus - ClickOnDetroit | WDIV Local 4",
+          "Congo's Ebola outbreak records more than 4,000 deaths as authorities struggle to contain the virus - AP News"
+        ]
+      },
+      {
+        "trend": "struggle contain virus",
+        "market_code": "AE",
+        "category": "Outbreaks",
+        "score": 8,
+        "examples": [
+          "Congo's Ebola outbreak has recorded over 4,000 deaths as authorities struggle to contain the virus - ABC News - Breaking News, Latest News and Videos",
+          "Congo's Ebola outbreak records more than 4,000 deaths as authorities struggle to contain the virus - ClickOnDetroit | WDIV Local 4",
+          "Congo's Ebola outbreak records more than 4,000 deaths as authorities struggle to contain the virus - AP News"
         ]
       }
     ],
@@ -845,132 +2285,132 @@
         "trend": "health",
         "market_code": "SA",
         "category": "Arab Health",
-        "score": 72,
+        "score": 78,
         "examples": [
-          "Halfday Prebiotic Raspberry Iced Tea, 4pk | 6g of Fiber for Gut Health, 3g of Sugar, 35 Calories, Real Brewed Black Tea, Non-Carbonated, 50mg of Natural Caffeine - Whole Foods Market",
-          "October 8, 2026 - Florida Department of Health in Charlotte County (.gov)",
-          "Pacific Clinics Selected as New Provider for Nevada County Behavioral Health Crisis Services - Nevada County, CA (.gov)"
-        ]
-      },
-      {
-        "trend": "medical",
-        "market_code": "SA",
-        "category": "Arab Health",
-        "score": 14,
-        "examples": [
-          "2 Dead and 1 Missing in Medical Helicopter Crash Near California Coast - The New York Times",
-          "2 dead, 2 hurt and 1 missing after REACH medical helicopter crash off Catalina Island - KCRA",
-          "Christa Pike getting \"life-saving medical care\" after surviving Tennessee execution - Reuters"
-        ]
-      },
-      {
-        "trend": "warning",
-        "market_code": "SA",
-        "category": "Arab Health",
-        "score": 12,
-        "examples": [
-          "Extreme Heat Warning Health Alert Issued for Santa Barbara County - The Santa Barbara Independent",
-          "Extreme Heat Warning Health Alert Issued for Santa Barbara County - The Santa Barbara Independent",
-          "Santa Barbara County Health Department Issues Health Alert Due to Extreme Heat Warning - The Santa Barbara Independent"
+          "People who walk more or walk faster live longer, study finds - Harvard Health",
+          "New WHO estimates show changing global health landscape - World Health Organization (WHO)",
+          "New WHO estimates show changing global health landscape - World Health Organization (WHO)"
         ]
       },
       {
         "trend": "outbreak",
         "market_code": "SA",
         "category": "Outbreaks",
-        "score": 12,
+        "score": 16,
         "examples": [
-          "14 sickened in parasite outbreak linked to McMenamins pool - KPTV",
-          "Tornado outbreak across Kansas - NBC News",
-          "San Diego State football team dealing with mumps outbreak - ESPN"
+          "Health officials confirm mumps outbreak in San Diego - NBC News",
+          "Congo's Ebola outbreak has killed more than 4,000, government data shows - Reuters",
+          "Congo's Ebola outbreak has recorded over 4,000 deaths as authorities struggle to contain the virus - ABC News - Breaking News, Latest News and Videos"
         ]
       },
       {
-        "trend": "healthcare",
+        "trend": "medical",
+        "market_code": "SA",
+        "category": "Arab Health",
+        "score": 16,
+        "examples": [
+          "3 Dead in Medical Helicopter Crash Near California Coast - The New York Times",
+          "Christa Pike is alive and receiving life-saving medical care after surviving 2 lethal injections, attorney says - Yahoo",
+          "Feasibility and expert evaluation of a medical large language model in an interdisciplinary clinical board - Nature"
+        ]
+      },
+      {
+        "trend": "virus",
+        "market_code": "SA",
+        "category": "Outbreaks",
+        "score": 15,
+        "examples": [
+          "Congo's Ebola outbreak has recorded over 4,000 deaths as authorities struggle to contain the virus - ABC News - Breaking News, Latest News and Videos",
+          "Congo's Ebola outbreak records more than 4,000 deaths as authorities struggle to contain the virus - ClickOnDetroit | WDIV Local 4",
+          "Congo's Ebola outbreak records more than 4,000 deaths as authorities struggle to contain the virus - AP News"
+        ]
+      },
+      {
+        "trend": "warning",
         "market_code": "SA",
         "category": "Arab Health",
         "score": 11,
         "examples": [
-          "Celebrating Hispanic Heritage Month and the Importance of Representation in Behavioral Healthcare - County of San Luis Obispo (.gov)",
-          "Celebrating Hispanic Heritage Month and the Importance of Representation in Behavioral Healthcare - County of San Luis Obispo (.gov)",
-          "Spartanburg Regional Healthcare System expands access to youth mental health care with new Adolescent Behavioral Health Unit - discoverhealth.org"
+          "Extreme Heat Warning Health Alert Issued for Santa Barbara County - independent.com",
+          "Clubhouse Hazard? PETA Health Warning Hits Phoenix-Area Golf Carts - People for the Ethical Treatment of Animals (PETA)",
+          "Santa Barbara County issues health alert during extreme heat warning - KSBY News"
+        ]
+      },
+      {
+        "trend": "ebola outbreak",
+        "market_code": "SA",
+        "category": "Outbreaks",
+        "score": 11,
+        "examples": [
+          "Congo's Ebola outbreak has killed more than 4,000, government data shows - Reuters",
+          "Congo's Ebola outbreak has recorded over 4,000 deaths as authorities struggle to contain the virus - ABC News - Breaking News, Latest News and Videos",
+          "Congo's Ebola outbreak records more than 4,000 deaths as authorities struggle to contain the virus - ClickOnDetroit | WDIV Local 4"
+        ]
+      },
+      {
+        "trend": "congo ebola outbreak",
+        "market_code": "SA",
+        "category": "Outbreaks",
+        "score": 11,
+        "examples": [
+          "Congo's Ebola outbreak has killed more than 4,000, government data shows - Reuters",
+          "Congo's Ebola outbreak has recorded over 4,000 deaths as authorities struggle to contain the virus - ABC News - Breaking News, Latest News and Videos",
+          "Congo's Ebola outbreak records more than 4,000 deaths as authorities struggle to contain the virus - ClickOnDetroit | WDIV Local 4"
         ]
       },
       {
         "trend": "mental",
         "market_code": "SA",
         "category": "Mental Health",
-        "score": 11,
+        "score": 10,
         "examples": [
-          "Newly Signed Law Strengthens Mental Health Services for Incompetent Defendants - Riverside County District Attorney",
-          "Pope’s October prayer intention: ‘For mental health ministry’ - Vatican News",
-          "Pope’s October prayer intention: ‘For mental health ministry’ - Vatican News"
+          "Cubarsi urges young players to seek mental health support without fear of judgement - Reuters",
+          "Cubarsi urges young players to seek mental health support without fear of judgement - Reuters",
+          "Column: Diagnosing your peers isn’t real mental health support - The Daily Tar Heel"
         ]
       },
       {
         "trend": "mental health",
         "market_code": "SA",
         "category": "Mental Health",
-        "score": 11,
-        "examples": [
-          "Newly Signed Law Strengthens Mental Health Services for Incompetent Defendants - Riverside County District Attorney",
-          "Pope’s October prayer intention: ‘For mental health ministry’ - Vatican News",
-          "Pope’s October prayer intention: ‘For mental health ministry’ - Vatican News"
-        ]
-      },
-      {
-        "trend": "cancer",
-        "market_code": "SA",
-        "category": "Chronic Disease",
         "score": 10,
         "examples": [
-          "Researchers Just Found That Drinking Coffee This Way Could Increase Your Risk of Cancer - Women's Health",
-          "1 in 8 Cancer Cases Worldwide Are Due to Infections - Cancer Health",
-          "1 in 8 Cancer Cases Worldwide Are Due to Infections - Cancer Health"
+          "Cubarsi urges young players to seek mental health support without fear of judgement - Reuters",
+          "Cubarsi urges young players to seek mental health support without fear of judgement - Reuters",
+          "Column: Diagnosing your peers isn’t real mental health support - The Daily Tar Heel"
         ]
       },
       {
-        "trend": "public health",
+        "trend": "healthcare",
         "market_code": "SA",
         "category": "Arab Health",
-        "score": 8,
+        "score": 9,
         "examples": [
-          "First 5 San Bernardino and County Public Health featured on FOX 11 for National Child Passenger Safety Week - San Bernardino County (.gov)",
-          "Annual Maine Public Health Conference Focuses on Getting ‘Back to the Basics’ - WABI",
-          "School of Public Health Launches First School-Based Alumni Chapter - Samford University"
+          "Wisconsin governor candidates offer opposing plans to address rising healthcare costs - WPR",
+          "Celebrating Hispanic Heritage Month and the Importance of Representation in Behavioral Healthcare - County of San Luis Obispo (.gov)",
+          "GE HealthCare to explore applying generative AI to radiation therapy workflows - MedTech Dive"
         ]
       },
       {
-        "trend": "infection",
+        "trend": "contain virus",
         "market_code": "SA",
         "category": "Outbreaks",
-        "score": 7,
+        "score": 8,
         "examples": [
-          "Bellaire vs. Lamar football game canceled over staph infection cases - FOX 26 Houston",
-          "Infection Risk in Multiple Myeloma With Newer Therapies - Cancer Nursing Today",
-          "UPMC’s Genomic Surveillance Award Opens the Door to Funding Conversations - Infection Control Today"
+          "Congo's Ebola outbreak has recorded over 4,000 deaths as authorities struggle to contain the virus - ABC News - Breaking News, Latest News and Videos",
+          "Congo's Ebola outbreak records more than 4,000 deaths as authorities struggle to contain the virus - ClickOnDetroit | WDIV Local 4",
+          "Congo's Ebola outbreak records more than 4,000 deaths as authorities struggle to contain the virus - AP News"
         ]
       },
       {
-        "trend": "heat warning",
+        "trend": "struggle contain virus",
         "market_code": "SA",
-        "category": "Arab Health",
-        "score": 6,
+        "category": "Outbreaks",
+        "score": 8,
         "examples": [
-          "Extreme Heat Warning Health Alert Issued for Santa Barbara County - The Santa Barbara Independent",
-          "Extreme Heat Warning Health Alert Issued for Santa Barbara County - The Santa Barbara Independent",
-          "Santa Barbara County Health Department Issues Health Alert Due to Extreme Heat Warning - The Santa Barbara Independent"
-        ]
-      },
-      {
-        "trend": "health alert",
-        "market_code": "SA",
-        "category": "Arab Health",
-        "score": 6,
-        "examples": [
-          "Extreme Heat Warning Health Alert Issued for Santa Barbara County - The Santa Barbara Independent",
-          "Extreme Heat Warning Health Alert Issued for Santa Barbara County - The Santa Barbara Independent",
-          "Santa Barbara County Health Department Issues Health Alert Due to Extreme Heat Warning - The Santa Barbara Independent"
+          "Congo's Ebola outbreak has recorded over 4,000 deaths as authorities struggle to contain the virus - ABC News - Breaking News, Latest News and Videos",
+          "Congo's Ebola outbreak records more than 4,000 deaths as authorities struggle to contain the virus - ClickOnDetroit | WDIV Local 4",
+          "Congo's Ebola outbreak records more than 4,000 deaths as authorities struggle to contain the virus - AP News"
         ]
       }
     ],
@@ -979,132 +2419,132 @@
         "trend": "health",
         "market_code": "QA",
         "category": "Arab Health",
-        "score": 72,
+        "score": 78,
         "examples": [
-          "Halfday Prebiotic Raspberry Iced Tea, 4pk | 6g of Fiber for Gut Health, 3g of Sugar, 35 Calories, Real Brewed Black Tea, Non-Carbonated, 50mg of Natural Caffeine - Whole Foods Market",
-          "October 8, 2026 - Florida Department of Health in Charlotte County (.gov)",
-          "Pacific Clinics Selected as New Provider for Nevada County Behavioral Health Crisis Services - Nevada County, CA (.gov)"
-        ]
-      },
-      {
-        "trend": "medical",
-        "market_code": "QA",
-        "category": "Arab Health",
-        "score": 14,
-        "examples": [
-          "2 Dead and 1 Missing in Medical Helicopter Crash Near California Coast - The New York Times",
-          "2 dead, 2 hurt and 1 missing after REACH medical helicopter crash off Catalina Island - KCRA",
-          "Christa Pike getting \"life-saving medical care\" after surviving Tennessee execution - Reuters"
-        ]
-      },
-      {
-        "trend": "warning",
-        "market_code": "QA",
-        "category": "Arab Health",
-        "score": 12,
-        "examples": [
-          "Extreme Heat Warning Health Alert Issued for Santa Barbara County - The Santa Barbara Independent",
-          "Extreme Heat Warning Health Alert Issued for Santa Barbara County - The Santa Barbara Independent",
-          "Santa Barbara County Health Department Issues Health Alert Due to Extreme Heat Warning - The Santa Barbara Independent"
+          "People who walk more or walk faster live longer, study finds - Harvard Health",
+          "New WHO estimates show changing global health landscape - World Health Organization (WHO)",
+          "New WHO estimates show changing global health landscape - World Health Organization (WHO)"
         ]
       },
       {
         "trend": "outbreak",
         "market_code": "QA",
         "category": "Outbreaks",
-        "score": 12,
+        "score": 16,
         "examples": [
-          "14 sickened in parasite outbreak linked to McMenamins pool - KPTV",
-          "Tornado outbreak across Kansas - NBC News",
-          "San Diego State football team dealing with mumps outbreak - ESPN"
+          "Health officials confirm mumps outbreak in San Diego - NBC News",
+          "Congo's Ebola outbreak has killed more than 4,000, government data shows - Reuters",
+          "Congo's Ebola outbreak has recorded over 4,000 deaths as authorities struggle to contain the virus - ABC News - Breaking News, Latest News and Videos"
         ]
       },
       {
-        "trend": "healthcare",
+        "trend": "medical",
+        "market_code": "QA",
+        "category": "Arab Health",
+        "score": 16,
+        "examples": [
+          "3 Dead in Medical Helicopter Crash Near California Coast - The New York Times",
+          "Christa Pike is alive and receiving life-saving medical care after surviving 2 lethal injections, attorney says - Yahoo",
+          "Feasibility and expert evaluation of a medical large language model in an interdisciplinary clinical board - Nature"
+        ]
+      },
+      {
+        "trend": "virus",
+        "market_code": "QA",
+        "category": "Outbreaks",
+        "score": 15,
+        "examples": [
+          "Congo's Ebola outbreak has recorded over 4,000 deaths as authorities struggle to contain the virus - ABC News - Breaking News, Latest News and Videos",
+          "Congo's Ebola outbreak records more than 4,000 deaths as authorities struggle to contain the virus - ClickOnDetroit | WDIV Local 4",
+          "Congo's Ebola outbreak records more than 4,000 deaths as authorities struggle to contain the virus - AP News"
+        ]
+      },
+      {
+        "trend": "warning",
         "market_code": "QA",
         "category": "Arab Health",
         "score": 11,
         "examples": [
-          "Celebrating Hispanic Heritage Month and the Importance of Representation in Behavioral Healthcare - County of San Luis Obispo (.gov)",
-          "Celebrating Hispanic Heritage Month and the Importance of Representation in Behavioral Healthcare - County of San Luis Obispo (.gov)",
-          "Spartanburg Regional Healthcare System expands access to youth mental health care with new Adolescent Behavioral Health Unit - discoverhealth.org"
+          "Extreme Heat Warning Health Alert Issued for Santa Barbara County - independent.com",
+          "Clubhouse Hazard? PETA Health Warning Hits Phoenix-Area Golf Carts - People for the Ethical Treatment of Animals (PETA)",
+          "Santa Barbara County issues health alert during extreme heat warning - KSBY News"
+        ]
+      },
+      {
+        "trend": "ebola outbreak",
+        "market_code": "QA",
+        "category": "Outbreaks",
+        "score": 11,
+        "examples": [
+          "Congo's Ebola outbreak has killed more than 4,000, government data shows - Reuters",
+          "Congo's Ebola outbreak has recorded over 4,000 deaths as authorities struggle to contain the virus - ABC News - Breaking News, Latest News and Videos",
+          "Congo's Ebola outbreak records more than 4,000 deaths as authorities struggle to contain the virus - ClickOnDetroit | WDIV Local 4"
+        ]
+      },
+      {
+        "trend": "congo ebola outbreak",
+        "market_code": "QA",
+        "category": "Outbreaks",
+        "score": 11,
+        "examples": [
+          "Congo's Ebola outbreak has killed more than 4,000, government data shows - Reuters",
+          "Congo's Ebola outbreak has recorded over 4,000 deaths as authorities struggle to contain the virus - ABC News - Breaking News, Latest News and Videos",
+          "Congo's Ebola outbreak records more than 4,000 deaths as authorities struggle to contain the virus - ClickOnDetroit | WDIV Local 4"
         ]
       },
       {
         "trend": "mental",
         "market_code": "QA",
         "category": "Mental Health",
-        "score": 11,
+        "score": 10,
         "examples": [
-          "Newly Signed Law Strengthens Mental Health Services for Incompetent Defendants - Riverside County District Attorney",
-          "Pope’s October prayer intention: ‘For mental health ministry’ - Vatican News",
-          "Pope’s October prayer intention: ‘For mental health ministry’ - Vatican News"
+          "Cubarsi urges young players to seek mental health support without fear of judgement - Reuters",
+          "Cubarsi urges young players to seek mental health support without fear of judgement - Reuters",
+          "Column: Diagnosing your peers isn’t real mental health support - The Daily Tar Heel"
         ]
       },
       {
         "trend": "mental health",
         "market_code": "QA",
         "category": "Mental Health",
-        "score": 11,
-        "examples": [
-          "Newly Signed Law Strengthens Mental Health Services for Incompetent Defendants - Riverside County District Attorney",
-          "Pope’s October prayer intention: ‘For mental health ministry’ - Vatican News",
-          "Pope’s October prayer intention: ‘For mental health ministry’ - Vatican News"
-        ]
-      },
-      {
-        "trend": "cancer",
-        "market_code": "QA",
-        "category": "Chronic Disease",
         "score": 10,
         "examples": [
-          "Researchers Just Found That Drinking Coffee This Way Could Increase Your Risk of Cancer - Women's Health",
-          "1 in 8 Cancer Cases Worldwide Are Due to Infections - Cancer Health",
-          "1 in 8 Cancer Cases Worldwide Are Due to Infections - Cancer Health"
+          "Cubarsi urges young players to seek mental health support without fear of judgement - Reuters",
+          "Cubarsi urges young players to seek mental health support without fear of judgement - Reuters",
+          "Column: Diagnosing your peers isn’t real mental health support - The Daily Tar Heel"
         ]
       },
       {
-        "trend": "public health",
+        "trend": "healthcare",
         "market_code": "QA",
         "category": "Arab Health",
-        "score": 8,
+        "score": 9,
         "examples": [
-          "First 5 San Bernardino and County Public Health featured on FOX 11 for National Child Passenger Safety Week - San Bernardino County (.gov)",
-          "Annual Maine Public Health Conference Focuses on Getting ‘Back to the Basics’ - WABI",
-          "School of Public Health Launches First School-Based Alumni Chapter - Samford University"
+          "Wisconsin governor candidates offer opposing plans to address rising healthcare costs - WPR",
+          "Celebrating Hispanic Heritage Month and the Importance of Representation in Behavioral Healthcare - County of San Luis Obispo (.gov)",
+          "GE HealthCare to explore applying generative AI to radiation therapy workflows - MedTech Dive"
         ]
       },
       {
-        "trend": "infection",
+        "trend": "contain virus",
         "market_code": "QA",
         "category": "Outbreaks",
-        "score": 7,
+        "score": 8,
         "examples": [
-          "Bellaire vs. Lamar football game canceled over staph infection cases - FOX 26 Houston",
-          "Infection Risk in Multiple Myeloma With Newer Therapies - Cancer Nursing Today",
-          "UPMC’s Genomic Surveillance Award Opens the Door to Funding Conversations - Infection Control Today"
+          "Congo's Ebola outbreak has recorded over 4,000 deaths as authorities struggle to contain the virus - ABC News - Breaking News, Latest News and Videos",
+          "Congo's Ebola outbreak records more than 4,000 deaths as authorities struggle to contain the virus - ClickOnDetroit | WDIV Local 4",
+          "Congo's Ebola outbreak records more than 4,000 deaths as authorities struggle to contain the virus - AP News"
         ]
       },
       {
-        "trend": "heat warning",
+        "trend": "struggle contain virus",
         "market_code": "QA",
-        "category": "Arab Health",
-        "score": 6,
+        "category": "Outbreaks",
+        "score": 8,
         "examples": [
-          "Extreme Heat Warning Health Alert Issued for Santa Barbara County - The Santa Barbara Independent",
-          "Extreme Heat Warning Health Alert Issued for Santa Barbara County - The Santa Barbara Independent",
-          "Santa Barbara County Health Department Issues Health Alert Due to Extreme Heat Warning - The Santa Barbara Independent"
-        ]
-      },
-      {
-        "trend": "health alert",
-        "market_code": "QA",
-        "category": "Arab Health",
-        "score": 6,
-        "examples": [
-          "Extreme Heat Warning Health Alert Issued for Santa Barbara County - The Santa Barbara Independent",
-          "Extreme Heat Warning Health Alert Issued for Santa Barbara County - The Santa Barbara Independent",
-          "Santa Barbara County Health Department Issues Health Alert Due to Extreme Heat Warning - The Santa Barbara Independent"
+          "Congo's Ebola outbreak has recorded over 4,000 deaths as authorities struggle to contain the virus - ABC News - Breaking News, Latest News and Videos",
+          "Congo's Ebola outbreak records more than 4,000 deaths as authorities struggle to contain the virus - ClickOnDetroit | WDIV Local 4",
+          "Congo's Ebola outbreak records more than 4,000 deaths as authorities struggle to contain the virus - AP News"
         ]
       }
     ],
@@ -1113,132 +2553,132 @@
         "trend": "health",
         "market_code": "JO",
         "category": "Arab Health",
-        "score": 72,
+        "score": 78,
         "examples": [
-          "Halfday Prebiotic Raspberry Iced Tea, 4pk | 6g of Fiber for Gut Health, 3g of Sugar, 35 Calories, Real Brewed Black Tea, Non-Carbonated, 50mg of Natural Caffeine - Whole Foods Market",
-          "October 8, 2026 - Florida Department of Health in Charlotte County (.gov)",
-          "Pacific Clinics Selected as New Provider for Nevada County Behavioral Health Crisis Services - Nevada County, CA (.gov)"
-        ]
-      },
-      {
-        "trend": "medical",
-        "market_code": "JO",
-        "category": "Arab Health",
-        "score": 14,
-        "examples": [
-          "2 Dead and 1 Missing in Medical Helicopter Crash Near California Coast - The New York Times",
-          "2 dead, 2 hurt and 1 missing after REACH medical helicopter crash off Catalina Island - KCRA",
-          "Christa Pike getting \"life-saving medical care\" after surviving Tennessee execution - Reuters"
-        ]
-      },
-      {
-        "trend": "warning",
-        "market_code": "JO",
-        "category": "Arab Health",
-        "score": 12,
-        "examples": [
-          "Extreme Heat Warning Health Alert Issued for Santa Barbara County - The Santa Barbara Independent",
-          "Extreme Heat Warning Health Alert Issued for Santa Barbara County - The Santa Barbara Independent",
-          "Santa Barbara County Health Department Issues Health Alert Due to Extreme Heat Warning - The Santa Barbara Independent"
+          "People who walk more or walk faster live longer, study finds - Harvard Health",
+          "New WHO estimates show changing global health landscape - World Health Organization (WHO)",
+          "New WHO estimates show changing global health landscape - World Health Organization (WHO)"
         ]
       },
       {
         "trend": "outbreak",
         "market_code": "JO",
         "category": "Outbreaks",
-        "score": 12,
+        "score": 16,
         "examples": [
-          "14 sickened in parasite outbreak linked to McMenamins pool - KPTV",
-          "Tornado outbreak across Kansas - NBC News",
-          "San Diego State football team dealing with mumps outbreak - ESPN"
+          "Health officials confirm mumps outbreak in San Diego - NBC News",
+          "Congo's Ebola outbreak has killed more than 4,000, government data shows - Reuters",
+          "Congo's Ebola outbreak has recorded over 4,000 deaths as authorities struggle to contain the virus - ABC News - Breaking News, Latest News and Videos"
         ]
       },
       {
-        "trend": "healthcare",
+        "trend": "medical",
+        "market_code": "JO",
+        "category": "Arab Health",
+        "score": 16,
+        "examples": [
+          "3 Dead in Medical Helicopter Crash Near California Coast - The New York Times",
+          "Christa Pike is alive and receiving life-saving medical care after surviving 2 lethal injections, attorney says - Yahoo",
+          "Feasibility and expert evaluation of a medical large language model in an interdisciplinary clinical board - Nature"
+        ]
+      },
+      {
+        "trend": "virus",
+        "market_code": "JO",
+        "category": "Outbreaks",
+        "score": 15,
+        "examples": [
+          "Congo's Ebola outbreak has recorded over 4,000 deaths as authorities struggle to contain the virus - ABC News - Breaking News, Latest News and Videos",
+          "Congo's Ebola outbreak records more than 4,000 deaths as authorities struggle to contain the virus - ClickOnDetroit | WDIV Local 4",
+          "Congo's Ebola outbreak records more than 4,000 deaths as authorities struggle to contain the virus - AP News"
+        ]
+      },
+      {
+        "trend": "warning",
         "market_code": "JO",
         "category": "Arab Health",
         "score": 11,
         "examples": [
-          "Celebrating Hispanic Heritage Month and the Importance of Representation in Behavioral Healthcare - County of San Luis Obispo (.gov)",
-          "Celebrating Hispanic Heritage Month and the Importance of Representation in Behavioral Healthcare - County of San Luis Obispo (.gov)",
-          "Spartanburg Regional Healthcare System expands access to youth mental health care with new Adolescent Behavioral Health Unit - discoverhealth.org"
+          "Extreme Heat Warning Health Alert Issued for Santa Barbara County - independent.com",
+          "Clubhouse Hazard? PETA Health Warning Hits Phoenix-Area Golf Carts - People for the Ethical Treatment of Animals (PETA)",
+          "Santa Barbara County issues health alert during extreme heat warning - KSBY News"
+        ]
+      },
+      {
+        "trend": "ebola outbreak",
+        "market_code": "JO",
+        "category": "Outbreaks",
+        "score": 11,
+        "examples": [
+          "Congo's Ebola outbreak has killed more than 4,000, government data shows - Reuters",
+          "Congo's Ebola outbreak has recorded over 4,000 deaths as authorities struggle to contain the virus - ABC News - Breaking News, Latest News and Videos",
+          "Congo's Ebola outbreak records more than 4,000 deaths as authorities struggle to contain the virus - ClickOnDetroit | WDIV Local 4"
+        ]
+      },
+      {
+        "trend": "congo ebola outbreak",
+        "market_code": "JO",
+        "category": "Outbreaks",
+        "score": 11,
+        "examples": [
+          "Congo's Ebola outbreak has killed more than 4,000, government data shows - Reuters",
+          "Congo's Ebola outbreak has recorded over 4,000 deaths as authorities struggle to contain the virus - ABC News - Breaking News, Latest News and Videos",
+          "Congo's Ebola outbreak records more than 4,000 deaths as authorities struggle to contain the virus - ClickOnDetroit | WDIV Local 4"
         ]
       },
       {
         "trend": "mental",
         "market_code": "JO",
         "category": "Mental Health",
-        "score": 11,
+        "score": 10,
         "examples": [
-          "Newly Signed Law Strengthens Mental Health Services for Incompetent Defendants - Riverside County District Attorney",
-          "Pope’s October prayer intention: ‘For mental health ministry’ - Vatican News",
-          "Pope’s October prayer intention: ‘For mental health ministry’ - Vatican News"
+          "Cubarsi urges young players to seek mental health support without fear of judgement - Reuters",
+          "Cubarsi urges young players to seek mental health support without fear of judgement - Reuters",
+          "Column: Diagnosing your peers isn’t real mental health support - The Daily Tar Heel"
         ]
       },
       {
         "trend": "mental health",
         "market_code": "JO",
         "category": "Mental Health",
-        "score": 11,
-        "examples": [
-          "Newly Signed Law Strengthens Mental Health Services for Incompetent Defendants - Riverside County District Attorney",
-          "Pope’s October prayer intention: ‘For mental health ministry’ - Vatican News",
-          "Pope’s October prayer intention: ‘For mental health ministry’ - Vatican News"
-        ]
-      },
-      {
-        "trend": "cancer",
-        "market_code": "JO",
-        "category": "Chronic Disease",
         "score": 10,
         "examples": [
-          "Researchers Just Found That Drinking Coffee This Way Could Increase Your Risk of Cancer - Women's Health",
-          "1 in 8 Cancer Cases Worldwide Are Due to Infections - Cancer Health",
-          "1 in 8 Cancer Cases Worldwide Are Due to Infections - Cancer Health"
+          "Cubarsi urges young players to seek mental health support without fear of judgement - Reuters",
+          "Cubarsi urges young players to seek mental health support without fear of judgement - Reuters",
+          "Column: Diagnosing your peers isn’t real mental health support - The Daily Tar Heel"
         ]
       },
       {
-        "trend": "public health",
+        "trend": "healthcare",
         "market_code": "JO",
         "category": "Arab Health",
-        "score": 8,
+        "score": 9,
         "examples": [
-          "First 5 San Bernardino and County Public Health featured on FOX 11 for National Child Passenger Safety Week - San Bernardino County (.gov)",
-          "Annual Maine Public Health Conference Focuses on Getting ‘Back to the Basics’ - WABI",
-          "School of Public Health Launches First School-Based Alumni Chapter - Samford University"
+          "Wisconsin governor candidates offer opposing plans to address rising healthcare costs - WPR",
+          "Celebrating Hispanic Heritage Month and the Importance of Representation in Behavioral Healthcare - County of San Luis Obispo (.gov)",
+          "GE HealthCare to explore applying generative AI to radiation therapy workflows - MedTech Dive"
         ]
       },
       {
-        "trend": "infection",
+        "trend": "contain virus",
         "market_code": "JO",
         "category": "Outbreaks",
-        "score": 7,
+        "score": 8,
         "examples": [
-          "Bellaire vs. Lamar football game canceled over staph infection cases - FOX 26 Houston",
-          "Infection Risk in Multiple Myeloma With Newer Therapies - Cancer Nursing Today",
-          "UPMC’s Genomic Surveillance Award Opens the Door to Funding Conversations - Infection Control Today"
+          "Congo's Ebola outbreak has recorded over 4,000 deaths as authorities struggle to contain the virus - ABC News - Breaking News, Latest News and Videos",
+          "Congo's Ebola outbreak records more than 4,000 deaths as authorities struggle to contain the virus - ClickOnDetroit | WDIV Local 4",
+          "Congo's Ebola outbreak records more than 4,000 deaths as authorities struggle to contain the virus - AP News"
         ]
       },
       {
-        "trend": "heat warning",
+        "trend": "struggle contain virus",
         "market_code": "JO",
-        "category": "Arab Health",
-        "score": 6,
+        "category": "Outbreaks",
+        "score": 8,
         "examples": [
-          "Extreme Heat Warning Health Alert Issued for Santa Barbara County - The Santa Barbara Independent",
-          "Extreme Heat Warning Health Alert Issued for Santa Barbara County - The Santa Barbara Independent",
-          "Santa Barbara County Health Department Issues Health Alert Due to Extreme Heat Warning - The Santa Barbara Independent"
-        ]
-      },
-      {
-        "trend": "health alert",
-        "market_code": "JO",
-        "category": "Arab Health",
-        "score": 6,
-        "examples": [
-          "Extreme Heat Warning Health Alert Issued for Santa Barbara County - The Santa Barbara Independent",
-          "Extreme Heat Warning Health Alert Issued for Santa Barbara County - The Santa Barbara Independent",
-          "Santa Barbara County Health Department Issues Health Alert Due to Extreme Heat Warning - The Santa Barbara Independent"
+          "Congo's Ebola outbreak has recorded over 4,000 deaths as authorities struggle to contain the virus - ABC News - Breaking News, Latest News and Videos",
+          "Congo's Ebola outbreak records more than 4,000 deaths as authorities struggle to contain the virus - ClickOnDetroit | WDIV Local 4",
+          "Congo's Ebola outbreak records more than 4,000 deaths as authorities struggle to contain the virus - AP News"
         ]
       }
     ],
@@ -1247,132 +2687,132 @@
         "trend": "health",
         "market_code": "LB",
         "category": "Arab Health",
-        "score": 72,
+        "score": 78,
         "examples": [
-          "Halfday Prebiotic Raspberry Iced Tea, 4pk | 6g of Fiber for Gut Health, 3g of Sugar, 35 Calories, Real Brewed Black Tea, Non-Carbonated, 50mg of Natural Caffeine - Whole Foods Market",
-          "October 8, 2026 - Florida Department of Health in Charlotte County (.gov)",
-          "Pacific Clinics Selected as New Provider for Nevada County Behavioral Health Crisis Services - Nevada County, CA (.gov)"
-        ]
-      },
-      {
-        "trend": "medical",
-        "market_code": "LB",
-        "category": "Arab Health",
-        "score": 14,
-        "examples": [
-          "2 Dead and 1 Missing in Medical Helicopter Crash Near California Coast - The New York Times",
-          "2 dead, 2 hurt and 1 missing after REACH medical helicopter crash off Catalina Island - KCRA",
-          "Christa Pike getting \"life-saving medical care\" after surviving Tennessee execution - Reuters"
-        ]
-      },
-      {
-        "trend": "warning",
-        "market_code": "LB",
-        "category": "Arab Health",
-        "score": 12,
-        "examples": [
-          "Extreme Heat Warning Health Alert Issued for Santa Barbara County - The Santa Barbara Independent",
-          "Extreme Heat Warning Health Alert Issued for Santa Barbara County - The Santa Barbara Independent",
-          "Santa Barbara County Health Department Issues Health Alert Due to Extreme Heat Warning - The Santa Barbara Independent"
+          "People who walk more or walk faster live longer, study finds - Harvard Health",
+          "New WHO estimates show changing global health landscape - World Health Organization (WHO)",
+          "New WHO estimates show changing global health landscape - World Health Organization (WHO)"
         ]
       },
       {
         "trend": "outbreak",
         "market_code": "LB",
         "category": "Outbreaks",
-        "score": 12,
+        "score": 16,
         "examples": [
-          "14 sickened in parasite outbreak linked to McMenamins pool - KPTV",
-          "Tornado outbreak across Kansas - NBC News",
-          "San Diego State football team dealing with mumps outbreak - ESPN"
+          "Health officials confirm mumps outbreak in San Diego - NBC News",
+          "Congo's Ebola outbreak has killed more than 4,000, government data shows - Reuters",
+          "Congo's Ebola outbreak has recorded over 4,000 deaths as authorities struggle to contain the virus - ABC News - Breaking News, Latest News and Videos"
         ]
       },
       {
-        "trend": "healthcare",
+        "trend": "medical",
+        "market_code": "LB",
+        "category": "Arab Health",
+        "score": 16,
+        "examples": [
+          "3 Dead in Medical Helicopter Crash Near California Coast - The New York Times",
+          "Christa Pike is alive and receiving life-saving medical care after surviving 2 lethal injections, attorney says - Yahoo",
+          "Feasibility and expert evaluation of a medical large language model in an interdisciplinary clinical board - Nature"
+        ]
+      },
+      {
+        "trend": "virus",
+        "market_code": "LB",
+        "category": "Outbreaks",
+        "score": 15,
+        "examples": [
+          "Congo's Ebola outbreak has recorded over 4,000 deaths as authorities struggle to contain the virus - ABC News - Breaking News, Latest News and Videos",
+          "Congo's Ebola outbreak records more than 4,000 deaths as authorities struggle to contain the virus - ClickOnDetroit | WDIV Local 4",
+          "Congo's Ebola outbreak records more than 4,000 deaths as authorities struggle to contain the virus - AP News"
+        ]
+      },
+      {
+        "trend": "warning",
         "market_code": "LB",
         "category": "Arab Health",
         "score": 11,
         "examples": [
-          "Celebrating Hispanic Heritage Month and the Importance of Representation in Behavioral Healthcare - County of San Luis Obispo (.gov)",
-          "Celebrating Hispanic Heritage Month and the Importance of Representation in Behavioral Healthcare - County of San Luis Obispo (.gov)",
-          "Spartanburg Regional Healthcare System expands access to youth mental health care with new Adolescent Behavioral Health Unit - discoverhealth.org"
+          "Extreme Heat Warning Health Alert Issued for Santa Barbara County - independent.com",
+          "Clubhouse Hazard? PETA Health Warning Hits Phoenix-Area Golf Carts - People for the Ethical Treatment of Animals (PETA)",
+          "Santa Barbara County issues health alert during extreme heat warning - KSBY News"
+        ]
+      },
+      {
+        "trend": "ebola outbreak",
+        "market_code": "LB",
+        "category": "Outbreaks",
+        "score": 11,
+        "examples": [
+          "Congo's Ebola outbreak has killed more than 4,000, government data shows - Reuters",
+          "Congo's Ebola outbreak has recorded over 4,000 deaths as authorities struggle to contain the virus - ABC News - Breaking News, Latest News and Videos",
+          "Congo's Ebola outbreak records more than 4,000 deaths as authorities struggle to contain the virus - ClickOnDetroit | WDIV Local 4"
+        ]
+      },
+      {
+        "trend": "congo ebola outbreak",
+        "market_code": "LB",
+        "category": "Outbreaks",
+        "score": 11,
+        "examples": [
+          "Congo's Ebola outbreak has killed more than 4,000, government data shows - Reuters",
+          "Congo's Ebola outbreak has recorded over 4,000 deaths as authorities struggle to contain the virus - ABC News - Breaking News, Latest News and Videos",
+          "Congo's Ebola outbreak records more than 4,000 deaths as authorities struggle to contain the virus - ClickOnDetroit | WDIV Local 4"
         ]
       },
       {
         "trend": "mental",
         "market_code": "LB",
         "category": "Mental Health",
-        "score": 11,
+        "score": 10,
         "examples": [
-          "Newly Signed Law Strengthens Mental Health Services for Incompetent Defendants - Riverside County District Attorney",
-          "Pope’s October prayer intention: ‘For mental health ministry’ - Vatican News",
-          "Pope’s October prayer intention: ‘For mental health ministry’ - Vatican News"
+          "Cubarsi urges young players to seek mental health support without fear of judgement - Reuters",
+          "Cubarsi urges young players to seek mental health support without fear of judgement - Reuters",
+          "Column: Diagnosing your peers isn’t real mental health support - The Daily Tar Heel"
         ]
       },
       {
         "trend": "mental health",
         "market_code": "LB",
         "category": "Mental Health",
-        "score": 11,
-        "examples": [
-          "Newly Signed Law Strengthens Mental Health Services for Incompetent Defendants - Riverside County District Attorney",
-          "Pope’s October prayer intention: ‘For mental health ministry’ - Vatican News",
-          "Pope’s October prayer intention: ‘For mental health ministry’ - Vatican News"
-        ]
-      },
-      {
-        "trend": "cancer",
-        "market_code": "LB",
-        "category": "Chronic Disease",
         "score": 10,
         "examples": [
-          "Researchers Just Found That Drinking Coffee This Way Could Increase Your Risk of Cancer - Women's Health",
-          "1 in 8 Cancer Cases Worldwide Are Due to Infections - Cancer Health",
-          "1 in 8 Cancer Cases Worldwide Are Due to Infections - Cancer Health"
+          "Cubarsi urges young players to seek mental health support without fear of judgement - Reuters",
+          "Cubarsi urges young players to seek mental health support without fear of judgement - Reuters",
+          "Column: Diagnosing your peers isn’t real mental health support - The Daily Tar Heel"
         ]
       },
       {
-        "trend": "public health",
+        "trend": "healthcare",
         "market_code": "LB",
         "category": "Arab Health",
-        "score": 8,
+        "score": 9,
         "examples": [
-          "First 5 San Bernardino and County Public Health featured on FOX 11 for National Child Passenger Safety Week - San Bernardino County (.gov)",
-          "Annual Maine Public Health Conference Focuses on Getting ‘Back to the Basics’ - WABI",
-          "School of Public Health Launches First School-Based Alumni Chapter - Samford University"
+          "Wisconsin governor candidates offer opposing plans to address rising healthcare costs - WPR",
+          "Celebrating Hispanic Heritage Month and the Importance of Representation in Behavioral Healthcare - County of San Luis Obispo (.gov)",
+          "GE HealthCare to explore applying generative AI to radiation therapy workflows - MedTech Dive"
         ]
       },
       {
-        "trend": "infection",
+        "trend": "contain virus",
         "market_code": "LB",
         "category": "Outbreaks",
-        "score": 7,
+        "score": 8,
         "examples": [
-          "Bellaire vs. Lamar football game canceled over staph infection cases - FOX 26 Houston",
-          "Infection Risk in Multiple Myeloma With Newer Therapies - Cancer Nursing Today",
-          "UPMC’s Genomic Surveillance Award Opens the Door to Funding Conversations - Infection Control Today"
+          "Congo's Ebola outbreak has recorded over 4,000 deaths as authorities struggle to contain the virus - ABC News - Breaking News, Latest News and Videos",
+          "Congo's Ebola outbreak records more than 4,000 deaths as authorities struggle to contain the virus - ClickOnDetroit | WDIV Local 4",
+          "Congo's Ebola outbreak records more than 4,000 deaths as authorities struggle to contain the virus - AP News"
         ]
       },
       {
-        "trend": "heat warning",
+        "trend": "struggle contain virus",
         "market_code": "LB",
-        "category": "Arab Health",
-        "score": 6,
+        "category": "Outbreaks",
+        "score": 8,
         "examples": [
-          "Extreme Heat Warning Health Alert Issued for Santa Barbara County - The Santa Barbara Independent",
-          "Extreme Heat Warning Health Alert Issued for Santa Barbara County - The Santa Barbara Independent",
-          "Santa Barbara County Health Department Issues Health Alert Due to Extreme Heat Warning - The Santa Barbara Independent"
-        ]
-      },
-      {
-        "trend": "health alert",
-        "market_code": "LB",
-        "category": "Arab Health",
-        "score": 6,
-        "examples": [
-          "Extreme Heat Warning Health Alert Issued for Santa Barbara County - The Santa Barbara Independent",
-          "Extreme Heat Warning Health Alert Issued for Santa Barbara County - The Santa Barbara Independent",
-          "Santa Barbara County Health Department Issues Health Alert Due to Extreme Heat Warning - The Santa Barbara Independent"
+          "Congo's Ebola outbreak has recorded over 4,000 deaths as authorities struggle to contain the virus - ABC News - Breaking News, Latest News and Videos",
+          "Congo's Ebola outbreak records more than 4,000 deaths as authorities struggle to contain the virus - ClickOnDetroit | WDIV Local 4",
+          "Congo's Ebola outbreak records more than 4,000 deaths as authorities struggle to contain the virus - AP News"
         ]
       }
     ]
