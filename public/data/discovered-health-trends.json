@@ -1,929 +1,2819 @@
 {
-  "updated_at": "2026-10-05T03:17:00.560789+00:00",
-  "total_trends": 126,
+  "updated_at": "2026-10-05T12:47:33.462341+00:00",
+  "total_trends": 252,
   "markets": {
     "United States": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "US",
         "category": "US Health",
-        "score": 1,
-        "examples": []
+        "score": 67,
+        "examples": [
+          "From floating saunas to clinical trials: How heat might help mental health - NPR",
+          "Wake County to host community resource fair to support children's health, growth and well-being - wake.gov",
+          "Health Care Roundup: Market Talk - WSJ"
+        ]
       },
       {
-        "trend": "outbreak",
+        "trend": "medical",
         "market_code": "US",
-        "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "category": "US Health",
+        "score": 15,
+        "examples": [
+          "6 presumed dead after medical jet crashes off Nantucket - NBC News",
+          "Coast Guard finds debris from missing medical transport plane off Nantucket; search for 6 continues - abcnews.com",
+          "Video: Medical Plane Goes Missing Off Massachusetts Coast - The New York Times"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "US",
+        "category": "Mental Health",
+        "score": 14,
+        "examples": [
+          "From floating saunas to clinical trials: How heat might help mental health - NPR",
+          "Addressing vulnerabilities across the life course through a mental health in all policies approach - World Health Organization (WHO)",
+          "Sports betting is increasingly the norm for Gen Z. Here’s why some financial and mental health experts are worried - CNBC"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "US",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
+        "score": 13,
+        "examples": [
+          "From floating saunas to clinical trials: How heat might help mental health - NPR",
+          "Addressing vulnerabilities across the life course through a mental health in all policies approach - World Health Organization (WHO)",
+          "Sports betting is increasingly the norm for Gen Z. Here’s why some financial and mental health experts are worried - CNBC"
+        ]
       },
       {
-        "trend": "medical research",
+        "trend": "outbreak",
+        "market_code": "US",
+        "category": "Outbreaks",
+        "score": 13,
+        "examples": [
+          "DRC - Concept of Operations - Ebola Virus Disease (EVD) Outbreak, October 2026 - ReliefWeb",
+          "Scoop: White House monitors suspected plague outbreak in Russia - Axios",
+          "Leptospirosis vaccine call after California outbreak study - Vet Times"
+        ]
+      },
+      {
+        "trend": "healthcare",
         "market_code": "US",
         "category": "US Health",
-        "score": 1,
-        "examples": []
+        "score": 11,
+        "examples": [
+          "2026 HCD Conference + Expo Preview: Designing Community-based Public Health Campuses - Healthcare Design Magazine",
+          "GE HealthCare to explore applying generative AI to radiation therapy workflows - MedTech Dive",
+          "Building a Competitive Advantage in the Healthcare AI Market - Harvard Business Review"
+        ]
       },
       {
-        "trend": "drug approval",
+        "trend": "children",
         "market_code": "US",
-        "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
+        "category": "Children Health",
+        "score": 9,
+        "examples": [
+          "Wake County to host community resource fair to support children's health, growth and well-being - wake.gov",
+          "UT San Antonio Health Science Center study finds elevated levels of toxicants in teeth of children with autism - UT Health San Antonio",
+          "Wake County to host community resource fair to support children's health, growth and well-being - wake.gov"
+        ]
       },
       {
-        "trend": "diet wellness",
+        "trend": "virus",
         "market_code": "US",
-        "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "DRC - Concept of Operations - Ebola Virus Disease (EVD) Outbreak, October 2026 - ReliefWeb",
+          "DRC - Concept of Operations - Ebola Virus Disease (EVD) Outbreak, October 2026 - ReliefWeb",
+          "Long Beach child hospitalized with rare disease related to West Nile virus - KTLA"
+        ]
+      },
+      {
+        "trend": "disease",
+        "market_code": "US",
+        "category": "US Health",
+        "score": 8,
+        "examples": [
+          "DRC - Concept of Operations - Ebola Virus Disease (EVD) Outbreak, October 2026 - ReliefWeb",
+          "Russia on high alert after scientist dies of plague: What is this deadly disease? - Firstpost",
+          "DRC - Concept of Operations - Ebola Virus Disease (EVD) Outbreak, October 2026 - ReliefWeb"
+        ]
+      },
+      {
+        "trend": "health care",
+        "market_code": "US",
+        "category": "US Health",
+        "score": 7,
+        "examples": [
+          "Health Care Roundup: Market Talk - WSJ",
+          "On the ground in Syria: seeing health care through the people who deliver it - emro.who.int",
+          "Study says San Antonio's mental health care access is worst in the U.S. - San Antonio Express-News"
+        ]
+      },
+      {
+        "trend": "clinical",
+        "market_code": "US",
+        "category": "US Health",
+        "score": 6,
+        "examples": [
+          "From floating saunas to clinical trials: How heat might help mental health - NPR",
+          "From floating saunas to clinical trials: How heat might help mental health - NPR",
+          "From floating saunas to clinical trials: How heat might help mental health - KGOU"
+        ]
+      },
+      {
+        "trend": "medicine",
+        "market_code": "US",
+        "category": "US Health",
+        "score": 6,
+        "examples": [
+          "Patrick F. Szukics, D.O., Joins Baptist Health Orthopedic Care as Orthopedic Sports Medicine Surgeon - South Florida Hospital News",
+          "Digital alerts support timely treatment decisions of critically ill cardiac patients - Michigan Medicine",
+          "Exclusive | She was ready to die. Now she’s in remission — cancer vaccines could be the next big thing in medicine - New York Post"
+        ]
       }
     ],
     "United Kingdom": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "GB",
         "category": "Europe Health",
-        "score": 1,
-        "examples": []
+        "score": 53,
+        "examples": [
+          "Welsh men dying too young sparks call for a men's health strategy - BBC",
+          "Health services may be missing the link between alcohol problems and eating disorders, study suggests - Bournemouth University",
+          "QEH Health Play Specialist wins national Mentor of the Year award - QEH Media Hub"
+        ]
+      },
+      {
+        "trend": "healthcare",
+        "market_code": "GB",
+        "category": "Europe Health",
+        "score": 13,
+        "examples": [
+          "How the booming US healthcare economy is penalising patients - Financial Times",
+          "National award honour for Walsall Play Team - Walsall Healthcare NHS Trust",
+          "Steep Decline in School Nurse and Health Visitor Numbers Revealed - Healthcare Management Magazine"
+        ]
+      },
+      {
+        "trend": "medical",
+        "market_code": "GB",
+        "category": "Europe Health",
+        "score": 13,
+        "examples": [
+          "Contract incentives and behaviours of medical consultants in Ireland - Nature",
+          "Medical Cannabis UK Law in 2026: What’s Legal, What Isn’t and What Could Change - cannabishealthnews.co.uk",
+          "Vithas renews as Atlético de Madrid's Official Medical Services Partner for the 2026/27 season - Club Atlético de Madrid"
+        ]
       },
       {
         "trend": "outbreak",
         "market_code": "GB",
         "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "score": 13,
+        "examples": [
+          "Scoop: White House monitors suspected plague outbreak in Russia - Axios",
+          "MSF: North Kivu's Ebola outbreak spreading like a megafire as new hotspots multiply - prezly.msf.org.uk",
+          "White House 'assessing options' over Russian plague outbreak following death of lab technician who ‘broke bacteria-filled test tube’ - lbc.co.uk"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "GB",
+        "category": "Mental Health",
+        "score": 10,
+        "examples": [
+          "Addressing vulnerabilities across the life course through a mental health in all policies approach - World Health Organization (WHO)",
+          "Sports betting is increasingly the norm for Gen Z. Here’s why some financial and mental health experts are worried - CNBC",
+          "Addressing vulnerabilities across the life course through a mental health in all policies approach - World Health Organization (WHO)"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "GB",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
+        "score": 10,
+        "examples": [
+          "Addressing vulnerabilities across the life course through a mental health in all policies approach - World Health Organization (WHO)",
+          "Sports betting is increasingly the norm for Gen Z. Here’s why some financial and mental health experts are worried - CNBC",
+          "Addressing vulnerabilities across the life course through a mental health in all policies approach - World Health Organization (WHO)"
+        ]
       },
       {
-        "trend": "medical research",
+        "trend": "warning",
         "market_code": "GB",
         "category": "Europe Health",
-        "score": 1,
-        "examples": []
+        "score": 9,
+        "examples": [
+          "Shortages of crucial HIV medicines due to aid cuts are a ‘warning’, say experts - The Guardian",
+          "Warning Signs of Hypertrophic Cardiomyopathy (HCM) - health.clevelandclinic.org",
+          "FDA Advisory No.2026-1436 || Public Health Warning Against the Purchase and Use of the Unauthorized Cosmetic Product “MARIA LOURDES HEAVEN SOAP (KOJIC ACID)” - fda.gov.ph"
+        ]
       },
       {
-        "trend": "drug approval",
+        "trend": "virus",
         "market_code": "GB",
-        "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "DRC - Concept of Operations - Ebola Virus Disease (EVD) Outbreak, October 2026 - reliefweb.int",
+          "What is the 'Russian plague' virus? Smashed test tube causes hundreds to isolate: 5 symptoms to look out for - Cosmopolitan",
+          "Keeping researchers thinking: The case for ‘cognitive virus immunisation’ - Research Live"
+        ]
       },
       {
-        "trend": "diet wellness",
+        "trend": "plague outbreak",
+        "market_code": "GB",
+        "category": "Outbreaks",
+        "score": 7,
+        "examples": [
+          "Scoop: White House monitors suspected plague outbreak in Russia - Axios",
+          "White House 'assessing options' over Russian plague outbreak following death of lab technician who ‘broke bacteria-filled test tube’ - lbc.co.uk",
+          "Siberian industrial plant requires masks amid ‘plague’ outbreak fears - TVP World"
+        ]
+      },
+      {
+        "trend": "weight",
         "market_code": "GB",
         "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "score": 6,
+        "examples": [
+          "ultra-processed foods warning labels glp-1 weight loss drugs impact 2025 - polskieradio.pl",
+          "Creatine moves into weight management - FoodNavigator.com",
+          "Why Losing Weight Is Harder After Age 50 and What Experts Say Helps | Wellness - health.usnews.com"
+        ]
+      },
+      {
+        "trend": "disease",
+        "market_code": "GB",
+        "category": "Europe Health",
+        "score": 6,
+        "examples": [
+          "Russia on high alert after scientist dies of plague: What is this deadly disease? - Firstpost",
+          "DRC - Concept of Operations - Ebola Virus Disease (EVD) Outbreak, October 2026 - reliefweb.int",
+          "EU Statement on the foot and mouth disease outbreak in Namibia - European External Action Service (EEAS)"
+        ]
+      },
+      {
+        "trend": "trial",
+        "market_code": "GB",
+        "category": "Europe Health",
+        "score": 5,
+        "examples": [
+          "A full-cycle approach for co-producing trial research for treatment of eating disorders - Nature",
+          "Pregnant women invited to join groundbreaking global trial for GBS vaccine - National Health Executive",
+          "A full-cycle approach for co-producing trial research for treatment of eating disorders - Nature"
+        ]
       }
     ],
     "Germany": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "DE",
         "category": "Europe Health",
-        "score": 1,
-        "examples": []
+        "score": 67,
+        "examples": [
+          "From floating saunas to clinical trials: How heat might help mental health - NPR",
+          "Wake County to host community resource fair to support children's health, growth and well-being - wake.gov",
+          "Health Care Roundup: Market Talk - WSJ"
+        ]
       },
       {
-        "trend": "outbreak",
+        "trend": "medical",
         "market_code": "DE",
-        "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "category": "Europe Health",
+        "score": 15,
+        "examples": [
+          "6 presumed dead after medical jet crashes off Nantucket - NBC News",
+          "Coast Guard finds debris from missing medical transport plane off Nantucket; search for 6 continues - abcnews.com",
+          "Video: Medical Plane Goes Missing Off Massachusetts Coast - The New York Times"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "DE",
+        "category": "Mental Health",
+        "score": 14,
+        "examples": [
+          "From floating saunas to clinical trials: How heat might help mental health - NPR",
+          "Addressing vulnerabilities across the life course through a mental health in all policies approach - World Health Organization (WHO)",
+          "Sports betting is increasingly the norm for Gen Z. Here’s why some financial and mental health experts are worried - CNBC"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "DE",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
+        "score": 13,
+        "examples": [
+          "From floating saunas to clinical trials: How heat might help mental health - NPR",
+          "Addressing vulnerabilities across the life course through a mental health in all policies approach - World Health Organization (WHO)",
+          "Sports betting is increasingly the norm for Gen Z. Here’s why some financial and mental health experts are worried - CNBC"
+        ]
       },
       {
-        "trend": "medical research",
+        "trend": "outbreak",
+        "market_code": "DE",
+        "category": "Outbreaks",
+        "score": 13,
+        "examples": [
+          "DRC - Concept of Operations - Ebola Virus Disease (EVD) Outbreak, October 2026 - ReliefWeb",
+          "Scoop: White House monitors suspected plague outbreak in Russia - Axios",
+          "Leptospirosis vaccine call after California outbreak study - Vet Times"
+        ]
+      },
+      {
+        "trend": "healthcare",
         "market_code": "DE",
         "category": "Europe Health",
-        "score": 1,
-        "examples": []
+        "score": 11,
+        "examples": [
+          "2026 HCD Conference + Expo Preview: Designing Community-based Public Health Campuses - Healthcare Design Magazine",
+          "GE HealthCare to explore applying generative AI to radiation therapy workflows - MedTech Dive",
+          "Building a Competitive Advantage in the Healthcare AI Market - Harvard Business Review"
+        ]
       },
       {
-        "trend": "drug approval",
+        "trend": "children",
         "market_code": "DE",
-        "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
+        "category": "Children Health",
+        "score": 9,
+        "examples": [
+          "Wake County to host community resource fair to support children's health, growth and well-being - wake.gov",
+          "UT San Antonio Health Science Center study finds elevated levels of toxicants in teeth of children with autism - UT Health San Antonio",
+          "Wake County to host community resource fair to support children's health, growth and well-being - wake.gov"
+        ]
       },
       {
-        "trend": "diet wellness",
+        "trend": "virus",
         "market_code": "DE",
-        "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "DRC - Concept of Operations - Ebola Virus Disease (EVD) Outbreak, October 2026 - ReliefWeb",
+          "DRC - Concept of Operations - Ebola Virus Disease (EVD) Outbreak, October 2026 - ReliefWeb",
+          "Long Beach child hospitalized with rare disease related to West Nile virus - KTLA"
+        ]
+      },
+      {
+        "trend": "disease",
+        "market_code": "DE",
+        "category": "Europe Health",
+        "score": 8,
+        "examples": [
+          "DRC - Concept of Operations - Ebola Virus Disease (EVD) Outbreak, October 2026 - ReliefWeb",
+          "Russia on high alert after scientist dies of plague: What is this deadly disease? - Firstpost",
+          "DRC - Concept of Operations - Ebola Virus Disease (EVD) Outbreak, October 2026 - ReliefWeb"
+        ]
+      },
+      {
+        "trend": "health care",
+        "market_code": "DE",
+        "category": "Europe Health",
+        "score": 7,
+        "examples": [
+          "Health Care Roundup: Market Talk - WSJ",
+          "On the ground in Syria: seeing health care through the people who deliver it - emro.who.int",
+          "Study says San Antonio's mental health care access is worst in the U.S. - San Antonio Express-News"
+        ]
+      },
+      {
+        "trend": "clinical",
+        "market_code": "DE",
+        "category": "Europe Health",
+        "score": 6,
+        "examples": [
+          "From floating saunas to clinical trials: How heat might help mental health - NPR",
+          "From floating saunas to clinical trials: How heat might help mental health - NPR",
+          "From floating saunas to clinical trials: How heat might help mental health - KGOU"
+        ]
+      },
+      {
+        "trend": "medicine",
+        "market_code": "DE",
+        "category": "Europe Health",
+        "score": 6,
+        "examples": [
+          "Patrick F. Szukics, D.O., Joins Baptist Health Orthopedic Care as Orthopedic Sports Medicine Surgeon - South Florida Hospital News",
+          "Digital alerts support timely treatment decisions of critically ill cardiac patients - Michigan Medicine",
+          "Exclusive | She was ready to die. Now she’s in remission — cancer vaccines could be the next big thing in medicine - New York Post"
+        ]
       }
     ],
     "France": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "FR",
         "category": "Europe Health",
-        "score": 1,
-        "examples": []
+        "score": 67,
+        "examples": [
+          "From floating saunas to clinical trials: How heat might help mental health - NPR",
+          "Wake County to host community resource fair to support children's health, growth and well-being - wake.gov",
+          "Health Care Roundup: Market Talk - WSJ"
+        ]
       },
       {
-        "trend": "outbreak",
+        "trend": "medical",
         "market_code": "FR",
-        "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "category": "Europe Health",
+        "score": 15,
+        "examples": [
+          "6 presumed dead after medical jet crashes off Nantucket - NBC News",
+          "Coast Guard finds debris from missing medical transport plane off Nantucket; search for 6 continues - abcnews.com",
+          "Video: Medical Plane Goes Missing Off Massachusetts Coast - The New York Times"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "FR",
+        "category": "Mental Health",
+        "score": 14,
+        "examples": [
+          "From floating saunas to clinical trials: How heat might help mental health - NPR",
+          "Addressing vulnerabilities across the life course through a mental health in all policies approach - World Health Organization (WHO)",
+          "Sports betting is increasingly the norm for Gen Z. Here’s why some financial and mental health experts are worried - CNBC"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "FR",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
+        "score": 13,
+        "examples": [
+          "From floating saunas to clinical trials: How heat might help mental health - NPR",
+          "Addressing vulnerabilities across the life course through a mental health in all policies approach - World Health Organization (WHO)",
+          "Sports betting is increasingly the norm for Gen Z. Here’s why some financial and mental health experts are worried - CNBC"
+        ]
       },
       {
-        "trend": "medical research",
+        "trend": "outbreak",
+        "market_code": "FR",
+        "category": "Outbreaks",
+        "score": 13,
+        "examples": [
+          "DRC - Concept of Operations - Ebola Virus Disease (EVD) Outbreak, October 2026 - ReliefWeb",
+          "Scoop: White House monitors suspected plague outbreak in Russia - Axios",
+          "Leptospirosis vaccine call after California outbreak study - Vet Times"
+        ]
+      },
+      {
+        "trend": "healthcare",
         "market_code": "FR",
         "category": "Europe Health",
-        "score": 1,
-        "examples": []
+        "score": 11,
+        "examples": [
+          "2026 HCD Conference + Expo Preview: Designing Community-based Public Health Campuses - Healthcare Design Magazine",
+          "GE HealthCare to explore applying generative AI to radiation therapy workflows - MedTech Dive",
+          "Building a Competitive Advantage in the Healthcare AI Market - Harvard Business Review"
+        ]
       },
       {
-        "trend": "drug approval",
+        "trend": "children",
         "market_code": "FR",
-        "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
+        "category": "Children Health",
+        "score": 9,
+        "examples": [
+          "Wake County to host community resource fair to support children's health, growth and well-being - wake.gov",
+          "UT San Antonio Health Science Center study finds elevated levels of toxicants in teeth of children with autism - UT Health San Antonio",
+          "Wake County to host community resource fair to support children's health, growth and well-being - wake.gov"
+        ]
       },
       {
-        "trend": "diet wellness",
+        "trend": "virus",
         "market_code": "FR",
-        "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "DRC - Concept of Operations - Ebola Virus Disease (EVD) Outbreak, October 2026 - ReliefWeb",
+          "DRC - Concept of Operations - Ebola Virus Disease (EVD) Outbreak, October 2026 - ReliefWeb",
+          "Long Beach child hospitalized with rare disease related to West Nile virus - KTLA"
+        ]
+      },
+      {
+        "trend": "disease",
+        "market_code": "FR",
+        "category": "Europe Health",
+        "score": 8,
+        "examples": [
+          "DRC - Concept of Operations - Ebola Virus Disease (EVD) Outbreak, October 2026 - ReliefWeb",
+          "Russia on high alert after scientist dies of plague: What is this deadly disease? - Firstpost",
+          "DRC - Concept of Operations - Ebola Virus Disease (EVD) Outbreak, October 2026 - ReliefWeb"
+        ]
+      },
+      {
+        "trend": "health care",
+        "market_code": "FR",
+        "category": "Europe Health",
+        "score": 7,
+        "examples": [
+          "Health Care Roundup: Market Talk - WSJ",
+          "On the ground in Syria: seeing health care through the people who deliver it - emro.who.int",
+          "Study says San Antonio's mental health care access is worst in the U.S. - San Antonio Express-News"
+        ]
+      },
+      {
+        "trend": "clinical",
+        "market_code": "FR",
+        "category": "Europe Health",
+        "score": 6,
+        "examples": [
+          "From floating saunas to clinical trials: How heat might help mental health - NPR",
+          "From floating saunas to clinical trials: How heat might help mental health - NPR",
+          "From floating saunas to clinical trials: How heat might help mental health - KGOU"
+        ]
+      },
+      {
+        "trend": "medicine",
+        "market_code": "FR",
+        "category": "Europe Health",
+        "score": 6,
+        "examples": [
+          "Patrick F. Szukics, D.O., Joins Baptist Health Orthopedic Care as Orthopedic Sports Medicine Surgeon - South Florida Hospital News",
+          "Digital alerts support timely treatment decisions of critically ill cardiac patients - Michigan Medicine",
+          "Exclusive | She was ready to die. Now she’s in remission — cancer vaccines could be the next big thing in medicine - New York Post"
+        ]
       }
     ],
     "Italy": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "IT",
         "category": "Europe Health",
-        "score": 1,
-        "examples": []
+        "score": 67,
+        "examples": [
+          "From floating saunas to clinical trials: How heat might help mental health - NPR",
+          "Wake County to host community resource fair to support children's health, growth and well-being - wake.gov",
+          "Health Care Roundup: Market Talk - WSJ"
+        ]
       },
       {
-        "trend": "outbreak",
+        "trend": "medical",
         "market_code": "IT",
-        "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "category": "Europe Health",
+        "score": 15,
+        "examples": [
+          "6 presumed dead after medical jet crashes off Nantucket - NBC News",
+          "Coast Guard finds debris from missing medical transport plane off Nantucket; search for 6 continues - abcnews.com",
+          "Video: Medical Plane Goes Missing Off Massachusetts Coast - The New York Times"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "IT",
+        "category": "Mental Health",
+        "score": 14,
+        "examples": [
+          "From floating saunas to clinical trials: How heat might help mental health - NPR",
+          "Addressing vulnerabilities across the life course through a mental health in all policies approach - World Health Organization (WHO)",
+          "Sports betting is increasingly the norm for Gen Z. Here’s why some financial and mental health experts are worried - CNBC"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "IT",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
+        "score": 13,
+        "examples": [
+          "From floating saunas to clinical trials: How heat might help mental health - NPR",
+          "Addressing vulnerabilities across the life course through a mental health in all policies approach - World Health Organization (WHO)",
+          "Sports betting is increasingly the norm for Gen Z. Here’s why some financial and mental health experts are worried - CNBC"
+        ]
       },
       {
-        "trend": "medical research",
+        "trend": "outbreak",
+        "market_code": "IT",
+        "category": "Outbreaks",
+        "score": 13,
+        "examples": [
+          "DRC - Concept of Operations - Ebola Virus Disease (EVD) Outbreak, October 2026 - ReliefWeb",
+          "Scoop: White House monitors suspected plague outbreak in Russia - Axios",
+          "Leptospirosis vaccine call after California outbreak study - Vet Times"
+        ]
+      },
+      {
+        "trend": "healthcare",
         "market_code": "IT",
         "category": "Europe Health",
-        "score": 1,
-        "examples": []
+        "score": 11,
+        "examples": [
+          "2026 HCD Conference + Expo Preview: Designing Community-based Public Health Campuses - Healthcare Design Magazine",
+          "GE HealthCare to explore applying generative AI to radiation therapy workflows - MedTech Dive",
+          "Building a Competitive Advantage in the Healthcare AI Market - Harvard Business Review"
+        ]
       },
       {
-        "trend": "drug approval",
+        "trend": "children",
         "market_code": "IT",
-        "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
+        "category": "Children Health",
+        "score": 9,
+        "examples": [
+          "Wake County to host community resource fair to support children's health, growth and well-being - wake.gov",
+          "UT San Antonio Health Science Center study finds elevated levels of toxicants in teeth of children with autism - UT Health San Antonio",
+          "Wake County to host community resource fair to support children's health, growth and well-being - wake.gov"
+        ]
       },
       {
-        "trend": "diet wellness",
+        "trend": "virus",
         "market_code": "IT",
-        "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "DRC - Concept of Operations - Ebola Virus Disease (EVD) Outbreak, October 2026 - ReliefWeb",
+          "DRC - Concept of Operations - Ebola Virus Disease (EVD) Outbreak, October 2026 - ReliefWeb",
+          "Long Beach child hospitalized with rare disease related to West Nile virus - KTLA"
+        ]
+      },
+      {
+        "trend": "disease",
+        "market_code": "IT",
+        "category": "Europe Health",
+        "score": 8,
+        "examples": [
+          "DRC - Concept of Operations - Ebola Virus Disease (EVD) Outbreak, October 2026 - ReliefWeb",
+          "Russia on high alert after scientist dies of plague: What is this deadly disease? - Firstpost",
+          "DRC - Concept of Operations - Ebola Virus Disease (EVD) Outbreak, October 2026 - ReliefWeb"
+        ]
+      },
+      {
+        "trend": "health care",
+        "market_code": "IT",
+        "category": "Europe Health",
+        "score": 7,
+        "examples": [
+          "Health Care Roundup: Market Talk - WSJ",
+          "On the ground in Syria: seeing health care through the people who deliver it - emro.who.int",
+          "Study says San Antonio's mental health care access is worst in the U.S. - San Antonio Express-News"
+        ]
+      },
+      {
+        "trend": "clinical",
+        "market_code": "IT",
+        "category": "Europe Health",
+        "score": 6,
+        "examples": [
+          "From floating saunas to clinical trials: How heat might help mental health - NPR",
+          "From floating saunas to clinical trials: How heat might help mental health - NPR",
+          "From floating saunas to clinical trials: How heat might help mental health - KGOU"
+        ]
+      },
+      {
+        "trend": "medicine",
+        "market_code": "IT",
+        "category": "Europe Health",
+        "score": 6,
+        "examples": [
+          "Patrick F. Szukics, D.O., Joins Baptist Health Orthopedic Care as Orthopedic Sports Medicine Surgeon - South Florida Hospital News",
+          "Digital alerts support timely treatment decisions of critically ill cardiac patients - Michigan Medicine",
+          "Exclusive | She was ready to die. Now she’s in remission — cancer vaccines could be the next big thing in medicine - New York Post"
+        ]
       }
     ],
     "Spain": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "ES",
         "category": "Europe Health",
-        "score": 1,
-        "examples": []
+        "score": 67,
+        "examples": [
+          "From floating saunas to clinical trials: How heat might help mental health - NPR",
+          "Wake County to host community resource fair to support children's health, growth and well-being - wake.gov",
+          "Health Care Roundup: Market Talk - WSJ"
+        ]
       },
       {
-        "trend": "outbreak",
+        "trend": "medical",
         "market_code": "ES",
-        "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "category": "Europe Health",
+        "score": 15,
+        "examples": [
+          "6 presumed dead after medical jet crashes off Nantucket - NBC News",
+          "Coast Guard finds debris from missing medical transport plane off Nantucket; search for 6 continues - abcnews.com",
+          "Video: Medical Plane Goes Missing Off Massachusetts Coast - The New York Times"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "ES",
+        "category": "Mental Health",
+        "score": 14,
+        "examples": [
+          "From floating saunas to clinical trials: How heat might help mental health - NPR",
+          "Addressing vulnerabilities across the life course through a mental health in all policies approach - World Health Organization (WHO)",
+          "Sports betting is increasingly the norm for Gen Z. Here’s why some financial and mental health experts are worried - CNBC"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "ES",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
+        "score": 13,
+        "examples": [
+          "From floating saunas to clinical trials: How heat might help mental health - NPR",
+          "Addressing vulnerabilities across the life course through a mental health in all policies approach - World Health Organization (WHO)",
+          "Sports betting is increasingly the norm for Gen Z. Here’s why some financial and mental health experts are worried - CNBC"
+        ]
       },
       {
-        "trend": "medical research",
+        "trend": "outbreak",
+        "market_code": "ES",
+        "category": "Outbreaks",
+        "score": 13,
+        "examples": [
+          "DRC - Concept of Operations - Ebola Virus Disease (EVD) Outbreak, October 2026 - ReliefWeb",
+          "Scoop: White House monitors suspected plague outbreak in Russia - Axios",
+          "Leptospirosis vaccine call after California outbreak study - Vet Times"
+        ]
+      },
+      {
+        "trend": "healthcare",
         "market_code": "ES",
         "category": "Europe Health",
-        "score": 1,
-        "examples": []
+        "score": 11,
+        "examples": [
+          "2026 HCD Conference + Expo Preview: Designing Community-based Public Health Campuses - Healthcare Design Magazine",
+          "GE HealthCare to explore applying generative AI to radiation therapy workflows - MedTech Dive",
+          "Building a Competitive Advantage in the Healthcare AI Market - Harvard Business Review"
+        ]
       },
       {
-        "trend": "drug approval",
+        "trend": "children",
         "market_code": "ES",
-        "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
+        "category": "Children Health",
+        "score": 9,
+        "examples": [
+          "Wake County to host community resource fair to support children's health, growth and well-being - wake.gov",
+          "UT San Antonio Health Science Center study finds elevated levels of toxicants in teeth of children with autism - UT Health San Antonio",
+          "Wake County to host community resource fair to support children's health, growth and well-being - wake.gov"
+        ]
       },
       {
-        "trend": "diet wellness",
+        "trend": "virus",
         "market_code": "ES",
-        "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "DRC - Concept of Operations - Ebola Virus Disease (EVD) Outbreak, October 2026 - ReliefWeb",
+          "DRC - Concept of Operations - Ebola Virus Disease (EVD) Outbreak, October 2026 - ReliefWeb",
+          "Long Beach child hospitalized with rare disease related to West Nile virus - KTLA"
+        ]
+      },
+      {
+        "trend": "disease",
+        "market_code": "ES",
+        "category": "Europe Health",
+        "score": 8,
+        "examples": [
+          "DRC - Concept of Operations - Ebola Virus Disease (EVD) Outbreak, October 2026 - ReliefWeb",
+          "Russia on high alert after scientist dies of plague: What is this deadly disease? - Firstpost",
+          "DRC - Concept of Operations - Ebola Virus Disease (EVD) Outbreak, October 2026 - ReliefWeb"
+        ]
+      },
+      {
+        "trend": "health care",
+        "market_code": "ES",
+        "category": "Europe Health",
+        "score": 7,
+        "examples": [
+          "Health Care Roundup: Market Talk - WSJ",
+          "On the ground in Syria: seeing health care through the people who deliver it - emro.who.int",
+          "Study says San Antonio's mental health care access is worst in the U.S. - San Antonio Express-News"
+        ]
+      },
+      {
+        "trend": "clinical",
+        "market_code": "ES",
+        "category": "Europe Health",
+        "score": 6,
+        "examples": [
+          "From floating saunas to clinical trials: How heat might help mental health - NPR",
+          "From floating saunas to clinical trials: How heat might help mental health - NPR",
+          "From floating saunas to clinical trials: How heat might help mental health - KGOU"
+        ]
+      },
+      {
+        "trend": "medicine",
+        "market_code": "ES",
+        "category": "Europe Health",
+        "score": 6,
+        "examples": [
+          "Patrick F. Szukics, D.O., Joins Baptist Health Orthopedic Care as Orthopedic Sports Medicine Surgeon - South Florida Hospital News",
+          "Digital alerts support timely treatment decisions of critically ill cardiac patients - Michigan Medicine",
+          "Exclusive | She was ready to die. Now she’s in remission — cancer vaccines could be the next big thing in medicine - New York Post"
+        ]
       }
     ],
     "Sweden": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "SE",
         "category": "Europe Health",
-        "score": 1,
-        "examples": []
+        "score": 67,
+        "examples": [
+          "From floating saunas to clinical trials: How heat might help mental health - NPR",
+          "Wake County to host community resource fair to support children's health, growth and well-being - wake.gov",
+          "Health Care Roundup: Market Talk - WSJ"
+        ]
       },
       {
-        "trend": "outbreak",
+        "trend": "medical",
         "market_code": "SE",
-        "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "category": "Europe Health",
+        "score": 15,
+        "examples": [
+          "6 presumed dead after medical jet crashes off Nantucket - NBC News",
+          "Coast Guard finds debris from missing medical transport plane off Nantucket; search for 6 continues - abcnews.com",
+          "Video: Medical Plane Goes Missing Off Massachusetts Coast - The New York Times"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "SE",
+        "category": "Mental Health",
+        "score": 14,
+        "examples": [
+          "From floating saunas to clinical trials: How heat might help mental health - NPR",
+          "Addressing vulnerabilities across the life course through a mental health in all policies approach - World Health Organization (WHO)",
+          "Sports betting is increasingly the norm for Gen Z. Here’s why some financial and mental health experts are worried - CNBC"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "SE",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
+        "score": 13,
+        "examples": [
+          "From floating saunas to clinical trials: How heat might help mental health - NPR",
+          "Addressing vulnerabilities across the life course through a mental health in all policies approach - World Health Organization (WHO)",
+          "Sports betting is increasingly the norm for Gen Z. Here’s why some financial and mental health experts are worried - CNBC"
+        ]
       },
       {
-        "trend": "medical research",
+        "trend": "outbreak",
+        "market_code": "SE",
+        "category": "Outbreaks",
+        "score": 13,
+        "examples": [
+          "DRC - Concept of Operations - Ebola Virus Disease (EVD) Outbreak, October 2026 - ReliefWeb",
+          "Scoop: White House monitors suspected plague outbreak in Russia - Axios",
+          "Leptospirosis vaccine call after California outbreak study - Vet Times"
+        ]
+      },
+      {
+        "trend": "healthcare",
         "market_code": "SE",
         "category": "Europe Health",
-        "score": 1,
-        "examples": []
+        "score": 11,
+        "examples": [
+          "2026 HCD Conference + Expo Preview: Designing Community-based Public Health Campuses - Healthcare Design Magazine",
+          "GE HealthCare to explore applying generative AI to radiation therapy workflows - MedTech Dive",
+          "Building a Competitive Advantage in the Healthcare AI Market - Harvard Business Review"
+        ]
       },
       {
-        "trend": "drug approval",
+        "trend": "children",
         "market_code": "SE",
-        "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
+        "category": "Children Health",
+        "score": 9,
+        "examples": [
+          "Wake County to host community resource fair to support children's health, growth and well-being - wake.gov",
+          "UT San Antonio Health Science Center study finds elevated levels of toxicants in teeth of children with autism - UT Health San Antonio",
+          "Wake County to host community resource fair to support children's health, growth and well-being - wake.gov"
+        ]
       },
       {
-        "trend": "diet wellness",
+        "trend": "virus",
         "market_code": "SE",
-        "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "DRC - Concept of Operations - Ebola Virus Disease (EVD) Outbreak, October 2026 - ReliefWeb",
+          "DRC - Concept of Operations - Ebola Virus Disease (EVD) Outbreak, October 2026 - ReliefWeb",
+          "Long Beach child hospitalized with rare disease related to West Nile virus - KTLA"
+        ]
+      },
+      {
+        "trend": "disease",
+        "market_code": "SE",
+        "category": "Europe Health",
+        "score": 8,
+        "examples": [
+          "DRC - Concept of Operations - Ebola Virus Disease (EVD) Outbreak, October 2026 - ReliefWeb",
+          "Russia on high alert after scientist dies of plague: What is this deadly disease? - Firstpost",
+          "DRC - Concept of Operations - Ebola Virus Disease (EVD) Outbreak, October 2026 - ReliefWeb"
+        ]
+      },
+      {
+        "trend": "health care",
+        "market_code": "SE",
+        "category": "Europe Health",
+        "score": 7,
+        "examples": [
+          "Health Care Roundup: Market Talk - WSJ",
+          "On the ground in Syria: seeing health care through the people who deliver it - emro.who.int",
+          "Study says San Antonio's mental health care access is worst in the U.S. - San Antonio Express-News"
+        ]
+      },
+      {
+        "trend": "clinical",
+        "market_code": "SE",
+        "category": "Europe Health",
+        "score": 6,
+        "examples": [
+          "From floating saunas to clinical trials: How heat might help mental health - NPR",
+          "From floating saunas to clinical trials: How heat might help mental health - NPR",
+          "From floating saunas to clinical trials: How heat might help mental health - KGOU"
+        ]
+      },
+      {
+        "trend": "medicine",
+        "market_code": "SE",
+        "category": "Europe Health",
+        "score": 6,
+        "examples": [
+          "Patrick F. Szukics, D.O., Joins Baptist Health Orthopedic Care as Orthopedic Sports Medicine Surgeon - South Florida Hospital News",
+          "Digital alerts support timely treatment decisions of critically ill cardiac patients - Michigan Medicine",
+          "Exclusive | She was ready to die. Now she’s in remission — cancer vaccines could be the next big thing in medicine - New York Post"
+        ]
       }
     ],
     "Netherlands": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "NL",
         "category": "Europe Health",
-        "score": 1,
-        "examples": []
+        "score": 67,
+        "examples": [
+          "From floating saunas to clinical trials: How heat might help mental health - NPR",
+          "Wake County to host community resource fair to support children's health, growth and well-being - wake.gov",
+          "Health Care Roundup: Market Talk - WSJ"
+        ]
       },
       {
-        "trend": "outbreak",
+        "trend": "medical",
         "market_code": "NL",
-        "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "category": "Europe Health",
+        "score": 15,
+        "examples": [
+          "6 presumed dead after medical jet crashes off Nantucket - NBC News",
+          "Coast Guard finds debris from missing medical transport plane off Nantucket; search for 6 continues - abcnews.com",
+          "Video: Medical Plane Goes Missing Off Massachusetts Coast - The New York Times"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "NL",
+        "category": "Mental Health",
+        "score": 14,
+        "examples": [
+          "From floating saunas to clinical trials: How heat might help mental health - NPR",
+          "Addressing vulnerabilities across the life course through a mental health in all policies approach - World Health Organization (WHO)",
+          "Sports betting is increasingly the norm for Gen Z. Here’s why some financial and mental health experts are worried - CNBC"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "NL",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
+        "score": 13,
+        "examples": [
+          "From floating saunas to clinical trials: How heat might help mental health - NPR",
+          "Addressing vulnerabilities across the life course through a mental health in all policies approach - World Health Organization (WHO)",
+          "Sports betting is increasingly the norm for Gen Z. Here’s why some financial and mental health experts are worried - CNBC"
+        ]
       },
       {
-        "trend": "medical research",
+        "trend": "outbreak",
+        "market_code": "NL",
+        "category": "Outbreaks",
+        "score": 13,
+        "examples": [
+          "DRC - Concept of Operations - Ebola Virus Disease (EVD) Outbreak, October 2026 - ReliefWeb",
+          "Scoop: White House monitors suspected plague outbreak in Russia - Axios",
+          "Leptospirosis vaccine call after California outbreak study - Vet Times"
+        ]
+      },
+      {
+        "trend": "healthcare",
         "market_code": "NL",
         "category": "Europe Health",
-        "score": 1,
-        "examples": []
+        "score": 11,
+        "examples": [
+          "2026 HCD Conference + Expo Preview: Designing Community-based Public Health Campuses - Healthcare Design Magazine",
+          "GE HealthCare to explore applying generative AI to radiation therapy workflows - MedTech Dive",
+          "Building a Competitive Advantage in the Healthcare AI Market - Harvard Business Review"
+        ]
       },
       {
-        "trend": "drug approval",
+        "trend": "children",
         "market_code": "NL",
-        "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
+        "category": "Children Health",
+        "score": 9,
+        "examples": [
+          "Wake County to host community resource fair to support children's health, growth and well-being - wake.gov",
+          "UT San Antonio Health Science Center study finds elevated levels of toxicants in teeth of children with autism - UT Health San Antonio",
+          "Wake County to host community resource fair to support children's health, growth and well-being - wake.gov"
+        ]
       },
       {
-        "trend": "diet wellness",
+        "trend": "virus",
         "market_code": "NL",
-        "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "DRC - Concept of Operations - Ebola Virus Disease (EVD) Outbreak, October 2026 - ReliefWeb",
+          "DRC - Concept of Operations - Ebola Virus Disease (EVD) Outbreak, October 2026 - ReliefWeb",
+          "Long Beach child hospitalized with rare disease related to West Nile virus - KTLA"
+        ]
+      },
+      {
+        "trend": "disease",
+        "market_code": "NL",
+        "category": "Europe Health",
+        "score": 8,
+        "examples": [
+          "DRC - Concept of Operations - Ebola Virus Disease (EVD) Outbreak, October 2026 - ReliefWeb",
+          "Russia on high alert after scientist dies of plague: What is this deadly disease? - Firstpost",
+          "DRC - Concept of Operations - Ebola Virus Disease (EVD) Outbreak, October 2026 - ReliefWeb"
+        ]
+      },
+      {
+        "trend": "health care",
+        "market_code": "NL",
+        "category": "Europe Health",
+        "score": 7,
+        "examples": [
+          "Health Care Roundup: Market Talk - WSJ",
+          "On the ground in Syria: seeing health care through the people who deliver it - emro.who.int",
+          "Study says San Antonio's mental health care access is worst in the U.S. - San Antonio Express-News"
+        ]
+      },
+      {
+        "trend": "clinical",
+        "market_code": "NL",
+        "category": "Europe Health",
+        "score": 6,
+        "examples": [
+          "From floating saunas to clinical trials: How heat might help mental health - NPR",
+          "From floating saunas to clinical trials: How heat might help mental health - NPR",
+          "From floating saunas to clinical trials: How heat might help mental health - KGOU"
+        ]
+      },
+      {
+        "trend": "medicine",
+        "market_code": "NL",
+        "category": "Europe Health",
+        "score": 6,
+        "examples": [
+          "Patrick F. Szukics, D.O., Joins Baptist Health Orthopedic Care as Orthopedic Sports Medicine Surgeon - South Florida Hospital News",
+          "Digital alerts support timely treatment decisions of critically ill cardiac patients - Michigan Medicine",
+          "Exclusive | She was ready to die. Now she’s in remission — cancer vaccines could be the next big thing in medicine - New York Post"
+        ]
       }
     ],
     "Finland": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "FI",
         "category": "Europe Health",
-        "score": 1,
-        "examples": []
+        "score": 67,
+        "examples": [
+          "From floating saunas to clinical trials: How heat might help mental health - NPR",
+          "Wake County to host community resource fair to support children's health, growth and well-being - wake.gov",
+          "Health Care Roundup: Market Talk - WSJ"
+        ]
       },
       {
-        "trend": "outbreak",
+        "trend": "medical",
         "market_code": "FI",
-        "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "category": "Europe Health",
+        "score": 15,
+        "examples": [
+          "6 presumed dead after medical jet crashes off Nantucket - NBC News",
+          "Coast Guard finds debris from missing medical transport plane off Nantucket; search for 6 continues - abcnews.com",
+          "Video: Medical Plane Goes Missing Off Massachusetts Coast - The New York Times"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "FI",
+        "category": "Mental Health",
+        "score": 14,
+        "examples": [
+          "From floating saunas to clinical trials: How heat might help mental health - NPR",
+          "Addressing vulnerabilities across the life course through a mental health in all policies approach - World Health Organization (WHO)",
+          "Sports betting is increasingly the norm for Gen Z. Here’s why some financial and mental health experts are worried - CNBC"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "FI",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
+        "score": 13,
+        "examples": [
+          "From floating saunas to clinical trials: How heat might help mental health - NPR",
+          "Addressing vulnerabilities across the life course through a mental health in all policies approach - World Health Organization (WHO)",
+          "Sports betting is increasingly the norm for Gen Z. Here’s why some financial and mental health experts are worried - CNBC"
+        ]
       },
       {
-        "trend": "medical research",
+        "trend": "outbreak",
+        "market_code": "FI",
+        "category": "Outbreaks",
+        "score": 13,
+        "examples": [
+          "DRC - Concept of Operations - Ebola Virus Disease (EVD) Outbreak, October 2026 - ReliefWeb",
+          "Scoop: White House monitors suspected plague outbreak in Russia - Axios",
+          "Leptospirosis vaccine call after California outbreak study - Vet Times"
+        ]
+      },
+      {
+        "trend": "healthcare",
         "market_code": "FI",
         "category": "Europe Health",
-        "score": 1,
-        "examples": []
+        "score": 11,
+        "examples": [
+          "2026 HCD Conference + Expo Preview: Designing Community-based Public Health Campuses - Healthcare Design Magazine",
+          "GE HealthCare to explore applying generative AI to radiation therapy workflows - MedTech Dive",
+          "Building a Competitive Advantage in the Healthcare AI Market - Harvard Business Review"
+        ]
       },
       {
-        "trend": "drug approval",
+        "trend": "children",
         "market_code": "FI",
-        "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
+        "category": "Children Health",
+        "score": 9,
+        "examples": [
+          "Wake County to host community resource fair to support children's health, growth and well-being - wake.gov",
+          "UT San Antonio Health Science Center study finds elevated levels of toxicants in teeth of children with autism - UT Health San Antonio",
+          "Wake County to host community resource fair to support children's health, growth and well-being - wake.gov"
+        ]
       },
       {
-        "trend": "diet wellness",
+        "trend": "virus",
         "market_code": "FI",
-        "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "DRC - Concept of Operations - Ebola Virus Disease (EVD) Outbreak, October 2026 - ReliefWeb",
+          "DRC - Concept of Operations - Ebola Virus Disease (EVD) Outbreak, October 2026 - ReliefWeb",
+          "Long Beach child hospitalized with rare disease related to West Nile virus - KTLA"
+        ]
+      },
+      {
+        "trend": "disease",
+        "market_code": "FI",
+        "category": "Europe Health",
+        "score": 8,
+        "examples": [
+          "DRC - Concept of Operations - Ebola Virus Disease (EVD) Outbreak, October 2026 - ReliefWeb",
+          "Russia on high alert after scientist dies of plague: What is this deadly disease? - Firstpost",
+          "DRC - Concept of Operations - Ebola Virus Disease (EVD) Outbreak, October 2026 - ReliefWeb"
+        ]
+      },
+      {
+        "trend": "health care",
+        "market_code": "FI",
+        "category": "Europe Health",
+        "score": 7,
+        "examples": [
+          "Health Care Roundup: Market Talk - WSJ",
+          "On the ground in Syria: seeing health care through the people who deliver it - emro.who.int",
+          "Study says San Antonio's mental health care access is worst in the U.S. - San Antonio Express-News"
+        ]
+      },
+      {
+        "trend": "clinical",
+        "market_code": "FI",
+        "category": "Europe Health",
+        "score": 6,
+        "examples": [
+          "From floating saunas to clinical trials: How heat might help mental health - NPR",
+          "From floating saunas to clinical trials: How heat might help mental health - NPR",
+          "From floating saunas to clinical trials: How heat might help mental health - KGOU"
+        ]
+      },
+      {
+        "trend": "medicine",
+        "market_code": "FI",
+        "category": "Europe Health",
+        "score": 6,
+        "examples": [
+          "Patrick F. Szukics, D.O., Joins Baptist Health Orthopedic Care as Orthopedic Sports Medicine Surgeon - South Florida Hospital News",
+          "Digital alerts support timely treatment decisions of critically ill cardiac patients - Michigan Medicine",
+          "Exclusive | She was ready to die. Now she’s in remission — cancer vaccines could be the next big thing in medicine - New York Post"
+        ]
       }
     ],
     "Norway": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "NO",
         "category": "Europe Health",
-        "score": 1,
-        "examples": []
+        "score": 67,
+        "examples": [
+          "From floating saunas to clinical trials: How heat might help mental health - NPR",
+          "Wake County to host community resource fair to support children's health, growth and well-being - wake.gov",
+          "Health Care Roundup: Market Talk - WSJ"
+        ]
       },
       {
-        "trend": "outbreak",
+        "trend": "medical",
         "market_code": "NO",
-        "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "category": "Europe Health",
+        "score": 15,
+        "examples": [
+          "6 presumed dead after medical jet crashes off Nantucket - NBC News",
+          "Coast Guard finds debris from missing medical transport plane off Nantucket; search for 6 continues - abcnews.com",
+          "Video: Medical Plane Goes Missing Off Massachusetts Coast - The New York Times"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "NO",
+        "category": "Mental Health",
+        "score": 14,
+        "examples": [
+          "From floating saunas to clinical trials: How heat might help mental health - NPR",
+          "Addressing vulnerabilities across the life course through a mental health in all policies approach - World Health Organization (WHO)",
+          "Sports betting is increasingly the norm for Gen Z. Here’s why some financial and mental health experts are worried - CNBC"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "NO",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
+        "score": 13,
+        "examples": [
+          "From floating saunas to clinical trials: How heat might help mental health - NPR",
+          "Addressing vulnerabilities across the life course through a mental health in all policies approach - World Health Organization (WHO)",
+          "Sports betting is increasingly the norm for Gen Z. Here’s why some financial and mental health experts are worried - CNBC"
+        ]
       },
       {
-        "trend": "medical research",
+        "trend": "outbreak",
+        "market_code": "NO",
+        "category": "Outbreaks",
+        "score": 13,
+        "examples": [
+          "DRC - Concept of Operations - Ebola Virus Disease (EVD) Outbreak, October 2026 - ReliefWeb",
+          "Scoop: White House monitors suspected plague outbreak in Russia - Axios",
+          "Leptospirosis vaccine call after California outbreak study - Vet Times"
+        ]
+      },
+      {
+        "trend": "healthcare",
         "market_code": "NO",
         "category": "Europe Health",
-        "score": 1,
-        "examples": []
+        "score": 11,
+        "examples": [
+          "2026 HCD Conference + Expo Preview: Designing Community-based Public Health Campuses - Healthcare Design Magazine",
+          "GE HealthCare to explore applying generative AI to radiation therapy workflows - MedTech Dive",
+          "Building a Competitive Advantage in the Healthcare AI Market - Harvard Business Review"
+        ]
       },
       {
-        "trend": "drug approval",
+        "trend": "children",
         "market_code": "NO",
-        "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
+        "category": "Children Health",
+        "score": 9,
+        "examples": [
+          "Wake County to host community resource fair to support children's health, growth and well-being - wake.gov",
+          "UT San Antonio Health Science Center study finds elevated levels of toxicants in teeth of children with autism - UT Health San Antonio",
+          "Wake County to host community resource fair to support children's health, growth and well-being - wake.gov"
+        ]
       },
       {
-        "trend": "diet wellness",
+        "trend": "virus",
         "market_code": "NO",
-        "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "DRC - Concept of Operations - Ebola Virus Disease (EVD) Outbreak, October 2026 - ReliefWeb",
+          "DRC - Concept of Operations - Ebola Virus Disease (EVD) Outbreak, October 2026 - ReliefWeb",
+          "Long Beach child hospitalized with rare disease related to West Nile virus - KTLA"
+        ]
+      },
+      {
+        "trend": "disease",
+        "market_code": "NO",
+        "category": "Europe Health",
+        "score": 8,
+        "examples": [
+          "DRC - Concept of Operations - Ebola Virus Disease (EVD) Outbreak, October 2026 - ReliefWeb",
+          "Russia on high alert after scientist dies of plague: What is this deadly disease? - Firstpost",
+          "DRC - Concept of Operations - Ebola Virus Disease (EVD) Outbreak, October 2026 - ReliefWeb"
+        ]
+      },
+      {
+        "trend": "health care",
+        "market_code": "NO",
+        "category": "Europe Health",
+        "score": 7,
+        "examples": [
+          "Health Care Roundup: Market Talk - WSJ",
+          "On the ground in Syria: seeing health care through the people who deliver it - emro.who.int",
+          "Study says San Antonio's mental health care access is worst in the U.S. - San Antonio Express-News"
+        ]
+      },
+      {
+        "trend": "clinical",
+        "market_code": "NO",
+        "category": "Europe Health",
+        "score": 6,
+        "examples": [
+          "From floating saunas to clinical trials: How heat might help mental health - NPR",
+          "From floating saunas to clinical trials: How heat might help mental health - NPR",
+          "From floating saunas to clinical trials: How heat might help mental health - KGOU"
+        ]
+      },
+      {
+        "trend": "medicine",
+        "market_code": "NO",
+        "category": "Europe Health",
+        "score": 6,
+        "examples": [
+          "Patrick F. Szukics, D.O., Joins Baptist Health Orthopedic Care as Orthopedic Sports Medicine Surgeon - South Florida Hospital News",
+          "Digital alerts support timely treatment decisions of critically ill cardiac patients - Michigan Medicine",
+          "Exclusive | She was ready to die. Now she’s in remission — cancer vaccines could be the next big thing in medicine - New York Post"
+        ]
       }
     ],
     "Japan": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "JP",
         "category": "Asia Health",
-        "score": 1,
-        "examples": []
+        "score": 67,
+        "examples": [
+          "From floating saunas to clinical trials: How heat might help mental health - NPR",
+          "Wake County to host community resource fair to support children's health, growth and well-being - wake.gov",
+          "Health Care Roundup: Market Talk - WSJ"
+        ]
       },
       {
-        "trend": "outbreak",
+        "trend": "medical",
         "market_code": "JP",
-        "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "category": "Asia Health",
+        "score": 15,
+        "examples": [
+          "6 presumed dead after medical jet crashes off Nantucket - NBC News",
+          "Coast Guard finds debris from missing medical transport plane off Nantucket; search for 6 continues - abcnews.com",
+          "Video: Medical Plane Goes Missing Off Massachusetts Coast - The New York Times"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "JP",
+        "category": "Mental Health",
+        "score": 14,
+        "examples": [
+          "From floating saunas to clinical trials: How heat might help mental health - NPR",
+          "Addressing vulnerabilities across the life course through a mental health in all policies approach - World Health Organization (WHO)",
+          "Sports betting is increasingly the norm for Gen Z. Here’s why some financial and mental health experts are worried - CNBC"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "JP",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
+        "score": 13,
+        "examples": [
+          "From floating saunas to clinical trials: How heat might help mental health - NPR",
+          "Addressing vulnerabilities across the life course through a mental health in all policies approach - World Health Organization (WHO)",
+          "Sports betting is increasingly the norm for Gen Z. Here’s why some financial and mental health experts are worried - CNBC"
+        ]
       },
       {
-        "trend": "medical research",
+        "trend": "outbreak",
+        "market_code": "JP",
+        "category": "Outbreaks",
+        "score": 13,
+        "examples": [
+          "DRC - Concept of Operations - Ebola Virus Disease (EVD) Outbreak, October 2026 - ReliefWeb",
+          "Scoop: White House monitors suspected plague outbreak in Russia - Axios",
+          "Leptospirosis vaccine call after California outbreak study - Vet Times"
+        ]
+      },
+      {
+        "trend": "healthcare",
         "market_code": "JP",
         "category": "Asia Health",
-        "score": 1,
-        "examples": []
+        "score": 11,
+        "examples": [
+          "2026 HCD Conference + Expo Preview: Designing Community-based Public Health Campuses - Healthcare Design Magazine",
+          "GE HealthCare to explore applying generative AI to radiation therapy workflows - MedTech Dive",
+          "Building a Competitive Advantage in the Healthcare AI Market - Harvard Business Review"
+        ]
       },
       {
-        "trend": "drug approval",
+        "trend": "children",
         "market_code": "JP",
-        "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
+        "category": "Children Health",
+        "score": 9,
+        "examples": [
+          "Wake County to host community resource fair to support children's health, growth and well-being - wake.gov",
+          "UT San Antonio Health Science Center study finds elevated levels of toxicants in teeth of children with autism - UT Health San Antonio",
+          "Wake County to host community resource fair to support children's health, growth and well-being - wake.gov"
+        ]
       },
       {
-        "trend": "diet wellness",
+        "trend": "virus",
         "market_code": "JP",
-        "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "DRC - Concept of Operations - Ebola Virus Disease (EVD) Outbreak, October 2026 - ReliefWeb",
+          "DRC - Concept of Operations - Ebola Virus Disease (EVD) Outbreak, October 2026 - ReliefWeb",
+          "Long Beach child hospitalized with rare disease related to West Nile virus - KTLA"
+        ]
+      },
+      {
+        "trend": "disease",
+        "market_code": "JP",
+        "category": "Asia Health",
+        "score": 8,
+        "examples": [
+          "DRC - Concept of Operations - Ebola Virus Disease (EVD) Outbreak, October 2026 - ReliefWeb",
+          "Russia on high alert after scientist dies of plague: What is this deadly disease? - Firstpost",
+          "DRC - Concept of Operations - Ebola Virus Disease (EVD) Outbreak, October 2026 - ReliefWeb"
+        ]
+      },
+      {
+        "trend": "health care",
+        "market_code": "JP",
+        "category": "Asia Health",
+        "score": 7,
+        "examples": [
+          "Health Care Roundup: Market Talk - WSJ",
+          "On the ground in Syria: seeing health care through the people who deliver it - emro.who.int",
+          "Study says San Antonio's mental health care access is worst in the U.S. - San Antonio Express-News"
+        ]
+      },
+      {
+        "trend": "clinical",
+        "market_code": "JP",
+        "category": "Asia Health",
+        "score": 6,
+        "examples": [
+          "From floating saunas to clinical trials: How heat might help mental health - NPR",
+          "From floating saunas to clinical trials: How heat might help mental health - NPR",
+          "From floating saunas to clinical trials: How heat might help mental health - KGOU"
+        ]
+      },
+      {
+        "trend": "medicine",
+        "market_code": "JP",
+        "category": "Asia Health",
+        "score": 6,
+        "examples": [
+          "Patrick F. Szukics, D.O., Joins Baptist Health Orthopedic Care as Orthopedic Sports Medicine Surgeon - South Florida Hospital News",
+          "Digital alerts support timely treatment decisions of critically ill cardiac patients - Michigan Medicine",
+          "Exclusive | She was ready to die. Now she’s in remission — cancer vaccines could be the next big thing in medicine - New York Post"
+        ]
       }
     ],
     "China": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "CN",
         "category": "Asia Health",
-        "score": 1,
-        "examples": []
+        "score": 67,
+        "examples": [
+          "From floating saunas to clinical trials: How heat might help mental health - NPR",
+          "Wake County to host community resource fair to support children's health, growth and well-being - wake.gov",
+          "Health Care Roundup: Market Talk - WSJ"
+        ]
       },
       {
-        "trend": "outbreak",
+        "trend": "medical",
         "market_code": "CN",
-        "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "category": "Asia Health",
+        "score": 15,
+        "examples": [
+          "6 presumed dead after medical jet crashes off Nantucket - NBC News",
+          "Coast Guard finds debris from missing medical transport plane off Nantucket; search for 6 continues - abcnews.com",
+          "Video: Medical Plane Goes Missing Off Massachusetts Coast - The New York Times"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "CN",
+        "category": "Mental Health",
+        "score": 14,
+        "examples": [
+          "From floating saunas to clinical trials: How heat might help mental health - NPR",
+          "Addressing vulnerabilities across the life course through a mental health in all policies approach - World Health Organization (WHO)",
+          "Sports betting is increasingly the norm for Gen Z. Here’s why some financial and mental health experts are worried - CNBC"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "CN",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
+        "score": 13,
+        "examples": [
+          "From floating saunas to clinical trials: How heat might help mental health - NPR",
+          "Addressing vulnerabilities across the life course through a mental health in all policies approach - World Health Organization (WHO)",
+          "Sports betting is increasingly the norm for Gen Z. Here’s why some financial and mental health experts are worried - CNBC"
+        ]
       },
       {
-        "trend": "medical research",
+        "trend": "outbreak",
+        "market_code": "CN",
+        "category": "Outbreaks",
+        "score": 13,
+        "examples": [
+          "DRC - Concept of Operations - Ebola Virus Disease (EVD) Outbreak, October 2026 - ReliefWeb",
+          "Scoop: White House monitors suspected plague outbreak in Russia - Axios",
+          "Leptospirosis vaccine call after California outbreak study - Vet Times"
+        ]
+      },
+      {
+        "trend": "healthcare",
         "market_code": "CN",
         "category": "Asia Health",
-        "score": 1,
-        "examples": []
+        "score": 11,
+        "examples": [
+          "2026 HCD Conference + Expo Preview: Designing Community-based Public Health Campuses - Healthcare Design Magazine",
+          "GE HealthCare to explore applying generative AI to radiation therapy workflows - MedTech Dive",
+          "Building a Competitive Advantage in the Healthcare AI Market - Harvard Business Review"
+        ]
       },
       {
-        "trend": "drug approval",
+        "trend": "children",
         "market_code": "CN",
-        "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
+        "category": "Children Health",
+        "score": 9,
+        "examples": [
+          "Wake County to host community resource fair to support children's health, growth and well-being - wake.gov",
+          "UT San Antonio Health Science Center study finds elevated levels of toxicants in teeth of children with autism - UT Health San Antonio",
+          "Wake County to host community resource fair to support children's health, growth and well-being - wake.gov"
+        ]
       },
       {
-        "trend": "diet wellness",
+        "trend": "virus",
         "market_code": "CN",
-        "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "DRC - Concept of Operations - Ebola Virus Disease (EVD) Outbreak, October 2026 - ReliefWeb",
+          "DRC - Concept of Operations - Ebola Virus Disease (EVD) Outbreak, October 2026 - ReliefWeb",
+          "Long Beach child hospitalized with rare disease related to West Nile virus - KTLA"
+        ]
+      },
+      {
+        "trend": "disease",
+        "market_code": "CN",
+        "category": "Asia Health",
+        "score": 8,
+        "examples": [
+          "DRC - Concept of Operations - Ebola Virus Disease (EVD) Outbreak, October 2026 - ReliefWeb",
+          "Russia on high alert after scientist dies of plague: What is this deadly disease? - Firstpost",
+          "DRC - Concept of Operations - Ebola Virus Disease (EVD) Outbreak, October 2026 - ReliefWeb"
+        ]
+      },
+      {
+        "trend": "health care",
+        "market_code": "CN",
+        "category": "Asia Health",
+        "score": 7,
+        "examples": [
+          "Health Care Roundup: Market Talk - WSJ",
+          "On the ground in Syria: seeing health care through the people who deliver it - emro.who.int",
+          "Study says San Antonio's mental health care access is worst in the U.S. - San Antonio Express-News"
+        ]
+      },
+      {
+        "trend": "clinical",
+        "market_code": "CN",
+        "category": "Asia Health",
+        "score": 6,
+        "examples": [
+          "From floating saunas to clinical trials: How heat might help mental health - NPR",
+          "From floating saunas to clinical trials: How heat might help mental health - NPR",
+          "From floating saunas to clinical trials: How heat might help mental health - KGOU"
+        ]
+      },
+      {
+        "trend": "medicine",
+        "market_code": "CN",
+        "category": "Asia Health",
+        "score": 6,
+        "examples": [
+          "Patrick F. Szukics, D.O., Joins Baptist Health Orthopedic Care as Orthopedic Sports Medicine Surgeon - South Florida Hospital News",
+          "Digital alerts support timely treatment decisions of critically ill cardiac patients - Michigan Medicine",
+          "Exclusive | She was ready to die. Now she’s in remission — cancer vaccines could be the next big thing in medicine - New York Post"
+        ]
       }
     ],
     "South Korea": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "KR",
         "category": "Asia Health",
-        "score": 1,
-        "examples": []
+        "score": 67,
+        "examples": [
+          "From floating saunas to clinical trials: How heat might help mental health - NPR",
+          "Wake County to host community resource fair to support children's health, growth and well-being - wake.gov",
+          "Health Care Roundup: Market Talk - WSJ"
+        ]
       },
       {
-        "trend": "outbreak",
+        "trend": "medical",
         "market_code": "KR",
-        "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "category": "Asia Health",
+        "score": 15,
+        "examples": [
+          "6 presumed dead after medical jet crashes off Nantucket - NBC News",
+          "Coast Guard finds debris from missing medical transport plane off Nantucket; search for 6 continues - abcnews.com",
+          "Video: Medical Plane Goes Missing Off Massachusetts Coast - The New York Times"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "KR",
+        "category": "Mental Health",
+        "score": 14,
+        "examples": [
+          "From floating saunas to clinical trials: How heat might help mental health - NPR",
+          "Addressing vulnerabilities across the life course through a mental health in all policies approach - World Health Organization (WHO)",
+          "Sports betting is increasingly the norm for Gen Z. Here’s why some financial and mental health experts are worried - CNBC"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "KR",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
+        "score": 13,
+        "examples": [
+          "From floating saunas to clinical trials: How heat might help mental health - NPR",
+          "Addressing vulnerabilities across the life course through a mental health in all policies approach - World Health Organization (WHO)",
+          "Sports betting is increasingly the norm for Gen Z. Here’s why some financial and mental health experts are worried - CNBC"
+        ]
       },
       {
-        "trend": "medical research",
+        "trend": "outbreak",
+        "market_code": "KR",
+        "category": "Outbreaks",
+        "score": 13,
+        "examples": [
+          "DRC - Concept of Operations - Ebola Virus Disease (EVD) Outbreak, October 2026 - ReliefWeb",
+          "Scoop: White House monitors suspected plague outbreak in Russia - Axios",
+          "Leptospirosis vaccine call after California outbreak study - Vet Times"
+        ]
+      },
+      {
+        "trend": "healthcare",
         "market_code": "KR",
         "category": "Asia Health",
-        "score": 1,
-        "examples": []
+        "score": 11,
+        "examples": [
+          "2026 HCD Conference + Expo Preview: Designing Community-based Public Health Campuses - Healthcare Design Magazine",
+          "GE HealthCare to explore applying generative AI to radiation therapy workflows - MedTech Dive",
+          "Building a Competitive Advantage in the Healthcare AI Market - Harvard Business Review"
+        ]
       },
       {
-        "trend": "drug approval",
+        "trend": "children",
         "market_code": "KR",
-        "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
+        "category": "Children Health",
+        "score": 9,
+        "examples": [
+          "Wake County to host community resource fair to support children's health, growth and well-being - wake.gov",
+          "UT San Antonio Health Science Center study finds elevated levels of toxicants in teeth of children with autism - UT Health San Antonio",
+          "Wake County to host community resource fair to support children's health, growth and well-being - wake.gov"
+        ]
       },
       {
-        "trend": "diet wellness",
+        "trend": "virus",
         "market_code": "KR",
-        "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "DRC - Concept of Operations - Ebola Virus Disease (EVD) Outbreak, October 2026 - ReliefWeb",
+          "DRC - Concept of Operations - Ebola Virus Disease (EVD) Outbreak, October 2026 - ReliefWeb",
+          "Long Beach child hospitalized with rare disease related to West Nile virus - KTLA"
+        ]
+      },
+      {
+        "trend": "disease",
+        "market_code": "KR",
+        "category": "Asia Health",
+        "score": 8,
+        "examples": [
+          "DRC - Concept of Operations - Ebola Virus Disease (EVD) Outbreak, October 2026 - ReliefWeb",
+          "Russia on high alert after scientist dies of plague: What is this deadly disease? - Firstpost",
+          "DRC - Concept of Operations - Ebola Virus Disease (EVD) Outbreak, October 2026 - ReliefWeb"
+        ]
+      },
+      {
+        "trend": "health care",
+        "market_code": "KR",
+        "category": "Asia Health",
+        "score": 7,
+        "examples": [
+          "Health Care Roundup: Market Talk - WSJ",
+          "On the ground in Syria: seeing health care through the people who deliver it - emro.who.int",
+          "Study says San Antonio's mental health care access is worst in the U.S. - San Antonio Express-News"
+        ]
+      },
+      {
+        "trend": "clinical",
+        "market_code": "KR",
+        "category": "Asia Health",
+        "score": 6,
+        "examples": [
+          "From floating saunas to clinical trials: How heat might help mental health - NPR",
+          "From floating saunas to clinical trials: How heat might help mental health - NPR",
+          "From floating saunas to clinical trials: How heat might help mental health - KGOU"
+        ]
+      },
+      {
+        "trend": "medicine",
+        "market_code": "KR",
+        "category": "Asia Health",
+        "score": 6,
+        "examples": [
+          "Patrick F. Szukics, D.O., Joins Baptist Health Orthopedic Care as Orthopedic Sports Medicine Surgeon - South Florida Hospital News",
+          "Digital alerts support timely treatment decisions of critically ill cardiac patients - Michigan Medicine",
+          "Exclusive | She was ready to die. Now she’s in remission — cancer vaccines could be the next big thing in medicine - New York Post"
+        ]
       }
     ],
     "India": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "IN",
         "category": "Asia Health",
-        "score": 1,
-        "examples": []
+        "score": 61,
+        "examples": [
+          "My Health, My Pride’: Administrative Secretary, Higher Education, Flags Off Health Walk/Run in Leh Under ‘Nasha Mukt Yuva for Viksit Bharat’ Campaign. | The Administration of Union Territory of Ladakh | India - ladakh.gov.in",
+          "My Health, My Pride’: Administrative Secretary, Higher Education, Flags Off Health Walk/Run in Leh Under ‘Nasha Mukt Yuva for Viksit Bharat’ Campaign. | The Administration of Union Territory of Ladakh | India - ladakh.gov.in",
+          "Health Care Roundup: Market Talk - WSJ"
+        ]
+      },
+      {
+        "trend": "medical",
+        "market_code": "IN",
+        "category": "Asia Health",
+        "score": 15,
+        "examples": [
+          "Contract incentives and behaviours of medical consultants in Ireland - Nature",
+          "Delhi Jal Board Rolls Out Cashless Medical Facility for 50,000 Pensioners - DD News",
+          "India’s longevity economy: Why senior healthcare is becoming more than a medical sector - expresshealthcare.in"
+        ]
+      },
+      {
+        "trend": "healthcare",
+        "market_code": "IN",
+        "category": "Asia Health",
+        "score": 14,
+        "examples": [
+          "India’s longevity economy: Why senior healthcare is becoming more than a medical sector - expresshealthcare.in",
+          "ADB approves $43 M grant package for health security, primary healthcare reforms in Tajikistan - BioSpectrum Asia",
+          "GE HealthCare to explore applying generative AI to radiation therapy workflows - MedTech Dive"
+        ]
       },
       {
         "trend": "outbreak",
         "market_code": "IN",
         "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "score": 13,
+        "examples": [
+          "Scoop: White House monitors suspected plague outbreak in Russia - Axios",
+          "Ebola outbreak in DR Congo claims over 4,000 lives, 8,300 confirmed cases reported - News On AIR",
+          "Plague outbreak in Russia? 200 people quarantined after a lab researcher’s death. What we know - Deccan Herald"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "IN",
+        "category": "Mental Health",
+        "score": 12,
+        "examples": [
+          "From floating saunas to clinical trials: How heat might help mental health - NPR",
+          "Vanguard summit: Nigeria risks losing gains of Mental Health Act, experts warn - Vanguard News",
+          "From floating saunas to clinical trials: How heat might help mental health - NPR"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "IN",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
+        "score": 12,
+        "examples": [
+          "From floating saunas to clinical trials: How heat might help mental health - NPR",
+          "Vanguard summit: Nigeria risks losing gains of Mental Health Act, experts warn - Vanguard News",
+          "From floating saunas to clinical trials: How heat might help mental health - NPR"
+        ]
       },
       {
-        "trend": "medical research",
+        "trend": "virus",
+        "market_code": "IN",
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "DRC - Concept of Operations - Ebola Virus Disease (EVD) Outbreak, October 2026 - ReliefWeb",
+          "Mystery virus behind Siberian plague researcher's death? What we know so far - India Today",
+          "Congo's Ebola Outbreak Records More than 4,000 Deaths as Authorities Struggle to Contain the Virus - ASHARQ AL-AWSAT English"
+        ]
+      },
+      {
+        "trend": "warning",
         "market_code": "IN",
         "category": "Asia Health",
-        "score": 1,
-        "examples": []
+        "score": 8,
+        "examples": [
+          "Warning Signs of Hypertrophic Cardiomyopathy (HCM) - Cleveland Clinic Health Essentials",
+          "Shortages of crucial HIV medicines due to aid cuts are a ‘warning’, say experts - The Guardian",
+          "FDA Advisory No.2026-1436 || Public Health Warning Against the Purchase and Use of the Unauthorized Cosmetic Product “MARIA LOURDES HEAVEN SOAP (KOJIC ACID)” - fda.gov.ph"
+        ]
       },
       {
-        "trend": "drug approval",
+        "trend": "research",
         "market_code": "IN",
-        "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
+        "category": "Asia Health",
+        "score": 7,
+        "examples": [
+          "A full-cycle approach for co-producing trial research for treatment of eating disorders - Nature",
+          "Unknown virus kills lab worker in Russia: 197 quarantined after tube breaks at plague research lab - Bhaskar English",
+          "Keeping researchers thinking: The case for ‘cognitive virus immunisation’ - Research Live"
+        ]
       },
       {
-        "trend": "diet wellness",
+        "trend": "disease",
+        "market_code": "IN",
+        "category": "Asia Health",
+        "score": 7,
+        "examples": [
+          "Russia on high alert after scientist dies of plague: What is this deadly disease? - Firstpost",
+          "DRC - Concept of Operations - Ebola Virus Disease (EVD) Outbreak, October 2026 - ReliefWeb",
+          "Russia on high alert after scientist dies of plague: What is this deadly disease? - Firstpost"
+        ]
+      },
+      {
+        "trend": "hospitals",
+        "market_code": "IN",
+        "category": "Asia Health",
+        "score": 6,
+        "examples": [
+          "Photos: Yemen’s hospitals struggle to operate amid persistent power outages - Al Jazeera",
+          "Wall Street's $10 billion bet on Indian hospitals becomes a blame game among stakeholders - The Times of India",
+          "Photos: Yemen’s hospitals struggle to operate amid persistent power outages - Al Jazeera"
+        ]
+      },
+      {
+        "trend": "weight",
         "market_code": "IN",
         "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "score": 6,
+        "examples": [
+          "popular weight loss drug gets new warning - polskieradio.pl",
+          "Why Losing Weight Is Harder After Age 50 and What Experts Say Helps | Wellness - US News Health",
+          "John Goodman Weight Loss: The Dramatic Transformation That Changed His Life - Diet, Habits & What Worked - 大分トリニータオフィシャルサイト"
+        ]
       }
     ],
     "Australia": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "AU",
         "category": "Global Health",
-        "score": 1,
-        "examples": []
+        "score": 61,
+        "examples": [
+          "Mental Health Week 2026 is here! - Tasmanian Department of Health",
+          "Mental Health Week 2026 is here! - Tasmanian Department of Health",
+          "Health funding crisis exposed: Massive budget blowouts at Victoria’s major hospitals - heraldsun.com.au"
+        ]
       },
       {
-        "trend": "outbreak",
+        "trend": "mental",
         "market_code": "AU",
-        "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "category": "Mental Health",
+        "score": 17,
+        "examples": [
+          "Mental Health Week 2026 is here! - Tasmanian Department of Health",
+          "Student mental health now key part of educators’ role, survey finds - educationmattersmag.com.au",
+          "Free webinar for new online mental health service – Medicare Mental Health Check In - Australian Government Department of Health, Disability and Ageing"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "AU",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
+        "score": 17,
+        "examples": [
+          "Mental Health Week 2026 is here! - Tasmanian Department of Health",
+          "Student mental health now key part of educators’ role, survey finds - educationmattersmag.com.au",
+          "Free webinar for new online mental health service – Medicare Mental Health Check In - Australian Government Department of Health, Disability and Ageing"
+        ]
       },
       {
-        "trend": "medical research",
+        "trend": "outbreak",
+        "market_code": "AU",
+        "category": "Outbreaks",
+        "score": 14,
+        "examples": [
+          "DRC - Concept of Operations - Ebola Virus Disease (EVD) Outbreak, October 2026 - ReliefWeb",
+          "Worry as Russia denies plague outbreak - news.com.au",
+          "Worry as Russia denies plague outbreak - news.com.au"
+        ]
+      },
+      {
+        "trend": "medical",
         "market_code": "AU",
         "category": "Global Health",
-        "score": 1,
-        "examples": []
+        "score": 11,
+        "examples": [
+          "Form 8.3 - [ADVANCED MEDICAL SOLUTIONS GROUP PLC - 02 10 2026] - (CGWL) - Yahoo Finance Australia",
+          "Potential payoffs in screening children for type 1 diabetes - Medical Republic",
+          "Six presumed dead as Coast Guard suspends search for missing medical plane near Nantucket - The Guardian"
+        ]
       },
       {
-        "trend": "drug approval",
+        "trend": "virus",
+        "market_code": "AU",
+        "category": "Outbreaks",
+        "score": 8,
+        "examples": [
+          "DRC - Concept of Operations - Ebola Virus Disease (EVD) Outbreak, October 2026 - ReliefWeb",
+          "DRC - Concept of Operations - Ebola Virus Disease (EVD) Outbreak, October 2026 - ReliefWeb",
+          "Congo's Ebola Outbreak Records More than 4,000 Deaths as Authorities Struggle to Contain the Virus - english.aawsat.com"
+        ]
+      },
+      {
+        "trend": "warning",
+        "market_code": "AU",
+        "category": "Global Health",
+        "score": 8,
+        "examples": [
+          "Shortages of crucial HIV medicines due to aid cuts are a ‘warning’, say experts - The Guardian",
+          "Warning Signs of Hypertrophic Cardiomyopathy (HCM) - Cleveland Clinic Health Essentials",
+          "Overdose death prompts official warning over rare drug - The Mercury"
+        ]
+      },
+      {
+        "trend": "healthcare",
+        "market_code": "AU",
+        "category": "Global Health",
+        "score": 8,
+        "examples": [
+          "Accelerating human capacity across healthcare with AI - Microsoft",
+          "Building a Competitive Advantage in the Healthcare AI Market - Harvard Business Review",
+          "AI And Quantum Tech Will Transform Healthcare And Medical Research - Forbes"
+        ]
+      },
+      {
+        "trend": "disease",
+        "market_code": "AU",
+        "category": "Global Health",
+        "score": 7,
+        "examples": [
+          "DRC - Concept of Operations - Ebola Virus Disease (EVD) Outbreak, October 2026 - ReliefWeb",
+          "Russia on high alert after scientist dies of plague: What is this deadly disease? - Firstpost",
+          "DRC - Concept of Operations - Ebola Virus Disease (EVD) Outbreak, October 2026 - ReliefWeb"
+        ]
+      },
+      {
+        "trend": "drug",
         "market_code": "AU",
         "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
+        "score": 7,
+        "examples": [
+          "Overdose death prompts official warning over rare drug - The Mercury",
+          "Overdose death prompts official warning over rare drug - The Mercury",
+          "the fda issued warnings for misleading compounded weight-loss drug ads - polskieradio.pl"
+        ]
       },
       {
-        "trend": "diet wellness",
+        "trend": "research",
+        "market_code": "AU",
+        "category": "Global Health",
+        "score": 6,
+        "examples": [
+          "A full-cycle approach for co-producing trial research for treatment of eating disorders - Nature",
+          "Keeping researchers thinking: The case for ‘cognitive virus immunisation’ - Research Live",
+          "Unknown virus kills lab worker in Russia: 197 quarantined after tube breaks at plague research lab - Bhaskar English"
+        ]
+      },
+      {
+        "trend": "weight",
         "market_code": "AU",
         "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "score": 6,
+        "examples": [
+          "fda adds new warning to weight loss drugs including wegovy - polskieradio.pl",
+          "John Goodman Weight Loss: The Dramatic Transformation That Changed His Life - Diet, Habits & What Worked - 大分トリニータオフィシャルサイト",
+          "Why Losing Weight Is Harder After Age 50 and What Experts Say Helps | Wellness - US News Health"
+        ]
       }
     ],
     "Canada": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "CA",
         "category": "Global Health",
-        "score": 1,
-        "examples": []
+        "score": 55,
+        "examples": [
+          "We’re investing in AI for health care, now we need the infrastructure to support it - The Hill Times",
+          "The mental health of young men is dropping. Experts warn it could get worse - CBC",
+          "From floating saunas to clinical trials: How heat might help mental health - NPR"
+        ]
       },
       {
-        "trend": "outbreak",
+        "trend": "medical",
         "market_code": "CA",
-        "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "category": "Global Health",
+        "score": 16,
+        "examples": [
+          "Aeroplan Members Can Multiply Their Impact for Children Travelling for Essential Medical Care During Points Matching Week - The Globe and Mail",
+          "Soldiers seriously wounded in Iranian drone strike tell AP the military's medical system failed them - Toronto Star",
+          "6 People Vanished on a Medical Flight from Bermuda. 66 Hours Later, Officials Have Ended the Search - Yahoo News Canada"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "CA",
+        "category": "Mental Health",
+        "score": 12,
+        "examples": [
+          "The mental health of young men is dropping. Experts warn it could get worse - CBC",
+          "From floating saunas to clinical trials: How heat might help mental health - NPR",
+          "Addressing vulnerabilities across the life course through a mental health in all policies approach - World Health Organization (WHO)"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "CA",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
+        "score": 12,
+        "examples": [
+          "The mental health of young men is dropping. Experts warn it could get worse - CBC",
+          "From floating saunas to clinical trials: How heat might help mental health - NPR",
+          "Addressing vulnerabilities across the life course through a mental health in all policies approach - World Health Organization (WHO)"
+        ]
       },
       {
-        "trend": "medical research",
+        "trend": "outbreak",
+        "market_code": "CA",
+        "category": "Outbreaks",
+        "score": 12,
+        "examples": [
+          "Scoop: White House monitors suspected plague outbreak in Russia - Axios",
+          "DRC - Concept of Operations - Ebola Virus Disease (EVD) Outbreak, October 2026 - ReliefWeb",
+          "Siberian industrial plant requires masks amid ‘plague’ outbreak fears - TVP World"
+        ]
+      },
+      {
+        "trend": "virus",
+        "market_code": "CA",
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "DRC - Concept of Operations - Ebola Virus Disease (EVD) Outbreak, October 2026 - ReliefWeb",
+          "Congo's Ebola Outbreak Records More than 4,000 Deaths as Authorities Struggle to Contain the Virus - english.aawsat.com",
+          "First human case of West Nile virus this year reported in Waterloo region - CBC"
+        ]
+      },
+      {
+        "trend": "hospital",
         "market_code": "CA",
         "category": "Global Health",
-        "score": 1,
-        "examples": []
+        "score": 8,
+        "examples": [
+          "Sudbury hospital MRI underutilization points to privatization impacts, researcher says - Sudbury News",
+          "Sudbury hospital MRI underutilization points to privatization impacts, researcher says - Sudbury News",
+          "'We need new hospital': Health boss makes stark warning over ageing hospital building - yorkshireeveningpost.co.uk"
+        ]
       },
       {
-        "trend": "drug approval",
+        "trend": "warning",
         "market_code": "CA",
-        "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
+        "category": "Global Health",
+        "score": 8,
+        "examples": [
+          "Canada’s move to permanent daylight time sparks health warning - INsauga",
+          "Warning Signs of Hypertrophic Cardiomyopathy (HCM) - Cleveland Clinic Health Essentials",
+          "Shortages of crucial HIV medicines due to aid cuts are a ‘warning’, say experts - The Guardian"
+        ]
       },
       {
-        "trend": "diet wellness",
+        "trend": "healthcare",
         "market_code": "CA",
-        "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "category": "Global Health",
+        "score": 8,
+        "examples": [
+          "Profound Medical And 2 Other Canadian AI Healthcare Stocks To Watch - Simply Wall Street",
+          "GE HealthCare to explore applying generative AI to radiation therapy workflows - MedTech Dive",
+          "Building a Competitive Advantage in the Healthcare AI Market - hbr.org"
+        ]
+      },
+      {
+        "trend": "researcher",
+        "market_code": "CA",
+        "category": "Global Health",
+        "score": 7,
+        "examples": [
+          "Sudbury hospital MRI underutilization points to privatization impacts, researcher says - Sudbury News",
+          "Sudbury hospital MRI underutilization points to privatization impacts, researcher says - Sudbury News",
+          "Researcher at Russian plague laboratory dies of ‘unknown’ infection - CP24"
+        ]
+      },
+      {
+        "trend": "research",
+        "market_code": "CA",
+        "category": "Global Health",
+        "score": 7,
+        "examples": [
+          "Kids and young adults are addicted to screens. New research argues it may be a public health concern - CBC",
+          "A full-cycle approach for co-producing trial research for treatment of eating disorders - Nature",
+          "Unknown virus kills lab worker in Russia: 197 quarantined after tube breaks at plague research lab - Bhaskar English"
+        ]
+      },
+      {
+        "trend": "infection",
+        "market_code": "CA",
+        "category": "Outbreaks",
+        "score": 6,
+        "examples": [
+          "Researcher at Russian plague laboratory dies of ‘unknown’ infection - CP24",
+          "Researcher at Russian plague laboratory dies of ‘unknown’ infection - CP24",
+          "Researcher dies of ‘unknown’ infection at Russian plague laboratory - CNN"
+        ]
       }
     ],
     "United Arab Emirates": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "AE",
         "category": "Arab Health",
-        "score": 1,
-        "examples": []
+        "score": 67,
+        "examples": [
+          "From floating saunas to clinical trials: How heat might help mental health - NPR",
+          "Wake County to host community resource fair to support children's health, growth and well-being - wake.gov",
+          "Health Care Roundup: Market Talk - WSJ"
+        ]
       },
       {
-        "trend": "outbreak",
+        "trend": "medical",
         "market_code": "AE",
-        "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "category": "Arab Health",
+        "score": 15,
+        "examples": [
+          "6 presumed dead after medical jet crashes off Nantucket - NBC News",
+          "Coast Guard finds debris from missing medical transport plane off Nantucket; search for 6 continues - abcnews.com",
+          "Video: Medical Plane Goes Missing Off Massachusetts Coast - The New York Times"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "AE",
+        "category": "Mental Health",
+        "score": 14,
+        "examples": [
+          "From floating saunas to clinical trials: How heat might help mental health - NPR",
+          "Addressing vulnerabilities across the life course through a mental health in all policies approach - World Health Organization (WHO)",
+          "Sports betting is increasingly the norm for Gen Z. Here’s why some financial and mental health experts are worried - CNBC"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "AE",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
+        "score": 13,
+        "examples": [
+          "From floating saunas to clinical trials: How heat might help mental health - NPR",
+          "Addressing vulnerabilities across the life course through a mental health in all policies approach - World Health Organization (WHO)",
+          "Sports betting is increasingly the norm for Gen Z. Here’s why some financial and mental health experts are worried - CNBC"
+        ]
       },
       {
-        "trend": "medical research",
+        "trend": "outbreak",
+        "market_code": "AE",
+        "category": "Outbreaks",
+        "score": 13,
+        "examples": [
+          "DRC - Concept of Operations - Ebola Virus Disease (EVD) Outbreak, October 2026 - ReliefWeb",
+          "Scoop: White House monitors suspected plague outbreak in Russia - Axios",
+          "Leptospirosis vaccine call after California outbreak study - Vet Times"
+        ]
+      },
+      {
+        "trend": "healthcare",
         "market_code": "AE",
         "category": "Arab Health",
-        "score": 1,
-        "examples": []
+        "score": 11,
+        "examples": [
+          "2026 HCD Conference + Expo Preview: Designing Community-based Public Health Campuses - Healthcare Design Magazine",
+          "GE HealthCare to explore applying generative AI to radiation therapy workflows - MedTech Dive",
+          "Building a Competitive Advantage in the Healthcare AI Market - Harvard Business Review"
+        ]
       },
       {
-        "trend": "drug approval",
+        "trend": "children",
         "market_code": "AE",
-        "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
+        "category": "Children Health",
+        "score": 9,
+        "examples": [
+          "Wake County to host community resource fair to support children's health, growth and well-being - wake.gov",
+          "UT San Antonio Health Science Center study finds elevated levels of toxicants in teeth of children with autism - UT Health San Antonio",
+          "Wake County to host community resource fair to support children's health, growth and well-being - wake.gov"
+        ]
       },
       {
-        "trend": "diet wellness",
+        "trend": "virus",
         "market_code": "AE",
-        "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "DRC - Concept of Operations - Ebola Virus Disease (EVD) Outbreak, October 2026 - ReliefWeb",
+          "DRC - Concept of Operations - Ebola Virus Disease (EVD) Outbreak, October 2026 - ReliefWeb",
+          "Long Beach child hospitalized with rare disease related to West Nile virus - KTLA"
+        ]
+      },
+      {
+        "trend": "disease",
+        "market_code": "AE",
+        "category": "Arab Health",
+        "score": 8,
+        "examples": [
+          "DRC - Concept of Operations - Ebola Virus Disease (EVD) Outbreak, October 2026 - ReliefWeb",
+          "Russia on high alert after scientist dies of plague: What is this deadly disease? - Firstpost",
+          "DRC - Concept of Operations - Ebola Virus Disease (EVD) Outbreak, October 2026 - ReliefWeb"
+        ]
+      },
+      {
+        "trend": "health care",
+        "market_code": "AE",
+        "category": "Arab Health",
+        "score": 7,
+        "examples": [
+          "Health Care Roundup: Market Talk - WSJ",
+          "On the ground in Syria: seeing health care through the people who deliver it - emro.who.int",
+          "Study says San Antonio's mental health care access is worst in the U.S. - San Antonio Express-News"
+        ]
+      },
+      {
+        "trend": "clinical",
+        "market_code": "AE",
+        "category": "Arab Health",
+        "score": 6,
+        "examples": [
+          "From floating saunas to clinical trials: How heat might help mental health - NPR",
+          "From floating saunas to clinical trials: How heat might help mental health - NPR",
+          "From floating saunas to clinical trials: How heat might help mental health - KGOU"
+        ]
+      },
+      {
+        "trend": "medicine",
+        "market_code": "AE",
+        "category": "Arab Health",
+        "score": 6,
+        "examples": [
+          "Patrick F. Szukics, D.O., Joins Baptist Health Orthopedic Care as Orthopedic Sports Medicine Surgeon - South Florida Hospital News",
+          "Digital alerts support timely treatment decisions of critically ill cardiac patients - Michigan Medicine",
+          "Exclusive | She was ready to die. Now she’s in remission — cancer vaccines could be the next big thing in medicine - New York Post"
+        ]
       }
     ],
     "Saudi Arabia": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "SA",
         "category": "Arab Health",
-        "score": 1,
-        "examples": []
+        "score": 67,
+        "examples": [
+          "From floating saunas to clinical trials: How heat might help mental health - NPR",
+          "Wake County to host community resource fair to support children's health, growth and well-being - wake.gov",
+          "Health Care Roundup: Market Talk - WSJ"
+        ]
       },
       {
-        "trend": "outbreak",
+        "trend": "medical",
         "market_code": "SA",
-        "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "category": "Arab Health",
+        "score": 15,
+        "examples": [
+          "6 presumed dead after medical jet crashes off Nantucket - NBC News",
+          "Coast Guard finds debris from missing medical transport plane off Nantucket; search for 6 continues - abcnews.com",
+          "Video: Medical Plane Goes Missing Off Massachusetts Coast - The New York Times"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "SA",
+        "category": "Mental Health",
+        "score": 14,
+        "examples": [
+          "From floating saunas to clinical trials: How heat might help mental health - NPR",
+          "Addressing vulnerabilities across the life course through a mental health in all policies approach - World Health Organization (WHO)",
+          "Sports betting is increasingly the norm for Gen Z. Here’s why some financial and mental health experts are worried - CNBC"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "SA",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
+        "score": 13,
+        "examples": [
+          "From floating saunas to clinical trials: How heat might help mental health - NPR",
+          "Addressing vulnerabilities across the life course through a mental health in all policies approach - World Health Organization (WHO)",
+          "Sports betting is increasingly the norm for Gen Z. Here’s why some financial and mental health experts are worried - CNBC"
+        ]
       },
       {
-        "trend": "medical research",
+        "trend": "outbreak",
+        "market_code": "SA",
+        "category": "Outbreaks",
+        "score": 13,
+        "examples": [
+          "DRC - Concept of Operations - Ebola Virus Disease (EVD) Outbreak, October 2026 - ReliefWeb",
+          "Scoop: White House monitors suspected plague outbreak in Russia - Axios",
+          "Leptospirosis vaccine call after California outbreak study - Vet Times"
+        ]
+      },
+      {
+        "trend": "healthcare",
         "market_code": "SA",
         "category": "Arab Health",
-        "score": 1,
-        "examples": []
+        "score": 11,
+        "examples": [
+          "2026 HCD Conference + Expo Preview: Designing Community-based Public Health Campuses - Healthcare Design Magazine",
+          "GE HealthCare to explore applying generative AI to radiation therapy workflows - MedTech Dive",
+          "Building a Competitive Advantage in the Healthcare AI Market - Harvard Business Review"
+        ]
       },
       {
-        "trend": "drug approval",
+        "trend": "children",
         "market_code": "SA",
-        "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
+        "category": "Children Health",
+        "score": 9,
+        "examples": [
+          "Wake County to host community resource fair to support children's health, growth and well-being - wake.gov",
+          "UT San Antonio Health Science Center study finds elevated levels of toxicants in teeth of children with autism - UT Health San Antonio",
+          "Wake County to host community resource fair to support children's health, growth and well-being - wake.gov"
+        ]
       },
       {
-        "trend": "diet wellness",
+        "trend": "virus",
         "market_code": "SA",
-        "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "DRC - Concept of Operations - Ebola Virus Disease (EVD) Outbreak, October 2026 - ReliefWeb",
+          "DRC - Concept of Operations - Ebola Virus Disease (EVD) Outbreak, October 2026 - ReliefWeb",
+          "Long Beach child hospitalized with rare disease related to West Nile virus - KTLA"
+        ]
+      },
+      {
+        "trend": "disease",
+        "market_code": "SA",
+        "category": "Arab Health",
+        "score": 8,
+        "examples": [
+          "DRC - Concept of Operations - Ebola Virus Disease (EVD) Outbreak, October 2026 - ReliefWeb",
+          "Russia on high alert after scientist dies of plague: What is this deadly disease? - Firstpost",
+          "DRC - Concept of Operations - Ebola Virus Disease (EVD) Outbreak, October 2026 - ReliefWeb"
+        ]
+      },
+      {
+        "trend": "health care",
+        "market_code": "SA",
+        "category": "Arab Health",
+        "score": 7,
+        "examples": [
+          "Health Care Roundup: Market Talk - WSJ",
+          "On the ground in Syria: seeing health care through the people who deliver it - emro.who.int",
+          "Study says San Antonio's mental health care access is worst in the U.S. - San Antonio Express-News"
+        ]
+      },
+      {
+        "trend": "clinical",
+        "market_code": "SA",
+        "category": "Arab Health",
+        "score": 6,
+        "examples": [
+          "From floating saunas to clinical trials: How heat might help mental health - NPR",
+          "From floating saunas to clinical trials: How heat might help mental health - NPR",
+          "From floating saunas to clinical trials: How heat might help mental health - KGOU"
+        ]
+      },
+      {
+        "trend": "medicine",
+        "market_code": "SA",
+        "category": "Arab Health",
+        "score": 6,
+        "examples": [
+          "Patrick F. Szukics, D.O., Joins Baptist Health Orthopedic Care as Orthopedic Sports Medicine Surgeon - South Florida Hospital News",
+          "Digital alerts support timely treatment decisions of critically ill cardiac patients - Michigan Medicine",
+          "Exclusive | She was ready to die. Now she’s in remission — cancer vaccines could be the next big thing in medicine - New York Post"
+        ]
       }
     ],
     "Qatar": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "QA",
         "category": "Arab Health",
-        "score": 1,
-        "examples": []
+        "score": 67,
+        "examples": [
+          "From floating saunas to clinical trials: How heat might help mental health - NPR",
+          "Wake County to host community resource fair to support children's health, growth and well-being - wake.gov",
+          "Health Care Roundup: Market Talk - WSJ"
+        ]
       },
       {
-        "trend": "outbreak",
+        "trend": "medical",
         "market_code": "QA",
-        "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "category": "Arab Health",
+        "score": 15,
+        "examples": [
+          "6 presumed dead after medical jet crashes off Nantucket - NBC News",
+          "Coast Guard finds debris from missing medical transport plane off Nantucket; search for 6 continues - abcnews.com",
+          "Video: Medical Plane Goes Missing Off Massachusetts Coast - The New York Times"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "QA",
+        "category": "Mental Health",
+        "score": 14,
+        "examples": [
+          "From floating saunas to clinical trials: How heat might help mental health - NPR",
+          "Addressing vulnerabilities across the life course through a mental health in all policies approach - World Health Organization (WHO)",
+          "Sports betting is increasingly the norm for Gen Z. Here’s why some financial and mental health experts are worried - CNBC"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "QA",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
+        "score": 13,
+        "examples": [
+          "From floating saunas to clinical trials: How heat might help mental health - NPR",
+          "Addressing vulnerabilities across the life course through a mental health in all policies approach - World Health Organization (WHO)",
+          "Sports betting is increasingly the norm for Gen Z. Here’s why some financial and mental health experts are worried - CNBC"
+        ]
       },
       {
-        "trend": "medical research",
+        "trend": "outbreak",
+        "market_code": "QA",
+        "category": "Outbreaks",
+        "score": 13,
+        "examples": [
+          "DRC - Concept of Operations - Ebola Virus Disease (EVD) Outbreak, October 2026 - ReliefWeb",
+          "Scoop: White House monitors suspected plague outbreak in Russia - Axios",
+          "Leptospirosis vaccine call after California outbreak study - Vet Times"
+        ]
+      },
+      {
+        "trend": "healthcare",
         "market_code": "QA",
         "category": "Arab Health",
-        "score": 1,
-        "examples": []
+        "score": 11,
+        "examples": [
+          "2026 HCD Conference + Expo Preview: Designing Community-based Public Health Campuses - Healthcare Design Magazine",
+          "GE HealthCare to explore applying generative AI to radiation therapy workflows - MedTech Dive",
+          "Building a Competitive Advantage in the Healthcare AI Market - Harvard Business Review"
+        ]
       },
       {
-        "trend": "drug approval",
+        "trend": "children",
         "market_code": "QA",
-        "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
+        "category": "Children Health",
+        "score": 9,
+        "examples": [
+          "Wake County to host community resource fair to support children's health, growth and well-being - wake.gov",
+          "UT San Antonio Health Science Center study finds elevated levels of toxicants in teeth of children with autism - UT Health San Antonio",
+          "Wake County to host community resource fair to support children's health, growth and well-being - wake.gov"
+        ]
       },
       {
-        "trend": "diet wellness",
+        "trend": "virus",
         "market_code": "QA",
-        "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "DRC - Concept of Operations - Ebola Virus Disease (EVD) Outbreak, October 2026 - ReliefWeb",
+          "DRC - Concept of Operations - Ebola Virus Disease (EVD) Outbreak, October 2026 - ReliefWeb",
+          "Long Beach child hospitalized with rare disease related to West Nile virus - KTLA"
+        ]
+      },
+      {
+        "trend": "disease",
+        "market_code": "QA",
+        "category": "Arab Health",
+        "score": 8,
+        "examples": [
+          "DRC - Concept of Operations - Ebola Virus Disease (EVD) Outbreak, October 2026 - ReliefWeb",
+          "Russia on high alert after scientist dies of plague: What is this deadly disease? - Firstpost",
+          "DRC - Concept of Operations - Ebola Virus Disease (EVD) Outbreak, October 2026 - ReliefWeb"
+        ]
+      },
+      {
+        "trend": "health care",
+        "market_code": "QA",
+        "category": "Arab Health",
+        "score": 7,
+        "examples": [
+          "Health Care Roundup: Market Talk - WSJ",
+          "On the ground in Syria: seeing health care through the people who deliver it - emro.who.int",
+          "Study says San Antonio's mental health care access is worst in the U.S. - San Antonio Express-News"
+        ]
+      },
+      {
+        "trend": "clinical",
+        "market_code": "QA",
+        "category": "Arab Health",
+        "score": 6,
+        "examples": [
+          "From floating saunas to clinical trials: How heat might help mental health - NPR",
+          "From floating saunas to clinical trials: How heat might help mental health - NPR",
+          "From floating saunas to clinical trials: How heat might help mental health - KGOU"
+        ]
+      },
+      {
+        "trend": "medicine",
+        "market_code": "QA",
+        "category": "Arab Health",
+        "score": 6,
+        "examples": [
+          "Patrick F. Szukics, D.O., Joins Baptist Health Orthopedic Care as Orthopedic Sports Medicine Surgeon - South Florida Hospital News",
+          "Digital alerts support timely treatment decisions of critically ill cardiac patients - Michigan Medicine",
+          "Exclusive | She was ready to die. Now she’s in remission — cancer vaccines could be the next big thing in medicine - New York Post"
+        ]
       }
     ],
     "Jordan": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "JO",
         "category": "Arab Health",
-        "score": 1,
-        "examples": []
+        "score": 67,
+        "examples": [
+          "From floating saunas to clinical trials: How heat might help mental health - NPR",
+          "Wake County to host community resource fair to support children's health, growth and well-being - wake.gov",
+          "Health Care Roundup: Market Talk - WSJ"
+        ]
       },
       {
-        "trend": "outbreak",
+        "trend": "medical",
         "market_code": "JO",
-        "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "category": "Arab Health",
+        "score": 15,
+        "examples": [
+          "6 presumed dead after medical jet crashes off Nantucket - NBC News",
+          "Coast Guard finds debris from missing medical transport plane off Nantucket; search for 6 continues - abcnews.com",
+          "Video: Medical Plane Goes Missing Off Massachusetts Coast - The New York Times"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "JO",
+        "category": "Mental Health",
+        "score": 14,
+        "examples": [
+          "From floating saunas to clinical trials: How heat might help mental health - NPR",
+          "Addressing vulnerabilities across the life course through a mental health in all policies approach - World Health Organization (WHO)",
+          "Sports betting is increasingly the norm for Gen Z. Here’s why some financial and mental health experts are worried - CNBC"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "JO",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
+        "score": 13,
+        "examples": [
+          "From floating saunas to clinical trials: How heat might help mental health - NPR",
+          "Addressing vulnerabilities across the life course through a mental health in all policies approach - World Health Organization (WHO)",
+          "Sports betting is increasingly the norm for Gen Z. Here’s why some financial and mental health experts are worried - CNBC"
+        ]
       },
       {
-        "trend": "medical research",
+        "trend": "outbreak",
+        "market_code": "JO",
+        "category": "Outbreaks",
+        "score": 13,
+        "examples": [
+          "DRC - Concept of Operations - Ebola Virus Disease (EVD) Outbreak, October 2026 - ReliefWeb",
+          "Scoop: White House monitors suspected plague outbreak in Russia - Axios",
+          "Leptospirosis vaccine call after California outbreak study - Vet Times"
+        ]
+      },
+      {
+        "trend": "healthcare",
         "market_code": "JO",
         "category": "Arab Health",
-        "score": 1,
-        "examples": []
+        "score": 11,
+        "examples": [
+          "2026 HCD Conference + Expo Preview: Designing Community-based Public Health Campuses - Healthcare Design Magazine",
+          "GE HealthCare to explore applying generative AI to radiation therapy workflows - MedTech Dive",
+          "Building a Competitive Advantage in the Healthcare AI Market - Harvard Business Review"
+        ]
       },
       {
-        "trend": "drug approval",
+        "trend": "children",
         "market_code": "JO",
-        "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
+        "category": "Children Health",
+        "score": 9,
+        "examples": [
+          "Wake County to host community resource fair to support children's health, growth and well-being - wake.gov",
+          "UT San Antonio Health Science Center study finds elevated levels of toxicants in teeth of children with autism - UT Health San Antonio",
+          "Wake County to host community resource fair to support children's health, growth and well-being - wake.gov"
+        ]
       },
       {
-        "trend": "diet wellness",
+        "trend": "virus",
         "market_code": "JO",
-        "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "DRC - Concept of Operations - Ebola Virus Disease (EVD) Outbreak, October 2026 - ReliefWeb",
+          "DRC - Concept of Operations - Ebola Virus Disease (EVD) Outbreak, October 2026 - ReliefWeb",
+          "Long Beach child hospitalized with rare disease related to West Nile virus - KTLA"
+        ]
+      },
+      {
+        "trend": "disease",
+        "market_code": "JO",
+        "category": "Arab Health",
+        "score": 8,
+        "examples": [
+          "DRC - Concept of Operations - Ebola Virus Disease (EVD) Outbreak, October 2026 - ReliefWeb",
+          "Russia on high alert after scientist dies of plague: What is this deadly disease? - Firstpost",
+          "DRC - Concept of Operations - Ebola Virus Disease (EVD) Outbreak, October 2026 - ReliefWeb"
+        ]
+      },
+      {
+        "trend": "health care",
+        "market_code": "JO",
+        "category": "Arab Health",
+        "score": 7,
+        "examples": [
+          "Health Care Roundup: Market Talk - WSJ",
+          "On the ground in Syria: seeing health care through the people who deliver it - emro.who.int",
+          "Study says San Antonio's mental health care access is worst in the U.S. - San Antonio Express-News"
+        ]
+      },
+      {
+        "trend": "clinical",
+        "market_code": "JO",
+        "category": "Arab Health",
+        "score": 6,
+        "examples": [
+          "From floating saunas to clinical trials: How heat might help mental health - NPR",
+          "From floating saunas to clinical trials: How heat might help mental health - NPR",
+          "From floating saunas to clinical trials: How heat might help mental health - KGOU"
+        ]
+      },
+      {
+        "trend": "medicine",
+        "market_code": "JO",
+        "category": "Arab Health",
+        "score": 6,
+        "examples": [
+          "Patrick F. Szukics, D.O., Joins Baptist Health Orthopedic Care as Orthopedic Sports Medicine Surgeon - South Florida Hospital News",
+          "Digital alerts support timely treatment decisions of critically ill cardiac patients - Michigan Medicine",
+          "Exclusive | She was ready to die. Now she’s in remission — cancer vaccines could be the next big thing in medicine - New York Post"
+        ]
       }
     ],
     "Lebanon": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "LB",
         "category": "Arab Health",
-        "score": 1,
-        "examples": []
+        "score": 67,
+        "examples": [
+          "From floating saunas to clinical trials: How heat might help mental health - NPR",
+          "Wake County to host community resource fair to support children's health, growth and well-being - wake.gov",
+          "Health Care Roundup: Market Talk - WSJ"
+        ]
       },
       {
-        "trend": "outbreak",
+        "trend": "medical",
         "market_code": "LB",
-        "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "category": "Arab Health",
+        "score": 15,
+        "examples": [
+          "6 presumed dead after medical jet crashes off Nantucket - NBC News",
+          "Coast Guard finds debris from missing medical transport plane off Nantucket; search for 6 continues - abcnews.com",
+          "Video: Medical Plane Goes Missing Off Massachusetts Coast - The New York Times"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "LB",
+        "category": "Mental Health",
+        "score": 14,
+        "examples": [
+          "From floating saunas to clinical trials: How heat might help mental health - NPR",
+          "Addressing vulnerabilities across the life course through a mental health in all policies approach - World Health Organization (WHO)",
+          "Sports betting is increasingly the norm for Gen Z. Here’s why some financial and mental health experts are worried - CNBC"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "LB",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
+        "score": 13,
+        "examples": [
+          "From floating saunas to clinical trials: How heat might help mental health - NPR",
+          "Addressing vulnerabilities across the life course through a mental health in all policies approach - World Health Organization (WHO)",
+          "Sports betting is increasingly the norm for Gen Z. Here’s why some financial and mental health experts are worried - CNBC"
+        ]
       },
       {
-        "trend": "medical research",
+        "trend": "outbreak",
+        "market_code": "LB",
+        "category": "Outbreaks",
+        "score": 13,
+        "examples": [
+          "DRC - Concept of Operations - Ebola Virus Disease (EVD) Outbreak, October 2026 - ReliefWeb",
+          "Scoop: White House monitors suspected plague outbreak in Russia - Axios",
+          "Leptospirosis vaccine call after California outbreak study - Vet Times"
+        ]
+      },
+      {
+        "trend": "healthcare",
         "market_code": "LB",
         "category": "Arab Health",
-        "score": 1,
-        "examples": []
+        "score": 11,
+        "examples": [
+          "2026 HCD Conference + Expo Preview: Designing Community-based Public Health Campuses - Healthcare Design Magazine",
+          "GE HealthCare to explore applying generative AI to radiation therapy workflows - MedTech Dive",
+          "Building a Competitive Advantage in the Healthcare AI Market - Harvard Business Review"
+        ]
       },
       {
-        "trend": "drug approval",
+        "trend": "children",
         "market_code": "LB",
-        "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
+        "category": "Children Health",
+        "score": 9,
+        "examples": [
+          "Wake County to host community resource fair to support children's health, growth and well-being - wake.gov",
+          "UT San Antonio Health Science Center study finds elevated levels of toxicants in teeth of children with autism - UT Health San Antonio",
+          "Wake County to host community resource fair to support children's health, growth and well-being - wake.gov"
+        ]
       },
       {
-        "trend": "diet wellness",
+        "trend": "virus",
         "market_code": "LB",
-        "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "DRC - Concept of Operations - Ebola Virus Disease (EVD) Outbreak, October 2026 - ReliefWeb",
+          "DRC - Concept of Operations - Ebola Virus Disease (EVD) Outbreak, October 2026 - ReliefWeb",
+          "Long Beach child hospitalized with rare disease related to West Nile virus - KTLA"
+        ]
+      },
+      {
+        "trend": "disease",
+        "market_code": "LB",
+        "category": "Arab Health",
+        "score": 8,
+        "examples": [
+          "DRC - Concept of Operations - Ebola Virus Disease (EVD) Outbreak, October 2026 - ReliefWeb",
+          "Russia on high alert after scientist dies of plague: What is this deadly disease? - Firstpost",
+          "DRC - Concept of Operations - Ebola Virus Disease (EVD) Outbreak, October 2026 - ReliefWeb"
+        ]
+      },
+      {
+        "trend": "health care",
+        "market_code": "LB",
+        "category": "Arab Health",
+        "score": 7,
+        "examples": [
+          "Health Care Roundup: Market Talk - WSJ",
+          "On the ground in Syria: seeing health care through the people who deliver it - emro.who.int",
+          "Study says San Antonio's mental health care access is worst in the U.S. - San Antonio Express-News"
+        ]
+      },
+      {
+        "trend": "clinical",
+        "market_code": "LB",
+        "category": "Arab Health",
+        "score": 6,
+        "examples": [
+          "From floating saunas to clinical trials: How heat might help mental health - NPR",
+          "From floating saunas to clinical trials: How heat might help mental health - NPR",
+          "From floating saunas to clinical trials: How heat might help mental health - KGOU"
+        ]
+      },
+      {
+        "trend": "medicine",
+        "market_code": "LB",
+        "category": "Arab Health",
+        "score": 6,
+        "examples": [
+          "Patrick F. Szukics, D.O., Joins Baptist Health Orthopedic Care as Orthopedic Sports Medicine Surgeon - South Florida Hospital News",
+          "Digital alerts support timely treatment decisions of critically ill cardiac patients - Michigan Medicine",
+          "Exclusive | She was ready to die. Now she’s in remission — cancer vaccines could be the next big thing in medicine - New York Post"
+        ]
       }
     ]
   }
