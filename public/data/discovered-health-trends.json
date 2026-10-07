@@ -1,929 +1,2819 @@
 {
-  "updated_at": "2026-10-07T03:35:02.733258+00:00",
-  "total_trends": 126,
+  "updated_at": "2026-10-07T12:08:51.214626+00:00",
+  "total_trends": 252,
   "markets": {
     "United States": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "US",
         "category": "US Health",
-        "score": 1,
-        "examples": []
+        "score": 69,
+        "examples": [
+          "World Mental Health Day webinar - World Health Organization (WHO)",
+          "World Mental Health Day webinar - World Health Organization (WHO)",
+          "Health Care Roundup: Market Talk - WSJ"
+        ]
       },
       {
-        "trend": "outbreak",
+        "trend": "medical",
         "market_code": "US",
-        "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "category": "US Health",
+        "score": 21,
+        "examples": [
+          "'Medicare for All' message attracts midterm voters buckling under medical bills - NPR",
+          "Virtual presentation on Medicare, Purdue medical, HSA plans available - Purdue University",
+          "Coast Guard names 6 people onboard medical transport plane - ABC News - Breaking News, Latest News and Videos"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "US",
+        "category": "Mental Health",
+        "score": 12,
+        "examples": [
+          "World Mental Health Day webinar - World Health Organization (WHO)",
+          "World Mental Health Day webinar - World Health Organization (WHO)",
+          "Eagles star Lane Johnson announces retirement: 'Critical that I focus on my mental health' - ABC News - Breaking News, Latest News and Videos"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "US",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
+        "score": 12,
+        "examples": [
+          "World Mental Health Day webinar - World Health Organization (WHO)",
+          "World Mental Health Day webinar - World Health Organization (WHO)",
+          "Eagles star Lane Johnson announces retirement: 'Critical that I focus on my mental health' - ABC News - Breaking News, Latest News and Videos"
+        ]
       },
       {
-        "trend": "medical research",
+        "trend": "healthcare",
         "market_code": "US",
         "category": "US Health",
-        "score": 1,
-        "examples": []
+        "score": 11,
+        "examples": [
+          "FTC Sends Warning Letters to 24 Healthcare Organizations Over Price Transparency - MedCity News",
+          "Six physician organizations speak out against AI's superiority - Healthcare Finance News",
+          "GE HealthCare hires new global chief AI officer - MedTech Dive"
+        ]
       },
       {
-        "trend": "drug approval",
+        "trend": "warning",
         "market_code": "US",
-        "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
+        "category": "US Health",
+        "score": 9,
+        "examples": [
+          "Utah health officials issue ‘urgent’ warning about kratom, ‘cat’s claw’ products after overdoses - Utah News Dispatch",
+          "Sickly creature found in Los Angeles prompts official warning — marks first case in 50 years - New York Post",
+          "Pediatricians warning parents about health risks from raw milk - CBS News"
+        ]
       },
       {
-        "trend": "diet wellness",
+        "trend": "outbreak",
+        "market_code": "US",
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "Pennsylvania Measles Outbreak: 3 Lessons for the US - National Foundation for Infectious Diseases",
+          "Pennsylvania faces largest measles outbreak in decades as case count rises to 1,000 - The Guardian",
+          "Pittsburgh-area health experts sound the alarm on measles outbreak - CBS News"
+        ]
+      },
+      {
+        "trend": "measles",
+        "market_code": "US",
+        "category": "Outbreaks",
+        "score": 8,
+        "examples": [
+          "Health Alert: New York measles disaster emergency after more than 100 cases; Pennsylvania nears 1,000 at the state line - WHEC.com",
+          "Pennsylvania Measles Outbreak: 3 Lessons for the US - National Foundation for Infectious Diseases",
+          "Pennsylvania faces largest measles outbreak in decades as case count rises to 1,000 - The Guardian"
+        ]
+      },
+      {
+        "trend": "virus",
+        "market_code": "US",
+        "category": "Outbreaks",
+        "score": 8,
+        "examples": [
+          "Unknown virus leaves some Iowa patients sick for weeks - KCCI",
+          "First West Nile virus death of 2026 reported in DuPage County - NBC 5 Chicago",
+          "West Nile virus detected in mosquitoes between Robstown and Driscoll - kiiitv.com"
+        ]
+      },
+      {
+        "trend": "wellness",
         "market_code": "US",
         "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "score": 8,
+        "examples": [
+          "A Pathway to Wellness: Exploring Trails as Lifelines for Mental Health - Rails to Trails Conservancy",
+          "Improve your health habits with Wellness Wednesday - MPR News",
+          "Nutritional Outlook Returns with the Second Annual \"The Outlook on Active Nutrition,\" Bringing Industry Leaders Together to Explore What's Next in Performance, Wellness, and Longevity | Nutritional Outlook - Supplement, Food & Beverage Manufacturing Tre - Nutritional Outlook"
+        ]
+      },
+      {
+        "trend": "children",
+        "market_code": "US",
+        "category": "Children Health",
+        "score": 7,
+        "examples": [
+          "GLP-1 Drugs? Surgery? WHO Issues Guidelines For Obesity In Children - Health Policy Watch",
+          "Scientists identify gene signatures in children with severe COVID-19 infection - Medical Xpress",
+          "Scientists identify gene signatures in children with severe COVID-19 infection - University of Southampton"
+        ]
+      },
+      {
+        "trend": "public health",
+        "market_code": "US",
+        "category": "US Health",
+        "score": 7,
+        "examples": [
+          "Structural fragility in digital public health communication - Nature",
+          "Elon nursing faculty earn poster recognition at NC Public Health Association Conference - Elon University",
+          "Local Farms and Food Businesses Receive Nearly $500,000 in Grants to Help Make Metro Chicago Food System More Equitable - Cook County Department of Public Health"
+        ]
       }
     ],
     "United Kingdom": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "GB",
         "category": "Europe Health",
-        "score": 1,
-        "examples": []
+        "score": 72,
+        "examples": [
+          "World Mental Health Day webinar - World Health Organization (WHO)",
+          "World Mental Health Day webinar - World Health Organization (WHO)",
+          "ABPI Northern Ireland: A vision for health and growth - Association of the British Pharmaceutical Industry (ABPI)"
+        ]
       },
       {
-        "trend": "outbreak",
+        "trend": "mental",
         "market_code": "GB",
-        "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "category": "Mental Health",
+        "score": 20,
+        "examples": [
+          "World Mental Health Day webinar - World Health Organization (WHO)",
+          "World Mental Health Day 2026 - warrington.gov.uk",
+          "Helen Undy OBE named Chief Executive of Mental Health Foundation - Mental Health Foundation"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "GB",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
+        "score": 19,
+        "examples": [
+          "World Mental Health Day webinar - World Health Organization (WHO)",
+          "World Mental Health Day 2026 - warrington.gov.uk",
+          "Helen Undy OBE named Chief Executive of Mental Health Foundation - Mental Health Foundation"
+        ]
       },
       {
-        "trend": "medical research",
+        "trend": "medical",
         "market_code": "GB",
         "category": "Europe Health",
-        "score": 1,
-        "examples": []
+        "score": 19,
+        "examples": [
+          "Inside an AI-enabled health care facility: Korea’s Samsung Medical Centre - The Health Foundation",
+          "Hampshire woman wants to break silence on medical terminations - BBC",
+          "Angle RNLI tasked to medical emergency onboard fishing vessel - RNLI"
+        ]
       },
       {
-        "trend": "drug approval",
+        "trend": "healthcare",
         "market_code": "GB",
-        "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
+        "category": "Europe Health",
+        "score": 12,
+        "examples": [
+          "UKHSA appoints chief medical advisor and chief scientific officer - Healthcare Management Magazine",
+          "[Press release] ViiV Healthcare’s long-acting HIV treatment Cabenuva (cabotegravir + rilpivirine) meets primary endpoint of superior viral suppression vs. daily oral therapy in people with viremia - European AIDS Treatment Group",
+          "UK Government supports new rules for AI in healthcare - Open Access Government"
+        ]
       },
       {
-        "trend": "diet wellness",
+        "trend": "outbreak",
         "market_code": "GB",
-        "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "category": "Outbreaks",
+        "score": 12,
+        "examples": [
+          "US issues health alert over suspected plague case in Russia as WHO says outbreak risk is low - Hromadske",
+          "South West Water owner seeks £550m cash injection after parasite outbreak - The Telegraph",
+          "Russia suspected plague outbreak: how worried should we be? - The Times"
+        ]
+      },
+      {
+        "trend": "warning",
+        "market_code": "GB",
+        "category": "Europe Health",
+        "score": 9,
+        "examples": [
+          "Warning shared to two million Brits privately prescribed cannabis - The Independent",
+          "Primark issues 'risk to health' warning as Halloween decorations recalled over asbestos fears - Chronicle Live",
+          "Warning shared to two million Brits privately prescribed cannabis - The Independent"
+        ]
+      },
+      {
+        "trend": "health alert",
+        "market_code": "GB",
+        "category": "Europe Health",
+        "score": 8,
+        "examples": [
+          "Health Alert – U.S. Embassy Moscow, Russia (October 6, 2026) - U.S. Embassy & Consulates in Russia (.gov)",
+          "US issues health alert over suspected plague case in Russia - TVP World",
+          "Health Alert – U.S. Embassy Moscow, Russia (October 6, 2026) - U.S. Embassy & Consulates in Russia (.gov)"
+        ]
+      },
+      {
+        "trend": "health foundation",
+        "market_code": "GB",
+        "category": "Europe Health",
+        "score": 7,
+        "examples": [
+          "Helen Undy OBE named Chief Executive of Mental Health Foundation - Mental Health Foundation",
+          "Helen Undy OBE named Chief Executive of Mental Health Foundation - Mental Health Foundation",
+          "Inside an AI-enabled health care facility: Korea’s Samsung Medical Centre - The Health Foundation"
+        ]
+      },
+      {
+        "trend": "plague outbreak",
+        "market_code": "GB",
+        "category": "Outbreaks",
+        "score": 7,
+        "examples": [
+          "Russia suspected plague outbreak: how worried should we be? - The Times",
+          "Plague outbreak? Russian lab worker dies in Siberia - The Latest - The Guardian",
+          "US 'Monitoring' Suspected Plague Outbreak in Russia - BBC"
+        ]
+      },
+      {
+        "trend": "children",
+        "market_code": "GB",
+        "category": "Children Health",
+        "score": 7,
+        "examples": [
+          "Scientists identify gene signatures in children with severe COVID-19 infection - University of Southampton",
+          "Scientists identify gene signatures in children with severe COVID-19 infection - Medical Xpress",
+          "Teddy bears with medical devices help normalize them for children - Medical Xpress"
+        ]
+      },
+      {
+        "trend": "health care",
+        "market_code": "GB",
+        "category": "Europe Health",
+        "score": 6,
+        "examples": [
+          "Bengoa: Ten years on how much has NI's health care system changed? - BBC",
+          "Inside an AI-enabled health care facility: Korea’s Samsung Medical Centre - The Health Foundation",
+          "Redefining and Delivering Mental Health Care - Children's Hospital Association"
+        ]
       }
     ],
     "Germany": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "DE",
         "category": "Europe Health",
-        "score": 1,
-        "examples": []
+        "score": 69,
+        "examples": [
+          "World Mental Health Day webinar - World Health Organization (WHO)",
+          "World Mental Health Day webinar - World Health Organization (WHO)",
+          "Health Care Roundup: Market Talk - WSJ"
+        ]
       },
       {
-        "trend": "outbreak",
+        "trend": "medical",
         "market_code": "DE",
-        "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "category": "Europe Health",
+        "score": 21,
+        "examples": [
+          "'Medicare for All' message attracts midterm voters buckling under medical bills - NPR",
+          "Virtual presentation on Medicare, Purdue medical, HSA plans available - Purdue University",
+          "Coast Guard names 6 people onboard medical transport plane - ABC News - Breaking News, Latest News and Videos"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "DE",
+        "category": "Mental Health",
+        "score": 12,
+        "examples": [
+          "World Mental Health Day webinar - World Health Organization (WHO)",
+          "World Mental Health Day webinar - World Health Organization (WHO)",
+          "Eagles star Lane Johnson announces retirement: 'Critical that I focus on my mental health' - ABC News - Breaking News, Latest News and Videos"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "DE",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
+        "score": 12,
+        "examples": [
+          "World Mental Health Day webinar - World Health Organization (WHO)",
+          "World Mental Health Day webinar - World Health Organization (WHO)",
+          "Eagles star Lane Johnson announces retirement: 'Critical that I focus on my mental health' - ABC News - Breaking News, Latest News and Videos"
+        ]
       },
       {
-        "trend": "medical research",
+        "trend": "healthcare",
         "market_code": "DE",
         "category": "Europe Health",
-        "score": 1,
-        "examples": []
+        "score": 11,
+        "examples": [
+          "FTC Sends Warning Letters to 24 Healthcare Organizations Over Price Transparency - MedCity News",
+          "Six physician organizations speak out against AI's superiority - Healthcare Finance News",
+          "GE HealthCare hires new global chief AI officer - MedTech Dive"
+        ]
       },
       {
-        "trend": "drug approval",
+        "trend": "warning",
         "market_code": "DE",
-        "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
+        "category": "Europe Health",
+        "score": 9,
+        "examples": [
+          "Utah health officials issue ‘urgent’ warning about kratom, ‘cat’s claw’ products after overdoses - Utah News Dispatch",
+          "Sickly creature found in Los Angeles prompts official warning — marks first case in 50 years - New York Post",
+          "Pediatricians warning parents about health risks from raw milk - CBS News"
+        ]
       },
       {
-        "trend": "diet wellness",
+        "trend": "outbreak",
+        "market_code": "DE",
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "Pennsylvania Measles Outbreak: 3 Lessons for the US - National Foundation for Infectious Diseases",
+          "Pennsylvania faces largest measles outbreak in decades as case count rises to 1,000 - The Guardian",
+          "Pittsburgh-area health experts sound the alarm on measles outbreak - CBS News"
+        ]
+      },
+      {
+        "trend": "measles",
+        "market_code": "DE",
+        "category": "Outbreaks",
+        "score": 8,
+        "examples": [
+          "Health Alert: New York measles disaster emergency after more than 100 cases; Pennsylvania nears 1,000 at the state line - WHEC.com",
+          "Pennsylvania Measles Outbreak: 3 Lessons for the US - National Foundation for Infectious Diseases",
+          "Pennsylvania faces largest measles outbreak in decades as case count rises to 1,000 - The Guardian"
+        ]
+      },
+      {
+        "trend": "virus",
+        "market_code": "DE",
+        "category": "Outbreaks",
+        "score": 8,
+        "examples": [
+          "Unknown virus leaves some Iowa patients sick for weeks - KCCI",
+          "First West Nile virus death of 2026 reported in DuPage County - NBC 5 Chicago",
+          "West Nile virus detected in mosquitoes between Robstown and Driscoll - kiiitv.com"
+        ]
+      },
+      {
+        "trend": "wellness",
         "market_code": "DE",
         "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "score": 8,
+        "examples": [
+          "A Pathway to Wellness: Exploring Trails as Lifelines for Mental Health - Rails to Trails Conservancy",
+          "Improve your health habits with Wellness Wednesday - MPR News",
+          "Nutritional Outlook Returns with the Second Annual \"The Outlook on Active Nutrition,\" Bringing Industry Leaders Together to Explore What's Next in Performance, Wellness, and Longevity | Nutritional Outlook - Supplement, Food & Beverage Manufacturing Tre - Nutritional Outlook"
+        ]
+      },
+      {
+        "trend": "children",
+        "market_code": "DE",
+        "category": "Children Health",
+        "score": 7,
+        "examples": [
+          "GLP-1 Drugs? Surgery? WHO Issues Guidelines For Obesity In Children - Health Policy Watch",
+          "Scientists identify gene signatures in children with severe COVID-19 infection - Medical Xpress",
+          "Scientists identify gene signatures in children with severe COVID-19 infection - University of Southampton"
+        ]
+      },
+      {
+        "trend": "public health",
+        "market_code": "DE",
+        "category": "Europe Health",
+        "score": 7,
+        "examples": [
+          "Structural fragility in digital public health communication - Nature",
+          "Elon nursing faculty earn poster recognition at NC Public Health Association Conference - Elon University",
+          "Local Farms and Food Businesses Receive Nearly $500,000 in Grants to Help Make Metro Chicago Food System More Equitable - Cook County Department of Public Health"
+        ]
       }
     ],
     "France": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "FR",
         "category": "Europe Health",
-        "score": 1,
-        "examples": []
+        "score": 69,
+        "examples": [
+          "World Mental Health Day webinar - World Health Organization (WHO)",
+          "World Mental Health Day webinar - World Health Organization (WHO)",
+          "Health Care Roundup: Market Talk - WSJ"
+        ]
       },
       {
-        "trend": "outbreak",
+        "trend": "medical",
         "market_code": "FR",
-        "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "category": "Europe Health",
+        "score": 21,
+        "examples": [
+          "'Medicare for All' message attracts midterm voters buckling under medical bills - NPR",
+          "Virtual presentation on Medicare, Purdue medical, HSA plans available - Purdue University",
+          "Coast Guard names 6 people onboard medical transport plane - ABC News - Breaking News, Latest News and Videos"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "FR",
+        "category": "Mental Health",
+        "score": 12,
+        "examples": [
+          "World Mental Health Day webinar - World Health Organization (WHO)",
+          "World Mental Health Day webinar - World Health Organization (WHO)",
+          "Eagles star Lane Johnson announces retirement: 'Critical that I focus on my mental health' - ABC News - Breaking News, Latest News and Videos"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "FR",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
+        "score": 12,
+        "examples": [
+          "World Mental Health Day webinar - World Health Organization (WHO)",
+          "World Mental Health Day webinar - World Health Organization (WHO)",
+          "Eagles star Lane Johnson announces retirement: 'Critical that I focus on my mental health' - ABC News - Breaking News, Latest News and Videos"
+        ]
       },
       {
-        "trend": "medical research",
+        "trend": "healthcare",
         "market_code": "FR",
         "category": "Europe Health",
-        "score": 1,
-        "examples": []
+        "score": 11,
+        "examples": [
+          "FTC Sends Warning Letters to 24 Healthcare Organizations Over Price Transparency - MedCity News",
+          "Six physician organizations speak out against AI's superiority - Healthcare Finance News",
+          "GE HealthCare hires new global chief AI officer - MedTech Dive"
+        ]
       },
       {
-        "trend": "drug approval",
+        "trend": "warning",
         "market_code": "FR",
-        "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
+        "category": "Europe Health",
+        "score": 9,
+        "examples": [
+          "Utah health officials issue ‘urgent’ warning about kratom, ‘cat’s claw’ products after overdoses - Utah News Dispatch",
+          "Sickly creature found in Los Angeles prompts official warning — marks first case in 50 years - New York Post",
+          "Pediatricians warning parents about health risks from raw milk - CBS News"
+        ]
       },
       {
-        "trend": "diet wellness",
+        "trend": "outbreak",
+        "market_code": "FR",
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "Pennsylvania Measles Outbreak: 3 Lessons for the US - National Foundation for Infectious Diseases",
+          "Pennsylvania faces largest measles outbreak in decades as case count rises to 1,000 - The Guardian",
+          "Pittsburgh-area health experts sound the alarm on measles outbreak - CBS News"
+        ]
+      },
+      {
+        "trend": "measles",
+        "market_code": "FR",
+        "category": "Outbreaks",
+        "score": 8,
+        "examples": [
+          "Health Alert: New York measles disaster emergency after more than 100 cases; Pennsylvania nears 1,000 at the state line - WHEC.com",
+          "Pennsylvania Measles Outbreak: 3 Lessons for the US - National Foundation for Infectious Diseases",
+          "Pennsylvania faces largest measles outbreak in decades as case count rises to 1,000 - The Guardian"
+        ]
+      },
+      {
+        "trend": "virus",
+        "market_code": "FR",
+        "category": "Outbreaks",
+        "score": 8,
+        "examples": [
+          "Unknown virus leaves some Iowa patients sick for weeks - KCCI",
+          "First West Nile virus death of 2026 reported in DuPage County - NBC 5 Chicago",
+          "West Nile virus detected in mosquitoes between Robstown and Driscoll - kiiitv.com"
+        ]
+      },
+      {
+        "trend": "wellness",
         "market_code": "FR",
         "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "score": 8,
+        "examples": [
+          "A Pathway to Wellness: Exploring Trails as Lifelines for Mental Health - Rails to Trails Conservancy",
+          "Improve your health habits with Wellness Wednesday - MPR News",
+          "Nutritional Outlook Returns with the Second Annual \"The Outlook on Active Nutrition,\" Bringing Industry Leaders Together to Explore What's Next in Performance, Wellness, and Longevity | Nutritional Outlook - Supplement, Food & Beverage Manufacturing Tre - Nutritional Outlook"
+        ]
+      },
+      {
+        "trend": "children",
+        "market_code": "FR",
+        "category": "Children Health",
+        "score": 7,
+        "examples": [
+          "GLP-1 Drugs? Surgery? WHO Issues Guidelines For Obesity In Children - Health Policy Watch",
+          "Scientists identify gene signatures in children with severe COVID-19 infection - Medical Xpress",
+          "Scientists identify gene signatures in children with severe COVID-19 infection - University of Southampton"
+        ]
+      },
+      {
+        "trend": "public health",
+        "market_code": "FR",
+        "category": "Europe Health",
+        "score": 7,
+        "examples": [
+          "Structural fragility in digital public health communication - Nature",
+          "Elon nursing faculty earn poster recognition at NC Public Health Association Conference - Elon University",
+          "Local Farms and Food Businesses Receive Nearly $500,000 in Grants to Help Make Metro Chicago Food System More Equitable - Cook County Department of Public Health"
+        ]
       }
     ],
     "Italy": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "IT",
         "category": "Europe Health",
-        "score": 1,
-        "examples": []
+        "score": 69,
+        "examples": [
+          "World Mental Health Day webinar - World Health Organization (WHO)",
+          "World Mental Health Day webinar - World Health Organization (WHO)",
+          "Health Care Roundup: Market Talk - WSJ"
+        ]
       },
       {
-        "trend": "outbreak",
+        "trend": "medical",
         "market_code": "IT",
-        "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "category": "Europe Health",
+        "score": 21,
+        "examples": [
+          "'Medicare for All' message attracts midterm voters buckling under medical bills - NPR",
+          "Virtual presentation on Medicare, Purdue medical, HSA plans available - Purdue University",
+          "Coast Guard names 6 people onboard medical transport plane - ABC News - Breaking News, Latest News and Videos"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "IT",
+        "category": "Mental Health",
+        "score": 12,
+        "examples": [
+          "World Mental Health Day webinar - World Health Organization (WHO)",
+          "World Mental Health Day webinar - World Health Organization (WHO)",
+          "Eagles star Lane Johnson announces retirement: 'Critical that I focus on my mental health' - ABC News - Breaking News, Latest News and Videos"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "IT",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
+        "score": 12,
+        "examples": [
+          "World Mental Health Day webinar - World Health Organization (WHO)",
+          "World Mental Health Day webinar - World Health Organization (WHO)",
+          "Eagles star Lane Johnson announces retirement: 'Critical that I focus on my mental health' - ABC News - Breaking News, Latest News and Videos"
+        ]
       },
       {
-        "trend": "medical research",
+        "trend": "healthcare",
         "market_code": "IT",
         "category": "Europe Health",
-        "score": 1,
-        "examples": []
+        "score": 11,
+        "examples": [
+          "FTC Sends Warning Letters to 24 Healthcare Organizations Over Price Transparency - MedCity News",
+          "Six physician organizations speak out against AI's superiority - Healthcare Finance News",
+          "GE HealthCare hires new global chief AI officer - MedTech Dive"
+        ]
       },
       {
-        "trend": "drug approval",
+        "trend": "warning",
         "market_code": "IT",
-        "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
+        "category": "Europe Health",
+        "score": 9,
+        "examples": [
+          "Utah health officials issue ‘urgent’ warning about kratom, ‘cat’s claw’ products after overdoses - Utah News Dispatch",
+          "Sickly creature found in Los Angeles prompts official warning — marks first case in 50 years - New York Post",
+          "Pediatricians warning parents about health risks from raw milk - CBS News"
+        ]
       },
       {
-        "trend": "diet wellness",
+        "trend": "outbreak",
+        "market_code": "IT",
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "Pennsylvania Measles Outbreak: 3 Lessons for the US - National Foundation for Infectious Diseases",
+          "Pennsylvania faces largest measles outbreak in decades as case count rises to 1,000 - The Guardian",
+          "Pittsburgh-area health experts sound the alarm on measles outbreak - CBS News"
+        ]
+      },
+      {
+        "trend": "measles",
+        "market_code": "IT",
+        "category": "Outbreaks",
+        "score": 8,
+        "examples": [
+          "Health Alert: New York measles disaster emergency after more than 100 cases; Pennsylvania nears 1,000 at the state line - WHEC.com",
+          "Pennsylvania Measles Outbreak: 3 Lessons for the US - National Foundation for Infectious Diseases",
+          "Pennsylvania faces largest measles outbreak in decades as case count rises to 1,000 - The Guardian"
+        ]
+      },
+      {
+        "trend": "virus",
+        "market_code": "IT",
+        "category": "Outbreaks",
+        "score": 8,
+        "examples": [
+          "Unknown virus leaves some Iowa patients sick for weeks - KCCI",
+          "First West Nile virus death of 2026 reported in DuPage County - NBC 5 Chicago",
+          "West Nile virus detected in mosquitoes between Robstown and Driscoll - kiiitv.com"
+        ]
+      },
+      {
+        "trend": "wellness",
         "market_code": "IT",
         "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "score": 8,
+        "examples": [
+          "A Pathway to Wellness: Exploring Trails as Lifelines for Mental Health - Rails to Trails Conservancy",
+          "Improve your health habits with Wellness Wednesday - MPR News",
+          "Nutritional Outlook Returns with the Second Annual \"The Outlook on Active Nutrition,\" Bringing Industry Leaders Together to Explore What's Next in Performance, Wellness, and Longevity | Nutritional Outlook - Supplement, Food & Beverage Manufacturing Tre - Nutritional Outlook"
+        ]
+      },
+      {
+        "trend": "children",
+        "market_code": "IT",
+        "category": "Children Health",
+        "score": 7,
+        "examples": [
+          "GLP-1 Drugs? Surgery? WHO Issues Guidelines For Obesity In Children - Health Policy Watch",
+          "Scientists identify gene signatures in children with severe COVID-19 infection - Medical Xpress",
+          "Scientists identify gene signatures in children with severe COVID-19 infection - University of Southampton"
+        ]
+      },
+      {
+        "trend": "public health",
+        "market_code": "IT",
+        "category": "Europe Health",
+        "score": 7,
+        "examples": [
+          "Structural fragility in digital public health communication - Nature",
+          "Elon nursing faculty earn poster recognition at NC Public Health Association Conference - Elon University",
+          "Local Farms and Food Businesses Receive Nearly $500,000 in Grants to Help Make Metro Chicago Food System More Equitable - Cook County Department of Public Health"
+        ]
       }
     ],
     "Spain": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "ES",
         "category": "Europe Health",
-        "score": 1,
-        "examples": []
+        "score": 69,
+        "examples": [
+          "World Mental Health Day webinar - World Health Organization (WHO)",
+          "World Mental Health Day webinar - World Health Organization (WHO)",
+          "Health Care Roundup: Market Talk - WSJ"
+        ]
       },
       {
-        "trend": "outbreak",
+        "trend": "medical",
         "market_code": "ES",
-        "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "category": "Europe Health",
+        "score": 21,
+        "examples": [
+          "'Medicare for All' message attracts midterm voters buckling under medical bills - NPR",
+          "Virtual presentation on Medicare, Purdue medical, HSA plans available - Purdue University",
+          "Coast Guard names 6 people onboard medical transport plane - ABC News - Breaking News, Latest News and Videos"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "ES",
+        "category": "Mental Health",
+        "score": 12,
+        "examples": [
+          "World Mental Health Day webinar - World Health Organization (WHO)",
+          "World Mental Health Day webinar - World Health Organization (WHO)",
+          "Eagles star Lane Johnson announces retirement: 'Critical that I focus on my mental health' - ABC News - Breaking News, Latest News and Videos"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "ES",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
+        "score": 12,
+        "examples": [
+          "World Mental Health Day webinar - World Health Organization (WHO)",
+          "World Mental Health Day webinar - World Health Organization (WHO)",
+          "Eagles star Lane Johnson announces retirement: 'Critical that I focus on my mental health' - ABC News - Breaking News, Latest News and Videos"
+        ]
       },
       {
-        "trend": "medical research",
+        "trend": "healthcare",
         "market_code": "ES",
         "category": "Europe Health",
-        "score": 1,
-        "examples": []
+        "score": 11,
+        "examples": [
+          "FTC Sends Warning Letters to 24 Healthcare Organizations Over Price Transparency - MedCity News",
+          "Six physician organizations speak out against AI's superiority - Healthcare Finance News",
+          "GE HealthCare hires new global chief AI officer - MedTech Dive"
+        ]
       },
       {
-        "trend": "drug approval",
+        "trend": "warning",
         "market_code": "ES",
-        "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
+        "category": "Europe Health",
+        "score": 9,
+        "examples": [
+          "Utah health officials issue ‘urgent’ warning about kratom, ‘cat’s claw’ products after overdoses - Utah News Dispatch",
+          "Sickly creature found in Los Angeles prompts official warning — marks first case in 50 years - New York Post",
+          "Pediatricians warning parents about health risks from raw milk - CBS News"
+        ]
       },
       {
-        "trend": "diet wellness",
+        "trend": "outbreak",
+        "market_code": "ES",
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "Pennsylvania Measles Outbreak: 3 Lessons for the US - National Foundation for Infectious Diseases",
+          "Pennsylvania faces largest measles outbreak in decades as case count rises to 1,000 - The Guardian",
+          "Pittsburgh-area health experts sound the alarm on measles outbreak - CBS News"
+        ]
+      },
+      {
+        "trend": "measles",
+        "market_code": "ES",
+        "category": "Outbreaks",
+        "score": 8,
+        "examples": [
+          "Health Alert: New York measles disaster emergency after more than 100 cases; Pennsylvania nears 1,000 at the state line - WHEC.com",
+          "Pennsylvania Measles Outbreak: 3 Lessons for the US - National Foundation for Infectious Diseases",
+          "Pennsylvania faces largest measles outbreak in decades as case count rises to 1,000 - The Guardian"
+        ]
+      },
+      {
+        "trend": "virus",
+        "market_code": "ES",
+        "category": "Outbreaks",
+        "score": 8,
+        "examples": [
+          "Unknown virus leaves some Iowa patients sick for weeks - KCCI",
+          "First West Nile virus death of 2026 reported in DuPage County - NBC 5 Chicago",
+          "West Nile virus detected in mosquitoes between Robstown and Driscoll - kiiitv.com"
+        ]
+      },
+      {
+        "trend": "wellness",
         "market_code": "ES",
         "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "score": 8,
+        "examples": [
+          "A Pathway to Wellness: Exploring Trails as Lifelines for Mental Health - Rails to Trails Conservancy",
+          "Improve your health habits with Wellness Wednesday - MPR News",
+          "Nutritional Outlook Returns with the Second Annual \"The Outlook on Active Nutrition,\" Bringing Industry Leaders Together to Explore What's Next in Performance, Wellness, and Longevity | Nutritional Outlook - Supplement, Food & Beverage Manufacturing Tre - Nutritional Outlook"
+        ]
+      },
+      {
+        "trend": "children",
+        "market_code": "ES",
+        "category": "Children Health",
+        "score": 7,
+        "examples": [
+          "GLP-1 Drugs? Surgery? WHO Issues Guidelines For Obesity In Children - Health Policy Watch",
+          "Scientists identify gene signatures in children with severe COVID-19 infection - Medical Xpress",
+          "Scientists identify gene signatures in children with severe COVID-19 infection - University of Southampton"
+        ]
+      },
+      {
+        "trend": "public health",
+        "market_code": "ES",
+        "category": "Europe Health",
+        "score": 7,
+        "examples": [
+          "Structural fragility in digital public health communication - Nature",
+          "Elon nursing faculty earn poster recognition at NC Public Health Association Conference - Elon University",
+          "Local Farms and Food Businesses Receive Nearly $500,000 in Grants to Help Make Metro Chicago Food System More Equitable - Cook County Department of Public Health"
+        ]
       }
     ],
     "Sweden": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "SE",
         "category": "Europe Health",
-        "score": 1,
-        "examples": []
+        "score": 69,
+        "examples": [
+          "World Mental Health Day webinar - World Health Organization (WHO)",
+          "World Mental Health Day webinar - World Health Organization (WHO)",
+          "Health Care Roundup: Market Talk - WSJ"
+        ]
       },
       {
-        "trend": "outbreak",
+        "trend": "medical",
         "market_code": "SE",
-        "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "category": "Europe Health",
+        "score": 21,
+        "examples": [
+          "'Medicare for All' message attracts midterm voters buckling under medical bills - NPR",
+          "Virtual presentation on Medicare, Purdue medical, HSA plans available - Purdue University",
+          "Coast Guard names 6 people onboard medical transport plane - ABC News - Breaking News, Latest News and Videos"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "SE",
+        "category": "Mental Health",
+        "score": 12,
+        "examples": [
+          "World Mental Health Day webinar - World Health Organization (WHO)",
+          "World Mental Health Day webinar - World Health Organization (WHO)",
+          "Eagles star Lane Johnson announces retirement: 'Critical that I focus on my mental health' - ABC News - Breaking News, Latest News and Videos"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "SE",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
+        "score": 12,
+        "examples": [
+          "World Mental Health Day webinar - World Health Organization (WHO)",
+          "World Mental Health Day webinar - World Health Organization (WHO)",
+          "Eagles star Lane Johnson announces retirement: 'Critical that I focus on my mental health' - ABC News - Breaking News, Latest News and Videos"
+        ]
       },
       {
-        "trend": "medical research",
+        "trend": "healthcare",
         "market_code": "SE",
         "category": "Europe Health",
-        "score": 1,
-        "examples": []
+        "score": 11,
+        "examples": [
+          "FTC Sends Warning Letters to 24 Healthcare Organizations Over Price Transparency - MedCity News",
+          "Six physician organizations speak out against AI's superiority - Healthcare Finance News",
+          "GE HealthCare hires new global chief AI officer - MedTech Dive"
+        ]
       },
       {
-        "trend": "drug approval",
+        "trend": "warning",
         "market_code": "SE",
-        "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
+        "category": "Europe Health",
+        "score": 9,
+        "examples": [
+          "Utah health officials issue ‘urgent’ warning about kratom, ‘cat’s claw’ products after overdoses - Utah News Dispatch",
+          "Sickly creature found in Los Angeles prompts official warning — marks first case in 50 years - New York Post",
+          "Pediatricians warning parents about health risks from raw milk - CBS News"
+        ]
       },
       {
-        "trend": "diet wellness",
+        "trend": "outbreak",
+        "market_code": "SE",
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "Pennsylvania Measles Outbreak: 3 Lessons for the US - National Foundation for Infectious Diseases",
+          "Pennsylvania faces largest measles outbreak in decades as case count rises to 1,000 - The Guardian",
+          "Pittsburgh-area health experts sound the alarm on measles outbreak - CBS News"
+        ]
+      },
+      {
+        "trend": "measles",
+        "market_code": "SE",
+        "category": "Outbreaks",
+        "score": 8,
+        "examples": [
+          "Health Alert: New York measles disaster emergency after more than 100 cases; Pennsylvania nears 1,000 at the state line - WHEC.com",
+          "Pennsylvania Measles Outbreak: 3 Lessons for the US - National Foundation for Infectious Diseases",
+          "Pennsylvania faces largest measles outbreak in decades as case count rises to 1,000 - The Guardian"
+        ]
+      },
+      {
+        "trend": "virus",
+        "market_code": "SE",
+        "category": "Outbreaks",
+        "score": 8,
+        "examples": [
+          "Unknown virus leaves some Iowa patients sick for weeks - KCCI",
+          "First West Nile virus death of 2026 reported in DuPage County - NBC 5 Chicago",
+          "West Nile virus detected in mosquitoes between Robstown and Driscoll - kiiitv.com"
+        ]
+      },
+      {
+        "trend": "wellness",
         "market_code": "SE",
         "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "score": 8,
+        "examples": [
+          "A Pathway to Wellness: Exploring Trails as Lifelines for Mental Health - Rails to Trails Conservancy",
+          "Improve your health habits with Wellness Wednesday - MPR News",
+          "Nutritional Outlook Returns with the Second Annual \"The Outlook on Active Nutrition,\" Bringing Industry Leaders Together to Explore What's Next in Performance, Wellness, and Longevity | Nutritional Outlook - Supplement, Food & Beverage Manufacturing Tre - Nutritional Outlook"
+        ]
+      },
+      {
+        "trend": "children",
+        "market_code": "SE",
+        "category": "Children Health",
+        "score": 7,
+        "examples": [
+          "GLP-1 Drugs? Surgery? WHO Issues Guidelines For Obesity In Children - Health Policy Watch",
+          "Scientists identify gene signatures in children with severe COVID-19 infection - Medical Xpress",
+          "Scientists identify gene signatures in children with severe COVID-19 infection - University of Southampton"
+        ]
+      },
+      {
+        "trend": "public health",
+        "market_code": "SE",
+        "category": "Europe Health",
+        "score": 7,
+        "examples": [
+          "Structural fragility in digital public health communication - Nature",
+          "Elon nursing faculty earn poster recognition at NC Public Health Association Conference - Elon University",
+          "Local Farms and Food Businesses Receive Nearly $500,000 in Grants to Help Make Metro Chicago Food System More Equitable - Cook County Department of Public Health"
+        ]
       }
     ],
     "Netherlands": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "NL",
         "category": "Europe Health",
-        "score": 1,
-        "examples": []
+        "score": 69,
+        "examples": [
+          "World Mental Health Day webinar - World Health Organization (WHO)",
+          "World Mental Health Day webinar - World Health Organization (WHO)",
+          "Health Care Roundup: Market Talk - WSJ"
+        ]
       },
       {
-        "trend": "outbreak",
+        "trend": "medical",
         "market_code": "NL",
-        "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "category": "Europe Health",
+        "score": 21,
+        "examples": [
+          "'Medicare for All' message attracts midterm voters buckling under medical bills - NPR",
+          "Virtual presentation on Medicare, Purdue medical, HSA plans available - Purdue University",
+          "Coast Guard names 6 people onboard medical transport plane - ABC News - Breaking News, Latest News and Videos"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "NL",
+        "category": "Mental Health",
+        "score": 12,
+        "examples": [
+          "World Mental Health Day webinar - World Health Organization (WHO)",
+          "World Mental Health Day webinar - World Health Organization (WHO)",
+          "Eagles star Lane Johnson announces retirement: 'Critical that I focus on my mental health' - ABC News - Breaking News, Latest News and Videos"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "NL",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
+        "score": 12,
+        "examples": [
+          "World Mental Health Day webinar - World Health Organization (WHO)",
+          "World Mental Health Day webinar - World Health Organization (WHO)",
+          "Eagles star Lane Johnson announces retirement: 'Critical that I focus on my mental health' - ABC News - Breaking News, Latest News and Videos"
+        ]
       },
       {
-        "trend": "medical research",
+        "trend": "healthcare",
         "market_code": "NL",
         "category": "Europe Health",
-        "score": 1,
-        "examples": []
+        "score": 11,
+        "examples": [
+          "FTC Sends Warning Letters to 24 Healthcare Organizations Over Price Transparency - MedCity News",
+          "Six physician organizations speak out against AI's superiority - Healthcare Finance News",
+          "GE HealthCare hires new global chief AI officer - MedTech Dive"
+        ]
       },
       {
-        "trend": "drug approval",
+        "trend": "warning",
         "market_code": "NL",
-        "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
+        "category": "Europe Health",
+        "score": 9,
+        "examples": [
+          "Utah health officials issue ‘urgent’ warning about kratom, ‘cat’s claw’ products after overdoses - Utah News Dispatch",
+          "Sickly creature found in Los Angeles prompts official warning — marks first case in 50 years - New York Post",
+          "Pediatricians warning parents about health risks from raw milk - CBS News"
+        ]
       },
       {
-        "trend": "diet wellness",
+        "trend": "outbreak",
+        "market_code": "NL",
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "Pennsylvania Measles Outbreak: 3 Lessons for the US - National Foundation for Infectious Diseases",
+          "Pennsylvania faces largest measles outbreak in decades as case count rises to 1,000 - The Guardian",
+          "Pittsburgh-area health experts sound the alarm on measles outbreak - CBS News"
+        ]
+      },
+      {
+        "trend": "measles",
+        "market_code": "NL",
+        "category": "Outbreaks",
+        "score": 8,
+        "examples": [
+          "Health Alert: New York measles disaster emergency after more than 100 cases; Pennsylvania nears 1,000 at the state line - WHEC.com",
+          "Pennsylvania Measles Outbreak: 3 Lessons for the US - National Foundation for Infectious Diseases",
+          "Pennsylvania faces largest measles outbreak in decades as case count rises to 1,000 - The Guardian"
+        ]
+      },
+      {
+        "trend": "virus",
+        "market_code": "NL",
+        "category": "Outbreaks",
+        "score": 8,
+        "examples": [
+          "Unknown virus leaves some Iowa patients sick for weeks - KCCI",
+          "First West Nile virus death of 2026 reported in DuPage County - NBC 5 Chicago",
+          "West Nile virus detected in mosquitoes between Robstown and Driscoll - kiiitv.com"
+        ]
+      },
+      {
+        "trend": "wellness",
         "market_code": "NL",
         "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "score": 8,
+        "examples": [
+          "A Pathway to Wellness: Exploring Trails as Lifelines for Mental Health - Rails to Trails Conservancy",
+          "Improve your health habits with Wellness Wednesday - MPR News",
+          "Nutritional Outlook Returns with the Second Annual \"The Outlook on Active Nutrition,\" Bringing Industry Leaders Together to Explore What's Next in Performance, Wellness, and Longevity | Nutritional Outlook - Supplement, Food & Beverage Manufacturing Tre - Nutritional Outlook"
+        ]
+      },
+      {
+        "trend": "children",
+        "market_code": "NL",
+        "category": "Children Health",
+        "score": 7,
+        "examples": [
+          "GLP-1 Drugs? Surgery? WHO Issues Guidelines For Obesity In Children - Health Policy Watch",
+          "Scientists identify gene signatures in children with severe COVID-19 infection - Medical Xpress",
+          "Scientists identify gene signatures in children with severe COVID-19 infection - University of Southampton"
+        ]
+      },
+      {
+        "trend": "public health",
+        "market_code": "NL",
+        "category": "Europe Health",
+        "score": 7,
+        "examples": [
+          "Structural fragility in digital public health communication - Nature",
+          "Elon nursing faculty earn poster recognition at NC Public Health Association Conference - Elon University",
+          "Local Farms and Food Businesses Receive Nearly $500,000 in Grants to Help Make Metro Chicago Food System More Equitable - Cook County Department of Public Health"
+        ]
       }
     ],
     "Finland": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "FI",
         "category": "Europe Health",
-        "score": 1,
-        "examples": []
+        "score": 69,
+        "examples": [
+          "World Mental Health Day webinar - World Health Organization (WHO)",
+          "World Mental Health Day webinar - World Health Organization (WHO)",
+          "Health Care Roundup: Market Talk - WSJ"
+        ]
       },
       {
-        "trend": "outbreak",
+        "trend": "medical",
         "market_code": "FI",
-        "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "category": "Europe Health",
+        "score": 21,
+        "examples": [
+          "'Medicare for All' message attracts midterm voters buckling under medical bills - NPR",
+          "Virtual presentation on Medicare, Purdue medical, HSA plans available - Purdue University",
+          "Coast Guard names 6 people onboard medical transport plane - ABC News - Breaking News, Latest News and Videos"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "FI",
+        "category": "Mental Health",
+        "score": 12,
+        "examples": [
+          "World Mental Health Day webinar - World Health Organization (WHO)",
+          "World Mental Health Day webinar - World Health Organization (WHO)",
+          "Eagles star Lane Johnson announces retirement: 'Critical that I focus on my mental health' - ABC News - Breaking News, Latest News and Videos"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "FI",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
+        "score": 12,
+        "examples": [
+          "World Mental Health Day webinar - World Health Organization (WHO)",
+          "World Mental Health Day webinar - World Health Organization (WHO)",
+          "Eagles star Lane Johnson announces retirement: 'Critical that I focus on my mental health' - ABC News - Breaking News, Latest News and Videos"
+        ]
       },
       {
-        "trend": "medical research",
+        "trend": "healthcare",
         "market_code": "FI",
         "category": "Europe Health",
-        "score": 1,
-        "examples": []
+        "score": 11,
+        "examples": [
+          "FTC Sends Warning Letters to 24 Healthcare Organizations Over Price Transparency - MedCity News",
+          "Six physician organizations speak out against AI's superiority - Healthcare Finance News",
+          "GE HealthCare hires new global chief AI officer - MedTech Dive"
+        ]
       },
       {
-        "trend": "drug approval",
+        "trend": "warning",
         "market_code": "FI",
-        "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
+        "category": "Europe Health",
+        "score": 9,
+        "examples": [
+          "Utah health officials issue ‘urgent’ warning about kratom, ‘cat’s claw’ products after overdoses - Utah News Dispatch",
+          "Sickly creature found in Los Angeles prompts official warning — marks first case in 50 years - New York Post",
+          "Pediatricians warning parents about health risks from raw milk - CBS News"
+        ]
       },
       {
-        "trend": "diet wellness",
+        "trend": "outbreak",
+        "market_code": "FI",
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "Pennsylvania Measles Outbreak: 3 Lessons for the US - National Foundation for Infectious Diseases",
+          "Pennsylvania faces largest measles outbreak in decades as case count rises to 1,000 - The Guardian",
+          "Pittsburgh-area health experts sound the alarm on measles outbreak - CBS News"
+        ]
+      },
+      {
+        "trend": "measles",
+        "market_code": "FI",
+        "category": "Outbreaks",
+        "score": 8,
+        "examples": [
+          "Health Alert: New York measles disaster emergency after more than 100 cases; Pennsylvania nears 1,000 at the state line - WHEC.com",
+          "Pennsylvania Measles Outbreak: 3 Lessons for the US - National Foundation for Infectious Diseases",
+          "Pennsylvania faces largest measles outbreak in decades as case count rises to 1,000 - The Guardian"
+        ]
+      },
+      {
+        "trend": "virus",
+        "market_code": "FI",
+        "category": "Outbreaks",
+        "score": 8,
+        "examples": [
+          "Unknown virus leaves some Iowa patients sick for weeks - KCCI",
+          "First West Nile virus death of 2026 reported in DuPage County - NBC 5 Chicago",
+          "West Nile virus detected in mosquitoes between Robstown and Driscoll - kiiitv.com"
+        ]
+      },
+      {
+        "trend": "wellness",
         "market_code": "FI",
         "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "score": 8,
+        "examples": [
+          "A Pathway to Wellness: Exploring Trails as Lifelines for Mental Health - Rails to Trails Conservancy",
+          "Improve your health habits with Wellness Wednesday - MPR News",
+          "Nutritional Outlook Returns with the Second Annual \"The Outlook on Active Nutrition,\" Bringing Industry Leaders Together to Explore What's Next in Performance, Wellness, and Longevity | Nutritional Outlook - Supplement, Food & Beverage Manufacturing Tre - Nutritional Outlook"
+        ]
+      },
+      {
+        "trend": "children",
+        "market_code": "FI",
+        "category": "Children Health",
+        "score": 7,
+        "examples": [
+          "GLP-1 Drugs? Surgery? WHO Issues Guidelines For Obesity In Children - Health Policy Watch",
+          "Scientists identify gene signatures in children with severe COVID-19 infection - Medical Xpress",
+          "Scientists identify gene signatures in children with severe COVID-19 infection - University of Southampton"
+        ]
+      },
+      {
+        "trend": "public health",
+        "market_code": "FI",
+        "category": "Europe Health",
+        "score": 7,
+        "examples": [
+          "Structural fragility in digital public health communication - Nature",
+          "Elon nursing faculty earn poster recognition at NC Public Health Association Conference - Elon University",
+          "Local Farms and Food Businesses Receive Nearly $500,000 in Grants to Help Make Metro Chicago Food System More Equitable - Cook County Department of Public Health"
+        ]
       }
     ],
     "Norway": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "NO",
         "category": "Europe Health",
-        "score": 1,
-        "examples": []
+        "score": 69,
+        "examples": [
+          "World Mental Health Day webinar - World Health Organization (WHO)",
+          "World Mental Health Day webinar - World Health Organization (WHO)",
+          "Health Care Roundup: Market Talk - WSJ"
+        ]
       },
       {
-        "trend": "outbreak",
+        "trend": "medical",
         "market_code": "NO",
-        "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "category": "Europe Health",
+        "score": 21,
+        "examples": [
+          "'Medicare for All' message attracts midterm voters buckling under medical bills - NPR",
+          "Virtual presentation on Medicare, Purdue medical, HSA plans available - Purdue University",
+          "Coast Guard names 6 people onboard medical transport plane - ABC News - Breaking News, Latest News and Videos"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "NO",
+        "category": "Mental Health",
+        "score": 12,
+        "examples": [
+          "World Mental Health Day webinar - World Health Organization (WHO)",
+          "World Mental Health Day webinar - World Health Organization (WHO)",
+          "Eagles star Lane Johnson announces retirement: 'Critical that I focus on my mental health' - ABC News - Breaking News, Latest News and Videos"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "NO",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
+        "score": 12,
+        "examples": [
+          "World Mental Health Day webinar - World Health Organization (WHO)",
+          "World Mental Health Day webinar - World Health Organization (WHO)",
+          "Eagles star Lane Johnson announces retirement: 'Critical that I focus on my mental health' - ABC News - Breaking News, Latest News and Videos"
+        ]
       },
       {
-        "trend": "medical research",
+        "trend": "healthcare",
         "market_code": "NO",
         "category": "Europe Health",
-        "score": 1,
-        "examples": []
+        "score": 11,
+        "examples": [
+          "FTC Sends Warning Letters to 24 Healthcare Organizations Over Price Transparency - MedCity News",
+          "Six physician organizations speak out against AI's superiority - Healthcare Finance News",
+          "GE HealthCare hires new global chief AI officer - MedTech Dive"
+        ]
       },
       {
-        "trend": "drug approval",
+        "trend": "warning",
         "market_code": "NO",
-        "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
+        "category": "Europe Health",
+        "score": 9,
+        "examples": [
+          "Utah health officials issue ‘urgent’ warning about kratom, ‘cat’s claw’ products after overdoses - Utah News Dispatch",
+          "Sickly creature found in Los Angeles prompts official warning — marks first case in 50 years - New York Post",
+          "Pediatricians warning parents about health risks from raw milk - CBS News"
+        ]
       },
       {
-        "trend": "diet wellness",
+        "trend": "outbreak",
+        "market_code": "NO",
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "Pennsylvania Measles Outbreak: 3 Lessons for the US - National Foundation for Infectious Diseases",
+          "Pennsylvania faces largest measles outbreak in decades as case count rises to 1,000 - The Guardian",
+          "Pittsburgh-area health experts sound the alarm on measles outbreak - CBS News"
+        ]
+      },
+      {
+        "trend": "measles",
+        "market_code": "NO",
+        "category": "Outbreaks",
+        "score": 8,
+        "examples": [
+          "Health Alert: New York measles disaster emergency after more than 100 cases; Pennsylvania nears 1,000 at the state line - WHEC.com",
+          "Pennsylvania Measles Outbreak: 3 Lessons for the US - National Foundation for Infectious Diseases",
+          "Pennsylvania faces largest measles outbreak in decades as case count rises to 1,000 - The Guardian"
+        ]
+      },
+      {
+        "trend": "virus",
+        "market_code": "NO",
+        "category": "Outbreaks",
+        "score": 8,
+        "examples": [
+          "Unknown virus leaves some Iowa patients sick for weeks - KCCI",
+          "First West Nile virus death of 2026 reported in DuPage County - NBC 5 Chicago",
+          "West Nile virus detected in mosquitoes between Robstown and Driscoll - kiiitv.com"
+        ]
+      },
+      {
+        "trend": "wellness",
         "market_code": "NO",
         "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "score": 8,
+        "examples": [
+          "A Pathway to Wellness: Exploring Trails as Lifelines for Mental Health - Rails to Trails Conservancy",
+          "Improve your health habits with Wellness Wednesday - MPR News",
+          "Nutritional Outlook Returns with the Second Annual \"The Outlook on Active Nutrition,\" Bringing Industry Leaders Together to Explore What's Next in Performance, Wellness, and Longevity | Nutritional Outlook - Supplement, Food & Beverage Manufacturing Tre - Nutritional Outlook"
+        ]
+      },
+      {
+        "trend": "children",
+        "market_code": "NO",
+        "category": "Children Health",
+        "score": 7,
+        "examples": [
+          "GLP-1 Drugs? Surgery? WHO Issues Guidelines For Obesity In Children - Health Policy Watch",
+          "Scientists identify gene signatures in children with severe COVID-19 infection - Medical Xpress",
+          "Scientists identify gene signatures in children with severe COVID-19 infection - University of Southampton"
+        ]
+      },
+      {
+        "trend": "public health",
+        "market_code": "NO",
+        "category": "Europe Health",
+        "score": 7,
+        "examples": [
+          "Structural fragility in digital public health communication - Nature",
+          "Elon nursing faculty earn poster recognition at NC Public Health Association Conference - Elon University",
+          "Local Farms and Food Businesses Receive Nearly $500,000 in Grants to Help Make Metro Chicago Food System More Equitable - Cook County Department of Public Health"
+        ]
       }
     ],
     "Japan": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "JP",
         "category": "Asia Health",
-        "score": 1,
-        "examples": []
+        "score": 69,
+        "examples": [
+          "World Mental Health Day webinar - World Health Organization (WHO)",
+          "World Mental Health Day webinar - World Health Organization (WHO)",
+          "Health Care Roundup: Market Talk - WSJ"
+        ]
       },
       {
-        "trend": "outbreak",
+        "trend": "medical",
         "market_code": "JP",
-        "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "category": "Asia Health",
+        "score": 21,
+        "examples": [
+          "'Medicare for All' message attracts midterm voters buckling under medical bills - NPR",
+          "Virtual presentation on Medicare, Purdue medical, HSA plans available - Purdue University",
+          "Coast Guard names 6 people onboard medical transport plane - ABC News - Breaking News, Latest News and Videos"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "JP",
+        "category": "Mental Health",
+        "score": 12,
+        "examples": [
+          "World Mental Health Day webinar - World Health Organization (WHO)",
+          "World Mental Health Day webinar - World Health Organization (WHO)",
+          "Eagles star Lane Johnson announces retirement: 'Critical that I focus on my mental health' - ABC News - Breaking News, Latest News and Videos"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "JP",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
+        "score": 12,
+        "examples": [
+          "World Mental Health Day webinar - World Health Organization (WHO)",
+          "World Mental Health Day webinar - World Health Organization (WHO)",
+          "Eagles star Lane Johnson announces retirement: 'Critical that I focus on my mental health' - ABC News - Breaking News, Latest News and Videos"
+        ]
       },
       {
-        "trend": "medical research",
+        "trend": "healthcare",
         "market_code": "JP",
         "category": "Asia Health",
-        "score": 1,
-        "examples": []
+        "score": 11,
+        "examples": [
+          "FTC Sends Warning Letters to 24 Healthcare Organizations Over Price Transparency - MedCity News",
+          "Six physician organizations speak out against AI's superiority - Healthcare Finance News",
+          "GE HealthCare hires new global chief AI officer - MedTech Dive"
+        ]
       },
       {
-        "trend": "drug approval",
+        "trend": "warning",
         "market_code": "JP",
-        "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
+        "category": "Asia Health",
+        "score": 9,
+        "examples": [
+          "Utah health officials issue ‘urgent’ warning about kratom, ‘cat’s claw’ products after overdoses - Utah News Dispatch",
+          "Sickly creature found in Los Angeles prompts official warning — marks first case in 50 years - New York Post",
+          "Pediatricians warning parents about health risks from raw milk - CBS News"
+        ]
       },
       {
-        "trend": "diet wellness",
+        "trend": "outbreak",
+        "market_code": "JP",
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "Pennsylvania Measles Outbreak: 3 Lessons for the US - National Foundation for Infectious Diseases",
+          "Pennsylvania faces largest measles outbreak in decades as case count rises to 1,000 - The Guardian",
+          "Pittsburgh-area health experts sound the alarm on measles outbreak - CBS News"
+        ]
+      },
+      {
+        "trend": "measles",
+        "market_code": "JP",
+        "category": "Outbreaks",
+        "score": 8,
+        "examples": [
+          "Health Alert: New York measles disaster emergency after more than 100 cases; Pennsylvania nears 1,000 at the state line - WHEC.com",
+          "Pennsylvania Measles Outbreak: 3 Lessons for the US - National Foundation for Infectious Diseases",
+          "Pennsylvania faces largest measles outbreak in decades as case count rises to 1,000 - The Guardian"
+        ]
+      },
+      {
+        "trend": "virus",
+        "market_code": "JP",
+        "category": "Outbreaks",
+        "score": 8,
+        "examples": [
+          "Unknown virus leaves some Iowa patients sick for weeks - KCCI",
+          "First West Nile virus death of 2026 reported in DuPage County - NBC 5 Chicago",
+          "West Nile virus detected in mosquitoes between Robstown and Driscoll - kiiitv.com"
+        ]
+      },
+      {
+        "trend": "wellness",
         "market_code": "JP",
         "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "score": 8,
+        "examples": [
+          "A Pathway to Wellness: Exploring Trails as Lifelines for Mental Health - Rails to Trails Conservancy",
+          "Improve your health habits with Wellness Wednesday - MPR News",
+          "Nutritional Outlook Returns with the Second Annual \"The Outlook on Active Nutrition,\" Bringing Industry Leaders Together to Explore What's Next in Performance, Wellness, and Longevity | Nutritional Outlook - Supplement, Food & Beverage Manufacturing Tre - Nutritional Outlook"
+        ]
+      },
+      {
+        "trend": "children",
+        "market_code": "JP",
+        "category": "Children Health",
+        "score": 7,
+        "examples": [
+          "GLP-1 Drugs? Surgery? WHO Issues Guidelines For Obesity In Children - Health Policy Watch",
+          "Scientists identify gene signatures in children with severe COVID-19 infection - Medical Xpress",
+          "Scientists identify gene signatures in children with severe COVID-19 infection - University of Southampton"
+        ]
+      },
+      {
+        "trend": "public health",
+        "market_code": "JP",
+        "category": "Asia Health",
+        "score": 7,
+        "examples": [
+          "Structural fragility in digital public health communication - Nature",
+          "Elon nursing faculty earn poster recognition at NC Public Health Association Conference - Elon University",
+          "Local Farms and Food Businesses Receive Nearly $500,000 in Grants to Help Make Metro Chicago Food System More Equitable - Cook County Department of Public Health"
+        ]
       }
     ],
     "China": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "CN",
         "category": "Asia Health",
-        "score": 1,
-        "examples": []
+        "score": 69,
+        "examples": [
+          "World Mental Health Day webinar - World Health Organization (WHO)",
+          "World Mental Health Day webinar - World Health Organization (WHO)",
+          "Health Care Roundup: Market Talk - WSJ"
+        ]
       },
       {
-        "trend": "outbreak",
+        "trend": "medical",
         "market_code": "CN",
-        "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "category": "Asia Health",
+        "score": 21,
+        "examples": [
+          "'Medicare for All' message attracts midterm voters buckling under medical bills - NPR",
+          "Virtual presentation on Medicare, Purdue medical, HSA plans available - Purdue University",
+          "Coast Guard names 6 people onboard medical transport plane - ABC News - Breaking News, Latest News and Videos"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "CN",
+        "category": "Mental Health",
+        "score": 12,
+        "examples": [
+          "World Mental Health Day webinar - World Health Organization (WHO)",
+          "World Mental Health Day webinar - World Health Organization (WHO)",
+          "Eagles star Lane Johnson announces retirement: 'Critical that I focus on my mental health' - ABC News - Breaking News, Latest News and Videos"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "CN",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
+        "score": 12,
+        "examples": [
+          "World Mental Health Day webinar - World Health Organization (WHO)",
+          "World Mental Health Day webinar - World Health Organization (WHO)",
+          "Eagles star Lane Johnson announces retirement: 'Critical that I focus on my mental health' - ABC News - Breaking News, Latest News and Videos"
+        ]
       },
       {
-        "trend": "medical research",
+        "trend": "healthcare",
         "market_code": "CN",
         "category": "Asia Health",
-        "score": 1,
-        "examples": []
+        "score": 11,
+        "examples": [
+          "FTC Sends Warning Letters to 24 Healthcare Organizations Over Price Transparency - MedCity News",
+          "Six physician organizations speak out against AI's superiority - Healthcare Finance News",
+          "GE HealthCare hires new global chief AI officer - MedTech Dive"
+        ]
       },
       {
-        "trend": "drug approval",
+        "trend": "warning",
         "market_code": "CN",
-        "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
+        "category": "Asia Health",
+        "score": 9,
+        "examples": [
+          "Utah health officials issue ‘urgent’ warning about kratom, ‘cat’s claw’ products after overdoses - Utah News Dispatch",
+          "Sickly creature found in Los Angeles prompts official warning — marks first case in 50 years - New York Post",
+          "Pediatricians warning parents about health risks from raw milk - CBS News"
+        ]
       },
       {
-        "trend": "diet wellness",
+        "trend": "outbreak",
+        "market_code": "CN",
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "Pennsylvania Measles Outbreak: 3 Lessons for the US - National Foundation for Infectious Diseases",
+          "Pennsylvania faces largest measles outbreak in decades as case count rises to 1,000 - The Guardian",
+          "Pittsburgh-area health experts sound the alarm on measles outbreak - CBS News"
+        ]
+      },
+      {
+        "trend": "measles",
+        "market_code": "CN",
+        "category": "Outbreaks",
+        "score": 8,
+        "examples": [
+          "Health Alert: New York measles disaster emergency after more than 100 cases; Pennsylvania nears 1,000 at the state line - WHEC.com",
+          "Pennsylvania Measles Outbreak: 3 Lessons for the US - National Foundation for Infectious Diseases",
+          "Pennsylvania faces largest measles outbreak in decades as case count rises to 1,000 - The Guardian"
+        ]
+      },
+      {
+        "trend": "virus",
+        "market_code": "CN",
+        "category": "Outbreaks",
+        "score": 8,
+        "examples": [
+          "Unknown virus leaves some Iowa patients sick for weeks - KCCI",
+          "First West Nile virus death of 2026 reported in DuPage County - NBC 5 Chicago",
+          "West Nile virus detected in mosquitoes between Robstown and Driscoll - kiiitv.com"
+        ]
+      },
+      {
+        "trend": "wellness",
         "market_code": "CN",
         "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "score": 8,
+        "examples": [
+          "A Pathway to Wellness: Exploring Trails as Lifelines for Mental Health - Rails to Trails Conservancy",
+          "Improve your health habits with Wellness Wednesday - MPR News",
+          "Nutritional Outlook Returns with the Second Annual \"The Outlook on Active Nutrition,\" Bringing Industry Leaders Together to Explore What's Next in Performance, Wellness, and Longevity | Nutritional Outlook - Supplement, Food & Beverage Manufacturing Tre - Nutritional Outlook"
+        ]
+      },
+      {
+        "trend": "children",
+        "market_code": "CN",
+        "category": "Children Health",
+        "score": 7,
+        "examples": [
+          "GLP-1 Drugs? Surgery? WHO Issues Guidelines For Obesity In Children - Health Policy Watch",
+          "Scientists identify gene signatures in children with severe COVID-19 infection - Medical Xpress",
+          "Scientists identify gene signatures in children with severe COVID-19 infection - University of Southampton"
+        ]
+      },
+      {
+        "trend": "public health",
+        "market_code": "CN",
+        "category": "Asia Health",
+        "score": 7,
+        "examples": [
+          "Structural fragility in digital public health communication - Nature",
+          "Elon nursing faculty earn poster recognition at NC Public Health Association Conference - Elon University",
+          "Local Farms and Food Businesses Receive Nearly $500,000 in Grants to Help Make Metro Chicago Food System More Equitable - Cook County Department of Public Health"
+        ]
       }
     ],
     "South Korea": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "KR",
         "category": "Asia Health",
-        "score": 1,
-        "examples": []
+        "score": 69,
+        "examples": [
+          "World Mental Health Day webinar - World Health Organization (WHO)",
+          "World Mental Health Day webinar - World Health Organization (WHO)",
+          "Health Care Roundup: Market Talk - WSJ"
+        ]
       },
       {
-        "trend": "outbreak",
+        "trend": "medical",
         "market_code": "KR",
-        "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "category": "Asia Health",
+        "score": 21,
+        "examples": [
+          "'Medicare for All' message attracts midterm voters buckling under medical bills - NPR",
+          "Virtual presentation on Medicare, Purdue medical, HSA plans available - Purdue University",
+          "Coast Guard names 6 people onboard medical transport plane - ABC News - Breaking News, Latest News and Videos"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "KR",
+        "category": "Mental Health",
+        "score": 12,
+        "examples": [
+          "World Mental Health Day webinar - World Health Organization (WHO)",
+          "World Mental Health Day webinar - World Health Organization (WHO)",
+          "Eagles star Lane Johnson announces retirement: 'Critical that I focus on my mental health' - ABC News - Breaking News, Latest News and Videos"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "KR",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
+        "score": 12,
+        "examples": [
+          "World Mental Health Day webinar - World Health Organization (WHO)",
+          "World Mental Health Day webinar - World Health Organization (WHO)",
+          "Eagles star Lane Johnson announces retirement: 'Critical that I focus on my mental health' - ABC News - Breaking News, Latest News and Videos"
+        ]
       },
       {
-        "trend": "medical research",
+        "trend": "healthcare",
         "market_code": "KR",
         "category": "Asia Health",
-        "score": 1,
-        "examples": []
+        "score": 11,
+        "examples": [
+          "FTC Sends Warning Letters to 24 Healthcare Organizations Over Price Transparency - MedCity News",
+          "Six physician organizations speak out against AI's superiority - Healthcare Finance News",
+          "GE HealthCare hires new global chief AI officer - MedTech Dive"
+        ]
       },
       {
-        "trend": "drug approval",
+        "trend": "warning",
         "market_code": "KR",
-        "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
+        "category": "Asia Health",
+        "score": 9,
+        "examples": [
+          "Utah health officials issue ‘urgent’ warning about kratom, ‘cat’s claw’ products after overdoses - Utah News Dispatch",
+          "Sickly creature found in Los Angeles prompts official warning — marks first case in 50 years - New York Post",
+          "Pediatricians warning parents about health risks from raw milk - CBS News"
+        ]
       },
       {
-        "trend": "diet wellness",
+        "trend": "outbreak",
+        "market_code": "KR",
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "Pennsylvania Measles Outbreak: 3 Lessons for the US - National Foundation for Infectious Diseases",
+          "Pennsylvania faces largest measles outbreak in decades as case count rises to 1,000 - The Guardian",
+          "Pittsburgh-area health experts sound the alarm on measles outbreak - CBS News"
+        ]
+      },
+      {
+        "trend": "measles",
+        "market_code": "KR",
+        "category": "Outbreaks",
+        "score": 8,
+        "examples": [
+          "Health Alert: New York measles disaster emergency after more than 100 cases; Pennsylvania nears 1,000 at the state line - WHEC.com",
+          "Pennsylvania Measles Outbreak: 3 Lessons for the US - National Foundation for Infectious Diseases",
+          "Pennsylvania faces largest measles outbreak in decades as case count rises to 1,000 - The Guardian"
+        ]
+      },
+      {
+        "trend": "virus",
+        "market_code": "KR",
+        "category": "Outbreaks",
+        "score": 8,
+        "examples": [
+          "Unknown virus leaves some Iowa patients sick for weeks - KCCI",
+          "First West Nile virus death of 2026 reported in DuPage County - NBC 5 Chicago",
+          "West Nile virus detected in mosquitoes between Robstown and Driscoll - kiiitv.com"
+        ]
+      },
+      {
+        "trend": "wellness",
         "market_code": "KR",
         "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "score": 8,
+        "examples": [
+          "A Pathway to Wellness: Exploring Trails as Lifelines for Mental Health - Rails to Trails Conservancy",
+          "Improve your health habits with Wellness Wednesday - MPR News",
+          "Nutritional Outlook Returns with the Second Annual \"The Outlook on Active Nutrition,\" Bringing Industry Leaders Together to Explore What's Next in Performance, Wellness, and Longevity | Nutritional Outlook - Supplement, Food & Beverage Manufacturing Tre - Nutritional Outlook"
+        ]
+      },
+      {
+        "trend": "children",
+        "market_code": "KR",
+        "category": "Children Health",
+        "score": 7,
+        "examples": [
+          "GLP-1 Drugs? Surgery? WHO Issues Guidelines For Obesity In Children - Health Policy Watch",
+          "Scientists identify gene signatures in children with severe COVID-19 infection - Medical Xpress",
+          "Scientists identify gene signatures in children with severe COVID-19 infection - University of Southampton"
+        ]
+      },
+      {
+        "trend": "public health",
+        "market_code": "KR",
+        "category": "Asia Health",
+        "score": 7,
+        "examples": [
+          "Structural fragility in digital public health communication - Nature",
+          "Elon nursing faculty earn poster recognition at NC Public Health Association Conference - Elon University",
+          "Local Farms and Food Businesses Receive Nearly $500,000 in Grants to Help Make Metro Chicago Food System More Equitable - Cook County Department of Public Health"
+        ]
       }
     ],
     "India": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "IN",
         "category": "Asia Health",
-        "score": 1,
-        "examples": []
+        "score": 70,
+        "examples": [
+          "World Mental Health Day webinar - World Health Organization (WHO)",
+          "World Mental Health Day webinar - World Health Organization (WHO)",
+          "GLP-1 Drugs? Surgery? WHO Issues Guidelines For Obesity In Children - Health Policy Watch"
+        ]
       },
       {
-        "trend": "outbreak",
+        "trend": "medical",
         "market_code": "IN",
-        "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "category": "Asia Health",
+        "score": 21,
+        "examples": [
+          "No campus, no transport, no proper hostels: GMC Jagtial medical students on indefinite protest over four-year delay - The Hindu",
+          "NMC issues ethical advertising, public communication guidelines for doctors, hospitals, Details - Medical Dialogues",
+          "Delay In Medical Examination Cannot Discard Evidence Of Permanent Disability: MP High Court - LawBeat"
+        ]
+      },
+      {
+        "trend": "healthcare",
+        "market_code": "IN",
+        "category": "Asia Health",
+        "score": 14,
+        "examples": [
+          "Before the fall: Building health systems that detect functional decline earlier - Express Healthcare",
+          "Teladoc Health unveils new AI capabilities within Solo platform for hospitals - Fierce Healthcare",
+          "Mega Multi-Speciality Medical Camp in Odisha Provides Healthcare to Over 10,500 Patients - SSBCrack"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "IN",
+        "category": "Mental Health",
+        "score": 13,
+        "examples": [
+          "World Mental Health Day webinar - World Health Organization (WHO)",
+          "World Mental Health Day webinar - World Health Organization (WHO)",
+          "Travelling for mental health: could your therapist be your new vacation planner? - Vogue India"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "IN",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
+        "score": 12,
+        "examples": [
+          "World Mental Health Day webinar - World Health Organization (WHO)",
+          "World Mental Health Day webinar - World Health Organization (WHO)",
+          "Travelling for mental health: could your therapist be your new vacation planner? - Vogue India"
+        ]
       },
       {
-        "trend": "medical research",
+        "trend": "children",
+        "market_code": "IN",
+        "category": "Children Health",
+        "score": 9,
+        "examples": [
+          "GLP-1 Drugs? Surgery? WHO Issues Guidelines For Obesity In Children - Health Policy Watch",
+          "Scientists identify gene signatures in children with severe COVID-19 infection - University of Southampton",
+          "Scientists identify gene signatures in children with severe COVID-19 infection - Medical Xpress"
+        ]
+      },
+      {
+        "trend": "health alert",
         "market_code": "IN",
         "category": "Asia Health",
-        "score": 1,
-        "examples": []
+        "score": 8,
+        "examples": [
+          "Health Alert – U.S. Embassy Moscow, Russia (October 6, 2026) - U.S. Embassy & Consulates in Russia (.gov)",
+          "Health Alert – U.S. Embassy Moscow, Russia (October 6, 2026) - U.S. Embassy & Consulates in Russia (.gov)",
+          "US issues health alert over suspected plague case in Russia - TVP World"
+        ]
       },
       {
-        "trend": "drug approval",
+        "trend": "hospitals",
         "market_code": "IN",
-        "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
+        "category": "Asia Health",
+        "score": 7,
+        "examples": [
+          "NMC issues ethical advertising, public communication guidelines for doctors, hospitals, Details - Medical Dialogues",
+          "Hindi Words On Coimbatore, Karur Hospitals' Medicine Covers Dropped After Row - NDTV",
+          "Tamil Nadu hospitals halt medicine covers with Hindi after political row - Deccan Herald"
+        ]
       },
       {
-        "trend": "diet wellness",
+        "trend": "outbreak",
         "market_code": "IN",
-        "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "category": "Outbreaks",
+        "score": 7,
+        "examples": [
+          "US issues health alert over suspected plague case in Russia as WHO says outbreak risk is low - Hromadske",
+          "Bangladesh Dengue Outbreak: 90,000 Hospitalized, 281 Dead - Health and Me",
+          "Florida’s Dengue Fever Outbreak Is a National Warning - Bloomberg.com"
+        ]
+      },
+      {
+        "trend": "disease",
+        "market_code": "IN",
+        "category": "Asia Health",
+        "score": 7,
+        "examples": [
+          "This disease has now been declared an emergency. Maps show where it's spreading - USA Today",
+          "Kenya Confirms First Imported Case of Bundibugyo Ebola Virus Disease - health.go.ke",
+          "Challenges for the effectiveness of infectious disease interventions during global change - Nature"
+        ]
+      },
+      {
+        "trend": "virus",
+        "market_code": "IN",
+        "category": "Outbreaks",
+        "score": 7,
+        "examples": [
+          "Kenya confirms first case of Ebola Bundibugyo virus - BBC",
+          "Florida man arrested after placing virus on woman’s computer, sharing private info in more than 100 TikTo - The Times of India",
+          "All you need to know about: Epstein-Barr virus - The Hindu"
+        ]
+      },
+      {
+        "trend": "warning",
+        "market_code": "IN",
+        "category": "Asia Health",
+        "score": 6,
+        "examples": [
+          "FDA Advisory No.2026-1507 || Public Health Warning Against the Purchase and Use of the Unnotified Medical Device Product “UNBRANDED ARM SLING - https://www.fda.gov.ph/",
+          "FTC Sends Warning Letters to 24 Healthcare Organizations Over Price Transparency - MedCity News",
+          "Warning shared to two million Brits privately prescribed cannabis - The Independent"
+        ]
       }
     ],
     "Australia": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "AU",
         "category": "Global Health",
-        "score": 1,
-        "examples": []
+        "score": 68,
+        "examples": [
+          "World Mental Health Day webinar - World Health Organization (WHO)",
+          "World Mental Health Day webinar - World Health Organization (WHO)",
+          "Private health legislation appears doomed without change - ABC News & Headlines – Australian Broadcasting Corporation"
+        ]
       },
       {
-        "trend": "outbreak",
+        "trend": "medical",
         "market_code": "AU",
-        "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "category": "Global Health",
+        "score": 18,
+        "examples": [
+          "‘Abhorrent’: telehealth firm accused of treating veterans as cash cows - Medical Republic",
+          "As femtosecond lasers find new medical uses, Lithuanian manufacturer bets on scale to meet demand - News-Medical",
+          "Life insurers decline medical definitions review in Code response - Insurance Business"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "AU",
+        "category": "Mental Health",
+        "score": 12,
+        "examples": [
+          "World Mental Health Day webinar - World Health Organization (WHO)",
+          "Indigenous social worker honoured with Australian Mental Health Prize - National Indigenous Times",
+          "World Mental Health Day webinar - World Health Organization (WHO)"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "AU",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
+        "score": 10,
+        "examples": [
+          "World Mental Health Day webinar - World Health Organization (WHO)",
+          "Indigenous social worker honoured with Australian Mental Health Prize - National Indigenous Times",
+          "World Mental Health Day webinar - World Health Organization (WHO)"
+        ]
       },
       {
-        "trend": "medical research",
+        "trend": "outbreak",
+        "market_code": "AU",
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "US issues health alert over suspected plague case in Russia as WHO says outbreak risk is low - Hromadske",
+          "Plague outbreak? Russian lab worker dies in Siberia - The Latest - The Guardian",
+          "Russia suspected plague outbreak: how worried should we be? - The Times"
+        ]
+      },
+      {
+        "trend": "healthcare",
         "market_code": "AU",
         "category": "Global Health",
-        "score": 1,
-        "examples": []
+        "score": 9,
+        "examples": [
+          "Providing mental healthcare to LGBTQIA people in general practice - Royal Australian College of General Practitioners (RACGP)",
+          "UK government backs healthcare commission blueprint for AI-enabled devices - Medical Device Network",
+          "UK Government supports new rules for AI in healthcare - Open Access Government"
+        ]
       },
       {
-        "trend": "drug approval",
+        "trend": "health alert",
         "market_code": "AU",
-        "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
+        "category": "Global Health",
+        "score": 8,
+        "examples": [
+          "Health Alert – U.S. Embassy Moscow, Russia (October 6, 2026) - U.S. Embassy & Consulates in Russia (.gov)",
+          "US issues health alert over suspected plague case in Russia - TVP World",
+          "Health Alert – U.S. Embassy Moscow, Russia (October 6, 2026) - U.S. Embassy & Consulates in Russia (.gov)"
+        ]
       },
       {
-        "trend": "diet wellness",
+        "trend": "disease",
+        "market_code": "AU",
+        "category": "Global Health",
+        "score": 7,
+        "examples": [
+          "This disease has now been declared an emergency. Maps show where it's spreading - USA Today",
+          "Pig disease outbreak leads to mass cull across Switzerland - SWI swissinfo.ch",
+          "Kenya Confirms First Imported Case of Bundibugyo Ebola Virus Disease - health.go.ke"
+        ]
+      },
+      {
+        "trend": "virus",
+        "market_code": "AU",
+        "category": "Outbreaks",
+        "score": 7,
+        "examples": [
+          "Kenya confirms first case of Ebola Bundibugyo virus - BBC",
+          "‘Mummy, it’s chemo Wednesday’: My daughter’s ‘virus’ was really leukaemia - That's Life!",
+          "Kenya confirms first case of Ebola Bundibugyo virus - BBC"
+        ]
+      },
+      {
+        "trend": "infection",
+        "market_code": "AU",
+        "category": "Outbreaks",
+        "score": 7,
+        "examples": [
+          "Understanding the link between infection and cancer - Walter and Eliza Hall Institute of Medical Research",
+          "Understanding the link between infection and cancer - Walter and Eliza Hall Institute of Medical Research",
+          "Scientists identify gene signatures in children with severe COVID-19 infection - Medical Xpress"
+        ]
+      },
+      {
+        "trend": "children",
+        "market_code": "AU",
+        "category": "Children Health",
+        "score": 6,
+        "examples": [
+          "Dental health project reaches 600 children milestone - Western Australian Government",
+          "Scientists identify gene signatures in children with severe COVID-19 infection - Medical Xpress",
+          "Scientists identify gene signatures in children with severe COVID-19 infection - University of Southampton"
+        ]
+      },
+      {
+        "trend": "wellness",
         "market_code": "AU",
         "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "score": 6,
+        "examples": [
+          "Nutritional Outlook Returns with the Second Annual \"The Outlook on Active Nutrition,\" Bringing Industry Leaders Together to Explore What's Next in Performance, Wellness, and Longevity | Nutritional Outlook - Supplement, Food & Beverage Manufacturing Tre - Nutritional Outlook",
+          "Improve your health habits with Wellness Wednesday - MPR News",
+          "Wellness Wednesday: Could milk and dairy increase your risk of heart disease? Research suggests otherwise - Glamour South Africa"
+        ]
       }
     ],
     "Canada": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "CA",
         "category": "Global Health",
-        "score": 1,
-        "examples": []
+        "score": 62,
+        "examples": [
+          "World Mental Health Day webinar - World Health Organization (WHO)",
+          "World Mental Health Day webinar - World Health Organization (WHO)",
+          "LETTER: 'Could our overstretched health care system deliver the program?' - Barrie News"
+        ]
       },
       {
-        "trend": "outbreak",
+        "trend": "medical",
         "market_code": "CA",
-        "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "category": "Global Health",
+        "score": 20,
+        "examples": [
+          "Niagara nurse among 4 Canadians on lost medical air transport out of Hamilton - CBC",
+          "Stouffville Medical Arts Building opens behind Walmart plaza to provide ‘care close to home’ - YorkRegion.com",
+          "New medical dispatch system to launch in Grey County region - CollingwoodToday.ca"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "CA",
+        "category": "Mental Health",
+        "score": 13,
+        "examples": [
+          "World Mental Health Day webinar - World Health Organization (WHO)",
+          "2026-10-06 - World Mental Health Day: “Lived experiences heard: Real voices, real change” - Canadian Union of Postal Workers",
+          "2nd Annual CPA Satellite Conference: Women’s Mental Health - Carleton University"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "CA",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
+        "score": 12,
+        "examples": [
+          "World Mental Health Day webinar - World Health Organization (WHO)",
+          "2026-10-06 - World Mental Health Day: “Lived experiences heard: Real voices, real change” - Canadian Union of Postal Workers",
+          "2nd Annual CPA Satellite Conference: Women’s Mental Health - Carleton University"
+        ]
       },
       {
-        "trend": "medical research",
+        "trend": "healthcare",
         "market_code": "CA",
         "category": "Global Health",
-        "score": 1,
-        "examples": []
+        "score": 12,
+        "examples": [
+          "Profound Medical And 2 Other Canadian AI Healthcare Stocks To Watch - Simply Wall Street",
+          "GuideAI Health Corp. Stock Faces Renewed Pressure as AI Healthcare Hype Meets Execution Risk - kalkine.ca",
+          "AI And Quantum Tech Will Transform Healthcare And Medical Research - Forbes"
+        ]
       },
       {
-        "trend": "drug approval",
+        "trend": "outbreak",
         "market_code": "CA",
-        "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "US issues health alert over suspected plague case in Russia as WHO says outbreak risk is low - Hromadske",
+          "Group releases dictionary of 'highjacked' terms misused since outbreak of Israel-Hamas war - Yahoo News Canada",
+          "Opinion | Pennsylvania’s measles outbreak looks scary. Doctors say the reality is worse. - The Washington Post"
+        ]
       },
       {
-        "trend": "diet wellness",
+        "trend": "warning",
         "market_code": "CA",
-        "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "category": "Global Health",
+        "score": 8,
+        "examples": [
+          "Public Health Sudbury & Districts issues blastomycosis warning for fall - CTV News",
+          "FDA Advisory No.2026-1507 || Public Health Warning Against the Purchase and Use of the Unnotified Medical Device Product “UNBRANDED ARM SLING - https://www.fda.gov.ph/",
+          "Interim govt changed vaccine procurement despite Unicef warning: Science report - The Daily Star"
+        ]
+      },
+      {
+        "trend": "public health",
+        "market_code": "CA",
+        "category": "Global Health",
+        "score": 8,
+        "examples": [
+          "Public Health Sudbury & Districts issues blastomycosis warning for fall - CTV News",
+          "Mpox cases on the rise in Toronto, public health officials urge vaccine for those eligible - The Globe and Mail",
+          "Permanent daylight saving time could be a public health time bomb - The Register"
+        ]
+      },
+      {
+        "trend": "hospital",
+        "market_code": "CA",
+        "category": "Global Health",
+        "score": 7,
+        "examples": [
+          "Tecsys Pledges $5 Million to Prisma Health's New Behavioral Health Hospital - PR Newswire Canada",
+          "How C. diff spreads in a hospital oncology ward - healthcare-in-europe.com",
+          "APIC/CAAMS to offer infection control workshop - American Animal Hospital Association - AAHA"
+        ]
+      },
+      {
+        "trend": "health alert",
+        "market_code": "CA",
+        "category": "Global Health",
+        "score": 7,
+        "examples": [
+          "Health Alert – U.S. Embassy Moscow, Russia (October 6, 2026) - U.S. Embassy & Consulates in Russia (.gov)",
+          "Health Alert – U.S. Embassy Moscow, Russia (October 6, 2026) - U.S. Embassy & Consulates in Russia (.gov)",
+          "US Embassy Issues Health Alert After Suspected Plague Death In Siberia - the deep dive"
+        ]
+      },
+      {
+        "trend": "virus",
+        "market_code": "CA",
+        "category": "Outbreaks",
+        "score": 7,
+        "examples": [
+          "Respiratory virus season already underway - CTV News",
+          "Florida man arrested after placing virus on woman’s computer, sharing private info in more than 100 TikTo - The Times of India",
+          "Kenya confirms first case of Ebola Bundibugyo virus - BBC"
+        ]
+      },
+      {
+        "trend": "infection",
+        "market_code": "CA",
+        "category": "Outbreaks",
+        "score": 7,
+        "examples": [
+          "Clonal isolation of Borrelia miyamotoi identifies multiple infection phenotypes and potential novel virulence determinants - ASM Journals",
+          "Understanding the link between infection and cancer - Walter and Eliza Hall Institute of Medical Research",
+          "Scientists identify gene signatures in children with severe COVID-19 infection - University of Southampton"
+        ]
       }
     ],
     "United Arab Emirates": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "AE",
         "category": "Arab Health",
-        "score": 1,
-        "examples": []
+        "score": 69,
+        "examples": [
+          "World Mental Health Day webinar - World Health Organization (WHO)",
+          "World Mental Health Day webinar - World Health Organization (WHO)",
+          "Health Care Roundup: Market Talk - WSJ"
+        ]
       },
       {
-        "trend": "outbreak",
+        "trend": "medical",
         "market_code": "AE",
-        "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "category": "Arab Health",
+        "score": 21,
+        "examples": [
+          "'Medicare for All' message attracts midterm voters buckling under medical bills - NPR",
+          "Virtual presentation on Medicare, Purdue medical, HSA plans available - Purdue University",
+          "Coast Guard names 6 people onboard medical transport plane - ABC News - Breaking News, Latest News and Videos"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "AE",
+        "category": "Mental Health",
+        "score": 12,
+        "examples": [
+          "World Mental Health Day webinar - World Health Organization (WHO)",
+          "World Mental Health Day webinar - World Health Organization (WHO)",
+          "Eagles star Lane Johnson announces retirement: 'Critical that I focus on my mental health' - ABC News - Breaking News, Latest News and Videos"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "AE",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
+        "score": 12,
+        "examples": [
+          "World Mental Health Day webinar - World Health Organization (WHO)",
+          "World Mental Health Day webinar - World Health Organization (WHO)",
+          "Eagles star Lane Johnson announces retirement: 'Critical that I focus on my mental health' - ABC News - Breaking News, Latest News and Videos"
+        ]
       },
       {
-        "trend": "medical research",
+        "trend": "healthcare",
         "market_code": "AE",
         "category": "Arab Health",
-        "score": 1,
-        "examples": []
+        "score": 11,
+        "examples": [
+          "FTC Sends Warning Letters to 24 Healthcare Organizations Over Price Transparency - MedCity News",
+          "Six physician organizations speak out against AI's superiority - Healthcare Finance News",
+          "GE HealthCare hires new global chief AI officer - MedTech Dive"
+        ]
       },
       {
-        "trend": "drug approval",
+        "trend": "warning",
         "market_code": "AE",
-        "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
+        "category": "Arab Health",
+        "score": 9,
+        "examples": [
+          "Utah health officials issue ‘urgent’ warning about kratom, ‘cat’s claw’ products after overdoses - Utah News Dispatch",
+          "Sickly creature found in Los Angeles prompts official warning — marks first case in 50 years - New York Post",
+          "Pediatricians warning parents about health risks from raw milk - CBS News"
+        ]
       },
       {
-        "trend": "diet wellness",
+        "trend": "outbreak",
+        "market_code": "AE",
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "Pennsylvania Measles Outbreak: 3 Lessons for the US - National Foundation for Infectious Diseases",
+          "Pennsylvania faces largest measles outbreak in decades as case count rises to 1,000 - The Guardian",
+          "Pittsburgh-area health experts sound the alarm on measles outbreak - CBS News"
+        ]
+      },
+      {
+        "trend": "measles",
+        "market_code": "AE",
+        "category": "Outbreaks",
+        "score": 8,
+        "examples": [
+          "Health Alert: New York measles disaster emergency after more than 100 cases; Pennsylvania nears 1,000 at the state line - WHEC.com",
+          "Pennsylvania Measles Outbreak: 3 Lessons for the US - National Foundation for Infectious Diseases",
+          "Pennsylvania faces largest measles outbreak in decades as case count rises to 1,000 - The Guardian"
+        ]
+      },
+      {
+        "trend": "virus",
+        "market_code": "AE",
+        "category": "Outbreaks",
+        "score": 8,
+        "examples": [
+          "Unknown virus leaves some Iowa patients sick for weeks - KCCI",
+          "First West Nile virus death of 2026 reported in DuPage County - NBC 5 Chicago",
+          "West Nile virus detected in mosquitoes between Robstown and Driscoll - kiiitv.com"
+        ]
+      },
+      {
+        "trend": "wellness",
         "market_code": "AE",
         "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "score": 8,
+        "examples": [
+          "A Pathway to Wellness: Exploring Trails as Lifelines for Mental Health - Rails to Trails Conservancy",
+          "Improve your health habits with Wellness Wednesday - MPR News",
+          "Nutritional Outlook Returns with the Second Annual \"The Outlook on Active Nutrition,\" Bringing Industry Leaders Together to Explore What's Next in Performance, Wellness, and Longevity | Nutritional Outlook - Supplement, Food & Beverage Manufacturing Tre - Nutritional Outlook"
+        ]
+      },
+      {
+        "trend": "children",
+        "market_code": "AE",
+        "category": "Children Health",
+        "score": 7,
+        "examples": [
+          "GLP-1 Drugs? Surgery? WHO Issues Guidelines For Obesity In Children - Health Policy Watch",
+          "Scientists identify gene signatures in children with severe COVID-19 infection - Medical Xpress",
+          "Scientists identify gene signatures in children with severe COVID-19 infection - University of Southampton"
+        ]
+      },
+      {
+        "trend": "public health",
+        "market_code": "AE",
+        "category": "Arab Health",
+        "score": 7,
+        "examples": [
+          "Structural fragility in digital public health communication - Nature",
+          "Elon nursing faculty earn poster recognition at NC Public Health Association Conference - Elon University",
+          "Local Farms and Food Businesses Receive Nearly $500,000 in Grants to Help Make Metro Chicago Food System More Equitable - Cook County Department of Public Health"
+        ]
       }
     ],
     "Saudi Arabia": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "SA",
         "category": "Arab Health",
-        "score": 1,
-        "examples": []
+        "score": 69,
+        "examples": [
+          "World Mental Health Day webinar - World Health Organization (WHO)",
+          "World Mental Health Day webinar - World Health Organization (WHO)",
+          "Health Care Roundup: Market Talk - WSJ"
+        ]
       },
       {
-        "trend": "outbreak",
+        "trend": "medical",
         "market_code": "SA",
-        "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "category": "Arab Health",
+        "score": 21,
+        "examples": [
+          "'Medicare for All' message attracts midterm voters buckling under medical bills - NPR",
+          "Virtual presentation on Medicare, Purdue medical, HSA plans available - Purdue University",
+          "Coast Guard names 6 people onboard medical transport plane - ABC News - Breaking News, Latest News and Videos"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "SA",
+        "category": "Mental Health",
+        "score": 12,
+        "examples": [
+          "World Mental Health Day webinar - World Health Organization (WHO)",
+          "World Mental Health Day webinar - World Health Organization (WHO)",
+          "Eagles star Lane Johnson announces retirement: 'Critical that I focus on my mental health' - ABC News - Breaking News, Latest News and Videos"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "SA",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
+        "score": 12,
+        "examples": [
+          "World Mental Health Day webinar - World Health Organization (WHO)",
+          "World Mental Health Day webinar - World Health Organization (WHO)",
+          "Eagles star Lane Johnson announces retirement: 'Critical that I focus on my mental health' - ABC News - Breaking News, Latest News and Videos"
+        ]
       },
       {
-        "trend": "medical research",
+        "trend": "healthcare",
         "market_code": "SA",
         "category": "Arab Health",
-        "score": 1,
-        "examples": []
+        "score": 11,
+        "examples": [
+          "FTC Sends Warning Letters to 24 Healthcare Organizations Over Price Transparency - MedCity News",
+          "Six physician organizations speak out against AI's superiority - Healthcare Finance News",
+          "GE HealthCare hires new global chief AI officer - MedTech Dive"
+        ]
       },
       {
-        "trend": "drug approval",
+        "trend": "warning",
         "market_code": "SA",
-        "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
+        "category": "Arab Health",
+        "score": 9,
+        "examples": [
+          "Utah health officials issue ‘urgent’ warning about kratom, ‘cat’s claw’ products after overdoses - Utah News Dispatch",
+          "Sickly creature found in Los Angeles prompts official warning — marks first case in 50 years - New York Post",
+          "Pediatricians warning parents about health risks from raw milk - CBS News"
+        ]
       },
       {
-        "trend": "diet wellness",
+        "trend": "outbreak",
+        "market_code": "SA",
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "Pennsylvania Measles Outbreak: 3 Lessons for the US - National Foundation for Infectious Diseases",
+          "Pennsylvania faces largest measles outbreak in decades as case count rises to 1,000 - The Guardian",
+          "Pittsburgh-area health experts sound the alarm on measles outbreak - CBS News"
+        ]
+      },
+      {
+        "trend": "measles",
+        "market_code": "SA",
+        "category": "Outbreaks",
+        "score": 8,
+        "examples": [
+          "Health Alert: New York measles disaster emergency after more than 100 cases; Pennsylvania nears 1,000 at the state line - WHEC.com",
+          "Pennsylvania Measles Outbreak: 3 Lessons for the US - National Foundation for Infectious Diseases",
+          "Pennsylvania faces largest measles outbreak in decades as case count rises to 1,000 - The Guardian"
+        ]
+      },
+      {
+        "trend": "virus",
+        "market_code": "SA",
+        "category": "Outbreaks",
+        "score": 8,
+        "examples": [
+          "Unknown virus leaves some Iowa patients sick for weeks - KCCI",
+          "First West Nile virus death of 2026 reported in DuPage County - NBC 5 Chicago",
+          "West Nile virus detected in mosquitoes between Robstown and Driscoll - kiiitv.com"
+        ]
+      },
+      {
+        "trend": "wellness",
         "market_code": "SA",
         "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "score": 8,
+        "examples": [
+          "A Pathway to Wellness: Exploring Trails as Lifelines for Mental Health - Rails to Trails Conservancy",
+          "Improve your health habits with Wellness Wednesday - MPR News",
+          "Nutritional Outlook Returns with the Second Annual \"The Outlook on Active Nutrition,\" Bringing Industry Leaders Together to Explore What's Next in Performance, Wellness, and Longevity | Nutritional Outlook - Supplement, Food & Beverage Manufacturing Tre - Nutritional Outlook"
+        ]
+      },
+      {
+        "trend": "children",
+        "market_code": "SA",
+        "category": "Children Health",
+        "score": 7,
+        "examples": [
+          "GLP-1 Drugs? Surgery? WHO Issues Guidelines For Obesity In Children - Health Policy Watch",
+          "Scientists identify gene signatures in children with severe COVID-19 infection - Medical Xpress",
+          "Scientists identify gene signatures in children with severe COVID-19 infection - University of Southampton"
+        ]
+      },
+      {
+        "trend": "public health",
+        "market_code": "SA",
+        "category": "Arab Health",
+        "score": 7,
+        "examples": [
+          "Structural fragility in digital public health communication - Nature",
+          "Elon nursing faculty earn poster recognition at NC Public Health Association Conference - Elon University",
+          "Local Farms and Food Businesses Receive Nearly $500,000 in Grants to Help Make Metro Chicago Food System More Equitable - Cook County Department of Public Health"
+        ]
       }
     ],
     "Qatar": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "QA",
         "category": "Arab Health",
-        "score": 1,
-        "examples": []
+        "score": 69,
+        "examples": [
+          "World Mental Health Day webinar - World Health Organization (WHO)",
+          "World Mental Health Day webinar - World Health Organization (WHO)",
+          "Health Care Roundup: Market Talk - WSJ"
+        ]
       },
       {
-        "trend": "outbreak",
+        "trend": "medical",
         "market_code": "QA",
-        "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "category": "Arab Health",
+        "score": 21,
+        "examples": [
+          "'Medicare for All' message attracts midterm voters buckling under medical bills - NPR",
+          "Virtual presentation on Medicare, Purdue medical, HSA plans available - Purdue University",
+          "Coast Guard names 6 people onboard medical transport plane - ABC News - Breaking News, Latest News and Videos"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "QA",
+        "category": "Mental Health",
+        "score": 12,
+        "examples": [
+          "World Mental Health Day webinar - World Health Organization (WHO)",
+          "World Mental Health Day webinar - World Health Organization (WHO)",
+          "Eagles star Lane Johnson announces retirement: 'Critical that I focus on my mental health' - ABC News - Breaking News, Latest News and Videos"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "QA",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
+        "score": 12,
+        "examples": [
+          "World Mental Health Day webinar - World Health Organization (WHO)",
+          "World Mental Health Day webinar - World Health Organization (WHO)",
+          "Eagles star Lane Johnson announces retirement: 'Critical that I focus on my mental health' - ABC News - Breaking News, Latest News and Videos"
+        ]
       },
       {
-        "trend": "medical research",
+        "trend": "healthcare",
         "market_code": "QA",
         "category": "Arab Health",
-        "score": 1,
-        "examples": []
+        "score": 11,
+        "examples": [
+          "FTC Sends Warning Letters to 24 Healthcare Organizations Over Price Transparency - MedCity News",
+          "Six physician organizations speak out against AI's superiority - Healthcare Finance News",
+          "GE HealthCare hires new global chief AI officer - MedTech Dive"
+        ]
       },
       {
-        "trend": "drug approval",
+        "trend": "warning",
         "market_code": "QA",
-        "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
+        "category": "Arab Health",
+        "score": 9,
+        "examples": [
+          "Utah health officials issue ‘urgent’ warning about kratom, ‘cat’s claw’ products after overdoses - Utah News Dispatch",
+          "Sickly creature found in Los Angeles prompts official warning — marks first case in 50 years - New York Post",
+          "Pediatricians warning parents about health risks from raw milk - CBS News"
+        ]
       },
       {
-        "trend": "diet wellness",
+        "trend": "outbreak",
+        "market_code": "QA",
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "Pennsylvania Measles Outbreak: 3 Lessons for the US - National Foundation for Infectious Diseases",
+          "Pennsylvania faces largest measles outbreak in decades as case count rises to 1,000 - The Guardian",
+          "Pittsburgh-area health experts sound the alarm on measles outbreak - CBS News"
+        ]
+      },
+      {
+        "trend": "measles",
+        "market_code": "QA",
+        "category": "Outbreaks",
+        "score": 8,
+        "examples": [
+          "Health Alert: New York measles disaster emergency after more than 100 cases; Pennsylvania nears 1,000 at the state line - WHEC.com",
+          "Pennsylvania Measles Outbreak: 3 Lessons for the US - National Foundation for Infectious Diseases",
+          "Pennsylvania faces largest measles outbreak in decades as case count rises to 1,000 - The Guardian"
+        ]
+      },
+      {
+        "trend": "virus",
+        "market_code": "QA",
+        "category": "Outbreaks",
+        "score": 8,
+        "examples": [
+          "Unknown virus leaves some Iowa patients sick for weeks - KCCI",
+          "First West Nile virus death of 2026 reported in DuPage County - NBC 5 Chicago",
+          "West Nile virus detected in mosquitoes between Robstown and Driscoll - kiiitv.com"
+        ]
+      },
+      {
+        "trend": "wellness",
         "market_code": "QA",
         "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "score": 8,
+        "examples": [
+          "A Pathway to Wellness: Exploring Trails as Lifelines for Mental Health - Rails to Trails Conservancy",
+          "Improve your health habits with Wellness Wednesday - MPR News",
+          "Nutritional Outlook Returns with the Second Annual \"The Outlook on Active Nutrition,\" Bringing Industry Leaders Together to Explore What's Next in Performance, Wellness, and Longevity | Nutritional Outlook - Supplement, Food & Beverage Manufacturing Tre - Nutritional Outlook"
+        ]
+      },
+      {
+        "trend": "children",
+        "market_code": "QA",
+        "category": "Children Health",
+        "score": 7,
+        "examples": [
+          "GLP-1 Drugs? Surgery? WHO Issues Guidelines For Obesity In Children - Health Policy Watch",
+          "Scientists identify gene signatures in children with severe COVID-19 infection - Medical Xpress",
+          "Scientists identify gene signatures in children with severe COVID-19 infection - University of Southampton"
+        ]
+      },
+      {
+        "trend": "public health",
+        "market_code": "QA",
+        "category": "Arab Health",
+        "score": 7,
+        "examples": [
+          "Structural fragility in digital public health communication - Nature",
+          "Elon nursing faculty earn poster recognition at NC Public Health Association Conference - Elon University",
+          "Local Farms and Food Businesses Receive Nearly $500,000 in Grants to Help Make Metro Chicago Food System More Equitable - Cook County Department of Public Health"
+        ]
       }
     ],
     "Jordan": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "JO",
         "category": "Arab Health",
-        "score": 1,
-        "examples": []
+        "score": 69,
+        "examples": [
+          "World Mental Health Day webinar - World Health Organization (WHO)",
+          "World Mental Health Day webinar - World Health Organization (WHO)",
+          "Health Care Roundup: Market Talk - WSJ"
+        ]
       },
       {
-        "trend": "outbreak",
+        "trend": "medical",
         "market_code": "JO",
-        "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "category": "Arab Health",
+        "score": 21,
+        "examples": [
+          "'Medicare for All' message attracts midterm voters buckling under medical bills - NPR",
+          "Virtual presentation on Medicare, Purdue medical, HSA plans available - Purdue University",
+          "Coast Guard names 6 people onboard medical transport plane - ABC News - Breaking News, Latest News and Videos"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "JO",
+        "category": "Mental Health",
+        "score": 12,
+        "examples": [
+          "World Mental Health Day webinar - World Health Organization (WHO)",
+          "World Mental Health Day webinar - World Health Organization (WHO)",
+          "Eagles star Lane Johnson announces retirement: 'Critical that I focus on my mental health' - ABC News - Breaking News, Latest News and Videos"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "JO",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
+        "score": 12,
+        "examples": [
+          "World Mental Health Day webinar - World Health Organization (WHO)",
+          "World Mental Health Day webinar - World Health Organization (WHO)",
+          "Eagles star Lane Johnson announces retirement: 'Critical that I focus on my mental health' - ABC News - Breaking News, Latest News and Videos"
+        ]
       },
       {
-        "trend": "medical research",
+        "trend": "healthcare",
         "market_code": "JO",
         "category": "Arab Health",
-        "score": 1,
-        "examples": []
+        "score": 11,
+        "examples": [
+          "FTC Sends Warning Letters to 24 Healthcare Organizations Over Price Transparency - MedCity News",
+          "Six physician organizations speak out against AI's superiority - Healthcare Finance News",
+          "GE HealthCare hires new global chief AI officer - MedTech Dive"
+        ]
       },
       {
-        "trend": "drug approval",
+        "trend": "warning",
         "market_code": "JO",
-        "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
+        "category": "Arab Health",
+        "score": 9,
+        "examples": [
+          "Utah health officials issue ‘urgent’ warning about kratom, ‘cat’s claw’ products after overdoses - Utah News Dispatch",
+          "Sickly creature found in Los Angeles prompts official warning — marks first case in 50 years - New York Post",
+          "Pediatricians warning parents about health risks from raw milk - CBS News"
+        ]
       },
       {
-        "trend": "diet wellness",
+        "trend": "outbreak",
+        "market_code": "JO",
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "Pennsylvania Measles Outbreak: 3 Lessons for the US - National Foundation for Infectious Diseases",
+          "Pennsylvania faces largest measles outbreak in decades as case count rises to 1,000 - The Guardian",
+          "Pittsburgh-area health experts sound the alarm on measles outbreak - CBS News"
+        ]
+      },
+      {
+        "trend": "measles",
+        "market_code": "JO",
+        "category": "Outbreaks",
+        "score": 8,
+        "examples": [
+          "Health Alert: New York measles disaster emergency after more than 100 cases; Pennsylvania nears 1,000 at the state line - WHEC.com",
+          "Pennsylvania Measles Outbreak: 3 Lessons for the US - National Foundation for Infectious Diseases",
+          "Pennsylvania faces largest measles outbreak in decades as case count rises to 1,000 - The Guardian"
+        ]
+      },
+      {
+        "trend": "virus",
+        "market_code": "JO",
+        "category": "Outbreaks",
+        "score": 8,
+        "examples": [
+          "Unknown virus leaves some Iowa patients sick for weeks - KCCI",
+          "First West Nile virus death of 2026 reported in DuPage County - NBC 5 Chicago",
+          "West Nile virus detected in mosquitoes between Robstown and Driscoll - kiiitv.com"
+        ]
+      },
+      {
+        "trend": "wellness",
         "market_code": "JO",
         "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "score": 8,
+        "examples": [
+          "A Pathway to Wellness: Exploring Trails as Lifelines for Mental Health - Rails to Trails Conservancy",
+          "Improve your health habits with Wellness Wednesday - MPR News",
+          "Nutritional Outlook Returns with the Second Annual \"The Outlook on Active Nutrition,\" Bringing Industry Leaders Together to Explore What's Next in Performance, Wellness, and Longevity | Nutritional Outlook - Supplement, Food & Beverage Manufacturing Tre - Nutritional Outlook"
+        ]
+      },
+      {
+        "trend": "children",
+        "market_code": "JO",
+        "category": "Children Health",
+        "score": 7,
+        "examples": [
+          "GLP-1 Drugs? Surgery? WHO Issues Guidelines For Obesity In Children - Health Policy Watch",
+          "Scientists identify gene signatures in children with severe COVID-19 infection - Medical Xpress",
+          "Scientists identify gene signatures in children with severe COVID-19 infection - University of Southampton"
+        ]
+      },
+      {
+        "trend": "public health",
+        "market_code": "JO",
+        "category": "Arab Health",
+        "score": 7,
+        "examples": [
+          "Structural fragility in digital public health communication - Nature",
+          "Elon nursing faculty earn poster recognition at NC Public Health Association Conference - Elon University",
+          "Local Farms and Food Businesses Receive Nearly $500,000 in Grants to Help Make Metro Chicago Food System More Equitable - Cook County Department of Public Health"
+        ]
       }
     ],
     "Lebanon": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "LB",
         "category": "Arab Health",
-        "score": 1,
-        "examples": []
+        "score": 69,
+        "examples": [
+          "World Mental Health Day webinar - World Health Organization (WHO)",
+          "World Mental Health Day webinar - World Health Organization (WHO)",
+          "Health Care Roundup: Market Talk - WSJ"
+        ]
       },
       {
-        "trend": "outbreak",
+        "trend": "medical",
         "market_code": "LB",
-        "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "category": "Arab Health",
+        "score": 21,
+        "examples": [
+          "'Medicare for All' message attracts midterm voters buckling under medical bills - NPR",
+          "Virtual presentation on Medicare, Purdue medical, HSA plans available - Purdue University",
+          "Coast Guard names 6 people onboard medical transport plane - ABC News - Breaking News, Latest News and Videos"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "LB",
+        "category": "Mental Health",
+        "score": 12,
+        "examples": [
+          "World Mental Health Day webinar - World Health Organization (WHO)",
+          "World Mental Health Day webinar - World Health Organization (WHO)",
+          "Eagles star Lane Johnson announces retirement: 'Critical that I focus on my mental health' - ABC News - Breaking News, Latest News and Videos"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "LB",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
+        "score": 12,
+        "examples": [
+          "World Mental Health Day webinar - World Health Organization (WHO)",
+          "World Mental Health Day webinar - World Health Organization (WHO)",
+          "Eagles star Lane Johnson announces retirement: 'Critical that I focus on my mental health' - ABC News - Breaking News, Latest News and Videos"
+        ]
       },
       {
-        "trend": "medical research",
+        "trend": "healthcare",
         "market_code": "LB",
         "category": "Arab Health",
-        "score": 1,
-        "examples": []
+        "score": 11,
+        "examples": [
+          "FTC Sends Warning Letters to 24 Healthcare Organizations Over Price Transparency - MedCity News",
+          "Six physician organizations speak out against AI's superiority - Healthcare Finance News",
+          "GE HealthCare hires new global chief AI officer - MedTech Dive"
+        ]
       },
       {
-        "trend": "drug approval",
+        "trend": "warning",
         "market_code": "LB",
-        "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
+        "category": "Arab Health",
+        "score": 9,
+        "examples": [
+          "Utah health officials issue ‘urgent’ warning about kratom, ‘cat’s claw’ products after overdoses - Utah News Dispatch",
+          "Sickly creature found in Los Angeles prompts official warning — marks first case in 50 years - New York Post",
+          "Pediatricians warning parents about health risks from raw milk - CBS News"
+        ]
       },
       {
-        "trend": "diet wellness",
+        "trend": "outbreak",
+        "market_code": "LB",
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "Pennsylvania Measles Outbreak: 3 Lessons for the US - National Foundation for Infectious Diseases",
+          "Pennsylvania faces largest measles outbreak in decades as case count rises to 1,000 - The Guardian",
+          "Pittsburgh-area health experts sound the alarm on measles outbreak - CBS News"
+        ]
+      },
+      {
+        "trend": "measles",
+        "market_code": "LB",
+        "category": "Outbreaks",
+        "score": 8,
+        "examples": [
+          "Health Alert: New York measles disaster emergency after more than 100 cases; Pennsylvania nears 1,000 at the state line - WHEC.com",
+          "Pennsylvania Measles Outbreak: 3 Lessons for the US - National Foundation for Infectious Diseases",
+          "Pennsylvania faces largest measles outbreak in decades as case count rises to 1,000 - The Guardian"
+        ]
+      },
+      {
+        "trend": "virus",
+        "market_code": "LB",
+        "category": "Outbreaks",
+        "score": 8,
+        "examples": [
+          "Unknown virus leaves some Iowa patients sick for weeks - KCCI",
+          "First West Nile virus death of 2026 reported in DuPage County - NBC 5 Chicago",
+          "West Nile virus detected in mosquitoes between Robstown and Driscoll - kiiitv.com"
+        ]
+      },
+      {
+        "trend": "wellness",
         "market_code": "LB",
         "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "score": 8,
+        "examples": [
+          "A Pathway to Wellness: Exploring Trails as Lifelines for Mental Health - Rails to Trails Conservancy",
+          "Improve your health habits with Wellness Wednesday - MPR News",
+          "Nutritional Outlook Returns with the Second Annual \"The Outlook on Active Nutrition,\" Bringing Industry Leaders Together to Explore What's Next in Performance, Wellness, and Longevity | Nutritional Outlook - Supplement, Food & Beverage Manufacturing Tre - Nutritional Outlook"
+        ]
+      },
+      {
+        "trend": "children",
+        "market_code": "LB",
+        "category": "Children Health",
+        "score": 7,
+        "examples": [
+          "GLP-1 Drugs? Surgery? WHO Issues Guidelines For Obesity In Children - Health Policy Watch",
+          "Scientists identify gene signatures in children with severe COVID-19 infection - Medical Xpress",
+          "Scientists identify gene signatures in children with severe COVID-19 infection - University of Southampton"
+        ]
+      },
+      {
+        "trend": "public health",
+        "market_code": "LB",
+        "category": "Arab Health",
+        "score": 7,
+        "examples": [
+          "Structural fragility in digital public health communication - Nature",
+          "Elon nursing faculty earn poster recognition at NC Public Health Association Conference - Elon University",
+          "Local Farms and Food Businesses Receive Nearly $500,000 in Grants to Help Make Metro Chicago Food System More Equitable - Cook County Department of Public Health"
+        ]
       }
     ]
   }
