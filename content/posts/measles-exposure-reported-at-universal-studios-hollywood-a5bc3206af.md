@@ -1,0 +1,65 @@
+---
+title: "Measles exposure reported at Universal Studios Hollywood"
+description: "Measles exposure reported at Universal Studios Hollywood ABC7 Bay Area"
+slug: "measles-exposure-reported-at-universal-studios-hollywood-a5bc3206af"
+category: "Outbreaks"
+region: "United States"
+source: "Google News / United States"
+source_url: "https://news.google.com/rss/articles/CBMi1xJBVV95cUxQNlh0aEtueDk3MzROVHFYVGNNd1JpRW1QM0VQTlJIOVBrd2FQdWpfY2tsNGRiNU5oOEhoaDJhVFN3MWZXdDlUaDZoTnh6TVk2UjdwSm5mZnRDTmdXNkVUZ1RwVFllMEdmaGd2dDRNS1BSdENWajBVMGsyY2ZRVEt1VVdnUkdfOUEwZ2x0RHRpWVZMSXN1Q0pobzlhRTZmcU9GZ3R0bnRvR0lUOVhOeWtkOHVJZWdLSGstZ0t5RU5fZXV6bG1LY1VEa0RhVk5PR1VZQllOX19BTV9IVENUTTZ4ZTZsRDZrSVBlV09WRndYYWFVRWt6QU5ERlRoRVZGdHRfczYyRFotQm9DMHRfQmZPMmJhT2tpdTdWNW9YR1BCSm9SSkp5WmRBNi02djVuS3pLSlBoazQzZUZIVG5pMm5aMkZiREFSY3VPTVN5bGQwVTRYUFNhQTUwMmQycFlOMFp0RFIwZWp0dDkwUURmbzAzeXVtR3NhczNnREZadFdDbkF4SG5wVTVEZm4wd250aVBFTXJRbFdqb2tESkEyRzhYclpBOHFEbDFKQlN0XzBGTFBYVFdhcWJ4Z3owVGdwUGNzWDJFTUN5bHVjTmE3QjlMTmVYcjVOTzN0VkpMTXN5MWtHYkE0YWQtT1M2d19PWGprS3Y5ZEVhbEEzV2lFQzhhSmVMLVpJOXFsT3VlYjhld0o1MC1pdXBpY0JYX2NZbnM1eHFSckR3RTVVU1ZySFg4SFRHSFo5RUZzMjZaMTdoT0pRY2toRTB0TGszODQzU3BGaWRibGQ3bFJldnhiRmlPTl90a1FJM1VCb0dCNWh0T2xrM1RpeGxCblNoa2VqbFFmQ2UwdlFSRkFvemk2YWRTbVhTRERkdmNKcndVZHdNdFBDQWtmVGpGTlB2d25mLXZlb2U5LTRMYUthVVgtbVZobXpISDIyUmN1Vm9FNDgxLUtRN0p5a00tenJUUmVDT3BTNnpKMnJad0RzUmtZb3lSVE04UUVKMWdWdVc3TFoydjIzdi1WTDZOR251dnQ5MF9DQktQclJRbVNmdGFvQlM2ZDljamRXbzBJRW1fYXpJcm52Qk9oVEhvSERvbjBveU9IUU1aR183WlRrSVdPaDV3TmI3MHhfODJ1bHFMV01nQ28tN3NfSXl2VmsyamhrOGFCMmFSc3RjR0xzNXJoaUxDTE5lUThCLVJYYzhzdkhvMnN3ZE5Wem9oMWxDaGlKS1VBOGxEa0dwRHpCTG42V29zbVlpYm9SOFVVQTMxNmtERUFJV2t2LU56bzgzR2RYSFRLc0Eza0pweGdwVVdxci03OGRKQm1Hc1hMaGxhQkgxTlV5OVpkeGt5aDFQVnhkeU5BZDZiOGhrdUY4UlVmUUZPeDZlNFAxV2pvT1lfbVNvTnFkRGJseTJOZk9WYjNPalpZQ1ZVVmtGcHRYZGRGeUstTERzaWdTRG1PNE9VQmJ4YkZxSzdPd2FmblR6VFF5dml4cE4yUlZWNTYzUVJ3RlJxbjNDLTVBU2JFbV9KdGlGQm94aU5ybG9IamVYWVFBVjNhTDYwYnhKNTB0Qjh5RFBvZ3NKdS1Zb1pKUmNSWmJqX2NDb1ozSW1ETWhLM0dwNk1CTW83ZDhSQkQyX08wenFNWDg0U3hTUXpvb3Nua1Fra2VQVy1ad3BDQjhQWm12c011NUhneFM2Z0hvaUJWRHYwQi04ZHdHWDg1VTVackU3TTRsZG1uNFU3TU9vemJOb1JyY2JZSGlJT1lPNHFCUU55U0JMeDBfcUlHbDlRRGpZZUJRNXhQemk0NV9LdTZqMUs4QXpvbU9KZEgwLVFNLVhTaGtCdXEyYlRyZkg5c01NdTBuU21SaWdlaXVDTDhadnY0RGpWMFBYZnBSUTBZTUlzb1QtbjhPQ2FfQUpoTjBnQ3JoLUNWWExTdTBMU1BsbXRIV0VRS0lKUnhWX1VEbDZxODVhek5iOVBnX2F0c0o5aWo4NWxad2d0Sk5nNmZTbG54R19wU1J1blhSM1FQNG92UENSN291d2doRXRJY2JpWVVHMnUxSlV0cHRseUxab2xURTViSWFfdU5hcENtczZrLTZ4YVN0Mk1JalJUOXhrT1phWHZnVmY4N2xtZTZmRnBJS01rNV9aRDF3RTJ1QThDVTNTQWhpWDdJLXN5ZG1wM3FKM0lTajdqWXNaSVZHN0ZPOTUtbkF2aFdBVTN4MGdDbFJULUhpOU9hdmx3aGhuWjJtT3F6c3ZJamlpOEh5WV8zSWlJZzRuLXJMMGIwdE0yLVZydklOWmprUkpIN1J0NUhhMUMwY3JTX1p3ZkxFdUhjLTBwcmJEWjJLaVJ1SE56VktGcFNZWThKdkVkWTNNVFFCTnMzRnJzNi1YWVZkN0RzVER5SDNNQWdZRHNUeGxCQnZ4SHZSc3VsWlV2Y1dQZENZc2EtYzZVUi1NZ2djdlgteTlXYkMxVi11QkRpYzQ3NUhRaUVEY0RXRnhRY05IWlpzbGtGd2o4d3otS2FncURHSHZ1UDBYeTlRdkxWTzloM3dDc0w0bjF5NVJ3bDQ4V0lYTHdYUHA0S1BabFd2dkN0NWwzb1kxM0ZUdFRjQmxXQ1lQelpxcFNQY0I0cENKNWVERVRqekNCSUNnMlJUSGV1enFzODE0S3RoZ0JRSEdtS0V2eGk0a0xUREZ4QkFFNFBUZ1lncm1xeEhQX1lqOG9mZUVnSVJPNTBMdGJycVhqU0tacy1MSVlneC1SMGRnV3E1ZmUxc3N2ZFVoN3M0VXNwcVRhcVpuV0hrTDFTOXZpR093dEZRc0FBOUtGU3lPYTF6OS1Gc2NhcjdNNVVZa1dSMmcydmpyMVk4dDNLeHRuTEhYSEVzeXk3SmRzTEhBMDhjMko0U0p0MThfTXQtVlZzUnRDaHoyRUpHLWVnMEoweXY5RHdGXy1sdTNYYjU1cGRqbGdoV3lKUUVfSUR3bHMwYktmbWVXVjlET0tjQkpQcncxNGcxS3dQRUZHSGRIZ0t4UkdEYVNIMldCVWhMNk5SUmdXUnVVT1hHUl9ybERQNXpERnQ3bU5DYXFMT04xdkowTnFhcHFzNGNrYUE1WGRrcmZYR1F0SnE0TjVKdXRJaHpRQWpLZ21BckJfMTQ5allaOUhPTE9SZU9XY0lZQ2M1QVJnQkhrVXN3OTNSZGFpakVLQzlkOUU?oc=5"
+source_confidence: "medium"
+published_at: "Sun, 11 Oct 2026 01:05:42 GMT"
+generated_at: "2026-10-11T02:25:09.338789+00:00"
+image_url: "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+trend: "virus"
+keywords:
+  - "virus"
+  - "outbreaks"
+  - "united states health news"
+  - "health trends"
+  - "medical news"
+  - "public health"
+  - "measles"
+  - "exposure"
+  - "reported"
+  - "universal"
+  - "studios"
+  - "hollywood"
+  - "abc7"
+  - "area"
+---
+
+# Measles exposure reported at Universal Studios Hollywood
+
+Measles exposure reported at Universal Studios Hollywood ABC7 Bay Area
+
+## Why this topic is trending
+
+This update was selected because it is connected to a detected health trend in **United States**.
+
+Tracked trend: **virus**.
+
+## What happened
+
+This update is part of a wider health signal being monitored from public sources and regional news feeds. It may relate to public health, medical research, symptoms, outbreaks, treatments, wellness, healthcare systems, or health technology.
+
+## Why it matters
+
+- It may affect public awareness or online health searches.
+- It may be connected to health policy, disease monitoring, treatment updates, or scientific research.
+- The original source should be reviewed for full details and context.
+
+## Region
+
+**United States**
+
+## Category
+
+**Outbreaks**
+
+## Source context
+
+This article summarizes a public health signal from **Google News / United States**. HantaUpdates links to the original source so readers can verify details directly.
+
+## Medical disclaimer
+
+HantaUpdates does not provide medical advice, diagnosis, or treatment. Always follow guidance from your local health authority or a qualified medical professional.
