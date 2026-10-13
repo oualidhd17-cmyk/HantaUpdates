@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-12T23:52:31.600218+00:00",
+  "updated_at": "2026-10-13T04:04:36.093054+00:00",
   "total_trends": 252,
   "markets": {
     "United States": [
@@ -7,11 +7,11 @@
         "trend": "health",
         "market_code": "US",
         "category": "US Health",
-        "score": 73,
+        "score": 76,
         "examples": [
           "UCR Health expands direct access through Blue & Gold - Inside UCR",
-          "How we’re making Google Health and Fitbit Air smarter than ever - blog.google",
-          "Photos: Raiders host Intermountain Children’s Health patients - Raiders.com"
+          "Google Health: Evolving so you can focus on living better - blog.google",
+          "DJJDP, New Hope Treatment Centers Open New Behavioral Health Unit at C.A. Dillon - NC DPS (.gov)"
         ]
       },
       {
@@ -21,19 +21,19 @@
         "score": 21,
         "examples": [
           "Diddy Rushed Out of Prison After Medical Emergency - TMZ",
-          "UVM Medical Center unions approve contracts and avert a strike - VTDigger",
-          "Family Medicine Physician Iram Qureshi, M.D., Joins UAMS Family Medical Center in Fort Smith - UAMS News"
+          "Dell Medical School partners with federal program to standardize clinical trials - The Daily Texan",
+          "Medical cannabis benefits for insomnia remain uncertain, Cochrane review finds - News-Medical"
         ]
       },
       {
-        "trend": "outbreak",
+        "trend": "cancer",
         "market_code": "US",
-        "category": "Outbreaks",
-        "score": 16,
+        "category": "Chronic Disease",
+        "score": 14,
         "examples": [
-          "Oregon public health officials investigating possible foodborne outbreak - Food Safety News",
-          "Oregon Doctors Were Told About a Multistate Salmonella Enteritidis Outbreak. The Public Was Not. CDC Counts Fifteen Active Salmonella Investigations and Has Posted Notices on Two of Them. - Marler Blog",
-          "TN Department of Health investigating possible foodborne illness outbreak at Walmart warehouse - WSMV"
+          "UH research links marine microplastics to cancer rates - University of Hawaii System",
+          "How many doctors does it take to solve a medical mystery? In this patient’s case, the answer is six - Fred Hutchinson Cancer Center",
+          "UH research links marine microplastics to cancer rates - University of Hawaii System"
         ]
       },
       {
@@ -42,20 +42,20 @@
         "category": "US Health",
         "score": 14,
         "examples": [
+          "Beyond Buzzwords: How Sutter Leaders Create Healthcare’s Blueprint - Sutter Health",
           "Oregon insurance regulators warn of cheap healthcare plans resulting in high bills - Cottage Grove Sentinel",
-          "Local man with dementia disappears after walking away from healthcare center - WKRC",
-          "MediDepot Highlights Infection Control and PPE Supply Solutions for Healthcare Facilities - The National Law Review"
+          "Local man with dementia disappears after walking away from healthcare center - WKRC"
         ]
       },
       {
         "trend": "mental",
         "market_code": "US",
         "category": "Mental Health",
-        "score": 13,
+        "score": 12,
         "examples": [
-          "Fact check: No, James Talarico was not in a mental health facility in Ohio - Dallas News",
-          "FACT FOCUS: Posts falsely claim Democratic Senate candidate James Talarico was at a mental facility - AP News",
-          "NYC launches website to connect residents with mental health care - StateScoop"
+          "Warning Signs for Young People’s Mental Health - tovima.com",
+          "New federal designation expands community-based mental health care in Central Vermont - WCAX",
+          "FACT FOCUS: Posts falsely claim Democratic Senate candidate James Talarico was at a mental facility - AP News"
         ]
       },
       {
@@ -70,25 +70,36 @@
         ]
       },
       {
-        "trend": "cancer",
+        "trend": "outbreak",
         "market_code": "US",
-        "category": "Chronic Disease",
+        "category": "Outbreaks",
         "score": 11,
         "examples": [
-          "How many doctors does it take to solve a medical mystery? In this patient’s case, the answer is six - Fred Hutchinson Cancer Center",
-          "South Texas Health Systems doctor shares breast cancer warning signs - KRGV",
-          "Scientists target high infection rates among myeloma patients in treatment - Rare Cancer News"
+          "TN Department of Health investigating possible foodborne illness outbreak at Walmart warehouse - WSMV",
+          "Orange County dengue numbers grow slightly, as state's outbreak continues - WUSF",
+          "Unleashed dog daycare owners recall trying summer from kennel cough outbreak - Evanston RoundTable"
+        ]
+      },
+      {
+        "trend": "mental health",
+        "market_code": "US",
+        "category": "Mental Health",
+        "score": 9,
+        "examples": [
+          "Warning Signs for Young People’s Mental Health - tovima.com",
+          "New federal designation expands community-based mental health care in Central Vermont - WCAX",
+          "Fact check: No, James Talarico was not in a mental health facility in Ohio - Dallas News"
         ]
       },
       {
         "trend": "virus",
         "market_code": "US",
         "category": "Outbreaks",
-        "score": 10,
+        "score": 9,
         "examples": [
-          "‘Essentially rabies’: Virus warning after 43 people bitten, scratched by bats in just two weeks - 7NEWS",
           "Ask Dr. Nandi: What vaccines doctors say you may need for respiratory virus season - WXYZ 7 News Detroit",
-          "UCLA-led team receives NIH grant to uncover how Zika virus damages the developing eye and explore potential treatments - UCLA Health"
+          "UCLA-led team receives NIH grant to uncover how Zika virus damages the developing eye and explore potential treatments - UCLA Health",
+          "AAF's BioShield VXL High Flow balances barn ventilation and virus filtration - The Poultry Site"
         ]
       },
       {
@@ -103,36 +114,25 @@
         ]
       },
       {
-        "trend": "mental health",
-        "market_code": "US",
-        "category": "Mental Health",
-        "score": 8,
-        "examples": [
-          "Fact check: No, James Talarico was not in a mental health facility in Ohio - Dallas News",
-          "NYC launches website to connect residents with mental health care - StateScoop",
-          "Fact check: No, James Talarico was not in a mental health facility in Ohio - Dallas News"
-        ]
-      },
-      {
-        "trend": "heart",
-        "market_code": "US",
-        "category": "Chronic Disease",
-        "score": 8,
-        "examples": [
-          "Scientists Built Tiny Robots That Could Treat Dangerous Heart Infections from Within - ZME Science",
-          "Managing high blood pressure could prevent >500K CVD deaths annually in 20 countries - www.heart.org",
-          "Texas Health Hospitals Earn Recognition from American Heart Association - The Business Press"
-        ]
-      },
-      {
-        "trend": "doctors",
+        "trend": "public health",
         "market_code": "US",
         "category": "US Health",
         "score": 7,
         "examples": [
-          "How many doctors does it take to solve a medical mystery? In this patient’s case, the answer is six - Fred Hutchinson Cancer Center",
-          "Ask Dr. Nandi: What vaccines doctors say you may need for respiratory virus season - WXYZ 7 News Detroit",
-          "Oregon Doctors Were Told About a Multistate Salmonella Enteritidis Outbreak. The Public Was Not. CDC Counts Fifteen Active Salmonella Investigations and Has Posted Notices on Two of Them. - Marler Blog"
+          "This era’s public health threat is digital (Opinion) - The Denver Post",
+          "Public Health Students Take Their Research to a National Stage - Maxwell School of Citizenship and Public Affairs",
+          "Meet our new faculty: Leo ​Martinez - UC Berkeley School of Public Health"
+        ]
+      },
+      {
+        "trend": "warning",
+        "market_code": "US",
+        "category": "US Health",
+        "score": 7,
+        "examples": [
+          "FDA Advisory No.2026-1483 || Public Health Warning Against the Purchase and Consumption of the Unregistered Food Product “BAKE KING ESSENTIALS California Golden Raisins” - Food and Drug Administration - www.fda.gov.ph",
+          "Grandfather who killed 8 in Pennsylvania shooting showed no warning signs, relative says - WPDE",
+          "Warning Signs for Young People’s Mental Health - tovima.com"
         ]
       }
     ],
@@ -149,17 +149,6 @@
         ]
       },
       {
-        "trend": "medical",
-        "market_code": "GB",
-        "category": "Europe Health",
-        "score": 19,
-        "examples": [
-          "Diddy Rushed Out of Prison After Medical Emergency - TMZ",
-          "As US medical debt grows, AI will be used more to collect it - The Guardian",
-          "The Future of Healthcare: Connected medical devices and healthcare resilience - Burges Salmon"
-        ]
-      },
-      {
         "trend": "healthcare",
         "market_code": "GB",
         "category": "Europe Health",
@@ -167,73 +156,73 @@
         "examples": [
           "The Future of Healthcare: Connected medical devices and healthcare resilience - Burges Salmon",
           "The Future of Healthcare: Connected medical devices and healthcare resilience - Burges Salmon",
-          "CAA doubles travel medical cover as overseas healthcare costs rise - ITIJ"
+          "Steris doubles down on healthcare consumables with $2.1 billion Xodus buy - Reuters"
         ]
       },
       {
         "trend": "mental",
         "market_code": "GB",
         "category": "Mental Health",
-        "score": 15,
+        "score": 17,
         "examples": [
+          "Health Sciences University brings students and staff together for mental health and wellbeing events - Health Sciences University",
           "King's researcher helps shape WHO guide on moving mental health care into the community - King's College London",
-          "Why are so many teenage girls seeking a mental health diagnosis? - The Times",
-          "King's researcher helps shape WHO guide on moving mental health care into the community - King's College London"
+          "Experts launch Europe-wide framework to guide AI use in mental health - News-Medical"
         ]
       },
       {
         "trend": "mental health",
         "market_code": "GB",
         "category": "Mental Health",
-        "score": 13,
+        "score": 16,
         "examples": [
+          "Health Sciences University brings students and staff together for mental health and wellbeing events - Health Sciences University",
           "King's researcher helps shape WHO guide on moving mental health care into the community - King's College London",
-          "Why are so many teenage girls seeking a mental health diagnosis? - The Times",
-          "King's researcher helps shape WHO guide on moving mental health care into the community - King's College London"
+          "Experts launch Europe-wide framework to guide AI use in mental health - News-Medical"
+        ]
+      },
+      {
+        "trend": "medical",
+        "market_code": "GB",
+        "category": "Europe Health",
+        "score": 16,
+        "examples": [
+          "Medical cannabis benefits for insomnia remain uncertain, Cochrane review finds - News-Medical",
+          "Diddy Rushed Out of Prison After Medical Emergency - TMZ",
+          "As US medical debt grows, AI will be used more to collect it - The Guardian"
         ]
       },
       {
         "trend": "outbreak",
         "market_code": "GB",
         "category": "Outbreaks",
-        "score": 11,
+        "score": 10,
         "examples": [
           "Qantas flight grounded after bedbug outbreak - BBC",
-          "AHDB commissions updated impact assessment on potential ASF outbreak - Pig World",
-          "Anti-vaxxers target Texas measles doctors to cast doubt on deaths amid outbreak - The Guardian"
-        ]
-      },
-      {
-        "trend": "infections",
-        "market_code": "GB",
-        "category": "Outbreaks",
-        "score": 9,
-        "examples": [
-          "Heath experts explain what to do if you have 'American Covid' as infections rise - Chronicle Live",
-          "Human immunodeficiency virus (HIV): factsheet on sexually transmitted infections - Nursing Times",
-          "Greece: West Nile virus infections rise to 443 - Outbreak News Today"
-        ]
-      },
-      {
-        "trend": "virus",
-        "market_code": "GB",
-        "category": "Outbreaks",
-        "score": 9,
-        "examples": [
-          "Ask Dr. Nandi: What vaccines doctors say you may need for respiratory virus season - WXYZ 7 News Detroit",
-          "Ancient virus hunters: how we discovered sheeppox DNA hidden in medieval gospels - Gavi, the Vaccine Alliance",
-          "Human immunodeficiency virus (HIV): factsheet on sexually transmitted infections - Nursing Times"
+          "Ukrainian eggs behind second salmonella outbreak - The Telegraph",
+          "AHDB commissions updated impact assessment on potential ASF outbreak - Pig World"
         ]
       },
       {
         "trend": "warning",
         "market_code": "GB",
         "category": "Europe Health",
-        "score": 8,
+        "score": 9,
         "examples": [
           "Health officials have issued a warning 😷 - Facebook",
-          "'Stay at home' warning issued as 'American Covid' cases rise in UK - Manchester Evening News",
-          "Think raw milk is better for you? Pediatricians have a warning - News-Medical"
+          "Warning Signs for Young People’s Mental Health - tovima.com",
+          "'Stay at home' warning issued as 'American Covid' cases rise in UK - Manchester Evening News"
+        ]
+      },
+      {
+        "trend": "virus",
+        "market_code": "GB",
+        "category": "Outbreaks",
+        "score": 8,
+        "examples": [
+          "Ask Dr. Nandi: What vaccines doctors say you may need for respiratory virus season - WXYZ 7 News Detroit",
+          "AAF's BioShield VXL High Flow balances barn ventilation and virus filtration - The Poultry Site",
+          "Ancient virus hunters: how we discovered sheeppox DNA hidden in medieval gospels - Gavi, the Vaccine Alliance"
         ]
       },
       {
@@ -251,22 +240,33 @@
         "trend": "cancer",
         "market_code": "GB",
         "category": "Chronic Disease",
-        "score": 7,
+        "score": 8,
         "examples": [
-          "How many doctors does it take to solve a medical mystery? In this patient’s case, the answer is six - Fred Hutchinson Cancer Center",
+          "6 Diet Changes To Lower Your Risk of Breast Cancer, According to an Oncology Nurse - www.health.com",
           "7 New Breakthroughs for Triple-Negative Breast Cancer - Breast Cancer.org",
           "7 New Breakthroughs for Triple-Negative Breast Cancer - Breast Cancer.org"
         ]
       },
       {
-        "trend": "women health",
+        "trend": "news-medical",
         "market_code": "GB",
-        "category": "Women Health",
-        "score": 5,
+        "category": "Europe Health",
+        "score": 7,
         "examples": [
-          "Endometriosis centres 'at risk' of closure as women's health 'broken' - BBC",
-          "We’re partnering with Flo Health to elevate women’s health - blog.google",
-          "Women’s health R&I in Europe: growing investment, persistent gaps, and the case for a coordinated response - CEPS"
+          "Experts launch Europe-wide framework to guide AI use in mental health - News-Medical",
+          "Medical cannabis benefits for insomnia remain uncertain, Cochrane review finds - News-Medical",
+          "Experts launch Europe-wide framework to guide AI use in mental health - News-Medical"
+        ]
+      },
+      {
+        "trend": "infections",
+        "market_code": "GB",
+        "category": "Outbreaks",
+        "score": 6,
+        "examples": [
+          "Heath experts explain what to do if you have 'American Covid' as infections rise - Chronicle Live",
+          "Human immunodeficiency virus (HIV): factsheet on sexually transmitted infections - Nursing Times",
+          "Early gut microbes help the newborn immune system fight deadly infections, mouse experiments suggest - Medical Xpress"
         ]
       }
     ],
@@ -275,62 +275,73 @@
         "trend": "health",
         "market_code": "DE",
         "category": "Europe Health",
-        "score": 73,
+        "score": 75,
         "examples": [
           "UCR Health expands direct access through Blue & Gold - Inside UCR",
-          "How we’re making Google Health and Fitbit Air smarter than ever - blog.google",
-          "Photos: Raiders host Intermountain Children’s Health patients - Raiders.com"
+          "Google Health: Evolving so you can focus on living better - blog.google",
+          "DJJDP, New Hope Treatment Centers Open New Behavioral Health Unit at C.A. Dillon - NC DPS (.gov)"
         ]
       },
       {
         "trend": "medical",
         "market_code": "DE",
         "category": "Europe Health",
-        "score": 21,
+        "score": 22,
         "examples": [
           "Diddy Rushed Out of Prison After Medical Emergency - TMZ",
-          "Family Medicine Physician Iram Qureshi, M.D., Joins UAMS Family Medical Center in Fort Smith - UAMS News",
-          "Physician Shares Lessons from Thousands of Patients Treated with Medical Cannabis - The University of Maryland, Baltimore"
-        ]
-      },
-      {
-        "trend": "outbreak",
-        "market_code": "DE",
-        "category": "Outbreaks",
-        "score": 16,
-        "examples": [
-          "Oregon public health officials investigating possible foodborne outbreak - Food Safety News",
-          "Oregon Doctors Were Told About a Multistate Salmonella Enteritidis Outbreak. The Public Was Not. CDC Counts Fifteen Active Salmonella Investigations and Has Posted Notices on Two of Them. - Marler Blog",
-          "TN Department of Health investigating possible foodborne illness outbreak at Walmart warehouse - WSMV"
+          "Dell Medical School partners with federal program to standardize clinical trials - The Daily Texan",
+          "Medical cannabis benefits for insomnia remain uncertain, Cochrane review finds - News-Medical"
         ]
       },
       {
         "trend": "healthcare",
         "market_code": "DE",
         "category": "Europe Health",
+        "score": 15,
+        "examples": [
+          "Beyond Buzzwords: How Sutter Leaders Create Healthcare’s Blueprint - Sutter Health",
+          "Oregon insurance regulators warn of cheap healthcare plans resulting in high bills - Cottage Grove Sentinel",
+          "Local man with dementia disappears after walking away from healthcare center - WKRC"
+        ]
+      },
+      {
+        "trend": "cancer",
+        "market_code": "DE",
+        "category": "Chronic Disease",
         "score": 14,
         "examples": [
-          "Oregon insurance regulators warn of cheap healthcare plans resulting in high bills - Cottage Grove Sentinel",
-          "Local man with dementia disappears after walking away from healthcare center - WKRC",
-          "MediDepot Highlights Infection Control and PPE Supply Solutions for Healthcare Facilities - The National Law Review"
+          "UH research links marine microplastics to cancer rates - University of Hawaii System",
+          "How many doctors does it take to solve a medical mystery? In this patient’s case, the answer is six - Fred Hutchinson Cancer Center",
+          "UH research links marine microplastics to cancer rates - University of Hawaii System"
         ]
       },
       {
         "trend": "mental",
         "market_code": "DE",
         "category": "Mental Health",
-        "score": 13,
+        "score": 12,
         "examples": [
-          "Fact check: No, James Talarico was not in a mental health facility in Ohio - Dallas News",
-          "FACT FOCUS: Posts falsely claim Democratic Senate candidate James Talarico was at a mental facility - AP News",
-          "NYC launches website to connect residents with mental health care - StateScoop"
+          "Warning Signs for Young People’s Mental Health - tovima.com",
+          "New federal designation expands community-based mental health care in Central Vermont - WCAX",
+          "FACT FOCUS: Posts falsely claim Democratic Senate candidate James Talarico was at a mental facility - AP News"
+        ]
+      },
+      {
+        "trend": "outbreak",
+        "market_code": "DE",
+        "category": "Outbreaks",
+        "score": 11,
+        "examples": [
+          "TN Department of Health investigating possible foodborne illness outbreak at Walmart warehouse - WSMV",
+          "Orange County dengue numbers grow slightly, as state's outbreak continues - WUSF",
+          "Unleashed dog daycare owners recall trying summer from kennel cough outbreak - Evanston RoundTable"
         ]
       },
       {
         "trend": "hospital",
         "market_code": "DE",
         "category": "Europe Health",
-        "score": 11,
+        "score": 10,
         "examples": [
           "Next listening session in AHA’s disability health series to focus on community partnerships - American Hospital Association",
           "Sean 'Diddy' Combs reportedly rushed to hospital for 'medical emergency' - USA Today",
@@ -338,25 +349,25 @@
         ]
       },
       {
-        "trend": "cancer",
+        "trend": "mental health",
         "market_code": "DE",
-        "category": "Chronic Disease",
-        "score": 11,
+        "category": "Mental Health",
+        "score": 9,
         "examples": [
-          "How many doctors does it take to solve a medical mystery? In this patient’s case, the answer is six - Fred Hutchinson Cancer Center",
-          "South Texas Health Systems doctor shares breast cancer warning signs - KRGV",
-          "Scientists target high infection rates among myeloma patients in treatment - Rare Cancer News"
+          "Warning Signs for Young People’s Mental Health - tovima.com",
+          "New federal designation expands community-based mental health care in Central Vermont - WCAX",
+          "Fact check: No, James Talarico was not in a mental health facility in Ohio - Dallas News"
         ]
       },
       {
         "trend": "virus",
         "market_code": "DE",
         "category": "Outbreaks",
-        "score": 10,
+        "score": 9,
         "examples": [
-          "‘Essentially rabies’: Virus warning after 43 people bitten, scratched by bats in just two weeks - 7NEWS",
           "Ask Dr. Nandi: What vaccines doctors say you may need for respiratory virus season - WXYZ 7 News Detroit",
-          "UCLA-led team receives NIH grant to uncover how Zika virus damages the developing eye and explore potential treatments - UCLA Health"
+          "UCLA-led team receives NIH grant to uncover how Zika virus damages the developing eye and explore potential treatments - UCLA Health",
+          "AAF's BioShield VXL High Flow balances barn ventilation and virus filtration - The Poultry Site"
         ]
       },
       {
@@ -371,36 +382,25 @@
         ]
       },
       {
-        "trend": "mental health",
-        "market_code": "DE",
-        "category": "Mental Health",
-        "score": 8,
-        "examples": [
-          "Fact check: No, James Talarico was not in a mental health facility in Ohio - Dallas News",
-          "NYC launches website to connect residents with mental health care - StateScoop",
-          "Fact check: No, James Talarico was not in a mental health facility in Ohio - Dallas News"
-        ]
-      },
-      {
-        "trend": "heart",
-        "market_code": "DE",
-        "category": "Chronic Disease",
-        "score": 8,
-        "examples": [
-          "Scientists Built Tiny Robots That Could Treat Dangerous Heart Infections from Within - ZME Science",
-          "Managing high blood pressure could prevent >500K CVD deaths annually in 20 countries - www.heart.org",
-          "Texas Health Hospitals Earn Recognition from American Heart Association - The Business Press"
-        ]
-      },
-      {
-        "trend": "doctors",
+        "trend": "public health",
         "market_code": "DE",
         "category": "Europe Health",
         "score": 7,
         "examples": [
-          "How many doctors does it take to solve a medical mystery? In this patient’s case, the answer is six - Fred Hutchinson Cancer Center",
-          "Ask Dr. Nandi: What vaccines doctors say you may need for respiratory virus season - WXYZ 7 News Detroit",
-          "Oregon Doctors Were Told About a Multistate Salmonella Enteritidis Outbreak. The Public Was Not. CDC Counts Fifteen Active Salmonella Investigations and Has Posted Notices on Two of Them. - Marler Blog"
+          "This era’s public health threat is digital (Opinion) - The Denver Post",
+          "Public Health Students Take Their Research to a National Stage - Maxwell School of Citizenship and Public Affairs",
+          "Meet our new faculty: Leo ​Martinez - UC Berkeley School of Public Health"
+        ]
+      },
+      {
+        "trend": "warning",
+        "market_code": "DE",
+        "category": "Europe Health",
+        "score": 7,
+        "examples": [
+          "FDA Advisory No.2026-1483 || Public Health Warning Against the Purchase and Consumption of the Unregistered Food Product “BAKE KING ESSENTIALS California Golden Raisins” - Food and Drug Administration - www.fda.gov.ph",
+          "Grandfather who killed 8 in Pennsylvania shooting showed no warning signs, relative says - WPDE",
+          "Warning Signs for Young People’s Mental Health - tovima.com"
         ]
       }
     ],
@@ -409,62 +409,73 @@
         "trend": "health",
         "market_code": "FR",
         "category": "Europe Health",
-        "score": 73,
+        "score": 75,
         "examples": [
           "UCR Health expands direct access through Blue & Gold - Inside UCR",
-          "How we’re making Google Health and Fitbit Air smarter than ever - blog.google",
-          "Photos: Raiders host Intermountain Children’s Health patients - Raiders.com"
+          "Google Health: Evolving so you can focus on living better - blog.google",
+          "DJJDP, New Hope Treatment Centers Open New Behavioral Health Unit at C.A. Dillon - NC DPS (.gov)"
         ]
       },
       {
         "trend": "medical",
         "market_code": "FR",
         "category": "Europe Health",
-        "score": 21,
+        "score": 22,
         "examples": [
           "Diddy Rushed Out of Prison After Medical Emergency - TMZ",
-          "Family Medicine Physician Iram Qureshi, M.D., Joins UAMS Family Medical Center in Fort Smith - UAMS News",
-          "Physician Shares Lessons from Thousands of Patients Treated with Medical Cannabis - The University of Maryland, Baltimore"
-        ]
-      },
-      {
-        "trend": "outbreak",
-        "market_code": "FR",
-        "category": "Outbreaks",
-        "score": 16,
-        "examples": [
-          "Oregon public health officials investigating possible foodborne outbreak - Food Safety News",
-          "Oregon Doctors Were Told About a Multistate Salmonella Enteritidis Outbreak. The Public Was Not. CDC Counts Fifteen Active Salmonella Investigations and Has Posted Notices on Two of Them. - Marler Blog",
-          "TN Department of Health investigating possible foodborne illness outbreak at Walmart warehouse - WSMV"
+          "Dell Medical School partners with federal program to standardize clinical trials - The Daily Texan",
+          "Medical cannabis benefits for insomnia remain uncertain, Cochrane review finds - News-Medical"
         ]
       },
       {
         "trend": "healthcare",
         "market_code": "FR",
         "category": "Europe Health",
+        "score": 15,
+        "examples": [
+          "Beyond Buzzwords: How Sutter Leaders Create Healthcare’s Blueprint - Sutter Health",
+          "Oregon insurance regulators warn of cheap healthcare plans resulting in high bills - Cottage Grove Sentinel",
+          "Local man with dementia disappears after walking away from healthcare center - WKRC"
+        ]
+      },
+      {
+        "trend": "cancer",
+        "market_code": "FR",
+        "category": "Chronic Disease",
         "score": 14,
         "examples": [
-          "Oregon insurance regulators warn of cheap healthcare plans resulting in high bills - Cottage Grove Sentinel",
-          "Local man with dementia disappears after walking away from healthcare center - WKRC",
-          "MediDepot Highlights Infection Control and PPE Supply Solutions for Healthcare Facilities - The National Law Review"
+          "UH research links marine microplastics to cancer rates - University of Hawaii System",
+          "How many doctors does it take to solve a medical mystery? In this patient’s case, the answer is six - Fred Hutchinson Cancer Center",
+          "UH research links marine microplastics to cancer rates - University of Hawaii System"
         ]
       },
       {
         "trend": "mental",
         "market_code": "FR",
         "category": "Mental Health",
-        "score": 13,
+        "score": 12,
         "examples": [
-          "Fact check: No, James Talarico was not in a mental health facility in Ohio - Dallas News",
-          "FACT FOCUS: Posts falsely claim Democratic Senate candidate James Talarico was at a mental facility - AP News",
-          "NYC launches website to connect residents with mental health care - StateScoop"
+          "Warning Signs for Young People’s Mental Health - tovima.com",
+          "New federal designation expands community-based mental health care in Central Vermont - WCAX",
+          "FACT FOCUS: Posts falsely claim Democratic Senate candidate James Talarico was at a mental facility - AP News"
+        ]
+      },
+      {
+        "trend": "outbreak",
+        "market_code": "FR",
+        "category": "Outbreaks",
+        "score": 11,
+        "examples": [
+          "TN Department of Health investigating possible foodborne illness outbreak at Walmart warehouse - WSMV",
+          "Orange County dengue numbers grow slightly, as state's outbreak continues - WUSF",
+          "Unleashed dog daycare owners recall trying summer from kennel cough outbreak - Evanston RoundTable"
         ]
       },
       {
         "trend": "hospital",
         "market_code": "FR",
         "category": "Europe Health",
-        "score": 11,
+        "score": 10,
         "examples": [
           "Next listening session in AHA’s disability health series to focus on community partnerships - American Hospital Association",
           "Sean 'Diddy' Combs reportedly rushed to hospital for 'medical emergency' - USA Today",
@@ -472,25 +483,25 @@
         ]
       },
       {
-        "trend": "cancer",
+        "trend": "mental health",
         "market_code": "FR",
-        "category": "Chronic Disease",
-        "score": 11,
+        "category": "Mental Health",
+        "score": 9,
         "examples": [
-          "How many doctors does it take to solve a medical mystery? In this patient’s case, the answer is six - Fred Hutchinson Cancer Center",
-          "South Texas Health Systems doctor shares breast cancer warning signs - KRGV",
-          "Scientists target high infection rates among myeloma patients in treatment - Rare Cancer News"
+          "Warning Signs for Young People’s Mental Health - tovima.com",
+          "New federal designation expands community-based mental health care in Central Vermont - WCAX",
+          "Fact check: No, James Talarico was not in a mental health facility in Ohio - Dallas News"
         ]
       },
       {
         "trend": "virus",
         "market_code": "FR",
         "category": "Outbreaks",
-        "score": 10,
+        "score": 9,
         "examples": [
-          "‘Essentially rabies’: Virus warning after 43 people bitten, scratched by bats in just two weeks - 7NEWS",
           "Ask Dr. Nandi: What vaccines doctors say you may need for respiratory virus season - WXYZ 7 News Detroit",
-          "UCLA-led team receives NIH grant to uncover how Zika virus damages the developing eye and explore potential treatments - UCLA Health"
+          "UCLA-led team receives NIH grant to uncover how Zika virus damages the developing eye and explore potential treatments - UCLA Health",
+          "AAF's BioShield VXL High Flow balances barn ventilation and virus filtration - The Poultry Site"
         ]
       },
       {
@@ -505,36 +516,25 @@
         ]
       },
       {
-        "trend": "mental health",
-        "market_code": "FR",
-        "category": "Mental Health",
-        "score": 8,
-        "examples": [
-          "Fact check: No, James Talarico was not in a mental health facility in Ohio - Dallas News",
-          "NYC launches website to connect residents with mental health care - StateScoop",
-          "Fact check: No, James Talarico was not in a mental health facility in Ohio - Dallas News"
-        ]
-      },
-      {
-        "trend": "heart",
-        "market_code": "FR",
-        "category": "Chronic Disease",
-        "score": 8,
-        "examples": [
-          "Scientists Built Tiny Robots That Could Treat Dangerous Heart Infections from Within - ZME Science",
-          "Managing high blood pressure could prevent >500K CVD deaths annually in 20 countries - www.heart.org",
-          "Texas Health Hospitals Earn Recognition from American Heart Association - The Business Press"
-        ]
-      },
-      {
-        "trend": "doctors",
+        "trend": "public health",
         "market_code": "FR",
         "category": "Europe Health",
         "score": 7,
         "examples": [
-          "How many doctors does it take to solve a medical mystery? In this patient’s case, the answer is six - Fred Hutchinson Cancer Center",
-          "Ask Dr. Nandi: What vaccines doctors say you may need for respiratory virus season - WXYZ 7 News Detroit",
-          "Oregon Doctors Were Told About a Multistate Salmonella Enteritidis Outbreak. The Public Was Not. CDC Counts Fifteen Active Salmonella Investigations and Has Posted Notices on Two of Them. - Marler Blog"
+          "This era’s public health threat is digital (Opinion) - The Denver Post",
+          "Public Health Students Take Their Research to a National Stage - Maxwell School of Citizenship and Public Affairs",
+          "Meet our new faculty: Leo ​Martinez - UC Berkeley School of Public Health"
+        ]
+      },
+      {
+        "trend": "warning",
+        "market_code": "FR",
+        "category": "Europe Health",
+        "score": 7,
+        "examples": [
+          "FDA Advisory No.2026-1483 || Public Health Warning Against the Purchase and Consumption of the Unregistered Food Product “BAKE KING ESSENTIALS California Golden Raisins” - Food and Drug Administration - www.fda.gov.ph",
+          "Grandfather who killed 8 in Pennsylvania shooting showed no warning signs, relative says - WPDE",
+          "Warning Signs for Young People’s Mental Health - tovima.com"
         ]
       }
     ],
@@ -543,62 +543,73 @@
         "trend": "health",
         "market_code": "IT",
         "category": "Europe Health",
-        "score": 73,
+        "score": 75,
         "examples": [
           "UCR Health expands direct access through Blue & Gold - Inside UCR",
-          "How we’re making Google Health and Fitbit Air smarter than ever - blog.google",
-          "Photos: Raiders host Intermountain Children’s Health patients - Raiders.com"
+          "Google Health: Evolving so you can focus on living better - blog.google",
+          "DJJDP, New Hope Treatment Centers Open New Behavioral Health Unit at C.A. Dillon - NC DPS (.gov)"
         ]
       },
       {
         "trend": "medical",
         "market_code": "IT",
         "category": "Europe Health",
-        "score": 21,
+        "score": 22,
         "examples": [
           "Diddy Rushed Out of Prison After Medical Emergency - TMZ",
-          "Family Medicine Physician Iram Qureshi, M.D., Joins UAMS Family Medical Center in Fort Smith - UAMS News",
-          "Physician Shares Lessons from Thousands of Patients Treated with Medical Cannabis - The University of Maryland, Baltimore"
-        ]
-      },
-      {
-        "trend": "outbreak",
-        "market_code": "IT",
-        "category": "Outbreaks",
-        "score": 16,
-        "examples": [
-          "Oregon public health officials investigating possible foodborne outbreak - Food Safety News",
-          "Oregon Doctors Were Told About a Multistate Salmonella Enteritidis Outbreak. The Public Was Not. CDC Counts Fifteen Active Salmonella Investigations and Has Posted Notices on Two of Them. - Marler Blog",
-          "TN Department of Health investigating possible foodborne illness outbreak at Walmart warehouse - WSMV"
+          "Dell Medical School partners with federal program to standardize clinical trials - The Daily Texan",
+          "Medical cannabis benefits for insomnia remain uncertain, Cochrane review finds - News-Medical"
         ]
       },
       {
         "trend": "healthcare",
         "market_code": "IT",
         "category": "Europe Health",
+        "score": 15,
+        "examples": [
+          "Beyond Buzzwords: How Sutter Leaders Create Healthcare’s Blueprint - Sutter Health",
+          "Oregon insurance regulators warn of cheap healthcare plans resulting in high bills - Cottage Grove Sentinel",
+          "Local man with dementia disappears after walking away from healthcare center - WKRC"
+        ]
+      },
+      {
+        "trend": "cancer",
+        "market_code": "IT",
+        "category": "Chronic Disease",
         "score": 14,
         "examples": [
-          "Oregon insurance regulators warn of cheap healthcare plans resulting in high bills - Cottage Grove Sentinel",
-          "Local man with dementia disappears after walking away from healthcare center - WKRC",
-          "MediDepot Highlights Infection Control and PPE Supply Solutions for Healthcare Facilities - The National Law Review"
+          "UH research links marine microplastics to cancer rates - University of Hawaii System",
+          "How many doctors does it take to solve a medical mystery? In this patient’s case, the answer is six - Fred Hutchinson Cancer Center",
+          "UH research links marine microplastics to cancer rates - University of Hawaii System"
         ]
       },
       {
         "trend": "mental",
         "market_code": "IT",
         "category": "Mental Health",
-        "score": 13,
+        "score": 12,
         "examples": [
-          "Fact check: No, James Talarico was not in a mental health facility in Ohio - Dallas News",
-          "FACT FOCUS: Posts falsely claim Democratic Senate candidate James Talarico was at a mental facility - AP News",
-          "NYC launches website to connect residents with mental health care - StateScoop"
+          "Warning Signs for Young People’s Mental Health - tovima.com",
+          "New federal designation expands community-based mental health care in Central Vermont - WCAX",
+          "FACT FOCUS: Posts falsely claim Democratic Senate candidate James Talarico was at a mental facility - AP News"
+        ]
+      },
+      {
+        "trend": "outbreak",
+        "market_code": "IT",
+        "category": "Outbreaks",
+        "score": 11,
+        "examples": [
+          "TN Department of Health investigating possible foodborne illness outbreak at Walmart warehouse - WSMV",
+          "Orange County dengue numbers grow slightly, as state's outbreak continues - WUSF",
+          "Unleashed dog daycare owners recall trying summer from kennel cough outbreak - Evanston RoundTable"
         ]
       },
       {
         "trend": "hospital",
         "market_code": "IT",
         "category": "Europe Health",
-        "score": 11,
+        "score": 10,
         "examples": [
           "Next listening session in AHA’s disability health series to focus on community partnerships - American Hospital Association",
           "Sean 'Diddy' Combs reportedly rushed to hospital for 'medical emergency' - USA Today",
@@ -606,25 +617,25 @@
         ]
       },
       {
-        "trend": "cancer",
+        "trend": "mental health",
         "market_code": "IT",
-        "category": "Chronic Disease",
-        "score": 11,
+        "category": "Mental Health",
+        "score": 9,
         "examples": [
-          "How many doctors does it take to solve a medical mystery? In this patient’s case, the answer is six - Fred Hutchinson Cancer Center",
-          "South Texas Health Systems doctor shares breast cancer warning signs - KRGV",
-          "Scientists target high infection rates among myeloma patients in treatment - Rare Cancer News"
+          "Warning Signs for Young People’s Mental Health - tovima.com",
+          "New federal designation expands community-based mental health care in Central Vermont - WCAX",
+          "Fact check: No, James Talarico was not in a mental health facility in Ohio - Dallas News"
         ]
       },
       {
         "trend": "virus",
         "market_code": "IT",
         "category": "Outbreaks",
-        "score": 10,
+        "score": 9,
         "examples": [
-          "‘Essentially rabies’: Virus warning after 43 people bitten, scratched by bats in just two weeks - 7NEWS",
           "Ask Dr. Nandi: What vaccines doctors say you may need for respiratory virus season - WXYZ 7 News Detroit",
-          "UCLA-led team receives NIH grant to uncover how Zika virus damages the developing eye and explore potential treatments - UCLA Health"
+          "UCLA-led team receives NIH grant to uncover how Zika virus damages the developing eye and explore potential treatments - UCLA Health",
+          "AAF's BioShield VXL High Flow balances barn ventilation and virus filtration - The Poultry Site"
         ]
       },
       {
@@ -639,36 +650,25 @@
         ]
       },
       {
-        "trend": "mental health",
-        "market_code": "IT",
-        "category": "Mental Health",
-        "score": 8,
-        "examples": [
-          "Fact check: No, James Talarico was not in a mental health facility in Ohio - Dallas News",
-          "NYC launches website to connect residents with mental health care - StateScoop",
-          "Fact check: No, James Talarico was not in a mental health facility in Ohio - Dallas News"
-        ]
-      },
-      {
-        "trend": "heart",
-        "market_code": "IT",
-        "category": "Chronic Disease",
-        "score": 8,
-        "examples": [
-          "Scientists Built Tiny Robots That Could Treat Dangerous Heart Infections from Within - ZME Science",
-          "Managing high blood pressure could prevent >500K CVD deaths annually in 20 countries - www.heart.org",
-          "Texas Health Hospitals Earn Recognition from American Heart Association - The Business Press"
-        ]
-      },
-      {
-        "trend": "doctors",
+        "trend": "public health",
         "market_code": "IT",
         "category": "Europe Health",
         "score": 7,
         "examples": [
-          "How many doctors does it take to solve a medical mystery? In this patient’s case, the answer is six - Fred Hutchinson Cancer Center",
-          "Ask Dr. Nandi: What vaccines doctors say you may need for respiratory virus season - WXYZ 7 News Detroit",
-          "Oregon Doctors Were Told About a Multistate Salmonella Enteritidis Outbreak. The Public Was Not. CDC Counts Fifteen Active Salmonella Investigations and Has Posted Notices on Two of Them. - Marler Blog"
+          "This era’s public health threat is digital (Opinion) - The Denver Post",
+          "Public Health Students Take Their Research to a National Stage - Maxwell School of Citizenship and Public Affairs",
+          "Meet our new faculty: Leo ​Martinez - UC Berkeley School of Public Health"
+        ]
+      },
+      {
+        "trend": "warning",
+        "market_code": "IT",
+        "category": "Europe Health",
+        "score": 7,
+        "examples": [
+          "FDA Advisory No.2026-1483 || Public Health Warning Against the Purchase and Consumption of the Unregistered Food Product “BAKE KING ESSENTIALS California Golden Raisins” - Food and Drug Administration - www.fda.gov.ph",
+          "Grandfather who killed 8 in Pennsylvania shooting showed no warning signs, relative says - WPDE",
+          "Warning Signs for Young People’s Mental Health - tovima.com"
         ]
       }
     ],
@@ -677,62 +677,73 @@
         "trend": "health",
         "market_code": "ES",
         "category": "Europe Health",
-        "score": 73,
+        "score": 75,
         "examples": [
           "UCR Health expands direct access through Blue & Gold - Inside UCR",
-          "How we’re making Google Health and Fitbit Air smarter than ever - blog.google",
-          "Photos: Raiders host Intermountain Children’s Health patients - Raiders.com"
+          "Google Health: Evolving so you can focus on living better - blog.google",
+          "DJJDP, New Hope Treatment Centers Open New Behavioral Health Unit at C.A. Dillon - NC DPS (.gov)"
         ]
       },
       {
         "trend": "medical",
         "market_code": "ES",
         "category": "Europe Health",
-        "score": 21,
+        "score": 22,
         "examples": [
           "Diddy Rushed Out of Prison After Medical Emergency - TMZ",
-          "Family Medicine Physician Iram Qureshi, M.D., Joins UAMS Family Medical Center in Fort Smith - UAMS News",
-          "Physician Shares Lessons from Thousands of Patients Treated with Medical Cannabis - The University of Maryland, Baltimore"
-        ]
-      },
-      {
-        "trend": "outbreak",
-        "market_code": "ES",
-        "category": "Outbreaks",
-        "score": 16,
-        "examples": [
-          "Oregon public health officials investigating possible foodborne outbreak - Food Safety News",
-          "Oregon Doctors Were Told About a Multistate Salmonella Enteritidis Outbreak. The Public Was Not. CDC Counts Fifteen Active Salmonella Investigations and Has Posted Notices on Two of Them. - Marler Blog",
-          "TN Department of Health investigating possible foodborne illness outbreak at Walmart warehouse - WSMV"
+          "Dell Medical School partners with federal program to standardize clinical trials - The Daily Texan",
+          "Medical cannabis benefits for insomnia remain uncertain, Cochrane review finds - News-Medical"
         ]
       },
       {
         "trend": "healthcare",
         "market_code": "ES",
         "category": "Europe Health",
+        "score": 15,
+        "examples": [
+          "Beyond Buzzwords: How Sutter Leaders Create Healthcare’s Blueprint - Sutter Health",
+          "Oregon insurance regulators warn of cheap healthcare plans resulting in high bills - Cottage Grove Sentinel",
+          "Local man with dementia disappears after walking away from healthcare center - WKRC"
+        ]
+      },
+      {
+        "trend": "cancer",
+        "market_code": "ES",
+        "category": "Chronic Disease",
         "score": 14,
         "examples": [
-          "Oregon insurance regulators warn of cheap healthcare plans resulting in high bills - Cottage Grove Sentinel",
-          "Local man with dementia disappears after walking away from healthcare center - WKRC",
-          "MediDepot Highlights Infection Control and PPE Supply Solutions for Healthcare Facilities - The National Law Review"
+          "UH research links marine microplastics to cancer rates - University of Hawaii System",
+          "How many doctors does it take to solve a medical mystery? In this patient’s case, the answer is six - Fred Hutchinson Cancer Center",
+          "UH research links marine microplastics to cancer rates - University of Hawaii System"
         ]
       },
       {
         "trend": "mental",
         "market_code": "ES",
         "category": "Mental Health",
-        "score": 13,
+        "score": 12,
         "examples": [
-          "Fact check: No, James Talarico was not in a mental health facility in Ohio - Dallas News",
-          "FACT FOCUS: Posts falsely claim Democratic Senate candidate James Talarico was at a mental facility - AP News",
-          "NYC launches website to connect residents with mental health care - StateScoop"
+          "Warning Signs for Young People’s Mental Health - tovima.com",
+          "New federal designation expands community-based mental health care in Central Vermont - WCAX",
+          "FACT FOCUS: Posts falsely claim Democratic Senate candidate James Talarico was at a mental facility - AP News"
+        ]
+      },
+      {
+        "trend": "outbreak",
+        "market_code": "ES",
+        "category": "Outbreaks",
+        "score": 11,
+        "examples": [
+          "TN Department of Health investigating possible foodborne illness outbreak at Walmart warehouse - WSMV",
+          "Orange County dengue numbers grow slightly, as state's outbreak continues - WUSF",
+          "Unleashed dog daycare owners recall trying summer from kennel cough outbreak - Evanston RoundTable"
         ]
       },
       {
         "trend": "hospital",
         "market_code": "ES",
         "category": "Europe Health",
-        "score": 11,
+        "score": 10,
         "examples": [
           "Next listening session in AHA’s disability health series to focus on community partnerships - American Hospital Association",
           "Sean 'Diddy' Combs reportedly rushed to hospital for 'medical emergency' - USA Today",
@@ -740,25 +751,25 @@
         ]
       },
       {
-        "trend": "cancer",
+        "trend": "mental health",
         "market_code": "ES",
-        "category": "Chronic Disease",
-        "score": 11,
+        "category": "Mental Health",
+        "score": 9,
         "examples": [
-          "How many doctors does it take to solve a medical mystery? In this patient’s case, the answer is six - Fred Hutchinson Cancer Center",
-          "South Texas Health Systems doctor shares breast cancer warning signs - KRGV",
-          "Scientists target high infection rates among myeloma patients in treatment - Rare Cancer News"
+          "Warning Signs for Young People’s Mental Health - tovima.com",
+          "New federal designation expands community-based mental health care in Central Vermont - WCAX",
+          "Fact check: No, James Talarico was not in a mental health facility in Ohio - Dallas News"
         ]
       },
       {
         "trend": "virus",
         "market_code": "ES",
         "category": "Outbreaks",
-        "score": 10,
+        "score": 9,
         "examples": [
-          "‘Essentially rabies’: Virus warning after 43 people bitten, scratched by bats in just two weeks - 7NEWS",
           "Ask Dr. Nandi: What vaccines doctors say you may need for respiratory virus season - WXYZ 7 News Detroit",
-          "UCLA-led team receives NIH grant to uncover how Zika virus damages the developing eye and explore potential treatments - UCLA Health"
+          "UCLA-led team receives NIH grant to uncover how Zika virus damages the developing eye and explore potential treatments - UCLA Health",
+          "AAF's BioShield VXL High Flow balances barn ventilation and virus filtration - The Poultry Site"
         ]
       },
       {
@@ -773,36 +784,25 @@
         ]
       },
       {
-        "trend": "mental health",
-        "market_code": "ES",
-        "category": "Mental Health",
-        "score": 8,
-        "examples": [
-          "Fact check: No, James Talarico was not in a mental health facility in Ohio - Dallas News",
-          "NYC launches website to connect residents with mental health care - StateScoop",
-          "Fact check: No, James Talarico was not in a mental health facility in Ohio - Dallas News"
-        ]
-      },
-      {
-        "trend": "heart",
-        "market_code": "ES",
-        "category": "Chronic Disease",
-        "score": 8,
-        "examples": [
-          "Scientists Built Tiny Robots That Could Treat Dangerous Heart Infections from Within - ZME Science",
-          "Managing high blood pressure could prevent >500K CVD deaths annually in 20 countries - www.heart.org",
-          "Texas Health Hospitals Earn Recognition from American Heart Association - The Business Press"
-        ]
-      },
-      {
-        "trend": "doctors",
+        "trend": "public health",
         "market_code": "ES",
         "category": "Europe Health",
         "score": 7,
         "examples": [
-          "How many doctors does it take to solve a medical mystery? In this patient’s case, the answer is six - Fred Hutchinson Cancer Center",
-          "Ask Dr. Nandi: What vaccines doctors say you may need for respiratory virus season - WXYZ 7 News Detroit",
-          "Oregon Doctors Were Told About a Multistate Salmonella Enteritidis Outbreak. The Public Was Not. CDC Counts Fifteen Active Salmonella Investigations and Has Posted Notices on Two of Them. - Marler Blog"
+          "This era’s public health threat is digital (Opinion) - The Denver Post",
+          "Public Health Students Take Their Research to a National Stage - Maxwell School of Citizenship and Public Affairs",
+          "Meet our new faculty: Leo ​Martinez - UC Berkeley School of Public Health"
+        ]
+      },
+      {
+        "trend": "warning",
+        "market_code": "ES",
+        "category": "Europe Health",
+        "score": 7,
+        "examples": [
+          "FDA Advisory No.2026-1483 || Public Health Warning Against the Purchase and Consumption of the Unregistered Food Product “BAKE KING ESSENTIALS California Golden Raisins” - Food and Drug Administration - www.fda.gov.ph",
+          "Grandfather who killed 8 in Pennsylvania shooting showed no warning signs, relative says - WPDE",
+          "Warning Signs for Young People’s Mental Health - tovima.com"
         ]
       }
     ],
@@ -811,62 +811,73 @@
         "trend": "health",
         "market_code": "SE",
         "category": "Europe Health",
-        "score": 73,
+        "score": 75,
         "examples": [
           "UCR Health expands direct access through Blue & Gold - Inside UCR",
-          "How we’re making Google Health and Fitbit Air smarter than ever - blog.google",
-          "Photos: Raiders host Intermountain Children’s Health patients - Raiders.com"
+          "Google Health: Evolving so you can focus on living better - blog.google",
+          "DJJDP, New Hope Treatment Centers Open New Behavioral Health Unit at C.A. Dillon - NC DPS (.gov)"
         ]
       },
       {
         "trend": "medical",
         "market_code": "SE",
         "category": "Europe Health",
-        "score": 21,
+        "score": 22,
         "examples": [
           "Diddy Rushed Out of Prison After Medical Emergency - TMZ",
-          "Family Medicine Physician Iram Qureshi, M.D., Joins UAMS Family Medical Center in Fort Smith - UAMS News",
-          "Physician Shares Lessons from Thousands of Patients Treated with Medical Cannabis - The University of Maryland, Baltimore"
-        ]
-      },
-      {
-        "trend": "outbreak",
-        "market_code": "SE",
-        "category": "Outbreaks",
-        "score": 16,
-        "examples": [
-          "Oregon public health officials investigating possible foodborne outbreak - Food Safety News",
-          "Oregon Doctors Were Told About a Multistate Salmonella Enteritidis Outbreak. The Public Was Not. CDC Counts Fifteen Active Salmonella Investigations and Has Posted Notices on Two of Them. - Marler Blog",
-          "TN Department of Health investigating possible foodborne illness outbreak at Walmart warehouse - WSMV"
+          "Dell Medical School partners with federal program to standardize clinical trials - The Daily Texan",
+          "Medical cannabis benefits for insomnia remain uncertain, Cochrane review finds - News-Medical"
         ]
       },
       {
         "trend": "healthcare",
         "market_code": "SE",
         "category": "Europe Health",
+        "score": 15,
+        "examples": [
+          "Beyond Buzzwords: How Sutter Leaders Create Healthcare’s Blueprint - Sutter Health",
+          "Oregon insurance regulators warn of cheap healthcare plans resulting in high bills - Cottage Grove Sentinel",
+          "Local man with dementia disappears after walking away from healthcare center - WKRC"
+        ]
+      },
+      {
+        "trend": "cancer",
+        "market_code": "SE",
+        "category": "Chronic Disease",
         "score": 14,
         "examples": [
-          "Oregon insurance regulators warn of cheap healthcare plans resulting in high bills - Cottage Grove Sentinel",
-          "Local man with dementia disappears after walking away from healthcare center - WKRC",
-          "MediDepot Highlights Infection Control and PPE Supply Solutions for Healthcare Facilities - The National Law Review"
+          "UH research links marine microplastics to cancer rates - University of Hawaii System",
+          "How many doctors does it take to solve a medical mystery? In this patient’s case, the answer is six - Fred Hutchinson Cancer Center",
+          "UH research links marine microplastics to cancer rates - University of Hawaii System"
         ]
       },
       {
         "trend": "mental",
         "market_code": "SE",
         "category": "Mental Health",
-        "score": 13,
+        "score": 12,
         "examples": [
-          "Fact check: No, James Talarico was not in a mental health facility in Ohio - Dallas News",
-          "FACT FOCUS: Posts falsely claim Democratic Senate candidate James Talarico was at a mental facility - AP News",
-          "NYC launches website to connect residents with mental health care - StateScoop"
+          "Warning Signs for Young People’s Mental Health - tovima.com",
+          "New federal designation expands community-based mental health care in Central Vermont - WCAX",
+          "FACT FOCUS: Posts falsely claim Democratic Senate candidate James Talarico was at a mental facility - AP News"
+        ]
+      },
+      {
+        "trend": "outbreak",
+        "market_code": "SE",
+        "category": "Outbreaks",
+        "score": 11,
+        "examples": [
+          "TN Department of Health investigating possible foodborne illness outbreak at Walmart warehouse - WSMV",
+          "Orange County dengue numbers grow slightly, as state's outbreak continues - WUSF",
+          "Unleashed dog daycare owners recall trying summer from kennel cough outbreak - Evanston RoundTable"
         ]
       },
       {
         "trend": "hospital",
         "market_code": "SE",
         "category": "Europe Health",
-        "score": 11,
+        "score": 10,
         "examples": [
           "Next listening session in AHA’s disability health series to focus on community partnerships - American Hospital Association",
           "Sean 'Diddy' Combs reportedly rushed to hospital for 'medical emergency' - USA Today",
@@ -874,25 +885,25 @@
         ]
       },
       {
-        "trend": "cancer",
+        "trend": "mental health",
         "market_code": "SE",
-        "category": "Chronic Disease",
-        "score": 11,
+        "category": "Mental Health",
+        "score": 9,
         "examples": [
-          "How many doctors does it take to solve a medical mystery? In this patient’s case, the answer is six - Fred Hutchinson Cancer Center",
-          "South Texas Health Systems doctor shares breast cancer warning signs - KRGV",
-          "Scientists target high infection rates among myeloma patients in treatment - Rare Cancer News"
+          "Warning Signs for Young People’s Mental Health - tovima.com",
+          "New federal designation expands community-based mental health care in Central Vermont - WCAX",
+          "Fact check: No, James Talarico was not in a mental health facility in Ohio - Dallas News"
         ]
       },
       {
         "trend": "virus",
         "market_code": "SE",
         "category": "Outbreaks",
-        "score": 10,
+        "score": 9,
         "examples": [
-          "‘Essentially rabies’: Virus warning after 43 people bitten, scratched by bats in just two weeks - 7NEWS",
           "Ask Dr. Nandi: What vaccines doctors say you may need for respiratory virus season - WXYZ 7 News Detroit",
-          "UCLA-led team receives NIH grant to uncover how Zika virus damages the developing eye and explore potential treatments - UCLA Health"
+          "UCLA-led team receives NIH grant to uncover how Zika virus damages the developing eye and explore potential treatments - UCLA Health",
+          "AAF's BioShield VXL High Flow balances barn ventilation and virus filtration - The Poultry Site"
         ]
       },
       {
@@ -907,36 +918,25 @@
         ]
       },
       {
-        "trend": "mental health",
-        "market_code": "SE",
-        "category": "Mental Health",
-        "score": 8,
-        "examples": [
-          "Fact check: No, James Talarico was not in a mental health facility in Ohio - Dallas News",
-          "NYC launches website to connect residents with mental health care - StateScoop",
-          "Fact check: No, James Talarico was not in a mental health facility in Ohio - Dallas News"
-        ]
-      },
-      {
-        "trend": "heart",
-        "market_code": "SE",
-        "category": "Chronic Disease",
-        "score": 8,
-        "examples": [
-          "Scientists Built Tiny Robots That Could Treat Dangerous Heart Infections from Within - ZME Science",
-          "Managing high blood pressure could prevent >500K CVD deaths annually in 20 countries - www.heart.org",
-          "Texas Health Hospitals Earn Recognition from American Heart Association - The Business Press"
-        ]
-      },
-      {
-        "trend": "doctors",
+        "trend": "public health",
         "market_code": "SE",
         "category": "Europe Health",
         "score": 7,
         "examples": [
-          "How many doctors does it take to solve a medical mystery? In this patient’s case, the answer is six - Fred Hutchinson Cancer Center",
-          "Ask Dr. Nandi: What vaccines doctors say you may need for respiratory virus season - WXYZ 7 News Detroit",
-          "Oregon Doctors Were Told About a Multistate Salmonella Enteritidis Outbreak. The Public Was Not. CDC Counts Fifteen Active Salmonella Investigations and Has Posted Notices on Two of Them. - Marler Blog"
+          "This era’s public health threat is digital (Opinion) - The Denver Post",
+          "Public Health Students Take Their Research to a National Stage - Maxwell School of Citizenship and Public Affairs",
+          "Meet our new faculty: Leo ​Martinez - UC Berkeley School of Public Health"
+        ]
+      },
+      {
+        "trend": "warning",
+        "market_code": "SE",
+        "category": "Europe Health",
+        "score": 7,
+        "examples": [
+          "FDA Advisory No.2026-1483 || Public Health Warning Against the Purchase and Consumption of the Unregistered Food Product “BAKE KING ESSENTIALS California Golden Raisins” - Food and Drug Administration - www.fda.gov.ph",
+          "Grandfather who killed 8 in Pennsylvania shooting showed no warning signs, relative says - WPDE",
+          "Warning Signs for Young People’s Mental Health - tovima.com"
         ]
       }
     ],
@@ -945,62 +945,73 @@
         "trend": "health",
         "market_code": "NL",
         "category": "Europe Health",
-        "score": 73,
+        "score": 75,
         "examples": [
           "UCR Health expands direct access through Blue & Gold - Inside UCR",
-          "How we’re making Google Health and Fitbit Air smarter than ever - blog.google",
-          "Photos: Raiders host Intermountain Children’s Health patients - Raiders.com"
+          "Google Health: Evolving so you can focus on living better - blog.google",
+          "DJJDP, New Hope Treatment Centers Open New Behavioral Health Unit at C.A. Dillon - NC DPS (.gov)"
         ]
       },
       {
         "trend": "medical",
         "market_code": "NL",
         "category": "Europe Health",
-        "score": 21,
+        "score": 22,
         "examples": [
           "Diddy Rushed Out of Prison After Medical Emergency - TMZ",
-          "Family Medicine Physician Iram Qureshi, M.D., Joins UAMS Family Medical Center in Fort Smith - UAMS News",
-          "Physician Shares Lessons from Thousands of Patients Treated with Medical Cannabis - The University of Maryland, Baltimore"
-        ]
-      },
-      {
-        "trend": "outbreak",
-        "market_code": "NL",
-        "category": "Outbreaks",
-        "score": 16,
-        "examples": [
-          "Oregon public health officials investigating possible foodborne outbreak - Food Safety News",
-          "Oregon Doctors Were Told About a Multistate Salmonella Enteritidis Outbreak. The Public Was Not. CDC Counts Fifteen Active Salmonella Investigations and Has Posted Notices on Two of Them. - Marler Blog",
-          "TN Department of Health investigating possible foodborne illness outbreak at Walmart warehouse - WSMV"
+          "Dell Medical School partners with federal program to standardize clinical trials - The Daily Texan",
+          "Medical cannabis benefits for insomnia remain uncertain, Cochrane review finds - News-Medical"
         ]
       },
       {
         "trend": "healthcare",
         "market_code": "NL",
         "category": "Europe Health",
+        "score": 15,
+        "examples": [
+          "Beyond Buzzwords: How Sutter Leaders Create Healthcare’s Blueprint - Sutter Health",
+          "Oregon insurance regulators warn of cheap healthcare plans resulting in high bills - Cottage Grove Sentinel",
+          "Local man with dementia disappears after walking away from healthcare center - WKRC"
+        ]
+      },
+      {
+        "trend": "cancer",
+        "market_code": "NL",
+        "category": "Chronic Disease",
         "score": 14,
         "examples": [
-          "Oregon insurance regulators warn of cheap healthcare plans resulting in high bills - Cottage Grove Sentinel",
-          "Local man with dementia disappears after walking away from healthcare center - WKRC",
-          "MediDepot Highlights Infection Control and PPE Supply Solutions for Healthcare Facilities - The National Law Review"
+          "UH research links marine microplastics to cancer rates - University of Hawaii System",
+          "How many doctors does it take to solve a medical mystery? In this patient’s case, the answer is six - Fred Hutchinson Cancer Center",
+          "UH research links marine microplastics to cancer rates - University of Hawaii System"
         ]
       },
       {
         "trend": "mental",
         "market_code": "NL",
         "category": "Mental Health",
-        "score": 13,
+        "score": 12,
         "examples": [
-          "Fact check: No, James Talarico was not in a mental health facility in Ohio - Dallas News",
-          "FACT FOCUS: Posts falsely claim Democratic Senate candidate James Talarico was at a mental facility - AP News",
-          "NYC launches website to connect residents with mental health care - StateScoop"
+          "Warning Signs for Young People’s Mental Health - tovima.com",
+          "New federal designation expands community-based mental health care in Central Vermont - WCAX",
+          "FACT FOCUS: Posts falsely claim Democratic Senate candidate James Talarico was at a mental facility - AP News"
+        ]
+      },
+      {
+        "trend": "outbreak",
+        "market_code": "NL",
+        "category": "Outbreaks",
+        "score": 11,
+        "examples": [
+          "TN Department of Health investigating possible foodborne illness outbreak at Walmart warehouse - WSMV",
+          "Orange County dengue numbers grow slightly, as state's outbreak continues - WUSF",
+          "Unleashed dog daycare owners recall trying summer from kennel cough outbreak - Evanston RoundTable"
         ]
       },
       {
         "trend": "hospital",
         "market_code": "NL",
         "category": "Europe Health",
-        "score": 11,
+        "score": 10,
         "examples": [
           "Next listening session in AHA’s disability health series to focus on community partnerships - American Hospital Association",
           "Sean 'Diddy' Combs reportedly rushed to hospital for 'medical emergency' - USA Today",
@@ -1008,25 +1019,25 @@
         ]
       },
       {
-        "trend": "cancer",
+        "trend": "mental health",
         "market_code": "NL",
-        "category": "Chronic Disease",
-        "score": 11,
+        "category": "Mental Health",
+        "score": 9,
         "examples": [
-          "How many doctors does it take to solve a medical mystery? In this patient’s case, the answer is six - Fred Hutchinson Cancer Center",
-          "South Texas Health Systems doctor shares breast cancer warning signs - KRGV",
-          "Scientists target high infection rates among myeloma patients in treatment - Rare Cancer News"
+          "Warning Signs for Young People’s Mental Health - tovima.com",
+          "New federal designation expands community-based mental health care in Central Vermont - WCAX",
+          "Fact check: No, James Talarico was not in a mental health facility in Ohio - Dallas News"
         ]
       },
       {
         "trend": "virus",
         "market_code": "NL",
         "category": "Outbreaks",
-        "score": 10,
+        "score": 9,
         "examples": [
-          "‘Essentially rabies’: Virus warning after 43 people bitten, scratched by bats in just two weeks - 7NEWS",
           "Ask Dr. Nandi: What vaccines doctors say you may need for respiratory virus season - WXYZ 7 News Detroit",
-          "UCLA-led team receives NIH grant to uncover how Zika virus damages the developing eye and explore potential treatments - UCLA Health"
+          "UCLA-led team receives NIH grant to uncover how Zika virus damages the developing eye and explore potential treatments - UCLA Health",
+          "AAF's BioShield VXL High Flow balances barn ventilation and virus filtration - The Poultry Site"
         ]
       },
       {
@@ -1041,36 +1052,25 @@
         ]
       },
       {
-        "trend": "mental health",
-        "market_code": "NL",
-        "category": "Mental Health",
-        "score": 8,
-        "examples": [
-          "Fact check: No, James Talarico was not in a mental health facility in Ohio - Dallas News",
-          "NYC launches website to connect residents with mental health care - StateScoop",
-          "Fact check: No, James Talarico was not in a mental health facility in Ohio - Dallas News"
-        ]
-      },
-      {
-        "trend": "heart",
-        "market_code": "NL",
-        "category": "Chronic Disease",
-        "score": 8,
-        "examples": [
-          "Scientists Built Tiny Robots That Could Treat Dangerous Heart Infections from Within - ZME Science",
-          "Managing high blood pressure could prevent >500K CVD deaths annually in 20 countries - www.heart.org",
-          "Texas Health Hospitals Earn Recognition from American Heart Association - The Business Press"
-        ]
-      },
-      {
-        "trend": "doctors",
+        "trend": "public health",
         "market_code": "NL",
         "category": "Europe Health",
         "score": 7,
         "examples": [
-          "How many doctors does it take to solve a medical mystery? In this patient’s case, the answer is six - Fred Hutchinson Cancer Center",
-          "Ask Dr. Nandi: What vaccines doctors say you may need for respiratory virus season - WXYZ 7 News Detroit",
-          "Oregon Doctors Were Told About a Multistate Salmonella Enteritidis Outbreak. The Public Was Not. CDC Counts Fifteen Active Salmonella Investigations and Has Posted Notices on Two of Them. - Marler Blog"
+          "This era’s public health threat is digital (Opinion) - The Denver Post",
+          "Public Health Students Take Their Research to a National Stage - Maxwell School of Citizenship and Public Affairs",
+          "Meet our new faculty: Leo ​Martinez - UC Berkeley School of Public Health"
+        ]
+      },
+      {
+        "trend": "warning",
+        "market_code": "NL",
+        "category": "Europe Health",
+        "score": 7,
+        "examples": [
+          "FDA Advisory No.2026-1483 || Public Health Warning Against the Purchase and Consumption of the Unregistered Food Product “BAKE KING ESSENTIALS California Golden Raisins” - Food and Drug Administration - www.fda.gov.ph",
+          "Grandfather who killed 8 in Pennsylvania shooting showed no warning signs, relative says - WPDE",
+          "Warning Signs for Young People’s Mental Health - tovima.com"
         ]
       }
     ],
@@ -1079,62 +1079,73 @@
         "trend": "health",
         "market_code": "FI",
         "category": "Europe Health",
-        "score": 73,
+        "score": 75,
         "examples": [
           "UCR Health expands direct access through Blue & Gold - Inside UCR",
-          "How we’re making Google Health and Fitbit Air smarter than ever - blog.google",
-          "Photos: Raiders host Intermountain Children’s Health patients - Raiders.com"
+          "Google Health: Evolving so you can focus on living better - blog.google",
+          "DJJDP, New Hope Treatment Centers Open New Behavioral Health Unit at C.A. Dillon - NC DPS (.gov)"
         ]
       },
       {
         "trend": "medical",
         "market_code": "FI",
         "category": "Europe Health",
-        "score": 21,
+        "score": 22,
         "examples": [
           "Diddy Rushed Out of Prison After Medical Emergency - TMZ",
-          "Family Medicine Physician Iram Qureshi, M.D., Joins UAMS Family Medical Center in Fort Smith - UAMS News",
-          "Physician Shares Lessons from Thousands of Patients Treated with Medical Cannabis - The University of Maryland, Baltimore"
-        ]
-      },
-      {
-        "trend": "outbreak",
-        "market_code": "FI",
-        "category": "Outbreaks",
-        "score": 16,
-        "examples": [
-          "Oregon public health officials investigating possible foodborne outbreak - Food Safety News",
-          "Oregon Doctors Were Told About a Multistate Salmonella Enteritidis Outbreak. The Public Was Not. CDC Counts Fifteen Active Salmonella Investigations and Has Posted Notices on Two of Them. - Marler Blog",
-          "TN Department of Health investigating possible foodborne illness outbreak at Walmart warehouse - WSMV"
+          "Dell Medical School partners with federal program to standardize clinical trials - The Daily Texan",
+          "Medical cannabis benefits for insomnia remain uncertain, Cochrane review finds - News-Medical"
         ]
       },
       {
         "trend": "healthcare",
         "market_code": "FI",
         "category": "Europe Health",
+        "score": 15,
+        "examples": [
+          "Beyond Buzzwords: How Sutter Leaders Create Healthcare’s Blueprint - Sutter Health",
+          "Oregon insurance regulators warn of cheap healthcare plans resulting in high bills - Cottage Grove Sentinel",
+          "Local man with dementia disappears after walking away from healthcare center - WKRC"
+        ]
+      },
+      {
+        "trend": "cancer",
+        "market_code": "FI",
+        "category": "Chronic Disease",
         "score": 14,
         "examples": [
-          "Oregon insurance regulators warn of cheap healthcare plans resulting in high bills - Cottage Grove Sentinel",
-          "Local man with dementia disappears after walking away from healthcare center - WKRC",
-          "MediDepot Highlights Infection Control and PPE Supply Solutions for Healthcare Facilities - The National Law Review"
+          "UH research links marine microplastics to cancer rates - University of Hawaii System",
+          "How many doctors does it take to solve a medical mystery? In this patient’s case, the answer is six - Fred Hutchinson Cancer Center",
+          "UH research links marine microplastics to cancer rates - University of Hawaii System"
         ]
       },
       {
         "trend": "mental",
         "market_code": "FI",
         "category": "Mental Health",
-        "score": 13,
+        "score": 12,
         "examples": [
-          "Fact check: No, James Talarico was not in a mental health facility in Ohio - Dallas News",
-          "FACT FOCUS: Posts falsely claim Democratic Senate candidate James Talarico was at a mental facility - AP News",
-          "NYC launches website to connect residents with mental health care - StateScoop"
+          "Warning Signs for Young People’s Mental Health - tovima.com",
+          "New federal designation expands community-based mental health care in Central Vermont - WCAX",
+          "FACT FOCUS: Posts falsely claim Democratic Senate candidate James Talarico was at a mental facility - AP News"
+        ]
+      },
+      {
+        "trend": "outbreak",
+        "market_code": "FI",
+        "category": "Outbreaks",
+        "score": 11,
+        "examples": [
+          "TN Department of Health investigating possible foodborne illness outbreak at Walmart warehouse - WSMV",
+          "Orange County dengue numbers grow slightly, as state's outbreak continues - WUSF",
+          "Unleashed dog daycare owners recall trying summer from kennel cough outbreak - Evanston RoundTable"
         ]
       },
       {
         "trend": "hospital",
         "market_code": "FI",
         "category": "Europe Health",
-        "score": 11,
+        "score": 10,
         "examples": [
           "Next listening session in AHA’s disability health series to focus on community partnerships - American Hospital Association",
           "Sean 'Diddy' Combs reportedly rushed to hospital for 'medical emergency' - USA Today",
@@ -1142,25 +1153,25 @@
         ]
       },
       {
-        "trend": "cancer",
+        "trend": "mental health",
         "market_code": "FI",
-        "category": "Chronic Disease",
-        "score": 11,
+        "category": "Mental Health",
+        "score": 9,
         "examples": [
-          "How many doctors does it take to solve a medical mystery? In this patient’s case, the answer is six - Fred Hutchinson Cancer Center",
-          "South Texas Health Systems doctor shares breast cancer warning signs - KRGV",
-          "Scientists target high infection rates among myeloma patients in treatment - Rare Cancer News"
+          "Warning Signs for Young People’s Mental Health - tovima.com",
+          "New federal designation expands community-based mental health care in Central Vermont - WCAX",
+          "Fact check: No, James Talarico was not in a mental health facility in Ohio - Dallas News"
         ]
       },
       {
         "trend": "virus",
         "market_code": "FI",
         "category": "Outbreaks",
-        "score": 10,
+        "score": 9,
         "examples": [
-          "‘Essentially rabies’: Virus warning after 43 people bitten, scratched by bats in just two weeks - 7NEWS",
           "Ask Dr. Nandi: What vaccines doctors say you may need for respiratory virus season - WXYZ 7 News Detroit",
-          "UCLA-led team receives NIH grant to uncover how Zika virus damages the developing eye and explore potential treatments - UCLA Health"
+          "UCLA-led team receives NIH grant to uncover how Zika virus damages the developing eye and explore potential treatments - UCLA Health",
+          "AAF's BioShield VXL High Flow balances barn ventilation and virus filtration - The Poultry Site"
         ]
       },
       {
@@ -1175,36 +1186,25 @@
         ]
       },
       {
-        "trend": "mental health",
-        "market_code": "FI",
-        "category": "Mental Health",
-        "score": 8,
-        "examples": [
-          "Fact check: No, James Talarico was not in a mental health facility in Ohio - Dallas News",
-          "NYC launches website to connect residents with mental health care - StateScoop",
-          "Fact check: No, James Talarico was not in a mental health facility in Ohio - Dallas News"
-        ]
-      },
-      {
-        "trend": "heart",
-        "market_code": "FI",
-        "category": "Chronic Disease",
-        "score": 8,
-        "examples": [
-          "Scientists Built Tiny Robots That Could Treat Dangerous Heart Infections from Within - ZME Science",
-          "Managing high blood pressure could prevent >500K CVD deaths annually in 20 countries - www.heart.org",
-          "Texas Health Hospitals Earn Recognition from American Heart Association - The Business Press"
-        ]
-      },
-      {
-        "trend": "doctors",
+        "trend": "public health",
         "market_code": "FI",
         "category": "Europe Health",
         "score": 7,
         "examples": [
-          "How many doctors does it take to solve a medical mystery? In this patient’s case, the answer is six - Fred Hutchinson Cancer Center",
-          "Ask Dr. Nandi: What vaccines doctors say you may need for respiratory virus season - WXYZ 7 News Detroit",
-          "Oregon Doctors Were Told About a Multistate Salmonella Enteritidis Outbreak. The Public Was Not. CDC Counts Fifteen Active Salmonella Investigations and Has Posted Notices on Two of Them. - Marler Blog"
+          "This era’s public health threat is digital (Opinion) - The Denver Post",
+          "Public Health Students Take Their Research to a National Stage - Maxwell School of Citizenship and Public Affairs",
+          "Meet our new faculty: Leo ​Martinez - UC Berkeley School of Public Health"
+        ]
+      },
+      {
+        "trend": "warning",
+        "market_code": "FI",
+        "category": "Europe Health",
+        "score": 7,
+        "examples": [
+          "FDA Advisory No.2026-1483 || Public Health Warning Against the Purchase and Consumption of the Unregistered Food Product “BAKE KING ESSENTIALS California Golden Raisins” - Food and Drug Administration - www.fda.gov.ph",
+          "Grandfather who killed 8 in Pennsylvania shooting showed no warning signs, relative says - WPDE",
+          "Warning Signs for Young People’s Mental Health - tovima.com"
         ]
       }
     ],
@@ -1213,62 +1213,73 @@
         "trend": "health",
         "market_code": "NO",
         "category": "Europe Health",
-        "score": 73,
+        "score": 75,
         "examples": [
           "UCR Health expands direct access through Blue & Gold - Inside UCR",
-          "How we’re making Google Health and Fitbit Air smarter than ever - blog.google",
-          "Photos: Raiders host Intermountain Children’s Health patients - Raiders.com"
+          "Google Health: Evolving so you can focus on living better - blog.google",
+          "DJJDP, New Hope Treatment Centers Open New Behavioral Health Unit at C.A. Dillon - NC DPS (.gov)"
         ]
       },
       {
         "trend": "medical",
         "market_code": "NO",
         "category": "Europe Health",
-        "score": 21,
+        "score": 22,
         "examples": [
           "Diddy Rushed Out of Prison After Medical Emergency - TMZ",
-          "Family Medicine Physician Iram Qureshi, M.D., Joins UAMS Family Medical Center in Fort Smith - UAMS News",
-          "Physician Shares Lessons from Thousands of Patients Treated with Medical Cannabis - The University of Maryland, Baltimore"
-        ]
-      },
-      {
-        "trend": "outbreak",
-        "market_code": "NO",
-        "category": "Outbreaks",
-        "score": 16,
-        "examples": [
-          "Oregon public health officials investigating possible foodborne outbreak - Food Safety News",
-          "Oregon Doctors Were Told About a Multistate Salmonella Enteritidis Outbreak. The Public Was Not. CDC Counts Fifteen Active Salmonella Investigations and Has Posted Notices on Two of Them. - Marler Blog",
-          "TN Department of Health investigating possible foodborne illness outbreak at Walmart warehouse - WSMV"
+          "Dell Medical School partners with federal program to standardize clinical trials - The Daily Texan",
+          "Medical cannabis benefits for insomnia remain uncertain, Cochrane review finds - News-Medical"
         ]
       },
       {
         "trend": "healthcare",
         "market_code": "NO",
         "category": "Europe Health",
+        "score": 15,
+        "examples": [
+          "Beyond Buzzwords: How Sutter Leaders Create Healthcare’s Blueprint - Sutter Health",
+          "Oregon insurance regulators warn of cheap healthcare plans resulting in high bills - Cottage Grove Sentinel",
+          "Local man with dementia disappears after walking away from healthcare center - WKRC"
+        ]
+      },
+      {
+        "trend": "cancer",
+        "market_code": "NO",
+        "category": "Chronic Disease",
         "score": 14,
         "examples": [
-          "Oregon insurance regulators warn of cheap healthcare plans resulting in high bills - Cottage Grove Sentinel",
-          "Local man with dementia disappears after walking away from healthcare center - WKRC",
-          "MediDepot Highlights Infection Control and PPE Supply Solutions for Healthcare Facilities - The National Law Review"
+          "UH research links marine microplastics to cancer rates - University of Hawaii System",
+          "How many doctors does it take to solve a medical mystery? In this patient’s case, the answer is six - Fred Hutchinson Cancer Center",
+          "UH research links marine microplastics to cancer rates - University of Hawaii System"
         ]
       },
       {
         "trend": "mental",
         "market_code": "NO",
         "category": "Mental Health",
-        "score": 13,
+        "score": 12,
         "examples": [
-          "Fact check: No, James Talarico was not in a mental health facility in Ohio - Dallas News",
-          "FACT FOCUS: Posts falsely claim Democratic Senate candidate James Talarico was at a mental facility - AP News",
-          "NYC launches website to connect residents with mental health care - StateScoop"
+          "Warning Signs for Young People’s Mental Health - tovima.com",
+          "New federal designation expands community-based mental health care in Central Vermont - WCAX",
+          "FACT FOCUS: Posts falsely claim Democratic Senate candidate James Talarico was at a mental facility - AP News"
+        ]
+      },
+      {
+        "trend": "outbreak",
+        "market_code": "NO",
+        "category": "Outbreaks",
+        "score": 11,
+        "examples": [
+          "TN Department of Health investigating possible foodborne illness outbreak at Walmart warehouse - WSMV",
+          "Orange County dengue numbers grow slightly, as state's outbreak continues - WUSF",
+          "Unleashed dog daycare owners recall trying summer from kennel cough outbreak - Evanston RoundTable"
         ]
       },
       {
         "trend": "hospital",
         "market_code": "NO",
         "category": "Europe Health",
-        "score": 11,
+        "score": 10,
         "examples": [
           "Next listening session in AHA’s disability health series to focus on community partnerships - American Hospital Association",
           "Sean 'Diddy' Combs reportedly rushed to hospital for 'medical emergency' - USA Today",
@@ -1276,25 +1287,25 @@
         ]
       },
       {
-        "trend": "cancer",
+        "trend": "mental health",
         "market_code": "NO",
-        "category": "Chronic Disease",
-        "score": 11,
+        "category": "Mental Health",
+        "score": 9,
         "examples": [
-          "How many doctors does it take to solve a medical mystery? In this patient’s case, the answer is six - Fred Hutchinson Cancer Center",
-          "South Texas Health Systems doctor shares breast cancer warning signs - KRGV",
-          "Scientists target high infection rates among myeloma patients in treatment - Rare Cancer News"
+          "Warning Signs for Young People’s Mental Health - tovima.com",
+          "New federal designation expands community-based mental health care in Central Vermont - WCAX",
+          "Fact check: No, James Talarico was not in a mental health facility in Ohio - Dallas News"
         ]
       },
       {
         "trend": "virus",
         "market_code": "NO",
         "category": "Outbreaks",
-        "score": 10,
+        "score": 9,
         "examples": [
-          "‘Essentially rabies’: Virus warning after 43 people bitten, scratched by bats in just two weeks - 7NEWS",
           "Ask Dr. Nandi: What vaccines doctors say you may need for respiratory virus season - WXYZ 7 News Detroit",
-          "UCLA-led team receives NIH grant to uncover how Zika virus damages the developing eye and explore potential treatments - UCLA Health"
+          "UCLA-led team receives NIH grant to uncover how Zika virus damages the developing eye and explore potential treatments - UCLA Health",
+          "AAF's BioShield VXL High Flow balances barn ventilation and virus filtration - The Poultry Site"
         ]
       },
       {
@@ -1309,36 +1320,25 @@
         ]
       },
       {
-        "trend": "mental health",
-        "market_code": "NO",
-        "category": "Mental Health",
-        "score": 8,
-        "examples": [
-          "Fact check: No, James Talarico was not in a mental health facility in Ohio - Dallas News",
-          "NYC launches website to connect residents with mental health care - StateScoop",
-          "Fact check: No, James Talarico was not in a mental health facility in Ohio - Dallas News"
-        ]
-      },
-      {
-        "trend": "heart",
-        "market_code": "NO",
-        "category": "Chronic Disease",
-        "score": 8,
-        "examples": [
-          "Scientists Built Tiny Robots That Could Treat Dangerous Heart Infections from Within - ZME Science",
-          "Managing high blood pressure could prevent >500K CVD deaths annually in 20 countries - www.heart.org",
-          "Texas Health Hospitals Earn Recognition from American Heart Association - The Business Press"
-        ]
-      },
-      {
-        "trend": "doctors",
+        "trend": "public health",
         "market_code": "NO",
         "category": "Europe Health",
         "score": 7,
         "examples": [
-          "How many doctors does it take to solve a medical mystery? In this patient’s case, the answer is six - Fred Hutchinson Cancer Center",
-          "Ask Dr. Nandi: What vaccines doctors say you may need for respiratory virus season - WXYZ 7 News Detroit",
-          "Oregon Doctors Were Told About a Multistate Salmonella Enteritidis Outbreak. The Public Was Not. CDC Counts Fifteen Active Salmonella Investigations and Has Posted Notices on Two of Them. - Marler Blog"
+          "This era’s public health threat is digital (Opinion) - The Denver Post",
+          "Public Health Students Take Their Research to a National Stage - Maxwell School of Citizenship and Public Affairs",
+          "Meet our new faculty: Leo ​Martinez - UC Berkeley School of Public Health"
+        ]
+      },
+      {
+        "trend": "warning",
+        "market_code": "NO",
+        "category": "Europe Health",
+        "score": 7,
+        "examples": [
+          "FDA Advisory No.2026-1483 || Public Health Warning Against the Purchase and Consumption of the Unregistered Food Product “BAKE KING ESSENTIALS California Golden Raisins” - Food and Drug Administration - www.fda.gov.ph",
+          "Grandfather who killed 8 in Pennsylvania shooting showed no warning signs, relative says - WPDE",
+          "Warning Signs for Young People’s Mental Health - tovima.com"
         ]
       }
     ],
@@ -1347,62 +1347,73 @@
         "trend": "health",
         "market_code": "JP",
         "category": "Asia Health",
-        "score": 73,
+        "score": 75,
         "examples": [
           "UCR Health expands direct access through Blue & Gold - Inside UCR",
-          "How we’re making Google Health and Fitbit Air smarter than ever - blog.google",
-          "Photos: Raiders host Intermountain Children’s Health patients - Raiders.com"
+          "Google Health: Evolving so you can focus on living better - blog.google",
+          "DJJDP, New Hope Treatment Centers Open New Behavioral Health Unit at C.A. Dillon - NC DPS (.gov)"
         ]
       },
       {
         "trend": "medical",
         "market_code": "JP",
         "category": "Asia Health",
-        "score": 21,
+        "score": 22,
         "examples": [
           "Diddy Rushed Out of Prison After Medical Emergency - TMZ",
-          "Family Medicine Physician Iram Qureshi, M.D., Joins UAMS Family Medical Center in Fort Smith - UAMS News",
-          "Physician Shares Lessons from Thousands of Patients Treated with Medical Cannabis - The University of Maryland, Baltimore"
-        ]
-      },
-      {
-        "trend": "outbreak",
-        "market_code": "JP",
-        "category": "Outbreaks",
-        "score": 16,
-        "examples": [
-          "Oregon public health officials investigating possible foodborne outbreak - Food Safety News",
-          "Oregon Doctors Were Told About a Multistate Salmonella Enteritidis Outbreak. The Public Was Not. CDC Counts Fifteen Active Salmonella Investigations and Has Posted Notices on Two of Them. - Marler Blog",
-          "TN Department of Health investigating possible foodborne illness outbreak at Walmart warehouse - WSMV"
+          "Dell Medical School partners with federal program to standardize clinical trials - The Daily Texan",
+          "Medical cannabis benefits for insomnia remain uncertain, Cochrane review finds - News-Medical"
         ]
       },
       {
         "trend": "healthcare",
         "market_code": "JP",
         "category": "Asia Health",
+        "score": 15,
+        "examples": [
+          "Beyond Buzzwords: How Sutter Leaders Create Healthcare’s Blueprint - Sutter Health",
+          "Oregon insurance regulators warn of cheap healthcare plans resulting in high bills - Cottage Grove Sentinel",
+          "Local man with dementia disappears after walking away from healthcare center - WKRC"
+        ]
+      },
+      {
+        "trend": "cancer",
+        "market_code": "JP",
+        "category": "Chronic Disease",
         "score": 14,
         "examples": [
-          "Oregon insurance regulators warn of cheap healthcare plans resulting in high bills - Cottage Grove Sentinel",
-          "Local man with dementia disappears after walking away from healthcare center - WKRC",
-          "MediDepot Highlights Infection Control and PPE Supply Solutions for Healthcare Facilities - The National Law Review"
+          "UH research links marine microplastics to cancer rates - University of Hawaii System",
+          "How many doctors does it take to solve a medical mystery? In this patient’s case, the answer is six - Fred Hutchinson Cancer Center",
+          "UH research links marine microplastics to cancer rates - University of Hawaii System"
         ]
       },
       {
         "trend": "mental",
         "market_code": "JP",
         "category": "Mental Health",
-        "score": 13,
+        "score": 12,
         "examples": [
-          "Fact check: No, James Talarico was not in a mental health facility in Ohio - Dallas News",
-          "FACT FOCUS: Posts falsely claim Democratic Senate candidate James Talarico was at a mental facility - AP News",
-          "NYC launches website to connect residents with mental health care - StateScoop"
+          "Warning Signs for Young People’s Mental Health - tovima.com",
+          "New federal designation expands community-based mental health care in Central Vermont - WCAX",
+          "FACT FOCUS: Posts falsely claim Democratic Senate candidate James Talarico was at a mental facility - AP News"
+        ]
+      },
+      {
+        "trend": "outbreak",
+        "market_code": "JP",
+        "category": "Outbreaks",
+        "score": 11,
+        "examples": [
+          "TN Department of Health investigating possible foodborne illness outbreak at Walmart warehouse - WSMV",
+          "Orange County dengue numbers grow slightly, as state's outbreak continues - WUSF",
+          "Unleashed dog daycare owners recall trying summer from kennel cough outbreak - Evanston RoundTable"
         ]
       },
       {
         "trend": "hospital",
         "market_code": "JP",
         "category": "Asia Health",
-        "score": 11,
+        "score": 10,
         "examples": [
           "Next listening session in AHA’s disability health series to focus on community partnerships - American Hospital Association",
           "Sean 'Diddy' Combs reportedly rushed to hospital for 'medical emergency' - USA Today",
@@ -1410,25 +1421,25 @@
         ]
       },
       {
-        "trend": "cancer",
+        "trend": "mental health",
         "market_code": "JP",
-        "category": "Chronic Disease",
-        "score": 11,
+        "category": "Mental Health",
+        "score": 9,
         "examples": [
-          "How many doctors does it take to solve a medical mystery? In this patient’s case, the answer is six - Fred Hutchinson Cancer Center",
-          "South Texas Health Systems doctor shares breast cancer warning signs - KRGV",
-          "Scientists target high infection rates among myeloma patients in treatment - Rare Cancer News"
+          "Warning Signs for Young People’s Mental Health - tovima.com",
+          "New federal designation expands community-based mental health care in Central Vermont - WCAX",
+          "Fact check: No, James Talarico was not in a mental health facility in Ohio - Dallas News"
         ]
       },
       {
         "trend": "virus",
         "market_code": "JP",
         "category": "Outbreaks",
-        "score": 10,
+        "score": 9,
         "examples": [
-          "‘Essentially rabies’: Virus warning after 43 people bitten, scratched by bats in just two weeks - 7NEWS",
           "Ask Dr. Nandi: What vaccines doctors say you may need for respiratory virus season - WXYZ 7 News Detroit",
-          "UCLA-led team receives NIH grant to uncover how Zika virus damages the developing eye and explore potential treatments - UCLA Health"
+          "UCLA-led team receives NIH grant to uncover how Zika virus damages the developing eye and explore potential treatments - UCLA Health",
+          "AAF's BioShield VXL High Flow balances barn ventilation and virus filtration - The Poultry Site"
         ]
       },
       {
@@ -1443,36 +1454,25 @@
         ]
       },
       {
-        "trend": "mental health",
-        "market_code": "JP",
-        "category": "Mental Health",
-        "score": 8,
-        "examples": [
-          "Fact check: No, James Talarico was not in a mental health facility in Ohio - Dallas News",
-          "NYC launches website to connect residents with mental health care - StateScoop",
-          "Fact check: No, James Talarico was not in a mental health facility in Ohio - Dallas News"
-        ]
-      },
-      {
-        "trend": "heart",
-        "market_code": "JP",
-        "category": "Chronic Disease",
-        "score": 8,
-        "examples": [
-          "Scientists Built Tiny Robots That Could Treat Dangerous Heart Infections from Within - ZME Science",
-          "Managing high blood pressure could prevent >500K CVD deaths annually in 20 countries - www.heart.org",
-          "Texas Health Hospitals Earn Recognition from American Heart Association - The Business Press"
-        ]
-      },
-      {
-        "trend": "doctors",
+        "trend": "public health",
         "market_code": "JP",
         "category": "Asia Health",
         "score": 7,
         "examples": [
-          "How many doctors does it take to solve a medical mystery? In this patient’s case, the answer is six - Fred Hutchinson Cancer Center",
-          "Ask Dr. Nandi: What vaccines doctors say you may need for respiratory virus season - WXYZ 7 News Detroit",
-          "Oregon Doctors Were Told About a Multistate Salmonella Enteritidis Outbreak. The Public Was Not. CDC Counts Fifteen Active Salmonella Investigations and Has Posted Notices on Two of Them. - Marler Blog"
+          "This era’s public health threat is digital (Opinion) - The Denver Post",
+          "Public Health Students Take Their Research to a National Stage - Maxwell School of Citizenship and Public Affairs",
+          "Meet our new faculty: Leo ​Martinez - UC Berkeley School of Public Health"
+        ]
+      },
+      {
+        "trend": "warning",
+        "market_code": "JP",
+        "category": "Asia Health",
+        "score": 7,
+        "examples": [
+          "FDA Advisory No.2026-1483 || Public Health Warning Against the Purchase and Consumption of the Unregistered Food Product “BAKE KING ESSENTIALS California Golden Raisins” - Food and Drug Administration - www.fda.gov.ph",
+          "Grandfather who killed 8 in Pennsylvania shooting showed no warning signs, relative says - WPDE",
+          "Warning Signs for Young People’s Mental Health - tovima.com"
         ]
       }
     ],
@@ -1481,62 +1481,73 @@
         "trend": "health",
         "market_code": "CN",
         "category": "Asia Health",
-        "score": 73,
+        "score": 75,
         "examples": [
           "UCR Health expands direct access through Blue & Gold - Inside UCR",
-          "How we’re making Google Health and Fitbit Air smarter than ever - blog.google",
-          "Photos: Raiders host Intermountain Children’s Health patients - Raiders.com"
+          "Google Health: Evolving so you can focus on living better - blog.google",
+          "DJJDP, New Hope Treatment Centers Open New Behavioral Health Unit at C.A. Dillon - NC DPS (.gov)"
         ]
       },
       {
         "trend": "medical",
         "market_code": "CN",
         "category": "Asia Health",
-        "score": 21,
+        "score": 22,
         "examples": [
           "Diddy Rushed Out of Prison After Medical Emergency - TMZ",
-          "Family Medicine Physician Iram Qureshi, M.D., Joins UAMS Family Medical Center in Fort Smith - UAMS News",
-          "Physician Shares Lessons from Thousands of Patients Treated with Medical Cannabis - The University of Maryland, Baltimore"
-        ]
-      },
-      {
-        "trend": "outbreak",
-        "market_code": "CN",
-        "category": "Outbreaks",
-        "score": 16,
-        "examples": [
-          "Oregon public health officials investigating possible foodborne outbreak - Food Safety News",
-          "Oregon Doctors Were Told About a Multistate Salmonella Enteritidis Outbreak. The Public Was Not. CDC Counts Fifteen Active Salmonella Investigations and Has Posted Notices on Two of Them. - Marler Blog",
-          "TN Department of Health investigating possible foodborne illness outbreak at Walmart warehouse - WSMV"
+          "Dell Medical School partners with federal program to standardize clinical trials - The Daily Texan",
+          "Medical cannabis benefits for insomnia remain uncertain, Cochrane review finds - News-Medical"
         ]
       },
       {
         "trend": "healthcare",
         "market_code": "CN",
         "category": "Asia Health",
+        "score": 15,
+        "examples": [
+          "Beyond Buzzwords: How Sutter Leaders Create Healthcare’s Blueprint - Sutter Health",
+          "Oregon insurance regulators warn of cheap healthcare plans resulting in high bills - Cottage Grove Sentinel",
+          "Local man with dementia disappears after walking away from healthcare center - WKRC"
+        ]
+      },
+      {
+        "trend": "cancer",
+        "market_code": "CN",
+        "category": "Chronic Disease",
         "score": 14,
         "examples": [
-          "Oregon insurance regulators warn of cheap healthcare plans resulting in high bills - Cottage Grove Sentinel",
-          "Local man with dementia disappears after walking away from healthcare center - WKRC",
-          "MediDepot Highlights Infection Control and PPE Supply Solutions for Healthcare Facilities - The National Law Review"
+          "UH research links marine microplastics to cancer rates - University of Hawaii System",
+          "How many doctors does it take to solve a medical mystery? In this patient’s case, the answer is six - Fred Hutchinson Cancer Center",
+          "UH research links marine microplastics to cancer rates - University of Hawaii System"
         ]
       },
       {
         "trend": "mental",
         "market_code": "CN",
         "category": "Mental Health",
-        "score": 13,
+        "score": 12,
         "examples": [
-          "Fact check: No, James Talarico was not in a mental health facility in Ohio - Dallas News",
-          "FACT FOCUS: Posts falsely claim Democratic Senate candidate James Talarico was at a mental facility - AP News",
-          "NYC launches website to connect residents with mental health care - StateScoop"
+          "Warning Signs for Young People’s Mental Health - tovima.com",
+          "New federal designation expands community-based mental health care in Central Vermont - WCAX",
+          "FACT FOCUS: Posts falsely claim Democratic Senate candidate James Talarico was at a mental facility - AP News"
+        ]
+      },
+      {
+        "trend": "outbreak",
+        "market_code": "CN",
+        "category": "Outbreaks",
+        "score": 11,
+        "examples": [
+          "TN Department of Health investigating possible foodborne illness outbreak at Walmart warehouse - WSMV",
+          "Orange County dengue numbers grow slightly, as state's outbreak continues - WUSF",
+          "Unleashed dog daycare owners recall trying summer from kennel cough outbreak - Evanston RoundTable"
         ]
       },
       {
         "trend": "hospital",
         "market_code": "CN",
         "category": "Asia Health",
-        "score": 11,
+        "score": 10,
         "examples": [
           "Next listening session in AHA’s disability health series to focus on community partnerships - American Hospital Association",
           "Sean 'Diddy' Combs reportedly rushed to hospital for 'medical emergency' - USA Today",
@@ -1544,25 +1555,25 @@
         ]
       },
       {
-        "trend": "cancer",
+        "trend": "mental health",
         "market_code": "CN",
-        "category": "Chronic Disease",
-        "score": 11,
+        "category": "Mental Health",
+        "score": 9,
         "examples": [
-          "How many doctors does it take to solve a medical mystery? In this patient’s case, the answer is six - Fred Hutchinson Cancer Center",
-          "South Texas Health Systems doctor shares breast cancer warning signs - KRGV",
-          "Scientists target high infection rates among myeloma patients in treatment - Rare Cancer News"
+          "Warning Signs for Young People’s Mental Health - tovima.com",
+          "New federal designation expands community-based mental health care in Central Vermont - WCAX",
+          "Fact check: No, James Talarico was not in a mental health facility in Ohio - Dallas News"
         ]
       },
       {
         "trend": "virus",
         "market_code": "CN",
         "category": "Outbreaks",
-        "score": 10,
+        "score": 9,
         "examples": [
-          "‘Essentially rabies’: Virus warning after 43 people bitten, scratched by bats in just two weeks - 7NEWS",
           "Ask Dr. Nandi: What vaccines doctors say you may need for respiratory virus season - WXYZ 7 News Detroit",
-          "UCLA-led team receives NIH grant to uncover how Zika virus damages the developing eye and explore potential treatments - UCLA Health"
+          "UCLA-led team receives NIH grant to uncover how Zika virus damages the developing eye and explore potential treatments - UCLA Health",
+          "AAF's BioShield VXL High Flow balances barn ventilation and virus filtration - The Poultry Site"
         ]
       },
       {
@@ -1577,36 +1588,25 @@
         ]
       },
       {
-        "trend": "mental health",
-        "market_code": "CN",
-        "category": "Mental Health",
-        "score": 8,
-        "examples": [
-          "Fact check: No, James Talarico was not in a mental health facility in Ohio - Dallas News",
-          "NYC launches website to connect residents with mental health care - StateScoop",
-          "Fact check: No, James Talarico was not in a mental health facility in Ohio - Dallas News"
-        ]
-      },
-      {
-        "trend": "heart",
-        "market_code": "CN",
-        "category": "Chronic Disease",
-        "score": 8,
-        "examples": [
-          "Scientists Built Tiny Robots That Could Treat Dangerous Heart Infections from Within - ZME Science",
-          "Managing high blood pressure could prevent >500K CVD deaths annually in 20 countries - www.heart.org",
-          "Texas Health Hospitals Earn Recognition from American Heart Association - The Business Press"
-        ]
-      },
-      {
-        "trend": "doctors",
+        "trend": "public health",
         "market_code": "CN",
         "category": "Asia Health",
         "score": 7,
         "examples": [
-          "How many doctors does it take to solve a medical mystery? In this patient’s case, the answer is six - Fred Hutchinson Cancer Center",
-          "Ask Dr. Nandi: What vaccines doctors say you may need for respiratory virus season - WXYZ 7 News Detroit",
-          "Oregon Doctors Were Told About a Multistate Salmonella Enteritidis Outbreak. The Public Was Not. CDC Counts Fifteen Active Salmonella Investigations and Has Posted Notices on Two of Them. - Marler Blog"
+          "This era’s public health threat is digital (Opinion) - The Denver Post",
+          "Public Health Students Take Their Research to a National Stage - Maxwell School of Citizenship and Public Affairs",
+          "Meet our new faculty: Leo ​Martinez - UC Berkeley School of Public Health"
+        ]
+      },
+      {
+        "trend": "warning",
+        "market_code": "CN",
+        "category": "Asia Health",
+        "score": 7,
+        "examples": [
+          "FDA Advisory No.2026-1483 || Public Health Warning Against the Purchase and Consumption of the Unregistered Food Product “BAKE KING ESSENTIALS California Golden Raisins” - Food and Drug Administration - www.fda.gov.ph",
+          "Grandfather who killed 8 in Pennsylvania shooting showed no warning signs, relative says - WPDE",
+          "Warning Signs for Young People’s Mental Health - tovima.com"
         ]
       }
     ],
@@ -1615,62 +1615,73 @@
         "trend": "health",
         "market_code": "KR",
         "category": "Asia Health",
-        "score": 73,
+        "score": 75,
         "examples": [
           "UCR Health expands direct access through Blue & Gold - Inside UCR",
-          "How we’re making Google Health and Fitbit Air smarter than ever - blog.google",
-          "Photos: Raiders host Intermountain Children’s Health patients - Raiders.com"
+          "Google Health: Evolving so you can focus on living better - blog.google",
+          "DJJDP, New Hope Treatment Centers Open New Behavioral Health Unit at C.A. Dillon - NC DPS (.gov)"
         ]
       },
       {
         "trend": "medical",
         "market_code": "KR",
         "category": "Asia Health",
-        "score": 21,
+        "score": 22,
         "examples": [
           "Diddy Rushed Out of Prison After Medical Emergency - TMZ",
-          "Family Medicine Physician Iram Qureshi, M.D., Joins UAMS Family Medical Center in Fort Smith - UAMS News",
-          "Physician Shares Lessons from Thousands of Patients Treated with Medical Cannabis - The University of Maryland, Baltimore"
-        ]
-      },
-      {
-        "trend": "outbreak",
-        "market_code": "KR",
-        "category": "Outbreaks",
-        "score": 16,
-        "examples": [
-          "Oregon public health officials investigating possible foodborne outbreak - Food Safety News",
-          "Oregon Doctors Were Told About a Multistate Salmonella Enteritidis Outbreak. The Public Was Not. CDC Counts Fifteen Active Salmonella Investigations and Has Posted Notices on Two of Them. - Marler Blog",
-          "TN Department of Health investigating possible foodborne illness outbreak at Walmart warehouse - WSMV"
+          "Dell Medical School partners with federal program to standardize clinical trials - The Daily Texan",
+          "Medical cannabis benefits for insomnia remain uncertain, Cochrane review finds - News-Medical"
         ]
       },
       {
         "trend": "healthcare",
         "market_code": "KR",
         "category": "Asia Health",
+        "score": 15,
+        "examples": [
+          "Beyond Buzzwords: How Sutter Leaders Create Healthcare’s Blueprint - Sutter Health",
+          "Oregon insurance regulators warn of cheap healthcare plans resulting in high bills - Cottage Grove Sentinel",
+          "Local man with dementia disappears after walking away from healthcare center - WKRC"
+        ]
+      },
+      {
+        "trend": "cancer",
+        "market_code": "KR",
+        "category": "Chronic Disease",
         "score": 14,
         "examples": [
-          "Oregon insurance regulators warn of cheap healthcare plans resulting in high bills - Cottage Grove Sentinel",
-          "Local man with dementia disappears after walking away from healthcare center - WKRC",
-          "MediDepot Highlights Infection Control and PPE Supply Solutions for Healthcare Facilities - The National Law Review"
+          "UH research links marine microplastics to cancer rates - University of Hawaii System",
+          "How many doctors does it take to solve a medical mystery? In this patient’s case, the answer is six - Fred Hutchinson Cancer Center",
+          "UH research links marine microplastics to cancer rates - University of Hawaii System"
         ]
       },
       {
         "trend": "mental",
         "market_code": "KR",
         "category": "Mental Health",
-        "score": 13,
+        "score": 12,
         "examples": [
-          "Fact check: No, James Talarico was not in a mental health facility in Ohio - Dallas News",
-          "FACT FOCUS: Posts falsely claim Democratic Senate candidate James Talarico was at a mental facility - AP News",
-          "NYC launches website to connect residents with mental health care - StateScoop"
+          "Warning Signs for Young People’s Mental Health - tovima.com",
+          "New federal designation expands community-based mental health care in Central Vermont - WCAX",
+          "FACT FOCUS: Posts falsely claim Democratic Senate candidate James Talarico was at a mental facility - AP News"
+        ]
+      },
+      {
+        "trend": "outbreak",
+        "market_code": "KR",
+        "category": "Outbreaks",
+        "score": 11,
+        "examples": [
+          "TN Department of Health investigating possible foodborne illness outbreak at Walmart warehouse - WSMV",
+          "Orange County dengue numbers grow slightly, as state's outbreak continues - WUSF",
+          "Unleashed dog daycare owners recall trying summer from kennel cough outbreak - Evanston RoundTable"
         ]
       },
       {
         "trend": "hospital",
         "market_code": "KR",
         "category": "Asia Health",
-        "score": 11,
+        "score": 10,
         "examples": [
           "Next listening session in AHA’s disability health series to focus on community partnerships - American Hospital Association",
           "Sean 'Diddy' Combs reportedly rushed to hospital for 'medical emergency' - USA Today",
@@ -1678,25 +1689,25 @@
         ]
       },
       {
-        "trend": "cancer",
+        "trend": "mental health",
         "market_code": "KR",
-        "category": "Chronic Disease",
-        "score": 11,
+        "category": "Mental Health",
+        "score": 9,
         "examples": [
-          "How many doctors does it take to solve a medical mystery? In this patient’s case, the answer is six - Fred Hutchinson Cancer Center",
-          "South Texas Health Systems doctor shares breast cancer warning signs - KRGV",
-          "Scientists target high infection rates among myeloma patients in treatment - Rare Cancer News"
+          "Warning Signs for Young People’s Mental Health - tovima.com",
+          "New federal designation expands community-based mental health care in Central Vermont - WCAX",
+          "Fact check: No, James Talarico was not in a mental health facility in Ohio - Dallas News"
         ]
       },
       {
         "trend": "virus",
         "market_code": "KR",
         "category": "Outbreaks",
-        "score": 10,
+        "score": 9,
         "examples": [
-          "‘Essentially rabies’: Virus warning after 43 people bitten, scratched by bats in just two weeks - 7NEWS",
           "Ask Dr. Nandi: What vaccines doctors say you may need for respiratory virus season - WXYZ 7 News Detroit",
-          "UCLA-led team receives NIH grant to uncover how Zika virus damages the developing eye and explore potential treatments - UCLA Health"
+          "UCLA-led team receives NIH grant to uncover how Zika virus damages the developing eye and explore potential treatments - UCLA Health",
+          "AAF's BioShield VXL High Flow balances barn ventilation and virus filtration - The Poultry Site"
         ]
       },
       {
@@ -1711,36 +1722,25 @@
         ]
       },
       {
-        "trend": "mental health",
-        "market_code": "KR",
-        "category": "Mental Health",
-        "score": 8,
-        "examples": [
-          "Fact check: No, James Talarico was not in a mental health facility in Ohio - Dallas News",
-          "NYC launches website to connect residents with mental health care - StateScoop",
-          "Fact check: No, James Talarico was not in a mental health facility in Ohio - Dallas News"
-        ]
-      },
-      {
-        "trend": "heart",
-        "market_code": "KR",
-        "category": "Chronic Disease",
-        "score": 8,
-        "examples": [
-          "Scientists Built Tiny Robots That Could Treat Dangerous Heart Infections from Within - ZME Science",
-          "Managing high blood pressure could prevent >500K CVD deaths annually in 20 countries - www.heart.org",
-          "Texas Health Hospitals Earn Recognition from American Heart Association - The Business Press"
-        ]
-      },
-      {
-        "trend": "doctors",
+        "trend": "public health",
         "market_code": "KR",
         "category": "Asia Health",
         "score": 7,
         "examples": [
-          "How many doctors does it take to solve a medical mystery? In this patient’s case, the answer is six - Fred Hutchinson Cancer Center",
-          "Ask Dr. Nandi: What vaccines doctors say you may need for respiratory virus season - WXYZ 7 News Detroit",
-          "Oregon Doctors Were Told About a Multistate Salmonella Enteritidis Outbreak. The Public Was Not. CDC Counts Fifteen Active Salmonella Investigations and Has Posted Notices on Two of Them. - Marler Blog"
+          "This era’s public health threat is digital (Opinion) - The Denver Post",
+          "Public Health Students Take Their Research to a National Stage - Maxwell School of Citizenship and Public Affairs",
+          "Meet our new faculty: Leo ​Martinez - UC Berkeley School of Public Health"
+        ]
+      },
+      {
+        "trend": "warning",
+        "market_code": "KR",
+        "category": "Asia Health",
+        "score": 7,
+        "examples": [
+          "FDA Advisory No.2026-1483 || Public Health Warning Against the Purchase and Consumption of the Unregistered Food Product “BAKE KING ESSENTIALS California Golden Raisins” - Food and Drug Administration - www.fda.gov.ph",
+          "Grandfather who killed 8 in Pennsylvania shooting showed no warning signs, relative says - WPDE",
+          "Warning Signs for Young People’s Mental Health - tovima.com"
         ]
       }
     ],
@@ -1751,20 +1751,20 @@
         "category": "Asia Health",
         "score": 70,
         "examples": [
+          "T.N. achieves target of National AIDS Control Programme-Phase V: Health Minister - The Hindu",
           "Google Health: Evolving so you can focus on living better - blog.google",
-          "Joint external evaluation orientation workshop and training on the International Health Regulations (2005) - World Health Organization (WHO)",
-          "Joint external evaluation orientation workshop and training on the International Health Regulations (2005) - World Health Organization (WHO)"
+          "WHO invites organizations worldwide to join the Together for Science and Health movement - World Health Organization (WHO)"
         ]
       },
       {
         "trend": "medical",
         "market_code": "IN",
         "category": "Asia Health",
-        "score": 20,
+        "score": 18,
         "examples": [
-          "Rethinking How National Health Programmes Are Taught: Team-Based Decision Learning Versus Mini-Interactive Lectures Among Undergraduate Medical Students - Cureus",
-          "Diddy Rushed Out of Prison After Medical Emergency - TMZ",
-          "Systemic failures protect medical professionals who commit serious crimes - News-Medical"
+          "Medical cannabis benefits for insomnia remain uncertain, Cochrane review finds - News-Medical",
+          "Supreme Court wants cap on trade margin for all essential medicines and medical products - The Hindu",
+          "Medical camps set up atop Andhra's Indrakeeladri temple - The New Indian Express"
         ]
       },
       {
@@ -1773,9 +1773,9 @@
         "category": "Asia Health",
         "score": 13,
         "examples": [
+          "KKR and Blackstone found ‘platforms’ in hospitals. Will patients find healthcare in them? - The Ken",
           "What if rural mental health support started in the community? - Express Healthcare",
-          "UK government backs healthcare commission blueprint for AI-enabled devices - Medical Device Network",
-          "Artificial Intelligence and Healthcare’s Growing Data Economy - Baker Institute"
+          "UK government backs healthcare commission blueprint for AI-enabled devices - Medical Device Network"
         ]
       },
       {
@@ -1784,20 +1784,9 @@
         "category": "Mental Health",
         "score": 12,
         "examples": [
-          "NHRC Raises Alarm Over Mental Health Abuses - THISDAYLIVE",
-          "NAGALAND UNIVERSITY OBSERVES WORLD MENTAL HEALTH DAY AT KOHIMA CAMPUS - DIPR Nagaland",
-          "CEC Dr Jaffer attends World Mental Health Day Programme. - Administration of Union Territory of Ladakh"
-        ]
-      },
-      {
-        "trend": "outbreak",
-        "market_code": "IN",
-        "category": "Outbreaks",
-        "score": 12,
-        "examples": [
-          "Outbreak of Classical Swine Fever Confirmed in Car Nicobar and Parts of Sri Vijaya Puram - Andaman Chronicle",
-          "DRC Ebola outbreak 'growing exponentially,' UN says - DW.com",
-          "Qantas flight grounded after bedbug outbreak - BBC"
+          "Warning Signs for Young People’s Mental Health - tovima.com",
+          "Mass protests and mental health: You care about the cause, but the stress is taking over - The South First",
+          "NAGALAND UNIVERSITY OBSERVES WORLD MENTAL HEALTH DAY AT KOHIMA CAMPUS - DIPR Nagaland"
         ]
       },
       {
@@ -1806,42 +1795,53 @@
         "category": "Mental Health",
         "score": 11,
         "examples": [
-          "NHRC Raises Alarm Over Mental Health Abuses - THISDAYLIVE",
-          "NAGALAND UNIVERSITY OBSERVES WORLD MENTAL HEALTH DAY AT KOHIMA CAMPUS - DIPR Nagaland",
-          "CEC Dr Jaffer attends World Mental Health Day Programme. - Administration of Union Territory of Ladakh"
-        ]
-      },
-      {
-        "trend": "children",
-        "market_code": "IN",
-        "category": "Children Health",
-        "score": 9,
-        "examples": [
-          "Why do some children become seriously ill with COVID? The answer may lie in their genes - The Conversation",
-          "What’s at Stake: Sites Aren’t Neutral for Kids - Children's Hospital Association",
-          "Vanderbilt mourns the loss of pediatrics leader and children’s health advocate Ian Burr - Vanderbilt Health News"
-        ]
-      },
-      {
-        "trend": "heart",
-        "market_code": "IN",
-        "category": "Chronic Disease",
-        "score": 8,
-        "examples": [
-          "Small weight loss wins can boost heart health - www.heart.org",
-          "Small weight loss wins can boost heart health - www.heart.org",
-          "How a Samsung Galaxy Watch Flagged a Possible Heart Rhythm Problem - Analytics Insight"
+          "Warning Signs for Young People’s Mental Health - tovima.com",
+          "Mass protests and mental health: You care about the cause, but the stress is taking over - The South First",
+          "NAGALAND UNIVERSITY OBSERVES WORLD MENTAL HEALTH DAY AT KOHIMA CAMPUS - DIPR Nagaland"
         ]
       },
       {
         "trend": "cancer",
         "market_code": "IN",
         "category": "Chronic Disease",
+        "score": 10,
+        "examples": [
+          "How many doctors does it take to solve a medical mystery? In this patient’s case, the answer is six - Fred Hutchinson Cancer Center",
+          "Breast Cancer: Know the Risks, Recognise the Signs & Get Checked - Health and Me",
+          "Scientists target high infection rates among myeloma patients in treatment - Rare Cancer News"
+        ]
+      },
+      {
+        "trend": "outbreak",
+        "market_code": "IN",
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "Outbreak of Classical Swine Fever Confirmed in Car Nicobar and Parts of Sri Vijaya Puram - Andaman Chronicle",
+          "Orange County dengue numbers grow slightly, as state's outbreak continues - WUSF",
+          "DRC Ebola outbreak 'growing exponentially,' UN says - DW.com"
+        ]
+      },
+      {
+        "trend": "hospitals",
+        "market_code": "IN",
+        "category": "Asia Health",
         "score": 8,
         "examples": [
-          "Breast Cancer: Know the Risks, Recognise the Signs & Get Checked - Health and Me",
-          "Scientists target high infection rates among myeloma patients in treatment - Rare Cancer News",
-          "7 New Breakthroughs for Triple-Negative Breast Cancer - Breast Cancer.org"
+          "KKR and Blackstone found ‘platforms’ in hospitals. Will patients find healthcare in them? - The Ken",
+          "Know bill before treatment: Centre wants hospitals to make rates public - The Indian Express",
+          "Know bill before treatment: Centre wants hospitals to make rates public - The Indian Express"
+        ]
+      },
+      {
+        "trend": "news-medical",
+        "market_code": "IN",
+        "category": "Asia Health",
+        "score": 8,
+        "examples": [
+          "Eye Microbiome: How Bacteria May Influence Eye Health and Disease - News-Medical",
+          "Medical cannabis benefits for insomnia remain uncertain, Cochrane review finds - News-Medical",
+          "Think raw milk is better for you? Pediatricians have a warning - News-Medical"
         ]
       },
       {
@@ -1856,25 +1856,25 @@
         ]
       },
       {
-        "trend": "news-medical",
+        "trend": "children",
         "market_code": "IN",
-        "category": "Asia Health",
-        "score": 7,
+        "category": "Children Health",
+        "score": 8,
         "examples": [
-          "Systemic failures protect medical professionals who commit serious crimes - News-Medical",
-          "Think raw milk is better for you? Pediatricians have a warning - News-Medical",
-          "New AI system accelerates rabies virus detection in cell cultures - News-Medical"
+          "Why do some children become seriously ill with COVID? The answer may lie in their genes - The Conversation",
+          "What’s at Stake: Sites Aren’t Neutral for Kids - Children's Hospital Association",
+          "Vanderbilt mourns the loss of pediatrics leader and children’s health advocate Ian Burr - Vanderbilt Health News"
         ]
       },
       {
-        "trend": "public health",
+        "trend": "treatment",
         "market_code": "IN",
-        "category": "Asia Health",
+        "category": "Drug & Treatment News",
         "score": 7,
         "examples": [
-          "ICMR to open first high-altitude medical and public health research centre - BioSpectrum India",
-          "Restrictions on firecrackers: Supreme Court urges balance between religious sentiments and public health - The Hindu",
-          "ICMR to open first high-altitude medical and public health research centre - BioSpectrum India"
+          "Know bill before treatment: Centre wants hospitals to make rates public - The Indian Express",
+          "Know bill before treatment: Centre wants hospitals to make rates public - The Indian Express",
+          "8-week Hepatitis C treatment as good as 12-week course: ICMR study says it saves Rs 5,000 - The Indian Express"
         ]
       }
     ],
@@ -1886,41 +1886,8 @@
         "score": 70,
         "examples": [
           "Landmark funding to address historic gender undervaluation in care sectors - Australian Government Department of Health, Disability and Ageing",
-          "Construction complete at Flinders Street Health - Victorian Health Building Authority | VHBA",
-          "Construction complete at Flinders Street Health - Victorian Health Building Authority | VHBA"
-        ]
-      },
-      {
-        "trend": "medical",
-        "market_code": "AU",
-        "category": "Global Health",
-        "score": 19,
-        "examples": [
-          "Diddy Rushed Out of Prison After Medical Emergency - TMZ",
-          "Kimberley Aboriginal Medical Services celebrates 40 years - Broome Advertiser",
-          "Diddy rushed to hospital following 'medical emergency' - The Canberra Times"
-        ]
-      },
-      {
-        "trend": "warning",
-        "market_code": "AU",
-        "category": "Global Health",
-        "score": 13,
-        "examples": [
-          "‘Essentially rabies’: Virus warning after 43 people bitten, scratched by bats in just two weeks - 7NEWS",
-          "Bat bites surge sparks urgent health warning - 7NEWS",
-          "Think raw milk is better for you? Pediatricians have a warning - News-Medical"
-        ]
-      },
-      {
-        "trend": "virus",
-        "market_code": "AU",
-        "category": "Outbreaks",
-        "score": 12,
-        "examples": [
-          "‘Essentially rabies’: Virus warning after 43 people bitten, scratched by bats in just two weeks - 7NEWS",
-          "'Do not touch': surge sparks warning over deadly virus threat - Newcastle Herald",
-          "‘Essentially rabies’: Virus warning after 43 people bitten, scratched by bats in just two weeks - 7NEWS"
+          "Northern Health staff lead national laboratory medicine conference - Northern Health",
+          "Northern Health staff lead national laboratory medicine conference - Northern Health"
         ]
       },
       {
@@ -1929,20 +1896,20 @@
         "category": "Mental Health",
         "score": 12,
         "examples": [
-          "Study links environment and youth mental health - Phys.org",
-          "New study set to examine how internal body signals impact mental health - News-Medical",
-          "Study examines long-term mental health and alcohol use trajectories following disasters - Medical Xpress"
+          "Experts launch Europe-wide framework to guide AI use in mental health - News-Medical",
+          "Experts launch Europe-wide framework to guide AI use in mental health - News-Medical",
+          "Warning Signs for Young People’s Mental Health - tovima.com"
         ]
       },
       {
-        "trend": "mental health",
+        "trend": "medical",
         "market_code": "AU",
-        "category": "Mental Health",
-        "score": 11,
+        "category": "Global Health",
+        "score": 12,
         "examples": [
-          "Study links environment and youth mental health - Phys.org",
-          "New study set to examine how internal body signals impact mental health - News-Medical",
-          "Study examines long-term mental health and alcohol use trajectories following disasters - Medical Xpress"
+          "Medical cannabis benefits for insomnia remain uncertain, Cochrane review finds - News-Medical",
+          "Singular Health Group (ASX:SHG) Expands 3DICOM Medical Imaging Technology Through Florida Medicaid Initiative - Kalkine",
+          "Diddy Rushed Out of Prison After Medical Emergency - TMZ"
         ]
       },
       {
@@ -1957,58 +1924,91 @@
         ]
       },
       {
-        "trend": "outbreak",
+        "trend": "mental health",
         "market_code": "AU",
-        "category": "Outbreaks",
+        "category": "Mental Health",
         "score": 10,
         "examples": [
-          "Qantas flight grounded after bedbug outbreak - BBC",
-          "Qantas passengers stranded after bedbug outbreak - InDaily South Australia",
-          "Warning as outbreak 'growing really quickly' on iconic Aussie tourist island - Yahoo News Australia"
+          "Experts launch Europe-wide framework to guide AI use in mental health - News-Medical",
+          "Experts launch Europe-wide framework to guide AI use in mental health - News-Medical",
+          "Warning Signs for Young People’s Mental Health - tovima.com"
         ]
       },
       {
-        "trend": "children",
+        "trend": "warning",
         "market_code": "AU",
-        "category": "Children Health",
-        "score": 7,
+        "category": "Global Health",
+        "score": 10,
         "examples": [
-          "Why do some children become seriously ill with COVID? The answer may lie in their genes - The Conversation",
-          "After-school-based intervention helps steer children toward healthier BMI scores - Medical Xpress",
-          "Vanderbilt mourns the loss of pediatrics leader and children’s health advocate Ian Burr - Vanderbilt Health News"
+          "‘Essentially rabies’: Virus warning after 43 people bitten, scratched by bats in just two weeks - 7NEWS",
+          "Health experts issue warning after nearly 50 people bitten or scratched by bats across NSW - Nine.com.au",
+          "Bat bites surge sparks urgent health warning - 7NEWS"
         ]
       },
       {
         "trend": "news-medical",
         "market_code": "AU",
         "category": "Global Health",
-        "score": 6,
+        "score": 9,
         "examples": [
-          "Systemic failures protect medical professionals who commit serious crimes - News-Medical",
-          "Think raw milk is better for you? Pediatricians have a warning - News-Medical",
-          "New AI system accelerates rabies virus detection in cell cultures - News-Medical"
-        ]
-      },
-      {
-        "trend": "infection",
-        "market_code": "AU",
-        "category": "Outbreaks",
-        "score": 6,
-        "examples": [
-          "One Man’s Bacteremia Hid a Spinal Infection - Medscape",
-          "Cardiovascular Changes in Pregnant Women After Mild COVID-19 Infection: An Examination of Endothelial and Autonomic Functions - Cureus",
-          "Scientists target high infection rates among myeloma patients in treatment - Rare Cancer News"
+          "Experts launch Europe-wide framework to guide AI use in mental health - News-Medical",
+          "Medical cannabis benefits for insomnia remain uncertain, Cochrane review finds - News-Medical",
+          "Experts launch Europe-wide framework to guide AI use in mental health - News-Medical"
         ]
       },
       {
         "trend": "cancer",
         "market_code": "AU",
         "category": "Chronic Disease",
+        "score": 9,
+        "examples": [
+          "UH research links marine microplastics to cancer rates - University of Hawaii System",
+          "Scientists target high infection rates among myeloma patients in treatment - Rare Cancer News",
+          "6 Diet Changes To Lower Your Risk of Breast Cancer, According to an Oncology Nurse - www.health.com"
+        ]
+      },
+      {
+        "trend": "virus",
+        "market_code": "AU",
+        "category": "Outbreaks",
+        "score": 8,
+        "examples": [
+          "‘Essentially rabies’: Virus warning after 43 people bitten, scratched by bats in just two weeks - 7NEWS",
+          "Ask Dr. Nandi: What vaccines doctors say you may need for respiratory virus season - WXYZ 7 News Detroit",
+          "‘Essentially rabies’: Virus warning after 43 people bitten, scratched by bats in just two weeks - 7NEWS"
+        ]
+      },
+      {
+        "trend": "outbreak",
+        "market_code": "AU",
+        "category": "Outbreaks",
+        "score": 8,
+        "examples": [
+          "Qantas plane grounded after bedbug outbreak - Nine.com.au",
+          "Outbreak grounds Perth Qantas flight after passengers bitten - PerthNow",
+          "Qantas flight grounded after bedbug outbreak - BBC"
+        ]
+      },
+      {
+        "trend": "hospital",
+        "market_code": "AU",
+        "category": "Global Health",
         "score": 6,
         "examples": [
-          "Scientists target high infection rates among myeloma patients in treatment - Rare Cancer News",
-          "7 New Breakthroughs for Triple-Negative Breast Cancer - Breast Cancer.org",
-          "7 New Breakthroughs for Triple-Negative Breast Cancer - Breast Cancer.org"
+          "Diddy rushed to hospital following 'medical emergency' - The Canberra Times",
+          "Pharmac funds a new medicine for people in hospital with serious infections and improves access to medicines for bacterial infections and high blood pressure - NZDoctor",
+          "What’s at Stake: Sites Aren’t Neutral for Kids - Children's Hospital Association"
+        ]
+      },
+      {
+        "trend": "children",
+        "market_code": "AU",
+        "category": "Children Health",
+        "score": 6,
+        "examples": [
+          "Why do some children become seriously ill with COVID? The answer may lie in their genes - The Conversation",
+          "After-school-based intervention helps steer children toward healthier BMI scores - Medical Xpress",
+          "What’s at Stake: Sites Aren’t Neutral for Kids - Children's Hospital Association"
         ]
       }
     ],
@@ -2017,62 +2017,51 @@
         "trend": "health",
         "market_code": "CA",
         "category": "Global Health",
-        "score": 74,
+        "score": 72,
         "examples": [
+          "Eby slams U.S.-style health care privatization, Conservatives claim 'fearmongering' - CTV News",
           "Google Health: Evolving so you can focus on living better - blog.google",
-          "Possible measles exposure at Trudeau airport, Ste-Justine hospital, Montreal public health warns - Montreal Gazette",
-          "Joint external evaluation orientation workshop and training on the International Health Regulations (2005) - World Health Organization (WHO)"
+          "Experts launch Europe-wide framework to guide AI use in mental health - News-Medical"
         ]
       },
       {
         "trend": "medical",
         "market_code": "CA",
         "category": "Global Health",
-        "score": 18,
+        "score": 17,
         "examples": [
-          "Diddy Rushed Out of Prison After Medical Emergency - TMZ",
           "Emergency medical help for Christa Pike was delayed due to confusion, 911 tapes reveal - CBC",
-          "Diddy rushed from prison to hospital following 'medical emergency' - report - Castanet"
+          "Medical cannabis benefits for insomnia remain uncertain, Cochrane review finds - News-Medical",
+          "Diddy Rushed Out of Prison After Medical Emergency - TMZ"
         ]
       },
       {
         "trend": "mental",
         "market_code": "CA",
         "category": "Mental Health",
-        "score": 14,
+        "score": 16,
         "examples": [
-          "How this woman improved her mental health with drone videos of the Sask. countryside - CBC",
+          "Experts launch Europe-wide framework to guide AI use in mental health - News-Medical",
           "Embedding mental health care into primary care is an economic imperative - The Hill Times",
-          "What is the Nova Scotia government doing to address the province's growing mental health problem? - PNI Atlantic News"
+          "AI in mental health - Yahoo News Canada"
         ]
       },
       {
         "trend": "mental health",
         "market_code": "CA",
         "category": "Mental Health",
-        "score": 13,
+        "score": 16,
         "examples": [
-          "How this woman improved her mental health with drone videos of the Sask. countryside - CBC",
+          "Experts launch Europe-wide framework to guide AI use in mental health - News-Medical",
           "Embedding mental health care into primary care is an economic imperative - The Hill Times",
-          "What is the Nova Scotia government doing to address the province's growing mental health problem? - PNI Atlantic News"
-        ]
-      },
-      {
-        "trend": "measles",
-        "market_code": "CA",
-        "category": "Outbreaks",
-        "score": 12,
-        "examples": [
-          "Possible measles exposure at Trudeau airport, Ste-Justine hospital, Montreal public health warns - Montreal Gazette",
-          "Possible measles exposure at Trudeau airport, Ste-Justine hospital, Montreal public health warns - Montreal Gazette",
-          "Public health reports new measles case at Montreal airport and a hospital - CTV News"
+          "AI in mental health - Yahoo News Canada"
         ]
       },
       {
         "trend": "healthcare",
         "market_code": "CA",
         "category": "Global Health",
-        "score": 12,
+        "score": 13,
         "examples": [
           "Steris doubles down on healthcare consumables with $2.1 billion Xodus buy - Reuters",
           "Artificial Intelligence and Healthcare’s Growing Data Economy - Baker Institute",
@@ -2080,36 +2069,58 @@
         ]
       },
       {
-        "trend": "health care",
+        "trend": "outbreak",
         "market_code": "CA",
-        "category": "Global Health",
-        "score": 11,
+        "category": "Outbreaks",
+        "score": 12,
         "examples": [
-          "Embedding mental health care into primary care is an economic imperative - The Hill Times",
-          "Eby slams U.S.-style health care privatization, Conservatives claim ‘fearmongering’ - CHEK News",
-          "Eby signs Public Health Care Guarantee at town hall in North Delta - Delta Optimist"
+          "Everything we know about Brock’s norovirus outbreak - The Brock Press",
+          "What we know about the U.S. cyclosporiasis outbreak – ABC22 & FOX44 - MyChamplainValley.com",
+          "Qantas flight grounded after bedbug outbreak - BBC"
         ]
       },
       {
-        "trend": "outbreak",
+        "trend": "measles",
         "market_code": "CA",
         "category": "Outbreaks",
         "score": 11,
         "examples": [
-          "What we know about the U.S. cyclosporiasis outbreak – ABC22 & FOX44 - MyChamplainValley.com",
-          "Qantas flight grounded after bedbug outbreak - BBC",
-          "Ebola outbreak nears 9,000 cases - Outbreak News Today"
+          "Possible measles exposure at Trudeau airport, Ste-Justine hospital, Montreal public health warns - Montreal Gazette",
+          "Possible measles exposure at Trudeau airport, Ste-Justine hospital, Montreal public health warns - Montreal Gazette",
+          "Public health reports new measles case at Montreal airport and a hospital - CTV News"
         ]
       },
       {
-        "trend": "warning",
+        "trend": "cancer",
         "market_code": "CA",
-        "category": "Global Health",
+        "category": "Chronic Disease",
         "score": 10,
         "examples": [
-          "Health officials have issued a warning 😷 - Facebook",
-          "popular weight loss drug gets new warning - Philstar Life",
-          "Colleague’s stabbing: Ogun health workers begin 72-hour warning strike - Punch Newspapers"
+          "How many doctors does it take to solve a medical mystery? In this patient’s case, the answer is six - Fred Hutchinson Cancer Center",
+          "Scientists target high infection rates among myeloma patients in treatment - Rare Cancer News",
+          "6 Diet Changes To Lower Your Risk of Breast Cancer, According to an Oncology Nurse - www.health.com"
+        ]
+      },
+      {
+        "trend": "virus",
+        "market_code": "CA",
+        "category": "Outbreaks",
+        "score": 10,
+        "examples": [
+          "Ask Dr. Nandi: What vaccines doctors say you may need for respiratory virus season - WXYZ 7 News Detroit",
+          "AAF's BioShield VXL High Flow balances barn ventilation and virus filtration - The Poultry Site",
+          "Respiratory Virus Surveillance in the WHO African Region: Week 32: August 7 to 13, 2023 - WHO | Regional Office for Africa"
+        ]
+      },
+      {
+        "trend": "health care",
+        "market_code": "CA",
+        "category": "Global Health",
+        "score": 9,
+        "examples": [
+          "Eby slams U.S.-style health care privatization, Conservatives claim 'fearmongering' - CTV News",
+          "Embedding mental health care into primary care is an economic imperative - The Hill Times",
+          "Eby signs Public Health Care Guarantee at town hall in North Delta - Delta Optimist"
         ]
       },
       {
@@ -2124,25 +2135,14 @@
         ]
       },
       {
-        "trend": "cancer",
-        "market_code": "CA",
-        "category": "Chronic Disease",
-        "score": 9,
-        "examples": [
-          "Florida Panthers to Host Fifth Annual ‘Pink in the Rink’ Night Presented by Baptist Health Cancer Care & Promise Fund on Saturday, Oct. 17 - NHL.com",
-          "South Texas Health Systems doctor shares breast cancer warning signs - KRGV",
-          "Scientists target high infection rates among myeloma patients in treatment - Rare Cancer News"
-        ]
-      },
-      {
         "trend": "public health",
         "market_code": "CA",
         "category": "Global Health",
-        "score": 8,
+        "score": 9,
         "examples": [
           "Possible measles exposure at Trudeau airport, Ste-Justine hospital, Montreal public health warns - Montreal Gazette",
-          "Eby signs Public Health Care Guarantee at town hall in North Delta - Delta Optimist",
-          "Possible measles exposure at Trudeau airport, Ste-Justine hospital, Montreal public health warns - Montreal Gazette"
+          "Possible measles exposure at Trudeau airport, Ste-Justine hospital, Montreal public health warns - Montreal Gazette",
+          "Eby signs Public Health Care Guarantee at town hall in North Delta - Delta Optimist"
         ]
       }
     ],
@@ -2151,62 +2151,73 @@
         "trend": "health",
         "market_code": "AE",
         "category": "Arab Health",
-        "score": 73,
+        "score": 75,
         "examples": [
           "UCR Health expands direct access through Blue & Gold - Inside UCR",
-          "How we’re making Google Health and Fitbit Air smarter than ever - blog.google",
-          "Photos: Raiders host Intermountain Children’s Health patients - Raiders.com"
+          "Google Health: Evolving so you can focus on living better - blog.google",
+          "DJJDP, New Hope Treatment Centers Open New Behavioral Health Unit at C.A. Dillon - NC DPS (.gov)"
         ]
       },
       {
         "trend": "medical",
         "market_code": "AE",
         "category": "Arab Health",
-        "score": 21,
+        "score": 22,
         "examples": [
           "Diddy Rushed Out of Prison After Medical Emergency - TMZ",
-          "Family Medicine Physician Iram Qureshi, M.D., Joins UAMS Family Medical Center in Fort Smith - UAMS News",
-          "Physician Shares Lessons from Thousands of Patients Treated with Medical Cannabis - The University of Maryland, Baltimore"
-        ]
-      },
-      {
-        "trend": "outbreak",
-        "market_code": "AE",
-        "category": "Outbreaks",
-        "score": 16,
-        "examples": [
-          "Oregon public health officials investigating possible foodborne outbreak - Food Safety News",
-          "Oregon Doctors Were Told About a Multistate Salmonella Enteritidis Outbreak. The Public Was Not. CDC Counts Fifteen Active Salmonella Investigations and Has Posted Notices on Two of Them. - Marler Blog",
-          "TN Department of Health investigating possible foodborne illness outbreak at Walmart warehouse - WSMV"
+          "Dell Medical School partners with federal program to standardize clinical trials - The Daily Texan",
+          "Medical cannabis benefits for insomnia remain uncertain, Cochrane review finds - News-Medical"
         ]
       },
       {
         "trend": "healthcare",
         "market_code": "AE",
         "category": "Arab Health",
+        "score": 15,
+        "examples": [
+          "Beyond Buzzwords: How Sutter Leaders Create Healthcare’s Blueprint - Sutter Health",
+          "Oregon insurance regulators warn of cheap healthcare plans resulting in high bills - Cottage Grove Sentinel",
+          "Local man with dementia disappears after walking away from healthcare center - WKRC"
+        ]
+      },
+      {
+        "trend": "cancer",
+        "market_code": "AE",
+        "category": "Chronic Disease",
         "score": 14,
         "examples": [
-          "Oregon insurance regulators warn of cheap healthcare plans resulting in high bills - Cottage Grove Sentinel",
-          "Local man with dementia disappears after walking away from healthcare center - WKRC",
-          "MediDepot Highlights Infection Control and PPE Supply Solutions for Healthcare Facilities - The National Law Review"
+          "UH research links marine microplastics to cancer rates - University of Hawaii System",
+          "How many doctors does it take to solve a medical mystery? In this patient’s case, the answer is six - Fred Hutchinson Cancer Center",
+          "UH research links marine microplastics to cancer rates - University of Hawaii System"
         ]
       },
       {
         "trend": "mental",
         "market_code": "AE",
         "category": "Mental Health",
-        "score": 13,
+        "score": 12,
         "examples": [
-          "Fact check: No, James Talarico was not in a mental health facility in Ohio - Dallas News",
-          "FACT FOCUS: Posts falsely claim Democratic Senate candidate James Talarico was at a mental facility - AP News",
-          "NYC launches website to connect residents with mental health care - StateScoop"
+          "Warning Signs for Young People’s Mental Health - tovima.com",
+          "New federal designation expands community-based mental health care in Central Vermont - WCAX",
+          "FACT FOCUS: Posts falsely claim Democratic Senate candidate James Talarico was at a mental facility - AP News"
+        ]
+      },
+      {
+        "trend": "outbreak",
+        "market_code": "AE",
+        "category": "Outbreaks",
+        "score": 11,
+        "examples": [
+          "TN Department of Health investigating possible foodborne illness outbreak at Walmart warehouse - WSMV",
+          "Orange County dengue numbers grow slightly, as state's outbreak continues - WUSF",
+          "Unleashed dog daycare owners recall trying summer from kennel cough outbreak - Evanston RoundTable"
         ]
       },
       {
         "trend": "hospital",
         "market_code": "AE",
         "category": "Arab Health",
-        "score": 11,
+        "score": 10,
         "examples": [
           "Next listening session in AHA’s disability health series to focus on community partnerships - American Hospital Association",
           "Sean 'Diddy' Combs reportedly rushed to hospital for 'medical emergency' - USA Today",
@@ -2214,25 +2225,25 @@
         ]
       },
       {
-        "trend": "cancer",
+        "trend": "mental health",
         "market_code": "AE",
-        "category": "Chronic Disease",
-        "score": 11,
+        "category": "Mental Health",
+        "score": 9,
         "examples": [
-          "How many doctors does it take to solve a medical mystery? In this patient’s case, the answer is six - Fred Hutchinson Cancer Center",
-          "South Texas Health Systems doctor shares breast cancer warning signs - KRGV",
-          "Scientists target high infection rates among myeloma patients in treatment - Rare Cancer News"
+          "Warning Signs for Young People’s Mental Health - tovima.com",
+          "New federal designation expands community-based mental health care in Central Vermont - WCAX",
+          "Fact check: No, James Talarico was not in a mental health facility in Ohio - Dallas News"
         ]
       },
       {
         "trend": "virus",
         "market_code": "AE",
         "category": "Outbreaks",
-        "score": 10,
+        "score": 9,
         "examples": [
-          "‘Essentially rabies’: Virus warning after 43 people bitten, scratched by bats in just two weeks - 7NEWS",
           "Ask Dr. Nandi: What vaccines doctors say you may need for respiratory virus season - WXYZ 7 News Detroit",
-          "UCLA-led team receives NIH grant to uncover how Zika virus damages the developing eye and explore potential treatments - UCLA Health"
+          "UCLA-led team receives NIH grant to uncover how Zika virus damages the developing eye and explore potential treatments - UCLA Health",
+          "AAF's BioShield VXL High Flow balances barn ventilation and virus filtration - The Poultry Site"
         ]
       },
       {
@@ -2247,36 +2258,25 @@
         ]
       },
       {
-        "trend": "mental health",
-        "market_code": "AE",
-        "category": "Mental Health",
-        "score": 8,
-        "examples": [
-          "Fact check: No, James Talarico was not in a mental health facility in Ohio - Dallas News",
-          "NYC launches website to connect residents with mental health care - StateScoop",
-          "Fact check: No, James Talarico was not in a mental health facility in Ohio - Dallas News"
-        ]
-      },
-      {
-        "trend": "heart",
-        "market_code": "AE",
-        "category": "Chronic Disease",
-        "score": 8,
-        "examples": [
-          "Scientists Built Tiny Robots That Could Treat Dangerous Heart Infections from Within - ZME Science",
-          "Managing high blood pressure could prevent >500K CVD deaths annually in 20 countries - www.heart.org",
-          "Texas Health Hospitals Earn Recognition from American Heart Association - The Business Press"
-        ]
-      },
-      {
-        "trend": "doctors",
+        "trend": "public health",
         "market_code": "AE",
         "category": "Arab Health",
         "score": 7,
         "examples": [
-          "How many doctors does it take to solve a medical mystery? In this patient’s case, the answer is six - Fred Hutchinson Cancer Center",
-          "Ask Dr. Nandi: What vaccines doctors say you may need for respiratory virus season - WXYZ 7 News Detroit",
-          "Oregon Doctors Were Told About a Multistate Salmonella Enteritidis Outbreak. The Public Was Not. CDC Counts Fifteen Active Salmonella Investigations and Has Posted Notices on Two of Them. - Marler Blog"
+          "This era’s public health threat is digital (Opinion) - The Denver Post",
+          "Public Health Students Take Their Research to a National Stage - Maxwell School of Citizenship and Public Affairs",
+          "Meet our new faculty: Leo ​Martinez - UC Berkeley School of Public Health"
+        ]
+      },
+      {
+        "trend": "warning",
+        "market_code": "AE",
+        "category": "Arab Health",
+        "score": 7,
+        "examples": [
+          "FDA Advisory No.2026-1483 || Public Health Warning Against the Purchase and Consumption of the Unregistered Food Product “BAKE KING ESSENTIALS California Golden Raisins” - Food and Drug Administration - www.fda.gov.ph",
+          "Grandfather who killed 8 in Pennsylvania shooting showed no warning signs, relative says - WPDE",
+          "Warning Signs for Young People’s Mental Health - tovima.com"
         ]
       }
     ],
@@ -2285,62 +2285,73 @@
         "trend": "health",
         "market_code": "SA",
         "category": "Arab Health",
-        "score": 73,
+        "score": 75,
         "examples": [
           "UCR Health expands direct access through Blue & Gold - Inside UCR",
-          "How we’re making Google Health and Fitbit Air smarter than ever - blog.google",
-          "Photos: Raiders host Intermountain Children’s Health patients - Raiders.com"
+          "Google Health: Evolving so you can focus on living better - blog.google",
+          "DJJDP, New Hope Treatment Centers Open New Behavioral Health Unit at C.A. Dillon - NC DPS (.gov)"
         ]
       },
       {
         "trend": "medical",
         "market_code": "SA",
         "category": "Arab Health",
-        "score": 21,
+        "score": 22,
         "examples": [
           "Diddy Rushed Out of Prison After Medical Emergency - TMZ",
-          "Family Medicine Physician Iram Qureshi, M.D., Joins UAMS Family Medical Center in Fort Smith - UAMS News",
-          "Physician Shares Lessons from Thousands of Patients Treated with Medical Cannabis - The University of Maryland, Baltimore"
-        ]
-      },
-      {
-        "trend": "outbreak",
-        "market_code": "SA",
-        "category": "Outbreaks",
-        "score": 16,
-        "examples": [
-          "Oregon public health officials investigating possible foodborne outbreak - Food Safety News",
-          "Oregon Doctors Were Told About a Multistate Salmonella Enteritidis Outbreak. The Public Was Not. CDC Counts Fifteen Active Salmonella Investigations and Has Posted Notices on Two of Them. - Marler Blog",
-          "TN Department of Health investigating possible foodborne illness outbreak at Walmart warehouse - WSMV"
+          "Dell Medical School partners with federal program to standardize clinical trials - The Daily Texan",
+          "Medical cannabis benefits for insomnia remain uncertain, Cochrane review finds - News-Medical"
         ]
       },
       {
         "trend": "healthcare",
         "market_code": "SA",
         "category": "Arab Health",
+        "score": 15,
+        "examples": [
+          "Beyond Buzzwords: How Sutter Leaders Create Healthcare’s Blueprint - Sutter Health",
+          "Oregon insurance regulators warn of cheap healthcare plans resulting in high bills - Cottage Grove Sentinel",
+          "Local man with dementia disappears after walking away from healthcare center - WKRC"
+        ]
+      },
+      {
+        "trend": "cancer",
+        "market_code": "SA",
+        "category": "Chronic Disease",
         "score": 14,
         "examples": [
-          "Oregon insurance regulators warn of cheap healthcare plans resulting in high bills - Cottage Grove Sentinel",
-          "Local man with dementia disappears after walking away from healthcare center - WKRC",
-          "MediDepot Highlights Infection Control and PPE Supply Solutions for Healthcare Facilities - The National Law Review"
+          "UH research links marine microplastics to cancer rates - University of Hawaii System",
+          "How many doctors does it take to solve a medical mystery? In this patient’s case, the answer is six - Fred Hutchinson Cancer Center",
+          "UH research links marine microplastics to cancer rates - University of Hawaii System"
         ]
       },
       {
         "trend": "mental",
         "market_code": "SA",
         "category": "Mental Health",
-        "score": 13,
+        "score": 12,
         "examples": [
-          "Fact check: No, James Talarico was not in a mental health facility in Ohio - Dallas News",
-          "FACT FOCUS: Posts falsely claim Democratic Senate candidate James Talarico was at a mental facility - AP News",
-          "NYC launches website to connect residents with mental health care - StateScoop"
+          "Warning Signs for Young People’s Mental Health - tovima.com",
+          "New federal designation expands community-based mental health care in Central Vermont - WCAX",
+          "FACT FOCUS: Posts falsely claim Democratic Senate candidate James Talarico was at a mental facility - AP News"
+        ]
+      },
+      {
+        "trend": "outbreak",
+        "market_code": "SA",
+        "category": "Outbreaks",
+        "score": 11,
+        "examples": [
+          "TN Department of Health investigating possible foodborne illness outbreak at Walmart warehouse - WSMV",
+          "Orange County dengue numbers grow slightly, as state's outbreak continues - WUSF",
+          "Unleashed dog daycare owners recall trying summer from kennel cough outbreak - Evanston RoundTable"
         ]
       },
       {
         "trend": "hospital",
         "market_code": "SA",
         "category": "Arab Health",
-        "score": 11,
+        "score": 10,
         "examples": [
           "Next listening session in AHA’s disability health series to focus on community partnerships - American Hospital Association",
           "Sean 'Diddy' Combs reportedly rushed to hospital for 'medical emergency' - USA Today",
@@ -2348,25 +2359,25 @@
         ]
       },
       {
-        "trend": "cancer",
+        "trend": "mental health",
         "market_code": "SA",
-        "category": "Chronic Disease",
-        "score": 11,
+        "category": "Mental Health",
+        "score": 9,
         "examples": [
-          "How many doctors does it take to solve a medical mystery? In this patient’s case, the answer is six - Fred Hutchinson Cancer Center",
-          "South Texas Health Systems doctor shares breast cancer warning signs - KRGV",
-          "Scientists target high infection rates among myeloma patients in treatment - Rare Cancer News"
+          "Warning Signs for Young People’s Mental Health - tovima.com",
+          "New federal designation expands community-based mental health care in Central Vermont - WCAX",
+          "Fact check: No, James Talarico was not in a mental health facility in Ohio - Dallas News"
         ]
       },
       {
         "trend": "virus",
         "market_code": "SA",
         "category": "Outbreaks",
-        "score": 10,
+        "score": 9,
         "examples": [
-          "‘Essentially rabies’: Virus warning after 43 people bitten, scratched by bats in just two weeks - 7NEWS",
           "Ask Dr. Nandi: What vaccines doctors say you may need for respiratory virus season - WXYZ 7 News Detroit",
-          "UCLA-led team receives NIH grant to uncover how Zika virus damages the developing eye and explore potential treatments - UCLA Health"
+          "UCLA-led team receives NIH grant to uncover how Zika virus damages the developing eye and explore potential treatments - UCLA Health",
+          "AAF's BioShield VXL High Flow balances barn ventilation and virus filtration - The Poultry Site"
         ]
       },
       {
@@ -2381,36 +2392,25 @@
         ]
       },
       {
-        "trend": "mental health",
-        "market_code": "SA",
-        "category": "Mental Health",
-        "score": 8,
-        "examples": [
-          "Fact check: No, James Talarico was not in a mental health facility in Ohio - Dallas News",
-          "NYC launches website to connect residents with mental health care - StateScoop",
-          "Fact check: No, James Talarico was not in a mental health facility in Ohio - Dallas News"
-        ]
-      },
-      {
-        "trend": "heart",
-        "market_code": "SA",
-        "category": "Chronic Disease",
-        "score": 8,
-        "examples": [
-          "Scientists Built Tiny Robots That Could Treat Dangerous Heart Infections from Within - ZME Science",
-          "Managing high blood pressure could prevent >500K CVD deaths annually in 20 countries - www.heart.org",
-          "Texas Health Hospitals Earn Recognition from American Heart Association - The Business Press"
-        ]
-      },
-      {
-        "trend": "doctors",
+        "trend": "public health",
         "market_code": "SA",
         "category": "Arab Health",
         "score": 7,
         "examples": [
-          "How many doctors does it take to solve a medical mystery? In this patient’s case, the answer is six - Fred Hutchinson Cancer Center",
-          "Ask Dr. Nandi: What vaccines doctors say you may need for respiratory virus season - WXYZ 7 News Detroit",
-          "Oregon Doctors Were Told About a Multistate Salmonella Enteritidis Outbreak. The Public Was Not. CDC Counts Fifteen Active Salmonella Investigations and Has Posted Notices on Two of Them. - Marler Blog"
+          "This era’s public health threat is digital (Opinion) - The Denver Post",
+          "Public Health Students Take Their Research to a National Stage - Maxwell School of Citizenship and Public Affairs",
+          "Meet our new faculty: Leo ​Martinez - UC Berkeley School of Public Health"
+        ]
+      },
+      {
+        "trend": "warning",
+        "market_code": "SA",
+        "category": "Arab Health",
+        "score": 7,
+        "examples": [
+          "FDA Advisory No.2026-1483 || Public Health Warning Against the Purchase and Consumption of the Unregistered Food Product “BAKE KING ESSENTIALS California Golden Raisins” - Food and Drug Administration - www.fda.gov.ph",
+          "Grandfather who killed 8 in Pennsylvania shooting showed no warning signs, relative says - WPDE",
+          "Warning Signs for Young People’s Mental Health - tovima.com"
         ]
       }
     ],
@@ -2419,62 +2419,73 @@
         "trend": "health",
         "market_code": "QA",
         "category": "Arab Health",
-        "score": 73,
+        "score": 75,
         "examples": [
           "UCR Health expands direct access through Blue & Gold - Inside UCR",
-          "How we’re making Google Health and Fitbit Air smarter than ever - blog.google",
-          "Photos: Raiders host Intermountain Children’s Health patients - Raiders.com"
+          "Google Health: Evolving so you can focus on living better - blog.google",
+          "DJJDP, New Hope Treatment Centers Open New Behavioral Health Unit at C.A. Dillon - NC DPS (.gov)"
         ]
       },
       {
         "trend": "medical",
         "market_code": "QA",
         "category": "Arab Health",
-        "score": 21,
+        "score": 22,
         "examples": [
           "Diddy Rushed Out of Prison After Medical Emergency - TMZ",
-          "Family Medicine Physician Iram Qureshi, M.D., Joins UAMS Family Medical Center in Fort Smith - UAMS News",
-          "Physician Shares Lessons from Thousands of Patients Treated with Medical Cannabis - The University of Maryland, Baltimore"
-        ]
-      },
-      {
-        "trend": "outbreak",
-        "market_code": "QA",
-        "category": "Outbreaks",
-        "score": 16,
-        "examples": [
-          "Oregon public health officials investigating possible foodborne outbreak - Food Safety News",
-          "Oregon Doctors Were Told About a Multistate Salmonella Enteritidis Outbreak. The Public Was Not. CDC Counts Fifteen Active Salmonella Investigations and Has Posted Notices on Two of Them. - Marler Blog",
-          "TN Department of Health investigating possible foodborne illness outbreak at Walmart warehouse - WSMV"
+          "Dell Medical School partners with federal program to standardize clinical trials - The Daily Texan",
+          "Medical cannabis benefits for insomnia remain uncertain, Cochrane review finds - News-Medical"
         ]
       },
       {
         "trend": "healthcare",
         "market_code": "QA",
         "category": "Arab Health",
+        "score": 15,
+        "examples": [
+          "Beyond Buzzwords: How Sutter Leaders Create Healthcare’s Blueprint - Sutter Health",
+          "Oregon insurance regulators warn of cheap healthcare plans resulting in high bills - Cottage Grove Sentinel",
+          "Local man with dementia disappears after walking away from healthcare center - WKRC"
+        ]
+      },
+      {
+        "trend": "cancer",
+        "market_code": "QA",
+        "category": "Chronic Disease",
         "score": 14,
         "examples": [
-          "Oregon insurance regulators warn of cheap healthcare plans resulting in high bills - Cottage Grove Sentinel",
-          "Local man with dementia disappears after walking away from healthcare center - WKRC",
-          "MediDepot Highlights Infection Control and PPE Supply Solutions for Healthcare Facilities - The National Law Review"
+          "UH research links marine microplastics to cancer rates - University of Hawaii System",
+          "How many doctors does it take to solve a medical mystery? In this patient’s case, the answer is six - Fred Hutchinson Cancer Center",
+          "UH research links marine microplastics to cancer rates - University of Hawaii System"
         ]
       },
       {
         "trend": "mental",
         "market_code": "QA",
         "category": "Mental Health",
-        "score": 13,
+        "score": 12,
         "examples": [
-          "Fact check: No, James Talarico was not in a mental health facility in Ohio - Dallas News",
-          "FACT FOCUS: Posts falsely claim Democratic Senate candidate James Talarico was at a mental facility - AP News",
-          "NYC launches website to connect residents with mental health care - StateScoop"
+          "Warning Signs for Young People’s Mental Health - tovima.com",
+          "New federal designation expands community-based mental health care in Central Vermont - WCAX",
+          "FACT FOCUS: Posts falsely claim Democratic Senate candidate James Talarico was at a mental facility - AP News"
+        ]
+      },
+      {
+        "trend": "outbreak",
+        "market_code": "QA",
+        "category": "Outbreaks",
+        "score": 11,
+        "examples": [
+          "TN Department of Health investigating possible foodborne illness outbreak at Walmart warehouse - WSMV",
+          "Orange County dengue numbers grow slightly, as state's outbreak continues - WUSF",
+          "Unleashed dog daycare owners recall trying summer from kennel cough outbreak - Evanston RoundTable"
         ]
       },
       {
         "trend": "hospital",
         "market_code": "QA",
         "category": "Arab Health",
-        "score": 11,
+        "score": 10,
         "examples": [
           "Next listening session in AHA’s disability health series to focus on community partnerships - American Hospital Association",
           "Sean 'Diddy' Combs reportedly rushed to hospital for 'medical emergency' - USA Today",
@@ -2482,25 +2493,25 @@
         ]
       },
       {
-        "trend": "cancer",
+        "trend": "mental health",
         "market_code": "QA",
-        "category": "Chronic Disease",
-        "score": 11,
+        "category": "Mental Health",
+        "score": 9,
         "examples": [
-          "How many doctors does it take to solve a medical mystery? In this patient’s case, the answer is six - Fred Hutchinson Cancer Center",
-          "South Texas Health Systems doctor shares breast cancer warning signs - KRGV",
-          "Scientists target high infection rates among myeloma patients in treatment - Rare Cancer News"
+          "Warning Signs for Young People’s Mental Health - tovima.com",
+          "New federal designation expands community-based mental health care in Central Vermont - WCAX",
+          "Fact check: No, James Talarico was not in a mental health facility in Ohio - Dallas News"
         ]
       },
       {
         "trend": "virus",
         "market_code": "QA",
         "category": "Outbreaks",
-        "score": 10,
+        "score": 9,
         "examples": [
-          "‘Essentially rabies’: Virus warning after 43 people bitten, scratched by bats in just two weeks - 7NEWS",
           "Ask Dr. Nandi: What vaccines doctors say you may need for respiratory virus season - WXYZ 7 News Detroit",
-          "UCLA-led team receives NIH grant to uncover how Zika virus damages the developing eye and explore potential treatments - UCLA Health"
+          "UCLA-led team receives NIH grant to uncover how Zika virus damages the developing eye and explore potential treatments - UCLA Health",
+          "AAF's BioShield VXL High Flow balances barn ventilation and virus filtration - The Poultry Site"
         ]
       },
       {
@@ -2515,36 +2526,25 @@
         ]
       },
       {
-        "trend": "mental health",
-        "market_code": "QA",
-        "category": "Mental Health",
-        "score": 8,
-        "examples": [
-          "Fact check: No, James Talarico was not in a mental health facility in Ohio - Dallas News",
-          "NYC launches website to connect residents with mental health care - StateScoop",
-          "Fact check: No, James Talarico was not in a mental health facility in Ohio - Dallas News"
-        ]
-      },
-      {
-        "trend": "heart",
-        "market_code": "QA",
-        "category": "Chronic Disease",
-        "score": 8,
-        "examples": [
-          "Scientists Built Tiny Robots That Could Treat Dangerous Heart Infections from Within - ZME Science",
-          "Managing high blood pressure could prevent >500K CVD deaths annually in 20 countries - www.heart.org",
-          "Texas Health Hospitals Earn Recognition from American Heart Association - The Business Press"
-        ]
-      },
-      {
-        "trend": "doctors",
+        "trend": "public health",
         "market_code": "QA",
         "category": "Arab Health",
         "score": 7,
         "examples": [
-          "How many doctors does it take to solve a medical mystery? In this patient’s case, the answer is six - Fred Hutchinson Cancer Center",
-          "Ask Dr. Nandi: What vaccines doctors say you may need for respiratory virus season - WXYZ 7 News Detroit",
-          "Oregon Doctors Were Told About a Multistate Salmonella Enteritidis Outbreak. The Public Was Not. CDC Counts Fifteen Active Salmonella Investigations and Has Posted Notices on Two of Them. - Marler Blog"
+          "This era’s public health threat is digital (Opinion) - The Denver Post",
+          "Public Health Students Take Their Research to a National Stage - Maxwell School of Citizenship and Public Affairs",
+          "Meet our new faculty: Leo ​Martinez - UC Berkeley School of Public Health"
+        ]
+      },
+      {
+        "trend": "warning",
+        "market_code": "QA",
+        "category": "Arab Health",
+        "score": 7,
+        "examples": [
+          "FDA Advisory No.2026-1483 || Public Health Warning Against the Purchase and Consumption of the Unregistered Food Product “BAKE KING ESSENTIALS California Golden Raisins” - Food and Drug Administration - www.fda.gov.ph",
+          "Grandfather who killed 8 in Pennsylvania shooting showed no warning signs, relative says - WPDE",
+          "Warning Signs for Young People’s Mental Health - tovima.com"
         ]
       }
     ],
@@ -2553,62 +2553,73 @@
         "trend": "health",
         "market_code": "JO",
         "category": "Arab Health",
-        "score": 73,
+        "score": 75,
         "examples": [
           "UCR Health expands direct access through Blue & Gold - Inside UCR",
-          "How we’re making Google Health and Fitbit Air smarter than ever - blog.google",
-          "Photos: Raiders host Intermountain Children’s Health patients - Raiders.com"
+          "Google Health: Evolving so you can focus on living better - blog.google",
+          "DJJDP, New Hope Treatment Centers Open New Behavioral Health Unit at C.A. Dillon - NC DPS (.gov)"
         ]
       },
       {
         "trend": "medical",
         "market_code": "JO",
         "category": "Arab Health",
-        "score": 21,
+        "score": 22,
         "examples": [
           "Diddy Rushed Out of Prison After Medical Emergency - TMZ",
-          "Family Medicine Physician Iram Qureshi, M.D., Joins UAMS Family Medical Center in Fort Smith - UAMS News",
-          "Physician Shares Lessons from Thousands of Patients Treated with Medical Cannabis - The University of Maryland, Baltimore"
-        ]
-      },
-      {
-        "trend": "outbreak",
-        "market_code": "JO",
-        "category": "Outbreaks",
-        "score": 16,
-        "examples": [
-          "Oregon public health officials investigating possible foodborne outbreak - Food Safety News",
-          "Oregon Doctors Were Told About a Multistate Salmonella Enteritidis Outbreak. The Public Was Not. CDC Counts Fifteen Active Salmonella Investigations and Has Posted Notices on Two of Them. - Marler Blog",
-          "TN Department of Health investigating possible foodborne illness outbreak at Walmart warehouse - WSMV"
+          "Dell Medical School partners with federal program to standardize clinical trials - The Daily Texan",
+          "Medical cannabis benefits for insomnia remain uncertain, Cochrane review finds - News-Medical"
         ]
       },
       {
         "trend": "healthcare",
         "market_code": "JO",
         "category": "Arab Health",
+        "score": 15,
+        "examples": [
+          "Beyond Buzzwords: How Sutter Leaders Create Healthcare’s Blueprint - Sutter Health",
+          "Oregon insurance regulators warn of cheap healthcare plans resulting in high bills - Cottage Grove Sentinel",
+          "Local man with dementia disappears after walking away from healthcare center - WKRC"
+        ]
+      },
+      {
+        "trend": "cancer",
+        "market_code": "JO",
+        "category": "Chronic Disease",
         "score": 14,
         "examples": [
-          "Oregon insurance regulators warn of cheap healthcare plans resulting in high bills - Cottage Grove Sentinel",
-          "Local man with dementia disappears after walking away from healthcare center - WKRC",
-          "MediDepot Highlights Infection Control and PPE Supply Solutions for Healthcare Facilities - The National Law Review"
+          "UH research links marine microplastics to cancer rates - University of Hawaii System",
+          "How many doctors does it take to solve a medical mystery? In this patient’s case, the answer is six - Fred Hutchinson Cancer Center",
+          "UH research links marine microplastics to cancer rates - University of Hawaii System"
         ]
       },
       {
         "trend": "mental",
         "market_code": "JO",
         "category": "Mental Health",
-        "score": 13,
+        "score": 12,
         "examples": [
-          "Fact check: No, James Talarico was not in a mental health facility in Ohio - Dallas News",
-          "FACT FOCUS: Posts falsely claim Democratic Senate candidate James Talarico was at a mental facility - AP News",
-          "NYC launches website to connect residents with mental health care - StateScoop"
+          "Warning Signs for Young People’s Mental Health - tovima.com",
+          "New federal designation expands community-based mental health care in Central Vermont - WCAX",
+          "FACT FOCUS: Posts falsely claim Democratic Senate candidate James Talarico was at a mental facility - AP News"
+        ]
+      },
+      {
+        "trend": "outbreak",
+        "market_code": "JO",
+        "category": "Outbreaks",
+        "score": 11,
+        "examples": [
+          "TN Department of Health investigating possible foodborne illness outbreak at Walmart warehouse - WSMV",
+          "Orange County dengue numbers grow slightly, as state's outbreak continues - WUSF",
+          "Unleashed dog daycare owners recall trying summer from kennel cough outbreak - Evanston RoundTable"
         ]
       },
       {
         "trend": "hospital",
         "market_code": "JO",
         "category": "Arab Health",
-        "score": 11,
+        "score": 10,
         "examples": [
           "Next listening session in AHA’s disability health series to focus on community partnerships - American Hospital Association",
           "Sean 'Diddy' Combs reportedly rushed to hospital for 'medical emergency' - USA Today",
@@ -2616,25 +2627,25 @@
         ]
       },
       {
-        "trend": "cancer",
+        "trend": "mental health",
         "market_code": "JO",
-        "category": "Chronic Disease",
-        "score": 11,
+        "category": "Mental Health",
+        "score": 9,
         "examples": [
-          "How many doctors does it take to solve a medical mystery? In this patient’s case, the answer is six - Fred Hutchinson Cancer Center",
-          "South Texas Health Systems doctor shares breast cancer warning signs - KRGV",
-          "Scientists target high infection rates among myeloma patients in treatment - Rare Cancer News"
+          "Warning Signs for Young People’s Mental Health - tovima.com",
+          "New federal designation expands community-based mental health care in Central Vermont - WCAX",
+          "Fact check: No, James Talarico was not in a mental health facility in Ohio - Dallas News"
         ]
       },
       {
         "trend": "virus",
         "market_code": "JO",
         "category": "Outbreaks",
-        "score": 10,
+        "score": 9,
         "examples": [
-          "‘Essentially rabies’: Virus warning after 43 people bitten, scratched by bats in just two weeks - 7NEWS",
           "Ask Dr. Nandi: What vaccines doctors say you may need for respiratory virus season - WXYZ 7 News Detroit",
-          "UCLA-led team receives NIH grant to uncover how Zika virus damages the developing eye and explore potential treatments - UCLA Health"
+          "UCLA-led team receives NIH grant to uncover how Zika virus damages the developing eye and explore potential treatments - UCLA Health",
+          "AAF's BioShield VXL High Flow balances barn ventilation and virus filtration - The Poultry Site"
         ]
       },
       {
@@ -2649,36 +2660,25 @@
         ]
       },
       {
-        "trend": "mental health",
-        "market_code": "JO",
-        "category": "Mental Health",
-        "score": 8,
-        "examples": [
-          "Fact check: No, James Talarico was not in a mental health facility in Ohio - Dallas News",
-          "NYC launches website to connect residents with mental health care - StateScoop",
-          "Fact check: No, James Talarico was not in a mental health facility in Ohio - Dallas News"
-        ]
-      },
-      {
-        "trend": "heart",
-        "market_code": "JO",
-        "category": "Chronic Disease",
-        "score": 8,
-        "examples": [
-          "Scientists Built Tiny Robots That Could Treat Dangerous Heart Infections from Within - ZME Science",
-          "Managing high blood pressure could prevent >500K CVD deaths annually in 20 countries - www.heart.org",
-          "Texas Health Hospitals Earn Recognition from American Heart Association - The Business Press"
-        ]
-      },
-      {
-        "trend": "doctors",
+        "trend": "public health",
         "market_code": "JO",
         "category": "Arab Health",
         "score": 7,
         "examples": [
-          "How many doctors does it take to solve a medical mystery? In this patient’s case, the answer is six - Fred Hutchinson Cancer Center",
-          "Ask Dr. Nandi: What vaccines doctors say you may need for respiratory virus season - WXYZ 7 News Detroit",
-          "Oregon Doctors Were Told About a Multistate Salmonella Enteritidis Outbreak. The Public Was Not. CDC Counts Fifteen Active Salmonella Investigations and Has Posted Notices on Two of Them. - Marler Blog"
+          "This era’s public health threat is digital (Opinion) - The Denver Post",
+          "Public Health Students Take Their Research to a National Stage - Maxwell School of Citizenship and Public Affairs",
+          "Meet our new faculty: Leo ​Martinez - UC Berkeley School of Public Health"
+        ]
+      },
+      {
+        "trend": "warning",
+        "market_code": "JO",
+        "category": "Arab Health",
+        "score": 7,
+        "examples": [
+          "FDA Advisory No.2026-1483 || Public Health Warning Against the Purchase and Consumption of the Unregistered Food Product “BAKE KING ESSENTIALS California Golden Raisins” - Food and Drug Administration - www.fda.gov.ph",
+          "Grandfather who killed 8 in Pennsylvania shooting showed no warning signs, relative says - WPDE",
+          "Warning Signs for Young People’s Mental Health - tovima.com"
         ]
       }
     ],
@@ -2687,62 +2687,73 @@
         "trend": "health",
         "market_code": "LB",
         "category": "Arab Health",
-        "score": 73,
+        "score": 75,
         "examples": [
           "UCR Health expands direct access through Blue & Gold - Inside UCR",
-          "How we’re making Google Health and Fitbit Air smarter than ever - blog.google",
-          "Photos: Raiders host Intermountain Children’s Health patients - Raiders.com"
+          "Google Health: Evolving so you can focus on living better - blog.google",
+          "DJJDP, New Hope Treatment Centers Open New Behavioral Health Unit at C.A. Dillon - NC DPS (.gov)"
         ]
       },
       {
         "trend": "medical",
         "market_code": "LB",
         "category": "Arab Health",
-        "score": 21,
+        "score": 22,
         "examples": [
           "Diddy Rushed Out of Prison After Medical Emergency - TMZ",
-          "Family Medicine Physician Iram Qureshi, M.D., Joins UAMS Family Medical Center in Fort Smith - UAMS News",
-          "Physician Shares Lessons from Thousands of Patients Treated with Medical Cannabis - The University of Maryland, Baltimore"
-        ]
-      },
-      {
-        "trend": "outbreak",
-        "market_code": "LB",
-        "category": "Outbreaks",
-        "score": 16,
-        "examples": [
-          "Oregon public health officials investigating possible foodborne outbreak - Food Safety News",
-          "Oregon Doctors Were Told About a Multistate Salmonella Enteritidis Outbreak. The Public Was Not. CDC Counts Fifteen Active Salmonella Investigations and Has Posted Notices on Two of Them. - Marler Blog",
-          "TN Department of Health investigating possible foodborne illness outbreak at Walmart warehouse - WSMV"
+          "Dell Medical School partners with federal program to standardize clinical trials - The Daily Texan",
+          "Medical cannabis benefits for insomnia remain uncertain, Cochrane review finds - News-Medical"
         ]
       },
       {
         "trend": "healthcare",
         "market_code": "LB",
         "category": "Arab Health",
+        "score": 15,
+        "examples": [
+          "Beyond Buzzwords: How Sutter Leaders Create Healthcare’s Blueprint - Sutter Health",
+          "Oregon insurance regulators warn of cheap healthcare plans resulting in high bills - Cottage Grove Sentinel",
+          "Local man with dementia disappears after walking away from healthcare center - WKRC"
+        ]
+      },
+      {
+        "trend": "cancer",
+        "market_code": "LB",
+        "category": "Chronic Disease",
         "score": 14,
         "examples": [
-          "Oregon insurance regulators warn of cheap healthcare plans resulting in high bills - Cottage Grove Sentinel",
-          "Local man with dementia disappears after walking away from healthcare center - WKRC",
-          "MediDepot Highlights Infection Control and PPE Supply Solutions for Healthcare Facilities - The National Law Review"
+          "UH research links marine microplastics to cancer rates - University of Hawaii System",
+          "How many doctors does it take to solve a medical mystery? In this patient’s case, the answer is six - Fred Hutchinson Cancer Center",
+          "UH research links marine microplastics to cancer rates - University of Hawaii System"
         ]
       },
       {
         "trend": "mental",
         "market_code": "LB",
         "category": "Mental Health",
-        "score": 13,
+        "score": 12,
         "examples": [
-          "Fact check: No, James Talarico was not in a mental health facility in Ohio - Dallas News",
-          "FACT FOCUS: Posts falsely claim Democratic Senate candidate James Talarico was at a mental facility - AP News",
-          "NYC launches website to connect residents with mental health care - StateScoop"
+          "Warning Signs for Young People’s Mental Health - tovima.com",
+          "New federal designation expands community-based mental health care in Central Vermont - WCAX",
+          "FACT FOCUS: Posts falsely claim Democratic Senate candidate James Talarico was at a mental facility - AP News"
+        ]
+      },
+      {
+        "trend": "outbreak",
+        "market_code": "LB",
+        "category": "Outbreaks",
+        "score": 11,
+        "examples": [
+          "TN Department of Health investigating possible foodborne illness outbreak at Walmart warehouse - WSMV",
+          "Orange County dengue numbers grow slightly, as state's outbreak continues - WUSF",
+          "Unleashed dog daycare owners recall trying summer from kennel cough outbreak - Evanston RoundTable"
         ]
       },
       {
         "trend": "hospital",
         "market_code": "LB",
         "category": "Arab Health",
-        "score": 11,
+        "score": 10,
         "examples": [
           "Next listening session in AHA’s disability health series to focus on community partnerships - American Hospital Association",
           "Sean 'Diddy' Combs reportedly rushed to hospital for 'medical emergency' - USA Today",
@@ -2750,25 +2761,25 @@
         ]
       },
       {
-        "trend": "cancer",
+        "trend": "mental health",
         "market_code": "LB",
-        "category": "Chronic Disease",
-        "score": 11,
+        "category": "Mental Health",
+        "score": 9,
         "examples": [
-          "How many doctors does it take to solve a medical mystery? In this patient’s case, the answer is six - Fred Hutchinson Cancer Center",
-          "South Texas Health Systems doctor shares breast cancer warning signs - KRGV",
-          "Scientists target high infection rates among myeloma patients in treatment - Rare Cancer News"
+          "Warning Signs for Young People’s Mental Health - tovima.com",
+          "New federal designation expands community-based mental health care in Central Vermont - WCAX",
+          "Fact check: No, James Talarico was not in a mental health facility in Ohio - Dallas News"
         ]
       },
       {
         "trend": "virus",
         "market_code": "LB",
         "category": "Outbreaks",
-        "score": 10,
+        "score": 9,
         "examples": [
-          "‘Essentially rabies’: Virus warning after 43 people bitten, scratched by bats in just two weeks - 7NEWS",
           "Ask Dr. Nandi: What vaccines doctors say you may need for respiratory virus season - WXYZ 7 News Detroit",
-          "UCLA-led team receives NIH grant to uncover how Zika virus damages the developing eye and explore potential treatments - UCLA Health"
+          "UCLA-led team receives NIH grant to uncover how Zika virus damages the developing eye and explore potential treatments - UCLA Health",
+          "AAF's BioShield VXL High Flow balances barn ventilation and virus filtration - The Poultry Site"
         ]
       },
       {
@@ -2783,36 +2794,25 @@
         ]
       },
       {
-        "trend": "mental health",
-        "market_code": "LB",
-        "category": "Mental Health",
-        "score": 8,
-        "examples": [
-          "Fact check: No, James Talarico was not in a mental health facility in Ohio - Dallas News",
-          "NYC launches website to connect residents with mental health care - StateScoop",
-          "Fact check: No, James Talarico was not in a mental health facility in Ohio - Dallas News"
-        ]
-      },
-      {
-        "trend": "heart",
-        "market_code": "LB",
-        "category": "Chronic Disease",
-        "score": 8,
-        "examples": [
-          "Scientists Built Tiny Robots That Could Treat Dangerous Heart Infections from Within - ZME Science",
-          "Managing high blood pressure could prevent >500K CVD deaths annually in 20 countries - www.heart.org",
-          "Texas Health Hospitals Earn Recognition from American Heart Association - The Business Press"
-        ]
-      },
-      {
-        "trend": "doctors",
+        "trend": "public health",
         "market_code": "LB",
         "category": "Arab Health",
         "score": 7,
         "examples": [
-          "How many doctors does it take to solve a medical mystery? In this patient’s case, the answer is six - Fred Hutchinson Cancer Center",
-          "Ask Dr. Nandi: What vaccines doctors say you may need for respiratory virus season - WXYZ 7 News Detroit",
-          "Oregon Doctors Were Told About a Multistate Salmonella Enteritidis Outbreak. The Public Was Not. CDC Counts Fifteen Active Salmonella Investigations and Has Posted Notices on Two of Them. - Marler Blog"
+          "This era’s public health threat is digital (Opinion) - The Denver Post",
+          "Public Health Students Take Their Research to a National Stage - Maxwell School of Citizenship and Public Affairs",
+          "Meet our new faculty: Leo ​Martinez - UC Berkeley School of Public Health"
+        ]
+      },
+      {
+        "trend": "warning",
+        "market_code": "LB",
+        "category": "Arab Health",
+        "score": 7,
+        "examples": [
+          "FDA Advisory No.2026-1483 || Public Health Warning Against the Purchase and Consumption of the Unregistered Food Product “BAKE KING ESSENTIALS California Golden Raisins” - Food and Drug Administration - www.fda.gov.ph",
+          "Grandfather who killed 8 in Pennsylvania shooting showed no warning signs, relative says - WPDE",
+          "Warning Signs for Young People’s Mental Health - tovima.com"
         ]
       }
     ]
