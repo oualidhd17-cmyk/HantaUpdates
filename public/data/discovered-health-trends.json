@@ -1,929 +1,2819 @@
 {
-  "updated_at": "2026-10-14T03:02:58.749084+00:00",
-  "total_trends": 126,
+  "updated_at": "2026-10-14T10:42:45.453268+00:00",
+  "total_trends": 252,
   "markets": {
     "United States": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "US",
         "category": "US Health",
-        "score": 1,
-        "examples": []
+        "score": 80,
+        "examples": [
+          "The barriers to realizing AI's promise in health care - Axios",
+          "Galderma to buy US firm ZO Skin Health for $1.5 billion - Reuters",
+          "Galderma to Buy ZO Skin Health for $1.5 Billion - WSJ"
+        ]
       },
       {
-        "trend": "outbreak",
+        "trend": "medical",
+        "market_code": "US",
+        "category": "US Health",
+        "score": 18,
+        "examples": [
+          "Steris to Acquire Xodus Medical for $2.1 Billion - WSJ",
+          "Residents raise concerns over USC medical school power line plan - WIS News 10",
+          "Honolulu EMS blesses New Kaimukī Station, expanding emergency medical coverage in East Honolulu - City and County of Honolulu (.gov)"
+        ]
+      },
+      {
+        "trend": "public health",
+        "market_code": "US",
+        "category": "US Health",
+        "score": 12,
+        "examples": [
+          "County Public Health Centers will be Closed Oct. 19 for a System Upgrade - San Diego County News Center",
+          "County Public Health Centers will be Closed Oct. 19 for a System Upgrade - San Diego County News Center",
+          "Match Ready, Mission Ready: Public Health Emergency Preparedness Lessons from the 2026 FIFA World Cup - National Governors Association"
+        ]
+      },
+      {
+        "trend": "cancer",
+        "market_code": "US",
+        "category": "Chronic Disease",
+        "score": 12,
+        "examples": [
+          "How a common virus's hijack of cell repair processes may promote cancer - Medical Xpress",
+          "These common infections can cause cancer. Here’s what can lower your risk. - The Washington Post",
+          "These Infections Are Linked to 12% of New Cancer Cases - Time Magazine"
+        ]
+      },
+      {
+        "trend": "virus",
         "market_code": "US",
         "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "score": 11,
+        "examples": [
+          "Health Officials Issue Urgent Warning About Deadly Bat Virus After More Than 40 People Bitten in 2 Weeks - People.com",
+          "Health Officials Issue Urgent Warning About Deadly Bat Virus After More Than 40 People Bitten in 2 Weeks - People.com",
+          "2 dead in North Carolina from West Nile virus as central NC seeing high transmission due to ongoing warm fall weather - ABC11 News"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "US",
+        "category": "Mental Health",
+        "score": 10,
+        "examples": [
+          "Supporting Youth Mental Health: Free Crisis Services Available for Every Family in King County - Public Health Insider",
+          "What to know about mental health in Maryland’s intelligence community - The Baltimore Banner",
+          "Greenville County deputies mishandled mental health crisis in deadly shooting, lawsuit says - Post and Courier"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "US",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
+        "score": 10,
+        "examples": [
+          "Supporting Youth Mental Health: Free Crisis Services Available for Every Family in King County - Public Health Insider",
+          "What to know about mental health in Maryland’s intelligence community - The Baltimore Banner",
+          "Greenville County deputies mishandled mental health crisis in deadly shooting, lawsuit says - Post and Courier"
+        ]
       },
       {
-        "trend": "medical research",
+        "trend": "measles",
+        "market_code": "US",
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "How Should Local Health Officers Respond to Measles Outbreaks? - Governing",
+          "How Should Local Health Officers Respond to Measles Outbreaks? - Governing",
+          "Public health officials notified of five probable measles cases in Rock County - WCLO | News"
+        ]
+      },
+      {
+        "trend": "outbreak",
+        "market_code": "US",
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "CDC asks staff to volunteer to help with Ebola screenings at airports amid DRC outbreak - ABC News - Breaking News, Latest News and Videos",
+          "CDC asks staff to volunteer to help with Ebola screenings at airports amid DRC outbreak - ABC News - Breaking News, Latest News and Videos",
+          "Ebola cases top 9,000 in DR Congo outbreak - CIDRAP"
+        ]
+      },
+      {
+        "trend": "warning",
         "market_code": "US",
         "category": "US Health",
-        "score": 1,
-        "examples": []
+        "score": 9,
+        "examples": [
+          "France issues warning over thousands of substandard condoms - DW.com",
+          "Health Officials Issue Urgent Warning About Deadly Bat Virus After More Than 40 People Bitten in 2 Weeks - People.com",
+          "FDA Advisory No.2026-1500 || Public Health Warning Against the Purchase and Consumption of the Unregistered Food Product “CERES PASALUBONG N/I” - https://www.fda.gov.ph/"
+        ]
       },
       {
-        "trend": "drug approval",
+        "trend": "healthcare",
         "market_code": "US",
-        "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
+        "category": "US Health",
+        "score": 9,
+        "examples": [
+          "Hospitals brace for FTC price transparency probes - Modern Healthcare",
+          "Artificial Intelligence and Healthcare’s Growing Data Economy - Baker Institute",
+          "AI Tracker: Suki lands $90M - Modern Healthcare"
+        ]
       },
       {
-        "trend": "diet wellness",
+        "trend": "health officials",
         "market_code": "US",
-        "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "category": "US Health",
+        "score": 8,
+        "examples": [
+          "Public health officials notified of five probable measles cases in Rock County - WCLO | News",
+          "Massachusetts Health Officials Provide Sobering Stats on Alcohol Use - 1420 WBSM",
+          "Health Officials Issue Urgent Warning About Deadly Bat Virus After More Than 40 People Bitten in 2 Weeks - People.com"
+        ]
       }
     ],
     "United Kingdom": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "GB",
         "category": "Europe Health",
-        "score": 1,
-        "examples": []
+        "score": 61,
+        "examples": [
+          "Former Scottish health chief appointed to lead transformation of military medicine - GOV.UK",
+          "NHS Forth Valley Staff Shortlisted for Scotland’s Health Awards 2026 - NHS Forth Valley",
+          "GPs to lead neighbourhood health model with £8m fund repurposed from hospitals - Pulse Today"
+        ]
+      },
+      {
+        "trend": "medical",
+        "market_code": "GB",
+        "category": "Europe Health",
+        "score": 18,
+        "examples": [
+          "Medical training quality should be scrutinised as closely as patient safety, says RCP - RCP London",
+          "RAF teams take part in medical demonstrations at Brize Norton - BBC",
+          "John Ioannidis: AI is generating \"false, fraudulent and fake\" medical research - IAI TV"
+        ]
+      },
+      {
+        "trend": "healthcare",
+        "market_code": "GB",
+        "category": "Europe Health",
+        "score": 11,
+        "examples": [
+          "Greater Manchester smoking rates fall to record low - Healthcare Leader",
+          "Hospitals brace for FTC price transparency probes - Modern Healthcare",
+          "How healthcare and the environment can benefit from 'Green' AI - healthcare-in-europe.com"
+        ]
       },
       {
         "trend": "outbreak",
         "market_code": "GB",
         "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "score": 11,
+        "examples": [
+          "CDC asks staff to volunteer to help with Ebola screenings at airports amid DRC outbreak - ABC News - Breaking News, Latest News and Videos",
+          "Pennsylvania announces sixth death in measles outbreak as case numbers rise - The Guardian",
+          "Namibia battles cattle disease outbreak as EU suspends several meat imports - Al Jazeera"
+        ]
+      },
+      {
+        "trend": "cancer",
+        "market_code": "GB",
+        "category": "Chronic Disease",
+        "score": 11,
+        "examples": [
+          "How a common virus's hijack of cell repair processes may promote cancer - Medical Xpress",
+          "These common infections can cause cancer. Here’s what can lower your risk. - The Washington Post",
+          "Doctors must be more open about antimicrobial resistant infections in cancer deaths - Patient Safety Learning - the hub"
+        ]
+      },
+      {
+        "trend": "warning",
+        "market_code": "GB",
+        "category": "Europe Health",
+        "score": 9,
+        "examples": [
+          "Asda, Sainsbury's and Waitrose issue warning for food items over health fears - Chronicle Live",
+          "Blood clots can affect women of any age – 4 warning signs you should never ignore - Women's Health",
+          "France issues warning over thousands of substandard condoms - DW.com"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "GB",
+        "category": "Mental Health",
+        "score": 9,
+        "examples": [
+          "Family of man killed by tiger at wildlife park say he suffered from 'significant mental illness' - Sky News",
+          "Mental health nurse struck off for misconduct - BBC",
+          "Are AI Companions Good For Mental Health Explained - Universidad de Córdoba (UCO)"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "GB",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
+        "score": 8,
+        "examples": [
+          "Mental health nurse struck off for misconduct - BBC",
+          "Are AI Companions Good For Mental Health Explained - Universidad de Córdoba (UCO)",
+          "Vision laid out for ‘no wrong door’ approach to mental health support - gov.wales"
+        ]
       },
       {
-        "trend": "medical research",
+        "trend": "infection",
+        "market_code": "GB",
+        "category": "Outbreaks",
+        "score": 7,
+        "examples": [
+          "Immune sensor can detect viral infection by monitoring cell’s own RNA - Radcliffe Department of Medicine",
+          "The genetic technique that finds (almost) every infection - BBC",
+          "Immune sensor can detect viral infection by monitoring cell’s own RNA - Radcliffe Department of Medicine"
+        ]
+      },
+      {
+        "trend": "virus",
+        "market_code": "GB",
+        "category": "Outbreaks",
+        "score": 6,
+        "examples": [
+          "Bluetongue virus update – fertility impact - AHDB",
+          "How a common virus's hijack of cell repair processes may promote cancer - Medical Xpress",
+          "WSU-Chile collaboration reveals border-hopping virus - WSU Insider"
+        ]
+      },
+      {
+        "trend": "patients",
         "market_code": "GB",
         "category": "Europe Health",
-        "score": 1,
-        "examples": []
+        "score": 5,
+        "examples": [
+          "The Chronic Patients’ Alliance is calling for urgent health-care funding and warning that treatments could be interrupted - Informat.ro",
+          "NHS App to alert patients when prescriptions are ready to collect - Social Care Today",
+          "Experimental vaccine shows promise against deadly brain cancer in some patients - NBC News"
+        ]
       },
       {
-        "trend": "drug approval",
+        "trend": "treatment",
         "market_code": "GB",
         "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
-      },
-      {
-        "trend": "diet wellness",
-        "market_code": "GB",
-        "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "score": 5,
+        "examples": [
+          "Phase II Clinical Trial of NV-387 Oral Gummies as Treatment of Ebola Progressing Well, Says NanoViricides - ACCESS Newswire",
+          "New long-acting HIV treatment offers hope for drug-resistant infections - News-Medical",
+          "Aren’t humans natural carnivores? - People for the Ethical Treatment of Animals (PETA)"
+        ]
       }
     ],
     "Germany": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "DE",
         "category": "Europe Health",
-        "score": 1,
-        "examples": []
+        "score": 76,
+        "examples": [
+          "The barriers to realizing AI's promise in health care - Axios",
+          "Galderma to buy US firm ZO Skin Health for $1.5 billion - Reuters",
+          "Galderma to Buy ZO Skin Health for $1.5 Billion - WSJ"
+        ]
       },
       {
-        "trend": "outbreak",
+        "trend": "medical",
+        "market_code": "DE",
+        "category": "Europe Health",
+        "score": 18,
+        "examples": [
+          "Steris to Acquire Xodus Medical for $2.1 Billion - WSJ",
+          "Residents raise concerns over USC medical school power line plan - WIS News 10",
+          "Honolulu EMS blesses New Kaimukī Station, expanding emergency medical coverage in East Honolulu - City and County of Honolulu (.gov)"
+        ]
+      },
+      {
+        "trend": "cancer",
+        "market_code": "DE",
+        "category": "Chronic Disease",
+        "score": 13,
+        "examples": [
+          "How a common virus's hijack of cell repair processes may promote cancer - Medical Xpress",
+          "These common infections can cause cancer. Here’s what can lower your risk. - The Washington Post",
+          "These Infections Are Linked to 12% of New Cancer Cases - Time Magazine"
+        ]
+      },
+      {
+        "trend": "public health",
+        "market_code": "DE",
+        "category": "Europe Health",
+        "score": 12,
+        "examples": [
+          "County Public Health Centers will be Closed Oct. 19 for a System Upgrade - San Diego County News Center",
+          "County Public Health Centers will be Closed Oct. 19 for a System Upgrade - San Diego County News Center",
+          "Match Ready, Mission Ready: Public Health Emergency Preparedness Lessons from the 2026 FIFA World Cup - National Governors Association"
+        ]
+      },
+      {
+        "trend": "virus",
         "market_code": "DE",
         "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "score": 11,
+        "examples": [
+          "Health Officials Issue Urgent Warning About Deadly Bat Virus After More Than 40 People Bitten in 2 Weeks - People.com",
+          "Health Officials Issue Urgent Warning About Deadly Bat Virus After More Than 40 People Bitten in 2 Weeks - People.com",
+          "2 dead in North Carolina from West Nile virus as central NC seeing high transmission due to ongoing warm fall weather - ABC11 News"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "DE",
+        "category": "Mental Health",
+        "score": 10,
+        "examples": [
+          "Supporting Youth Mental Health: Free Crisis Services Available for Every Family in King County - Public Health Insider",
+          "What to know about mental health in Maryland’s intelligence community - The Baltimore Banner",
+          "Greenville County deputies mishandled mental health crisis in deadly shooting, lawsuit says - Post and Courier"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "DE",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
+        "score": 10,
+        "examples": [
+          "Supporting Youth Mental Health: Free Crisis Services Available for Every Family in King County - Public Health Insider",
+          "What to know about mental health in Maryland’s intelligence community - The Baltimore Banner",
+          "Greenville County deputies mishandled mental health crisis in deadly shooting, lawsuit says - Post and Courier"
+        ]
       },
       {
-        "trend": "medical research",
+        "trend": "healthcare",
         "market_code": "DE",
         "category": "Europe Health",
-        "score": 1,
-        "examples": []
+        "score": 10,
+        "examples": [
+          "Hospitals brace for FTC price transparency probes - Modern Healthcare",
+          "Artificial Intelligence and Healthcare’s Growing Data Economy - Baker Institute",
+          "AI Tracker: Suki lands $90M - Modern Healthcare"
+        ]
       },
       {
-        "trend": "drug approval",
+        "trend": "measles",
         "market_code": "DE",
-        "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "How Should Local Health Officers Respond to Measles Outbreaks? - Governing",
+          "How Should Local Health Officers Respond to Measles Outbreaks? - Governing",
+          "Public health officials notified of five probable measles cases in Rock County - WCLO | News"
+        ]
       },
       {
-        "trend": "diet wellness",
+        "trend": "outbreak",
         "market_code": "DE",
-        "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "CDC asks staff to volunteer to help with Ebola screenings at airports amid DRC outbreak - ABC News - Breaking News, Latest News and Videos",
+          "CDC asks staff to volunteer to help with Ebola screenings at airports amid DRC outbreak - ABC News - Breaking News, Latest News and Videos",
+          "Ebola cases top 9,000 in DR Congo outbreak - CIDRAP"
+        ]
+      },
+      {
+        "trend": "warning",
+        "market_code": "DE",
+        "category": "Europe Health",
+        "score": 9,
+        "examples": [
+          "France issues warning over thousands of substandard condoms - DW.com",
+          "Health Officials Issue Urgent Warning About Deadly Bat Virus After More Than 40 People Bitten in 2 Weeks - People.com",
+          "FDA Advisory No.2026-1500 || Public Health Warning Against the Purchase and Consumption of the Unregistered Food Product “CERES PASALUBONG N/I” - https://www.fda.gov.ph/"
+        ]
+      },
+      {
+        "trend": "health officials",
+        "market_code": "DE",
+        "category": "Europe Health",
+        "score": 8,
+        "examples": [
+          "Public health officials notified of five probable measles cases in Rock County - WCLO | News",
+          "Massachusetts Health Officials Provide Sobering Stats on Alcohol Use - 1420 WBSM",
+          "Health Officials Issue Urgent Warning About Deadly Bat Virus After More Than 40 People Bitten in 2 Weeks - People.com"
+        ]
       }
     ],
     "France": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "FR",
         "category": "Europe Health",
-        "score": 1,
-        "examples": []
+        "score": 76,
+        "examples": [
+          "The barriers to realizing AI's promise in health care - Axios",
+          "Galderma to buy US firm ZO Skin Health for $1.5 billion - Reuters",
+          "Galderma to Buy ZO Skin Health for $1.5 Billion - WSJ"
+        ]
       },
       {
-        "trend": "outbreak",
+        "trend": "medical",
+        "market_code": "FR",
+        "category": "Europe Health",
+        "score": 18,
+        "examples": [
+          "Steris to Acquire Xodus Medical for $2.1 Billion - WSJ",
+          "Residents raise concerns over USC medical school power line plan - WIS News 10",
+          "Honolulu EMS blesses New Kaimukī Station, expanding emergency medical coverage in East Honolulu - City and County of Honolulu (.gov)"
+        ]
+      },
+      {
+        "trend": "cancer",
+        "market_code": "FR",
+        "category": "Chronic Disease",
+        "score": 13,
+        "examples": [
+          "How a common virus's hijack of cell repair processes may promote cancer - Medical Xpress",
+          "These common infections can cause cancer. Here’s what can lower your risk. - The Washington Post",
+          "These Infections Are Linked to 12% of New Cancer Cases - Time Magazine"
+        ]
+      },
+      {
+        "trend": "public health",
+        "market_code": "FR",
+        "category": "Europe Health",
+        "score": 12,
+        "examples": [
+          "County Public Health Centers will be Closed Oct. 19 for a System Upgrade - San Diego County News Center",
+          "County Public Health Centers will be Closed Oct. 19 for a System Upgrade - San Diego County News Center",
+          "Match Ready, Mission Ready: Public Health Emergency Preparedness Lessons from the 2026 FIFA World Cup - National Governors Association"
+        ]
+      },
+      {
+        "trend": "virus",
         "market_code": "FR",
         "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "score": 11,
+        "examples": [
+          "Health Officials Issue Urgent Warning About Deadly Bat Virus After More Than 40 People Bitten in 2 Weeks - People.com",
+          "Health Officials Issue Urgent Warning About Deadly Bat Virus After More Than 40 People Bitten in 2 Weeks - People.com",
+          "2 dead in North Carolina from West Nile virus as central NC seeing high transmission due to ongoing warm fall weather - ABC11 News"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "FR",
+        "category": "Mental Health",
+        "score": 10,
+        "examples": [
+          "Supporting Youth Mental Health: Free Crisis Services Available for Every Family in King County - Public Health Insider",
+          "What to know about mental health in Maryland’s intelligence community - The Baltimore Banner",
+          "Greenville County deputies mishandled mental health crisis in deadly shooting, lawsuit says - Post and Courier"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "FR",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
+        "score": 10,
+        "examples": [
+          "Supporting Youth Mental Health: Free Crisis Services Available for Every Family in King County - Public Health Insider",
+          "What to know about mental health in Maryland’s intelligence community - The Baltimore Banner",
+          "Greenville County deputies mishandled mental health crisis in deadly shooting, lawsuit says - Post and Courier"
+        ]
       },
       {
-        "trend": "medical research",
+        "trend": "healthcare",
         "market_code": "FR",
         "category": "Europe Health",
-        "score": 1,
-        "examples": []
+        "score": 10,
+        "examples": [
+          "Hospitals brace for FTC price transparency probes - Modern Healthcare",
+          "Artificial Intelligence and Healthcare’s Growing Data Economy - Baker Institute",
+          "AI Tracker: Suki lands $90M - Modern Healthcare"
+        ]
       },
       {
-        "trend": "drug approval",
+        "trend": "measles",
         "market_code": "FR",
-        "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "How Should Local Health Officers Respond to Measles Outbreaks? - Governing",
+          "How Should Local Health Officers Respond to Measles Outbreaks? - Governing",
+          "Public health officials notified of five probable measles cases in Rock County - WCLO | News"
+        ]
       },
       {
-        "trend": "diet wellness",
+        "trend": "outbreak",
         "market_code": "FR",
-        "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "CDC asks staff to volunteer to help with Ebola screenings at airports amid DRC outbreak - ABC News - Breaking News, Latest News and Videos",
+          "CDC asks staff to volunteer to help with Ebola screenings at airports amid DRC outbreak - ABC News - Breaking News, Latest News and Videos",
+          "Ebola cases top 9,000 in DR Congo outbreak - CIDRAP"
+        ]
+      },
+      {
+        "trend": "warning",
+        "market_code": "FR",
+        "category": "Europe Health",
+        "score": 9,
+        "examples": [
+          "France issues warning over thousands of substandard condoms - DW.com",
+          "Health Officials Issue Urgent Warning About Deadly Bat Virus After More Than 40 People Bitten in 2 Weeks - People.com",
+          "FDA Advisory No.2026-1500 || Public Health Warning Against the Purchase and Consumption of the Unregistered Food Product “CERES PASALUBONG N/I” - https://www.fda.gov.ph/"
+        ]
+      },
+      {
+        "trend": "health officials",
+        "market_code": "FR",
+        "category": "Europe Health",
+        "score": 8,
+        "examples": [
+          "Public health officials notified of five probable measles cases in Rock County - WCLO | News",
+          "Massachusetts Health Officials Provide Sobering Stats on Alcohol Use - 1420 WBSM",
+          "Health Officials Issue Urgent Warning About Deadly Bat Virus After More Than 40 People Bitten in 2 Weeks - People.com"
+        ]
       }
     ],
     "Italy": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "IT",
         "category": "Europe Health",
-        "score": 1,
-        "examples": []
+        "score": 76,
+        "examples": [
+          "The barriers to realizing AI's promise in health care - Axios",
+          "Galderma to buy US firm ZO Skin Health for $1.5 billion - Reuters",
+          "Galderma to Buy ZO Skin Health for $1.5 Billion - WSJ"
+        ]
       },
       {
-        "trend": "outbreak",
+        "trend": "medical",
+        "market_code": "IT",
+        "category": "Europe Health",
+        "score": 18,
+        "examples": [
+          "Steris to Acquire Xodus Medical for $2.1 Billion - WSJ",
+          "Residents raise concerns over USC medical school power line plan - WIS News 10",
+          "Honolulu EMS blesses New Kaimukī Station, expanding emergency medical coverage in East Honolulu - City and County of Honolulu (.gov)"
+        ]
+      },
+      {
+        "trend": "cancer",
+        "market_code": "IT",
+        "category": "Chronic Disease",
+        "score": 13,
+        "examples": [
+          "How a common virus's hijack of cell repair processes may promote cancer - Medical Xpress",
+          "These common infections can cause cancer. Here’s what can lower your risk. - The Washington Post",
+          "These Infections Are Linked to 12% of New Cancer Cases - Time Magazine"
+        ]
+      },
+      {
+        "trend": "public health",
+        "market_code": "IT",
+        "category": "Europe Health",
+        "score": 12,
+        "examples": [
+          "County Public Health Centers will be Closed Oct. 19 for a System Upgrade - San Diego County News Center",
+          "County Public Health Centers will be Closed Oct. 19 for a System Upgrade - San Diego County News Center",
+          "Match Ready, Mission Ready: Public Health Emergency Preparedness Lessons from the 2026 FIFA World Cup - National Governors Association"
+        ]
+      },
+      {
+        "trend": "virus",
         "market_code": "IT",
         "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "score": 11,
+        "examples": [
+          "Health Officials Issue Urgent Warning About Deadly Bat Virus After More Than 40 People Bitten in 2 Weeks - People.com",
+          "Health Officials Issue Urgent Warning About Deadly Bat Virus After More Than 40 People Bitten in 2 Weeks - People.com",
+          "2 dead in North Carolina from West Nile virus as central NC seeing high transmission due to ongoing warm fall weather - ABC11 News"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "IT",
+        "category": "Mental Health",
+        "score": 10,
+        "examples": [
+          "Supporting Youth Mental Health: Free Crisis Services Available for Every Family in King County - Public Health Insider",
+          "What to know about mental health in Maryland’s intelligence community - The Baltimore Banner",
+          "Greenville County deputies mishandled mental health crisis in deadly shooting, lawsuit says - Post and Courier"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "IT",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
+        "score": 10,
+        "examples": [
+          "Supporting Youth Mental Health: Free Crisis Services Available for Every Family in King County - Public Health Insider",
+          "What to know about mental health in Maryland’s intelligence community - The Baltimore Banner",
+          "Greenville County deputies mishandled mental health crisis in deadly shooting, lawsuit says - Post and Courier"
+        ]
       },
       {
-        "trend": "medical research",
+        "trend": "healthcare",
         "market_code": "IT",
         "category": "Europe Health",
-        "score": 1,
-        "examples": []
+        "score": 10,
+        "examples": [
+          "Hospitals brace for FTC price transparency probes - Modern Healthcare",
+          "Artificial Intelligence and Healthcare’s Growing Data Economy - Baker Institute",
+          "AI Tracker: Suki lands $90M - Modern Healthcare"
+        ]
       },
       {
-        "trend": "drug approval",
+        "trend": "measles",
         "market_code": "IT",
-        "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "How Should Local Health Officers Respond to Measles Outbreaks? - Governing",
+          "How Should Local Health Officers Respond to Measles Outbreaks? - Governing",
+          "Public health officials notified of five probable measles cases in Rock County - WCLO | News"
+        ]
       },
       {
-        "trend": "diet wellness",
+        "trend": "outbreak",
         "market_code": "IT",
-        "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "CDC asks staff to volunteer to help with Ebola screenings at airports amid DRC outbreak - ABC News - Breaking News, Latest News and Videos",
+          "CDC asks staff to volunteer to help with Ebola screenings at airports amid DRC outbreak - ABC News - Breaking News, Latest News and Videos",
+          "Ebola cases top 9,000 in DR Congo outbreak - CIDRAP"
+        ]
+      },
+      {
+        "trend": "warning",
+        "market_code": "IT",
+        "category": "Europe Health",
+        "score": 9,
+        "examples": [
+          "France issues warning over thousands of substandard condoms - DW.com",
+          "Health Officials Issue Urgent Warning About Deadly Bat Virus After More Than 40 People Bitten in 2 Weeks - People.com",
+          "FDA Advisory No.2026-1500 || Public Health Warning Against the Purchase and Consumption of the Unregistered Food Product “CERES PASALUBONG N/I” - https://www.fda.gov.ph/"
+        ]
+      },
+      {
+        "trend": "health officials",
+        "market_code": "IT",
+        "category": "Europe Health",
+        "score": 8,
+        "examples": [
+          "Public health officials notified of five probable measles cases in Rock County - WCLO | News",
+          "Massachusetts Health Officials Provide Sobering Stats on Alcohol Use - 1420 WBSM",
+          "Health Officials Issue Urgent Warning About Deadly Bat Virus After More Than 40 People Bitten in 2 Weeks - People.com"
+        ]
       }
     ],
     "Spain": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "ES",
         "category": "Europe Health",
-        "score": 1,
-        "examples": []
+        "score": 76,
+        "examples": [
+          "The barriers to realizing AI's promise in health care - Axios",
+          "Galderma to buy US firm ZO Skin Health for $1.5 billion - Reuters",
+          "Galderma to Buy ZO Skin Health for $1.5 Billion - WSJ"
+        ]
       },
       {
-        "trend": "outbreak",
+        "trend": "medical",
+        "market_code": "ES",
+        "category": "Europe Health",
+        "score": 18,
+        "examples": [
+          "Steris to Acquire Xodus Medical for $2.1 Billion - WSJ",
+          "Residents raise concerns over USC medical school power line plan - WIS News 10",
+          "Honolulu EMS blesses New Kaimukī Station, expanding emergency medical coverage in East Honolulu - City and County of Honolulu (.gov)"
+        ]
+      },
+      {
+        "trend": "cancer",
+        "market_code": "ES",
+        "category": "Chronic Disease",
+        "score": 13,
+        "examples": [
+          "How a common virus's hijack of cell repair processes may promote cancer - Medical Xpress",
+          "These common infections can cause cancer. Here’s what can lower your risk. - The Washington Post",
+          "These Infections Are Linked to 12% of New Cancer Cases - Time Magazine"
+        ]
+      },
+      {
+        "trend": "public health",
+        "market_code": "ES",
+        "category": "Europe Health",
+        "score": 12,
+        "examples": [
+          "County Public Health Centers will be Closed Oct. 19 for a System Upgrade - San Diego County News Center",
+          "County Public Health Centers will be Closed Oct. 19 for a System Upgrade - San Diego County News Center",
+          "Match Ready, Mission Ready: Public Health Emergency Preparedness Lessons from the 2026 FIFA World Cup - National Governors Association"
+        ]
+      },
+      {
+        "trend": "virus",
         "market_code": "ES",
         "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "score": 11,
+        "examples": [
+          "Health Officials Issue Urgent Warning About Deadly Bat Virus After More Than 40 People Bitten in 2 Weeks - People.com",
+          "Health Officials Issue Urgent Warning About Deadly Bat Virus After More Than 40 People Bitten in 2 Weeks - People.com",
+          "2 dead in North Carolina from West Nile virus as central NC seeing high transmission due to ongoing warm fall weather - ABC11 News"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "ES",
+        "category": "Mental Health",
+        "score": 10,
+        "examples": [
+          "Supporting Youth Mental Health: Free Crisis Services Available for Every Family in King County - Public Health Insider",
+          "What to know about mental health in Maryland’s intelligence community - The Baltimore Banner",
+          "Greenville County deputies mishandled mental health crisis in deadly shooting, lawsuit says - Post and Courier"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "ES",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
+        "score": 10,
+        "examples": [
+          "Supporting Youth Mental Health: Free Crisis Services Available for Every Family in King County - Public Health Insider",
+          "What to know about mental health in Maryland’s intelligence community - The Baltimore Banner",
+          "Greenville County deputies mishandled mental health crisis in deadly shooting, lawsuit says - Post and Courier"
+        ]
       },
       {
-        "trend": "medical research",
+        "trend": "healthcare",
         "market_code": "ES",
         "category": "Europe Health",
-        "score": 1,
-        "examples": []
+        "score": 10,
+        "examples": [
+          "Hospitals brace for FTC price transparency probes - Modern Healthcare",
+          "Artificial Intelligence and Healthcare’s Growing Data Economy - Baker Institute",
+          "AI Tracker: Suki lands $90M - Modern Healthcare"
+        ]
       },
       {
-        "trend": "drug approval",
+        "trend": "measles",
         "market_code": "ES",
-        "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "How Should Local Health Officers Respond to Measles Outbreaks? - Governing",
+          "How Should Local Health Officers Respond to Measles Outbreaks? - Governing",
+          "Public health officials notified of five probable measles cases in Rock County - WCLO | News"
+        ]
       },
       {
-        "trend": "diet wellness",
+        "trend": "outbreak",
         "market_code": "ES",
-        "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "CDC asks staff to volunteer to help with Ebola screenings at airports amid DRC outbreak - ABC News - Breaking News, Latest News and Videos",
+          "CDC asks staff to volunteer to help with Ebola screenings at airports amid DRC outbreak - ABC News - Breaking News, Latest News and Videos",
+          "Ebola cases top 9,000 in DR Congo outbreak - CIDRAP"
+        ]
+      },
+      {
+        "trend": "warning",
+        "market_code": "ES",
+        "category": "Europe Health",
+        "score": 9,
+        "examples": [
+          "France issues warning over thousands of substandard condoms - DW.com",
+          "Health Officials Issue Urgent Warning About Deadly Bat Virus After More Than 40 People Bitten in 2 Weeks - People.com",
+          "FDA Advisory No.2026-1500 || Public Health Warning Against the Purchase and Consumption of the Unregistered Food Product “CERES PASALUBONG N/I” - https://www.fda.gov.ph/"
+        ]
+      },
+      {
+        "trend": "health officials",
+        "market_code": "ES",
+        "category": "Europe Health",
+        "score": 8,
+        "examples": [
+          "Public health officials notified of five probable measles cases in Rock County - WCLO | News",
+          "Massachusetts Health Officials Provide Sobering Stats on Alcohol Use - 1420 WBSM",
+          "Health Officials Issue Urgent Warning About Deadly Bat Virus After More Than 40 People Bitten in 2 Weeks - People.com"
+        ]
       }
     ],
     "Sweden": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "SE",
         "category": "Europe Health",
-        "score": 1,
-        "examples": []
+        "score": 76,
+        "examples": [
+          "The barriers to realizing AI's promise in health care - Axios",
+          "Galderma to buy US firm ZO Skin Health for $1.5 billion - Reuters",
+          "Galderma to Buy ZO Skin Health for $1.5 Billion - WSJ"
+        ]
       },
       {
-        "trend": "outbreak",
+        "trend": "medical",
+        "market_code": "SE",
+        "category": "Europe Health",
+        "score": 18,
+        "examples": [
+          "Steris to Acquire Xodus Medical for $2.1 Billion - WSJ",
+          "Residents raise concerns over USC medical school power line plan - WIS News 10",
+          "Honolulu EMS blesses New Kaimukī Station, expanding emergency medical coverage in East Honolulu - City and County of Honolulu (.gov)"
+        ]
+      },
+      {
+        "trend": "cancer",
+        "market_code": "SE",
+        "category": "Chronic Disease",
+        "score": 13,
+        "examples": [
+          "How a common virus's hijack of cell repair processes may promote cancer - Medical Xpress",
+          "These common infections can cause cancer. Here’s what can lower your risk. - The Washington Post",
+          "These Infections Are Linked to 12% of New Cancer Cases - Time Magazine"
+        ]
+      },
+      {
+        "trend": "public health",
+        "market_code": "SE",
+        "category": "Europe Health",
+        "score": 12,
+        "examples": [
+          "County Public Health Centers will be Closed Oct. 19 for a System Upgrade - San Diego County News Center",
+          "County Public Health Centers will be Closed Oct. 19 for a System Upgrade - San Diego County News Center",
+          "Match Ready, Mission Ready: Public Health Emergency Preparedness Lessons from the 2026 FIFA World Cup - National Governors Association"
+        ]
+      },
+      {
+        "trend": "virus",
         "market_code": "SE",
         "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "score": 11,
+        "examples": [
+          "Health Officials Issue Urgent Warning About Deadly Bat Virus After More Than 40 People Bitten in 2 Weeks - People.com",
+          "Health Officials Issue Urgent Warning About Deadly Bat Virus After More Than 40 People Bitten in 2 Weeks - People.com",
+          "2 dead in North Carolina from West Nile virus as central NC seeing high transmission due to ongoing warm fall weather - ABC11 News"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "SE",
+        "category": "Mental Health",
+        "score": 10,
+        "examples": [
+          "Supporting Youth Mental Health: Free Crisis Services Available for Every Family in King County - Public Health Insider",
+          "What to know about mental health in Maryland’s intelligence community - The Baltimore Banner",
+          "Greenville County deputies mishandled mental health crisis in deadly shooting, lawsuit says - Post and Courier"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "SE",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
+        "score": 10,
+        "examples": [
+          "Supporting Youth Mental Health: Free Crisis Services Available for Every Family in King County - Public Health Insider",
+          "What to know about mental health in Maryland’s intelligence community - The Baltimore Banner",
+          "Greenville County deputies mishandled mental health crisis in deadly shooting, lawsuit says - Post and Courier"
+        ]
       },
       {
-        "trend": "medical research",
+        "trend": "healthcare",
         "market_code": "SE",
         "category": "Europe Health",
-        "score": 1,
-        "examples": []
+        "score": 10,
+        "examples": [
+          "Hospitals brace for FTC price transparency probes - Modern Healthcare",
+          "Artificial Intelligence and Healthcare’s Growing Data Economy - Baker Institute",
+          "AI Tracker: Suki lands $90M - Modern Healthcare"
+        ]
       },
       {
-        "trend": "drug approval",
+        "trend": "measles",
         "market_code": "SE",
-        "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "How Should Local Health Officers Respond to Measles Outbreaks? - Governing",
+          "How Should Local Health Officers Respond to Measles Outbreaks? - Governing",
+          "Public health officials notified of five probable measles cases in Rock County - WCLO | News"
+        ]
       },
       {
-        "trend": "diet wellness",
+        "trend": "outbreak",
         "market_code": "SE",
-        "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "CDC asks staff to volunteer to help with Ebola screenings at airports amid DRC outbreak - ABC News - Breaking News, Latest News and Videos",
+          "CDC asks staff to volunteer to help with Ebola screenings at airports amid DRC outbreak - ABC News - Breaking News, Latest News and Videos",
+          "Ebola cases top 9,000 in DR Congo outbreak - CIDRAP"
+        ]
+      },
+      {
+        "trend": "warning",
+        "market_code": "SE",
+        "category": "Europe Health",
+        "score": 9,
+        "examples": [
+          "France issues warning over thousands of substandard condoms - DW.com",
+          "Health Officials Issue Urgent Warning About Deadly Bat Virus After More Than 40 People Bitten in 2 Weeks - People.com",
+          "FDA Advisory No.2026-1500 || Public Health Warning Against the Purchase and Consumption of the Unregistered Food Product “CERES PASALUBONG N/I” - https://www.fda.gov.ph/"
+        ]
+      },
+      {
+        "trend": "health officials",
+        "market_code": "SE",
+        "category": "Europe Health",
+        "score": 8,
+        "examples": [
+          "Public health officials notified of five probable measles cases in Rock County - WCLO | News",
+          "Massachusetts Health Officials Provide Sobering Stats on Alcohol Use - 1420 WBSM",
+          "Health Officials Issue Urgent Warning About Deadly Bat Virus After More Than 40 People Bitten in 2 Weeks - People.com"
+        ]
       }
     ],
     "Netherlands": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "NL",
         "category": "Europe Health",
-        "score": 1,
-        "examples": []
+        "score": 76,
+        "examples": [
+          "The barriers to realizing AI's promise in health care - Axios",
+          "Galderma to buy US firm ZO Skin Health for $1.5 billion - Reuters",
+          "Galderma to Buy ZO Skin Health for $1.5 Billion - WSJ"
+        ]
       },
       {
-        "trend": "outbreak",
+        "trend": "medical",
+        "market_code": "NL",
+        "category": "Europe Health",
+        "score": 18,
+        "examples": [
+          "Steris to Acquire Xodus Medical for $2.1 Billion - WSJ",
+          "Residents raise concerns over USC medical school power line plan - WIS News 10",
+          "Honolulu EMS blesses New Kaimukī Station, expanding emergency medical coverage in East Honolulu - City and County of Honolulu (.gov)"
+        ]
+      },
+      {
+        "trend": "cancer",
+        "market_code": "NL",
+        "category": "Chronic Disease",
+        "score": 13,
+        "examples": [
+          "How a common virus's hijack of cell repair processes may promote cancer - Medical Xpress",
+          "These common infections can cause cancer. Here’s what can lower your risk. - The Washington Post",
+          "These Infections Are Linked to 12% of New Cancer Cases - Time Magazine"
+        ]
+      },
+      {
+        "trend": "public health",
+        "market_code": "NL",
+        "category": "Europe Health",
+        "score": 12,
+        "examples": [
+          "County Public Health Centers will be Closed Oct. 19 for a System Upgrade - San Diego County News Center",
+          "County Public Health Centers will be Closed Oct. 19 for a System Upgrade - San Diego County News Center",
+          "Match Ready, Mission Ready: Public Health Emergency Preparedness Lessons from the 2026 FIFA World Cup - National Governors Association"
+        ]
+      },
+      {
+        "trend": "virus",
         "market_code": "NL",
         "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "score": 11,
+        "examples": [
+          "Health Officials Issue Urgent Warning About Deadly Bat Virus After More Than 40 People Bitten in 2 Weeks - People.com",
+          "Health Officials Issue Urgent Warning About Deadly Bat Virus After More Than 40 People Bitten in 2 Weeks - People.com",
+          "2 dead in North Carolina from West Nile virus as central NC seeing high transmission due to ongoing warm fall weather - ABC11 News"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "NL",
+        "category": "Mental Health",
+        "score": 10,
+        "examples": [
+          "Supporting Youth Mental Health: Free Crisis Services Available for Every Family in King County - Public Health Insider",
+          "What to know about mental health in Maryland’s intelligence community - The Baltimore Banner",
+          "Greenville County deputies mishandled mental health crisis in deadly shooting, lawsuit says - Post and Courier"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "NL",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
+        "score": 10,
+        "examples": [
+          "Supporting Youth Mental Health: Free Crisis Services Available for Every Family in King County - Public Health Insider",
+          "What to know about mental health in Maryland’s intelligence community - The Baltimore Banner",
+          "Greenville County deputies mishandled mental health crisis in deadly shooting, lawsuit says - Post and Courier"
+        ]
       },
       {
-        "trend": "medical research",
+        "trend": "healthcare",
         "market_code": "NL",
         "category": "Europe Health",
-        "score": 1,
-        "examples": []
+        "score": 10,
+        "examples": [
+          "Hospitals brace for FTC price transparency probes - Modern Healthcare",
+          "Artificial Intelligence and Healthcare’s Growing Data Economy - Baker Institute",
+          "AI Tracker: Suki lands $90M - Modern Healthcare"
+        ]
       },
       {
-        "trend": "drug approval",
+        "trend": "measles",
         "market_code": "NL",
-        "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "How Should Local Health Officers Respond to Measles Outbreaks? - Governing",
+          "How Should Local Health Officers Respond to Measles Outbreaks? - Governing",
+          "Public health officials notified of five probable measles cases in Rock County - WCLO | News"
+        ]
       },
       {
-        "trend": "diet wellness",
+        "trend": "outbreak",
         "market_code": "NL",
-        "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "CDC asks staff to volunteer to help with Ebola screenings at airports amid DRC outbreak - ABC News - Breaking News, Latest News and Videos",
+          "CDC asks staff to volunteer to help with Ebola screenings at airports amid DRC outbreak - ABC News - Breaking News, Latest News and Videos",
+          "Ebola cases top 9,000 in DR Congo outbreak - CIDRAP"
+        ]
+      },
+      {
+        "trend": "warning",
+        "market_code": "NL",
+        "category": "Europe Health",
+        "score": 9,
+        "examples": [
+          "France issues warning over thousands of substandard condoms - DW.com",
+          "Health Officials Issue Urgent Warning About Deadly Bat Virus After More Than 40 People Bitten in 2 Weeks - People.com",
+          "FDA Advisory No.2026-1500 || Public Health Warning Against the Purchase and Consumption of the Unregistered Food Product “CERES PASALUBONG N/I” - https://www.fda.gov.ph/"
+        ]
+      },
+      {
+        "trend": "health officials",
+        "market_code": "NL",
+        "category": "Europe Health",
+        "score": 8,
+        "examples": [
+          "Public health officials notified of five probable measles cases in Rock County - WCLO | News",
+          "Massachusetts Health Officials Provide Sobering Stats on Alcohol Use - 1420 WBSM",
+          "Health Officials Issue Urgent Warning About Deadly Bat Virus After More Than 40 People Bitten in 2 Weeks - People.com"
+        ]
       }
     ],
     "Finland": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "FI",
         "category": "Europe Health",
-        "score": 1,
-        "examples": []
+        "score": 76,
+        "examples": [
+          "The barriers to realizing AI's promise in health care - Axios",
+          "Galderma to buy US firm ZO Skin Health for $1.5 billion - Reuters",
+          "Galderma to Buy ZO Skin Health for $1.5 Billion - WSJ"
+        ]
       },
       {
-        "trend": "outbreak",
+        "trend": "medical",
+        "market_code": "FI",
+        "category": "Europe Health",
+        "score": 18,
+        "examples": [
+          "Steris to Acquire Xodus Medical for $2.1 Billion - WSJ",
+          "Residents raise concerns over USC medical school power line plan - WIS News 10",
+          "Honolulu EMS blesses New Kaimukī Station, expanding emergency medical coverage in East Honolulu - City and County of Honolulu (.gov)"
+        ]
+      },
+      {
+        "trend": "cancer",
+        "market_code": "FI",
+        "category": "Chronic Disease",
+        "score": 13,
+        "examples": [
+          "How a common virus's hijack of cell repair processes may promote cancer - Medical Xpress",
+          "These common infections can cause cancer. Here’s what can lower your risk. - The Washington Post",
+          "These Infections Are Linked to 12% of New Cancer Cases - Time Magazine"
+        ]
+      },
+      {
+        "trend": "public health",
+        "market_code": "FI",
+        "category": "Europe Health",
+        "score": 12,
+        "examples": [
+          "County Public Health Centers will be Closed Oct. 19 for a System Upgrade - San Diego County News Center",
+          "County Public Health Centers will be Closed Oct. 19 for a System Upgrade - San Diego County News Center",
+          "Match Ready, Mission Ready: Public Health Emergency Preparedness Lessons from the 2026 FIFA World Cup - National Governors Association"
+        ]
+      },
+      {
+        "trend": "virus",
         "market_code": "FI",
         "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "score": 11,
+        "examples": [
+          "Health Officials Issue Urgent Warning About Deadly Bat Virus After More Than 40 People Bitten in 2 Weeks - People.com",
+          "Health Officials Issue Urgent Warning About Deadly Bat Virus After More Than 40 People Bitten in 2 Weeks - People.com",
+          "2 dead in North Carolina from West Nile virus as central NC seeing high transmission due to ongoing warm fall weather - ABC11 News"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "FI",
+        "category": "Mental Health",
+        "score": 10,
+        "examples": [
+          "Supporting Youth Mental Health: Free Crisis Services Available for Every Family in King County - Public Health Insider",
+          "What to know about mental health in Maryland’s intelligence community - The Baltimore Banner",
+          "Greenville County deputies mishandled mental health crisis in deadly shooting, lawsuit says - Post and Courier"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "FI",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
+        "score": 10,
+        "examples": [
+          "Supporting Youth Mental Health: Free Crisis Services Available for Every Family in King County - Public Health Insider",
+          "What to know about mental health in Maryland’s intelligence community - The Baltimore Banner",
+          "Greenville County deputies mishandled mental health crisis in deadly shooting, lawsuit says - Post and Courier"
+        ]
       },
       {
-        "trend": "medical research",
+        "trend": "healthcare",
         "market_code": "FI",
         "category": "Europe Health",
-        "score": 1,
-        "examples": []
+        "score": 10,
+        "examples": [
+          "Hospitals brace for FTC price transparency probes - Modern Healthcare",
+          "Artificial Intelligence and Healthcare’s Growing Data Economy - Baker Institute",
+          "AI Tracker: Suki lands $90M - Modern Healthcare"
+        ]
       },
       {
-        "trend": "drug approval",
+        "trend": "measles",
         "market_code": "FI",
-        "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "How Should Local Health Officers Respond to Measles Outbreaks? - Governing",
+          "How Should Local Health Officers Respond to Measles Outbreaks? - Governing",
+          "Public health officials notified of five probable measles cases in Rock County - WCLO | News"
+        ]
       },
       {
-        "trend": "diet wellness",
+        "trend": "outbreak",
         "market_code": "FI",
-        "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "CDC asks staff to volunteer to help with Ebola screenings at airports amid DRC outbreak - ABC News - Breaking News, Latest News and Videos",
+          "CDC asks staff to volunteer to help with Ebola screenings at airports amid DRC outbreak - ABC News - Breaking News, Latest News and Videos",
+          "Ebola cases top 9,000 in DR Congo outbreak - CIDRAP"
+        ]
+      },
+      {
+        "trend": "warning",
+        "market_code": "FI",
+        "category": "Europe Health",
+        "score": 9,
+        "examples": [
+          "France issues warning over thousands of substandard condoms - DW.com",
+          "Health Officials Issue Urgent Warning About Deadly Bat Virus After More Than 40 People Bitten in 2 Weeks - People.com",
+          "FDA Advisory No.2026-1500 || Public Health Warning Against the Purchase and Consumption of the Unregistered Food Product “CERES PASALUBONG N/I” - https://www.fda.gov.ph/"
+        ]
+      },
+      {
+        "trend": "health officials",
+        "market_code": "FI",
+        "category": "Europe Health",
+        "score": 8,
+        "examples": [
+          "Public health officials notified of five probable measles cases in Rock County - WCLO | News",
+          "Massachusetts Health Officials Provide Sobering Stats on Alcohol Use - 1420 WBSM",
+          "Health Officials Issue Urgent Warning About Deadly Bat Virus After More Than 40 People Bitten in 2 Weeks - People.com"
+        ]
       }
     ],
     "Norway": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "NO",
         "category": "Europe Health",
-        "score": 1,
-        "examples": []
+        "score": 76,
+        "examples": [
+          "The barriers to realizing AI's promise in health care - Axios",
+          "Galderma to buy US firm ZO Skin Health for $1.5 billion - Reuters",
+          "Galderma to Buy ZO Skin Health for $1.5 Billion - WSJ"
+        ]
       },
       {
-        "trend": "outbreak",
+        "trend": "medical",
+        "market_code": "NO",
+        "category": "Europe Health",
+        "score": 18,
+        "examples": [
+          "Steris to Acquire Xodus Medical for $2.1 Billion - WSJ",
+          "Residents raise concerns over USC medical school power line plan - WIS News 10",
+          "Honolulu EMS blesses New Kaimukī Station, expanding emergency medical coverage in East Honolulu - City and County of Honolulu (.gov)"
+        ]
+      },
+      {
+        "trend": "cancer",
+        "market_code": "NO",
+        "category": "Chronic Disease",
+        "score": 13,
+        "examples": [
+          "How a common virus's hijack of cell repair processes may promote cancer - Medical Xpress",
+          "These common infections can cause cancer. Here’s what can lower your risk. - The Washington Post",
+          "These Infections Are Linked to 12% of New Cancer Cases - Time Magazine"
+        ]
+      },
+      {
+        "trend": "public health",
+        "market_code": "NO",
+        "category": "Europe Health",
+        "score": 12,
+        "examples": [
+          "County Public Health Centers will be Closed Oct. 19 for a System Upgrade - San Diego County News Center",
+          "County Public Health Centers will be Closed Oct. 19 for a System Upgrade - San Diego County News Center",
+          "Match Ready, Mission Ready: Public Health Emergency Preparedness Lessons from the 2026 FIFA World Cup - National Governors Association"
+        ]
+      },
+      {
+        "trend": "virus",
         "market_code": "NO",
         "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "score": 11,
+        "examples": [
+          "Health Officials Issue Urgent Warning About Deadly Bat Virus After More Than 40 People Bitten in 2 Weeks - People.com",
+          "Health Officials Issue Urgent Warning About Deadly Bat Virus After More Than 40 People Bitten in 2 Weeks - People.com",
+          "2 dead in North Carolina from West Nile virus as central NC seeing high transmission due to ongoing warm fall weather - ABC11 News"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "NO",
+        "category": "Mental Health",
+        "score": 10,
+        "examples": [
+          "Supporting Youth Mental Health: Free Crisis Services Available for Every Family in King County - Public Health Insider",
+          "What to know about mental health in Maryland’s intelligence community - The Baltimore Banner",
+          "Greenville County deputies mishandled mental health crisis in deadly shooting, lawsuit says - Post and Courier"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "NO",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
+        "score": 10,
+        "examples": [
+          "Supporting Youth Mental Health: Free Crisis Services Available for Every Family in King County - Public Health Insider",
+          "What to know about mental health in Maryland’s intelligence community - The Baltimore Banner",
+          "Greenville County deputies mishandled mental health crisis in deadly shooting, lawsuit says - Post and Courier"
+        ]
       },
       {
-        "trend": "medical research",
+        "trend": "healthcare",
         "market_code": "NO",
         "category": "Europe Health",
-        "score": 1,
-        "examples": []
+        "score": 10,
+        "examples": [
+          "Hospitals brace for FTC price transparency probes - Modern Healthcare",
+          "Artificial Intelligence and Healthcare’s Growing Data Economy - Baker Institute",
+          "AI Tracker: Suki lands $90M - Modern Healthcare"
+        ]
       },
       {
-        "trend": "drug approval",
+        "trend": "measles",
         "market_code": "NO",
-        "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "How Should Local Health Officers Respond to Measles Outbreaks? - Governing",
+          "How Should Local Health Officers Respond to Measles Outbreaks? - Governing",
+          "Public health officials notified of five probable measles cases in Rock County - WCLO | News"
+        ]
       },
       {
-        "trend": "diet wellness",
+        "trend": "outbreak",
         "market_code": "NO",
-        "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "CDC asks staff to volunteer to help with Ebola screenings at airports amid DRC outbreak - ABC News - Breaking News, Latest News and Videos",
+          "CDC asks staff to volunteer to help with Ebola screenings at airports amid DRC outbreak - ABC News - Breaking News, Latest News and Videos",
+          "Ebola cases top 9,000 in DR Congo outbreak - CIDRAP"
+        ]
+      },
+      {
+        "trend": "warning",
+        "market_code": "NO",
+        "category": "Europe Health",
+        "score": 9,
+        "examples": [
+          "France issues warning over thousands of substandard condoms - DW.com",
+          "Health Officials Issue Urgent Warning About Deadly Bat Virus After More Than 40 People Bitten in 2 Weeks - People.com",
+          "FDA Advisory No.2026-1500 || Public Health Warning Against the Purchase and Consumption of the Unregistered Food Product “CERES PASALUBONG N/I” - https://www.fda.gov.ph/"
+        ]
+      },
+      {
+        "trend": "health officials",
+        "market_code": "NO",
+        "category": "Europe Health",
+        "score": 8,
+        "examples": [
+          "Public health officials notified of five probable measles cases in Rock County - WCLO | News",
+          "Massachusetts Health Officials Provide Sobering Stats on Alcohol Use - 1420 WBSM",
+          "Health Officials Issue Urgent Warning About Deadly Bat Virus After More Than 40 People Bitten in 2 Weeks - People.com"
+        ]
       }
     ],
     "Japan": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "JP",
         "category": "Asia Health",
-        "score": 1,
-        "examples": []
+        "score": 76,
+        "examples": [
+          "The barriers to realizing AI's promise in health care - Axios",
+          "Galderma to buy US firm ZO Skin Health for $1.5 billion - Reuters",
+          "Galderma to Buy ZO Skin Health for $1.5 Billion - WSJ"
+        ]
       },
       {
-        "trend": "outbreak",
+        "trend": "medical",
+        "market_code": "JP",
+        "category": "Asia Health",
+        "score": 18,
+        "examples": [
+          "Steris to Acquire Xodus Medical for $2.1 Billion - WSJ",
+          "Residents raise concerns over USC medical school power line plan - WIS News 10",
+          "Honolulu EMS blesses New Kaimukī Station, expanding emergency medical coverage in East Honolulu - City and County of Honolulu (.gov)"
+        ]
+      },
+      {
+        "trend": "cancer",
+        "market_code": "JP",
+        "category": "Chronic Disease",
+        "score": 13,
+        "examples": [
+          "How a common virus's hijack of cell repair processes may promote cancer - Medical Xpress",
+          "These common infections can cause cancer. Here’s what can lower your risk. - The Washington Post",
+          "These Infections Are Linked to 12% of New Cancer Cases - Time Magazine"
+        ]
+      },
+      {
+        "trend": "public health",
+        "market_code": "JP",
+        "category": "Asia Health",
+        "score": 12,
+        "examples": [
+          "County Public Health Centers will be Closed Oct. 19 for a System Upgrade - San Diego County News Center",
+          "County Public Health Centers will be Closed Oct. 19 for a System Upgrade - San Diego County News Center",
+          "Match Ready, Mission Ready: Public Health Emergency Preparedness Lessons from the 2026 FIFA World Cup - National Governors Association"
+        ]
+      },
+      {
+        "trend": "virus",
         "market_code": "JP",
         "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "score": 11,
+        "examples": [
+          "Health Officials Issue Urgent Warning About Deadly Bat Virus After More Than 40 People Bitten in 2 Weeks - People.com",
+          "Health Officials Issue Urgent Warning About Deadly Bat Virus After More Than 40 People Bitten in 2 Weeks - People.com",
+          "2 dead in North Carolina from West Nile virus as central NC seeing high transmission due to ongoing warm fall weather - ABC11 News"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "JP",
+        "category": "Mental Health",
+        "score": 10,
+        "examples": [
+          "Supporting Youth Mental Health: Free Crisis Services Available for Every Family in King County - Public Health Insider",
+          "What to know about mental health in Maryland’s intelligence community - The Baltimore Banner",
+          "Greenville County deputies mishandled mental health crisis in deadly shooting, lawsuit says - Post and Courier"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "JP",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
+        "score": 10,
+        "examples": [
+          "Supporting Youth Mental Health: Free Crisis Services Available for Every Family in King County - Public Health Insider",
+          "What to know about mental health in Maryland’s intelligence community - The Baltimore Banner",
+          "Greenville County deputies mishandled mental health crisis in deadly shooting, lawsuit says - Post and Courier"
+        ]
       },
       {
-        "trend": "medical research",
+        "trend": "healthcare",
         "market_code": "JP",
         "category": "Asia Health",
-        "score": 1,
-        "examples": []
+        "score": 10,
+        "examples": [
+          "Hospitals brace for FTC price transparency probes - Modern Healthcare",
+          "Artificial Intelligence and Healthcare’s Growing Data Economy - Baker Institute",
+          "AI Tracker: Suki lands $90M - Modern Healthcare"
+        ]
       },
       {
-        "trend": "drug approval",
+        "trend": "measles",
         "market_code": "JP",
-        "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "How Should Local Health Officers Respond to Measles Outbreaks? - Governing",
+          "How Should Local Health Officers Respond to Measles Outbreaks? - Governing",
+          "Public health officials notified of five probable measles cases in Rock County - WCLO | News"
+        ]
       },
       {
-        "trend": "diet wellness",
+        "trend": "outbreak",
         "market_code": "JP",
-        "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "CDC asks staff to volunteer to help with Ebola screenings at airports amid DRC outbreak - ABC News - Breaking News, Latest News and Videos",
+          "CDC asks staff to volunteer to help with Ebola screenings at airports amid DRC outbreak - ABC News - Breaking News, Latest News and Videos",
+          "Ebola cases top 9,000 in DR Congo outbreak - CIDRAP"
+        ]
+      },
+      {
+        "trend": "warning",
+        "market_code": "JP",
+        "category": "Asia Health",
+        "score": 9,
+        "examples": [
+          "France issues warning over thousands of substandard condoms - DW.com",
+          "Health Officials Issue Urgent Warning About Deadly Bat Virus After More Than 40 People Bitten in 2 Weeks - People.com",
+          "FDA Advisory No.2026-1500 || Public Health Warning Against the Purchase and Consumption of the Unregistered Food Product “CERES PASALUBONG N/I” - https://www.fda.gov.ph/"
+        ]
+      },
+      {
+        "trend": "health officials",
+        "market_code": "JP",
+        "category": "Asia Health",
+        "score": 8,
+        "examples": [
+          "Public health officials notified of five probable measles cases in Rock County - WCLO | News",
+          "Massachusetts Health Officials Provide Sobering Stats on Alcohol Use - 1420 WBSM",
+          "Health Officials Issue Urgent Warning About Deadly Bat Virus After More Than 40 People Bitten in 2 Weeks - People.com"
+        ]
       }
     ],
     "China": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "CN",
         "category": "Asia Health",
-        "score": 1,
-        "examples": []
+        "score": 76,
+        "examples": [
+          "The barriers to realizing AI's promise in health care - Axios",
+          "Galderma to buy US firm ZO Skin Health for $1.5 billion - Reuters",
+          "Galderma to Buy ZO Skin Health for $1.5 Billion - WSJ"
+        ]
       },
       {
-        "trend": "outbreak",
+        "trend": "medical",
+        "market_code": "CN",
+        "category": "Asia Health",
+        "score": 18,
+        "examples": [
+          "Steris to Acquire Xodus Medical for $2.1 Billion - WSJ",
+          "Residents raise concerns over USC medical school power line plan - WIS News 10",
+          "Honolulu EMS blesses New Kaimukī Station, expanding emergency medical coverage in East Honolulu - City and County of Honolulu (.gov)"
+        ]
+      },
+      {
+        "trend": "cancer",
+        "market_code": "CN",
+        "category": "Chronic Disease",
+        "score": 13,
+        "examples": [
+          "How a common virus's hijack of cell repair processes may promote cancer - Medical Xpress",
+          "These common infections can cause cancer. Here’s what can lower your risk. - The Washington Post",
+          "These Infections Are Linked to 12% of New Cancer Cases - Time Magazine"
+        ]
+      },
+      {
+        "trend": "public health",
+        "market_code": "CN",
+        "category": "Asia Health",
+        "score": 12,
+        "examples": [
+          "County Public Health Centers will be Closed Oct. 19 for a System Upgrade - San Diego County News Center",
+          "County Public Health Centers will be Closed Oct. 19 for a System Upgrade - San Diego County News Center",
+          "Match Ready, Mission Ready: Public Health Emergency Preparedness Lessons from the 2026 FIFA World Cup - National Governors Association"
+        ]
+      },
+      {
+        "trend": "virus",
         "market_code": "CN",
         "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "score": 11,
+        "examples": [
+          "Health Officials Issue Urgent Warning About Deadly Bat Virus After More Than 40 People Bitten in 2 Weeks - People.com",
+          "Health Officials Issue Urgent Warning About Deadly Bat Virus After More Than 40 People Bitten in 2 Weeks - People.com",
+          "2 dead in North Carolina from West Nile virus as central NC seeing high transmission due to ongoing warm fall weather - ABC11 News"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "CN",
+        "category": "Mental Health",
+        "score": 10,
+        "examples": [
+          "Supporting Youth Mental Health: Free Crisis Services Available for Every Family in King County - Public Health Insider",
+          "What to know about mental health in Maryland’s intelligence community - The Baltimore Banner",
+          "Greenville County deputies mishandled mental health crisis in deadly shooting, lawsuit says - Post and Courier"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "CN",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
+        "score": 10,
+        "examples": [
+          "Supporting Youth Mental Health: Free Crisis Services Available for Every Family in King County - Public Health Insider",
+          "What to know about mental health in Maryland’s intelligence community - The Baltimore Banner",
+          "Greenville County deputies mishandled mental health crisis in deadly shooting, lawsuit says - Post and Courier"
+        ]
       },
       {
-        "trend": "medical research",
+        "trend": "healthcare",
         "market_code": "CN",
         "category": "Asia Health",
-        "score": 1,
-        "examples": []
+        "score": 10,
+        "examples": [
+          "Hospitals brace for FTC price transparency probes - Modern Healthcare",
+          "Artificial Intelligence and Healthcare’s Growing Data Economy - Baker Institute",
+          "AI Tracker: Suki lands $90M - Modern Healthcare"
+        ]
       },
       {
-        "trend": "drug approval",
+        "trend": "measles",
         "market_code": "CN",
-        "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "How Should Local Health Officers Respond to Measles Outbreaks? - Governing",
+          "How Should Local Health Officers Respond to Measles Outbreaks? - Governing",
+          "Public health officials notified of five probable measles cases in Rock County - WCLO | News"
+        ]
       },
       {
-        "trend": "diet wellness",
+        "trend": "outbreak",
         "market_code": "CN",
-        "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "CDC asks staff to volunteer to help with Ebola screenings at airports amid DRC outbreak - ABC News - Breaking News, Latest News and Videos",
+          "CDC asks staff to volunteer to help with Ebola screenings at airports amid DRC outbreak - ABC News - Breaking News, Latest News and Videos",
+          "Ebola cases top 9,000 in DR Congo outbreak - CIDRAP"
+        ]
+      },
+      {
+        "trend": "warning",
+        "market_code": "CN",
+        "category": "Asia Health",
+        "score": 9,
+        "examples": [
+          "France issues warning over thousands of substandard condoms - DW.com",
+          "Health Officials Issue Urgent Warning About Deadly Bat Virus After More Than 40 People Bitten in 2 Weeks - People.com",
+          "FDA Advisory No.2026-1500 || Public Health Warning Against the Purchase and Consumption of the Unregistered Food Product “CERES PASALUBONG N/I” - https://www.fda.gov.ph/"
+        ]
+      },
+      {
+        "trend": "health officials",
+        "market_code": "CN",
+        "category": "Asia Health",
+        "score": 8,
+        "examples": [
+          "Public health officials notified of five probable measles cases in Rock County - WCLO | News",
+          "Massachusetts Health Officials Provide Sobering Stats on Alcohol Use - 1420 WBSM",
+          "Health Officials Issue Urgent Warning About Deadly Bat Virus After More Than 40 People Bitten in 2 Weeks - People.com"
+        ]
       }
     ],
     "South Korea": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "KR",
         "category": "Asia Health",
-        "score": 1,
-        "examples": []
+        "score": 76,
+        "examples": [
+          "The barriers to realizing AI's promise in health care - Axios",
+          "Galderma to buy US firm ZO Skin Health for $1.5 billion - Reuters",
+          "Galderma to Buy ZO Skin Health for $1.5 Billion - WSJ"
+        ]
       },
       {
-        "trend": "outbreak",
+        "trend": "medical",
+        "market_code": "KR",
+        "category": "Asia Health",
+        "score": 18,
+        "examples": [
+          "Steris to Acquire Xodus Medical for $2.1 Billion - WSJ",
+          "Residents raise concerns over USC medical school power line plan - WIS News 10",
+          "Honolulu EMS blesses New Kaimukī Station, expanding emergency medical coverage in East Honolulu - City and County of Honolulu (.gov)"
+        ]
+      },
+      {
+        "trend": "cancer",
+        "market_code": "KR",
+        "category": "Chronic Disease",
+        "score": 13,
+        "examples": [
+          "How a common virus's hijack of cell repair processes may promote cancer - Medical Xpress",
+          "These common infections can cause cancer. Here’s what can lower your risk. - The Washington Post",
+          "These Infections Are Linked to 12% of New Cancer Cases - Time Magazine"
+        ]
+      },
+      {
+        "trend": "public health",
+        "market_code": "KR",
+        "category": "Asia Health",
+        "score": 12,
+        "examples": [
+          "County Public Health Centers will be Closed Oct. 19 for a System Upgrade - San Diego County News Center",
+          "County Public Health Centers will be Closed Oct. 19 for a System Upgrade - San Diego County News Center",
+          "Match Ready, Mission Ready: Public Health Emergency Preparedness Lessons from the 2026 FIFA World Cup - National Governors Association"
+        ]
+      },
+      {
+        "trend": "virus",
         "market_code": "KR",
         "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "score": 11,
+        "examples": [
+          "Health Officials Issue Urgent Warning About Deadly Bat Virus After More Than 40 People Bitten in 2 Weeks - People.com",
+          "Health Officials Issue Urgent Warning About Deadly Bat Virus After More Than 40 People Bitten in 2 Weeks - People.com",
+          "2 dead in North Carolina from West Nile virus as central NC seeing high transmission due to ongoing warm fall weather - ABC11 News"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "KR",
+        "category": "Mental Health",
+        "score": 10,
+        "examples": [
+          "Supporting Youth Mental Health: Free Crisis Services Available for Every Family in King County - Public Health Insider",
+          "What to know about mental health in Maryland’s intelligence community - The Baltimore Banner",
+          "Greenville County deputies mishandled mental health crisis in deadly shooting, lawsuit says - Post and Courier"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "KR",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
+        "score": 10,
+        "examples": [
+          "Supporting Youth Mental Health: Free Crisis Services Available for Every Family in King County - Public Health Insider",
+          "What to know about mental health in Maryland’s intelligence community - The Baltimore Banner",
+          "Greenville County deputies mishandled mental health crisis in deadly shooting, lawsuit says - Post and Courier"
+        ]
       },
       {
-        "trend": "medical research",
+        "trend": "healthcare",
         "market_code": "KR",
         "category": "Asia Health",
-        "score": 1,
-        "examples": []
+        "score": 10,
+        "examples": [
+          "Hospitals brace for FTC price transparency probes - Modern Healthcare",
+          "Artificial Intelligence and Healthcare’s Growing Data Economy - Baker Institute",
+          "AI Tracker: Suki lands $90M - Modern Healthcare"
+        ]
       },
       {
-        "trend": "drug approval",
+        "trend": "measles",
         "market_code": "KR",
-        "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "How Should Local Health Officers Respond to Measles Outbreaks? - Governing",
+          "How Should Local Health Officers Respond to Measles Outbreaks? - Governing",
+          "Public health officials notified of five probable measles cases in Rock County - WCLO | News"
+        ]
       },
       {
-        "trend": "diet wellness",
+        "trend": "outbreak",
         "market_code": "KR",
-        "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "CDC asks staff to volunteer to help with Ebola screenings at airports amid DRC outbreak - ABC News - Breaking News, Latest News and Videos",
+          "CDC asks staff to volunteer to help with Ebola screenings at airports amid DRC outbreak - ABC News - Breaking News, Latest News and Videos",
+          "Ebola cases top 9,000 in DR Congo outbreak - CIDRAP"
+        ]
+      },
+      {
+        "trend": "warning",
+        "market_code": "KR",
+        "category": "Asia Health",
+        "score": 9,
+        "examples": [
+          "France issues warning over thousands of substandard condoms - DW.com",
+          "Health Officials Issue Urgent Warning About Deadly Bat Virus After More Than 40 People Bitten in 2 Weeks - People.com",
+          "FDA Advisory No.2026-1500 || Public Health Warning Against the Purchase and Consumption of the Unregistered Food Product “CERES PASALUBONG N/I” - https://www.fda.gov.ph/"
+        ]
+      },
+      {
+        "trend": "health officials",
+        "market_code": "KR",
+        "category": "Asia Health",
+        "score": 8,
+        "examples": [
+          "Public health officials notified of five probable measles cases in Rock County - WCLO | News",
+          "Massachusetts Health Officials Provide Sobering Stats on Alcohol Use - 1420 WBSM",
+          "Health Officials Issue Urgent Warning About Deadly Bat Virus After More Than 40 People Bitten in 2 Weeks - People.com"
+        ]
       }
     ],
     "India": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "IN",
         "category": "Asia Health",
-        "score": 1,
-        "examples": []
+        "score": 69,
+        "examples": [
+          "PM wishes His Holiness Pope Leo XIV a speedy recovery and continued good health - PM India",
+          "Advancing One Health implementation and investment: from country action to sustainable solutions - WOAH",
+          "Leadership in Digital Health: How to Transform Hospitals Through Technology, Data, and Artificial Intelligence - Telefónica"
+        ]
+      },
+      {
+        "trend": "healthcare",
+        "market_code": "IN",
+        "category": "Asia Health",
+        "score": 20,
+        "examples": [
+          "KIMS Hospitals, BIMS Partner With Liverpool NHS Organisations For UK-India Healthcare Collaboration - ETV Bharat",
+          "KIMS Hospitals, Liverpool NHS organisations join hands for India-UK healthcare collaboration - ThePrint",
+          "KIMS Hospitals, BIMS Partner With Liverpool NHS Organisations For UK-India Healthcare Collaboration - ETV Bharat"
+        ]
+      },
+      {
+        "trend": "medical",
+        "market_code": "IN",
+        "category": "Asia Health",
+        "score": 19,
+        "examples": [
+          "Steris to Acquire Xodus Medical for $2.1 Billion - WSJ",
+          "The Unexpected Teacher: How Patient Feedback Shaped My Medical Education - Medscape",
+          "Local tea-seller chairs fake medical college in UP: Supreme Court warns UGC - Deccan Herald"
+        ]
+      },
+      {
+        "trend": "hospitals",
+        "market_code": "IN",
+        "category": "Asia Health",
+        "score": 10,
+        "examples": [
+          "Leadership in Digital Health: How to Transform Hospitals Through Technology, Data, and Artificial Intelligence - Telefónica",
+          "KIMS Hospitals, BIMS Partner With Liverpool NHS Organisations For UK-India Healthcare Collaboration - ETV Bharat",
+          "KIMS Hospitals, Liverpool NHS organisations join hands for India-UK healthcare collaboration - ThePrint"
+        ]
+      },
+      {
+        "trend": "cancer",
+        "market_code": "IN",
+        "category": "Chronic Disease",
+        "score": 10,
+        "examples": [
+          "These common infections can cause cancer. Here’s what can lower your risk. - The Washington Post",
+          "These Infections Are Linked to 12% of New Cancer Cases - Time Magazine",
+          "Personalized neoantigen-targeting cancer vaccines in ovarian cancer: a phase 1 trial - Nature"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "IN",
+        "category": "Mental Health",
+        "score": 10,
+        "examples": [
+          "Over half of Amaha clients live with mental health concerns for a year before seeking help; 56% report se - The Times of India",
+          "The One Lesson Mohandas Pai Wants Everyone To Learn About Life And Mental Health - NDTV",
+          "Are AI Girlfriends Good For Mental Health Pros and Cons - Universidad de Córdoba (UCO)"
+        ]
+      },
+      {
+        "trend": "warning",
+        "market_code": "IN",
+        "category": "Asia Health",
+        "score": 9,
+        "examples": [
+          "FDA Advisory No.2026-1500 || Public Health Warning Against the Purchase and Consumption of the Unregistered Food Product “CERES PASALUBONG N/I” - https://www.fda.gov.ph/",
+          "France issues warning over thousands of substandard condoms - DW.com",
+          "The Chronic Patients’ Alliance is calling for urgent health-care funding and warning that treatments could be interrupted - Informat.ro"
+        ]
       },
       {
         "trend": "outbreak",
         "market_code": "IN",
         "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "score": 8,
+        "examples": [
+          "Ebola Outbreak, DRC and Region, Situation Report #14 (October 13, 2026) - ReliefWeb",
+          "Namibia battles cattle disease outbreak as EU suspends several meat imports - Al Jazeera",
+          "Ebola Outbreak In Democratic Republic Of Congo Surpasses 9,000 Cases And 4,000 Deaths - NDTV"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "IN",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
+        "score": 8,
+        "examples": [
+          "Over half of Amaha clients live with mental health concerns for a year before seeking help; 56% report se - The Times of India",
+          "The One Lesson Mohandas Pai Wants Everyone To Learn About Life And Mental Health - NDTV",
+          "Are AI Girlfriends Good For Mental Health Pros and Cons - Universidad de Córdoba (UCO)"
+        ]
       },
       {
-        "trend": "medical research",
+        "trend": "public health",
         "market_code": "IN",
         "category": "Asia Health",
-        "score": 1,
-        "examples": []
+        "score": 6,
+        "examples": [
+          "WHO Partners with GFI APAC to Publish Public Health Report on Alternative Proteins - Green Queen Media",
+          "Data Centers and Public Health - American Public Health Association",
+          "Data Centers and Public Health - American Public Health Association"
+        ]
       },
       {
-        "trend": "drug approval",
+        "trend": "infection",
         "market_code": "IN",
-        "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
+        "category": "Outbreaks",
+        "score": 6,
+        "examples": [
+          "West Nile Virus Claims Two Lives In North Carolina: Why The Mosquito-Borne Infection Can Turn Severe - Health and Me",
+          "The genetic technique that finds (almost) every infection - BBC",
+          "What Happens After Measles Infection? The Hidden Risks That Can Last For Years - Health and Me"
+        ]
       },
       {
-        "trend": "diet wellness",
+        "trend": "children",
         "market_code": "IN",
-        "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "category": "Children Health",
+        "score": 6,
+        "examples": [
+          "Why do some children become seriously ill with COVID-19? The answer may lie in their genes - Gavi, the Vaccine Alliance",
+          "Privacy-preserving training could expand medical AI for children while keeping data local - Medical Xpress",
+          "GLP-1 Drugs? Surgery? WHO Issues Guidelines For Obesity In Children - Health Policy Watch"
+        ]
       }
     ],
     "Australia": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "AU",
         "category": "Global Health",
-        "score": 1,
-        "examples": []
+        "score": 58,
+        "examples": [
+          "Government fails to secure support for beleaguered private health bill - ABC News & Headlines – Australian Broadcasting Corporation",
+          "Labor’s bill to cut private health insurance rebate blocked by Greens over pensioner carve-out - The Guardian",
+          "Doorstop Interview with Minister Butler, Canberra – 14 October 2026 - Australian Government Department of Health, Disability and Ageing"
+        ]
+      },
+      {
+        "trend": "medical",
+        "market_code": "AU",
+        "category": "Global Health",
+        "score": 17,
+        "examples": [
+          "Better Medical launches mobile aged care GP service - Medical Republic",
+          "Better Medical launches mobile aged care GP service - Medical Republic",
+          "EMVision Medical Devices Limited (ASX:EMV): How Portable Brain Scanning Is Advancing in 2026 - Kalkine"
+        ]
+      },
+      {
+        "trend": "healthcare",
+        "market_code": "AU",
+        "category": "Global Health",
+        "score": 12,
+        "examples": [
+          "Hospitals brace for FTC price transparency probes - Modern Healthcare",
+          "Artificial Intelligence and Healthcare’s Growing Data Economy - Baker Institute",
+          "How healthcare and the environment can benefit from 'Green' AI - healthcare-in-europe.com"
+        ]
+      },
+      {
+        "trend": "cancer",
+        "market_code": "AU",
+        "category": "Chronic Disease",
+        "score": 12,
+        "examples": [
+          "How a common virus's hijack of cell repair processes may promote cancer - Medical Xpress",
+          "Long-term viral hepatitis control and changing patterns of liver cancer mortality in Japan - Asia Research News |",
+          "These common infections can cause cancer. Here’s what can lower your risk. - The Washington Post"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "AU",
+        "category": "Mental Health",
+        "score": 11,
+        "examples": [
+          "Disadvantaged children with intellectual disabilities face greater mental health difficulties - News-Medical",
+          "One Foot Forward: Beyond the Broncos Team Steps Up for Mental Health - Brisbane Broncos",
+          "Revealed: The $600 million needed to fix mental health that was buried - SMH.com.au"
+        ]
+      },
+      {
+        "trend": "warning",
+        "market_code": "AU",
+        "category": "Global Health",
+        "score": 10,
+        "examples": [
+          "Warning signs missed before Melbourne girl's death in ED, coroner finds - ABC News & Headlines – Australian Broadcasting Corporation",
+          "France issues warning over thousands of substandard condoms - DW.com",
+          "Health Officials Issue Urgent Warning About Deadly Bat Virus After More Than 40 People Bitten in 2 Weeks - People.com"
+        ]
       },
       {
         "trend": "outbreak",
         "market_code": "AU",
         "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "score": 10,
+        "examples": [
+          "CDC asks staff to volunteer to help with Ebola screenings at airports amid DRC outbreak - ABC News - Breaking News, Latest News and Videos",
+          "CDC asks staff to volunteer to help with Ebola screenings at airports amid DRC outbreak - ABC News - Breaking News, Latest News and Videos",
+          "Ebola Outbreak, DRC and Region, Situation Report #14 (October 13, 2026) - ReliefWeb"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "AU",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
+        "score": 9,
+        "examples": [
+          "Disadvantaged children with intellectual disabilities face greater mental health difficulties - News-Medical",
+          "One Foot Forward: Beyond the Broncos Team Steps Up for Mental Health - Brisbane Broncos",
+          "Revealed: The $600 million needed to fix mental health that was buried - SMH.com.au"
+        ]
       },
       {
-        "trend": "medical research",
+        "trend": "children",
+        "market_code": "AU",
+        "category": "Children Health",
+        "score": 7,
+        "examples": [
+          "Disadvantaged children with intellectual disabilities face greater mental health difficulties - News-Medical",
+          "Why do some children become seriously ill with COVID-19? The answer may lie in their genes - Gavi, the Vaccine Alliance",
+          "Privacy-preserving training could expand medical AI for children while keeping data local - Medical Xpress"
+        ]
+      },
+      {
+        "trend": "virus",
+        "market_code": "AU",
+        "category": "Outbreaks",
+        "score": 7,
+        "examples": [
+          "Health Officials Issue Urgent Warning About Deadly Bat Virus After More Than 40 People Bitten in 2 Weeks - People.com",
+          "Health Officials Issue Urgent Warning About Deadly Bat Virus After More Than 40 People Bitten in 2 Weeks - People.com",
+          "Bat bites surge across NSW as Hunter residents warned of deadly virus - Newcastle Weekly"
+        ]
+      },
+      {
+        "trend": "health care",
         "market_code": "AU",
         "category": "Global Health",
-        "score": 1,
-        "examples": []
+        "score": 6,
+        "examples": [
+          "Work starts on six storeys of health care - South West Voice",
+          "Recognising Those Behind Mental Health Care - Mackay & Whitsunday Life",
+          "Axia Women's Health Partners with FamilyWell to Bring Specialized Mental Health Care to Women Across Life Stages - PR Newswire"
+        ]
       },
       {
-        "trend": "drug approval",
+        "trend": "patients",
         "market_code": "AU",
-        "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
-      },
-      {
-        "trend": "diet wellness",
-        "market_code": "AU",
-        "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "category": "Global Health",
+        "score": 6,
+        "examples": [
+          "The Chronic Patients’ Alliance is calling for urgent health-care funding and warning that treatments could be interrupted - Informat.ro",
+          "When health technology works, patients and physicians get time back - American Medical Association | AMA",
+          "Experimental vaccine shows promise against deadly brain cancer in some patients - NBC News"
+        ]
       }
     ],
     "Canada": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "CA",
         "category": "Global Health",
-        "score": 1,
-        "examples": []
+        "score": 70,
+        "examples": [
+          "Schulich students bring diverse stories, health education to young readers - Western University",
+          "Niagara Health introduces new online booking for breast screening appointments - Niagara Health",
+          "Niagara Health introduces new online booking for breast screening appointments - Niagara Health"
+        ]
       },
       {
-        "trend": "outbreak",
+        "trend": "medical",
         "market_code": "CA",
-        "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "category": "Global Health",
+        "score": 18,
+        "examples": [
+          "Changes to prescribing safer supply drugs approved by Ontario medical regulator - Global News",
+          "Saint Mary's University - Saint Mary's University creates new Medical School Pathway with ACSOM - Education News Canada",
+          "UBC faculty and learners recognized by Medical Alumni Association for 2026 - UBC Faculty of Medicine"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "CA",
+        "category": "Mental Health",
+        "score": 11,
+        "examples": [
+          "Are AI Girlfriend Apps Good For Mental Health Explained - Universidad de Córdoba (UCO)",
+          "Are AI Companions Good For Mental Health Explained - Universidad de Córdoba (UCO)",
+          "Guelph psychotherapist's petition seeks OHIP coverage for mental health - CollingwoodToday.ca"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "CA",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
+        "score": 11,
+        "examples": [
+          "Are AI Girlfriend Apps Good For Mental Health Explained - Universidad de Córdoba (UCO)",
+          "Are AI Companions Good For Mental Health Explained - Universidad de Córdoba (UCO)",
+          "Guelph psychotherapist's petition seeks OHIP coverage for mental health - CollingwoodToday.ca"
+        ]
       },
       {
-        "trend": "medical research",
+        "trend": "healthcare",
         "market_code": "CA",
         "category": "Global Health",
-        "score": 1,
-        "examples": []
+        "score": 11,
+        "examples": [
+          "Hospitals brace for FTC price transparency probes - Modern Healthcare",
+          "Artificial Intelligence and Healthcare’s Growing Data Economy - Baker Institute",
+          "How healthcare and the environment can benefit from 'Green' AI - healthcare-in-europe.com"
+        ]
       },
       {
-        "trend": "drug approval",
+        "trend": "outbreak",
         "market_code": "CA",
-        "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
+        "category": "Outbreaks",
+        "score": 10,
+        "examples": [
+          "CDC asks staff to volunteer to help with Ebola screenings at airports amid DRC outbreak - ABC News - Breaking News, Latest News and Videos",
+          "CDC asks staff to volunteer to help with Ebola screenings at airports amid DRC outbreak - ABC News - Breaking News, Latest News and Videos",
+          "Ebola Outbreak, DRC and Region, Situation Report #14 (October 13, 2026) - ReliefWeb"
+        ]
       },
       {
-        "trend": "diet wellness",
+        "trend": "cancer",
         "market_code": "CA",
-        "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "category": "Chronic Disease",
+        "score": 10,
+        "examples": [
+          "How a common virus's hijack of cell repair processes may promote cancer - Medical Xpress",
+          "These common infections can cause cancer. Here’s what can lower your risk. - The Washington Post",
+          "These Infections Are Linked to 12% of New Cancer Cases - Time Magazine"
+        ]
+      },
+      {
+        "trend": "health care",
+        "market_code": "CA",
+        "category": "Global Health",
+        "score": 9,
+        "examples": [
+          "Eby to improve access to health care for women, build on progress - BC NDP",
+          "Health care ranked as the top priority for British Columbians ahead of provincial election - Doctors of BC",
+          "10 Health Care Stocks With Whale Alerts In Today’s Session - Benzinga"
+        ]
+      },
+      {
+        "trend": "public health",
+        "market_code": "CA",
+        "category": "Global Health",
+        "score": 6,
+        "examples": [
+          "CK Public Health urges residents to plan for fall vaccinations - The Sydenham Current",
+          "Plan For Fall Vaccinations: CK Public Health - CKXS FM",
+          "Markham nail salon charged for public health violations - NewmarketToday.ca"
+        ]
+      },
+      {
+        "trend": "infection",
+        "market_code": "CA",
+        "category": "Outbreaks",
+        "score": 6,
+        "examples": [
+          "Sask. health officials urge public to get flu, COVID-19 shots while infection rate still low - CBC",
+          "The genetic technique that finds (almost) every infection - BBC",
+          "Family visiting Chicago seeks help after mother loses hands and feet to severe infection - NBC 5 Chicago"
+        ]
+      },
+      {
+        "trend": "warning",
+        "market_code": "CA",
+        "category": "Global Health",
+        "score": 6,
+        "examples": [
+          "France issues warning over thousands of substandard condoms - DW.com",
+          "FDA Advisory No.2026-1500 || Public Health Warning Against the Purchase and Consumption of the Unregistered Food Product “CERES PASALUBONG N/I” - https://www.fda.gov.ph/",
+          "Health Officials Issue Urgent Warning About Deadly Bat Virus After More Than 40 People Bitten in 2 Weeks - People.com"
+        ]
+      },
+      {
+        "trend": "health officials",
+        "market_code": "CA",
+        "category": "Global Health",
+        "score": 5,
+        "examples": [
+          "Sask. health officials urge public to get flu, COVID-19 shots while infection rate still low - CBC",
+          "Health Officials Issue Urgent Warning About Deadly Bat Virus After More Than 40 People Bitten in 2 Weeks - People.com",
+          "Massachusetts Health Officials Provide Sobering Stats on Alcohol Use - 1420 WBSM"
+        ]
       }
     ],
     "United Arab Emirates": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "AE",
         "category": "Arab Health",
-        "score": 1,
-        "examples": []
+        "score": 76,
+        "examples": [
+          "The barriers to realizing AI's promise in health care - Axios",
+          "Galderma to buy US firm ZO Skin Health for $1.5 billion - Reuters",
+          "Galderma to Buy ZO Skin Health for $1.5 Billion - WSJ"
+        ]
       },
       {
-        "trend": "outbreak",
+        "trend": "medical",
+        "market_code": "AE",
+        "category": "Arab Health",
+        "score": 18,
+        "examples": [
+          "Steris to Acquire Xodus Medical for $2.1 Billion - WSJ",
+          "Residents raise concerns over USC medical school power line plan - WIS News 10",
+          "Honolulu EMS blesses New Kaimukī Station, expanding emergency medical coverage in East Honolulu - City and County of Honolulu (.gov)"
+        ]
+      },
+      {
+        "trend": "cancer",
+        "market_code": "AE",
+        "category": "Chronic Disease",
+        "score": 13,
+        "examples": [
+          "How a common virus's hijack of cell repair processes may promote cancer - Medical Xpress",
+          "These common infections can cause cancer. Here’s what can lower your risk. - The Washington Post",
+          "These Infections Are Linked to 12% of New Cancer Cases - Time Magazine"
+        ]
+      },
+      {
+        "trend": "public health",
+        "market_code": "AE",
+        "category": "Arab Health",
+        "score": 12,
+        "examples": [
+          "County Public Health Centers will be Closed Oct. 19 for a System Upgrade - San Diego County News Center",
+          "County Public Health Centers will be Closed Oct. 19 for a System Upgrade - San Diego County News Center",
+          "Match Ready, Mission Ready: Public Health Emergency Preparedness Lessons from the 2026 FIFA World Cup - National Governors Association"
+        ]
+      },
+      {
+        "trend": "virus",
         "market_code": "AE",
         "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "score": 11,
+        "examples": [
+          "Health Officials Issue Urgent Warning About Deadly Bat Virus After More Than 40 People Bitten in 2 Weeks - People.com",
+          "Health Officials Issue Urgent Warning About Deadly Bat Virus After More Than 40 People Bitten in 2 Weeks - People.com",
+          "2 dead in North Carolina from West Nile virus as central NC seeing high transmission due to ongoing warm fall weather - ABC11 News"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "AE",
+        "category": "Mental Health",
+        "score": 10,
+        "examples": [
+          "Supporting Youth Mental Health: Free Crisis Services Available for Every Family in King County - Public Health Insider",
+          "What to know about mental health in Maryland’s intelligence community - The Baltimore Banner",
+          "Greenville County deputies mishandled mental health crisis in deadly shooting, lawsuit says - Post and Courier"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "AE",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
+        "score": 10,
+        "examples": [
+          "Supporting Youth Mental Health: Free Crisis Services Available for Every Family in King County - Public Health Insider",
+          "What to know about mental health in Maryland’s intelligence community - The Baltimore Banner",
+          "Greenville County deputies mishandled mental health crisis in deadly shooting, lawsuit says - Post and Courier"
+        ]
       },
       {
-        "trend": "medical research",
+        "trend": "healthcare",
         "market_code": "AE",
         "category": "Arab Health",
-        "score": 1,
-        "examples": []
+        "score": 10,
+        "examples": [
+          "Hospitals brace for FTC price transparency probes - Modern Healthcare",
+          "Artificial Intelligence and Healthcare’s Growing Data Economy - Baker Institute",
+          "AI Tracker: Suki lands $90M - Modern Healthcare"
+        ]
       },
       {
-        "trend": "drug approval",
+        "trend": "measles",
         "market_code": "AE",
-        "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "How Should Local Health Officers Respond to Measles Outbreaks? - Governing",
+          "How Should Local Health Officers Respond to Measles Outbreaks? - Governing",
+          "Public health officials notified of five probable measles cases in Rock County - WCLO | News"
+        ]
       },
       {
-        "trend": "diet wellness",
+        "trend": "outbreak",
         "market_code": "AE",
-        "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "CDC asks staff to volunteer to help with Ebola screenings at airports amid DRC outbreak - ABC News - Breaking News, Latest News and Videos",
+          "CDC asks staff to volunteer to help with Ebola screenings at airports amid DRC outbreak - ABC News - Breaking News, Latest News and Videos",
+          "Ebola cases top 9,000 in DR Congo outbreak - CIDRAP"
+        ]
+      },
+      {
+        "trend": "warning",
+        "market_code": "AE",
+        "category": "Arab Health",
+        "score": 9,
+        "examples": [
+          "France issues warning over thousands of substandard condoms - DW.com",
+          "Health Officials Issue Urgent Warning About Deadly Bat Virus After More Than 40 People Bitten in 2 Weeks - People.com",
+          "FDA Advisory No.2026-1500 || Public Health Warning Against the Purchase and Consumption of the Unregistered Food Product “CERES PASALUBONG N/I” - https://www.fda.gov.ph/"
+        ]
+      },
+      {
+        "trend": "health officials",
+        "market_code": "AE",
+        "category": "Arab Health",
+        "score": 8,
+        "examples": [
+          "Public health officials notified of five probable measles cases in Rock County - WCLO | News",
+          "Massachusetts Health Officials Provide Sobering Stats on Alcohol Use - 1420 WBSM",
+          "Health Officials Issue Urgent Warning About Deadly Bat Virus After More Than 40 People Bitten in 2 Weeks - People.com"
+        ]
       }
     ],
     "Saudi Arabia": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "SA",
         "category": "Arab Health",
-        "score": 1,
-        "examples": []
+        "score": 76,
+        "examples": [
+          "The barriers to realizing AI's promise in health care - Axios",
+          "Galderma to buy US firm ZO Skin Health for $1.5 billion - Reuters",
+          "Galderma to Buy ZO Skin Health for $1.5 Billion - WSJ"
+        ]
       },
       {
-        "trend": "outbreak",
+        "trend": "medical",
+        "market_code": "SA",
+        "category": "Arab Health",
+        "score": 18,
+        "examples": [
+          "Steris to Acquire Xodus Medical for $2.1 Billion - WSJ",
+          "Residents raise concerns over USC medical school power line plan - WIS News 10",
+          "Honolulu EMS blesses New Kaimukī Station, expanding emergency medical coverage in East Honolulu - City and County of Honolulu (.gov)"
+        ]
+      },
+      {
+        "trend": "cancer",
+        "market_code": "SA",
+        "category": "Chronic Disease",
+        "score": 13,
+        "examples": [
+          "How a common virus's hijack of cell repair processes may promote cancer - Medical Xpress",
+          "These common infections can cause cancer. Here’s what can lower your risk. - The Washington Post",
+          "These Infections Are Linked to 12% of New Cancer Cases - Time Magazine"
+        ]
+      },
+      {
+        "trend": "public health",
+        "market_code": "SA",
+        "category": "Arab Health",
+        "score": 12,
+        "examples": [
+          "County Public Health Centers will be Closed Oct. 19 for a System Upgrade - San Diego County News Center",
+          "County Public Health Centers will be Closed Oct. 19 for a System Upgrade - San Diego County News Center",
+          "Match Ready, Mission Ready: Public Health Emergency Preparedness Lessons from the 2026 FIFA World Cup - National Governors Association"
+        ]
+      },
+      {
+        "trend": "virus",
         "market_code": "SA",
         "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "score": 11,
+        "examples": [
+          "Health Officials Issue Urgent Warning About Deadly Bat Virus After More Than 40 People Bitten in 2 Weeks - People.com",
+          "Health Officials Issue Urgent Warning About Deadly Bat Virus After More Than 40 People Bitten in 2 Weeks - People.com",
+          "2 dead in North Carolina from West Nile virus as central NC seeing high transmission due to ongoing warm fall weather - ABC11 News"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "SA",
+        "category": "Mental Health",
+        "score": 10,
+        "examples": [
+          "Supporting Youth Mental Health: Free Crisis Services Available for Every Family in King County - Public Health Insider",
+          "What to know about mental health in Maryland’s intelligence community - The Baltimore Banner",
+          "Greenville County deputies mishandled mental health crisis in deadly shooting, lawsuit says - Post and Courier"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "SA",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
+        "score": 10,
+        "examples": [
+          "Supporting Youth Mental Health: Free Crisis Services Available for Every Family in King County - Public Health Insider",
+          "What to know about mental health in Maryland’s intelligence community - The Baltimore Banner",
+          "Greenville County deputies mishandled mental health crisis in deadly shooting, lawsuit says - Post and Courier"
+        ]
       },
       {
-        "trend": "medical research",
+        "trend": "healthcare",
         "market_code": "SA",
         "category": "Arab Health",
-        "score": 1,
-        "examples": []
+        "score": 10,
+        "examples": [
+          "Hospitals brace for FTC price transparency probes - Modern Healthcare",
+          "Artificial Intelligence and Healthcare’s Growing Data Economy - Baker Institute",
+          "AI Tracker: Suki lands $90M - Modern Healthcare"
+        ]
       },
       {
-        "trend": "drug approval",
+        "trend": "measles",
         "market_code": "SA",
-        "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "How Should Local Health Officers Respond to Measles Outbreaks? - Governing",
+          "How Should Local Health Officers Respond to Measles Outbreaks? - Governing",
+          "Public health officials notified of five probable measles cases in Rock County - WCLO | News"
+        ]
       },
       {
-        "trend": "diet wellness",
+        "trend": "outbreak",
         "market_code": "SA",
-        "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "CDC asks staff to volunteer to help with Ebola screenings at airports amid DRC outbreak - ABC News - Breaking News, Latest News and Videos",
+          "CDC asks staff to volunteer to help with Ebola screenings at airports amid DRC outbreak - ABC News - Breaking News, Latest News and Videos",
+          "Ebola cases top 9,000 in DR Congo outbreak - CIDRAP"
+        ]
+      },
+      {
+        "trend": "warning",
+        "market_code": "SA",
+        "category": "Arab Health",
+        "score": 9,
+        "examples": [
+          "France issues warning over thousands of substandard condoms - DW.com",
+          "Health Officials Issue Urgent Warning About Deadly Bat Virus After More Than 40 People Bitten in 2 Weeks - People.com",
+          "FDA Advisory No.2026-1500 || Public Health Warning Against the Purchase and Consumption of the Unregistered Food Product “CERES PASALUBONG N/I” - https://www.fda.gov.ph/"
+        ]
+      },
+      {
+        "trend": "health officials",
+        "market_code": "SA",
+        "category": "Arab Health",
+        "score": 8,
+        "examples": [
+          "Public health officials notified of five probable measles cases in Rock County - WCLO | News",
+          "Massachusetts Health Officials Provide Sobering Stats on Alcohol Use - 1420 WBSM",
+          "Health Officials Issue Urgent Warning About Deadly Bat Virus After More Than 40 People Bitten in 2 Weeks - People.com"
+        ]
       }
     ],
     "Qatar": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "QA",
         "category": "Arab Health",
-        "score": 1,
-        "examples": []
+        "score": 76,
+        "examples": [
+          "The barriers to realizing AI's promise in health care - Axios",
+          "Galderma to buy US firm ZO Skin Health for $1.5 billion - Reuters",
+          "Galderma to Buy ZO Skin Health for $1.5 Billion - WSJ"
+        ]
       },
       {
-        "trend": "outbreak",
+        "trend": "medical",
+        "market_code": "QA",
+        "category": "Arab Health",
+        "score": 18,
+        "examples": [
+          "Steris to Acquire Xodus Medical for $2.1 Billion - WSJ",
+          "Residents raise concerns over USC medical school power line plan - WIS News 10",
+          "Honolulu EMS blesses New Kaimukī Station, expanding emergency medical coverage in East Honolulu - City and County of Honolulu (.gov)"
+        ]
+      },
+      {
+        "trend": "cancer",
+        "market_code": "QA",
+        "category": "Chronic Disease",
+        "score": 13,
+        "examples": [
+          "How a common virus's hijack of cell repair processes may promote cancer - Medical Xpress",
+          "These common infections can cause cancer. Here’s what can lower your risk. - The Washington Post",
+          "These Infections Are Linked to 12% of New Cancer Cases - Time Magazine"
+        ]
+      },
+      {
+        "trend": "public health",
+        "market_code": "QA",
+        "category": "Arab Health",
+        "score": 12,
+        "examples": [
+          "County Public Health Centers will be Closed Oct. 19 for a System Upgrade - San Diego County News Center",
+          "County Public Health Centers will be Closed Oct. 19 for a System Upgrade - San Diego County News Center",
+          "Match Ready, Mission Ready: Public Health Emergency Preparedness Lessons from the 2026 FIFA World Cup - National Governors Association"
+        ]
+      },
+      {
+        "trend": "virus",
         "market_code": "QA",
         "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "score": 11,
+        "examples": [
+          "Health Officials Issue Urgent Warning About Deadly Bat Virus After More Than 40 People Bitten in 2 Weeks - People.com",
+          "Health Officials Issue Urgent Warning About Deadly Bat Virus After More Than 40 People Bitten in 2 Weeks - People.com",
+          "2 dead in North Carolina from West Nile virus as central NC seeing high transmission due to ongoing warm fall weather - ABC11 News"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "QA",
+        "category": "Mental Health",
+        "score": 10,
+        "examples": [
+          "Supporting Youth Mental Health: Free Crisis Services Available for Every Family in King County - Public Health Insider",
+          "What to know about mental health in Maryland’s intelligence community - The Baltimore Banner",
+          "Greenville County deputies mishandled mental health crisis in deadly shooting, lawsuit says - Post and Courier"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "QA",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
+        "score": 10,
+        "examples": [
+          "Supporting Youth Mental Health: Free Crisis Services Available for Every Family in King County - Public Health Insider",
+          "What to know about mental health in Maryland’s intelligence community - The Baltimore Banner",
+          "Greenville County deputies mishandled mental health crisis in deadly shooting, lawsuit says - Post and Courier"
+        ]
       },
       {
-        "trend": "medical research",
+        "trend": "healthcare",
         "market_code": "QA",
         "category": "Arab Health",
-        "score": 1,
-        "examples": []
+        "score": 10,
+        "examples": [
+          "Hospitals brace for FTC price transparency probes - Modern Healthcare",
+          "Artificial Intelligence and Healthcare’s Growing Data Economy - Baker Institute",
+          "AI Tracker: Suki lands $90M - Modern Healthcare"
+        ]
       },
       {
-        "trend": "drug approval",
+        "trend": "measles",
         "market_code": "QA",
-        "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "How Should Local Health Officers Respond to Measles Outbreaks? - Governing",
+          "How Should Local Health Officers Respond to Measles Outbreaks? - Governing",
+          "Public health officials notified of five probable measles cases in Rock County - WCLO | News"
+        ]
       },
       {
-        "trend": "diet wellness",
+        "trend": "outbreak",
         "market_code": "QA",
-        "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "CDC asks staff to volunteer to help with Ebola screenings at airports amid DRC outbreak - ABC News - Breaking News, Latest News and Videos",
+          "CDC asks staff to volunteer to help with Ebola screenings at airports amid DRC outbreak - ABC News - Breaking News, Latest News and Videos",
+          "Ebola cases top 9,000 in DR Congo outbreak - CIDRAP"
+        ]
+      },
+      {
+        "trend": "warning",
+        "market_code": "QA",
+        "category": "Arab Health",
+        "score": 9,
+        "examples": [
+          "France issues warning over thousands of substandard condoms - DW.com",
+          "Health Officials Issue Urgent Warning About Deadly Bat Virus After More Than 40 People Bitten in 2 Weeks - People.com",
+          "FDA Advisory No.2026-1500 || Public Health Warning Against the Purchase and Consumption of the Unregistered Food Product “CERES PASALUBONG N/I” - https://www.fda.gov.ph/"
+        ]
+      },
+      {
+        "trend": "health officials",
+        "market_code": "QA",
+        "category": "Arab Health",
+        "score": 8,
+        "examples": [
+          "Public health officials notified of five probable measles cases in Rock County - WCLO | News",
+          "Massachusetts Health Officials Provide Sobering Stats on Alcohol Use - 1420 WBSM",
+          "Health Officials Issue Urgent Warning About Deadly Bat Virus After More Than 40 People Bitten in 2 Weeks - People.com"
+        ]
       }
     ],
     "Jordan": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "JO",
         "category": "Arab Health",
-        "score": 1,
-        "examples": []
+        "score": 76,
+        "examples": [
+          "The barriers to realizing AI's promise in health care - Axios",
+          "Galderma to buy US firm ZO Skin Health for $1.5 billion - Reuters",
+          "Galderma to Buy ZO Skin Health for $1.5 Billion - WSJ"
+        ]
       },
       {
-        "trend": "outbreak",
+        "trend": "medical",
+        "market_code": "JO",
+        "category": "Arab Health",
+        "score": 18,
+        "examples": [
+          "Steris to Acquire Xodus Medical for $2.1 Billion - WSJ",
+          "Residents raise concerns over USC medical school power line plan - WIS News 10",
+          "Honolulu EMS blesses New Kaimukī Station, expanding emergency medical coverage in East Honolulu - City and County of Honolulu (.gov)"
+        ]
+      },
+      {
+        "trend": "cancer",
+        "market_code": "JO",
+        "category": "Chronic Disease",
+        "score": 13,
+        "examples": [
+          "How a common virus's hijack of cell repair processes may promote cancer - Medical Xpress",
+          "These common infections can cause cancer. Here’s what can lower your risk. - The Washington Post",
+          "These Infections Are Linked to 12% of New Cancer Cases - Time Magazine"
+        ]
+      },
+      {
+        "trend": "public health",
+        "market_code": "JO",
+        "category": "Arab Health",
+        "score": 12,
+        "examples": [
+          "County Public Health Centers will be Closed Oct. 19 for a System Upgrade - San Diego County News Center",
+          "County Public Health Centers will be Closed Oct. 19 for a System Upgrade - San Diego County News Center",
+          "Match Ready, Mission Ready: Public Health Emergency Preparedness Lessons from the 2026 FIFA World Cup - National Governors Association"
+        ]
+      },
+      {
+        "trend": "virus",
         "market_code": "JO",
         "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "score": 11,
+        "examples": [
+          "Health Officials Issue Urgent Warning About Deadly Bat Virus After More Than 40 People Bitten in 2 Weeks - People.com",
+          "Health Officials Issue Urgent Warning About Deadly Bat Virus After More Than 40 People Bitten in 2 Weeks - People.com",
+          "2 dead in North Carolina from West Nile virus as central NC seeing high transmission due to ongoing warm fall weather - ABC11 News"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "JO",
+        "category": "Mental Health",
+        "score": 10,
+        "examples": [
+          "Supporting Youth Mental Health: Free Crisis Services Available for Every Family in King County - Public Health Insider",
+          "What to know about mental health in Maryland’s intelligence community - The Baltimore Banner",
+          "Greenville County deputies mishandled mental health crisis in deadly shooting, lawsuit says - Post and Courier"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "JO",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
+        "score": 10,
+        "examples": [
+          "Supporting Youth Mental Health: Free Crisis Services Available for Every Family in King County - Public Health Insider",
+          "What to know about mental health in Maryland’s intelligence community - The Baltimore Banner",
+          "Greenville County deputies mishandled mental health crisis in deadly shooting, lawsuit says - Post and Courier"
+        ]
       },
       {
-        "trend": "medical research",
+        "trend": "healthcare",
         "market_code": "JO",
         "category": "Arab Health",
-        "score": 1,
-        "examples": []
+        "score": 10,
+        "examples": [
+          "Hospitals brace for FTC price transparency probes - Modern Healthcare",
+          "Artificial Intelligence and Healthcare’s Growing Data Economy - Baker Institute",
+          "AI Tracker: Suki lands $90M - Modern Healthcare"
+        ]
       },
       {
-        "trend": "drug approval",
+        "trend": "measles",
         "market_code": "JO",
-        "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "How Should Local Health Officers Respond to Measles Outbreaks? - Governing",
+          "How Should Local Health Officers Respond to Measles Outbreaks? - Governing",
+          "Public health officials notified of five probable measles cases in Rock County - WCLO | News"
+        ]
       },
       {
-        "trend": "diet wellness",
+        "trend": "outbreak",
         "market_code": "JO",
-        "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "CDC asks staff to volunteer to help with Ebola screenings at airports amid DRC outbreak - ABC News - Breaking News, Latest News and Videos",
+          "CDC asks staff to volunteer to help with Ebola screenings at airports amid DRC outbreak - ABC News - Breaking News, Latest News and Videos",
+          "Ebola cases top 9,000 in DR Congo outbreak - CIDRAP"
+        ]
+      },
+      {
+        "trend": "warning",
+        "market_code": "JO",
+        "category": "Arab Health",
+        "score": 9,
+        "examples": [
+          "France issues warning over thousands of substandard condoms - DW.com",
+          "Health Officials Issue Urgent Warning About Deadly Bat Virus After More Than 40 People Bitten in 2 Weeks - People.com",
+          "FDA Advisory No.2026-1500 || Public Health Warning Against the Purchase and Consumption of the Unregistered Food Product “CERES PASALUBONG N/I” - https://www.fda.gov.ph/"
+        ]
+      },
+      {
+        "trend": "health officials",
+        "market_code": "JO",
+        "category": "Arab Health",
+        "score": 8,
+        "examples": [
+          "Public health officials notified of five probable measles cases in Rock County - WCLO | News",
+          "Massachusetts Health Officials Provide Sobering Stats on Alcohol Use - 1420 WBSM",
+          "Health Officials Issue Urgent Warning About Deadly Bat Virus After More Than 40 People Bitten in 2 Weeks - People.com"
+        ]
       }
     ],
     "Lebanon": [
       {
-        "trend": "health alert",
+        "trend": "health",
         "market_code": "LB",
         "category": "Arab Health",
-        "score": 1,
-        "examples": []
+        "score": 76,
+        "examples": [
+          "The barriers to realizing AI's promise in health care - Axios",
+          "Galderma to buy US firm ZO Skin Health for $1.5 billion - Reuters",
+          "Galderma to Buy ZO Skin Health for $1.5 Billion - WSJ"
+        ]
       },
       {
-        "trend": "outbreak",
+        "trend": "medical",
+        "market_code": "LB",
+        "category": "Arab Health",
+        "score": 18,
+        "examples": [
+          "Steris to Acquire Xodus Medical for $2.1 Billion - WSJ",
+          "Residents raise concerns over USC medical school power line plan - WIS News 10",
+          "Honolulu EMS blesses New Kaimukī Station, expanding emergency medical coverage in East Honolulu - City and County of Honolulu (.gov)"
+        ]
+      },
+      {
+        "trend": "cancer",
+        "market_code": "LB",
+        "category": "Chronic Disease",
+        "score": 13,
+        "examples": [
+          "How a common virus's hijack of cell repair processes may promote cancer - Medical Xpress",
+          "These common infections can cause cancer. Here’s what can lower your risk. - The Washington Post",
+          "These Infections Are Linked to 12% of New Cancer Cases - Time Magazine"
+        ]
+      },
+      {
+        "trend": "public health",
+        "market_code": "LB",
+        "category": "Arab Health",
+        "score": 12,
+        "examples": [
+          "County Public Health Centers will be Closed Oct. 19 for a System Upgrade - San Diego County News Center",
+          "County Public Health Centers will be Closed Oct. 19 for a System Upgrade - San Diego County News Center",
+          "Match Ready, Mission Ready: Public Health Emergency Preparedness Lessons from the 2026 FIFA World Cup - National Governors Association"
+        ]
+      },
+      {
+        "trend": "virus",
         "market_code": "LB",
         "category": "Outbreaks",
-        "score": 1,
-        "examples": []
+        "score": 11,
+        "examples": [
+          "Health Officials Issue Urgent Warning About Deadly Bat Virus After More Than 40 People Bitten in 2 Weeks - People.com",
+          "Health Officials Issue Urgent Warning About Deadly Bat Virus After More Than 40 People Bitten in 2 Weeks - People.com",
+          "2 dead in North Carolina from West Nile virus as central NC seeing high transmission due to ongoing warm fall weather - ABC11 News"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "LB",
+        "category": "Mental Health",
+        "score": 10,
+        "examples": [
+          "Supporting Youth Mental Health: Free Crisis Services Available for Every Family in King County - Public Health Insider",
+          "What to know about mental health in Maryland’s intelligence community - The Baltimore Banner",
+          "Greenville County deputies mishandled mental health crisis in deadly shooting, lawsuit says - Post and Courier"
+        ]
       },
       {
         "trend": "mental health",
         "market_code": "LB",
         "category": "Mental Health",
-        "score": 1,
-        "examples": []
+        "score": 10,
+        "examples": [
+          "Supporting Youth Mental Health: Free Crisis Services Available for Every Family in King County - Public Health Insider",
+          "What to know about mental health in Maryland’s intelligence community - The Baltimore Banner",
+          "Greenville County deputies mishandled mental health crisis in deadly shooting, lawsuit says - Post and Courier"
+        ]
       },
       {
-        "trend": "medical research",
+        "trend": "healthcare",
         "market_code": "LB",
         "category": "Arab Health",
-        "score": 1,
-        "examples": []
+        "score": 10,
+        "examples": [
+          "Hospitals brace for FTC price transparency probes - Modern Healthcare",
+          "Artificial Intelligence and Healthcare’s Growing Data Economy - Baker Institute",
+          "AI Tracker: Suki lands $90M - Modern Healthcare"
+        ]
       },
       {
-        "trend": "drug approval",
+        "trend": "measles",
         "market_code": "LB",
-        "category": "Drug & Treatment News",
-        "score": 1,
-        "examples": []
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "How Should Local Health Officers Respond to Measles Outbreaks? - Governing",
+          "How Should Local Health Officers Respond to Measles Outbreaks? - Governing",
+          "Public health officials notified of five probable measles cases in Rock County - WCLO | News"
+        ]
       },
       {
-        "trend": "diet wellness",
+        "trend": "outbreak",
         "market_code": "LB",
-        "category": "Diet & Wellness",
-        "score": 1,
-        "examples": []
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "CDC asks staff to volunteer to help with Ebola screenings at airports amid DRC outbreak - ABC News - Breaking News, Latest News and Videos",
+          "CDC asks staff to volunteer to help with Ebola screenings at airports amid DRC outbreak - ABC News - Breaking News, Latest News and Videos",
+          "Ebola cases top 9,000 in DR Congo outbreak - CIDRAP"
+        ]
+      },
+      {
+        "trend": "warning",
+        "market_code": "LB",
+        "category": "Arab Health",
+        "score": 9,
+        "examples": [
+          "France issues warning over thousands of substandard condoms - DW.com",
+          "Health Officials Issue Urgent Warning About Deadly Bat Virus After More Than 40 People Bitten in 2 Weeks - People.com",
+          "FDA Advisory No.2026-1500 || Public Health Warning Against the Purchase and Consumption of the Unregistered Food Product “CERES PASALUBONG N/I” - https://www.fda.gov.ph/"
+        ]
+      },
+      {
+        "trend": "health officials",
+        "market_code": "LB",
+        "category": "Arab Health",
+        "score": 8,
+        "examples": [
+          "Public health officials notified of five probable measles cases in Rock County - WCLO | News",
+          "Massachusetts Health Officials Provide Sobering Stats on Alcohol Use - 1420 WBSM",
+          "Health Officials Issue Urgent Warning About Deadly Bat Virus After More Than 40 People Bitten in 2 Weeks - People.com"
+        ]
       }
     ]
   }
