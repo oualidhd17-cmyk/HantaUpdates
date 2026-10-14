@@ -1,2819 +1,929 @@
 {
-  "updated_at": "2026-10-13T22:01:04.803988+00:00",
-  "total_trends": 252,
+  "updated_at": "2026-10-14T03:02:58.749084+00:00",
+  "total_trends": 126,
   "markets": {
     "United States": [
       {
-        "trend": "health",
+        "trend": "health alert",
         "market_code": "US",
         "category": "US Health",
-        "score": 93,
-        "examples": [
-          "Dr. Chisum-Price Appointed to Health Tribal Advisory Committee - Choctaw Nation of Oklahoma",
-          "NYC Health + Hospitals Advances to Silver Recognition in the American Medical Association's Joy in Medicine Health System Recognition Program - NYC Health + Hospitals",
-          "NYC Health + Hospitals Advances to Silver Recognition in the American Medical Association's Joy in Medicine Health System Recognition Program - NYC Health + Hospitals"
-        ]
-      },
-      {
-        "trend": "medical",
-        "market_code": "US",
-        "category": "US Health",
-        "score": 19,
-        "examples": [
-          "NYC Health + Hospitals Advances to Silver Recognition in the American Medical Association's Joy in Medicine Health System Recognition Program - NYC Health + Hospitals",
-          "J&J posts weak medical device sales, shares fall - Reuters",
-          "This grad helps runs the Amazon of the medical device world - Northeastern Global News"
-        ]
-      },
-      {
-        "trend": "cancer",
-        "market_code": "US",
-        "category": "Chronic Disease",
-        "score": 11,
-        "examples": [
-          "Medical College of Wisconsin Dedicates Michels Center for Cancer Discovery Following Landmark Gift - PR Newswire",
-          "These Infections Are Linked to 12% of New Cancer Cases - Time Magazine",
-          "HSV and cancer: What patients should know - Fred Hutchinson Cancer Center"
-        ]
-      },
-      {
-        "trend": "virus",
-        "market_code": "US",
-        "category": "Outbreaks",
-        "score": 11,
-        "examples": [
-          "Health Officials Issue Urgent Warning About Deadly Bat Virus After More Than 40 People Bitten in 2 Weeks - People.com",
-          "Health Officials Issue Urgent Warning About Deadly Bat Virus After More Than 40 People Bitten in 2 Weeks - People.com",
-          "Two North Carolinians dead from West Nile Virus - WRAL"
-        ]
-      },
-      {
-        "trend": "mental",
-        "market_code": "US",
-        "category": "Mental Health",
-        "score": 11,
-        "examples": [
-          "Lawyers report stress, drinking and gambling in new attorney mental health study - Reuters",
-          "Stigma in Parents of Children with Mental Health Problems - WCM Newsroom",
-          "Lindsay Clancy trial shines spotlight on maternal mental health - ABC7 Bay Area"
-        ]
-      },
-      {
-        "trend": "mental health",
-        "market_code": "US",
-        "category": "Mental Health",
-        "score": 11,
-        "examples": [
-          "Lawyers report stress, drinking and gambling in new attorney mental health study - Reuters",
-          "Stigma in Parents of Children with Mental Health Problems - WCM Newsroom",
-          "Lindsay Clancy trial shines spotlight on maternal mental health - ABC7 Bay Area"
-        ]
-      },
-      {
-        "trend": "public health",
-        "market_code": "US",
-        "category": "US Health",
-        "score": 10,
-        "examples": [
-          "College of Medicine welcomes Fulbright Scholar in public health sciences - The Pennsylvania State University",
-          "Data Centers and Public Health - American Public Health Association",
-          "Data Centers and Public Health - American Public Health Association"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
         "trend": "outbreak",
         "market_code": "US",
         "category": "Outbreaks",
-        "score": 10,
-        "examples": [
-          "Pennsylvania announces sixth death in measles outbreak as case numbers rise - The Guardian",
-          "Ebola cases top 9,000 in DR Congo outbreak - CIDRAP",
-          "CDC to deploy additional support to Pennsylvania to probe measles outbreak - Reuters"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "health care",
+        "trend": "mental health",
+        "market_code": "US",
+        "category": "Mental Health",
+        "score": 1,
+        "examples": []
+      },
+      {
+        "trend": "medical research",
         "market_code": "US",
         "category": "US Health",
-        "score": 8,
-        "examples": [
-          "New southern Minnesota clinic aims to close rural health care gaps - MPR News",
-          "Doctors, Public Health Experts and Dental Leaders Call for Oral Health to Become Part of Everyday Health Care - Business Wire",
-          "10 Health Care Stocks With Whale Alerts In Today’s Session - Benzinga"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "healthcare",
+        "trend": "drug approval",
         "market_code": "US",
-        "category": "US Health",
-        "score": 8,
-        "examples": [
-          "Oregon insurance regulators warn of cheap healthcare plans resulting in high bills - Tillamook Headlight-Herald",
-          "Artificial Intelligence and Healthcare’s Growing Data Economy - Baker Institute",
-          "AI Tracker: Teladoc launches new AI features - Modern Healthcare"
-        ]
+        "category": "Drug & Treatment News",
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "hospitals",
+        "trend": "diet wellness",
         "market_code": "US",
-        "category": "US Health",
-        "score": 7,
-        "examples": [
-          "NYC Health + Hospitals Advances to Silver Recognition in the American Medical Association's Joy in Medicine Health System Recognition Program - NYC Health + Hospitals",
-          "NYC Health + Hospitals Advances to Silver Recognition in the American Medical Association's Joy in Medicine Health System Recognition Program - NYC Health + Hospitals",
-          "NYC Health + Hospitals Advances to Silver Recognition in the American Medical Association's Joy in Medicine Health System Recognition Program - NYC Health + Hospitals"
-        ]
-      },
-      {
-        "trend": "children",
-        "market_code": "US",
-        "category": "Children Health",
-        "score": 7,
-        "examples": [
-          "Texas health agency proposes eliminating children’s autism program - PBS",
-          "Why do some children become seriously ill with COVID-19? The answer may lie in their genes - Gavi, the Vaccine Alliance",
-          "Stigma in Parents of Children with Mental Health Problems - WCM Newsroom"
-        ]
+        "category": "Diet & Wellness",
+        "score": 1,
+        "examples": []
       }
     ],
     "United Kingdom": [
       {
-        "trend": "health",
+        "trend": "health alert",
         "market_code": "GB",
         "category": "Europe Health",
-        "score": 76,
-        "examples": [
-          "Why closing the health gap requires ambitious action on obesity - Nesta | UK innovation agency for social good",
-          "Men’s health: Free talk will offer advice - Police Federation",
-          "Guvna B on mental health, community and the power of football - West Ham United"
-        ]
-      },
-      {
-        "trend": "medical",
-        "market_code": "GB",
-        "category": "Europe Health",
-        "score": 18,
-        "examples": [
-          "RAF Tactical Medical Wing Demonstrates World Class Medical Capability - Royal Air Force",
-          "RAF Tactical Medical Wing Demonstrates World Class Medical Capability - Royal Air Force",
-          "Navigating ‘next frontier’ of AI in medical devices - HealthandCare.scot"
-        ]
-      },
-      {
-        "trend": "mental",
-        "market_code": "GB",
-        "category": "Mental Health",
-        "score": 12,
-        "examples": [
-          "Guvna B on mental health, community and the power of football - West Ham United",
-          "Concerns raised over AI monitoring tool in Mental Health hospitals - Channel 4",
-          "Guvna B on mental health, community and the power of football - West Ham United"
-        ]
-      },
-      {
-        "trend": "mental health",
-        "market_code": "GB",
-        "category": "Mental Health",
-        "score": 12,
-        "examples": [
-          "Guvna B on mental health, community and the power of football - West Ham United",
-          "Concerns raised over AI monitoring tool in Mental Health hospitals - Channel 4",
-          "Guvna B on mental health, community and the power of football - West Ham United"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
         "trend": "outbreak",
         "market_code": "GB",
         "category": "Outbreaks",
-        "score": 11,
-        "examples": [
-          "Pennsylvania announces sixth death in measles outbreak as case numbers rise - The Guardian",
-          "Ebola cases top 9,000 in DR Congo outbreak - CIDRAP",
-          "ASF impact assessment commissioned to strengthen preparedness for outbreak - National Pig Association"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "healthcare",
+        "trend": "mental health",
+        "market_code": "GB",
+        "category": "Mental Health",
+        "score": 1,
+        "examples": []
+      },
+      {
+        "trend": "medical research",
         "market_code": "GB",
         "category": "Europe Health",
-        "score": 9,
-        "examples": [
-          "Osborne Clarke Sweden advises digital healthcare provider Yazen Health on €50 million funding round - Osborne Clarke",
-          "The race for healthcare AI: Why Europe needs to move beyond regulation - Decode39",
-          "How healthcare and the environment can benefit from 'Green' AI - healthcare-in-europe.com"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "children",
+        "trend": "drug approval",
         "market_code": "GB",
-        "category": "Children Health",
-        "score": 8,
-        "examples": [
-          "Screen-based learning causing 'crisis' in children's health and development, clinicians warn - LBC",
-          "Why do some children become seriously ill with COVID-19? The answer may lie in their genes - Gavi, the Vaccine Alliance",
-          "Stigma in Parents of Children with Mental Health Problems - WCM Newsroom"
-        ]
+        "category": "Drug & Treatment News",
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "warning",
+        "trend": "diet wellness",
         "market_code": "GB",
-        "category": "Europe Health",
-        "score": 7,
-        "examples": [
-          "Blood clots can affect women of any age – 4 warning signs you should never ignore - Women's Health",
-          "Warning issued in major update on NHS repeat prescriptions - Wales Online",
-          "6 Warning Signs You’re Not Eating Enough Fiber - Health.com"
-        ]
-      },
-      {
-        "trend": "virus",
-        "market_code": "GB",
-        "category": "Outbreaks",
-        "score": 7,
-        "examples": [
-          "Health Officials Issue Urgent Warning About Deadly Bat Virus After More Than 40 People Bitten in 2 Weeks - People.com",
-          "Health Officials Issue Urgent Warning About Deadly Bat Virus After More Than 40 People Bitten in 2 Weeks - People.com",
-          "Bluetongue virus update – fertility impact - AHDB"
-        ]
-      },
-      {
-        "trend": "infection",
-        "market_code": "GB",
-        "category": "Outbreaks",
-        "score": 7,
-        "examples": [
-          "Immune sensor can detect viral infection by monitoring cell’s own RNA - Radcliffe Department of Medicine",
-          "Immune sensor can detect viral infection by monitoring cell’s own RNA - Radcliffe Department of Medicine",
-          "New Antimicrobial Resistance and Infection Prevention Engagement Programme - Health and Social Care Alliance Scotland"
-        ]
-      },
-      {
-        "trend": "cancer",
-        "market_code": "GB",
-        "category": "Chronic Disease",
-        "score": 7,
-        "examples": [
-          "These Infections Are Linked to 12% of New Cancer Cases - Time Magazine",
-          "These Infections Are Linked to 12% of New Cancer Cases - Time Magazine",
-          "7 New Breakthroughs for Triple-Negative Breast Cancer - Breast Cancer.org"
-        ]
-      },
-      {
-        "trend": "patients",
-        "market_code": "GB",
-        "category": "Europe Health",
-        "score": 6,
-        "examples": [
-          "Enhanced CAR T-cell therapy may improve treatment options for patients with B-cell blood cancers - News-Medical",
-          "AI platform allows real-time conversation between patients and their medical devices - Penn Medicine",
-          "NHS App to alert patients when prescriptions are ready to collect - Social Care Today"
-        ]
+        "category": "Diet & Wellness",
+        "score": 1,
+        "examples": []
       }
     ],
     "Germany": [
       {
-        "trend": "health",
+        "trend": "health alert",
         "market_code": "DE",
         "category": "Europe Health",
-        "score": 93,
-        "examples": [
-          "Dr. Chisum-Price Appointed to Health Tribal Advisory Committee - Choctaw Nation of Oklahoma",
-          "NYC Health + Hospitals Advances to Silver Recognition in the American Medical Association's Joy in Medicine Health System Recognition Program - NYC Health + Hospitals",
-          "NYC Health + Hospitals Advances to Silver Recognition in the American Medical Association's Joy in Medicine Health System Recognition Program - NYC Health + Hospitals"
-        ]
-      },
-      {
-        "trend": "medical",
-        "market_code": "DE",
-        "category": "Europe Health",
-        "score": 18,
-        "examples": [
-          "NYC Health + Hospitals Advances to Silver Recognition in the American Medical Association's Joy in Medicine Health System Recognition Program - NYC Health + Hospitals",
-          "J&J posts weak medical device sales, shares fall - Reuters",
-          "This grad helps runs the Amazon of the medical device world - Northeastern Global News"
-        ]
-      },
-      {
-        "trend": "cancer",
-        "market_code": "DE",
-        "category": "Chronic Disease",
-        "score": 11,
-        "examples": [
-          "Medical College of Wisconsin Dedicates Michels Center for Cancer Discovery Following Landmark Gift - PR Newswire",
-          "These Infections Are Linked to 12% of New Cancer Cases - Time Magazine",
-          "HSV and cancer: What patients should know - Fred Hutchinson Cancer Center"
-        ]
-      },
-      {
-        "trend": "virus",
-        "market_code": "DE",
-        "category": "Outbreaks",
-        "score": 11,
-        "examples": [
-          "Health Officials Issue Urgent Warning About Deadly Bat Virus After More Than 40 People Bitten in 2 Weeks - People.com",
-          "Health Officials Issue Urgent Warning About Deadly Bat Virus After More Than 40 People Bitten in 2 Weeks - People.com",
-          "Two North Carolinians dead from West Nile Virus - WRAL"
-        ]
-      },
-      {
-        "trend": "mental",
-        "market_code": "DE",
-        "category": "Mental Health",
-        "score": 11,
-        "examples": [
-          "Lawyers report stress, drinking and gambling in new attorney mental health study - Reuters",
-          "Stigma in Parents of Children with Mental Health Problems - WCM Newsroom",
-          "Lindsay Clancy trial shines spotlight on maternal mental health - ABC7 Bay Area"
-        ]
-      },
-      {
-        "trend": "mental health",
-        "market_code": "DE",
-        "category": "Mental Health",
-        "score": 11,
-        "examples": [
-          "Lawyers report stress, drinking and gambling in new attorney mental health study - Reuters",
-          "Stigma in Parents of Children with Mental Health Problems - WCM Newsroom",
-          "Lindsay Clancy trial shines spotlight on maternal mental health - ABC7 Bay Area"
-        ]
-      },
-      {
-        "trend": "public health",
-        "market_code": "DE",
-        "category": "Europe Health",
-        "score": 10,
-        "examples": [
-          "College of Medicine welcomes Fulbright Scholar in public health sciences - The Pennsylvania State University",
-          "Data Centers and Public Health - American Public Health Association",
-          "Data Centers and Public Health - American Public Health Association"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
         "trend": "outbreak",
         "market_code": "DE",
         "category": "Outbreaks",
-        "score": 10,
-        "examples": [
-          "Pennsylvania announces sixth death in measles outbreak as case numbers rise - The Guardian",
-          "Ebola cases top 9,000 in DR Congo outbreak - CIDRAP",
-          "CDC to deploy additional support to Pennsylvania to probe measles outbreak - Reuters"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "healthcare",
+        "trend": "mental health",
+        "market_code": "DE",
+        "category": "Mental Health",
+        "score": 1,
+        "examples": []
+      },
+      {
+        "trend": "medical research",
         "market_code": "DE",
         "category": "Europe Health",
-        "score": 9,
-        "examples": [
-          "Oregon insurance regulators warn of cheap healthcare plans resulting in high bills - Tillamook Headlight-Herald",
-          "Artificial Intelligence and Healthcare’s Growing Data Economy - Baker Institute",
-          "AI Tracker: Teladoc launches new AI features - Modern Healthcare"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "hospitals",
+        "trend": "drug approval",
         "market_code": "DE",
-        "category": "Europe Health",
-        "score": 7,
-        "examples": [
-          "NYC Health + Hospitals Advances to Silver Recognition in the American Medical Association's Joy in Medicine Health System Recognition Program - NYC Health + Hospitals",
-          "NYC Health + Hospitals Advances to Silver Recognition in the American Medical Association's Joy in Medicine Health System Recognition Program - NYC Health + Hospitals",
-          "NYC Health + Hospitals Advances to Silver Recognition in the American Medical Association's Joy in Medicine Health System Recognition Program - NYC Health + Hospitals"
-        ]
+        "category": "Drug & Treatment News",
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "children",
+        "trend": "diet wellness",
         "market_code": "DE",
-        "category": "Children Health",
-        "score": 7,
-        "examples": [
-          "Texas health agency proposes eliminating children’s autism program - PBS",
-          "Why do some children become seriously ill with COVID-19? The answer may lie in their genes - Gavi, the Vaccine Alliance",
-          "Stigma in Parents of Children with Mental Health Problems - WCM Newsroom"
-        ]
-      },
-      {
-        "trend": "heart",
-        "market_code": "DE",
-        "category": "Chronic Disease",
-        "score": 7,
-        "examples": [
-          "Health tech competition finalists advance solutions for heart and brain health - www.heart.org",
-          "Health tech competition finalists advance solutions for heart and brain health - www.heart.org",
-          "Managing high blood pressure could prevent >500K CVD deaths annually in 20 countries - www.heart.org"
-        ]
+        "category": "Diet & Wellness",
+        "score": 1,
+        "examples": []
       }
     ],
     "France": [
       {
-        "trend": "health",
+        "trend": "health alert",
         "market_code": "FR",
         "category": "Europe Health",
-        "score": 93,
-        "examples": [
-          "Dr. Chisum-Price Appointed to Health Tribal Advisory Committee - Choctaw Nation of Oklahoma",
-          "NYC Health + Hospitals Advances to Silver Recognition in the American Medical Association's Joy in Medicine Health System Recognition Program - NYC Health + Hospitals",
-          "NYC Health + Hospitals Advances to Silver Recognition in the American Medical Association's Joy in Medicine Health System Recognition Program - NYC Health + Hospitals"
-        ]
-      },
-      {
-        "trend": "medical",
-        "market_code": "FR",
-        "category": "Europe Health",
-        "score": 18,
-        "examples": [
-          "NYC Health + Hospitals Advances to Silver Recognition in the American Medical Association's Joy in Medicine Health System Recognition Program - NYC Health + Hospitals",
-          "J&J posts weak medical device sales, shares fall - Reuters",
-          "This grad helps runs the Amazon of the medical device world - Northeastern Global News"
-        ]
-      },
-      {
-        "trend": "cancer",
-        "market_code": "FR",
-        "category": "Chronic Disease",
-        "score": 11,
-        "examples": [
-          "Medical College of Wisconsin Dedicates Michels Center for Cancer Discovery Following Landmark Gift - PR Newswire",
-          "These Infections Are Linked to 12% of New Cancer Cases - Time Magazine",
-          "HSV and cancer: What patients should know - Fred Hutchinson Cancer Center"
-        ]
-      },
-      {
-        "trend": "virus",
-        "market_code": "FR",
-        "category": "Outbreaks",
-        "score": 11,
-        "examples": [
-          "Health Officials Issue Urgent Warning About Deadly Bat Virus After More Than 40 People Bitten in 2 Weeks - People.com",
-          "Health Officials Issue Urgent Warning About Deadly Bat Virus After More Than 40 People Bitten in 2 Weeks - People.com",
-          "Two North Carolinians dead from West Nile Virus - WRAL"
-        ]
-      },
-      {
-        "trend": "mental",
-        "market_code": "FR",
-        "category": "Mental Health",
-        "score": 11,
-        "examples": [
-          "Lawyers report stress, drinking and gambling in new attorney mental health study - Reuters",
-          "Stigma in Parents of Children with Mental Health Problems - WCM Newsroom",
-          "Lindsay Clancy trial shines spotlight on maternal mental health - ABC7 Bay Area"
-        ]
-      },
-      {
-        "trend": "mental health",
-        "market_code": "FR",
-        "category": "Mental Health",
-        "score": 11,
-        "examples": [
-          "Lawyers report stress, drinking and gambling in new attorney mental health study - Reuters",
-          "Stigma in Parents of Children with Mental Health Problems - WCM Newsroom",
-          "Lindsay Clancy trial shines spotlight on maternal mental health - ABC7 Bay Area"
-        ]
-      },
-      {
-        "trend": "public health",
-        "market_code": "FR",
-        "category": "Europe Health",
-        "score": 10,
-        "examples": [
-          "College of Medicine welcomes Fulbright Scholar in public health sciences - The Pennsylvania State University",
-          "Data Centers and Public Health - American Public Health Association",
-          "Data Centers and Public Health - American Public Health Association"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
         "trend": "outbreak",
         "market_code": "FR",
         "category": "Outbreaks",
-        "score": 10,
-        "examples": [
-          "Pennsylvania announces sixth death in measles outbreak as case numbers rise - The Guardian",
-          "Ebola cases top 9,000 in DR Congo outbreak - CIDRAP",
-          "CDC to deploy additional support to Pennsylvania to probe measles outbreak - Reuters"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "healthcare",
+        "trend": "mental health",
+        "market_code": "FR",
+        "category": "Mental Health",
+        "score": 1,
+        "examples": []
+      },
+      {
+        "trend": "medical research",
         "market_code": "FR",
         "category": "Europe Health",
-        "score": 9,
-        "examples": [
-          "Oregon insurance regulators warn of cheap healthcare plans resulting in high bills - Tillamook Headlight-Herald",
-          "Artificial Intelligence and Healthcare’s Growing Data Economy - Baker Institute",
-          "AI Tracker: Teladoc launches new AI features - Modern Healthcare"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "hospitals",
+        "trend": "drug approval",
         "market_code": "FR",
-        "category": "Europe Health",
-        "score": 7,
-        "examples": [
-          "NYC Health + Hospitals Advances to Silver Recognition in the American Medical Association's Joy in Medicine Health System Recognition Program - NYC Health + Hospitals",
-          "NYC Health + Hospitals Advances to Silver Recognition in the American Medical Association's Joy in Medicine Health System Recognition Program - NYC Health + Hospitals",
-          "NYC Health + Hospitals Advances to Silver Recognition in the American Medical Association's Joy in Medicine Health System Recognition Program - NYC Health + Hospitals"
-        ]
+        "category": "Drug & Treatment News",
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "children",
+        "trend": "diet wellness",
         "market_code": "FR",
-        "category": "Children Health",
-        "score": 7,
-        "examples": [
-          "Texas health agency proposes eliminating children’s autism program - PBS",
-          "Why do some children become seriously ill with COVID-19? The answer may lie in their genes - Gavi, the Vaccine Alliance",
-          "Stigma in Parents of Children with Mental Health Problems - WCM Newsroom"
-        ]
-      },
-      {
-        "trend": "heart",
-        "market_code": "FR",
-        "category": "Chronic Disease",
-        "score": 7,
-        "examples": [
-          "Health tech competition finalists advance solutions for heart and brain health - www.heart.org",
-          "Health tech competition finalists advance solutions for heart and brain health - www.heart.org",
-          "Managing high blood pressure could prevent >500K CVD deaths annually in 20 countries - www.heart.org"
-        ]
+        "category": "Diet & Wellness",
+        "score": 1,
+        "examples": []
       }
     ],
     "Italy": [
       {
-        "trend": "health",
+        "trend": "health alert",
         "market_code": "IT",
         "category": "Europe Health",
-        "score": 93,
-        "examples": [
-          "Dr. Chisum-Price Appointed to Health Tribal Advisory Committee - Choctaw Nation of Oklahoma",
-          "NYC Health + Hospitals Advances to Silver Recognition in the American Medical Association's Joy in Medicine Health System Recognition Program - NYC Health + Hospitals",
-          "NYC Health + Hospitals Advances to Silver Recognition in the American Medical Association's Joy in Medicine Health System Recognition Program - NYC Health + Hospitals"
-        ]
-      },
-      {
-        "trend": "medical",
-        "market_code": "IT",
-        "category": "Europe Health",
-        "score": 18,
-        "examples": [
-          "NYC Health + Hospitals Advances to Silver Recognition in the American Medical Association's Joy in Medicine Health System Recognition Program - NYC Health + Hospitals",
-          "J&J posts weak medical device sales, shares fall - Reuters",
-          "This grad helps runs the Amazon of the medical device world - Northeastern Global News"
-        ]
-      },
-      {
-        "trend": "cancer",
-        "market_code": "IT",
-        "category": "Chronic Disease",
-        "score": 11,
-        "examples": [
-          "Medical College of Wisconsin Dedicates Michels Center for Cancer Discovery Following Landmark Gift - PR Newswire",
-          "These Infections Are Linked to 12% of New Cancer Cases - Time Magazine",
-          "HSV and cancer: What patients should know - Fred Hutchinson Cancer Center"
-        ]
-      },
-      {
-        "trend": "virus",
-        "market_code": "IT",
-        "category": "Outbreaks",
-        "score": 11,
-        "examples": [
-          "Health Officials Issue Urgent Warning About Deadly Bat Virus After More Than 40 People Bitten in 2 Weeks - People.com",
-          "Health Officials Issue Urgent Warning About Deadly Bat Virus After More Than 40 People Bitten in 2 Weeks - People.com",
-          "Two North Carolinians dead from West Nile Virus - WRAL"
-        ]
-      },
-      {
-        "trend": "mental",
-        "market_code": "IT",
-        "category": "Mental Health",
-        "score": 11,
-        "examples": [
-          "Lawyers report stress, drinking and gambling in new attorney mental health study - Reuters",
-          "Stigma in Parents of Children with Mental Health Problems - WCM Newsroom",
-          "Lindsay Clancy trial shines spotlight on maternal mental health - ABC7 Bay Area"
-        ]
-      },
-      {
-        "trend": "mental health",
-        "market_code": "IT",
-        "category": "Mental Health",
-        "score": 11,
-        "examples": [
-          "Lawyers report stress, drinking and gambling in new attorney mental health study - Reuters",
-          "Stigma in Parents of Children with Mental Health Problems - WCM Newsroom",
-          "Lindsay Clancy trial shines spotlight on maternal mental health - ABC7 Bay Area"
-        ]
-      },
-      {
-        "trend": "public health",
-        "market_code": "IT",
-        "category": "Europe Health",
-        "score": 10,
-        "examples": [
-          "College of Medicine welcomes Fulbright Scholar in public health sciences - The Pennsylvania State University",
-          "Data Centers and Public Health - American Public Health Association",
-          "Data Centers and Public Health - American Public Health Association"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
         "trend": "outbreak",
         "market_code": "IT",
         "category": "Outbreaks",
-        "score": 10,
-        "examples": [
-          "Pennsylvania announces sixth death in measles outbreak as case numbers rise - The Guardian",
-          "Ebola cases top 9,000 in DR Congo outbreak - CIDRAP",
-          "CDC to deploy additional support to Pennsylvania to probe measles outbreak - Reuters"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "healthcare",
+        "trend": "mental health",
+        "market_code": "IT",
+        "category": "Mental Health",
+        "score": 1,
+        "examples": []
+      },
+      {
+        "trend": "medical research",
         "market_code": "IT",
         "category": "Europe Health",
-        "score": 9,
-        "examples": [
-          "Oregon insurance regulators warn of cheap healthcare plans resulting in high bills - Tillamook Headlight-Herald",
-          "Artificial Intelligence and Healthcare’s Growing Data Economy - Baker Institute",
-          "AI Tracker: Teladoc launches new AI features - Modern Healthcare"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "hospitals",
+        "trend": "drug approval",
         "market_code": "IT",
-        "category": "Europe Health",
-        "score": 7,
-        "examples": [
-          "NYC Health + Hospitals Advances to Silver Recognition in the American Medical Association's Joy in Medicine Health System Recognition Program - NYC Health + Hospitals",
-          "NYC Health + Hospitals Advances to Silver Recognition in the American Medical Association's Joy in Medicine Health System Recognition Program - NYC Health + Hospitals",
-          "NYC Health + Hospitals Advances to Silver Recognition in the American Medical Association's Joy in Medicine Health System Recognition Program - NYC Health + Hospitals"
-        ]
+        "category": "Drug & Treatment News",
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "children",
+        "trend": "diet wellness",
         "market_code": "IT",
-        "category": "Children Health",
-        "score": 7,
-        "examples": [
-          "Texas health agency proposes eliminating children’s autism program - PBS",
-          "Why do some children become seriously ill with COVID-19? The answer may lie in their genes - Gavi, the Vaccine Alliance",
-          "Stigma in Parents of Children with Mental Health Problems - WCM Newsroom"
-        ]
-      },
-      {
-        "trend": "heart",
-        "market_code": "IT",
-        "category": "Chronic Disease",
-        "score": 7,
-        "examples": [
-          "Health tech competition finalists advance solutions for heart and brain health - www.heart.org",
-          "Health tech competition finalists advance solutions for heart and brain health - www.heart.org",
-          "Managing high blood pressure could prevent >500K CVD deaths annually in 20 countries - www.heart.org"
-        ]
+        "category": "Diet & Wellness",
+        "score": 1,
+        "examples": []
       }
     ],
     "Spain": [
       {
-        "trend": "health",
+        "trend": "health alert",
         "market_code": "ES",
         "category": "Europe Health",
-        "score": 93,
-        "examples": [
-          "Dr. Chisum-Price Appointed to Health Tribal Advisory Committee - Choctaw Nation of Oklahoma",
-          "NYC Health + Hospitals Advances to Silver Recognition in the American Medical Association's Joy in Medicine Health System Recognition Program - NYC Health + Hospitals",
-          "NYC Health + Hospitals Advances to Silver Recognition in the American Medical Association's Joy in Medicine Health System Recognition Program - NYC Health + Hospitals"
-        ]
-      },
-      {
-        "trend": "medical",
-        "market_code": "ES",
-        "category": "Europe Health",
-        "score": 18,
-        "examples": [
-          "NYC Health + Hospitals Advances to Silver Recognition in the American Medical Association's Joy in Medicine Health System Recognition Program - NYC Health + Hospitals",
-          "J&J posts weak medical device sales, shares fall - Reuters",
-          "This grad helps runs the Amazon of the medical device world - Northeastern Global News"
-        ]
-      },
-      {
-        "trend": "cancer",
-        "market_code": "ES",
-        "category": "Chronic Disease",
-        "score": 11,
-        "examples": [
-          "Medical College of Wisconsin Dedicates Michels Center for Cancer Discovery Following Landmark Gift - PR Newswire",
-          "These Infections Are Linked to 12% of New Cancer Cases - Time Magazine",
-          "HSV and cancer: What patients should know - Fred Hutchinson Cancer Center"
-        ]
-      },
-      {
-        "trend": "virus",
-        "market_code": "ES",
-        "category": "Outbreaks",
-        "score": 11,
-        "examples": [
-          "Health Officials Issue Urgent Warning About Deadly Bat Virus After More Than 40 People Bitten in 2 Weeks - People.com",
-          "Health Officials Issue Urgent Warning About Deadly Bat Virus After More Than 40 People Bitten in 2 Weeks - People.com",
-          "Two North Carolinians dead from West Nile Virus - WRAL"
-        ]
-      },
-      {
-        "trend": "mental",
-        "market_code": "ES",
-        "category": "Mental Health",
-        "score": 11,
-        "examples": [
-          "Lawyers report stress, drinking and gambling in new attorney mental health study - Reuters",
-          "Stigma in Parents of Children with Mental Health Problems - WCM Newsroom",
-          "Lindsay Clancy trial shines spotlight on maternal mental health - ABC7 Bay Area"
-        ]
-      },
-      {
-        "trend": "mental health",
-        "market_code": "ES",
-        "category": "Mental Health",
-        "score": 11,
-        "examples": [
-          "Lawyers report stress, drinking and gambling in new attorney mental health study - Reuters",
-          "Stigma in Parents of Children with Mental Health Problems - WCM Newsroom",
-          "Lindsay Clancy trial shines spotlight on maternal mental health - ABC7 Bay Area"
-        ]
-      },
-      {
-        "trend": "public health",
-        "market_code": "ES",
-        "category": "Europe Health",
-        "score": 10,
-        "examples": [
-          "College of Medicine welcomes Fulbright Scholar in public health sciences - The Pennsylvania State University",
-          "Data Centers and Public Health - American Public Health Association",
-          "Data Centers and Public Health - American Public Health Association"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
         "trend": "outbreak",
         "market_code": "ES",
         "category": "Outbreaks",
-        "score": 10,
-        "examples": [
-          "Pennsylvania announces sixth death in measles outbreak as case numbers rise - The Guardian",
-          "Ebola cases top 9,000 in DR Congo outbreak - CIDRAP",
-          "CDC to deploy additional support to Pennsylvania to probe measles outbreak - Reuters"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "healthcare",
+        "trend": "mental health",
+        "market_code": "ES",
+        "category": "Mental Health",
+        "score": 1,
+        "examples": []
+      },
+      {
+        "trend": "medical research",
         "market_code": "ES",
         "category": "Europe Health",
-        "score": 9,
-        "examples": [
-          "Oregon insurance regulators warn of cheap healthcare plans resulting in high bills - Tillamook Headlight-Herald",
-          "Artificial Intelligence and Healthcare’s Growing Data Economy - Baker Institute",
-          "AI Tracker: Teladoc launches new AI features - Modern Healthcare"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "hospitals",
+        "trend": "drug approval",
         "market_code": "ES",
-        "category": "Europe Health",
-        "score": 7,
-        "examples": [
-          "NYC Health + Hospitals Advances to Silver Recognition in the American Medical Association's Joy in Medicine Health System Recognition Program - NYC Health + Hospitals",
-          "NYC Health + Hospitals Advances to Silver Recognition in the American Medical Association's Joy in Medicine Health System Recognition Program - NYC Health + Hospitals",
-          "NYC Health + Hospitals Advances to Silver Recognition in the American Medical Association's Joy in Medicine Health System Recognition Program - NYC Health + Hospitals"
-        ]
+        "category": "Drug & Treatment News",
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "children",
+        "trend": "diet wellness",
         "market_code": "ES",
-        "category": "Children Health",
-        "score": 7,
-        "examples": [
-          "Texas health agency proposes eliminating children’s autism program - PBS",
-          "Why do some children become seriously ill with COVID-19? The answer may lie in their genes - Gavi, the Vaccine Alliance",
-          "Stigma in Parents of Children with Mental Health Problems - WCM Newsroom"
-        ]
-      },
-      {
-        "trend": "heart",
-        "market_code": "ES",
-        "category": "Chronic Disease",
-        "score": 7,
-        "examples": [
-          "Health tech competition finalists advance solutions for heart and brain health - www.heart.org",
-          "Health tech competition finalists advance solutions for heart and brain health - www.heart.org",
-          "Managing high blood pressure could prevent >500K CVD deaths annually in 20 countries - www.heart.org"
-        ]
+        "category": "Diet & Wellness",
+        "score": 1,
+        "examples": []
       }
     ],
     "Sweden": [
       {
-        "trend": "health",
+        "trend": "health alert",
         "market_code": "SE",
         "category": "Europe Health",
-        "score": 93,
-        "examples": [
-          "Dr. Chisum-Price Appointed to Health Tribal Advisory Committee - Choctaw Nation of Oklahoma",
-          "NYC Health + Hospitals Advances to Silver Recognition in the American Medical Association's Joy in Medicine Health System Recognition Program - NYC Health + Hospitals",
-          "NYC Health + Hospitals Advances to Silver Recognition in the American Medical Association's Joy in Medicine Health System Recognition Program - NYC Health + Hospitals"
-        ]
-      },
-      {
-        "trend": "medical",
-        "market_code": "SE",
-        "category": "Europe Health",
-        "score": 18,
-        "examples": [
-          "NYC Health + Hospitals Advances to Silver Recognition in the American Medical Association's Joy in Medicine Health System Recognition Program - NYC Health + Hospitals",
-          "J&J posts weak medical device sales, shares fall - Reuters",
-          "This grad helps runs the Amazon of the medical device world - Northeastern Global News"
-        ]
-      },
-      {
-        "trend": "cancer",
-        "market_code": "SE",
-        "category": "Chronic Disease",
-        "score": 11,
-        "examples": [
-          "Medical College of Wisconsin Dedicates Michels Center for Cancer Discovery Following Landmark Gift - PR Newswire",
-          "These Infections Are Linked to 12% of New Cancer Cases - Time Magazine",
-          "HSV and cancer: What patients should know - Fred Hutchinson Cancer Center"
-        ]
-      },
-      {
-        "trend": "virus",
-        "market_code": "SE",
-        "category": "Outbreaks",
-        "score": 11,
-        "examples": [
-          "Health Officials Issue Urgent Warning About Deadly Bat Virus After More Than 40 People Bitten in 2 Weeks - People.com",
-          "Health Officials Issue Urgent Warning About Deadly Bat Virus After More Than 40 People Bitten in 2 Weeks - People.com",
-          "Two North Carolinians dead from West Nile Virus - WRAL"
-        ]
-      },
-      {
-        "trend": "mental",
-        "market_code": "SE",
-        "category": "Mental Health",
-        "score": 11,
-        "examples": [
-          "Lawyers report stress, drinking and gambling in new attorney mental health study - Reuters",
-          "Stigma in Parents of Children with Mental Health Problems - WCM Newsroom",
-          "Lindsay Clancy trial shines spotlight on maternal mental health - ABC7 Bay Area"
-        ]
-      },
-      {
-        "trend": "mental health",
-        "market_code": "SE",
-        "category": "Mental Health",
-        "score": 11,
-        "examples": [
-          "Lawyers report stress, drinking and gambling in new attorney mental health study - Reuters",
-          "Stigma in Parents of Children with Mental Health Problems - WCM Newsroom",
-          "Lindsay Clancy trial shines spotlight on maternal mental health - ABC7 Bay Area"
-        ]
-      },
-      {
-        "trend": "public health",
-        "market_code": "SE",
-        "category": "Europe Health",
-        "score": 10,
-        "examples": [
-          "College of Medicine welcomes Fulbright Scholar in public health sciences - The Pennsylvania State University",
-          "Data Centers and Public Health - American Public Health Association",
-          "Data Centers and Public Health - American Public Health Association"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
         "trend": "outbreak",
         "market_code": "SE",
         "category": "Outbreaks",
-        "score": 10,
-        "examples": [
-          "Pennsylvania announces sixth death in measles outbreak as case numbers rise - The Guardian",
-          "Ebola cases top 9,000 in DR Congo outbreak - CIDRAP",
-          "CDC to deploy additional support to Pennsylvania to probe measles outbreak - Reuters"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "healthcare",
+        "trend": "mental health",
+        "market_code": "SE",
+        "category": "Mental Health",
+        "score": 1,
+        "examples": []
+      },
+      {
+        "trend": "medical research",
         "market_code": "SE",
         "category": "Europe Health",
-        "score": 9,
-        "examples": [
-          "Oregon insurance regulators warn of cheap healthcare plans resulting in high bills - Tillamook Headlight-Herald",
-          "Artificial Intelligence and Healthcare’s Growing Data Economy - Baker Institute",
-          "AI Tracker: Teladoc launches new AI features - Modern Healthcare"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "hospitals",
+        "trend": "drug approval",
         "market_code": "SE",
-        "category": "Europe Health",
-        "score": 7,
-        "examples": [
-          "NYC Health + Hospitals Advances to Silver Recognition in the American Medical Association's Joy in Medicine Health System Recognition Program - NYC Health + Hospitals",
-          "NYC Health + Hospitals Advances to Silver Recognition in the American Medical Association's Joy in Medicine Health System Recognition Program - NYC Health + Hospitals",
-          "NYC Health + Hospitals Advances to Silver Recognition in the American Medical Association's Joy in Medicine Health System Recognition Program - NYC Health + Hospitals"
-        ]
+        "category": "Drug & Treatment News",
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "children",
+        "trend": "diet wellness",
         "market_code": "SE",
-        "category": "Children Health",
-        "score": 7,
-        "examples": [
-          "Texas health agency proposes eliminating children’s autism program - PBS",
-          "Why do some children become seriously ill with COVID-19? The answer may lie in their genes - Gavi, the Vaccine Alliance",
-          "Stigma in Parents of Children with Mental Health Problems - WCM Newsroom"
-        ]
-      },
-      {
-        "trend": "heart",
-        "market_code": "SE",
-        "category": "Chronic Disease",
-        "score": 7,
-        "examples": [
-          "Health tech competition finalists advance solutions for heart and brain health - www.heart.org",
-          "Health tech competition finalists advance solutions for heart and brain health - www.heart.org",
-          "Managing high blood pressure could prevent >500K CVD deaths annually in 20 countries - www.heart.org"
-        ]
+        "category": "Diet & Wellness",
+        "score": 1,
+        "examples": []
       }
     ],
     "Netherlands": [
       {
-        "trend": "health",
+        "trend": "health alert",
         "market_code": "NL",
         "category": "Europe Health",
-        "score": 93,
-        "examples": [
-          "Dr. Chisum-Price Appointed to Health Tribal Advisory Committee - Choctaw Nation of Oklahoma",
-          "NYC Health + Hospitals Advances to Silver Recognition in the American Medical Association's Joy in Medicine Health System Recognition Program - NYC Health + Hospitals",
-          "NYC Health + Hospitals Advances to Silver Recognition in the American Medical Association's Joy in Medicine Health System Recognition Program - NYC Health + Hospitals"
-        ]
-      },
-      {
-        "trend": "medical",
-        "market_code": "NL",
-        "category": "Europe Health",
-        "score": 18,
-        "examples": [
-          "NYC Health + Hospitals Advances to Silver Recognition in the American Medical Association's Joy in Medicine Health System Recognition Program - NYC Health + Hospitals",
-          "J&J posts weak medical device sales, shares fall - Reuters",
-          "This grad helps runs the Amazon of the medical device world - Northeastern Global News"
-        ]
-      },
-      {
-        "trend": "cancer",
-        "market_code": "NL",
-        "category": "Chronic Disease",
-        "score": 11,
-        "examples": [
-          "Medical College of Wisconsin Dedicates Michels Center for Cancer Discovery Following Landmark Gift - PR Newswire",
-          "These Infections Are Linked to 12% of New Cancer Cases - Time Magazine",
-          "HSV and cancer: What patients should know - Fred Hutchinson Cancer Center"
-        ]
-      },
-      {
-        "trend": "virus",
-        "market_code": "NL",
-        "category": "Outbreaks",
-        "score": 11,
-        "examples": [
-          "Health Officials Issue Urgent Warning About Deadly Bat Virus After More Than 40 People Bitten in 2 Weeks - People.com",
-          "Health Officials Issue Urgent Warning About Deadly Bat Virus After More Than 40 People Bitten in 2 Weeks - People.com",
-          "Two North Carolinians dead from West Nile Virus - WRAL"
-        ]
-      },
-      {
-        "trend": "mental",
-        "market_code": "NL",
-        "category": "Mental Health",
-        "score": 11,
-        "examples": [
-          "Lawyers report stress, drinking and gambling in new attorney mental health study - Reuters",
-          "Stigma in Parents of Children with Mental Health Problems - WCM Newsroom",
-          "Lindsay Clancy trial shines spotlight on maternal mental health - ABC7 Bay Area"
-        ]
-      },
-      {
-        "trend": "mental health",
-        "market_code": "NL",
-        "category": "Mental Health",
-        "score": 11,
-        "examples": [
-          "Lawyers report stress, drinking and gambling in new attorney mental health study - Reuters",
-          "Stigma in Parents of Children with Mental Health Problems - WCM Newsroom",
-          "Lindsay Clancy trial shines spotlight on maternal mental health - ABC7 Bay Area"
-        ]
-      },
-      {
-        "trend": "public health",
-        "market_code": "NL",
-        "category": "Europe Health",
-        "score": 10,
-        "examples": [
-          "College of Medicine welcomes Fulbright Scholar in public health sciences - The Pennsylvania State University",
-          "Data Centers and Public Health - American Public Health Association",
-          "Data Centers and Public Health - American Public Health Association"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
         "trend": "outbreak",
         "market_code": "NL",
         "category": "Outbreaks",
-        "score": 10,
-        "examples": [
-          "Pennsylvania announces sixth death in measles outbreak as case numbers rise - The Guardian",
-          "Ebola cases top 9,000 in DR Congo outbreak - CIDRAP",
-          "CDC to deploy additional support to Pennsylvania to probe measles outbreak - Reuters"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "healthcare",
+        "trend": "mental health",
+        "market_code": "NL",
+        "category": "Mental Health",
+        "score": 1,
+        "examples": []
+      },
+      {
+        "trend": "medical research",
         "market_code": "NL",
         "category": "Europe Health",
-        "score": 9,
-        "examples": [
-          "Oregon insurance regulators warn of cheap healthcare plans resulting in high bills - Tillamook Headlight-Herald",
-          "Artificial Intelligence and Healthcare’s Growing Data Economy - Baker Institute",
-          "AI Tracker: Teladoc launches new AI features - Modern Healthcare"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "hospitals",
+        "trend": "drug approval",
         "market_code": "NL",
-        "category": "Europe Health",
-        "score": 7,
-        "examples": [
-          "NYC Health + Hospitals Advances to Silver Recognition in the American Medical Association's Joy in Medicine Health System Recognition Program - NYC Health + Hospitals",
-          "NYC Health + Hospitals Advances to Silver Recognition in the American Medical Association's Joy in Medicine Health System Recognition Program - NYC Health + Hospitals",
-          "NYC Health + Hospitals Advances to Silver Recognition in the American Medical Association's Joy in Medicine Health System Recognition Program - NYC Health + Hospitals"
-        ]
+        "category": "Drug & Treatment News",
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "children",
+        "trend": "diet wellness",
         "market_code": "NL",
-        "category": "Children Health",
-        "score": 7,
-        "examples": [
-          "Texas health agency proposes eliminating children’s autism program - PBS",
-          "Why do some children become seriously ill with COVID-19? The answer may lie in their genes - Gavi, the Vaccine Alliance",
-          "Stigma in Parents of Children with Mental Health Problems - WCM Newsroom"
-        ]
-      },
-      {
-        "trend": "heart",
-        "market_code": "NL",
-        "category": "Chronic Disease",
-        "score": 7,
-        "examples": [
-          "Health tech competition finalists advance solutions for heart and brain health - www.heart.org",
-          "Health tech competition finalists advance solutions for heart and brain health - www.heart.org",
-          "Managing high blood pressure could prevent >500K CVD deaths annually in 20 countries - www.heart.org"
-        ]
+        "category": "Diet & Wellness",
+        "score": 1,
+        "examples": []
       }
     ],
     "Finland": [
       {
-        "trend": "health",
+        "trend": "health alert",
         "market_code": "FI",
         "category": "Europe Health",
-        "score": 93,
-        "examples": [
-          "Dr. Chisum-Price Appointed to Health Tribal Advisory Committee - Choctaw Nation of Oklahoma",
-          "NYC Health + Hospitals Advances to Silver Recognition in the American Medical Association's Joy in Medicine Health System Recognition Program - NYC Health + Hospitals",
-          "NYC Health + Hospitals Advances to Silver Recognition in the American Medical Association's Joy in Medicine Health System Recognition Program - NYC Health + Hospitals"
-        ]
-      },
-      {
-        "trend": "medical",
-        "market_code": "FI",
-        "category": "Europe Health",
-        "score": 18,
-        "examples": [
-          "NYC Health + Hospitals Advances to Silver Recognition in the American Medical Association's Joy in Medicine Health System Recognition Program - NYC Health + Hospitals",
-          "J&J posts weak medical device sales, shares fall - Reuters",
-          "This grad helps runs the Amazon of the medical device world - Northeastern Global News"
-        ]
-      },
-      {
-        "trend": "cancer",
-        "market_code": "FI",
-        "category": "Chronic Disease",
-        "score": 11,
-        "examples": [
-          "Medical College of Wisconsin Dedicates Michels Center for Cancer Discovery Following Landmark Gift - PR Newswire",
-          "These Infections Are Linked to 12% of New Cancer Cases - Time Magazine",
-          "HSV and cancer: What patients should know - Fred Hutchinson Cancer Center"
-        ]
-      },
-      {
-        "trend": "virus",
-        "market_code": "FI",
-        "category": "Outbreaks",
-        "score": 11,
-        "examples": [
-          "Health Officials Issue Urgent Warning About Deadly Bat Virus After More Than 40 People Bitten in 2 Weeks - People.com",
-          "Health Officials Issue Urgent Warning About Deadly Bat Virus After More Than 40 People Bitten in 2 Weeks - People.com",
-          "Two North Carolinians dead from West Nile Virus - WRAL"
-        ]
-      },
-      {
-        "trend": "mental",
-        "market_code": "FI",
-        "category": "Mental Health",
-        "score": 11,
-        "examples": [
-          "Lawyers report stress, drinking and gambling in new attorney mental health study - Reuters",
-          "Stigma in Parents of Children with Mental Health Problems - WCM Newsroom",
-          "Lindsay Clancy trial shines spotlight on maternal mental health - ABC7 Bay Area"
-        ]
-      },
-      {
-        "trend": "mental health",
-        "market_code": "FI",
-        "category": "Mental Health",
-        "score": 11,
-        "examples": [
-          "Lawyers report stress, drinking and gambling in new attorney mental health study - Reuters",
-          "Stigma in Parents of Children with Mental Health Problems - WCM Newsroom",
-          "Lindsay Clancy trial shines spotlight on maternal mental health - ABC7 Bay Area"
-        ]
-      },
-      {
-        "trend": "public health",
-        "market_code": "FI",
-        "category": "Europe Health",
-        "score": 10,
-        "examples": [
-          "College of Medicine welcomes Fulbright Scholar in public health sciences - The Pennsylvania State University",
-          "Data Centers and Public Health - American Public Health Association",
-          "Data Centers and Public Health - American Public Health Association"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
         "trend": "outbreak",
         "market_code": "FI",
         "category": "Outbreaks",
-        "score": 10,
-        "examples": [
-          "Pennsylvania announces sixth death in measles outbreak as case numbers rise - The Guardian",
-          "Ebola cases top 9,000 in DR Congo outbreak - CIDRAP",
-          "CDC to deploy additional support to Pennsylvania to probe measles outbreak - Reuters"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "healthcare",
+        "trend": "mental health",
+        "market_code": "FI",
+        "category": "Mental Health",
+        "score": 1,
+        "examples": []
+      },
+      {
+        "trend": "medical research",
         "market_code": "FI",
         "category": "Europe Health",
-        "score": 9,
-        "examples": [
-          "Oregon insurance regulators warn of cheap healthcare plans resulting in high bills - Tillamook Headlight-Herald",
-          "Artificial Intelligence and Healthcare’s Growing Data Economy - Baker Institute",
-          "AI Tracker: Teladoc launches new AI features - Modern Healthcare"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "hospitals",
+        "trend": "drug approval",
         "market_code": "FI",
-        "category": "Europe Health",
-        "score": 7,
-        "examples": [
-          "NYC Health + Hospitals Advances to Silver Recognition in the American Medical Association's Joy in Medicine Health System Recognition Program - NYC Health + Hospitals",
-          "NYC Health + Hospitals Advances to Silver Recognition in the American Medical Association's Joy in Medicine Health System Recognition Program - NYC Health + Hospitals",
-          "NYC Health + Hospitals Advances to Silver Recognition in the American Medical Association's Joy in Medicine Health System Recognition Program - NYC Health + Hospitals"
-        ]
+        "category": "Drug & Treatment News",
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "children",
+        "trend": "diet wellness",
         "market_code": "FI",
-        "category": "Children Health",
-        "score": 7,
-        "examples": [
-          "Texas health agency proposes eliminating children’s autism program - PBS",
-          "Why do some children become seriously ill with COVID-19? The answer may lie in their genes - Gavi, the Vaccine Alliance",
-          "Stigma in Parents of Children with Mental Health Problems - WCM Newsroom"
-        ]
-      },
-      {
-        "trend": "heart",
-        "market_code": "FI",
-        "category": "Chronic Disease",
-        "score": 7,
-        "examples": [
-          "Health tech competition finalists advance solutions for heart and brain health - www.heart.org",
-          "Health tech competition finalists advance solutions for heart and brain health - www.heart.org",
-          "Managing high blood pressure could prevent >500K CVD deaths annually in 20 countries - www.heart.org"
-        ]
+        "category": "Diet & Wellness",
+        "score": 1,
+        "examples": []
       }
     ],
     "Norway": [
       {
-        "trend": "health",
+        "trend": "health alert",
         "market_code": "NO",
         "category": "Europe Health",
-        "score": 93,
-        "examples": [
-          "Dr. Chisum-Price Appointed to Health Tribal Advisory Committee - Choctaw Nation of Oklahoma",
-          "NYC Health + Hospitals Advances to Silver Recognition in the American Medical Association's Joy in Medicine Health System Recognition Program - NYC Health + Hospitals",
-          "NYC Health + Hospitals Advances to Silver Recognition in the American Medical Association's Joy in Medicine Health System Recognition Program - NYC Health + Hospitals"
-        ]
-      },
-      {
-        "trend": "medical",
-        "market_code": "NO",
-        "category": "Europe Health",
-        "score": 18,
-        "examples": [
-          "NYC Health + Hospitals Advances to Silver Recognition in the American Medical Association's Joy in Medicine Health System Recognition Program - NYC Health + Hospitals",
-          "J&J posts weak medical device sales, shares fall - Reuters",
-          "This grad helps runs the Amazon of the medical device world - Northeastern Global News"
-        ]
-      },
-      {
-        "trend": "cancer",
-        "market_code": "NO",
-        "category": "Chronic Disease",
-        "score": 11,
-        "examples": [
-          "Medical College of Wisconsin Dedicates Michels Center for Cancer Discovery Following Landmark Gift - PR Newswire",
-          "These Infections Are Linked to 12% of New Cancer Cases - Time Magazine",
-          "HSV and cancer: What patients should know - Fred Hutchinson Cancer Center"
-        ]
-      },
-      {
-        "trend": "virus",
-        "market_code": "NO",
-        "category": "Outbreaks",
-        "score": 11,
-        "examples": [
-          "Health Officials Issue Urgent Warning About Deadly Bat Virus After More Than 40 People Bitten in 2 Weeks - People.com",
-          "Health Officials Issue Urgent Warning About Deadly Bat Virus After More Than 40 People Bitten in 2 Weeks - People.com",
-          "Two North Carolinians dead from West Nile Virus - WRAL"
-        ]
-      },
-      {
-        "trend": "mental",
-        "market_code": "NO",
-        "category": "Mental Health",
-        "score": 11,
-        "examples": [
-          "Lawyers report stress, drinking and gambling in new attorney mental health study - Reuters",
-          "Stigma in Parents of Children with Mental Health Problems - WCM Newsroom",
-          "Lindsay Clancy trial shines spotlight on maternal mental health - ABC7 Bay Area"
-        ]
-      },
-      {
-        "trend": "mental health",
-        "market_code": "NO",
-        "category": "Mental Health",
-        "score": 11,
-        "examples": [
-          "Lawyers report stress, drinking and gambling in new attorney mental health study - Reuters",
-          "Stigma in Parents of Children with Mental Health Problems - WCM Newsroom",
-          "Lindsay Clancy trial shines spotlight on maternal mental health - ABC7 Bay Area"
-        ]
-      },
-      {
-        "trend": "public health",
-        "market_code": "NO",
-        "category": "Europe Health",
-        "score": 10,
-        "examples": [
-          "College of Medicine welcomes Fulbright Scholar in public health sciences - The Pennsylvania State University",
-          "Data Centers and Public Health - American Public Health Association",
-          "Data Centers and Public Health - American Public Health Association"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
         "trend": "outbreak",
         "market_code": "NO",
         "category": "Outbreaks",
-        "score": 10,
-        "examples": [
-          "Pennsylvania announces sixth death in measles outbreak as case numbers rise - The Guardian",
-          "Ebola cases top 9,000 in DR Congo outbreak - CIDRAP",
-          "CDC to deploy additional support to Pennsylvania to probe measles outbreak - Reuters"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "healthcare",
+        "trend": "mental health",
+        "market_code": "NO",
+        "category": "Mental Health",
+        "score": 1,
+        "examples": []
+      },
+      {
+        "trend": "medical research",
         "market_code": "NO",
         "category": "Europe Health",
-        "score": 9,
-        "examples": [
-          "Oregon insurance regulators warn of cheap healthcare plans resulting in high bills - Tillamook Headlight-Herald",
-          "Artificial Intelligence and Healthcare’s Growing Data Economy - Baker Institute",
-          "AI Tracker: Teladoc launches new AI features - Modern Healthcare"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "hospitals",
+        "trend": "drug approval",
         "market_code": "NO",
-        "category": "Europe Health",
-        "score": 7,
-        "examples": [
-          "NYC Health + Hospitals Advances to Silver Recognition in the American Medical Association's Joy in Medicine Health System Recognition Program - NYC Health + Hospitals",
-          "NYC Health + Hospitals Advances to Silver Recognition in the American Medical Association's Joy in Medicine Health System Recognition Program - NYC Health + Hospitals",
-          "NYC Health + Hospitals Advances to Silver Recognition in the American Medical Association's Joy in Medicine Health System Recognition Program - NYC Health + Hospitals"
-        ]
+        "category": "Drug & Treatment News",
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "children",
+        "trend": "diet wellness",
         "market_code": "NO",
-        "category": "Children Health",
-        "score": 7,
-        "examples": [
-          "Texas health agency proposes eliminating children’s autism program - PBS",
-          "Why do some children become seriously ill with COVID-19? The answer may lie in their genes - Gavi, the Vaccine Alliance",
-          "Stigma in Parents of Children with Mental Health Problems - WCM Newsroom"
-        ]
-      },
-      {
-        "trend": "heart",
-        "market_code": "NO",
-        "category": "Chronic Disease",
-        "score": 7,
-        "examples": [
-          "Health tech competition finalists advance solutions for heart and brain health - www.heart.org",
-          "Health tech competition finalists advance solutions for heart and brain health - www.heart.org",
-          "Managing high blood pressure could prevent >500K CVD deaths annually in 20 countries - www.heart.org"
-        ]
+        "category": "Diet & Wellness",
+        "score": 1,
+        "examples": []
       }
     ],
     "Japan": [
       {
-        "trend": "health",
+        "trend": "health alert",
         "market_code": "JP",
         "category": "Asia Health",
-        "score": 93,
-        "examples": [
-          "Dr. Chisum-Price Appointed to Health Tribal Advisory Committee - Choctaw Nation of Oklahoma",
-          "NYC Health + Hospitals Advances to Silver Recognition in the American Medical Association's Joy in Medicine Health System Recognition Program - NYC Health + Hospitals",
-          "NYC Health + Hospitals Advances to Silver Recognition in the American Medical Association's Joy in Medicine Health System Recognition Program - NYC Health + Hospitals"
-        ]
-      },
-      {
-        "trend": "medical",
-        "market_code": "JP",
-        "category": "Asia Health",
-        "score": 18,
-        "examples": [
-          "NYC Health + Hospitals Advances to Silver Recognition in the American Medical Association's Joy in Medicine Health System Recognition Program - NYC Health + Hospitals",
-          "J&J posts weak medical device sales, shares fall - Reuters",
-          "This grad helps runs the Amazon of the medical device world - Northeastern Global News"
-        ]
-      },
-      {
-        "trend": "cancer",
-        "market_code": "JP",
-        "category": "Chronic Disease",
-        "score": 11,
-        "examples": [
-          "Medical College of Wisconsin Dedicates Michels Center for Cancer Discovery Following Landmark Gift - PR Newswire",
-          "These Infections Are Linked to 12% of New Cancer Cases - Time Magazine",
-          "HSV and cancer: What patients should know - Fred Hutchinson Cancer Center"
-        ]
-      },
-      {
-        "trend": "virus",
-        "market_code": "JP",
-        "category": "Outbreaks",
-        "score": 11,
-        "examples": [
-          "Health Officials Issue Urgent Warning About Deadly Bat Virus After More Than 40 People Bitten in 2 Weeks - People.com",
-          "Health Officials Issue Urgent Warning About Deadly Bat Virus After More Than 40 People Bitten in 2 Weeks - People.com",
-          "Two North Carolinians dead from West Nile Virus - WRAL"
-        ]
-      },
-      {
-        "trend": "mental",
-        "market_code": "JP",
-        "category": "Mental Health",
-        "score": 11,
-        "examples": [
-          "Lawyers report stress, drinking and gambling in new attorney mental health study - Reuters",
-          "Stigma in Parents of Children with Mental Health Problems - WCM Newsroom",
-          "Lindsay Clancy trial shines spotlight on maternal mental health - ABC7 Bay Area"
-        ]
-      },
-      {
-        "trend": "mental health",
-        "market_code": "JP",
-        "category": "Mental Health",
-        "score": 11,
-        "examples": [
-          "Lawyers report stress, drinking and gambling in new attorney mental health study - Reuters",
-          "Stigma in Parents of Children with Mental Health Problems - WCM Newsroom",
-          "Lindsay Clancy trial shines spotlight on maternal mental health - ABC7 Bay Area"
-        ]
-      },
-      {
-        "trend": "public health",
-        "market_code": "JP",
-        "category": "Asia Health",
-        "score": 10,
-        "examples": [
-          "College of Medicine welcomes Fulbright Scholar in public health sciences - The Pennsylvania State University",
-          "Data Centers and Public Health - American Public Health Association",
-          "Data Centers and Public Health - American Public Health Association"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
         "trend": "outbreak",
         "market_code": "JP",
         "category": "Outbreaks",
-        "score": 10,
-        "examples": [
-          "Pennsylvania announces sixth death in measles outbreak as case numbers rise - The Guardian",
-          "Ebola cases top 9,000 in DR Congo outbreak - CIDRAP",
-          "CDC to deploy additional support to Pennsylvania to probe measles outbreak - Reuters"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "healthcare",
+        "trend": "mental health",
+        "market_code": "JP",
+        "category": "Mental Health",
+        "score": 1,
+        "examples": []
+      },
+      {
+        "trend": "medical research",
         "market_code": "JP",
         "category": "Asia Health",
-        "score": 9,
-        "examples": [
-          "Oregon insurance regulators warn of cheap healthcare plans resulting in high bills - Tillamook Headlight-Herald",
-          "Artificial Intelligence and Healthcare’s Growing Data Economy - Baker Institute",
-          "AI Tracker: Teladoc launches new AI features - Modern Healthcare"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "hospitals",
+        "trend": "drug approval",
         "market_code": "JP",
-        "category": "Asia Health",
-        "score": 7,
-        "examples": [
-          "NYC Health + Hospitals Advances to Silver Recognition in the American Medical Association's Joy in Medicine Health System Recognition Program - NYC Health + Hospitals",
-          "NYC Health + Hospitals Advances to Silver Recognition in the American Medical Association's Joy in Medicine Health System Recognition Program - NYC Health + Hospitals",
-          "NYC Health + Hospitals Advances to Silver Recognition in the American Medical Association's Joy in Medicine Health System Recognition Program - NYC Health + Hospitals"
-        ]
+        "category": "Drug & Treatment News",
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "children",
+        "trend": "diet wellness",
         "market_code": "JP",
-        "category": "Children Health",
-        "score": 7,
-        "examples": [
-          "Texas health agency proposes eliminating children’s autism program - PBS",
-          "Why do some children become seriously ill with COVID-19? The answer may lie in their genes - Gavi, the Vaccine Alliance",
-          "Stigma in Parents of Children with Mental Health Problems - WCM Newsroom"
-        ]
-      },
-      {
-        "trend": "heart",
-        "market_code": "JP",
-        "category": "Chronic Disease",
-        "score": 7,
-        "examples": [
-          "Health tech competition finalists advance solutions for heart and brain health - www.heart.org",
-          "Health tech competition finalists advance solutions for heart and brain health - www.heart.org",
-          "Managing high blood pressure could prevent >500K CVD deaths annually in 20 countries - www.heart.org"
-        ]
+        "category": "Diet & Wellness",
+        "score": 1,
+        "examples": []
       }
     ],
     "China": [
       {
-        "trend": "health",
+        "trend": "health alert",
         "market_code": "CN",
         "category": "Asia Health",
-        "score": 93,
-        "examples": [
-          "Dr. Chisum-Price Appointed to Health Tribal Advisory Committee - Choctaw Nation of Oklahoma",
-          "NYC Health + Hospitals Advances to Silver Recognition in the American Medical Association's Joy in Medicine Health System Recognition Program - NYC Health + Hospitals",
-          "NYC Health + Hospitals Advances to Silver Recognition in the American Medical Association's Joy in Medicine Health System Recognition Program - NYC Health + Hospitals"
-        ]
-      },
-      {
-        "trend": "medical",
-        "market_code": "CN",
-        "category": "Asia Health",
-        "score": 18,
-        "examples": [
-          "NYC Health + Hospitals Advances to Silver Recognition in the American Medical Association's Joy in Medicine Health System Recognition Program - NYC Health + Hospitals",
-          "J&J posts weak medical device sales, shares fall - Reuters",
-          "This grad helps runs the Amazon of the medical device world - Northeastern Global News"
-        ]
-      },
-      {
-        "trend": "cancer",
-        "market_code": "CN",
-        "category": "Chronic Disease",
-        "score": 11,
-        "examples": [
-          "Medical College of Wisconsin Dedicates Michels Center for Cancer Discovery Following Landmark Gift - PR Newswire",
-          "These Infections Are Linked to 12% of New Cancer Cases - Time Magazine",
-          "HSV and cancer: What patients should know - Fred Hutchinson Cancer Center"
-        ]
-      },
-      {
-        "trend": "virus",
-        "market_code": "CN",
-        "category": "Outbreaks",
-        "score": 11,
-        "examples": [
-          "Health Officials Issue Urgent Warning About Deadly Bat Virus After More Than 40 People Bitten in 2 Weeks - People.com",
-          "Health Officials Issue Urgent Warning About Deadly Bat Virus After More Than 40 People Bitten in 2 Weeks - People.com",
-          "Two North Carolinians dead from West Nile Virus - WRAL"
-        ]
-      },
-      {
-        "trend": "mental",
-        "market_code": "CN",
-        "category": "Mental Health",
-        "score": 11,
-        "examples": [
-          "Lawyers report stress, drinking and gambling in new attorney mental health study - Reuters",
-          "Stigma in Parents of Children with Mental Health Problems - WCM Newsroom",
-          "Lindsay Clancy trial shines spotlight on maternal mental health - ABC7 Bay Area"
-        ]
-      },
-      {
-        "trend": "mental health",
-        "market_code": "CN",
-        "category": "Mental Health",
-        "score": 11,
-        "examples": [
-          "Lawyers report stress, drinking and gambling in new attorney mental health study - Reuters",
-          "Stigma in Parents of Children with Mental Health Problems - WCM Newsroom",
-          "Lindsay Clancy trial shines spotlight on maternal mental health - ABC7 Bay Area"
-        ]
-      },
-      {
-        "trend": "public health",
-        "market_code": "CN",
-        "category": "Asia Health",
-        "score": 10,
-        "examples": [
-          "College of Medicine welcomes Fulbright Scholar in public health sciences - The Pennsylvania State University",
-          "Data Centers and Public Health - American Public Health Association",
-          "Data Centers and Public Health - American Public Health Association"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
         "trend": "outbreak",
         "market_code": "CN",
         "category": "Outbreaks",
-        "score": 10,
-        "examples": [
-          "Pennsylvania announces sixth death in measles outbreak as case numbers rise - The Guardian",
-          "Ebola cases top 9,000 in DR Congo outbreak - CIDRAP",
-          "CDC to deploy additional support to Pennsylvania to probe measles outbreak - Reuters"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "healthcare",
+        "trend": "mental health",
+        "market_code": "CN",
+        "category": "Mental Health",
+        "score": 1,
+        "examples": []
+      },
+      {
+        "trend": "medical research",
         "market_code": "CN",
         "category": "Asia Health",
-        "score": 9,
-        "examples": [
-          "Oregon insurance regulators warn of cheap healthcare plans resulting in high bills - Tillamook Headlight-Herald",
-          "Artificial Intelligence and Healthcare’s Growing Data Economy - Baker Institute",
-          "AI Tracker: Teladoc launches new AI features - Modern Healthcare"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "hospitals",
+        "trend": "drug approval",
         "market_code": "CN",
-        "category": "Asia Health",
-        "score": 7,
-        "examples": [
-          "NYC Health + Hospitals Advances to Silver Recognition in the American Medical Association's Joy in Medicine Health System Recognition Program - NYC Health + Hospitals",
-          "NYC Health + Hospitals Advances to Silver Recognition in the American Medical Association's Joy in Medicine Health System Recognition Program - NYC Health + Hospitals",
-          "NYC Health + Hospitals Advances to Silver Recognition in the American Medical Association's Joy in Medicine Health System Recognition Program - NYC Health + Hospitals"
-        ]
+        "category": "Drug & Treatment News",
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "children",
+        "trend": "diet wellness",
         "market_code": "CN",
-        "category": "Children Health",
-        "score": 7,
-        "examples": [
-          "Texas health agency proposes eliminating children’s autism program - PBS",
-          "Why do some children become seriously ill with COVID-19? The answer may lie in their genes - Gavi, the Vaccine Alliance",
-          "Stigma in Parents of Children with Mental Health Problems - WCM Newsroom"
-        ]
-      },
-      {
-        "trend": "heart",
-        "market_code": "CN",
-        "category": "Chronic Disease",
-        "score": 7,
-        "examples": [
-          "Health tech competition finalists advance solutions for heart and brain health - www.heart.org",
-          "Health tech competition finalists advance solutions for heart and brain health - www.heart.org",
-          "Managing high blood pressure could prevent >500K CVD deaths annually in 20 countries - www.heart.org"
-        ]
+        "category": "Diet & Wellness",
+        "score": 1,
+        "examples": []
       }
     ],
     "South Korea": [
       {
-        "trend": "health",
+        "trend": "health alert",
         "market_code": "KR",
         "category": "Asia Health",
-        "score": 93,
-        "examples": [
-          "Dr. Chisum-Price Appointed to Health Tribal Advisory Committee - Choctaw Nation of Oklahoma",
-          "NYC Health + Hospitals Advances to Silver Recognition in the American Medical Association's Joy in Medicine Health System Recognition Program - NYC Health + Hospitals",
-          "NYC Health + Hospitals Advances to Silver Recognition in the American Medical Association's Joy in Medicine Health System Recognition Program - NYC Health + Hospitals"
-        ]
-      },
-      {
-        "trend": "medical",
-        "market_code": "KR",
-        "category": "Asia Health",
-        "score": 18,
-        "examples": [
-          "NYC Health + Hospitals Advances to Silver Recognition in the American Medical Association's Joy in Medicine Health System Recognition Program - NYC Health + Hospitals",
-          "J&J posts weak medical device sales, shares fall - Reuters",
-          "This grad helps runs the Amazon of the medical device world - Northeastern Global News"
-        ]
-      },
-      {
-        "trend": "cancer",
-        "market_code": "KR",
-        "category": "Chronic Disease",
-        "score": 11,
-        "examples": [
-          "Medical College of Wisconsin Dedicates Michels Center for Cancer Discovery Following Landmark Gift - PR Newswire",
-          "These Infections Are Linked to 12% of New Cancer Cases - Time Magazine",
-          "HSV and cancer: What patients should know - Fred Hutchinson Cancer Center"
-        ]
-      },
-      {
-        "trend": "virus",
-        "market_code": "KR",
-        "category": "Outbreaks",
-        "score": 11,
-        "examples": [
-          "Health Officials Issue Urgent Warning About Deadly Bat Virus After More Than 40 People Bitten in 2 Weeks - People.com",
-          "Health Officials Issue Urgent Warning About Deadly Bat Virus After More Than 40 People Bitten in 2 Weeks - People.com",
-          "Two North Carolinians dead from West Nile Virus - WRAL"
-        ]
-      },
-      {
-        "trend": "mental",
-        "market_code": "KR",
-        "category": "Mental Health",
-        "score": 11,
-        "examples": [
-          "Lawyers report stress, drinking and gambling in new attorney mental health study - Reuters",
-          "Stigma in Parents of Children with Mental Health Problems - WCM Newsroom",
-          "Lindsay Clancy trial shines spotlight on maternal mental health - ABC7 Bay Area"
-        ]
-      },
-      {
-        "trend": "mental health",
-        "market_code": "KR",
-        "category": "Mental Health",
-        "score": 11,
-        "examples": [
-          "Lawyers report stress, drinking and gambling in new attorney mental health study - Reuters",
-          "Stigma in Parents of Children with Mental Health Problems - WCM Newsroom",
-          "Lindsay Clancy trial shines spotlight on maternal mental health - ABC7 Bay Area"
-        ]
-      },
-      {
-        "trend": "public health",
-        "market_code": "KR",
-        "category": "Asia Health",
-        "score": 10,
-        "examples": [
-          "College of Medicine welcomes Fulbright Scholar in public health sciences - The Pennsylvania State University",
-          "Data Centers and Public Health - American Public Health Association",
-          "Data Centers and Public Health - American Public Health Association"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
         "trend": "outbreak",
         "market_code": "KR",
         "category": "Outbreaks",
-        "score": 10,
-        "examples": [
-          "Pennsylvania announces sixth death in measles outbreak as case numbers rise - The Guardian",
-          "Ebola cases top 9,000 in DR Congo outbreak - CIDRAP",
-          "CDC to deploy additional support to Pennsylvania to probe measles outbreak - Reuters"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "healthcare",
+        "trend": "mental health",
+        "market_code": "KR",
+        "category": "Mental Health",
+        "score": 1,
+        "examples": []
+      },
+      {
+        "trend": "medical research",
         "market_code": "KR",
         "category": "Asia Health",
-        "score": 9,
-        "examples": [
-          "Oregon insurance regulators warn of cheap healthcare plans resulting in high bills - Tillamook Headlight-Herald",
-          "Artificial Intelligence and Healthcare’s Growing Data Economy - Baker Institute",
-          "AI Tracker: Teladoc launches new AI features - Modern Healthcare"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "hospitals",
+        "trend": "drug approval",
         "market_code": "KR",
-        "category": "Asia Health",
-        "score": 7,
-        "examples": [
-          "NYC Health + Hospitals Advances to Silver Recognition in the American Medical Association's Joy in Medicine Health System Recognition Program - NYC Health + Hospitals",
-          "NYC Health + Hospitals Advances to Silver Recognition in the American Medical Association's Joy in Medicine Health System Recognition Program - NYC Health + Hospitals",
-          "NYC Health + Hospitals Advances to Silver Recognition in the American Medical Association's Joy in Medicine Health System Recognition Program - NYC Health + Hospitals"
-        ]
+        "category": "Drug & Treatment News",
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "children",
+        "trend": "diet wellness",
         "market_code": "KR",
-        "category": "Children Health",
-        "score": 7,
-        "examples": [
-          "Texas health agency proposes eliminating children’s autism program - PBS",
-          "Why do some children become seriously ill with COVID-19? The answer may lie in their genes - Gavi, the Vaccine Alliance",
-          "Stigma in Parents of Children with Mental Health Problems - WCM Newsroom"
-        ]
-      },
-      {
-        "trend": "heart",
-        "market_code": "KR",
-        "category": "Chronic Disease",
-        "score": 7,
-        "examples": [
-          "Health tech competition finalists advance solutions for heart and brain health - www.heart.org",
-          "Health tech competition finalists advance solutions for heart and brain health - www.heart.org",
-          "Managing high blood pressure could prevent >500K CVD deaths annually in 20 countries - www.heart.org"
-        ]
+        "category": "Diet & Wellness",
+        "score": 1,
+        "examples": []
       }
     ],
     "India": [
       {
-        "trend": "health",
+        "trend": "health alert",
         "market_code": "IN",
         "category": "Asia Health",
-        "score": 85,
-        "examples": [
-          "WHO sounds alarm on critical funding gap for health response in Yemen - World Health Organization (WHO)",
-          "WHO sounds alarm on critical funding gap for health response in Yemen - World Health Organization (WHO)",
-          "Brain damage to toddler: Health Department refers medical negligence case against hospital to Karnataka Medical Council - The Hindu"
-        ]
-      },
-      {
-        "trend": "medical",
-        "market_code": "IN",
-        "category": "Asia Health",
-        "score": 21,
-        "examples": [
-          "Brain damage to toddler: Health Department refers medical negligence case against hospital to Karnataka Medical Council - The Hindu",
-          "Brain damage to toddler: Health Department refers medical negligence case against hospital to Karnataka Medical Council - The Hindu",
-          "Brain damage to toddler: Health Department refers medical negligence case against hospital to Karnataka Medical Council - The Hindu"
-        ]
-      },
-      {
-        "trend": "mental",
-        "market_code": "IN",
-        "category": "Mental Health",
-        "score": 15,
-        "examples": [
-          "Warning Signs for Young People’s Mental Health - tovima.com",
-          "Could art help support mental health in schools and care settings? - Elsevier",
-          "SC, ST, transgender students in focus as SC task force plans campus mental health reforms - The New Indian Express"
-        ]
-      },
-      {
-        "trend": "mental health",
-        "market_code": "IN",
-        "category": "Mental Health",
-        "score": 15,
-        "examples": [
-          "Warning Signs for Young People’s Mental Health - tovima.com",
-          "Could art help support mental health in schools and care settings? - Elsevier",
-          "SC, ST, transgender students in focus as SC task force plans campus mental health reforms - The New Indian Express"
-        ]
-      },
-      {
-        "trend": "healthcare",
-        "market_code": "IN",
-        "category": "Asia Health",
-        "score": 11,
-        "examples": [
-          "Affordable and Accessible Healthcare for All - Press Information Bureau",
-          "Artificial Intelligence and Healthcare’s Growing Data Economy - Baker Institute",
-          "How healthcare and the environment can benefit from 'Green' AI - healthcare-in-europe.com"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
         "trend": "outbreak",
         "market_code": "IN",
         "category": "Outbreaks",
-        "score": 11,
-        "examples": [
-          "Ebola cases top 9,000 in DR Congo outbreak - CIDRAP",
-          "Yemen: Houthi siege, cholera outbreak and aid cuts put civilians in the crosshairs - UN News",
-          "CDC to deploy additional support to Pennsylvania to probe measles outbreak - Reuters"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "warning",
+        "trend": "mental health",
+        "market_code": "IN",
+        "category": "Mental Health",
+        "score": 1,
+        "examples": []
+      },
+      {
+        "trend": "medical research",
         "market_code": "IN",
         "category": "Asia Health",
-        "score": 10,
-        "examples": [
-          "6 Warning Signs You’re Not Eating Enough Fiber - Health.com",
-          "Heart Racing During Garba: Is It Adrenaline Or A Warning Sign? - Health and Me",
-          "FDA Advisory No.2026-1605 || Public Health Warning Against the Purchase and Use of the Unnotified Medical Device Product “STERILE ADHESIVE EYE PAD, NON WOVEN HIGHLY ABSORBENT” - https://www.fda.gov.ph/"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "cancer",
+        "trend": "drug approval",
         "market_code": "IN",
-        "category": "Chronic Disease",
-        "score": 9,
-        "examples": [
-          "These Infections Are Linked to 12% of New Cancer Cases - Time Magazine",
-          "Long-term viral hepatitis control and changing patterns of liver cancer mortality in Japan - EurekAlert!",
-          "These Infections Are Linked to 12% of New Cancer Cases - Time Magazine"
-        ]
+        "category": "Drug & Treatment News",
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "hospital",
+        "trend": "diet wellness",
         "market_code": "IN",
-        "category": "Asia Health",
-        "score": 7,
-        "examples": [
-          "Brain damage to toddler: Health Department refers medical negligence case against hospital to Karnataka Medical Council - The Hindu",
-          "Brain damage to toddler: Health Department refers medical negligence case against hospital to Karnataka Medical Council - The Hindu",
-          "Pathology fellow explores using whole-genome sequencing to identify hospital infection outbreaks - University of Nebraska Medical Center"
-        ]
-      },
-      {
-        "trend": "health care",
-        "market_code": "IN",
-        "category": "Asia Health",
-        "score": 7,
-        "examples": [
-          "Health Care Roundup: Market Talk - WSJ",
-          "Doctors, Public Health Experts and Dental Leaders Call for Oral Health to Become Part of Everyday Health Care - Business Wire",
-          "10 Health Care Stocks With Whale Alerts In Today’s Session - Benzinga"
-        ]
-      },
-      {
-        "trend": "public health",
-        "market_code": "IN",
-        "category": "Asia Health",
-        "score": 7,
-        "examples": [
-          "Data Centers and Public Health - American Public Health Association",
-          "Data Centers and Public Health - American Public Health Association",
-          "Doctors, Public Health Experts and Dental Leaders Call for Oral Health to Become Part of Everyday Health Care - Business Wire"
-        ]
-      },
-      {
-        "trend": "disease",
-        "market_code": "IN",
-        "category": "Asia Health",
-        "score": 6,
-        "examples": [
-          "New method helps researchers study proteins involved in plant health, disease - Phys.org",
-          "Connecting conservation and health: Central Asia strengthens preparedness for zoonotic disease risks in protected areas - International Union for Conservation of Nature",
-          "Connecting conservation and health: Central Asia strengthens preparedness for zoonotic disease risks in protected areas - International Union for Conservation of Nature"
-        ]
+        "category": "Diet & Wellness",
+        "score": 1,
+        "examples": []
       }
     ],
     "Australia": [
       {
-        "trend": "health",
+        "trend": "health alert",
         "market_code": "AU",
         "category": "Global Health",
-        "score": 73,
-        "examples": [
-          "Construction complete on new South Tuggeranong Health Centre - ACT Government",
-          "NZ’s health system suffers from chronic ailments only cross-party consensus can treat - The Conversation",
-          "WHO Health Emergencies EPI-WIN webinar: Safer Cholera treatment facilities: the latest WHO guidance on design, construction, WASH - World Health Organization (WHO)"
-        ]
-      },
-      {
-        "trend": "medical",
-        "market_code": "AU",
-        "category": "Global Health",
-        "score": 15,
-        "examples": [
-          "Death investigated after ambulance not available for medical emergency - ABC News & Headlines – Australian Broadcasting Corporation",
-          "Young Maxi Catania’s win against rare, aggressive leukemia proves importance of medical research for WA kids - The West Australian",
-          "James McAvoy almost died after 'botched' medical procedure - Nine.com.au"
-        ]
-      },
-      {
-        "trend": "mental",
-        "market_code": "AU",
-        "category": "Mental Health",
-        "score": 12,
-        "examples": [
-          "Revealed: The $600 million needed to fix mental health that was buried - SMH.com.au",
-          "Mental disorders are twice as common among victim-survivors of intimate partner violence - The Conversation",
-          "Revealed: The $600 million needed to fix mental health that was buried - SMH.com.au"
-        ]
-      },
-      {
-        "trend": "warning",
-        "market_code": "AU",
-        "category": "Global Health",
-        "score": 11,
-        "examples": [
-          "Medical professionals issue stark warning as emergency departments struggle to keep up with surging demand - 7NEWS",
-          "Health experts issue warning after nearly 50 people bitten or scratched by bats across NSW - Nine.com.au",
-          "Health Officials Issue Urgent Warning About Deadly Bat Virus After More Than 40 People Bitten in 2 Weeks - People.com"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
         "trend": "outbreak",
         "market_code": "AU",
         "category": "Outbreaks",
-        "score": 11,
-        "examples": [
-          "Ebola cases top 9,000 in DR Congo outbreak - CIDRAP",
-          "Yemen: Houthi siege, cholera outbreak and aid cuts put civilians in the crosshairs - UN News",
-          "Pennsylvania announces sixth death in measles outbreak as case numbers rise - The Guardian"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
         "trend": "mental health",
         "market_code": "AU",
         "category": "Mental Health",
-        "score": 10,
-        "examples": [
-          "Revealed: The $600 million needed to fix mental health that was buried - SMH.com.au",
-          "Revealed: The $600 million needed to fix mental health that was buried - SMH.com.au",
-          "College brekky to benefit blokes’ mental health - Times News Group"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "healthcare",
+        "trend": "medical research",
         "market_code": "AU",
         "category": "Global Health",
-        "score": 9,
-        "examples": [
-          "How healthcare and the environment can benefit from 'Green' AI - healthcare-in-europe.com",
-          "Artificial Intelligence and Healthcare’s Growing Data Economy - Baker Institute",
-          "South Korea releases AI-powered care roadmap and more briefs - Healthcare IT News"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "treatment",
+        "trend": "drug approval",
         "market_code": "AU",
         "category": "Drug & Treatment News",
-        "score": 8,
-        "examples": [
-          "WHO Health Emergencies EPI-WIN webinar: Safer Cholera treatment facilities: the latest WHO guidance on design, construction, WASH - World Health Organization (WHO)",
-          "Enhanced CAR T-cell therapy may improve treatment options for patients with B-cell blood cancers - News-Medical",
-          "WHO Health Emergencies EPI-WIN webinar: Safer Cholera treatment facilities: the latest WHO guidance on design, construction, WASH - World Health Organization (WHO)"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "virus",
+        "trend": "diet wellness",
         "market_code": "AU",
-        "category": "Outbreaks",
-        "score": 7,
-        "examples": [
-          "Health Officials Issue Urgent Warning About Deadly Bat Virus After More Than 40 People Bitten in 2 Weeks - People.com",
-          "‘Essentially rabies’: Virus warning after 43 people bitten, scratched by bats in just two weeks - 7NEWS",
-          "Health Officials Issue Urgent Warning About Deadly Bat Virus After More Than 40 People Bitten in 2 Weeks - People.com"
-        ]
-      },
-      {
-        "trend": "cancer",
-        "market_code": "AU",
-        "category": "Chronic Disease",
-        "score": 7,
-        "examples": [
-          "These Infections Are Linked to 12% of New Cancer Cases - Time Magazine",
-          "These Infections Are Linked to 12% of New Cancer Cases - Time Magazine",
-          "Experimental vaccine shows promise against deadly brain cancer in some patients - NBC News"
-        ]
-      },
-      {
-        "trend": "children",
-        "market_code": "AU",
-        "category": "Children Health",
-        "score": 7,
-        "examples": [
-          "Why do some children become seriously ill with COVID-19? The answer may lie in their genes - Gavi, the Vaccine Alliance",
-          "Stigma in Parents of Children with Mental Health Problems - WCM Newsroom",
-          "After-school-based intervention helps steer children toward healthier BMI scores - Medical Xpress"
-        ]
-      },
-      {
-        "trend": "patients",
-        "market_code": "AU",
-        "category": "Global Health",
-        "score": 6,
-        "examples": [
-          "AI platform allows real-time conversation between patients and their medical devices - Penn Medicine",
-          "Enhanced CAR T-cell therapy may improve treatment options for patients with B-cell blood cancers - News-Medical",
-          "When health technology works, patients and physicians get time back - American Medical Association | AMA"
-        ]
+        "category": "Diet & Wellness",
+        "score": 1,
+        "examples": []
       }
     ],
     "Canada": [
       {
-        "trend": "health",
+        "trend": "health alert",
         "market_code": "CA",
         "category": "Global Health",
-        "score": 74,
-        "examples": [
-          "Niagara Health introduces new online booking for breast screening appointments - Niagara Health",
-          "Niagara Health introduces new online booking for breast screening appointments - Niagara Health",
-          "Health care ranked as the top priority for British Columbians ahead of provincial election - Doctors of BC"
-        ]
-      },
-      {
-        "trend": "medical",
-        "market_code": "CA",
-        "category": "Global Health",
-        "score": 18,
-        "examples": [
-          "Western medical students create diverse children’s books Western News - - Western University",
-          "Western medical students create diverse children’s books Western News - - Western University",
-          "Ontario’s medical regulator approves changes to prescribing safer supply drugs - Toronto Star"
-        ]
-      },
-      {
-        "trend": "mental",
-        "market_code": "CA",
-        "category": "Mental Health",
-        "score": 12,
-        "examples": [
-          "Warning Signs for Young People’s Mental Health - tovima.com",
-          "The invisible gap - Mental Health Commission of Canada",
-          "Psychotherapist's petition seeks OHIP coverage for mental health - Barrie News"
-        ]
-      },
-      {
-        "trend": "mental health",
-        "market_code": "CA",
-        "category": "Mental Health",
-        "score": 12,
-        "examples": [
-          "Warning Signs for Young People’s Mental Health - tovima.com",
-          "The invisible gap - Mental Health Commission of Canada",
-          "Psychotherapist's petition seeks OHIP coverage for mental health - Barrie News"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
         "trend": "outbreak",
         "market_code": "CA",
         "category": "Outbreaks",
-        "score": 11,
-        "examples": [
-          "Ebola cases top 9,000 in DR Congo outbreak - CIDRAP",
-          "Yemen: Houthi siege, cholera outbreak and aid cuts put civilians in the crosshairs - UN News",
-          "Pennsylvania announces sixth death in measles outbreak as case numbers rise - The Guardian"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "healthcare",
+        "trend": "mental health",
+        "market_code": "CA",
+        "category": "Mental Health",
+        "score": 1,
+        "examples": []
+      },
+      {
+        "trend": "medical research",
         "market_code": "CA",
         "category": "Global Health",
-        "score": 10,
-        "examples": [
-          "Artificial Intelligence and Healthcare’s Growing Data Economy - Baker Institute",
-          "How healthcare and the environment can benefit from 'Green' AI - healthcare-in-europe.com",
-          "3 Canadian AI Healthcare Stocks With Market Caps Up To $316 Million - Simply Wall Street"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "cancer",
+        "trend": "drug approval",
         "market_code": "CA",
-        "category": "Chronic Disease",
-        "score": 9,
-        "examples": [
-          "Osara Health and Medibank partner to bring one-on-one cancer coaching to members - PR Newswire Canada",
-          "These Infections Are Linked to 12% of New Cancer Cases - Time Magazine",
-          "HSV and cancer: What patients should know - Fred Hutchinson Cancer Center"
-        ]
+        "category": "Drug & Treatment News",
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "health care",
+        "trend": "diet wellness",
         "market_code": "CA",
-        "category": "Global Health",
-        "score": 8,
-        "examples": [
-          "Health care ranked as the top priority for British Columbians ahead of provincial election - Doctors of BC",
-          "MEDIA RELEASE - BCGEU releases 2026 provincial election report card: 100,000 plus members call on parties to focus on affordability, health care and good jobs - BC General Employees' Union (BCGEU)",
-          "NDP leader opposes private health care; BC Conservatives claim ‘fearmongering’ - CityNews Vancouver"
-        ]
-      },
-      {
-        "trend": "children",
-        "market_code": "CA",
-        "category": "Children Health",
-        "score": 7,
-        "examples": [
-          "Western medical students create diverse children’s books Western News - - Western University",
-          "Western medical students create diverse children’s books Western News - - Western University",
-          "Why do some children become seriously ill with COVID-19? The answer may lie in their genes - Gavi, the Vaccine Alliance"
-        ]
-      },
-      {
-        "trend": "patients",
-        "market_code": "CA",
-        "category": "Global Health",
-        "score": 7,
-        "examples": [
-          "AI platform allows real-time conversation between patients and their medical devices - Penn Medicine",
-          "AI platform allows real-time conversation between patients and their medical devices - EurekAlert!",
-          "HSV and cancer: What patients should know - Fred Hutchinson Cancer Center"
-        ]
-      },
-      {
-        "trend": "warning",
-        "market_code": "CA",
-        "category": "Global Health",
-        "score": 7,
-        "examples": [
-          "Health Officials Issue Urgent Warning About Deadly Bat Virus After More Than 40 People Bitten in 2 Weeks - People.com",
-          "6 Warning Signs You’re Not Eating Enough Fiber - Health.com",
-          "Blood clots can affect women of any age – 4 warning signs you should never ignore - Women's Health"
-        ]
-      },
-      {
-        "trend": "infection",
-        "market_code": "CA",
-        "category": "Outbreaks",
-        "score": 6,
-        "examples": [
-          "Sask. health officials urge public to get flu, COVID-19 shots while infection rate still low - CBC",
-          "Sask. health officials urge public to get flu, COVID-19 shots while infection rate still low - CBC",
-          "Sask. health officials urge public to get flu, COVID-19 shots while infection rate still low - CBC"
-        ]
+        "category": "Diet & Wellness",
+        "score": 1,
+        "examples": []
       }
     ],
     "United Arab Emirates": [
       {
-        "trend": "health",
+        "trend": "health alert",
         "market_code": "AE",
         "category": "Arab Health",
-        "score": 93,
-        "examples": [
-          "Dr. Chisum-Price Appointed to Health Tribal Advisory Committee - Choctaw Nation of Oklahoma",
-          "NYC Health + Hospitals Advances to Silver Recognition in the American Medical Association's Joy in Medicine Health System Recognition Program - NYC Health + Hospitals",
-          "NYC Health + Hospitals Advances to Silver Recognition in the American Medical Association's Joy in Medicine Health System Recognition Program - NYC Health + Hospitals"
-        ]
-      },
-      {
-        "trend": "medical",
-        "market_code": "AE",
-        "category": "Arab Health",
-        "score": 18,
-        "examples": [
-          "NYC Health + Hospitals Advances to Silver Recognition in the American Medical Association's Joy in Medicine Health System Recognition Program - NYC Health + Hospitals",
-          "J&J posts weak medical device sales, shares fall - Reuters",
-          "This grad helps runs the Amazon of the medical device world - Northeastern Global News"
-        ]
-      },
-      {
-        "trend": "cancer",
-        "market_code": "AE",
-        "category": "Chronic Disease",
-        "score": 11,
-        "examples": [
-          "Medical College of Wisconsin Dedicates Michels Center for Cancer Discovery Following Landmark Gift - PR Newswire",
-          "These Infections Are Linked to 12% of New Cancer Cases - Time Magazine",
-          "HSV and cancer: What patients should know - Fred Hutchinson Cancer Center"
-        ]
-      },
-      {
-        "trend": "virus",
-        "market_code": "AE",
-        "category": "Outbreaks",
-        "score": 11,
-        "examples": [
-          "Health Officials Issue Urgent Warning About Deadly Bat Virus After More Than 40 People Bitten in 2 Weeks - People.com",
-          "Health Officials Issue Urgent Warning About Deadly Bat Virus After More Than 40 People Bitten in 2 Weeks - People.com",
-          "Two North Carolinians dead from West Nile Virus - WRAL"
-        ]
-      },
-      {
-        "trend": "mental",
-        "market_code": "AE",
-        "category": "Mental Health",
-        "score": 11,
-        "examples": [
-          "Lawyers report stress, drinking and gambling in new attorney mental health study - Reuters",
-          "Stigma in Parents of Children with Mental Health Problems - WCM Newsroom",
-          "Lindsay Clancy trial shines spotlight on maternal mental health - ABC7 Bay Area"
-        ]
-      },
-      {
-        "trend": "mental health",
-        "market_code": "AE",
-        "category": "Mental Health",
-        "score": 11,
-        "examples": [
-          "Lawyers report stress, drinking and gambling in new attorney mental health study - Reuters",
-          "Stigma in Parents of Children with Mental Health Problems - WCM Newsroom",
-          "Lindsay Clancy trial shines spotlight on maternal mental health - ABC7 Bay Area"
-        ]
-      },
-      {
-        "trend": "public health",
-        "market_code": "AE",
-        "category": "Arab Health",
-        "score": 10,
-        "examples": [
-          "College of Medicine welcomes Fulbright Scholar in public health sciences - The Pennsylvania State University",
-          "Data Centers and Public Health - American Public Health Association",
-          "Data Centers and Public Health - American Public Health Association"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
         "trend": "outbreak",
         "market_code": "AE",
         "category": "Outbreaks",
-        "score": 10,
-        "examples": [
-          "Pennsylvania announces sixth death in measles outbreak as case numbers rise - The Guardian",
-          "Ebola cases top 9,000 in DR Congo outbreak - CIDRAP",
-          "CDC to deploy additional support to Pennsylvania to probe measles outbreak - Reuters"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "healthcare",
+        "trend": "mental health",
+        "market_code": "AE",
+        "category": "Mental Health",
+        "score": 1,
+        "examples": []
+      },
+      {
+        "trend": "medical research",
         "market_code": "AE",
         "category": "Arab Health",
-        "score": 9,
-        "examples": [
-          "Oregon insurance regulators warn of cheap healthcare plans resulting in high bills - Tillamook Headlight-Herald",
-          "Artificial Intelligence and Healthcare’s Growing Data Economy - Baker Institute",
-          "AI Tracker: Teladoc launches new AI features - Modern Healthcare"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "hospitals",
+        "trend": "drug approval",
         "market_code": "AE",
-        "category": "Arab Health",
-        "score": 7,
-        "examples": [
-          "NYC Health + Hospitals Advances to Silver Recognition in the American Medical Association's Joy in Medicine Health System Recognition Program - NYC Health + Hospitals",
-          "NYC Health + Hospitals Advances to Silver Recognition in the American Medical Association's Joy in Medicine Health System Recognition Program - NYC Health + Hospitals",
-          "NYC Health + Hospitals Advances to Silver Recognition in the American Medical Association's Joy in Medicine Health System Recognition Program - NYC Health + Hospitals"
-        ]
+        "category": "Drug & Treatment News",
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "children",
+        "trend": "diet wellness",
         "market_code": "AE",
-        "category": "Children Health",
-        "score": 7,
-        "examples": [
-          "Texas health agency proposes eliminating children’s autism program - PBS",
-          "Why do some children become seriously ill with COVID-19? The answer may lie in their genes - Gavi, the Vaccine Alliance",
-          "Stigma in Parents of Children with Mental Health Problems - WCM Newsroom"
-        ]
-      },
-      {
-        "trend": "heart",
-        "market_code": "AE",
-        "category": "Chronic Disease",
-        "score": 7,
-        "examples": [
-          "Health tech competition finalists advance solutions for heart and brain health - www.heart.org",
-          "Health tech competition finalists advance solutions for heart and brain health - www.heart.org",
-          "Managing high blood pressure could prevent >500K CVD deaths annually in 20 countries - www.heart.org"
-        ]
+        "category": "Diet & Wellness",
+        "score": 1,
+        "examples": []
       }
     ],
     "Saudi Arabia": [
       {
-        "trend": "health",
+        "trend": "health alert",
         "market_code": "SA",
         "category": "Arab Health",
-        "score": 93,
-        "examples": [
-          "Dr. Chisum-Price Appointed to Health Tribal Advisory Committee - Choctaw Nation of Oklahoma",
-          "NYC Health + Hospitals Advances to Silver Recognition in the American Medical Association's Joy in Medicine Health System Recognition Program - NYC Health + Hospitals",
-          "NYC Health + Hospitals Advances to Silver Recognition in the American Medical Association's Joy in Medicine Health System Recognition Program - NYC Health + Hospitals"
-        ]
-      },
-      {
-        "trend": "medical",
-        "market_code": "SA",
-        "category": "Arab Health",
-        "score": 18,
-        "examples": [
-          "NYC Health + Hospitals Advances to Silver Recognition in the American Medical Association's Joy in Medicine Health System Recognition Program - NYC Health + Hospitals",
-          "J&J posts weak medical device sales, shares fall - Reuters",
-          "This grad helps runs the Amazon of the medical device world - Northeastern Global News"
-        ]
-      },
-      {
-        "trend": "cancer",
-        "market_code": "SA",
-        "category": "Chronic Disease",
-        "score": 11,
-        "examples": [
-          "Medical College of Wisconsin Dedicates Michels Center for Cancer Discovery Following Landmark Gift - PR Newswire",
-          "These Infections Are Linked to 12% of New Cancer Cases - Time Magazine",
-          "HSV and cancer: What patients should know - Fred Hutchinson Cancer Center"
-        ]
-      },
-      {
-        "trend": "virus",
-        "market_code": "SA",
-        "category": "Outbreaks",
-        "score": 11,
-        "examples": [
-          "Health Officials Issue Urgent Warning About Deadly Bat Virus After More Than 40 People Bitten in 2 Weeks - People.com",
-          "Health Officials Issue Urgent Warning About Deadly Bat Virus After More Than 40 People Bitten in 2 Weeks - People.com",
-          "Two North Carolinians dead from West Nile Virus - WRAL"
-        ]
-      },
-      {
-        "trend": "mental",
-        "market_code": "SA",
-        "category": "Mental Health",
-        "score": 11,
-        "examples": [
-          "Lawyers report stress, drinking and gambling in new attorney mental health study - Reuters",
-          "Stigma in Parents of Children with Mental Health Problems - WCM Newsroom",
-          "Lindsay Clancy trial shines spotlight on maternal mental health - ABC7 Bay Area"
-        ]
-      },
-      {
-        "trend": "mental health",
-        "market_code": "SA",
-        "category": "Mental Health",
-        "score": 11,
-        "examples": [
-          "Lawyers report stress, drinking and gambling in new attorney mental health study - Reuters",
-          "Stigma in Parents of Children with Mental Health Problems - WCM Newsroom",
-          "Lindsay Clancy trial shines spotlight on maternal mental health - ABC7 Bay Area"
-        ]
-      },
-      {
-        "trend": "public health",
-        "market_code": "SA",
-        "category": "Arab Health",
-        "score": 10,
-        "examples": [
-          "College of Medicine welcomes Fulbright Scholar in public health sciences - The Pennsylvania State University",
-          "Data Centers and Public Health - American Public Health Association",
-          "Data Centers and Public Health - American Public Health Association"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
         "trend": "outbreak",
         "market_code": "SA",
         "category": "Outbreaks",
-        "score": 10,
-        "examples": [
-          "Pennsylvania announces sixth death in measles outbreak as case numbers rise - The Guardian",
-          "Ebola cases top 9,000 in DR Congo outbreak - CIDRAP",
-          "CDC to deploy additional support to Pennsylvania to probe measles outbreak - Reuters"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "healthcare",
+        "trend": "mental health",
+        "market_code": "SA",
+        "category": "Mental Health",
+        "score": 1,
+        "examples": []
+      },
+      {
+        "trend": "medical research",
         "market_code": "SA",
         "category": "Arab Health",
-        "score": 9,
-        "examples": [
-          "Oregon insurance regulators warn of cheap healthcare plans resulting in high bills - Tillamook Headlight-Herald",
-          "Artificial Intelligence and Healthcare’s Growing Data Economy - Baker Institute",
-          "AI Tracker: Teladoc launches new AI features - Modern Healthcare"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "hospitals",
+        "trend": "drug approval",
         "market_code": "SA",
-        "category": "Arab Health",
-        "score": 7,
-        "examples": [
-          "NYC Health + Hospitals Advances to Silver Recognition in the American Medical Association's Joy in Medicine Health System Recognition Program - NYC Health + Hospitals",
-          "NYC Health + Hospitals Advances to Silver Recognition in the American Medical Association's Joy in Medicine Health System Recognition Program - NYC Health + Hospitals",
-          "NYC Health + Hospitals Advances to Silver Recognition in the American Medical Association's Joy in Medicine Health System Recognition Program - NYC Health + Hospitals"
-        ]
+        "category": "Drug & Treatment News",
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "children",
+        "trend": "diet wellness",
         "market_code": "SA",
-        "category": "Children Health",
-        "score": 7,
-        "examples": [
-          "Texas health agency proposes eliminating children’s autism program - PBS",
-          "Why do some children become seriously ill with COVID-19? The answer may lie in their genes - Gavi, the Vaccine Alliance",
-          "Stigma in Parents of Children with Mental Health Problems - WCM Newsroom"
-        ]
-      },
-      {
-        "trend": "heart",
-        "market_code": "SA",
-        "category": "Chronic Disease",
-        "score": 7,
-        "examples": [
-          "Health tech competition finalists advance solutions for heart and brain health - www.heart.org",
-          "Health tech competition finalists advance solutions for heart and brain health - www.heart.org",
-          "Managing high blood pressure could prevent >500K CVD deaths annually in 20 countries - www.heart.org"
-        ]
+        "category": "Diet & Wellness",
+        "score": 1,
+        "examples": []
       }
     ],
     "Qatar": [
       {
-        "trend": "health",
+        "trend": "health alert",
         "market_code": "QA",
         "category": "Arab Health",
-        "score": 93,
-        "examples": [
-          "Dr. Chisum-Price Appointed to Health Tribal Advisory Committee - Choctaw Nation of Oklahoma",
-          "NYC Health + Hospitals Advances to Silver Recognition in the American Medical Association's Joy in Medicine Health System Recognition Program - NYC Health + Hospitals",
-          "NYC Health + Hospitals Advances to Silver Recognition in the American Medical Association's Joy in Medicine Health System Recognition Program - NYC Health + Hospitals"
-        ]
-      },
-      {
-        "trend": "medical",
-        "market_code": "QA",
-        "category": "Arab Health",
-        "score": 18,
-        "examples": [
-          "NYC Health + Hospitals Advances to Silver Recognition in the American Medical Association's Joy in Medicine Health System Recognition Program - NYC Health + Hospitals",
-          "J&J posts weak medical device sales, shares fall - Reuters",
-          "This grad helps runs the Amazon of the medical device world - Northeastern Global News"
-        ]
-      },
-      {
-        "trend": "cancer",
-        "market_code": "QA",
-        "category": "Chronic Disease",
-        "score": 11,
-        "examples": [
-          "Medical College of Wisconsin Dedicates Michels Center for Cancer Discovery Following Landmark Gift - PR Newswire",
-          "These Infections Are Linked to 12% of New Cancer Cases - Time Magazine",
-          "HSV and cancer: What patients should know - Fred Hutchinson Cancer Center"
-        ]
-      },
-      {
-        "trend": "virus",
-        "market_code": "QA",
-        "category": "Outbreaks",
-        "score": 11,
-        "examples": [
-          "Health Officials Issue Urgent Warning About Deadly Bat Virus After More Than 40 People Bitten in 2 Weeks - People.com",
-          "Health Officials Issue Urgent Warning About Deadly Bat Virus After More Than 40 People Bitten in 2 Weeks - People.com",
-          "Two North Carolinians dead from West Nile Virus - WRAL"
-        ]
-      },
-      {
-        "trend": "mental",
-        "market_code": "QA",
-        "category": "Mental Health",
-        "score": 11,
-        "examples": [
-          "Lawyers report stress, drinking and gambling in new attorney mental health study - Reuters",
-          "Stigma in Parents of Children with Mental Health Problems - WCM Newsroom",
-          "Lindsay Clancy trial shines spotlight on maternal mental health - ABC7 Bay Area"
-        ]
-      },
-      {
-        "trend": "mental health",
-        "market_code": "QA",
-        "category": "Mental Health",
-        "score": 11,
-        "examples": [
-          "Lawyers report stress, drinking and gambling in new attorney mental health study - Reuters",
-          "Stigma in Parents of Children with Mental Health Problems - WCM Newsroom",
-          "Lindsay Clancy trial shines spotlight on maternal mental health - ABC7 Bay Area"
-        ]
-      },
-      {
-        "trend": "public health",
-        "market_code": "QA",
-        "category": "Arab Health",
-        "score": 10,
-        "examples": [
-          "College of Medicine welcomes Fulbright Scholar in public health sciences - The Pennsylvania State University",
-          "Data Centers and Public Health - American Public Health Association",
-          "Data Centers and Public Health - American Public Health Association"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
         "trend": "outbreak",
         "market_code": "QA",
         "category": "Outbreaks",
-        "score": 10,
-        "examples": [
-          "Pennsylvania announces sixth death in measles outbreak as case numbers rise - The Guardian",
-          "Ebola cases top 9,000 in DR Congo outbreak - CIDRAP",
-          "CDC to deploy additional support to Pennsylvania to probe measles outbreak - Reuters"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "healthcare",
+        "trend": "mental health",
+        "market_code": "QA",
+        "category": "Mental Health",
+        "score": 1,
+        "examples": []
+      },
+      {
+        "trend": "medical research",
         "market_code": "QA",
         "category": "Arab Health",
-        "score": 9,
-        "examples": [
-          "Oregon insurance regulators warn of cheap healthcare plans resulting in high bills - Tillamook Headlight-Herald",
-          "Artificial Intelligence and Healthcare’s Growing Data Economy - Baker Institute",
-          "AI Tracker: Teladoc launches new AI features - Modern Healthcare"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "hospitals",
+        "trend": "drug approval",
         "market_code": "QA",
-        "category": "Arab Health",
-        "score": 7,
-        "examples": [
-          "NYC Health + Hospitals Advances to Silver Recognition in the American Medical Association's Joy in Medicine Health System Recognition Program - NYC Health + Hospitals",
-          "NYC Health + Hospitals Advances to Silver Recognition in the American Medical Association's Joy in Medicine Health System Recognition Program - NYC Health + Hospitals",
-          "NYC Health + Hospitals Advances to Silver Recognition in the American Medical Association's Joy in Medicine Health System Recognition Program - NYC Health + Hospitals"
-        ]
+        "category": "Drug & Treatment News",
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "children",
+        "trend": "diet wellness",
         "market_code": "QA",
-        "category": "Children Health",
-        "score": 7,
-        "examples": [
-          "Texas health agency proposes eliminating children’s autism program - PBS",
-          "Why do some children become seriously ill with COVID-19? The answer may lie in their genes - Gavi, the Vaccine Alliance",
-          "Stigma in Parents of Children with Mental Health Problems - WCM Newsroom"
-        ]
-      },
-      {
-        "trend": "heart",
-        "market_code": "QA",
-        "category": "Chronic Disease",
-        "score": 7,
-        "examples": [
-          "Health tech competition finalists advance solutions for heart and brain health - www.heart.org",
-          "Health tech competition finalists advance solutions for heart and brain health - www.heart.org",
-          "Managing high blood pressure could prevent >500K CVD deaths annually in 20 countries - www.heart.org"
-        ]
+        "category": "Diet & Wellness",
+        "score": 1,
+        "examples": []
       }
     ],
     "Jordan": [
       {
-        "trend": "health",
+        "trend": "health alert",
         "market_code": "JO",
         "category": "Arab Health",
-        "score": 93,
-        "examples": [
-          "Dr. Chisum-Price Appointed to Health Tribal Advisory Committee - Choctaw Nation of Oklahoma",
-          "NYC Health + Hospitals Advances to Silver Recognition in the American Medical Association's Joy in Medicine Health System Recognition Program - NYC Health + Hospitals",
-          "NYC Health + Hospitals Advances to Silver Recognition in the American Medical Association's Joy in Medicine Health System Recognition Program - NYC Health + Hospitals"
-        ]
-      },
-      {
-        "trend": "medical",
-        "market_code": "JO",
-        "category": "Arab Health",
-        "score": 18,
-        "examples": [
-          "NYC Health + Hospitals Advances to Silver Recognition in the American Medical Association's Joy in Medicine Health System Recognition Program - NYC Health + Hospitals",
-          "J&J posts weak medical device sales, shares fall - Reuters",
-          "This grad helps runs the Amazon of the medical device world - Northeastern Global News"
-        ]
-      },
-      {
-        "trend": "cancer",
-        "market_code": "JO",
-        "category": "Chronic Disease",
-        "score": 11,
-        "examples": [
-          "Medical College of Wisconsin Dedicates Michels Center for Cancer Discovery Following Landmark Gift - PR Newswire",
-          "These Infections Are Linked to 12% of New Cancer Cases - Time Magazine",
-          "HSV and cancer: What patients should know - Fred Hutchinson Cancer Center"
-        ]
-      },
-      {
-        "trend": "virus",
-        "market_code": "JO",
-        "category": "Outbreaks",
-        "score": 11,
-        "examples": [
-          "Health Officials Issue Urgent Warning About Deadly Bat Virus After More Than 40 People Bitten in 2 Weeks - People.com",
-          "Health Officials Issue Urgent Warning About Deadly Bat Virus After More Than 40 People Bitten in 2 Weeks - People.com",
-          "Two North Carolinians dead from West Nile Virus - WRAL"
-        ]
-      },
-      {
-        "trend": "mental",
-        "market_code": "JO",
-        "category": "Mental Health",
-        "score": 11,
-        "examples": [
-          "Lawyers report stress, drinking and gambling in new attorney mental health study - Reuters",
-          "Stigma in Parents of Children with Mental Health Problems - WCM Newsroom",
-          "Lindsay Clancy trial shines spotlight on maternal mental health - ABC7 Bay Area"
-        ]
-      },
-      {
-        "trend": "mental health",
-        "market_code": "JO",
-        "category": "Mental Health",
-        "score": 11,
-        "examples": [
-          "Lawyers report stress, drinking and gambling in new attorney mental health study - Reuters",
-          "Stigma in Parents of Children with Mental Health Problems - WCM Newsroom",
-          "Lindsay Clancy trial shines spotlight on maternal mental health - ABC7 Bay Area"
-        ]
-      },
-      {
-        "trend": "public health",
-        "market_code": "JO",
-        "category": "Arab Health",
-        "score": 10,
-        "examples": [
-          "College of Medicine welcomes Fulbright Scholar in public health sciences - The Pennsylvania State University",
-          "Data Centers and Public Health - American Public Health Association",
-          "Data Centers and Public Health - American Public Health Association"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
         "trend": "outbreak",
         "market_code": "JO",
         "category": "Outbreaks",
-        "score": 10,
-        "examples": [
-          "Pennsylvania announces sixth death in measles outbreak as case numbers rise - The Guardian",
-          "Ebola cases top 9,000 in DR Congo outbreak - CIDRAP",
-          "CDC to deploy additional support to Pennsylvania to probe measles outbreak - Reuters"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "healthcare",
+        "trend": "mental health",
+        "market_code": "JO",
+        "category": "Mental Health",
+        "score": 1,
+        "examples": []
+      },
+      {
+        "trend": "medical research",
         "market_code": "JO",
         "category": "Arab Health",
-        "score": 9,
-        "examples": [
-          "Oregon insurance regulators warn of cheap healthcare plans resulting in high bills - Tillamook Headlight-Herald",
-          "Artificial Intelligence and Healthcare’s Growing Data Economy - Baker Institute",
-          "AI Tracker: Teladoc launches new AI features - Modern Healthcare"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "hospitals",
+        "trend": "drug approval",
         "market_code": "JO",
-        "category": "Arab Health",
-        "score": 7,
-        "examples": [
-          "NYC Health + Hospitals Advances to Silver Recognition in the American Medical Association's Joy in Medicine Health System Recognition Program - NYC Health + Hospitals",
-          "NYC Health + Hospitals Advances to Silver Recognition in the American Medical Association's Joy in Medicine Health System Recognition Program - NYC Health + Hospitals",
-          "NYC Health + Hospitals Advances to Silver Recognition in the American Medical Association's Joy in Medicine Health System Recognition Program - NYC Health + Hospitals"
-        ]
+        "category": "Drug & Treatment News",
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "children",
+        "trend": "diet wellness",
         "market_code": "JO",
-        "category": "Children Health",
-        "score": 7,
-        "examples": [
-          "Texas health agency proposes eliminating children’s autism program - PBS",
-          "Why do some children become seriously ill with COVID-19? The answer may lie in their genes - Gavi, the Vaccine Alliance",
-          "Stigma in Parents of Children with Mental Health Problems - WCM Newsroom"
-        ]
-      },
-      {
-        "trend": "heart",
-        "market_code": "JO",
-        "category": "Chronic Disease",
-        "score": 7,
-        "examples": [
-          "Health tech competition finalists advance solutions for heart and brain health - www.heart.org",
-          "Health tech competition finalists advance solutions for heart and brain health - www.heart.org",
-          "Managing high blood pressure could prevent >500K CVD deaths annually in 20 countries - www.heart.org"
-        ]
+        "category": "Diet & Wellness",
+        "score": 1,
+        "examples": []
       }
     ],
     "Lebanon": [
       {
-        "trend": "health",
+        "trend": "health alert",
         "market_code": "LB",
         "category": "Arab Health",
-        "score": 93,
-        "examples": [
-          "Dr. Chisum-Price Appointed to Health Tribal Advisory Committee - Choctaw Nation of Oklahoma",
-          "NYC Health + Hospitals Advances to Silver Recognition in the American Medical Association's Joy in Medicine Health System Recognition Program - NYC Health + Hospitals",
-          "NYC Health + Hospitals Advances to Silver Recognition in the American Medical Association's Joy in Medicine Health System Recognition Program - NYC Health + Hospitals"
-        ]
-      },
-      {
-        "trend": "medical",
-        "market_code": "LB",
-        "category": "Arab Health",
-        "score": 18,
-        "examples": [
-          "NYC Health + Hospitals Advances to Silver Recognition in the American Medical Association's Joy in Medicine Health System Recognition Program - NYC Health + Hospitals",
-          "J&J posts weak medical device sales, shares fall - Reuters",
-          "This grad helps runs the Amazon of the medical device world - Northeastern Global News"
-        ]
-      },
-      {
-        "trend": "cancer",
-        "market_code": "LB",
-        "category": "Chronic Disease",
-        "score": 11,
-        "examples": [
-          "Medical College of Wisconsin Dedicates Michels Center for Cancer Discovery Following Landmark Gift - PR Newswire",
-          "These Infections Are Linked to 12% of New Cancer Cases - Time Magazine",
-          "HSV and cancer: What patients should know - Fred Hutchinson Cancer Center"
-        ]
-      },
-      {
-        "trend": "virus",
-        "market_code": "LB",
-        "category": "Outbreaks",
-        "score": 11,
-        "examples": [
-          "Health Officials Issue Urgent Warning About Deadly Bat Virus After More Than 40 People Bitten in 2 Weeks - People.com",
-          "Health Officials Issue Urgent Warning About Deadly Bat Virus After More Than 40 People Bitten in 2 Weeks - People.com",
-          "Two North Carolinians dead from West Nile Virus - WRAL"
-        ]
-      },
-      {
-        "trend": "mental",
-        "market_code": "LB",
-        "category": "Mental Health",
-        "score": 11,
-        "examples": [
-          "Lawyers report stress, drinking and gambling in new attorney mental health study - Reuters",
-          "Stigma in Parents of Children with Mental Health Problems - WCM Newsroom",
-          "Lindsay Clancy trial shines spotlight on maternal mental health - ABC7 Bay Area"
-        ]
-      },
-      {
-        "trend": "mental health",
-        "market_code": "LB",
-        "category": "Mental Health",
-        "score": 11,
-        "examples": [
-          "Lawyers report stress, drinking and gambling in new attorney mental health study - Reuters",
-          "Stigma in Parents of Children with Mental Health Problems - WCM Newsroom",
-          "Lindsay Clancy trial shines spotlight on maternal mental health - ABC7 Bay Area"
-        ]
-      },
-      {
-        "trend": "public health",
-        "market_code": "LB",
-        "category": "Arab Health",
-        "score": 10,
-        "examples": [
-          "College of Medicine welcomes Fulbright Scholar in public health sciences - The Pennsylvania State University",
-          "Data Centers and Public Health - American Public Health Association",
-          "Data Centers and Public Health - American Public Health Association"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
         "trend": "outbreak",
         "market_code": "LB",
         "category": "Outbreaks",
-        "score": 10,
-        "examples": [
-          "Pennsylvania announces sixth death in measles outbreak as case numbers rise - The Guardian",
-          "Ebola cases top 9,000 in DR Congo outbreak - CIDRAP",
-          "CDC to deploy additional support to Pennsylvania to probe measles outbreak - Reuters"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "healthcare",
+        "trend": "mental health",
+        "market_code": "LB",
+        "category": "Mental Health",
+        "score": 1,
+        "examples": []
+      },
+      {
+        "trend": "medical research",
         "market_code": "LB",
         "category": "Arab Health",
-        "score": 9,
-        "examples": [
-          "Oregon insurance regulators warn of cheap healthcare plans resulting in high bills - Tillamook Headlight-Herald",
-          "Artificial Intelligence and Healthcare’s Growing Data Economy - Baker Institute",
-          "AI Tracker: Teladoc launches new AI features - Modern Healthcare"
-        ]
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "hospitals",
+        "trend": "drug approval",
         "market_code": "LB",
-        "category": "Arab Health",
-        "score": 7,
-        "examples": [
-          "NYC Health + Hospitals Advances to Silver Recognition in the American Medical Association's Joy in Medicine Health System Recognition Program - NYC Health + Hospitals",
-          "NYC Health + Hospitals Advances to Silver Recognition in the American Medical Association's Joy in Medicine Health System Recognition Program - NYC Health + Hospitals",
-          "NYC Health + Hospitals Advances to Silver Recognition in the American Medical Association's Joy in Medicine Health System Recognition Program - NYC Health + Hospitals"
-        ]
+        "category": "Drug & Treatment News",
+        "score": 1,
+        "examples": []
       },
       {
-        "trend": "children",
+        "trend": "diet wellness",
         "market_code": "LB",
-        "category": "Children Health",
-        "score": 7,
-        "examples": [
-          "Texas health agency proposes eliminating children’s autism program - PBS",
-          "Why do some children become seriously ill with COVID-19? The answer may lie in their genes - Gavi, the Vaccine Alliance",
-          "Stigma in Parents of Children with Mental Health Problems - WCM Newsroom"
-        ]
-      },
-      {
-        "trend": "heart",
-        "market_code": "LB",
-        "category": "Chronic Disease",
-        "score": 7,
-        "examples": [
-          "Health tech competition finalists advance solutions for heart and brain health - www.heart.org",
-          "Health tech competition finalists advance solutions for heart and brain health - www.heart.org",
-          "Managing high blood pressure could prevent >500K CVD deaths annually in 20 countries - www.heart.org"
-        ]
+        "category": "Diet & Wellness",
+        "score": 1,
+        "examples": []
       }
     ]
   }
