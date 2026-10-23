@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-22T20:54:31.013903+00:00",
+  "updated_at": "2026-10-23T02:09:09.124823+00:00",
   "total_trends": 252,
   "markets": {
     "United States": [
@@ -7,22 +7,11 @@
         "trend": "health",
         "market_code": "US",
         "category": "US Health",
-        "score": 70,
+        "score": 69,
         "examples": [
-          "2026 Employer Health Benefits Survey - KFF",
-          "Athletics Partners with Onrise To Support Student-Athlete Mental Health - Marquette University Athletics",
-          "Key Trump Health Adviser Resigns Ahead of Midterm Elections - The New York Times"
-        ]
-      },
-      {
-        "trend": "healthcare",
-        "market_code": "US",
-        "category": "US Health",
-        "score": 21,
-        "examples": [
-          "Medical professionals among 15 charged in alleged healthcare fraud worth $2 billion; raids carried out in Los Angeles - ABC7 Los Angeles",
-          "Medical professionals among 15 charged in alleged healthcare fraud worth $2 billion; raids carried out in Los Angeles - ABC7 Los Angeles",
-          "Simply Healthcare funds Preeclampsia Foundation push to teach Florida mothers the warning signs - Florida Politics"
+          "Key Trump Health Adviser Resigns Ahead of Midterm Elections - The New York Times",
+          "Eating Walnuts With Dinner May Help You Sleep Better, Research Shows - Health.com",
+          "The percentage of people without health insurance is growing - Stateline"
         ]
       },
       {
@@ -31,9 +20,20 @@
         "category": "US Health",
         "score": 20,
         "examples": [
-          "Medical professionals among 15 charged in alleged healthcare fraud worth $2 billion; raids carried out in Los Angeles - ABC7 Los Angeles",
           "Penguins' Ben Kindel back in Pittsburgh after medical emergency - ESPN",
+          "Kindel Back in Pittsburgh After Medical Episode on Team Plane - NHL.com",
           "23d Medical Group ranks among top performers in preventive cancer screenings - Moody Air Force Base (.mil)"
+        ]
+      },
+      {
+        "trend": "healthcare",
+        "market_code": "US",
+        "category": "US Health",
+        "score": 19,
+        "examples": [
+          "Department of Health and Human Services and the Justice Department’s Civil Division Announce Anti-Fraud Healthcare Self-Disclosure Pilot Program - HHS.gov",
+          "Medical professionals among 15 charged in alleged healthcare fraud worth $2 billion; raids carried out in Los Angeles - ABC7 Los Angeles",
+          "FDA balances faster AI adoption with safety as healthcare technology advances - HealthExec"
         ]
       },
       {
@@ -42,9 +42,9 @@
         "category": "Outbreaks",
         "score": 14,
         "examples": [
+          "What to Know About Shamonda Virus Following the First Reported Human Infection - WIRED",
           "France reports first human case of livestock virus Shamonda after patient dies - Reuters",
-          "France reports first human case of livestock virus Shamonda in patient who later died - PBS",
-          "Shamonda virus detected in human for first time in France - The Guardian"
+          "First human case of Shamonda virus reported in France as patient dies - UN News"
         ]
       },
       {
@@ -53,20 +53,9 @@
         "category": "Mental Health",
         "score": 12,
         "examples": [
-          "Athletics Partners with Onrise To Support Student-Athlete Mental Health - Marquette University Athletics",
           "CSU’s Ties with TimelyCare Raise Red Flags for Student Mental Health - California Faculty Association",
-          "University of New Haven Student Explores the Power of Peer Support in Youth Mental Health - University of New Haven"
-        ]
-      },
-      {
-        "trend": "mental health",
-        "market_code": "US",
-        "category": "Mental Health",
-        "score": 11,
-        "examples": [
           "Athletics Partners with Onrise To Support Student-Athlete Mental Health - Marquette University Athletics",
-          "CSU’s Ties with TimelyCare Raise Red Flags for Student Mental Health - California Faculty Association",
-          "University of New Haven Student Explores the Power of Peer Support in Youth Mental Health - University of New Haven"
+          "NC announces $17 million in federal funds to improve rural mental health services - EdNC"
         ]
       },
       {
@@ -75,64 +64,75 @@
         "category": "Outbreaks",
         "score": 11,
         "examples": [
-          "DRC Ebola outbreak 'growing exponentially,' UN says - DW.com",
+          "WHO warns ‘more complex’ Ebola outbreak now present in 3 African countries - Al Jazeera",
           "Ebola Outbreak in Africa Reaches Widest Expansion Ever - The New York Times",
-          "DR Congo: Ebola responders under pressure as outbreak expands - UN News"
+          "DRC Ebola outbreak 'growing exponentially,' UN says - DW.com"
         ]
       },
       {
-        "trend": "public health",
+        "trend": "mental health",
         "market_code": "US",
-        "category": "US Health",
-        "score": 10,
+        "category": "Mental Health",
+        "score": 11,
         "examples": [
-          "Public health programs can ‘rewire’ social networks, Yale study finds - YaleNews",
-          "School of Public Health releases 2026 Healthy Georgia Report - Augusta University",
-          "NMSU Department of Public Health to host resource fair for senior citizens - New Mexico State University"
-        ]
-      },
-      {
-        "trend": "warning",
-        "market_code": "US",
-        "category": "US Health",
-        "score": 9,
-        "examples": [
-          "Measles surge in Pennsylvania prompts new health warning to pregnant women - Baltimore Sun",
-          "Hell in a handbasin—warning on hospital hygiene - Medical Xpress",
-          "Hong Kong raids spark health warning over beauty jabs using dead people’s skin - South China Morning Post"
-        ]
-      },
-      {
-        "trend": "patient",
-        "market_code": "US",
-        "category": "US Health",
-        "score": 8,
-        "examples": [
-          "Major medical lab operator believes cyber breach exposed patient records - The Washington Post",
-          "Nigeria's first Ebola patient holidayed in Uganda, officials say - BBC",
-          "France reports first human case of livestock virus Shamonda after patient dies - Reuters"
-        ]
-      },
-      {
-        "trend": "shamonda virus",
-        "market_code": "US",
-        "category": "Outbreaks",
-        "score": 8,
-        "examples": [
-          "Shamonda virus detected in human for first time in France - The Guardian",
-          "France reports first human Shamonda virus case, says no health risk - Al Jazeera",
-          "First human case of Shamonda virus detected in France, officials say - BBC"
+          "CSU’s Ties with TimelyCare Raise Red Flags for Student Mental Health - California Faculty Association",
+          "Athletics Partners with Onrise To Support Student-Athlete Mental Health - Marquette University Athletics",
+          "NC announces $17 million in federal funds to improve rural mental health services - EdNC"
         ]
       },
       {
         "trend": "cancer",
         "market_code": "US",
         "category": "Chronic Disease",
-        "score": 7,
+        "score": 10,
         "examples": [
+          "Breast cancer awareness: learn the signs and screening options - City of Philadelphia (.gov)",
           "23d Medical Group ranks among top performers in preventive cancer screenings - Moody Air Force Base (.mil)",
-          "FDA Approves Immunotherapy-Only Approach for Some Rectal Cancers: What Patients Need To Know - Memorial Sloan Kettering Cancer Center",
-          "What to expect from the Moderna-Merck cancer vaccine data reveal - STAT"
+          "Breast cancer awareness: learn the signs and screening options - City of Philadelphia (.gov)"
+        ]
+      },
+      {
+        "trend": "public health",
+        "market_code": "US",
+        "category": "US Health",
+        "score": 9,
+        "examples": [
+          "School of Public Health releases 2026 Healthy Georgia Report - Augusta University",
+          "Public health programs can ‘rewire’ social networks, Yale study finds - YaleNews",
+          "Assessing the public health risk after suspected plague exposure in Russia - Everbridge"
+        ]
+      },
+      {
+        "trend": "disease",
+        "market_code": "US",
+        "category": "US Health",
+        "score": 8,
+        "examples": [
+          "Information for Travelers Returning from Ebola-Affected Areas - Centers for Disease Control and Prevention | CDC (.gov)",
+          "Information for Travelers Returning from Ebola-Affected Areas - Centers for Disease Control and Prevention | CDC (.gov)",
+          "Information for Travelers Returning from Ebola-Affected Areas - Centers for Disease Control and Prevention | CDC (.gov)"
+        ]
+      },
+      {
+        "trend": "warning",
+        "market_code": "US",
+        "category": "US Health",
+        "score": 8,
+        "examples": [
+          "AHA, health providers say hunters should know warning signs for heart attack, stroke - WDAM-TV",
+          "Measles surge in Pennsylvania prompts new health warning to pregnant women - Baltimore Sun",
+          "Hell in a handbasin—warning on hospital hygiene - Medical Xpress"
+        ]
+      },
+      {
+        "trend": "infection",
+        "market_code": "US",
+        "category": "Outbreaks",
+        "score": 8,
+        "examples": [
+          "What to Know About Shamonda Virus Following the First Reported Human Infection - WIRED",
+          "France confirms first Shamonda livestock virus infection in a human, say no danger to general population - DW.com",
+          "What to Know About Shamonda Virus Following the First Reported Human Infection - WIRED"
         ]
       }
     ],
@@ -141,22 +141,11 @@
         "trend": "health",
         "market_code": "GB",
         "category": "Europe Health",
-        "score": 67,
+        "score": 59,
         "examples": [
-          "Lincolnshire health scrutiny calls for clearer rules to ensure healthcare infrastructure keeps pace with housing growth - Lincolnshire County Council",
-          "Building Europe’s Health Resilience for a Stronger Future - Imperial College London",
-          "Building trust in health data: a new WHO tool for the digital age - World Health Organization (WHO)"
-        ]
-      },
-      {
-        "trend": "virus",
-        "market_code": "GB",
-        "category": "Outbreaks",
-        "score": 18,
-        "examples": [
-          "France reports first human Shamonda virus case, says no health risk - Al Jazeera",
-          "France reports first human case of Shamonda virus, but says there's no public health risk - France 24",
-          "Large-scale meteorological patterns linked to Ebola virus outbreaks - News-Medical"
+          "Child health in England at risk from sharp rise in NHS waiting times, report says - The Guardian",
+          "I thought I was dying but it was health anxiety - here's how to recognise the signs - BBC",
+          "Lincolnshire health scrutiny calls for clearer rules to ensure healthcare infrastructure keeps pace with housing growth - Lincolnshire County Council"
         ]
       },
       {
@@ -165,64 +154,53 @@
         "category": "Europe Health",
         "score": 18,
         "examples": [
-          "From journal club to digital platform: how medical students are reshaping research education - Royal College of Physicians (RCP)",
-          "Finding the next frontier of Medical Imaging at Nottingham - University of Nottingham",
-          "Curiosity, Purpose, and Impact: A Career in Lupus Medical Affairs - Biogen"
+          "Curiosity, Purpose, and Impact: A Career in Lupus Medical Affairs - Biogen",
+          "Ukraine’s Medical Evacuations Go Airborne - Center for European Policy Analysis (CEPA)",
+          "Cambridge scientists create a $10 chip that could put a medical lab on your wrist - Science Daily"
+        ]
+      },
+      {
+        "trend": "virus",
+        "market_code": "GB",
+        "category": "Outbreaks",
+        "score": 17,
+        "examples": [
+          "France reports first human case of Shamonda virus, but says there's no public health risk - France 24",
+          "Shamonda virus detected in human for first time in France - The Guardian",
+          "What to Know About Shamonda Virus Following the First Reported Human Infection - WIRED"
         ]
       },
       {
         "trend": "shamonda virus",
         "market_code": "GB",
         "category": "Outbreaks",
-        "score": 14,
+        "score": 15,
         "examples": [
-          "France reports first human Shamonda virus case, says no health risk - Al Jazeera",
           "France reports first human case of Shamonda virus, but says there's no public health risk - France 24",
-          "Shamonda virus detected in human for first time in France - The Guardian"
+          "Shamonda virus detected in human for first time in France - The Guardian",
+          "What to Know About Shamonda Virus Following the First Reported Human Infection - WIRED"
         ]
       },
       {
         "trend": "healthcare",
         "market_code": "GB",
         "category": "Europe Health",
-        "score": 12,
+        "score": 11,
         "examples": [
           "Lincolnshire health scrutiny calls for clearer rules to ensure healthcare infrastructure keeps pace with housing growth - Lincolnshire County Council",
-          "Bath, Chippenham and Swindon healthcare staff go on 24-hour strike - BBC",
-          "Fossil fuel subsidies and critical mineral funds should be used to fund healthcare in developing economies, argue researchers - Imperial College London"
+          "Healthcare industry weighs in on evidence standards for generative AI medical devices - Endpoints News",
+          "Working together to unlock the full potential of AI-enabled healthcare - Washington Times"
         ]
       },
       {
         "trend": "warning",
         "market_code": "GB",
         "category": "Europe Health",
-        "score": 12,
+        "score": 10,
         "examples": [
           "Thousands died in cold weather as UKHSA issues ‘serious risk’ warning - The Independent",
           "UKHSA 'serious risk' health warning for four groups in particular - Surrey Live",
           "'Do not eat' warning issued as flapjacks recalled due to health risk - Slough Observer"
-        ]
-      },
-      {
-        "trend": "mental",
-        "market_code": "GB",
-        "category": "Mental Health",
-        "score": 11,
-        "examples": [
-          "Protesters demand more mental health support amid suicide rate concerns - BBC",
-          "M&S and Jigsaw Partnership Tops €250k in Support of Young People's Mental Health - Marks & Spencer",
-          "Maternal mental health remains a missing priority - Nature"
-        ]
-      },
-      {
-        "trend": "mental health",
-        "market_code": "GB",
-        "category": "Mental Health",
-        "score": 11,
-        "examples": [
-          "Protesters demand more mental health support amid suicide rate concerns - BBC",
-          "M&S and Jigsaw Partnership Tops €250k in Support of Young People's Mental Health - Marks & Spencer",
-          "Maternal mental health remains a missing priority - Nature"
         ]
       },
       {
@@ -232,19 +210,52 @@
         "score": 10,
         "examples": [
           "WHO warns ‘more complex’ Ebola outbreak now present in 3 African countries - Al Jazeera",
-          "DRC Ebola outbreak 'growing exponentially,' UN says - DW.com",
+          "Ebola Outbreak in Africa Reaches Widest Expansion Ever - The New York Times",
           "DR Congo: Ebola responders under pressure as outbreak expands - UN News"
+        ]
+      },
+      {
+        "trend": "mental",
+        "market_code": "GB",
+        "category": "Mental Health",
+        "score": 9,
+        "examples": [
+          "Protesters demand more mental health support amid suicide rate concerns - BBC",
+          "M&S and Jigsaw Partnership Tops €250k in Support of Young People's Mental Health - Marks & Spencer",
+          "Maternal mental health remains a missing priority - Nature"
+        ]
+      },
+      {
+        "trend": "mental health",
+        "market_code": "GB",
+        "category": "Mental Health",
+        "score": 9,
+        "examples": [
+          "Protesters demand more mental health support amid suicide rate concerns - BBC",
+          "M&S and Jigsaw Partnership Tops €250k in Support of Young People's Mental Health - Marks & Spencer",
+          "Maternal mental health remains a missing priority - Nature"
         ]
       },
       {
         "trend": "health risk",
         "market_code": "GB",
         "category": "Europe Health",
-        "score": 9,
+        "score": 8,
         "examples": [
-          "France reports first human Shamonda virus case, says no health risk - Al Jazeera",
+          "Assessing the public health risk after suspected plague exposure in Russia - Everbridge",
           "France reports first human case of Shamonda virus, but says there's no public health risk - France 24",
           "'Do not eat' warning issued as flapjacks recalled due to health risk - Slough Observer"
+        ]
+      },
+      {
+        "trend": "disease",
+        "market_code": "GB",
+        "category": "Europe Health",
+        "score": 7,
+        "examples": [
+          "Information for Travelers Returning from Ebola-Affected Areas - Centers for Disease Control and Prevention | CDC (.gov)",
+          "Scientists studied one million immune cells and found clues to future disease risk - News-Medical",
+          "Information for Travelers Returning from Ebola-Affected Areas - Centers for Disease Control and Prevention | CDC (.gov)"
         ]
       },
       {
@@ -253,20 +264,9 @@
         "category": "Europe Health",
         "score": 7,
         "examples": [
-          "From journal club to digital platform: how medical students are reshaping research education - Royal College of Physicians (RCP)",
+          "Eating Walnuts With Dinner May Help You Sleep Better, Research Shows - Health.com",
           "Weight loss in middle age can restore cardiovascular health, research suggests - The Guardian",
           "Managing high blood pressure could prevent 500K CVD deaths annually in 20 countries, reveals research - Medical Dialogues"
-        ]
-      },
-      {
-        "trend": "cancer",
-        "market_code": "GB",
-        "category": "Chronic Disease",
-        "score": 7,
-        "examples": [
-          "South Africa’s HPV vaccination drive to protect girls from cervical cancer is working – what we know after 10 years - Gavi, the Vaccine Alliance",
-          "FDA Approves Immunotherapy-Only Approach for Some Rectal Cancers: What Patients Need To Know - Memorial Sloan Kettering Cancer Center",
-          "U.S. cancer patients need lifesaving drugs. Some have to get them in China. - The Washington Post"
         ]
       }
     ],
@@ -275,21 +275,21 @@
         "trend": "health",
         "market_code": "DE",
         "category": "Europe Health",
-        "score": 70,
+        "score": 68,
         "examples": [
-          "2026 Employer Health Benefits Survey - KFF",
-          "Athletics Partners with Onrise To Support Student-Athlete Mental Health - Marquette University Athletics",
-          "Key Trump Health Adviser Resigns Ahead of Midterm Elections - The New York Times"
+          "Key Trump Health Adviser Resigns Ahead of Midterm Elections - The New York Times",
+          "The percentage of people without health insurance is growing - Stateline",
+          "Eating Walnuts With Dinner May Help You Sleep Better, Research Shows - Health.com"
         ]
       },
       {
         "trend": "medical",
         "market_code": "DE",
         "category": "Europe Health",
-        "score": 22,
+        "score": 20,
         "examples": [
-          "Medical professionals among 15 charged in alleged healthcare fraud worth $2 billion; raids carried out in Los Angeles - ABC7 Los Angeles",
           "Penguins' Ben Kindel back in Pittsburgh after medical emergency - ESPN",
+          "Kindel Back in Pittsburgh After Medical Episode on Team Plane - NHL.com",
           "23d Medical Group ranks among top performers in preventive cancer screenings - Moody Air Force Base (.mil)"
         ]
       },
@@ -297,11 +297,11 @@
         "trend": "healthcare",
         "market_code": "DE",
         "category": "Europe Health",
-        "score": 21,
+        "score": 18,
         "examples": [
+          "Department of Health and Human Services and the Justice Department’s Civil Division Announce Anti-Fraud Healthcare Self-Disclosure Pilot Program - HHS.gov",
           "Medical professionals among 15 charged in alleged healthcare fraud worth $2 billion; raids carried out in Los Angeles - ABC7 Los Angeles",
-          "Medical professionals among 15 charged in alleged healthcare fraud worth $2 billion; raids carried out in Los Angeles - ABC7 Los Angeles",
-          "Simply Healthcare funds Preeclampsia Foundation push to teach Florida mothers the warning signs - Florida Politics"
+          "FDA balances faster AI adoption with safety as healthcare technology advances - HealthExec"
         ]
       },
       {
@@ -310,31 +310,31 @@
         "category": "Outbreaks",
         "score": 14,
         "examples": [
+          "What to Know About Shamonda Virus Following the First Reported Human Infection - WIRED",
           "France reports first human case of livestock virus Shamonda after patient dies - Reuters",
-          "France reports first human case of livestock virus Shamonda in patient who later died - PBS",
-          "Shamonda virus detected in human for first time in France - The Guardian"
+          "First human case of Shamonda virus reported in France as patient dies - UN News"
+        ]
+      },
+      {
+        "trend": "cancer",
+        "market_code": "DE",
+        "category": "Chronic Disease",
+        "score": 12,
+        "examples": [
+          "Breast cancer awareness: learn the signs and screening options - City of Philadelphia (.gov)",
+          "23d Medical Group ranks among top performers in preventive cancer screenings - Moody Air Force Base (.mil)",
+          "Breast cancer awareness: learn the signs and screening options - City of Philadelphia (.gov)"
         ]
       },
       {
         "trend": "mental",
         "market_code": "DE",
         "category": "Mental Health",
-        "score": 13,
-        "examples": [
-          "Athletics Partners with Onrise To Support Student-Athlete Mental Health - Marquette University Athletics",
-          "CSU’s Ties with TimelyCare Raise Red Flags for Student Mental Health - California Faculty Association",
-          "University of New Haven Student Explores the Power of Peer Support in Youth Mental Health - University of New Haven"
-        ]
-      },
-      {
-        "trend": "mental health",
-        "market_code": "DE",
-        "category": "Mental Health",
         "score": 12,
         "examples": [
-          "Athletics Partners with Onrise To Support Student-Athlete Mental Health - Marquette University Athletics",
           "CSU’s Ties with TimelyCare Raise Red Flags for Student Mental Health - California Faculty Association",
-          "University of New Haven Student Explores the Power of Peer Support in Youth Mental Health - University of New Haven"
+          "Athletics Partners with Onrise To Support Student-Athlete Mental Health - Marquette University Athletics",
+          "NC announces $17 million in federal funds to improve rural mental health services - EdNC"
         ]
       },
       {
@@ -343,9 +343,20 @@
         "category": "Outbreaks",
         "score": 11,
         "examples": [
-          "DRC Ebola outbreak 'growing exponentially,' UN says - DW.com",
+          "WHO warns ‘more complex’ Ebola outbreak now present in 3 African countries - Al Jazeera",
           "Ebola Outbreak in Africa Reaches Widest Expansion Ever - The New York Times",
-          "DR Congo: Ebola responders under pressure as outbreak expands - UN News"
+          "DRC Ebola outbreak 'growing exponentially,' UN says - DW.com"
+        ]
+      },
+      {
+        "trend": "mental health",
+        "market_code": "DE",
+        "category": "Mental Health",
+        "score": 11,
+        "examples": [
+          "CSU’s Ties with TimelyCare Raise Red Flags for Student Mental Health - California Faculty Association",
+          "Athletics Partners with Onrise To Support Student-Athlete Mental Health - Marquette University Athletics",
+          "NC announces $17 million in federal funds to improve rural mental health services - EdNC"
         ]
       },
       {
@@ -354,31 +365,31 @@
         "category": "Europe Health",
         "score": 9,
         "examples": [
+          "AHA, health providers say hunters should know warning signs for heart attack, stroke - WDAM-TV",
           "Measles surge in Pennsylvania prompts new health warning to pregnant women - Baltimore Sun",
-          "Hell in a handbasin—warning on hospital hygiene - Medical Xpress",
-          "Hong Kong raids spark health warning over beauty jabs using dead people’s skin - South China Morning Post"
+          "Hell in a handbasin—warning on hospital hygiene - Medical Xpress"
         ]
       },
       {
-        "trend": "patient",
+        "trend": "public health",
         "market_code": "DE",
         "category": "Europe Health",
         "score": 8,
         "examples": [
-          "Major medical lab operator believes cyber breach exposed patient records - The Washington Post",
-          "Nigeria's first Ebola patient holidayed in Uganda, officials say - BBC",
-          "France reports first human case of livestock virus Shamonda after patient dies - Reuters"
+          "School of Public Health releases 2026 Healthy Georgia Report - Augusta University",
+          "Public health programs can ‘rewire’ social networks, Yale study finds - YaleNews",
+          "Assessing the public health risk after suspected plague exposure in Russia - Everbridge"
         ]
       },
       {
-        "trend": "disease",
+        "trend": "infection",
         "market_code": "DE",
-        "category": "Europe Health",
+        "category": "Outbreaks",
         "score": 8,
         "examples": [
-          "Hot fall triggers disease outbreak in some Montana big-game herds - Bozeman Daily Chronicle",
-          "Ebola patient in Nigeria believed to have contracted disease in Uganda, Switzerland says - Reuters",
-          "Hypertension treatment could avert over 500,000 heart disease deaths - MedicalNewsToday"
+          "What to Know About Shamonda Virus Following the First Reported Human Infection - WIRED",
+          "France confirms first Shamonda livestock virus infection in a human, say no danger to general population - DW.com",
+          "What to Know About Shamonda Virus Following the First Reported Human Infection - WIRED"
         ]
       },
       {
@@ -387,20 +398,9 @@
         "category": "Outbreaks",
         "score": 8,
         "examples": [
-          "Shamonda virus detected in human for first time in France - The Guardian",
-          "France reports first human Shamonda virus case, says no health risk - Al Jazeera",
-          "First human case of Shamonda virus detected in France, officials say - BBC"
-        ]
-      },
-      {
-        "trend": "public health",
-        "market_code": "DE",
-        "category": "Europe Health",
-        "score": 7,
-        "examples": [
-          "Public health programs can ‘rewire’ social networks, Yale study finds - YaleNews",
-          "NMSU Department of Public Health to host resource fair for senior citizens - New Mexico State University",
-          "School of Public Health releases 2026 Healthy Georgia Report - Augusta University"
+          "What to Know About Shamonda Virus Following the First Reported Human Infection - WIRED",
+          "First human case of Shamonda virus reported in France as patient dies - UN News",
+          "France reports 1st known human case of Shamonda virus - ABC News - Breaking News, Latest News and Videos"
         ]
       }
     ],
@@ -409,21 +409,21 @@
         "trend": "health",
         "market_code": "FR",
         "category": "Europe Health",
-        "score": 70,
+        "score": 68,
         "examples": [
-          "2026 Employer Health Benefits Survey - KFF",
-          "Athletics Partners with Onrise To Support Student-Athlete Mental Health - Marquette University Athletics",
-          "Key Trump Health Adviser Resigns Ahead of Midterm Elections - The New York Times"
+          "Key Trump Health Adviser Resigns Ahead of Midterm Elections - The New York Times",
+          "The percentage of people without health insurance is growing - Stateline",
+          "Eating Walnuts With Dinner May Help You Sleep Better, Research Shows - Health.com"
         ]
       },
       {
         "trend": "medical",
         "market_code": "FR",
         "category": "Europe Health",
-        "score": 22,
+        "score": 20,
         "examples": [
-          "Medical professionals among 15 charged in alleged healthcare fraud worth $2 billion; raids carried out in Los Angeles - ABC7 Los Angeles",
           "Penguins' Ben Kindel back in Pittsburgh after medical emergency - ESPN",
+          "Kindel Back in Pittsburgh After Medical Episode on Team Plane - NHL.com",
           "23d Medical Group ranks among top performers in preventive cancer screenings - Moody Air Force Base (.mil)"
         ]
       },
@@ -431,11 +431,11 @@
         "trend": "healthcare",
         "market_code": "FR",
         "category": "Europe Health",
-        "score": 21,
+        "score": 18,
         "examples": [
+          "Department of Health and Human Services and the Justice Department’s Civil Division Announce Anti-Fraud Healthcare Self-Disclosure Pilot Program - HHS.gov",
           "Medical professionals among 15 charged in alleged healthcare fraud worth $2 billion; raids carried out in Los Angeles - ABC7 Los Angeles",
-          "Medical professionals among 15 charged in alleged healthcare fraud worth $2 billion; raids carried out in Los Angeles - ABC7 Los Angeles",
-          "Simply Healthcare funds Preeclampsia Foundation push to teach Florida mothers the warning signs - Florida Politics"
+          "FDA balances faster AI adoption with safety as healthcare technology advances - HealthExec"
         ]
       },
       {
@@ -444,31 +444,31 @@
         "category": "Outbreaks",
         "score": 14,
         "examples": [
+          "What to Know About Shamonda Virus Following the First Reported Human Infection - WIRED",
           "France reports first human case of livestock virus Shamonda after patient dies - Reuters",
-          "France reports first human case of livestock virus Shamonda in patient who later died - PBS",
-          "Shamonda virus detected in human for first time in France - The Guardian"
+          "First human case of Shamonda virus reported in France as patient dies - UN News"
+        ]
+      },
+      {
+        "trend": "cancer",
+        "market_code": "FR",
+        "category": "Chronic Disease",
+        "score": 12,
+        "examples": [
+          "Breast cancer awareness: learn the signs and screening options - City of Philadelphia (.gov)",
+          "23d Medical Group ranks among top performers in preventive cancer screenings - Moody Air Force Base (.mil)",
+          "Breast cancer awareness: learn the signs and screening options - City of Philadelphia (.gov)"
         ]
       },
       {
         "trend": "mental",
         "market_code": "FR",
         "category": "Mental Health",
-        "score": 13,
-        "examples": [
-          "Athletics Partners with Onrise To Support Student-Athlete Mental Health - Marquette University Athletics",
-          "CSU’s Ties with TimelyCare Raise Red Flags for Student Mental Health - California Faculty Association",
-          "University of New Haven Student Explores the Power of Peer Support in Youth Mental Health - University of New Haven"
-        ]
-      },
-      {
-        "trend": "mental health",
-        "market_code": "FR",
-        "category": "Mental Health",
         "score": 12,
         "examples": [
-          "Athletics Partners with Onrise To Support Student-Athlete Mental Health - Marquette University Athletics",
           "CSU’s Ties with TimelyCare Raise Red Flags for Student Mental Health - California Faculty Association",
-          "University of New Haven Student Explores the Power of Peer Support in Youth Mental Health - University of New Haven"
+          "Athletics Partners with Onrise To Support Student-Athlete Mental Health - Marquette University Athletics",
+          "NC announces $17 million in federal funds to improve rural mental health services - EdNC"
         ]
       },
       {
@@ -477,9 +477,20 @@
         "category": "Outbreaks",
         "score": 11,
         "examples": [
-          "DRC Ebola outbreak 'growing exponentially,' UN says - DW.com",
+          "WHO warns ‘more complex’ Ebola outbreak now present in 3 African countries - Al Jazeera",
           "Ebola Outbreak in Africa Reaches Widest Expansion Ever - The New York Times",
-          "DR Congo: Ebola responders under pressure as outbreak expands - UN News"
+          "DRC Ebola outbreak 'growing exponentially,' UN says - DW.com"
+        ]
+      },
+      {
+        "trend": "mental health",
+        "market_code": "FR",
+        "category": "Mental Health",
+        "score": 11,
+        "examples": [
+          "CSU’s Ties with TimelyCare Raise Red Flags for Student Mental Health - California Faculty Association",
+          "Athletics Partners with Onrise To Support Student-Athlete Mental Health - Marquette University Athletics",
+          "NC announces $17 million in federal funds to improve rural mental health services - EdNC"
         ]
       },
       {
@@ -488,31 +499,31 @@
         "category": "Europe Health",
         "score": 9,
         "examples": [
+          "AHA, health providers say hunters should know warning signs for heart attack, stroke - WDAM-TV",
           "Measles surge in Pennsylvania prompts new health warning to pregnant women - Baltimore Sun",
-          "Hell in a handbasin—warning on hospital hygiene - Medical Xpress",
-          "Hong Kong raids spark health warning over beauty jabs using dead people’s skin - South China Morning Post"
+          "Hell in a handbasin—warning on hospital hygiene - Medical Xpress"
         ]
       },
       {
-        "trend": "patient",
+        "trend": "public health",
         "market_code": "FR",
         "category": "Europe Health",
         "score": 8,
         "examples": [
-          "Major medical lab operator believes cyber breach exposed patient records - The Washington Post",
-          "Nigeria's first Ebola patient holidayed in Uganda, officials say - BBC",
-          "France reports first human case of livestock virus Shamonda after patient dies - Reuters"
+          "School of Public Health releases 2026 Healthy Georgia Report - Augusta University",
+          "Public health programs can ‘rewire’ social networks, Yale study finds - YaleNews",
+          "Assessing the public health risk after suspected plague exposure in Russia - Everbridge"
         ]
       },
       {
-        "trend": "disease",
+        "trend": "infection",
         "market_code": "FR",
-        "category": "Europe Health",
+        "category": "Outbreaks",
         "score": 8,
         "examples": [
-          "Hot fall triggers disease outbreak in some Montana big-game herds - Bozeman Daily Chronicle",
-          "Ebola patient in Nigeria believed to have contracted disease in Uganda, Switzerland says - Reuters",
-          "Hypertension treatment could avert over 500,000 heart disease deaths - MedicalNewsToday"
+          "What to Know About Shamonda Virus Following the First Reported Human Infection - WIRED",
+          "France confirms first Shamonda livestock virus infection in a human, say no danger to general population - DW.com",
+          "What to Know About Shamonda Virus Following the First Reported Human Infection - WIRED"
         ]
       },
       {
@@ -521,20 +532,9 @@
         "category": "Outbreaks",
         "score": 8,
         "examples": [
-          "Shamonda virus detected in human for first time in France - The Guardian",
-          "France reports first human Shamonda virus case, says no health risk - Al Jazeera",
-          "First human case of Shamonda virus detected in France, officials say - BBC"
-        ]
-      },
-      {
-        "trend": "public health",
-        "market_code": "FR",
-        "category": "Europe Health",
-        "score": 7,
-        "examples": [
-          "Public health programs can ‘rewire’ social networks, Yale study finds - YaleNews",
-          "NMSU Department of Public Health to host resource fair for senior citizens - New Mexico State University",
-          "School of Public Health releases 2026 Healthy Georgia Report - Augusta University"
+          "What to Know About Shamonda Virus Following the First Reported Human Infection - WIRED",
+          "First human case of Shamonda virus reported in France as patient dies - UN News",
+          "France reports 1st known human case of Shamonda virus - ABC News - Breaking News, Latest News and Videos"
         ]
       }
     ],
@@ -543,21 +543,21 @@
         "trend": "health",
         "market_code": "IT",
         "category": "Europe Health",
-        "score": 70,
+        "score": 68,
         "examples": [
-          "2026 Employer Health Benefits Survey - KFF",
-          "Athletics Partners with Onrise To Support Student-Athlete Mental Health - Marquette University Athletics",
-          "Key Trump Health Adviser Resigns Ahead of Midterm Elections - The New York Times"
+          "Key Trump Health Adviser Resigns Ahead of Midterm Elections - The New York Times",
+          "The percentage of people without health insurance is growing - Stateline",
+          "Eating Walnuts With Dinner May Help You Sleep Better, Research Shows - Health.com"
         ]
       },
       {
         "trend": "medical",
         "market_code": "IT",
         "category": "Europe Health",
-        "score": 22,
+        "score": 20,
         "examples": [
-          "Medical professionals among 15 charged in alleged healthcare fraud worth $2 billion; raids carried out in Los Angeles - ABC7 Los Angeles",
           "Penguins' Ben Kindel back in Pittsburgh after medical emergency - ESPN",
+          "Kindel Back in Pittsburgh After Medical Episode on Team Plane - NHL.com",
           "23d Medical Group ranks among top performers in preventive cancer screenings - Moody Air Force Base (.mil)"
         ]
       },
@@ -565,11 +565,11 @@
         "trend": "healthcare",
         "market_code": "IT",
         "category": "Europe Health",
-        "score": 21,
+        "score": 18,
         "examples": [
+          "Department of Health and Human Services and the Justice Department’s Civil Division Announce Anti-Fraud Healthcare Self-Disclosure Pilot Program - HHS.gov",
           "Medical professionals among 15 charged in alleged healthcare fraud worth $2 billion; raids carried out in Los Angeles - ABC7 Los Angeles",
-          "Medical professionals among 15 charged in alleged healthcare fraud worth $2 billion; raids carried out in Los Angeles - ABC7 Los Angeles",
-          "Simply Healthcare funds Preeclampsia Foundation push to teach Florida mothers the warning signs - Florida Politics"
+          "FDA balances faster AI adoption with safety as healthcare technology advances - HealthExec"
         ]
       },
       {
@@ -578,31 +578,31 @@
         "category": "Outbreaks",
         "score": 14,
         "examples": [
+          "What to Know About Shamonda Virus Following the First Reported Human Infection - WIRED",
           "France reports first human case of livestock virus Shamonda after patient dies - Reuters",
-          "France reports first human case of livestock virus Shamonda in patient who later died - PBS",
-          "Shamonda virus detected in human for first time in France - The Guardian"
+          "First human case of Shamonda virus reported in France as patient dies - UN News"
+        ]
+      },
+      {
+        "trend": "cancer",
+        "market_code": "IT",
+        "category": "Chronic Disease",
+        "score": 12,
+        "examples": [
+          "Breast cancer awareness: learn the signs and screening options - City of Philadelphia (.gov)",
+          "23d Medical Group ranks among top performers in preventive cancer screenings - Moody Air Force Base (.mil)",
+          "Breast cancer awareness: learn the signs and screening options - City of Philadelphia (.gov)"
         ]
       },
       {
         "trend": "mental",
         "market_code": "IT",
         "category": "Mental Health",
-        "score": 13,
-        "examples": [
-          "Athletics Partners with Onrise To Support Student-Athlete Mental Health - Marquette University Athletics",
-          "CSU’s Ties with TimelyCare Raise Red Flags for Student Mental Health - California Faculty Association",
-          "University of New Haven Student Explores the Power of Peer Support in Youth Mental Health - University of New Haven"
-        ]
-      },
-      {
-        "trend": "mental health",
-        "market_code": "IT",
-        "category": "Mental Health",
         "score": 12,
         "examples": [
-          "Athletics Partners with Onrise To Support Student-Athlete Mental Health - Marquette University Athletics",
           "CSU’s Ties with TimelyCare Raise Red Flags for Student Mental Health - California Faculty Association",
-          "University of New Haven Student Explores the Power of Peer Support in Youth Mental Health - University of New Haven"
+          "Athletics Partners with Onrise To Support Student-Athlete Mental Health - Marquette University Athletics",
+          "NC announces $17 million in federal funds to improve rural mental health services - EdNC"
         ]
       },
       {
@@ -611,9 +611,20 @@
         "category": "Outbreaks",
         "score": 11,
         "examples": [
-          "DRC Ebola outbreak 'growing exponentially,' UN says - DW.com",
+          "WHO warns ‘more complex’ Ebola outbreak now present in 3 African countries - Al Jazeera",
           "Ebola Outbreak in Africa Reaches Widest Expansion Ever - The New York Times",
-          "DR Congo: Ebola responders under pressure as outbreak expands - UN News"
+          "DRC Ebola outbreak 'growing exponentially,' UN says - DW.com"
+        ]
+      },
+      {
+        "trend": "mental health",
+        "market_code": "IT",
+        "category": "Mental Health",
+        "score": 11,
+        "examples": [
+          "CSU’s Ties with TimelyCare Raise Red Flags for Student Mental Health - California Faculty Association",
+          "Athletics Partners with Onrise To Support Student-Athlete Mental Health - Marquette University Athletics",
+          "NC announces $17 million in federal funds to improve rural mental health services - EdNC"
         ]
       },
       {
@@ -622,31 +633,31 @@
         "category": "Europe Health",
         "score": 9,
         "examples": [
+          "AHA, health providers say hunters should know warning signs for heart attack, stroke - WDAM-TV",
           "Measles surge in Pennsylvania prompts new health warning to pregnant women - Baltimore Sun",
-          "Hell in a handbasin—warning on hospital hygiene - Medical Xpress",
-          "Hong Kong raids spark health warning over beauty jabs using dead people’s skin - South China Morning Post"
+          "Hell in a handbasin—warning on hospital hygiene - Medical Xpress"
         ]
       },
       {
-        "trend": "patient",
+        "trend": "public health",
         "market_code": "IT",
         "category": "Europe Health",
         "score": 8,
         "examples": [
-          "Major medical lab operator believes cyber breach exposed patient records - The Washington Post",
-          "Nigeria's first Ebola patient holidayed in Uganda, officials say - BBC",
-          "France reports first human case of livestock virus Shamonda after patient dies - Reuters"
+          "School of Public Health releases 2026 Healthy Georgia Report - Augusta University",
+          "Public health programs can ‘rewire’ social networks, Yale study finds - YaleNews",
+          "Assessing the public health risk after suspected plague exposure in Russia - Everbridge"
         ]
       },
       {
-        "trend": "disease",
+        "trend": "infection",
         "market_code": "IT",
-        "category": "Europe Health",
+        "category": "Outbreaks",
         "score": 8,
         "examples": [
-          "Hot fall triggers disease outbreak in some Montana big-game herds - Bozeman Daily Chronicle",
-          "Ebola patient in Nigeria believed to have contracted disease in Uganda, Switzerland says - Reuters",
-          "Hypertension treatment could avert over 500,000 heart disease deaths - MedicalNewsToday"
+          "What to Know About Shamonda Virus Following the First Reported Human Infection - WIRED",
+          "France confirms first Shamonda livestock virus infection in a human, say no danger to general population - DW.com",
+          "What to Know About Shamonda Virus Following the First Reported Human Infection - WIRED"
         ]
       },
       {
@@ -655,20 +666,9 @@
         "category": "Outbreaks",
         "score": 8,
         "examples": [
-          "Shamonda virus detected in human for first time in France - The Guardian",
-          "France reports first human Shamonda virus case, says no health risk - Al Jazeera",
-          "First human case of Shamonda virus detected in France, officials say - BBC"
-        ]
-      },
-      {
-        "trend": "public health",
-        "market_code": "IT",
-        "category": "Europe Health",
-        "score": 7,
-        "examples": [
-          "Public health programs can ‘rewire’ social networks, Yale study finds - YaleNews",
-          "NMSU Department of Public Health to host resource fair for senior citizens - New Mexico State University",
-          "School of Public Health releases 2026 Healthy Georgia Report - Augusta University"
+          "What to Know About Shamonda Virus Following the First Reported Human Infection - WIRED",
+          "First human case of Shamonda virus reported in France as patient dies - UN News",
+          "France reports 1st known human case of Shamonda virus - ABC News - Breaking News, Latest News and Videos"
         ]
       }
     ],
@@ -677,21 +677,21 @@
         "trend": "health",
         "market_code": "ES",
         "category": "Europe Health",
-        "score": 70,
+        "score": 68,
         "examples": [
-          "2026 Employer Health Benefits Survey - KFF",
-          "Athletics Partners with Onrise To Support Student-Athlete Mental Health - Marquette University Athletics",
-          "Key Trump Health Adviser Resigns Ahead of Midterm Elections - The New York Times"
+          "Key Trump Health Adviser Resigns Ahead of Midterm Elections - The New York Times",
+          "The percentage of people without health insurance is growing - Stateline",
+          "Eating Walnuts With Dinner May Help You Sleep Better, Research Shows - Health.com"
         ]
       },
       {
         "trend": "medical",
         "market_code": "ES",
         "category": "Europe Health",
-        "score": 22,
+        "score": 20,
         "examples": [
-          "Medical professionals among 15 charged in alleged healthcare fraud worth $2 billion; raids carried out in Los Angeles - ABC7 Los Angeles",
           "Penguins' Ben Kindel back in Pittsburgh after medical emergency - ESPN",
+          "Kindel Back in Pittsburgh After Medical Episode on Team Plane - NHL.com",
           "23d Medical Group ranks among top performers in preventive cancer screenings - Moody Air Force Base (.mil)"
         ]
       },
@@ -699,11 +699,11 @@
         "trend": "healthcare",
         "market_code": "ES",
         "category": "Europe Health",
-        "score": 21,
+        "score": 18,
         "examples": [
+          "Department of Health and Human Services and the Justice Department’s Civil Division Announce Anti-Fraud Healthcare Self-Disclosure Pilot Program - HHS.gov",
           "Medical professionals among 15 charged in alleged healthcare fraud worth $2 billion; raids carried out in Los Angeles - ABC7 Los Angeles",
-          "Medical professionals among 15 charged in alleged healthcare fraud worth $2 billion; raids carried out in Los Angeles - ABC7 Los Angeles",
-          "Simply Healthcare funds Preeclampsia Foundation push to teach Florida mothers the warning signs - Florida Politics"
+          "FDA balances faster AI adoption with safety as healthcare technology advances - HealthExec"
         ]
       },
       {
@@ -712,31 +712,31 @@
         "category": "Outbreaks",
         "score": 14,
         "examples": [
+          "What to Know About Shamonda Virus Following the First Reported Human Infection - WIRED",
           "France reports first human case of livestock virus Shamonda after patient dies - Reuters",
-          "France reports first human case of livestock virus Shamonda in patient who later died - PBS",
-          "Shamonda virus detected in human for first time in France - The Guardian"
+          "First human case of Shamonda virus reported in France as patient dies - UN News"
+        ]
+      },
+      {
+        "trend": "cancer",
+        "market_code": "ES",
+        "category": "Chronic Disease",
+        "score": 12,
+        "examples": [
+          "Breast cancer awareness: learn the signs and screening options - City of Philadelphia (.gov)",
+          "23d Medical Group ranks among top performers in preventive cancer screenings - Moody Air Force Base (.mil)",
+          "Breast cancer awareness: learn the signs and screening options - City of Philadelphia (.gov)"
         ]
       },
       {
         "trend": "mental",
         "market_code": "ES",
         "category": "Mental Health",
-        "score": 13,
-        "examples": [
-          "Athletics Partners with Onrise To Support Student-Athlete Mental Health - Marquette University Athletics",
-          "CSU’s Ties with TimelyCare Raise Red Flags for Student Mental Health - California Faculty Association",
-          "University of New Haven Student Explores the Power of Peer Support in Youth Mental Health - University of New Haven"
-        ]
-      },
-      {
-        "trend": "mental health",
-        "market_code": "ES",
-        "category": "Mental Health",
         "score": 12,
         "examples": [
-          "Athletics Partners with Onrise To Support Student-Athlete Mental Health - Marquette University Athletics",
           "CSU’s Ties with TimelyCare Raise Red Flags for Student Mental Health - California Faculty Association",
-          "University of New Haven Student Explores the Power of Peer Support in Youth Mental Health - University of New Haven"
+          "Athletics Partners with Onrise To Support Student-Athlete Mental Health - Marquette University Athletics",
+          "NC announces $17 million in federal funds to improve rural mental health services - EdNC"
         ]
       },
       {
@@ -745,9 +745,20 @@
         "category": "Outbreaks",
         "score": 11,
         "examples": [
-          "DRC Ebola outbreak 'growing exponentially,' UN says - DW.com",
+          "WHO warns ‘more complex’ Ebola outbreak now present in 3 African countries - Al Jazeera",
           "Ebola Outbreak in Africa Reaches Widest Expansion Ever - The New York Times",
-          "DR Congo: Ebola responders under pressure as outbreak expands - UN News"
+          "DRC Ebola outbreak 'growing exponentially,' UN says - DW.com"
+        ]
+      },
+      {
+        "trend": "mental health",
+        "market_code": "ES",
+        "category": "Mental Health",
+        "score": 11,
+        "examples": [
+          "CSU’s Ties with TimelyCare Raise Red Flags for Student Mental Health - California Faculty Association",
+          "Athletics Partners with Onrise To Support Student-Athlete Mental Health - Marquette University Athletics",
+          "NC announces $17 million in federal funds to improve rural mental health services - EdNC"
         ]
       },
       {
@@ -756,31 +767,31 @@
         "category": "Europe Health",
         "score": 9,
         "examples": [
+          "AHA, health providers say hunters should know warning signs for heart attack, stroke - WDAM-TV",
           "Measles surge in Pennsylvania prompts new health warning to pregnant women - Baltimore Sun",
-          "Hell in a handbasin—warning on hospital hygiene - Medical Xpress",
-          "Hong Kong raids spark health warning over beauty jabs using dead people’s skin - South China Morning Post"
+          "Hell in a handbasin—warning on hospital hygiene - Medical Xpress"
         ]
       },
       {
-        "trend": "patient",
+        "trend": "public health",
         "market_code": "ES",
         "category": "Europe Health",
         "score": 8,
         "examples": [
-          "Major medical lab operator believes cyber breach exposed patient records - The Washington Post",
-          "Nigeria's first Ebola patient holidayed in Uganda, officials say - BBC",
-          "France reports first human case of livestock virus Shamonda after patient dies - Reuters"
+          "School of Public Health releases 2026 Healthy Georgia Report - Augusta University",
+          "Public health programs can ‘rewire’ social networks, Yale study finds - YaleNews",
+          "Assessing the public health risk after suspected plague exposure in Russia - Everbridge"
         ]
       },
       {
-        "trend": "disease",
+        "trend": "infection",
         "market_code": "ES",
-        "category": "Europe Health",
+        "category": "Outbreaks",
         "score": 8,
         "examples": [
-          "Hot fall triggers disease outbreak in some Montana big-game herds - Bozeman Daily Chronicle",
-          "Ebola patient in Nigeria believed to have contracted disease in Uganda, Switzerland says - Reuters",
-          "Hypertension treatment could avert over 500,000 heart disease deaths - MedicalNewsToday"
+          "What to Know About Shamonda Virus Following the First Reported Human Infection - WIRED",
+          "France confirms first Shamonda livestock virus infection in a human, say no danger to general population - DW.com",
+          "What to Know About Shamonda Virus Following the First Reported Human Infection - WIRED"
         ]
       },
       {
@@ -789,20 +800,9 @@
         "category": "Outbreaks",
         "score": 8,
         "examples": [
-          "Shamonda virus detected in human for first time in France - The Guardian",
-          "France reports first human Shamonda virus case, says no health risk - Al Jazeera",
-          "First human case of Shamonda virus detected in France, officials say - BBC"
-        ]
-      },
-      {
-        "trend": "public health",
-        "market_code": "ES",
-        "category": "Europe Health",
-        "score": 7,
-        "examples": [
-          "Public health programs can ‘rewire’ social networks, Yale study finds - YaleNews",
-          "NMSU Department of Public Health to host resource fair for senior citizens - New Mexico State University",
-          "School of Public Health releases 2026 Healthy Georgia Report - Augusta University"
+          "What to Know About Shamonda Virus Following the First Reported Human Infection - WIRED",
+          "First human case of Shamonda virus reported in France as patient dies - UN News",
+          "France reports 1st known human case of Shamonda virus - ABC News - Breaking News, Latest News and Videos"
         ]
       }
     ],
@@ -811,21 +811,21 @@
         "trend": "health",
         "market_code": "SE",
         "category": "Europe Health",
-        "score": 70,
+        "score": 68,
         "examples": [
-          "2026 Employer Health Benefits Survey - KFF",
-          "Athletics Partners with Onrise To Support Student-Athlete Mental Health - Marquette University Athletics",
-          "Key Trump Health Adviser Resigns Ahead of Midterm Elections - The New York Times"
+          "Key Trump Health Adviser Resigns Ahead of Midterm Elections - The New York Times",
+          "The percentage of people without health insurance is growing - Stateline",
+          "Eating Walnuts With Dinner May Help You Sleep Better, Research Shows - Health.com"
         ]
       },
       {
         "trend": "medical",
         "market_code": "SE",
         "category": "Europe Health",
-        "score": 22,
+        "score": 20,
         "examples": [
-          "Medical professionals among 15 charged in alleged healthcare fraud worth $2 billion; raids carried out in Los Angeles - ABC7 Los Angeles",
           "Penguins' Ben Kindel back in Pittsburgh after medical emergency - ESPN",
+          "Kindel Back in Pittsburgh After Medical Episode on Team Plane - NHL.com",
           "23d Medical Group ranks among top performers in preventive cancer screenings - Moody Air Force Base (.mil)"
         ]
       },
@@ -833,11 +833,11 @@
         "trend": "healthcare",
         "market_code": "SE",
         "category": "Europe Health",
-        "score": 21,
+        "score": 18,
         "examples": [
+          "Department of Health and Human Services and the Justice Department’s Civil Division Announce Anti-Fraud Healthcare Self-Disclosure Pilot Program - HHS.gov",
           "Medical professionals among 15 charged in alleged healthcare fraud worth $2 billion; raids carried out in Los Angeles - ABC7 Los Angeles",
-          "Medical professionals among 15 charged in alleged healthcare fraud worth $2 billion; raids carried out in Los Angeles - ABC7 Los Angeles",
-          "Simply Healthcare funds Preeclampsia Foundation push to teach Florida mothers the warning signs - Florida Politics"
+          "FDA balances faster AI adoption with safety as healthcare technology advances - HealthExec"
         ]
       },
       {
@@ -846,31 +846,31 @@
         "category": "Outbreaks",
         "score": 14,
         "examples": [
+          "What to Know About Shamonda Virus Following the First Reported Human Infection - WIRED",
           "France reports first human case of livestock virus Shamonda after patient dies - Reuters",
-          "France reports first human case of livestock virus Shamonda in patient who later died - PBS",
-          "Shamonda virus detected in human for first time in France - The Guardian"
+          "First human case of Shamonda virus reported in France as patient dies - UN News"
+        ]
+      },
+      {
+        "trend": "cancer",
+        "market_code": "SE",
+        "category": "Chronic Disease",
+        "score": 12,
+        "examples": [
+          "Breast cancer awareness: learn the signs and screening options - City of Philadelphia (.gov)",
+          "23d Medical Group ranks among top performers in preventive cancer screenings - Moody Air Force Base (.mil)",
+          "Breast cancer awareness: learn the signs and screening options - City of Philadelphia (.gov)"
         ]
       },
       {
         "trend": "mental",
         "market_code": "SE",
         "category": "Mental Health",
-        "score": 13,
-        "examples": [
-          "Athletics Partners with Onrise To Support Student-Athlete Mental Health - Marquette University Athletics",
-          "CSU’s Ties with TimelyCare Raise Red Flags for Student Mental Health - California Faculty Association",
-          "University of New Haven Student Explores the Power of Peer Support in Youth Mental Health - University of New Haven"
-        ]
-      },
-      {
-        "trend": "mental health",
-        "market_code": "SE",
-        "category": "Mental Health",
         "score": 12,
         "examples": [
-          "Athletics Partners with Onrise To Support Student-Athlete Mental Health - Marquette University Athletics",
           "CSU’s Ties with TimelyCare Raise Red Flags for Student Mental Health - California Faculty Association",
-          "University of New Haven Student Explores the Power of Peer Support in Youth Mental Health - University of New Haven"
+          "Athletics Partners with Onrise To Support Student-Athlete Mental Health - Marquette University Athletics",
+          "NC announces $17 million in federal funds to improve rural mental health services - EdNC"
         ]
       },
       {
@@ -879,9 +879,20 @@
         "category": "Outbreaks",
         "score": 11,
         "examples": [
-          "DRC Ebola outbreak 'growing exponentially,' UN says - DW.com",
+          "WHO warns ‘more complex’ Ebola outbreak now present in 3 African countries - Al Jazeera",
           "Ebola Outbreak in Africa Reaches Widest Expansion Ever - The New York Times",
-          "DR Congo: Ebola responders under pressure as outbreak expands - UN News"
+          "DRC Ebola outbreak 'growing exponentially,' UN says - DW.com"
+        ]
+      },
+      {
+        "trend": "mental health",
+        "market_code": "SE",
+        "category": "Mental Health",
+        "score": 11,
+        "examples": [
+          "CSU’s Ties with TimelyCare Raise Red Flags for Student Mental Health - California Faculty Association",
+          "Athletics Partners with Onrise To Support Student-Athlete Mental Health - Marquette University Athletics",
+          "NC announces $17 million in federal funds to improve rural mental health services - EdNC"
         ]
       },
       {
@@ -890,31 +901,31 @@
         "category": "Europe Health",
         "score": 9,
         "examples": [
+          "AHA, health providers say hunters should know warning signs for heart attack, stroke - WDAM-TV",
           "Measles surge in Pennsylvania prompts new health warning to pregnant women - Baltimore Sun",
-          "Hell in a handbasin—warning on hospital hygiene - Medical Xpress",
-          "Hong Kong raids spark health warning over beauty jabs using dead people’s skin - South China Morning Post"
+          "Hell in a handbasin—warning on hospital hygiene - Medical Xpress"
         ]
       },
       {
-        "trend": "patient",
+        "trend": "public health",
         "market_code": "SE",
         "category": "Europe Health",
         "score": 8,
         "examples": [
-          "Major medical lab operator believes cyber breach exposed patient records - The Washington Post",
-          "Nigeria's first Ebola patient holidayed in Uganda, officials say - BBC",
-          "France reports first human case of livestock virus Shamonda after patient dies - Reuters"
+          "School of Public Health releases 2026 Healthy Georgia Report - Augusta University",
+          "Public health programs can ‘rewire’ social networks, Yale study finds - YaleNews",
+          "Assessing the public health risk after suspected plague exposure in Russia - Everbridge"
         ]
       },
       {
-        "trend": "disease",
+        "trend": "infection",
         "market_code": "SE",
-        "category": "Europe Health",
+        "category": "Outbreaks",
         "score": 8,
         "examples": [
-          "Hot fall triggers disease outbreak in some Montana big-game herds - Bozeman Daily Chronicle",
-          "Ebola patient in Nigeria believed to have contracted disease in Uganda, Switzerland says - Reuters",
-          "Hypertension treatment could avert over 500,000 heart disease deaths - MedicalNewsToday"
+          "What to Know About Shamonda Virus Following the First Reported Human Infection - WIRED",
+          "France confirms first Shamonda livestock virus infection in a human, say no danger to general population - DW.com",
+          "What to Know About Shamonda Virus Following the First Reported Human Infection - WIRED"
         ]
       },
       {
@@ -923,20 +934,9 @@
         "category": "Outbreaks",
         "score": 8,
         "examples": [
-          "Shamonda virus detected in human for first time in France - The Guardian",
-          "France reports first human Shamonda virus case, says no health risk - Al Jazeera",
-          "First human case of Shamonda virus detected in France, officials say - BBC"
-        ]
-      },
-      {
-        "trend": "public health",
-        "market_code": "SE",
-        "category": "Europe Health",
-        "score": 7,
-        "examples": [
-          "Public health programs can ‘rewire’ social networks, Yale study finds - YaleNews",
-          "NMSU Department of Public Health to host resource fair for senior citizens - New Mexico State University",
-          "School of Public Health releases 2026 Healthy Georgia Report - Augusta University"
+          "What to Know About Shamonda Virus Following the First Reported Human Infection - WIRED",
+          "First human case of Shamonda virus reported in France as patient dies - UN News",
+          "France reports 1st known human case of Shamonda virus - ABC News - Breaking News, Latest News and Videos"
         ]
       }
     ],
@@ -945,21 +945,21 @@
         "trend": "health",
         "market_code": "NL",
         "category": "Europe Health",
-        "score": 70,
+        "score": 68,
         "examples": [
-          "2026 Employer Health Benefits Survey - KFF",
-          "Athletics Partners with Onrise To Support Student-Athlete Mental Health - Marquette University Athletics",
-          "Key Trump Health Adviser Resigns Ahead of Midterm Elections - The New York Times"
+          "Key Trump Health Adviser Resigns Ahead of Midterm Elections - The New York Times",
+          "The percentage of people without health insurance is growing - Stateline",
+          "Eating Walnuts With Dinner May Help You Sleep Better, Research Shows - Health.com"
         ]
       },
       {
         "trend": "medical",
         "market_code": "NL",
         "category": "Europe Health",
-        "score": 22,
+        "score": 20,
         "examples": [
-          "Medical professionals among 15 charged in alleged healthcare fraud worth $2 billion; raids carried out in Los Angeles - ABC7 Los Angeles",
           "Penguins' Ben Kindel back in Pittsburgh after medical emergency - ESPN",
+          "Kindel Back in Pittsburgh After Medical Episode on Team Plane - NHL.com",
           "23d Medical Group ranks among top performers in preventive cancer screenings - Moody Air Force Base (.mil)"
         ]
       },
@@ -967,11 +967,11 @@
         "trend": "healthcare",
         "market_code": "NL",
         "category": "Europe Health",
-        "score": 21,
+        "score": 18,
         "examples": [
+          "Department of Health and Human Services and the Justice Department’s Civil Division Announce Anti-Fraud Healthcare Self-Disclosure Pilot Program - HHS.gov",
           "Medical professionals among 15 charged in alleged healthcare fraud worth $2 billion; raids carried out in Los Angeles - ABC7 Los Angeles",
-          "Medical professionals among 15 charged in alleged healthcare fraud worth $2 billion; raids carried out in Los Angeles - ABC7 Los Angeles",
-          "Simply Healthcare funds Preeclampsia Foundation push to teach Florida mothers the warning signs - Florida Politics"
+          "FDA balances faster AI adoption with safety as healthcare technology advances - HealthExec"
         ]
       },
       {
@@ -980,31 +980,31 @@
         "category": "Outbreaks",
         "score": 14,
         "examples": [
+          "What to Know About Shamonda Virus Following the First Reported Human Infection - WIRED",
           "France reports first human case of livestock virus Shamonda after patient dies - Reuters",
-          "France reports first human case of livestock virus Shamonda in patient who later died - PBS",
-          "Shamonda virus detected in human for first time in France - The Guardian"
+          "First human case of Shamonda virus reported in France as patient dies - UN News"
+        ]
+      },
+      {
+        "trend": "cancer",
+        "market_code": "NL",
+        "category": "Chronic Disease",
+        "score": 12,
+        "examples": [
+          "Breast cancer awareness: learn the signs and screening options - City of Philadelphia (.gov)",
+          "23d Medical Group ranks among top performers in preventive cancer screenings - Moody Air Force Base (.mil)",
+          "Breast cancer awareness: learn the signs and screening options - City of Philadelphia (.gov)"
         ]
       },
       {
         "trend": "mental",
         "market_code": "NL",
         "category": "Mental Health",
-        "score": 13,
-        "examples": [
-          "Athletics Partners with Onrise To Support Student-Athlete Mental Health - Marquette University Athletics",
-          "CSU’s Ties with TimelyCare Raise Red Flags for Student Mental Health - California Faculty Association",
-          "University of New Haven Student Explores the Power of Peer Support in Youth Mental Health - University of New Haven"
-        ]
-      },
-      {
-        "trend": "mental health",
-        "market_code": "NL",
-        "category": "Mental Health",
         "score": 12,
         "examples": [
-          "Athletics Partners with Onrise To Support Student-Athlete Mental Health - Marquette University Athletics",
           "CSU’s Ties with TimelyCare Raise Red Flags for Student Mental Health - California Faculty Association",
-          "University of New Haven Student Explores the Power of Peer Support in Youth Mental Health - University of New Haven"
+          "Athletics Partners with Onrise To Support Student-Athlete Mental Health - Marquette University Athletics",
+          "NC announces $17 million in federal funds to improve rural mental health services - EdNC"
         ]
       },
       {
@@ -1013,9 +1013,20 @@
         "category": "Outbreaks",
         "score": 11,
         "examples": [
-          "DRC Ebola outbreak 'growing exponentially,' UN says - DW.com",
+          "WHO warns ‘more complex’ Ebola outbreak now present in 3 African countries - Al Jazeera",
           "Ebola Outbreak in Africa Reaches Widest Expansion Ever - The New York Times",
-          "DR Congo: Ebola responders under pressure as outbreak expands - UN News"
+          "DRC Ebola outbreak 'growing exponentially,' UN says - DW.com"
+        ]
+      },
+      {
+        "trend": "mental health",
+        "market_code": "NL",
+        "category": "Mental Health",
+        "score": 11,
+        "examples": [
+          "CSU’s Ties with TimelyCare Raise Red Flags for Student Mental Health - California Faculty Association",
+          "Athletics Partners with Onrise To Support Student-Athlete Mental Health - Marquette University Athletics",
+          "NC announces $17 million in federal funds to improve rural mental health services - EdNC"
         ]
       },
       {
@@ -1024,31 +1035,31 @@
         "category": "Europe Health",
         "score": 9,
         "examples": [
+          "AHA, health providers say hunters should know warning signs for heart attack, stroke - WDAM-TV",
           "Measles surge in Pennsylvania prompts new health warning to pregnant women - Baltimore Sun",
-          "Hell in a handbasin—warning on hospital hygiene - Medical Xpress",
-          "Hong Kong raids spark health warning over beauty jabs using dead people’s skin - South China Morning Post"
+          "Hell in a handbasin—warning on hospital hygiene - Medical Xpress"
         ]
       },
       {
-        "trend": "patient",
+        "trend": "public health",
         "market_code": "NL",
         "category": "Europe Health",
         "score": 8,
         "examples": [
-          "Major medical lab operator believes cyber breach exposed patient records - The Washington Post",
-          "Nigeria's first Ebola patient holidayed in Uganda, officials say - BBC",
-          "France reports first human case of livestock virus Shamonda after patient dies - Reuters"
+          "School of Public Health releases 2026 Healthy Georgia Report - Augusta University",
+          "Public health programs can ‘rewire’ social networks, Yale study finds - YaleNews",
+          "Assessing the public health risk after suspected plague exposure in Russia - Everbridge"
         ]
       },
       {
-        "trend": "disease",
+        "trend": "infection",
         "market_code": "NL",
-        "category": "Europe Health",
+        "category": "Outbreaks",
         "score": 8,
         "examples": [
-          "Hot fall triggers disease outbreak in some Montana big-game herds - Bozeman Daily Chronicle",
-          "Ebola patient in Nigeria believed to have contracted disease in Uganda, Switzerland says - Reuters",
-          "Hypertension treatment could avert over 500,000 heart disease deaths - MedicalNewsToday"
+          "What to Know About Shamonda Virus Following the First Reported Human Infection - WIRED",
+          "France confirms first Shamonda livestock virus infection in a human, say no danger to general population - DW.com",
+          "What to Know About Shamonda Virus Following the First Reported Human Infection - WIRED"
         ]
       },
       {
@@ -1057,20 +1068,9 @@
         "category": "Outbreaks",
         "score": 8,
         "examples": [
-          "Shamonda virus detected in human for first time in France - The Guardian",
-          "France reports first human Shamonda virus case, says no health risk - Al Jazeera",
-          "First human case of Shamonda virus detected in France, officials say - BBC"
-        ]
-      },
-      {
-        "trend": "public health",
-        "market_code": "NL",
-        "category": "Europe Health",
-        "score": 7,
-        "examples": [
-          "Public health programs can ‘rewire’ social networks, Yale study finds - YaleNews",
-          "NMSU Department of Public Health to host resource fair for senior citizens - New Mexico State University",
-          "School of Public Health releases 2026 Healthy Georgia Report - Augusta University"
+          "What to Know About Shamonda Virus Following the First Reported Human Infection - WIRED",
+          "First human case of Shamonda virus reported in France as patient dies - UN News",
+          "France reports 1st known human case of Shamonda virus - ABC News - Breaking News, Latest News and Videos"
         ]
       }
     ],
@@ -1079,21 +1079,21 @@
         "trend": "health",
         "market_code": "FI",
         "category": "Europe Health",
-        "score": 70,
+        "score": 68,
         "examples": [
-          "2026 Employer Health Benefits Survey - KFF",
-          "Athletics Partners with Onrise To Support Student-Athlete Mental Health - Marquette University Athletics",
-          "Key Trump Health Adviser Resigns Ahead of Midterm Elections - The New York Times"
+          "Key Trump Health Adviser Resigns Ahead of Midterm Elections - The New York Times",
+          "The percentage of people without health insurance is growing - Stateline",
+          "Eating Walnuts With Dinner May Help You Sleep Better, Research Shows - Health.com"
         ]
       },
       {
         "trend": "medical",
         "market_code": "FI",
         "category": "Europe Health",
-        "score": 22,
+        "score": 20,
         "examples": [
-          "Medical professionals among 15 charged in alleged healthcare fraud worth $2 billion; raids carried out in Los Angeles - ABC7 Los Angeles",
           "Penguins' Ben Kindel back in Pittsburgh after medical emergency - ESPN",
+          "Kindel Back in Pittsburgh After Medical Episode on Team Plane - NHL.com",
           "23d Medical Group ranks among top performers in preventive cancer screenings - Moody Air Force Base (.mil)"
         ]
       },
@@ -1101,11 +1101,11 @@
         "trend": "healthcare",
         "market_code": "FI",
         "category": "Europe Health",
-        "score": 21,
+        "score": 18,
         "examples": [
+          "Department of Health and Human Services and the Justice Department’s Civil Division Announce Anti-Fraud Healthcare Self-Disclosure Pilot Program - HHS.gov",
           "Medical professionals among 15 charged in alleged healthcare fraud worth $2 billion; raids carried out in Los Angeles - ABC7 Los Angeles",
-          "Medical professionals among 15 charged in alleged healthcare fraud worth $2 billion; raids carried out in Los Angeles - ABC7 Los Angeles",
-          "Simply Healthcare funds Preeclampsia Foundation push to teach Florida mothers the warning signs - Florida Politics"
+          "FDA balances faster AI adoption with safety as healthcare technology advances - HealthExec"
         ]
       },
       {
@@ -1114,31 +1114,31 @@
         "category": "Outbreaks",
         "score": 14,
         "examples": [
+          "What to Know About Shamonda Virus Following the First Reported Human Infection - WIRED",
           "France reports first human case of livestock virus Shamonda after patient dies - Reuters",
-          "France reports first human case of livestock virus Shamonda in patient who later died - PBS",
-          "Shamonda virus detected in human for first time in France - The Guardian"
+          "First human case of Shamonda virus reported in France as patient dies - UN News"
+        ]
+      },
+      {
+        "trend": "cancer",
+        "market_code": "FI",
+        "category": "Chronic Disease",
+        "score": 12,
+        "examples": [
+          "Breast cancer awareness: learn the signs and screening options - City of Philadelphia (.gov)",
+          "23d Medical Group ranks among top performers in preventive cancer screenings - Moody Air Force Base (.mil)",
+          "Breast cancer awareness: learn the signs and screening options - City of Philadelphia (.gov)"
         ]
       },
       {
         "trend": "mental",
         "market_code": "FI",
         "category": "Mental Health",
-        "score": 13,
-        "examples": [
-          "Athletics Partners with Onrise To Support Student-Athlete Mental Health - Marquette University Athletics",
-          "CSU’s Ties with TimelyCare Raise Red Flags for Student Mental Health - California Faculty Association",
-          "University of New Haven Student Explores the Power of Peer Support in Youth Mental Health - University of New Haven"
-        ]
-      },
-      {
-        "trend": "mental health",
-        "market_code": "FI",
-        "category": "Mental Health",
         "score": 12,
         "examples": [
-          "Athletics Partners with Onrise To Support Student-Athlete Mental Health - Marquette University Athletics",
           "CSU’s Ties with TimelyCare Raise Red Flags for Student Mental Health - California Faculty Association",
-          "University of New Haven Student Explores the Power of Peer Support in Youth Mental Health - University of New Haven"
+          "Athletics Partners with Onrise To Support Student-Athlete Mental Health - Marquette University Athletics",
+          "NC announces $17 million in federal funds to improve rural mental health services - EdNC"
         ]
       },
       {
@@ -1147,9 +1147,20 @@
         "category": "Outbreaks",
         "score": 11,
         "examples": [
-          "DRC Ebola outbreak 'growing exponentially,' UN says - DW.com",
+          "WHO warns ‘more complex’ Ebola outbreak now present in 3 African countries - Al Jazeera",
           "Ebola Outbreak in Africa Reaches Widest Expansion Ever - The New York Times",
-          "DR Congo: Ebola responders under pressure as outbreak expands - UN News"
+          "DRC Ebola outbreak 'growing exponentially,' UN says - DW.com"
+        ]
+      },
+      {
+        "trend": "mental health",
+        "market_code": "FI",
+        "category": "Mental Health",
+        "score": 11,
+        "examples": [
+          "CSU’s Ties with TimelyCare Raise Red Flags for Student Mental Health - California Faculty Association",
+          "Athletics Partners with Onrise To Support Student-Athlete Mental Health - Marquette University Athletics",
+          "NC announces $17 million in federal funds to improve rural mental health services - EdNC"
         ]
       },
       {
@@ -1158,31 +1169,31 @@
         "category": "Europe Health",
         "score": 9,
         "examples": [
+          "AHA, health providers say hunters should know warning signs for heart attack, stroke - WDAM-TV",
           "Measles surge in Pennsylvania prompts new health warning to pregnant women - Baltimore Sun",
-          "Hell in a handbasin—warning on hospital hygiene - Medical Xpress",
-          "Hong Kong raids spark health warning over beauty jabs using dead people’s skin - South China Morning Post"
+          "Hell in a handbasin—warning on hospital hygiene - Medical Xpress"
         ]
       },
       {
-        "trend": "patient",
+        "trend": "public health",
         "market_code": "FI",
         "category": "Europe Health",
         "score": 8,
         "examples": [
-          "Major medical lab operator believes cyber breach exposed patient records - The Washington Post",
-          "Nigeria's first Ebola patient holidayed in Uganda, officials say - BBC",
-          "France reports first human case of livestock virus Shamonda after patient dies - Reuters"
+          "School of Public Health releases 2026 Healthy Georgia Report - Augusta University",
+          "Public health programs can ‘rewire’ social networks, Yale study finds - YaleNews",
+          "Assessing the public health risk after suspected plague exposure in Russia - Everbridge"
         ]
       },
       {
-        "trend": "disease",
+        "trend": "infection",
         "market_code": "FI",
-        "category": "Europe Health",
+        "category": "Outbreaks",
         "score": 8,
         "examples": [
-          "Hot fall triggers disease outbreak in some Montana big-game herds - Bozeman Daily Chronicle",
-          "Ebola patient in Nigeria believed to have contracted disease in Uganda, Switzerland says - Reuters",
-          "Hypertension treatment could avert over 500,000 heart disease deaths - MedicalNewsToday"
+          "What to Know About Shamonda Virus Following the First Reported Human Infection - WIRED",
+          "France confirms first Shamonda livestock virus infection in a human, say no danger to general population - DW.com",
+          "What to Know About Shamonda Virus Following the First Reported Human Infection - WIRED"
         ]
       },
       {
@@ -1191,20 +1202,9 @@
         "category": "Outbreaks",
         "score": 8,
         "examples": [
-          "Shamonda virus detected in human for first time in France - The Guardian",
-          "France reports first human Shamonda virus case, says no health risk - Al Jazeera",
-          "First human case of Shamonda virus detected in France, officials say - BBC"
-        ]
-      },
-      {
-        "trend": "public health",
-        "market_code": "FI",
-        "category": "Europe Health",
-        "score": 7,
-        "examples": [
-          "Public health programs can ‘rewire’ social networks, Yale study finds - YaleNews",
-          "NMSU Department of Public Health to host resource fair for senior citizens - New Mexico State University",
-          "School of Public Health releases 2026 Healthy Georgia Report - Augusta University"
+          "What to Know About Shamonda Virus Following the First Reported Human Infection - WIRED",
+          "First human case of Shamonda virus reported in France as patient dies - UN News",
+          "France reports 1st known human case of Shamonda virus - ABC News - Breaking News, Latest News and Videos"
         ]
       }
     ],
@@ -1213,21 +1213,21 @@
         "trend": "health",
         "market_code": "NO",
         "category": "Europe Health",
-        "score": 70,
+        "score": 68,
         "examples": [
-          "2026 Employer Health Benefits Survey - KFF",
-          "Athletics Partners with Onrise To Support Student-Athlete Mental Health - Marquette University Athletics",
-          "Key Trump Health Adviser Resigns Ahead of Midterm Elections - The New York Times"
+          "Key Trump Health Adviser Resigns Ahead of Midterm Elections - The New York Times",
+          "The percentage of people without health insurance is growing - Stateline",
+          "Eating Walnuts With Dinner May Help You Sleep Better, Research Shows - Health.com"
         ]
       },
       {
         "trend": "medical",
         "market_code": "NO",
         "category": "Europe Health",
-        "score": 22,
+        "score": 20,
         "examples": [
-          "Medical professionals among 15 charged in alleged healthcare fraud worth $2 billion; raids carried out in Los Angeles - ABC7 Los Angeles",
           "Penguins' Ben Kindel back in Pittsburgh after medical emergency - ESPN",
+          "Kindel Back in Pittsburgh After Medical Episode on Team Plane - NHL.com",
           "23d Medical Group ranks among top performers in preventive cancer screenings - Moody Air Force Base (.mil)"
         ]
       },
@@ -1235,11 +1235,11 @@
         "trend": "healthcare",
         "market_code": "NO",
         "category": "Europe Health",
-        "score": 21,
+        "score": 18,
         "examples": [
+          "Department of Health and Human Services and the Justice Department’s Civil Division Announce Anti-Fraud Healthcare Self-Disclosure Pilot Program - HHS.gov",
           "Medical professionals among 15 charged in alleged healthcare fraud worth $2 billion; raids carried out in Los Angeles - ABC7 Los Angeles",
-          "Medical professionals among 15 charged in alleged healthcare fraud worth $2 billion; raids carried out in Los Angeles - ABC7 Los Angeles",
-          "Simply Healthcare funds Preeclampsia Foundation push to teach Florida mothers the warning signs - Florida Politics"
+          "FDA balances faster AI adoption with safety as healthcare technology advances - HealthExec"
         ]
       },
       {
@@ -1248,31 +1248,31 @@
         "category": "Outbreaks",
         "score": 14,
         "examples": [
+          "What to Know About Shamonda Virus Following the First Reported Human Infection - WIRED",
           "France reports first human case of livestock virus Shamonda after patient dies - Reuters",
-          "France reports first human case of livestock virus Shamonda in patient who later died - PBS",
-          "Shamonda virus detected in human for first time in France - The Guardian"
+          "First human case of Shamonda virus reported in France as patient dies - UN News"
+        ]
+      },
+      {
+        "trend": "cancer",
+        "market_code": "NO",
+        "category": "Chronic Disease",
+        "score": 12,
+        "examples": [
+          "Breast cancer awareness: learn the signs and screening options - City of Philadelphia (.gov)",
+          "23d Medical Group ranks among top performers in preventive cancer screenings - Moody Air Force Base (.mil)",
+          "Breast cancer awareness: learn the signs and screening options - City of Philadelphia (.gov)"
         ]
       },
       {
         "trend": "mental",
         "market_code": "NO",
         "category": "Mental Health",
-        "score": 13,
-        "examples": [
-          "Athletics Partners with Onrise To Support Student-Athlete Mental Health - Marquette University Athletics",
-          "CSU’s Ties with TimelyCare Raise Red Flags for Student Mental Health - California Faculty Association",
-          "University of New Haven Student Explores the Power of Peer Support in Youth Mental Health - University of New Haven"
-        ]
-      },
-      {
-        "trend": "mental health",
-        "market_code": "NO",
-        "category": "Mental Health",
         "score": 12,
         "examples": [
-          "Athletics Partners with Onrise To Support Student-Athlete Mental Health - Marquette University Athletics",
           "CSU’s Ties with TimelyCare Raise Red Flags for Student Mental Health - California Faculty Association",
-          "University of New Haven Student Explores the Power of Peer Support in Youth Mental Health - University of New Haven"
+          "Athletics Partners with Onrise To Support Student-Athlete Mental Health - Marquette University Athletics",
+          "NC announces $17 million in federal funds to improve rural mental health services - EdNC"
         ]
       },
       {
@@ -1281,9 +1281,20 @@
         "category": "Outbreaks",
         "score": 11,
         "examples": [
-          "DRC Ebola outbreak 'growing exponentially,' UN says - DW.com",
+          "WHO warns ‘more complex’ Ebola outbreak now present in 3 African countries - Al Jazeera",
           "Ebola Outbreak in Africa Reaches Widest Expansion Ever - The New York Times",
-          "DR Congo: Ebola responders under pressure as outbreak expands - UN News"
+          "DRC Ebola outbreak 'growing exponentially,' UN says - DW.com"
+        ]
+      },
+      {
+        "trend": "mental health",
+        "market_code": "NO",
+        "category": "Mental Health",
+        "score": 11,
+        "examples": [
+          "CSU’s Ties with TimelyCare Raise Red Flags for Student Mental Health - California Faculty Association",
+          "Athletics Partners with Onrise To Support Student-Athlete Mental Health - Marquette University Athletics",
+          "NC announces $17 million in federal funds to improve rural mental health services - EdNC"
         ]
       },
       {
@@ -1292,31 +1303,31 @@
         "category": "Europe Health",
         "score": 9,
         "examples": [
+          "AHA, health providers say hunters should know warning signs for heart attack, stroke - WDAM-TV",
           "Measles surge in Pennsylvania prompts new health warning to pregnant women - Baltimore Sun",
-          "Hell in a handbasin—warning on hospital hygiene - Medical Xpress",
-          "Hong Kong raids spark health warning over beauty jabs using dead people’s skin - South China Morning Post"
+          "Hell in a handbasin—warning on hospital hygiene - Medical Xpress"
         ]
       },
       {
-        "trend": "patient",
+        "trend": "public health",
         "market_code": "NO",
         "category": "Europe Health",
         "score": 8,
         "examples": [
-          "Major medical lab operator believes cyber breach exposed patient records - The Washington Post",
-          "Nigeria's first Ebola patient holidayed in Uganda, officials say - BBC",
-          "France reports first human case of livestock virus Shamonda after patient dies - Reuters"
+          "School of Public Health releases 2026 Healthy Georgia Report - Augusta University",
+          "Public health programs can ‘rewire’ social networks, Yale study finds - YaleNews",
+          "Assessing the public health risk after suspected plague exposure in Russia - Everbridge"
         ]
       },
       {
-        "trend": "disease",
+        "trend": "infection",
         "market_code": "NO",
-        "category": "Europe Health",
+        "category": "Outbreaks",
         "score": 8,
         "examples": [
-          "Hot fall triggers disease outbreak in some Montana big-game herds - Bozeman Daily Chronicle",
-          "Ebola patient in Nigeria believed to have contracted disease in Uganda, Switzerland says - Reuters",
-          "Hypertension treatment could avert over 500,000 heart disease deaths - MedicalNewsToday"
+          "What to Know About Shamonda Virus Following the First Reported Human Infection - WIRED",
+          "France confirms first Shamonda livestock virus infection in a human, say no danger to general population - DW.com",
+          "What to Know About Shamonda Virus Following the First Reported Human Infection - WIRED"
         ]
       },
       {
@@ -1325,20 +1336,9 @@
         "category": "Outbreaks",
         "score": 8,
         "examples": [
-          "Shamonda virus detected in human for first time in France - The Guardian",
-          "France reports first human Shamonda virus case, says no health risk - Al Jazeera",
-          "First human case of Shamonda virus detected in France, officials say - BBC"
-        ]
-      },
-      {
-        "trend": "public health",
-        "market_code": "NO",
-        "category": "Europe Health",
-        "score": 7,
-        "examples": [
-          "Public health programs can ‘rewire’ social networks, Yale study finds - YaleNews",
-          "NMSU Department of Public Health to host resource fair for senior citizens - New Mexico State University",
-          "School of Public Health releases 2026 Healthy Georgia Report - Augusta University"
+          "What to Know About Shamonda Virus Following the First Reported Human Infection - WIRED",
+          "First human case of Shamonda virus reported in France as patient dies - UN News",
+          "France reports 1st known human case of Shamonda virus - ABC News - Breaking News, Latest News and Videos"
         ]
       }
     ],
@@ -1347,21 +1347,21 @@
         "trend": "health",
         "market_code": "JP",
         "category": "Asia Health",
-        "score": 70,
+        "score": 68,
         "examples": [
-          "2026 Employer Health Benefits Survey - KFF",
-          "Athletics Partners with Onrise To Support Student-Athlete Mental Health - Marquette University Athletics",
-          "Key Trump Health Adviser Resigns Ahead of Midterm Elections - The New York Times"
+          "Key Trump Health Adviser Resigns Ahead of Midterm Elections - The New York Times",
+          "The percentage of people without health insurance is growing - Stateline",
+          "Eating Walnuts With Dinner May Help You Sleep Better, Research Shows - Health.com"
         ]
       },
       {
         "trend": "medical",
         "market_code": "JP",
         "category": "Asia Health",
-        "score": 22,
+        "score": 20,
         "examples": [
-          "Medical professionals among 15 charged in alleged healthcare fraud worth $2 billion; raids carried out in Los Angeles - ABC7 Los Angeles",
           "Penguins' Ben Kindel back in Pittsburgh after medical emergency - ESPN",
+          "Kindel Back in Pittsburgh After Medical Episode on Team Plane - NHL.com",
           "23d Medical Group ranks among top performers in preventive cancer screenings - Moody Air Force Base (.mil)"
         ]
       },
@@ -1369,11 +1369,11 @@
         "trend": "healthcare",
         "market_code": "JP",
         "category": "Asia Health",
-        "score": 21,
+        "score": 18,
         "examples": [
+          "Department of Health and Human Services and the Justice Department’s Civil Division Announce Anti-Fraud Healthcare Self-Disclosure Pilot Program - HHS.gov",
           "Medical professionals among 15 charged in alleged healthcare fraud worth $2 billion; raids carried out in Los Angeles - ABC7 Los Angeles",
-          "Medical professionals among 15 charged in alleged healthcare fraud worth $2 billion; raids carried out in Los Angeles - ABC7 Los Angeles",
-          "Simply Healthcare funds Preeclampsia Foundation push to teach Florida mothers the warning signs - Florida Politics"
+          "FDA balances faster AI adoption with safety as healthcare technology advances - HealthExec"
         ]
       },
       {
@@ -1382,31 +1382,31 @@
         "category": "Outbreaks",
         "score": 14,
         "examples": [
+          "What to Know About Shamonda Virus Following the First Reported Human Infection - WIRED",
           "France reports first human case of livestock virus Shamonda after patient dies - Reuters",
-          "France reports first human case of livestock virus Shamonda in patient who later died - PBS",
-          "Shamonda virus detected in human for first time in France - The Guardian"
+          "First human case of Shamonda virus reported in France as patient dies - UN News"
+        ]
+      },
+      {
+        "trend": "cancer",
+        "market_code": "JP",
+        "category": "Chronic Disease",
+        "score": 12,
+        "examples": [
+          "Breast cancer awareness: learn the signs and screening options - City of Philadelphia (.gov)",
+          "23d Medical Group ranks among top performers in preventive cancer screenings - Moody Air Force Base (.mil)",
+          "Breast cancer awareness: learn the signs and screening options - City of Philadelphia (.gov)"
         ]
       },
       {
         "trend": "mental",
         "market_code": "JP",
         "category": "Mental Health",
-        "score": 13,
-        "examples": [
-          "Athletics Partners with Onrise To Support Student-Athlete Mental Health - Marquette University Athletics",
-          "CSU’s Ties with TimelyCare Raise Red Flags for Student Mental Health - California Faculty Association",
-          "University of New Haven Student Explores the Power of Peer Support in Youth Mental Health - University of New Haven"
-        ]
-      },
-      {
-        "trend": "mental health",
-        "market_code": "JP",
-        "category": "Mental Health",
         "score": 12,
         "examples": [
-          "Athletics Partners with Onrise To Support Student-Athlete Mental Health - Marquette University Athletics",
           "CSU’s Ties with TimelyCare Raise Red Flags for Student Mental Health - California Faculty Association",
-          "University of New Haven Student Explores the Power of Peer Support in Youth Mental Health - University of New Haven"
+          "Athletics Partners with Onrise To Support Student-Athlete Mental Health - Marquette University Athletics",
+          "NC announces $17 million in federal funds to improve rural mental health services - EdNC"
         ]
       },
       {
@@ -1415,9 +1415,20 @@
         "category": "Outbreaks",
         "score": 11,
         "examples": [
-          "DRC Ebola outbreak 'growing exponentially,' UN says - DW.com",
+          "WHO warns ‘more complex’ Ebola outbreak now present in 3 African countries - Al Jazeera",
           "Ebola Outbreak in Africa Reaches Widest Expansion Ever - The New York Times",
-          "DR Congo: Ebola responders under pressure as outbreak expands - UN News"
+          "DRC Ebola outbreak 'growing exponentially,' UN says - DW.com"
+        ]
+      },
+      {
+        "trend": "mental health",
+        "market_code": "JP",
+        "category": "Mental Health",
+        "score": 11,
+        "examples": [
+          "CSU’s Ties with TimelyCare Raise Red Flags for Student Mental Health - California Faculty Association",
+          "Athletics Partners with Onrise To Support Student-Athlete Mental Health - Marquette University Athletics",
+          "NC announces $17 million in federal funds to improve rural mental health services - EdNC"
         ]
       },
       {
@@ -1426,31 +1437,31 @@
         "category": "Asia Health",
         "score": 9,
         "examples": [
+          "AHA, health providers say hunters should know warning signs for heart attack, stroke - WDAM-TV",
           "Measles surge in Pennsylvania prompts new health warning to pregnant women - Baltimore Sun",
-          "Hell in a handbasin—warning on hospital hygiene - Medical Xpress",
-          "Hong Kong raids spark health warning over beauty jabs using dead people’s skin - South China Morning Post"
+          "Hell in a handbasin—warning on hospital hygiene - Medical Xpress"
         ]
       },
       {
-        "trend": "patient",
+        "trend": "public health",
         "market_code": "JP",
         "category": "Asia Health",
         "score": 8,
         "examples": [
-          "Major medical lab operator believes cyber breach exposed patient records - The Washington Post",
-          "Nigeria's first Ebola patient holidayed in Uganda, officials say - BBC",
-          "France reports first human case of livestock virus Shamonda after patient dies - Reuters"
+          "School of Public Health releases 2026 Healthy Georgia Report - Augusta University",
+          "Public health programs can ‘rewire’ social networks, Yale study finds - YaleNews",
+          "Assessing the public health risk after suspected plague exposure in Russia - Everbridge"
         ]
       },
       {
-        "trend": "disease",
+        "trend": "infection",
         "market_code": "JP",
-        "category": "Asia Health",
+        "category": "Outbreaks",
         "score": 8,
         "examples": [
-          "Hot fall triggers disease outbreak in some Montana big-game herds - Bozeman Daily Chronicle",
-          "Ebola patient in Nigeria believed to have contracted disease in Uganda, Switzerland says - Reuters",
-          "Hypertension treatment could avert over 500,000 heart disease deaths - MedicalNewsToday"
+          "What to Know About Shamonda Virus Following the First Reported Human Infection - WIRED",
+          "France confirms first Shamonda livestock virus infection in a human, say no danger to general population - DW.com",
+          "What to Know About Shamonda Virus Following the First Reported Human Infection - WIRED"
         ]
       },
       {
@@ -1459,20 +1470,9 @@
         "category": "Outbreaks",
         "score": 8,
         "examples": [
-          "Shamonda virus detected in human for first time in France - The Guardian",
-          "France reports first human Shamonda virus case, says no health risk - Al Jazeera",
-          "First human case of Shamonda virus detected in France, officials say - BBC"
-        ]
-      },
-      {
-        "trend": "public health",
-        "market_code": "JP",
-        "category": "Asia Health",
-        "score": 7,
-        "examples": [
-          "Public health programs can ‘rewire’ social networks, Yale study finds - YaleNews",
-          "NMSU Department of Public Health to host resource fair for senior citizens - New Mexico State University",
-          "School of Public Health releases 2026 Healthy Georgia Report - Augusta University"
+          "What to Know About Shamonda Virus Following the First Reported Human Infection - WIRED",
+          "First human case of Shamonda virus reported in France as patient dies - UN News",
+          "France reports 1st known human case of Shamonda virus - ABC News - Breaking News, Latest News and Videos"
         ]
       }
     ],
@@ -1481,21 +1481,21 @@
         "trend": "health",
         "market_code": "CN",
         "category": "Asia Health",
-        "score": 70,
+        "score": 68,
         "examples": [
-          "2026 Employer Health Benefits Survey - KFF",
-          "Athletics Partners with Onrise To Support Student-Athlete Mental Health - Marquette University Athletics",
-          "Key Trump Health Adviser Resigns Ahead of Midterm Elections - The New York Times"
+          "Key Trump Health Adviser Resigns Ahead of Midterm Elections - The New York Times",
+          "The percentage of people without health insurance is growing - Stateline",
+          "Eating Walnuts With Dinner May Help You Sleep Better, Research Shows - Health.com"
         ]
       },
       {
         "trend": "medical",
         "market_code": "CN",
         "category": "Asia Health",
-        "score": 22,
+        "score": 20,
         "examples": [
-          "Medical professionals among 15 charged in alleged healthcare fraud worth $2 billion; raids carried out in Los Angeles - ABC7 Los Angeles",
           "Penguins' Ben Kindel back in Pittsburgh after medical emergency - ESPN",
+          "Kindel Back in Pittsburgh After Medical Episode on Team Plane - NHL.com",
           "23d Medical Group ranks among top performers in preventive cancer screenings - Moody Air Force Base (.mil)"
         ]
       },
@@ -1503,11 +1503,11 @@
         "trend": "healthcare",
         "market_code": "CN",
         "category": "Asia Health",
-        "score": 21,
+        "score": 18,
         "examples": [
+          "Department of Health and Human Services and the Justice Department’s Civil Division Announce Anti-Fraud Healthcare Self-Disclosure Pilot Program - HHS.gov",
           "Medical professionals among 15 charged in alleged healthcare fraud worth $2 billion; raids carried out in Los Angeles - ABC7 Los Angeles",
-          "Medical professionals among 15 charged in alleged healthcare fraud worth $2 billion; raids carried out in Los Angeles - ABC7 Los Angeles",
-          "Simply Healthcare funds Preeclampsia Foundation push to teach Florida mothers the warning signs - Florida Politics"
+          "FDA balances faster AI adoption with safety as healthcare technology advances - HealthExec"
         ]
       },
       {
@@ -1516,31 +1516,31 @@
         "category": "Outbreaks",
         "score": 14,
         "examples": [
+          "What to Know About Shamonda Virus Following the First Reported Human Infection - WIRED",
           "France reports first human case of livestock virus Shamonda after patient dies - Reuters",
-          "France reports first human case of livestock virus Shamonda in patient who later died - PBS",
-          "Shamonda virus detected in human for first time in France - The Guardian"
+          "First human case of Shamonda virus reported in France as patient dies - UN News"
+        ]
+      },
+      {
+        "trend": "cancer",
+        "market_code": "CN",
+        "category": "Chronic Disease",
+        "score": 12,
+        "examples": [
+          "Breast cancer awareness: learn the signs and screening options - City of Philadelphia (.gov)",
+          "23d Medical Group ranks among top performers in preventive cancer screenings - Moody Air Force Base (.mil)",
+          "Breast cancer awareness: learn the signs and screening options - City of Philadelphia (.gov)"
         ]
       },
       {
         "trend": "mental",
         "market_code": "CN",
         "category": "Mental Health",
-        "score": 13,
-        "examples": [
-          "Athletics Partners with Onrise To Support Student-Athlete Mental Health - Marquette University Athletics",
-          "CSU’s Ties with TimelyCare Raise Red Flags for Student Mental Health - California Faculty Association",
-          "University of New Haven Student Explores the Power of Peer Support in Youth Mental Health - University of New Haven"
-        ]
-      },
-      {
-        "trend": "mental health",
-        "market_code": "CN",
-        "category": "Mental Health",
         "score": 12,
         "examples": [
-          "Athletics Partners with Onrise To Support Student-Athlete Mental Health - Marquette University Athletics",
           "CSU’s Ties with TimelyCare Raise Red Flags for Student Mental Health - California Faculty Association",
-          "University of New Haven Student Explores the Power of Peer Support in Youth Mental Health - University of New Haven"
+          "Athletics Partners with Onrise To Support Student-Athlete Mental Health - Marquette University Athletics",
+          "NC announces $17 million in federal funds to improve rural mental health services - EdNC"
         ]
       },
       {
@@ -1549,9 +1549,20 @@
         "category": "Outbreaks",
         "score": 11,
         "examples": [
-          "DRC Ebola outbreak 'growing exponentially,' UN says - DW.com",
+          "WHO warns ‘more complex’ Ebola outbreak now present in 3 African countries - Al Jazeera",
           "Ebola Outbreak in Africa Reaches Widest Expansion Ever - The New York Times",
-          "DR Congo: Ebola responders under pressure as outbreak expands - UN News"
+          "DRC Ebola outbreak 'growing exponentially,' UN says - DW.com"
+        ]
+      },
+      {
+        "trend": "mental health",
+        "market_code": "CN",
+        "category": "Mental Health",
+        "score": 11,
+        "examples": [
+          "CSU’s Ties with TimelyCare Raise Red Flags for Student Mental Health - California Faculty Association",
+          "Athletics Partners with Onrise To Support Student-Athlete Mental Health - Marquette University Athletics",
+          "NC announces $17 million in federal funds to improve rural mental health services - EdNC"
         ]
       },
       {
@@ -1560,31 +1571,31 @@
         "category": "Asia Health",
         "score": 9,
         "examples": [
+          "AHA, health providers say hunters should know warning signs for heart attack, stroke - WDAM-TV",
           "Measles surge in Pennsylvania prompts new health warning to pregnant women - Baltimore Sun",
-          "Hell in a handbasin—warning on hospital hygiene - Medical Xpress",
-          "Hong Kong raids spark health warning over beauty jabs using dead people’s skin - South China Morning Post"
+          "Hell in a handbasin—warning on hospital hygiene - Medical Xpress"
         ]
       },
       {
-        "trend": "patient",
+        "trend": "public health",
         "market_code": "CN",
         "category": "Asia Health",
         "score": 8,
         "examples": [
-          "Major medical lab operator believes cyber breach exposed patient records - The Washington Post",
-          "Nigeria's first Ebola patient holidayed in Uganda, officials say - BBC",
-          "France reports first human case of livestock virus Shamonda after patient dies - Reuters"
+          "School of Public Health releases 2026 Healthy Georgia Report - Augusta University",
+          "Public health programs can ‘rewire’ social networks, Yale study finds - YaleNews",
+          "Assessing the public health risk after suspected plague exposure in Russia - Everbridge"
         ]
       },
       {
-        "trend": "disease",
+        "trend": "infection",
         "market_code": "CN",
-        "category": "Asia Health",
+        "category": "Outbreaks",
         "score": 8,
         "examples": [
-          "Hot fall triggers disease outbreak in some Montana big-game herds - Bozeman Daily Chronicle",
-          "Ebola patient in Nigeria believed to have contracted disease in Uganda, Switzerland says - Reuters",
-          "Hypertension treatment could avert over 500,000 heart disease deaths - MedicalNewsToday"
+          "What to Know About Shamonda Virus Following the First Reported Human Infection - WIRED",
+          "France confirms first Shamonda livestock virus infection in a human, say no danger to general population - DW.com",
+          "What to Know About Shamonda Virus Following the First Reported Human Infection - WIRED"
         ]
       },
       {
@@ -1593,20 +1604,9 @@
         "category": "Outbreaks",
         "score": 8,
         "examples": [
-          "Shamonda virus detected in human for first time in France - The Guardian",
-          "France reports first human Shamonda virus case, says no health risk - Al Jazeera",
-          "First human case of Shamonda virus detected in France, officials say - BBC"
-        ]
-      },
-      {
-        "trend": "public health",
-        "market_code": "CN",
-        "category": "Asia Health",
-        "score": 7,
-        "examples": [
-          "Public health programs can ‘rewire’ social networks, Yale study finds - YaleNews",
-          "NMSU Department of Public Health to host resource fair for senior citizens - New Mexico State University",
-          "School of Public Health releases 2026 Healthy Georgia Report - Augusta University"
+          "What to Know About Shamonda Virus Following the First Reported Human Infection - WIRED",
+          "First human case of Shamonda virus reported in France as patient dies - UN News",
+          "France reports 1st known human case of Shamonda virus - ABC News - Breaking News, Latest News and Videos"
         ]
       }
     ],
@@ -1615,21 +1615,21 @@
         "trend": "health",
         "market_code": "KR",
         "category": "Asia Health",
-        "score": 70,
+        "score": 68,
         "examples": [
-          "2026 Employer Health Benefits Survey - KFF",
-          "Athletics Partners with Onrise To Support Student-Athlete Mental Health - Marquette University Athletics",
-          "Key Trump Health Adviser Resigns Ahead of Midterm Elections - The New York Times"
+          "Key Trump Health Adviser Resigns Ahead of Midterm Elections - The New York Times",
+          "The percentage of people without health insurance is growing - Stateline",
+          "Eating Walnuts With Dinner May Help You Sleep Better, Research Shows - Health.com"
         ]
       },
       {
         "trend": "medical",
         "market_code": "KR",
         "category": "Asia Health",
-        "score": 22,
+        "score": 20,
         "examples": [
-          "Medical professionals among 15 charged in alleged healthcare fraud worth $2 billion; raids carried out in Los Angeles - ABC7 Los Angeles",
           "Penguins' Ben Kindel back in Pittsburgh after medical emergency - ESPN",
+          "Kindel Back in Pittsburgh After Medical Episode on Team Plane - NHL.com",
           "23d Medical Group ranks among top performers in preventive cancer screenings - Moody Air Force Base (.mil)"
         ]
       },
@@ -1637,11 +1637,11 @@
         "trend": "healthcare",
         "market_code": "KR",
         "category": "Asia Health",
-        "score": 21,
+        "score": 18,
         "examples": [
+          "Department of Health and Human Services and the Justice Department’s Civil Division Announce Anti-Fraud Healthcare Self-Disclosure Pilot Program - HHS.gov",
           "Medical professionals among 15 charged in alleged healthcare fraud worth $2 billion; raids carried out in Los Angeles - ABC7 Los Angeles",
-          "Medical professionals among 15 charged in alleged healthcare fraud worth $2 billion; raids carried out in Los Angeles - ABC7 Los Angeles",
-          "Simply Healthcare funds Preeclampsia Foundation push to teach Florida mothers the warning signs - Florida Politics"
+          "FDA balances faster AI adoption with safety as healthcare technology advances - HealthExec"
         ]
       },
       {
@@ -1650,31 +1650,31 @@
         "category": "Outbreaks",
         "score": 14,
         "examples": [
+          "What to Know About Shamonda Virus Following the First Reported Human Infection - WIRED",
           "France reports first human case of livestock virus Shamonda after patient dies - Reuters",
-          "France reports first human case of livestock virus Shamonda in patient who later died - PBS",
-          "Shamonda virus detected in human for first time in France - The Guardian"
+          "First human case of Shamonda virus reported in France as patient dies - UN News"
+        ]
+      },
+      {
+        "trend": "cancer",
+        "market_code": "KR",
+        "category": "Chronic Disease",
+        "score": 12,
+        "examples": [
+          "Breast cancer awareness: learn the signs and screening options - City of Philadelphia (.gov)",
+          "23d Medical Group ranks among top performers in preventive cancer screenings - Moody Air Force Base (.mil)",
+          "Breast cancer awareness: learn the signs and screening options - City of Philadelphia (.gov)"
         ]
       },
       {
         "trend": "mental",
         "market_code": "KR",
         "category": "Mental Health",
-        "score": 13,
-        "examples": [
-          "Athletics Partners with Onrise To Support Student-Athlete Mental Health - Marquette University Athletics",
-          "CSU’s Ties with TimelyCare Raise Red Flags for Student Mental Health - California Faculty Association",
-          "University of New Haven Student Explores the Power of Peer Support in Youth Mental Health - University of New Haven"
-        ]
-      },
-      {
-        "trend": "mental health",
-        "market_code": "KR",
-        "category": "Mental Health",
         "score": 12,
         "examples": [
-          "Athletics Partners with Onrise To Support Student-Athlete Mental Health - Marquette University Athletics",
           "CSU’s Ties with TimelyCare Raise Red Flags for Student Mental Health - California Faculty Association",
-          "University of New Haven Student Explores the Power of Peer Support in Youth Mental Health - University of New Haven"
+          "Athletics Partners with Onrise To Support Student-Athlete Mental Health - Marquette University Athletics",
+          "NC announces $17 million in federal funds to improve rural mental health services - EdNC"
         ]
       },
       {
@@ -1683,9 +1683,20 @@
         "category": "Outbreaks",
         "score": 11,
         "examples": [
-          "DRC Ebola outbreak 'growing exponentially,' UN says - DW.com",
+          "WHO warns ‘more complex’ Ebola outbreak now present in 3 African countries - Al Jazeera",
           "Ebola Outbreak in Africa Reaches Widest Expansion Ever - The New York Times",
-          "DR Congo: Ebola responders under pressure as outbreak expands - UN News"
+          "DRC Ebola outbreak 'growing exponentially,' UN says - DW.com"
+        ]
+      },
+      {
+        "trend": "mental health",
+        "market_code": "KR",
+        "category": "Mental Health",
+        "score": 11,
+        "examples": [
+          "CSU’s Ties with TimelyCare Raise Red Flags for Student Mental Health - California Faculty Association",
+          "Athletics Partners with Onrise To Support Student-Athlete Mental Health - Marquette University Athletics",
+          "NC announces $17 million in federal funds to improve rural mental health services - EdNC"
         ]
       },
       {
@@ -1694,31 +1705,31 @@
         "category": "Asia Health",
         "score": 9,
         "examples": [
+          "AHA, health providers say hunters should know warning signs for heart attack, stroke - WDAM-TV",
           "Measles surge in Pennsylvania prompts new health warning to pregnant women - Baltimore Sun",
-          "Hell in a handbasin—warning on hospital hygiene - Medical Xpress",
-          "Hong Kong raids spark health warning over beauty jabs using dead people’s skin - South China Morning Post"
+          "Hell in a handbasin—warning on hospital hygiene - Medical Xpress"
         ]
       },
       {
-        "trend": "patient",
+        "trend": "public health",
         "market_code": "KR",
         "category": "Asia Health",
         "score": 8,
         "examples": [
-          "Major medical lab operator believes cyber breach exposed patient records - The Washington Post",
-          "Nigeria's first Ebola patient holidayed in Uganda, officials say - BBC",
-          "France reports first human case of livestock virus Shamonda after patient dies - Reuters"
+          "School of Public Health releases 2026 Healthy Georgia Report - Augusta University",
+          "Public health programs can ‘rewire’ social networks, Yale study finds - YaleNews",
+          "Assessing the public health risk after suspected plague exposure in Russia - Everbridge"
         ]
       },
       {
-        "trend": "disease",
+        "trend": "infection",
         "market_code": "KR",
-        "category": "Asia Health",
+        "category": "Outbreaks",
         "score": 8,
         "examples": [
-          "Hot fall triggers disease outbreak in some Montana big-game herds - Bozeman Daily Chronicle",
-          "Ebola patient in Nigeria believed to have contracted disease in Uganda, Switzerland says - Reuters",
-          "Hypertension treatment could avert over 500,000 heart disease deaths - MedicalNewsToday"
+          "What to Know About Shamonda Virus Following the First Reported Human Infection - WIRED",
+          "France confirms first Shamonda livestock virus infection in a human, say no danger to general population - DW.com",
+          "What to Know About Shamonda Virus Following the First Reported Human Infection - WIRED"
         ]
       },
       {
@@ -1727,20 +1738,9 @@
         "category": "Outbreaks",
         "score": 8,
         "examples": [
-          "Shamonda virus detected in human for first time in France - The Guardian",
-          "France reports first human Shamonda virus case, says no health risk - Al Jazeera",
-          "First human case of Shamonda virus detected in France, officials say - BBC"
-        ]
-      },
-      {
-        "trend": "public health",
-        "market_code": "KR",
-        "category": "Asia Health",
-        "score": 7,
-        "examples": [
-          "Public health programs can ‘rewire’ social networks, Yale study finds - YaleNews",
-          "NMSU Department of Public Health to host resource fair for senior citizens - New Mexico State University",
-          "School of Public Health releases 2026 Healthy Georgia Report - Augusta University"
+          "What to Know About Shamonda Virus Following the First Reported Human Infection - WIRED",
+          "First human case of Shamonda virus reported in France as patient dies - UN News",
+          "France reports 1st known human case of Shamonda virus - ABC News - Breaking News, Latest News and Videos"
         ]
       }
     ],
@@ -1749,33 +1749,22 @@
         "trend": "health",
         "market_code": "IN",
         "category": "Asia Health",
-        "score": 68,
+        "score": 59,
         "examples": [
-          "Building trust in health data: a new WHO tool for the digital age - World Health Organization (WHO)",
-          "Building trust in health data: a new WHO tool for the digital age - World Health Organization (WHO)",
-          "Former Health Ministers accuse govt. of corporatising public health sector - The Hindu"
-        ]
-      },
-      {
-        "trend": "virus",
-        "market_code": "IN",
-        "category": "Outbreaks",
-        "score": 20,
-        "examples": [
-          "France reports first human Shamonda virus case, says no health risk - Al Jazeera",
-          "Shamonda virus: what do we know about its effects on animals? - WOAH",
-          "First human case of Shamonda virus reported in France as patient dies - UN News"
+          "Eating Walnuts With Dinner May Help You Sleep Better, Research Shows - Health.com",
+          "Govt. will ensure quality services in health centres, says Muraleedharan - The Hindu",
+          "Building trust in health data: a new WHO tool for the digital age - World Health Organization (WHO)"
         ]
       },
       {
         "trend": "healthcare",
         "market_code": "IN",
         "category": "Asia Health",
-        "score": 20,
+        "score": 21,
         "examples": [
           "Risant Health to acquire Oklahoma system Integris Health - Healthcare Dive",
-          "Three former Keralam health ministers accuse UDF govt of pushing state towards privatised healthcare - The South First",
-          "Iron Deficiency In Children Can Go Unnoticed Despite Healthy Appearance, Experts Warn - BW Healthcare"
+          "Trends In Healthcare Data Breach Statistics - The HIPAA Journal",
+          "Neighbourhood Environments Linked To Youth Mental Health, Study Finds - BW Healthcare"
         ]
       },
       {
@@ -1785,15 +1774,26 @@
         "score": 20,
         "examples": [
           "Ladakh’s first medical college to be operational for academic year 2027-28 - News On AIR",
-          "Demographic Shifts and Medical Utilization - National Council on Compensation Insurance (NCCI)",
-          "Panelists Weigh Legal, Ethical Limits of Medical Aid in Dying - AJMC"
+          "Knya launches India’s first footwear range built exclusively for medical professionals - BioSpectrum India",
+          "Movie glorifies violence, generalises graft in medical field: IMA - The Times of India"
+        ]
+      },
+      {
+        "trend": "virus",
+        "market_code": "IN",
+        "category": "Outbreaks",
+        "score": 18,
+        "examples": [
+          "France reports first human Shamonda virus case, says no health risk - Al Jazeera",
+          "Shamonda virus: what do we know about its effects on animals? - WOAH",
+          "Large-scale meteorological patterns linked to Ebola virus outbreaks - News-Medical"
         ]
       },
       {
         "trend": "shamonda virus",
         "market_code": "IN",
         "category": "Outbreaks",
-        "score": 18,
+        "score": 16,
         "examples": [
           "France reports first human Shamonda virus case, says no health risk - Al Jazeera",
           "Shamonda virus: what do we know about its effects on animals? - WOAH",
@@ -1804,77 +1804,77 @@
         "trend": "mental",
         "market_code": "IN",
         "category": "Mental Health",
-        "score": 13,
-        "examples": [
-          "Ladakh to Organise Interactive Student Awareness Programme on Substance Use and Mental Health at Panjab University, Chandigarh. | The Administration of Union Territory of Ladakh | India - Administration of Union Territory of Ladakh",
-          "Exploring the Biological Role of Nutrition in Mental Health Care - HMP Global Learning Network",
-          "Maternal mental health remains a missing priority - Nature"
-        ]
-      },
-      {
-        "trend": "mental health",
-        "market_code": "IN",
-        "category": "Mental Health",
         "score": 11,
         "examples": [
-          "Ladakh to Organise Interactive Student Awareness Programme on Substance Use and Mental Health at Panjab University, Chandigarh. | The Administration of Union Territory of Ladakh | India - Administration of Union Territory of Ladakh",
-          "Exploring the Biological Role of Nutrition in Mental Health Care - HMP Global Learning Network",
-          "Maternal mental health remains a missing priority - Nature"
-        ]
-      },
-      {
-        "trend": "public health",
-        "market_code": "IN",
-        "category": "Asia Health",
-        "score": 9,
-        "examples": [
-          "Former Health Ministers accuse govt. of corporatising public health sector - The Hindu",
-          "Former Health Ministers accuse govt. of corporatising public health sector - The Hindu",
-          "Destruction of water systems directly threatens global public health - News-Medical"
-        ]
-      },
-      {
-        "trend": "outbreak",
-        "market_code": "IN",
-        "category": "Outbreaks",
-        "score": 9,
-        "examples": [
-          "DRC Ebola outbreak 'growing exponentially,' UN says - DW.com",
-          "DR Congo: Ebola responders under pressure as outbreak expands - UN News",
-          "WHO warns ‘more complex’ Ebola outbreak now present in 3 African countries - Al Jazeera"
-        ]
-      },
-      {
-        "trend": "patient",
-        "market_code": "IN",
-        "category": "Asia Health",
-        "score": 8,
-        "examples": [
-          "First human case of Shamonda virus reported in France as patient dies - UN News",
-          "Nigeria's first Ebola patient holidayed in Uganda, officials say - BBC",
-          "Shamonda virus: First human case reported in France; patient dies - The Indian Express"
+          "University of New Haven Student Explores the Power of Peer Support in Youth Mental Health - University of New Haven",
+          "Neighbourhood Environments Linked To Youth Mental Health, Study Finds - BW Healthcare",
+          "Kuraray America Supports Mental Health Awareness as Platinum Sponsor of Nova Vita Fun Run 2026 - Kuraray"
         ]
       },
       {
         "trend": "cancer",
         "market_code": "IN",
         "category": "Chronic Disease",
-        "score": 8,
+        "score": 10,
         "examples": [
+          "JCO Clinical Cancer Informatics Special Series: Advancing Precision Public Health Through Catchment Data - ASCO Connection",
           "South Africa’s HPV vaccination drive to protect girls from cervical cancer is working – what we know after 10 years - Gavi, the Vaccine Alliance",
-          "FDA Approves Immunotherapy-Only Approach for Some Rectal Cancers: What Patients Need To Know - Memorial Sloan Kettering Cancer Center",
-          "DCGI Approves Dr Reddy's Cancer Drug Zytorvi for Advanced Esophageal Cancer - Medical Dialogues"
+          "FDA Approves Immunotherapy-Only Approach for Some Rectal Cancers: What Patients Need To Know - Memorial Sloan Kettering Cancer Center"
+        ]
+      },
+      {
+        "trend": "mental health",
+        "market_code": "IN",
+        "category": "Mental Health",
+        "score": 10,
+        "examples": [
+          "University of New Haven Student Explores the Power of Peer Support in Youth Mental Health - University of New Haven",
+          "Neighbourhood Environments Linked To Youth Mental Health, Study Finds - BW Healthcare",
+          "Kuraray America Supports Mental Health Awareness as Platinum Sponsor of Nova Vita Fun Run 2026 - Kuraray"
+        ]
+      },
+      {
+        "trend": "warning",
+        "market_code": "IN",
+        "category": "Asia Health",
+        "score": 9,
+        "examples": [
+          "FDA Advisory No.2026-1023 || Public Health Warning Against the Purchase and Use of the Unauthorized Cosmetic Product “SKIN MAGICAL SNOW WHITE BLEACHING LOTION” - Food and Drug Administration - https://www.fda.gov.ph/",
+          "Hell in a handbasin—warning on hospital hygiene - Medical Xpress",
+          "AHA, health providers say hunters should know warning signs for heart attack, stroke - WDAM-TV"
         ]
       },
       {
         "trend": "research",
         "market_code": "IN",
         "category": "Asia Health",
+        "score": 8,
+        "examples": [
+          "Eating Walnuts With Dinner May Help You Sleep Better, Research Shows - Health.com",
+          "Burning through Türkiye’s GDP: The high cost of fossil fuel PM2.5 pollution on public health - Centre for Research on Energy and Clean Air",
+          "Eating Walnuts With Dinner May Help You Sleep Better, Research Shows - Health.com"
+        ]
+      },
+      {
+        "trend": "outbreak",
+        "market_code": "IN",
+        "category": "Outbreaks",
+        "score": 8,
+        "examples": [
+          "African Union calls for urgent action to contain Ebola outbreak across Africa - News On AIR",
+          "African Union calls for urgent action to contain Ebola outbreak across Africa - News On AIR",
+          "WHO warns ‘more complex’ Ebola outbreak now present in 3 African countries - Al Jazeera"
+        ]
+      },
+      {
+        "trend": "children",
+        "market_code": "IN",
+        "category": "Children Health",
         "score": 7,
         "examples": [
-          "Burning through Türkiye’s GDP: The high cost of fossil fuel PM2.5 pollution on public health - Centre for Research on Energy and Clean Air",
-          "Eating Walnuts With Dinner May Help You Sleep Better, Research Shows - Health.com",
-          "Managing high blood pressure could prevent 500K CVD deaths annually in 20 countries, reveals research - Medical Dialogues"
+          "Are heavy school bags really to blame for children's back pain? - News-Medical",
+          "Protecting children’s health from air pollution and climate change - The University of Utah",
+          "Pediatric Nursing: Delivering Compassionate Care to Children at Every Developmental Stage - Cleveland Clinic"
         ]
       }
     ],
@@ -1883,77 +1883,55 @@
         "trend": "health",
         "market_code": "AU",
         "category": "Global Health",
-        "score": 63,
+        "score": 68,
         "examples": [
-          "Helen Haines pressed PM on regional health days before car attack - ABC News & Headlines – Australian Broadcasting Corporation",
-          "Building trust in health data: a new WHO tool for the digital age - World Health Organization (WHO)",
-          "Building trust in health data: a new WHO tool for the digital age - World Health Organization (WHO)"
+          "Improvements to the measurement of health care and social assistance in the Australian National Accounts - Australian Bureau of Statistics",
+          "Australian medtech company receives prestigious award nomination - Australian Government Department of Health, Disability and Ageing",
+          "Helen Haines pressed PM on regional health days before car attack - ABC News & Headlines – Australian Broadcasting Corporation"
         ]
       },
       {
         "trend": "medical",
         "market_code": "AU",
         "category": "Global Health",
-        "score": 25,
+        "score": 21,
         "examples": [
           "Raiding super to pay medical bills leaves trail of 'financial damage' - ABC News & Headlines – Australian Broadcasting Corporation",
-          "Penguins' Ben Kindel back in Pittsburgh after medical emergency - ESPN",
-          "Historic Geelong home set to join expanding CBD medical precinct - Real Estate"
+          "Historic Geelong home set to join expanding CBD medical precinct - Real Estate",
+          "Targeting menopausal hot flushes with non-hormonal treatment - Medical Republic"
         ]
       },
       {
         "trend": "virus",
         "market_code": "AU",
         "category": "Outbreaks",
-        "score": 23,
+        "score": 16,
         "examples": [
-          "France reports first human Shamonda virus case, says no health risk - Al Jazeera",
-          "Shamonda virus: what do we know about its effects on animals? - WOAH",
-          "First human case of Shamonda virus reported in France as patient dies - UN News"
+          "First human case of Shamonda virus reported in France as patient dies - UN News",
+          "First human case of Shamonda virus reported in France as patient dies - UN News",
+          "What to Know About Shamonda Virus Following the First Reported Human Infection - WIRED"
         ]
       },
       {
         "trend": "shamonda virus",
         "market_code": "AU",
         "category": "Outbreaks",
-        "score": 17,
+        "score": 12,
         "examples": [
-          "France reports first human Shamonda virus case, says no health risk - Al Jazeera",
-          "Shamonda virus: what do we know about its effects on animals? - WOAH",
-          "First human case of Shamonda virus reported in France as patient dies - UN News"
+          "First human case of Shamonda virus reported in France as patient dies - UN News",
+          "First human case of Shamonda virus reported in France as patient dies - UN News",
+          "What to Know About Shamonda Virus Following the First Reported Human Infection - WIRED"
         ]
       },
       {
         "trend": "healthcare",
         "market_code": "AU",
         "category": "Global Health",
-        "score": 12,
-        "examples": [
-          "‘You Have No Idea What You’re Getting’: Healthcare CEO Calls Out Medical Costs - The Australian",
-          "8 popular AI scribes may need medical device regulation: TGA - Healthcare IT News",
-          "AMA releases governance framework for agentic AI in healthcare - MedTech Dive"
-        ]
-      },
-      {
-        "trend": "mental",
-        "market_code": "AU",
-        "category": "Mental Health",
         "score": 11,
         "examples": [
-          "‘Hard to connect the dots’: mental health gaps in focus - Starts at 60",
-          "EU tackles mental health in the workplace - Nordic Labour Journal",
-          "‘Hard to connect the dots’: mental health gaps in focus - Starts at 60"
-        ]
-      },
-      {
-        "trend": "mental health",
-        "market_code": "AU",
-        "category": "Mental Health",
-        "score": 10,
-        "examples": [
-          "‘Hard to connect the dots’: mental health gaps in focus - Starts at 60",
-          "EU tackles mental health in the workplace - Nordic Labour Journal",
-          "‘Hard to connect the dots’: mental health gaps in focus - Starts at 60"
+          "Pathogen Risk From Healthcare Handbasins - Mirage News",
+          "8 popular AI scribes may need medical device regulation: TGA - Healthcare IT News",
+          "Healthcare industry weighs in on evidence standards for generative AI medical devices - Endpoints News"
         ]
       },
       {
@@ -1963,19 +1941,30 @@
         "score": 10,
         "examples": [
           "WHO warns ‘more complex’ Ebola outbreak now present in 3 African countries - Al Jazeera",
-          "DRC Ebola outbreak 'growing exponentially,' UN says - DW.com",
-          "DR Congo Ebola Outbreak Expands, Responders Under Pressure - Mirage News"
+          "What to know about Ebola outbreak that has spread from Congo to multiple African countries - The Washington Post",
+          "DRC Ebola outbreak 'growing exponentially,' UN says - DW.com"
         ]
       },
       {
-        "trend": "measles",
+        "trend": "mental",
         "market_code": "AU",
-        "category": "Outbreaks",
-        "score": 8,
+        "category": "Mental Health",
+        "score": 10,
         "examples": [
-          "CDC denies approval for high-volume measles test, citing ‘other priorities’ - The Guardian",
-          "Measles Alert Issued For Byron Bay After New Confirmed Case - Northern Rivers Times",
-          "Measles surge in Pennsylvania prompts new health warning to pregnant women - Baltimore Sun"
+          "Haymes Paint launches mental health campaign for tradies - Retailbiz",
+          "‘Hard to connect the dots’: mental health gaps in focus - Michael West Media",
+          "Understanding Mental Health: “Mental illness” where problems primarily originate in the brain - Port Lincoln Times"
+        ]
+      },
+      {
+        "trend": "warning",
+        "market_code": "AU",
+        "category": "Global Health",
+        "score": 9,
+        "examples": [
+          "FDA Advisory No.2026-1023 || Public Health Warning Against the Purchase and Use of the Unauthorized Cosmetic Product “SKIN MAGICAL SNOW WHITE BLEACHING LOTION” - Food and Drug Administration - https://www.fda.gov.ph/",
+          "Hell in a handbasin—warning on hospital hygiene - Medical Xpress",
+          "AHA, health providers say hunters should know warning signs for heart attack, stroke - WDAM-TV"
         ]
       },
       {
@@ -1984,31 +1973,42 @@
         "category": "Chronic Disease",
         "score": 8,
         "examples": [
+          "This is a watershed moment for cancer care - The Australian",
           "FDA Approves Immunotherapy-Only Approach for Some Rectal Cancers: What Patients Need To Know - Memorial Sloan Kettering Cancer Center",
-          "U.S. cancer patients need lifesaving drugs. Some have to get them in China. - The Washington Post",
-          "What to expect from the Moderna-Merck cancer vaccine data reveal - STAT"
+          "U.S. cancer patients need lifesaving drugs. Some have to get them in China. - The Washington Post"
         ]
       },
       {
-        "trend": "patient",
+        "trend": "infection",
         "market_code": "AU",
-        "category": "Global Health",
-        "score": 7,
+        "category": "Outbreaks",
+        "score": 8,
         "examples": [
-          "First human case of Shamonda virus reported in France as patient dies - UN News",
-          "Major medical lab operator believes cyber breach exposed patient records - The Washington Post",
-          "France Reports First Human Shamonda Virus Case, Patient Dies - Mirage News"
+          "What to Know About Shamonda Virus Following the First Reported Human Infection - WIRED",
+          "France confirms first Shamonda livestock virus infection in a human, say no danger to general population - DW.com",
+          "What to Know About Shamonda Virus Following the First Reported Human Infection - WIRED"
         ]
       },
       {
-        "trend": "warning",
+        "trend": "mental health",
         "market_code": "AU",
-        "category": "Global Health",
+        "category": "Mental Health",
+        "score": 8,
+        "examples": [
+          "Haymes Paint launches mental health campaign for tradies - Retailbiz",
+          "‘Hard to connect the dots’: mental health gaps in focus - Michael West Media",
+          "Understanding Mental Health: “Mental illness” where problems primarily originate in the brain - Port Lincoln Times"
+        ]
+      },
+      {
+        "trend": "children",
+        "market_code": "AU",
+        "category": "Children Health",
         "score": 7,
         "examples": [
-          "Hell in a handbasin—warning on hospital hygiene - Medical Xpress",
-          "Hong Kong raids spark health warning over beauty jabs using dead people’s skin - South China Morning Post",
-          "Thousands died in cold weather as UKHSA issues ‘serious risk’ warning - The Independent"
+          "Are heavy school bags really to blame for children's back pain? - News-Medical",
+          "Protecting children’s health from air pollution and climate change - The University of Utah",
+          "Pediatric Nursing: Delivering Compassionate Care to Children at Every Developmental Stage - Cleveland Clinic"
         ]
       }
     ],
@@ -2017,18 +2017,18 @@
         "trend": "health",
         "market_code": "CA",
         "category": "Global Health",
-        "score": 65,
+        "score": 66,
         "examples": [
-          "You'll need to cough up more money for the health unit next year - SooToday.com",
-          "SOGC joins medical leaders calling for better women’s health care in The Hill Times - SOGC",
-          "What BC's political parties told us about their health care priorities - Doctors of BC"
+          "Health care a major election issue as B.C. doctor says he’s hit breaking point - Global News",
+          "Another round of resignations at Interior Health as 5 neurologists leave posts - CBC",
+          "Have you used FNHA Health Benefits? We want to hear from you. - First Nations Health Authority"
         ]
       },
       {
         "trend": "medical",
         "market_code": "CA",
         "category": "Global Health",
-        "score": 20,
+        "score": 21,
         "examples": [
           "SOGC joins medical leaders calling for better women’s health care in The Hill Times - SOGC",
           "Penguins' Ben Kindel back in Pittsburgh after medical emergency - ESPN",
@@ -2039,110 +2039,110 @@
         "trend": "virus",
         "market_code": "CA",
         "category": "Outbreaks",
-        "score": 20,
+        "score": 17,
         "examples": [
           "1st human case of livestock virus Shamonda reported in France - CBC",
           "France reports first human case of Shamonda virus, but says there's no public health risk - France 24",
-          "First human case of Shamonda virus reported in France as patient dies - UN News"
-        ]
-      },
-      {
-        "trend": "shamonda virus",
-        "market_code": "CA",
-        "category": "Outbreaks",
-        "score": 13,
-        "examples": [
-          "France reports first human case of Shamonda virus, but says there's no public health risk - France 24",
-          "First human case of Shamonda virus reported in France as patient dies - UN News",
-          "Shamonda virus detected in human for first time in France - The Guardian"
-        ]
-      },
-      {
-        "trend": "healthcare",
-        "market_code": "CA",
-        "category": "Global Health",
-        "score": 12,
-        "examples": [
-          "AMA releases governance framework for agentic AI in healthcare - MedTech Dive",
-          "FDA balances faster AI adoption with safety as healthcare technology advances - HealthExec",
-          "Healthcare industry weighs in on evidence standards for generative AI medical devices - Endpoints News"
-        ]
-      },
-      {
-        "trend": "outbreak",
-        "market_code": "CA",
-        "category": "Outbreaks",
-        "score": 10,
-        "examples": [
-          "WHO warns ‘more complex’ Ebola outbreak now present in 3 African countries - Al Jazeera",
-          "DR Congo: Ebola responders under pressure as outbreak expands - UN News",
-          "DRC Ebola outbreak 'growing exponentially,' UN says - DW.com"
-        ]
-      },
-      {
-        "trend": "mental",
-        "market_code": "CA",
-        "category": "Mental Health",
-        "score": 10,
-        "examples": [
-          "EPSB hosting free parenting and mental health sessions - Global News",
-          "Province eyes child and youth office to absorb proposed mental health advocacy role - CBC",
-          "Patient-led initiative leads to new mental health resource at CKHA - CK News Today"
-        ]
-      },
-      {
-        "trend": "mental health",
-        "market_code": "CA",
-        "category": "Mental Health",
-        "score": 10,
-        "examples": [
-          "EPSB hosting free parenting and mental health sessions - Global News",
-          "Province eyes child and youth office to absorb proposed mental health advocacy role - CBC",
-          "Patient-led initiative leads to new mental health resource at CKHA - CK News Today"
-        ]
-      },
-      {
-        "trend": "patient",
-        "market_code": "CA",
-        "category": "Global Health",
-        "score": 9,
-        "examples": [
-          "First human case of Shamonda virus reported in France as patient dies - UN News",
-          "Nigeria's first Ebola patient holidayed in Uganda, officials say - BBC",
-          "France reports first human case of livestock virus Shamonda after patient dies - Reuters"
+          "1st human case of livestock virus Shamonda reported in France - CBC"
         ]
       },
       {
         "trend": "warning",
         "market_code": "CA",
         "category": "Global Health",
-        "score": 9,
+        "score": 11,
         "examples": [
-          "Hell in a handbasin—warning on hospital hygiene - Medical Xpress",
-          "Thousands died in cold weather as UKHSA issues ‘serious risk’ warning - The Independent",
-          "Hong Kong raids spark health warning over beauty jabs using dead people’s skin - South China Morning Post"
+          "Video of contact with possibly rabid skunk in B.C. prompts health authority warning - CityNews Vancouver",
+          "Video of contact with possibly rabid skunk in B.C. prompts health authority warning - Penticton Herald",
+          "Video of contact with possibly rabid skunk in B.C. prompts health authority warning - CityNews Vancouver"
         ]
       },
       {
-        "trend": "livestock virus",
+        "trend": "mental",
+        "market_code": "CA",
+        "category": "Mental Health",
+        "score": 11,
+        "examples": [
+          "Nicholas' Run for Youth Mental Health returning to Kamloops' Pioneer Park on Nov. 7 - Castanet Kamloops",
+          "Health System News Mental Health Support for Pregnant Women in East Toronto - Ontario Hospital Association",
+          "Nicholas' Run for Youth Mental Health returning to Kamloops' Pioneer Park on Nov. 7 - Castanet Kamloops"
+        ]
+      },
+      {
+        "trend": "mental health",
+        "market_code": "CA",
+        "category": "Mental Health",
+        "score": 11,
+        "examples": [
+          "Nicholas' Run for Youth Mental Health returning to Kamloops' Pioneer Park on Nov. 7 - Castanet Kamloops",
+          "Health System News Mental Health Support for Pregnant Women in East Toronto - Ontario Hospital Association",
+          "Nicholas' Run for Youth Mental Health returning to Kamloops' Pioneer Park on Nov. 7 - Castanet Kamloops"
+        ]
+      },
+      {
+        "trend": "shamonda virus",
         "market_code": "CA",
         "category": "Outbreaks",
-        "score": 7,
+        "score": 10,
         "examples": [
-          "1st human case of livestock virus Shamonda reported in France - CBC",
-          "1st human case of livestock virus Shamonda reported in France - CBC",
-          "France reports first human case of livestock virus Shamonda after patient dies - Reuters"
+          "France reports first human case of Shamonda virus, but says there's no public health risk - France 24",
+          "First human case of Shamonda virus reported in France as patient dies - UN News",
+          "What to Know About Shamonda Virus Following the First Reported Human Infection - WIRED"
         ]
       },
       {
-        "trend": "women health",
+        "trend": "healthcare",
         "market_code": "CA",
-        "category": "Women Health",
-        "score": 6,
+        "category": "Global Health",
+        "score": 10,
         "examples": [
+          "FDA balances faster AI adoption with safety as healthcare technology advances - HealthExec",
+          "Healthcare industry weighs in on evidence standards for generative AI medical devices - Endpoints News",
+          "AI in Healthcare: From Patient to Measurable Outcomes - Mexico Business News"
+        ]
+      },
+      {
+        "trend": "outbreak",
+        "market_code": "CA",
+        "category": "Outbreaks",
+        "score": 9,
+        "examples": [
+          "WHO warns ‘more complex’ Ebola outbreak now present in 3 African countries - Al Jazeera",
+          "Muskoka Algonquin Health Care reports the C-difficile outbreak is over - CTV News",
+          "Outbreak Investigation Taskforce - OITF - Institut Pasteur"
+        ]
+      },
+      {
+        "trend": "health care",
+        "market_code": "CA",
+        "category": "Global Health",
+        "score": 8,
+        "examples": [
+          "Health care a major election issue as B.C. doctor says he’s hit breaking point - Global News",
           "SOGC joins medical leaders calling for better women’s health care in The Hill Times - SOGC",
-          "SOGC joins medical leaders calling for better women’s health care in The Hill Times - SOGC",
-          "Supporting Women's Health: Our Latest Women's Network Event - Sportfive"
+          "What BC's political parties told us about their health care priorities - Doctors of BC"
+        ]
+      },
+      {
+        "trend": "children",
+        "market_code": "CA",
+        "category": "Children Health",
+        "score": 7,
+        "examples": [
+          "Expert Q&A: ParticipACTION report card to track children’s health - UVic News",
+          "Coordinated response helps more than 70 Niagara children after TB exposure - Niagara Health",
+          "Protecting children’s health from air pollution and climate change - The University of Utah"
+        ]
+      },
+      {
+        "trend": "patient",
+        "market_code": "CA",
+        "category": "Global Health",
+        "score": 7,
+        "examples": [
+          "Nigeria's first Ebola patient holidayed in Uganda, officials say - BBC",
+          "First human case of Shamonda virus reported in France as patient dies - UN News",
+          "France reports first human case of livestock virus Shamonda after patient dies - Reuters"
         ]
       }
     ],
@@ -2151,21 +2151,21 @@
         "trend": "health",
         "market_code": "AE",
         "category": "Arab Health",
-        "score": 70,
+        "score": 68,
         "examples": [
-          "2026 Employer Health Benefits Survey - KFF",
-          "Athletics Partners with Onrise To Support Student-Athlete Mental Health - Marquette University Athletics",
-          "Key Trump Health Adviser Resigns Ahead of Midterm Elections - The New York Times"
+          "Key Trump Health Adviser Resigns Ahead of Midterm Elections - The New York Times",
+          "The percentage of people without health insurance is growing - Stateline",
+          "Eating Walnuts With Dinner May Help You Sleep Better, Research Shows - Health.com"
         ]
       },
       {
         "trend": "medical",
         "market_code": "AE",
         "category": "Arab Health",
-        "score": 22,
+        "score": 20,
         "examples": [
-          "Medical professionals among 15 charged in alleged healthcare fraud worth $2 billion; raids carried out in Los Angeles - ABC7 Los Angeles",
           "Penguins' Ben Kindel back in Pittsburgh after medical emergency - ESPN",
+          "Kindel Back in Pittsburgh After Medical Episode on Team Plane - NHL.com",
           "23d Medical Group ranks among top performers in preventive cancer screenings - Moody Air Force Base (.mil)"
         ]
       },
@@ -2173,11 +2173,11 @@
         "trend": "healthcare",
         "market_code": "AE",
         "category": "Arab Health",
-        "score": 21,
+        "score": 18,
         "examples": [
+          "Department of Health and Human Services and the Justice Department’s Civil Division Announce Anti-Fraud Healthcare Self-Disclosure Pilot Program - HHS.gov",
           "Medical professionals among 15 charged in alleged healthcare fraud worth $2 billion; raids carried out in Los Angeles - ABC7 Los Angeles",
-          "Medical professionals among 15 charged in alleged healthcare fraud worth $2 billion; raids carried out in Los Angeles - ABC7 Los Angeles",
-          "Simply Healthcare funds Preeclampsia Foundation push to teach Florida mothers the warning signs - Florida Politics"
+          "FDA balances faster AI adoption with safety as healthcare technology advances - HealthExec"
         ]
       },
       {
@@ -2186,31 +2186,31 @@
         "category": "Outbreaks",
         "score": 14,
         "examples": [
+          "What to Know About Shamonda Virus Following the First Reported Human Infection - WIRED",
           "France reports first human case of livestock virus Shamonda after patient dies - Reuters",
-          "France reports first human case of livestock virus Shamonda in patient who later died - PBS",
-          "Shamonda virus detected in human for first time in France - The Guardian"
+          "First human case of Shamonda virus reported in France as patient dies - UN News"
+        ]
+      },
+      {
+        "trend": "cancer",
+        "market_code": "AE",
+        "category": "Chronic Disease",
+        "score": 12,
+        "examples": [
+          "Breast cancer awareness: learn the signs and screening options - City of Philadelphia (.gov)",
+          "23d Medical Group ranks among top performers in preventive cancer screenings - Moody Air Force Base (.mil)",
+          "Breast cancer awareness: learn the signs and screening options - City of Philadelphia (.gov)"
         ]
       },
       {
         "trend": "mental",
         "market_code": "AE",
         "category": "Mental Health",
-        "score": 13,
-        "examples": [
-          "Athletics Partners with Onrise To Support Student-Athlete Mental Health - Marquette University Athletics",
-          "CSU’s Ties with TimelyCare Raise Red Flags for Student Mental Health - California Faculty Association",
-          "University of New Haven Student Explores the Power of Peer Support in Youth Mental Health - University of New Haven"
-        ]
-      },
-      {
-        "trend": "mental health",
-        "market_code": "AE",
-        "category": "Mental Health",
         "score": 12,
         "examples": [
-          "Athletics Partners with Onrise To Support Student-Athlete Mental Health - Marquette University Athletics",
           "CSU’s Ties with TimelyCare Raise Red Flags for Student Mental Health - California Faculty Association",
-          "University of New Haven Student Explores the Power of Peer Support in Youth Mental Health - University of New Haven"
+          "Athletics Partners with Onrise To Support Student-Athlete Mental Health - Marquette University Athletics",
+          "NC announces $17 million in federal funds to improve rural mental health services - EdNC"
         ]
       },
       {
@@ -2219,9 +2219,20 @@
         "category": "Outbreaks",
         "score": 11,
         "examples": [
-          "DRC Ebola outbreak 'growing exponentially,' UN says - DW.com",
+          "WHO warns ‘more complex’ Ebola outbreak now present in 3 African countries - Al Jazeera",
           "Ebola Outbreak in Africa Reaches Widest Expansion Ever - The New York Times",
-          "DR Congo: Ebola responders under pressure as outbreak expands - UN News"
+          "DRC Ebola outbreak 'growing exponentially,' UN says - DW.com"
+        ]
+      },
+      {
+        "trend": "mental health",
+        "market_code": "AE",
+        "category": "Mental Health",
+        "score": 11,
+        "examples": [
+          "CSU’s Ties with TimelyCare Raise Red Flags for Student Mental Health - California Faculty Association",
+          "Athletics Partners with Onrise To Support Student-Athlete Mental Health - Marquette University Athletics",
+          "NC announces $17 million in federal funds to improve rural mental health services - EdNC"
         ]
       },
       {
@@ -2230,31 +2241,31 @@
         "category": "Arab Health",
         "score": 9,
         "examples": [
+          "AHA, health providers say hunters should know warning signs for heart attack, stroke - WDAM-TV",
           "Measles surge in Pennsylvania prompts new health warning to pregnant women - Baltimore Sun",
-          "Hell in a handbasin—warning on hospital hygiene - Medical Xpress",
-          "Hong Kong raids spark health warning over beauty jabs using dead people’s skin - South China Morning Post"
+          "Hell in a handbasin—warning on hospital hygiene - Medical Xpress"
         ]
       },
       {
-        "trend": "patient",
+        "trend": "public health",
         "market_code": "AE",
         "category": "Arab Health",
         "score": 8,
         "examples": [
-          "Major medical lab operator believes cyber breach exposed patient records - The Washington Post",
-          "Nigeria's first Ebola patient holidayed in Uganda, officials say - BBC",
-          "France reports first human case of livestock virus Shamonda after patient dies - Reuters"
+          "School of Public Health releases 2026 Healthy Georgia Report - Augusta University",
+          "Public health programs can ‘rewire’ social networks, Yale study finds - YaleNews",
+          "Assessing the public health risk after suspected plague exposure in Russia - Everbridge"
         ]
       },
       {
-        "trend": "disease",
+        "trend": "infection",
         "market_code": "AE",
-        "category": "Arab Health",
+        "category": "Outbreaks",
         "score": 8,
         "examples": [
-          "Hot fall triggers disease outbreak in some Montana big-game herds - Bozeman Daily Chronicle",
-          "Ebola patient in Nigeria believed to have contracted disease in Uganda, Switzerland says - Reuters",
-          "Hypertension treatment could avert over 500,000 heart disease deaths - MedicalNewsToday"
+          "What to Know About Shamonda Virus Following the First Reported Human Infection - WIRED",
+          "France confirms first Shamonda livestock virus infection in a human, say no danger to general population - DW.com",
+          "What to Know About Shamonda Virus Following the First Reported Human Infection - WIRED"
         ]
       },
       {
@@ -2263,20 +2274,9 @@
         "category": "Outbreaks",
         "score": 8,
         "examples": [
-          "Shamonda virus detected in human for first time in France - The Guardian",
-          "France reports first human Shamonda virus case, says no health risk - Al Jazeera",
-          "First human case of Shamonda virus detected in France, officials say - BBC"
-        ]
-      },
-      {
-        "trend": "public health",
-        "market_code": "AE",
-        "category": "Arab Health",
-        "score": 7,
-        "examples": [
-          "Public health programs can ‘rewire’ social networks, Yale study finds - YaleNews",
-          "NMSU Department of Public Health to host resource fair for senior citizens - New Mexico State University",
-          "School of Public Health releases 2026 Healthy Georgia Report - Augusta University"
+          "What to Know About Shamonda Virus Following the First Reported Human Infection - WIRED",
+          "First human case of Shamonda virus reported in France as patient dies - UN News",
+          "France reports 1st known human case of Shamonda virus - ABC News - Breaking News, Latest News and Videos"
         ]
       }
     ],
@@ -2285,21 +2285,21 @@
         "trend": "health",
         "market_code": "SA",
         "category": "Arab Health",
-        "score": 70,
+        "score": 68,
         "examples": [
-          "2026 Employer Health Benefits Survey - KFF",
-          "Athletics Partners with Onrise To Support Student-Athlete Mental Health - Marquette University Athletics",
-          "Key Trump Health Adviser Resigns Ahead of Midterm Elections - The New York Times"
+          "Key Trump Health Adviser Resigns Ahead of Midterm Elections - The New York Times",
+          "The percentage of people without health insurance is growing - Stateline",
+          "Eating Walnuts With Dinner May Help You Sleep Better, Research Shows - Health.com"
         ]
       },
       {
         "trend": "medical",
         "market_code": "SA",
         "category": "Arab Health",
-        "score": 22,
+        "score": 20,
         "examples": [
-          "Medical professionals among 15 charged in alleged healthcare fraud worth $2 billion; raids carried out in Los Angeles - ABC7 Los Angeles",
           "Penguins' Ben Kindel back in Pittsburgh after medical emergency - ESPN",
+          "Kindel Back in Pittsburgh After Medical Episode on Team Plane - NHL.com",
           "23d Medical Group ranks among top performers in preventive cancer screenings - Moody Air Force Base (.mil)"
         ]
       },
@@ -2307,11 +2307,11 @@
         "trend": "healthcare",
         "market_code": "SA",
         "category": "Arab Health",
-        "score": 21,
+        "score": 18,
         "examples": [
+          "Department of Health and Human Services and the Justice Department’s Civil Division Announce Anti-Fraud Healthcare Self-Disclosure Pilot Program - HHS.gov",
           "Medical professionals among 15 charged in alleged healthcare fraud worth $2 billion; raids carried out in Los Angeles - ABC7 Los Angeles",
-          "Medical professionals among 15 charged in alleged healthcare fraud worth $2 billion; raids carried out in Los Angeles - ABC7 Los Angeles",
-          "Simply Healthcare funds Preeclampsia Foundation push to teach Florida mothers the warning signs - Florida Politics"
+          "FDA balances faster AI adoption with safety as healthcare technology advances - HealthExec"
         ]
       },
       {
@@ -2320,31 +2320,31 @@
         "category": "Outbreaks",
         "score": 14,
         "examples": [
+          "What to Know About Shamonda Virus Following the First Reported Human Infection - WIRED",
           "France reports first human case of livestock virus Shamonda after patient dies - Reuters",
-          "France reports first human case of livestock virus Shamonda in patient who later died - PBS",
-          "Shamonda virus detected in human for first time in France - The Guardian"
+          "First human case of Shamonda virus reported in France as patient dies - UN News"
+        ]
+      },
+      {
+        "trend": "cancer",
+        "market_code": "SA",
+        "category": "Chronic Disease",
+        "score": 12,
+        "examples": [
+          "Breast cancer awareness: learn the signs and screening options - City of Philadelphia (.gov)",
+          "23d Medical Group ranks among top performers in preventive cancer screenings - Moody Air Force Base (.mil)",
+          "Breast cancer awareness: learn the signs and screening options - City of Philadelphia (.gov)"
         ]
       },
       {
         "trend": "mental",
         "market_code": "SA",
         "category": "Mental Health",
-        "score": 13,
-        "examples": [
-          "Athletics Partners with Onrise To Support Student-Athlete Mental Health - Marquette University Athletics",
-          "CSU’s Ties with TimelyCare Raise Red Flags for Student Mental Health - California Faculty Association",
-          "University of New Haven Student Explores the Power of Peer Support in Youth Mental Health - University of New Haven"
-        ]
-      },
-      {
-        "trend": "mental health",
-        "market_code": "SA",
-        "category": "Mental Health",
         "score": 12,
         "examples": [
-          "Athletics Partners with Onrise To Support Student-Athlete Mental Health - Marquette University Athletics",
           "CSU’s Ties with TimelyCare Raise Red Flags for Student Mental Health - California Faculty Association",
-          "University of New Haven Student Explores the Power of Peer Support in Youth Mental Health - University of New Haven"
+          "Athletics Partners with Onrise To Support Student-Athlete Mental Health - Marquette University Athletics",
+          "NC announces $17 million in federal funds to improve rural mental health services - EdNC"
         ]
       },
       {
@@ -2353,9 +2353,20 @@
         "category": "Outbreaks",
         "score": 11,
         "examples": [
-          "DRC Ebola outbreak 'growing exponentially,' UN says - DW.com",
+          "WHO warns ‘more complex’ Ebola outbreak now present in 3 African countries - Al Jazeera",
           "Ebola Outbreak in Africa Reaches Widest Expansion Ever - The New York Times",
-          "DR Congo: Ebola responders under pressure as outbreak expands - UN News"
+          "DRC Ebola outbreak 'growing exponentially,' UN says - DW.com"
+        ]
+      },
+      {
+        "trend": "mental health",
+        "market_code": "SA",
+        "category": "Mental Health",
+        "score": 11,
+        "examples": [
+          "CSU’s Ties with TimelyCare Raise Red Flags for Student Mental Health - California Faculty Association",
+          "Athletics Partners with Onrise To Support Student-Athlete Mental Health - Marquette University Athletics",
+          "NC announces $17 million in federal funds to improve rural mental health services - EdNC"
         ]
       },
       {
@@ -2364,31 +2375,31 @@
         "category": "Arab Health",
         "score": 9,
         "examples": [
+          "AHA, health providers say hunters should know warning signs for heart attack, stroke - WDAM-TV",
           "Measles surge in Pennsylvania prompts new health warning to pregnant women - Baltimore Sun",
-          "Hell in a handbasin—warning on hospital hygiene - Medical Xpress",
-          "Hong Kong raids spark health warning over beauty jabs using dead people’s skin - South China Morning Post"
+          "Hell in a handbasin—warning on hospital hygiene - Medical Xpress"
         ]
       },
       {
-        "trend": "patient",
+        "trend": "public health",
         "market_code": "SA",
         "category": "Arab Health",
         "score": 8,
         "examples": [
-          "Major medical lab operator believes cyber breach exposed patient records - The Washington Post",
-          "Nigeria's first Ebola patient holidayed in Uganda, officials say - BBC",
-          "France reports first human case of livestock virus Shamonda after patient dies - Reuters"
+          "School of Public Health releases 2026 Healthy Georgia Report - Augusta University",
+          "Public health programs can ‘rewire’ social networks, Yale study finds - YaleNews",
+          "Assessing the public health risk after suspected plague exposure in Russia - Everbridge"
         ]
       },
       {
-        "trend": "disease",
+        "trend": "infection",
         "market_code": "SA",
-        "category": "Arab Health",
+        "category": "Outbreaks",
         "score": 8,
         "examples": [
-          "Hot fall triggers disease outbreak in some Montana big-game herds - Bozeman Daily Chronicle",
-          "Ebola patient in Nigeria believed to have contracted disease in Uganda, Switzerland says - Reuters",
-          "Hypertension treatment could avert over 500,000 heart disease deaths - MedicalNewsToday"
+          "What to Know About Shamonda Virus Following the First Reported Human Infection - WIRED",
+          "France confirms first Shamonda livestock virus infection in a human, say no danger to general population - DW.com",
+          "What to Know About Shamonda Virus Following the First Reported Human Infection - WIRED"
         ]
       },
       {
@@ -2397,20 +2408,9 @@
         "category": "Outbreaks",
         "score": 8,
         "examples": [
-          "Shamonda virus detected in human for first time in France - The Guardian",
-          "France reports first human Shamonda virus case, says no health risk - Al Jazeera",
-          "First human case of Shamonda virus detected in France, officials say - BBC"
-        ]
-      },
-      {
-        "trend": "public health",
-        "market_code": "SA",
-        "category": "Arab Health",
-        "score": 7,
-        "examples": [
-          "Public health programs can ‘rewire’ social networks, Yale study finds - YaleNews",
-          "NMSU Department of Public Health to host resource fair for senior citizens - New Mexico State University",
-          "School of Public Health releases 2026 Healthy Georgia Report - Augusta University"
+          "What to Know About Shamonda Virus Following the First Reported Human Infection - WIRED",
+          "First human case of Shamonda virus reported in France as patient dies - UN News",
+          "France reports 1st known human case of Shamonda virus - ABC News - Breaking News, Latest News and Videos"
         ]
       }
     ],
@@ -2419,21 +2419,21 @@
         "trend": "health",
         "market_code": "QA",
         "category": "Arab Health",
-        "score": 70,
+        "score": 68,
         "examples": [
-          "2026 Employer Health Benefits Survey - KFF",
-          "Athletics Partners with Onrise To Support Student-Athlete Mental Health - Marquette University Athletics",
-          "Key Trump Health Adviser Resigns Ahead of Midterm Elections - The New York Times"
+          "Key Trump Health Adviser Resigns Ahead of Midterm Elections - The New York Times",
+          "The percentage of people without health insurance is growing - Stateline",
+          "Eating Walnuts With Dinner May Help You Sleep Better, Research Shows - Health.com"
         ]
       },
       {
         "trend": "medical",
         "market_code": "QA",
         "category": "Arab Health",
-        "score": 22,
+        "score": 20,
         "examples": [
-          "Medical professionals among 15 charged in alleged healthcare fraud worth $2 billion; raids carried out in Los Angeles - ABC7 Los Angeles",
           "Penguins' Ben Kindel back in Pittsburgh after medical emergency - ESPN",
+          "Kindel Back in Pittsburgh After Medical Episode on Team Plane - NHL.com",
           "23d Medical Group ranks among top performers in preventive cancer screenings - Moody Air Force Base (.mil)"
         ]
       },
@@ -2441,11 +2441,11 @@
         "trend": "healthcare",
         "market_code": "QA",
         "category": "Arab Health",
-        "score": 21,
+        "score": 18,
         "examples": [
+          "Department of Health and Human Services and the Justice Department’s Civil Division Announce Anti-Fraud Healthcare Self-Disclosure Pilot Program - HHS.gov",
           "Medical professionals among 15 charged in alleged healthcare fraud worth $2 billion; raids carried out in Los Angeles - ABC7 Los Angeles",
-          "Medical professionals among 15 charged in alleged healthcare fraud worth $2 billion; raids carried out in Los Angeles - ABC7 Los Angeles",
-          "Simply Healthcare funds Preeclampsia Foundation push to teach Florida mothers the warning signs - Florida Politics"
+          "FDA balances faster AI adoption with safety as healthcare technology advances - HealthExec"
         ]
       },
       {
@@ -2454,31 +2454,31 @@
         "category": "Outbreaks",
         "score": 14,
         "examples": [
+          "What to Know About Shamonda Virus Following the First Reported Human Infection - WIRED",
           "France reports first human case of livestock virus Shamonda after patient dies - Reuters",
-          "France reports first human case of livestock virus Shamonda in patient who later died - PBS",
-          "Shamonda virus detected in human for first time in France - The Guardian"
+          "First human case of Shamonda virus reported in France as patient dies - UN News"
+        ]
+      },
+      {
+        "trend": "cancer",
+        "market_code": "QA",
+        "category": "Chronic Disease",
+        "score": 12,
+        "examples": [
+          "Breast cancer awareness: learn the signs and screening options - City of Philadelphia (.gov)",
+          "23d Medical Group ranks among top performers in preventive cancer screenings - Moody Air Force Base (.mil)",
+          "Breast cancer awareness: learn the signs and screening options - City of Philadelphia (.gov)"
         ]
       },
       {
         "trend": "mental",
         "market_code": "QA",
         "category": "Mental Health",
-        "score": 13,
-        "examples": [
-          "Athletics Partners with Onrise To Support Student-Athlete Mental Health - Marquette University Athletics",
-          "CSU’s Ties with TimelyCare Raise Red Flags for Student Mental Health - California Faculty Association",
-          "University of New Haven Student Explores the Power of Peer Support in Youth Mental Health - University of New Haven"
-        ]
-      },
-      {
-        "trend": "mental health",
-        "market_code": "QA",
-        "category": "Mental Health",
         "score": 12,
         "examples": [
-          "Athletics Partners with Onrise To Support Student-Athlete Mental Health - Marquette University Athletics",
           "CSU’s Ties with TimelyCare Raise Red Flags for Student Mental Health - California Faculty Association",
-          "University of New Haven Student Explores the Power of Peer Support in Youth Mental Health - University of New Haven"
+          "Athletics Partners with Onrise To Support Student-Athlete Mental Health - Marquette University Athletics",
+          "NC announces $17 million in federal funds to improve rural mental health services - EdNC"
         ]
       },
       {
@@ -2487,9 +2487,20 @@
         "category": "Outbreaks",
         "score": 11,
         "examples": [
-          "DRC Ebola outbreak 'growing exponentially,' UN says - DW.com",
+          "WHO warns ‘more complex’ Ebola outbreak now present in 3 African countries - Al Jazeera",
           "Ebola Outbreak in Africa Reaches Widest Expansion Ever - The New York Times",
-          "DR Congo: Ebola responders under pressure as outbreak expands - UN News"
+          "DRC Ebola outbreak 'growing exponentially,' UN says - DW.com"
+        ]
+      },
+      {
+        "trend": "mental health",
+        "market_code": "QA",
+        "category": "Mental Health",
+        "score": 11,
+        "examples": [
+          "CSU’s Ties with TimelyCare Raise Red Flags for Student Mental Health - California Faculty Association",
+          "Athletics Partners with Onrise To Support Student-Athlete Mental Health - Marquette University Athletics",
+          "NC announces $17 million in federal funds to improve rural mental health services - EdNC"
         ]
       },
       {
@@ -2498,31 +2509,31 @@
         "category": "Arab Health",
         "score": 9,
         "examples": [
+          "AHA, health providers say hunters should know warning signs for heart attack, stroke - WDAM-TV",
           "Measles surge in Pennsylvania prompts new health warning to pregnant women - Baltimore Sun",
-          "Hell in a handbasin—warning on hospital hygiene - Medical Xpress",
-          "Hong Kong raids spark health warning over beauty jabs using dead people’s skin - South China Morning Post"
+          "Hell in a handbasin—warning on hospital hygiene - Medical Xpress"
         ]
       },
       {
-        "trend": "patient",
+        "trend": "public health",
         "market_code": "QA",
         "category": "Arab Health",
         "score": 8,
         "examples": [
-          "Major medical lab operator believes cyber breach exposed patient records - The Washington Post",
-          "Nigeria's first Ebola patient holidayed in Uganda, officials say - BBC",
-          "France reports first human case of livestock virus Shamonda after patient dies - Reuters"
+          "School of Public Health releases 2026 Healthy Georgia Report - Augusta University",
+          "Public health programs can ‘rewire’ social networks, Yale study finds - YaleNews",
+          "Assessing the public health risk after suspected plague exposure in Russia - Everbridge"
         ]
       },
       {
-        "trend": "disease",
+        "trend": "infection",
         "market_code": "QA",
-        "category": "Arab Health",
+        "category": "Outbreaks",
         "score": 8,
         "examples": [
-          "Hot fall triggers disease outbreak in some Montana big-game herds - Bozeman Daily Chronicle",
-          "Ebola patient in Nigeria believed to have contracted disease in Uganda, Switzerland says - Reuters",
-          "Hypertension treatment could avert over 500,000 heart disease deaths - MedicalNewsToday"
+          "What to Know About Shamonda Virus Following the First Reported Human Infection - WIRED",
+          "France confirms first Shamonda livestock virus infection in a human, say no danger to general population - DW.com",
+          "What to Know About Shamonda Virus Following the First Reported Human Infection - WIRED"
         ]
       },
       {
@@ -2531,20 +2542,9 @@
         "category": "Outbreaks",
         "score": 8,
         "examples": [
-          "Shamonda virus detected in human for first time in France - The Guardian",
-          "France reports first human Shamonda virus case, says no health risk - Al Jazeera",
-          "First human case of Shamonda virus detected in France, officials say - BBC"
-        ]
-      },
-      {
-        "trend": "public health",
-        "market_code": "QA",
-        "category": "Arab Health",
-        "score": 7,
-        "examples": [
-          "Public health programs can ‘rewire’ social networks, Yale study finds - YaleNews",
-          "NMSU Department of Public Health to host resource fair for senior citizens - New Mexico State University",
-          "School of Public Health releases 2026 Healthy Georgia Report - Augusta University"
+          "What to Know About Shamonda Virus Following the First Reported Human Infection - WIRED",
+          "First human case of Shamonda virus reported in France as patient dies - UN News",
+          "France reports 1st known human case of Shamonda virus - ABC News - Breaking News, Latest News and Videos"
         ]
       }
     ],
@@ -2553,21 +2553,21 @@
         "trend": "health",
         "market_code": "JO",
         "category": "Arab Health",
-        "score": 70,
+        "score": 68,
         "examples": [
-          "2026 Employer Health Benefits Survey - KFF",
-          "Athletics Partners with Onrise To Support Student-Athlete Mental Health - Marquette University Athletics",
-          "Key Trump Health Adviser Resigns Ahead of Midterm Elections - The New York Times"
+          "Key Trump Health Adviser Resigns Ahead of Midterm Elections - The New York Times",
+          "The percentage of people without health insurance is growing - Stateline",
+          "Eating Walnuts With Dinner May Help You Sleep Better, Research Shows - Health.com"
         ]
       },
       {
         "trend": "medical",
         "market_code": "JO",
         "category": "Arab Health",
-        "score": 22,
+        "score": 20,
         "examples": [
-          "Medical professionals among 15 charged in alleged healthcare fraud worth $2 billion; raids carried out in Los Angeles - ABC7 Los Angeles",
           "Penguins' Ben Kindel back in Pittsburgh after medical emergency - ESPN",
+          "Kindel Back in Pittsburgh After Medical Episode on Team Plane - NHL.com",
           "23d Medical Group ranks among top performers in preventive cancer screenings - Moody Air Force Base (.mil)"
         ]
       },
@@ -2575,11 +2575,11 @@
         "trend": "healthcare",
         "market_code": "JO",
         "category": "Arab Health",
-        "score": 21,
+        "score": 18,
         "examples": [
+          "Department of Health and Human Services and the Justice Department’s Civil Division Announce Anti-Fraud Healthcare Self-Disclosure Pilot Program - HHS.gov",
           "Medical professionals among 15 charged in alleged healthcare fraud worth $2 billion; raids carried out in Los Angeles - ABC7 Los Angeles",
-          "Medical professionals among 15 charged in alleged healthcare fraud worth $2 billion; raids carried out in Los Angeles - ABC7 Los Angeles",
-          "Simply Healthcare funds Preeclampsia Foundation push to teach Florida mothers the warning signs - Florida Politics"
+          "FDA balances faster AI adoption with safety as healthcare technology advances - HealthExec"
         ]
       },
       {
@@ -2588,31 +2588,31 @@
         "category": "Outbreaks",
         "score": 14,
         "examples": [
+          "What to Know About Shamonda Virus Following the First Reported Human Infection - WIRED",
           "France reports first human case of livestock virus Shamonda after patient dies - Reuters",
-          "France reports first human case of livestock virus Shamonda in patient who later died - PBS",
-          "Shamonda virus detected in human for first time in France - The Guardian"
+          "First human case of Shamonda virus reported in France as patient dies - UN News"
+        ]
+      },
+      {
+        "trend": "cancer",
+        "market_code": "JO",
+        "category": "Chronic Disease",
+        "score": 12,
+        "examples": [
+          "Breast cancer awareness: learn the signs and screening options - City of Philadelphia (.gov)",
+          "23d Medical Group ranks among top performers in preventive cancer screenings - Moody Air Force Base (.mil)",
+          "Breast cancer awareness: learn the signs and screening options - City of Philadelphia (.gov)"
         ]
       },
       {
         "trend": "mental",
         "market_code": "JO",
         "category": "Mental Health",
-        "score": 13,
-        "examples": [
-          "Athletics Partners with Onrise To Support Student-Athlete Mental Health - Marquette University Athletics",
-          "CSU’s Ties with TimelyCare Raise Red Flags for Student Mental Health - California Faculty Association",
-          "University of New Haven Student Explores the Power of Peer Support in Youth Mental Health - University of New Haven"
-        ]
-      },
-      {
-        "trend": "mental health",
-        "market_code": "JO",
-        "category": "Mental Health",
         "score": 12,
         "examples": [
-          "Athletics Partners with Onrise To Support Student-Athlete Mental Health - Marquette University Athletics",
           "CSU’s Ties with TimelyCare Raise Red Flags for Student Mental Health - California Faculty Association",
-          "University of New Haven Student Explores the Power of Peer Support in Youth Mental Health - University of New Haven"
+          "Athletics Partners with Onrise To Support Student-Athlete Mental Health - Marquette University Athletics",
+          "NC announces $17 million in federal funds to improve rural mental health services - EdNC"
         ]
       },
       {
@@ -2621,9 +2621,20 @@
         "category": "Outbreaks",
         "score": 11,
         "examples": [
-          "DRC Ebola outbreak 'growing exponentially,' UN says - DW.com",
+          "WHO warns ‘more complex’ Ebola outbreak now present in 3 African countries - Al Jazeera",
           "Ebola Outbreak in Africa Reaches Widest Expansion Ever - The New York Times",
-          "DR Congo: Ebola responders under pressure as outbreak expands - UN News"
+          "DRC Ebola outbreak 'growing exponentially,' UN says - DW.com"
+        ]
+      },
+      {
+        "trend": "mental health",
+        "market_code": "JO",
+        "category": "Mental Health",
+        "score": 11,
+        "examples": [
+          "CSU’s Ties with TimelyCare Raise Red Flags for Student Mental Health - California Faculty Association",
+          "Athletics Partners with Onrise To Support Student-Athlete Mental Health - Marquette University Athletics",
+          "NC announces $17 million in federal funds to improve rural mental health services - EdNC"
         ]
       },
       {
@@ -2632,31 +2643,31 @@
         "category": "Arab Health",
         "score": 9,
         "examples": [
+          "AHA, health providers say hunters should know warning signs for heart attack, stroke - WDAM-TV",
           "Measles surge in Pennsylvania prompts new health warning to pregnant women - Baltimore Sun",
-          "Hell in a handbasin—warning on hospital hygiene - Medical Xpress",
-          "Hong Kong raids spark health warning over beauty jabs using dead people’s skin - South China Morning Post"
+          "Hell in a handbasin—warning on hospital hygiene - Medical Xpress"
         ]
       },
       {
-        "trend": "patient",
+        "trend": "public health",
         "market_code": "JO",
         "category": "Arab Health",
         "score": 8,
         "examples": [
-          "Major medical lab operator believes cyber breach exposed patient records - The Washington Post",
-          "Nigeria's first Ebola patient holidayed in Uganda, officials say - BBC",
-          "France reports first human case of livestock virus Shamonda after patient dies - Reuters"
+          "School of Public Health releases 2026 Healthy Georgia Report - Augusta University",
+          "Public health programs can ‘rewire’ social networks, Yale study finds - YaleNews",
+          "Assessing the public health risk after suspected plague exposure in Russia - Everbridge"
         ]
       },
       {
-        "trend": "disease",
+        "trend": "infection",
         "market_code": "JO",
-        "category": "Arab Health",
+        "category": "Outbreaks",
         "score": 8,
         "examples": [
-          "Hot fall triggers disease outbreak in some Montana big-game herds - Bozeman Daily Chronicle",
-          "Ebola patient in Nigeria believed to have contracted disease in Uganda, Switzerland says - Reuters",
-          "Hypertension treatment could avert over 500,000 heart disease deaths - MedicalNewsToday"
+          "What to Know About Shamonda Virus Following the First Reported Human Infection - WIRED",
+          "France confirms first Shamonda livestock virus infection in a human, say no danger to general population - DW.com",
+          "What to Know About Shamonda Virus Following the First Reported Human Infection - WIRED"
         ]
       },
       {
@@ -2665,20 +2676,9 @@
         "category": "Outbreaks",
         "score": 8,
         "examples": [
-          "Shamonda virus detected in human for first time in France - The Guardian",
-          "France reports first human Shamonda virus case, says no health risk - Al Jazeera",
-          "First human case of Shamonda virus detected in France, officials say - BBC"
-        ]
-      },
-      {
-        "trend": "public health",
-        "market_code": "JO",
-        "category": "Arab Health",
-        "score": 7,
-        "examples": [
-          "Public health programs can ‘rewire’ social networks, Yale study finds - YaleNews",
-          "NMSU Department of Public Health to host resource fair for senior citizens - New Mexico State University",
-          "School of Public Health releases 2026 Healthy Georgia Report - Augusta University"
+          "What to Know About Shamonda Virus Following the First Reported Human Infection - WIRED",
+          "First human case of Shamonda virus reported in France as patient dies - UN News",
+          "France reports 1st known human case of Shamonda virus - ABC News - Breaking News, Latest News and Videos"
         ]
       }
     ],
@@ -2687,21 +2687,21 @@
         "trend": "health",
         "market_code": "LB",
         "category": "Arab Health",
-        "score": 70,
+        "score": 68,
         "examples": [
-          "2026 Employer Health Benefits Survey - KFF",
-          "Athletics Partners with Onrise To Support Student-Athlete Mental Health - Marquette University Athletics",
-          "Key Trump Health Adviser Resigns Ahead of Midterm Elections - The New York Times"
+          "Key Trump Health Adviser Resigns Ahead of Midterm Elections - The New York Times",
+          "The percentage of people without health insurance is growing - Stateline",
+          "Eating Walnuts With Dinner May Help You Sleep Better, Research Shows - Health.com"
         ]
       },
       {
         "trend": "medical",
         "market_code": "LB",
         "category": "Arab Health",
-        "score": 22,
+        "score": 20,
         "examples": [
-          "Medical professionals among 15 charged in alleged healthcare fraud worth $2 billion; raids carried out in Los Angeles - ABC7 Los Angeles",
           "Penguins' Ben Kindel back in Pittsburgh after medical emergency - ESPN",
+          "Kindel Back in Pittsburgh After Medical Episode on Team Plane - NHL.com",
           "23d Medical Group ranks among top performers in preventive cancer screenings - Moody Air Force Base (.mil)"
         ]
       },
@@ -2709,11 +2709,11 @@
         "trend": "healthcare",
         "market_code": "LB",
         "category": "Arab Health",
-        "score": 21,
+        "score": 18,
         "examples": [
+          "Department of Health and Human Services and the Justice Department’s Civil Division Announce Anti-Fraud Healthcare Self-Disclosure Pilot Program - HHS.gov",
           "Medical professionals among 15 charged in alleged healthcare fraud worth $2 billion; raids carried out in Los Angeles - ABC7 Los Angeles",
-          "Medical professionals among 15 charged in alleged healthcare fraud worth $2 billion; raids carried out in Los Angeles - ABC7 Los Angeles",
-          "Simply Healthcare funds Preeclampsia Foundation push to teach Florida mothers the warning signs - Florida Politics"
+          "FDA balances faster AI adoption with safety as healthcare technology advances - HealthExec"
         ]
       },
       {
@@ -2722,31 +2722,31 @@
         "category": "Outbreaks",
         "score": 14,
         "examples": [
+          "What to Know About Shamonda Virus Following the First Reported Human Infection - WIRED",
           "France reports first human case of livestock virus Shamonda after patient dies - Reuters",
-          "France reports first human case of livestock virus Shamonda in patient who later died - PBS",
-          "Shamonda virus detected in human for first time in France - The Guardian"
+          "First human case of Shamonda virus reported in France as patient dies - UN News"
+        ]
+      },
+      {
+        "trend": "cancer",
+        "market_code": "LB",
+        "category": "Chronic Disease",
+        "score": 12,
+        "examples": [
+          "Breast cancer awareness: learn the signs and screening options - City of Philadelphia (.gov)",
+          "23d Medical Group ranks among top performers in preventive cancer screenings - Moody Air Force Base (.mil)",
+          "Breast cancer awareness: learn the signs and screening options - City of Philadelphia (.gov)"
         ]
       },
       {
         "trend": "mental",
         "market_code": "LB",
         "category": "Mental Health",
-        "score": 13,
-        "examples": [
-          "Athletics Partners with Onrise To Support Student-Athlete Mental Health - Marquette University Athletics",
-          "CSU’s Ties with TimelyCare Raise Red Flags for Student Mental Health - California Faculty Association",
-          "University of New Haven Student Explores the Power of Peer Support in Youth Mental Health - University of New Haven"
-        ]
-      },
-      {
-        "trend": "mental health",
-        "market_code": "LB",
-        "category": "Mental Health",
         "score": 12,
         "examples": [
-          "Athletics Partners with Onrise To Support Student-Athlete Mental Health - Marquette University Athletics",
           "CSU’s Ties with TimelyCare Raise Red Flags for Student Mental Health - California Faculty Association",
-          "University of New Haven Student Explores the Power of Peer Support in Youth Mental Health - University of New Haven"
+          "Athletics Partners with Onrise To Support Student-Athlete Mental Health - Marquette University Athletics",
+          "NC announces $17 million in federal funds to improve rural mental health services - EdNC"
         ]
       },
       {
@@ -2755,9 +2755,20 @@
         "category": "Outbreaks",
         "score": 11,
         "examples": [
-          "DRC Ebola outbreak 'growing exponentially,' UN says - DW.com",
+          "WHO warns ‘more complex’ Ebola outbreak now present in 3 African countries - Al Jazeera",
           "Ebola Outbreak in Africa Reaches Widest Expansion Ever - The New York Times",
-          "DR Congo: Ebola responders under pressure as outbreak expands - UN News"
+          "DRC Ebola outbreak 'growing exponentially,' UN says - DW.com"
+        ]
+      },
+      {
+        "trend": "mental health",
+        "market_code": "LB",
+        "category": "Mental Health",
+        "score": 11,
+        "examples": [
+          "CSU’s Ties with TimelyCare Raise Red Flags for Student Mental Health - California Faculty Association",
+          "Athletics Partners with Onrise To Support Student-Athlete Mental Health - Marquette University Athletics",
+          "NC announces $17 million in federal funds to improve rural mental health services - EdNC"
         ]
       },
       {
@@ -2766,31 +2777,31 @@
         "category": "Arab Health",
         "score": 9,
         "examples": [
+          "AHA, health providers say hunters should know warning signs for heart attack, stroke - WDAM-TV",
           "Measles surge in Pennsylvania prompts new health warning to pregnant women - Baltimore Sun",
-          "Hell in a handbasin—warning on hospital hygiene - Medical Xpress",
-          "Hong Kong raids spark health warning over beauty jabs using dead people’s skin - South China Morning Post"
+          "Hell in a handbasin—warning on hospital hygiene - Medical Xpress"
         ]
       },
       {
-        "trend": "patient",
+        "trend": "public health",
         "market_code": "LB",
         "category": "Arab Health",
         "score": 8,
         "examples": [
-          "Major medical lab operator believes cyber breach exposed patient records - The Washington Post",
-          "Nigeria's first Ebola patient holidayed in Uganda, officials say - BBC",
-          "France reports first human case of livestock virus Shamonda after patient dies - Reuters"
+          "School of Public Health releases 2026 Healthy Georgia Report - Augusta University",
+          "Public health programs can ‘rewire’ social networks, Yale study finds - YaleNews",
+          "Assessing the public health risk after suspected plague exposure in Russia - Everbridge"
         ]
       },
       {
-        "trend": "disease",
+        "trend": "infection",
         "market_code": "LB",
-        "category": "Arab Health",
+        "category": "Outbreaks",
         "score": 8,
         "examples": [
-          "Hot fall triggers disease outbreak in some Montana big-game herds - Bozeman Daily Chronicle",
-          "Ebola patient in Nigeria believed to have contracted disease in Uganda, Switzerland says - Reuters",
-          "Hypertension treatment could avert over 500,000 heart disease deaths - MedicalNewsToday"
+          "What to Know About Shamonda Virus Following the First Reported Human Infection - WIRED",
+          "France confirms first Shamonda livestock virus infection in a human, say no danger to general population - DW.com",
+          "What to Know About Shamonda Virus Following the First Reported Human Infection - WIRED"
         ]
       },
       {
@@ -2799,20 +2810,9 @@
         "category": "Outbreaks",
         "score": 8,
         "examples": [
-          "Shamonda virus detected in human for first time in France - The Guardian",
-          "France reports first human Shamonda virus case, says no health risk - Al Jazeera",
-          "First human case of Shamonda virus detected in France, officials say - BBC"
-        ]
-      },
-      {
-        "trend": "public health",
-        "market_code": "LB",
-        "category": "Arab Health",
-        "score": 7,
-        "examples": [
-          "Public health programs can ‘rewire’ social networks, Yale study finds - YaleNews",
-          "NMSU Department of Public Health to host resource fair for senior citizens - New Mexico State University",
-          "School of Public Health releases 2026 Healthy Georgia Report - Augusta University"
+          "What to Know About Shamonda Virus Following the First Reported Human Infection - WIRED",
+          "First human case of Shamonda virus reported in France as patient dies - UN News",
+          "France reports 1st known human case of Shamonda virus - ABC News - Breaking News, Latest News and Videos"
         ]
       }
     ]
