@@ -1,0 +1,67 @@
+---
+title: "Ebola cases in Democratic Republic of Congo surpass 10,000 as nurse treating patients is killed by mob"
+description: "Ebola cases in Democratic Republic of Congo surpass 10,000 as nurse treating patients is killed by mob Sky News"
+slug: "ebola-cases-in-democratic-republic-of-congo-surpass-10-000-as-nurse-treating-patients-is-killed-541ed4bb39"
+category: "Outbreaks"
+region: "United Kingdom"
+source: "Google News / United Kingdom"
+source_url: "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQdnRYSnA3MHg1WWsxYUEweGZwclQ5eTA3dEM5V3JvT2lzLV9MTGNnM1JMYjJTaDFGMEJ1dDlEckEydmpuQ19SLVp5ck1HOHQ4bjdXV1ptVHR6Q1ZQdXpkdGlMb1k4d0NKV0NsVW14NW5aY0l6WXhvS2FwZXVTQnVscW9EMmEwT0FITFA0YzNMTGV4MDZHbWxydGN3Vk9zVTgzcDVTXzczQzdSUGNvblBieUdVZGc0MWVuQzdLTkdVVnlEYjUzajNBUGh0UFFiRGxfVWM5OG5QMk9jNThvaEx1eTJBeThQaFJnUVZz?oc=5"
+source_confidence: "medium"
+published_at: "Tue, 27 Oct 2026 11:07:37 GMT"
+generated_at: "2026-10-27T16:56:36.879530+00:00"
+image_url: "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+trend: "outbreak"
+keywords:
+  - "outbreak"
+  - "outbreaks"
+  - "united kingdom health news"
+  - "health trends"
+  - "medical news"
+  - "public health"
+  - "ebola"
+  - "cases"
+  - "democratic"
+  - "republic"
+  - "congo"
+  - "surpass"
+  - "nurse"
+  - "treating"
+  - "patients"
+  - "killed"
+---
+
+# Ebola cases in Democratic Republic of Congo surpass 10,000 as nurse treating patients is killed by mob
+
+Ebola cases in Democratic Republic of Congo surpass 10,000 as nurse treating patients is killed by mob Sky News
+
+## Why this topic is trending
+
+This update was selected because it is connected to a detected health trend in **United Kingdom**.
+
+Tracked trend: **outbreak**.
+
+## What happened
+
+This update is part of a wider health signal being monitored from public sources and regional news feeds. It may relate to public health, medical research, symptoms, outbreaks, treatments, wellness, healthcare systems, or health technology.
+
+## Why it matters
+
+- It may affect public awareness or online health searches.
+- It may be connected to health policy, disease monitoring, treatment updates, or scientific research.
+- The original source should be reviewed for full details and context.
+
+## Region
+
+**United Kingdom**
+
+## Category
+
+**Outbreaks**
+
+## Source context
+
+This article summarizes a public health signal from **Google News / United Kingdom**. HantaUpdates links to the original source so readers can verify details directly.
+
+## Medical disclaimer
+
+HantaUpdates does not provide medical advice, diagnosis, or treatment. Always follow guidance from your local health authority or a qualified medical professional.
