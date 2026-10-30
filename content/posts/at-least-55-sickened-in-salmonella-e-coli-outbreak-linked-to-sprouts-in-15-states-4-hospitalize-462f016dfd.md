@@ -1,0 +1,67 @@
+---
+title: "At least 55 sickened in salmonella, E. coli outbreak linked to sprouts in 15 states; 4 hospitalized"
+description: "At least 55 sickened in salmonella, E. coli outbreak linked to sprouts in 15 states; 4 hospitalized ABC7 Bay Area"
+slug: "at-least-55-sickened-in-salmonella-e-coli-outbreak-linked-to-sprouts-in-15-states-4-hospitalize-462f016dfd"
+category: "Outbreaks"
+region: "United States"
+source: "Google News / United States"
+source_url: "https://news.google.com/rss/articles/CBMisBVBVV95cUxOODJ0ZlpyMWNvOEc1Q05feTMtek90bjM0ZDlIN2NMajU4ajRnWko4dGszUW1PRkRyU0YwRkJhUEJDUmZYaHRBaVN1RjRwSmdjbjYwbGtDaGd0aTVieUtTWDhMakwzWDgxU1dJVkZydmJqSWF2aFVYWU91d29VWl9wT1JaZFFuNTkyMGhNakU3Y2RhN05Wdkh0cjFYakF0cHE5UzU4ZFhnZ2k5V0szbDMzeFp3bUgyUWVEM2xMOVU4eHdmak5yZkl4TmxDdlcxeUpUSmp6QlRUUHB5T3R3YWFyY0dfd3lydzh5Qm5SUDFDa2tWQlBOOUcwRF9TZng4ZGNMdF9MX2lISUVzczI2R2RpVVR1c1RPRkp0SzdJR0JvaTN1UXBpVW0xdVE4S2RUMU9nanlrSVExRDA5dmtmVTZqTVB4NGJSUk9JUGVpLVdsUlVHVWJIWV9MbzhmQW1ITXRmZG9tMmI0eEN6Tll4V0E4MnlsNm05NjViWGU2Ty1sTWFJY3ZGRVVhTGRGSEJWR3pxZEttSTRYN3RUcnRkdTZRYjVLZ3FtQU0xZXNNazNScHVoQzBYY1RGWXJHQkVMZlRGaDNVcHdtbU5rYURPZUNjN2lDdlpuMnRFWl9VV1V1bmI2MFZKVzc4Y2poSHBDdHJiOFBaR1VlYmx5cXFhOVo1ZzdMd0dsQVVkSkZBeXVVVWxqUWstRWxBTnBUWXVsTXNxdUhiZlJXYVE3TXhmb05MS1EwM05TbFVmY0FvbjhJaUx5OEVSUlF2czhmbzhkY0sybTR6RHE3cXFPbjB3Wk1fRWFyOUZfdGg0RzI2MzJUN1pqSHZmV1VpZFNMTTBxQmkwWXplaGg4QlFEVDN1TkdZYXRKMG5mYXgwdTNzN0phZjVEcXpmYklRRklWSEd0UHBtYVprcnpUUlc2ZDNsZmpQaVJxdEtWdWpLNWFoSHpNMkRPNnVSajVuUFBMRlJJSWk5N1Y3NEtCMlFEYjV4eUZYa0dkU2FyN2t0LS1DOVc5M1RUSlVzNTFmVnhzeGVXSTEtYzhvNkVRQzJJVVBCMlNHZ0pDMTlSXzdQSlNwcEFjX21aREhGeUhXYU1mMkhENnBPVWxIb3R1R09fbUhKYkJUbmdRREpvWFRFLXdla0YydmdNb2VtRndnTkI4QWtyM3FVNU5iRmpaYW1QUlA0RHQ1VGF1WV82X3J1eng5U3R2a1laMXpnZjIxcnZSanNjcjNKQnlNZ1UteHNmUldQVjA0OWRBajRmWnhYWk5IdF9jMEpnWXp5VUZKWFJCcU1CYUdGTFpGNlNTRHF5Z3l0NnZ0OWpMYVBwcHNzQXF0ckpoRlJzX1ZjalVubmRnUXJsZ3dNa3RBcDlrX3MtQkc1Qy1ORVBES3VtcE5CQldWNG9BMVhLSE9tekxxNktrcTM4ZC1namdlRE5mbEt1amR0SVhBNU1LZG5nd3VzUlRIM3k4QWgzdnJuUzY5Vm00S3hiRHhrcjdsSzVjWEE2Q19BNFV1eGctTjk3a2tSNU5Ibzhxc3BMc3djSVNLZTVCM29TZWlFRzBhZ3FZNHl3aWx6a2d1SlMtdWhILUJhUEpNY2llVl92SzRlM2trWlRIZGFyS3YtaU1kTkFCc2VUOVktTUlEYUhtM09jczk3eTNleTlHYmtJYnFGVnRhQnZZcUptWEJqUnhLT1VlazN1ZnFpVHZkVGdyNDIwZUQtODU4NWotTl96ZFFzTk1hM2J4QmtoRHdqXzZFaldLMGgxQ21jTHU4SlRhWFlMTU44bzBxcDdDYW12dlAyN0xMVHhvRDFVWHZ2Smc2WHJzUUN0SDRGaEtvZ2VxenFVdXFIaG5TLVVMUm9KVm1yWnh0LUFTSm95UlhGbXNFTnBsSkpCQW5OSjUwVjVfUEkycVFNbmdEVlF2SElpZkhNMUxKQmlJcTZrMVNmMG5vTng3YmVIc3BCLWtTb0FUVHprWjVtZ2QtVEZsLTI1S09mUVdGUUhYRmQtUmh1cXFGbVBrdDlfcGJWZzE1YmZCY1dVcE5Pckp0SW5MS0dRVlV1bEtGYnhKeXRaY1hhZko5bmpuVkhFSnM5eXdrU3lyZEdPWlpTeVpNSVZfVEtVbzRuOXR0b0hPQzA0bGRwcDVVNGcwYzFkc2lEN2FMckdmSnV1cEdxbU1ZR0s3TlZaVGVIbTRkdGJSUnJGdmVzVld4YWZyQmxnV3BLNEh6LXN5dmZtZHlCNzhsVWp5SFFfTFN3RGl2UjF0c1dsT2RSdkNibVVCSUdfdVVHZVhmbS05ZUZJbkc4d0Z6eFVWbUZkSElsckJCSnFEdUZ0N3NLREVFcWNjWm85UW0xY1NIMmgxS0I5SjFUNE9kczF5VkFOQUJwZUJpRkhPR3VWZXpGdnRLM0pYOUZydHExbjZkeGVGdDJxRUVWb2lBSWdDVE9QQlRkVENNTnhQY3Z2Q2NvSjJNVjFyQ2xpN2lva3p2ZkxLRjVEX254YW9YOTdPRUxBYThNQUo3XzRMUU4xaGhDOW5uVWk1cEpyUmZiT0g3YmNHUmpNVEtLSU9jcWxsMFk3VWRJYmJxWUVwOW8tVEpnaUZpWEZMTk1KQkJ3YTZzU2lnT3BtdUZXeEd3Z1FDN21xT3I4dE5qa1Z5Z0o5TVNYanYtZ2pSc0ZtVG9KVXJPZktiWVowQlM5SmotQ0QyTThwckhDSFY0Yk9tMEZGS3pEN2E1cmpWZ1hxREhxbHJPekY3aUpsLXpjcTFybldreWtYMTZvd1IwVzRMQ2FyNUVtNlBKM0VDRnIzRVdRSE05Vl9aN0VKNEpMOHlIbTc1UEtneXozU3dMQi1tOU9Panp1S0VMbExNVEpYeEx2OG1jUlZyV196TEw4UUtNdmVmdFY1cWFUampSVXdxanNMZ2FrNDNWWjQzQ2EzR0gzUlgzRGUxVXhtWXZreEE3MFNNVENwTEJHR2lscUtPV1hXMHpDVFo2UC03WlY0UHdzRzNidjZvT1EzNVZ5VnBZdnFrNTRTR0kzd0JXOXR3ellxX3FuSEZNUmkyREw3cEFGdU1JNDUtQlJOcjhodmQ2aWVROExwbVZZbXNOTkFVU29hbWFuMUVsejA3VnVlRmVlYjRUcm9vYWZjbW1ST2ZMM3BzQkgtUDh1WGkxUUNrR29NdUMtMGwxd1BzUlo4eHdoQmEtRGdUUUJGSnVvYTRGbkVqYUZyZ0M3cU5vTU1oMEY5V0tRRmlIT1JDMTR1dFpITVNMR3Z1WWtDVmVHQUhEOG1fN05Tc0pqWmlIRUpzeGZqVlRKTXQxaVZXLWdBaUNWUEF6Y2g3c1B1QWR2OWx6NmtwS3Fkc0JjbE1HMExrdnFNVHZkQTdNaVdDakpuNmtPVkZ1ak84bWxwbXBSZjZENEFEZ3dHSnhXdDZpcWk0YkRvS1FuZkFhT1RBM2F2U0txcEw2bElhWXc3XzJJVng0MHJKOTZTSE55T0VUSXNsaUtxS3JkZTk3X0szM1p5ZzlLSVdnY0xsZmFGdS00YlM1Y2NQMFg4Mk5aRmtWMU53MVVWb0QzX2pOSi1TWjdpcUxuR2EzU2p3SHVQMU1tWldJYVNRY1A3OXpCQWVELW5acVl2Ml9LVnhxMVNnem1VWUM3QW9aS001N1FuclZNT1dKbm9GOUE?oc=5"
+source_confidence: "medium"
+published_at: "Fri, 30 Oct 2026 06:04:48 GMT"
+generated_at: "2026-10-30T11:45:28.658120+00:00"
+image_url: "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+trend: "outbreak"
+keywords:
+  - "outbreak"
+  - "outbreaks"
+  - "united states health news"
+  - "health trends"
+  - "medical news"
+  - "public health"
+  - "least"
+  - "sickened"
+  - "salmonella"
+  - "coli"
+  - "linked"
+  - "sprouts"
+  - "states"
+  - "hospitalized"
+  - "abc7"
+  - "area"
+---
+
+# At least 55 sickened in salmonella, E. coli outbreak linked to sprouts in 15 states; 4 hospitalized
+
+At least 55 sickened in salmonella, E. coli outbreak linked to sprouts in 15 states; 4 hospitalized ABC7 Bay Area
+
+## Why this topic is trending
+
+This update was selected because it is connected to a detected health trend in **United States**.
+
+Tracked trend: **outbreak**.
+
+## What happened
+
+This update is part of a wider health signal being monitored from public sources and regional news feeds. It may relate to public health, medical research, symptoms, outbreaks, treatments, wellness, healthcare systems, or health technology.
+
+## Why it matters
+
+- It may affect public awareness or online health searches.
+- It may be connected to health policy, disease monitoring, treatment updates, or scientific research.
+- The original source should be reviewed for full details and context.
+
+## Region
+
+**United States**
+
+## Category
+
+**Outbreaks**
+
+## Source context
+
+This article summarizes a public health signal from **Google News / United States**. HantaUpdates links to the original source so readers can verify details directly.
+
+## Medical disclaimer
+
+HantaUpdates does not provide medical advice, diagnosis, or treatment. Always follow guidance from your local health authority or a qualified medical professional.
