@@ -1,0 +1,66 @@
+---
+title: "Hand, foot and mouth disease not a notifiable condition says Public Health"
+description: "Hand, foot and mouth disease not a notifiable condition says Public Health Manx Radio"
+slug: "hand-foot-and-mouth-disease-not-a-notifiable-condition-says-public-health-b30f348bc8"
+category: "Europe Health"
+region: "United Kingdom"
+source: "Google News / United Kingdom"
+source_url: "https://news.google.com/rss/articles/CBMivwFBVV95cUxNWE5wMEZib3JVbERmMUtkZHJtcVhJUHp2TnBSS2ZjZDFFMG41bkEzWTA0M3pZVUMxNGFMOWp3VUFLRHh5Wi1WaThwd0ZQTkNUeUtwaEVOZF8yY0tKX1VNMmRYUWFrNEtMREx0cTlrWmdmcnVJckt1a1hjS2dsMDJzR0oteXZOcldnN2oxMVF4VEk4Yjk1QWVVelFvUlluMWRyUmdDb1RONktxVWYxcVVDX0M3cXpvc01PUWttc18wWQ?oc=5"
+source_confidence: "medium"
+published_at: "Thu, 29 Oct 2026 07:16:00 GMT"
+generated_at: "2026-11-02T13:58:04.337909+00:00"
+image_url: "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+trend: "disease"
+keywords:
+  - "disease"
+  - "europe health"
+  - "united kingdom health news"
+  - "health trends"
+  - "medical news"
+  - "public health"
+  - "hand"
+  - "foot"
+  - "mouth"
+  - "notifiable"
+  - "condition"
+  - "public"
+  - "health"
+  - "manx"
+  - "radio"
+---
+
+# Hand, foot and mouth disease not a notifiable condition says Public Health
+
+Hand, foot and mouth disease not a notifiable condition says Public Health Manx Radio
+
+## Why this topic is trending
+
+This update was selected because it is connected to a detected health trend in **United Kingdom**.
+
+Tracked trend: **disease**.
+
+## What happened
+
+This update is part of a wider health signal being monitored from public sources and regional news feeds. It may relate to public health, medical research, symptoms, outbreaks, treatments, wellness, healthcare systems, or health technology.
+
+## Why it matters
+
+- It may affect public awareness or online health searches.
+- It may be connected to health policy, disease monitoring, treatment updates, or scientific research.
+- The original source should be reviewed for full details and context.
+
+## Region
+
+**United Kingdom**
+
+## Category
+
+**Europe Health**
+
+## Source context
+
+This article summarizes a public health signal from **Google News / United Kingdom**. HantaUpdates links to the original source so readers can verify details directly.
+
+## Medical disclaimer
+
+HantaUpdates does not provide medical advice, diagnosis, or treatment. Always follow guidance from your local health authority or a qualified medical professional.
