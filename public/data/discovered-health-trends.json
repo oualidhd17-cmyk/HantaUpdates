@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-05T22:58:00.107617+00:00",
+  "updated_at": "2026-11-06T03:49:57.045587+00:00",
   "total_trends": 252,
   "markets": {
     "United States": [
@@ -7,31 +7,31 @@
         "trend": "health",
         "market_code": "US",
         "category": "US Health",
-        "score": 88,
+        "score": 84,
         "examples": [
-          "RFK Jr.’s Appointees to Health Task Force Included Four Allowed to Keep Drug Stocks - The New York Times",
-          "KFF Analyzes the Role of Health Care in the Midterms - Medicare Rights Center",
-          "Correctional Health Services Earns Full Accreditation - Utah.gov"
+          "Correctional Health Services Earns Full Accreditation - Utah.gov",
+          "Additional Recreational Dungeness Crab Area Delay in Portions of Humboldt County Due to Public Health Hazard - California Department of Fish and Wildlife (.gov)",
+          "KFF Analyzes the Role of Health Care in the Midterms - Medicare Rights Center"
         ]
       },
       {
         "trend": "medical",
         "market_code": "US",
         "category": "US Health",
-        "score": 22,
+        "score": 19,
         "examples": [
-          "Vandalia Health, osteopathic school to reopen labor, delivery services at Greenbrier Medical Center - West Virginia Watch",
-          "RWJBarnabas Health Medical Group Opens New Orthopedic Practice at Robert Wood Johnson University Hospital Rahway - RWJBarnabas Health",
-          "County Medical Examiner Seeks Public’s Help Identifying Children and Young Adults - San Diego County News Center"
+          "﻿Families question Cook County Medical Examiner after quick identification of 55 bodies in South Chicago Chapel funeral home case - ABC7 Chicago",
+          "County Medical Examiner Seeks Public’s Help Identifying Children and Young Adults - San Diego County News Center",
+          "Maryland Sen. Van Hollen questions medical care before Laurel man's death in ICE custody - CBS News"
         ]
       },
       {
         "trend": "measles",
         "market_code": "US",
         "category": "Outbreaks",
-        "score": 15,
+        "score": 13,
         "examples": [
-          "Health department warns of potential measles exposure at several Middle Tennessee locations. Here’s what to know - WSMV",
+          "Wisconsin reports infant death linked to measles outbreak - Reuters",
           "Measles exposure at Osage hospital prompts health warning - Globe Gazette",
           "HEALTH ALERT: First measles death reported in WI - WEAU"
         ]
@@ -40,40 +40,51 @@
         "trend": "outbreak",
         "market_code": "US",
         "category": "Outbreaks",
+        "score": 13,
+        "examples": [
+          "Wisconsin reports infant death linked to measles outbreak - Reuters",
+          "DRC Ebola outbreak 'growing exponentially,' UN says - DW.com",
+          "Infant’s death linked to measles outbreak in southwest Wisconsin - WPR"
+        ]
+      },
+      {
+        "trend": "public health",
+        "market_code": "US",
+        "category": "US Health",
         "score": 12,
         "examples": [
-          "Infant’s death linked to measles outbreak in southwest Wisconsin - WPR",
-          "Baby dies from measles amid ongoing outbreak in Wisconsin; 1st death of its kind since 1990, health officials say - ABC7 Chicago",
-          "Infant dies in measles outbreak in southwest Wisconsin - CBS News"
+          "Additional Recreational Dungeness Crab Area Delay in Portions of Humboldt County Due to Public Health Hazard - California Department of Fish and Wildlife (.gov)",
+          "Additional Recreational Dungeness Crab Area Delay in Portions of Humboldt County Due to Public Health Hazard - California Department of Fish and Wildlife (.gov)",
+          "Public health alumna finds career connections through mentor’s support - University of South Carolina"
         ]
       },
       {
         "trend": "mental",
         "market_code": "US",
         "category": "Mental Health",
-        "score": 11,
+        "score": 12,
         "examples": [
-          "'DaeLight Foundation' supports mental health of Camden community - 6abc Philadelphia",
-          "ASCAP Partners With Project Healthy Minds To Expand Mental Health Services - MusicRow.com",
-          "Mental Health Awareness During The Holidays - westmont.il.gov"
+          "FSU to amplify suicide prevention and mental health promotion with federal grant - Florida State University News",
+          "At HHS’s mental health agency, a suicide deepens anguish among workforce - Government Executive",
+          "Free Madison conference to focus on mental health among youth of color - WMTV 15 NEWS"
         ]
       },
       {
         "trend": "mental health",
         "market_code": "US",
         "category": "Mental Health",
-        "score": 10,
+        "score": 11,
         "examples": [
-          "'DaeLight Foundation' supports mental health of Camden community - 6abc Philadelphia",
-          "ASCAP Partners With Project Healthy Minds To Expand Mental Health Services - MusicRow.com",
-          "Mental Health Awareness During The Holidays - westmont.il.gov"
+          "FSU to amplify suicide prevention and mental health promotion with federal grant - Florida State University News",
+          "At HHS’s mental health agency, a suicide deepens anguish among workforce - Government Executive",
+          "Free Madison conference to focus on mental health among youth of color - WMTV 15 NEWS"
         ]
       },
       {
         "trend": "healthcare",
         "market_code": "US",
         "category": "US Health",
-        "score": 9,
+        "score": 10,
         "examples": [
           "Zocdoc opens infrastructure to AI agents, launches partnership with Instinct - Fierce Healthcare",
           "AI in Healthcare: Uses, Examples & Benefits - Built In",
@@ -84,11 +95,33 @@
         "trend": "children",
         "market_code": "US",
         "category": "Children Health",
+        "score": 9,
+        "examples": [
+          "On Demand: Understanding the Rise in Uninsured Children in Kansas - Kansas Health Institute",
+          "County Medical Examiner Seeks Public’s Help Identifying Children and Young Adults - San Diego County News Center",
+          "Virtual reality reduces anxiety among children awaiting surgery - News-Medical"
+        ]
+      },
+      {
+        "trend": "warning",
+        "market_code": "US",
+        "category": "US Health",
+        "score": 9,
+        "examples": [
+          "New drug detected in San Diego County's illegal drug supply, prompting health warning - cbs8.com",
+          "Godzilla Fans Should Know This Health Warning Before Seeing Minus One in Theaters - Yahoo",
+          "HEALTH FIRST: Novant Health surgeon highlights warning signs of GERD - WECT"
+        ]
+      },
+      {
+        "trend": "drug",
+        "market_code": "US",
+        "category": "Drug & Treatment News",
         "score": 8,
         "examples": [
-          "Kansas’ rate of children without health insurance tops national average for second year - Kansas Reflector",
-          "County Medical Examiner Seeks Public’s Help Identifying Children and Young Adults - San Diego County News Center",
-          "Protecting patients with sickle cell disease from pneumococcal infection after transplant - St. Jude Children's Research Hospital"
+          "RFK Jr.’s Appointees to Health Task Force Included Four Allowed to Keep Drug Stocks - The New York Times",
+          "New drug detected in San Diego County's illegal drug supply, prompting health warning - cbs8.com",
+          "New drug detected in San Diego County's illegal drug supply, prompting health warning - cbs8.com"
         ]
       },
       {
@@ -98,41 +131,8 @@
         "score": 8,
         "examples": [
           "RWJBarnabas Health Medical Group Opens New Orthopedic Practice at Robert Wood Johnson University Hospital Rahway - RWJBarnabas Health",
-          "RWJBarnabas Health Medical Group Opens New Orthopedic Practice at Robert Wood Johnson University Hospital Rahway - RWJBarnabas Health",
-          "Measles exposure at Osage hospital prompts health warning - Globe Gazette"
-        ]
-      },
-      {
-        "trend": "public health",
-        "market_code": "US",
-        "category": "US Health",
-        "score": 7,
-        "examples": [
-          "Johns Hopkins Bloomberg School of Public Health Wins Three Anthem Awards - Johns Hopkins Bloomberg School of Public Health",
-          "Johns Hopkins Bloomberg School of Public Health Wins Three Anthem Awards - Johns Hopkins Bloomberg School of Public Health",
-          "Public health alumna finds career connections through mentor’s support - University of South Carolina"
-        ]
-      },
-      {
-        "trend": "measles outbreak",
-        "market_code": "US",
-        "category": "Outbreaks",
-        "score": 7,
-        "examples": [
-          "Infant’s death linked to measles outbreak in southwest Wisconsin - WPR",
-          "Infant dies in measles outbreak in southwest Wisconsin - CBS News",
-          "Infant dies in Wisconsin measles outbreak - WBAY"
-        ]
-      },
-      {
-        "trend": "virus",
-        "market_code": "US",
-        "category": "Outbreaks",
-        "score": 7,
-        "examples": [
-          "Bird Flu Death in Washington State Renews Concern Over the Virus - The New York Times",
-          "The Fallacy of Empowered Leadership: A Global Virus - Forbes",
-          "DOH reports 11th travel-related dengue virus case of 2026 - Maui Now"
+          "Measles exposure at Osage hospital prompts health warning - Globe Gazette",
+          "Protecting patients with sickle cell disease from pneumococcal infection after transplant - St. Jude Children's Research Hospital"
         ]
       }
     ],
@@ -141,7 +141,7 @@
         "trend": "health",
         "market_code": "GB",
         "category": "Europe Health",
-        "score": 81,
+        "score": 75,
         "examples": [
           "Health and care sector latest developments - The NHS Alliance",
           "NHS launches mental health text service in the East of England - BBC",
@@ -152,7 +152,7 @@
         "trend": "medical",
         "market_code": "GB",
         "category": "Europe Health",
-        "score": 21,
+        "score": 20,
         "examples": [
           "MHRA sets out approach to strengthen patient and public involvement and engagement in medicines and medical device regulation - GOV.UK",
           "Man who posed as medical student at hospital fails to appear for sentencing - BBC",
@@ -163,33 +163,55 @@
         "trend": "mental",
         "market_code": "GB",
         "category": "Mental Health",
-        "score": 16,
+        "score": 14,
         "examples": [
           "NHS launches mental health text service in the East of England - BBC",
           "Mental health support is one message away - Epping Forest District Council",
-          "How independent gyms can support mental health - Centre for Mental Health"
+          "Cowboys laud mental health program put in place after Marshawn Kneeland's death - ESPN"
         ]
       },
       {
         "trend": "mental health",
         "market_code": "GB",
         "category": "Mental Health",
-        "score": 15,
+        "score": 13,
         "examples": [
           "NHS launches mental health text service in the East of England - BBC",
           "Mental health support is one message away - Epping Forest District Council",
-          "How independent gyms can support mental health - Centre for Mental Health"
+          "Cowboys laud mental health program put in place after Marshawn Kneeland's death - ESPN"
         ]
       },
       {
         "trend": "healthcare",
         "market_code": "GB",
         "category": "Europe Health",
-        "score": 14,
+        "score": 13,
         "examples": [
           "SPECIAL REPORT: Remodelling public health through AI - Healthcare Management Magazine",
           "AI in Healthcare: Uses, Examples & Benefits - Built In",
           "AI Healthcare Regulations in China: Medical AI Compliance - Asian Hospital & Healthcare Management"
+        ]
+      },
+      {
+        "trend": "hospital",
+        "market_code": "GB",
+        "category": "Europe Health",
+        "score": 8,
+        "examples": [
+          "Man who posed as medical student at hospital fails to appear for sentencing - BBC",
+          "UK doctor infected with Ebola being treated at London hospital - BBC",
+          "British Ebola patient evacuated from DR Congo arrives at London hospital - The Guardian"
+        ]
+      },
+      {
+        "trend": "warning",
+        "market_code": "GB",
+        "category": "Europe Health",
+        "score": 8,
+        "examples": [
+          "Big John Fisher reveals dramatic weight loss after Eddie Hall's stark health warning - The Independent",
+          "New health risk warning for anyone using almond, soy or oat milk - Wales Online",
+          "Tesco issues 'do not drink' warning as cartons recalled over health fears - Chronicle Live"
         ]
       },
       {
@@ -198,31 +220,9 @@
         "category": "Outbreaks",
         "score": 8,
         "examples": [
+          "DRC Ebola outbreak 'growing exponentially,' UN says - DW.com",
           "Bird flu outbreak confirmed at poultry farm near Brigg - BBC",
-          "Why the Ebola outbreak could ruin your next US holiday - The Telegraph",
-          "Two New Ebola Vaccine Candidates Recommended Amidst DRC Outbreak - EMJ"
-        ]
-      },
-      {
-        "trend": "hospital",
-        "market_code": "GB",
-        "category": "Europe Health",
-        "score": 7,
-        "examples": [
-          "Man who posed as medical student at hospital fails to appear for sentencing - BBC",
-          "UK doctor infected with Ebola being treated at London hospital - BBC",
-          "UK doctor infected with Ebola being treated at London hospital - BBC"
-        ]
-      },
-      {
-        "trend": "virus",
-        "market_code": "GB",
-        "category": "Outbreaks",
-        "score": 7,
-        "examples": [
-          "Health news watch: West Nile virus in Europe, Healthwatch retained and more - Nursing in Practice",
-          "Health news watch: West Nile virus in Europe, Healthwatch retained and more - Nursing in Practice",
-          "Bird Flu Death in Washington State Renews Concern Over the Virus - The New York Times"
+          "Why the Ebola outbreak could ruin your next US holiday - The Telegraph"
         ]
       },
       {
@@ -248,25 +248,25 @@
         ]
       },
       {
-        "trend": "research",
+        "trend": "children",
         "market_code": "GB",
-        "category": "Europe Health",
-        "score": 5,
+        "category": "Children Health",
+        "score": 6,
         "examples": [
-          "£6.2m funding for research to accelerate climate action for health - LSHTM",
-          "Two new candidate vaccines to join Ebola trial as treatment research advances - World Health Organization (WHO)",
-          "Cancer Survivors Face Elevated Heart Disease Risk, But New Research Shows Healthy Diets May Help - Everyday Health"
+          "‘Like a cliff edge’: young people with complex needs let down as they transition from children’s to adult services, experts find - UK Parliament",
+          "‘Like a cliff edge’: young people with complex needs let down as they transition from children’s to adult services, experts find - UK Parliament",
+          "How a Video Game-Based Pelvic Health Device Could Help Children Gain Control of Their GI Symptoms - University of Colorado Anschutz"
         ]
       },
       {
-        "trend": "doctors",
+        "trend": "virus",
         "market_code": "GB",
-        "category": "Europe Health",
-        "score": 5,
+        "category": "Outbreaks",
+        "score": 6,
         "examples": [
-          "When doctors and AI medical opinions diverge, humans must question the difference, according to experts - Medical Xpress",
-          "More Czechs turning to AI for health advice; doctors warn against relying on chatbots - Radio Prague International",
-          "1 in 3 teens face dating violence, and doctors should be on alert: pediatric society - CTV News"
+          "Health news watch: West Nile virus in Europe, Healthwatch retained and more - Nursing in Practice",
+          "Bird Flu Death in Washington State Renews Concern Over the Virus - The New York Times",
+          "EU labs bolster rare virus detection amid soaring epidemic risks - The Brussels Times"
         ]
       }
     ],
@@ -275,31 +275,31 @@
         "trend": "health",
         "market_code": "DE",
         "category": "Europe Health",
-        "score": 89,
+        "score": 83,
         "examples": [
-          "RFK Jr.’s Appointees to Health Task Force Included Four Allowed to Keep Drug Stocks - The New York Times",
-          "KFF Analyzes the Role of Health Care in the Midterms - Medicare Rights Center",
-          "Correctional Health Services Earns Full Accreditation - Utah.gov"
+          "Correctional Health Services Earns Full Accreditation - Utah.gov",
+          "Additional Recreational Dungeness Crab Area Delay in Portions of Humboldt County Due to Public Health Hazard - California Department of Fish and Wildlife (.gov)",
+          "KFF Analyzes the Role of Health Care in the Midterms - Medicare Rights Center"
         ]
       },
       {
         "trend": "medical",
         "market_code": "DE",
         "category": "Europe Health",
-        "score": 22,
+        "score": 19,
         "examples": [
-          "Vandalia Health, osteopathic school to reopen labor, delivery services at Greenbrier Medical Center - West Virginia Watch",
-          "RWJBarnabas Health Medical Group Opens New Orthopedic Practice at Robert Wood Johnson University Hospital Rahway - RWJBarnabas Health",
-          "County Medical Examiner Seeks Public’s Help Identifying Children and Young Adults - San Diego County News Center"
+          "﻿Families question Cook County Medical Examiner after quick identification of 55 bodies in South Chicago Chapel funeral home case - ABC7 Chicago",
+          "County Medical Examiner Seeks Public’s Help Identifying Children and Young Adults - San Diego County News Center",
+          "Maryland Sen. Van Hollen questions medical care before Laurel man's death in ICE custody - CBS News"
         ]
       },
       {
         "trend": "measles",
         "market_code": "DE",
         "category": "Outbreaks",
-        "score": 15,
+        "score": 13,
         "examples": [
-          "Health department warns of potential measles exposure at several Middle Tennessee locations. Here’s what to know - WSMV",
+          "Wisconsin reports infant death linked to measles outbreak - Reuters",
           "Measles exposure at Osage hospital prompts health warning - Globe Gazette",
           "HEALTH ALERT: First measles death reported in WI - WEAU"
         ]
@@ -308,11 +308,22 @@
         "trend": "outbreak",
         "market_code": "DE",
         "category": "Outbreaks",
+        "score": 13,
+        "examples": [
+          "Wisconsin reports infant death linked to measles outbreak - Reuters",
+          "DRC Ebola outbreak 'growing exponentially,' UN says - DW.com",
+          "Infant’s death linked to measles outbreak in southwest Wisconsin - WPR"
+        ]
+      },
+      {
+        "trend": "public health",
+        "market_code": "DE",
+        "category": "Europe Health",
         "score": 12,
         "examples": [
-          "Infant’s death linked to measles outbreak in southwest Wisconsin - WPR",
-          "Baby dies from measles amid ongoing outbreak in Wisconsin; 1st death of its kind since 1990, health officials say - ABC7 Chicago",
-          "Infant dies in measles outbreak in southwest Wisconsin - CBS News"
+          "Additional Recreational Dungeness Crab Area Delay in Portions of Humboldt County Due to Public Health Hazard - California Department of Fish and Wildlife (.gov)",
+          "Additional Recreational Dungeness Crab Area Delay in Portions of Humboldt County Due to Public Health Hazard - California Department of Fish and Wildlife (.gov)",
+          "Public health alumna finds career connections through mentor’s support - University of South Carolina"
         ]
       },
       {
@@ -321,9 +332,9 @@
         "category": "Mental Health",
         "score": 12,
         "examples": [
-          "'DaeLight Foundation' supports mental health of Camden community - 6abc Philadelphia",
-          "ASCAP Partners With Project Healthy Minds To Expand Mental Health Services - MusicRow.com",
-          "Mental Health Awareness During The Holidays - westmont.il.gov"
+          "St. Tammany Parish budget hearing sparks emotional debate over mental health services - WDSU",
+          "FSU to amplify suicide prevention and mental health promotion with federal grant - Florida State University News",
+          "At HHS’s mental health agency, a suicide deepens anguish among workforce - Government Executive"
         ]
       },
       {
@@ -332,16 +343,16 @@
         "category": "Mental Health",
         "score": 11,
         "examples": [
-          "'DaeLight Foundation' supports mental health of Camden community - 6abc Philadelphia",
-          "ASCAP Partners With Project Healthy Minds To Expand Mental Health Services - MusicRow.com",
-          "Mental Health Awareness During The Holidays - westmont.il.gov"
+          "St. Tammany Parish budget hearing sparks emotional debate over mental health services - WDSU",
+          "FSU to amplify suicide prevention and mental health promotion with federal grant - Florida State University News",
+          "At HHS’s mental health agency, a suicide deepens anguish among workforce - Government Executive"
         ]
       },
       {
         "trend": "healthcare",
         "market_code": "DE",
         "category": "Europe Health",
-        "score": 9,
+        "score": 10,
         "examples": [
           "Zocdoc opens infrastructure to AI agents, launches partnership with Instinct - Fierce Healthcare",
           "AI in Healthcare: Uses, Examples & Benefits - Built In",
@@ -352,11 +363,11 @@
         "trend": "children",
         "market_code": "DE",
         "category": "Children Health",
-        "score": 8,
+        "score": 9,
         "examples": [
-          "Kansas’ rate of children without health insurance tops national average for second year - Kansas Reflector",
+          "On Demand: Understanding the Rise in Uninsured Children in Kansas - Kansas Health Institute",
           "County Medical Examiner Seeks Public’s Help Identifying Children and Young Adults - San Diego County News Center",
-          "Protecting patients with sickle cell disease from pneumococcal infection after transplant - St. Jude Children's Research Hospital"
+          "Virtual reality reduces anxiety among children awaiting surgery - News-Medical"
         ]
       },
       {
@@ -366,30 +377,19 @@
         "score": 8,
         "examples": [
           "RWJBarnabas Health Medical Group Opens New Orthopedic Practice at Robert Wood Johnson University Hospital Rahway - RWJBarnabas Health",
-          "RWJBarnabas Health Medical Group Opens New Orthopedic Practice at Robert Wood Johnson University Hospital Rahway - RWJBarnabas Health",
-          "Measles exposure at Osage hospital prompts health warning - Globe Gazette"
+          "Measles exposure at Osage hospital prompts health warning - Globe Gazette",
+          "Protecting patients with sickle cell disease from pneumococcal infection after transplant - St. Jude Children's Research Hospital"
         ]
       },
       {
-        "trend": "public health",
+        "trend": "warning",
         "market_code": "DE",
         "category": "Europe Health",
-        "score": 7,
+        "score": 8,
         "examples": [
-          "Johns Hopkins Bloomberg School of Public Health Wins Three Anthem Awards - Johns Hopkins Bloomberg School of Public Health",
-          "Johns Hopkins Bloomberg School of Public Health Wins Three Anthem Awards - Johns Hopkins Bloomberg School of Public Health",
-          "Public health alumna finds career connections through mentor’s support - University of South Carolina"
-        ]
-      },
-      {
-        "trend": "measles outbreak",
-        "market_code": "DE",
-        "category": "Outbreaks",
-        "score": 7,
-        "examples": [
-          "Infant’s death linked to measles outbreak in southwest Wisconsin - WPR",
-          "Infant dies in measles outbreak in southwest Wisconsin - CBS News",
-          "Infant dies in Wisconsin measles outbreak - WBAY"
+          "New drug detected in San Diego County's illegal drug supply, prompting health warning - cbs8.com",
+          "Godzilla Fans Should Know This Health Warning Before Seeing Minus One in Theaters - Yahoo",
+          "HEALTH FIRST: Novant Health surgeon highlights warning signs of GERD - WECT"
         ]
       },
       {
@@ -399,8 +399,8 @@
         "score": 7,
         "examples": [
           "Bird Flu Death in Washington State Renews Concern Over the Virus - The New York Times",
-          "The Fallacy of Empowered Leadership: A Global Virus - Forbes",
-          "DOH reports 11th travel-related dengue virus case of 2026 - Maui Now"
+          "Mosquito spraying planned in Anderson County after West Nile virus case - WYFF",
+          "The Fallacy of Empowered Leadership: A Global Virus - Forbes"
         ]
       }
     ],
@@ -409,31 +409,31 @@
         "trend": "health",
         "market_code": "FR",
         "category": "Europe Health",
-        "score": 89,
+        "score": 83,
         "examples": [
-          "RFK Jr.’s Appointees to Health Task Force Included Four Allowed to Keep Drug Stocks - The New York Times",
-          "KFF Analyzes the Role of Health Care in the Midterms - Medicare Rights Center",
-          "Correctional Health Services Earns Full Accreditation - Utah.gov"
+          "Correctional Health Services Earns Full Accreditation - Utah.gov",
+          "Additional Recreational Dungeness Crab Area Delay in Portions of Humboldt County Due to Public Health Hazard - California Department of Fish and Wildlife (.gov)",
+          "KFF Analyzes the Role of Health Care in the Midterms - Medicare Rights Center"
         ]
       },
       {
         "trend": "medical",
         "market_code": "FR",
         "category": "Europe Health",
-        "score": 22,
+        "score": 19,
         "examples": [
-          "Vandalia Health, osteopathic school to reopen labor, delivery services at Greenbrier Medical Center - West Virginia Watch",
-          "RWJBarnabas Health Medical Group Opens New Orthopedic Practice at Robert Wood Johnson University Hospital Rahway - RWJBarnabas Health",
-          "County Medical Examiner Seeks Public’s Help Identifying Children and Young Adults - San Diego County News Center"
+          "﻿Families question Cook County Medical Examiner after quick identification of 55 bodies in South Chicago Chapel funeral home case - ABC7 Chicago",
+          "County Medical Examiner Seeks Public’s Help Identifying Children and Young Adults - San Diego County News Center",
+          "Maryland Sen. Van Hollen questions medical care before Laurel man's death in ICE custody - CBS News"
         ]
       },
       {
         "trend": "measles",
         "market_code": "FR",
         "category": "Outbreaks",
-        "score": 15,
+        "score": 13,
         "examples": [
-          "Health department warns of potential measles exposure at several Middle Tennessee locations. Here’s what to know - WSMV",
+          "Wisconsin reports infant death linked to measles outbreak - Reuters",
           "Measles exposure at Osage hospital prompts health warning - Globe Gazette",
           "HEALTH ALERT: First measles death reported in WI - WEAU"
         ]
@@ -442,11 +442,22 @@
         "trend": "outbreak",
         "market_code": "FR",
         "category": "Outbreaks",
+        "score": 13,
+        "examples": [
+          "Wisconsin reports infant death linked to measles outbreak - Reuters",
+          "DRC Ebola outbreak 'growing exponentially,' UN says - DW.com",
+          "Infant’s death linked to measles outbreak in southwest Wisconsin - WPR"
+        ]
+      },
+      {
+        "trend": "public health",
+        "market_code": "FR",
+        "category": "Europe Health",
         "score": 12,
         "examples": [
-          "Infant’s death linked to measles outbreak in southwest Wisconsin - WPR",
-          "Baby dies from measles amid ongoing outbreak in Wisconsin; 1st death of its kind since 1990, health officials say - ABC7 Chicago",
-          "Infant dies in measles outbreak in southwest Wisconsin - CBS News"
+          "Additional Recreational Dungeness Crab Area Delay in Portions of Humboldt County Due to Public Health Hazard - California Department of Fish and Wildlife (.gov)",
+          "Additional Recreational Dungeness Crab Area Delay in Portions of Humboldt County Due to Public Health Hazard - California Department of Fish and Wildlife (.gov)",
+          "Public health alumna finds career connections through mentor’s support - University of South Carolina"
         ]
       },
       {
@@ -455,9 +466,9 @@
         "category": "Mental Health",
         "score": 12,
         "examples": [
-          "'DaeLight Foundation' supports mental health of Camden community - 6abc Philadelphia",
-          "ASCAP Partners With Project Healthy Minds To Expand Mental Health Services - MusicRow.com",
-          "Mental Health Awareness During The Holidays - westmont.il.gov"
+          "St. Tammany Parish budget hearing sparks emotional debate over mental health services - WDSU",
+          "FSU to amplify suicide prevention and mental health promotion with federal grant - Florida State University News",
+          "At HHS’s mental health agency, a suicide deepens anguish among workforce - Government Executive"
         ]
       },
       {
@@ -466,16 +477,16 @@
         "category": "Mental Health",
         "score": 11,
         "examples": [
-          "'DaeLight Foundation' supports mental health of Camden community - 6abc Philadelphia",
-          "ASCAP Partners With Project Healthy Minds To Expand Mental Health Services - MusicRow.com",
-          "Mental Health Awareness During The Holidays - westmont.il.gov"
+          "St. Tammany Parish budget hearing sparks emotional debate over mental health services - WDSU",
+          "FSU to amplify suicide prevention and mental health promotion with federal grant - Florida State University News",
+          "At HHS’s mental health agency, a suicide deepens anguish among workforce - Government Executive"
         ]
       },
       {
         "trend": "healthcare",
         "market_code": "FR",
         "category": "Europe Health",
-        "score": 9,
+        "score": 10,
         "examples": [
           "Zocdoc opens infrastructure to AI agents, launches partnership with Instinct - Fierce Healthcare",
           "AI in Healthcare: Uses, Examples & Benefits - Built In",
@@ -486,11 +497,11 @@
         "trend": "children",
         "market_code": "FR",
         "category": "Children Health",
-        "score": 8,
+        "score": 9,
         "examples": [
-          "Kansas’ rate of children without health insurance tops national average for second year - Kansas Reflector",
+          "On Demand: Understanding the Rise in Uninsured Children in Kansas - Kansas Health Institute",
           "County Medical Examiner Seeks Public’s Help Identifying Children and Young Adults - San Diego County News Center",
-          "Protecting patients with sickle cell disease from pneumococcal infection after transplant - St. Jude Children's Research Hospital"
+          "Virtual reality reduces anxiety among children awaiting surgery - News-Medical"
         ]
       },
       {
@@ -500,30 +511,19 @@
         "score": 8,
         "examples": [
           "RWJBarnabas Health Medical Group Opens New Orthopedic Practice at Robert Wood Johnson University Hospital Rahway - RWJBarnabas Health",
-          "RWJBarnabas Health Medical Group Opens New Orthopedic Practice at Robert Wood Johnson University Hospital Rahway - RWJBarnabas Health",
-          "Measles exposure at Osage hospital prompts health warning - Globe Gazette"
+          "Measles exposure at Osage hospital prompts health warning - Globe Gazette",
+          "Protecting patients with sickle cell disease from pneumococcal infection after transplant - St. Jude Children's Research Hospital"
         ]
       },
       {
-        "trend": "public health",
+        "trend": "warning",
         "market_code": "FR",
         "category": "Europe Health",
-        "score": 7,
+        "score": 8,
         "examples": [
-          "Johns Hopkins Bloomberg School of Public Health Wins Three Anthem Awards - Johns Hopkins Bloomberg School of Public Health",
-          "Johns Hopkins Bloomberg School of Public Health Wins Three Anthem Awards - Johns Hopkins Bloomberg School of Public Health",
-          "Public health alumna finds career connections through mentor’s support - University of South Carolina"
-        ]
-      },
-      {
-        "trend": "measles outbreak",
-        "market_code": "FR",
-        "category": "Outbreaks",
-        "score": 7,
-        "examples": [
-          "Infant’s death linked to measles outbreak in southwest Wisconsin - WPR",
-          "Infant dies in measles outbreak in southwest Wisconsin - CBS News",
-          "Infant dies in Wisconsin measles outbreak - WBAY"
+          "New drug detected in San Diego County's illegal drug supply, prompting health warning - cbs8.com",
+          "Godzilla Fans Should Know This Health Warning Before Seeing Minus One in Theaters - Yahoo",
+          "HEALTH FIRST: Novant Health surgeon highlights warning signs of GERD - WECT"
         ]
       },
       {
@@ -533,8 +533,8 @@
         "score": 7,
         "examples": [
           "Bird Flu Death in Washington State Renews Concern Over the Virus - The New York Times",
-          "The Fallacy of Empowered Leadership: A Global Virus - Forbes",
-          "DOH reports 11th travel-related dengue virus case of 2026 - Maui Now"
+          "Mosquito spraying planned in Anderson County after West Nile virus case - WYFF",
+          "The Fallacy of Empowered Leadership: A Global Virus - Forbes"
         ]
       }
     ],
@@ -543,31 +543,31 @@
         "trend": "health",
         "market_code": "IT",
         "category": "Europe Health",
-        "score": 89,
+        "score": 83,
         "examples": [
-          "RFK Jr.’s Appointees to Health Task Force Included Four Allowed to Keep Drug Stocks - The New York Times",
-          "KFF Analyzes the Role of Health Care in the Midterms - Medicare Rights Center",
-          "Correctional Health Services Earns Full Accreditation - Utah.gov"
+          "Correctional Health Services Earns Full Accreditation - Utah.gov",
+          "Additional Recreational Dungeness Crab Area Delay in Portions of Humboldt County Due to Public Health Hazard - California Department of Fish and Wildlife (.gov)",
+          "KFF Analyzes the Role of Health Care in the Midterms - Medicare Rights Center"
         ]
       },
       {
         "trend": "medical",
         "market_code": "IT",
         "category": "Europe Health",
-        "score": 22,
+        "score": 19,
         "examples": [
-          "Vandalia Health, osteopathic school to reopen labor, delivery services at Greenbrier Medical Center - West Virginia Watch",
-          "RWJBarnabas Health Medical Group Opens New Orthopedic Practice at Robert Wood Johnson University Hospital Rahway - RWJBarnabas Health",
-          "County Medical Examiner Seeks Public’s Help Identifying Children and Young Adults - San Diego County News Center"
+          "﻿Families question Cook County Medical Examiner after quick identification of 55 bodies in South Chicago Chapel funeral home case - ABC7 Chicago",
+          "County Medical Examiner Seeks Public’s Help Identifying Children and Young Adults - San Diego County News Center",
+          "Maryland Sen. Van Hollen questions medical care before Laurel man's death in ICE custody - CBS News"
         ]
       },
       {
         "trend": "measles",
         "market_code": "IT",
         "category": "Outbreaks",
-        "score": 15,
+        "score": 13,
         "examples": [
-          "Health department warns of potential measles exposure at several Middle Tennessee locations. Here’s what to know - WSMV",
+          "Wisconsin reports infant death linked to measles outbreak - Reuters",
           "Measles exposure at Osage hospital prompts health warning - Globe Gazette",
           "HEALTH ALERT: First measles death reported in WI - WEAU"
         ]
@@ -576,11 +576,22 @@
         "trend": "outbreak",
         "market_code": "IT",
         "category": "Outbreaks",
+        "score": 13,
+        "examples": [
+          "Wisconsin reports infant death linked to measles outbreak - Reuters",
+          "DRC Ebola outbreak 'growing exponentially,' UN says - DW.com",
+          "Infant’s death linked to measles outbreak in southwest Wisconsin - WPR"
+        ]
+      },
+      {
+        "trend": "public health",
+        "market_code": "IT",
+        "category": "Europe Health",
         "score": 12,
         "examples": [
-          "Infant’s death linked to measles outbreak in southwest Wisconsin - WPR",
-          "Baby dies from measles amid ongoing outbreak in Wisconsin; 1st death of its kind since 1990, health officials say - ABC7 Chicago",
-          "Infant dies in measles outbreak in southwest Wisconsin - CBS News"
+          "Additional Recreational Dungeness Crab Area Delay in Portions of Humboldt County Due to Public Health Hazard - California Department of Fish and Wildlife (.gov)",
+          "Additional Recreational Dungeness Crab Area Delay in Portions of Humboldt County Due to Public Health Hazard - California Department of Fish and Wildlife (.gov)",
+          "Public health alumna finds career connections through mentor’s support - University of South Carolina"
         ]
       },
       {
@@ -589,9 +600,9 @@
         "category": "Mental Health",
         "score": 12,
         "examples": [
-          "'DaeLight Foundation' supports mental health of Camden community - 6abc Philadelphia",
-          "ASCAP Partners With Project Healthy Minds To Expand Mental Health Services - MusicRow.com",
-          "Mental Health Awareness During The Holidays - westmont.il.gov"
+          "St. Tammany Parish budget hearing sparks emotional debate over mental health services - WDSU",
+          "FSU to amplify suicide prevention and mental health promotion with federal grant - Florida State University News",
+          "At HHS’s mental health agency, a suicide deepens anguish among workforce - Government Executive"
         ]
       },
       {
@@ -600,16 +611,16 @@
         "category": "Mental Health",
         "score": 11,
         "examples": [
-          "'DaeLight Foundation' supports mental health of Camden community - 6abc Philadelphia",
-          "ASCAP Partners With Project Healthy Minds To Expand Mental Health Services - MusicRow.com",
-          "Mental Health Awareness During The Holidays - westmont.il.gov"
+          "St. Tammany Parish budget hearing sparks emotional debate over mental health services - WDSU",
+          "FSU to amplify suicide prevention and mental health promotion with federal grant - Florida State University News",
+          "At HHS’s mental health agency, a suicide deepens anguish among workforce - Government Executive"
         ]
       },
       {
         "trend": "healthcare",
         "market_code": "IT",
         "category": "Europe Health",
-        "score": 9,
+        "score": 10,
         "examples": [
           "Zocdoc opens infrastructure to AI agents, launches partnership with Instinct - Fierce Healthcare",
           "AI in Healthcare: Uses, Examples & Benefits - Built In",
@@ -620,11 +631,11 @@
         "trend": "children",
         "market_code": "IT",
         "category": "Children Health",
-        "score": 8,
+        "score": 9,
         "examples": [
-          "Kansas’ rate of children without health insurance tops national average for second year - Kansas Reflector",
+          "On Demand: Understanding the Rise in Uninsured Children in Kansas - Kansas Health Institute",
           "County Medical Examiner Seeks Public’s Help Identifying Children and Young Adults - San Diego County News Center",
-          "Protecting patients with sickle cell disease from pneumococcal infection after transplant - St. Jude Children's Research Hospital"
+          "Virtual reality reduces anxiety among children awaiting surgery - News-Medical"
         ]
       },
       {
@@ -634,30 +645,19 @@
         "score": 8,
         "examples": [
           "RWJBarnabas Health Medical Group Opens New Orthopedic Practice at Robert Wood Johnson University Hospital Rahway - RWJBarnabas Health",
-          "RWJBarnabas Health Medical Group Opens New Orthopedic Practice at Robert Wood Johnson University Hospital Rahway - RWJBarnabas Health",
-          "Measles exposure at Osage hospital prompts health warning - Globe Gazette"
+          "Measles exposure at Osage hospital prompts health warning - Globe Gazette",
+          "Protecting patients with sickle cell disease from pneumococcal infection after transplant - St. Jude Children's Research Hospital"
         ]
       },
       {
-        "trend": "public health",
+        "trend": "warning",
         "market_code": "IT",
         "category": "Europe Health",
-        "score": 7,
+        "score": 8,
         "examples": [
-          "Johns Hopkins Bloomberg School of Public Health Wins Three Anthem Awards - Johns Hopkins Bloomberg School of Public Health",
-          "Johns Hopkins Bloomberg School of Public Health Wins Three Anthem Awards - Johns Hopkins Bloomberg School of Public Health",
-          "Public health alumna finds career connections through mentor’s support - University of South Carolina"
-        ]
-      },
-      {
-        "trend": "measles outbreak",
-        "market_code": "IT",
-        "category": "Outbreaks",
-        "score": 7,
-        "examples": [
-          "Infant’s death linked to measles outbreak in southwest Wisconsin - WPR",
-          "Infant dies in measles outbreak in southwest Wisconsin - CBS News",
-          "Infant dies in Wisconsin measles outbreak - WBAY"
+          "New drug detected in San Diego County's illegal drug supply, prompting health warning - cbs8.com",
+          "Godzilla Fans Should Know This Health Warning Before Seeing Minus One in Theaters - Yahoo",
+          "HEALTH FIRST: Novant Health surgeon highlights warning signs of GERD - WECT"
         ]
       },
       {
@@ -667,8 +667,8 @@
         "score": 7,
         "examples": [
           "Bird Flu Death in Washington State Renews Concern Over the Virus - The New York Times",
-          "The Fallacy of Empowered Leadership: A Global Virus - Forbes",
-          "DOH reports 11th travel-related dengue virus case of 2026 - Maui Now"
+          "Mosquito spraying planned in Anderson County after West Nile virus case - WYFF",
+          "The Fallacy of Empowered Leadership: A Global Virus - Forbes"
         ]
       }
     ],
@@ -677,31 +677,31 @@
         "trend": "health",
         "market_code": "ES",
         "category": "Europe Health",
-        "score": 89,
+        "score": 83,
         "examples": [
-          "RFK Jr.’s Appointees to Health Task Force Included Four Allowed to Keep Drug Stocks - The New York Times",
-          "KFF Analyzes the Role of Health Care in the Midterms - Medicare Rights Center",
-          "Correctional Health Services Earns Full Accreditation - Utah.gov"
+          "Correctional Health Services Earns Full Accreditation - Utah.gov",
+          "Additional Recreational Dungeness Crab Area Delay in Portions of Humboldt County Due to Public Health Hazard - California Department of Fish and Wildlife (.gov)",
+          "KFF Analyzes the Role of Health Care in the Midterms - Medicare Rights Center"
         ]
       },
       {
         "trend": "medical",
         "market_code": "ES",
         "category": "Europe Health",
-        "score": 22,
+        "score": 19,
         "examples": [
-          "Vandalia Health, osteopathic school to reopen labor, delivery services at Greenbrier Medical Center - West Virginia Watch",
-          "RWJBarnabas Health Medical Group Opens New Orthopedic Practice at Robert Wood Johnson University Hospital Rahway - RWJBarnabas Health",
-          "County Medical Examiner Seeks Public’s Help Identifying Children and Young Adults - San Diego County News Center"
+          "﻿Families question Cook County Medical Examiner after quick identification of 55 bodies in South Chicago Chapel funeral home case - ABC7 Chicago",
+          "County Medical Examiner Seeks Public’s Help Identifying Children and Young Adults - San Diego County News Center",
+          "Maryland Sen. Van Hollen questions medical care before Laurel man's death in ICE custody - CBS News"
         ]
       },
       {
         "trend": "measles",
         "market_code": "ES",
         "category": "Outbreaks",
-        "score": 15,
+        "score": 13,
         "examples": [
-          "Health department warns of potential measles exposure at several Middle Tennessee locations. Here’s what to know - WSMV",
+          "Wisconsin reports infant death linked to measles outbreak - Reuters",
           "Measles exposure at Osage hospital prompts health warning - Globe Gazette",
           "HEALTH ALERT: First measles death reported in WI - WEAU"
         ]
@@ -710,11 +710,22 @@
         "trend": "outbreak",
         "market_code": "ES",
         "category": "Outbreaks",
+        "score": 13,
+        "examples": [
+          "Wisconsin reports infant death linked to measles outbreak - Reuters",
+          "DRC Ebola outbreak 'growing exponentially,' UN says - DW.com",
+          "Infant’s death linked to measles outbreak in southwest Wisconsin - WPR"
+        ]
+      },
+      {
+        "trend": "public health",
+        "market_code": "ES",
+        "category": "Europe Health",
         "score": 12,
         "examples": [
-          "Infant’s death linked to measles outbreak in southwest Wisconsin - WPR",
-          "Baby dies from measles amid ongoing outbreak in Wisconsin; 1st death of its kind since 1990, health officials say - ABC7 Chicago",
-          "Infant dies in measles outbreak in southwest Wisconsin - CBS News"
+          "Additional Recreational Dungeness Crab Area Delay in Portions of Humboldt County Due to Public Health Hazard - California Department of Fish and Wildlife (.gov)",
+          "Additional Recreational Dungeness Crab Area Delay in Portions of Humboldt County Due to Public Health Hazard - California Department of Fish and Wildlife (.gov)",
+          "Public health alumna finds career connections through mentor’s support - University of South Carolina"
         ]
       },
       {
@@ -723,9 +734,9 @@
         "category": "Mental Health",
         "score": 12,
         "examples": [
-          "'DaeLight Foundation' supports mental health of Camden community - 6abc Philadelphia",
-          "ASCAP Partners With Project Healthy Minds To Expand Mental Health Services - MusicRow.com",
-          "Mental Health Awareness During The Holidays - westmont.il.gov"
+          "St. Tammany Parish budget hearing sparks emotional debate over mental health services - WDSU",
+          "FSU to amplify suicide prevention and mental health promotion with federal grant - Florida State University News",
+          "At HHS’s mental health agency, a suicide deepens anguish among workforce - Government Executive"
         ]
       },
       {
@@ -734,16 +745,16 @@
         "category": "Mental Health",
         "score": 11,
         "examples": [
-          "'DaeLight Foundation' supports mental health of Camden community - 6abc Philadelphia",
-          "ASCAP Partners With Project Healthy Minds To Expand Mental Health Services - MusicRow.com",
-          "Mental Health Awareness During The Holidays - westmont.il.gov"
+          "St. Tammany Parish budget hearing sparks emotional debate over mental health services - WDSU",
+          "FSU to amplify suicide prevention and mental health promotion with federal grant - Florida State University News",
+          "At HHS’s mental health agency, a suicide deepens anguish among workforce - Government Executive"
         ]
       },
       {
         "trend": "healthcare",
         "market_code": "ES",
         "category": "Europe Health",
-        "score": 9,
+        "score": 10,
         "examples": [
           "Zocdoc opens infrastructure to AI agents, launches partnership with Instinct - Fierce Healthcare",
           "AI in Healthcare: Uses, Examples & Benefits - Built In",
@@ -754,11 +765,11 @@
         "trend": "children",
         "market_code": "ES",
         "category": "Children Health",
-        "score": 8,
+        "score": 9,
         "examples": [
-          "Kansas’ rate of children without health insurance tops national average for second year - Kansas Reflector",
+          "On Demand: Understanding the Rise in Uninsured Children in Kansas - Kansas Health Institute",
           "County Medical Examiner Seeks Public’s Help Identifying Children and Young Adults - San Diego County News Center",
-          "Protecting patients with sickle cell disease from pneumococcal infection after transplant - St. Jude Children's Research Hospital"
+          "Virtual reality reduces anxiety among children awaiting surgery - News-Medical"
         ]
       },
       {
@@ -768,30 +779,19 @@
         "score": 8,
         "examples": [
           "RWJBarnabas Health Medical Group Opens New Orthopedic Practice at Robert Wood Johnson University Hospital Rahway - RWJBarnabas Health",
-          "RWJBarnabas Health Medical Group Opens New Orthopedic Practice at Robert Wood Johnson University Hospital Rahway - RWJBarnabas Health",
-          "Measles exposure at Osage hospital prompts health warning - Globe Gazette"
+          "Measles exposure at Osage hospital prompts health warning - Globe Gazette",
+          "Protecting patients with sickle cell disease from pneumococcal infection after transplant - St. Jude Children's Research Hospital"
         ]
       },
       {
-        "trend": "public health",
+        "trend": "warning",
         "market_code": "ES",
         "category": "Europe Health",
-        "score": 7,
+        "score": 8,
         "examples": [
-          "Johns Hopkins Bloomberg School of Public Health Wins Three Anthem Awards - Johns Hopkins Bloomberg School of Public Health",
-          "Johns Hopkins Bloomberg School of Public Health Wins Three Anthem Awards - Johns Hopkins Bloomberg School of Public Health",
-          "Public health alumna finds career connections through mentor’s support - University of South Carolina"
-        ]
-      },
-      {
-        "trend": "measles outbreak",
-        "market_code": "ES",
-        "category": "Outbreaks",
-        "score": 7,
-        "examples": [
-          "Infant’s death linked to measles outbreak in southwest Wisconsin - WPR",
-          "Infant dies in measles outbreak in southwest Wisconsin - CBS News",
-          "Infant dies in Wisconsin measles outbreak - WBAY"
+          "New drug detected in San Diego County's illegal drug supply, prompting health warning - cbs8.com",
+          "Godzilla Fans Should Know This Health Warning Before Seeing Minus One in Theaters - Yahoo",
+          "HEALTH FIRST: Novant Health surgeon highlights warning signs of GERD - WECT"
         ]
       },
       {
@@ -801,8 +801,8 @@
         "score": 7,
         "examples": [
           "Bird Flu Death in Washington State Renews Concern Over the Virus - The New York Times",
-          "The Fallacy of Empowered Leadership: A Global Virus - Forbes",
-          "DOH reports 11th travel-related dengue virus case of 2026 - Maui Now"
+          "Mosquito spraying planned in Anderson County after West Nile virus case - WYFF",
+          "The Fallacy of Empowered Leadership: A Global Virus - Forbes"
         ]
       }
     ],
@@ -811,31 +811,31 @@
         "trend": "health",
         "market_code": "SE",
         "category": "Europe Health",
-        "score": 89,
+        "score": 83,
         "examples": [
-          "RFK Jr.’s Appointees to Health Task Force Included Four Allowed to Keep Drug Stocks - The New York Times",
-          "KFF Analyzes the Role of Health Care in the Midterms - Medicare Rights Center",
-          "Correctional Health Services Earns Full Accreditation - Utah.gov"
+          "Correctional Health Services Earns Full Accreditation - Utah.gov",
+          "Additional Recreational Dungeness Crab Area Delay in Portions of Humboldt County Due to Public Health Hazard - California Department of Fish and Wildlife (.gov)",
+          "KFF Analyzes the Role of Health Care in the Midterms - Medicare Rights Center"
         ]
       },
       {
         "trend": "medical",
         "market_code": "SE",
         "category": "Europe Health",
-        "score": 22,
+        "score": 19,
         "examples": [
-          "Vandalia Health, osteopathic school to reopen labor, delivery services at Greenbrier Medical Center - West Virginia Watch",
-          "RWJBarnabas Health Medical Group Opens New Orthopedic Practice at Robert Wood Johnson University Hospital Rahway - RWJBarnabas Health",
-          "County Medical Examiner Seeks Public’s Help Identifying Children and Young Adults - San Diego County News Center"
+          "﻿Families question Cook County Medical Examiner after quick identification of 55 bodies in South Chicago Chapel funeral home case - ABC7 Chicago",
+          "County Medical Examiner Seeks Public’s Help Identifying Children and Young Adults - San Diego County News Center",
+          "Maryland Sen. Van Hollen questions medical care before Laurel man's death in ICE custody - CBS News"
         ]
       },
       {
         "trend": "measles",
         "market_code": "SE",
         "category": "Outbreaks",
-        "score": 15,
+        "score": 13,
         "examples": [
-          "Health department warns of potential measles exposure at several Middle Tennessee locations. Here’s what to know - WSMV",
+          "Wisconsin reports infant death linked to measles outbreak - Reuters",
           "Measles exposure at Osage hospital prompts health warning - Globe Gazette",
           "HEALTH ALERT: First measles death reported in WI - WEAU"
         ]
@@ -844,11 +844,22 @@
         "trend": "outbreak",
         "market_code": "SE",
         "category": "Outbreaks",
+        "score": 13,
+        "examples": [
+          "Wisconsin reports infant death linked to measles outbreak - Reuters",
+          "DRC Ebola outbreak 'growing exponentially,' UN says - DW.com",
+          "Infant’s death linked to measles outbreak in southwest Wisconsin - WPR"
+        ]
+      },
+      {
+        "trend": "public health",
+        "market_code": "SE",
+        "category": "Europe Health",
         "score": 12,
         "examples": [
-          "Infant’s death linked to measles outbreak in southwest Wisconsin - WPR",
-          "Baby dies from measles amid ongoing outbreak in Wisconsin; 1st death of its kind since 1990, health officials say - ABC7 Chicago",
-          "Infant dies in measles outbreak in southwest Wisconsin - CBS News"
+          "Additional Recreational Dungeness Crab Area Delay in Portions of Humboldt County Due to Public Health Hazard - California Department of Fish and Wildlife (.gov)",
+          "Additional Recreational Dungeness Crab Area Delay in Portions of Humboldt County Due to Public Health Hazard - California Department of Fish and Wildlife (.gov)",
+          "Public health alumna finds career connections through mentor’s support - University of South Carolina"
         ]
       },
       {
@@ -857,9 +868,9 @@
         "category": "Mental Health",
         "score": 12,
         "examples": [
-          "'DaeLight Foundation' supports mental health of Camden community - 6abc Philadelphia",
-          "ASCAP Partners With Project Healthy Minds To Expand Mental Health Services - MusicRow.com",
-          "Mental Health Awareness During The Holidays - westmont.il.gov"
+          "St. Tammany Parish budget hearing sparks emotional debate over mental health services - WDSU",
+          "FSU to amplify suicide prevention and mental health promotion with federal grant - Florida State University News",
+          "At HHS’s mental health agency, a suicide deepens anguish among workforce - Government Executive"
         ]
       },
       {
@@ -868,16 +879,16 @@
         "category": "Mental Health",
         "score": 11,
         "examples": [
-          "'DaeLight Foundation' supports mental health of Camden community - 6abc Philadelphia",
-          "ASCAP Partners With Project Healthy Minds To Expand Mental Health Services - MusicRow.com",
-          "Mental Health Awareness During The Holidays - westmont.il.gov"
+          "St. Tammany Parish budget hearing sparks emotional debate over mental health services - WDSU",
+          "FSU to amplify suicide prevention and mental health promotion with federal grant - Florida State University News",
+          "At HHS’s mental health agency, a suicide deepens anguish among workforce - Government Executive"
         ]
       },
       {
         "trend": "healthcare",
         "market_code": "SE",
         "category": "Europe Health",
-        "score": 9,
+        "score": 10,
         "examples": [
           "Zocdoc opens infrastructure to AI agents, launches partnership with Instinct - Fierce Healthcare",
           "AI in Healthcare: Uses, Examples & Benefits - Built In",
@@ -888,11 +899,11 @@
         "trend": "children",
         "market_code": "SE",
         "category": "Children Health",
-        "score": 8,
+        "score": 9,
         "examples": [
-          "Kansas’ rate of children without health insurance tops national average for second year - Kansas Reflector",
+          "On Demand: Understanding the Rise in Uninsured Children in Kansas - Kansas Health Institute",
           "County Medical Examiner Seeks Public’s Help Identifying Children and Young Adults - San Diego County News Center",
-          "Protecting patients with sickle cell disease from pneumococcal infection after transplant - St. Jude Children's Research Hospital"
+          "Virtual reality reduces anxiety among children awaiting surgery - News-Medical"
         ]
       },
       {
@@ -902,30 +913,19 @@
         "score": 8,
         "examples": [
           "RWJBarnabas Health Medical Group Opens New Orthopedic Practice at Robert Wood Johnson University Hospital Rahway - RWJBarnabas Health",
-          "RWJBarnabas Health Medical Group Opens New Orthopedic Practice at Robert Wood Johnson University Hospital Rahway - RWJBarnabas Health",
-          "Measles exposure at Osage hospital prompts health warning - Globe Gazette"
+          "Measles exposure at Osage hospital prompts health warning - Globe Gazette",
+          "Protecting patients with sickle cell disease from pneumococcal infection after transplant - St. Jude Children's Research Hospital"
         ]
       },
       {
-        "trend": "public health",
+        "trend": "warning",
         "market_code": "SE",
         "category": "Europe Health",
-        "score": 7,
+        "score": 8,
         "examples": [
-          "Johns Hopkins Bloomberg School of Public Health Wins Three Anthem Awards - Johns Hopkins Bloomberg School of Public Health",
-          "Johns Hopkins Bloomberg School of Public Health Wins Three Anthem Awards - Johns Hopkins Bloomberg School of Public Health",
-          "Public health alumna finds career connections through mentor’s support - University of South Carolina"
-        ]
-      },
-      {
-        "trend": "measles outbreak",
-        "market_code": "SE",
-        "category": "Outbreaks",
-        "score": 7,
-        "examples": [
-          "Infant’s death linked to measles outbreak in southwest Wisconsin - WPR",
-          "Infant dies in measles outbreak in southwest Wisconsin - CBS News",
-          "Infant dies in Wisconsin measles outbreak - WBAY"
+          "New drug detected in San Diego County's illegal drug supply, prompting health warning - cbs8.com",
+          "Godzilla Fans Should Know This Health Warning Before Seeing Minus One in Theaters - Yahoo",
+          "HEALTH FIRST: Novant Health surgeon highlights warning signs of GERD - WECT"
         ]
       },
       {
@@ -935,8 +935,8 @@
         "score": 7,
         "examples": [
           "Bird Flu Death in Washington State Renews Concern Over the Virus - The New York Times",
-          "The Fallacy of Empowered Leadership: A Global Virus - Forbes",
-          "DOH reports 11th travel-related dengue virus case of 2026 - Maui Now"
+          "Mosquito spraying planned in Anderson County after West Nile virus case - WYFF",
+          "The Fallacy of Empowered Leadership: A Global Virus - Forbes"
         ]
       }
     ],
@@ -945,31 +945,31 @@
         "trend": "health",
         "market_code": "NL",
         "category": "Europe Health",
-        "score": 89,
+        "score": 83,
         "examples": [
-          "RFK Jr.’s Appointees to Health Task Force Included Four Allowed to Keep Drug Stocks - The New York Times",
-          "KFF Analyzes the Role of Health Care in the Midterms - Medicare Rights Center",
-          "Correctional Health Services Earns Full Accreditation - Utah.gov"
+          "Correctional Health Services Earns Full Accreditation - Utah.gov",
+          "Additional Recreational Dungeness Crab Area Delay in Portions of Humboldt County Due to Public Health Hazard - California Department of Fish and Wildlife (.gov)",
+          "KFF Analyzes the Role of Health Care in the Midterms - Medicare Rights Center"
         ]
       },
       {
         "trend": "medical",
         "market_code": "NL",
         "category": "Europe Health",
-        "score": 22,
+        "score": 19,
         "examples": [
-          "Vandalia Health, osteopathic school to reopen labor, delivery services at Greenbrier Medical Center - West Virginia Watch",
-          "RWJBarnabas Health Medical Group Opens New Orthopedic Practice at Robert Wood Johnson University Hospital Rahway - RWJBarnabas Health",
-          "County Medical Examiner Seeks Public’s Help Identifying Children and Young Adults - San Diego County News Center"
+          "﻿Families question Cook County Medical Examiner after quick identification of 55 bodies in South Chicago Chapel funeral home case - ABC7 Chicago",
+          "County Medical Examiner Seeks Public’s Help Identifying Children and Young Adults - San Diego County News Center",
+          "Maryland Sen. Van Hollen questions medical care before Laurel man's death in ICE custody - CBS News"
         ]
       },
       {
         "trend": "measles",
         "market_code": "NL",
         "category": "Outbreaks",
-        "score": 15,
+        "score": 13,
         "examples": [
-          "Health department warns of potential measles exposure at several Middle Tennessee locations. Here’s what to know - WSMV",
+          "Wisconsin reports infant death linked to measles outbreak - Reuters",
           "Measles exposure at Osage hospital prompts health warning - Globe Gazette",
           "HEALTH ALERT: First measles death reported in WI - WEAU"
         ]
@@ -978,11 +978,22 @@
         "trend": "outbreak",
         "market_code": "NL",
         "category": "Outbreaks",
+        "score": 13,
+        "examples": [
+          "Wisconsin reports infant death linked to measles outbreak - Reuters",
+          "DRC Ebola outbreak 'growing exponentially,' UN says - DW.com",
+          "Infant’s death linked to measles outbreak in southwest Wisconsin - WPR"
+        ]
+      },
+      {
+        "trend": "public health",
+        "market_code": "NL",
+        "category": "Europe Health",
         "score": 12,
         "examples": [
-          "Infant’s death linked to measles outbreak in southwest Wisconsin - WPR",
-          "Baby dies from measles amid ongoing outbreak in Wisconsin; 1st death of its kind since 1990, health officials say - ABC7 Chicago",
-          "Infant dies in measles outbreak in southwest Wisconsin - CBS News"
+          "Additional Recreational Dungeness Crab Area Delay in Portions of Humboldt County Due to Public Health Hazard - California Department of Fish and Wildlife (.gov)",
+          "Additional Recreational Dungeness Crab Area Delay in Portions of Humboldt County Due to Public Health Hazard - California Department of Fish and Wildlife (.gov)",
+          "Public health alumna finds career connections through mentor’s support - University of South Carolina"
         ]
       },
       {
@@ -991,9 +1002,9 @@
         "category": "Mental Health",
         "score": 12,
         "examples": [
-          "'DaeLight Foundation' supports mental health of Camden community - 6abc Philadelphia",
-          "ASCAP Partners With Project Healthy Minds To Expand Mental Health Services - MusicRow.com",
-          "Mental Health Awareness During The Holidays - westmont.il.gov"
+          "St. Tammany Parish budget hearing sparks emotional debate over mental health services - WDSU",
+          "FSU to amplify suicide prevention and mental health promotion with federal grant - Florida State University News",
+          "At HHS’s mental health agency, a suicide deepens anguish among workforce - Government Executive"
         ]
       },
       {
@@ -1002,16 +1013,16 @@
         "category": "Mental Health",
         "score": 11,
         "examples": [
-          "'DaeLight Foundation' supports mental health of Camden community - 6abc Philadelphia",
-          "ASCAP Partners With Project Healthy Minds To Expand Mental Health Services - MusicRow.com",
-          "Mental Health Awareness During The Holidays - westmont.il.gov"
+          "St. Tammany Parish budget hearing sparks emotional debate over mental health services - WDSU",
+          "FSU to amplify suicide prevention and mental health promotion with federal grant - Florida State University News",
+          "At HHS’s mental health agency, a suicide deepens anguish among workforce - Government Executive"
         ]
       },
       {
         "trend": "healthcare",
         "market_code": "NL",
         "category": "Europe Health",
-        "score": 9,
+        "score": 10,
         "examples": [
           "Zocdoc opens infrastructure to AI agents, launches partnership with Instinct - Fierce Healthcare",
           "AI in Healthcare: Uses, Examples & Benefits - Built In",
@@ -1022,11 +1033,11 @@
         "trend": "children",
         "market_code": "NL",
         "category": "Children Health",
-        "score": 8,
+        "score": 9,
         "examples": [
-          "Kansas’ rate of children without health insurance tops national average for second year - Kansas Reflector",
+          "On Demand: Understanding the Rise in Uninsured Children in Kansas - Kansas Health Institute",
           "County Medical Examiner Seeks Public’s Help Identifying Children and Young Adults - San Diego County News Center",
-          "Protecting patients with sickle cell disease from pneumococcal infection after transplant - St. Jude Children's Research Hospital"
+          "Virtual reality reduces anxiety among children awaiting surgery - News-Medical"
         ]
       },
       {
@@ -1036,30 +1047,19 @@
         "score": 8,
         "examples": [
           "RWJBarnabas Health Medical Group Opens New Orthopedic Practice at Robert Wood Johnson University Hospital Rahway - RWJBarnabas Health",
-          "RWJBarnabas Health Medical Group Opens New Orthopedic Practice at Robert Wood Johnson University Hospital Rahway - RWJBarnabas Health",
-          "Measles exposure at Osage hospital prompts health warning - Globe Gazette"
+          "Measles exposure at Osage hospital prompts health warning - Globe Gazette",
+          "Protecting patients with sickle cell disease from pneumococcal infection after transplant - St. Jude Children's Research Hospital"
         ]
       },
       {
-        "trend": "public health",
+        "trend": "warning",
         "market_code": "NL",
         "category": "Europe Health",
-        "score": 7,
+        "score": 8,
         "examples": [
-          "Johns Hopkins Bloomberg School of Public Health Wins Three Anthem Awards - Johns Hopkins Bloomberg School of Public Health",
-          "Johns Hopkins Bloomberg School of Public Health Wins Three Anthem Awards - Johns Hopkins Bloomberg School of Public Health",
-          "Public health alumna finds career connections through mentor’s support - University of South Carolina"
-        ]
-      },
-      {
-        "trend": "measles outbreak",
-        "market_code": "NL",
-        "category": "Outbreaks",
-        "score": 7,
-        "examples": [
-          "Infant’s death linked to measles outbreak in southwest Wisconsin - WPR",
-          "Infant dies in measles outbreak in southwest Wisconsin - CBS News",
-          "Infant dies in Wisconsin measles outbreak - WBAY"
+          "New drug detected in San Diego County's illegal drug supply, prompting health warning - cbs8.com",
+          "Godzilla Fans Should Know This Health Warning Before Seeing Minus One in Theaters - Yahoo",
+          "HEALTH FIRST: Novant Health surgeon highlights warning signs of GERD - WECT"
         ]
       },
       {
@@ -1069,8 +1069,8 @@
         "score": 7,
         "examples": [
           "Bird Flu Death in Washington State Renews Concern Over the Virus - The New York Times",
-          "The Fallacy of Empowered Leadership: A Global Virus - Forbes",
-          "DOH reports 11th travel-related dengue virus case of 2026 - Maui Now"
+          "Mosquito spraying planned in Anderson County after West Nile virus case - WYFF",
+          "The Fallacy of Empowered Leadership: A Global Virus - Forbes"
         ]
       }
     ],
@@ -1079,31 +1079,31 @@
         "trend": "health",
         "market_code": "FI",
         "category": "Europe Health",
-        "score": 89,
+        "score": 83,
         "examples": [
-          "RFK Jr.’s Appointees to Health Task Force Included Four Allowed to Keep Drug Stocks - The New York Times",
-          "KFF Analyzes the Role of Health Care in the Midterms - Medicare Rights Center",
-          "Correctional Health Services Earns Full Accreditation - Utah.gov"
+          "Correctional Health Services Earns Full Accreditation - Utah.gov",
+          "Additional Recreational Dungeness Crab Area Delay in Portions of Humboldt County Due to Public Health Hazard - California Department of Fish and Wildlife (.gov)",
+          "KFF Analyzes the Role of Health Care in the Midterms - Medicare Rights Center"
         ]
       },
       {
         "trend": "medical",
         "market_code": "FI",
         "category": "Europe Health",
-        "score": 22,
+        "score": 19,
         "examples": [
-          "Vandalia Health, osteopathic school to reopen labor, delivery services at Greenbrier Medical Center - West Virginia Watch",
-          "RWJBarnabas Health Medical Group Opens New Orthopedic Practice at Robert Wood Johnson University Hospital Rahway - RWJBarnabas Health",
-          "County Medical Examiner Seeks Public’s Help Identifying Children and Young Adults - San Diego County News Center"
+          "﻿Families question Cook County Medical Examiner after quick identification of 55 bodies in South Chicago Chapel funeral home case - ABC7 Chicago",
+          "County Medical Examiner Seeks Public’s Help Identifying Children and Young Adults - San Diego County News Center",
+          "Maryland Sen. Van Hollen questions medical care before Laurel man's death in ICE custody - CBS News"
         ]
       },
       {
         "trend": "measles",
         "market_code": "FI",
         "category": "Outbreaks",
-        "score": 15,
+        "score": 13,
         "examples": [
-          "Health department warns of potential measles exposure at several Middle Tennessee locations. Here’s what to know - WSMV",
+          "Wisconsin reports infant death linked to measles outbreak - Reuters",
           "Measles exposure at Osage hospital prompts health warning - Globe Gazette",
           "HEALTH ALERT: First measles death reported in WI - WEAU"
         ]
@@ -1112,11 +1112,22 @@
         "trend": "outbreak",
         "market_code": "FI",
         "category": "Outbreaks",
+        "score": 13,
+        "examples": [
+          "Wisconsin reports infant death linked to measles outbreak - Reuters",
+          "DRC Ebola outbreak 'growing exponentially,' UN says - DW.com",
+          "Infant’s death linked to measles outbreak in southwest Wisconsin - WPR"
+        ]
+      },
+      {
+        "trend": "public health",
+        "market_code": "FI",
+        "category": "Europe Health",
         "score": 12,
         "examples": [
-          "Infant’s death linked to measles outbreak in southwest Wisconsin - WPR",
-          "Baby dies from measles amid ongoing outbreak in Wisconsin; 1st death of its kind since 1990, health officials say - ABC7 Chicago",
-          "Infant dies in measles outbreak in southwest Wisconsin - CBS News"
+          "Additional Recreational Dungeness Crab Area Delay in Portions of Humboldt County Due to Public Health Hazard - California Department of Fish and Wildlife (.gov)",
+          "Additional Recreational Dungeness Crab Area Delay in Portions of Humboldt County Due to Public Health Hazard - California Department of Fish and Wildlife (.gov)",
+          "Public health alumna finds career connections through mentor’s support - University of South Carolina"
         ]
       },
       {
@@ -1125,9 +1136,9 @@
         "category": "Mental Health",
         "score": 12,
         "examples": [
-          "'DaeLight Foundation' supports mental health of Camden community - 6abc Philadelphia",
-          "ASCAP Partners With Project Healthy Minds To Expand Mental Health Services - MusicRow.com",
-          "Mental Health Awareness During The Holidays - westmont.il.gov"
+          "St. Tammany Parish budget hearing sparks emotional debate over mental health services - WDSU",
+          "FSU to amplify suicide prevention and mental health promotion with federal grant - Florida State University News",
+          "At HHS’s mental health agency, a suicide deepens anguish among workforce - Government Executive"
         ]
       },
       {
@@ -1136,16 +1147,16 @@
         "category": "Mental Health",
         "score": 11,
         "examples": [
-          "'DaeLight Foundation' supports mental health of Camden community - 6abc Philadelphia",
-          "ASCAP Partners With Project Healthy Minds To Expand Mental Health Services - MusicRow.com",
-          "Mental Health Awareness During The Holidays - westmont.il.gov"
+          "St. Tammany Parish budget hearing sparks emotional debate over mental health services - WDSU",
+          "FSU to amplify suicide prevention and mental health promotion with federal grant - Florida State University News",
+          "At HHS’s mental health agency, a suicide deepens anguish among workforce - Government Executive"
         ]
       },
       {
         "trend": "healthcare",
         "market_code": "FI",
         "category": "Europe Health",
-        "score": 9,
+        "score": 10,
         "examples": [
           "Zocdoc opens infrastructure to AI agents, launches partnership with Instinct - Fierce Healthcare",
           "AI in Healthcare: Uses, Examples & Benefits - Built In",
@@ -1156,11 +1167,11 @@
         "trend": "children",
         "market_code": "FI",
         "category": "Children Health",
-        "score": 8,
+        "score": 9,
         "examples": [
-          "Kansas’ rate of children without health insurance tops national average for second year - Kansas Reflector",
+          "On Demand: Understanding the Rise in Uninsured Children in Kansas - Kansas Health Institute",
           "County Medical Examiner Seeks Public’s Help Identifying Children and Young Adults - San Diego County News Center",
-          "Protecting patients with sickle cell disease from pneumococcal infection after transplant - St. Jude Children's Research Hospital"
+          "Virtual reality reduces anxiety among children awaiting surgery - News-Medical"
         ]
       },
       {
@@ -1170,30 +1181,19 @@
         "score": 8,
         "examples": [
           "RWJBarnabas Health Medical Group Opens New Orthopedic Practice at Robert Wood Johnson University Hospital Rahway - RWJBarnabas Health",
-          "RWJBarnabas Health Medical Group Opens New Orthopedic Practice at Robert Wood Johnson University Hospital Rahway - RWJBarnabas Health",
-          "Measles exposure at Osage hospital prompts health warning - Globe Gazette"
+          "Measles exposure at Osage hospital prompts health warning - Globe Gazette",
+          "Protecting patients with sickle cell disease from pneumococcal infection after transplant - St. Jude Children's Research Hospital"
         ]
       },
       {
-        "trend": "public health",
+        "trend": "warning",
         "market_code": "FI",
         "category": "Europe Health",
-        "score": 7,
+        "score": 8,
         "examples": [
-          "Johns Hopkins Bloomberg School of Public Health Wins Three Anthem Awards - Johns Hopkins Bloomberg School of Public Health",
-          "Johns Hopkins Bloomberg School of Public Health Wins Three Anthem Awards - Johns Hopkins Bloomberg School of Public Health",
-          "Public health alumna finds career connections through mentor’s support - University of South Carolina"
-        ]
-      },
-      {
-        "trend": "measles outbreak",
-        "market_code": "FI",
-        "category": "Outbreaks",
-        "score": 7,
-        "examples": [
-          "Infant’s death linked to measles outbreak in southwest Wisconsin - WPR",
-          "Infant dies in measles outbreak in southwest Wisconsin - CBS News",
-          "Infant dies in Wisconsin measles outbreak - WBAY"
+          "New drug detected in San Diego County's illegal drug supply, prompting health warning - cbs8.com",
+          "Godzilla Fans Should Know This Health Warning Before Seeing Minus One in Theaters - Yahoo",
+          "HEALTH FIRST: Novant Health surgeon highlights warning signs of GERD - WECT"
         ]
       },
       {
@@ -1203,8 +1203,8 @@
         "score": 7,
         "examples": [
           "Bird Flu Death in Washington State Renews Concern Over the Virus - The New York Times",
-          "The Fallacy of Empowered Leadership: A Global Virus - Forbes",
-          "DOH reports 11th travel-related dengue virus case of 2026 - Maui Now"
+          "Mosquito spraying planned in Anderson County after West Nile virus case - WYFF",
+          "The Fallacy of Empowered Leadership: A Global Virus - Forbes"
         ]
       }
     ],
@@ -1213,31 +1213,31 @@
         "trend": "health",
         "market_code": "NO",
         "category": "Europe Health",
-        "score": 89,
+        "score": 83,
         "examples": [
-          "RFK Jr.’s Appointees to Health Task Force Included Four Allowed to Keep Drug Stocks - The New York Times",
-          "KFF Analyzes the Role of Health Care in the Midterms - Medicare Rights Center",
-          "Correctional Health Services Earns Full Accreditation - Utah.gov"
+          "Correctional Health Services Earns Full Accreditation - Utah.gov",
+          "Additional Recreational Dungeness Crab Area Delay in Portions of Humboldt County Due to Public Health Hazard - California Department of Fish and Wildlife (.gov)",
+          "KFF Analyzes the Role of Health Care in the Midterms - Medicare Rights Center"
         ]
       },
       {
         "trend": "medical",
         "market_code": "NO",
         "category": "Europe Health",
-        "score": 22,
+        "score": 19,
         "examples": [
-          "Vandalia Health, osteopathic school to reopen labor, delivery services at Greenbrier Medical Center - West Virginia Watch",
-          "RWJBarnabas Health Medical Group Opens New Orthopedic Practice at Robert Wood Johnson University Hospital Rahway - RWJBarnabas Health",
-          "County Medical Examiner Seeks Public’s Help Identifying Children and Young Adults - San Diego County News Center"
+          "﻿Families question Cook County Medical Examiner after quick identification of 55 bodies in South Chicago Chapel funeral home case - ABC7 Chicago",
+          "County Medical Examiner Seeks Public’s Help Identifying Children and Young Adults - San Diego County News Center",
+          "Maryland Sen. Van Hollen questions medical care before Laurel man's death in ICE custody - CBS News"
         ]
       },
       {
         "trend": "measles",
         "market_code": "NO",
         "category": "Outbreaks",
-        "score": 15,
+        "score": 13,
         "examples": [
-          "Health department warns of potential measles exposure at several Middle Tennessee locations. Here’s what to know - WSMV",
+          "Wisconsin reports infant death linked to measles outbreak - Reuters",
           "Measles exposure at Osage hospital prompts health warning - Globe Gazette",
           "HEALTH ALERT: First measles death reported in WI - WEAU"
         ]
@@ -1246,11 +1246,22 @@
         "trend": "outbreak",
         "market_code": "NO",
         "category": "Outbreaks",
+        "score": 13,
+        "examples": [
+          "Wisconsin reports infant death linked to measles outbreak - Reuters",
+          "DRC Ebola outbreak 'growing exponentially,' UN says - DW.com",
+          "Infant’s death linked to measles outbreak in southwest Wisconsin - WPR"
+        ]
+      },
+      {
+        "trend": "public health",
+        "market_code": "NO",
+        "category": "Europe Health",
         "score": 12,
         "examples": [
-          "Infant’s death linked to measles outbreak in southwest Wisconsin - WPR",
-          "Baby dies from measles amid ongoing outbreak in Wisconsin; 1st death of its kind since 1990, health officials say - ABC7 Chicago",
-          "Infant dies in measles outbreak in southwest Wisconsin - CBS News"
+          "Additional Recreational Dungeness Crab Area Delay in Portions of Humboldt County Due to Public Health Hazard - California Department of Fish and Wildlife (.gov)",
+          "Additional Recreational Dungeness Crab Area Delay in Portions of Humboldt County Due to Public Health Hazard - California Department of Fish and Wildlife (.gov)",
+          "Public health alumna finds career connections through mentor’s support - University of South Carolina"
         ]
       },
       {
@@ -1259,9 +1270,9 @@
         "category": "Mental Health",
         "score": 12,
         "examples": [
-          "'DaeLight Foundation' supports mental health of Camden community - 6abc Philadelphia",
-          "ASCAP Partners With Project Healthy Minds To Expand Mental Health Services - MusicRow.com",
-          "Mental Health Awareness During The Holidays - westmont.il.gov"
+          "St. Tammany Parish budget hearing sparks emotional debate over mental health services - WDSU",
+          "FSU to amplify suicide prevention and mental health promotion with federal grant - Florida State University News",
+          "At HHS’s mental health agency, a suicide deepens anguish among workforce - Government Executive"
         ]
       },
       {
@@ -1270,16 +1281,16 @@
         "category": "Mental Health",
         "score": 11,
         "examples": [
-          "'DaeLight Foundation' supports mental health of Camden community - 6abc Philadelphia",
-          "ASCAP Partners With Project Healthy Minds To Expand Mental Health Services - MusicRow.com",
-          "Mental Health Awareness During The Holidays - westmont.il.gov"
+          "St. Tammany Parish budget hearing sparks emotional debate over mental health services - WDSU",
+          "FSU to amplify suicide prevention and mental health promotion with federal grant - Florida State University News",
+          "At HHS’s mental health agency, a suicide deepens anguish among workforce - Government Executive"
         ]
       },
       {
         "trend": "healthcare",
         "market_code": "NO",
         "category": "Europe Health",
-        "score": 9,
+        "score": 10,
         "examples": [
           "Zocdoc opens infrastructure to AI agents, launches partnership with Instinct - Fierce Healthcare",
           "AI in Healthcare: Uses, Examples & Benefits - Built In",
@@ -1290,11 +1301,11 @@
         "trend": "children",
         "market_code": "NO",
         "category": "Children Health",
-        "score": 8,
+        "score": 9,
         "examples": [
-          "Kansas’ rate of children without health insurance tops national average for second year - Kansas Reflector",
+          "On Demand: Understanding the Rise in Uninsured Children in Kansas - Kansas Health Institute",
           "County Medical Examiner Seeks Public’s Help Identifying Children and Young Adults - San Diego County News Center",
-          "Protecting patients with sickle cell disease from pneumococcal infection after transplant - St. Jude Children's Research Hospital"
+          "Virtual reality reduces anxiety among children awaiting surgery - News-Medical"
         ]
       },
       {
@@ -1304,30 +1315,19 @@
         "score": 8,
         "examples": [
           "RWJBarnabas Health Medical Group Opens New Orthopedic Practice at Robert Wood Johnson University Hospital Rahway - RWJBarnabas Health",
-          "RWJBarnabas Health Medical Group Opens New Orthopedic Practice at Robert Wood Johnson University Hospital Rahway - RWJBarnabas Health",
-          "Measles exposure at Osage hospital prompts health warning - Globe Gazette"
+          "Measles exposure at Osage hospital prompts health warning - Globe Gazette",
+          "Protecting patients with sickle cell disease from pneumococcal infection after transplant - St. Jude Children's Research Hospital"
         ]
       },
       {
-        "trend": "public health",
+        "trend": "warning",
         "market_code": "NO",
         "category": "Europe Health",
-        "score": 7,
+        "score": 8,
         "examples": [
-          "Johns Hopkins Bloomberg School of Public Health Wins Three Anthem Awards - Johns Hopkins Bloomberg School of Public Health",
-          "Johns Hopkins Bloomberg School of Public Health Wins Three Anthem Awards - Johns Hopkins Bloomberg School of Public Health",
-          "Public health alumna finds career connections through mentor’s support - University of South Carolina"
-        ]
-      },
-      {
-        "trend": "measles outbreak",
-        "market_code": "NO",
-        "category": "Outbreaks",
-        "score": 7,
-        "examples": [
-          "Infant’s death linked to measles outbreak in southwest Wisconsin - WPR",
-          "Infant dies in measles outbreak in southwest Wisconsin - CBS News",
-          "Infant dies in Wisconsin measles outbreak - WBAY"
+          "New drug detected in San Diego County's illegal drug supply, prompting health warning - cbs8.com",
+          "Godzilla Fans Should Know This Health Warning Before Seeing Minus One in Theaters - Yahoo",
+          "HEALTH FIRST: Novant Health surgeon highlights warning signs of GERD - WECT"
         ]
       },
       {
@@ -1337,8 +1337,8 @@
         "score": 7,
         "examples": [
           "Bird Flu Death in Washington State Renews Concern Over the Virus - The New York Times",
-          "The Fallacy of Empowered Leadership: A Global Virus - Forbes",
-          "DOH reports 11th travel-related dengue virus case of 2026 - Maui Now"
+          "Mosquito spraying planned in Anderson County after West Nile virus case - WYFF",
+          "The Fallacy of Empowered Leadership: A Global Virus - Forbes"
         ]
       }
     ],
@@ -1347,31 +1347,31 @@
         "trend": "health",
         "market_code": "JP",
         "category": "Asia Health",
-        "score": 89,
+        "score": 83,
         "examples": [
-          "RFK Jr.’s Appointees to Health Task Force Included Four Allowed to Keep Drug Stocks - The New York Times",
-          "KFF Analyzes the Role of Health Care in the Midterms - Medicare Rights Center",
-          "Correctional Health Services Earns Full Accreditation - Utah.gov"
+          "Correctional Health Services Earns Full Accreditation - Utah.gov",
+          "Additional Recreational Dungeness Crab Area Delay in Portions of Humboldt County Due to Public Health Hazard - California Department of Fish and Wildlife (.gov)",
+          "KFF Analyzes the Role of Health Care in the Midterms - Medicare Rights Center"
         ]
       },
       {
         "trend": "medical",
         "market_code": "JP",
         "category": "Asia Health",
-        "score": 22,
+        "score": 19,
         "examples": [
-          "Vandalia Health, osteopathic school to reopen labor, delivery services at Greenbrier Medical Center - West Virginia Watch",
-          "RWJBarnabas Health Medical Group Opens New Orthopedic Practice at Robert Wood Johnson University Hospital Rahway - RWJBarnabas Health",
-          "County Medical Examiner Seeks Public’s Help Identifying Children and Young Adults - San Diego County News Center"
+          "﻿Families question Cook County Medical Examiner after quick identification of 55 bodies in South Chicago Chapel funeral home case - ABC7 Chicago",
+          "County Medical Examiner Seeks Public’s Help Identifying Children and Young Adults - San Diego County News Center",
+          "Maryland Sen. Van Hollen questions medical care before Laurel man's death in ICE custody - CBS News"
         ]
       },
       {
         "trend": "measles",
         "market_code": "JP",
         "category": "Outbreaks",
-        "score": 15,
+        "score": 13,
         "examples": [
-          "Health department warns of potential measles exposure at several Middle Tennessee locations. Here’s what to know - WSMV",
+          "Wisconsin reports infant death linked to measles outbreak - Reuters",
           "Measles exposure at Osage hospital prompts health warning - Globe Gazette",
           "HEALTH ALERT: First measles death reported in WI - WEAU"
         ]
@@ -1380,11 +1380,22 @@
         "trend": "outbreak",
         "market_code": "JP",
         "category": "Outbreaks",
+        "score": 13,
+        "examples": [
+          "Wisconsin reports infant death linked to measles outbreak - Reuters",
+          "DRC Ebola outbreak 'growing exponentially,' UN says - DW.com",
+          "Infant’s death linked to measles outbreak in southwest Wisconsin - WPR"
+        ]
+      },
+      {
+        "trend": "public health",
+        "market_code": "JP",
+        "category": "Asia Health",
         "score": 12,
         "examples": [
-          "Infant’s death linked to measles outbreak in southwest Wisconsin - WPR",
-          "Baby dies from measles amid ongoing outbreak in Wisconsin; 1st death of its kind since 1990, health officials say - ABC7 Chicago",
-          "Infant dies in measles outbreak in southwest Wisconsin - CBS News"
+          "Additional Recreational Dungeness Crab Area Delay in Portions of Humboldt County Due to Public Health Hazard - California Department of Fish and Wildlife (.gov)",
+          "Additional Recreational Dungeness Crab Area Delay in Portions of Humboldt County Due to Public Health Hazard - California Department of Fish and Wildlife (.gov)",
+          "Public health alumna finds career connections through mentor’s support - University of South Carolina"
         ]
       },
       {
@@ -1393,9 +1404,9 @@
         "category": "Mental Health",
         "score": 12,
         "examples": [
-          "'DaeLight Foundation' supports mental health of Camden community - 6abc Philadelphia",
-          "ASCAP Partners With Project Healthy Minds To Expand Mental Health Services - MusicRow.com",
-          "Mental Health Awareness During The Holidays - westmont.il.gov"
+          "St. Tammany Parish budget hearing sparks emotional debate over mental health services - WDSU",
+          "FSU to amplify suicide prevention and mental health promotion with federal grant - Florida State University News",
+          "At HHS’s mental health agency, a suicide deepens anguish among workforce - Government Executive"
         ]
       },
       {
@@ -1404,16 +1415,16 @@
         "category": "Mental Health",
         "score": 11,
         "examples": [
-          "'DaeLight Foundation' supports mental health of Camden community - 6abc Philadelphia",
-          "ASCAP Partners With Project Healthy Minds To Expand Mental Health Services - MusicRow.com",
-          "Mental Health Awareness During The Holidays - westmont.il.gov"
+          "St. Tammany Parish budget hearing sparks emotional debate over mental health services - WDSU",
+          "FSU to amplify suicide prevention and mental health promotion with federal grant - Florida State University News",
+          "At HHS’s mental health agency, a suicide deepens anguish among workforce - Government Executive"
         ]
       },
       {
         "trend": "healthcare",
         "market_code": "JP",
         "category": "Asia Health",
-        "score": 9,
+        "score": 10,
         "examples": [
           "Zocdoc opens infrastructure to AI agents, launches partnership with Instinct - Fierce Healthcare",
           "AI in Healthcare: Uses, Examples & Benefits - Built In",
@@ -1424,11 +1435,11 @@
         "trend": "children",
         "market_code": "JP",
         "category": "Children Health",
-        "score": 8,
+        "score": 9,
         "examples": [
-          "Kansas’ rate of children without health insurance tops national average for second year - Kansas Reflector",
+          "On Demand: Understanding the Rise in Uninsured Children in Kansas - Kansas Health Institute",
           "County Medical Examiner Seeks Public’s Help Identifying Children and Young Adults - San Diego County News Center",
-          "Protecting patients with sickle cell disease from pneumococcal infection after transplant - St. Jude Children's Research Hospital"
+          "Virtual reality reduces anxiety among children awaiting surgery - News-Medical"
         ]
       },
       {
@@ -1438,30 +1449,19 @@
         "score": 8,
         "examples": [
           "RWJBarnabas Health Medical Group Opens New Orthopedic Practice at Robert Wood Johnson University Hospital Rahway - RWJBarnabas Health",
-          "RWJBarnabas Health Medical Group Opens New Orthopedic Practice at Robert Wood Johnson University Hospital Rahway - RWJBarnabas Health",
-          "Measles exposure at Osage hospital prompts health warning - Globe Gazette"
+          "Measles exposure at Osage hospital prompts health warning - Globe Gazette",
+          "Protecting patients with sickle cell disease from pneumococcal infection after transplant - St. Jude Children's Research Hospital"
         ]
       },
       {
-        "trend": "public health",
+        "trend": "warning",
         "market_code": "JP",
         "category": "Asia Health",
-        "score": 7,
+        "score": 8,
         "examples": [
-          "Johns Hopkins Bloomberg School of Public Health Wins Three Anthem Awards - Johns Hopkins Bloomberg School of Public Health",
-          "Johns Hopkins Bloomberg School of Public Health Wins Three Anthem Awards - Johns Hopkins Bloomberg School of Public Health",
-          "Public health alumna finds career connections through mentor’s support - University of South Carolina"
-        ]
-      },
-      {
-        "trend": "measles outbreak",
-        "market_code": "JP",
-        "category": "Outbreaks",
-        "score": 7,
-        "examples": [
-          "Infant’s death linked to measles outbreak in southwest Wisconsin - WPR",
-          "Infant dies in measles outbreak in southwest Wisconsin - CBS News",
-          "Infant dies in Wisconsin measles outbreak - WBAY"
+          "New drug detected in San Diego County's illegal drug supply, prompting health warning - cbs8.com",
+          "Godzilla Fans Should Know This Health Warning Before Seeing Minus One in Theaters - Yahoo",
+          "HEALTH FIRST: Novant Health surgeon highlights warning signs of GERD - WECT"
         ]
       },
       {
@@ -1471,8 +1471,8 @@
         "score": 7,
         "examples": [
           "Bird Flu Death in Washington State Renews Concern Over the Virus - The New York Times",
-          "The Fallacy of Empowered Leadership: A Global Virus - Forbes",
-          "DOH reports 11th travel-related dengue virus case of 2026 - Maui Now"
+          "Mosquito spraying planned in Anderson County after West Nile virus case - WYFF",
+          "The Fallacy of Empowered Leadership: A Global Virus - Forbes"
         ]
       }
     ],
@@ -1481,31 +1481,31 @@
         "trend": "health",
         "market_code": "CN",
         "category": "Asia Health",
-        "score": 89,
+        "score": 83,
         "examples": [
-          "RFK Jr.’s Appointees to Health Task Force Included Four Allowed to Keep Drug Stocks - The New York Times",
-          "KFF Analyzes the Role of Health Care in the Midterms - Medicare Rights Center",
-          "Correctional Health Services Earns Full Accreditation - Utah.gov"
+          "Correctional Health Services Earns Full Accreditation - Utah.gov",
+          "Additional Recreational Dungeness Crab Area Delay in Portions of Humboldt County Due to Public Health Hazard - California Department of Fish and Wildlife (.gov)",
+          "KFF Analyzes the Role of Health Care in the Midterms - Medicare Rights Center"
         ]
       },
       {
         "trend": "medical",
         "market_code": "CN",
         "category": "Asia Health",
-        "score": 22,
+        "score": 19,
         "examples": [
-          "Vandalia Health, osteopathic school to reopen labor, delivery services at Greenbrier Medical Center - West Virginia Watch",
-          "RWJBarnabas Health Medical Group Opens New Orthopedic Practice at Robert Wood Johnson University Hospital Rahway - RWJBarnabas Health",
-          "County Medical Examiner Seeks Public’s Help Identifying Children and Young Adults - San Diego County News Center"
+          "﻿Families question Cook County Medical Examiner after quick identification of 55 bodies in South Chicago Chapel funeral home case - ABC7 Chicago",
+          "County Medical Examiner Seeks Public’s Help Identifying Children and Young Adults - San Diego County News Center",
+          "Maryland Sen. Van Hollen questions medical care before Laurel man's death in ICE custody - CBS News"
         ]
       },
       {
         "trend": "measles",
         "market_code": "CN",
         "category": "Outbreaks",
-        "score": 15,
+        "score": 13,
         "examples": [
-          "Health department warns of potential measles exposure at several Middle Tennessee locations. Here’s what to know - WSMV",
+          "Wisconsin reports infant death linked to measles outbreak - Reuters",
           "Measles exposure at Osage hospital prompts health warning - Globe Gazette",
           "HEALTH ALERT: First measles death reported in WI - WEAU"
         ]
@@ -1514,11 +1514,22 @@
         "trend": "outbreak",
         "market_code": "CN",
         "category": "Outbreaks",
+        "score": 13,
+        "examples": [
+          "Wisconsin reports infant death linked to measles outbreak - Reuters",
+          "DRC Ebola outbreak 'growing exponentially,' UN says - DW.com",
+          "Infant’s death linked to measles outbreak in southwest Wisconsin - WPR"
+        ]
+      },
+      {
+        "trend": "public health",
+        "market_code": "CN",
+        "category": "Asia Health",
         "score": 12,
         "examples": [
-          "Infant’s death linked to measles outbreak in southwest Wisconsin - WPR",
-          "Baby dies from measles amid ongoing outbreak in Wisconsin; 1st death of its kind since 1990, health officials say - ABC7 Chicago",
-          "Infant dies in measles outbreak in southwest Wisconsin - CBS News"
+          "Additional Recreational Dungeness Crab Area Delay in Portions of Humboldt County Due to Public Health Hazard - California Department of Fish and Wildlife (.gov)",
+          "Additional Recreational Dungeness Crab Area Delay in Portions of Humboldt County Due to Public Health Hazard - California Department of Fish and Wildlife (.gov)",
+          "Public health alumna finds career connections through mentor’s support - University of South Carolina"
         ]
       },
       {
@@ -1527,9 +1538,9 @@
         "category": "Mental Health",
         "score": 12,
         "examples": [
-          "'DaeLight Foundation' supports mental health of Camden community - 6abc Philadelphia",
-          "ASCAP Partners With Project Healthy Minds To Expand Mental Health Services - MusicRow.com",
-          "Mental Health Awareness During The Holidays - westmont.il.gov"
+          "St. Tammany Parish budget hearing sparks emotional debate over mental health services - WDSU",
+          "FSU to amplify suicide prevention and mental health promotion with federal grant - Florida State University News",
+          "At HHS’s mental health agency, a suicide deepens anguish among workforce - Government Executive"
         ]
       },
       {
@@ -1538,16 +1549,16 @@
         "category": "Mental Health",
         "score": 11,
         "examples": [
-          "'DaeLight Foundation' supports mental health of Camden community - 6abc Philadelphia",
-          "ASCAP Partners With Project Healthy Minds To Expand Mental Health Services - MusicRow.com",
-          "Mental Health Awareness During The Holidays - westmont.il.gov"
+          "St. Tammany Parish budget hearing sparks emotional debate over mental health services - WDSU",
+          "FSU to amplify suicide prevention and mental health promotion with federal grant - Florida State University News",
+          "At HHS’s mental health agency, a suicide deepens anguish among workforce - Government Executive"
         ]
       },
       {
         "trend": "healthcare",
         "market_code": "CN",
         "category": "Asia Health",
-        "score": 9,
+        "score": 10,
         "examples": [
           "Zocdoc opens infrastructure to AI agents, launches partnership with Instinct - Fierce Healthcare",
           "AI in Healthcare: Uses, Examples & Benefits - Built In",
@@ -1558,11 +1569,11 @@
         "trend": "children",
         "market_code": "CN",
         "category": "Children Health",
-        "score": 8,
+        "score": 9,
         "examples": [
-          "Kansas’ rate of children without health insurance tops national average for second year - Kansas Reflector",
+          "On Demand: Understanding the Rise in Uninsured Children in Kansas - Kansas Health Institute",
           "County Medical Examiner Seeks Public’s Help Identifying Children and Young Adults - San Diego County News Center",
-          "Protecting patients with sickle cell disease from pneumococcal infection after transplant - St. Jude Children's Research Hospital"
+          "Virtual reality reduces anxiety among children awaiting surgery - News-Medical"
         ]
       },
       {
@@ -1572,30 +1583,19 @@
         "score": 8,
         "examples": [
           "RWJBarnabas Health Medical Group Opens New Orthopedic Practice at Robert Wood Johnson University Hospital Rahway - RWJBarnabas Health",
-          "RWJBarnabas Health Medical Group Opens New Orthopedic Practice at Robert Wood Johnson University Hospital Rahway - RWJBarnabas Health",
-          "Measles exposure at Osage hospital prompts health warning - Globe Gazette"
+          "Measles exposure at Osage hospital prompts health warning - Globe Gazette",
+          "Protecting patients with sickle cell disease from pneumococcal infection after transplant - St. Jude Children's Research Hospital"
         ]
       },
       {
-        "trend": "public health",
+        "trend": "warning",
         "market_code": "CN",
         "category": "Asia Health",
-        "score": 7,
+        "score": 8,
         "examples": [
-          "Johns Hopkins Bloomberg School of Public Health Wins Three Anthem Awards - Johns Hopkins Bloomberg School of Public Health",
-          "Johns Hopkins Bloomberg School of Public Health Wins Three Anthem Awards - Johns Hopkins Bloomberg School of Public Health",
-          "Public health alumna finds career connections through mentor’s support - University of South Carolina"
-        ]
-      },
-      {
-        "trend": "measles outbreak",
-        "market_code": "CN",
-        "category": "Outbreaks",
-        "score": 7,
-        "examples": [
-          "Infant’s death linked to measles outbreak in southwest Wisconsin - WPR",
-          "Infant dies in measles outbreak in southwest Wisconsin - CBS News",
-          "Infant dies in Wisconsin measles outbreak - WBAY"
+          "New drug detected in San Diego County's illegal drug supply, prompting health warning - cbs8.com",
+          "Godzilla Fans Should Know This Health Warning Before Seeing Minus One in Theaters - Yahoo",
+          "HEALTH FIRST: Novant Health surgeon highlights warning signs of GERD - WECT"
         ]
       },
       {
@@ -1605,8 +1605,8 @@
         "score": 7,
         "examples": [
           "Bird Flu Death in Washington State Renews Concern Over the Virus - The New York Times",
-          "The Fallacy of Empowered Leadership: A Global Virus - Forbes",
-          "DOH reports 11th travel-related dengue virus case of 2026 - Maui Now"
+          "Mosquito spraying planned in Anderson County after West Nile virus case - WYFF",
+          "The Fallacy of Empowered Leadership: A Global Virus - Forbes"
         ]
       }
     ],
@@ -1615,31 +1615,31 @@
         "trend": "health",
         "market_code": "KR",
         "category": "Asia Health",
-        "score": 89,
+        "score": 83,
         "examples": [
-          "RFK Jr.’s Appointees to Health Task Force Included Four Allowed to Keep Drug Stocks - The New York Times",
-          "KFF Analyzes the Role of Health Care in the Midterms - Medicare Rights Center",
-          "Correctional Health Services Earns Full Accreditation - Utah.gov"
+          "Correctional Health Services Earns Full Accreditation - Utah.gov",
+          "Additional Recreational Dungeness Crab Area Delay in Portions of Humboldt County Due to Public Health Hazard - California Department of Fish and Wildlife (.gov)",
+          "KFF Analyzes the Role of Health Care in the Midterms - Medicare Rights Center"
         ]
       },
       {
         "trend": "medical",
         "market_code": "KR",
         "category": "Asia Health",
-        "score": 22,
+        "score": 19,
         "examples": [
-          "Vandalia Health, osteopathic school to reopen labor, delivery services at Greenbrier Medical Center - West Virginia Watch",
-          "RWJBarnabas Health Medical Group Opens New Orthopedic Practice at Robert Wood Johnson University Hospital Rahway - RWJBarnabas Health",
-          "County Medical Examiner Seeks Public’s Help Identifying Children and Young Adults - San Diego County News Center"
+          "﻿Families question Cook County Medical Examiner after quick identification of 55 bodies in South Chicago Chapel funeral home case - ABC7 Chicago",
+          "County Medical Examiner Seeks Public’s Help Identifying Children and Young Adults - San Diego County News Center",
+          "Maryland Sen. Van Hollen questions medical care before Laurel man's death in ICE custody - CBS News"
         ]
       },
       {
         "trend": "measles",
         "market_code": "KR",
         "category": "Outbreaks",
-        "score": 15,
+        "score": 13,
         "examples": [
-          "Health department warns of potential measles exposure at several Middle Tennessee locations. Here’s what to know - WSMV",
+          "Wisconsin reports infant death linked to measles outbreak - Reuters",
           "Measles exposure at Osage hospital prompts health warning - Globe Gazette",
           "HEALTH ALERT: First measles death reported in WI - WEAU"
         ]
@@ -1648,11 +1648,22 @@
         "trend": "outbreak",
         "market_code": "KR",
         "category": "Outbreaks",
+        "score": 13,
+        "examples": [
+          "Wisconsin reports infant death linked to measles outbreak - Reuters",
+          "DRC Ebola outbreak 'growing exponentially,' UN says - DW.com",
+          "Infant’s death linked to measles outbreak in southwest Wisconsin - WPR"
+        ]
+      },
+      {
+        "trend": "public health",
+        "market_code": "KR",
+        "category": "Asia Health",
         "score": 12,
         "examples": [
-          "Infant’s death linked to measles outbreak in southwest Wisconsin - WPR",
-          "Baby dies from measles amid ongoing outbreak in Wisconsin; 1st death of its kind since 1990, health officials say - ABC7 Chicago",
-          "Infant dies in measles outbreak in southwest Wisconsin - CBS News"
+          "Additional Recreational Dungeness Crab Area Delay in Portions of Humboldt County Due to Public Health Hazard - California Department of Fish and Wildlife (.gov)",
+          "Additional Recreational Dungeness Crab Area Delay in Portions of Humboldt County Due to Public Health Hazard - California Department of Fish and Wildlife (.gov)",
+          "Public health alumna finds career connections through mentor’s support - University of South Carolina"
         ]
       },
       {
@@ -1661,9 +1672,9 @@
         "category": "Mental Health",
         "score": 12,
         "examples": [
-          "'DaeLight Foundation' supports mental health of Camden community - 6abc Philadelphia",
-          "ASCAP Partners With Project Healthy Minds To Expand Mental Health Services - MusicRow.com",
-          "Mental Health Awareness During The Holidays - westmont.il.gov"
+          "St. Tammany Parish budget hearing sparks emotional debate over mental health services - WDSU",
+          "FSU to amplify suicide prevention and mental health promotion with federal grant - Florida State University News",
+          "At HHS’s mental health agency, a suicide deepens anguish among workforce - Government Executive"
         ]
       },
       {
@@ -1672,16 +1683,16 @@
         "category": "Mental Health",
         "score": 11,
         "examples": [
-          "'DaeLight Foundation' supports mental health of Camden community - 6abc Philadelphia",
-          "ASCAP Partners With Project Healthy Minds To Expand Mental Health Services - MusicRow.com",
-          "Mental Health Awareness During The Holidays - westmont.il.gov"
+          "St. Tammany Parish budget hearing sparks emotional debate over mental health services - WDSU",
+          "FSU to amplify suicide prevention and mental health promotion with federal grant - Florida State University News",
+          "At HHS’s mental health agency, a suicide deepens anguish among workforce - Government Executive"
         ]
       },
       {
         "trend": "healthcare",
         "market_code": "KR",
         "category": "Asia Health",
-        "score": 9,
+        "score": 10,
         "examples": [
           "Zocdoc opens infrastructure to AI agents, launches partnership with Instinct - Fierce Healthcare",
           "AI in Healthcare: Uses, Examples & Benefits - Built In",
@@ -1692,11 +1703,11 @@
         "trend": "children",
         "market_code": "KR",
         "category": "Children Health",
-        "score": 8,
+        "score": 9,
         "examples": [
-          "Kansas’ rate of children without health insurance tops national average for second year - Kansas Reflector",
+          "On Demand: Understanding the Rise in Uninsured Children in Kansas - Kansas Health Institute",
           "County Medical Examiner Seeks Public’s Help Identifying Children and Young Adults - San Diego County News Center",
-          "Protecting patients with sickle cell disease from pneumococcal infection after transplant - St. Jude Children's Research Hospital"
+          "Virtual reality reduces anxiety among children awaiting surgery - News-Medical"
         ]
       },
       {
@@ -1706,30 +1717,19 @@
         "score": 8,
         "examples": [
           "RWJBarnabas Health Medical Group Opens New Orthopedic Practice at Robert Wood Johnson University Hospital Rahway - RWJBarnabas Health",
-          "RWJBarnabas Health Medical Group Opens New Orthopedic Practice at Robert Wood Johnson University Hospital Rahway - RWJBarnabas Health",
-          "Measles exposure at Osage hospital prompts health warning - Globe Gazette"
+          "Measles exposure at Osage hospital prompts health warning - Globe Gazette",
+          "Protecting patients with sickle cell disease from pneumococcal infection after transplant - St. Jude Children's Research Hospital"
         ]
       },
       {
-        "trend": "public health",
+        "trend": "warning",
         "market_code": "KR",
         "category": "Asia Health",
-        "score": 7,
+        "score": 8,
         "examples": [
-          "Johns Hopkins Bloomberg School of Public Health Wins Three Anthem Awards - Johns Hopkins Bloomberg School of Public Health",
-          "Johns Hopkins Bloomberg School of Public Health Wins Three Anthem Awards - Johns Hopkins Bloomberg School of Public Health",
-          "Public health alumna finds career connections through mentor’s support - University of South Carolina"
-        ]
-      },
-      {
-        "trend": "measles outbreak",
-        "market_code": "KR",
-        "category": "Outbreaks",
-        "score": 7,
-        "examples": [
-          "Infant’s death linked to measles outbreak in southwest Wisconsin - WPR",
-          "Infant dies in measles outbreak in southwest Wisconsin - CBS News",
-          "Infant dies in Wisconsin measles outbreak - WBAY"
+          "New drug detected in San Diego County's illegal drug supply, prompting health warning - cbs8.com",
+          "Godzilla Fans Should Know This Health Warning Before Seeing Minus One in Theaters - Yahoo",
+          "HEALTH FIRST: Novant Health surgeon highlights warning signs of GERD - WECT"
         ]
       },
       {
@@ -1739,8 +1739,8 @@
         "score": 7,
         "examples": [
           "Bird Flu Death in Washington State Renews Concern Over the Virus - The New York Times",
-          "The Fallacy of Empowered Leadership: A Global Virus - Forbes",
-          "DOH reports 11th travel-related dengue virus case of 2026 - Maui Now"
+          "Mosquito spraying planned in Anderson County after West Nile virus case - WYFF",
+          "The Fallacy of Empowered Leadership: A Global Virus - Forbes"
         ]
       }
     ],
@@ -1749,11 +1749,11 @@
         "trend": "health",
         "market_code": "IN",
         "category": "Asia Health",
-        "score": 85,
+        "score": 78,
         "examples": [
-          "Empowering frontline health workers to detect outbreaks earlier - World Health Organization (WHO)",
-          "Empowering frontline health workers to detect outbreaks earlier - World Health Organization (WHO)",
-          "Brown fat may benefit cardiovascular, psychiatric health - National Institutes of Health (NIH) | (.gov)"
+          "J&K’s health sector receives a shot in arm as Union Minister J.P. Nadda sets AIIMS deadline for March - The Hindu",
+          "Equality or Equity: Instead of just mapping health gaps, India’s researchers must ask why the injustice persists - Research Matters",
+          "Empowering frontline health workers to detect outbreaks earlier - World Health Organization (WHO)"
         ]
       },
       {
@@ -1762,9 +1762,20 @@
         "category": "Asia Health",
         "score": 23,
         "examples": [
-          "New study warns of dangers behind AI chatbots and 'concerning' health advice from private clinics - Medical Xpress",
-          "Medical societies unify to endorse evidence-based respiratory vaccine guidance - News-Medical",
+          "Nearly 3-fold jump in serious adverse events caused by medical devices: New data - The Indian Express",
+          "No place to rest for weary medicos in 10 Telangana government medical colleges - The New Indian Express",
           "President hails Armed Forces Medical Services’ medical camp in Odisha - News On AIR"
+        ]
+      },
+      {
+        "trend": "healthcare",
+        "market_code": "IN",
+        "category": "Asia Health",
+        "score": 15,
+        "examples": [
+          "The Week in Health: Tenders, French Healthcare Day, and AI Rules - Mexico Business News",
+          "AI in Healthcare: Uses, Examples & Benefits - Built In",
+          "Health Minister Nadda chairs MedTech CEO roundtable, unveils roadmap for responsible AI adoption in healthcare - DD News"
         ]
       },
       {
@@ -1774,19 +1785,8 @@
         "score": 12,
         "examples": [
           "Google AI in School Triggered Teen’s Mental Health Crisis, Lawsuit Says - Bloomberg.com",
-          "Q&A with Cynthia Rogers: Addressing the youth mental health crisis - WashU Medicine",
-          "Kids Hooked on AI Chatbots Are Showing Dramatically Worse Mental Health - Futurism"
-        ]
-      },
-      {
-        "trend": "healthcare",
-        "market_code": "IN",
-        "category": "Asia Health",
-        "score": 12,
-        "examples": [
-          "AI in Healthcare: Uses, Examples & Benefits - Built In",
-          "Health Minister Nadda chairs MedTech CEO roundtable, unveils roadmap for responsible AI adoption in healthcare - DD News",
-          "AI Healthcare Regulations in China: Medical AI Compliance - Asian Hospital & Healthcare Management"
+          "Adolescents Raise Their Voices for Mental Health and Wellbeing During Adolescent Week in Jamaica - Pan American Health Organization (PAHO)",
+          "Time change could impact mental health as days grow shorter, psychiatrist warns - WDAM-TV"
         ]
       },
       {
@@ -1796,8 +1796,8 @@
         "score": 11,
         "examples": [
           "Google AI in School Triggered Teen’s Mental Health Crisis, Lawsuit Says - Bloomberg.com",
-          "Q&A with Cynthia Rogers: Addressing the youth mental health crisis - WashU Medicine",
-          "Kids Hooked on AI Chatbots Are Showing Dramatically Worse Mental Health - Futurism"
+          "Adolescents Raise Their Voices for Mental Health and Wellbeing During Adolescent Week in Jamaica - Pan American Health Organization (PAHO)",
+          "Time change could impact mental health as days grow shorter, psychiatrist warns - WDAM-TV"
         ]
       },
       {
@@ -1806,20 +1806,20 @@
         "category": "Outbreaks",
         "score": 8,
         "examples": [
-          "Chad: Cholera Outbreak - DREF Final Report (MDRTD026) - ReliefWeb",
-          "Two New Ebola Vaccine Candidates Recommended Amidst DRC Outbreak - EMJ",
-          "Anthrax outbreak in Africa's oldest national park kills dozens of hippos, officials say - ABC News - Breaking News, Latest News and Videos"
+          "DRC Ebola outbreak 'growing exponentially,' UN says - DW.com",
+          "Anthrax outbreak in Africa's oldest national park kills dozens of hippos, officials say - ABC News - Breaking News, Latest News and Videos",
+          "Chad: Cholera Outbreak - DREF Final Report (MDRTD026) - ReliefWeb"
         ]
       },
       {
-        "trend": "vaccine",
+        "trend": "research",
         "market_code": "IN",
-        "category": "Drug & Treatment News",
+        "category": "Asia Health",
         "score": 7,
         "examples": [
-          "Medical societies unify to endorse evidence-based respiratory vaccine guidance - News-Medical",
-          "Medical Societies Endorse Vaccine Guidance to Protect Respiratory Health - Respiratory Therapy",
-          "Two New Ebola Vaccine Candidates Recommended Amidst DRC Outbreak - EMJ"
+          "Equality or Equity: Instead of just mapping health gaps, India’s researchers must ask why the injustice persists - Research Matters",
+          "Equality or Equity: Instead of just mapping health gaps, India’s researchers must ask why the injustice persists - Research Matters",
+          "IARC explores opportunities to advance gastric cancer prevention in Mongolia - IARC – INTERNATIONAL AGENCY FOR RESEARCH ON CANCER"
         ]
       },
       {
@@ -1830,18 +1830,18 @@
         "examples": [
           "AP To Initiate Steps To Contain Spread Of Ebola Virus - Deccan Chronicle",
           "WHO Greenlights Two Ebola Bundibugyo Virus Vaccine Candidates For Phase 2/3 Trials - Health Policy Watch",
-          "Subconjunctival Hemorrhage and Respiratory Syncytial Virus Infection in an Infant Evaluated for Non-accidental Trauma: A Case Report of a Possible Association - Cureus"
+          "Bird Flu Death in Washington State Renews Concern Over the Virus - The New York Times"
         ]
       },
       {
-        "trend": "infection",
+        "trend": "news-medical",
         "market_code": "IN",
-        "category": "Outbreaks",
-        "score": 7,
+        "category": "Asia Health",
+        "score": 6,
         "examples": [
-          "Subconjunctival Hemorrhage and Respiratory Syncytial Virus Infection in an Infant Evaluated for Non-accidental Trauma: A Case Report of a Possible Association - Cureus",
-          "Protecting patients with sickle cell disease from pneumococcal infection after transplant - St. Jude Children's Research Hospital",
-          "Subconjunctival Hemorrhage and Respiratory Syncytial Virus Infection in an Infant Evaluated for Non-accidental Trauma: A Case Report of a Possible Association - Cureus"
+          "Food Literacy: An Overlooked Ingredient in Healthy Eating - News-Medical",
+          "Virtual reality reduces anxiety among children awaiting surgery - News-Medical",
+          "Public health experts demand tighter global restrictions on fireworks - News-Medical"
         ]
       },
       {
@@ -1850,31 +1850,31 @@
         "category": "Asia Health",
         "score": 6,
         "examples": [
+          "Public health experts demand tighter global restrictions on fireworks - News-Medical",
           "Johns Hopkins Bloomberg School of Public Health Wins Three Anthem Awards - Johns Hopkins Bloomberg School of Public Health",
-          "Johns Hopkins Bloomberg School of Public Health Wins Three Anthem Awards - Johns Hopkins Bloomberg School of Public Health",
-          "Public health alumna finds career connections through mentor’s support - University of South Carolina"
+          "Johns Hopkins Bloomberg School of Public Health Wins Three Anthem Awards - Johns Hopkins Bloomberg School of Public Health"
         ]
       },
       {
-        "trend": "research",
+        "trend": "warning",
         "market_code": "IN",
         "category": "Asia Health",
         "score": 6,
         "examples": [
-          "Protecting patients with sickle cell disease from pneumococcal infection after transplant - St. Jude Children's Research Hospital",
-          "IARC explores opportunities to advance gastric cancer prevention in Mongolia - IARC – INTERNATIONAL AGENCY FOR RESEARCH ON CANCER",
-          "Two new candidate vaccines to join Ebola trial as treatment research advances - World Health Organization (WHO)"
+          "Temasek Life Sciences Laboratory launches regional One Health initiative to strengthen early warning against infectious disease threats - BioSpectrum Asia",
+          "Godzilla Fans Should Know This Health Warning Before Seeing Minus One in Theaters - Yahoo",
+          "FDA Advisory No.2026-1655 || Public Health Warning Against the Purchase and Use of the Unregistered Drug Product “Hbesty Acne Care Cream 0.71 oz (20 g)” - https://www.fda.gov.ph/"
         ]
       },
       {
-        "trend": "health care",
+        "trend": "drug",
         "market_code": "IN",
-        "category": "Asia Health",
-        "score": 5,
+        "category": "Drug & Treatment News",
+        "score": 6,
         "examples": [
-          "SWAN public datasets offer a deeper look at menopause and midlife health - Association of Health Care Journalists",
-          "3 Health Care Stocks With Whale Alerts In Today’s Session - Benzinga",
-          "Adults Who Report Not Having a Personal Doctor/Health Care Provider by Chronic Condition Status - KFF"
+          "FDA Advisory No.2026-1655 || Public Health Warning Against the Purchase and Use of the Unregistered Drug Product “Hbesty Acne Care Cream 0.71 oz (20 g)” - https://www.fda.gov.ph/",
+          "Kenyan pharmacists warn against viral craze of using allergy drug for vaginal tightening - BBC",
+          "New drug detected in San Diego County's illegal drug supply, prompting health warning - cbs8.com"
         ]
       }
     ],
@@ -1883,132 +1883,132 @@
         "trend": "health",
         "market_code": "AU",
         "category": "Global Health",
-        "score": 71,
+        "score": 72,
         "examples": [
+          "2026: New partnership to bring Australian-first brain health assessments to veterans - University of Wollongong - University of Wollongong – UOW",
           "TV interview with Minister Butler, Sunrise – 6 November 2026 - Australian Government Department of Health, Disability and Ageing",
-          "South Tuggeranong Health Centre now open - ACT Government",
-          "New app helps Aboriginal families track children’s ear health - National Indigenous Times"
+          "Cowboys laud mental health program put in place after Marshawn Kneeland's death - ESPN"
         ]
       },
       {
         "trend": "medical",
         "market_code": "AU",
         "category": "Global Health",
-        "score": 22,
+        "score": 21,
         "examples": [
           "Healthcare News Round-Up: The Week's Biggest Medical Stories in… - InSight+",
-          "Healthcare News Round-Up: The Week's Biggest Medical Stories in… - InSight+",
-          "When doctors and AI medical opinions diverge, humans must question the difference, according to experts - Medical Xpress"
+          "Understanding estetrol (E4) and drospirenone (DRSP) as a modern contraceptive choice - Medical Republic",
+          "Healthcare News Round-Up: The Week's Biggest Medical Stories in… - InSight+"
         ]
       },
       {
         "trend": "healthcare",
         "market_code": "AU",
         "category": "Global Health",
-        "score": 16,
+        "score": 15,
         "examples": [
           "Healthcare News Round-Up: The Week's Biggest Medical Stories in… - InSight+",
           "Healthcare News Round-Up: The Week's Biggest Medical Stories in… - InSight+",
-          "AI in Healthcare: Uses, Examples & Benefits - Built In"
+          "Regional ratepayers should not be forced to bankroll basic healthcare - The Nationals WA"
         ]
       },
       {
         "trend": "mental",
         "market_code": "AU",
         "category": "Mental Health",
-        "score": 10,
+        "score": 11,
         "examples": [
-          "Bacchus Marsh youth could gain Live4Life mental health program - Times News Group",
-          "Patient lockups soar in Tasmanian mental facilities - The Mercury",
-          "Less Sugar in Early Life Could Protect Your Mental Health Decades Later - SciTechDaily"
+          "Cowboys laud mental health program put in place after Marshawn Kneeland's death - ESPN",
+          "Cowboys laud mental health program put in place after Marshawn Kneeland's death - ESPN",
+          "Race for mental health - Mountain Views Star Mail"
         ]
       },
       {
         "trend": "outbreak",
         "market_code": "AU",
         "category": "Outbreaks",
-        "score": 9,
+        "score": 10,
         "examples": [
-          "Chad: Cholera Outbreak - DREF Final Report (MDRTD026) - ReliefWeb",
-          "Lower immunity after lockdown likely impacted outbreak of deadly strep A infections - Medical Xpress",
-          "Infant’s death linked to measles outbreak in southwest Wisconsin - WPR"
+          "DRC Ebola outbreak 'growing exponentially,' UN says - DW.com",
+          "Anthrax outbreak in Africa's oldest national park kills dozens of hippos, officials say - ABC News - Breaking News, Latest News and Videos",
+          "Chad: Cholera Outbreak - DREF Final Report (MDRTD026) - ReliefWeb"
         ]
       },
       {
         "trend": "mental health",
         "market_code": "AU",
         "category": "Mental Health",
-        "score": 8,
+        "score": 9,
         "examples": [
-          "Bacchus Marsh youth could gain Live4Life mental health program - Times News Group",
-          "Less Sugar in Early Life Could Protect Your Mental Health Decades Later - SciTechDaily",
-          "Get Construction Talking secures a $2M commitment to support mental health in construction - The B1M"
-        ]
-      },
-      {
-        "trend": "research",
-        "market_code": "AU",
-        "category": "Global Health",
-        "score": 6,
-        "examples": [
-          "Victorian Libs promise $100m to boost medical research - InnovationAus.com",
-          "New research on \"mud disease\" - newsport daily",
-          "IARC explores opportunities to advance gastric cancer prevention in Mongolia - IARC – INTERNATIONAL AGENCY FOR RESEARCH ON CANCER"
-        ]
-      },
-      {
-        "trend": "vaccine",
-        "market_code": "AU",
-        "category": "Drug & Treatment News",
-        "score": 6,
-        "examples": [
-          "Tackling misinformation to increase vaccine uptake - The University of Western Australia",
-          "AI-designed vaccine provides complete protection against diverse bird flu variants - News-Medical",
-          "WHO Greenlights Two Ebola Bundibugyo Virus Vaccine Candidates For Phase 2/3 Trials - Health Policy Watch"
+          "Cowboys laud mental health program put in place after Marshawn Kneeland's death - ESPN",
+          "Cowboys laud mental health program put in place after Marshawn Kneeland's death - ESPN",
+          "Race for mental health - Mountain Views Star Mail"
         ]
       },
       {
         "trend": "virus",
         "market_code": "AU",
         "category": "Outbreaks",
-        "score": 6,
+        "score": 8,
         "examples": [
+          "EU labs bolster rare virus detection amid soaring epidemic risks - The Brussels Times",
           "Bird Flu Death in Washington State Renews Concern Over the Virus - The New York Times",
-          "The Fallacy of Empowered Leadership: A Global Virus - Forbes",
           "Subconjunctival Hemorrhage and Respiratory Syncytial Virus Infection in an Infant Evaluated for Non-accidental Trauma: A Case Report of a Possible Association - Cureus"
-        ]
-      },
-      {
-        "trend": "hospitals",
-        "market_code": "AU",
-        "category": "Global Health",
-        "score": 5,
-        "examples": [
-          "IVF, abortion and more set to cease at Newcastle private hospitals - ABC News & Headlines – Australian Broadcasting Corporation",
-          "Shonan Beauty Clinic Named to Newsweek’s “World’s Best Hospitals & Clinics for Medical Tourism 2027” - Medianet News Hub",
-          "Northern NSW hospitals fall short on emergency and mental-health targets - Echonetdaily"
-        ]
-      },
-      {
-        "trend": "cancer",
-        "market_code": "AU",
-        "category": "Chronic Disease",
-        "score": 5,
-        "examples": [
-          "Mammograms can do more than detect breast cancer – they also offer important clues on heart health - The Conversation",
-          "IARC explores opportunities to advance gastric cancer prevention in Mongolia - IARC – INTERNATIONAL AGENCY FOR RESEARCH ON CANCER",
-          "IARC explores opportunities to advance gastric cancer prevention in Mongolia - IARC – INTERNATIONAL AGENCY FOR RESEARCH ON CANCER"
         ]
       },
       {
         "trend": "heart",
         "market_code": "AU",
         "category": "Chronic Disease",
-        "score": 5,
+        "score": 6,
         "examples": [
-          "Mammograms can do more than detect breast cancer – they also offer important clues on heart health - The Conversation",
+          "A healthier form of salt could prevent millions of deaths from stroke and heart disease - UNSW Sydney",
           "Mammograms can do more than detect breast cancer – they also offer important clues on heart health - The Conversation",
           "Cancer Survivors Face Elevated Heart Disease Risk, But New Research Shows Healthy Diets May Help - Everyday Health"
+        ]
+      },
+      {
+        "trend": "disease",
+        "market_code": "AU",
+        "category": "Global Health",
+        "score": 6,
+        "examples": [
+          "A healthier form of salt could prevent millions of deaths from stroke and heart disease - UNSW Sydney",
+          "Temasek Life Sciences Laboratory launches regional One Health initiative to strengthen early warning against infectious disease threats - BioSpectrum Asia",
+          "Researchers find microplastic fibers can worsen viral disease in fish - EurekAlert!"
+        ]
+      },
+      {
+        "trend": "measles",
+        "market_code": "AU",
+        "category": "Outbreaks",
+        "score": 6,
+        "examples": [
+          "New Mother's Death Adds To Measles Toll As Pregnancy Warnings Grow - U.S. News & World Report",
+          "HEALTH ALERT: First measles death reported in WI - WEAU",
+          "Iowa Department of Health and Human Services releases measles exposure alert in Osage - KTTC | Rochester, MN"
+        ]
+      },
+      {
+        "trend": "cancer",
+        "market_code": "AU",
+        "category": "Chronic Disease",
+        "score": 6,
+        "examples": [
+          "Repurposed endogenous virus-like vesicles mediate dendritic cell long-range antigen presentation and T cell activation for enhanced cancer vaccination - Nature",
+          "IARC explores opportunities to advance gastric cancer prevention in Mongolia - IARC – INTERNATIONAL AGENCY FOR RESEARCH ON CANCER",
+          "IARC explores opportunities to advance gastric cancer prevention in Mongolia - IARC – INTERNATIONAL AGENCY FOR RESEARCH ON CANCER"
+        ]
+      },
+      {
+        "trend": "medical xpress",
+        "market_code": "AU",
+        "category": "Global Health",
+        "score": 5,
+        "examples": [
+          "When doctors and AI medical opinions diverge, humans must question the difference, according to experts - Medical Xpress",
+          "Lower immunity after lockdown likely impacted outbreak of deadly strep A infections - Medical Xpress",
+          "Lower immunity after lockdown likely impacted outbreak of deadly strep A infections - Medical Xpress"
         ]
       }
     ],
@@ -2019,8 +2019,8 @@
         "category": "Global Health",
         "score": 83,
         "examples": [
-          "Brock University students join Niagara Health for Canadian Patient Safety Week - Niagara Health",
-          "Brock University students join Niagara Health for Canadian Patient Safety Week - Niagara Health",
+          "Moderna’s newest combo vaccine approved by Health Canada - CTV News",
+          "UPDATE: Kanata-Stittsville Primary Care Health Hub at the Maple Grove site - Glen Gower",
           "McMaster researcher receives $24M to transform Indigenous sexual health research and care - McMaster News"
         ]
       },
@@ -2028,11 +2028,22 @@
         "trend": "medical",
         "market_code": "CA",
         "category": "Global Health",
-        "score": 21,
+        "score": 17,
         "examples": [
-          "Ontario’s doctors turn front-line experience into advocacy at Queen’s Park - The Ontario Medical Association | OMA",
           "BC Supreme Court overturns medical complaint decision over unexplained diagnosis - Canadian Lawyer",
+          "Fentanyl seized after medical emergency at Sturgeon Falls gas station - North Bay Nugget",
           "Medical Societies Endorse Vaccine Guidance to Protect Respiratory Health - Respiratory Therapy"
+        ]
+      },
+      {
+        "trend": "outbreak",
+        "market_code": "CA",
+        "category": "Outbreaks",
+        "score": 13,
+        "examples": [
+          "Public Health investigating possible stomach bug outbreak in Glace Bay, N.S. - CP24",
+          "DRC Ebola outbreak 'growing exponentially,' UN says - DW.com",
+          "Public Health investigating possible stomach bug outbreak in Glace Bay, N.S. - CP24"
         ]
       },
       {
@@ -2050,73 +2061,62 @@
         "trend": "mental",
         "market_code": "CA",
         "category": "Mental Health",
-        "score": 12,
+        "score": 10,
         "examples": [
+          "Feds promise at least $1 billion for Winnipeg mental health and addictions centre - CTV News",
           "Residents invited to participate in Mental Health First Aid training - City of Lloydminster",
-          "Residents invited to participate in Mental Health First Aid training - City of Lloydminster",
-          "Feds promise at least $1 billion for Winnipeg mental health and addictions centre - CTV News"
-        ]
-      },
-      {
-        "trend": "outbreak",
-        "market_code": "CA",
-        "category": "Outbreaks",
-        "score": 12,
-        "examples": [
-          "Public Health investigating possible stomach bug outbreak in Glace Bay, N.S. - CP24",
-          "Public Health investigating possible stomach bug outbreak in Glace Bay, N.S. - CTV News",
-          "Public Health investigating possible stomach bug outbreak in Glace Bay, N.S. - CTV News"
-        ]
-      },
-      {
-        "trend": "mental health",
-        "market_code": "CA",
-        "category": "Mental Health",
-        "score": 11,
-        "examples": [
-          "Residents invited to participate in Mental Health First Aid training - City of Lloydminster",
-          "Residents invited to participate in Mental Health First Aid training - City of Lloydminster",
-          "Feds promise at least $1 billion for Winnipeg mental health and addictions centre - CTV News"
+          "Feds promise at least $1 billion for Winnipeg mental health and addictions centre - Toronto Star"
         ]
       },
       {
         "trend": "public health",
         "market_code": "CA",
         "category": "Global Health",
-        "score": 10,
+        "score": 9,
         "examples": [
+          "Watch webinar on the U.S. billionaires threatening Canada’s public health care - Canadian Health Coalition",
           "Alberta’s ‘wrecking-ball approach’ to public health care continues, says Friends of Medicare - Red Deer Advocate",
-          "Ticks identified by Niagara Public Health in October - CHCH",
-          "Public Health investigating possible stomach bug outbreak in Glace Bay, N.S. - CP24"
+          "Public Health Sudbury and Districts warns of rise in drug poisonings in Manitoulin - ElliotLakeToday.com"
         ]
       },
       {
-        "trend": "doctors",
+        "trend": "mental health",
+        "market_code": "CA",
+        "category": "Mental Health",
+        "score": 9,
+        "examples": [
+          "Feds promise at least $1 billion for Winnipeg mental health and addictions centre - CTV News",
+          "Residents invited to participate in Mental Health First Aid training - City of Lloydminster",
+          "Feds promise at least $1 billion for Winnipeg mental health and addictions centre - Toronto Star"
+        ]
+      },
+      {
+        "trend": "drug",
+        "market_code": "CA",
+        "category": "Drug & Treatment News",
+        "score": 8,
+        "examples": [
+          "'This isn't working': Winnipeg police call for more outreach, health-care funding amid drug crisis - CBC",
+          "Public Health Sudbury and Districts warns of rise in drug poisonings in Manitoulin - ElliotLakeToday.com",
+          "New drug detected in San Diego County's illegal drug supply, prompting health warning - cbs8.com"
+        ]
+      },
+      {
+        "trend": "warning",
         "market_code": "CA",
         "category": "Global Health",
         "score": 8,
         "examples": [
-          "Ontario doctors demand apology from province for letters flagging high number of days worked, patients seen - CBC",
-          "Ontario’s doctors turn front-line experience into advocacy at Queen’s Park - The Ontario Medical Association | OMA",
-          "Ontario doctors demand apology from province for letters flagging high number of days worked, patients seen - CBC"
-        ]
-      },
-      {
-        "trend": "research",
-        "market_code": "CA",
-        "category": "Global Health",
-        "score": 8,
-        "examples": [
-          "McMaster researcher receives $24M to transform Indigenous sexual health research and care - McMaster News",
-          "Watch Against Racism, For Health Equity: A Research Roundtable - Canadian Health Coalition",
-          "Protecting patients with sickle cell disease from pneumococcal infection after transplant - St. Jude Children's Research Hospital"
+          "Budget gives no boost in health-care funding to provinces warning of ‘fiscal cliff’ - Toronto Star",
+          "Budget gives no boost in health-care funding to provinces warning of ‘fiscal cliff’ - Toronto Star",
+          "'No action taken' if billing is appropriate: Ont. health minister on warning letters to physicians - CP24"
         ]
       },
       {
         "trend": "measles",
         "market_code": "CA",
         "category": "Outbreaks",
-        "score": 7,
+        "score": 8,
         "examples": [
           "HEALTH ALERT: First measles death reported in WI - WEAU",
           "New Mother's Death Adds To Measles Toll As Pregnancy Warnings Grow - U.S. News & World Report",
@@ -2124,25 +2124,25 @@
         ]
       },
       {
-        "trend": "cancer",
+        "trend": "research",
         "market_code": "CA",
-        "category": "Chronic Disease",
-        "score": 6,
+        "category": "Global Health",
+        "score": 7,
         "examples": [
-          "Hairstyling school raising big bucks for SGH cancer and medical care clinic - My Stratford Now",
+          "McMaster researcher receives $24M to transform Indigenous sexual health research and care - McMaster News",
           "IARC explores opportunities to advance gastric cancer prevention in Mongolia - IARC – INTERNATIONAL AGENCY FOR RESEARCH ON CANCER",
-          "IARC explores opportunities to advance gastric cancer prevention in Mongolia - IARC – INTERNATIONAL AGENCY FOR RESEARCH ON CANCER"
+          "Protecting patients with sickle cell disease from pneumococcal infection after transplant - St. Jude Children's Research Hospital"
         ]
       },
       {
-        "trend": "drug",
+        "trend": "hospital",
         "market_code": "CA",
-        "category": "Drug & Treatment News",
+        "category": "Global Health",
         "score": 6,
         "examples": [
-          "Public Health Sudbury and Districts warns of rise in drug poisonings in Manitoulin - ElliotLakeToday.com",
-          "FDA Advisory No.2026-1655 || Public Health Warning Against the Purchase and Use of the Unregistered Drug Product “Hbesty Acne Care Cream 0.71 oz (20 g)” - https://www.fda.gov.ph/",
-          "Common Diabetes Drug May Cut Long COVID Risk by More Than Half - Technology Networks"
+          "Ontario Breaks Ground on New Neonatal Intensive Care Unit at St. Michael’s Hospital - ontario.ca",
+          "Protecting patients with sickle cell disease from pneumococcal infection after transplant - St. Jude Children's Research Hospital",
+          "General Hospital recap: Jordan's Infection Keeps Michael at Her Bedside - Daytime Confidential"
         ]
       }
     ],
@@ -2151,31 +2151,31 @@
         "trend": "health",
         "market_code": "AE",
         "category": "Arab Health",
-        "score": 89,
+        "score": 83,
         "examples": [
-          "RFK Jr.’s Appointees to Health Task Force Included Four Allowed to Keep Drug Stocks - The New York Times",
-          "KFF Analyzes the Role of Health Care in the Midterms - Medicare Rights Center",
-          "Correctional Health Services Earns Full Accreditation - Utah.gov"
+          "Correctional Health Services Earns Full Accreditation - Utah.gov",
+          "Additional Recreational Dungeness Crab Area Delay in Portions of Humboldt County Due to Public Health Hazard - California Department of Fish and Wildlife (.gov)",
+          "KFF Analyzes the Role of Health Care in the Midterms - Medicare Rights Center"
         ]
       },
       {
         "trend": "medical",
         "market_code": "AE",
         "category": "Arab Health",
-        "score": 22,
+        "score": 19,
         "examples": [
-          "Vandalia Health, osteopathic school to reopen labor, delivery services at Greenbrier Medical Center - West Virginia Watch",
-          "RWJBarnabas Health Medical Group Opens New Orthopedic Practice at Robert Wood Johnson University Hospital Rahway - RWJBarnabas Health",
-          "County Medical Examiner Seeks Public’s Help Identifying Children and Young Adults - San Diego County News Center"
+          "﻿Families question Cook County Medical Examiner after quick identification of 55 bodies in South Chicago Chapel funeral home case - ABC7 Chicago",
+          "County Medical Examiner Seeks Public’s Help Identifying Children and Young Adults - San Diego County News Center",
+          "Maryland Sen. Van Hollen questions medical care before Laurel man's death in ICE custody - CBS News"
         ]
       },
       {
         "trend": "measles",
         "market_code": "AE",
         "category": "Outbreaks",
-        "score": 15,
+        "score": 13,
         "examples": [
-          "Health department warns of potential measles exposure at several Middle Tennessee locations. Here’s what to know - WSMV",
+          "Wisconsin reports infant death linked to measles outbreak - Reuters",
           "Measles exposure at Osage hospital prompts health warning - Globe Gazette",
           "HEALTH ALERT: First measles death reported in WI - WEAU"
         ]
@@ -2184,11 +2184,22 @@
         "trend": "outbreak",
         "market_code": "AE",
         "category": "Outbreaks",
+        "score": 13,
+        "examples": [
+          "Wisconsin reports infant death linked to measles outbreak - Reuters",
+          "DRC Ebola outbreak 'growing exponentially,' UN says - DW.com",
+          "Infant’s death linked to measles outbreak in southwest Wisconsin - WPR"
+        ]
+      },
+      {
+        "trend": "public health",
+        "market_code": "AE",
+        "category": "Arab Health",
         "score": 12,
         "examples": [
-          "Infant’s death linked to measles outbreak in southwest Wisconsin - WPR",
-          "Baby dies from measles amid ongoing outbreak in Wisconsin; 1st death of its kind since 1990, health officials say - ABC7 Chicago",
-          "Infant dies in measles outbreak in southwest Wisconsin - CBS News"
+          "Additional Recreational Dungeness Crab Area Delay in Portions of Humboldt County Due to Public Health Hazard - California Department of Fish and Wildlife (.gov)",
+          "Additional Recreational Dungeness Crab Area Delay in Portions of Humboldt County Due to Public Health Hazard - California Department of Fish and Wildlife (.gov)",
+          "Public health alumna finds career connections through mentor’s support - University of South Carolina"
         ]
       },
       {
@@ -2197,9 +2208,9 @@
         "category": "Mental Health",
         "score": 12,
         "examples": [
-          "'DaeLight Foundation' supports mental health of Camden community - 6abc Philadelphia",
-          "ASCAP Partners With Project Healthy Minds To Expand Mental Health Services - MusicRow.com",
-          "Mental Health Awareness During The Holidays - westmont.il.gov"
+          "St. Tammany Parish budget hearing sparks emotional debate over mental health services - WDSU",
+          "FSU to amplify suicide prevention and mental health promotion with federal grant - Florida State University News",
+          "At HHS’s mental health agency, a suicide deepens anguish among workforce - Government Executive"
         ]
       },
       {
@@ -2208,16 +2219,16 @@
         "category": "Mental Health",
         "score": 11,
         "examples": [
-          "'DaeLight Foundation' supports mental health of Camden community - 6abc Philadelphia",
-          "ASCAP Partners With Project Healthy Minds To Expand Mental Health Services - MusicRow.com",
-          "Mental Health Awareness During The Holidays - westmont.il.gov"
+          "St. Tammany Parish budget hearing sparks emotional debate over mental health services - WDSU",
+          "FSU to amplify suicide prevention and mental health promotion with federal grant - Florida State University News",
+          "At HHS’s mental health agency, a suicide deepens anguish among workforce - Government Executive"
         ]
       },
       {
         "trend": "healthcare",
         "market_code": "AE",
         "category": "Arab Health",
-        "score": 9,
+        "score": 10,
         "examples": [
           "Zocdoc opens infrastructure to AI agents, launches partnership with Instinct - Fierce Healthcare",
           "AI in Healthcare: Uses, Examples & Benefits - Built In",
@@ -2228,11 +2239,11 @@
         "trend": "children",
         "market_code": "AE",
         "category": "Children Health",
-        "score": 8,
+        "score": 9,
         "examples": [
-          "Kansas’ rate of children without health insurance tops national average for second year - Kansas Reflector",
+          "On Demand: Understanding the Rise in Uninsured Children in Kansas - Kansas Health Institute",
           "County Medical Examiner Seeks Public’s Help Identifying Children and Young Adults - San Diego County News Center",
-          "Protecting patients with sickle cell disease from pneumococcal infection after transplant - St. Jude Children's Research Hospital"
+          "Virtual reality reduces anxiety among children awaiting surgery - News-Medical"
         ]
       },
       {
@@ -2242,30 +2253,19 @@
         "score": 8,
         "examples": [
           "RWJBarnabas Health Medical Group Opens New Orthopedic Practice at Robert Wood Johnson University Hospital Rahway - RWJBarnabas Health",
-          "RWJBarnabas Health Medical Group Opens New Orthopedic Practice at Robert Wood Johnson University Hospital Rahway - RWJBarnabas Health",
-          "Measles exposure at Osage hospital prompts health warning - Globe Gazette"
+          "Measles exposure at Osage hospital prompts health warning - Globe Gazette",
+          "Protecting patients with sickle cell disease from pneumococcal infection after transplant - St. Jude Children's Research Hospital"
         ]
       },
       {
-        "trend": "public health",
+        "trend": "warning",
         "market_code": "AE",
         "category": "Arab Health",
-        "score": 7,
+        "score": 8,
         "examples": [
-          "Johns Hopkins Bloomberg School of Public Health Wins Three Anthem Awards - Johns Hopkins Bloomberg School of Public Health",
-          "Johns Hopkins Bloomberg School of Public Health Wins Three Anthem Awards - Johns Hopkins Bloomberg School of Public Health",
-          "Public health alumna finds career connections through mentor’s support - University of South Carolina"
-        ]
-      },
-      {
-        "trend": "measles outbreak",
-        "market_code": "AE",
-        "category": "Outbreaks",
-        "score": 7,
-        "examples": [
-          "Infant’s death linked to measles outbreak in southwest Wisconsin - WPR",
-          "Infant dies in measles outbreak in southwest Wisconsin - CBS News",
-          "Infant dies in Wisconsin measles outbreak - WBAY"
+          "New drug detected in San Diego County's illegal drug supply, prompting health warning - cbs8.com",
+          "Godzilla Fans Should Know This Health Warning Before Seeing Minus One in Theaters - Yahoo",
+          "HEALTH FIRST: Novant Health surgeon highlights warning signs of GERD - WECT"
         ]
       },
       {
@@ -2275,8 +2275,8 @@
         "score": 7,
         "examples": [
           "Bird Flu Death in Washington State Renews Concern Over the Virus - The New York Times",
-          "The Fallacy of Empowered Leadership: A Global Virus - Forbes",
-          "DOH reports 11th travel-related dengue virus case of 2026 - Maui Now"
+          "Mosquito spraying planned in Anderson County after West Nile virus case - WYFF",
+          "The Fallacy of Empowered Leadership: A Global Virus - Forbes"
         ]
       }
     ],
@@ -2285,31 +2285,31 @@
         "trend": "health",
         "market_code": "SA",
         "category": "Arab Health",
-        "score": 89,
+        "score": 83,
         "examples": [
-          "RFK Jr.’s Appointees to Health Task Force Included Four Allowed to Keep Drug Stocks - The New York Times",
-          "KFF Analyzes the Role of Health Care in the Midterms - Medicare Rights Center",
-          "Correctional Health Services Earns Full Accreditation - Utah.gov"
+          "Correctional Health Services Earns Full Accreditation - Utah.gov",
+          "Additional Recreational Dungeness Crab Area Delay in Portions of Humboldt County Due to Public Health Hazard - California Department of Fish and Wildlife (.gov)",
+          "KFF Analyzes the Role of Health Care in the Midterms - Medicare Rights Center"
         ]
       },
       {
         "trend": "medical",
         "market_code": "SA",
         "category": "Arab Health",
-        "score": 22,
+        "score": 19,
         "examples": [
-          "Vandalia Health, osteopathic school to reopen labor, delivery services at Greenbrier Medical Center - West Virginia Watch",
-          "RWJBarnabas Health Medical Group Opens New Orthopedic Practice at Robert Wood Johnson University Hospital Rahway - RWJBarnabas Health",
-          "County Medical Examiner Seeks Public’s Help Identifying Children and Young Adults - San Diego County News Center"
+          "﻿Families question Cook County Medical Examiner after quick identification of 55 bodies in South Chicago Chapel funeral home case - ABC7 Chicago",
+          "County Medical Examiner Seeks Public’s Help Identifying Children and Young Adults - San Diego County News Center",
+          "Maryland Sen. Van Hollen questions medical care before Laurel man's death in ICE custody - CBS News"
         ]
       },
       {
         "trend": "measles",
         "market_code": "SA",
         "category": "Outbreaks",
-        "score": 15,
+        "score": 13,
         "examples": [
-          "Health department warns of potential measles exposure at several Middle Tennessee locations. Here’s what to know - WSMV",
+          "Wisconsin reports infant death linked to measles outbreak - Reuters",
           "Measles exposure at Osage hospital prompts health warning - Globe Gazette",
           "HEALTH ALERT: First measles death reported in WI - WEAU"
         ]
@@ -2318,11 +2318,22 @@
         "trend": "outbreak",
         "market_code": "SA",
         "category": "Outbreaks",
+        "score": 13,
+        "examples": [
+          "Wisconsin reports infant death linked to measles outbreak - Reuters",
+          "DRC Ebola outbreak 'growing exponentially,' UN says - DW.com",
+          "Infant’s death linked to measles outbreak in southwest Wisconsin - WPR"
+        ]
+      },
+      {
+        "trend": "public health",
+        "market_code": "SA",
+        "category": "Arab Health",
         "score": 12,
         "examples": [
-          "Infant’s death linked to measles outbreak in southwest Wisconsin - WPR",
-          "Baby dies from measles amid ongoing outbreak in Wisconsin; 1st death of its kind since 1990, health officials say - ABC7 Chicago",
-          "Infant dies in measles outbreak in southwest Wisconsin - CBS News"
+          "Additional Recreational Dungeness Crab Area Delay in Portions of Humboldt County Due to Public Health Hazard - California Department of Fish and Wildlife (.gov)",
+          "Additional Recreational Dungeness Crab Area Delay in Portions of Humboldt County Due to Public Health Hazard - California Department of Fish and Wildlife (.gov)",
+          "Public health alumna finds career connections through mentor’s support - University of South Carolina"
         ]
       },
       {
@@ -2331,9 +2342,9 @@
         "category": "Mental Health",
         "score": 12,
         "examples": [
-          "'DaeLight Foundation' supports mental health of Camden community - 6abc Philadelphia",
-          "ASCAP Partners With Project Healthy Minds To Expand Mental Health Services - MusicRow.com",
-          "Mental Health Awareness During The Holidays - westmont.il.gov"
+          "St. Tammany Parish budget hearing sparks emotional debate over mental health services - WDSU",
+          "FSU to amplify suicide prevention and mental health promotion with federal grant - Florida State University News",
+          "At HHS’s mental health agency, a suicide deepens anguish among workforce - Government Executive"
         ]
       },
       {
@@ -2342,16 +2353,16 @@
         "category": "Mental Health",
         "score": 11,
         "examples": [
-          "'DaeLight Foundation' supports mental health of Camden community - 6abc Philadelphia",
-          "ASCAP Partners With Project Healthy Minds To Expand Mental Health Services - MusicRow.com",
-          "Mental Health Awareness During The Holidays - westmont.il.gov"
+          "St. Tammany Parish budget hearing sparks emotional debate over mental health services - WDSU",
+          "FSU to amplify suicide prevention and mental health promotion with federal grant - Florida State University News",
+          "At HHS’s mental health agency, a suicide deepens anguish among workforce - Government Executive"
         ]
       },
       {
         "trend": "healthcare",
         "market_code": "SA",
         "category": "Arab Health",
-        "score": 9,
+        "score": 10,
         "examples": [
           "Zocdoc opens infrastructure to AI agents, launches partnership with Instinct - Fierce Healthcare",
           "AI in Healthcare: Uses, Examples & Benefits - Built In",
@@ -2362,11 +2373,11 @@
         "trend": "children",
         "market_code": "SA",
         "category": "Children Health",
-        "score": 8,
+        "score": 9,
         "examples": [
-          "Kansas’ rate of children without health insurance tops national average for second year - Kansas Reflector",
+          "On Demand: Understanding the Rise in Uninsured Children in Kansas - Kansas Health Institute",
           "County Medical Examiner Seeks Public’s Help Identifying Children and Young Adults - San Diego County News Center",
-          "Protecting patients with sickle cell disease from pneumococcal infection after transplant - St. Jude Children's Research Hospital"
+          "Virtual reality reduces anxiety among children awaiting surgery - News-Medical"
         ]
       },
       {
@@ -2376,30 +2387,19 @@
         "score": 8,
         "examples": [
           "RWJBarnabas Health Medical Group Opens New Orthopedic Practice at Robert Wood Johnson University Hospital Rahway - RWJBarnabas Health",
-          "RWJBarnabas Health Medical Group Opens New Orthopedic Practice at Robert Wood Johnson University Hospital Rahway - RWJBarnabas Health",
-          "Measles exposure at Osage hospital prompts health warning - Globe Gazette"
+          "Measles exposure at Osage hospital prompts health warning - Globe Gazette",
+          "Protecting patients with sickle cell disease from pneumococcal infection after transplant - St. Jude Children's Research Hospital"
         ]
       },
       {
-        "trend": "public health",
+        "trend": "warning",
         "market_code": "SA",
         "category": "Arab Health",
-        "score": 7,
+        "score": 8,
         "examples": [
-          "Johns Hopkins Bloomberg School of Public Health Wins Three Anthem Awards - Johns Hopkins Bloomberg School of Public Health",
-          "Johns Hopkins Bloomberg School of Public Health Wins Three Anthem Awards - Johns Hopkins Bloomberg School of Public Health",
-          "Public health alumna finds career connections through mentor’s support - University of South Carolina"
-        ]
-      },
-      {
-        "trend": "measles outbreak",
-        "market_code": "SA",
-        "category": "Outbreaks",
-        "score": 7,
-        "examples": [
-          "Infant’s death linked to measles outbreak in southwest Wisconsin - WPR",
-          "Infant dies in measles outbreak in southwest Wisconsin - CBS News",
-          "Infant dies in Wisconsin measles outbreak - WBAY"
+          "New drug detected in San Diego County's illegal drug supply, prompting health warning - cbs8.com",
+          "Godzilla Fans Should Know This Health Warning Before Seeing Minus One in Theaters - Yahoo",
+          "HEALTH FIRST: Novant Health surgeon highlights warning signs of GERD - WECT"
         ]
       },
       {
@@ -2409,8 +2409,8 @@
         "score": 7,
         "examples": [
           "Bird Flu Death in Washington State Renews Concern Over the Virus - The New York Times",
-          "The Fallacy of Empowered Leadership: A Global Virus - Forbes",
-          "DOH reports 11th travel-related dengue virus case of 2026 - Maui Now"
+          "Mosquito spraying planned in Anderson County after West Nile virus case - WYFF",
+          "The Fallacy of Empowered Leadership: A Global Virus - Forbes"
         ]
       }
     ],
@@ -2419,31 +2419,31 @@
         "trend": "health",
         "market_code": "QA",
         "category": "Arab Health",
-        "score": 89,
+        "score": 83,
         "examples": [
-          "RFK Jr.’s Appointees to Health Task Force Included Four Allowed to Keep Drug Stocks - The New York Times",
-          "KFF Analyzes the Role of Health Care in the Midterms - Medicare Rights Center",
-          "Correctional Health Services Earns Full Accreditation - Utah.gov"
+          "Correctional Health Services Earns Full Accreditation - Utah.gov",
+          "Additional Recreational Dungeness Crab Area Delay in Portions of Humboldt County Due to Public Health Hazard - California Department of Fish and Wildlife (.gov)",
+          "KFF Analyzes the Role of Health Care in the Midterms - Medicare Rights Center"
         ]
       },
       {
         "trend": "medical",
         "market_code": "QA",
         "category": "Arab Health",
-        "score": 22,
+        "score": 19,
         "examples": [
-          "Vandalia Health, osteopathic school to reopen labor, delivery services at Greenbrier Medical Center - West Virginia Watch",
-          "RWJBarnabas Health Medical Group Opens New Orthopedic Practice at Robert Wood Johnson University Hospital Rahway - RWJBarnabas Health",
-          "County Medical Examiner Seeks Public’s Help Identifying Children and Young Adults - San Diego County News Center"
+          "﻿Families question Cook County Medical Examiner after quick identification of 55 bodies in South Chicago Chapel funeral home case - ABC7 Chicago",
+          "County Medical Examiner Seeks Public’s Help Identifying Children and Young Adults - San Diego County News Center",
+          "Maryland Sen. Van Hollen questions medical care before Laurel man's death in ICE custody - CBS News"
         ]
       },
       {
         "trend": "measles",
         "market_code": "QA",
         "category": "Outbreaks",
-        "score": 15,
+        "score": 13,
         "examples": [
-          "Health department warns of potential measles exposure at several Middle Tennessee locations. Here’s what to know - WSMV",
+          "Wisconsin reports infant death linked to measles outbreak - Reuters",
           "Measles exposure at Osage hospital prompts health warning - Globe Gazette",
           "HEALTH ALERT: First measles death reported in WI - WEAU"
         ]
@@ -2452,11 +2452,22 @@
         "trend": "outbreak",
         "market_code": "QA",
         "category": "Outbreaks",
+        "score": 13,
+        "examples": [
+          "Wisconsin reports infant death linked to measles outbreak - Reuters",
+          "DRC Ebola outbreak 'growing exponentially,' UN says - DW.com",
+          "Infant’s death linked to measles outbreak in southwest Wisconsin - WPR"
+        ]
+      },
+      {
+        "trend": "public health",
+        "market_code": "QA",
+        "category": "Arab Health",
         "score": 12,
         "examples": [
-          "Infant’s death linked to measles outbreak in southwest Wisconsin - WPR",
-          "Baby dies from measles amid ongoing outbreak in Wisconsin; 1st death of its kind since 1990, health officials say - ABC7 Chicago",
-          "Infant dies in measles outbreak in southwest Wisconsin - CBS News"
+          "Additional Recreational Dungeness Crab Area Delay in Portions of Humboldt County Due to Public Health Hazard - California Department of Fish and Wildlife (.gov)",
+          "Additional Recreational Dungeness Crab Area Delay in Portions of Humboldt County Due to Public Health Hazard - California Department of Fish and Wildlife (.gov)",
+          "Public health alumna finds career connections through mentor’s support - University of South Carolina"
         ]
       },
       {
@@ -2465,9 +2476,9 @@
         "category": "Mental Health",
         "score": 12,
         "examples": [
-          "'DaeLight Foundation' supports mental health of Camden community - 6abc Philadelphia",
-          "ASCAP Partners With Project Healthy Minds To Expand Mental Health Services - MusicRow.com",
-          "Mental Health Awareness During The Holidays - westmont.il.gov"
+          "St. Tammany Parish budget hearing sparks emotional debate over mental health services - WDSU",
+          "FSU to amplify suicide prevention and mental health promotion with federal grant - Florida State University News",
+          "At HHS’s mental health agency, a suicide deepens anguish among workforce - Government Executive"
         ]
       },
       {
@@ -2476,16 +2487,16 @@
         "category": "Mental Health",
         "score": 11,
         "examples": [
-          "'DaeLight Foundation' supports mental health of Camden community - 6abc Philadelphia",
-          "ASCAP Partners With Project Healthy Minds To Expand Mental Health Services - MusicRow.com",
-          "Mental Health Awareness During The Holidays - westmont.il.gov"
+          "St. Tammany Parish budget hearing sparks emotional debate over mental health services - WDSU",
+          "FSU to amplify suicide prevention and mental health promotion with federal grant - Florida State University News",
+          "At HHS’s mental health agency, a suicide deepens anguish among workforce - Government Executive"
         ]
       },
       {
         "trend": "healthcare",
         "market_code": "QA",
         "category": "Arab Health",
-        "score": 9,
+        "score": 10,
         "examples": [
           "Zocdoc opens infrastructure to AI agents, launches partnership with Instinct - Fierce Healthcare",
           "AI in Healthcare: Uses, Examples & Benefits - Built In",
@@ -2496,11 +2507,11 @@
         "trend": "children",
         "market_code": "QA",
         "category": "Children Health",
-        "score": 8,
+        "score": 9,
         "examples": [
-          "Kansas’ rate of children without health insurance tops national average for second year - Kansas Reflector",
+          "On Demand: Understanding the Rise in Uninsured Children in Kansas - Kansas Health Institute",
           "County Medical Examiner Seeks Public’s Help Identifying Children and Young Adults - San Diego County News Center",
-          "Protecting patients with sickle cell disease from pneumococcal infection after transplant - St. Jude Children's Research Hospital"
+          "Virtual reality reduces anxiety among children awaiting surgery - News-Medical"
         ]
       },
       {
@@ -2510,30 +2521,19 @@
         "score": 8,
         "examples": [
           "RWJBarnabas Health Medical Group Opens New Orthopedic Practice at Robert Wood Johnson University Hospital Rahway - RWJBarnabas Health",
-          "RWJBarnabas Health Medical Group Opens New Orthopedic Practice at Robert Wood Johnson University Hospital Rahway - RWJBarnabas Health",
-          "Measles exposure at Osage hospital prompts health warning - Globe Gazette"
+          "Measles exposure at Osage hospital prompts health warning - Globe Gazette",
+          "Protecting patients with sickle cell disease from pneumococcal infection after transplant - St. Jude Children's Research Hospital"
         ]
       },
       {
-        "trend": "public health",
+        "trend": "warning",
         "market_code": "QA",
         "category": "Arab Health",
-        "score": 7,
+        "score": 8,
         "examples": [
-          "Johns Hopkins Bloomberg School of Public Health Wins Three Anthem Awards - Johns Hopkins Bloomberg School of Public Health",
-          "Johns Hopkins Bloomberg School of Public Health Wins Three Anthem Awards - Johns Hopkins Bloomberg School of Public Health",
-          "Public health alumna finds career connections through mentor’s support - University of South Carolina"
-        ]
-      },
-      {
-        "trend": "measles outbreak",
-        "market_code": "QA",
-        "category": "Outbreaks",
-        "score": 7,
-        "examples": [
-          "Infant’s death linked to measles outbreak in southwest Wisconsin - WPR",
-          "Infant dies in measles outbreak in southwest Wisconsin - CBS News",
-          "Infant dies in Wisconsin measles outbreak - WBAY"
+          "New drug detected in San Diego County's illegal drug supply, prompting health warning - cbs8.com",
+          "Godzilla Fans Should Know This Health Warning Before Seeing Minus One in Theaters - Yahoo",
+          "HEALTH FIRST: Novant Health surgeon highlights warning signs of GERD - WECT"
         ]
       },
       {
@@ -2543,8 +2543,8 @@
         "score": 7,
         "examples": [
           "Bird Flu Death in Washington State Renews Concern Over the Virus - The New York Times",
-          "The Fallacy of Empowered Leadership: A Global Virus - Forbes",
-          "DOH reports 11th travel-related dengue virus case of 2026 - Maui Now"
+          "Mosquito spraying planned in Anderson County after West Nile virus case - WYFF",
+          "The Fallacy of Empowered Leadership: A Global Virus - Forbes"
         ]
       }
     ],
@@ -2553,31 +2553,31 @@
         "trend": "health",
         "market_code": "JO",
         "category": "Arab Health",
-        "score": 89,
+        "score": 83,
         "examples": [
-          "RFK Jr.’s Appointees to Health Task Force Included Four Allowed to Keep Drug Stocks - The New York Times",
-          "KFF Analyzes the Role of Health Care in the Midterms - Medicare Rights Center",
-          "Correctional Health Services Earns Full Accreditation - Utah.gov"
+          "Correctional Health Services Earns Full Accreditation - Utah.gov",
+          "Additional Recreational Dungeness Crab Area Delay in Portions of Humboldt County Due to Public Health Hazard - California Department of Fish and Wildlife (.gov)",
+          "KFF Analyzes the Role of Health Care in the Midterms - Medicare Rights Center"
         ]
       },
       {
         "trend": "medical",
         "market_code": "JO",
         "category": "Arab Health",
-        "score": 22,
+        "score": 19,
         "examples": [
-          "Vandalia Health, osteopathic school to reopen labor, delivery services at Greenbrier Medical Center - West Virginia Watch",
-          "RWJBarnabas Health Medical Group Opens New Orthopedic Practice at Robert Wood Johnson University Hospital Rahway - RWJBarnabas Health",
-          "County Medical Examiner Seeks Public’s Help Identifying Children and Young Adults - San Diego County News Center"
+          "﻿Families question Cook County Medical Examiner after quick identification of 55 bodies in South Chicago Chapel funeral home case - ABC7 Chicago",
+          "County Medical Examiner Seeks Public’s Help Identifying Children and Young Adults - San Diego County News Center",
+          "Maryland Sen. Van Hollen questions medical care before Laurel man's death in ICE custody - CBS News"
         ]
       },
       {
         "trend": "measles",
         "market_code": "JO",
         "category": "Outbreaks",
-        "score": 15,
+        "score": 13,
         "examples": [
-          "Health department warns of potential measles exposure at several Middle Tennessee locations. Here’s what to know - WSMV",
+          "Wisconsin reports infant death linked to measles outbreak - Reuters",
           "Measles exposure at Osage hospital prompts health warning - Globe Gazette",
           "HEALTH ALERT: First measles death reported in WI - WEAU"
         ]
@@ -2586,11 +2586,22 @@
         "trend": "outbreak",
         "market_code": "JO",
         "category": "Outbreaks",
+        "score": 13,
+        "examples": [
+          "Wisconsin reports infant death linked to measles outbreak - Reuters",
+          "DRC Ebola outbreak 'growing exponentially,' UN says - DW.com",
+          "Infant’s death linked to measles outbreak in southwest Wisconsin - WPR"
+        ]
+      },
+      {
+        "trend": "public health",
+        "market_code": "JO",
+        "category": "Arab Health",
         "score": 12,
         "examples": [
-          "Infant’s death linked to measles outbreak in southwest Wisconsin - WPR",
-          "Baby dies from measles amid ongoing outbreak in Wisconsin; 1st death of its kind since 1990, health officials say - ABC7 Chicago",
-          "Infant dies in measles outbreak in southwest Wisconsin - CBS News"
+          "Additional Recreational Dungeness Crab Area Delay in Portions of Humboldt County Due to Public Health Hazard - California Department of Fish and Wildlife (.gov)",
+          "Additional Recreational Dungeness Crab Area Delay in Portions of Humboldt County Due to Public Health Hazard - California Department of Fish and Wildlife (.gov)",
+          "Public health alumna finds career connections through mentor’s support - University of South Carolina"
         ]
       },
       {
@@ -2599,9 +2610,9 @@
         "category": "Mental Health",
         "score": 12,
         "examples": [
-          "'DaeLight Foundation' supports mental health of Camden community - 6abc Philadelphia",
-          "ASCAP Partners With Project Healthy Minds To Expand Mental Health Services - MusicRow.com",
-          "Mental Health Awareness During The Holidays - westmont.il.gov"
+          "St. Tammany Parish budget hearing sparks emotional debate over mental health services - WDSU",
+          "FSU to amplify suicide prevention and mental health promotion with federal grant - Florida State University News",
+          "At HHS’s mental health agency, a suicide deepens anguish among workforce - Government Executive"
         ]
       },
       {
@@ -2610,16 +2621,16 @@
         "category": "Mental Health",
         "score": 11,
         "examples": [
-          "'DaeLight Foundation' supports mental health of Camden community - 6abc Philadelphia",
-          "ASCAP Partners With Project Healthy Minds To Expand Mental Health Services - MusicRow.com",
-          "Mental Health Awareness During The Holidays - westmont.il.gov"
+          "St. Tammany Parish budget hearing sparks emotional debate over mental health services - WDSU",
+          "FSU to amplify suicide prevention and mental health promotion with federal grant - Florida State University News",
+          "At HHS’s mental health agency, a suicide deepens anguish among workforce - Government Executive"
         ]
       },
       {
         "trend": "healthcare",
         "market_code": "JO",
         "category": "Arab Health",
-        "score": 9,
+        "score": 10,
         "examples": [
           "Zocdoc opens infrastructure to AI agents, launches partnership with Instinct - Fierce Healthcare",
           "AI in Healthcare: Uses, Examples & Benefits - Built In",
@@ -2630,11 +2641,11 @@
         "trend": "children",
         "market_code": "JO",
         "category": "Children Health",
-        "score": 8,
+        "score": 9,
         "examples": [
-          "Kansas’ rate of children without health insurance tops national average for second year - Kansas Reflector",
+          "On Demand: Understanding the Rise in Uninsured Children in Kansas - Kansas Health Institute",
           "County Medical Examiner Seeks Public’s Help Identifying Children and Young Adults - San Diego County News Center",
-          "Protecting patients with sickle cell disease from pneumococcal infection after transplant - St. Jude Children's Research Hospital"
+          "Virtual reality reduces anxiety among children awaiting surgery - News-Medical"
         ]
       },
       {
@@ -2644,30 +2655,19 @@
         "score": 8,
         "examples": [
           "RWJBarnabas Health Medical Group Opens New Orthopedic Practice at Robert Wood Johnson University Hospital Rahway - RWJBarnabas Health",
-          "RWJBarnabas Health Medical Group Opens New Orthopedic Practice at Robert Wood Johnson University Hospital Rahway - RWJBarnabas Health",
-          "Measles exposure at Osage hospital prompts health warning - Globe Gazette"
+          "Measles exposure at Osage hospital prompts health warning - Globe Gazette",
+          "Protecting patients with sickle cell disease from pneumococcal infection after transplant - St. Jude Children's Research Hospital"
         ]
       },
       {
-        "trend": "public health",
+        "trend": "warning",
         "market_code": "JO",
         "category": "Arab Health",
-        "score": 7,
+        "score": 8,
         "examples": [
-          "Johns Hopkins Bloomberg School of Public Health Wins Three Anthem Awards - Johns Hopkins Bloomberg School of Public Health",
-          "Johns Hopkins Bloomberg School of Public Health Wins Three Anthem Awards - Johns Hopkins Bloomberg School of Public Health",
-          "Public health alumna finds career connections through mentor’s support - University of South Carolina"
-        ]
-      },
-      {
-        "trend": "measles outbreak",
-        "market_code": "JO",
-        "category": "Outbreaks",
-        "score": 7,
-        "examples": [
-          "Infant’s death linked to measles outbreak in southwest Wisconsin - WPR",
-          "Infant dies in measles outbreak in southwest Wisconsin - CBS News",
-          "Infant dies in Wisconsin measles outbreak - WBAY"
+          "New drug detected in San Diego County's illegal drug supply, prompting health warning - cbs8.com",
+          "Godzilla Fans Should Know This Health Warning Before Seeing Minus One in Theaters - Yahoo",
+          "HEALTH FIRST: Novant Health surgeon highlights warning signs of GERD - WECT"
         ]
       },
       {
@@ -2677,8 +2677,8 @@
         "score": 7,
         "examples": [
           "Bird Flu Death in Washington State Renews Concern Over the Virus - The New York Times",
-          "The Fallacy of Empowered Leadership: A Global Virus - Forbes",
-          "DOH reports 11th travel-related dengue virus case of 2026 - Maui Now"
+          "Mosquito spraying planned in Anderson County after West Nile virus case - WYFF",
+          "The Fallacy of Empowered Leadership: A Global Virus - Forbes"
         ]
       }
     ],
@@ -2687,31 +2687,31 @@
         "trend": "health",
         "market_code": "LB",
         "category": "Arab Health",
-        "score": 89,
+        "score": 83,
         "examples": [
-          "RFK Jr.’s Appointees to Health Task Force Included Four Allowed to Keep Drug Stocks - The New York Times",
-          "KFF Analyzes the Role of Health Care in the Midterms - Medicare Rights Center",
-          "Correctional Health Services Earns Full Accreditation - Utah.gov"
+          "Correctional Health Services Earns Full Accreditation - Utah.gov",
+          "Additional Recreational Dungeness Crab Area Delay in Portions of Humboldt County Due to Public Health Hazard - California Department of Fish and Wildlife (.gov)",
+          "KFF Analyzes the Role of Health Care in the Midterms - Medicare Rights Center"
         ]
       },
       {
         "trend": "medical",
         "market_code": "LB",
         "category": "Arab Health",
-        "score": 22,
+        "score": 19,
         "examples": [
-          "Vandalia Health, osteopathic school to reopen labor, delivery services at Greenbrier Medical Center - West Virginia Watch",
-          "RWJBarnabas Health Medical Group Opens New Orthopedic Practice at Robert Wood Johnson University Hospital Rahway - RWJBarnabas Health",
-          "County Medical Examiner Seeks Public’s Help Identifying Children and Young Adults - San Diego County News Center"
+          "﻿Families question Cook County Medical Examiner after quick identification of 55 bodies in South Chicago Chapel funeral home case - ABC7 Chicago",
+          "County Medical Examiner Seeks Public’s Help Identifying Children and Young Adults - San Diego County News Center",
+          "Maryland Sen. Van Hollen questions medical care before Laurel man's death in ICE custody - CBS News"
         ]
       },
       {
         "trend": "measles",
         "market_code": "LB",
         "category": "Outbreaks",
-        "score": 15,
+        "score": 13,
         "examples": [
-          "Health department warns of potential measles exposure at several Middle Tennessee locations. Here’s what to know - WSMV",
+          "Wisconsin reports infant death linked to measles outbreak - Reuters",
           "Measles exposure at Osage hospital prompts health warning - Globe Gazette",
           "HEALTH ALERT: First measles death reported in WI - WEAU"
         ]
@@ -2720,11 +2720,22 @@
         "trend": "outbreak",
         "market_code": "LB",
         "category": "Outbreaks",
+        "score": 13,
+        "examples": [
+          "Wisconsin reports infant death linked to measles outbreak - Reuters",
+          "DRC Ebola outbreak 'growing exponentially,' UN says - DW.com",
+          "Infant’s death linked to measles outbreak in southwest Wisconsin - WPR"
+        ]
+      },
+      {
+        "trend": "public health",
+        "market_code": "LB",
+        "category": "Arab Health",
         "score": 12,
         "examples": [
-          "Infant’s death linked to measles outbreak in southwest Wisconsin - WPR",
-          "Baby dies from measles amid ongoing outbreak in Wisconsin; 1st death of its kind since 1990, health officials say - ABC7 Chicago",
-          "Infant dies in measles outbreak in southwest Wisconsin - CBS News"
+          "Additional Recreational Dungeness Crab Area Delay in Portions of Humboldt County Due to Public Health Hazard - California Department of Fish and Wildlife (.gov)",
+          "Additional Recreational Dungeness Crab Area Delay in Portions of Humboldt County Due to Public Health Hazard - California Department of Fish and Wildlife (.gov)",
+          "Public health alumna finds career connections through mentor’s support - University of South Carolina"
         ]
       },
       {
@@ -2733,9 +2744,9 @@
         "category": "Mental Health",
         "score": 12,
         "examples": [
-          "'DaeLight Foundation' supports mental health of Camden community - 6abc Philadelphia",
-          "ASCAP Partners With Project Healthy Minds To Expand Mental Health Services - MusicRow.com",
-          "Mental Health Awareness During The Holidays - westmont.il.gov"
+          "St. Tammany Parish budget hearing sparks emotional debate over mental health services - WDSU",
+          "FSU to amplify suicide prevention and mental health promotion with federal grant - Florida State University News",
+          "At HHS’s mental health agency, a suicide deepens anguish among workforce - Government Executive"
         ]
       },
       {
@@ -2744,16 +2755,16 @@
         "category": "Mental Health",
         "score": 11,
         "examples": [
-          "'DaeLight Foundation' supports mental health of Camden community - 6abc Philadelphia",
-          "ASCAP Partners With Project Healthy Minds To Expand Mental Health Services - MusicRow.com",
-          "Mental Health Awareness During The Holidays - westmont.il.gov"
+          "St. Tammany Parish budget hearing sparks emotional debate over mental health services - WDSU",
+          "FSU to amplify suicide prevention and mental health promotion with federal grant - Florida State University News",
+          "At HHS’s mental health agency, a suicide deepens anguish among workforce - Government Executive"
         ]
       },
       {
         "trend": "healthcare",
         "market_code": "LB",
         "category": "Arab Health",
-        "score": 9,
+        "score": 10,
         "examples": [
           "Zocdoc opens infrastructure to AI agents, launches partnership with Instinct - Fierce Healthcare",
           "AI in Healthcare: Uses, Examples & Benefits - Built In",
@@ -2764,11 +2775,11 @@
         "trend": "children",
         "market_code": "LB",
         "category": "Children Health",
-        "score": 8,
+        "score": 9,
         "examples": [
-          "Kansas’ rate of children without health insurance tops national average for second year - Kansas Reflector",
+          "On Demand: Understanding the Rise in Uninsured Children in Kansas - Kansas Health Institute",
           "County Medical Examiner Seeks Public’s Help Identifying Children and Young Adults - San Diego County News Center",
-          "Protecting patients with sickle cell disease from pneumococcal infection after transplant - St. Jude Children's Research Hospital"
+          "Virtual reality reduces anxiety among children awaiting surgery - News-Medical"
         ]
       },
       {
@@ -2778,30 +2789,19 @@
         "score": 8,
         "examples": [
           "RWJBarnabas Health Medical Group Opens New Orthopedic Practice at Robert Wood Johnson University Hospital Rahway - RWJBarnabas Health",
-          "RWJBarnabas Health Medical Group Opens New Orthopedic Practice at Robert Wood Johnson University Hospital Rahway - RWJBarnabas Health",
-          "Measles exposure at Osage hospital prompts health warning - Globe Gazette"
+          "Measles exposure at Osage hospital prompts health warning - Globe Gazette",
+          "Protecting patients with sickle cell disease from pneumococcal infection after transplant - St. Jude Children's Research Hospital"
         ]
       },
       {
-        "trend": "public health",
+        "trend": "warning",
         "market_code": "LB",
         "category": "Arab Health",
-        "score": 7,
+        "score": 8,
         "examples": [
-          "Johns Hopkins Bloomberg School of Public Health Wins Three Anthem Awards - Johns Hopkins Bloomberg School of Public Health",
-          "Johns Hopkins Bloomberg School of Public Health Wins Three Anthem Awards - Johns Hopkins Bloomberg School of Public Health",
-          "Public health alumna finds career connections through mentor’s support - University of South Carolina"
-        ]
-      },
-      {
-        "trend": "measles outbreak",
-        "market_code": "LB",
-        "category": "Outbreaks",
-        "score": 7,
-        "examples": [
-          "Infant’s death linked to measles outbreak in southwest Wisconsin - WPR",
-          "Infant dies in measles outbreak in southwest Wisconsin - CBS News",
-          "Infant dies in Wisconsin measles outbreak - WBAY"
+          "New drug detected in San Diego County's illegal drug supply, prompting health warning - cbs8.com",
+          "Godzilla Fans Should Know This Health Warning Before Seeing Minus One in Theaters - Yahoo",
+          "HEALTH FIRST: Novant Health surgeon highlights warning signs of GERD - WECT"
         ]
       },
       {
@@ -2811,8 +2811,8 @@
         "score": 7,
         "examples": [
           "Bird Flu Death in Washington State Renews Concern Over the Virus - The New York Times",
-          "The Fallacy of Empowered Leadership: A Global Virus - Forbes",
-          "DOH reports 11th travel-related dengue virus case of 2026 - Maui Now"
+          "Mosquito spraying planned in Anderson County after West Nile virus case - WYFF",
+          "The Fallacy of Empowered Leadership: A Global Virus - Forbes"
         ]
       }
     ]
