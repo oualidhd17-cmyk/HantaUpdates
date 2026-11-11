@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10T22:36:37.288272+00:00",
+  "updated_at": "2026-11-11T03:18:58.465632+00:00",
   "total_trends": 252,
   "markets": {
     "United States": [
@@ -7,11 +7,11 @@
         "trend": "health",
         "market_code": "US",
         "category": "US Health",
-        "score": 88,
+        "score": 96,
         "examples": [
-          "California announces funding for psychedelic treatment research to improve veterans’ health - California State Portal | CA.gov",
           "Cervical cancer - World Health Organization (WHO)",
-          "Oura to acquire Counsel Health for $625 million, a big bet on AI care | STAT - STAT"
+          "California announces funding for psychedelic treatment research to improve veterans’ health - California State Portal | CA.gov",
+          "County Behavioral Health establishes dedicated phone line for Silver Rail families - Deschutes County, OR (.gov)"
         ]
       },
       {
@@ -26,34 +26,45 @@
         ]
       },
       {
-        "trend": "medical",
-        "market_code": "US",
-        "category": "US Health",
-        "score": 17,
-        "examples": [
-          "Hall of Famer Ham recovering from medical emergency, Penn State says - ESPN",
-          "Vikings Visit V.A. Medical Centers & Host Military Baby Shower - Minnesota Vikings",
-          "CMS Announces Distribution of Last Medicare-Supported Graduate Medical Education Residency Positions - AAMC"
-        ]
-      },
-      {
         "trend": "cancer",
         "market_code": "US",
         "category": "Chronic Disease",
-        "score": 16,
+        "score": 15,
         "examples": [
           "Cervical cancer - World Health Organization (WHO)",
-          "WVU Cancer Institute opens new facility at Summersville Regional Medical Center - WVU Medicine",
-          "TTUHSC’s Dr. Tyler Mouw Named Medical Director of UMC TLC² Foundation Cancer Center - KCBD"
+          "Cervical cancer - World Health Organization (WHO)",
+          "Zilber College of Public Health Seminar: Cancer Clusters – Facts and Fiction - UW-Milwaukee"
+        ]
+      },
+      {
+        "trend": "medical",
+        "market_code": "US",
+        "category": "US Health",
+        "score": 14,
+        "examples": [
+          "Hall of Famer Ham recovering from medical emergency, Penn State says - ESPN",
+          "Highlights from the 2026 AMA Interim Meeting - American Medical Association | AMA",
+          "Medical Certification Modernization - ALPA"
+        ]
+      },
+      {
+        "trend": "public health",
+        "market_code": "US",
+        "category": "US Health",
+        "score": 13,
+        "examples": [
+          "Earning Trust While Reporting on Black Lung Disease for Over a Decade - Public Health Watch",
+          "Public health report: Most school food services pass muster in October inspections - Waltham Times",
+          "Why Voting is a Public Health Issue - Columbia University Mailman School of Public Health"
         ]
       },
       {
         "trend": "mental",
         "market_code": "US",
         "category": "Mental Health",
-        "score": 13,
+        "score": 12,
         "examples": [
-          "UMW Named to The Princeton Review’s Mental Health Honor Roll - University of Mary Washington",
+          "Mental health app may help unemployed people find jobs, six-week trial suggests - Phys.org",
           "UMW Named to The Princeton Review’s Mental Health Honor Roll - University of Mary Washington",
           "Legislative priorities could focus on mental health diversion, Oklahoma lawmaker says - Oklahoma Voice"
         ]
@@ -62,77 +73,66 @@
         "trend": "outbreak",
         "market_code": "US",
         "category": "Outbreaks",
-        "score": 12,
+        "score": 10,
         "examples": [
           "Australia: Leptospirosis alert issued in the Northern Territory - Outbreak News Today",
           "WHO Health Emergencies EPI-WIN webinar: Update on the current Ebola Bundibugyo virus disease outbreak - World Health Organization (WHO)",
-          "CDC declares its probe into outbreak of E coli, Salmonella illnesses tied to alfalfa sprouts over - CIDRAP"
+          "Ebola Outbreak, DRC and Region, Situation Report #15 (November 10, 2026) - ReliefWeb"
         ]
       },
       {
         "trend": "mental health",
         "market_code": "US",
         "category": "Mental Health",
-        "score": 11,
+        "score": 10,
         "examples": [
-          "UMW Named to The Princeton Review’s Mental Health Honor Roll - University of Mary Washington",
+          "Mental health app may help unemployed people find jobs, six-week trial suggests - Phys.org",
           "UMW Named to The Princeton Review’s Mental Health Honor Roll - University of Mary Washington",
           "Legislative priorities could focus on mental health diversion, Oklahoma lawmaker says - Oklahoma Voice"
-        ]
-      },
-      {
-        "trend": "public health",
-        "market_code": "US",
-        "category": "US Health",
-        "score": 9,
-        "examples": [
-          "Zilber College of Public Health Seminar: Cancer Clusters – Facts and Fiction - UW-Milwaukee",
-          "The U.S. could lose a decades-old public health achievement - The Washington Post",
-          "Court’s methylene chloride decision leaves public health in danger - Toxic-Free Future"
         ]
       },
       {
         "trend": "warning",
         "market_code": "US",
         "category": "US Health",
-        "score": 8,
+        "score": 9,
         "examples": [
-          "Episcopal Health Services marks Lung Cancer Awareness Month by encouraging knowing warning signs and getting screened - QNS.com",
-          "Health Department issues warning to ten Michigan counties over new synthetic opioid - 9and10News.com",
-          "Health warning issued as temperatures to plummet - Yahoo News Australia"
-        ]
-      },
-      {
-        "trend": "health alert",
-        "market_code": "US",
-        "category": "US Health",
-        "score": 8,
-        "examples": [
-          "First cold health alert of winter issued as UK temperatures to plummet - The Independent",
-          "HEALTH ALERT: Confirmed Case of Measles in Clark County - WEAU",
-          "Check your freezer. List of meats under a public health alert - Florida Today"
-        ]
-      },
-      {
-        "trend": "medicine",
-        "market_code": "US",
-        "category": "US Health",
-        "score": 7,
-        "examples": [
-          "WVU Cancer Institute opens new facility at Summersville Regional Medical Center - WVU Medicine",
-          "Postpartum psychosis: Five things to know from a Stanford Medicine psychiatrist - Stanford Medicine",
-          "Postpartum psychosis: Five things to know from a Stanford Medicine psychiatrist - Stanford Medicine"
+          "Health warning issued as temperatures to plummet - BBC",
+          "Tuesday Health Report: FDA mandates warning for rare eye condition on popular GLP-1 medications - WBRZ",
+          "Episcopal Health Services marks Lung Cancer Awareness Month by encouraging knowing warning signs and getting screened - QNS.com"
         ]
       },
       {
         "trend": "measles",
         "market_code": "US",
         "category": "Outbreaks",
-        "score": 7,
+        "score": 9,
         "examples": [
           "In case you missed it: Measles exposure at Osage hospital prompts health warning - Globe Gazette",
           "HEALTH ALERT: Confirmed Case of Measles in Clark County - WEAU",
-          "Wisconsin health officials advise early measles vaccination for some infants amid outbreak - WPR"
+          "US poised to lose measles elimination status—what does that mean? - CIDRAP"
+        ]
+      },
+      {
+        "trend": "virus",
+        "market_code": "US",
+        "category": "Outbreaks",
+        "score": 7,
+        "examples": [
+          "WHO Health Emergencies EPI-WIN webinar: Update on the current Ebola Bundibugyo virus disease outbreak - World Health Organization (WHO)",
+          "Bird flu hits Oregon dairy herd as virus strikes Northwest - Capital Press",
+          "Flu flares in CSRA with some schools closing as virus hits early - WRDW"
+        ]
+      },
+      {
+        "trend": "world health",
+        "market_code": "US",
+        "category": "US Health",
+        "score": 6,
+        "examples": [
+          "Cervical cancer - World Health Organization (WHO)",
+          "Cervical cancer - World Health Organization (WHO)",
+          "WHO Health Emergencies EPI-WIN webinar: Update on the current Ebola Bundibugyo virus disease outbreak - World Health Organization (WHO)"
         ]
       }
     ],
@@ -141,18 +141,18 @@
         "trend": "health",
         "market_code": "GB",
         "category": "Europe Health",
-        "score": 78,
+        "score": 79,
         "examples": [
-          "Cervical cancer - World Health Organization (WHO)",
           "Welsh health visitors secure historic pay win - Unite the Union",
-          "Deal agreed to end health visitor strike affecting baby appointments - BBC"
+          "Health and care sector latest developments - The NHS Alliance",
+          "Cervical cancer - World Health Organization (WHO)"
         ]
       },
       {
         "trend": "medical",
         "market_code": "GB",
         "category": "Europe Health",
-        "score": 17,
+        "score": 14,
         "examples": [
           "The delivery that beat the clock: Medical supplies by plane, South Sudan - Save the Children UK",
           "AI tools can simplify medical reports but still need human oversight - Medical Xpress",
@@ -163,22 +163,22 @@
         "trend": "healthcare",
         "market_code": "GB",
         "category": "Europe Health",
-        "score": 15,
+        "score": 14,
         "examples": [
           "Council and ICB partner on £3.85m medical centre - Healthcare Management Magazine",
-          "Mobia Medical at 8th Annual Wolfe Research Healthcare Conference: growth push - Investing.com UK",
-          "Trust to open first intensive care unit for women with serious mental health needs - Healthcare Management Magazine"
+          "Every UK medical student offered free trans healthcare training - PinkNews",
+          "AI in healthcare - ActuIA"
         ]
       },
       {
         "trend": "cancer",
         "market_code": "GB",
         "category": "Chronic Disease",
-        "score": 13,
+        "score": 11,
         "examples": [
           "Cervical cancer - World Health Organization (WHO)",
-          "Stronger immune system may help protect against prostate cancer - Nuffield Department of Population Health",
-          "Cervical cancer - World Health Organization (WHO)"
+          "Cervical cancer - World Health Organization (WHO)",
+          "BBC Ground Force star Tommy Walsh's silent health warning before cancer diagnosis - Liverpool Echo"
         ]
       },
       {
@@ -188,8 +188,8 @@
         "score": 11,
         "examples": [
           "Men over 40: the 10 mental health warning signs you should never ignore - Men's Fitness",
-          "Can 50 minutes in a floatation tank improve your mental health? - The Times",
-          "DfE overhauls Staying Close scheme with focus on accommodation and mental health support for care leavers - Communitycare.co.uk"
+          "People with severe mental illness four times more likely to die early from cardiovascular disease, report warns - Centre for Mental Health",
+          "People with severe mental illness four times more likely to die early from cardiovascular disease, report warns - Centre for Mental Health"
         ]
       },
       {
@@ -200,33 +200,11 @@
         "examples": [
           "Health warning issued as temperatures to plummet - BBC",
           "Health warning issued as temperatures to plummet - BBC",
-          "First cold health warning of winter across the West Midlands with temperatures expected to dip - Rayo"
-        ]
-      },
-      {
-        "trend": "mental health",
-        "market_code": "GB",
-        "category": "Mental Health",
-        "score": 10,
-        "examples": [
-          "Men over 40: the 10 mental health warning signs you should never ignore - Men's Fitness",
-          "Can 50 minutes in a floatation tank improve your mental health? - The Times",
-          "DfE overhauls Staying Close scheme with focus on accommodation and mental health support for care leavers - Communitycare.co.uk"
+          "Health warning issued as temperatures to plummet - BBC"
         ]
       },
       {
         "trend": "cold-health",
-        "market_code": "GB",
-        "category": "Europe Health",
-        "score": 9,
-        "examples": [
-          "UKHSA issues first cold-health alert of winter 2026/27 - GOV.UK",
-          "UKHSA issues first cold-health alert of winter 2026/27 - GOV.UK",
-          "UKHSA issues first cold-health alert of winter 2026/27 - GOV.UK"
-        ]
-      },
-      {
-        "trend": "cold-health alert",
         "market_code": "GB",
         "category": "Europe Health",
         "score": 8,
@@ -244,29 +222,51 @@
         "examples": [
           "Health warning issued as temperatures to plummet - BBC",
           "Health warning issued as temperatures to plummet - BBC",
-          "First cold health warning of winter across the West Midlands with temperatures expected to dip - Rayo"
+          "Health warning issued as temperatures to plummet - BBC"
         ]
       },
       {
-        "trend": "world health",
+        "trend": "disease",
         "market_code": "GB",
         "category": "Europe Health",
-        "score": 7,
+        "score": 8,
         "examples": [
-          "Cervical cancer - World Health Organization (WHO)",
-          "Cervical cancer - World Health Organization (WHO)",
+          "[HIV Glasgow 2026] Infectious Disease Special Edition | Biktarvy exhibits health benefits beyond HIV treatment - European AIDS Treatment Group",
+          "Exeter launches medical mycology unit in Asia to fight global fungal disease - University of Exeter News",
           "WHO Health Emergencies EPI-WIN webinar: Update on the current Ebola Bundibugyo virus disease outbreak - World Health Organization (WHO)"
         ]
       },
       {
-        "trend": "health organization",
+        "trend": "mental health",
+        "market_code": "GB",
+        "category": "Mental Health",
+        "score": 8,
+        "examples": [
+          "Men over 40: the 10 mental health warning signs you should never ignore - Men's Fitness",
+          "People with severe mental illness four times more likely to die early from cardiovascular disease, report warns - Centre for Mental Health",
+          "The free weekly activity that could boost children's mental health - The Independent"
+        ]
+      },
+      {
+        "trend": "cold-health alert",
         "market_code": "GB",
         "category": "Europe Health",
         "score": 7,
         "examples": [
-          "Cervical cancer - World Health Organization (WHO)",
-          "Cervical cancer - World Health Organization (WHO)",
-          "WHO Health Emergencies EPI-WIN webinar: Update on the current Ebola Bundibugyo virus disease outbreak - World Health Organization (WHO)"
+          "UKHSA issues first cold-health alert of winter 2026/27 - GOV.UK",
+          "UKHSA issues first cold-health alert of winter 2026/27 - GOV.UK",
+          "UKHSA issues first cold-health alert of winter 2026/27 - GOV.UK"
+        ]
+      },
+      {
+        "trend": "children",
+        "market_code": "GB",
+        "category": "Children Health",
+        "score": 7,
+        "examples": [
+          "The delivery that beat the clock: Medical supplies by plane, South Sudan - Save the Children UK",
+          "Parents issued warning over 'hidden' health concern for children - Manchester Evening News",
+          "The free weekly activity that could boost children's mental health - The Independent"
         ]
       }
     ],
@@ -275,11 +275,11 @@
         "trend": "health",
         "market_code": "DE",
         "category": "Europe Health",
-        "score": 92,
+        "score": 97,
         "examples": [
           "Cervical cancer - World Health Organization (WHO)",
           "California announces funding for psychedelic treatment research to improve veterans’ health - California State Portal | CA.gov",
-          "Smart ring maker Oura to acquire Counsel Health for $625 million - Reuters"
+          "County Behavioral Health establishes dedicated phone line for Silver Rail families - Deschutes County, OR (.gov)"
         ]
       },
       {
@@ -297,31 +297,42 @@
         "trend": "cancer",
         "market_code": "DE",
         "category": "Chronic Disease",
-        "score": 17,
+        "score": 15,
         "examples": [
           "Cervical cancer - World Health Organization (WHO)",
-          "WVU Cancer Institute opens new facility at Summersville Regional Medical Center - WVU Medicine",
-          "TTUHSC’s Dr. Tyler Mouw Named Medical Director of UMC TLC² Foundation Cancer Center - KCBD"
+          "Cervical cancer - World Health Organization (WHO)",
+          "Zilber College of Public Health Seminar: Cancer Clusters – Facts and Fiction - UW-Milwaukee"
         ]
       },
       {
         "trend": "medical",
         "market_code": "DE",
         "category": "Europe Health",
-        "score": 17,
+        "score": 14,
         "examples": [
+          "Highlights from the 2026 AMA Interim Meeting - American Medical Association | AMA",
           "Hall of Famer Ham recovering from medical emergency, Penn State says - ESPN",
-          "Vikings Visit V.A. Medical Centers & Host Military Baby Shower - Minnesota Vikings",
-          "CMS Announces Distribution of Last Medicare-Supported Graduate Medical Education Residency Positions - AAMC"
+          "Medical Certification Modernization - ALPA"
+        ]
+      },
+      {
+        "trend": "public health",
+        "market_code": "DE",
+        "category": "Europe Health",
+        "score": 13,
+        "examples": [
+          "Earning Trust While Reporting on Black Lung Disease for Over a Decade - Public Health Watch",
+          "Public health report: Most school food services pass muster in October inspections - Waltham Times",
+          "Why Voting is a Public Health Issue - Columbia University Mailman School of Public Health"
         ]
       },
       {
         "trend": "mental",
         "market_code": "DE",
         "category": "Mental Health",
-        "score": 13,
+        "score": 12,
         "examples": [
-          "UMW Named to The Princeton Review’s Mental Health Honor Roll - University of Mary Washington",
+          "Mental health app may help unemployed people find jobs, six-week trial suggests - Phys.org",
           "UMW Named to The Princeton Review’s Mental Health Honor Roll - University of Mary Washington",
           "Legislative priorities could focus on mental health diversion, Oklahoma lawmaker says - Oklahoma Voice"
         ]
@@ -330,77 +341,66 @@
         "trend": "outbreak",
         "market_code": "DE",
         "category": "Outbreaks",
-        "score": 12,
+        "score": 10,
         "examples": [
           "Australia: Leptospirosis alert issued in the Northern Territory - Outbreak News Today",
           "WHO Health Emergencies EPI-WIN webinar: Update on the current Ebola Bundibugyo virus disease outbreak - World Health Organization (WHO)",
-          "CDC declares its probe into outbreak of E coli, Salmonella illnesses tied to alfalfa sprouts over - CIDRAP"
+          "Ebola Outbreak, DRC and Region, Situation Report #15 (November 10, 2026) - ReliefWeb"
         ]
       },
       {
         "trend": "mental health",
         "market_code": "DE",
         "category": "Mental Health",
-        "score": 11,
-        "examples": [
-          "UMW Named to The Princeton Review’s Mental Health Honor Roll - University of Mary Washington",
-          "UMW Named to The Princeton Review’s Mental Health Honor Roll - University of Mary Washington",
-          "Legislative priorities could focus on mental health diversion, Oklahoma lawmaker says - Oklahoma Voice"
-        ]
-      },
-      {
-        "trend": "public health",
-        "market_code": "DE",
-        "category": "Europe Health",
         "score": 10,
         "examples": [
-          "Zilber College of Public Health Seminar: Cancer Clusters – Facts and Fiction - UW-Milwaukee",
-          "The U.S. could lose a decades-old public health achievement - The Washington Post",
-          "Court’s methylene chloride decision leaves public health in danger - Toxic-Free Future"
+          "Mental health app may help unemployed people find jobs, six-week trial suggests - Phys.org",
+          "UMW Named to The Princeton Review’s Mental Health Honor Roll - University of Mary Washington",
+          "Legislative priorities could focus on mental health diversion, Oklahoma lawmaker says - Oklahoma Voice"
         ]
       },
       {
         "trend": "warning",
         "market_code": "DE",
         "category": "Europe Health",
-        "score": 8,
+        "score": 9,
         "examples": [
-          "Episcopal Health Services marks Lung Cancer Awareness Month by encouraging knowing warning signs and getting screened - QNS.com",
-          "Health Department issues warning to ten Michigan counties over new synthetic opioid - 9and10News.com",
-          "Auto Repair Expert Gerald Gillis Highlights Brake Health Warning Signs That Affect Driving Safety - Yahoo Finance"
-        ]
-      },
-      {
-        "trend": "health alert",
-        "market_code": "DE",
-        "category": "Europe Health",
-        "score": 8,
-        "examples": [
-          "First cold health alert of winter issued as UK temperatures to plummet - The Independent",
-          "HEALTH ALERT: Confirmed Case of Measles in Clark County - WEAU",
-          "Check your freezer. List of meats under a public health alert - Florida Today"
-        ]
-      },
-      {
-        "trend": "medicine",
-        "market_code": "DE",
-        "category": "Europe Health",
-        "score": 7,
-        "examples": [
-          "WVU Cancer Institute opens new facility at Summersville Regional Medical Center - WVU Medicine",
-          "Postpartum psychosis: Five things to know from a Stanford Medicine psychiatrist - Stanford Medicine",
-          "Postpartum psychosis: Five things to know from a Stanford Medicine psychiatrist - Stanford Medicine"
+          "Health warning issued as temperatures to plummet - BBC",
+          "Tuesday Health Report: FDA mandates warning for rare eye condition on popular GLP-1 medications - WBRZ",
+          "Episcopal Health Services marks Lung Cancer Awareness Month by encouraging knowing warning signs and getting screened - QNS.com"
         ]
       },
       {
         "trend": "measles",
         "market_code": "DE",
         "category": "Outbreaks",
-        "score": 7,
+        "score": 9,
         "examples": [
           "In case you missed it: Measles exposure at Osage hospital prompts health warning - Globe Gazette",
           "HEALTH ALERT: Confirmed Case of Measles in Clark County - WEAU",
-          "Wisconsin health officials advise early measles vaccination for some infants amid outbreak - WPR"
+          "US poised to lose measles elimination status—what does that mean? - CIDRAP"
+        ]
+      },
+      {
+        "trend": "virus",
+        "market_code": "DE",
+        "category": "Outbreaks",
+        "score": 7,
+        "examples": [
+          "WHO Health Emergencies EPI-WIN webinar: Update on the current Ebola Bundibugyo virus disease outbreak - World Health Organization (WHO)",
+          "Bird flu hits Oregon dairy herd as virus strikes Northwest - Capital Press",
+          "Flu flares in CSRA with some schools closing as virus hits early - WRDW"
+        ]
+      },
+      {
+        "trend": "world health",
+        "market_code": "DE",
+        "category": "Europe Health",
+        "score": 6,
+        "examples": [
+          "Cervical cancer - World Health Organization (WHO)",
+          "Cervical cancer - World Health Organization (WHO)",
+          "WHO Health Emergencies EPI-WIN webinar: Update on the current Ebola Bundibugyo virus disease outbreak - World Health Organization (WHO)"
         ]
       }
     ],
@@ -409,11 +409,11 @@
         "trend": "health",
         "market_code": "FR",
         "category": "Europe Health",
-        "score": 92,
+        "score": 97,
         "examples": [
           "Cervical cancer - World Health Organization (WHO)",
           "California announces funding for psychedelic treatment research to improve veterans’ health - California State Portal | CA.gov",
-          "Smart ring maker Oura to acquire Counsel Health for $625 million - Reuters"
+          "County Behavioral Health establishes dedicated phone line for Silver Rail families - Deschutes County, OR (.gov)"
         ]
       },
       {
@@ -431,31 +431,42 @@
         "trend": "cancer",
         "market_code": "FR",
         "category": "Chronic Disease",
-        "score": 17,
+        "score": 15,
         "examples": [
           "Cervical cancer - World Health Organization (WHO)",
-          "WVU Cancer Institute opens new facility at Summersville Regional Medical Center - WVU Medicine",
-          "TTUHSC’s Dr. Tyler Mouw Named Medical Director of UMC TLC² Foundation Cancer Center - KCBD"
+          "Cervical cancer - World Health Organization (WHO)",
+          "Zilber College of Public Health Seminar: Cancer Clusters – Facts and Fiction - UW-Milwaukee"
         ]
       },
       {
         "trend": "medical",
         "market_code": "FR",
         "category": "Europe Health",
-        "score": 17,
+        "score": 14,
         "examples": [
+          "Highlights from the 2026 AMA Interim Meeting - American Medical Association | AMA",
           "Hall of Famer Ham recovering from medical emergency, Penn State says - ESPN",
-          "Vikings Visit V.A. Medical Centers & Host Military Baby Shower - Minnesota Vikings",
-          "CMS Announces Distribution of Last Medicare-Supported Graduate Medical Education Residency Positions - AAMC"
+          "Medical Certification Modernization - ALPA"
+        ]
+      },
+      {
+        "trend": "public health",
+        "market_code": "FR",
+        "category": "Europe Health",
+        "score": 13,
+        "examples": [
+          "Earning Trust While Reporting on Black Lung Disease for Over a Decade - Public Health Watch",
+          "Public health report: Most school food services pass muster in October inspections - Waltham Times",
+          "Why Voting is a Public Health Issue - Columbia University Mailman School of Public Health"
         ]
       },
       {
         "trend": "mental",
         "market_code": "FR",
         "category": "Mental Health",
-        "score": 13,
+        "score": 12,
         "examples": [
-          "UMW Named to The Princeton Review’s Mental Health Honor Roll - University of Mary Washington",
+          "Mental health app may help unemployed people find jobs, six-week trial suggests - Phys.org",
           "UMW Named to The Princeton Review’s Mental Health Honor Roll - University of Mary Washington",
           "Legislative priorities could focus on mental health diversion, Oklahoma lawmaker says - Oklahoma Voice"
         ]
@@ -464,77 +475,66 @@
         "trend": "outbreak",
         "market_code": "FR",
         "category": "Outbreaks",
-        "score": 12,
+        "score": 10,
         "examples": [
           "Australia: Leptospirosis alert issued in the Northern Territory - Outbreak News Today",
           "WHO Health Emergencies EPI-WIN webinar: Update on the current Ebola Bundibugyo virus disease outbreak - World Health Organization (WHO)",
-          "CDC declares its probe into outbreak of E coli, Salmonella illnesses tied to alfalfa sprouts over - CIDRAP"
+          "Ebola Outbreak, DRC and Region, Situation Report #15 (November 10, 2026) - ReliefWeb"
         ]
       },
       {
         "trend": "mental health",
         "market_code": "FR",
         "category": "Mental Health",
-        "score": 11,
-        "examples": [
-          "UMW Named to The Princeton Review’s Mental Health Honor Roll - University of Mary Washington",
-          "UMW Named to The Princeton Review’s Mental Health Honor Roll - University of Mary Washington",
-          "Legislative priorities could focus on mental health diversion, Oklahoma lawmaker says - Oklahoma Voice"
-        ]
-      },
-      {
-        "trend": "public health",
-        "market_code": "FR",
-        "category": "Europe Health",
         "score": 10,
         "examples": [
-          "Zilber College of Public Health Seminar: Cancer Clusters – Facts and Fiction - UW-Milwaukee",
-          "The U.S. could lose a decades-old public health achievement - The Washington Post",
-          "Court’s methylene chloride decision leaves public health in danger - Toxic-Free Future"
+          "Mental health app may help unemployed people find jobs, six-week trial suggests - Phys.org",
+          "UMW Named to The Princeton Review’s Mental Health Honor Roll - University of Mary Washington",
+          "Legislative priorities could focus on mental health diversion, Oklahoma lawmaker says - Oklahoma Voice"
         ]
       },
       {
         "trend": "warning",
         "market_code": "FR",
         "category": "Europe Health",
-        "score": 8,
+        "score": 9,
         "examples": [
-          "Episcopal Health Services marks Lung Cancer Awareness Month by encouraging knowing warning signs and getting screened - QNS.com",
-          "Health Department issues warning to ten Michigan counties over new synthetic opioid - 9and10News.com",
-          "Auto Repair Expert Gerald Gillis Highlights Brake Health Warning Signs That Affect Driving Safety - Yahoo Finance"
-        ]
-      },
-      {
-        "trend": "health alert",
-        "market_code": "FR",
-        "category": "Europe Health",
-        "score": 8,
-        "examples": [
-          "First cold health alert of winter issued as UK temperatures to plummet - The Independent",
-          "HEALTH ALERT: Confirmed Case of Measles in Clark County - WEAU",
-          "Check your freezer. List of meats under a public health alert - Florida Today"
-        ]
-      },
-      {
-        "trend": "medicine",
-        "market_code": "FR",
-        "category": "Europe Health",
-        "score": 7,
-        "examples": [
-          "WVU Cancer Institute opens new facility at Summersville Regional Medical Center - WVU Medicine",
-          "Postpartum psychosis: Five things to know from a Stanford Medicine psychiatrist - Stanford Medicine",
-          "Postpartum psychosis: Five things to know from a Stanford Medicine psychiatrist - Stanford Medicine"
+          "Health warning issued as temperatures to plummet - BBC",
+          "Tuesday Health Report: FDA mandates warning for rare eye condition on popular GLP-1 medications - WBRZ",
+          "Episcopal Health Services marks Lung Cancer Awareness Month by encouraging knowing warning signs and getting screened - QNS.com"
         ]
       },
       {
         "trend": "measles",
         "market_code": "FR",
         "category": "Outbreaks",
-        "score": 7,
+        "score": 9,
         "examples": [
           "In case you missed it: Measles exposure at Osage hospital prompts health warning - Globe Gazette",
           "HEALTH ALERT: Confirmed Case of Measles in Clark County - WEAU",
-          "Wisconsin health officials advise early measles vaccination for some infants amid outbreak - WPR"
+          "US poised to lose measles elimination status—what does that mean? - CIDRAP"
+        ]
+      },
+      {
+        "trend": "virus",
+        "market_code": "FR",
+        "category": "Outbreaks",
+        "score": 7,
+        "examples": [
+          "WHO Health Emergencies EPI-WIN webinar: Update on the current Ebola Bundibugyo virus disease outbreak - World Health Organization (WHO)",
+          "Bird flu hits Oregon dairy herd as virus strikes Northwest - Capital Press",
+          "Flu flares in CSRA with some schools closing as virus hits early - WRDW"
+        ]
+      },
+      {
+        "trend": "world health",
+        "market_code": "FR",
+        "category": "Europe Health",
+        "score": 6,
+        "examples": [
+          "Cervical cancer - World Health Organization (WHO)",
+          "Cervical cancer - World Health Organization (WHO)",
+          "WHO Health Emergencies EPI-WIN webinar: Update on the current Ebola Bundibugyo virus disease outbreak - World Health Organization (WHO)"
         ]
       }
     ],
@@ -543,11 +543,11 @@
         "trend": "health",
         "market_code": "IT",
         "category": "Europe Health",
-        "score": 92,
+        "score": 97,
         "examples": [
           "Cervical cancer - World Health Organization (WHO)",
           "California announces funding for psychedelic treatment research to improve veterans’ health - California State Portal | CA.gov",
-          "Smart ring maker Oura to acquire Counsel Health for $625 million - Reuters"
+          "County Behavioral Health establishes dedicated phone line for Silver Rail families - Deschutes County, OR (.gov)"
         ]
       },
       {
@@ -565,31 +565,42 @@
         "trend": "cancer",
         "market_code": "IT",
         "category": "Chronic Disease",
-        "score": 17,
+        "score": 15,
         "examples": [
           "Cervical cancer - World Health Organization (WHO)",
-          "WVU Cancer Institute opens new facility at Summersville Regional Medical Center - WVU Medicine",
-          "TTUHSC’s Dr. Tyler Mouw Named Medical Director of UMC TLC² Foundation Cancer Center - KCBD"
+          "Cervical cancer - World Health Organization (WHO)",
+          "Zilber College of Public Health Seminar: Cancer Clusters – Facts and Fiction - UW-Milwaukee"
         ]
       },
       {
         "trend": "medical",
         "market_code": "IT",
         "category": "Europe Health",
-        "score": 17,
+        "score": 14,
         "examples": [
+          "Highlights from the 2026 AMA Interim Meeting - American Medical Association | AMA",
           "Hall of Famer Ham recovering from medical emergency, Penn State says - ESPN",
-          "Vikings Visit V.A. Medical Centers & Host Military Baby Shower - Minnesota Vikings",
-          "CMS Announces Distribution of Last Medicare-Supported Graduate Medical Education Residency Positions - AAMC"
+          "Medical Certification Modernization - ALPA"
+        ]
+      },
+      {
+        "trend": "public health",
+        "market_code": "IT",
+        "category": "Europe Health",
+        "score": 13,
+        "examples": [
+          "Earning Trust While Reporting on Black Lung Disease for Over a Decade - Public Health Watch",
+          "Public health report: Most school food services pass muster in October inspections - Waltham Times",
+          "Why Voting is a Public Health Issue - Columbia University Mailman School of Public Health"
         ]
       },
       {
         "trend": "mental",
         "market_code": "IT",
         "category": "Mental Health",
-        "score": 13,
+        "score": 12,
         "examples": [
-          "UMW Named to The Princeton Review’s Mental Health Honor Roll - University of Mary Washington",
+          "Mental health app may help unemployed people find jobs, six-week trial suggests - Phys.org",
           "UMW Named to The Princeton Review’s Mental Health Honor Roll - University of Mary Washington",
           "Legislative priorities could focus on mental health diversion, Oklahoma lawmaker says - Oklahoma Voice"
         ]
@@ -598,77 +609,66 @@
         "trend": "outbreak",
         "market_code": "IT",
         "category": "Outbreaks",
-        "score": 12,
+        "score": 10,
         "examples": [
           "Australia: Leptospirosis alert issued in the Northern Territory - Outbreak News Today",
           "WHO Health Emergencies EPI-WIN webinar: Update on the current Ebola Bundibugyo virus disease outbreak - World Health Organization (WHO)",
-          "CDC declares its probe into outbreak of E coli, Salmonella illnesses tied to alfalfa sprouts over - CIDRAP"
+          "Ebola Outbreak, DRC and Region, Situation Report #15 (November 10, 2026) - ReliefWeb"
         ]
       },
       {
         "trend": "mental health",
         "market_code": "IT",
         "category": "Mental Health",
-        "score": 11,
-        "examples": [
-          "UMW Named to The Princeton Review’s Mental Health Honor Roll - University of Mary Washington",
-          "UMW Named to The Princeton Review’s Mental Health Honor Roll - University of Mary Washington",
-          "Legislative priorities could focus on mental health diversion, Oklahoma lawmaker says - Oklahoma Voice"
-        ]
-      },
-      {
-        "trend": "public health",
-        "market_code": "IT",
-        "category": "Europe Health",
         "score": 10,
         "examples": [
-          "Zilber College of Public Health Seminar: Cancer Clusters – Facts and Fiction - UW-Milwaukee",
-          "The U.S. could lose a decades-old public health achievement - The Washington Post",
-          "Court’s methylene chloride decision leaves public health in danger - Toxic-Free Future"
+          "Mental health app may help unemployed people find jobs, six-week trial suggests - Phys.org",
+          "UMW Named to The Princeton Review’s Mental Health Honor Roll - University of Mary Washington",
+          "Legislative priorities could focus on mental health diversion, Oklahoma lawmaker says - Oklahoma Voice"
         ]
       },
       {
         "trend": "warning",
         "market_code": "IT",
         "category": "Europe Health",
-        "score": 8,
+        "score": 9,
         "examples": [
-          "Episcopal Health Services marks Lung Cancer Awareness Month by encouraging knowing warning signs and getting screened - QNS.com",
-          "Health Department issues warning to ten Michigan counties over new synthetic opioid - 9and10News.com",
-          "Auto Repair Expert Gerald Gillis Highlights Brake Health Warning Signs That Affect Driving Safety - Yahoo Finance"
-        ]
-      },
-      {
-        "trend": "health alert",
-        "market_code": "IT",
-        "category": "Europe Health",
-        "score": 8,
-        "examples": [
-          "First cold health alert of winter issued as UK temperatures to plummet - The Independent",
-          "HEALTH ALERT: Confirmed Case of Measles in Clark County - WEAU",
-          "Check your freezer. List of meats under a public health alert - Florida Today"
-        ]
-      },
-      {
-        "trend": "medicine",
-        "market_code": "IT",
-        "category": "Europe Health",
-        "score": 7,
-        "examples": [
-          "WVU Cancer Institute opens new facility at Summersville Regional Medical Center - WVU Medicine",
-          "Postpartum psychosis: Five things to know from a Stanford Medicine psychiatrist - Stanford Medicine",
-          "Postpartum psychosis: Five things to know from a Stanford Medicine psychiatrist - Stanford Medicine"
+          "Health warning issued as temperatures to plummet - BBC",
+          "Tuesday Health Report: FDA mandates warning for rare eye condition on popular GLP-1 medications - WBRZ",
+          "Episcopal Health Services marks Lung Cancer Awareness Month by encouraging knowing warning signs and getting screened - QNS.com"
         ]
       },
       {
         "trend": "measles",
         "market_code": "IT",
         "category": "Outbreaks",
-        "score": 7,
+        "score": 9,
         "examples": [
           "In case you missed it: Measles exposure at Osage hospital prompts health warning - Globe Gazette",
           "HEALTH ALERT: Confirmed Case of Measles in Clark County - WEAU",
-          "Wisconsin health officials advise early measles vaccination for some infants amid outbreak - WPR"
+          "US poised to lose measles elimination status—what does that mean? - CIDRAP"
+        ]
+      },
+      {
+        "trend": "virus",
+        "market_code": "IT",
+        "category": "Outbreaks",
+        "score": 7,
+        "examples": [
+          "WHO Health Emergencies EPI-WIN webinar: Update on the current Ebola Bundibugyo virus disease outbreak - World Health Organization (WHO)",
+          "Bird flu hits Oregon dairy herd as virus strikes Northwest - Capital Press",
+          "Flu flares in CSRA with some schools closing as virus hits early - WRDW"
+        ]
+      },
+      {
+        "trend": "world health",
+        "market_code": "IT",
+        "category": "Europe Health",
+        "score": 6,
+        "examples": [
+          "Cervical cancer - World Health Organization (WHO)",
+          "Cervical cancer - World Health Organization (WHO)",
+          "WHO Health Emergencies EPI-WIN webinar: Update on the current Ebola Bundibugyo virus disease outbreak - World Health Organization (WHO)"
         ]
       }
     ],
@@ -677,11 +677,11 @@
         "trend": "health",
         "market_code": "ES",
         "category": "Europe Health",
-        "score": 92,
+        "score": 97,
         "examples": [
           "Cervical cancer - World Health Organization (WHO)",
           "California announces funding for psychedelic treatment research to improve veterans’ health - California State Portal | CA.gov",
-          "Smart ring maker Oura to acquire Counsel Health for $625 million - Reuters"
+          "County Behavioral Health establishes dedicated phone line for Silver Rail families - Deschutes County, OR (.gov)"
         ]
       },
       {
@@ -699,31 +699,42 @@
         "trend": "cancer",
         "market_code": "ES",
         "category": "Chronic Disease",
-        "score": 17,
+        "score": 15,
         "examples": [
           "Cervical cancer - World Health Organization (WHO)",
-          "WVU Cancer Institute opens new facility at Summersville Regional Medical Center - WVU Medicine",
-          "TTUHSC’s Dr. Tyler Mouw Named Medical Director of UMC TLC² Foundation Cancer Center - KCBD"
+          "Cervical cancer - World Health Organization (WHO)",
+          "Zilber College of Public Health Seminar: Cancer Clusters – Facts and Fiction - UW-Milwaukee"
         ]
       },
       {
         "trend": "medical",
         "market_code": "ES",
         "category": "Europe Health",
-        "score": 17,
+        "score": 14,
         "examples": [
+          "Highlights from the 2026 AMA Interim Meeting - American Medical Association | AMA",
           "Hall of Famer Ham recovering from medical emergency, Penn State says - ESPN",
-          "Vikings Visit V.A. Medical Centers & Host Military Baby Shower - Minnesota Vikings",
-          "CMS Announces Distribution of Last Medicare-Supported Graduate Medical Education Residency Positions - AAMC"
+          "Medical Certification Modernization - ALPA"
+        ]
+      },
+      {
+        "trend": "public health",
+        "market_code": "ES",
+        "category": "Europe Health",
+        "score": 13,
+        "examples": [
+          "Earning Trust While Reporting on Black Lung Disease for Over a Decade - Public Health Watch",
+          "Public health report: Most school food services pass muster in October inspections - Waltham Times",
+          "Why Voting is a Public Health Issue - Columbia University Mailman School of Public Health"
         ]
       },
       {
         "trend": "mental",
         "market_code": "ES",
         "category": "Mental Health",
-        "score": 13,
+        "score": 12,
         "examples": [
-          "UMW Named to The Princeton Review’s Mental Health Honor Roll - University of Mary Washington",
+          "Mental health app may help unemployed people find jobs, six-week trial suggests - Phys.org",
           "UMW Named to The Princeton Review’s Mental Health Honor Roll - University of Mary Washington",
           "Legislative priorities could focus on mental health diversion, Oklahoma lawmaker says - Oklahoma Voice"
         ]
@@ -732,77 +743,66 @@
         "trend": "outbreak",
         "market_code": "ES",
         "category": "Outbreaks",
-        "score": 12,
+        "score": 10,
         "examples": [
           "Australia: Leptospirosis alert issued in the Northern Territory - Outbreak News Today",
           "WHO Health Emergencies EPI-WIN webinar: Update on the current Ebola Bundibugyo virus disease outbreak - World Health Organization (WHO)",
-          "CDC declares its probe into outbreak of E coli, Salmonella illnesses tied to alfalfa sprouts over - CIDRAP"
+          "Ebola Outbreak, DRC and Region, Situation Report #15 (November 10, 2026) - ReliefWeb"
         ]
       },
       {
         "trend": "mental health",
         "market_code": "ES",
         "category": "Mental Health",
-        "score": 11,
-        "examples": [
-          "UMW Named to The Princeton Review’s Mental Health Honor Roll - University of Mary Washington",
-          "UMW Named to The Princeton Review’s Mental Health Honor Roll - University of Mary Washington",
-          "Legislative priorities could focus on mental health diversion, Oklahoma lawmaker says - Oklahoma Voice"
-        ]
-      },
-      {
-        "trend": "public health",
-        "market_code": "ES",
-        "category": "Europe Health",
         "score": 10,
         "examples": [
-          "Zilber College of Public Health Seminar: Cancer Clusters – Facts and Fiction - UW-Milwaukee",
-          "The U.S. could lose a decades-old public health achievement - The Washington Post",
-          "Court’s methylene chloride decision leaves public health in danger - Toxic-Free Future"
+          "Mental health app may help unemployed people find jobs, six-week trial suggests - Phys.org",
+          "UMW Named to The Princeton Review’s Mental Health Honor Roll - University of Mary Washington",
+          "Legislative priorities could focus on mental health diversion, Oklahoma lawmaker says - Oklahoma Voice"
         ]
       },
       {
         "trend": "warning",
         "market_code": "ES",
         "category": "Europe Health",
-        "score": 8,
+        "score": 9,
         "examples": [
-          "Episcopal Health Services marks Lung Cancer Awareness Month by encouraging knowing warning signs and getting screened - QNS.com",
-          "Health Department issues warning to ten Michigan counties over new synthetic opioid - 9and10News.com",
-          "Auto Repair Expert Gerald Gillis Highlights Brake Health Warning Signs That Affect Driving Safety - Yahoo Finance"
-        ]
-      },
-      {
-        "trend": "health alert",
-        "market_code": "ES",
-        "category": "Europe Health",
-        "score": 8,
-        "examples": [
-          "First cold health alert of winter issued as UK temperatures to plummet - The Independent",
-          "HEALTH ALERT: Confirmed Case of Measles in Clark County - WEAU",
-          "Check your freezer. List of meats under a public health alert - Florida Today"
-        ]
-      },
-      {
-        "trend": "medicine",
-        "market_code": "ES",
-        "category": "Europe Health",
-        "score": 7,
-        "examples": [
-          "WVU Cancer Institute opens new facility at Summersville Regional Medical Center - WVU Medicine",
-          "Postpartum psychosis: Five things to know from a Stanford Medicine psychiatrist - Stanford Medicine",
-          "Postpartum psychosis: Five things to know from a Stanford Medicine psychiatrist - Stanford Medicine"
+          "Health warning issued as temperatures to plummet - BBC",
+          "Tuesday Health Report: FDA mandates warning for rare eye condition on popular GLP-1 medications - WBRZ",
+          "Episcopal Health Services marks Lung Cancer Awareness Month by encouraging knowing warning signs and getting screened - QNS.com"
         ]
       },
       {
         "trend": "measles",
         "market_code": "ES",
         "category": "Outbreaks",
-        "score": 7,
+        "score": 9,
         "examples": [
           "In case you missed it: Measles exposure at Osage hospital prompts health warning - Globe Gazette",
           "HEALTH ALERT: Confirmed Case of Measles in Clark County - WEAU",
-          "Wisconsin health officials advise early measles vaccination for some infants amid outbreak - WPR"
+          "US poised to lose measles elimination status—what does that mean? - CIDRAP"
+        ]
+      },
+      {
+        "trend": "virus",
+        "market_code": "ES",
+        "category": "Outbreaks",
+        "score": 7,
+        "examples": [
+          "WHO Health Emergencies EPI-WIN webinar: Update on the current Ebola Bundibugyo virus disease outbreak - World Health Organization (WHO)",
+          "Bird flu hits Oregon dairy herd as virus strikes Northwest - Capital Press",
+          "Flu flares in CSRA with some schools closing as virus hits early - WRDW"
+        ]
+      },
+      {
+        "trend": "world health",
+        "market_code": "ES",
+        "category": "Europe Health",
+        "score": 6,
+        "examples": [
+          "Cervical cancer - World Health Organization (WHO)",
+          "Cervical cancer - World Health Organization (WHO)",
+          "WHO Health Emergencies EPI-WIN webinar: Update on the current Ebola Bundibugyo virus disease outbreak - World Health Organization (WHO)"
         ]
       }
     ],
@@ -811,11 +811,11 @@
         "trend": "health",
         "market_code": "SE",
         "category": "Europe Health",
-        "score": 92,
+        "score": 97,
         "examples": [
           "Cervical cancer - World Health Organization (WHO)",
           "California announces funding for psychedelic treatment research to improve veterans’ health - California State Portal | CA.gov",
-          "Smart ring maker Oura to acquire Counsel Health for $625 million - Reuters"
+          "County Behavioral Health establishes dedicated phone line for Silver Rail families - Deschutes County, OR (.gov)"
         ]
       },
       {
@@ -833,31 +833,42 @@
         "trend": "cancer",
         "market_code": "SE",
         "category": "Chronic Disease",
-        "score": 17,
+        "score": 15,
         "examples": [
           "Cervical cancer - World Health Organization (WHO)",
-          "WVU Cancer Institute opens new facility at Summersville Regional Medical Center - WVU Medicine",
-          "TTUHSC’s Dr. Tyler Mouw Named Medical Director of UMC TLC² Foundation Cancer Center - KCBD"
+          "Cervical cancer - World Health Organization (WHO)",
+          "Zilber College of Public Health Seminar: Cancer Clusters – Facts and Fiction - UW-Milwaukee"
         ]
       },
       {
         "trend": "medical",
         "market_code": "SE",
         "category": "Europe Health",
-        "score": 17,
+        "score": 14,
         "examples": [
+          "Highlights from the 2026 AMA Interim Meeting - American Medical Association | AMA",
           "Hall of Famer Ham recovering from medical emergency, Penn State says - ESPN",
-          "Vikings Visit V.A. Medical Centers & Host Military Baby Shower - Minnesota Vikings",
-          "CMS Announces Distribution of Last Medicare-Supported Graduate Medical Education Residency Positions - AAMC"
+          "Medical Certification Modernization - ALPA"
+        ]
+      },
+      {
+        "trend": "public health",
+        "market_code": "SE",
+        "category": "Europe Health",
+        "score": 13,
+        "examples": [
+          "Earning Trust While Reporting on Black Lung Disease for Over a Decade - Public Health Watch",
+          "Public health report: Most school food services pass muster in October inspections - Waltham Times",
+          "Why Voting is a Public Health Issue - Columbia University Mailman School of Public Health"
         ]
       },
       {
         "trend": "mental",
         "market_code": "SE",
         "category": "Mental Health",
-        "score": 13,
+        "score": 12,
         "examples": [
-          "UMW Named to The Princeton Review’s Mental Health Honor Roll - University of Mary Washington",
+          "Mental health app may help unemployed people find jobs, six-week trial suggests - Phys.org",
           "UMW Named to The Princeton Review’s Mental Health Honor Roll - University of Mary Washington",
           "Legislative priorities could focus on mental health diversion, Oklahoma lawmaker says - Oklahoma Voice"
         ]
@@ -866,77 +877,66 @@
         "trend": "outbreak",
         "market_code": "SE",
         "category": "Outbreaks",
-        "score": 12,
+        "score": 10,
         "examples": [
           "Australia: Leptospirosis alert issued in the Northern Territory - Outbreak News Today",
           "WHO Health Emergencies EPI-WIN webinar: Update on the current Ebola Bundibugyo virus disease outbreak - World Health Organization (WHO)",
-          "CDC declares its probe into outbreak of E coli, Salmonella illnesses tied to alfalfa sprouts over - CIDRAP"
+          "Ebola Outbreak, DRC and Region, Situation Report #15 (November 10, 2026) - ReliefWeb"
         ]
       },
       {
         "trend": "mental health",
         "market_code": "SE",
         "category": "Mental Health",
-        "score": 11,
-        "examples": [
-          "UMW Named to The Princeton Review’s Mental Health Honor Roll - University of Mary Washington",
-          "UMW Named to The Princeton Review’s Mental Health Honor Roll - University of Mary Washington",
-          "Legislative priorities could focus on mental health diversion, Oklahoma lawmaker says - Oklahoma Voice"
-        ]
-      },
-      {
-        "trend": "public health",
-        "market_code": "SE",
-        "category": "Europe Health",
         "score": 10,
         "examples": [
-          "Zilber College of Public Health Seminar: Cancer Clusters – Facts and Fiction - UW-Milwaukee",
-          "The U.S. could lose a decades-old public health achievement - The Washington Post",
-          "Court’s methylene chloride decision leaves public health in danger - Toxic-Free Future"
+          "Mental health app may help unemployed people find jobs, six-week trial suggests - Phys.org",
+          "UMW Named to The Princeton Review’s Mental Health Honor Roll - University of Mary Washington",
+          "Legislative priorities could focus on mental health diversion, Oklahoma lawmaker says - Oklahoma Voice"
         ]
       },
       {
         "trend": "warning",
         "market_code": "SE",
         "category": "Europe Health",
-        "score": 8,
+        "score": 9,
         "examples": [
-          "Episcopal Health Services marks Lung Cancer Awareness Month by encouraging knowing warning signs and getting screened - QNS.com",
-          "Health Department issues warning to ten Michigan counties over new synthetic opioid - 9and10News.com",
-          "Auto Repair Expert Gerald Gillis Highlights Brake Health Warning Signs That Affect Driving Safety - Yahoo Finance"
-        ]
-      },
-      {
-        "trend": "health alert",
-        "market_code": "SE",
-        "category": "Europe Health",
-        "score": 8,
-        "examples": [
-          "First cold health alert of winter issued as UK temperatures to plummet - The Independent",
-          "HEALTH ALERT: Confirmed Case of Measles in Clark County - WEAU",
-          "Check your freezer. List of meats under a public health alert - Florida Today"
-        ]
-      },
-      {
-        "trend": "medicine",
-        "market_code": "SE",
-        "category": "Europe Health",
-        "score": 7,
-        "examples": [
-          "WVU Cancer Institute opens new facility at Summersville Regional Medical Center - WVU Medicine",
-          "Postpartum psychosis: Five things to know from a Stanford Medicine psychiatrist - Stanford Medicine",
-          "Postpartum psychosis: Five things to know from a Stanford Medicine psychiatrist - Stanford Medicine"
+          "Health warning issued as temperatures to plummet - BBC",
+          "Tuesday Health Report: FDA mandates warning for rare eye condition on popular GLP-1 medications - WBRZ",
+          "Episcopal Health Services marks Lung Cancer Awareness Month by encouraging knowing warning signs and getting screened - QNS.com"
         ]
       },
       {
         "trend": "measles",
         "market_code": "SE",
         "category": "Outbreaks",
-        "score": 7,
+        "score": 9,
         "examples": [
           "In case you missed it: Measles exposure at Osage hospital prompts health warning - Globe Gazette",
           "HEALTH ALERT: Confirmed Case of Measles in Clark County - WEAU",
-          "Wisconsin health officials advise early measles vaccination for some infants amid outbreak - WPR"
+          "US poised to lose measles elimination status—what does that mean? - CIDRAP"
+        ]
+      },
+      {
+        "trend": "virus",
+        "market_code": "SE",
+        "category": "Outbreaks",
+        "score": 7,
+        "examples": [
+          "WHO Health Emergencies EPI-WIN webinar: Update on the current Ebola Bundibugyo virus disease outbreak - World Health Organization (WHO)",
+          "Bird flu hits Oregon dairy herd as virus strikes Northwest - Capital Press",
+          "Flu flares in CSRA with some schools closing as virus hits early - WRDW"
+        ]
+      },
+      {
+        "trend": "world health",
+        "market_code": "SE",
+        "category": "Europe Health",
+        "score": 6,
+        "examples": [
+          "Cervical cancer - World Health Organization (WHO)",
+          "Cervical cancer - World Health Organization (WHO)",
+          "WHO Health Emergencies EPI-WIN webinar: Update on the current Ebola Bundibugyo virus disease outbreak - World Health Organization (WHO)"
         ]
       }
     ],
@@ -945,11 +945,11 @@
         "trend": "health",
         "market_code": "NL",
         "category": "Europe Health",
-        "score": 92,
+        "score": 97,
         "examples": [
           "Cervical cancer - World Health Organization (WHO)",
           "California announces funding for psychedelic treatment research to improve veterans’ health - California State Portal | CA.gov",
-          "Smart ring maker Oura to acquire Counsel Health for $625 million - Reuters"
+          "County Behavioral Health establishes dedicated phone line for Silver Rail families - Deschutes County, OR (.gov)"
         ]
       },
       {
@@ -967,31 +967,42 @@
         "trend": "cancer",
         "market_code": "NL",
         "category": "Chronic Disease",
-        "score": 17,
+        "score": 15,
         "examples": [
           "Cervical cancer - World Health Organization (WHO)",
-          "WVU Cancer Institute opens new facility at Summersville Regional Medical Center - WVU Medicine",
-          "TTUHSC’s Dr. Tyler Mouw Named Medical Director of UMC TLC² Foundation Cancer Center - KCBD"
+          "Cervical cancer - World Health Organization (WHO)",
+          "Zilber College of Public Health Seminar: Cancer Clusters – Facts and Fiction - UW-Milwaukee"
         ]
       },
       {
         "trend": "medical",
         "market_code": "NL",
         "category": "Europe Health",
-        "score": 17,
+        "score": 14,
         "examples": [
+          "Highlights from the 2026 AMA Interim Meeting - American Medical Association | AMA",
           "Hall of Famer Ham recovering from medical emergency, Penn State says - ESPN",
-          "Vikings Visit V.A. Medical Centers & Host Military Baby Shower - Minnesota Vikings",
-          "CMS Announces Distribution of Last Medicare-Supported Graduate Medical Education Residency Positions - AAMC"
+          "Medical Certification Modernization - ALPA"
+        ]
+      },
+      {
+        "trend": "public health",
+        "market_code": "NL",
+        "category": "Europe Health",
+        "score": 13,
+        "examples": [
+          "Earning Trust While Reporting on Black Lung Disease for Over a Decade - Public Health Watch",
+          "Public health report: Most school food services pass muster in October inspections - Waltham Times",
+          "Why Voting is a Public Health Issue - Columbia University Mailman School of Public Health"
         ]
       },
       {
         "trend": "mental",
         "market_code": "NL",
         "category": "Mental Health",
-        "score": 13,
+        "score": 12,
         "examples": [
-          "UMW Named to The Princeton Review’s Mental Health Honor Roll - University of Mary Washington",
+          "Mental health app may help unemployed people find jobs, six-week trial suggests - Phys.org",
           "UMW Named to The Princeton Review’s Mental Health Honor Roll - University of Mary Washington",
           "Legislative priorities could focus on mental health diversion, Oklahoma lawmaker says - Oklahoma Voice"
         ]
@@ -1000,77 +1011,66 @@
         "trend": "outbreak",
         "market_code": "NL",
         "category": "Outbreaks",
-        "score": 12,
+        "score": 10,
         "examples": [
           "Australia: Leptospirosis alert issued in the Northern Territory - Outbreak News Today",
           "WHO Health Emergencies EPI-WIN webinar: Update on the current Ebola Bundibugyo virus disease outbreak - World Health Organization (WHO)",
-          "CDC declares its probe into outbreak of E coli, Salmonella illnesses tied to alfalfa sprouts over - CIDRAP"
+          "Ebola Outbreak, DRC and Region, Situation Report #15 (November 10, 2026) - ReliefWeb"
         ]
       },
       {
         "trend": "mental health",
         "market_code": "NL",
         "category": "Mental Health",
-        "score": 11,
-        "examples": [
-          "UMW Named to The Princeton Review’s Mental Health Honor Roll - University of Mary Washington",
-          "UMW Named to The Princeton Review’s Mental Health Honor Roll - University of Mary Washington",
-          "Legislative priorities could focus on mental health diversion, Oklahoma lawmaker says - Oklahoma Voice"
-        ]
-      },
-      {
-        "trend": "public health",
-        "market_code": "NL",
-        "category": "Europe Health",
         "score": 10,
         "examples": [
-          "Zilber College of Public Health Seminar: Cancer Clusters – Facts and Fiction - UW-Milwaukee",
-          "The U.S. could lose a decades-old public health achievement - The Washington Post",
-          "Court’s methylene chloride decision leaves public health in danger - Toxic-Free Future"
+          "Mental health app may help unemployed people find jobs, six-week trial suggests - Phys.org",
+          "UMW Named to The Princeton Review’s Mental Health Honor Roll - University of Mary Washington",
+          "Legislative priorities could focus on mental health diversion, Oklahoma lawmaker says - Oklahoma Voice"
         ]
       },
       {
         "trend": "warning",
         "market_code": "NL",
         "category": "Europe Health",
-        "score": 8,
+        "score": 9,
         "examples": [
-          "Episcopal Health Services marks Lung Cancer Awareness Month by encouraging knowing warning signs and getting screened - QNS.com",
-          "Health Department issues warning to ten Michigan counties over new synthetic opioid - 9and10News.com",
-          "Auto Repair Expert Gerald Gillis Highlights Brake Health Warning Signs That Affect Driving Safety - Yahoo Finance"
-        ]
-      },
-      {
-        "trend": "health alert",
-        "market_code": "NL",
-        "category": "Europe Health",
-        "score": 8,
-        "examples": [
-          "First cold health alert of winter issued as UK temperatures to plummet - The Independent",
-          "HEALTH ALERT: Confirmed Case of Measles in Clark County - WEAU",
-          "Check your freezer. List of meats under a public health alert - Florida Today"
-        ]
-      },
-      {
-        "trend": "medicine",
-        "market_code": "NL",
-        "category": "Europe Health",
-        "score": 7,
-        "examples": [
-          "WVU Cancer Institute opens new facility at Summersville Regional Medical Center - WVU Medicine",
-          "Postpartum psychosis: Five things to know from a Stanford Medicine psychiatrist - Stanford Medicine",
-          "Postpartum psychosis: Five things to know from a Stanford Medicine psychiatrist - Stanford Medicine"
+          "Health warning issued as temperatures to plummet - BBC",
+          "Tuesday Health Report: FDA mandates warning for rare eye condition on popular GLP-1 medications - WBRZ",
+          "Episcopal Health Services marks Lung Cancer Awareness Month by encouraging knowing warning signs and getting screened - QNS.com"
         ]
       },
       {
         "trend": "measles",
         "market_code": "NL",
         "category": "Outbreaks",
-        "score": 7,
+        "score": 9,
         "examples": [
           "In case you missed it: Measles exposure at Osage hospital prompts health warning - Globe Gazette",
           "HEALTH ALERT: Confirmed Case of Measles in Clark County - WEAU",
-          "Wisconsin health officials advise early measles vaccination for some infants amid outbreak - WPR"
+          "US poised to lose measles elimination status—what does that mean? - CIDRAP"
+        ]
+      },
+      {
+        "trend": "virus",
+        "market_code": "NL",
+        "category": "Outbreaks",
+        "score": 7,
+        "examples": [
+          "WHO Health Emergencies EPI-WIN webinar: Update on the current Ebola Bundibugyo virus disease outbreak - World Health Organization (WHO)",
+          "Bird flu hits Oregon dairy herd as virus strikes Northwest - Capital Press",
+          "Flu flares in CSRA with some schools closing as virus hits early - WRDW"
+        ]
+      },
+      {
+        "trend": "world health",
+        "market_code": "NL",
+        "category": "Europe Health",
+        "score": 6,
+        "examples": [
+          "Cervical cancer - World Health Organization (WHO)",
+          "Cervical cancer - World Health Organization (WHO)",
+          "WHO Health Emergencies EPI-WIN webinar: Update on the current Ebola Bundibugyo virus disease outbreak - World Health Organization (WHO)"
         ]
       }
     ],
@@ -1079,11 +1079,11 @@
         "trend": "health",
         "market_code": "FI",
         "category": "Europe Health",
-        "score": 92,
+        "score": 97,
         "examples": [
           "Cervical cancer - World Health Organization (WHO)",
           "California announces funding for psychedelic treatment research to improve veterans’ health - California State Portal | CA.gov",
-          "Smart ring maker Oura to acquire Counsel Health for $625 million - Reuters"
+          "County Behavioral Health establishes dedicated phone line for Silver Rail families - Deschutes County, OR (.gov)"
         ]
       },
       {
@@ -1101,31 +1101,42 @@
         "trend": "cancer",
         "market_code": "FI",
         "category": "Chronic Disease",
-        "score": 17,
+        "score": 15,
         "examples": [
           "Cervical cancer - World Health Organization (WHO)",
-          "WVU Cancer Institute opens new facility at Summersville Regional Medical Center - WVU Medicine",
-          "TTUHSC’s Dr. Tyler Mouw Named Medical Director of UMC TLC² Foundation Cancer Center - KCBD"
+          "Cervical cancer - World Health Organization (WHO)",
+          "Zilber College of Public Health Seminar: Cancer Clusters – Facts and Fiction - UW-Milwaukee"
         ]
       },
       {
         "trend": "medical",
         "market_code": "FI",
         "category": "Europe Health",
-        "score": 17,
+        "score": 14,
         "examples": [
+          "Highlights from the 2026 AMA Interim Meeting - American Medical Association | AMA",
           "Hall of Famer Ham recovering from medical emergency, Penn State says - ESPN",
-          "Vikings Visit V.A. Medical Centers & Host Military Baby Shower - Minnesota Vikings",
-          "CMS Announces Distribution of Last Medicare-Supported Graduate Medical Education Residency Positions - AAMC"
+          "Medical Certification Modernization - ALPA"
+        ]
+      },
+      {
+        "trend": "public health",
+        "market_code": "FI",
+        "category": "Europe Health",
+        "score": 13,
+        "examples": [
+          "Earning Trust While Reporting on Black Lung Disease for Over a Decade - Public Health Watch",
+          "Public health report: Most school food services pass muster in October inspections - Waltham Times",
+          "Why Voting is a Public Health Issue - Columbia University Mailman School of Public Health"
         ]
       },
       {
         "trend": "mental",
         "market_code": "FI",
         "category": "Mental Health",
-        "score": 13,
+        "score": 12,
         "examples": [
-          "UMW Named to The Princeton Review’s Mental Health Honor Roll - University of Mary Washington",
+          "Mental health app may help unemployed people find jobs, six-week trial suggests - Phys.org",
           "UMW Named to The Princeton Review’s Mental Health Honor Roll - University of Mary Washington",
           "Legislative priorities could focus on mental health diversion, Oklahoma lawmaker says - Oklahoma Voice"
         ]
@@ -1134,77 +1145,66 @@
         "trend": "outbreak",
         "market_code": "FI",
         "category": "Outbreaks",
-        "score": 12,
+        "score": 10,
         "examples": [
           "Australia: Leptospirosis alert issued in the Northern Territory - Outbreak News Today",
           "WHO Health Emergencies EPI-WIN webinar: Update on the current Ebola Bundibugyo virus disease outbreak - World Health Organization (WHO)",
-          "CDC declares its probe into outbreak of E coli, Salmonella illnesses tied to alfalfa sprouts over - CIDRAP"
+          "Ebola Outbreak, DRC and Region, Situation Report #15 (November 10, 2026) - ReliefWeb"
         ]
       },
       {
         "trend": "mental health",
         "market_code": "FI",
         "category": "Mental Health",
-        "score": 11,
-        "examples": [
-          "UMW Named to The Princeton Review’s Mental Health Honor Roll - University of Mary Washington",
-          "UMW Named to The Princeton Review’s Mental Health Honor Roll - University of Mary Washington",
-          "Legislative priorities could focus on mental health diversion, Oklahoma lawmaker says - Oklahoma Voice"
-        ]
-      },
-      {
-        "trend": "public health",
-        "market_code": "FI",
-        "category": "Europe Health",
         "score": 10,
         "examples": [
-          "Zilber College of Public Health Seminar: Cancer Clusters – Facts and Fiction - UW-Milwaukee",
-          "The U.S. could lose a decades-old public health achievement - The Washington Post",
-          "Court’s methylene chloride decision leaves public health in danger - Toxic-Free Future"
+          "Mental health app may help unemployed people find jobs, six-week trial suggests - Phys.org",
+          "UMW Named to The Princeton Review’s Mental Health Honor Roll - University of Mary Washington",
+          "Legislative priorities could focus on mental health diversion, Oklahoma lawmaker says - Oklahoma Voice"
         ]
       },
       {
         "trend": "warning",
         "market_code": "FI",
         "category": "Europe Health",
-        "score": 8,
+        "score": 9,
         "examples": [
-          "Episcopal Health Services marks Lung Cancer Awareness Month by encouraging knowing warning signs and getting screened - QNS.com",
-          "Health Department issues warning to ten Michigan counties over new synthetic opioid - 9and10News.com",
-          "Auto Repair Expert Gerald Gillis Highlights Brake Health Warning Signs That Affect Driving Safety - Yahoo Finance"
-        ]
-      },
-      {
-        "trend": "health alert",
-        "market_code": "FI",
-        "category": "Europe Health",
-        "score": 8,
-        "examples": [
-          "First cold health alert of winter issued as UK temperatures to plummet - The Independent",
-          "HEALTH ALERT: Confirmed Case of Measles in Clark County - WEAU",
-          "Check your freezer. List of meats under a public health alert - Florida Today"
-        ]
-      },
-      {
-        "trend": "medicine",
-        "market_code": "FI",
-        "category": "Europe Health",
-        "score": 7,
-        "examples": [
-          "WVU Cancer Institute opens new facility at Summersville Regional Medical Center - WVU Medicine",
-          "Postpartum psychosis: Five things to know from a Stanford Medicine psychiatrist - Stanford Medicine",
-          "Postpartum psychosis: Five things to know from a Stanford Medicine psychiatrist - Stanford Medicine"
+          "Health warning issued as temperatures to plummet - BBC",
+          "Tuesday Health Report: FDA mandates warning for rare eye condition on popular GLP-1 medications - WBRZ",
+          "Episcopal Health Services marks Lung Cancer Awareness Month by encouraging knowing warning signs and getting screened - QNS.com"
         ]
       },
       {
         "trend": "measles",
         "market_code": "FI",
         "category": "Outbreaks",
-        "score": 7,
+        "score": 9,
         "examples": [
           "In case you missed it: Measles exposure at Osage hospital prompts health warning - Globe Gazette",
           "HEALTH ALERT: Confirmed Case of Measles in Clark County - WEAU",
-          "Wisconsin health officials advise early measles vaccination for some infants amid outbreak - WPR"
+          "US poised to lose measles elimination status—what does that mean? - CIDRAP"
+        ]
+      },
+      {
+        "trend": "virus",
+        "market_code": "FI",
+        "category": "Outbreaks",
+        "score": 7,
+        "examples": [
+          "WHO Health Emergencies EPI-WIN webinar: Update on the current Ebola Bundibugyo virus disease outbreak - World Health Organization (WHO)",
+          "Bird flu hits Oregon dairy herd as virus strikes Northwest - Capital Press",
+          "Flu flares in CSRA with some schools closing as virus hits early - WRDW"
+        ]
+      },
+      {
+        "trend": "world health",
+        "market_code": "FI",
+        "category": "Europe Health",
+        "score": 6,
+        "examples": [
+          "Cervical cancer - World Health Organization (WHO)",
+          "Cervical cancer - World Health Organization (WHO)",
+          "WHO Health Emergencies EPI-WIN webinar: Update on the current Ebola Bundibugyo virus disease outbreak - World Health Organization (WHO)"
         ]
       }
     ],
@@ -1213,11 +1213,11 @@
         "trend": "health",
         "market_code": "NO",
         "category": "Europe Health",
-        "score": 92,
+        "score": 97,
         "examples": [
           "Cervical cancer - World Health Organization (WHO)",
           "California announces funding for psychedelic treatment research to improve veterans’ health - California State Portal | CA.gov",
-          "Smart ring maker Oura to acquire Counsel Health for $625 million - Reuters"
+          "County Behavioral Health establishes dedicated phone line for Silver Rail families - Deschutes County, OR (.gov)"
         ]
       },
       {
@@ -1235,31 +1235,42 @@
         "trend": "cancer",
         "market_code": "NO",
         "category": "Chronic Disease",
-        "score": 17,
+        "score": 15,
         "examples": [
           "Cervical cancer - World Health Organization (WHO)",
-          "WVU Cancer Institute opens new facility at Summersville Regional Medical Center - WVU Medicine",
-          "TTUHSC’s Dr. Tyler Mouw Named Medical Director of UMC TLC² Foundation Cancer Center - KCBD"
+          "Cervical cancer - World Health Organization (WHO)",
+          "Zilber College of Public Health Seminar: Cancer Clusters – Facts and Fiction - UW-Milwaukee"
         ]
       },
       {
         "trend": "medical",
         "market_code": "NO",
         "category": "Europe Health",
-        "score": 17,
+        "score": 14,
         "examples": [
+          "Highlights from the 2026 AMA Interim Meeting - American Medical Association | AMA",
           "Hall of Famer Ham recovering from medical emergency, Penn State says - ESPN",
-          "Vikings Visit V.A. Medical Centers & Host Military Baby Shower - Minnesota Vikings",
-          "CMS Announces Distribution of Last Medicare-Supported Graduate Medical Education Residency Positions - AAMC"
+          "Medical Certification Modernization - ALPA"
+        ]
+      },
+      {
+        "trend": "public health",
+        "market_code": "NO",
+        "category": "Europe Health",
+        "score": 13,
+        "examples": [
+          "Earning Trust While Reporting on Black Lung Disease for Over a Decade - Public Health Watch",
+          "Public health report: Most school food services pass muster in October inspections - Waltham Times",
+          "Why Voting is a Public Health Issue - Columbia University Mailman School of Public Health"
         ]
       },
       {
         "trend": "mental",
         "market_code": "NO",
         "category": "Mental Health",
-        "score": 13,
+        "score": 12,
         "examples": [
-          "UMW Named to The Princeton Review’s Mental Health Honor Roll - University of Mary Washington",
+          "Mental health app may help unemployed people find jobs, six-week trial suggests - Phys.org",
           "UMW Named to The Princeton Review’s Mental Health Honor Roll - University of Mary Washington",
           "Legislative priorities could focus on mental health diversion, Oklahoma lawmaker says - Oklahoma Voice"
         ]
@@ -1268,77 +1279,66 @@
         "trend": "outbreak",
         "market_code": "NO",
         "category": "Outbreaks",
-        "score": 12,
+        "score": 10,
         "examples": [
           "Australia: Leptospirosis alert issued in the Northern Territory - Outbreak News Today",
           "WHO Health Emergencies EPI-WIN webinar: Update on the current Ebola Bundibugyo virus disease outbreak - World Health Organization (WHO)",
-          "CDC declares its probe into outbreak of E coli, Salmonella illnesses tied to alfalfa sprouts over - CIDRAP"
+          "Ebola Outbreak, DRC and Region, Situation Report #15 (November 10, 2026) - ReliefWeb"
         ]
       },
       {
         "trend": "mental health",
         "market_code": "NO",
         "category": "Mental Health",
-        "score": 11,
-        "examples": [
-          "UMW Named to The Princeton Review’s Mental Health Honor Roll - University of Mary Washington",
-          "UMW Named to The Princeton Review’s Mental Health Honor Roll - University of Mary Washington",
-          "Legislative priorities could focus on mental health diversion, Oklahoma lawmaker says - Oklahoma Voice"
-        ]
-      },
-      {
-        "trend": "public health",
-        "market_code": "NO",
-        "category": "Europe Health",
         "score": 10,
         "examples": [
-          "Zilber College of Public Health Seminar: Cancer Clusters – Facts and Fiction - UW-Milwaukee",
-          "The U.S. could lose a decades-old public health achievement - The Washington Post",
-          "Court’s methylene chloride decision leaves public health in danger - Toxic-Free Future"
+          "Mental health app may help unemployed people find jobs, six-week trial suggests - Phys.org",
+          "UMW Named to The Princeton Review’s Mental Health Honor Roll - University of Mary Washington",
+          "Legislative priorities could focus on mental health diversion, Oklahoma lawmaker says - Oklahoma Voice"
         ]
       },
       {
         "trend": "warning",
         "market_code": "NO",
         "category": "Europe Health",
-        "score": 8,
+        "score": 9,
         "examples": [
-          "Episcopal Health Services marks Lung Cancer Awareness Month by encouraging knowing warning signs and getting screened - QNS.com",
-          "Health Department issues warning to ten Michigan counties over new synthetic opioid - 9and10News.com",
-          "Auto Repair Expert Gerald Gillis Highlights Brake Health Warning Signs That Affect Driving Safety - Yahoo Finance"
-        ]
-      },
-      {
-        "trend": "health alert",
-        "market_code": "NO",
-        "category": "Europe Health",
-        "score": 8,
-        "examples": [
-          "First cold health alert of winter issued as UK temperatures to plummet - The Independent",
-          "HEALTH ALERT: Confirmed Case of Measles in Clark County - WEAU",
-          "Check your freezer. List of meats under a public health alert - Florida Today"
-        ]
-      },
-      {
-        "trend": "medicine",
-        "market_code": "NO",
-        "category": "Europe Health",
-        "score": 7,
-        "examples": [
-          "WVU Cancer Institute opens new facility at Summersville Regional Medical Center - WVU Medicine",
-          "Postpartum psychosis: Five things to know from a Stanford Medicine psychiatrist - Stanford Medicine",
-          "Postpartum psychosis: Five things to know from a Stanford Medicine psychiatrist - Stanford Medicine"
+          "Health warning issued as temperatures to plummet - BBC",
+          "Tuesday Health Report: FDA mandates warning for rare eye condition on popular GLP-1 medications - WBRZ",
+          "Episcopal Health Services marks Lung Cancer Awareness Month by encouraging knowing warning signs and getting screened - QNS.com"
         ]
       },
       {
         "trend": "measles",
         "market_code": "NO",
         "category": "Outbreaks",
-        "score": 7,
+        "score": 9,
         "examples": [
           "In case you missed it: Measles exposure at Osage hospital prompts health warning - Globe Gazette",
           "HEALTH ALERT: Confirmed Case of Measles in Clark County - WEAU",
-          "Wisconsin health officials advise early measles vaccination for some infants amid outbreak - WPR"
+          "US poised to lose measles elimination status—what does that mean? - CIDRAP"
+        ]
+      },
+      {
+        "trend": "virus",
+        "market_code": "NO",
+        "category": "Outbreaks",
+        "score": 7,
+        "examples": [
+          "WHO Health Emergencies EPI-WIN webinar: Update on the current Ebola Bundibugyo virus disease outbreak - World Health Organization (WHO)",
+          "Bird flu hits Oregon dairy herd as virus strikes Northwest - Capital Press",
+          "Flu flares in CSRA with some schools closing as virus hits early - WRDW"
+        ]
+      },
+      {
+        "trend": "world health",
+        "market_code": "NO",
+        "category": "Europe Health",
+        "score": 6,
+        "examples": [
+          "Cervical cancer - World Health Organization (WHO)",
+          "Cervical cancer - World Health Organization (WHO)",
+          "WHO Health Emergencies EPI-WIN webinar: Update on the current Ebola Bundibugyo virus disease outbreak - World Health Organization (WHO)"
         ]
       }
     ],
@@ -1347,11 +1347,11 @@
         "trend": "health",
         "market_code": "JP",
         "category": "Asia Health",
-        "score": 92,
+        "score": 97,
         "examples": [
           "Cervical cancer - World Health Organization (WHO)",
           "California announces funding for psychedelic treatment research to improve veterans’ health - California State Portal | CA.gov",
-          "Smart ring maker Oura to acquire Counsel Health for $625 million - Reuters"
+          "County Behavioral Health establishes dedicated phone line for Silver Rail families - Deschutes County, OR (.gov)"
         ]
       },
       {
@@ -1369,31 +1369,42 @@
         "trend": "cancer",
         "market_code": "JP",
         "category": "Chronic Disease",
-        "score": 17,
+        "score": 15,
         "examples": [
           "Cervical cancer - World Health Organization (WHO)",
-          "WVU Cancer Institute opens new facility at Summersville Regional Medical Center - WVU Medicine",
-          "TTUHSC’s Dr. Tyler Mouw Named Medical Director of UMC TLC² Foundation Cancer Center - KCBD"
+          "Cervical cancer - World Health Organization (WHO)",
+          "Zilber College of Public Health Seminar: Cancer Clusters – Facts and Fiction - UW-Milwaukee"
         ]
       },
       {
         "trend": "medical",
         "market_code": "JP",
         "category": "Asia Health",
-        "score": 17,
+        "score": 14,
         "examples": [
+          "Highlights from the 2026 AMA Interim Meeting - American Medical Association | AMA",
           "Hall of Famer Ham recovering from medical emergency, Penn State says - ESPN",
-          "Vikings Visit V.A. Medical Centers & Host Military Baby Shower - Minnesota Vikings",
-          "CMS Announces Distribution of Last Medicare-Supported Graduate Medical Education Residency Positions - AAMC"
+          "Medical Certification Modernization - ALPA"
+        ]
+      },
+      {
+        "trend": "public health",
+        "market_code": "JP",
+        "category": "Asia Health",
+        "score": 13,
+        "examples": [
+          "Earning Trust While Reporting on Black Lung Disease for Over a Decade - Public Health Watch",
+          "Public health report: Most school food services pass muster in October inspections - Waltham Times",
+          "Why Voting is a Public Health Issue - Columbia University Mailman School of Public Health"
         ]
       },
       {
         "trend": "mental",
         "market_code": "JP",
         "category": "Mental Health",
-        "score": 13,
+        "score": 12,
         "examples": [
-          "UMW Named to The Princeton Review’s Mental Health Honor Roll - University of Mary Washington",
+          "Mental health app may help unemployed people find jobs, six-week trial suggests - Phys.org",
           "UMW Named to The Princeton Review’s Mental Health Honor Roll - University of Mary Washington",
           "Legislative priorities could focus on mental health diversion, Oklahoma lawmaker says - Oklahoma Voice"
         ]
@@ -1402,77 +1413,66 @@
         "trend": "outbreak",
         "market_code": "JP",
         "category": "Outbreaks",
-        "score": 12,
+        "score": 10,
         "examples": [
           "Australia: Leptospirosis alert issued in the Northern Territory - Outbreak News Today",
           "WHO Health Emergencies EPI-WIN webinar: Update on the current Ebola Bundibugyo virus disease outbreak - World Health Organization (WHO)",
-          "CDC declares its probe into outbreak of E coli, Salmonella illnesses tied to alfalfa sprouts over - CIDRAP"
+          "Ebola Outbreak, DRC and Region, Situation Report #15 (November 10, 2026) - ReliefWeb"
         ]
       },
       {
         "trend": "mental health",
         "market_code": "JP",
         "category": "Mental Health",
-        "score": 11,
-        "examples": [
-          "UMW Named to The Princeton Review’s Mental Health Honor Roll - University of Mary Washington",
-          "UMW Named to The Princeton Review’s Mental Health Honor Roll - University of Mary Washington",
-          "Legislative priorities could focus on mental health diversion, Oklahoma lawmaker says - Oklahoma Voice"
-        ]
-      },
-      {
-        "trend": "public health",
-        "market_code": "JP",
-        "category": "Asia Health",
         "score": 10,
         "examples": [
-          "Zilber College of Public Health Seminar: Cancer Clusters – Facts and Fiction - UW-Milwaukee",
-          "The U.S. could lose a decades-old public health achievement - The Washington Post",
-          "Court’s methylene chloride decision leaves public health in danger - Toxic-Free Future"
+          "Mental health app may help unemployed people find jobs, six-week trial suggests - Phys.org",
+          "UMW Named to The Princeton Review’s Mental Health Honor Roll - University of Mary Washington",
+          "Legislative priorities could focus on mental health diversion, Oklahoma lawmaker says - Oklahoma Voice"
         ]
       },
       {
         "trend": "warning",
         "market_code": "JP",
         "category": "Asia Health",
-        "score": 8,
+        "score": 9,
         "examples": [
-          "Episcopal Health Services marks Lung Cancer Awareness Month by encouraging knowing warning signs and getting screened - QNS.com",
-          "Health Department issues warning to ten Michigan counties over new synthetic opioid - 9and10News.com",
-          "Auto Repair Expert Gerald Gillis Highlights Brake Health Warning Signs That Affect Driving Safety - Yahoo Finance"
-        ]
-      },
-      {
-        "trend": "health alert",
-        "market_code": "JP",
-        "category": "Asia Health",
-        "score": 8,
-        "examples": [
-          "First cold health alert of winter issued as UK temperatures to plummet - The Independent",
-          "HEALTH ALERT: Confirmed Case of Measles in Clark County - WEAU",
-          "Check your freezer. List of meats under a public health alert - Florida Today"
-        ]
-      },
-      {
-        "trend": "medicine",
-        "market_code": "JP",
-        "category": "Asia Health",
-        "score": 7,
-        "examples": [
-          "WVU Cancer Institute opens new facility at Summersville Regional Medical Center - WVU Medicine",
-          "Postpartum psychosis: Five things to know from a Stanford Medicine psychiatrist - Stanford Medicine",
-          "Postpartum psychosis: Five things to know from a Stanford Medicine psychiatrist - Stanford Medicine"
+          "Health warning issued as temperatures to plummet - BBC",
+          "Tuesday Health Report: FDA mandates warning for rare eye condition on popular GLP-1 medications - WBRZ",
+          "Episcopal Health Services marks Lung Cancer Awareness Month by encouraging knowing warning signs and getting screened - QNS.com"
         ]
       },
       {
         "trend": "measles",
         "market_code": "JP",
         "category": "Outbreaks",
-        "score": 7,
+        "score": 9,
         "examples": [
           "In case you missed it: Measles exposure at Osage hospital prompts health warning - Globe Gazette",
           "HEALTH ALERT: Confirmed Case of Measles in Clark County - WEAU",
-          "Wisconsin health officials advise early measles vaccination for some infants amid outbreak - WPR"
+          "US poised to lose measles elimination status—what does that mean? - CIDRAP"
+        ]
+      },
+      {
+        "trend": "virus",
+        "market_code": "JP",
+        "category": "Outbreaks",
+        "score": 7,
+        "examples": [
+          "WHO Health Emergencies EPI-WIN webinar: Update on the current Ebola Bundibugyo virus disease outbreak - World Health Organization (WHO)",
+          "Bird flu hits Oregon dairy herd as virus strikes Northwest - Capital Press",
+          "Flu flares in CSRA with some schools closing as virus hits early - WRDW"
+        ]
+      },
+      {
+        "trend": "world health",
+        "market_code": "JP",
+        "category": "Asia Health",
+        "score": 6,
+        "examples": [
+          "Cervical cancer - World Health Organization (WHO)",
+          "Cervical cancer - World Health Organization (WHO)",
+          "WHO Health Emergencies EPI-WIN webinar: Update on the current Ebola Bundibugyo virus disease outbreak - World Health Organization (WHO)"
         ]
       }
     ],
@@ -1481,11 +1481,11 @@
         "trend": "health",
         "market_code": "CN",
         "category": "Asia Health",
-        "score": 92,
+        "score": 97,
         "examples": [
           "Cervical cancer - World Health Organization (WHO)",
           "California announces funding for psychedelic treatment research to improve veterans’ health - California State Portal | CA.gov",
-          "Smart ring maker Oura to acquire Counsel Health for $625 million - Reuters"
+          "County Behavioral Health establishes dedicated phone line for Silver Rail families - Deschutes County, OR (.gov)"
         ]
       },
       {
@@ -1503,31 +1503,42 @@
         "trend": "cancer",
         "market_code": "CN",
         "category": "Chronic Disease",
-        "score": 17,
+        "score": 15,
         "examples": [
           "Cervical cancer - World Health Organization (WHO)",
-          "WVU Cancer Institute opens new facility at Summersville Regional Medical Center - WVU Medicine",
-          "TTUHSC’s Dr. Tyler Mouw Named Medical Director of UMC TLC² Foundation Cancer Center - KCBD"
+          "Cervical cancer - World Health Organization (WHO)",
+          "Zilber College of Public Health Seminar: Cancer Clusters – Facts and Fiction - UW-Milwaukee"
         ]
       },
       {
         "trend": "medical",
         "market_code": "CN",
         "category": "Asia Health",
-        "score": 17,
+        "score": 14,
         "examples": [
+          "Highlights from the 2026 AMA Interim Meeting - American Medical Association | AMA",
           "Hall of Famer Ham recovering from medical emergency, Penn State says - ESPN",
-          "Vikings Visit V.A. Medical Centers & Host Military Baby Shower - Minnesota Vikings",
-          "CMS Announces Distribution of Last Medicare-Supported Graduate Medical Education Residency Positions - AAMC"
+          "Medical Certification Modernization - ALPA"
+        ]
+      },
+      {
+        "trend": "public health",
+        "market_code": "CN",
+        "category": "Asia Health",
+        "score": 13,
+        "examples": [
+          "Earning Trust While Reporting on Black Lung Disease for Over a Decade - Public Health Watch",
+          "Public health report: Most school food services pass muster in October inspections - Waltham Times",
+          "Why Voting is a Public Health Issue - Columbia University Mailman School of Public Health"
         ]
       },
       {
         "trend": "mental",
         "market_code": "CN",
         "category": "Mental Health",
-        "score": 13,
+        "score": 12,
         "examples": [
-          "UMW Named to The Princeton Review’s Mental Health Honor Roll - University of Mary Washington",
+          "Mental health app may help unemployed people find jobs, six-week trial suggests - Phys.org",
           "UMW Named to The Princeton Review’s Mental Health Honor Roll - University of Mary Washington",
           "Legislative priorities could focus on mental health diversion, Oklahoma lawmaker says - Oklahoma Voice"
         ]
@@ -1536,77 +1547,66 @@
         "trend": "outbreak",
         "market_code": "CN",
         "category": "Outbreaks",
-        "score": 12,
+        "score": 10,
         "examples": [
           "Australia: Leptospirosis alert issued in the Northern Territory - Outbreak News Today",
           "WHO Health Emergencies EPI-WIN webinar: Update on the current Ebola Bundibugyo virus disease outbreak - World Health Organization (WHO)",
-          "CDC declares its probe into outbreak of E coli, Salmonella illnesses tied to alfalfa sprouts over - CIDRAP"
+          "Ebola Outbreak, DRC and Region, Situation Report #15 (November 10, 2026) - ReliefWeb"
         ]
       },
       {
         "trend": "mental health",
         "market_code": "CN",
         "category": "Mental Health",
-        "score": 11,
-        "examples": [
-          "UMW Named to The Princeton Review’s Mental Health Honor Roll - University of Mary Washington",
-          "UMW Named to The Princeton Review’s Mental Health Honor Roll - University of Mary Washington",
-          "Legislative priorities could focus on mental health diversion, Oklahoma lawmaker says - Oklahoma Voice"
-        ]
-      },
-      {
-        "trend": "public health",
-        "market_code": "CN",
-        "category": "Asia Health",
         "score": 10,
         "examples": [
-          "Zilber College of Public Health Seminar: Cancer Clusters – Facts and Fiction - UW-Milwaukee",
-          "The U.S. could lose a decades-old public health achievement - The Washington Post",
-          "Court’s methylene chloride decision leaves public health in danger - Toxic-Free Future"
+          "Mental health app may help unemployed people find jobs, six-week trial suggests - Phys.org",
+          "UMW Named to The Princeton Review’s Mental Health Honor Roll - University of Mary Washington",
+          "Legislative priorities could focus on mental health diversion, Oklahoma lawmaker says - Oklahoma Voice"
         ]
       },
       {
         "trend": "warning",
         "market_code": "CN",
         "category": "Asia Health",
-        "score": 8,
+        "score": 9,
         "examples": [
-          "Episcopal Health Services marks Lung Cancer Awareness Month by encouraging knowing warning signs and getting screened - QNS.com",
-          "Health Department issues warning to ten Michigan counties over new synthetic opioid - 9and10News.com",
-          "Auto Repair Expert Gerald Gillis Highlights Brake Health Warning Signs That Affect Driving Safety - Yahoo Finance"
-        ]
-      },
-      {
-        "trend": "health alert",
-        "market_code": "CN",
-        "category": "Asia Health",
-        "score": 8,
-        "examples": [
-          "First cold health alert of winter issued as UK temperatures to plummet - The Independent",
-          "HEALTH ALERT: Confirmed Case of Measles in Clark County - WEAU",
-          "Check your freezer. List of meats under a public health alert - Florida Today"
-        ]
-      },
-      {
-        "trend": "medicine",
-        "market_code": "CN",
-        "category": "Asia Health",
-        "score": 7,
-        "examples": [
-          "WVU Cancer Institute opens new facility at Summersville Regional Medical Center - WVU Medicine",
-          "Postpartum psychosis: Five things to know from a Stanford Medicine psychiatrist - Stanford Medicine",
-          "Postpartum psychosis: Five things to know from a Stanford Medicine psychiatrist - Stanford Medicine"
+          "Health warning issued as temperatures to plummet - BBC",
+          "Tuesday Health Report: FDA mandates warning for rare eye condition on popular GLP-1 medications - WBRZ",
+          "Episcopal Health Services marks Lung Cancer Awareness Month by encouraging knowing warning signs and getting screened - QNS.com"
         ]
       },
       {
         "trend": "measles",
         "market_code": "CN",
         "category": "Outbreaks",
-        "score": 7,
+        "score": 9,
         "examples": [
           "In case you missed it: Measles exposure at Osage hospital prompts health warning - Globe Gazette",
           "HEALTH ALERT: Confirmed Case of Measles in Clark County - WEAU",
-          "Wisconsin health officials advise early measles vaccination for some infants amid outbreak - WPR"
+          "US poised to lose measles elimination status—what does that mean? - CIDRAP"
+        ]
+      },
+      {
+        "trend": "virus",
+        "market_code": "CN",
+        "category": "Outbreaks",
+        "score": 7,
+        "examples": [
+          "WHO Health Emergencies EPI-WIN webinar: Update on the current Ebola Bundibugyo virus disease outbreak - World Health Organization (WHO)",
+          "Bird flu hits Oregon dairy herd as virus strikes Northwest - Capital Press",
+          "Flu flares in CSRA with some schools closing as virus hits early - WRDW"
+        ]
+      },
+      {
+        "trend": "world health",
+        "market_code": "CN",
+        "category": "Asia Health",
+        "score": 6,
+        "examples": [
+          "Cervical cancer - World Health Organization (WHO)",
+          "Cervical cancer - World Health Organization (WHO)",
+          "WHO Health Emergencies EPI-WIN webinar: Update on the current Ebola Bundibugyo virus disease outbreak - World Health Organization (WHO)"
         ]
       }
     ],
@@ -1615,11 +1615,11 @@
         "trend": "health",
         "market_code": "KR",
         "category": "Asia Health",
-        "score": 92,
+        "score": 97,
         "examples": [
           "Cervical cancer - World Health Organization (WHO)",
           "California announces funding for psychedelic treatment research to improve veterans’ health - California State Portal | CA.gov",
-          "Smart ring maker Oura to acquire Counsel Health for $625 million - Reuters"
+          "County Behavioral Health establishes dedicated phone line for Silver Rail families - Deschutes County, OR (.gov)"
         ]
       },
       {
@@ -1637,31 +1637,42 @@
         "trend": "cancer",
         "market_code": "KR",
         "category": "Chronic Disease",
-        "score": 17,
+        "score": 15,
         "examples": [
           "Cervical cancer - World Health Organization (WHO)",
-          "WVU Cancer Institute opens new facility at Summersville Regional Medical Center - WVU Medicine",
-          "TTUHSC’s Dr. Tyler Mouw Named Medical Director of UMC TLC² Foundation Cancer Center - KCBD"
+          "Cervical cancer - World Health Organization (WHO)",
+          "Zilber College of Public Health Seminar: Cancer Clusters – Facts and Fiction - UW-Milwaukee"
         ]
       },
       {
         "trend": "medical",
         "market_code": "KR",
         "category": "Asia Health",
-        "score": 17,
+        "score": 14,
         "examples": [
+          "Highlights from the 2026 AMA Interim Meeting - American Medical Association | AMA",
           "Hall of Famer Ham recovering from medical emergency, Penn State says - ESPN",
-          "Vikings Visit V.A. Medical Centers & Host Military Baby Shower - Minnesota Vikings",
-          "CMS Announces Distribution of Last Medicare-Supported Graduate Medical Education Residency Positions - AAMC"
+          "Medical Certification Modernization - ALPA"
+        ]
+      },
+      {
+        "trend": "public health",
+        "market_code": "KR",
+        "category": "Asia Health",
+        "score": 13,
+        "examples": [
+          "Earning Trust While Reporting on Black Lung Disease for Over a Decade - Public Health Watch",
+          "Public health report: Most school food services pass muster in October inspections - Waltham Times",
+          "Why Voting is a Public Health Issue - Columbia University Mailman School of Public Health"
         ]
       },
       {
         "trend": "mental",
         "market_code": "KR",
         "category": "Mental Health",
-        "score": 13,
+        "score": 12,
         "examples": [
-          "UMW Named to The Princeton Review’s Mental Health Honor Roll - University of Mary Washington",
+          "Mental health app may help unemployed people find jobs, six-week trial suggests - Phys.org",
           "UMW Named to The Princeton Review’s Mental Health Honor Roll - University of Mary Washington",
           "Legislative priorities could focus on mental health diversion, Oklahoma lawmaker says - Oklahoma Voice"
         ]
@@ -1670,77 +1681,66 @@
         "trend": "outbreak",
         "market_code": "KR",
         "category": "Outbreaks",
-        "score": 12,
+        "score": 10,
         "examples": [
           "Australia: Leptospirosis alert issued in the Northern Territory - Outbreak News Today",
           "WHO Health Emergencies EPI-WIN webinar: Update on the current Ebola Bundibugyo virus disease outbreak - World Health Organization (WHO)",
-          "CDC declares its probe into outbreak of E coli, Salmonella illnesses tied to alfalfa sprouts over - CIDRAP"
+          "Ebola Outbreak, DRC and Region, Situation Report #15 (November 10, 2026) - ReliefWeb"
         ]
       },
       {
         "trend": "mental health",
         "market_code": "KR",
         "category": "Mental Health",
-        "score": 11,
-        "examples": [
-          "UMW Named to The Princeton Review’s Mental Health Honor Roll - University of Mary Washington",
-          "UMW Named to The Princeton Review’s Mental Health Honor Roll - University of Mary Washington",
-          "Legislative priorities could focus on mental health diversion, Oklahoma lawmaker says - Oklahoma Voice"
-        ]
-      },
-      {
-        "trend": "public health",
-        "market_code": "KR",
-        "category": "Asia Health",
         "score": 10,
         "examples": [
-          "Zilber College of Public Health Seminar: Cancer Clusters – Facts and Fiction - UW-Milwaukee",
-          "The U.S. could lose a decades-old public health achievement - The Washington Post",
-          "Court’s methylene chloride decision leaves public health in danger - Toxic-Free Future"
+          "Mental health app may help unemployed people find jobs, six-week trial suggests - Phys.org",
+          "UMW Named to The Princeton Review’s Mental Health Honor Roll - University of Mary Washington",
+          "Legislative priorities could focus on mental health diversion, Oklahoma lawmaker says - Oklahoma Voice"
         ]
       },
       {
         "trend": "warning",
         "market_code": "KR",
         "category": "Asia Health",
-        "score": 8,
+        "score": 9,
         "examples": [
-          "Episcopal Health Services marks Lung Cancer Awareness Month by encouraging knowing warning signs and getting screened - QNS.com",
-          "Health Department issues warning to ten Michigan counties over new synthetic opioid - 9and10News.com",
-          "Auto Repair Expert Gerald Gillis Highlights Brake Health Warning Signs That Affect Driving Safety - Yahoo Finance"
-        ]
-      },
-      {
-        "trend": "health alert",
-        "market_code": "KR",
-        "category": "Asia Health",
-        "score": 8,
-        "examples": [
-          "First cold health alert of winter issued as UK temperatures to plummet - The Independent",
-          "HEALTH ALERT: Confirmed Case of Measles in Clark County - WEAU",
-          "Check your freezer. List of meats under a public health alert - Florida Today"
-        ]
-      },
-      {
-        "trend": "medicine",
-        "market_code": "KR",
-        "category": "Asia Health",
-        "score": 7,
-        "examples": [
-          "WVU Cancer Institute opens new facility at Summersville Regional Medical Center - WVU Medicine",
-          "Postpartum psychosis: Five things to know from a Stanford Medicine psychiatrist - Stanford Medicine",
-          "Postpartum psychosis: Five things to know from a Stanford Medicine psychiatrist - Stanford Medicine"
+          "Health warning issued as temperatures to plummet - BBC",
+          "Tuesday Health Report: FDA mandates warning for rare eye condition on popular GLP-1 medications - WBRZ",
+          "Episcopal Health Services marks Lung Cancer Awareness Month by encouraging knowing warning signs and getting screened - QNS.com"
         ]
       },
       {
         "trend": "measles",
         "market_code": "KR",
         "category": "Outbreaks",
-        "score": 7,
+        "score": 9,
         "examples": [
           "In case you missed it: Measles exposure at Osage hospital prompts health warning - Globe Gazette",
           "HEALTH ALERT: Confirmed Case of Measles in Clark County - WEAU",
-          "Wisconsin health officials advise early measles vaccination for some infants amid outbreak - WPR"
+          "US poised to lose measles elimination status—what does that mean? - CIDRAP"
+        ]
+      },
+      {
+        "trend": "virus",
+        "market_code": "KR",
+        "category": "Outbreaks",
+        "score": 7,
+        "examples": [
+          "WHO Health Emergencies EPI-WIN webinar: Update on the current Ebola Bundibugyo virus disease outbreak - World Health Organization (WHO)",
+          "Bird flu hits Oregon dairy herd as virus strikes Northwest - Capital Press",
+          "Flu flares in CSRA with some schools closing as virus hits early - WRDW"
+        ]
+      },
+      {
+        "trend": "world health",
+        "market_code": "KR",
+        "category": "Asia Health",
+        "score": 6,
+        "examples": [
+          "Cervical cancer - World Health Organization (WHO)",
+          "Cervical cancer - World Health Organization (WHO)",
+          "WHO Health Emergencies EPI-WIN webinar: Update on the current Ebola Bundibugyo virus disease outbreak - World Health Organization (WHO)"
         ]
       }
     ],
@@ -1749,22 +1749,33 @@
         "trend": "health",
         "market_code": "IN",
         "category": "Asia Health",
-        "score": 79,
+        "score": 85,
         "examples": [
           "Cervical cancer - World Health Organization (WHO)",
-          "Karnataka-registered doctors may be allowed to practise in Kasaragod: Keralam Health Minister - The Hindu",
-          "Survey Review: Why Americans Use AI for Health Questions - DocWireNews"
+          "What’s it worth? Investing in health, investing in our future - Roche",
+          "Wastewater bacteria offer clues to community-wide health patterns - News-Medical"
         ]
       },
       {
         "trend": "healthcare",
         "market_code": "IN",
         "category": "Asia Health",
-        "score": 19,
+        "score": 18,
         "examples": [
           "Introducing Gemini for healthcare - Google Cloud",
-          "7 healthcare experts on adopting AI tools - Healthcare Dive",
-          "7 healthcare experts on adopting AI tools - Healthcare Dive"
+          "(Sponsored) AI expanding access to medical knowledge - Healthcare IT News",
+          "India needs 1.25 million AI-ready health workers annually, report says - Healthcare Asia Magazine"
+        ]
+      },
+      {
+        "trend": "medical",
+        "market_code": "IN",
+        "category": "Asia Health",
+        "score": 18,
+        "examples": [
+          "Government invites fresh applications under PLI scheme for medical devices - News On AIR",
+          "Hospitals, medical shops not implementing reduced cancer drug prices to face action - The Hindu",
+          "AI tools can simplify medical reports but still need human oversight - Medical Xpress"
         ]
       },
       {
@@ -1774,41 +1785,30 @@
         "score": 17,
         "examples": [
           "Cervical cancer - World Health Organization (WHO)",
-          "Hospitals, medical shops not implementing reduced cancer drug prices to face action - The Hindu",
-          "Cervical cancer - World Health Organization (WHO)"
+          "Ensure drug price cuts reach cancer patients: Andhra Health Minister - The New Indian Express",
+          "Hospitals, medical shops not implementing reduced cancer drug prices to face action - The Hindu"
         ]
       },
       {
-        "trend": "medical",
+        "trend": "mental",
         "market_code": "IN",
-        "category": "Asia Health",
-        "score": 15,
-        "examples": [
-          "Govt invites fresh applications under PLI scheme for medical devices - News On AIR",
-          "Hospitals, medical shops not implementing reduced cancer drug prices to face action - The Hindu",
-          "AI tools can simplify medical reports but still need human oversight - Medical Xpress"
-        ]
-      },
-      {
-        "trend": "outbreak",
-        "market_code": "IN",
-        "category": "Outbreaks",
-        "score": 12,
-        "examples": [
-          "Australia: Leptospirosis alert issued in the Northern Territory - Outbreak News Today",
-          "WHO Health Emergencies EPI-WIN webinar: Update on the current Ebola Bundibugyo virus disease outbreak - World Health Organization (WHO)",
-          "The vaccine limbo in the US is worsening the measles outbreak - The Guardian"
-        ]
-      },
-      {
-        "trend": "vaccine",
-        "market_code": "IN",
-        "category": "Drug & Treatment News",
+        "category": "Mental Health",
         "score": 10,
         "examples": [
-          "Can two new vaccines help turn the tide against Bundibugyo Ebola? - Gavi, the Vaccine Alliance",
-          "The vaccine limbo in the US is worsening the measles outbreak - The Guardian",
-          "From Stockpile to Patient: Preparing Vaccine Delivery Before an Outbreak - Infection Control Today"
+          "Mental health conditions after trauma linked to higher cardiovascular risk: Study shows - Medical Dialogues",
+          "Mental health app may help unemployed people find jobs, six-week trial suggests - Phys.org",
+          "Lady Gaga’s foundation and Jack.org set out to help people support friends struggling with mental health; - The Times of India"
+        ]
+      },
+      {
+        "trend": "mental health",
+        "market_code": "IN",
+        "category": "Mental Health",
+        "score": 9,
+        "examples": [
+          "Mental health conditions after trauma linked to higher cardiovascular risk: Study shows - Medical Dialogues",
+          "Mental health app may help unemployed people find jobs, six-week trial suggests - Phys.org",
+          "Lady Gaga’s foundation and Jack.org set out to help people support friends struggling with mental health; - The Times of India"
         ]
       },
       {
@@ -1845,36 +1845,36 @@
         ]
       },
       {
-        "trend": "warning",
+        "trend": "news-medical",
         "market_code": "IN",
         "category": "Asia Health",
         "score": 8,
         "examples": [
+          "Wastewater bacteria offer clues to community-wide health patterns - News-Medical",
+          "Wildlife imports linked to increased risk of zoonotic disease outbreaks - News-Medical",
+          "Wastewater bacteria offer clues to community-wide health patterns - News-Medical"
+        ]
+      },
+      {
+        "trend": "disease",
+        "market_code": "IN",
+        "category": "Asia Health",
+        "score": 8,
+        "examples": [
+          "[HIV Glasgow 2026] Infectious Disease Special Edition | Biktarvy exhibits health benefits beyond HIV treatment - European AIDS Treatment Group",
+          "Wildlife imports linked to increased risk of zoonotic disease outbreaks - News-Medical",
+          "Epidemic and emerging disease alerts in the Pacific as of 10 November 2026 - ReliefWeb"
+        ]
+      },
+      {
+        "trend": "warning",
+        "market_code": "IN",
+        "category": "Asia Health",
+        "score": 7,
+        "examples": [
           "Health warning issued as temperatures to plummet - BBC",
           "FDA Advisory No.2026-1737 || Public Health Warning Against the Purchase and Use of the Unregistered Drug Product “Tirzepatide 30mg Multi-dose Vial Subcutaneous Use Only For Research Use” - https://www.fda.gov.ph/",
-          "Health warning issued as temperatures to plummet - Yahoo News Australia"
-        ]
-      },
-      {
-        "trend": "mental",
-        "market_code": "IN",
-        "category": "Mental Health",
-        "score": 8,
-        "examples": [
-          "New report highlights action across European Region to tackle mental health consequences of climate change - World Health Organization (WHO)",
-          "Lady Gaga’s foundation and Jack.org set out to help people support friends struggling with mental health; - The Times of India",
-          "Mental Health Centres To Be Renamed As 'Regional Institute For Happiness And Wellness': State Tells... - Live Law"
-        ]
-      },
-      {
-        "trend": "mental health",
-        "market_code": "IN",
-        "category": "Mental Health",
-        "score": 8,
-        "examples": [
-          "New report highlights action across European Region to tackle mental health consequences of climate change - World Health Organization (WHO)",
-          "Lady Gaga’s foundation and Jack.org set out to help people support friends struggling with mental health; - The Times of India",
-          "Mental Health Centres To Be Renamed As 'Regional Institute For Happiness And Wellness': State Tells... - Live Law"
+          "Tuesday Health Report: FDA mandates warning for rare eye condition on popular GLP-1 medications - WBRZ"
         ]
       }
     ],
@@ -1883,33 +1883,22 @@
         "trend": "health",
         "market_code": "AU",
         "category": "Global Health",
-        "score": 76,
+        "score": 79,
         "examples": [
           "Cervical cancer - World Health Organization (WHO)",
-          "Is your gym attire setting you up for health problems? - news - Mongabay",
-          "Allied health staff launch case over 'impossible' wages - The Canberra Times"
-        ]
-      },
-      {
-        "trend": "healthcare",
-        "market_code": "AU",
-        "category": "Global Health",
-        "score": 15,
-        "examples": [
-          "Going the distance with Isuzu to bring healthcare closer to home - Royal Flying Doctor Service",
-          "Going the distance with Isuzu to bring healthcare closer to home - Royal Flying Doctor Service",
-          "AI in healthcare - ActuIA"
+          "Better health care for First Nations mums and babies - Australian Government Department of Health, Disability and Ageing",
+          "Better health care for First Nations mums and babies - Australian Government Department of Health, Disability and Ageing"
         ]
       },
       {
         "trend": "medical",
         "market_code": "AU",
         "category": "Global Health",
-        "score": 14,
+        "score": 15,
         "examples": [
           "Researchers transforming bioplastics into ‘superstructure’ medical hydrogels - UQ News",
-          "Webinar: Insights into the Medical Research Future Fund’s Research Missions theme - Australian Government Department of Health, Disability and Ageing",
-          "Envoy Medical Reports Q3 2026 Results, Advances Acclaim Cochlear Implant Trial Toward Key Milestones - The Hearing Review"
+          "Culturally safe medical hub stops men 'walking out the door' - ABC News & Headlines – Australian Broadcasting Corporation",
+          "Dairy decoded: Cutting through the confusion in clinical practice - Medical Republic"
         ]
       },
       {
@@ -1920,47 +1909,80 @@
         "examples": [
           "Cervical cancer - World Health Organization (WHO)",
           "Cervical cancer - World Health Organization (WHO)",
-          "Episcopal Health Services marks Lung Cancer Awareness Month by encouraging knowing warning signs and getting screened - QNS.com"
+          "Cervical cancer - World Health Organization (WHO)"
+        ]
+      },
+      {
+        "trend": "healthcare",
+        "market_code": "AU",
+        "category": "Global Health",
+        "score": 13,
+        "examples": [
+          "Going the distance with Isuzu to bring healthcare closer to home - Royal Flying Doctor Service",
+          "Going the distance with Isuzu to bring healthcare closer to home - Royal Flying Doctor Service",
+          "AI in healthcare - ActuIA"
+        ]
+      },
+      {
+        "trend": "warning",
+        "market_code": "AU",
+        "category": "Global Health",
+        "score": 10,
+        "examples": [
+          "Public Health Unit issue bat warning - Metro South Health",
+          "Public Health Unit issue bat warning - Metro South Health",
+          "Public Health Unit issue bat warning - Metro South Health"
         ]
       },
       {
         "trend": "outbreak",
         "market_code": "AU",
         "category": "Outbreaks",
-        "score": 13,
+        "score": 10,
         "examples": [
-          "WHO Health Emergencies EPI-WIN webinar: Update on the current Ebola Bundibugyo virus disease outbreak - World Health Organization (WHO)",
           "Australia: Leptospirosis alert issued in the Northern Territory - Outbreak News Today",
-          "WHO Health Emergencies EPI-WIN webinar: Update on the current Ebola Bundibugyo virus disease outbreak - World Health Organization (WHO)"
+          "WHO Health Emergencies EPI-WIN webinar: Update on the current Ebola Bundibugyo virus disease outbreak - World Health Organization (WHO)",
+          "Ebola Outbreak, DRC and Region, Situation Report #15 (November 10, 2026) - ReliefWeb"
+        ]
+      },
+      {
+        "trend": "trial",
+        "market_code": "AU",
+        "category": "Global Health",
+        "score": 9,
+        "examples": [
+          "Former doctor who lied during rape trial wants to return to medicine, train as GP - The Canberra Times",
+          "Envoy Medical Reports Q3 2026 Results, Advances Acclaim Cochlear Implant Trial Toward Key Milestones - The Hearing Review",
+          "From immune discovery to clinical trial: the journey of a COVID-19 antibody - Doherty Institute"
         ]
       },
       {
         "trend": "mental",
         "market_code": "AU",
         "category": "Mental Health",
-        "score": 11,
+        "score": 9,
         "examples": [
           "Men over 40: the 10 mental health warning signs you should never ignore - Men's Fitness",
-          "‘I’m having an episode’: NRL sprint guru’s raw, real-time mental health battle - CODE Sports",
-          "Amazon Ads + Twitch team up with Movember to connect gamers with free mental health support - Campaign Brief"
+          "New youth mental health facilities take shape in Townsville and Rockhampton - Queensland Health",
+          "Contractors step up for new Queensland youth mental health facilities - Inside State Government"
         ]
       },
       {
         "trend": "mental health",
         "market_code": "AU",
         "category": "Mental Health",
-        "score": 10,
+        "score": 9,
         "examples": [
           "Men over 40: the 10 mental health warning signs you should never ignore - Men's Fitness",
-          "‘I’m having an episode’: NRL sprint guru’s raw, real-time mental health battle - CODE Sports",
-          "Amazon Ads + Twitch team up with Movember to connect gamers with free mental health support - Campaign Brief"
+          "New youth mental health facilities take shape in Townsville and Rockhampton - Queensland Health",
+          "Contractors step up for new Queensland youth mental health facilities - Inside State Government"
         ]
       },
       {
         "trend": "world health",
         "market_code": "AU",
         "category": "Global Health",
-        "score": 9,
+        "score": 8,
         "examples": [
           "Cervical cancer - World Health Organization (WHO)",
           "Cervical cancer - World Health Organization (WHO)",
@@ -1971,7 +1993,7 @@
         "trend": "health organization",
         "market_code": "AU",
         "category": "Global Health",
-        "score": 9,
+        "score": 8,
         "examples": [
           "Cervical cancer - World Health Organization (WHO)",
           "Cervical cancer - World Health Organization (WHO)",
@@ -1982,33 +2004,11 @@
         "trend": "world health organization",
         "market_code": "AU",
         "category": "Global Health",
-        "score": 9,
+        "score": 8,
         "examples": [
           "Cervical cancer - World Health Organization (WHO)",
           "Cervical cancer - World Health Organization (WHO)",
           "WHO Health Emergencies EPI-WIN webinar: Update on the current Ebola Bundibugyo virus disease outbreak - World Health Organization (WHO)"
-        ]
-      },
-      {
-        "trend": "disease",
-        "market_code": "AU",
-        "category": "Global Health",
-        "score": 9,
-        "examples": [
-          "Protein marker detects early Huntington's disease before brain damage - News-Medical",
-          "WHO Health Emergencies EPI-WIN webinar: Update on the current Ebola Bundibugyo virus disease outbreak - World Health Organization (WHO)",
-          "Epidemic and emerging disease alerts in the Pacific as of 10 November 2026 - ReliefWeb"
-        ]
-      },
-      {
-        "trend": "warning",
-        "market_code": "AU",
-        "category": "Global Health",
-        "score": 9,
-        "examples": [
-          "Health warning issued as temperatures to plummet - Yahoo News Australia",
-          "Queensland weather: Health warning issued as extreme heatwave set to hit huge part of Australia - Nine.com.au",
-          "Health warning issued as temperatures to plummet - BBC"
         ]
       }
     ],
@@ -2017,29 +2017,40 @@
         "trend": "health",
         "market_code": "CA",
         "category": "Global Health",
-        "score": 75,
+        "score": 79,
         "examples": [
           "Cervical cancer - World Health Organization (WHO)",
-          "Why health care for Canadian women veterans is falling short - CBC",
-          "Check out the recording of Unity Health Toronto’s Community Telephone Town Hall - Unity Health Toronto"
+          "Dr. Susa Benseler named Scientific Director of Children’s Health Research Institute - Schulich School of Medicine & Dentistry",
+          "Why health care for Canadian women veterans is falling short - CBC"
         ]
       },
       {
         "trend": "medical",
         "market_code": "CA",
         "category": "Global Health",
-        "score": 20,
+        "score": 15,
         "examples": [
           "Police investigate after 30 California marathon runners seek medical care - Global News",
-          "French Medical Imaging Companies: When Management Packages Undermine Physician Independence - Dentons",
-          "AI tools can simplify medical reports but still need human oversight - Medical Xpress"
+          "Hamilton anesthesiologist and university students develop innovative medical device - CP24",
+          "French Medical Imaging Companies: When Management Packages Undermine Physician Independence - Dentons"
+        ]
+      },
+      {
+        "trend": "cancer",
+        "market_code": "CA",
+        "category": "Chronic Disease",
+        "score": 14,
+        "examples": [
+          "Cervical cancer - World Health Organization (WHO)",
+          "Cervical cancer - World Health Organization (WHO)",
+          "Health Alert: Warning signs of lung cancer - KALB | News Channel 5"
         ]
       },
       {
         "trend": "healthcare",
         "market_code": "CA",
         "category": "Global Health",
-        "score": 15,
+        "score": 13,
         "examples": [
           "GuideAI Health Corp. Shares Decline as AI Healthcare Stocks Face Sentiment Pressure - kalkine.ca",
           "Patients want a human in the loop for AI healthcare tools - Healthcare Dive",
@@ -2047,58 +2058,36 @@
         ]
       },
       {
-        "trend": "cancer",
-        "market_code": "CA",
-        "category": "Chronic Disease",
-        "score": 13,
-        "examples": [
-          "Cervical cancer - World Health Organization (WHO)",
-          "Cervical cancer - World Health Organization (WHO)",
-          "Episcopal Health Services marks Lung Cancer Awareness Month by encouraging knowing warning signs and getting screened - QNS.com"
-        ]
-      },
-      {
-        "trend": "outbreak",
-        "market_code": "CA",
-        "category": "Outbreaks",
-        "score": 12,
-        "examples": [
-          "Australia: Leptospirosis alert issued in the Northern Territory - Outbreak News Today",
-          "Florida’s dengue outbreak is now the largest in a U.S. state in decades - CTV News",
-          "WHO Health Emergencies EPI-WIN webinar: Update on the current Ebola Bundibugyo virus disease outbreak - World Health Organization (WHO)"
-        ]
-      },
-      {
         "trend": "mental",
         "market_code": "CA",
         "category": "Mental Health",
-        "score": 11,
+        "score": 10,
         "examples": [
           "Governor General's Gold Medal honours researcher advancing mental health science - University of Saskatchewan",
-          "New Horizons: Medical Humanities, Mental Health, and 21st-Century Literary Studies (Passau) - Fabula, la recherche en littérature",
-          "Governor General's Gold Medal honours researcher advancing mental health science - University of Saskatchewan"
+          "Governor General's Gold Medal honours researcher advancing mental health science - University of Saskatchewan",
+          "Prescription: Suicide Prevention - Mental Health Commission of Canada"
         ]
       },
       {
         "trend": "mental health",
         "market_code": "CA",
         "category": "Mental Health",
-        "score": 11,
+        "score": 9,
         "examples": [
           "Governor General's Gold Medal honours researcher advancing mental health science - University of Saskatchewan",
-          "New Horizons: Medical Humanities, Mental Health, and 21st-Century Literary Studies (Passau) - Fabula, la recherche en littérature",
-          "Governor General's Gold Medal honours researcher advancing mental health science - University of Saskatchewan"
+          "Governor General's Gold Medal honours researcher advancing mental health science - University of Saskatchewan",
+          "Prescription: Suicide Prevention - Mental Health Commission of Canada"
         ]
       },
       {
-        "trend": "public health",
+        "trend": "health organization",
         "market_code": "CA",
         "category": "Global Health",
         "score": 8,
         "examples": [
-          "Public Health raises border concerns amid St. Stephen overdoses - The Spec",
-          "Public health officials urge caution after 2-year-old bitten by rabid skunk in Granby, Que. - CBC",
-          "Court’s methylene chloride decision leaves public health in danger - Toxic-Free Future"
+          "Cervical cancer - World Health Organization (WHO)",
+          "PAHO calls for stronger menopause care to promote healthy aging in the Americas - Pan American Health Organization (PAHO)",
+          "Cervical cancer - World Health Organization (WHO)"
         ]
       },
       {
@@ -2107,24 +2096,13 @@
         "category": "Global Health",
         "score": 8,
         "examples": [
-          "Auto Repair Expert Gerald Gillis Highlights Brake Health Warning Signs That Affect Driving Safety - Yahoo Finance",
           "Health warning issued as temperatures to plummet - BBC",
-          "FDA Advisory No.2026-1737 || Public Health Warning Against the Purchase and Use of the Unregistered Drug Product “Tirzepatide 30mg Multi-dose Vial Subcutaneous Use Only For Research Use” - https://www.fda.gov.ph/"
+          "Auto Repair Expert Gerald Gillis Highlights Brake Health Warning Signs That Affect Driving Safety - Yahoo Finance",
+          "Tuesday Health Report: FDA mandates warning for rare eye condition on popular GLP-1 medications - WBRZ"
         ]
       },
       {
         "trend": "world health",
-        "market_code": "CA",
-        "category": "Global Health",
-        "score": 7,
-        "examples": [
-          "Cervical cancer - World Health Organization (WHO)",
-          "Cervical cancer - World Health Organization (WHO)",
-          "WHO Health Emergencies EPI-WIN webinar: Update on the current Ebola Bundibugyo virus disease outbreak - World Health Organization (WHO)"
-        ]
-      },
-      {
-        "trend": "health organization",
         "market_code": "CA",
         "category": "Global Health",
         "score": 7,
@@ -2142,6 +2120,28 @@
         "examples": [
           "Cervical cancer - World Health Organization (WHO)",
           "Cervical cancer - World Health Organization (WHO)",
+          "WHO Health Emergencies EPI-WIN webinar: Update on the current Ebola Bundibugyo virus disease outbreak - World Health Organization (WHO)"
+        ]
+      },
+      {
+        "trend": "public health",
+        "market_code": "CA",
+        "category": "Global Health",
+        "score": 7,
+        "examples": [
+          "Public Health raises border concerns amid St. Stephen overdoses - The Spec",
+          "Public health officials urge caution after 2-year-old bitten by rabid skunk in Granby, Que. - CBC",
+          "Court’s methylene chloride decision leaves public health in danger - Toxic-Free Future"
+        ]
+      },
+      {
+        "trend": "outbreak",
+        "market_code": "CA",
+        "category": "Outbreaks",
+        "score": 7,
+        "examples": [
+          "Australia: Leptospirosis alert issued in the Northern Territory - Outbreak News Today",
+          "Florida’s dengue outbreak is now the largest in a U.S. state in decades - CTV News",
           "WHO Health Emergencies EPI-WIN webinar: Update on the current Ebola Bundibugyo virus disease outbreak - World Health Organization (WHO)"
         ]
       }
@@ -2151,11 +2151,11 @@
         "trend": "health",
         "market_code": "AE",
         "category": "Arab Health",
-        "score": 92,
+        "score": 97,
         "examples": [
           "Cervical cancer - World Health Organization (WHO)",
           "California announces funding for psychedelic treatment research to improve veterans’ health - California State Portal | CA.gov",
-          "Smart ring maker Oura to acquire Counsel Health for $625 million - Reuters"
+          "County Behavioral Health establishes dedicated phone line for Silver Rail families - Deschutes County, OR (.gov)"
         ]
       },
       {
@@ -2173,31 +2173,42 @@
         "trend": "cancer",
         "market_code": "AE",
         "category": "Chronic Disease",
-        "score": 17,
+        "score": 15,
         "examples": [
           "Cervical cancer - World Health Organization (WHO)",
-          "WVU Cancer Institute opens new facility at Summersville Regional Medical Center - WVU Medicine",
-          "TTUHSC’s Dr. Tyler Mouw Named Medical Director of UMC TLC² Foundation Cancer Center - KCBD"
+          "Cervical cancer - World Health Organization (WHO)",
+          "Zilber College of Public Health Seminar: Cancer Clusters – Facts and Fiction - UW-Milwaukee"
         ]
       },
       {
         "trend": "medical",
         "market_code": "AE",
         "category": "Arab Health",
-        "score": 17,
+        "score": 14,
         "examples": [
+          "Highlights from the 2026 AMA Interim Meeting - American Medical Association | AMA",
           "Hall of Famer Ham recovering from medical emergency, Penn State says - ESPN",
-          "Vikings Visit V.A. Medical Centers & Host Military Baby Shower - Minnesota Vikings",
-          "CMS Announces Distribution of Last Medicare-Supported Graduate Medical Education Residency Positions - AAMC"
+          "Medical Certification Modernization - ALPA"
+        ]
+      },
+      {
+        "trend": "public health",
+        "market_code": "AE",
+        "category": "Arab Health",
+        "score": 13,
+        "examples": [
+          "Earning Trust While Reporting on Black Lung Disease for Over a Decade - Public Health Watch",
+          "Public health report: Most school food services pass muster in October inspections - Waltham Times",
+          "Why Voting is a Public Health Issue - Columbia University Mailman School of Public Health"
         ]
       },
       {
         "trend": "mental",
         "market_code": "AE",
         "category": "Mental Health",
-        "score": 13,
+        "score": 12,
         "examples": [
-          "UMW Named to The Princeton Review’s Mental Health Honor Roll - University of Mary Washington",
+          "Mental health app may help unemployed people find jobs, six-week trial suggests - Phys.org",
           "UMW Named to The Princeton Review’s Mental Health Honor Roll - University of Mary Washington",
           "Legislative priorities could focus on mental health diversion, Oklahoma lawmaker says - Oklahoma Voice"
         ]
@@ -2206,77 +2217,66 @@
         "trend": "outbreak",
         "market_code": "AE",
         "category": "Outbreaks",
-        "score": 12,
+        "score": 10,
         "examples": [
           "Australia: Leptospirosis alert issued in the Northern Territory - Outbreak News Today",
           "WHO Health Emergencies EPI-WIN webinar: Update on the current Ebola Bundibugyo virus disease outbreak - World Health Organization (WHO)",
-          "CDC declares its probe into outbreak of E coli, Salmonella illnesses tied to alfalfa sprouts over - CIDRAP"
+          "Ebola Outbreak, DRC and Region, Situation Report #15 (November 10, 2026) - ReliefWeb"
         ]
       },
       {
         "trend": "mental health",
         "market_code": "AE",
         "category": "Mental Health",
-        "score": 11,
-        "examples": [
-          "UMW Named to The Princeton Review’s Mental Health Honor Roll - University of Mary Washington",
-          "UMW Named to The Princeton Review’s Mental Health Honor Roll - University of Mary Washington",
-          "Legislative priorities could focus on mental health diversion, Oklahoma lawmaker says - Oklahoma Voice"
-        ]
-      },
-      {
-        "trend": "public health",
-        "market_code": "AE",
-        "category": "Arab Health",
         "score": 10,
         "examples": [
-          "Zilber College of Public Health Seminar: Cancer Clusters – Facts and Fiction - UW-Milwaukee",
-          "The U.S. could lose a decades-old public health achievement - The Washington Post",
-          "Court’s methylene chloride decision leaves public health in danger - Toxic-Free Future"
+          "Mental health app may help unemployed people find jobs, six-week trial suggests - Phys.org",
+          "UMW Named to The Princeton Review’s Mental Health Honor Roll - University of Mary Washington",
+          "Legislative priorities could focus on mental health diversion, Oklahoma lawmaker says - Oklahoma Voice"
         ]
       },
       {
         "trend": "warning",
         "market_code": "AE",
         "category": "Arab Health",
-        "score": 8,
+        "score": 9,
         "examples": [
-          "Episcopal Health Services marks Lung Cancer Awareness Month by encouraging knowing warning signs and getting screened - QNS.com",
-          "Health Department issues warning to ten Michigan counties over new synthetic opioid - 9and10News.com",
-          "Auto Repair Expert Gerald Gillis Highlights Brake Health Warning Signs That Affect Driving Safety - Yahoo Finance"
-        ]
-      },
-      {
-        "trend": "health alert",
-        "market_code": "AE",
-        "category": "Arab Health",
-        "score": 8,
-        "examples": [
-          "First cold health alert of winter issued as UK temperatures to plummet - The Independent",
-          "HEALTH ALERT: Confirmed Case of Measles in Clark County - WEAU",
-          "Check your freezer. List of meats under a public health alert - Florida Today"
-        ]
-      },
-      {
-        "trend": "medicine",
-        "market_code": "AE",
-        "category": "Arab Health",
-        "score": 7,
-        "examples": [
-          "WVU Cancer Institute opens new facility at Summersville Regional Medical Center - WVU Medicine",
-          "Postpartum psychosis: Five things to know from a Stanford Medicine psychiatrist - Stanford Medicine",
-          "Postpartum psychosis: Five things to know from a Stanford Medicine psychiatrist - Stanford Medicine"
+          "Health warning issued as temperatures to plummet - BBC",
+          "Tuesday Health Report: FDA mandates warning for rare eye condition on popular GLP-1 medications - WBRZ",
+          "Episcopal Health Services marks Lung Cancer Awareness Month by encouraging knowing warning signs and getting screened - QNS.com"
         ]
       },
       {
         "trend": "measles",
         "market_code": "AE",
         "category": "Outbreaks",
-        "score": 7,
+        "score": 9,
         "examples": [
           "In case you missed it: Measles exposure at Osage hospital prompts health warning - Globe Gazette",
           "HEALTH ALERT: Confirmed Case of Measles in Clark County - WEAU",
-          "Wisconsin health officials advise early measles vaccination for some infants amid outbreak - WPR"
+          "US poised to lose measles elimination status—what does that mean? - CIDRAP"
+        ]
+      },
+      {
+        "trend": "virus",
+        "market_code": "AE",
+        "category": "Outbreaks",
+        "score": 7,
+        "examples": [
+          "WHO Health Emergencies EPI-WIN webinar: Update on the current Ebola Bundibugyo virus disease outbreak - World Health Organization (WHO)",
+          "Bird flu hits Oregon dairy herd as virus strikes Northwest - Capital Press",
+          "Flu flares in CSRA with some schools closing as virus hits early - WRDW"
+        ]
+      },
+      {
+        "trend": "world health",
+        "market_code": "AE",
+        "category": "Arab Health",
+        "score": 6,
+        "examples": [
+          "Cervical cancer - World Health Organization (WHO)",
+          "Cervical cancer - World Health Organization (WHO)",
+          "WHO Health Emergencies EPI-WIN webinar: Update on the current Ebola Bundibugyo virus disease outbreak - World Health Organization (WHO)"
         ]
       }
     ],
@@ -2285,11 +2285,11 @@
         "trend": "health",
         "market_code": "SA",
         "category": "Arab Health",
-        "score": 92,
+        "score": 97,
         "examples": [
           "Cervical cancer - World Health Organization (WHO)",
           "California announces funding for psychedelic treatment research to improve veterans’ health - California State Portal | CA.gov",
-          "Smart ring maker Oura to acquire Counsel Health for $625 million - Reuters"
+          "County Behavioral Health establishes dedicated phone line for Silver Rail families - Deschutes County, OR (.gov)"
         ]
       },
       {
@@ -2307,31 +2307,42 @@
         "trend": "cancer",
         "market_code": "SA",
         "category": "Chronic Disease",
-        "score": 17,
+        "score": 15,
         "examples": [
           "Cervical cancer - World Health Organization (WHO)",
-          "WVU Cancer Institute opens new facility at Summersville Regional Medical Center - WVU Medicine",
-          "TTUHSC’s Dr. Tyler Mouw Named Medical Director of UMC TLC² Foundation Cancer Center - KCBD"
+          "Cervical cancer - World Health Organization (WHO)",
+          "Zilber College of Public Health Seminar: Cancer Clusters – Facts and Fiction - UW-Milwaukee"
         ]
       },
       {
         "trend": "medical",
         "market_code": "SA",
         "category": "Arab Health",
-        "score": 17,
+        "score": 14,
         "examples": [
+          "Highlights from the 2026 AMA Interim Meeting - American Medical Association | AMA",
           "Hall of Famer Ham recovering from medical emergency, Penn State says - ESPN",
-          "Vikings Visit V.A. Medical Centers & Host Military Baby Shower - Minnesota Vikings",
-          "CMS Announces Distribution of Last Medicare-Supported Graduate Medical Education Residency Positions - AAMC"
+          "Medical Certification Modernization - ALPA"
+        ]
+      },
+      {
+        "trend": "public health",
+        "market_code": "SA",
+        "category": "Arab Health",
+        "score": 13,
+        "examples": [
+          "Earning Trust While Reporting on Black Lung Disease for Over a Decade - Public Health Watch",
+          "Public health report: Most school food services pass muster in October inspections - Waltham Times",
+          "Why Voting is a Public Health Issue - Columbia University Mailman School of Public Health"
         ]
       },
       {
         "trend": "mental",
         "market_code": "SA",
         "category": "Mental Health",
-        "score": 13,
+        "score": 12,
         "examples": [
-          "UMW Named to The Princeton Review’s Mental Health Honor Roll - University of Mary Washington",
+          "Mental health app may help unemployed people find jobs, six-week trial suggests - Phys.org",
           "UMW Named to The Princeton Review’s Mental Health Honor Roll - University of Mary Washington",
           "Legislative priorities could focus on mental health diversion, Oklahoma lawmaker says - Oklahoma Voice"
         ]
@@ -2340,77 +2351,66 @@
         "trend": "outbreak",
         "market_code": "SA",
         "category": "Outbreaks",
-        "score": 12,
+        "score": 10,
         "examples": [
           "Australia: Leptospirosis alert issued in the Northern Territory - Outbreak News Today",
           "WHO Health Emergencies EPI-WIN webinar: Update on the current Ebola Bundibugyo virus disease outbreak - World Health Organization (WHO)",
-          "CDC declares its probe into outbreak of E coli, Salmonella illnesses tied to alfalfa sprouts over - CIDRAP"
+          "Ebola Outbreak, DRC and Region, Situation Report #15 (November 10, 2026) - ReliefWeb"
         ]
       },
       {
         "trend": "mental health",
         "market_code": "SA",
         "category": "Mental Health",
-        "score": 11,
-        "examples": [
-          "UMW Named to The Princeton Review’s Mental Health Honor Roll - University of Mary Washington",
-          "UMW Named to The Princeton Review’s Mental Health Honor Roll - University of Mary Washington",
-          "Legislative priorities could focus on mental health diversion, Oklahoma lawmaker says - Oklahoma Voice"
-        ]
-      },
-      {
-        "trend": "public health",
-        "market_code": "SA",
-        "category": "Arab Health",
         "score": 10,
         "examples": [
-          "Zilber College of Public Health Seminar: Cancer Clusters – Facts and Fiction - UW-Milwaukee",
-          "The U.S. could lose a decades-old public health achievement - The Washington Post",
-          "Court’s methylene chloride decision leaves public health in danger - Toxic-Free Future"
+          "Mental health app may help unemployed people find jobs, six-week trial suggests - Phys.org",
+          "UMW Named to The Princeton Review’s Mental Health Honor Roll - University of Mary Washington",
+          "Legislative priorities could focus on mental health diversion, Oklahoma lawmaker says - Oklahoma Voice"
         ]
       },
       {
         "trend": "warning",
         "market_code": "SA",
         "category": "Arab Health",
-        "score": 8,
+        "score": 9,
         "examples": [
-          "Episcopal Health Services marks Lung Cancer Awareness Month by encouraging knowing warning signs and getting screened - QNS.com",
-          "Health Department issues warning to ten Michigan counties over new synthetic opioid - 9and10News.com",
-          "Auto Repair Expert Gerald Gillis Highlights Brake Health Warning Signs That Affect Driving Safety - Yahoo Finance"
-        ]
-      },
-      {
-        "trend": "health alert",
-        "market_code": "SA",
-        "category": "Arab Health",
-        "score": 8,
-        "examples": [
-          "First cold health alert of winter issued as UK temperatures to plummet - The Independent",
-          "HEALTH ALERT: Confirmed Case of Measles in Clark County - WEAU",
-          "Check your freezer. List of meats under a public health alert - Florida Today"
-        ]
-      },
-      {
-        "trend": "medicine",
-        "market_code": "SA",
-        "category": "Arab Health",
-        "score": 7,
-        "examples": [
-          "WVU Cancer Institute opens new facility at Summersville Regional Medical Center - WVU Medicine",
-          "Postpartum psychosis: Five things to know from a Stanford Medicine psychiatrist - Stanford Medicine",
-          "Postpartum psychosis: Five things to know from a Stanford Medicine psychiatrist - Stanford Medicine"
+          "Health warning issued as temperatures to plummet - BBC",
+          "Tuesday Health Report: FDA mandates warning for rare eye condition on popular GLP-1 medications - WBRZ",
+          "Episcopal Health Services marks Lung Cancer Awareness Month by encouraging knowing warning signs and getting screened - QNS.com"
         ]
       },
       {
         "trend": "measles",
         "market_code": "SA",
         "category": "Outbreaks",
-        "score": 7,
+        "score": 9,
         "examples": [
           "In case you missed it: Measles exposure at Osage hospital prompts health warning - Globe Gazette",
           "HEALTH ALERT: Confirmed Case of Measles in Clark County - WEAU",
-          "Wisconsin health officials advise early measles vaccination for some infants amid outbreak - WPR"
+          "US poised to lose measles elimination status—what does that mean? - CIDRAP"
+        ]
+      },
+      {
+        "trend": "virus",
+        "market_code": "SA",
+        "category": "Outbreaks",
+        "score": 7,
+        "examples": [
+          "WHO Health Emergencies EPI-WIN webinar: Update on the current Ebola Bundibugyo virus disease outbreak - World Health Organization (WHO)",
+          "Bird flu hits Oregon dairy herd as virus strikes Northwest - Capital Press",
+          "Flu flares in CSRA with some schools closing as virus hits early - WRDW"
+        ]
+      },
+      {
+        "trend": "world health",
+        "market_code": "SA",
+        "category": "Arab Health",
+        "score": 6,
+        "examples": [
+          "Cervical cancer - World Health Organization (WHO)",
+          "Cervical cancer - World Health Organization (WHO)",
+          "WHO Health Emergencies EPI-WIN webinar: Update on the current Ebola Bundibugyo virus disease outbreak - World Health Organization (WHO)"
         ]
       }
     ],
@@ -2419,11 +2419,11 @@
         "trend": "health",
         "market_code": "QA",
         "category": "Arab Health",
-        "score": 92,
+        "score": 97,
         "examples": [
           "Cervical cancer - World Health Organization (WHO)",
           "California announces funding for psychedelic treatment research to improve veterans’ health - California State Portal | CA.gov",
-          "Smart ring maker Oura to acquire Counsel Health for $625 million - Reuters"
+          "County Behavioral Health establishes dedicated phone line for Silver Rail families - Deschutes County, OR (.gov)"
         ]
       },
       {
@@ -2441,31 +2441,42 @@
         "trend": "cancer",
         "market_code": "QA",
         "category": "Chronic Disease",
-        "score": 17,
+        "score": 15,
         "examples": [
           "Cervical cancer - World Health Organization (WHO)",
-          "WVU Cancer Institute opens new facility at Summersville Regional Medical Center - WVU Medicine",
-          "TTUHSC’s Dr. Tyler Mouw Named Medical Director of UMC TLC² Foundation Cancer Center - KCBD"
+          "Cervical cancer - World Health Organization (WHO)",
+          "Zilber College of Public Health Seminar: Cancer Clusters – Facts and Fiction - UW-Milwaukee"
         ]
       },
       {
         "trend": "medical",
         "market_code": "QA",
         "category": "Arab Health",
-        "score": 17,
+        "score": 14,
         "examples": [
+          "Highlights from the 2026 AMA Interim Meeting - American Medical Association | AMA",
           "Hall of Famer Ham recovering from medical emergency, Penn State says - ESPN",
-          "Vikings Visit V.A. Medical Centers & Host Military Baby Shower - Minnesota Vikings",
-          "CMS Announces Distribution of Last Medicare-Supported Graduate Medical Education Residency Positions - AAMC"
+          "Medical Certification Modernization - ALPA"
+        ]
+      },
+      {
+        "trend": "public health",
+        "market_code": "QA",
+        "category": "Arab Health",
+        "score": 13,
+        "examples": [
+          "Earning Trust While Reporting on Black Lung Disease for Over a Decade - Public Health Watch",
+          "Public health report: Most school food services pass muster in October inspections - Waltham Times",
+          "Why Voting is a Public Health Issue - Columbia University Mailman School of Public Health"
         ]
       },
       {
         "trend": "mental",
         "market_code": "QA",
         "category": "Mental Health",
-        "score": 13,
+        "score": 12,
         "examples": [
-          "UMW Named to The Princeton Review’s Mental Health Honor Roll - University of Mary Washington",
+          "Mental health app may help unemployed people find jobs, six-week trial suggests - Phys.org",
           "UMW Named to The Princeton Review’s Mental Health Honor Roll - University of Mary Washington",
           "Legislative priorities could focus on mental health diversion, Oklahoma lawmaker says - Oklahoma Voice"
         ]
@@ -2474,77 +2485,66 @@
         "trend": "outbreak",
         "market_code": "QA",
         "category": "Outbreaks",
-        "score": 12,
+        "score": 10,
         "examples": [
           "Australia: Leptospirosis alert issued in the Northern Territory - Outbreak News Today",
           "WHO Health Emergencies EPI-WIN webinar: Update on the current Ebola Bundibugyo virus disease outbreak - World Health Organization (WHO)",
-          "CDC declares its probe into outbreak of E coli, Salmonella illnesses tied to alfalfa sprouts over - CIDRAP"
+          "Ebola Outbreak, DRC and Region, Situation Report #15 (November 10, 2026) - ReliefWeb"
         ]
       },
       {
         "trend": "mental health",
         "market_code": "QA",
         "category": "Mental Health",
-        "score": 11,
-        "examples": [
-          "UMW Named to The Princeton Review’s Mental Health Honor Roll - University of Mary Washington",
-          "UMW Named to The Princeton Review’s Mental Health Honor Roll - University of Mary Washington",
-          "Legislative priorities could focus on mental health diversion, Oklahoma lawmaker says - Oklahoma Voice"
-        ]
-      },
-      {
-        "trend": "public health",
-        "market_code": "QA",
-        "category": "Arab Health",
         "score": 10,
         "examples": [
-          "Zilber College of Public Health Seminar: Cancer Clusters – Facts and Fiction - UW-Milwaukee",
-          "The U.S. could lose a decades-old public health achievement - The Washington Post",
-          "Court’s methylene chloride decision leaves public health in danger - Toxic-Free Future"
+          "Mental health app may help unemployed people find jobs, six-week trial suggests - Phys.org",
+          "UMW Named to The Princeton Review’s Mental Health Honor Roll - University of Mary Washington",
+          "Legislative priorities could focus on mental health diversion, Oklahoma lawmaker says - Oklahoma Voice"
         ]
       },
       {
         "trend": "warning",
         "market_code": "QA",
         "category": "Arab Health",
-        "score": 8,
+        "score": 9,
         "examples": [
-          "Episcopal Health Services marks Lung Cancer Awareness Month by encouraging knowing warning signs and getting screened - QNS.com",
-          "Health Department issues warning to ten Michigan counties over new synthetic opioid - 9and10News.com",
-          "Auto Repair Expert Gerald Gillis Highlights Brake Health Warning Signs That Affect Driving Safety - Yahoo Finance"
-        ]
-      },
-      {
-        "trend": "health alert",
-        "market_code": "QA",
-        "category": "Arab Health",
-        "score": 8,
-        "examples": [
-          "First cold health alert of winter issued as UK temperatures to plummet - The Independent",
-          "HEALTH ALERT: Confirmed Case of Measles in Clark County - WEAU",
-          "Check your freezer. List of meats under a public health alert - Florida Today"
-        ]
-      },
-      {
-        "trend": "medicine",
-        "market_code": "QA",
-        "category": "Arab Health",
-        "score": 7,
-        "examples": [
-          "WVU Cancer Institute opens new facility at Summersville Regional Medical Center - WVU Medicine",
-          "Postpartum psychosis: Five things to know from a Stanford Medicine psychiatrist - Stanford Medicine",
-          "Postpartum psychosis: Five things to know from a Stanford Medicine psychiatrist - Stanford Medicine"
+          "Health warning issued as temperatures to plummet - BBC",
+          "Tuesday Health Report: FDA mandates warning for rare eye condition on popular GLP-1 medications - WBRZ",
+          "Episcopal Health Services marks Lung Cancer Awareness Month by encouraging knowing warning signs and getting screened - QNS.com"
         ]
       },
       {
         "trend": "measles",
         "market_code": "QA",
         "category": "Outbreaks",
-        "score": 7,
+        "score": 9,
         "examples": [
           "In case you missed it: Measles exposure at Osage hospital prompts health warning - Globe Gazette",
           "HEALTH ALERT: Confirmed Case of Measles in Clark County - WEAU",
-          "Wisconsin health officials advise early measles vaccination for some infants amid outbreak - WPR"
+          "US poised to lose measles elimination status—what does that mean? - CIDRAP"
+        ]
+      },
+      {
+        "trend": "virus",
+        "market_code": "QA",
+        "category": "Outbreaks",
+        "score": 7,
+        "examples": [
+          "WHO Health Emergencies EPI-WIN webinar: Update on the current Ebola Bundibugyo virus disease outbreak - World Health Organization (WHO)",
+          "Bird flu hits Oregon dairy herd as virus strikes Northwest - Capital Press",
+          "Flu flares in CSRA with some schools closing as virus hits early - WRDW"
+        ]
+      },
+      {
+        "trend": "world health",
+        "market_code": "QA",
+        "category": "Arab Health",
+        "score": 6,
+        "examples": [
+          "Cervical cancer - World Health Organization (WHO)",
+          "Cervical cancer - World Health Organization (WHO)",
+          "WHO Health Emergencies EPI-WIN webinar: Update on the current Ebola Bundibugyo virus disease outbreak - World Health Organization (WHO)"
         ]
       }
     ],
@@ -2553,11 +2553,11 @@
         "trend": "health",
         "market_code": "JO",
         "category": "Arab Health",
-        "score": 92,
+        "score": 97,
         "examples": [
           "Cervical cancer - World Health Organization (WHO)",
           "California announces funding for psychedelic treatment research to improve veterans’ health - California State Portal | CA.gov",
-          "Smart ring maker Oura to acquire Counsel Health for $625 million - Reuters"
+          "County Behavioral Health establishes dedicated phone line for Silver Rail families - Deschutes County, OR (.gov)"
         ]
       },
       {
@@ -2575,31 +2575,42 @@
         "trend": "cancer",
         "market_code": "JO",
         "category": "Chronic Disease",
-        "score": 17,
+        "score": 15,
         "examples": [
           "Cervical cancer - World Health Organization (WHO)",
-          "WVU Cancer Institute opens new facility at Summersville Regional Medical Center - WVU Medicine",
-          "TTUHSC’s Dr. Tyler Mouw Named Medical Director of UMC TLC² Foundation Cancer Center - KCBD"
+          "Cervical cancer - World Health Organization (WHO)",
+          "Zilber College of Public Health Seminar: Cancer Clusters – Facts and Fiction - UW-Milwaukee"
         ]
       },
       {
         "trend": "medical",
         "market_code": "JO",
         "category": "Arab Health",
-        "score": 17,
+        "score": 14,
         "examples": [
+          "Highlights from the 2026 AMA Interim Meeting - American Medical Association | AMA",
           "Hall of Famer Ham recovering from medical emergency, Penn State says - ESPN",
-          "Vikings Visit V.A. Medical Centers & Host Military Baby Shower - Minnesota Vikings",
-          "CMS Announces Distribution of Last Medicare-Supported Graduate Medical Education Residency Positions - AAMC"
+          "Medical Certification Modernization - ALPA"
+        ]
+      },
+      {
+        "trend": "public health",
+        "market_code": "JO",
+        "category": "Arab Health",
+        "score": 13,
+        "examples": [
+          "Earning Trust While Reporting on Black Lung Disease for Over a Decade - Public Health Watch",
+          "Public health report: Most school food services pass muster in October inspections - Waltham Times",
+          "Why Voting is a Public Health Issue - Columbia University Mailman School of Public Health"
         ]
       },
       {
         "trend": "mental",
         "market_code": "JO",
         "category": "Mental Health",
-        "score": 13,
+        "score": 12,
         "examples": [
-          "UMW Named to The Princeton Review’s Mental Health Honor Roll - University of Mary Washington",
+          "Mental health app may help unemployed people find jobs, six-week trial suggests - Phys.org",
           "UMW Named to The Princeton Review’s Mental Health Honor Roll - University of Mary Washington",
           "Legislative priorities could focus on mental health diversion, Oklahoma lawmaker says - Oklahoma Voice"
         ]
@@ -2608,77 +2619,66 @@
         "trend": "outbreak",
         "market_code": "JO",
         "category": "Outbreaks",
-        "score": 12,
+        "score": 10,
         "examples": [
           "Australia: Leptospirosis alert issued in the Northern Territory - Outbreak News Today",
           "WHO Health Emergencies EPI-WIN webinar: Update on the current Ebola Bundibugyo virus disease outbreak - World Health Organization (WHO)",
-          "CDC declares its probe into outbreak of E coli, Salmonella illnesses tied to alfalfa sprouts over - CIDRAP"
+          "Ebola Outbreak, DRC and Region, Situation Report #15 (November 10, 2026) - ReliefWeb"
         ]
       },
       {
         "trend": "mental health",
         "market_code": "JO",
         "category": "Mental Health",
-        "score": 11,
-        "examples": [
-          "UMW Named to The Princeton Review’s Mental Health Honor Roll - University of Mary Washington",
-          "UMW Named to The Princeton Review’s Mental Health Honor Roll - University of Mary Washington",
-          "Legislative priorities could focus on mental health diversion, Oklahoma lawmaker says - Oklahoma Voice"
-        ]
-      },
-      {
-        "trend": "public health",
-        "market_code": "JO",
-        "category": "Arab Health",
         "score": 10,
         "examples": [
-          "Zilber College of Public Health Seminar: Cancer Clusters – Facts and Fiction - UW-Milwaukee",
-          "The U.S. could lose a decades-old public health achievement - The Washington Post",
-          "Court’s methylene chloride decision leaves public health in danger - Toxic-Free Future"
+          "Mental health app may help unemployed people find jobs, six-week trial suggests - Phys.org",
+          "UMW Named to The Princeton Review’s Mental Health Honor Roll - University of Mary Washington",
+          "Legislative priorities could focus on mental health diversion, Oklahoma lawmaker says - Oklahoma Voice"
         ]
       },
       {
         "trend": "warning",
         "market_code": "JO",
         "category": "Arab Health",
-        "score": 8,
+        "score": 9,
         "examples": [
-          "Episcopal Health Services marks Lung Cancer Awareness Month by encouraging knowing warning signs and getting screened - QNS.com",
-          "Health Department issues warning to ten Michigan counties over new synthetic opioid - 9and10News.com",
-          "Auto Repair Expert Gerald Gillis Highlights Brake Health Warning Signs That Affect Driving Safety - Yahoo Finance"
-        ]
-      },
-      {
-        "trend": "health alert",
-        "market_code": "JO",
-        "category": "Arab Health",
-        "score": 8,
-        "examples": [
-          "First cold health alert of winter issued as UK temperatures to plummet - The Independent",
-          "HEALTH ALERT: Confirmed Case of Measles in Clark County - WEAU",
-          "Check your freezer. List of meats under a public health alert - Florida Today"
-        ]
-      },
-      {
-        "trend": "medicine",
-        "market_code": "JO",
-        "category": "Arab Health",
-        "score": 7,
-        "examples": [
-          "WVU Cancer Institute opens new facility at Summersville Regional Medical Center - WVU Medicine",
-          "Postpartum psychosis: Five things to know from a Stanford Medicine psychiatrist - Stanford Medicine",
-          "Postpartum psychosis: Five things to know from a Stanford Medicine psychiatrist - Stanford Medicine"
+          "Health warning issued as temperatures to plummet - BBC",
+          "Tuesday Health Report: FDA mandates warning for rare eye condition on popular GLP-1 medications - WBRZ",
+          "Episcopal Health Services marks Lung Cancer Awareness Month by encouraging knowing warning signs and getting screened - QNS.com"
         ]
       },
       {
         "trend": "measles",
         "market_code": "JO",
         "category": "Outbreaks",
-        "score": 7,
+        "score": 9,
         "examples": [
           "In case you missed it: Measles exposure at Osage hospital prompts health warning - Globe Gazette",
           "HEALTH ALERT: Confirmed Case of Measles in Clark County - WEAU",
-          "Wisconsin health officials advise early measles vaccination for some infants amid outbreak - WPR"
+          "US poised to lose measles elimination status—what does that mean? - CIDRAP"
+        ]
+      },
+      {
+        "trend": "virus",
+        "market_code": "JO",
+        "category": "Outbreaks",
+        "score": 7,
+        "examples": [
+          "WHO Health Emergencies EPI-WIN webinar: Update on the current Ebola Bundibugyo virus disease outbreak - World Health Organization (WHO)",
+          "Bird flu hits Oregon dairy herd as virus strikes Northwest - Capital Press",
+          "Flu flares in CSRA with some schools closing as virus hits early - WRDW"
+        ]
+      },
+      {
+        "trend": "world health",
+        "market_code": "JO",
+        "category": "Arab Health",
+        "score": 6,
+        "examples": [
+          "Cervical cancer - World Health Organization (WHO)",
+          "Cervical cancer - World Health Organization (WHO)",
+          "WHO Health Emergencies EPI-WIN webinar: Update on the current Ebola Bundibugyo virus disease outbreak - World Health Organization (WHO)"
         ]
       }
     ],
@@ -2687,11 +2687,11 @@
         "trend": "health",
         "market_code": "LB",
         "category": "Arab Health",
-        "score": 92,
+        "score": 97,
         "examples": [
           "Cervical cancer - World Health Organization (WHO)",
           "California announces funding for psychedelic treatment research to improve veterans’ health - California State Portal | CA.gov",
-          "Smart ring maker Oura to acquire Counsel Health for $625 million - Reuters"
+          "County Behavioral Health establishes dedicated phone line for Silver Rail families - Deschutes County, OR (.gov)"
         ]
       },
       {
@@ -2709,31 +2709,42 @@
         "trend": "cancer",
         "market_code": "LB",
         "category": "Chronic Disease",
-        "score": 17,
+        "score": 15,
         "examples": [
           "Cervical cancer - World Health Organization (WHO)",
-          "WVU Cancer Institute opens new facility at Summersville Regional Medical Center - WVU Medicine",
-          "TTUHSC’s Dr. Tyler Mouw Named Medical Director of UMC TLC² Foundation Cancer Center - KCBD"
+          "Cervical cancer - World Health Organization (WHO)",
+          "Zilber College of Public Health Seminar: Cancer Clusters – Facts and Fiction - UW-Milwaukee"
         ]
       },
       {
         "trend": "medical",
         "market_code": "LB",
         "category": "Arab Health",
-        "score": 17,
+        "score": 14,
         "examples": [
+          "Highlights from the 2026 AMA Interim Meeting - American Medical Association | AMA",
           "Hall of Famer Ham recovering from medical emergency, Penn State says - ESPN",
-          "Vikings Visit V.A. Medical Centers & Host Military Baby Shower - Minnesota Vikings",
-          "CMS Announces Distribution of Last Medicare-Supported Graduate Medical Education Residency Positions - AAMC"
+          "Medical Certification Modernization - ALPA"
+        ]
+      },
+      {
+        "trend": "public health",
+        "market_code": "LB",
+        "category": "Arab Health",
+        "score": 13,
+        "examples": [
+          "Earning Trust While Reporting on Black Lung Disease for Over a Decade - Public Health Watch",
+          "Public health report: Most school food services pass muster in October inspections - Waltham Times",
+          "Why Voting is a Public Health Issue - Columbia University Mailman School of Public Health"
         ]
       },
       {
         "trend": "mental",
         "market_code": "LB",
         "category": "Mental Health",
-        "score": 13,
+        "score": 12,
         "examples": [
-          "UMW Named to The Princeton Review’s Mental Health Honor Roll - University of Mary Washington",
+          "Mental health app may help unemployed people find jobs, six-week trial suggests - Phys.org",
           "UMW Named to The Princeton Review’s Mental Health Honor Roll - University of Mary Washington",
           "Legislative priorities could focus on mental health diversion, Oklahoma lawmaker says - Oklahoma Voice"
         ]
@@ -2742,77 +2753,66 @@
         "trend": "outbreak",
         "market_code": "LB",
         "category": "Outbreaks",
-        "score": 12,
+        "score": 10,
         "examples": [
           "Australia: Leptospirosis alert issued in the Northern Territory - Outbreak News Today",
           "WHO Health Emergencies EPI-WIN webinar: Update on the current Ebola Bundibugyo virus disease outbreak - World Health Organization (WHO)",
-          "CDC declares its probe into outbreak of E coli, Salmonella illnesses tied to alfalfa sprouts over - CIDRAP"
+          "Ebola Outbreak, DRC and Region, Situation Report #15 (November 10, 2026) - ReliefWeb"
         ]
       },
       {
         "trend": "mental health",
         "market_code": "LB",
         "category": "Mental Health",
-        "score": 11,
-        "examples": [
-          "UMW Named to The Princeton Review’s Mental Health Honor Roll - University of Mary Washington",
-          "UMW Named to The Princeton Review’s Mental Health Honor Roll - University of Mary Washington",
-          "Legislative priorities could focus on mental health diversion, Oklahoma lawmaker says - Oklahoma Voice"
-        ]
-      },
-      {
-        "trend": "public health",
-        "market_code": "LB",
-        "category": "Arab Health",
         "score": 10,
         "examples": [
-          "Zilber College of Public Health Seminar: Cancer Clusters – Facts and Fiction - UW-Milwaukee",
-          "The U.S. could lose a decades-old public health achievement - The Washington Post",
-          "Court’s methylene chloride decision leaves public health in danger - Toxic-Free Future"
+          "Mental health app may help unemployed people find jobs, six-week trial suggests - Phys.org",
+          "UMW Named to The Princeton Review’s Mental Health Honor Roll - University of Mary Washington",
+          "Legislative priorities could focus on mental health diversion, Oklahoma lawmaker says - Oklahoma Voice"
         ]
       },
       {
         "trend": "warning",
         "market_code": "LB",
         "category": "Arab Health",
-        "score": 8,
+        "score": 9,
         "examples": [
-          "Episcopal Health Services marks Lung Cancer Awareness Month by encouraging knowing warning signs and getting screened - QNS.com",
-          "Health Department issues warning to ten Michigan counties over new synthetic opioid - 9and10News.com",
-          "Auto Repair Expert Gerald Gillis Highlights Brake Health Warning Signs That Affect Driving Safety - Yahoo Finance"
-        ]
-      },
-      {
-        "trend": "health alert",
-        "market_code": "LB",
-        "category": "Arab Health",
-        "score": 8,
-        "examples": [
-          "First cold health alert of winter issued as UK temperatures to plummet - The Independent",
-          "HEALTH ALERT: Confirmed Case of Measles in Clark County - WEAU",
-          "Check your freezer. List of meats under a public health alert - Florida Today"
-        ]
-      },
-      {
-        "trend": "medicine",
-        "market_code": "LB",
-        "category": "Arab Health",
-        "score": 7,
-        "examples": [
-          "WVU Cancer Institute opens new facility at Summersville Regional Medical Center - WVU Medicine",
-          "Postpartum psychosis: Five things to know from a Stanford Medicine psychiatrist - Stanford Medicine",
-          "Postpartum psychosis: Five things to know from a Stanford Medicine psychiatrist - Stanford Medicine"
+          "Health warning issued as temperatures to plummet - BBC",
+          "Tuesday Health Report: FDA mandates warning for rare eye condition on popular GLP-1 medications - WBRZ",
+          "Episcopal Health Services marks Lung Cancer Awareness Month by encouraging knowing warning signs and getting screened - QNS.com"
         ]
       },
       {
         "trend": "measles",
         "market_code": "LB",
         "category": "Outbreaks",
-        "score": 7,
+        "score": 9,
         "examples": [
           "In case you missed it: Measles exposure at Osage hospital prompts health warning - Globe Gazette",
           "HEALTH ALERT: Confirmed Case of Measles in Clark County - WEAU",
-          "Wisconsin health officials advise early measles vaccination for some infants amid outbreak - WPR"
+          "US poised to lose measles elimination status—what does that mean? - CIDRAP"
+        ]
+      },
+      {
+        "trend": "virus",
+        "market_code": "LB",
+        "category": "Outbreaks",
+        "score": 7,
+        "examples": [
+          "WHO Health Emergencies EPI-WIN webinar: Update on the current Ebola Bundibugyo virus disease outbreak - World Health Organization (WHO)",
+          "Bird flu hits Oregon dairy herd as virus strikes Northwest - Capital Press",
+          "Flu flares in CSRA with some schools closing as virus hits early - WRDW"
+        ]
+      },
+      {
+        "trend": "world health",
+        "market_code": "LB",
+        "category": "Arab Health",
+        "score": 6,
+        "examples": [
+          "Cervical cancer - World Health Organization (WHO)",
+          "Cervical cancer - World Health Organization (WHO)",
+          "WHO Health Emergencies EPI-WIN webinar: Update on the current Ebola Bundibugyo virus disease outbreak - World Health Organization (WHO)"
         ]
       }
     ]
